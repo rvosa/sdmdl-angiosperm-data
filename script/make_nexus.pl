@@ -41,14 +41,14 @@ my $query = "select * from $f where $state is not null order by allmb_name";
 INFO "Going to run query '$query'";
 my $sth = $dbh->prepare($query);
 $sth->execute();
-my ( $counter, %label ) = ( 0 );
+my ( $counter, %label, %family ) = ( 0 );
 while( my $row = $sth->fetchrow_hashref() ) {
 	
 	# create taxon and data record
 	my $char  = $label{ $row->{$state} } // ( $label{ $row->{$state} } = $counter++ );
 	my $taxon = $fac->create_taxon( 
-		'-name'  => $row->{allmb_name},
-		'-link'  => 'http://gbif.org/species/' . $row->{gbif_species_key},
+		'-name'    => $row->{allmb_name},
+		'-link'    => 'http://gbif.org/species/' . $row->{gbif_species_key},
 	);
 	my $datum = $fac->create_datum(
 		'-type'  => 'standard',
@@ -58,9 +58,24 @@ while( my $row = $sth->fetchrow_hashref() ) {
 	);
 	$taxa->insert($taxon);
 	$data->insert($datum);
+	
+	# add taxon to family
+	my $famname = $row->{family};
+	my $fam = $family{$famname} || [];
+	push @$fam, $taxon;
+	$family{$famname} = $fam;
+	
 	DEBUG sprintf("Created taxon %s with state %s", $taxon->get_name, $char);
 }
-$data->set_statelabels( [ [ map { "'$_'" } sort { $label{$a} <=> $label{$b} } keys %label ] ] );
+$data->set_statelabels( 
+	[ 
+		[ 
+			 map { "'$_'" } 
+			sort { $label{$a} <=> $label{$b} } 
+			keys %label 		
+		] 	
+	] 
+);
 
 # build tree
 INFO "Going to extract subtree from $db";
@@ -74,6 +89,16 @@ for my $tip ( @{ $tree->get_terminals } ) {
 }
 $forest->insert($tree->set_name('https://doi.org/10.1002/ajb2.1019 - ALLMB.tre@v0.1'));
 
+$_->set_name('') for @{ $tree->get_internals };
+
+# label nodes by family
+for my $famname ( keys %family ) {
+	my @tips = map { $_->get_nodes->[0] } @{ $family{$famname} };
+	no warnings 'recursion';
+	my $mrca = $tree->get_mrca(\@tips);
+	$mrca->set_name($famname) if $mrca->is_internal;
+}
+
 # write nexus
 INFO "Going to write nexus";
-print $proj->to_nexus( '-statelabels' => 1 );
+print $proj->to_nexus( '-statelabels' => 1, '-nodelabels' => 1 );
