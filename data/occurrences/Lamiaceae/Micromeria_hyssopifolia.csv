@@ -1,6 +1,6 @@
-taxon_name,gbif_id,decimal_longitude,decimal_latitude
-Micromeria_hyssopifolia,1935703467,-16.48472,28.35361
-Micromeria_hyssopifolia,1434679788,-16.760556,28.217778
-Micromeria_hyssopifolia,2291938377,-16.816667,28.25
-Micromeria_hyssopifolia,30880110,-16.530001,28.290001
-Micromeria_hyssopifolia,2288290598,-16.583333,28.383333
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+1935703467,Micromeria_hyssopifolia,28.35361,-16.48472
+1434679788,Micromeria_hyssopifolia,28.217778,-16.760556
+2291938377,Micromeria_hyssopifolia,28.25,-16.816667
+30880110,Micromeria_hyssopifolia,28.290001,-16.530001
+2288290598,Micromeria_hyssopifolia,28.383333,-16.583333

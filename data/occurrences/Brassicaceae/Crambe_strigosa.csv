@@ -1,8 +1,8 @@
-taxon_name,gbif_id,decimal_longitude,decimal_latitude
-Crambe_strigosa,30859472,-16.23,28.469999
-Crambe_strigosa,30858822,-15.81,27.84
-Crambe_strigosa,1851583998,-16.18,28.52
-Crambe_strigosa,1947413379,-16.713333,28.126667
-Crambe_strigosa,2291951612,-17.166667,28.083333
-Crambe_strigosa,2289491125,-17.116667,28.133333
-Crambe_strigosa,2290085918,-17.166667,28.1
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+30859472,Crambe_strigosa,28.469999,-16.23
+30858822,Crambe_strigosa,27.84,-15.81
+1851583998,Crambe_strigosa,28.52,-16.18
+1947413379,Crambe_strigosa,28.126667,-16.713333
+2291951612,Crambe_strigosa,28.083333,-17.166667
+2289491125,Crambe_strigosa,28.133333,-17.116667
+2290085918,Crambe_strigosa,28.1,-17.166667

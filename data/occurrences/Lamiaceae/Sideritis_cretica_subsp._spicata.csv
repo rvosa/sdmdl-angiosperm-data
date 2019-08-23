@@ -1,7 +1,7 @@
-taxon_name,gbif_id,decimal_latitude,decimal_longitude
-Sideritis_cretica_subsp._spicata,439776907,28.1811,-17.2028
-Sideritis_cretica_subsp._spicata,1848999163,28.07222,-17.14389
-Sideritis_cretica_subsp._spicata,1702039577,28.3599,-16.8724
-Sideritis_cretica_subsp._spicata,1050614621,28.33,-16.89
-Sideritis_cretica_subsp._spicata,1585882558,28.393611,-16.649444
-Sideritis_cretica_subsp._spicata,2291933204,28.133333,-17.116667
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+439776907,Sideritis_cretica_subsp._spicata,28.1811,-17.2028
+1848999163,Sideritis_cretica_subsp._spicata,28.07222,-17.14389
+1702039577,Sideritis_cretica_subsp._spicata,28.3599,-16.8724
+1050614621,Sideritis_cretica_subsp._spicata,28.33,-16.89
+1585882558,Sideritis_cretica_subsp._spicata,28.393611,-16.649444
+2291933204,Sideritis_cretica_subsp._spicata,28.133333,-17.116667

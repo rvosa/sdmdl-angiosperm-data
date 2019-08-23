@@ -1,7 +1,7 @@
-decimal_longitude,decimal_latitude,gbif_id,taxon_name
-115.434444,39.955,1998820280,Erysimum_perofskianum
--76.969556,38.911386,1930947693,Erysimum_perofskianum
--74.201256,40.846211,1930433442,Erysimum_perofskianum
-103.891767,36.519977,1055536741,Erysimum_perofskianum
-108.861296,35.157691,1056478062,Erysimum_perofskianum
-116.360506,40.172397,1056155876,Erysimum_perofskianum
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+1998820280,Erysimum_perofskianum,39.955,115.434444
+1930947693,Erysimum_perofskianum,38.911386,-76.969556
+1930433442,Erysimum_perofskianum,40.846211,-74.201256
+1055536741,Erysimum_perofskianum,36.519977,103.891767
+1056478062,Erysimum_perofskianum,35.157691,108.861296
+1056155876,Erysimum_perofskianum,40.172397,116.360506

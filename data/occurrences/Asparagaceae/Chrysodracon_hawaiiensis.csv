@@ -1,6 +1,6 @@
-decimal_latitude,decimal_longitude,taxon_name,gbif_id
-19.77,-155.92,Chrysodracon_hawaiiensis,1317831813
-19.016667,-155.8,Chrysodracon_hawaiiensis,2287876707
-19.7833,-155.85,Chrysodracon_hawaiiensis,38134237
-19.69,-155.53,Chrysodracon_hawaiiensis,1144668524
-19.8,-155.833,Chrysodracon_hawaiiensis,38132893
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+1317831813,Chrysodracon_hawaiiensis,19.77,-155.92
+2287876707,Chrysodracon_hawaiiensis,19.016667,-155.8
+38134237,Chrysodracon_hawaiiensis,19.7833,-155.85
+1144668524,Chrysodracon_hawaiiensis,19.69,-155.53
+38132893,Chrysodracon_hawaiiensis,19.8,-155.833

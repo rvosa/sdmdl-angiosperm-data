@@ -1,4 +1,4 @@
-taxon_name,gbif_id,decimal_longitude,decimal_latitude
-Acanthoprasium_frutescens,2244174236,6.9375,43.881939
-Acanthoprasium_frutescens,1671641513,7.581197,43.900945
-Acanthoprasium_frutescens,296425060,7.549167,43.993333
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+2244174236,Acanthoprasium_frutescens,43.881939,6.9375
+1671641513,Acanthoprasium_frutescens,43.900945,7.581197
+296425060,Acanthoprasium_frutescens,43.993333,7.549167

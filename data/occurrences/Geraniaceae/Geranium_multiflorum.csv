@@ -1,5 +1,5 @@
-decimal_latitude,decimal_longitude,taxon_name,gbif_id
-20.7475,-156.12,Geranium_multiflorum,1090172817
-20.6859,-156.314,Geranium_multiflorum,1320183878
-19.69,-155.53,Geranium_multiflorum,1144688163
-19.5,-155.5,Geranium_multiflorum,1228503577
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+1090172817,Geranium_multiflorum,20.7475,-156.12
+1320183878,Geranium_multiflorum,20.6859,-156.314
+1144688163,Geranium_multiflorum,19.69,-155.53
+1228503577,Geranium_multiflorum,19.5,-155.5

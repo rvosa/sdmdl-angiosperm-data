@@ -1,2 +1,2 @@
-taxon_name,gbif_id,decimal_longitude,decimal_latitude
-Monarrhenus_salicifolius,1096711567,55.35,-20.92
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+1096711567,Monarrhenus_salicifolius,-20.92,55.35

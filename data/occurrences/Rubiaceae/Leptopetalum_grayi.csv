@@ -1,4 +1,4 @@
-decimal_latitude,decimal_longitude,taxon_name,gbif_id
-27.373154,142.11049,Leptopetalum_grayi,729260351
-27.403839,142.08284,Leptopetalum_grayi,729260350
-27.403625,142.08322,Leptopetalum_grayi,729260354
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+729260351,Leptopetalum_grayi,27.373154,142.11049
+729260350,Leptopetalum_grayi,27.403839,142.08284
+729260354,Leptopetalum_grayi,27.403625,142.08322

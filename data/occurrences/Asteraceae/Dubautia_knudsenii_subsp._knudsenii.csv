@@ -1,7 +1,7 @@
-decimal_longitude,decimal_latitude,gbif_id,taxon_name
--159.493,22.0625,1322343280,Dubautia_knudsenii_subsp._knudsenii
--159.65,22.14,1320881176,Dubautia_knudsenii_subsp._knudsenii
--159.393,22.1097,2235777506,Dubautia_knudsenii_subsp._knudsenii
--159.39,22.12,1456402634,Dubautia_knudsenii_subsp._knudsenii
--159.511,22.1006,1320329520,Dubautia_knudsenii_subsp._knudsenii
--159.487,22.042,1320737329,Dubautia_knudsenii_subsp._knudsenii
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+1322343280,Dubautia_knudsenii_subsp._knudsenii,22.0625,-159.493
+1320881176,Dubautia_knudsenii_subsp._knudsenii,22.14,-159.65
+2235777506,Dubautia_knudsenii_subsp._knudsenii,22.1097,-159.393
+1456402634,Dubautia_knudsenii_subsp._knudsenii,22.12,-159.39
+1320329520,Dubautia_knudsenii_subsp._knudsenii,22.1006,-159.511
+1320737329,Dubautia_knudsenii_subsp._knudsenii,22.042,-159.487

@@ -1,6 +1,6 @@
-taxon_name,gbif_id,decimal_latitude,decimal_longitude
-Karelinia_caspia,615338978,37.1,80.85
-Karelinia_caspia,615338979,37.03,80.72
-Karelinia_caspia,615338951,36.57,67.8
-Karelinia_caspia,1303608774,38.624406,103.093772
-Karelinia_caspia,1303608078,43.810314,87.605163
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+615338978,Karelinia_caspia,37.1,80.85
+615338979,Karelinia_caspia,37.03,80.72
+615338951,Karelinia_caspia,36.57,67.8
+1303608774,Karelinia_caspia,38.624406,103.093772
+1303608078,Karelinia_caspia,43.810314,87.605163

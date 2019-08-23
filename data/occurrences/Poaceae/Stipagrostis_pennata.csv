@@ -1,8 +1,8 @@
-decimal_longitude,decimal_latitude,taxon_name,gbif_id
-47.93,47.1,Stipagrostis_pennata,895168476
-45.316667,33.55,Stipagrostis_pennata,574788853
-57.483333,33.9,Stipagrostis_pennata,575024515
-58.85,34.98333,Stipagrostis_pennata,1849005144
-56.05,33.35,Stipagrostis_pennata,575205787
-57.48,33.9,Stipagrostis_pennata,317826955
-65.783333,31.6,Stipagrostis_pennata,575251162
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+895168476,Stipagrostis_pennata,47.1,47.93
+574788853,Stipagrostis_pennata,33.55,45.316667
+575024515,Stipagrostis_pennata,33.9,57.483333
+1849005144,Stipagrostis_pennata,34.98333,58.85
+575205787,Stipagrostis_pennata,33.35,56.05
+317826955,Stipagrostis_pennata,33.9,57.48
+575251162,Stipagrostis_pennata,31.6,65.783333

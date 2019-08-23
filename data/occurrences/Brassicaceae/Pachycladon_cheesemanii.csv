@@ -1,4 +1,4 @@
-gbif_id,taxon_name,decimal_longitude,decimal_latitude
-1091278572,Pachycladon_cheesemanii,168.963333,-44.633333
-1091140689,Pachycladon_cheesemanii,168.766666,-45.133333
-1091190968,Pachycladon_cheesemanii,171.8243,-43.192564
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+1091278572,Pachycladon_cheesemanii,-44.633333,168.963333
+1091140689,Pachycladon_cheesemanii,-45.133333,168.766666
+1091190968,Pachycladon_cheesemanii,-43.192564,171.8243

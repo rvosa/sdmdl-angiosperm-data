@@ -20,8 +20,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806447700,Juncus_arcticus_subsp._arcticus,67.441833,-115.651194
 2235985210,Juncus_arcticus_subsp._arcticus,67.4418,-67.6512
 1978801798,Juncus_arcticus_subsp._arcticus,67.441667,-67.651111
-1806447738,Juncus_arcticus_subsp._arcticus,67.744472,-115.368028
 1806445597,Juncus_arcticus_subsp._arcticus,67.824778,-115.017556
+1806447738,Juncus_arcticus_subsp._arcticus,67.744472,-115.368028
 1806447527,Juncus_arcticus_subsp._arcticus,67.740889,-115.382778
 2242421972,Juncus_arcticus_subsp._arcticus,39.5598,-105.0795
 1600239066,Juncus_arcticus_subsp._arcticus,67.514971,29.590501
@@ -485,8 +485,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146360941,Juncus_arcticus_subsp._arcticus,60.45,-145.88
 1146391326,Juncus_arcticus_subsp._arcticus,64.83,-147.5
 1323741599,Juncus_arcticus_subsp._arcticus,68.6518,17.893
-1146237170,Juncus_arcticus_subsp._arcticus,69.7997725426848,-144.836224817563
 1323741682,Juncus_arcticus_subsp._arcticus,69.4192,23.6132
+1146237170,Juncus_arcticus_subsp._arcticus,69.7997725426848,-144.836224817563
 1929146100,Juncus_arcticus_subsp._arcticus,39.7026,-111.1814
 1323741672,Juncus_arcticus_subsp._arcticus,69.6088,23.5336
 1701250915,Juncus_arcticus_subsp._arcticus,61.8665,8.7624

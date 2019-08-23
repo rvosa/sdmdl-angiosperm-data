@@ -1,4 +1,4 @@
-gbif_id,taxon_name,decimal_longitude,decimal_latitude
-462047144,Lithops_karasmontana_var._karasmontana,18.375,-27.875
-462047143,Lithops_karasmontana_var._karasmontana,16.375,-26.625
-462047142,Lithops_karasmontana_var._karasmontana,16.125,-26.625
+gbif_id,taxon_name,decimal_latitude,decimal_longitude
+462047144,Lithops_karasmontana_var._karasmontana,-27.875,18.375
+462047143,Lithops_karasmontana_var._karasmontana,-26.625,16.375
+462047142,Lithops_karasmontana_var._karasmontana,-26.625,16.125
