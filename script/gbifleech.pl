@@ -36,12 +36,19 @@ while( my $row = $sth->fetchrow_hashref() ) {
 	if ( not -e $file ) {
 		my @occ = occurrences_for_species( $row );
 		if ( @occ ) {
-			INFO "Going to write ".scalar(@occ)." occurrences to file";
+			INFO "Going to write ".scalar(@occ)." occurrences to $file";
 			mkdir $dir if not -d $dir;
-			csv(
-				'in'  => \@occ,
-				'out' => $file,
-			);
+			
+			# write by hand for better control:			
+			open my $out, '>', $file or die $!;
+			my @header = qw(gbif_id taxon_name decimal_latitude decimal_longitude);			
+			print $out join(',',@header), "\n";
+			for my $o ( @occ ) {
+				my %h = %$o;
+				my @v = @h{@header};
+				print $out join(',',@v),"\n";
+			}
+			close $out;
 		}
 		else {
 			WARN "Fetched 0 occurrences";
