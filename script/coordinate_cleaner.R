@@ -53,8 +53,8 @@ write.csv(
         clean,
         gbif_id,
         taxon_name = species,
-        decimal_longitude = decimallongitude,
-        decimal_latitude = decimallatitude
+        decimal_latitude = decimallatitude,        
+        decimal_longitude = decimallongitude
     ), 
     file = opt$output, 
     quote = FALSE, 
