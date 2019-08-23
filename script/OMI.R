@@ -8,6 +8,7 @@ library(cluster, quietly = T)
 library(ape, quietly=T)
 library(adehabitatMA, quietly=T)
 library(optparse)
+library(yaml)
 
 # process command line arguments
 taxa.names.file # list of taxon names, one per line
