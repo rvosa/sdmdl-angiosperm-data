@@ -1,0 +1,54 @@
+# This GIS data are organized as data sets defined by their resolution in arcminutes
+# (e.g. 5, or 10) followed by a list of key/value pairs where the key is the shorthand
+# name for the layer (which may show up in various reporting contexts) and the value
+# is the absolute file location. The indentation must be retained exactly as it is given
+# in this example file.
+gis_data:
+- resolution: 5
+  files:
+  - Aspect: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/Aspect_5deg.tif
+  - BulkDensity: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/BulkDensity_5min.tif
+  - ClayPercentage: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/ClayPercentage_5min.tif
+  - annualPET: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_annualPET.tif
+  - aridityIndexThornthwaite: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_aridityIndexThornthwaite.tif
+  - climaticMoistureIndex: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_climaticMoistureIndex.tif
+  - continentality: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_continentality.tif
+  - embergerQ: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_embergerQ.tif
+  - growingDegDays0: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_growingDegDays0.tif
+  - growingDegDays5: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_growingDegDays5.tif
+  - maxTempColdest: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_maxTempColdest.tif
+  - minTempWarmest: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_minTempWarmest.tif
+  - monthCountByTemp10: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_monthCountByTemp10.tif
+  - PETColdestQuarter: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_PETColdestQuarter.tif
+  - PETDriestQuarter: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_PETDriestQuarter.tif
+  - PETseasonality: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_PETseasonality.tif
+  - PETWarmestQuarter: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_PETWarmestQuarter.tif
+  - PETWettestQuarter: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_PETWettestQuarter.tif
+  - thermicityIndex: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/current_5arcmin_thermicityIndex.tif
+  - OrganicCarbon: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/OrganicCarbon_5min.tif
+  - PhCaCL: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/PhCaCL_5min.tif
+  - Slope: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/5_deg/Slope_5deg.tif
+- resolution: 10
+  files: 
+  - Aspect: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/Aspect_10deg.tif
+  - BulkDensity: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/BulkDensity_10min.tif
+  - ClayPercentage: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/ClayPercentage_10min.tif
+  - annualPET: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_annualPET.tif
+  - aridityIndexThornthwaite: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_aridityIndexThornthwaite.tif
+  - climaticMoistureIndex: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_climaticMoistureIndex.tif
+  - continentality: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_continentality.tif
+  - embergerQ: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_embergerQ.tif
+  - growingDegDays0: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_growingDegDays0.tif
+  - growingDegDays5: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_growingDegDays5.tif
+  - maxTempColdest: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_maxTempColdest.tif
+  - minTempWarmest: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_minTempWarmest.tif
+  - monthCountByTemp10: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_monthCountByTemp10.tif
+  - PETColdestQuarter: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_PETColdestQuarter.tif
+  - PETDriestQuarter: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_PETDriestQuarter.tif
+  - PETseasonality: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_PETseasonality.tif
+  - PETWarmestQuarter: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_PETWarmestQuarter.tif
+  - PETWettestQuarter: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_PETWettestQuarter.tif
+  - thermicityIndex: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/current_10arcmin_thermicityIndex.tif
+  - OrganicCarbon: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/OrganicCarbon_10min.tif
+  - PhCaCL: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/PhCaCL_10min.tif
+  - Slope: /Users/rutger.vos/Documents/local-projects/trait-geo-diverse-ungulates/data/GIS/10_deg/slope_10deg.tif
