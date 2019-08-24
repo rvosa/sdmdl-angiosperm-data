@@ -81,13 +81,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291972197,Pelargonium_luridum,-13.154444,30.701944
 616304504,Pelargonium_luridum,-31.125,27.625
 616304495,Pelargonium_luridum,-28.625,32.125
-2005485789,Pelargonium_luridum,-28.616667,32.2
 1258331990,Pelargonium_luridum,-8.56666,31.48333
 2005464154,Pelargonium_luridum,-29.625,30.375
-1258337191,Pelargonium_luridum,-9.18333,33.3
 462145627,Pelargonium_luridum,-27.125,32.625
-1258331213,Pelargonium_luridum,-8.78333,33.3
-2290256019,Pelargonium_luridum,-8.783333,33.3
 462145528,Pelargonium_luridum,-28.625,28.625
 462145475,Pelargonium_luridum,-26.125,30.375
 1261468505,Pelargonium_luridum,-8.83333,33.33333
@@ -147,7 +143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462145072,Pelargonium_luridum,-22.875,30.375
 462145076,Pelargonium_luridum,-24.875,30.625
 462145069,Pelargonium_luridum,-25.625,30.375
-2288409237,Pelargonium_luridum,-25.95,32
 462145073,Pelargonium_luridum,-26.625,28.125
 462145611,Pelargonium_luridum,-28.375,29.375
 462145466,Pelargonium_luridum,-26.125,31.875
@@ -181,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462145138,Pelargonium_luridum,-25.625,27.625
 616304426,Pelargonium_luridum,-26.875,32.125
 1989824179,Pelargonium_luridum,-19.875,32.875
-2289605843,Pelargonium_luridum,-9.1,33.9
 462145472,Pelargonium_luridum,-26.875,28.625
 462145241,Pelargonium_luridum,-28.375,31.125
 462145469,Pelargonium_luridum,-29.125,29.375
