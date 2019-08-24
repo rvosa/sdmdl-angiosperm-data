@@ -85,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701253340,Juncus_conglomeratus,62.9786,7.2983
 199484531,Juncus_conglomeratus,36.57337,-5.43128
 1342601187,Juncus_conglomeratus,55.45374,8.864328
-1697433441,Juncus_conglomeratus,51.166667,40.3
 1701965694,Juncus_conglomeratus,63.0542,8.2395
 1842852116,Juncus_conglomeratus,40.95008,-8.08177
 1253403688,Juncus_conglomeratus,51.896744,12.996364
@@ -207,7 +206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788829806,Juncus_conglomeratus,56.25729,13.55826
 1258143137,Juncus_conglomeratus,48.193056,16.200278
 1701629752,Juncus_conglomeratus,60.7819,10.8961
-1050624089,Juncus_conglomeratus,41.73,-1.8
 1323735006,Juncus_conglomeratus,69.701,30.0145
 186815539,Juncus_conglomeratus,58.2853,7.3534
 187184659,Juncus_conglomeratus,63.6696,12.0794
@@ -290,10 +288,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701923189,Juncus_conglomeratus,59.8242,10.0968
 1702418891,Juncus_conglomeratus,59.851,10.1155
 1598895722,Juncus_conglomeratus,60.460821,25.451082
-1500200016,Juncus_conglomeratus,49.183333,13.8
 1598895702,Juncus_conglomeratus,60.879272,26.182133
 858347411,Juncus_conglomeratus,54.0485,13.415
-1500200001,Juncus_conglomeratus,50.65,15.3
 1701904789,Juncus_conglomeratus,59.7323,10.325
 1702256762,Juncus_conglomeratus,59.9719,11.6963
 1831254315,Juncus_conglomeratus,53.6485,12.7484
@@ -315,7 +311,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144705066,Juncus_conglomeratus,42.08333,9.06667
 1598895709,Juncus_conglomeratus,60.983211,24.592362
 1598895708,Juncus_conglomeratus,61.006587,24.544355
-860316471,Juncus_conglomeratus,36.8,-5.41
 1697771893,Juncus_conglomeratus,44.108041,39.04241
 1936422959,Juncus_conglomeratus,42.5311,-7.5403
 788794822,Juncus_conglomeratus,58.43235,16.588779
@@ -330,9 +325,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204430440,Juncus_conglomeratus,43.202999,-1.48
 1144705076,Juncus_conglomeratus,41.46667,9.26667
 1705345445,Juncus_conglomeratus,57.365634,15.805216
-1144705069,Juncus_conglomeratus,41.6,9.15
 1701312486,Juncus_conglomeratus,63.9231,9.9226
-1144705058,Juncus_conglomeratus,41.6,9.28333
 1144705075,Juncus_conglomeratus,41.48333,9.23333
 788463956,Juncus_conglomeratus,57.122656,16.264726
 187185064,Juncus_conglomeratus,64.6009,10.8911
@@ -348,7 +341,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57701558,Juncus_conglomeratus,62.223,25.795
 1705438920,Juncus_conglomeratus,57.471896,15.030219
 1144705084,Juncus_conglomeratus,42.21667,8.95
-1050589249,Juncus_conglomeratus,43.19,-2
 318222382,Juncus_conglomeratus,58.7846,6.0979
 1936401563,Juncus_conglomeratus,42.9934,-1.1244
 1598895680,Juncus_conglomeratus,63.089587,21.580852
@@ -369,7 +361,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323766513,Juncus_conglomeratus,65.8549,12.3376
 1598895693,Juncus_conglomeratus,61.018661,24.398181
 199483754,Juncus_conglomeratus,36.449,-5.46
-895182492,Juncus_conglomeratus,40.14,-1.3
 2313355596,Juncus_conglomeratus,48.27,11.62
 1705264529,Juncus_conglomeratus,57.877151,16.074854
 187185028,Juncus_conglomeratus,64.0477,10.6077
@@ -399,13 +390,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204430797,Juncus_conglomeratus,43.341999,-1.822
 204430794,Juncus_conglomeratus,43.224998,-1.787
 204430796,Juncus_conglomeratus,43.334,-1.921
-1050589097,Juncus_conglomeratus,42.9,-2.3
 204431261,Juncus_conglomeratus,43.023998,-2.577
 1831523253,Juncus_conglomeratus,46.78444,13.55917
 1144705086,Juncus_conglomeratus,41.46667,9.23333
 1050589124,Juncus_conglomeratus,43.02,-2.57
 318222384,Juncus_conglomeratus,58.8399,6.3056
-1050589221,Juncus_conglomeratus,43.14,-3.1
 1598895686,Juncus_conglomeratus,61.001086,24.418112
 1851351930,Juncus_conglomeratus,42.715,-0.356
 1050589121,Juncus_conglomeratus,42.98,-2.83
@@ -457,13 +446,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323814077,Juncus_conglomeratus,59.4047,10.6997
 1598895676,Juncus_conglomeratus,61.966877,24.994953
 204430788,Juncus_conglomeratus,43.334,-1.884
-1050589194,Juncus_conglomeratus,43.19,-3
 1434678455,Juncus_conglomeratus,57.89392,14.01064
 204430789,Juncus_conglomeratus,43.368999,-1.797
 2268223308,Juncus_conglomeratus,55.692879,37.464803
 1598895694,Juncus_conglomeratus,61.654666,24.07953
 1323828513,Juncus_conglomeratus,65.3874,12.299
-1842885562,Juncus_conglomeratus,42.3,1
 1702370812,Juncus_conglomeratus,59.41125,8.49793
 1936449928,Juncus_conglomeratus,42.9179,-8.5849
 1701264797,Juncus_conglomeratus,64.296,11.4697
@@ -472,14 +459,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186815355,Juncus_conglomeratus,58.6158,7.4249
 1702317927,Juncus_conglomeratus,59.6648,9.7898
 1891009122,Juncus_conglomeratus,41.963591,-2.263826
-1050589242,Juncus_conglomeratus,43.2,-2.99
 1701887114,Juncus_conglomeratus,59.6916,9.8082
 1702035570,Juncus_conglomeratus,59.1834,10.7238
 1065680184,Juncus_conglomeratus,63.967523,20.043007
 1598895673,Juncus_conglomeratus,61.649353,24.062095
 318222388,Juncus_conglomeratus,58.9371,5.5722
 1806554716,Juncus_conglomeratus,43.143,-1.678
-860307943,Juncus_conglomeratus,41.5,-1.62
 1851324904,Juncus_conglomeratus,42.93,-5.27
 1703350494,Juncus_conglomeratus,62.74169,7.3964
 1598895675,Juncus_conglomeratus,62.249051,25.697833
@@ -564,7 +549,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702241331,Juncus_conglomeratus,58.5261,8.5965
 1702345877,Juncus_conglomeratus,63.4982,10.8983
 1702359761,Juncus_conglomeratus,59.7301,9.578
-1851349241,Juncus_conglomeratus,42.82,-6
 1701264872,Juncus_conglomeratus,64.2124,11.0706
 1323763558,Juncus_conglomeratus,67.1351,13.9737
 1323864170,Juncus_conglomeratus,67.1367,13.9505
@@ -1001,7 +985,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705296629,Juncus_conglomeratus,57.544322,11.93806
 1598895781,Juncus_conglomeratus,62.815386,22.778273
 1323799625,Juncus_conglomeratus,65.6549,12.6299
-786175627,Juncus_conglomeratus,48.9,10.7
 187185085,Juncus_conglomeratus,59.2405,10.9721
 1702359859,Juncus_conglomeratus,59.1142,5.7336
 1702359745,Juncus_conglomeratus,59.0428,5.6469
@@ -1014,7 +997,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697433389,Juncus_conglomeratus,54.859171,37.554977
 1705369324,Juncus_conglomeratus,57.990749,14.875316
 788800792,Juncus_conglomeratus,56.81261,13.05008
-1842894473,Juncus_conglomeratus,41.69,2.7
 788821292,Juncus_conglomeratus,58.716039,11.332565
 1701966973,Juncus_conglomeratus,66.812,13.7141
 187184822,Juncus_conglomeratus,65.6544,12.5974
@@ -1090,7 +1072,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144137723,Juncus_conglomeratus,60.2392,5.2473
 1144137714,Juncus_conglomeratus,60.2725,5.3307
 899802972,Juncus_conglomeratus,49.033976,11.061771
-786175635,Juncus_conglomeratus,49.2,11.9
 1099022507,Juncus_conglomeratus,49.204166,11.947778
 1598895780,Juncus_conglomeratus,61.712227,26.902385
 1598895776,Juncus_conglomeratus,61.443022,26.903228
@@ -1224,7 +1205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701966965,Juncus_conglomeratus,63.433,10.3027
 1598895755,Juncus_conglomeratus,61.31394,23.729411
 1702370808,Juncus_conglomeratus,59.7311,9.2845
-786175630,Juncus_conglomeratus,49,11.9
 1705398061,Juncus_conglomeratus,56.877485,14.81187
 1701776359,Juncus_conglomeratus,58.5833,7.7806
 1697433418,Juncus_conglomeratus,55.817688,39.006372
@@ -1367,7 +1347,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702276847,Juncus_conglomeratus,59.2008,11.1273
 1701909309,Juncus_conglomeratus,59.4686,10.3412
 812026591,Juncus_conglomeratus,50.775883,9.9615
-1988139651,Juncus_conglomeratus,49.2,9.8
 1598895727,Juncus_conglomeratus,63.114513,23.925021
 1702276700,Juncus_conglomeratus,59.6184,10.9322
 1701264433,Juncus_conglomeratus,63.4137,10.452
