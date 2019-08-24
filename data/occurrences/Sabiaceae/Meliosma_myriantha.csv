@@ -40,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829022892,Meliosma_myriantha,39.60897,141.06914
 1829919996,Meliosma_myriantha,35.419167,135.926944
 1829919262,Meliosma_myriantha,35.249109,138.990599
-2244507850,Meliosma_myriantha,34.866667,135.1
 1829913129,Meliosma_myriantha,35.432427,139.265566
 1830532259,Meliosma_myriantha,34.8375,135.03125
 1830532066,Meliosma_myriantha,34.854167,135.05625
@@ -70,7 +69,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200608863,Meliosma_myriantha,35.637639,127.405611
 1934099134,Meliosma_myriantha,34.9628,135.5239
 1830526300,Meliosma_myriantha,34.816667,135.05
-391294736,Meliosma_myriantha,37.766667,140.5
 1829908503,Meliosma_myriantha,35.132458,139.065596
 1829023513,Meliosma_myriantha,40.104167,141.68125
 395780430,Meliosma_myriantha,34.790833,133.832222
@@ -86,9 +84,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830671159,Meliosma_myriantha,33.616667,134.033333
 395780417,Meliosma_myriantha,35.275833,133.639167
 395780415,Meliosma_myriantha,34.911389,133.930556
-1830530064,Meliosma_myriantha,35.3,134.566667
 665572471,Meliosma_myriantha,35.316389,134.572778
-1830676598,Meliosma_myriantha,33.466667,133
 1830676363,Meliosma_myriantha,33.25,132.883333
 1830677810,Meliosma_myriantha,33.75,134.033333
 1830676553,Meliosma_myriantha,33.716667,133.533333
@@ -96,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830530778,Meliosma_myriantha,33.720833,133.53125
 1830677681,Meliosma_myriantha,33.133333,132.866667
 1830676522,Meliosma_myriantha,33.816667,133.866667
-1830676548,Meliosma_myriantha,33.7,133.166667
 391294707,Meliosma_myriantha,37.776667,140.676944
 1933863675,Meliosma_myriantha,35.359654,134.542544
 575225902,Meliosma_myriantha,35.421111,137.565833
@@ -109,8 +104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830682480,Meliosma_myriantha,33.45,133.033333
 2200609032,Meliosma_myriantha,34.357583,126.716444
 388843450,Meliosma_myriantha,35.315781,139.578043
-1829609349,Meliosma_myriantha,36.2,138.8
-1830691389,Meliosma_myriantha,33.75,133.6
 2200609002,Meliosma_myriantha,35.289275,127.560722
 381822841,Meliosma_myriantha,36.52562,140.54092
 2200608915,Meliosma_myriantha,34.474556,126.623917
@@ -120,7 +113,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200608916,Meliosma_myriantha,34.349209,126.710848
 204383731,Meliosma_myriantha,34.57826,135.88966
 388843402,Meliosma_myriantha,35.401595,139.169325
-238095347,Meliosma_myriantha,37,140
 381822880,Meliosma_myriantha,36.61325,140.67506
 395780340,Meliosma_myriantha,35.228333,133.547944
 1933837391,Meliosma_myriantha,34.9189,135.5557
@@ -133,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395780331,Meliosma_myriantha,35.0925,134.286389
 1830209663,Meliosma_myriantha,36.07477,138.76801
 1830201429,Meliosma_myriantha,36.816667,136.95
-1830201948,Meliosma_myriantha,36.5,137.233333
 395780252,Meliosma_myriantha,35.168333,134.116389
 395780265,Meliosma_myriantha,35.162944,133.894167
 1933837381,Meliosma_myriantha,35.248,136.4216
@@ -142,7 +133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829935067,Meliosma_myriantha,35.790739,140.440448
 2243079135,Meliosma_myriantha,39.6603,140.3489
 1828665969,Meliosma_myriantha,36.5062,136.6352
-1829603241,Meliosma_myriantha,36.3,138.9
 381822891,Meliosma_myriantha,36.56289,140.5428
 395780305,Meliosma_myriantha,35.081389,133.469722
 381822855,Meliosma_myriantha,36.60202,140.646
@@ -157,7 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395780036,Meliosma_myriantha,35.073056,133.803056
 395780057,Meliosma_myriantha,35.214444,133.544722
 388843349,Meliosma_myriantha,35.340764,139.053088
-1257867022,Meliosma_myriantha,38.35,141.5
 381822735,Meliosma_myriantha,36.29233,140.12157
 395780039,Meliosma_myriantha,35.130556,134.342222
 381822763,Meliosma_myriantha,36.38258,140.25769
@@ -178,14 +167,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701538010,Meliosma_myriantha,35.33556,127.7225
 388843382,Meliosma_myriantha,35.615743,139.55304
 729321860,Meliosma_myriantha,38.883301,140.767
-729283582,Meliosma_myriantha,34.866699,135.2
 395779989,Meliosma_myriantha,35.256389,134.053056
 1830482459,Meliosma_myriantha,34.52,34.52
 1830479531,Meliosma_myriantha,38.53,38.53
 1830484702,Meliosma_myriantha,34.46,34.46
-729318584,Meliosma_myriantha,35.400002,134.7
-729284253,Meliosma_myriantha,35,135.2
-1830481844,Meliosma_myriantha,35,35
 729278491,Meliosma_myriantha,34.766701,135.133
 729276595,Meliosma_myriantha,34.766701,135.267
 729320965,Meliosma_myriantha,33.450001,133.067
@@ -225,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828809862,Meliosma_myriantha,36.298306,136.465301
 1828809720,Meliosma_myriantha,36.320988,136.435668
 295922359,Meliosma_myriantha,35.240777,138.990599
-729316538,Meliosma_myriantha,34.849998,135.3
 1830479301,Meliosma_myriantha,35.19,35.19
 729321510,Meliosma_myriantha,35.3167,135.717
 1830488101,Meliosma_myriantha,34.51,34.51
@@ -366,8 +350,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829598087,Meliosma_myriantha,36.655,139.516389
 187996343,Meliosma_myriantha,35.540744,139.128077
 1830170601,Meliosma_myriantha,36.483333,137.233333
-1830233031,Meliosma_myriantha,36.5,137.216667
-442114803,Meliosma_myriantha,37.5,139
 1830627740,Meliosma_myriantha,34.066442,133.842442
 1830666446,Meliosma_myriantha,33.4375,133.06875
 2243068912,Meliosma_myriantha,35.361,139.08382
@@ -388,9 +370,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829597894,Meliosma_myriantha,36.561111,138.721944
 1829597881,Meliosma_myriantha,36.066111,138.708611
 1829600233,Meliosma_myriantha,36.4775,139.038333
-1829609995,Meliosma_myriantha,36.8,139
 1829632638,Meliosma_myriantha,36.816667,138.983889
-1829608288,Meliosma_myriantha,36.5,139.4
 2243089314,Meliosma_myriantha,38.107868,140.378034
 1829883413,Meliosma_myriantha,37.067111,139.924722
 381823213,Meliosma_myriantha,36.53717,140.52885
@@ -413,7 +393,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829839804,Meliosma_myriantha,35.090166,139.075505
 381823212,Meliosma_myriantha,36.80775,140.73969
 381823205,Meliosma_myriantha,36.54145,140.52284
-1830478904,Meliosma_myriantha,36.1,36.1
 1829627461,Meliosma_myriantha,36.758889,139.062222
 1830197731,Meliosma_myriantha,36.183333,136.366667
 1830627564,Meliosma_myriantha,34.160656,134.155437
@@ -423,7 +402,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830481064,Meliosma_myriantha,35.06,35.06
 204383724,Meliosma_myriantha,34.62931,135.69623
 1829627788,Meliosma_myriantha,36.733889,138.933333
-1829606493,Meliosma_myriantha,36.3,139
 1030943704,Meliosma_myriantha,25.570976,111.945802
 1030726153,Meliosma_myriantha,28.52075,114.37098
 1829887558,Meliosma_myriantha,32.978056,131.585278
@@ -435,7 +413,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829635492,Meliosma_myriantha,36.551111,139.1775
 1829616892,Meliosma_myriantha,36.399444,138.674444
 381823301,Meliosma_myriantha,37.10969,140.2114
-1829610484,Meliosma_myriantha,36.2,139
 381823208,Meliosma_myriantha,36.00192,140.01413
 2200597060,Meliosma_myriantha,33.36129,126.53384
 295922491,Meliosma_myriantha,35.257442,139.015597
@@ -454,9 +431,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829615305,Meliosma_myriantha,36.556944,138.796111
 1829602563,Meliosma_myriantha,36.470278,139.088889
 1829617741,Meliosma_myriantha,36.593333,138.998056
-1829606165,Meliosma_myriantha,36.7,139
 2243088363,Meliosma_myriantha,38.110826,140.228287
-1829608511,Meliosma_myriantha,36.2,138.7
 1829617258,Meliosma_myriantha,36.303611,138.731389
 2200610407,Meliosma_myriantha,34.45,126.619765
 381823298,Meliosma_myriantha,36.75782,139.58397
