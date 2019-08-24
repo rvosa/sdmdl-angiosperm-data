@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2292014359,Fillaeopsis_discophora,-1.040833,11.155278
 1261058753,Fillaeopsis_discophora,-1.04083,11.15527
 2291935968,Fillaeopsis_discophora,-1.428,10.593
-1258054908,Fillaeopsis_discophora,-1.433333,10.6
 2013870821,Fillaeopsis_discophora,-2.06,10.413
 2290492238,Fillaeopsis_discophora,3.624722,11.582222
 912290727,Fillaeopsis_discophora,3.62,11.58
@@ -14,16 +13,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 218785771,Fillaeopsis_discophora,1.596,10.05
 2013856447,Fillaeopsis_discophora,-0.416667,10.833333
 2013851800,Fillaeopsis_discophora,-0.216667,11.566667
-2288927276,Fillaeopsis_discophora,3.1,10.716667
 2288322171,Fillaeopsis_discophora,2.916667,10.583333
-2013882115,Fillaeopsis_discophora,-1.9,9.9
 1261857300,Fillaeopsis_discophora,2.78333,16.41666
-2291936306,Fillaeopsis_discophora,-1,10.283333
-1261459908,Fillaeopsis_discophora,-1,10.28333
 461897171,Fillaeopsis_discophora,-1.125,10.375
 2288868585,Fillaeopsis_discophora,-1.905,10.005
 2268938414,Fillaeopsis_discophora,-1.900833,10.000833
-2290229904,Fillaeopsis_discophora,-5.033333,18.8
 1261518611,Fillaeopsis_discophora,2.86666,16.48333
 1261918197,Fillaeopsis_discophora,5.33333,8.95
 1261505689,Fillaeopsis_discophora,2.35,16.16666
@@ -32,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290554319,Fillaeopsis_discophora,-2.55,10.733333
 1261911382,Fillaeopsis_discophora,0.55,9.66666
 2013855112,Fillaeopsis_discophora,0.133333,11.933333
-2290426074,Fillaeopsis_discophora,-2.6,10.583333
 2289167417,Fillaeopsis_discophora,-0.283333,11.916667
 1258724946,Fillaeopsis_discophora,0.566667,12.866667
 1835597615,Fillaeopsis_discophora,-1.53,28.27
