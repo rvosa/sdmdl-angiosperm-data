@@ -44,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259166851,Cleome_viridiflora,-10.18333,-75.56666
 1259738966,Cleome_viridiflora,-22.33333,-63.76666
 930989992,Cleome_viridiflora,4.901028,-74.422761
-1258800237,Cleome_viridiflora,-5.008333,34.890278
 1253741264,Cleome_viridiflora,9.646122,-83.036202
 1257505013,Cleome_viridiflora,9.646111,-83.036111
 1936652540,Cleome_viridiflora,9.6461,-83.0361
@@ -63,8 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 44668318,Cleome_viridiflora,9.83,-84.04
 1253622465,Cleome_viridiflora,9.836111,-84.045
 1930620976,Cleome_viridiflora,-23.77,-49.93
-1253600837,Cleome_viridiflora,9.860556,-84.13
-44668021,Cleome_viridiflora,9.86,-84.13
 1261327486,Cleome_viridiflora,-25.86666,-57.13333
 1261514360,Cleome_viridiflora,9.67,-83.02
 1253628255,Cleome_viridiflora,9.675,-83.022222
