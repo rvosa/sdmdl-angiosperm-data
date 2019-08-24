@@ -52,15 +52,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2273391443,Juglans_cinerea,35.234088,-83.313479
 1038983017,Juglans_cinerea,41.3775,-71.9014
 829535,Juglans_cinerea,56.22293,14.31647
-1455177314,Juglans_cinerea,45.6,-74.216667
 1989505556,Juglans_cinerea,47.416531,-79.619207
 415928288,Juglans_cinerea,41.795,-72.505
 441766500,Juglans_cinerea,45.593333,-122.138333
 1258810396,Juglans_cinerea,47.6087,-122.3405
 2234228203,Juglans_cinerea,41.0635,-74.5708
 415941076,Juglans_cinerea,43.60888,-72.97972
-1930341905,Juglans_cinerea,41.45,-73.7
-465863768,Juglans_cinerea,45,-64.0325
 1995316787,Juglans_cinerea,39.9672,-90.5222
 1258710972,Juglans_cinerea,37.0692,-94.1166
 2273391283,Juglans_cinerea,35.257339,-83.157592
@@ -126,11 +123,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606652208,Juglans_cinerea,41.95388,-72.78916
 2234298803,Juglans_cinerea,35.885949,-82.813411
 1897666864,Juglans_cinerea,-40.75,175.083333
-1262011416,Juglans_cinerea,45.1,-72.6
 1262011395,Juglans_cinerea,45.050278,-72.391944
 1248723143,Juglans_cinerea,46.774722,-71.282778
 1260965399,Juglans_cinerea,37.81027,-90.22777
-1030448300,Juglans_cinerea,42.9,-86.2
 56596184,Juglans_cinerea,34.47472,-86.05167
 1989533232,Juglans_cinerea,45.860731,-86.676682
 1989427912,Juglans_cinerea,45.875255,-86.697286
@@ -190,10 +185,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989441038,Juglans_cinerea,42.444336,-86.171347
 415903389,Juglans_cinerea,42.50833,-71.07277
 1248723160,Juglans_cinerea,46.751389,-71.344444
-1261958996,Juglans_cinerea,46.916667,-71.1
 1248723152,Juglans_cinerea,45.494722,-74.025
 1038947809,Juglans_cinerea,41.9945,-72.6788
-1261957228,Juglans_cinerea,46.583333,-72.2
 465910113,Juglans_cinerea,44.38167,-64.96831
 2234301824,Juglans_cinerea,35.937928,-82.008518
 2234301805,Juglans_cinerea,36.162515,-81.643996
@@ -214,7 +207,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261952018,Juglans_cinerea,46.815432,-71.158121
 1038948725,Juglans_cinerea,41.9944,-72.6789
 2234297812,Juglans_cinerea,36.421472,-80.28858
-1261985284,Juglans_cinerea,46.4,-70.36
 2273391256,Juglans_cinerea,35.216963,-82.33691
 56596188,Juglans_cinerea,33.92972,-86.7925
 56596186,Juglans_cinerea,34.33083,-87.4625
@@ -222,7 +214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318117087,Juglans_cinerea,38.9711,-77.0767
 465910107,Juglans_cinerea,45.847602,-66.470851
 1321685869,Juglans_cinerea,38.9306,-78.0331
-1261947688,Juglans_cinerea,46.85,-71.2
 2234299671,Juglans_cinerea,35.215533,-82.219565
 1929308143,Juglans_cinerea,40.728587,-78.238624
 1038938484,Juglans_cinerea,41.4314,-73.135
@@ -240,7 +231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260970644,Juglans_cinerea,37.48,-93.062222
 1260971857,Juglans_cinerea,39.142778,-91.020556
 1038963715,Juglans_cinerea,41.3219,-72.3017
-473543371,Juglans_cinerea,45.5,-73.6
 1927819178,Juglans_cinerea,41.407872,-74.010418
 1260966896,Juglans_cinerea,36.854444,-90.942222
 1988718489,Juglans_cinerea,45.685813,-86.710967
