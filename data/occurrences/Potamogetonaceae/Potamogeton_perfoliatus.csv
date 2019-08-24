@@ -53,12 +53,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697720055,Potamogeton_perfoliatus,44.595833,33.609722
 1697316050,Potamogeton_perfoliatus,53.7504,127.3061
 1882023628,Potamogeton_perfoliatus,48.51,10.32
-1882009800,Potamogeton_perfoliatus,48.5,10.32
 1701328102,Potamogeton_perfoliatus,62.1237,11.6501
 1702374399,Potamogeton_perfoliatus,59.4399,11.218
 1701916157,Potamogeton_perfoliatus,59.6982,10.2881
 1978364095,Potamogeton_perfoliatus,58.001156,38.212889
-1697349198,Potamogeton_perfoliatus,51.2,40.2
 1697349194,Potamogeton_perfoliatus,53.32214,32.87529
 1702224593,Potamogeton_perfoliatus,58.9759,5.6639
 1697365013,Potamogeton_perfoliatus,53.67785,23.829484
@@ -89,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702224474,Potamogeton_perfoliatus,65.7855,13.5655
 1697315083,Potamogeton_perfoliatus,72.32803,103.1135
 2268214855,Potamogeton_perfoliatus,55.688167,37.785667
-1095918258,Potamogeton_perfoliatus,65,15
 1702224430,Potamogeton_perfoliatus,65.9095,13.8001
 2287442782,Potamogeton_perfoliatus,53.019183,7.083817
 1701859151,Potamogeton_perfoliatus,58.8028,5.7862
@@ -148,7 +145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1934053116,Potamogeton_perfoliatus,40.728167,141.328952
 1934053154,Potamogeton_perfoliatus,40.721264,141.293574
 1934053157,Potamogeton_perfoliatus,40.840147,141.336868
-1095899135,Potamogeton_perfoliatus,60.8,17.25
 1934053243,Potamogeton_perfoliatus,40.74883,141.31797
 1934053149,Potamogeton_perfoliatus,40.759058,141.326026
 1934053088,Potamogeton_perfoliatus,40.721526,141.295611
@@ -235,7 +231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697365289,Potamogeton_perfoliatus,53.466667,38.983333
 1947419639,Potamogeton_perfoliatus,48.27,13.06
 1701321425,Potamogeton_perfoliatus,63.4073,11.1957
-1947419564,Potamogeton_perfoliatus,48.3,13.23
 1701854553,Potamogeton_perfoliatus,59.3961,10.8565
 2268214944,Potamogeton_perfoliatus,55.620207,37.539044
 1702268818,Potamogeton_perfoliatus,59.3945,10.8799
@@ -254,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702268328,Potamogeton_perfoliatus,60.3049,11.2305
 1702238201,Potamogeton_perfoliatus,59.2685,10.9035
 2291902762,Potamogeton_perfoliatus,52.215167,5.080833
-415939187,Potamogeton_perfoliatus,41.5,-73.456
 1829545886,Potamogeton_perfoliatus,47.694417,108.469694
 1342816749,Potamogeton_perfoliatus,56.298334,8.861346
 699258379,Potamogeton_perfoliatus,41.68972,-72.41888
@@ -267,7 +261,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947419611,Potamogeton_perfoliatus,48.21,12.95
 1342816769,Potamogeton_perfoliatus,56.226533,8.974504
 1697365087,Potamogeton_perfoliatus,56.002778,40.85
-1882009878,Potamogeton_perfoliatus,48.6,10.58
 415940636,Potamogeton_perfoliatus,41.83727,-73.26712
 1705377149,Potamogeton_perfoliatus,55.972226,14.201982
 415939179,Potamogeton_perfoliatus,41.84892,-71.83562
@@ -296,7 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187227064,Potamogeton_perfoliatus,64.2604,12.3673
 1701858399,Potamogeton_perfoliatus,66.0608,13.55
 1342816817,Potamogeton_perfoliatus,56.016451,9.921056
-1947418483,Potamogeton_perfoliatus,50.02,10.9
 1702186724,Potamogeton_perfoliatus,60.3512,10.522
 1999608171,Potamogeton_perfoliatus,60.730608,21.430149
 1323821197,Potamogeton_perfoliatus,69.3981,18.6695
@@ -336,7 +328,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831297027,Potamogeton_perfoliatus,53.2485,13.415
 1342816723,Potamogeton_perfoliatus,55.336569,8.675551
 1323731441,Potamogeton_perfoliatus,69.1787,19.0701
-1697365071,Potamogeton_perfoliatus,55.5,41.083333
 1697365165,Potamogeton_perfoliatus,56.083333,36.583333
 1697365210,Potamogeton_perfoliatus,55.583333,37.166667
 1697720109,Potamogeton_perfoliatus,44.837978,33.660908
@@ -369,7 +360,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788748715,Potamogeton_perfoliatus,55.908,13.47136
 1702219518,Potamogeton_perfoliatus,60.6029,11.2931
 1702219439,Potamogeton_perfoliatus,60.6188,11.2558
-1697365170,Potamogeton_perfoliatus,55.833333,36.5
 1702191260,Potamogeton_perfoliatus,59.4872,11.2434
 1599101470,Potamogeton_perfoliatus,68.90115,20.989757
 465868426,Potamogeton_perfoliatus,45.726389,-63.88
@@ -377,10 +367,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697365048,Potamogeton_perfoliatus,54.059159,40.32483
 415938456,Potamogeton_perfoliatus,41.33194,-74.75444
 1342816843,Potamogeton_perfoliatus,56.463706,10.159067
-2268215104,Potamogeton_perfoliatus,56.333333,37
 1599101472,Potamogeton_perfoliatus,60.227182,23.978209
 1697365095,Potamogeton_perfoliatus,56.416667,38.666667
-1705490067,Potamogeton_perfoliatus,64.82,25.4
 415948217,Potamogeton_perfoliatus,43.39083,-72.40777
 1697365111,Potamogeton_perfoliatus,56.083333,37.333333
 360095446,Potamogeton_perfoliatus,61.731998,26.1359
@@ -409,7 +397,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320413013,Potamogeton_perfoliatus,39.5094,-76.1644
 728978267,Potamogeton_perfoliatus,51.799411,5.800372
 1697365277,Potamogeton_perfoliatus,56.501277,44.811335
-788632600,Potamogeton_perfoliatus,40.8,21.15
 1599101465,Potamogeton_perfoliatus,60.964568,24.320681
 1697364961,Potamogeton_perfoliatus,59.960684,38.467922
 415938024,Potamogeton_perfoliatus,41.39138,-72.6975
@@ -437,7 +424,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702000245,Potamogeton_perfoliatus,67.3394,15.5233
 1701792088,Potamogeton_perfoliatus,69.0426,23.1034
 1342816748,Potamogeton_perfoliatus,56.208565,9.022878
-1248741511,Potamogeton_perfoliatus,46.566667,-72.2
 1701999975,Potamogeton_perfoliatus,59.7347,10.2184
 415897205,Potamogeton_perfoliatus,41.38333,-73.17194
 415897220,Potamogeton_perfoliatus,41.70472,-73.22166
@@ -501,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701504379,Potamogeton_perfoliatus,59.3545,11.0666
 1599101452,Potamogeton_perfoliatus,63.286925,22.1371
 1702407151,Potamogeton_perfoliatus,59.7508,10.2723
-1936550404,Potamogeton_perfoliatus,49.5,43.3333
 1881881251,Potamogeton_perfoliatus,59.444017,24.915808
 668793258,Potamogeton_perfoliatus,46.75,-71.35
 1599101458,Potamogeton_perfoliatus,62.597889,29.723638
@@ -568,7 +553,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705257378,Potamogeton_perfoliatus,57.413915,16.034847
 1050646433,Potamogeton_perfoliatus,42.77,-3.27
 1697178454,Potamogeton_perfoliatus,61.80755,89.37382
-575011840,Potamogeton_perfoliatus,32.3,38.2
 1697318608,Potamogeton_perfoliatus,51.004952,98.950853
 1438586490,Potamogeton_perfoliatus,58.544728,26.23676
 1668935515,Potamogeton_perfoliatus,54.87,37.87
@@ -586,7 +570,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 977250,Potamogeton_perfoliatus,57.915421,14.633156
 1050600922,Potamogeton_perfoliatus,42.58,-1.36
 1697365228,Potamogeton_perfoliatus,59.138322,46.597896
-1050600927,Potamogeton_perfoliatus,42.37,-1.5
 1050600925,Potamogeton_perfoliatus,42.93,-2.61
 1439646800,Potamogeton_perfoliatus,42.14,2.82
 1599101448,Potamogeton_perfoliatus,68.530107,28.035881
@@ -598,16 +581,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697318570,Potamogeton_perfoliatus,47.25,118.916667
 1599101426,Potamogeton_perfoliatus,62.696454,23.899987
 1935711845,Potamogeton_perfoliatus,46.60694,14.59389
-1804472250,Potamogeton_perfoliatus,45.5,-75.491667
 1599101425,Potamogeton_perfoliatus,64.864248,27.660739
-1697318580,Potamogeton_perfoliatus,47.083333,119.5
 1599101437,Potamogeton_perfoliatus,63.586711,29.020843
 1705321109,Potamogeton_perfoliatus,57.30526,14.527676
 39730374,Potamogeton_perfoliatus,65.729,-20.236
 1599101433,Potamogeton_perfoliatus,64.955386,26.922302
 1697318552,Potamogeton_perfoliatus,47.583333,119.083333
 1599101428,Potamogeton_perfoliatus,65.034318,26.264096
-1899287931,Potamogeton_perfoliatus,45.508333,-76.1
 1599101436,Potamogeton_perfoliatus,62.487737,23.594568
 1323698848,Potamogeton_perfoliatus,69.4493,30.0254
 1323694522,Potamogeton_perfoliatus,68.8735,23.1321
@@ -638,12 +618,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323848862,Potamogeton_perfoliatus,69.2036,18.2296
 788475133,Potamogeton_perfoliatus,57.399864,16.201231
 1701227388,Potamogeton_perfoliatus,61.8481,8.5726
-1697178425,Potamogeton_perfoliatus,55.5,80.116667
 1599101417,Potamogeton_perfoliatus,64.512088,26.636373
 1701343284,Potamogeton_perfoliatus,62.5904,11.4438
 1599101419,Potamogeton_perfoliatus,62.695586,21.297829
 895257410,Potamogeton_perfoliatus,41.51,-2.94
-1697178390,Potamogeton_perfoliatus,54.3,80.133333
 1599101421,Potamogeton_perfoliatus,61.430359,22.600942
 1323741306,Potamogeton_perfoliatus,68.8867,22.3819
 1599101423,Potamogeton_perfoliatus,61.837419,25.829238
@@ -656,10 +634,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599101424,Potamogeton_perfoliatus,61.830414,22.201417
 1323698789,Potamogeton_perfoliatus,67.4911,14.6899
 1323865259,Potamogeton_perfoliatus,68.9139,22.3412
-1803144474,Potamogeton_perfoliatus,46.7,-71.583333
 1697720072,Potamogeton_perfoliatus,44.832317,34.839363
 1705316585,Potamogeton_perfoliatus,57.652038,16.290926
-2289209770,Potamogeton_perfoliatus,19.2,8.866667
 1599104800,Potamogeton_perfoliatus,60.167438,24.745248
 1701634084,Potamogeton_perfoliatus,59.2084,10.8976
 1599101416,Potamogeton_perfoliatus,61.08175,22.38966
@@ -697,7 +673,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323698879,Potamogeton_perfoliatus,70.0267,24.9629
 1697720078,Potamogeton_perfoliatus,44.908414,35.123978
 1323698831,Potamogeton_perfoliatus,69.4198,25.1263
-1947418571,Potamogeton_perfoliatus,49.99,10.2
 1050600923,Potamogeton_perfoliatus,42.71,-2.93
 1599101396,Potamogeton_perfoliatus,62.083004,21.356817
 1599101397,Potamogeton_perfoliatus,62.158304,21.361031
@@ -706,7 +681,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697178394,Potamogeton_perfoliatus,59.656984,147.452617
 57714799,Potamogeton_perfoliatus,61.8372,25.8102
 56637165,Potamogeton_perfoliatus,30.63583,-87.91917
-1050600937,Potamogeton_perfoliatus,43.2,-3.16
 788736269,Potamogeton_perfoliatus,60.523889,26.470556
 1323698828,Potamogeton_perfoliatus,65.5214,12.2635
 1323698816,Potamogeton_perfoliatus,65.5756,12.2795
@@ -750,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935711853,Potamogeton_perfoliatus,47.63194,13.86667
 1697318576,Potamogeton_perfoliatus,46.102638,91.154079
 1702375396,Potamogeton_perfoliatus,60.2895,10.4199
-1050649886,Potamogeton_perfoliatus,43.37,-2.9
 1702375359,Potamogeton_perfoliatus,60.2434,10.3997
 1599101385,Potamogeton_perfoliatus,60.176558,24.501165
 1503232767,Potamogeton_perfoliatus,30.65,-87.9167
@@ -768,8 +741,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599104856,Potamogeton_perfoliatus,62.124702,23.834079
 1999492924,Potamogeton_perfoliatus,69.070864,27.334177
 1697720062,Potamogeton_perfoliatus,44.99916,35.235729
-1949552308,Potamogeton_perfoliatus,59.9,-131.35
-1988109635,Potamogeton_perfoliatus,48.2,-89.6
 1881897805,Potamogeton_perfoliatus,57.65139,27.03556
 1881897803,Potamogeton_perfoliatus,57.75083,27.04667
 1702216434,Potamogeton_perfoliatus,65.5796,14.1438
@@ -783,7 +754,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1881897912,Potamogeton_perfoliatus,57.74944,27.06556
 1881898198,Potamogeton_perfoliatus,57.70528,27.05472
 1881897925,Potamogeton_perfoliatus,57.66583,27.19417
-1804462299,Potamogeton_perfoliatus,48.2,-89.633333
 1599104858,Potamogeton_perfoliatus,61.645,23.496053
 1999492961,Potamogeton_perfoliatus,68.720017,27.723815
 1881897941,Potamogeton_perfoliatus,57.65417,27.15028
@@ -800,13 +770,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697178464,Potamogeton_perfoliatus,56.11421,84.23793
 1881896141,Potamogeton_perfoliatus,58.097222,25.754167
 1697178468,Potamogeton_perfoliatus,56.24087,66.83437
-1803144476,Potamogeton_perfoliatus,45.25,-72.5
 1804367970,Potamogeton_perfoliatus,45.333333,-75.816667
 1599101370,Potamogeton_perfoliatus,61.874349,29.914933
 39508241,Potamogeton_perfoliatus,64.156,-20.262
 1803144457,Potamogeton_perfoliatus,45.866667,-75.566667
 1697178424,Potamogeton_perfoliatus,63.15887,87.98892
-1439646833,Potamogeton_perfoliatus,42.14,2.7
 1831295256,Potamogeton_perfoliatus,53.4485,12.7484
 1701224365,Potamogeton_perfoliatus,62.6883,10.9242
 1697178376,Potamogeton_perfoliatus,64.250067,154.50507
@@ -817,13 +785,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599104802,Potamogeton_perfoliatus,60.959854,23.950592
 2028546994,Potamogeton_perfoliatus,42.11,2.76
 1513440482,Potamogeton_perfoliatus,57.29033,-2.36746
-2290630774,Potamogeton_perfoliatus,9.5,30.366667
-615378188,Potamogeton_perfoliatus,34.02,68.8
 1697178405,Potamogeton_perfoliatus,53.749096,127.258097
 39507659,Potamogeton_perfoliatus,64.375,-21.795
 1513513046,Potamogeton_perfoliatus,57.528,-2.0409
 1599104819,Potamogeton_perfoliatus,66.269536,24.6587
-615378180,Potamogeton_perfoliatus,35.6,68.77
 1699938338,Potamogeton_perfoliatus,63.1398,10.1456
 668793428,Potamogeton_perfoliatus,46.747778,-71.327222
 1701292732,Potamogeton_perfoliatus,62.8785,9.8356
@@ -832,11 +797,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291676572,Potamogeton_perfoliatus,45.633333,-78.033333
 1701277761,Potamogeton_perfoliatus,62.7506,10.9675
 1701251832,Potamogeton_perfoliatus,62.7508,10.9479
-615378184,Potamogeton_perfoliatus,36.3,66.9
-1804562920,Potamogeton_perfoliatus,44,-77.716667
 1323817095,Potamogeton_perfoliatus,62.1965,9.8167
 1698012325,Potamogeton_perfoliatus,63.0508,9.4647
-1804434057,Potamogeton_perfoliatus,45.5,-78.033333
 1702375394,Potamogeton_perfoliatus,60.9683,10.6162
 1697720050,Potamogeton_perfoliatus,44.840717,34.957938
 668793427,Potamogeton_perfoliatus,46.750556,-71.305
@@ -912,7 +874,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1881896102,Potamogeton_perfoliatus,59.227778,26.6725
 1803144451,Potamogeton_perfoliatus,47.536111,-68.608333
 1999492966,Potamogeton_perfoliatus,60.66216,21.51534
-1988095401,Potamogeton_perfoliatus,60.7,21.5
 1599101347,Potamogeton_perfoliatus,62.416634,24.761529
 1599104787,Potamogeton_perfoliatus,61.152375,21.514117
 1261999825,Potamogeton_perfoliatus,45.336111,-73.855556
@@ -926,18 +887,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1803144460,Potamogeton_perfoliatus,45.393056,-73.781944
 1803144477,Potamogeton_perfoliatus,45.404167,-73.893056
 1261999931,Potamogeton_perfoliatus,45.377778,-73.890278
-788763393,Potamogeton_perfoliatus,61.2,21.466667
 1701802039,Potamogeton_perfoliatus,60.9948,10.7656
-1231061005,Potamogeton_perfoliatus,61.2,21.46667
 1803144436,Potamogeton_perfoliatus,45.104167,-74.4125
 1261999856,Potamogeton_perfoliatus,45.104167,-74.406944
 1803144464,Potamogeton_perfoliatus,45.183333,-74.255556
 1261999871,Potamogeton_perfoliatus,45.351389,-73.834722
 1803144430,Potamogeton_perfoliatus,45.177778,-74.226389
-1261999929,Potamogeton_perfoliatus,45.4,-73.722222
 1599104784,Potamogeton_perfoliatus,60.963903,24.134942
 1803144447,Potamogeton_perfoliatus,45.406944,-73.7375
-1988172220,Potamogeton_perfoliatus,61.2,21.5
 1803144461,Potamogeton_perfoliatus,45.438889,-73.765278
 1599101345,Potamogeton_perfoliatus,62.213524,25.737808
 1701276463,Potamogeton_perfoliatus,63.6707,9.0505
@@ -985,7 +942,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845009956,Potamogeton_perfoliatus,49.426667,8.446389
 1999492908,Potamogeton_perfoliatus,68.65705,27.771006
 1599104855,Potamogeton_perfoliatus,62.074594,22.11505
-1988093631,Potamogeton_perfoliatus,59.5,143
 1881898255,Potamogeton_perfoliatus,57.905,25.85778
 1837335105,Potamogeton_perfoliatus,61.32771,10.51106
 1701308347,Potamogeton_perfoliatus,68.2978,16.6722
@@ -994,7 +950,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701296295,Potamogeton_perfoliatus,68.5004,16.7324
 1701341123,Potamogeton_perfoliatus,68.4979,16.7151
 1701332524,Potamogeton_perfoliatus,68.5002,16.6615
-2289192850,Potamogeton_perfoliatus,51.966667,-0.7
 1697178411,Potamogeton_perfoliatus,50.412073,119.143553
 1697365074,Potamogeton_perfoliatus,55.785116,36.095238
 2288311847,Potamogeton_perfoliatus,52.083333,-0.716667
@@ -1176,7 +1131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999581326,Potamogeton_perfoliatus,60.111478,22.958387
 57714789,Potamogeton_perfoliatus,60.776375,23.784269
 39730363,Potamogeton_perfoliatus,65.679,-17.529
-1988188066,Potamogeton_perfoliatus,67.9,-134
 1038920487,Potamogeton_perfoliatus,44.97633,-72.897913
 1701283724,Potamogeton_perfoliatus,64.2397,11.4441
 2291902570,Potamogeton_perfoliatus,15.25,32.95
@@ -1197,7 +1151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705321875,Potamogeton_perfoliatus,62.623653,14.292587
 57714849,Potamogeton_perfoliatus,62.6054,25.9256
 1599104765,Potamogeton_perfoliatus,61.605305,24.829895
-615378151,Potamogeton_perfoliatus,35.83,69.5
 1261964531,Potamogeton_perfoliatus,48.45,-70.916667
 1702035522,Potamogeton_perfoliatus,59.84212,10.21987
 39730376,Potamogeton_perfoliatus,65.508,-20.358
@@ -1234,7 +1187,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268215018,Potamogeton_perfoliatus,54.905662,38.642204
 1702438835,Potamogeton_perfoliatus,59.7422,10.7525
 1829894273,Potamogeton_perfoliatus,35.5375,139.085
-1261981601,Potamogeton_perfoliatus,46.65,-70.8
 2287622763,Potamogeton_perfoliatus,64.983333,25.333333
 1599101286,Potamogeton_perfoliatus,67.709827,25.425349
 1701251986,Potamogeton_perfoliatus,63.7326,9.8506
@@ -1251,7 +1203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57714792,Potamogeton_perfoliatus,69.185402,27.890499
 57714844,Potamogeton_perfoliatus,61.519501,24.2999
 1261981509,Potamogeton_perfoliatus,47.816389,-68.669722
-1228606011,Potamogeton_perfoliatus,39,-105
 2237844529,Potamogeton_perfoliatus,42.195413,-72.069036
 1261973888,Potamogeton_perfoliatus,48.416667,-67.35
 1599101279,Potamogeton_perfoliatus,61.830188,21.478617
@@ -1333,7 +1284,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099890435,Potamogeton_perfoliatus,57.41314,13.15997
 788758505,Potamogeton_perfoliatus,64.226944,27.728611
 1702375380,Potamogeton_perfoliatus,61.8458,9.3476
-1261961709,Potamogeton_perfoliatus,48.45,-70.9
 1881896168,Potamogeton_perfoliatus,58.120833,25.688611
 1599104729,Potamogeton_perfoliatus,60.861417,23.591649
 1945499134,Potamogeton_perfoliatus,53.361017,-0.236269
@@ -1471,7 +1421,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701855466,Potamogeton_perfoliatus,62.56504,11.68681
 1323698832,Potamogeton_perfoliatus,68.0232,15.3951
 465867002,Potamogeton_perfoliatus,45.98402,-60.21193
-1261954616,Potamogeton_perfoliatus,45.716667,-74.7
 1701968037,Potamogeton_perfoliatus,67.3278,15.465
 465867004,Potamogeton_perfoliatus,46.05953,-60.40852
 465867000,Potamogeton_perfoliatus,45.59234,-60.68974
@@ -1517,8 +1466,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599104699,Potamogeton_perfoliatus,62.330737,28.636974
 1599104847,Potamogeton_perfoliatus,61.125326,23.377489
 1599104697,Potamogeton_perfoliatus,62.601957,28.457149
-39507704,Potamogeton_perfoliatus,65.456,-19.3
-39729865,Potamogeton_perfoliatus,65.6,-20.185
 39507712,Potamogeton_perfoliatus,65.729,-19.615
 1697178470,Potamogeton_perfoliatus,65.68312,82.51855
 216101980,Potamogeton_perfoliatus,62.498798,29.4224
@@ -1605,7 +1552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893207878,Potamogeton_perfoliatus,49.54,6.35
 1323698876,Potamogeton_perfoliatus,69.251,19.1155
 1599104867,Potamogeton_perfoliatus,63.370221,30.378262
-415915605,Potamogeton_perfoliatus,45.76666,-74
 788758096,Potamogeton_perfoliatus,62.448143,17.407217
 788758741,Potamogeton_perfoliatus,59.974444,23.435556
 1697178389,Potamogeton_perfoliatus,43.277816,134.15751
@@ -1659,7 +1605,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323698823,Potamogeton_perfoliatus,69.2596,19.0768
 1701313734,Potamogeton_perfoliatus,63.1783,10.1819
 187226824,Potamogeton_perfoliatus,63.1738,10.1817
-1265794807,Potamogeton_perfoliatus,45.1,-72.62
 1697948837,Potamogeton_perfoliatus,63.1427,10.1408
 1144182755,Potamogeton_perfoliatus,58.88222,5.85054
 788746674,Potamogeton_perfoliatus,65.71094,20.64415
@@ -1882,7 +1827,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701933951,Potamogeton_perfoliatus,60.1539,11.414
 1265794721,Potamogeton_perfoliatus,45.38,-71.48
 21297145,Potamogeton_perfoliatus,60.68074,12.10997
-1697178443,Potamogeton_perfoliatus,51.1,114.533333
 1701724568,Potamogeton_perfoliatus,60.1734,11.5687
 1323698777,Potamogeton_perfoliatus,65.407,12.5662
 1323698771,Potamogeton_perfoliatus,65.40838,12.05587
@@ -1909,7 +1853,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265794550,Potamogeton_perfoliatus,38.431776,-77.372623
 1599098194,Potamogeton_perfoliatus,62.193239,21.335241
 39507670,Potamogeton_perfoliatus,63.927,-20.812
-1262021928,Potamogeton_perfoliatus,46.5,-72.2
 1261946351,Potamogeton_perfoliatus,45.833333,-73.416667
 39507706,Potamogeton_perfoliatus,65.795,-17.433
 1265794871,Potamogeton_perfoliatus,45.401,-73.752
@@ -1930,7 +1873,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788741159,Potamogeton_perfoliatus,55.9141,13.48091
 1599098197,Potamogeton_perfoliatus,60.36347,24.414345
 1705398182,Potamogeton_perfoliatus,56.646843,14.915187
-1262021922,Potamogeton_perfoliatus,47.45,-70.5
 1697364962,Potamogeton_perfoliatus,61.807646,57.873249
 1599098208,Potamogeton_perfoliatus,60.360886,25.819285
 1697365052,Potamogeton_perfoliatus,64.835488,57.859612
@@ -1959,10 +1901,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 976757,Potamogeton_perfoliatus,56.20285,15.53645
 1323698837,Potamogeton_perfoliatus,65.7399,13.2768
 1434675280,Potamogeton_perfoliatus,56.16416,15.2831
-1261977376,Potamogeton_perfoliatus,45.533333,-73.5
 788757803,Potamogeton_perfoliatus,63.005204,16.090957
 1701316020,Potamogeton_perfoliatus,63.3875,10.3706
-1261992059,Potamogeton_perfoliatus,45.533333,-73
 1303807373,Potamogeton_perfoliatus,42.093788,117.527533
 1144182700,Potamogeton_perfoliatus,59.2595,10.903
 788747755,Potamogeton_perfoliatus,59.184757,17.664555
@@ -1978,7 +1918,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701724591,Potamogeton_perfoliatus,59.72,10.7335
 1701773327,Potamogeton_perfoliatus,63.7371,9.8507
 1144182682,Potamogeton_perfoliatus,59.89285,11.08922
-883361431,Potamogeton_perfoliatus,66,-161.066667
 1701911174,Potamogeton_perfoliatus,60.8253,10.3157
 1317929753,Potamogeton_perfoliatus,39.0014,-76.4958
 57714851,Potamogeton_perfoliatus,64.700203,24.448799
