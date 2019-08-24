@@ -97,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324014073,Verbascum_thapsus,62.0453,5.3089
 1144053615,Verbascum_thapsus,58.7951,5.6857
 1949951862,Verbascum_thapsus,52.273611,8.025
-2243103618,Verbascum_thapsus,38.1,140.15
 1930123163,Verbascum_thapsus,40.780367,-73.971954
 993721443,Verbascum_thapsus,-35.9147,149.1283
 1849185046,Verbascum_thapsus,33.2741,-80.3953
@@ -154,7 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242420389,Verbascum_thapsus,39.798611,-104.776389
 1977964298,Verbascum_thapsus,45.6525,-73.444722
 1829024271,Verbascum_thapsus,40.320833,141.31875
-994566882,Verbascum_thapsus,-41.3,148.3
 992073070,Verbascum_thapsus,-37.683056,140.488333
 994567794,Verbascum_thapsus,-43.07548,147.03052
 623693573,Verbascum_thapsus,38.6973099990792,-119.84306
@@ -174,7 +172,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343108018,Verbascum_thapsus,56.908998,9.286043
 1343107945,Verbascum_thapsus,55.929846,8.782643
 2242387303,Verbascum_thapsus,40.990962,-105.050991
-1697650287,Verbascum_thapsus,60.6,45.6
 1701886814,Verbascum_thapsus,61.1117,5.7791
 1343108325,Verbascum_thapsus,55.516464,11.113089
 1829866549,Verbascum_thapsus,35.365695,139.557904
@@ -327,7 +324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999602970,Verbascum_thapsus,59.947004,22.870967
 1343107939,Verbascum_thapsus,56.522793,8.763003
 1343108118,Verbascum_thapsus,56.259243,9.894592
-786298692,Verbascum_thapsus,49,8.4
 1343108109,Verbascum_thapsus,55.9895,9.920415
 1936691849,Verbascum_thapsus,40.3342,-4.5399
 1930801741,Verbascum_thapsus,41.6311,42.5731
@@ -373,7 +369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343107910,Verbascum_thapsus,55.911584,8.654766
 1697831807,Verbascum_thapsus,44.231919,42.035902
 1343108441,Verbascum_thapsus,55.622692,12.338729
-2242420643,Verbascum_thapsus,39,-105
 1343108062,Verbascum_thapsus,55.811192,9.708766
 1343108078,Verbascum_thapsus,55.811282,9.692811
 1343107990,Verbascum_thapsus,55.696147,9.261219
@@ -421,7 +416,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343108081,Verbascum_thapsus,55.981894,9.711884
 1343107941,Verbascum_thapsus,56.594523,8.697415
 1598706083,Verbascum_thapsus,60.486154,26.442158
-441860014,Verbascum_thapsus,47.8,-122.333333
 1563146053,Verbascum_thapsus,29.7978,-90.1657
 1343108122,Verbascum_thapsus,56.672346,9.920675
 1144046911,Verbascum_thapsus,61.372,5.5687
@@ -461,11 +455,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270634038,Verbascum_thapsus,34.3255,-111.093
 1457790374,Verbascum_thapsus,29.61306,-82.40807
 1502060998,Verbascum_thapsus,38.69,-0.25
-994554486,Verbascum_thapsus,-42.2,146.9
 1830684368,Verbascum_thapsus,33.816667,133.75
 1343108431,Verbascum_thapsus,55.789292,12.15188
 204394824,Verbascum_thapsus,34.40693,135.79846
-177051695,Verbascum_thapsus,38.4,-96.551389
 1830685606,Verbascum_thapsus,33.466667,133.083333
 1343107907,Verbascum_thapsus,56.486153,8.519656
 1343108284,Verbascum_thapsus,56.40345,10.708205
@@ -572,7 +564,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343108244,Verbascum_thapsus,57.485373,10.408091
 1701245624,Verbascum_thapsus,63.8408,11.3739
 1343108031,Verbascum_thapsus,55.749184,9.532399
-238100740,Verbascum_thapsus,37,140
 1343108087,Verbascum_thapsus,54.893824,9.832899
 1343107923,Verbascum_thapsus,56.908822,8.645612
 1343108082,Verbascum_thapsus,56.916956,9.581754
@@ -581,7 +572,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343108402,Verbascum_thapsus,55.957911,11.938198
 1343108400,Verbascum_thapsus,55.29422,11.873171
 1702166571,Verbascum_thapsus,60.2105,9.0226
-473438161,Verbascum_thapsus,46.9,-75.783333
 1701554072,Verbascum_thapsus,43.88222,11.23167
 1343108079,Verbascum_thapsus,55.523681,9.70359
 1697650359,Verbascum_thapsus,55.595274,40.381708
@@ -651,7 +641,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652139316,Verbascum_thapsus,-28.745747,151.998607
 994520553,Verbascum_thapsus,-42.48168,146.71437
 1843372525,Verbascum_thapsus,-38.75,177.016667
-29750991,Verbascum_thapsus,37.87,14.9
 177051698,Verbascum_thapsus,41.5446,-81.4729
 1343107995,Verbascum_thapsus,55.974648,9.279115
 1343107828,Verbascum_thapsus,55.791464,11.750139
@@ -665,7 +654,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343108033,Verbascum_thapsus,56.836761,9.416611
 1050627013,Verbascum_thapsus,41.76,-1.77
 1343108195,Verbascum_thapsus,56.454571,10.175015
-2291442939,Verbascum_thapsus,28.875,83.8
 1343108323,Verbascum_thapsus,55.354558,11.120231
 1050627019,Verbascum_thapsus,41.79,-1.77
 1343108006,Verbascum_thapsus,54.869122,9.380505
@@ -695,7 +683,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701237666,Verbascum_thapsus,63.5607,10.9226
 1343108029,Verbascum_thapsus,56.172148,9.344967
 1258557932,Verbascum_thapsus,41.52805,41.72138
-1257813865,Verbascum_thapsus,36.55,-93.1
 1830188870,Verbascum_thapsus,36.666667,137.183333
 1935731449,Verbascum_thapsus,47.09861,15.39167
 1343107964,Verbascum_thapsus,56.04684,9.022783
@@ -706,10 +693,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343107899,Verbascum_thapsus,56.07224,8.380242
 1701838998,Verbascum_thapsus,63.8411,11.1542
 1702178142,Verbascum_thapsus,59.6485,11.2666
-615420673,Verbascum_thapsus,35.2,74.7
 1702191783,Verbascum_thapsus,63.8528,11.1836
 1343108469,Verbascum_thapsus,55.586444,12.325313
-1262028911,Verbascum_thapsus,49.8,-74.9
 1343107896,Verbascum_thapsus,55.380639,8.438452
 1258589211,Verbascum_thapsus,47.6087,-122.3406
 1701337920,Verbascum_thapsus,63.8314,11.429
@@ -731,7 +716,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451581061,Verbascum_thapsus,-35.968448,148.698724
 995863679,Verbascum_thapsus,-35.97,148.697
 1937096807,Verbascum_thapsus,-35.97,148.6975
-991990818,Verbascum_thapsus,-35.97,148.7
 56685628,Verbascum_thapsus,32.03444,-85.38333
 29751687,Verbascum_thapsus,39.52,-2.01
 684327126,Verbascum_thapsus,51.054443,13.739166
@@ -756,7 +740,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615420671,Verbascum_thapsus,36.23,74.08
 187272853,Verbascum_thapsus,63.7991,11.2028
 1697650447,Verbascum_thapsus,56.524563,44.813343
-29751751,Verbascum_thapsus,39.7,-2.01
 1343108467,Verbascum_thapsus,55.372379,12.402922
 1343108433,Verbascum_thapsus,55.045447,12.251917
 1701222882,Verbascum_thapsus,63.864,11.0654
@@ -794,7 +777,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994031384,Verbascum_thapsus,-36.1658,149.3856
 615420454,Verbascum_thapsus,35.35,71.78
 615420452,Verbascum_thapsus,36.28,72.52
-615420465,Verbascum_thapsus,35.9,71.77
 1702150044,Verbascum_thapsus,60.1903,12.0152
 177051198,Verbascum_thapsus,38.82939,-94.637368
 57731222,Verbascum_thapsus,62.123402,25.703199
@@ -804,9 +786,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986947332,Verbascum_thapsus,41.531111,-113.744167
 1988765272,Verbascum_thapsus,42.04038,-84.24268
 1701827841,Verbascum_thapsus,59.568,11.2984
-615420477,Verbascum_thapsus,35.58,71.8
 1697650411,Verbascum_thapsus,58.366247,45.590962
-615420466,Verbascum_thapsus,35.98,72.1
 1948291449,Verbascum_thapsus,62.601437,29.72591
 615420480,Verbascum_thapsus,35.93,72.13
 996645782,Verbascum_thapsus,-33.607,115.485
@@ -819,8 +799,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988200648,Verbascum_thapsus,34.04,-116.94
 992002732,Verbascum_thapsus,-32.532051,138.067745
 2251624209,Verbascum_thapsus,-33.186667,-65.928333
-995522352,Verbascum_thapsus,-30.4,151.333333
-1830223541,Verbascum_thapsus,36.683333,137.2
 994477086,Verbascum_thapsus,-42.6139,147.36214
 30979598,Verbascum_thapsus,38.66,-0.06
 895222194,Verbascum_thapsus,41.393,-1.499
@@ -845,8 +823,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928284104,Verbascum_thapsus,38.81635,-119.5011
 1702017671,Verbascum_thapsus,60.6218,11.9908
 995129568,Verbascum_thapsus,27.345,99.9711
-895246000,Verbascum_thapsus,40.66,0.1
-1091127672,Verbascum_thapsus,-39.8,175.96
 1986969923,Verbascum_thapsus,41.500278,-111.958333
 177051763,Verbascum_thapsus,38.931395,-95.430806
 177051856,Verbascum_thapsus,39.301825,-97.055832
@@ -874,17 +850,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242384542,Verbascum_thapsus,39.849747,-105.360505
 21581556,Verbascum_thapsus,59.9847,12.1225
 1988897201,Verbascum_thapsus,45.97204,-86.27175
-2242379712,Verbascum_thapsus,40.16666,-105.5
 2242381066,Verbascum_thapsus,39.35,-104.53333
 51984063,Verbascum_thapsus,44.1702,-121.963
 1702010898,Verbascum_thapsus,59.434,11.6172
-2242379319,Verbascum_thapsus,39.61666,-105
 1701577359,Verbascum_thapsus,60.6874,11.1488
 1999480097,Verbascum_thapsus,60.686325,21.679062
 415933695,Verbascum_thapsus,41.77944,-72.56611
 994005030,Verbascum_thapsus,-35.3667,149.25
 993440207,Verbascum_thapsus,-35.35,149.0667
-615420441,Verbascum_thapsus,35.4,74.77
 177051869,Verbascum_thapsus,38.687134,-94.910047
 1988732273,Verbascum_thapsus,42.28856,-85.29538
 177051657,Verbascum_thapsus,38.396086,-94.650717
@@ -901,11 +874,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265450689,Verbascum_thapsus,46.277222,-94.339167
 615420401,Verbascum_thapsus,35.77,71.67
 2244177298,Verbascum_thapsus,52.200001,12.95
-615420425,Verbascum_thapsus,35.4,73.83
 177051661,Verbascum_thapsus,38.556632,-94.946175
 1598706017,Verbascum_thapsus,61.935045,29.780648
 1702436324,Verbascum_thapsus,59.9573,10.2802
-615420440,Verbascum_thapsus,35,75.42
 2265435370,Verbascum_thapsus,47.609444,-96.079722
 177051784,Verbascum_thapsus,38.585801,-94.938504
 177051655,Verbascum_thapsus,38.447702,-95.001532
@@ -922,11 +893,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1882363524,Verbascum_thapsus,48.79,10.61
 1701198464,Verbascum_thapsus,42.411119,11.145667
 1936901263,Verbascum_thapsus,-29.816667,151.116667
-994934239,Verbascum_thapsus,-35.35,149.3
-992561866,Verbascum_thapsus,-35.3,149.3
 1451515096,Verbascum_thapsus,-35.348441,149.301203
 1702405166,Verbascum_thapsus,59.7415,10.3075
-1882364367,Verbascum_thapsus,48.77,10.7
 1260978270,Verbascum_thapsus,36.61888,-91.87166
 177051633,Verbascum_thapsus,37.57035,-95.11641
 1228565281,Verbascum_thapsus,41.8333,-87.85
@@ -975,7 +943,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895238154,Verbascum_thapsus,40.58,0.34
 1261181324,Verbascum_thapsus,38.2946,-90.423
 1262035719,Verbascum_thapsus,46.805,-71.217222
-1949634455,Verbascum_thapsus,49.133333,-120.1
 187273233,Verbascum_thapsus,63.5576,10.2579
 388876417,Verbascum_thapsus,35.829611,139.93258
 295951911,Verbascum_thapsus,35.415769,139.653036
@@ -1015,11 +982,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441859223,Verbascum_thapsus,47.275,-121.325
 1701927841,Verbascum_thapsus,59.1867,10.969
 995502826,Verbascum_thapsus,-29.816667,151.133333
-995501360,Verbascum_thapsus,-30.783333,151.3
 1598706094,Verbascum_thapsus,60.953457,24.58538
 895237015,Verbascum_thapsus,40.48,0.23
 1701840299,Verbascum_thapsus,60.1128,12.1257
-1988090464,Verbascum_thapsus,49,-119.5
 1989156901,Verbascum_thapsus,44.489031,-85.92422
 1702182595,Verbascum_thapsus,61.5158,11.265
 177051625,Verbascum_thapsus,37.59566,-95.24331
@@ -1043,10 +1008,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829695826,Verbascum_thapsus,36.16806,139.1375
 1702207254,Verbascum_thapsus,61.0856,9.2317
 1949612804,Verbascum_thapsus,49.078333,-119.625
-860317953,Verbascum_thapsus,42.4,2.21
 895203531,Verbascum_thapsus,39.7174,-0.4643
 895193977,Verbascum_thapsus,39.76,-0.26
-1930435107,Verbascum_thapsus,44.25,-75.5
 29750578,Verbascum_thapsus,39.42,-0.97
 21581563,Verbascum_thapsus,61.378,11.4169
 1598705959,Verbascum_thapsus,60.973529,24.504413
@@ -1061,7 +1024,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999480154,Verbascum_thapsus,60.423047,22.319755
 1261181039,Verbascum_thapsus,38.75,-89.25
 1705300177,Verbascum_thapsus,57.679676,14.279828
-1144799213,Verbascum_thapsus,42.2,9.08333
 1598706004,Verbascum_thapsus,60.876222,24.346239
 1989031113,Verbascum_thapsus,41.84217,-84.9843
 1598706008,Verbascum_thapsus,62.207414,30.639411
@@ -1084,8 +1046,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29752615,Verbascum_thapsus,40.622,-0.606
 2270587437,Verbascum_thapsus,33.9345,-112.693
 1989312009,Verbascum_thapsus,42.31438,-84.81651
-1144799237,Verbascum_thapsus,42.81667,9.4
-1144799216,Verbascum_thapsus,42.4,9.33333
 2270563603,Verbascum_thapsus,34.0361,-109.69
 1988689320,Verbascum_thapsus,45.41222,-83.83359
 1697650330,Verbascum_thapsus,56.200879,21.15778
@@ -1098,7 +1058,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265451322,Verbascum_thapsus,45.925,-93.377222
 1988879334,Verbascum_thapsus,44.3371,-85.23143
 1144799194,Verbascum_thapsus,41.85,9.23333
-1899311498,Verbascum_thapsus,48.2,-90.083333
 1426181436,Verbascum_thapsus,41.465099,-120.224899
 1144179503,Verbascum_thapsus,61.4548,7.5275
 2265452262,Verbascum_thapsus,45.6125,-93.820833
@@ -1110,7 +1069,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295951881,Verbascum_thapsus,35.482422,139.278064
 295951882,Verbascum_thapsus,35.465761,139.453051
 1949628704,Verbascum_thapsus,50.083333,-120.466667
-993902190,Verbascum_thapsus,-36.7,149.3833
 1697650400,Verbascum_thapsus,54.197614,36.308225
 1989384207,Verbascum_thapsus,44.79661,-84.08739
 1701619356,Verbascum_thapsus,59.0757,7.5783
@@ -1118,7 +1076,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702172695,Verbascum_thapsus,58.9768,7.565
 1260930486,Verbascum_thapsus,37.74194,-94.33416
 1598705952,Verbascum_thapsus,60.295231,22.617897
-1500701122,Verbascum_thapsus,40.75,-0.1
 1851411801,Verbascum_thapsus,42.878,-4.622
 1989476455,Verbascum_thapsus,45.2601,-84.17005
 1936445881,Verbascum_thapsus,41.0235,-3.9409
@@ -1140,21 +1097,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144799218,Verbascum_thapsus,42.06667,9.16667
 1936545460,Verbascum_thapsus,43.0026,-4.1914
 1897779722,Verbascum_thapsus,-36.866667,174.466667
-1144799231,Verbascum_thapsus,42.8,9.35
 1091305524,Verbascum_thapsus,-43.216666,171.605
 1501964238,Verbascum_thapsus,39.78,-0.96
 1144799199,Verbascum_thapsus,42.71667,9.35
 1261178295,Verbascum_thapsus,38.125,-90.675
-1262020631,Verbascum_thapsus,47.766667,-79.2
 234437879,Verbascum_thapsus,35.482424,139.34056
 1144799208,Verbascum_thapsus,42.15,9.55
 29751202,Verbascum_thapsus,39.07,-2.71
 1598706000,Verbascum_thapsus,61.568166,22.694494
 234437883,Verbascum_thapsus,35.307449,139.540546
-1053983775,Verbascum_thapsus,42.65,-1.2
 1144799207,Verbascum_thapsus,42.08333,9.08333
 1434763803,Verbascum_thapsus,40.223221,-7.036918
-1899274899,Verbascum_thapsus,48.216667,-82.1
 1977999284,Verbascum_thapsus,37.820036,-83.579237
 234437882,Verbascum_thapsus,35.457431,139.615538
 1949590941,Verbascum_thapsus,50.180556,-120.533333
@@ -1176,8 +1129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598705973,Verbascum_thapsus,60.720381,24.788939
 234437880,Verbascum_thapsus,35.465763,139.615538
 111314495,Verbascum_thapsus,42.721001,-1.15
-1231232314,Verbascum_thapsus,48.3,16.4
-1050645945,Verbascum_thapsus,42.93,-1.4
 1598706047,Verbascum_thapsus,60.967938,24.85765
 1927870344,Verbascum_thapsus,43.0867,-112.0128
 1598706124,Verbascum_thapsus,60.664402,24.664705
@@ -1191,11 +1142,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111314493,Verbascum_thapsus,42.747002,-1.063
 1598705996,Verbascum_thapsus,63.068156,21.727635
 994776983,Verbascum_thapsus,-36.4667,146.7833
-994776961,Verbascum_thapsus,-36.4,146.6167
 2251621887,Verbascum_thapsus,-31.198611,-64.583611
-1897684473,Verbascum_thapsus,-36.8,174.883333
 992591674,Verbascum_thapsus,-36.83206,139.867777
-1851376182,Verbascum_thapsus,42.39,-5
 234437886,Verbascum_thapsus,35.449092,139.290564
 1502015017,Verbascum_thapsus,40.05,-1.42
 177051506,Verbascum_thapsus,37.64695,-98.02674
@@ -1213,7 +1161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242368984,Verbascum_thapsus,39.861617,-104.818769
 2265420058,Verbascum_thapsus,44.258057,-91.991669
 1702421902,Verbascum_thapsus,60.4543,10.0816
-1929619788,Verbascum_thapsus,18.8,-70.67
 234437893,Verbascum_thapsus,35.482428,139.603039
 1451487968,Verbascum_thapsus,-29.631756,151.234441
 1936988968,Verbascum_thapsus,-29.63,151.23
@@ -1287,14 +1234,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111314093,Verbascum_thapsus,43.023998,-3.043
 1144111257,Verbascum_thapsus,61.4093,6.3118
 111314092,Verbascum_thapsus,43.356998,-3.105
-473445527,Verbascum_thapsus,45.5,-73.6
 1936684504,Verbascum_thapsus,42.6289,-2.3915
 668802925,Verbascum_thapsus,46.783333,-71.275
 1830151674,Verbascum_thapsus,36.683333,137.216667
 1929937427,Verbascum_thapsus,38.807408,-111.533406
 1228232846,Verbascum_thapsus,41.893529,-88.770315
-1851355395,Verbascum_thapsus,43,-6.24
-995646525,Verbascum_thapsus,-30.6,151.32
 1451487948,Verbascum_thapsus,-30.59842,151.31778
 995194729,Verbascum_thapsus,-37.2667,144.15
 1930039256,Verbascum_thapsus,18.28,-71.72
@@ -1306,7 +1250,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668802916,Verbascum_thapsus,46.783333,-71.283333
 1144111169,Verbascum_thapsus,60.56901,5.51371
 1262009651,Verbascum_thapsus,45.568333,-72.858333
-1842891232,Verbascum_thapsus,41.68,1.5
 1988761340,Verbascum_thapsus,45.119444,-86.016944
 1936602700,Verbascum_thapsus,43.4386,-3.7427
 1701313596,Verbascum_thapsus,64.133,11.6782
@@ -1327,7 +1270,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1834899063,Verbascum_thapsus,35.3125,139.35625
 1260936163,Verbascum_thapsus,39.55222,-92.63416
 1834899205,Verbascum_thapsus,35.3125,139.34375
-1030493319,Verbascum_thapsus,41,-86
 2242364278,Verbascum_thapsus,39.550164,-105.099111
 1260935387,Verbascum_thapsus,40.3875,-91.57833
 1305258629,Verbascum_thapsus,41.77,-86.25
@@ -1335,14 +1277,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1666704917,Verbascum_thapsus,29.89544,-98.65653
 788608225,Verbascum_thapsus,62.8478,18.01086
 606657813,Verbascum_thapsus,41.06583,-73.39222
-1262034697,Verbascum_thapsus,45.405,-74.3
 1701989016,Verbascum_thapsus,59.6474,8.317
 1701787557,Verbascum_thapsus,59.3334,8.3761
 177051745,Verbascum_thapsus,37.633841,-94.812092
-1804556000,Verbascum_thapsus,44.7,-75.55
 1712604242,Verbascum_thapsus,42.319268,-1.726005
 234437887,Verbascum_thapsus,35.490756,139.378056
-1702509902,Verbascum_thapsus,43,-1.51
 883419136,Verbascum_thapsus,49.7350199990699,-113.400285
 1988979614,Verbascum_thapsus,44.27269,-83.51059
 1262007212,Verbascum_thapsus,45.283333,-74.033333
@@ -1358,20 +1297,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111314636,Verbascum_thapsus,42.66,-1.23
 211641247,Verbascum_thapsus,43.240002,-6.13
 1899338533,Verbascum_thapsus,44.983333,-80.05
-1929509434,Verbascum_thapsus,18.33,-72.1
 919597070,Verbascum_thapsus,27.177166,99.28717
 919599576,Verbascum_thapsus,26.876096,100.229945
 919599640,Verbascum_thapsus,28.48611,98.911543
 919459309,Verbascum_thapsus,27.82308,99.706013
-995194753,Verbascum_thapsus,-37.1,148.4
 995194780,Verbascum_thapsus,-36.9667,148.5333
-1936825992,Verbascum_thapsus,-30.4,151.65
 217686395,Verbascum_thapsus,37.44,-4.41
 1434763924,Verbascum_thapsus,40.741016,-7.185726
 1434763960,Verbascum_thapsus,40.736256,-8.367857
 2270624148,Verbascum_thapsus,34.1649,-112.679
-217686394,Verbascum_thapsus,37.35,-4.3
-1804474571,Verbascum_thapsus,45.3,-75.55
 2242365283,Verbascum_thapsus,40.66478,-105.466127
 1248749380,Verbascum_thapsus,47.289167,-79.460556
 1262007956,Verbascum_thapsus,46.854722,-72.464722
@@ -1393,7 +1327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930851964,Verbascum_thapsus,18.65,-70.72
 1834899075,Verbascum_thapsus,35.3625,139.36875
 1451486556,Verbascum_thapsus,-31.781756,150.901138
-1937033482,Verbascum_thapsus,-31.78,150.9
 1091202819,Verbascum_thapsus,-42.966666,172.716666
 1260846092,Verbascum_thapsus,37.118333,-91.58333
 234437894,Verbascum_thapsus,35.474096,139.678032
@@ -1409,7 +1342,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451630296,Verbascum_thapsus,-29.931757,150.917782
 1937236771,Verbascum_thapsus,-29.93,150.92
 2270563729,Verbascum_thapsus,35.0872,-113.889
-1846524500,Verbascum_thapsus,35.075,-113.9
 1260936120,Verbascum_thapsus,39.4925,-92.59916
 1806555092,Verbascum_thapsus,43.161,-1.715
 1834899078,Verbascum_thapsus,35.4375,139.24375
@@ -1437,7 +1369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927865372,Verbascum_thapsus,40.4994,-112.5619
 177051806,Verbascum_thapsus,37.97169,-100.87266
 1099111545,Verbascum_thapsus,51.0275,7.848055
-1899351296,Verbascum_thapsus,47.8,-79.883333
 1829422010,Verbascum_thapsus,43.041944,141.293611
 1323760464,Verbascum_thapsus,59.2118,10.7813
 2270564327,Verbascum_thapsus,36.2742,-113.638
@@ -1446,10 +1377,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999480136,Verbascum_thapsus,60.096921,22.7802
 1655988893,Verbascum_thapsus,59.19856,10.87356
 1899284508,Verbascum_thapsus,45.183333,-78.833333
-1091245692,Verbascum_thapsus,-43.4,170.9
 1091255781,Verbascum_thapsus,-45.533333,169.316666
 2270564011,Verbascum_thapsus,32.96,-109.406
-1988174181,Verbascum_thapsus,49.8,-119.5
 1702245823,Verbascum_thapsus,58.97009,5.71814
 1804398042,Verbascum_thapsus,45.666667,-76.666667
 1144111181,Verbascum_thapsus,60.8834,5.91677
@@ -1457,7 +1386,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845010984,Verbascum_thapsus,49.958611,8.174167
 438779750,Verbascum_thapsus,44.61278,6.08139
 1851371275,Verbascum_thapsus,42.83,-5.39
-1899359622,Verbascum_thapsus,45.1,-78.598611
 1830495487,Verbascum_thapsus,35.07,135.04
 900226584,Verbascum_thapsus,59.1775,6.0688
 1930357948,Verbascum_thapsus,39.9069,-111.2519
@@ -1470,8 +1398,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091265503,Verbascum_thapsus,-39.383333,176.328333
 1091199732,Verbascum_thapsus,-43.05,172.683333
 1451630283,Verbascum_thapsus,-29.515091,151.001111
-1937003569,Verbascum_thapsus,-29.52,151
-1897747188,Verbascum_thapsus,-41.4,175.15
 177051351,Verbascum_thapsus,38.780842,-99.735786
 177051840,Verbascum_thapsus,39.01125,-100.62861
 1701304082,Verbascum_thapsus,62.8237,9.991
@@ -1479,7 +1405,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697650355,Verbascum_thapsus,55.510039,41.731442
 177051904,Verbascum_thapsus,39.39321,-99.27477
 1843862007,Verbascum_thapsus,34.983637,-106.681911
-1804469565,Verbascum_thapsus,48.6,-83.35
 895000087,Verbascum_thapsus,49.866667,-113.25
 1598705980,Verbascum_thapsus,61.772688,25.623292
 1989206923,Verbascum_thapsus,45.860892,-84.872044
@@ -1495,7 +1420,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937237321,Verbascum_thapsus,-33.02,150.02
 1897739398,Verbascum_thapsus,-38.916667,175.95
 2270622227,Verbascum_thapsus,33.5092,-111.829
-993637553,Verbascum_thapsus,-35.3167,148.9
 993637579,Verbascum_thapsus,-35.35,149.0167
 177051493,Verbascum_thapsus,39.7712,-101.79993
 1091099506,Verbascum_thapsus,-37.916666,177.516666
@@ -1553,7 +1477,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995576591,Verbascum_thapsus,-31.52,150.67
 1451456237,Verbascum_thapsus,-31.515092,150.667804
 1091127550,Verbascum_thapsus,-37.783333,176.316666
-211640839,Verbascum_thapsus,43.560001,-7.7
 1701252492,Verbascum_thapsus,63.7319,11.6098
 615420460,Verbascum_thapsus,36.17,74.17
 1144799209,Verbascum_thapsus,42.23333,9.06667
@@ -1569,13 +1492,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313444774,Verbascum_thapsus,48.19,11.38
 1248749377,Verbascum_thapsus,52.366667,-113.766667
 1701988981,Verbascum_thapsus,59.0611,7.9277
-1144799241,Verbascum_thapsus,41.86667,9.2
 1702424186,Verbascum_thapsus,60.0545,10.5535
 1988727704,Verbascum_thapsus,41.97312,-86.55373
 1701989041,Verbascum_thapsus,59.1427,8.03
 1988678923,Verbascum_thapsus,46.643085,-88.480509
 1434764013,Verbascum_thapsus,40.03923,-7.115
-768795884,Verbascum_thapsus,53.01666,-2.6
 177051901,Verbascum_thapsus,38.32221,-96.99261
 1258928958,Verbascum_thapsus,38.95,-92.33333
 993728283,Verbascum_thapsus,-33.0167,146.1167
@@ -1585,7 +1506,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270564252,Verbascum_thapsus,34.5636,-111.854
 615420573,Verbascum_thapsus,34.38,68.67
 1248749415,Verbascum_thapsus,51.35,-57.95
-1829604941,Verbascum_thapsus,36.2,139.3
 768795851,Verbascum_thapsus,41.82722,-73.25166
 1260946996,Verbascum_thapsus,39.49166,-91.81972
 1899357265,Verbascum_thapsus,43.8875,-79.091667
@@ -1598,7 +1518,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701762781,Verbascum_thapsus,63.1573,9.7443
 1930676084,Verbascum_thapsus,40.688105,-105.432393
 1933824384,Verbascum_thapsus,35.62558,140.10597
-1258930953,Verbascum_thapsus,49.15,-120.8
 1144111217,Verbascum_thapsus,60.6075,6.9349
 1899384034,Verbascum_thapsus,44.35,-76.416667
 1038941322,Verbascum_thapsus,41.3114,-72.9247
@@ -1607,8 +1526,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415924068,Verbascum_thapsus,41.605,-72.87972
 1030893997,Verbascum_thapsus,30.004589,99.107741
 1091271373,Verbascum_thapsus,-41.18343,174.9716
-1091201565,Verbascum_thapsus,-38.1,175.7
-1144799229,Verbascum_thapsus,42.46667,9.2
 1434764055,Verbascum_thapsus,41.584816,-6.528185
 1699964865,Verbascum_thapsus,40.294357,8.5013
 177051336,Verbascum_thapsus,38.98248,-95.12689
@@ -1634,7 +1551,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846524051,Verbascum_thapsus,35.06455,-111.49968
 1598706156,Verbascum_thapsus,61.448701,22.213499
 1261980055,Verbascum_thapsus,48.433333,-72.066667
-1144799222,Verbascum_thapsus,42.01667,9.2
 1598706183,Verbascum_thapsus,61.243538,24.66856
 1598706103,Verbascum_thapsus,61.441996,22.026732
 1899298979,Verbascum_thapsus,45.15,-78.45
@@ -1657,8 +1573,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295951998,Verbascum_thapsus,35.315777,139.35306
 1260851584,Verbascum_thapsus,48.081389,6.926111
 1434764108,Verbascum_thapsus,41.697659,-7.437968
-441859220,Verbascum_thapsus,46.5,-119.716667
-1899384246,Verbascum_thapsus,43.75,-79.8
 993786275,Verbascum_thapsus,-35.3667,149.2167
 1030893876,Verbascum_thapsus,29.037008,100.298406
 1144111206,Verbascum_thapsus,60.32605,6.17715
@@ -1679,9 +1593,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441859640,Verbascum_thapsus,43.770118,-114.370811
 1929133176,Verbascum_thapsus,41.31,-118.42
 187272990,Verbascum_thapsus,63.5994,10.7034
-1144799197,Verbascum_thapsus,41.8,9.23333
 177051786,Verbascum_thapsus,44.03166,-103.525
-1988194461,Verbascum_thapsus,50.7,-120.3
 1701790199,Verbascum_thapsus,61.9207,5.314
 1899382313,Verbascum_thapsus,44.833333,-79.333333
 992217576,Verbascum_thapsus,-37.067549,148.368788
@@ -1691,7 +1603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177051511,Verbascum_thapsus,38.02993,-95.17497
 177051925,Verbascum_thapsus,38.09817,-95.15517
 177051356,Verbascum_thapsus,38.01514,-94.86485
-2291029352,Verbascum_thapsus,43.816667,6.8
 30979078,Verbascum_thapsus,38.78,-0.52
 1701717911,Verbascum_thapsus,60.5566,9.7778
 1144799223,Verbascum_thapsus,42.35,9.23333
@@ -1703,8 +1614,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701569460,Verbascum_thapsus,59.5607,10.4244
 2238607386,Verbascum_thapsus,61.01086,22.557645
 895000132,Verbascum_thapsus,49.366667,-114.366667
-895000095,Verbascum_thapsus,50.8,-114.483333
-1030493336,Verbascum_thapsus,42,-85
 1144799215,Verbascum_thapsus,42.15,9.15
 895000094,Verbascum_thapsus,49.066667,-113.933333
 177051691,Verbascum_thapsus,44.042716,-103.526844
@@ -1726,7 +1635,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1092710492,Verbascum_thapsus,42.56866,-102.99991
 1999480057,Verbascum_thapsus,60.07454,22.783071
 1092710549,Verbascum_thapsus,38.28879,-105.11806
-1804585175,Verbascum_thapsus,45.9,-79.333333
 1434764160,Verbascum_thapsus,41.716717,-7.523463
 1598706130,Verbascum_thapsus,60.723605,27.638319
 2270562450,Verbascum_thapsus,34.0084,-109.859
@@ -1735,7 +1643,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843887773,Verbascum_thapsus,35.172622,-108.092025
 51983894,Verbascum_thapsus,44.5386,-123.2492
 1598705915,Verbascum_thapsus,61.602186,24.641638
-1899318380,Verbascum_thapsus,45.383333,-80.1
 1701325103,Verbascum_thapsus,63.7605,11.3722
 2270563609,Verbascum_thapsus,33.1816,-109.383
 2270564636,Verbascum_thapsus,34.3073,-110.045
@@ -1769,8 +1676,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270566112,Verbascum_thapsus,34.3086,-111.343
 788596214,Verbascum_thapsus,56.13037,14.24832
 1843888238,Verbascum_thapsus,34.387167,-106.859925
-993711826,Verbascum_thapsus,-36,148.45
-995918632,Verbascum_thapsus,-30.5,151.67
 1451603907,Verbascum_thapsus,-30.498417,151.667773
 1451711536,Verbascum_thapsus,-36.548439,149.867882
 996188946,Verbascum_thapsus,-36.55,149.87
@@ -1805,7 +1710,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996162292,Verbascum_thapsus,-33.92,151.17
 1701342029,Verbascum_thapsus,62.5772,9.1849
 1451708179,Verbascum_thapsus,-33.915089,151.167823
-615420617,Verbascum_thapsus,35.42,69
 177051483,Verbascum_thapsus,38.40562,-96.07861
 2270623117,Verbascum_thapsus,34.15,-109.985
 1999480065,Verbascum_thapsus,60.288094,23.479536
@@ -1815,7 +1719,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705361989,Verbascum_thapsus,56.805334,14.037221
 1701927590,Verbascum_thapsus,61.372,10.2872
 1999480095,Verbascum_thapsus,60.477822,22.093248
-1897717768,Verbascum_thapsus,-40.333333,175.6
 473262187,Verbascum_thapsus,45.095833,-72.251944
 2270564548,Verbascum_thapsus,33.8787,-111.467
 1896071463,Verbascum_thapsus,45.107778,-97.217778
@@ -1829,7 +1732,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768795886,Verbascum_thapsus,38.80361,-90.10555
 2270563234,Verbascum_thapsus,34.0132,-111.324
 1598706116,Verbascum_thapsus,61.078762,28.201322
-1899364263,Verbascum_thapsus,47.7,-85.8
 1598706082,Verbascum_thapsus,60.971243,24.503796
 1417515754,Verbascum_thapsus,45.99,-73.9979
 1843888116,Verbascum_thapsus,35.194504,-106.4053
@@ -1889,9 +1791,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2252418845,Verbascum_thapsus,42.4457,-84.01614
 1843887974,Verbascum_thapsus,35.697054,-105.910279
 1598705910,Verbascum_thapsus,61.711975,27.280514
-1261996200,Verbascum_thapsus,45.533333,-74
 768795866,Verbascum_thapsus,41.66694,-72.66638
-995005992,Verbascum_thapsus,-37.7167,142
 177051478,Verbascum_thapsus,39.671572,-97.647509
 1843887489,Verbascum_thapsus,33.31687,-108.883009
 1697650462,Verbascum_thapsus,55.697485,36.733977
@@ -1923,7 +1823,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788565629,Verbascum_thapsus,56.134164,13.965605
 883367940,Verbascum_thapsus,53.6174789990996,-114.143087
 1705425899,Verbascum_thapsus,59.842233,18.438182
-1135465342,Verbascum_thapsus,47.43333,13.9
 1989191934,Verbascum_thapsus,48.08555,-88.70813
 1598706109,Verbascum_thapsus,61.057343,24.31177
 1598706056,Verbascum_thapsus,60.944678,26.692447
@@ -1958,9 +1857,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999480127,Verbascum_thapsus,60.790065,21.346169
 1989162955,Verbascum_thapsus,45.747131,-85.521666
 1989113194,Verbascum_thapsus,48.108087,-88.604633
-1261958626,Verbascum_thapsus,46.916667,-71.1
 2313346509,Verbascum_thapsus,48.17,11.46
-1988071387,Verbascum_thapsus,49,-114.47
 1999480098,Verbascum_thapsus,60.445684,22.198206
 1897779695,Verbascum_thapsus,-38.685692,176.07021
 1705327745,Verbascum_thapsus,57.042658,16.446171
@@ -2010,7 +1907,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598706021,Verbascum_thapsus,62.240436,25.736683
 1999480194,Verbascum_thapsus,60.375404,22.372117
 1999570946,Verbascum_thapsus,60.458421,22.178232
-1261960496,Verbascum_thapsus,46.8,-71.183333
 1598705979,Verbascum_thapsus,61.156934,24.860765
 1989222899,Verbascum_thapsus,44.673175,-85.466601
 465768506,Verbascum_thapsus,45.421054,-64.35454
@@ -2036,7 +1932,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989359124,Verbascum_thapsus,46.419897,-86.553495
 1804547762,Verbascum_thapsus,49.4166669990682,-82.416667
 1702008997,Verbascum_thapsus,61.8762,9.1521
-668802908,Verbascum_thapsus,47.4,-70.390556
 1598706155,Verbascum_thapsus,60.903814,26.536346
 1701881448,Verbascum_thapsus,59.199,10.8322
 1261989639,Verbascum_thapsus,46.488056,-70.202222
@@ -2050,18 +1945,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702172720,Verbascum_thapsus,58.76,8.7926
 788564350,Verbascum_thapsus,56.031862,14.152378
 1598706055,Verbascum_thapsus,61.521074,25.2117
-1261952403,Verbascum_thapsus,46.05,-72.7
 473492128,Verbascum_thapsus,45.5422,-73.6939
 1701252254,Verbascum_thapsus,63.43,9.0501
 1701927539,Verbascum_thapsus,59.5081,9.9275
 1701225940,Verbascum_thapsus,63.4561,11.3168
 1144111173,Verbascum_thapsus,59.04558,5.99703
-1899302330,Verbascum_thapsus,42.8,-80.25
 1702409218,Verbascum_thapsus,62.3396,7.5712
 1846523833,Verbascum_thapsus,34.022532,-111.74008
 1030724751,Verbascum_thapsus,29.671778,115.989221
 1451686692,Verbascum_thapsus,-32.048424,150.867809
-1091121429,Verbascum_thapsus,-45.466666,170.7
 1846526034,Verbascum_thapsus,31.90435,-109.275987
 187273013,Verbascum_thapsus,63.0473,10.2755
 177051480,Verbascum_thapsus,39.09568,-95.3913
@@ -2090,7 +1982,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701337930,Verbascum_thapsus,63.1231,8.2863
 318239563,Verbascum_thapsus,58.7676,5.8536
 51984283,Verbascum_thapsus,44.4017,-122.0067
-995386564,Verbascum_thapsus,-42.1,146.8833
 860319775,Verbascum_thapsus,42.03,0.77
 1999602998,Verbascum_thapsus,61.240209,24.482492
 788564634,Verbascum_thapsus,56.342768,13.658539
@@ -2186,7 +2077,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702421879,Verbascum_thapsus,60.1698,9.6488
 1622358297,Verbascum_thapsus,60.992188,25.657203
 899815288,Verbascum_thapsus,46.8333,13.8333
-994512881,Verbascum_thapsus,-42.9,147.3
 1702421769,Verbascum_thapsus,60.54419,6.66526
 768795882,Verbascum_thapsus,41.83166,-71.58722
 1261948699,Verbascum_thapsus,48.062778,-66.329167
@@ -2221,7 +2111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598705887,Verbascum_thapsus,61.531223,27.654819
 1598706038,Verbascum_thapsus,61.282398,22.612489
 1598706033,Verbascum_thapsus,61.336391,29.145377
-1899317035,Verbascum_thapsus,48,-85
 1598706012,Verbascum_thapsus,60.257122,24.739081
 1598706067,Verbascum_thapsus,61.712227,26.902385
 1702160298,Verbascum_thapsus,59.195,11.0421
@@ -2266,28 +2155,23 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768795885,Verbascum_thapsus,44.27166,-64.84166
 996090760,Verbascum_thapsus,-31.52,150.97
 1451687058,Verbascum_thapsus,-31.515088,150.967799
-1144799198,Verbascum_thapsus,41.78333,9.4
 1702303325,Verbascum_thapsus,59.148,11.5612
 1321274255,Verbascum_thapsus,38.8664,-77.7064
 1598706052,Verbascum_thapsus,63.050657,21.753743
 1998559052,Verbascum_thapsus,27.61,99.02
 1702409275,Verbascum_thapsus,62.2554,7.2671
 1701988978,Verbascum_thapsus,59.7618,7.7895
-1998834246,Verbascum_thapsus,26.8,100.2667
 1701927624,Verbascum_thapsus,60.6637,10.9441
 1705275703,Verbascum_thapsus,57.589867,16.056013
 1831355491,Verbascum_thapsus,53.5485,11.7486
 1701563856,Verbascum_thapsus,61.7725,9.5344
 1705430268,Verbascum_thapsus,56.463695,15.807918
 1598705951,Verbascum_thapsus,61.260968,26.158381
-1899367342,Verbascum_thapsus,47,-84.75
 788564865,Verbascum_thapsus,56.20756,15.09578
 788578247,Verbascum_thapsus,60.51014,15.37209
 1042830063,Verbascum_thapsus,56.20606,12.80831
 1843888265,Verbascum_thapsus,33.316871,-108.883012
 1899360668,Verbascum_thapsus,43.862691,-79.310131
-1999319230,Verbascum_thapsus,27.7,99.05
-1999278330,Verbascum_thapsus,28.5,98.8667
 1318107046,Verbascum_thapsus,38.8589,-77.6864
 1701957764,Verbascum_thapsus,63.2667,10.335
 1893208608,Verbascum_thapsus,49.46,6.01
@@ -2318,14 +2202,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441859227,Verbascum_thapsus,47.65889,-117.425
 1701664661,Verbascum_thapsus,59.7552,11.3584
 1702288649,Verbascum_thapsus,59.796,11.5752
-1144799234,Verbascum_thapsus,41.86667,9.4
 1598706032,Verbascum_thapsus,60.904323,26.720603
 1701875527,Verbascum_thapsus,59.6769,10.5892
 1702288578,Verbascum_thapsus,59.789,11.6995
 1705256656,Verbascum_thapsus,57.239767,16.003957
 788665960,Verbascum_thapsus,57.5325,11.96047
 1899315053,Verbascum_thapsus,44.366667,-79.183333
-1999348492,Verbascum_thapsus,28.6,102.583344
 441859224,Verbascum_thapsus,48.725278,-118.965833
 57731227,Verbascum_thapsus,60.8876,24.5931
 1899369363,Verbascum_thapsus,44.005842,-79.573288
@@ -2376,7 +2258,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701988949,Verbascum_thapsus,59.9424,8.8837
 788561316,Verbascum_thapsus,57.1062,12.24021
 1705317601,Verbascum_thapsus,56.452898,13.347662
-996090489,Verbascum_thapsus,-29,144.4
 1451686686,Verbascum_thapsus,-28.998468,144.401213
 1303993919,Verbascum_thapsus,30.031529,101.014427
 177051345,Verbascum_thapsus,38.868639,-97.158196
@@ -2470,7 +2351,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788561930,Verbascum_thapsus,55.835334,13.298413
 788574747,Verbascum_thapsus,60.82217,14.99697
 1705363315,Verbascum_thapsus,59.426203,17.007247
-996090690,Verbascum_thapsus,-36.77,149.7
 1451686864,Verbascum_thapsus,-36.765108,149.701223
 1697650429,Verbascum_thapsus,55.730143,36.894283
 187273028,Verbascum_thapsus,59.7184,10.3689
@@ -2488,7 +2368,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705400763,Verbascum_thapsus,57.867966,16.159031
 1701927600,Verbascum_thapsus,60.37037,5.41776
 1144111159,Verbascum_thapsus,60.4161,5.305
-995343436,Verbascum_thapsus,-36.5,143.9667
 465768516,Verbascum_thapsus,45.36468,-63.27865
 2313347365,Verbascum_thapsus,48.22,11.62
 1039001856,Verbascum_thapsus,41.6523,-73.3145
@@ -2584,7 +2463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697650351,Verbascum_thapsus,55.381385,41.848211
 1144111189,Verbascum_thapsus,60.40982,5.78118
 788574246,Verbascum_thapsus,59.61238,16.540739
-1937005341,Verbascum_thapsus,-37.7,148.466667
 1936172444,Verbascum_thapsus,40.055,-0.5181
 1928385023,Verbascum_thapsus,43.613739,-116.23765
 788578189,Verbascum_thapsus,59.96981,18.36898
@@ -2652,7 +2530,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144568760,Verbascum_thapsus,42.05,8.71667
 1701989012,Verbascum_thapsus,59.0997,9.672
 1090164,Verbascum_thapsus,57.69422,14.98373
-1988107601,Verbascum_thapsus,50.45,-119.2
 1927766701,Verbascum_thapsus,60.416667,24.325556
 1260960516,Verbascum_thapsus,37.14638,-94.46277
 812033747,Verbascum_thapsus,50.596783,10.05025
