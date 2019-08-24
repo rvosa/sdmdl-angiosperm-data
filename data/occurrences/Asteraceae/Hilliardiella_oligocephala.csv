@@ -17,13 +17,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2308274402,Hilliardiella_oligocephala,-25.16,31.25
 1322079663,Hilliardiella_oligocephala,-22.7087,17.0609
 1318805997,Hilliardiella_oligocephala,-25.2706,28.2764
-1321460229,Hilliardiella_oligocephala,-25.25,27.1
 685220994,Hilliardiella_oligocephala,-25.375,27.125
 685220995,Hilliardiella_oligocephala,-25.375,28.375
 461974188,Hilliardiella_oligocephala,-25.875,30.875
 461974186,Hilliardiella_oligocephala,-26.875,26.625
 2288688302,Hilliardiella_oligocephala,-28.687133,31.6963
-1096908568,Hilliardiella_oligocephala,-28,31
 461974185,Hilliardiella_oligocephala,-25.625,28.375
 685220991,Hilliardiella_oligocephala,-28.375,28.875
 461974178,Hilliardiella_oligocephala,-26.625,32.125
@@ -80,12 +78,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461974094,Hilliardiella_oligocephala,-23.875,28.625
 461974095,Hilliardiella_oligocephala,-25.625,26.125
 461974101,Hilliardiella_oligocephala,-24.375,27.625
-2291903497,Hilliardiella_oligocephala,-25.6,32.25
 461974092,Hilliardiella_oligocephala,-24.625,31.125
 461974085,Hilliardiella_oligocephala,-30.625,30.125
 461974077,Hilliardiella_oligocephala,-23.875,29.375
 461974143,Hilliardiella_oligocephala,-26.625,28.125
-2290591206,Hilliardiella_oligocephala,-10.583333,33.8
 461974082,Hilliardiella_oligocephala,-25.625,30.625
 461974076,Hilliardiella_oligocephala,-23.125,30.125
 461974138,Hilliardiella_oligocephala,-26.625,27.875
