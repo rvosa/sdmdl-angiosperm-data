@@ -10,7 +10,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 575096718,Lonicera_webbiana,34.601944,103.390556
 575026024,Lonicera_webbiana,34.465278,103.586389
 615354481,Lonicera_webbiana,33.92,73.38
-615354509,Lonicera_webbiana,30,93.93
 2289886253,Lonicera_webbiana,28.596917,84.123417
 615354506,Lonicera_webbiana,31.95,101.05
 615354512,Lonicera_webbiana,31.95,102.65
@@ -47,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030802165,Lonicera_webbiana,36.075898,103.757243
 1030913601,Lonicera_webbiana,30.911944,102.546111
 1031020120,Lonicera_webbiana,30.066708,102.758313
-615354602,Lonicera_webbiana,34.07,73.4
 1303871481,Lonicera_webbiana,38.798957,113.432164
 1303819837,Lonicera_webbiana,35.555814,106.046122
 919610198,Lonicera_webbiana,26.56023,100.17643
@@ -58,8 +56,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303819828,Lonicera_webbiana,28.661276,97.466916
 1303819843,Lonicera_webbiana,28.262715,103.571742
 615354579,Lonicera_webbiana,29.63,94.87
-1836732451,Lonicera_webbiana,26.5,99.67
-1836735663,Lonicera_webbiana,27.83,101
-1836735257,Lonicera_webbiana,25.67,100.2
 919610179,Lonicera_webbiana,25.584234,100.222124
-615354582,Lonicera_webbiana,34.1,75.5
