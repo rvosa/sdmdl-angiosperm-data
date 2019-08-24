@@ -17,14 +17,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 329093447,Ormocarpum_trichocarpum,-25.875,31.875
 1258969031,Ormocarpum_trichocarpum,-4.86083,35.32055
 1258968408,Ormocarpum_trichocarpum,-4.81805,35.25277
-1258801120,Ormocarpum_trichocarpum,-4.81944,35
 462112285,Ormocarpum_trichocarpum,-25.625,31.375
 462112286,Ormocarpum_trichocarpum,-23.375,28.625
 1258799141,Ormocarpum_trichocarpum,-4.75,35.08333
 2291732521,Ormocarpum_trichocarpum,5.766667,36.35
 462112282,Ormocarpum_trichocarpum,-23.875,29.875
 462112272,Ormocarpum_trichocarpum,-22.875,29.875
-2290228721,Ormocarpum_trichocarpum,4.9,38.15
 462112283,Ormocarpum_trichocarpum,-25.125,30.125
 1989825243,Ormocarpum_trichocarpum,-16.125,30.125
 462112268,Ormocarpum_trichocarpum,-22.875,29.125
@@ -34,14 +32,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462112160,Ormocarpum_trichocarpum,-23.625,30.625
 462112265,Ormocarpum_trichocarpum,-24.875,31.625
 462112155,Ormocarpum_trichocarpum,-22.875,30.625
-2290096482,Ormocarpum_trichocarpum,-10.766667,27.8
 462112156,Ormocarpum_trichocarpum,-23.125,30.625
 462112158,Ormocarpum_trichocarpum,-23.625,29.875
 912248649,Ormocarpum_trichocarpum,-15.12,35.38
-2289404801,Ormocarpum_trichocarpum,5.466667,39.5
 1144733376,Ormocarpum_trichocarpum,-25.11667,32.66667
 2291732500,Ormocarpum_trichocarpum,-25.116667,32.666667
-1935080219,Ormocarpum_trichocarpum,-11.61667,34.3
 462112161,Ormocarpum_trichocarpum,-23.375,30.875
 462112151,Ormocarpum_trichocarpum,-27.625,31.125
 462112271,Ormocarpum_trichocarpum,-26.125,32.125
@@ -57,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912248604,Ormocarpum_trichocarpum,-22.72,34.52
 866266785,Ormocarpum_trichocarpum,-15.628619,32.374363
 462112218,Ormocarpum_trichocarpum,-23.375,29.875
-2291732932,Ormocarpum_trichocarpum,-20.4,27.616667
 462112264,Ormocarpum_trichocarpum,-23.375,29.375
 462112284,Ormocarpum_trichocarpum,-20.875,27.875
 462112252,Ormocarpum_trichocarpum,-26.875,32.375
@@ -88,7 +82,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866266888,Ormocarpum_trichocarpum,-18.94907,33.00685
 462112258,Ormocarpum_trichocarpum,-27.375,32.375
 866266726,Ormocarpum_trichocarpum,-18.98256,34.279105
-2290281723,Ormocarpum_trichocarpum,1.433333,35
 462112232,Ormocarpum_trichocarpum,-23.875,28.875
 912248625,Ormocarpum_trichocarpum,-18.97,32.67
 912248614,Ormocarpum_trichocarpum,-20.63,26.58
@@ -122,7 +115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 616300316,Ormocarpum_trichocarpum,-27.875,31.625
 813403304,Ormocarpum_trichocarpum,-25.309478,32.445533
 685235639,Ormocarpum_trichocarpum,-28.125,31.875
-1848910529,Ormocarpum_trichocarpum,-19,29
 813403305,Ormocarpum_trichocarpum,-18.887618,32.727853
 813403303,Ormocarpum_trichocarpum,-18.182791,34.227031
 813403302,Ormocarpum_trichocarpum,-26.790126,32.315793
