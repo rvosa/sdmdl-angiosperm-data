@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1851017301,Convolvulus_lanuginosus,38.55194,0.18667
 1230544862,Convolvulus_lanuginosus,36.73444,-3.76768
 1265270415,Convolvulus_lanuginosus,36.7702,-4.4063
 1265271007,Convolvulus_lanuginosus,36.84233,-4.85585
@@ -31,7 +30,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936686224,Convolvulus_lanuginosus,37.9236,-1.1286
 199470392,Convolvulus_lanuginosus,36.861,-4.542
 895200861,Convolvulus_lanuginosus,39.596,-0.688
-1936196310,Convolvulus_lanuginosus,40.266,0.3071
 895198723,Convolvulus_lanuginosus,39.432,-0.566
 895193129,Convolvulus_lanuginosus,39.094,-0.381
 204401641,Convolvulus_lanuginosus,36.897,-2.646
@@ -42,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842897907,Convolvulus_lanuginosus,38.725,-0.004
 895231573,Convolvulus_lanuginosus,39.823,-0.774
 199470359,Convolvulus_lanuginosus,36.768,-3.902
-318108416,Convolvulus_lanuginosus,39.73,3.65
 199470308,Convolvulus_lanuginosus,36.804,-3.846
 318108393,Convolvulus_lanuginosus,38.52,-0.92
 895231873,Convolvulus_lanuginosus,39.628,-0.909
@@ -66,7 +63,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211644871,Convolvulus_lanuginosus,37.763,-1.552
 1851575958,Convolvulus_lanuginosus,38.53,-0.99
 1936581559,Convolvulus_lanuginosus,36.6459,-4.6121
-1050651323,Convolvulus_lanuginosus,38.63,0.01
 31958305,Convolvulus_lanuginosus,36.833,-3.678
 895219803,Convolvulus_lanuginosus,39.548,-0.515
 895223221,Convolvulus_lanuginosus,37.327,-3.897
@@ -83,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318108188,Convolvulus_lanuginosus,38.45,-0.58
 211644885,Convolvulus_lanuginosus,37.604,-1.148
 318108195,Convolvulus_lanuginosus,38.47,-0.61
-211644869,Convolvulus_lanuginosus,37.59,-0.854
 895144113,Convolvulus_lanuginosus,39.15,-1.09
 895313660,Convolvulus_lanuginosus,38.284,-0.856
 895202340,Convolvulus_lanuginosus,39.76,-0.14
@@ -95,7 +90,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895172625,Convolvulus_lanuginosus,39.52,-2.24
 318108136,Convolvulus_lanuginosus,36.81,-3.67
 895250328,Convolvulus_lanuginosus,39.5,-0.5
-895144440,Convolvulus_lanuginosus,38.73,0.187
 318108151,Convolvulus_lanuginosus,38.46,-0.47
 1936551982,Convolvulus_lanuginosus,39.538136,-0.492356
 30859109,Convolvulus_lanuginosus,36.849998,-4.79
@@ -117,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895288351,Convolvulus_lanuginosus,40.3,0.23
 1936447392,Convolvulus_lanuginosus,38.7018,-0.0575
 1851325160,Convolvulus_lanuginosus,38.728,-0.107
-895237770,Convolvulus_lanuginosus,40.03,0.13
 204401826,Convolvulus_lanuginosus,36.87,-2.658
 318108183,Convolvulus_lanuginosus,38.72,-0.1
 1936446800,Convolvulus_lanuginosus,38.7212,-0.1142
@@ -149,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30859754,Convolvulus_lanuginosus,37.23,-2.66
 30859610,Convolvulus_lanuginosus,38.400002,-2.43
 1936412097,Convolvulus_lanuginosus,40.7911,0.0358
-318107944,Convolvulus_lanuginosus,38.73,0.22
 318108462,Convolvulus_lanuginosus,38.55,-0.18
 204401825,Convolvulus_lanuginosus,37.345,-2.17
 318108066,Convolvulus_lanuginosus,38.59,-0.3
@@ -191,9 +183,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895155708,Convolvulus_lanuginosus,38.8,-2.37
 1936422832,Convolvulus_lanuginosus,41.8905,0.8774
 1936370147,Convolvulus_lanuginosus,37.9862,-1.2135
-895304720,Convolvulus_lanuginosus,38.5,-0.08
 895258590,Convolvulus_lanuginosus,39.86,-0.6
-895210340,Convolvulus_lanuginosus,38.77,0.18
 895263155,Convolvulus_lanuginosus,39.51,-0.96
 895258221,Convolvulus_lanuginosus,39.59,-0.5
 895267977,Convolvulus_lanuginosus,38.87,-0.41
@@ -221,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895268925,Convolvulus_lanuginosus,40.21,-0.24
 1936086119,Convolvulus_lanuginosus,38.7872,-1.1476
 30859608,Convolvulus_lanuginosus,36.68,-3.9
-1842885536,Convolvulus_lanuginosus,40.95,0.8
 199469529,Convolvulus_lanuginosus,36.90291,-4.0725
 895293960,Convolvulus_lanuginosus,38.313,-2.846
 895254930,Convolvulus_lanuginosus,38.86,-0.29
