@@ -126,15 +126,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830679355,Cyperus_microiria,33.733333,133.533333
 1830681794,Cyperus_microiria,33.416667,134.05
 1830679313,Cyperus_microiria,33.683333,133.483333
-1830679341,Cyperus_microiria,33.8,133.75
 381801491,Cyperus_microiria,36.77835,140.36012
 1830686872,Cyperus_microiria,33.516667,133.233333
 381801510,Cyperus_microiria,37.02807,140.37746
 1830687827,Cyperus_microiria,33.783333,133.333333
 1830687004,Cyperus_microiria,33.366667,133.016667
 1830687521,Cyperus_microiria,33.666667,133.883333
-1830687015,Cyperus_microiria,33.8,133.55
-1830686886,Cyperus_microiria,33.283333,133.1
 1830625023,Cyperus_microiria,34.085671,134.600342
 1830687009,Cyperus_microiria,33.733333,133.883333
 1830687574,Cyperus_microiria,33.766667,133.533333
@@ -148,7 +145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381801471,Cyperus_microiria,36.55083,140.41
 381801345,Cyperus_microiria,36.20075,139.98717
 1830689170,Cyperus_microiria,33.566667,134.066667
-1830688901,Cyperus_microiria,33.5,133.116667
 381801360,Cyperus_microiria,35.9518,140.14473
 1829469328,Cyperus_microiria,39.555167,140.261182
 1830632629,Cyperus_microiria,34.10058,134.24609
@@ -167,10 +163,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204373898,Cyperus_microiria,34.56493,135.73238
 1830126862,Cyperus_microiria,35.47559,139.45683
 2244522243,Cyperus_microiria,33.316667,133.15
-238091641,Cyperus_microiria,37,140
 388815617,Cyperus_microiria,35.590737,139.140574
 381801301,Cyperus_microiria,35.98892,140.63177
-1829603352,Cyperus_microiria,36.3,138.9
 381801392,Cyperus_microiria,36.72992,140.7077
 388815619,Cyperus_microiria,35.59074,139.265564
 2244454303,Cyperus_microiria,36.6149,136.711
@@ -185,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830191844,Cyperus_microiria,36.666667,137.166667
 395753209,Cyperus_microiria,35.036667,134.1325
 388815559,Cyperus_microiria,35.624074,139.565537
-1830192039,Cyperus_microiria,36.716667,137.2
 1828668682,Cyperus_microiria,36.488972,136.718852
 1830191896,Cyperus_microiria,36.783333,137.366667
 395753205,Cyperus_microiria,35.132778,133.753333
@@ -219,7 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828668572,Cyperus_microiria,36.537,136.651
 1828668094,Cyperus_microiria,36.571718,136.637576
 1829469846,Cyperus_microiria,40.1521,140.3032
-729313240,Cyperus_microiria,35.400002,134.7
 381801236,Cyperus_microiria,36.31751,140.11288
 2244454206,Cyperus_microiria,36.628,136.717
 1828666783,Cyperus_microiria,36.56999,136.63616
@@ -231,12 +223,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395753117,Cyperus_microiria,35.106944,134.343889
 395753118,Cyperus_microiria,35.106944,134.344167
 395753438,Cyperus_microiria,34.440278,133.480556
-1829454458,Cyperus_microiria,39.4,140.48
 729297923,Cyperus_microiria,35.049999,135.217
 388815547,Cyperus_microiria,35.499091,139.515546
 729283069,Cyperus_microiria,34.883301,135.217
 729296363,Cyperus_microiria,34.950001,134.41701
-1830201141,Cyperus_microiria,36.716667,137.1
 1828732477,Cyperus_microiria,35.25358,137.86879
 388815514,Cyperus_microiria,35.382424,139.015591
 381801165,Cyperus_microiria,36.28079,140.42606
@@ -244,7 +234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829788436,Cyperus_microiria,35.66687,139.3129
 388815552,Cyperus_microiria,35.499093,139.715528
 388815553,Cyperus_microiria,35.515759,139.778023
-1829454469,Cyperus_microiria,40.12,140
 245531927,Cyperus_microiria,35.242171,139.113503
 1829642659,Cyperus_microiria,36.260556,139.503056
 245531928,Cyperus_microiria,35.307441,139.190574
@@ -291,7 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 736060723,Cyperus_microiria,35.9808,139.06731
 736060734,Cyperus_microiria,35.94208,139.32079
 1829849907,Cyperus_microiria,36.651176,137.849283
-1830190497,Cyperus_microiria,36.816667,137.4
 736060696,Cyperus_microiria,35.9294,139.39035
 736060600,Cyperus_microiria,36.25312,139.19373
 736060651,Cyperus_microiria,36.02738,139.73369
@@ -312,7 +300,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 736060675,Cyperus_microiria,36.0692,139.51961
 736060644,Cyperus_microiria,36.19008,139.42706
 736060599,Cyperus_microiria,36.23357,139.21518
-729294676,Cyperus_microiria,34.849998,135.3
 736060606,Cyperus_microiria,36.13074,139.50354
 736060730,Cyperus_microiria,35.85995,139.53104
 736060611,Cyperus_microiria,36.15773,139.46042
@@ -328,7 +315,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 736060623,Cyperus_microiria,36.25506,139.1689
 736060668,Cyperus_microiria,36.05939,139.60112
 736060608,Cyperus_microiria,36.18407,139.48502
-1830207828,Cyperus_microiria,36.6,137.3
 729282946,Cyperus_microiria,34.9333,135.117
 736060679,Cyperus_microiria,35.95565,139.6684
 736060577,Cyperus_microiria,36.07414,139.3029
@@ -549,7 +535,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830159490,Cyperus_microiria,36.466667,136.983333
 1830190513,Cyperus_microiria,36.433333,136.966667
 245520879,Cyperus_microiria,35.565744,139.353056
-1830154873,Cyperus_microiria,36.6,137.183333
 245520815,Cyperus_microiria,35.365775,139.60304
 245520796,Cyperus_microiria,35.549077,139.403052
 245520800,Cyperus_microiria,35.50742,139.278064
@@ -563,7 +548,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 245520810,Cyperus_microiria,35.432431,139.403055
 245520776,Cyperus_microiria,35.199121,139.128088
 245520869,Cyperus_microiria,35.574078,139.31556
-1830151092,Cyperus_microiria,36.5,137.233333
 245520827,Cyperus_microiria,35.324102,139.103082
 245520778,Cyperus_microiria,35.190783,139.028096
 245520870,Cyperus_microiria,35.432433,139.490549
@@ -659,7 +643,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1834908889,Cyperus_microiria,35.329167,139.49375
 1834909088,Cyperus_microiria,35.379167,139.43125
 1828736123,Cyperus_microiria,36.42019,138.02597
-1829454068,Cyperus_microiria,39.97,140.1
 1828730311,Cyperus_microiria,35.62672,138.5354
 1829454115,Cyperus_microiria,39.63,140.14
 1829453990,Cyperus_microiria,39.73,140.15
@@ -671,7 +654,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829454010,Cyperus_microiria,39.26,139.99
 393097409,Cyperus_microiria,35.76625,139.59155
 1828720579,Cyperus_microiria,35.72314,140.22397
-1829454036,Cyperus_microiria,40.1,139.99
 1829454032,Cyperus_microiria,39.74,140.09
 1829454037,Cyperus_microiria,39.69,140.11
 1829859936,Cyperus_microiria,35.193734,139.651285
@@ -685,7 +667,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828824793,Cyperus_microiria,36.387274,136.423289
 393097301,Cyperus_microiria,35.98908,139.1044
 245531881,Cyperus_microiria,35.399095,139.178074
-1829603487,Cyperus_microiria,36.3,139.2
 1829599464,Cyperus_microiria,36.537222,138.548056
 1829843652,Cyperus_microiria,36.498513,137.869105
 1829643426,Cyperus_microiria,36.24,139.512222
@@ -707,18 +688,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829627555,Cyperus_microiria,36.658333,139.049722
 1829784255,Cyperus_microiria,35.6419,139.23126
 1835649656,Cyperus_microiria,38.27678,140.36959
-1829607359,Cyperus_microiria,36.5,138.5
 204373893,Cyperus_microiria,34.62931,135.69623
 1830212454,Cyperus_microiria,34.877578,137.329333
 245531874,Cyperus_microiria,35.52409,139.69053
 381801749,Cyperus_microiria,36.08204,140.19638
-1829418842,Cyperus_microiria,43.05,143.2
 1830611109,Cyperus_microiria,34.054061,134.331728
 1835648801,Cyperus_microiria,38.42598,140.24954
 2244449016,Cyperus_microiria,36.633333,137.366667
 1829635138,Cyperus_microiria,36.385833,139.068056
 736060565,Cyperus_microiria,36.07797,139.72565
-1829604503,Cyperus_microiria,36.4,139.1
 1828811905,Cyperus_microiria,36.385987,136.484131
 1829617478,Cyperus_microiria,36.398889,139.056389
 393097296,Cyperus_microiria,36.0085,139.08423
@@ -742,7 +720,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1835648862,Cyperus_microiria,38.24824,140.34675
 2243070230,Cyperus_microiria,40.59392,140.46136
 1934062011,Cyperus_microiria,34.598,133.7829
-1830198011,Cyperus_microiria,36.516667,136.9
 1829599071,Cyperus_microiria,36.365,139.105833
 1830519989,Cyperus_microiria,34.818056,135.188056
 1835649664,Cyperus_microiria,38.48478,140.39718
