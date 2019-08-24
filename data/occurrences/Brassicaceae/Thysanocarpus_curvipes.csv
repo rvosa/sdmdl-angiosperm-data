@@ -178,7 +178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270630671,Thysanocarpus_curvipes,33.9616,-111.83
 2270561312,Thysanocarpus_curvipes,34.17,-112.83
 1843891854,Thysanocarpus_curvipes,32.14238,-107.60732
-1949640419,Thysanocarpus_curvipes,48.466667,-123.533333
 2270629716,Thysanocarpus_curvipes,33.4592,-111.471
 1928984096,Thysanocarpus_curvipes,39.45,-119.74
 1426205661,Thysanocarpus_curvipes,33.031111,-116.660556
@@ -252,7 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 811887667,Thysanocarpus_curvipes,36.202044,-113.147525
 1846480877,Thysanocarpus_curvipes,33.771833,-113.339833
 1930972014,Thysanocarpus_curvipes,37.10582,-114.0387
-1988239416,Thysanocarpus_curvipes,48.863,-123.363
 1426194772,Thysanocarpus_curvipes,39.116667,-122.866667
 1988173585,Thysanocarpus_curvipes,39.6,-121.6
 1929540288,Thysanocarpus_curvipes,41.1174,-119.2351
@@ -262,11 +260,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270601330,Thysanocarpus_curvipes,32.8548,-110.205
 2270584505,Thysanocarpus_curvipes,32.88,-110.2
 2270215545,Thysanocarpus_curvipes,35.083333,-119.766667
-1988244159,Thysanocarpus_curvipes,48.96,-123.53
 1843819170,Thysanocarpus_curvipes,32.629,-108.849
 1258447715,Thysanocarpus_curvipes,32.31361,-110.71083
 1135463193,Thysanocarpus_curvipes,32.3,-110.7
-1988171493,Thysanocarpus_curvipes,48.84,-123.3
 2270217334,Thysanocarpus_curvipes,35.117,-119.855
 1928484852,Thysanocarpus_curvipes,39.19281,-119.55639
 1927978489,Thysanocarpus_curvipes,38.75,-119.47
@@ -286,7 +282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426137003,Thysanocarpus_curvipes,36.822222,-119.381944
 1426189902,Thysanocarpus_curvipes,36.897222,-119.452778
 1265804018,Thysanocarpus_curvipes,36.5,-121.633333
-1949610798,Thysanocarpus_curvipes,48.75,-123.483333
 1949616581,Thysanocarpus_curvipes,48.516667,-123.516667
 2270214056,Thysanocarpus_curvipes,34.7794999991157,-120.4273
 1846551145,Thysanocarpus_curvipes,31.836486,-108.267264
@@ -336,7 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270559806,Thysanocarpus_curvipes,33.58,-111.43
 1426147733,Thysanocarpus_curvipes,41.3783,-120.9382
 2270217367,Thysanocarpus_curvipes,37.07916,-122.24646
-1895644861,Thysanocarpus_curvipes,30.333333,-114.667222
 239718531,Thysanocarpus_curvipes,45.87,-120.77
 1929894700,Thysanocarpus_curvipes,41.72,-118.1
 1928120358,Thysanocarpus_curvipes,37.17,-114.02
@@ -357,9 +351,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270252921,Thysanocarpus_curvipes,34.67821,-120.42949
 1846550999,Thysanocarpus_curvipes,33.490454,-111.466541
 2270604987,Thysanocarpus_curvipes,32.0389,-112.717
-1949572258,Thysanocarpus_curvipes,48.483333,-123.533333
 2270216803,Thysanocarpus_curvipes,35.72111,-118.49917
-1949632479,Thysanocarpus_curvipes,48.783333,-123.283333
 2270604114,Thysanocarpus_curvipes,31.7679,-110.848
 1929803465,Thysanocarpus_curvipes,39.43,-119.35
 1929080131,Thysanocarpus_curvipes,38.8,-119.62
@@ -385,9 +377,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426190452,Thysanocarpus_curvipes,32.7726,-116.557
 51973269,Thysanocarpus_curvipes,42.9149,-123.763
 2270604817,Thysanocarpus_curvipes,35.1162,-113.906
-1949556379,Thysanocarpus_curvipes,48.766667,-123.233333
 1930722627,Thysanocarpus_curvipes,40.77,-120.16
-1949556084,Thysanocarpus_curvipes,48.933333,-123.45
 2270602378,Thysanocarpus_curvipes,34.2958,-113.651
 2270602317,Thysanocarpus_curvipes,34.4376,-113.52
 2270602652,Thysanocarpus_curvipes,34.3106,-113.704
@@ -397,12 +387,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270605051,Thysanocarpus_curvipes,33.8048,-113.324
 2270603167,Thysanocarpus_curvipes,33.7041,-112.893
 1893430726,Thysanocarpus_curvipes,32.558333,-116.108333
-2270290304,Thysanocarpus_curvipes,34.016528,-119.771088
 51973252,Thysanocarpus_curvipes,44.7274,-121.2517
 2270601588,Thysanocarpus_curvipes,34.4103,-113.251
 1930125313,Thysanocarpus_curvipes,39.32,-119.6
 51973331,Thysanocarpus_curvipes,45.6853,-121.3058
-2270265637,Thysanocarpus_curvipes,34.0126999991248,-119.7812
 1927942406,Thysanocarpus_curvipes,39.5,-119.7
 2270603128,Thysanocarpus_curvipes,32.8371,-109.679
 2270219486,Thysanocarpus_curvipes,35.345214,-119.809151
@@ -414,7 +402,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270605065,Thysanocarpus_curvipes,33.5975,-111.205
 1929547073,Thysanocarpus_curvipes,39.58,-119.8
 2270600683,Thysanocarpus_curvipes,36.6517,-114.02
-1949604940,Thysanocarpus_curvipes,48.416667,-123.583333
 2270603483,Thysanocarpus_curvipes,36.4049,-114.013
 1930990084,Thysanocarpus_curvipes,39.62,-119.77
 1949605103,Thysanocarpus_curvipes,48.5,-123.55
@@ -424,9 +411,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426220026,Thysanocarpus_curvipes,37.408333,-122.233333
 1928120997,Thysanocarpus_curvipes,39.633,-119.9533
 2270602428,Thysanocarpus_curvipes,36.8694,-113.571
-1949604879,Thysanocarpus_curvipes,48.833333,-123.6
 2270176293,Thysanocarpus_curvipes,34.877359,-119.341225
-1949637150,Thysanocarpus_curvipes,48.516667,-123.416667
 1426091338,Thysanocarpus_curvipes,37.341667,-121.658333
 2270587518,Thysanocarpus_curvipes,33.328,-112.343
 2270601574,Thysanocarpus_curvipes,33.33,-113.953
@@ -438,10 +423,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893424555,Thysanocarpus_curvipes,32.091667,-116.675
 1265834404,Thysanocarpus_curvipes,38.830745,-122.76876
 1928572289,Thysanocarpus_curvipes,37.5,-114.57
-1949532220,Thysanocarpus_curvipes,48.85,-123.283333
 2270601552,Thysanocarpus_curvipes,33.095,-111.224
 2270586553,Thysanocarpus_curvipes,33.4286,-111.418
-1949546569,Thysanocarpus_curvipes,48.783333,-123.15
 1930910691,Thysanocarpus_curvipes,39.3378,-119.8148
 51973230,Thysanocarpus_curvipes,42.5122,-122.8807
 2270601810,Thysanocarpus_curvipes,34.57,-113.18
@@ -464,7 +447,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270507679,Thysanocarpus_curvipes,30.989285,-110.949989
 1846490644,Thysanocarpus_curvipes,32.598943,-112.653763
 2270586091,Thysanocarpus_curvipes,33.5965,-112.557
-2270267123,Thysanocarpus_curvipes,33.993999999125,-119.7327
 51973126,Thysanocarpus_curvipes,42.2803,-123.6922
 2270603465,Thysanocarpus_curvipes,33.3179,-110.801
 2270603380,Thysanocarpus_curvipes,32.344293,-110.780588
@@ -502,13 +484,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270603220,Thysanocarpus_curvipes,33.8047,-110.974
 1843806787,Thysanocarpus_curvipes,31.368511,-109.022606
 1055073241,Thysanocarpus_curvipes,32.35028,-108.70806
-1988080226,Thysanocarpus_curvipes,48.5,-123.5
 2270587255,Thysanocarpus_curvipes,33.7613,-111.442
 1426105120,Thysanocarpus_curvipes,38.05,-120.45
-732482884,Thysanocarpus_curvipes,48.433333,-123.366667
 51973228,Thysanocarpus_curvipes,42.4838,-122.9643
 732482886,Thysanocarpus_curvipes,49.133333,-124.65
-732482885,Thysanocarpus_curvipes,48.383333,-123.716667
 441851910,Thysanocarpus_curvipes,48.633333,-123.616667
 2270267058,Thysanocarpus_curvipes,33.8815,-116.6785
 1426425189,Thysanocarpus_curvipes,28.716667,-113.633333
@@ -531,7 +510,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426116093,Thysanocarpus_curvipes,38.353333,-122.221667
 1426200048,Thysanocarpus_curvipes,37.161667,-121.85
 1426102948,Thysanocarpus_curvipes,41.05,-122.966667
-1949550086,Thysanocarpus_curvipes,48.491667,-123.345833
 1426105320,Thysanocarpus_curvipes,37.3,-122.166667
 1846551153,Thysanocarpus_curvipes,33.667548,-111.134289
 1426067388,Thysanocarpus_curvipes,37.145,-122.153333
@@ -614,15 +592,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242402193,Thysanocarpus_curvipes,38.004921,-121.805789
 51972704,Thysanocarpus_curvipes,45.5418,-121.281
 1426211509,Thysanocarpus_curvipes,34.0183,-117.7693
-883423576,Thysanocarpus_curvipes,48.4827779990639,-123.538333
 1426143173,Thysanocarpus_curvipes,38.6695,-122.6335
 51973208,Thysanocarpus_curvipes,44.583,-123.3014
-1949489383,Thysanocarpus_curvipes,49.116667,-123.85
 441851887,Thysanocarpus_curvipes,46.60444,-117.35806
 51973756,Thysanocarpus_curvipes,45.5067,-118.4826
 51973748,Thysanocarpus_curvipes,45.5947,-121.1775
 1426190336,Thysanocarpus_curvipes,33.13949,-116.3878
-1988241092,Thysanocarpus_curvipes,48.43,-123.37
 51973669,Thysanocarpus_curvipes,44.9431,-123.0339
 1055513947,Thysanocarpus_curvipes,36.7781,-119.4178
 51973464,Thysanocarpus_curvipes,44.4997,-123.4167
