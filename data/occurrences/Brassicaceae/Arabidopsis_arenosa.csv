@@ -118,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702169100,Arabidopsis_arenosa,59.2722,11.0337
 1702378719,Arabidopsis_arenosa,59.8234,10.194
 1702379190,Arabidopsis_arenosa,60.5216,8.9727
-1095920772,Arabidopsis_arenosa,67,21
 1702379384,Arabidopsis_arenosa,62.7489,11.4306
 1598702801,Arabidopsis_arenosa,65.894796,24.506222
 1598609032,Arabidopsis_arenosa,62.619832,29.559956
@@ -126,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702380255,Arabidopsis_arenosa,59.7427,10.1875
 1701969858,Arabidopsis_arenosa,69.7473,29.7789
 2287443649,Arabidopsis_arenosa,50.815733,5.68605
-1095920670,Arabidopsis_arenosa,62,17
 1935652440,Arabidopsis_arenosa,47.10417,15.37778
 1701282433,Arabidopsis_arenosa,63.4426,10.64
 1291966216,Arabidopsis_arenosa,59.426111,27.983889
@@ -147,7 +145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1291966005,Arabidopsis_arenosa,58.994722,27.719444
 1702230378,Arabidopsis_arenosa,60.8468,9.7328
 1144053112,Arabidopsis_arenosa,58.5841,7.7966
-1987575614,Arabidopsis_arenosa,48.2,9.22
 1697350620,Arabidopsis_arenosa,55.213552,34.334164
 1987575495,Arabidopsis_arenosa,46.69,5.64
 1987575707,Arabidopsis_arenosa,49.79,5.07
@@ -157,10 +154,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2323137262,Arabidopsis_arenosa,67.620909,15.991539
 1697523157,Arabidopsis_arenosa,55.563344,39.624935
 1987575621,Arabidopsis_arenosa,49.67,7.28
-1095918244,Arabidopsis_arenosa,65,14
 1598702774,Arabidopsis_arenosa,62.621482,29.567895
 1701962473,Arabidopsis_arenosa,65.0775,13.3177
-1095918225,Arabidopsis_arenosa,65,16
 1702377951,Arabidopsis_arenosa,67.8813,21.5962
 1702027844,Arabidopsis_arenosa,59.18,10.9691
 1598702847,Arabidopsis_arenosa,62.310258,27.878833
@@ -231,7 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999602948,Arabidopsis_arenosa,62.301268,27.167298
 1701867974,Arabidopsis_arenosa,61.984,11.5893
 1702269582,Arabidopsis_arenosa,61.9565,12.1048
-1095899192,Arabidopsis_arenosa,59.97,16
 900315567,Arabidopsis_arenosa,58.3953,7.2297
 1702269525,Arabidopsis_arenosa,61.8876,11.7543
 1323860357,Arabidopsis_arenosa,69.728,30.0394
@@ -461,7 +455,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342273031,Arabidopsis_arenosa,56.800097,9.596318
 1342273086,Arabidopsis_arenosa,56.389159,10.415979
 1705289419,Arabidopsis_arenosa,56.898729,14.556369
-1946872687,Arabidopsis_arenosa,50.23,10.2
 1702200399,Arabidopsis_arenosa,59.1238,9.7049
 186790730,Arabidopsis_arenosa,58.3627,7.5196
 1702024282,Arabidopsis_arenosa,59.5591,9.6413
@@ -557,7 +550,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701315462,Arabidopsis_arenosa,61.0553,11.9363
 1701291508,Arabidopsis_arenosa,61.4429,12.5901
 1883726152,Arabidopsis_arenosa,47.425,14.45833
-1099911388,Arabidopsis_arenosa,64.616667,16.7
 1099911890,Arabidopsis_arenosa,56.13063,13.32436
 1831082086,Arabidopsis_arenosa,53.2485,11.582
 1702162346,Arabidopsis_arenosa,62.5758,11.3813
@@ -1152,7 +1144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598702680,Arabidopsis_arenosa,63.268581,22.911564
 1702282782,Arabidopsis_arenosa,60.4303,8.8819
 1598702687,Arabidopsis_arenosa,66.461633,25.762608
-1230507851,Arabidopsis_arenosa,47.46667,16.1
 667668662,Arabidopsis_arenosa,47.28095,14.93628
 1598609010,Arabidopsis_arenosa,64.649632,24.380536
 1705362483,Arabidopsis_arenosa,56.805334,14.037221
@@ -1291,7 +1282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598705804,Arabidopsis_arenosa,63.132517,21.540172
 1099914209,Arabidopsis_arenosa,55.78712,13.87142
 1701638594,Arabidopsis_arenosa,61.7776,11.1799
-1891596291,Arabidopsis_arenosa,49.91,5.9
 1702334631,Arabidopsis_arenosa,69.6981,30.0292
 1323775061,Arabidopsis_arenosa,69.5951,30.0435
 1697523163,Arabidopsis_arenosa,48.169817,28.335418
@@ -1325,7 +1315,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598705905,Arabidopsis_arenosa,61.081547,27.830812
 20462530,Arabidopsis_arenosa,60.97437,11.73801
 1701774640,Arabidopsis_arenosa,62.651,11.8784
-1891597777,Arabidopsis_arenosa,49.8,6.52
 1701971313,Arabidopsis_arenosa,58.2659,7.4575
 1598609099,Arabidopsis_arenosa,59.945542,22.969793
 1705402625,Arabidopsis_arenosa,57.438386,13.588489
@@ -1514,7 +1503,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099914034,Arabidopsis_arenosa,64.59842,18.675454
 1701670176,Arabidopsis_arenosa,60.0297,11.3241
 788477374,Arabidopsis_arenosa,56.156775,13.76989
-1893208901,Arabidopsis_arenosa,49.9,6.09
 1099913973,Arabidopsis_arenosa,55.6515,13.11244
 1099901047,Arabidopsis_arenosa,58.33736,13.76602
 1831083609,Arabidopsis_arenosa,53.4485,11.9152
