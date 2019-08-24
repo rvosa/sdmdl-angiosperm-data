@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947460421,Primula_macrocalyx,50.17,9.95
 1937490915,Primula_macrocalyx,55.89922,14.25458
-1945479655,Primula_macrocalyx,54.816667,84.1
 1945479861,Primula_macrocalyx,55.983333,93.25
 1945479634,Primula_macrocalyx,54.816,83.149
 1945479724,Primula_macrocalyx,54.812,83.106
@@ -50,7 +49,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324016480,Primula_macrocalyx,58.252,11.5522
 1052819177,Primula_macrocalyx,40.618067,20.183117
 1697351410,Primula_macrocalyx,56.666033,39.258732
-1842868292,Primula_macrocalyx,42.3,1
 1848991268,Primula_macrocalyx,41.75806,-1.87306
 1848991531,Primula_macrocalyx,42.30583,-0.25861
 1848991732,Primula_macrocalyx,42.21722,-0.16944
@@ -100,21 +98,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 675078056,Primula_macrocalyx,59.931848,10.571654
 1697617289,Primula_macrocalyx,66.766472,33.78175
 345678709,Primula_macrocalyx,48.6381,20.6732
-1919931298,Primula_macrocalyx,54.9,89.866667
-1919931310,Primula_macrocalyx,54.483333,90.9
 1265474513,Primula_macrocalyx,40.13,-1.57
 1919931295,Primula_macrocalyx,52.933333,91.483333
 675078208,Primula_macrocalyx,59.885828,10.542049
 1701323308,Primula_macrocalyx,63.5518,10.8807
 675078305,Primula_macrocalyx,59.86746,10.592029
-1919932257,Primula_macrocalyx,43.9,42.766667
 1839060315,Primula_macrocalyx,41.415829,24.285561
 1839060099,Primula_macrocalyx,41.275829,24.209999
 1936200834,Primula_macrocalyx,40.2812,-5.8243
 1839059709,Primula_macrocalyx,41.381672,24.261391
 1839059888,Primula_macrocalyx,41.305279,23.90139
 1839060141,Primula_macrocalyx,41.299171,24.220831
-1050649071,Primula_macrocalyx,42.84,-2.6
 1848991328,Primula_macrocalyx,48.68833,25.78556
 1839059999,Primula_macrocalyx,41.339169,24.208611
 1851346252,Primula_macrocalyx,43.0586,-4.4706
@@ -179,13 +173,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2013265927,Primula_macrocalyx,59.5603,10.6486
 1599135514,Primula_macrocalyx,61.265558,24.172635
 1699893501,Primula_macrocalyx,59.8174,10.4399
-786226330,Primula_macrocalyx,49,9.6
 1702267760,Primula_macrocalyx,59.5585,11.3261
 1701867397,Primula_macrocalyx,59.7296,9.8975
 1702037066,Primula_macrocalyx,59.7262,10.1194
 1671671705,Primula_macrocalyx,43.92947,7.6047
 1671671740,Primula_macrocalyx,43.938874,7.758873
-1697617495,Primula_macrocalyx,53.5,39
 1936689518,Primula_macrocalyx,41.3564,1.0813
 1697617302,Primula_macrocalyx,56.497222,39.744444
 1701857204,Primula_macrocalyx,60.6596,12.4613
@@ -203,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830992858,Primula_macrocalyx,45.39864,14.12128
 1135458472,Primula_macrocalyx,44.87833,14.97881
 1135458474,Primula_macrocalyx,44.31931,15.48761
-164181961,Primula_macrocalyx,39.470001,-4.4
 895199791,Primula_macrocalyx,39.521,-4.355
 1135458481,Primula_macrocalyx,44.80161,15.68372
 1839060253,Primula_macrocalyx,41.18417,23.624439
@@ -217,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935714453,Primula_macrocalyx,47.23163,14.58089
 1212162558,Primula_macrocalyx,41.181389,23.620833
 1212162487,Primula_macrocalyx,41.216111,23.655833
-786226319,Primula_macrocalyx,49.4,9.2
 1702195475,Primula_macrocalyx,59.4939,10.88
 1212162629,Primula_macrocalyx,41.315278,23.284167
 1212162608,Primula_macrocalyx,41.304722,23.293056
@@ -230,7 +220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 143005593,Primula_macrocalyx,43.049999,-0.18
 1701858146,Primula_macrocalyx,59.4658,9.9978
 1848991121,Primula_macrocalyx,40.66306,44.38528
-786226327,Primula_macrocalyx,49.1,9.7
 1701247837,Primula_macrocalyx,63.6455,9.3341
 1701337072,Primula_macrocalyx,63.6419,9.3179
 1945478657,Primula_macrocalyx,50.35,87.216667
@@ -239,7 +228,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848991127,Primula_macrocalyx,39.35889,46.26833
 1697741033,Primula_macrocalyx,45.043085,35.04055
 1050637260,Primula_macrocalyx,42.82,-2.71
-211635363,Primula_macrocalyx,42.919998,-2.6
 1851576566,Primula_macrocalyx,42.92,-2.59
 1851356570,Primula_macrocalyx,42.925,-2.59
 1848991136,Primula_macrocalyx,39.0025,46.37778
@@ -256,7 +244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848991058,Primula_macrocalyx,40.69028,44.86278
 1342830212,Primula_macrocalyx,56.200172,10.441246
 1701765904,Primula_macrocalyx,63.8667,9.8618
-1050637161,Primula_macrocalyx,42.82,-2.7
 1931035749,Primula_macrocalyx,42.7044,44.6265
 1848991095,Primula_macrocalyx,40.87639,45.26917
 1848991036,Primula_macrocalyx,39.05083,46.19722
@@ -285,7 +272,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697820493,Primula_macrocalyx,44.16743,40.706749
 1848991001,Primula_macrocalyx,40.57667,44.92722
 1697820439,Primula_macrocalyx,44.13516,40.820389
-1697617349,Primula_macrocalyx,54.4,36.15
 1701221504,Primula_macrocalyx,63.5528,10.6573
 199497511,Primula_macrocalyx,36.902,-4.016
 199497513,Primula_macrocalyx,36.911,-4.016
@@ -298,12 +284,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 237338933,Primula_macrocalyx,42.04,1.73
 1702228278,Primula_macrocalyx,60.4817,11.2408
 1945478431,Primula_macrocalyx,43.47,41.77
-895176621,Primula_macrocalyx,40.292,-2.1
 21313449,Primula_macrocalyx,59.4744,10.3493
 895170954,Primula_macrocalyx,40.3645,-1.8275
 187229940,Primula_macrocalyx,63.7564,11.3749
 1851333472,Primula_macrocalyx,43.0088,-5.0681
-1851576219,Primula_macrocalyx,43,-5.06
 187229941,Primula_macrocalyx,63.7918,11.119
 1323849282,Primula_macrocalyx,67.0317,14.0202
 1936647775,Primula_macrocalyx,43.0063,-5.07
@@ -388,10 +372,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702198780,Primula_macrocalyx,59.6908,10.1102
 1702190921,Primula_macrocalyx,59.7141,10.5972
 1701836138,Primula_macrocalyx,60.1566,11.0673
-1701841532,Primula_macrocalyx,59.5454,10.3
-1945479603,Primula_macrocalyx,54.39,90.5
 1702198733,Primula_macrocalyx,59.1713,9.7259
-1945479810,Primula_macrocalyx,55.8,88.58
 1999574699,Primula_macrocalyx,60.499124,22.426329
 1701836718,Primula_macrocalyx,60.1258,11.1428
 1945479742,Primula_macrocalyx,55.34,89.54
@@ -405,7 +386,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599135209,Primula_macrocalyx,61.335234,23.680321
 1701566375,Primula_macrocalyx,63.8792,11.2498
 187229141,Primula_macrocalyx,63.8539,9.7515
-788694698,Primula_macrocalyx,40.883333,21.8
 1258952821,Primula_macrocalyx,41.68027,44.68444
 895145687,Primula_macrocalyx,40.025,-0.955
 1702205966,Primula_macrocalyx,60.5941,11.1454
@@ -445,7 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701238283,Primula_macrocalyx,63.8449,11.1453
 187229113,Primula_macrocalyx,63.5876,10.9244
 1701258014,Primula_macrocalyx,63.8362,11.1244
-1945478289,Primula_macrocalyx,51,87.333333
 1702023862,Primula_macrocalyx,59.7042,10.555
 187229111,Primula_macrocalyx,63.6194,10.523
 1342829938,Primula_macrocalyx,55.768325,12.02584
@@ -486,8 +465,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701862739,Primula_macrocalyx,59.6747,9.8611
 1935713965,Primula_macrocalyx,47.09806,14.35167
 1936581937,Primula_macrocalyx,40.9549,-3.3102
-1851570353,Primula_macrocalyx,39.02,-0.9
-143005494,Primula_macrocalyx,42.419998,0.2
 1701787619,Primula_macrocalyx,60.1518,11.4544
 1701997832,Primula_macrocalyx,60.851,9.9781
 1701786631,Primula_macrocalyx,60.0695,10.2927
@@ -506,7 +483,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851575718,Primula_macrocalyx,42.85,-2.72
 143005499,Primula_macrocalyx,40.369999,-1.47
 895165683,Primula_macrocalyx,42.699,-2.603
-1050618657,Primula_macrocalyx,42.6,-2.6
 1936515060,Primula_macrocalyx,42.6029,-2.6112
 1851402975,Primula_macrocalyx,43.075,-5.193
 30937482,Primula_macrocalyx,42.599998,-2.61
@@ -601,7 +577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848991056,Primula_macrocalyx,48.125,16.20806
 1701927814,Primula_macrocalyx,59.8587,10.2586
 1701921036,Primula_macrocalyx,59.9302,10.2971
-860311183,Primula_macrocalyx,42.32,2.7
 860316901,Primula_macrocalyx,40.85,0.33
 1701920969,Primula_macrocalyx,59.8944,10.2778
 1936568517,Primula_macrocalyx,40.6219,-2.883
@@ -624,7 +599,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702427972,Primula_macrocalyx,59.7902,10.4974
 1702427483,Primula_macrocalyx,59.6039,8.6545
 1702420164,Primula_macrocalyx,59.9657,10.3343
-1851399423,Primula_macrocalyx,41.5,2.34
 143005496,Primula_macrocalyx,37.049999,-3.45
 1851405525,Primula_macrocalyx,42.842,-5.576
 1288113919,Primula_macrocalyx,50.687853,9.524532
@@ -636,7 +610,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702341746,Primula_macrocalyx,59.5039,10.6623
 1936425495,Primula_macrocalyx,42.0362,-3.0013
 1936512089,Primula_macrocalyx,39.9247,-0.7663
-1947458502,Primula_macrocalyx,50.28,10.2
 1848991522,Primula_macrocalyx,48.835,21.22722
 1697617487,Primula_macrocalyx,52.460612,38.960867
 1697617318,Primula_macrocalyx,53.605508,38.812826
@@ -655,7 +628,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697617269,Primula_macrocalyx,55.399096,57.926585
 1702178140,Primula_macrocalyx,59.7015,10.5592
 1599135212,Primula_macrocalyx,63.077393,21.71009
-2313515893,Primula_macrocalyx,53.416667,89.5
 1599135516,Primula_macrocalyx,61.307901,23.664535
 1050604203,Primula_macrocalyx,41.36,-1.34
 1599135205,Primula_macrocalyx,60.890976,24.29802
@@ -666,7 +638,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500870507,Primula_macrocalyx,40.04,-0.63
 1053986595,Primula_macrocalyx,42.98,-1.25
 895209216,Primula_macrocalyx,40.57,0.11
-1947458482,Primula_macrocalyx,50.27,10.4
 1947458498,Primula_macrocalyx,50.33,10.55
 1831297229,Primula_macrocalyx,53.6485,12.2485
 1702150678,Primula_macrocalyx,59.702,10.6259
@@ -675,15 +646,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851383607,Primula_macrocalyx,42.57,-5.25
 2313516128,Primula_macrocalyx,52.75,89.833333
 1701415256,Primula_macrocalyx,60.0735,11.0395
-2313516170,Primula_macrocalyx,53.5,90.5
 1947458486,Primula_macrocalyx,50.08,10.57
 1936425493,Primula_macrocalyx,42.8531,-4.6291
-1500869137,Primula_macrocalyx,40,-0.54
 895235712,Primula_macrocalyx,40.008,-0.546
 1945478644,Primula_macrocalyx,50.25,87.95
 1839059667,Primula_macrocalyx,40.59306,21.921671
 1599135218,Primula_macrocalyx,60.962497,24.490503
-2313516159,Primula_macrocalyx,52.633333,90.1
 1701845092,Primula_macrocalyx,60.849,9.9477
 1945479863,Primula_macrocalyx,56.22,62.13
 1053981783,Primula_macrocalyx,43.06,-1.92
@@ -692,7 +660,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501005508,Primula_macrocalyx,40.01,-0.62
 318683400,Primula_macrocalyx,59.50859,10.64789
 1697820508,Primula_macrocalyx,41.725334,46.623058
-895191212,Primula_macrocalyx,40.4,-0.35
 1697820472,Primula_macrocalyx,41.630328,46.641426
 895235760,Primula_macrocalyx,40.028,-0.65
 895235742,Primula_macrocalyx,40.037,-0.627
@@ -706,7 +673,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999494083,Primula_macrocalyx,60.825207,21.542639
 1945479966,Primula_macrocalyx,57.75,28.48
 1851393784,Primula_macrocalyx,42.852,-4.56
-1050604185,Primula_macrocalyx,42.6,-0.55
 1936378144,Primula_macrocalyx,42.7374,-4.5284
 788694639,Primula_macrocalyx,40.116667,21.066667
 1599135203,Primula_macrocalyx,60.580381,23.373789
@@ -728,7 +694,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501959724,Primula_macrocalyx,39.06,-1.09
 1053984425,Primula_macrocalyx,42.68,-1.15
 1936363135,Primula_macrocalyx,40.0306,-1.1495
-1050604275,Primula_macrocalyx,42.77,-2
 1936377218,Primula_macrocalyx,42.782,-2.39
 1050604232,Primula_macrocalyx,42.94,-1.96
 1502017503,Primula_macrocalyx,40.05,-1.18
@@ -744,10 +709,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434676350,Primula_macrocalyx,57.98429,13.80455
 1936361720,Primula_macrocalyx,43.087,-2.2027
 1050604233,Primula_macrocalyx,41.51,-1.66
-895260797,Primula_macrocalyx,40.66,0.1
 860325003,Primula_macrocalyx,42.03,0.77
 1935714272,Primula_macrocalyx,46.72444,13.25333
-1053984406,Primula_macrocalyx,42.63,-1.1
 1935714249,Primula_macrocalyx,46.71861,13.25722
 1323798190,Primula_macrocalyx,59.9097,10.5287
 1936377163,Primula_macrocalyx,41.9623,-2.3617
@@ -756,19 +719,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697617355,Primula_macrocalyx,54.893037,42.330276
 1599135195,Primula_macrocalyx,61.06318,24.31022
 1599135200,Primula_macrocalyx,61.061988,24.295499
-2313516416,Primula_macrocalyx,52.133333,89.8
-1053984459,Primula_macrocalyx,42.67,-1.2
 187229891,Primula_macrocalyx,63.92,9.7645
 1697617442,Primula_macrocalyx,52.730251,38.72745
-1947458647,Primula_macrocalyx,50.19,10.3
 1947458644,Primula_macrocalyx,50.17,9.87
 1947458473,Primula_macrocalyx,49.92,9.87
 1947458479,Primula_macrocalyx,50.21,10.18
 1947458652,Primula_macrocalyx,50.26,10.53
 1053984446,Primula_macrocalyx,42.63,-1.28
 1935714290,Primula_macrocalyx,47.97583,16.79167
-895264181,Primula_macrocalyx,40.3,-0.23
-1053984491,Primula_macrocalyx,42.66,-1
 1936166237,Primula_macrocalyx,42.7272,-2.2562
 1936166136,Primula_macrocalyx,42.8443,-2.2548
 1053984386,Primula_macrocalyx,42.65,-1.17
@@ -806,8 +764,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895210940,Primula_macrocalyx,40.67,-0.57
 1050604186,Primula_macrocalyx,43.34,-3.11
 1936597888,Primula_macrocalyx,43.1655,-4.1085
-2313516363,Primula_macrocalyx,52,85
-1851571829,Primula_macrocalyx,43.4,-3.31
 1936147814,Primula_macrocalyx,43.4044,-3.3718
 1599135186,Primula_macrocalyx,60.417109,22.579667
 1936125517,Primula_macrocalyx,42.6115,-2.5136
@@ -833,7 +789,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313516551,Primula_macrocalyx,50.116667,86.166667
 895236842,Primula_macrocalyx,40.276,-0.465
 1936448450,Primula_macrocalyx,41.0689,-3.894
-237339693,Primula_macrocalyx,41.77,2.1
 1936106480,Primula_macrocalyx,42.2792,-2.8194
 1936107166,Primula_macrocalyx,42.603,-2.6356
 1947458675,Primula_macrocalyx,49.93,10.18
@@ -848,17 +803,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936106826,Primula_macrocalyx,42.8364,-3.5519
 1050604155,Primula_macrocalyx,43.31,-3.06
 1935714209,Primula_macrocalyx,47.42417,14.95806
-1851328695,Primula_macrocalyx,41.8,-3.042
 860311383,Primula_macrocalyx,40.76,0.33
 1705324129,Primula_macrocalyx,57.561127,15.086799
 1936107182,Primula_macrocalyx,42.8544,-3.5399
-1947458679,Primula_macrocalyx,49.98,10.3
 1936394226,Primula_macrocalyx,41.234,-3.3593
 1936146013,Primula_macrocalyx,42.7314,-0.5949
 1945479674,Primula_macrocalyx,54.633333,84.766667
-2313515994,Primula_macrocalyx,51.166667,86
-2313516486,Primula_macrocalyx,51.083333,85
-1851344586,Primula_macrocalyx,43,-6.24
 1936559184,Primula_macrocalyx,42.7092,-3.7462
 1936538872,Primula_macrocalyx,43.3429,-4.3584
 1697617384,Primula_macrocalyx,54.129281,35.974205
@@ -876,24 +826,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599135179,Primula_macrocalyx,60.398624,23.095443
 1936152469,Primula_macrocalyx,42.6027,-2.5625
 1050604139,Primula_macrocalyx,42.59,-3.79
-1050604182,Primula_macrocalyx,42.6,-2.59
 1936152823,Primula_macrocalyx,42.7927,-3.0013
 2313516043,Primula_macrocalyx,55.466667,91.983333
 1050604129,Primula_macrocalyx,42.71,-3.97
-1050604157,Primula_macrocalyx,42.6,-2.57
 895312478,Primula_macrocalyx,39.86,-0.72
-211634899,Primula_macrocalyx,42.790001,-3
 1050604171,Primula_macrocalyx,41.98,-3.35
 1599135184,Primula_macrocalyx,60.419732,22.483867
 1050604151,Primula_macrocalyx,42.79,-2.99
 1935713956,Primula_macrocalyx,47.31222,15.33944
 1947458513,Primula_macrocalyx,50.16,10.18
 2313516343,Primula_macrocalyx,51.64,85.75
-2313516460,Primula_macrocalyx,51,85.833333
 1947458514,Primula_macrocalyx,50.18,10.18
-1945478870,Primula_macrocalyx,51.41,86
-2313516053,Primula_macrocalyx,50.333333,85.3
-1945478917,Primula_macrocalyx,51.46,86
 2313516002,Primula_macrocalyx,50.283333,85.633333
 2313516209,Primula_macrocalyx,50.88,85.99
 1599135507,Primula_macrocalyx,60.208495,22.756939
@@ -916,14 +859,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806556155,Primula_macrocalyx,42.751966,-1.68344
 1936092821,Primula_macrocalyx,42.6822,-2.2568
 1935714155,Primula_macrocalyx,47.16944,15.28333
-1050604243,Primula_macrocalyx,43.35,-3.1
 1050604158,Primula_macrocalyx,42.76,-2.52
 1806556142,Primula_macrocalyx,42.81168,-1.641078
 1947458505,Primula_macrocalyx,50.34,10.51
 1806556136,Primula_macrocalyx,42.927648,-1.810162
 1947458504,Primula_macrocalyx,50.06,10.55
 1936092545,Primula_macrocalyx,42.6266,-2.0501
-1050604222,Primula_macrocalyx,42.7,-3
 1935714220,Primula_macrocalyx,47.14806,15.31361
 1936092292,Primula_macrocalyx,42.7746,-2.9891
 1851353655,Primula_macrocalyx,42.92,-5.51
@@ -941,7 +882,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599135194,Primula_macrocalyx,60.493645,23.439036
 1947458676,Primula_macrocalyx,50.31,10.59
 1999494166,Primula_macrocalyx,60.412181,22.266782
-1050604210,Primula_macrocalyx,42.97,-2.9
 1947458510,Primula_macrocalyx,50.17,10.53
 1599135189,Primula_macrocalyx,61.412596,23.540902
 1945478894,Primula_macrocalyx,51.35,82.14
@@ -950,15 +890,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211634749,Primula_macrocalyx,43.23,-4.99
 2313516271,Primula_macrocalyx,54.41,89.44
 1936091933,Primula_macrocalyx,43.0359,-5.481
-2313516164,Primula_macrocalyx,55.333333,65.5
 1936694975,Primula_macrocalyx,42.863,-5.9392
 1936092188,Primula_macrocalyx,43.0152,-5.971
 2313516030,Primula_macrocalyx,52.666667,85.666667
-2313516389,Primula_macrocalyx,50.166667,86.3
-2313516341,Primula_macrocalyx,50.5,87.2
 2313516176,Primula_macrocalyx,50.05,85.833333
 2313515933,Primula_macrocalyx,49.866667,86.416667
-211634750,Primula_macrocalyx,43.200001,-4.7
 1936092015,Primula_macrocalyx,42.8629,-2.3525
 1936092321,Primula_macrocalyx,42.8549,-2.5729
 1050604288,Primula_macrocalyx,43.04,-3.04
@@ -980,10 +916,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050604193,Primula_macrocalyx,42.62,-2.77
 1050604296,Primula_macrocalyx,43.15,-2.68
 1050604154,Primula_macrocalyx,42.85,-2.23
-1050604224,Primula_macrocalyx,43.05,-2.6
 1936092627,Primula_macrocalyx,42.5653,-3.7079
-1050604235,Primula_macrocalyx,43.2,-2.48
-1050604244,Primula_macrocalyx,43.2,-3.25
 1701227660,Primula_macrocalyx,63.9626,10.1127
 1099096210,Primula_macrocalyx,38.19991,-6.122048
 1701571056,Primula_macrocalyx,63.9537,10.1124
@@ -1002,11 +935,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599135183,Primula_macrocalyx,61.018303,24.379708
 1806556152,Primula_macrocalyx,42.896696,-1.780896
 1050604184,Primula_macrocalyx,42.83,-2.52
-1050604201,Primula_macrocalyx,42.83,-3.1
 1050604181,Primula_macrocalyx,42.91,-2.88
 1702509843,Primula_macrocalyx,42.75,-1.83
 1050604192,Primula_macrocalyx,42.84,-2.88
-1050604156,Primula_macrocalyx,42.8,-2.56
 1050604142,Primula_macrocalyx,42.76,-2.72
 1842901678,Primula_macrocalyx,42.253,-0.266
 1842846468,Primula_macrocalyx,40.895,0.323
@@ -1014,7 +945,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050604141,Primula_macrocalyx,42.75,-2.59
 1050604168,Primula_macrocalyx,42.88,-2.27
 1050604162,Primula_macrocalyx,42.73,-2.35
-1050604199,Primula_macrocalyx,42.6,-2.64
 1050604191,Primula_macrocalyx,42.73,-3.17
 1842846496,Primula_macrocalyx,40.849,0.289
 1935714166,Primula_macrocalyx,47.00972,15.46806
@@ -1033,13 +963,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050604172,Primula_macrocalyx,43.07,-2.79
 1935714281,Primula_macrocalyx,46.70889,13.25556
 1050604187,Primula_macrocalyx,42.86,-2.23
-2313516352,Primula_macrocalyx,51.833333,85.5
 1935714234,Primula_macrocalyx,47.28722,15.3925
 1851371636,Primula_macrocalyx,42.91,-5.76
 2313516679,Primula_macrocalyx,52.25,87.666667
 1599135505,Primula_macrocalyx,60.257122,24.739081
 1936090855,Primula_macrocalyx,40.5528,-4.1823
-895160294,Primula_macrocalyx,40.6,-4.12
 1050604196,Primula_macrocalyx,42.64,-2.83
 1842901693,Primula_macrocalyx,42.324,-0.191
 1050604214,Primula_macrocalyx,42.79,-2.73
@@ -1082,7 +1010,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053982723,Primula_macrocalyx,42.57,-1.63
 211635246,Primula_macrocalyx,43.080002,-5.22
 1705747599,Primula_macrocalyx,53.7337,18.9259
-1050604247,Primula_macrocalyx,42.6,-2.56
 1638416318,Primula_macrocalyx,46.64944,14.84889
 1697617493,Primula_macrocalyx,53.50092,39.575522
 2313515638,Primula_macrocalyx,54.89,37.43
@@ -1121,7 +1048,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999494068,Primula_macrocalyx,60.665132,21.588164
 1945478760,Primula_macrocalyx,50.94,84.82
 1697617511,Primula_macrocalyx,54.918607,38.626087
-1848991516,Primula_macrocalyx,48.01667,16.2
 1936370016,Primula_macrocalyx,39.6296,-5.5646
 1936598797,Primula_macrocalyx,43.3443,-4.2351
 2326574970,Primula_macrocalyx,60.384311,11.709908
@@ -1139,7 +1065,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1945478439,Primula_macrocalyx,43.94,39.91
 1701321165,Primula_macrocalyx,63.9008,9.9677
 1945479804,Primula_macrocalyx,55.25,89.23
-1919932254,Primula_macrocalyx,43.95,39.9
 1851358444,Primula_macrocalyx,42.75,-7.23
 1701667041,Primula_macrocalyx,59.8832,9.4913
 1701447862,Primula_macrocalyx,60.5238,10.339
@@ -1154,7 +1079,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999494171,Primula_macrocalyx,60.478621,22.366381
 1945479675,Primula_macrocalyx,54.84,84.73
 2313516219,Primula_macrocalyx,54.77,84.75
-2313516336,Primula_macrocalyx,55.7,90.45
 1919931334,Primula_macrocalyx,51.65,105.59
 1697617352,Primula_macrocalyx,54.957117,41.673632
 1697281660,Primula_macrocalyx,54.57137,58.82017
@@ -1163,34 +1087,26 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935714270,Primula_macrocalyx,47.43556,16.27472
 1705429858,Primula_macrocalyx,57.26756,14.928626
 788516529,Primula_macrocalyx,55.96328,13.88426
-2313516258,Primula_macrocalyx,54.82,83.1
 1697281672,Primula_macrocalyx,54.8536,83.13609
 1705364874,Primula_macrocalyx,57.929282,14.375187
-786226382,Primula_macrocalyx,51.6,10
 788715980,Primula_macrocalyx,38.933333,21.866667
 788715920,Primula_macrocalyx,38.95,21.85
-211635444,Primula_macrocalyx,43.380001,-5.9
 1697617338,Primula_macrocalyx,54.63824,40.686296
 1936599626,Primula_macrocalyx,43.4986,-5.7225
 1053982378,Primula_macrocalyx,42.86,-1.64
 211635443,Primula_macrocalyx,43.25,-6.02
 2313516337,Primula_macrocalyx,55.57,37.61
-788671849,Primula_macrocalyx,39.8,21.183333
 1935714263,Primula_macrocalyx,47.70639,15.885
 143005501,Primula_macrocalyx,40.549999,-4.18
 788671790,Primula_macrocalyx,39.016667,21.65
-211635446,Primula_macrocalyx,43.049999,-6
 1999494031,Primula_macrocalyx,60.430521,23.109678
 788671908,Primula_macrocalyx,39.783333,21.216667
 2313516661,Primula_macrocalyx,40.38,46.31
-1919931317,Primula_macrocalyx,54,90.3
 1697617344,Primula_macrocalyx,54.767116,37.428876
 1599132342,Primula_macrocalyx,59.984991,23.914289
 1697617444,Primula_macrocalyx,54.835619,37.644885
-788687698,Primula_macrocalyx,40.95,24.1
 788687638,Primula_macrocalyx,40.916667,24.166667
 2313516268,Primula_macrocalyx,50.26,88.04
-1945478337,Primula_macrocalyx,55,60.2
 1697820468,Primula_macrocalyx,43.226767,46.414153
 211635441,Primula_macrocalyx,43.279999,-6.24
 1697617320,Primula_macrocalyx,54.943944,41.485504
@@ -1210,7 +1126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1919931354,Primula_macrocalyx,53.983333,90.966667
 1697281658,Primula_macrocalyx,54.004944,91.493969
 2313515966,Primula_macrocalyx,53.07,91.29
-2313516362,Primula_macrocalyx,53.46,90.4
 2313516298,Primula_macrocalyx,51.41,86.01
 1697617329,Primula_macrocalyx,56.063895,36.539926
 1697281612,Primula_macrocalyx,53.98027,90.969286
@@ -1228,7 +1143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57716511,Primula_macrocalyx,60.787518,21.392656
 2313516302,Primula_macrocalyx,54.32,90.76
 1697617341,Primula_macrocalyx,54.922035,39.804448
-2313515981,Primula_macrocalyx,56,92.7
 1599135229,Primula_macrocalyx,60.854693,26.601323
 1702309450,Primula_macrocalyx,59.3231,10.6494
 1697281637,Primula_macrocalyx,54.320979,90.758915
@@ -1291,8 +1205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563903580,Primula_macrocalyx,63.4099,10.4228
 788522383,Primula_macrocalyx,58.35184,14.68991
 1057613360,Primula_macrocalyx,52.371049,0.995242
-1945479935,Primula_macrocalyx,56.5,60
-2313516579,Primula_macrocalyx,52.64,90.1
 1697617356,Primula_macrocalyx,54.708149,40.857257
 1144091856,Primula_macrocalyx,62.94634,6.98913
 1999494035,Primula_macrocalyx,60.41017,22.467019
@@ -1300,7 +1212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599135484,Primula_macrocalyx,60.029476,22.779953
 1144091845,Primula_macrocalyx,59.84212,10.21987
 1697820460,Primula_macrocalyx,43.67235,43.45501
-786226314,Primula_macrocalyx,47.8,20.3
 1935714276,Primula_macrocalyx,47.69694,15.88
 1999494066,Primula_macrocalyx,60.452655,22.142564
 788521572,Primula_macrocalyx,55.688214,13.644397
@@ -1320,7 +1231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313516139,Primula_macrocalyx,53.933333,91.666667
 1999494118,Primula_macrocalyx,60.402594,23.076689
 1935714222,Primula_macrocalyx,47.70806,15.85167
-2313516312,Primula_macrocalyx,54.5,91.69
 1702294354,Primula_macrocalyx,61.13415,10.39176
 1999608395,Primula_macrocalyx,59.960838,23.505513
 1056120677,Primula_macrocalyx,54.233799,-1.3414
@@ -1328,12 +1238,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701989524,Primula_macrocalyx,59.8539,10.428
 1999494216,Primula_macrocalyx,60.602341,22.568028
 1697617395,Primula_macrocalyx,55.4456,38.238595
-2313516286,Primula_macrocalyx,53.76,92.2
 1705330619,Primula_macrocalyx,59.658369,15.072358
 1701579613,Primula_macrocalyx,59.8584,10.4282
 2313516392,Primula_macrocalyx,53.93,91.82
 1705469740,Primula_macrocalyx,57.267788,16.403065
-788671968,Primula_macrocalyx,40.1,22.25
 1599132328,Primula_macrocalyx,61.168425,25.789213
 1945480061,Primula_macrocalyx,59.45,28.01
 1999494091,Primula_macrocalyx,60.298379,22.899079
@@ -1373,7 +1281,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701274259,Primula_macrocalyx,63.6537,9.4342
 1701883890,Primula_macrocalyx,59.2327,10.6965
 2313516013,Primula_macrocalyx,51.03,85.59
-2313516677,Primula_macrocalyx,53.7,12.54
 2313516109,Primula_macrocalyx,50.28,87.69
 1599135483,Primula_macrocalyx,60.035077,22.958874
 1323853044,Primula_macrocalyx,63.7053,9.6171
@@ -1412,7 +1319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1945478476,Primula_macrocalyx,46.86,28.52
 1705327787,Primula_macrocalyx,57.042658,16.446171
 1599135469,Primula_macrocalyx,61.478388,23.148623
-1919931321,Primula_macrocalyx,54.9,99.03
 1697617518,Primula_macrocalyx,53.195063,45.018316
 788506887,Primula_macrocalyx,56.280658,13.948948
 1055461945,Primula_macrocalyx,50.8004,0.1066
@@ -1427,7 +1333,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999494003,Primula_macrocalyx,60.57246,22.75477
 1705349300,Primula_macrocalyx,57.274268,16.435148
 57716492,Primula_macrocalyx,60.488098,23.084499
-1945478299,Primula_macrocalyx,39,48.483333
 788512917,Primula_macrocalyx,57.377869,12.135442
 1999494104,Primula_macrocalyx,60.842328,21.521278
 1705431365,Primula_macrocalyx,57.231818,16.482444
@@ -1444,7 +1349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701274089,Primula_macrocalyx,63.9273,10.0298
 1697617271,Primula_macrocalyx,53.645414,57.124255
 1599132321,Primula_macrocalyx,68.706373,21.439946
-1891598833,Primula_macrocalyx,49.91,5.9
 2313351321,Primula_macrocalyx,48.27,11.62
 1999493992,Primula_macrocalyx,60.411282,23.066551
 1919931318,Primula_macrocalyx,52.13,103.97
@@ -1459,7 +1363,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705402573,Primula_macrocalyx,58.02023,14.465156
 1701291980,Primula_macrocalyx,63.7063,9.7486
 2313515739,Primula_macrocalyx,48.29,25.85
-2313515671,Primula_macrocalyx,48.18,26
 1697820420,Primula_macrocalyx,44.607946,40.118122
 1697617205,Primula_macrocalyx,52.139425,56.701955
 1697617218,Primula_macrocalyx,53.530867,57.619229
@@ -1475,7 +1378,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599135554,Primula_macrocalyx,60.903814,26.536346
 1705284756,Primula_macrocalyx,57.283163,16.451881
 1599135451,Primula_macrocalyx,61.326265,24.288746
-1945478499,Primula_macrocalyx,46.7,28.55
 1999574852,Primula_macrocalyx,60.693028,22.592199
 1697617249,Primula_macrocalyx,52.693727,57.860625
 1999494002,Primula_macrocalyx,60.36934,22.726816
@@ -1519,13 +1421,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999494191,Primula_macrocalyx,60.378332,22.589473
 415405910,Primula_macrocalyx,62.408798,23.891001
 1697281603,Primula_macrocalyx,55.86794,92.23318
-1891588597,Primula_macrocalyx,49.88,6.2
 1935714247,Primula_macrocalyx,47.70972,15.86167
 1697617245,Primula_macrocalyx,56.10871,56.673134
 1935714311,Primula_macrocalyx,47.70722,15.92278
 318683283,Primula_macrocalyx,59.43573,11.281816
 1935714322,Primula_macrocalyx,47.69333,15.89222
-1899069462,Primula_macrocalyx,49.8,6.52
 1935713952,Primula_macrocalyx,47.16556,15.30944
 1705431645,Primula_macrocalyx,59.664244,17.382805
 788521236,Primula_macrocalyx,58.64764,16.23019
@@ -1539,7 +1439,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705493755,Primula_macrocalyx,61.17,28.77
 1701335099,Primula_macrocalyx,63.8414,11.3688
 1701877789,Primula_macrocalyx,59.5681,10.115
-1945478415,Primula_macrocalyx,43.08,46.7
 1945478369,Primula_macrocalyx,42.39,46.94
 1701877869,Primula_macrocalyx,59.6182,10.028
 860319381,Primula_macrocalyx,42.03,1.01
@@ -1547,7 +1446,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313515807,Primula_macrocalyx,55.77,37.33
 1055918294,Primula_macrocalyx,51.60166,-0.701924
 788477387,Primula_macrocalyx,56.03977,13.68025
-2313516163,Primula_macrocalyx,51.4,83.56
 1999493948,Primula_macrocalyx,60.383944,22.488833
 1999494040,Primula_macrocalyx,60.383328,22.470758
 1701564875,Primula_macrocalyx,63.5977,10.8444
@@ -1595,7 +1493,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701238432,Primula_macrocalyx,59.575,11.6203
 1919931323,Primula_macrocalyx,51.77,103.24
 2313516244,Primula_macrocalyx,50.27,87.84
-2313515483,Primula_macrocalyx,48.2,27.25
 1705292959,Primula_macrocalyx,57.631649,14.884523
 1935714217,Primula_macrocalyx,47.10472,15.38306
 1935713941,Primula_macrocalyx,47.1775,15.25306
@@ -1621,7 +1518,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705298758,Primula_macrocalyx,57.631519,15.122921
 1935714329,Primula_macrocalyx,47.65583,15.82056
 2313350715,Primula_macrocalyx,48.26,11.78
-2313515844,Primula_macrocalyx,55.75,36.5
 2313516345,Primula_macrocalyx,50.69,85.79
 239018223,Primula_macrocalyx,60.381599,22.5527
 1705381928,Primula_macrocalyx,56.074111,14.083046
@@ -1646,7 +1542,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701883881,Primula_macrocalyx,59.197,10.8172
 1705298733,Primula_macrocalyx,57.667916,14.933874
 2313516717,Primula_macrocalyx,41.94,24.85
-1945479876,Primula_macrocalyx,56.4,84.98
 1705298795,Primula_macrocalyx,57.721535,14.842633
 1705298777,Primula_macrocalyx,58.663165,16.391163
 1144091862,Primula_macrocalyx,60.3763,6.7219
@@ -1667,7 +1562,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57716496,Primula_macrocalyx,62.964199,25.9125
 1701787749,Primula_macrocalyx,59.833,10.6769
 1999493986,Primula_macrocalyx,60.422122,24.001118
-1945478520,Primula_macrocalyx,48.2,27.36
 1705298801,Primula_macrocalyx,57.859443,14.856336
 1701274534,Primula_macrocalyx,63.5523,10.8817
 1599132308,Primula_macrocalyx,68.887321,26.871627
@@ -1750,7 +1644,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788516712,Primula_macrocalyx,59.054227,12.4673
 1599135433,Primula_macrocalyx,60.477006,22.721864
 1705298750,Primula_macrocalyx,57.659165,14.96759
-1945478336,Primula_macrocalyx,56,49
 1701405788,Primula_macrocalyx,60.6436,10.8378
 980276,Primula_macrocalyx,56.30975,15.73605
 1999494013,Primula_macrocalyx,60.451459,22.233757
@@ -1772,7 +1665,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705367409,Primula_macrocalyx,55.500562,14.145726
 788521514,Primula_macrocalyx,55.505248,13.358869
 1705273071,Primula_macrocalyx,56.031862,14.152375
-1945480085,Primula_macrocalyx,59.9,29.7
 788725366,Primula_macrocalyx,56.262414,15.620531
 1705402861,Primula_macrocalyx,57.430961,15.074205
 57716482,Primula_macrocalyx,60.206299,23.127199
@@ -1784,7 +1676,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701877791,Primula_macrocalyx,59.5237,9.5656
 788512621,Primula_macrocalyx,56.21002,13.36651
 1340041175,Primula_macrocalyx,58.467451,14.974661
-2290317734,Primula_macrocalyx,46.2,14.616667
 1702294361,Primula_macrocalyx,59.5255,10.3151
 1705368592,Primula_macrocalyx,60.075758,14.983456
 1697617458,Primula_macrocalyx,55.70106,36.721153
@@ -1830,7 +1721,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702294369,Primula_macrocalyx,59.4863,10.3198
 1702294378,Primula_macrocalyx,60.9697,10.5868
 1945478428,Primula_macrocalyx,41.74,43.53
-876156841,Primula_macrocalyx,41.6,2.46
 1935714202,Primula_macrocalyx,47.19028,15.30667
 1055951795,Primula_macrocalyx,51.092602,-1.2375
 1056165260,Primula_macrocalyx,51.2621,-0.4328
@@ -1890,7 +1780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705364746,Primula_macrocalyx,58.611579,14.526603
 788702415,Primula_macrocalyx,58.161357,13.550428
 1702227977,Primula_macrocalyx,59.4344,11.2832
-860320669,Primula_macrocalyx,42.05,2.7
 876153566,Primula_macrocalyx,42.14,2.58
 1701239580,Primula_macrocalyx,60.8435,10.6652
 1699355496,Primula_macrocalyx,60.826111,30.129167
@@ -1979,7 +1868,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1945479750,Primula_macrocalyx,55.46,58.81
 1705347366,Primula_macrocalyx,57.265205,16.451567
 1705369739,Primula_macrocalyx,58.036227,14.958779
-2313516180,Primula_macrocalyx,49.9,48.833333
 1599135391,Primula_macrocalyx,61.152375,21.514117
 1945479843,Primula_macrocalyx,55.35,65.266667
 1697820471,Primula_macrocalyx,40.408006,44.455662
@@ -2012,7 +1900,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697617473,Primula_macrocalyx,56.35219,37.545525
 788508282,Primula_macrocalyx,55.54033,13.27169
 1705372261,Primula_macrocalyx,57.0856,14.172357
-2313515626,Primula_macrocalyx,52.5,48.1
 788513788,Primula_macrocalyx,56.433477,12.835168
 788512505,Primula_macrocalyx,59.519551,15.040255
 216102234,Primula_macrocalyx,62.214298,23.824499
@@ -2091,7 +1978,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705281949,Primula_macrocalyx,56.673882,16.082547
 1697617504,Primula_macrocalyx,52.721219,41.452274
 980538,Primula_macrocalyx,57.77184,14.17784
-1945479922,Primula_macrocalyx,55.9,92.9
 788814213,Primula_macrocalyx,60.14037,15.41361
 1705318521,Primula_macrocalyx,57.7045,11.96518
 1705379722,Primula_macrocalyx,56.617098,14.182047
@@ -2176,7 +2062,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788562793,Primula_macrocalyx,63.095278,21.616389
 616365593,Primula_macrocalyx,51.96,5.66
 1434666697,Primula_macrocalyx,41.335,48.141389
-1945480065,Primula_macrocalyx,59.7,30.12
 1434666619,Primula_macrocalyx,41.299167,48.111667
 1697617388,Primula_macrocalyx,55.74261,37.398482
 1434666585,Primula_macrocalyx,41.269444,48.006111
@@ -2220,8 +2105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788512447,Primula_macrocalyx,59.93385,16.56293
 788727891,Primula_macrocalyx,59.633349,16.988915
 788521697,Primula_macrocalyx,55.524772,13.906531
-1919932225,Primula_macrocalyx,44.23,41.2
-1705493478,Primula_macrocalyx,45.25,14.2
 980284,Primula_macrocalyx,57.263261,16.450772
 1701787768,Primula_macrocalyx,59.858,10.4639
 1705336304,Primula_macrocalyx,58.270577,15.739245
@@ -2251,7 +2134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055408541,Primula_macrocalyx,54.177898,-1.3875
 1264996528,Primula_macrocalyx,47.204167,15.345556
 1935714200,Primula_macrocalyx,47.21,15.345
-1945478569,Primula_macrocalyx,49.3,38.91
 1701571610,Primula_macrocalyx,63.4388,10.4732
 1702294349,Primula_macrocalyx,59.9044,10.3229
 1057041668,Primula_macrocalyx,51.599975,-0.557585
@@ -2291,7 +2173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705322617,Primula_macrocalyx,56.107946,14.167968
 1057238235,Primula_macrocalyx,51.619999,-3.8142
 1935714193,Primula_macrocalyx,47.24139,15.29278
-1945478379,Primula_macrocalyx,41.733333,47.8
 1057187698,Primula_macrocalyx,51.731499,-3.4602
 2313516236,Primula_macrocalyx,51.04,85.58
 1701667070,Primula_macrocalyx,59.7175,10.1378
@@ -2304,7 +2185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 980586,Primula_macrocalyx,57.75361,14.99228
 1057047792,Primula_macrocalyx,51.863499,-3.4988
 1057461425,Primula_macrocalyx,51.5947,-3.7841
-2313515542,Primula_macrocalyx,49.9,82.9
 1056895864,Primula_macrocalyx,51.334499,-0.3584
 1702294245,Primula_macrocalyx,60.446,10.4812
 1702294343,Primula_macrocalyx,59.7631,10.0592
