@@ -35,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500373830,Psyllocarpus_laricoides,-14.758889,-42.577222
 1291010552,Psyllocarpus_laricoides,-16.358611,-42.878611
 1424490863,Psyllocarpus_laricoides,-16.722222,-42.9225
-1657212501,Psyllocarpus_laricoides,-11.2409,-37.2024
 1806850036,Psyllocarpus_laricoides,-18.962833,-43.770583
 1423837754,Psyllocarpus_laricoides,-14.759167,-42.577222
 1087662446,Psyllocarpus_laricoides,-20.3525,-43.414444
@@ -108,13 +107,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087182559,Psyllocarpus_laricoides,-20.265278,-43.527778
 2027491265,Psyllocarpus_laricoides,-20.265278,-43.694444
 1090581236,Psyllocarpus_laricoides,-20.2875,-43.5081
-1087074060,Psyllocarpus_laricoides,-10.773056,-37.355833
-1324592091,Psyllocarpus_laricoides,-10.752306,-37.335583
 1424227000,Psyllocarpus_laricoides,-16.943611,-43.008889
 1087241770,Psyllocarpus_laricoides,-18.25,-43.674722
 1094822513,Psyllocarpus_laricoides,-18.248333,-43.653611
-1087074051,Psyllocarpus_laricoides,-10.75,-37.333333
-2005868365,Psyllocarpus_laricoides,-11.090833,-41.209444
 2005868933,Psyllocarpus_laricoides,-13.079167,-41.887778
 1853952870,Psyllocarpus_laricoides,-17.692778,-44.198889
 1424108840,Psyllocarpus_laricoides,-15.373611,-42.692222
@@ -157,7 +152,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928590150,Psyllocarpus_laricoides,-18.0111,-44.3281
 1853949710,Psyllocarpus_laricoides,-18.011111,-44.328056
 1853949609,Psyllocarpus_laricoides,-15.378056,-42.698333
-1228578448,Psyllocarpus_laricoides,-10.8339,-52.8731
 1853949779,Psyllocarpus_laricoides,-18.116667,-44.583333
 1853949777,Psyllocarpus_laricoides,-18.25,-43.666667
 1853948735,Psyllocarpus_laricoides,-19.166667,-43.683333
@@ -188,9 +182,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1213612464,Psyllocarpus_laricoides,-18.15,-43.716667
 1042479010,Psyllocarpus_laricoides,-18.55,-43.48
 1077191541,Psyllocarpus_laricoides,-18.55,-43.483333
-1213612421,Psyllocarpus_laricoides,-18.55,-4
 1213612462,Psyllocarpus_laricoides,-16.533333,-42.916667
-1928458247,Psyllocarpus_laricoides,-12.694217,-60.099174
 1929005816,Psyllocarpus_laricoides,-16.5648,-42.8943
 1930728709,Psyllocarpus_laricoides,-18.4581810723501,-43.7407994499746
 1928771250,Psyllocarpus_laricoides,-18.09029,-43.43284
@@ -209,7 +201,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927787212,Psyllocarpus_laricoides,-18.162,-43.5028
 1930989836,Psyllocarpus_laricoides,-18.1838,-43.536667
 1931210043,Psyllocarpus_laricoides,-17.7588,-44.170833
-1228590981,Psyllocarpus_laricoides,-21,-55
 1928852049,Psyllocarpus_laricoides,-18.0833,-43.7833
 1929917969,Psyllocarpus_laricoides,-18.0062,-43.7296
 1928681220,Psyllocarpus_laricoides,-18.18,-43.55
