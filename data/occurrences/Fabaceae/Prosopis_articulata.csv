@@ -21,7 +21,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894818700,Prosopis_articulata,23.725,-110.025
 1893387849,Prosopis_articulata,26.898056,-107.886389
 1894818705,Prosopis_articulata,23.325,-110.191667
-1846549944,Prosopis_articulata,23,-102
 1846489427,Prosopis_articulata,28.082522,-113.57738
 1894818201,Prosopis_articulata,24.175,-110.341667
 1894818216,Prosopis_articulata,26.641667,-112.441667
@@ -44,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270516854,Prosopis_articulata,27.5111,-109.875
 1893592203,Prosopis_articulata,27.411111,-109.8375
 1928879427,Prosopis_articulata,24.28,-110.97
-1265477331,Prosopis_articulata,27.43,-112.5
 1894818687,Prosopis_articulata,27.158333,-114.008333
 1928945150,Prosopis_articulata,27.97853,-110.97175
 1893527767,Prosopis_articulata,23.808333,-110.108333
@@ -93,5 +91,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259602398,Prosopis_articulata,28.95,-113.55
 1930037000,Prosopis_articulata,28.9453,-113.5589
 1929449908,Prosopis_articulata,24.91231,-110.70375
-1930723943,Prosopis_articulata,29,-112.3619
 1928326202,Prosopis_articulata,32.44,-117.06
