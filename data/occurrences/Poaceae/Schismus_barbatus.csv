@@ -40,13 +40,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1452542039,Schismus_barbatus,-33.263162,141.266246
 1142185674,Schismus_barbatus,-34.60405,140.0798
 910356287,Schismus_barbatus,28.569722,48.401111
-910355078,Schismus_barbatus,29.430556,48.32
 893355913,Schismus_barbatus,29.165278,47.685278
 1846556576,Schismus_barbatus,33.56656,-112.035595
 1846555283,Schismus_barbatus,32.4767,-111.0324
 1846474882,Schismus_barbatus,33.59934,-112.058436
 910347885,Schismus_barbatus,29.990833,47.701667
-893357277,Schismus_barbatus,29.575833,48.169444
 1846555873,Schismus_barbatus,33.597458,-112.062272
 2270490065,Schismus_barbatus,32.679739,-111.442133
 1936283375,Schismus_barbatus,37.117222,-2.626111
@@ -62,14 +60,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846549274,Schismus_barbatus,33.112616,-111.144699
 773923702,Schismus_barbatus,28.925,48.196389
 790003780,Schismus_barbatus,28.542778,48.419722
-1697765441,Schismus_barbatus,40.296633,50.348817
 996238121,Schismus_barbatus,-33.32761,145.62372
 996239453,Schismus_barbatus,-34.185,142.184
 992085421,Schismus_barbatus,-32.146111,135.041111
 1454382669,Schismus_barbatus,-32.14635,135.04097
 1846517785,Schismus_barbatus,33.6025,-111.81072
 2270213466,Schismus_barbatus,33.736528,-117.197611
-1935723680,Schismus_barbatus,28.04167,-16.70278
 2270213870,Schismus_barbatus,34.570817,-115.6739
 1936244499,Schismus_barbatus,37.9181,-1.8678
 1936254033,Schismus_barbatus,38.3569,-0.7581
@@ -104,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846552330,Schismus_barbatus,33.881694,-111.962583
 623689086,Schismus_barbatus,34.05,-114.81
 1846547957,Schismus_barbatus,34.4976109991189,-111.752361
-1936207577,Schismus_barbatus,34.6825,10.701667
 2270576929,Schismus_barbatus,33.3628,-111.735
 1986980938,Schismus_barbatus,37.0096329990928,-113.935767
 1265826117,Schismus_barbatus,33.2534299991344,-117.42925
@@ -134,8 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936198138,Schismus_barbatus,29.3511,-10.1367
 2270685480,Schismus_barbatus,33.741392,-112.693789
 2270690226,Schismus_barbatus,33.6434,-113.108
-1936674954,Schismus_barbatus,33.038056,-16.359444
-1936674346,Schismus_barbatus,33.0647,-16.2964
 1843913179,Schismus_barbatus,32.2248,-108.1232
 1843913401,Schismus_barbatus,32.1719,-108.9843
 2270689247,Schismus_barbatus,33.6783,-113.052
@@ -165,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270689420,Schismus_barbatus,31.962,-110.962
 860314858,Schismus_barbatus,41.61,-0.93
 2270573963,Schismus_barbatus,33.6591,-113.084
-462242974,Schismus_barbatus,-30.625,17.375
 992056223,Schismus_barbatus,-35.530118,138.68305
 995456066,Schismus_barbatus,-35.530118,138.683051
 462242973,Schismus_barbatus,-30.375,17.375
@@ -212,11 +204,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995380061,Schismus_barbatus,-29.5833,116.9667
 992052155,Schismus_barbatus,-31.878333,132.144444
 1652180108,Schismus_barbatus,-28.235527,144.626745
-1085410619,Schismus_barbatus,-32.13866,133.20115
 1085410988,Schismus_barbatus,-31.8784,132.14431
 1085409088,Schismus_barbatus,-31.97447,132.87554
 992047483,Schismus_barbatus,-34.88844,139.615533
-992051985,Schismus_barbatus,-32.138611,133.201111
 992052533,Schismus_barbatus,-31.974444,132.875556
 992054098,Schismus_barbatus,-30.246667,139.657778
 996177449,Schismus_barbatus,-36.8875,148.42
@@ -379,11 +369,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204404521,Schismus_barbatus,36.753,-2.793
 996797592,Schismus_barbatus,-30.802262,118.772372
 1085331095,Schismus_barbatus,-32.53999,134.31072
-992019126,Schismus_barbatus,-33.036667,134.240278
 992020505,Schismus_barbatus,-32.541389,134.309444
 992021295,Schismus_barbatus,-32.625833,135.221944
 1085330125,Schismus_barbatus,-32.62437,135.22321
-1085339055,Schismus_barbatus,-33.03514,134.24165
 1085336975,Schismus_barbatus,-33.19466,135.47894
 1084169995,Schismus_barbatus,-30.25864,139.21734
 1085344640,Schismus_barbatus,-30.10945,139.41738
@@ -392,7 +380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992017741,Schismus_barbatus,-32.873611,135.332222
 992017138,Schismus_barbatus,-33.1961,135.4775
 995169430,Schismus_barbatus,-31.4764,138.4256
-462242943,Schismus_barbatus,-32.875,17.875
 992011322,Schismus_barbatus,-30.110833,139.416111
 992004145,Schismus_barbatus,-34.58,138.75
 993559530,Schismus_barbatus,-34.1708,146.7292
@@ -407,7 +394,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936537470,Schismus_barbatus,37.3346,-1.6918
 232591903,Schismus_barbatus,37.71,-1.01
 1258457653,Schismus_barbatus,32.33194,-112.7875
-318121387,Schismus_barbatus,38.16,-0.47
 2270576305,Schismus_barbatus,33.1794,-111.661
 2270214232,Schismus_barbatus,35.085276,-120.14437
 318121407,Schismus_barbatus,38.09,-0.64
@@ -515,7 +501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501937325,Schismus_barbatus,39.52,-1.55
 1502029750,Schismus_barbatus,40.39,-0.11
 318121130,Schismus_barbatus,38.4,-1.01
-318121293,Schismus_barbatus,38.95,1.52
 895229907,Schismus_barbatus,41.375,-1.499
 318121129,Schismus_barbatus,38.51,-0.76
 996653189,Schismus_barbatus,-28.675118,117.384762
@@ -672,7 +657,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270575266,Schismus_barbatus,33.7629,-110.834
 318121055,Schismus_barbatus,38.07,-1.12
 318121116,Schismus_barbatus,39.63,-0.51
-2270212825,Schismus_barbatus,34.0119999991248,-119.6874
 2270574978,Schismus_barbatus,33.4587,-111.45
 1893935293,Schismus_barbatus,31.964444,-113.623611
 883377918,Schismus_barbatus,33.816667,-116.383333
@@ -718,11 +702,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992557931,Schismus_barbatus,-32.485833,137.738056
 1066930927,Schismus_barbatus,-32.575372,142.173211
 2270575160,Schismus_barbatus,33.3993,-112.877
-1846545930,Schismus_barbatus,33.994464,-119.734501
-318121728,Schismus_barbatus,38.17,-0.46
 318121729,Schismus_barbatus,36.73,-2.15
 1893935324,Schismus_barbatus,29.775,-114.758333
-2270495171,Schismus_barbatus,33.99583,-119.71528
 1085565975,Schismus_barbatus,-33.05368,140.20118
 992569317,Schismus_barbatus,-32.554722,140.641111
 992569879,Schismus_barbatus,-32.8825,140.8408
@@ -862,7 +843,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 453347693,Schismus_barbatus,-29.375,17.125
 992490147,Schismus_barbatus,-31.883333,139.266667
 994344319,Schismus_barbatus,-31.881869,139.267971
-453347822,Schismus_barbatus,-30.875,17.625
 453347679,Schismus_barbatus,-29.625,17.125
 453347685,Schismus_barbatus,-28.875,16.875
 453347714,Schismus_barbatus,-28.875,17.125
@@ -920,7 +900,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 453347823,Schismus_barbatus,-29.875,17.375
 453347783,Schismus_barbatus,-33.375,20.125
 995073442,Schismus_barbatus,-36.2833,142.4167
-992468219,Schismus_barbatus,-35.916667,136.616667
 1893935287,Schismus_barbatus,30.66972,-115.97194
 1893935385,Schismus_barbatus,23.2398643704784,-109.742090790133
 1260381339,Schismus_barbatus,29.616667,-115.2
@@ -939,7 +918,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986935474,Schismus_barbatus,33.697778,-114.615278
 1986935280,Schismus_barbatus,36.793889,-114.525556
 1936453844,Schismus_barbatus,42.4146,0.1306
-1895432373,Schismus_barbatus,31.340617390768,-113.545959991567
 895150250,Schismus_barbatus,39.59,-0.61
 453347688,Schismus_barbatus,-32.125,21.875
 992460009,Schismus_barbatus,-31.95,139.866667
@@ -1006,10 +984,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992421316,Schismus_barbatus,-31.95,133.366667
 992427709,Schismus_barbatus,-31.4,131.277778
 992427029,Schismus_barbatus,-31.866667,139.1
-993496728,Schismus_barbatus,-31.9833,128.2833
 992419672,Schismus_barbatus,-34.487778,138.283056
 992473729,Schismus_barbatus,-31.333333,138.583333
-996610950,Schismus_barbatus,-31.983333,128.283333
 992477220,Schismus_barbatus,-31.332041,138.584394
 992488026,Schismus_barbatus,-31.532044,138.334399
 453347738,Schismus_barbatus,-28.875,24.375
@@ -1066,14 +1042,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1084384500,Schismus_barbatus,-30.47176,139.14948
 2270286815,Schismus_barbatus,32.83917,-116.19483
 2270574140,Schismus_barbatus,33.587908,-111.602246
-2270291050,Schismus_barbatus,34.016528,-119.771088
-2270282952,Schismus_barbatus,33.9969999991249,-119.7288
 2270575994,Schismus_barbatus,33.25,-111.55
 1426307949,Schismus_barbatus,35.608333,-118.241667
 2270283785,Schismus_barbatus,33.490849,-117.697525
-575218615,Schismus_barbatus,27.816667,48.883333
 2242407920,Schismus_barbatus,32.723202,-113.878098
-1697765510,Schismus_barbatus,40.515757,46.831799
 1050612415,Schismus_barbatus,42.41,-2.25
 1986938463,Schismus_barbatus,34.969444,-116.846944
 199502872,Schismus_barbatus,37.08725,-2.29373
@@ -1106,7 +1078,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992387841,Schismus_barbatus,-33.083333,135.95
 993298586,Schismus_barbatus,-31.0833,145.2167
 992387863,Schismus_barbatus,-32.916667,135.9
-453347789,Schismus_barbatus,-34.375,21.375
 1657203830,Schismus_barbatus,27.85,41.46667
 1657203755,Schismus_barbatus,25.6,42.8
 453347648,Schismus_barbatus,-33.375,25.125
@@ -1134,7 +1105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992377158,Schismus_barbatus,-33.690367,141.084393
 995985601,Schismus_barbatus,-33.6917,141.08
 996695618,Schismus_barbatus,-32.196389,123.677222
-992378528,Schismus_barbatus,-34.533333,136.283333
 995064854,Schismus_barbatus,-29.4833,137.0833
 992479880,Schismus_barbatus,-29.483333,137.083333
 992372499,Schismus_barbatus,-31.415399,135.367758
@@ -1259,7 +1229,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462242909,Schismus_barbatus,-30.875,19.875
 462242913,Schismus_barbatus,-30.875,19.375
 1451628971,Schismus_barbatus,-31.081823,141.667934
-462242906,Schismus_barbatus,-31.625,18.125
 462242912,Schismus_barbatus,-30.875,18.625
 462242907,Schismus_barbatus,-31.625,18.625
 912552369,Schismus_barbatus,-31.08,141.67
@@ -1304,7 +1273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895432417,Schismus_barbatus,28.785556,-113.7575
 1893935284,Schismus_barbatus,29.9850327389328,-115.208523592629
 1846544864,Schismus_barbatus,30.383333,-115.6
-1846544619,Schismus_barbatus,33.461395,-111.944487
 2270476020,Schismus_barbatus,30.9833,-115.767
 1895432450,Schismus_barbatus,30.9728049158263,-115.774827481745
 1846544660,Schismus_barbatus,33.545275,-111.682878
@@ -1478,22 +1446,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993213072,Schismus_barbatus,-31.4,129.8333
 992473584,Schismus_barbatus,-31.404606,129.839465
 992473227,Schismus_barbatus,-31.45,129.85
-912552172,Schismus_barbatus,29.4,48.38
-1502039804,Schismus_barbatus,38.5,-0.08
-912552206,Schismus_barbatus,29.45,48.28
 1893391014,Schismus_barbatus,31.875,-116.175
 992194149,Schismus_barbatus,-32.236776,137.510248
 992176994,Schismus_barbatus,-34.283333,140.55
 462242857,Schismus_barbatus,-31.375,20.875
 992177639,Schismus_barbatus,-33.910833,136.568333
 992177655,Schismus_barbatus,-33.037222,137.305556
-992178421,Schismus_barbatus,-33.933333,137.633333
 992273242,Schismus_barbatus,-30.562312,139.163827
 992273238,Schismus_barbatus,-31.120928,138.826613
 992384908,Schismus_barbatus,-33.654722,135.505278
 992177751,Schismus_barbatus,-33.752778,135.559167
-2288883585,Schismus_barbatus,28.052433,-15.46455
-2289464056,Schismus_barbatus,28.166333,-15.41755
 1893935347,Schismus_barbatus,28.90578,-113.53345
 1321357525,Schismus_barbatus,28.7833,-113.917
 1986931929,Schismus_barbatus,32.263056,-110.730556
@@ -1518,7 +1480,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992172553,Schismus_barbatus,-33.429016,135.959996
 992473200,Schismus_barbatus,-33.6768,136.8486
 2270574890,Schismus_barbatus,33.8776,-112.277
-2270475319,Schismus_barbatus,31.297341,-113.54605
 2270574893,Schismus_barbatus,33.5092,-111.898
 2270574792,Schismus_barbatus,33.686,-111.739
 2270284349,Schismus_barbatus,34.0869,-116.9119
@@ -1535,7 +1496,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992140343,Schismus_barbatus,-30.362876,137.989947
 992140152,Schismus_barbatus,-30.569722,138.906111
 992141181,Schismus_barbatus,-30.451,138.236
-1899071051,Schismus_barbatus,34,9
 912273417,Schismus_barbatus,31.83,36.77
 912273360,Schismus_barbatus,30.32,35.43
 1986900416,Schismus_barbatus,37.019444,-113.854722
@@ -1552,7 +1512,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270574660,Schismus_barbatus,33.4328,-111.92571
 1986899939,Schismus_barbatus,37.380833,-113.881667
 2270576389,Schismus_barbatus,33.7385,-112.073
-462242815,Schismus_barbatus,-33.625,26.375
 1893935306,Schismus_barbatus,32.514228,-116.610101
 993768019,Schismus_barbatus,-32.6833,137.1833
 462242816,Schismus_barbatus,-33.375,25.875
@@ -1584,7 +1543,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912552171,Schismus_barbatus,36.17,52.28
 992473150,Schismus_barbatus,-31.770833,133.453889
 994988840,Schismus_barbatus,-35.75,141.9667
-462242827,Schismus_barbatus,-32.625,17.875
 992103460,Schismus_barbatus,-32.833333,136.133333
 994988844,Schismus_barbatus,-35.5667,142.1167
 1451628974,Schismus_barbatus,-32.398487,142.417942
@@ -1622,7 +1580,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993314332,Schismus_barbatus,-32.4833,134.7667
 462242825,Schismus_barbatus,-31.375,25.125
 453347715,Schismus_barbatus,-33.125,20.875
-992235853,Schismus_barbatus,-31.510278,131.169167
 318121169,Schismus_barbatus,38.69,-0.87
 992473223,Schismus_barbatus,-32.029722,137.218333
 992473265,Schismus_barbatus,-32.123056,137.149722
@@ -1723,10 +1680,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451628993,Schismus_barbatus,-31.965161,141.451284
 995985052,Schismus_barbatus,-31.97,141.45
 453347762,Schismus_barbatus,-28.875,24.875
-1144779948,Schismus_barbatus,41.38333,9.15
 453347755,Schismus_barbatus,-32.375,19.625
 912273381,Schismus_barbatus,31.27,35.52
-2270575989,Schismus_barbatus,33.46,-111.95
 2270573486,Schismus_barbatus,33.4581,-111.949
 992235933,Schismus_barbatus,-32.903889,138.049167
 992279619,Schismus_barbatus,-32.933333,137.983333
@@ -1745,7 +1700,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928873671,Schismus_barbatus,31.340378,-110.934253
 2270574112,Schismus_barbatus,31.3403,-110.934
 1986878849,Schismus_barbatus,33.225278,-111.343333
-31966259,Schismus_barbatus,29.23,-10.33
 462242803,Schismus_barbatus,-33.625,22.125
 1986877876,Schismus_barbatus,36.935,-113.948333
 996695800,Schismus_barbatus,-30.283333,117.016389
@@ -1796,13 +1750,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992279123,Schismus_barbatus,-32.083333,141
 462242855,Schismus_barbatus,-31.375,27.125
 616317251,Schismus_barbatus,-33.875,24.875
-462242826,Schismus_barbatus,-33.625,26.875
 462242879,Schismus_barbatus,-27.875,25.125
 462242858,Schismus_barbatus,-34.125,21.625
 992279073,Schismus_barbatus,-31.707023,141.38437
 1451628964,Schismus_barbatus,-32.065165,141.10129
 995984959,Schismus_barbatus,-32.07,141.1
-1842900240,Schismus_barbatus,42.23,3.06
 1842900199,Schismus_barbatus,41.5,2.22
 453347770,Schismus_barbatus,-32.125,23.125
 462242863,Schismus_barbatus,-32.125,25.625
