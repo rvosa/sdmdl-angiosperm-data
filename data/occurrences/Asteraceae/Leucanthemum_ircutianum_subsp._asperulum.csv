@@ -22,7 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1881806426,Leucanthemum_ircutianum_subsp._asperulum,48.71,10.78
 1837902468,Leucanthemum_ircutianum_subsp._asperulum,50.503334,6.330278
 1090830192,Leucanthemum_ircutianum_subsp._asperulum,48.303889,15.893611
-1230931464,Leucanthemum_ircutianum_subsp._asperulum,49.1,21.07778
 1571768844,Leucanthemum_ircutianum_subsp._asperulum,43.2676252855326,-4.97841027300266
 1230931319,Leucanthemum_ircutianum_subsp._asperulum,49.17667,19.64
 1881807105,Leucanthemum_ircutianum_subsp._asperulum,48.64,10.88
@@ -32,7 +31,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050652978,Leucanthemum_ircutianum_subsp._asperulum,42.79,-2.71
 1230931221,Leucanthemum_ircutianum_subsp._asperulum,48.96139,20.09806
 1657187296,Leucanthemum_ircutianum_subsp._asperulum,42.15667,19.10028
-1050652839,Leucanthemum_ircutianum_subsp._asperulum,42.8,-2.57
 1230931436,Leucanthemum_ircutianum_subsp._asperulum,48.96528,20.09333
 876156573,Leucanthemum_ircutianum_subsp._asperulum,43.384474,-4.946834
 1851581110,Leucanthemum_ircutianum_subsp._asperulum,43.38,-4.94
@@ -61,15 +59,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936245639,Leucanthemum_ircutianum_subsp._asperulum,43.5666,-6.1163
 1851408133,Leucanthemum_ircutianum_subsp._asperulum,42.41006,-6.63753
 1935700127,Leucanthemum_ircutianum_subsp._asperulum,46.89306,15.89917
-2313473017,Leucanthemum_ircutianum_subsp._asperulum,48.13,11.7
 895229591,Leucanthemum_ircutianum_subsp._asperulum,43.41881,-4.84927
-2313473117,Leucanthemum_ircutianum_subsp._asperulum,48.16,11.5
 318115501,Leucanthemum_ircutianum_subsp._asperulum,43.12,-6.05
 85820752,Leucanthemum_ircutianum_subsp._asperulum,43.439999,-3.86
 1230920382,Leucanthemum_ircutianum_subsp._asperulum,48.66889,21.17417
 1851380427,Leucanthemum_ircutianum_subsp._asperulum,42.938,-6.298
 1050640724,Leucanthemum_ircutianum_subsp._asperulum,42.82,-2.72
-1050640720,Leucanthemum_ircutianum_subsp._asperulum,42.82,-2.7
 895223900,Leucanthemum_ircutianum_subsp._asperulum,40.765,-1.027
 198470021,Leucanthemum_ircutianum_subsp._asperulum,43.259998,-4.63
 1657188647,Leucanthemum_ircutianum_subsp._asperulum,47.08333,14.36583
@@ -122,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947259012,Leucanthemum_ircutianum_subsp._asperulum,49.77,9.62
 1881806677,Leucanthemum_ircutianum_subsp._asperulum,48.64,10.35
 1936643443,Leucanthemum_ircutianum_subsp._asperulum,43.2587,-3.7159
-1851368810,Leucanthemum_ircutianum_subsp._asperulum,42.993,-8
 1883575404,Leucanthemum_ircutianum_subsp._asperulum,47.560001,10.13111
 1883575410,Leucanthemum_ircutianum_subsp._asperulum,47.648609,10.08444
 1883575428,Leucanthemum_ircutianum_subsp._asperulum,47.695,10.19
@@ -154,7 +148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038234494,Leucanthemum_ircutianum_subsp._asperulum,49.091667,12.758056
 1851372748,Leucanthemum_ircutianum_subsp._asperulum,43.63,-5.79
 1947260214,Leucanthemum_ircutianum_subsp._asperulum,50.19,9.78
-1947260227,Leucanthemum_ircutianum_subsp._asperulum,50.34,9.8
 895244098,Leucanthemum_ircutianum_subsp._asperulum,43.405,-5.785
 1936450473,Leucanthemum_ircutianum_subsp._asperulum,42.6159,-7.1725
 1288109637,Leucanthemum_ircutianum_subsp._asperulum,50.5178,9.8154
@@ -190,13 +183,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050590892,Leucanthemum_ircutianum_subsp._asperulum,43.34,-3.04
 1050590889,Leucanthemum_ircutianum_subsp._asperulum,43.33,-3.05
 204431926,Leucanthemum_ircutianum_subsp._asperulum,43.051998,-4.381
-204431925,Leucanthemum_ircutianum_subsp._asperulum,42.860001,-3.8
 1936542189,Leucanthemum_ircutianum_subsp._asperulum,43.3429,-4.3584
 1935700783,Leucanthemum_ircutianum_subsp._asperulum,47.15028,15.31611
 1935700785,Leucanthemum_ircutianum_subsp._asperulum,47.15,15.31639
 204431993,Leucanthemum_ircutianum_subsp._asperulum,43.341999,-1.822
 1050590826,Leucanthemum_ircutianum_subsp._asperulum,42.77,-2.69
-1050590871,Leucanthemum_ircutianum_subsp._asperulum,43.1,-2.74
 1050590847,Leucanthemum_ircutianum_subsp._asperulum,43.26,-2.68
 1050590867,Leucanthemum_ircutianum_subsp._asperulum,43.42,-2.71
 1050590912,Leucanthemum_ircutianum_subsp._asperulum,42.99,-2.88
