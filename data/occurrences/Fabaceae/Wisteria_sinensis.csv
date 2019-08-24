@@ -22,9 +22,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929745976,Wisteria_sinensis,32.813408,-79.946164
 1978075096,Wisteria_sinensis,37.724997,-84.545125
 1320036498,Wisteria_sinensis,27.739767,119.179933
-786300897,Wisteria_sinensis,49,8.4
 1702535317,Wisteria_sinensis,59.9013,10.6955
-786158178,Wisteria_sinensis,49.5,8.7
 684327146,Wisteria_sinensis,51.154722,14.99
 2234426153,Wisteria_sinensis,35.926873,-80.584237
 1563150684,Wisteria_sinensis,30.769122,-93.586006
@@ -50,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234423422,Wisteria_sinensis,35.897475,-79.263267
 1212014928,Wisteria_sinensis,41.25861,-72.02583
 441954286,Wisteria_sinensis,51.029392,14.671231
-992021779,Wisteria_sinensis,-34.2,140.9
 1849159764,Wisteria_sinensis,33.9941,-80.9861
 415931625,Wisteria_sinensis,41.69805,-74.86027
 1038969614,Wisteria_sinensis,41.4622,-72.6831
@@ -61,7 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1457796712,Wisteria_sinensis,29.60943,-82.40529
 1936604234,Wisteria_sinensis,41.371,-4.3286
 1849151566,Wisteria_sinensis,33.0476,-79.5672
-1897774933,Wisteria_sinensis,-36.233333,175.4
 415992539,Wisteria_sinensis,31.4775,-81.24166
 56690969,Wisteria_sinensis,33.76944,-88.03416
 1897628176,Wisteria_sinensis,-36.433333,174.233333
@@ -82,12 +78,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936604274,Wisteria_sinensis,41.9027,0.1898
 1050602692,Wisteria_sinensis,42.83,-2.67
 1260984527,Wisteria_sinensis,38.48055,-93.7075
-1897701475,Wisteria_sinensis,-36.9,174.55
 1929670985,Wisteria_sinensis,34.67,-80.53
 1851341214,Wisteria_sinensis,42.56,-5.62
-1050594149,Wisteria_sinensis,42.84,-2.7
-217095165,Wisteria_sinensis,33.3,-87.5
-1897690358,Wisteria_sinensis,-36.9,174.8
 1849096599,Wisteria_sinensis,33.01378,-80.197616
 1930450397,Wisteria_sinensis,40.862289,-73.877023
 1937087208,Wisteria_sinensis,-35.35,149.05
@@ -95,14 +87,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261529934,Wisteria_sinensis,30.13333,-85.16666
 1320367294,Wisteria_sinensis,38.9678,-77.0511
 1988753906,Wisteria_sinensis,42.366466,-83.28333
-1091204795,Wisteria_sinensis,-40.1,175.46
 1030785045,Wisteria_sinensis,29.671778,115.989221
 1030784791,Wisteria_sinensis,31.331599,110.783718
 1894895501,Wisteria_sinensis,40.008333,116.425
 1675928880,Wisteria_sinensis,33.8637,-81.2342
 1141840479,Wisteria_sinensis,33.31919,-92.53483
 1030785020,Wisteria_sinensis,29.990847,109.484961
-1897757799,Wisteria_sinensis,-36.9,174.85
 1261568376,Wisteria_sinensis,-16.51666,-68.13333
 1846511760,Wisteria_sinensis,33.473383,-111.892678
 1936600109,Wisteria_sinensis,43.4833,-3.7927
@@ -121,10 +111,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846511716,Wisteria_sinensis,30.62375,-96.347556
 415992541,Wisteria_sinensis,40.67555,-73.02972
 1090593874,Wisteria_sinensis,-30.019139,-51.237222
-1305257694,Wisteria_sinensis,32.5,-92.72
 919557448,Wisteria_sinensis,25.012526,102.700013
 1030785025,Wisteria_sinensis,30.070477,115.944213
-217095158,Wisteria_sinensis,32.6,-85.4
 2234425302,Wisteria_sinensis,31.202957,-89.175057
 1227942587,Wisteria_sinensis,-37.8291,145.0222
 217095157,Wisteria_sinensis,33.75,-85.85
@@ -139,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095184526,Wisteria_sinensis,39.56926,-97.639
 1030785029,Wisteria_sinensis,31.375019,119.823342
 1030988489,Wisteria_sinensis,31.375019,119.823343
-56690550,Wisteria_sinensis,33.2,-87.53333
 1322714310,Wisteria_sinensis,38.9392,-76.9342
 1030730087,Wisteria_sinensis,29.247988,117.862004
 1030785042,Wisteria_sinensis,30.78311,115.399242
