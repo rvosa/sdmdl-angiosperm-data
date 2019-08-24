@@ -8,7 +8,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896064730,Penstemon_clevelandii,31.300833,-115.508611
 1894069999,Penstemon_clevelandii,31.30825,-115.500167
 1894069894,Penstemon_clevelandii,32.399944,-116.000139
-1928425050,Penstemon_clevelandii,32.4,-116
 1894069942,Penstemon_clevelandii,31.041667,-115.466833
 1893338543,Penstemon_clevelandii,32.05,-115.916667
 1896064728,Penstemon_clevelandii,32.067222,-115.905833
@@ -27,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894070010,Penstemon_clevelandii,31.566889,-115.591556
 1930351105,Penstemon_clevelandii,32.689939,-116.087375
 2270461642,Penstemon_clevelandii,32.68688,-116.092377
-1930369295,Penstemon_clevelandii,34.1,-116.16911
 1893389441,Penstemon_clevelandii,31.591667,-115.608333
 2270556127,Penstemon_clevelandii,32.532216,-116.394527
 1846523973,Penstemon_clevelandii,32.562288,-116.519226
@@ -35,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893397825,Penstemon_clevelandii,31.641667,-115.641667
 1894069988,Penstemon_clevelandii,31.633306,-115.633194
 1846525309,Penstemon_clevelandii,33.902433,-116.860454
-2270557125,Penstemon_clevelandii,32.25,-116
 2270283137,Penstemon_clevelandii,32.68052,-116.06901
 1894069961,Penstemon_clevelandii,30.583194,-115.233389
 1894069885,Penstemon_clevelandii,31.0827446248322,-115.558781453162
