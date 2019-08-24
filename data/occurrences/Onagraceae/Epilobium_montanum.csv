@@ -77,10 +77,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949946253,Epilobium_montanum,52.279167,8.029167
 1839008136,Epilobium_montanum,40.640831,21.412781
 1599621205,Epilobium_montanum,61.442329,25.975941
-1060381478,Epilobium_montanum,51.7,10.3
 1702378624,Epilobium_montanum,59.6902,10.3243
 1702508082,Epilobium_montanum,42.81,-0.87
-1095920715,Epilobium_montanum,59,17
 1701831088,Epilobium_montanum,59.5138,11.3036
 2310548680,Epilobium_montanum,51.98,-4.07
 1676065027,Epilobium_montanum,50.111933,8.676983
@@ -129,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 728981417,Epilobium_montanum,51.850493,5.84148
 694846167,Epilobium_montanum,51.093334,14.668333
 2313321649,Epilobium_montanum,48.17,11.66
-1095906878,Epilobium_montanum,61.6,16.33
 1342426696,Epilobium_montanum,55.61342,8.276369
 1702219133,Epilobium_montanum,60.8768,5.5678
 1701849307,Epilobium_montanum,60.7544,5.3632
@@ -178,7 +175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313315426,Epilobium_montanum,48.16,11.49
 1342427437,Epilobium_montanum,57.068378,9.81501
 1830977871,Epilobium_montanum,47.51931,12.06569
-995454094,Epilobium_montanum,59.966667,16
 1342428520,Epilobium_montanum,55.989981,12.281462
 900308583,Epilobium_montanum,58.4004,7.2242
 1830977875,Epilobium_montanum,47.21831,10.888
@@ -466,7 +462,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342427098,Epilobium_montanum,55.660269,9.229191
 1702218196,Epilobium_montanum,59.4367,10.845
 1342426698,Epilobium_montanum,55.62231,8.260325
-2313284398,Epilobium_montanum,48.16,11.5
 1702232203,Epilobium_montanum,59.462,10.8623
 1701329158,Epilobium_montanum,63.405,10.3765
 1342427300,Epilobium_montanum,56.782283,9.563303
@@ -559,12 +554,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342426806,Epilobium_montanum,56.000811,8.477593
 1342426711,Epilobium_montanum,56.565916,8.290827
 1342426807,Epilobium_montanum,56.881493,8.531004
-786139211,Epilobium_montanum,48.3,8.2
 1342427711,Epilobium_montanum,56.661466,10.148814
 1342427091,Epilobium_montanum,55.238023,9.179581
 1342427161,Epilobium_montanum,56.558669,9.267127
 786585524,Epilobium_montanum,54.0485,13.415
-788689922,Epilobium_montanum,39.8,21.133333
 1702221102,Epilobium_montanum,59.7092,11.7925
 1342426765,Epilobium_montanum,55.892471,8.367122
 1342428293,Epilobium_montanum,55.699177,11.855073
@@ -574,7 +567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342427084,Epilobium_montanum,55.309971,9.132643
 1342428330,Epilobium_montanum,55.618039,11.865054
 1342427017,Epilobium_montanum,55.004508,9.037829
-788689981,Epilobium_montanum,39.833333,21.2
 1851401397,Epilobium_montanum,42.349,-6.517
 1342427748,Epilobium_montanum,57.604035,10.228587
 1671653163,Epilobium_montanum,44.370716,9.661471
@@ -995,7 +987,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342428468,Epilobium_montanum,55.788549,12.120025
 1342426987,Epilobium_montanum,55.256106,8.927935
 1342426896,Epilobium_montanum,55.148049,8.755536
-441987762,Epilobium_montanum,48.5,11.5
 1342427284,Epilobium_montanum,55.138375,9.477182
 1342427375,Epilobium_montanum,54.939633,9.693358
 1342427920,Epilobium_montanum,57.340541,10.502238
@@ -1074,7 +1065,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342428511,Epilobium_montanum,55.242914,12.238303
 1342428145,Epilobium_montanum,55.458871,11.315639
 1342427201,Epilobium_montanum,56.908783,9.368148
-786139141,Epilobium_montanum,47.9,8.8
 1697596117,Epilobium_montanum,56.069832,40.100269
 1342428203,Epilobium_montanum,55.194148,11.520237
 1342427146,Epilobium_montanum,55.848927,9.246271
@@ -1089,7 +1079,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342427181,Epilobium_montanum,55.974648,9.279115
 1342427104,Epilobium_montanum,56.783509,9.105056
 1342427538,Epilobium_montanum,56.259243,9.894592
-786139202,Epilobium_montanum,48.1,9.8
 1342428100,Epilobium_montanum,55.432234,11.298271
 1342426681,Epilobium_montanum,55.63139,8.276037
 1342427555,Epilobium_montanum,56.483824,9.899868
@@ -1253,7 +1242,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342428224,Epilobium_montanum,55.461118,11.647986
 1935686743,Epilobium_montanum,47.09444,14.57111
 1701373281,Epilobium_montanum,59.673,10.0919
-786139184,Epilobium_montanum,48.1,7.9
 1342427499,Epilobium_montanum,56.924328,9.861154
 1342428095,Epilobium_montanum,55.336598,11.119271
 186807383,Epilobium_montanum,58.8304,6.8009
@@ -1399,7 +1387,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342426926,Epilobium_montanum,55.390871,8.896117
 1702030867,Epilobium_montanum,60.9249,10.9213
 1342426754,Epilobium_montanum,55.569539,8.483334
-788655986,Epilobium_montanum,39.333333,21.6
 1342426800,Epilobium_montanum,55.534163,8.642238
 1342426844,Epilobium_montanum,55.713771,8.608764
 1342427283,Epilobium_montanum,56.531084,9.478282
@@ -1683,7 +1670,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342427371,Epilobium_montanum,56.1799,9.651107
 1342426994,Epilobium_montanum,55.328014,8.99085
 1342426990,Epilobium_montanum,55.184232,8.959475
-143004545,Epilobium_montanum,42.880001,-0.8
 1342427705,Epilobium_montanum,57.280728,10.217798
 1936438556,Epilobium_montanum,40.7798,-3.9968
 1851409210,Epilobium_montanum,43.159,-5.036
@@ -1840,13 +1826,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701291394,Epilobium_montanum,63.1162,10.4172
 1701294848,Epilobium_montanum,62.8352,11.307
 1705321496,Epilobium_montanum,57.401622,14.308047
-1050582056,Epilobium_montanum,42.92,-0.8
 1701285967,Epilobium_montanum,62.7055,10.1825
 1065679558,Epilobium_montanum,65.374799,15.751155
-1144679580,Epilobium_montanum,42.3,9.48333
 1947061810,Epilobium_montanum,50.02,10.68
 1947061813,Epilobium_montanum,50.26,10.53
-1144679554,Epilobium_montanum,42,9.11667
 1947061857,Epilobium_montanum,50.02,10.82
 1144679517,Epilobium_montanum,41.98333,9.18333
 1599621113,Epilobium_montanum,60.854594,24.761261
@@ -1860,7 +1843,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053983387,Epilobium_montanum,42.65,-1.06
 1053985281,Epilobium_montanum,42.65,-1.17
 1599624401,Epilobium_montanum,63.558734,26.192751
-788690340,Epilobium_montanum,41.25,23.6
 1936413479,Epilobium_montanum,42.985,-1.1615
 1999511594,Epilobium_montanum,60.643422,22.196213
 1599621201,Epilobium_montanum,60.048257,22.94816
@@ -1934,7 +1916,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599621126,Epilobium_montanum,63.740698,25.336973
 1599621164,Epilobium_montanum,62.526267,21.564
 1599621117,Epilobium_montanum,61.860121,24.051559
-1851408447,Epilobium_montanum,43,-6.24
 1705439730,Epilobium_montanum,57.420271,15.035789
 788498500,Epilobium_montanum,55.528254,12.994268
 296456489,Epilobium_montanum,47.751,13.065
@@ -1990,7 +1971,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144210407,Epilobium_montanum,59.2883,5.5149
 1697596315,Epilobium_montanum,58.204437,44.449971
 1323785054,Epilobium_montanum,68.3878,17.5671
-1050582044,Epilobium_montanum,42.9,-2.24
 1947061802,Epilobium_montanum,49.97,9.79
 57693902,Epilobium_montanum,62.063801,26.107401
 1697596198,Epilobium_montanum,55.585218,37.54728
@@ -2005,7 +1985,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701295443,Epilobium_montanum,63.1096,10.9719
 1701879861,Epilobium_montanum,59.1867,10.969
 1705343952,Epilobium_montanum,57.510968,15.987069
-1050582060,Epilobium_montanum,42.6,-2.57
 1050582050,Epilobium_montanum,42.85,-2.23
 1883358435,Epilobium_montanum,57.80972,14.1246
 57693900,Epilobium_montanum,62.258499,25.7551
@@ -2072,13 +2051,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702422257,Epilobium_montanum,59.8064,10.2388
 1434675290,Epilobium_montanum,61.083333,25.333333
 1701980925,Epilobium_montanum,60.6413,11.0561
-1988071328,Epilobium_montanum,61.1,25.3
 1599624340,Epilobium_montanum,62.124702,23.834079
 143004546,Epilobium_montanum,42.689999,-0.31
 1702011438,Epilobium_montanum,59.9987,11.2492
 187155405,Epilobium_montanum,63.9932,10.6659
 1702225240,Epilobium_montanum,59.0129,7.9074
-1851380188,Epilobium_montanum,43.2,-5.03
 1701981701,Epilobium_montanum,62.3127,7.2956
 20873668,Epilobium_montanum,60.3117,5.2913
 1701784928,Epilobium_montanum,62.3333,7.5223
@@ -2096,18 +2073,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053981772,Epilobium_montanum,43.07,-1.55
 1599621146,Epilobium_montanum,61.791369,25.698287
 211625921,Epilobium_montanum,43.099998,-5.32
-1144679565,Epilobium_montanum,41.6,9.11667
 1702437554,Epilobium_montanum,67.1191,15.0219
 1702011852,Epilobium_montanum,63.4437,10.292
 1599624284,Epilobium_montanum,60.429797,24.363779
 187155966,Epilobium_montanum,67.5615,15.9743
 1702394427,Epilobium_montanum,60.1403,5.7592
 1701981037,Epilobium_montanum,64.4572,10.7845
-1050582065,Epilobium_montanum,42.86,-2.2
 1701784985,Epilobium_montanum,59.5592,8.5674
 20873789,Epilobium_montanum,59.5591,8.5621
 1599624322,Epilobium_montanum,61.957379,24.42358
-2028546914,Epilobium_montanum,42.1,2.7
 1936416450,Epilobium_montanum,42.18,-3.2435
 1050582064,Epilobium_montanum,42.89,-1.97
 1701981978,Epilobium_montanum,63.2797,11.2158
@@ -2121,7 +2095,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701981051,Epilobium_montanum,60.0646,6.5404
 1701982010,Epilobium_montanum,64.4791,11.7994
 1851334074,Epilobium_montanum,42.82,-6.25
-788656098,Epilobium_montanum,40.2,22.1
 1702011788,Epilobium_montanum,59.3224,11.1358
 186807021,Epilobium_montanum,58.4861,7.9024
 1144095700,Epilobium_montanum,60.8735,5.9698
@@ -2130,7 +2103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701934045,Epilobium_montanum,69.2331,18.0208
 1599624260,Epilobium_montanum,61.801165,26.522877
 1323708430,Epilobium_montanum,68.6677,16.7367
-1851319363,Epilobium_montanum,42.82,-6
 1701699979,Epilobium_montanum,59.8848,10.4713
 1701250397,Epilobium_montanum,62.7062,10.0946
 1701229944,Epilobium_montanum,62.8538,11.2691
@@ -2223,7 +2195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701997425,Epilobium_montanum,62.5627,6.0524
 1434675588,Epilobium_montanum,60.112778,22.953611
 1434671214,Epilobium_montanum,66.43901,14.34921
-1144679573,Epilobium_montanum,42,9.21667
 1701307287,Epilobium_montanum,62.9235,11.3927
 1144679561,Epilobium_montanum,42.36667,9.43333
 1599624267,Epilobium_montanum,61.057343,24.31177
@@ -2265,7 +2236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701241398,Epilobium_montanum,62.7983,11.3629
 1599621090,Epilobium_montanum,64.578326,26.672953
 1599624018,Epilobium_montanum,61.143164,28.75791
-1144679530,Epilobium_montanum,41.8,9.23333
 1701994008,Epilobium_montanum,62.6963,6.7136
 1999511689,Epilobium_montanum,60.448312,22.952928
 1599624172,Epilobium_montanum,61.171239,26.160775
@@ -2275,7 +2245,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599624297,Epilobium_montanum,60.955554,23.766298
 1599621107,Epilobium_montanum,64.178737,28.240906
 1705402133,Epilobium_montanum,57.271397,15.392533
-1249267301,Epilobium_montanum,46.5,7.5
 186807671,Epilobium_montanum,58.2999,6.6539
 1702298638,Epilobium_montanum,59.9159,10.5023
 1144210422,Epilobium_montanum,59.94976,6.01605
@@ -2338,7 +2307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57693931,Epilobium_montanum,60.822201,23.6416
 1701790551,Epilobium_montanum,62.3568,6.8168
 1702225148,Epilobium_montanum,59.57248,10.5063
-833455716,Epilobium_montanum,49.95,8
 1697812761,Epilobium_montanum,43.67235,43.45501
 1697812720,Epilobium_montanum,43.423752,41.656723
 1144210298,Epilobium_montanum,60.32605,6.17715
@@ -2589,7 +2557,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599624174,Epilobium_montanum,61.045153,23.757166
 1701618193,Epilobium_montanum,62.4757,6.1872
 788501992,Epilobium_montanum,57.722234,12.939299
-1891590443,Epilobium_montanum,49.88,6.2
 177284472,Epilobium_montanum,62.250702,25.8902
 1802470051,Epilobium_montanum,69.27793,19.16723
 1323708319,Epilobium_montanum,69.3482,18.9799
@@ -2955,8 +2922,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705273074,Epilobium_montanum,56.031862,14.152375
 1702398920,Epilobium_montanum,59.6127,9.7266
 1144210553,Epilobium_montanum,60.2725,5.3307
-786139057,Epilobium_montanum,47.9,20
-786139038,Epilobium_montanum,47.8,20
 1702225205,Epilobium_montanum,59.36758,9.90914
 1599624282,Epilobium_montanum,63.41525,26.296045
 1599624156,Epilobium_montanum,61.236626,24.29647
@@ -3061,7 +3026,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599624036,Epilobium_montanum,63.143681,28.087559
 1599624274,Epilobium_montanum,62.081215,22.305715
 57694015,Epilobium_montanum,62.232899,24.7847
-1434671642,Epilobium_montanum,60.2,29.7
 1701249606,Epilobium_montanum,63.2446,11.0609
 1701421450,Epilobium_montanum,65.40838,12.05587
 1705429712,Epilobium_montanum,58.251742,15.046089
@@ -3207,7 +3171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999574770,Epilobium_montanum,60.431354,22.300368
 1999511602,Epilobium_montanum,60.488197,22.383233
 57693959,Epilobium_montanum,60.328327,23.828484
-786139175,Epilobium_montanum,50.4,7.3
 1701280176,Epilobium_montanum,63.4141,10.412
 788466588,Epilobium_montanum,55.931157,13.54973
 1705431441,Epilobium_montanum,57.347776,12.546719
@@ -3221,7 +3184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788770971,Epilobium_montanum,56.433477,12.835168
 788497974,Epilobium_montanum,58.49992,13.773099
 788484378,Epilobium_montanum,59.205662,17.826344
-786139098,Epilobium_montanum,48.8,8.4
 1065679551,Epilobium_montanum,63.930922,19.668078
 1705337160,Epilobium_montanum,57.787179,14.258478
 1697596183,Epilobium_montanum,55.832241,37.384992
