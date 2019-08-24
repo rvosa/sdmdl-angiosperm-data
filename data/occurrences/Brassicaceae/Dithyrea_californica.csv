@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895649965,Dithyrea_californica,30.461389,-112.879417
 1895649932,Dithyrea_californica,30.552222,-112.994722
 2270189120,Dithyrea_californica,36.574183,-117.99333
-1426231797,Dithyrea_californica,33.591667,-114.8
 1846484519,Dithyrea_californica,32.695311,-113.820755
 623667781,Dithyrea_californica,33.0290799991373,-115.14427
 1846550761,Dithyrea_californica,35.5261,-115.321
@@ -41,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270510542,Dithyrea_californica,32.083929,-115.290747
 2270511628,Dithyrea_californica,30.8633,-115.225
 1846550454,Dithyrea_californica,31.143577,-114.914027
-1929988583,Dithyrea_californica,33.78,-115.3
 2270512703,Dithyrea_californica,32.4917,-114.767
 2270508369,Dithyrea_californica,31.2667,-115.283
 1929220600,Dithyrea_californica,33.024031,-114.610521
@@ -52,7 +50,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846550455,Dithyrea_californica,34.107529,-114.192983
 1895484079,Dithyrea_californica,31.7115529348385,-113.989006354487
 1894064217,Dithyrea_californica,31.858333,-115.175
-1846555528,Dithyrea_californica,32.1,-113.466667
 1426094497,Dithyrea_californica,32.91,-114.66
 1895484098,Dithyrea_californica,29.3450349112836,-114.912803929179
 1426305753,Dithyrea_californica,34.733333,-116.333333
@@ -82,9 +79,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270595860,Dithyrea_californica,34.8555,-114.123
 2270595640,Dithyrea_californica,32.1256,-113.606
 1846550830,Dithyrea_californica,34.087336,-113.889612
-2289614111,Dithyrea_californica,27.833333,-114
 1426116293,Dithyrea_californica,32.9481,-116.2809
-2270595156,Dithyrea_californica,34.06,-113.9
 1929962854,Dithyrea_californica,35.8749,-114.964
 1893668397,Dithyrea_californica,25.328333,-112.011944
 1895484113,Dithyrea_californica,29.1354112067823,-114.073227218149
@@ -98,10 +93,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270594383,Dithyrea_californica,32.6903,-114.494
 1893422609,Dithyrea_californica,26.758333,-113.575
 2270595085,Dithyrea_californica,35.1992,-114.57
-2270596871,Dithyrea_californica,32.67,-114.3
 1846496995,Dithyrea_californica,34.59389,-113.79845
 2270595786,Dithyrea_californica,32.4943,-114.814
-1846550713,Dithyrea_californica,33.4,-116.366667
 2270596430,Dithyrea_californica,34.1368,-114.241
 2270596439,Dithyrea_californica,34.15,-114.288
 2270594226,Dithyrea_californica,32.7267,-113.772
@@ -112,12 +105,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426161494,Dithyrea_californica,34.8165,-117.8716
 2270597176,Dithyrea_californica,33.7344,-112.231
 1893416951,Dithyrea_californica,29.208333,-114.208333
-1426450219,Dithyrea_californica,29.2,-114.2
 1426101889,Dithyrea_californica,33.39648,-114.72353
 1893416885,Dithyrea_californica,32.575,-116.158333
 2270596128,Dithyrea_californica,33.0155,-114.624
 1426450186,Dithyrea_californica,29.083333,-113.833333
-1426450174,Dithyrea_californica,28.8,-114.2
 2270596273,Dithyrea_californica,33.0736,-114.624
 2270263171,Dithyrea_californica,32.91727,-116.24469
 1895484074,Dithyrea_californica,28.9652414727833,-113.689481189804
@@ -127,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893422528,Dithyrea_californica,28.975,-113.825
 1426167998,Dithyrea_californica,34.966667,-115.683333
 2270262146,Dithyrea_californica,35.354992,-117.911208
-1426450214,Dithyrea_californica,27.883333,-113.7
 1894068738,Dithyrea_californica,27.891667,-113.708333
 1894068696,Dithyrea_californica,25.8460217168589,-111.554597716948
 1426138016,Dithyrea_californica,33.8858,-116.5114
