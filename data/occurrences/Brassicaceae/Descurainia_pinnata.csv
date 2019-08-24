@@ -48,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258149808,Descurainia_pinnata,38.512167,-91.609056
 1986861316,Descurainia_pinnata,40.248435,-110.069841
 1988115500,Descurainia_pinnata,52.8189999990921,-119.273
-2247774553,Descurainia_pinnata,-34.916944,-68.855
 1846555990,Descurainia_pinnata,33.601363,-112.059172
 1846556027,Descurainia_pinnata,33.596252,-112.070361
 1846557055,Descurainia_pinnata,32.5095,-111.0403
@@ -168,7 +167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270187400,Descurainia_pinnata,35.058036,-120.594658
 1843910325,Descurainia_pinnata,31.51695,-108.985
 2270185294,Descurainia_pinnata,35.058136,-120.595417
-415964233,Descurainia_pinnata,32.76833,-79.83583
 1846541109,Descurainia_pinnata,37.457083,-115.363695
 2242420412,Descurainia_pinnata,40.221485,-105.308847
 2242383597,Descurainia_pinnata,40.210692,-105.293564
@@ -255,10 +253,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928667389,Descurainia_pinnata,36.5810999990968,-112.102739
 345671586,Descurainia_pinnata,32.8551,-97.4799
 2270683611,Descurainia_pinnata,32.1669,-110.297
-1503260164,Descurainia_pinnata,29.8486,-81.0889
 2270689896,Descurainia_pinnata,32.2207,-110.32
 2270690923,Descurainia_pinnata,31.9986,-110.596
-1457771920,Descurainia_pinnata,29.848611,-81.088889
 2268927160,Descurainia_pinnata,38.5325,-90.636111
 1260399677,Descurainia_pinnata,38.024167,-90.134444
 1889161720,Descurainia_pinnata,32.547167,-105.781333
@@ -479,7 +475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176927385,Descurainia_pinnata,38.366667,-96.591667
 1986944845,Descurainia_pinnata,35.201667,-118.103333
 176927444,Descurainia_pinnata,38.233334,-94.949997
-415960547,Descurainia_pinnata,31.4775,-81.24166
 176927438,Descurainia_pinnata,38.273611,-102.6425
 176927451,Descurainia_pinnata,39.462502,-102.090836
 176927250,Descurainia_pinnata,38.933334,-95.433334
@@ -557,7 +552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2309885136,Descurainia_pinnata,61.5,-134.68
 1893628157,Descurainia_pinnata,28.881111,-111.606667
 1893589909,Descurainia_pinnata,28.655556,-110.875
-1949618624,Descurainia_pinnata,48.799167,-123.083333
 2270509411,Descurainia_pinnata,29.2611,-110.903
 1895820840,Descurainia_pinnata,28.554167,-109.720833
 1895470980,Descurainia_pinnata,28.429722,-109.191944
@@ -594,7 +588,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883422376,Descurainia_pinnata,50.322005,-110.627742
 1927796897,Descurainia_pinnata,29.87,-85.32
 2270594564,Descurainia_pinnata,32.4835,-114.277
-2270510356,Descurainia_pinnata,28.2833,-115.25
 1895471079,Descurainia_pinnata,27.633472,-108.966667
 2270510435,Descurainia_pinnata,30.8667,-115.7
 176927057,Descurainia_pinnata,38.498967,-95.001575
@@ -732,9 +725,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270595258,Descurainia_pinnata,33.2257,-114.208
 2270587476,Descurainia_pinnata,33.2111,-114.191
 2270597449,Descurainia_pinnata,33.1675,-114.104
-1849094108,Descurainia_pinnata,32.764301,-79.826363
 2270252446,Descurainia_pinnata,34.67821,-120.42949
-2270264497,Descurainia_pinnata,34.5691999991181,-120.6291
 1846550219,Descurainia_pinnata,34.404479,-117.538059
 176926925,Descurainia_pinnata,37.69682,-95.67369
 1930151332,Descurainia_pinnata,37.716788,-118.397969
@@ -1000,11 +991,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843863532,Descurainia_pinnata,34.369239,-107.873668
 2265519482,Descurainia_pinnata,45.915946,-95.333414
 894984208,Descurainia_pinnata,49.833333,-99.583333
-1949550018,Descurainia_pinnata,48.433333,-123.366667
 1931116742,Descurainia_pinnata,33.9608,-107.3276
 1804551421,Descurainia_pinnata,41.966667,-82.516667
 1949594385,Descurainia_pinnata,49.616667,-119.85
-2270508596,Descurainia_pinnata,30.490238,-116.11495
 2270594540,Descurainia_pinnata,31.8863,-109.491
 1055072027,Descurainia_pinnata,30.86486,-102.87889
 1893779191,Descurainia_pinnata,28.991667,-104.958333
@@ -1025,7 +1014,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055072032,Descurainia_pinnata,38.56951,-95.52732
 1928479843,Descurainia_pinnata,34.939294,-101.968879
 1611938188,Descurainia_pinnata,31.905556,-106.451667
-1933933683,Descurainia_pinnata,34.95208,136.65778
 1843863571,Descurainia_pinnata,31.804137,-108.80133
 1843863715,Descurainia_pinnata,31.593825,-108.769445
 176927024,Descurainia_pinnata,37.28314,-99.07163
@@ -1039,7 +1027,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928316794,Descurainia_pinnata,37.13,-113.3
 176926970,Descurainia_pinnata,37.39162,-99.76528
 1928132516,Descurainia_pinnata,37.5,-114.57
-1829612763,Descurainia_pinnata,36.293333,139.379444
 176926904,Descurainia_pinnata,37.9621,-98.58174
 176927023,Descurainia_pinnata,37.77944,-100.34739
 176927021,Descurainia_pinnata,38.67556,-100.91611
@@ -1304,8 +1291,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732473084,Descurainia_pinnata,50.416667,-103.533333
 732473082,Descurainia_pinnata,51.9,-106.816667
 732473099,Descurainia_pinnata,51.166667,-115.633333
-1600899238,Descurainia_pinnata,61.493121,23.710602
-1702201400,Descurainia_pinnata,59.2092,9.6042
 415964215,Descurainia_pinnata,41.81027,-72.25583
 2270595519,Descurainia_pinnata,35.04,-111.38
 1928744356,Descurainia_pinnata,37.175238,-113.362745
@@ -1390,11 +1375,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270584207,Descurainia_pinnata,33.4147,-111.909
 1893426567,Descurainia_pinnata,29.325,-114.125
 2270595856,Descurainia_pinnata,31.82,-110.82
-1893426664,Descurainia_pinnata,28.141667,-115.225
 1260996491,Descurainia_pinnata,38.195,-90.705
 1846549982,Descurainia_pinnata,35.081134,-109.801506
 176926974,Descurainia_pinnata,37.60197,-95.31096
-1893426653,Descurainia_pinnata,30.490278,-116.124444
 1055072035,Descurainia_pinnata,37.8005,-95.8612
 1055072077,Descurainia_pinnata,37.7566,-95.6608
 1055072062,Descurainia_pinnata,37.78035,-100.03653
@@ -1436,8 +1419,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1611936694,Descurainia_pinnata,31.813584,-106.42376
 1228151137,Descurainia_pinnata,42.0333,-87.7667
 176927043,Descurainia_pinnata,37.00183,-101.94518
-732473045,Descurainia_pinnata,49.4,-124.566667
-732473044,Descurainia_pinnata,49.466667,-124.716667
 1893429936,Descurainia_pinnata,28.725,-113.641667
 2270597228,Descurainia_pinnata,36.0156,-114.737
 1893429925,Descurainia_pinnata,29.441667,-114.441667
@@ -1496,7 +1477,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732473038,Descurainia_pinnata,51.15,-99.95
 1426147901,Descurainia_pinnata,34.141667,-116.416667
 2270265249,Descurainia_pinnata,34.582189,-117.413111
-1426140761,Descurainia_pinnata,34,-118.806667
 1055072131,Descurainia_pinnata,38.42734,-96.18015
 176926941,Descurainia_pinnata,37.28919,-95.82052
 176926901,Descurainia_pinnata,38.33332,-98.2014
@@ -1526,7 +1506,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732473137,Descurainia_pinnata,52.133333,-122.133333
 732473134,Descurainia_pinnata,51.683333,-120
 732473135,Descurainia_pinnata,50.2,-120.416667
-732473061,Descurainia_pinnata,45.416667,-75.7
 732473030,Descurainia_pinnata,44,-77.133333
 732473138,Descurainia_pinnata,52.083333,-122.75
 732473136,Descurainia_pinnata,50.883333,-121.516667
@@ -1665,7 +1644,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732473055,Descurainia_pinnata,58.733333,-111.133333
 732473100,Descurainia_pinnata,49.483333,-113.95
 732473097,Descurainia_pinnata,45.483333,-74.3
-1600899300,Descurainia_pinnata,60.147272,24.881569
 441735916,Descurainia_pinnata,47.650556,-120.4575
 2270669141,Descurainia_pinnata,34.59,-111.28
 2270667486,Descurainia_pinnata,33.08,-111.74
@@ -1674,9 +1652,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883423175,Descurainia_pinnata,45.3016,-117.2115
 732473143,Descurainia_pinnata,50.85,-120.483333
 732473073,Descurainia_pinnata,49.666667,-96.65
-732473072,Descurainia_pinnata,48.616667,-123.366667
 415964231,Descurainia_pinnata,29.64861,-81.6375
-415964232,Descurainia_pinnata,30.27916,-81.37444
 1259295726,Descurainia_pinnata,30.633333,-111.416667
 1846555101,Descurainia_pinnata,36.04548,-115.406
 441735907,Descurainia_pinnata,46.205596,-120.476744
@@ -1742,9 +1718,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258797622,Descurainia_pinnata,38.98,-92.56389
 176927034,Descurainia_pinnata,38.914751,-99.317232
 1426135034,Descurainia_pinnata,36.1075,-117.0806
-732473106,Descurainia_pinnata,49.25,-65.366667
-1949472770,Descurainia_pinnata,48.65,-123.4
-1949457645,Descurainia_pinnata,48.6,-123.35
 1426143492,Descurainia_pinnata,33.7439,-116.5382
 1929715033,Descurainia_pinnata,40.871373,-104.225228
 1426181656,Descurainia_pinnata,36.2644,-117.2039
