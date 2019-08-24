@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946750541,Alchemilla_vulgaris,47.69,10.44
 1837334835,Alchemilla_vulgaris,63.4176,10.4284
 1946750525,Alchemilla_vulgaris,47.69,10.71
-1946750533,Alchemilla_vulgaris,47.8,10.69
 1821767685,Alchemilla_vulgaris,63.022,7.2363
 1831516238,Alchemilla_vulgaris,47.56833,13.62083
 1802476541,Alchemilla_vulgaris,58.0805,8.0215
@@ -32,7 +31,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702386863,Alchemilla_vulgaris,59.3445,5.7034
 1702386856,Alchemilla_vulgaris,58.7775,5.5789
 1144053908,Alchemilla_vulgaris,60.7836,5.9506
-1421199777,Alchemilla_vulgaris,51.9,13.7
 1144053970,Alchemilla_vulgaris,60.5781,6.9353
 1144053972,Alchemilla_vulgaris,60.5758,6.9389
 2318274229,Alchemilla_vulgaris,67.306957,14.425246
@@ -41,12 +39,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702387557,Alchemilla_vulgaris,59.2952,10.4039
 1086589999,Alchemilla_vulgaris,47.693633,10.12525
 1702223024,Alchemilla_vulgaris,59.1811,10.392
-2313331638,Alchemilla_vulgaris,48.17,11.6
 1880991443,Alchemilla_vulgaris,48.79,10.93
 2313331210,Alchemilla_vulgaris,48.12,11.59
 684325151,Alchemilla_vulgaris,50.886204,15.948558
 2313333084,Alchemilla_vulgaris,48.07,11.66
-1880987059,Alchemilla_vulgaris,48.8,10.92
 2313332566,Alchemilla_vulgaris,48.11,11.49
 1702243891,Alchemilla_vulgaris,59.2127,6.0773
 1701835818,Alchemilla_vulgaris,59.0895,10.8892
@@ -111,10 +107,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077070711,Alchemilla_vulgaris,50.557884,12.951953
 441960152,Alchemilla_vulgaris,51.096169,14.669487
 441958957,Alchemilla_vulgaris,51.176846,14.564499
-441958962,Alchemilla_vulgaris,48.5,11.5
 186788581,Alchemilla_vulgaris,58.1286,8.05735
 441958976,Alchemilla_vulgaris,51.141856,14.936114
-1146314690,Alchemilla_vulgaris,52.8,156.3
 441959556,Alchemilla_vulgaris,51.054922,14.957504
 1638371879,Alchemilla_vulgaris,47.0875,14.36278
 441959138,Alchemilla_vulgaris,52.123055,11.636666
@@ -127,7 +121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441959120,Alchemilla_vulgaris,52.375557,9.740278
 186788498,Alchemilla_vulgaris,58.1535,7.8777
 1702314964,Alchemilla_vulgaris,59.008,9.9038
-441959666,Alchemilla_vulgaris,46.5,10.3333
 1702315169,Alchemilla_vulgaris,59.6542,11.0703
 1701886286,Alchemilla_vulgaris,59.0128,9.9054
 1882639758,Alchemilla_vulgaris,50.472843,12.467036
@@ -150,7 +143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288835947,Alchemilla_vulgaris,53.157317,6.50875
 1258810171,Alchemilla_vulgaris,47.6087,-122.3405
 1144197034,Alchemilla_vulgaris,61.8358,4.9031
-2288481438,Alchemilla_vulgaris,53.155833,6.8
 1702203158,Alchemilla_vulgaris,60.7629,10.9428
 812020324,Alchemilla_vulgaris,50.581883,10.1013
 1935646942,Alchemilla_vulgaris,47.37306,13.88111
@@ -161,7 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843908332,Alchemilla_vulgaris,36.6111,-105.4581
 1701418315,Alchemilla_vulgaris,59.3601,11.1647
 1702216747,Alchemilla_vulgaris,59.3626,11.1736
-991821826,Alchemilla_vulgaris,46.7,9.5
 1144141598,Alchemilla_vulgaris,61.4252,5.2235
 186788315,Alchemilla_vulgaris,58.5756,8.963
 1936572319,Alchemilla_vulgaris,42.1882,1.4729
@@ -185,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323709914,Alchemilla_vulgaris,69.6865,30.0631
 1323720202,Alchemilla_vulgaris,69.7313,30.141
 1323750604,Alchemilla_vulgaris,69.6763,30.071
-441959667,Alchemilla_vulgaris,46.1667,7.5
 1323720071,Alchemilla_vulgaris,69.6798,30.1467
 1323750595,Alchemilla_vulgaris,69.6853,30.0697
 1270038982,Alchemilla_vulgaris,50.771667,13.773056
@@ -241,7 +231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1880987120,Alchemilla_vulgaris,48.66,10.28
 1701974978,Alchemilla_vulgaris,58.0934,6.8092
 2313365307,Alchemilla_vulgaris,48.09,11.68
-684325148,Alchemilla_vulgaris,46.716667,11.5
 1701982730,Alchemilla_vulgaris,61.1555,11.3571
 1701325118,Alchemilla_vulgaris,63.5808,10.6216
 1144027324,Alchemilla_vulgaris,59.2617,5.13337
@@ -250,7 +239,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946739359,Alchemilla_vulgaris,50.39,9.86
 1701933119,Alchemilla_vulgaris,59.7032,5.3856
 1946736923,Alchemilla_vulgaris,50.08,10.68
-1946736900,Alchemilla_vulgaris,50.04,10.7
 441958033,Alchemilla_vulgaris,51.772255,10.802681
 1946739354,Alchemilla_vulgaris,50.39,9.88
 1702436012,Alchemilla_vulgaris,59.7959,10.2562
@@ -273,14 +261,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702434379,Alchemilla_vulgaris,65.7561,12.065
 1657162552,Alchemilla_vulgaris,47.33111,15.6925
 1702397442,Alchemilla_vulgaris,59.3374,6.1898
-1500200389,Alchemilla_vulgaris,50.716667,15.3
 187084935,Alchemilla_vulgaris,63.5523,10.297
 1702374159,Alchemilla_vulgaris,65.8611,12.1835
 1019565570,Alchemilla_vulgaris,42.82833,0.17306
 1500200430,Alchemilla_vulgaris,50.366667,12.916667
 2313472930,Alchemilla_vulgaris,48.29,11.65
 1144220183,Alchemilla_vulgaris,59.703,5.3812
-1144179017,Alchemilla_vulgaris,61,24.4667
 20425201,Alchemilla_vulgaris,59.8393,10.4006
 1701817325,Alchemilla_vulgaris,59.0039,11.0803
 1144196668,Alchemilla_vulgaris,60.0954,6.0103
@@ -293,13 +279,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701724158,Alchemilla_vulgaris,60.4573,11.1908
 2289079817,Alchemilla_vulgaris,60.983333,24.425
 57676329,Alchemilla_vulgaris,62.6646,26.050301
-1323846101,Alchemilla_vulgaris,61,24.4167
 1144196651,Alchemilla_vulgaris,61.199,5.3959
 1701847824,Alchemilla_vulgaris,59.0311,5.5932
 1946736927,Alchemilla_vulgaris,50.22,10.63
 1702436748,Alchemilla_vulgaris,59.5348,10.3172
 1702214817,Alchemilla_vulgaris,63.0041,7.5882
-441958663,Alchemilla_vulgaris,49.75,20.5
 1851412652,Alchemilla_vulgaris,42.73,-6.25
 1935647769,Alchemilla_vulgaris,46.71222,14.91111
 1055807300,Alchemilla_vulgaris,53.6967,-2.5019
@@ -314,13 +298,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701285590,Alchemilla_vulgaris,63.4388,10.4732
 1946737011,Alchemilla_vulgaris,50.09,10.45
 1946737018,Alchemilla_vulgaris,50.16,10.32
-899739889,Alchemilla_vulgaris,47.4,10.1
 1946736833,Alchemilla_vulgaris,50.18,10.65
 2289138069,Alchemilla_vulgaris,60.983333,24.45
 1946736903,Alchemilla_vulgaris,50.19,10.45
 1946736916,Alchemilla_vulgaris,49.98,10.22
 1946736800,Alchemilla_vulgaris,50.09,10.32
-1946736751,Alchemilla_vulgaris,50.07,10.4
 318217618,Alchemilla_vulgaris,59.1216,5.6717
 1946736925,Alchemilla_vulgaris,50.18,10.34
 1657166404,Alchemilla_vulgaris,47.475,15.45833
@@ -330,14 +312,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946737003,Alchemilla_vulgaris,50.11,10.38
 1946736889,Alchemilla_vulgaris,50.13,10.36
 1946736929,Alchemilla_vulgaris,50.11,10.36
-1946736983,Alchemilla_vulgaris,50.38,10.4
 1946737216,Alchemilla_vulgaris,50.09,10.59
 1946737117,Alchemilla_vulgaris,50.34,10.43
 1946737082,Alchemilla_vulgaris,50.13,10.59
 1946737108,Alchemilla_vulgaris,50.18,10.51
 1946736998,Alchemilla_vulgaris,50.21,10.49
 1946737098,Alchemilla_vulgaris,50.32,10.43
-1946737111,Alchemilla_vulgaris,50.12,10.3
 1946736993,Alchemilla_vulgaris,50.16,10.59
 1946737141,Alchemilla_vulgaris,50.21,10.43
 1946737128,Alchemilla_vulgaris,50.23,10.24
@@ -354,7 +334,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 6861796,Alchemilla_vulgaris,47.0248,4.10999
 2313365301,Alchemilla_vulgaris,48.07,11.54
 2242410108,Alchemilla_vulgaris,39.73193,-104.9619
-1946737079,Alchemilla_vulgaris,49.96,10.8
 2313364164,Alchemilla_vulgaris,48.02,11.54
 1946736984,Alchemilla_vulgaris,50.19,10.18
 1946736740,Alchemilla_vulgaris,50.19,10.19
@@ -384,11 +363,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144046267,Alchemilla_vulgaris,60.4768,5.2126
 1946737038,Alchemilla_vulgaris,50.14,10.78
 1946736975,Alchemilla_vulgaris,50.24,10.34
-1099839037,Alchemilla_vulgaris,48.166668,11.5
 1701309160,Alchemilla_vulgaris,62.8801,8.4986
 187083932,Alchemilla_vulgaris,62.9159,8.4587
 1701226715,Alchemilla_vulgaris,62.9103,6.9037
-991821940,Alchemilla_vulgaris,50.4,10
 1935648110,Alchemilla_vulgaris,46.81667,15.60417
 186788782,Alchemilla_vulgaris,58.1166,8.0877
 1701880317,Alchemilla_vulgaris,59.8893,10.6941
@@ -401,7 +378,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928651653,Alchemilla_vulgaris,38.912202,-76.965902
 296404363,Alchemilla_vulgaris,47.14775,10.339417
 1019565184,Alchemilla_vulgaris,42.07806,23.625
-296404326,Alchemilla_vulgaris,47.2,10.883
 1946736858,Alchemilla_vulgaris,50.22,10.57
 1946736863,Alchemilla_vulgaris,50.52,10.04
 296404325,Alchemilla_vulgaris,47.133,10.516
@@ -413,7 +389,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1668935490,Alchemilla_vulgaris,54.902,37.552
 1668934777,Alchemilla_vulgaris,54.898,37.564
 57676409,Alchemilla_vulgaris,62.2495,25.755501
-991821958,Alchemilla_vulgaris,46.3,7.1
 2313365292,Alchemilla_vulgaris,48.17,11.54
 1845007980,Alchemilla_vulgaris,49.170833,7.996389
 2313364968,Alchemilla_vulgaris,48.16,11.51
@@ -440,7 +415,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701238104,Alchemilla_vulgaris,63.0578,8.1198
 442112837,Alchemilla_vulgaris,50.475834,12.802222
 442112836,Alchemilla_vulgaris,50.652222,13.165833
-2313365729,Alchemilla_vulgaris,48.09,11.4
 2313365256,Alchemilla_vulgaris,48.02,11.59
 2313363720,Alchemilla_vulgaris,48.12,11.46
 1946736864,Alchemilla_vulgaris,49.92,9.96
@@ -478,16 +452,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144166474,Alchemilla_vulgaris,59.2956,4.87593
 2313366608,Alchemilla_vulgaris,48.09,11.45
 1098950400,Alchemilla_vulgaris,47.606667,10.685833
-1059620306,Alchemilla_vulgaris,50.5,7
 186788797,Alchemilla_vulgaris,58.1994,7.9878
 1230500902,Alchemilla_vulgaris,47.16667,13.23333
 57676396,Alchemilla_vulgaris,62.564381,25.839642
-2313365589,Alchemilla_vulgaris,48.06,11.4
 1144046229,Alchemilla_vulgaris,60.4145,5.4746
 239014295,Alchemilla_vulgaris,62.564301,25.8396
 1098950433,Alchemilla_vulgaris,48.372501,10.364722
-1249261983,Alchemilla_vulgaris,46.5,7.5
-1249261989,Alchemilla_vulgaris,46.5,7.6
 57676389,Alchemilla_vulgaris,60.242889,24.017422
 57676358,Alchemilla_vulgaris,63.749847,24.26137
 39612199,Alchemilla_vulgaris,66.179,-16.081
@@ -514,7 +484,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39612194,Alchemilla_vulgaris,64.715,-18.028
 39612196,Alchemilla_vulgaris,64.701,-17.978
 1098950442,Alchemilla_vulgaris,48.435833,10.505555
-2313365711,Alchemilla_vulgaris,48.17,11.4
 177283152,Alchemilla_vulgaris,64.666397,24.5777
 216096555,Alchemilla_vulgaris,62.251301,25.9671
 39612205,Alchemilla_vulgaris,65.66,-19.449
@@ -571,7 +540,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056521992,Alchemilla_vulgaris,54.6367,-2.1347
 1144046350,Alchemilla_vulgaris,62.74169,7.3964
 6862147,Alchemilla_vulgaris,46.9747,4.06918
-1851932436,Alchemilla_vulgaris,51.5,10.5
 1893209139,Alchemilla_vulgaris,49.59,6.35
 177283113,Alchemilla_vulgaris,62.2411,25.813601
 1701222195,Alchemilla_vulgaris,63.4232,10.3924
@@ -583,7 +551,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177283128,Alchemilla_vulgaris,62.334702,25.7423
 1702395992,Alchemilla_vulgaris,59.97258,10.72237
 1098950437,Alchemilla_vulgaris,48.953056,10.607223
-1891590536,Alchemilla_vulgaris,49.7,6.18
 216096577,Alchemilla_vulgaris,60.253101,24.7663
 187083940,Alchemilla_vulgaris,62.167,5.1206
 177283127,Alchemilla_vulgaris,62.2719,24.6952
@@ -655,12 +622,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1698012189,Alchemilla_vulgaris,62.65769,8.70421
 1144046202,Alchemilla_vulgaris,58.6664,7.6027
 1701849919,Alchemilla_vulgaris,59.4183,11.2036
-876154340,Alchemilla_vulgaris,42.4,2.21
 1144046273,Alchemilla_vulgaris,60.3528,5.3573
 1701332486,Alchemilla_vulgaris,59.4082,11.3429
 57676405,Alchemilla_vulgaris,60.630501,21.969299
 1701484710,Alchemilla_vulgaris,61.13415,10.39176
-1230500904,Alchemilla_vulgaris,46.5,14.48333
 1701972541,Alchemilla_vulgaris,58.2326,7.9391
 1701853868,Alchemilla_vulgaris,62.55927,6.99726
 1701914250,Alchemilla_vulgaris,59.858,10.4639
@@ -668,7 +633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702386056,Alchemilla_vulgaris,62.7386,7.141
 1701563954,Alchemilla_vulgaris,63.423,10.4124
 1701572856,Alchemilla_vulgaris,58.6326,9.1343
-1098950487,Alchemilla_vulgaris,47.266666,11.4
 20425535,Alchemilla_vulgaris,60.9745,10.5935
 6861759,Alchemilla_vulgaris,46.8388,4.24669
 6861758,Alchemilla_vulgaris,46.3125,4.47981
@@ -697,7 +661,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935647786,Alchemilla_vulgaris,47.11806,14.18333
 187083939,Alchemilla_vulgaris,58.1151,7.9562
 1701845697,Alchemilla_vulgaris,59.7749,5.5087
-441955970,Alchemilla_vulgaris,64,26
 1702209449,Alchemilla_vulgaris,59.7762,5.4087
 860322996,Alchemilla_vulgaris,42.66,0.99
 6861730,Alchemilla_vulgaris,47.323,4.79421
@@ -707,8 +670,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702385977,Alchemilla_vulgaris,59.8106,5.5335
 1701704376,Alchemilla_vulgaris,63.2864,9.0798
 39612206,Alchemilla_vulgaris,66.412,-22.388
-1098950423,Alchemilla_vulgaris,57,25.833334
-1098950409,Alchemilla_vulgaris,69.699997,19
 1702386053,Alchemilla_vulgaris,59.7706,10.6382
 1701931588,Alchemilla_vulgaris,59.8629,10.7945
 1702386030,Alchemilla_vulgaris,59.6539,10.6325
@@ -811,7 +772,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701853599,Alchemilla_vulgaris,58.1327,7.9667
 57676342,Alchemilla_vulgaris,62.877071,27.684454
 57676344,Alchemilla_vulgaris,60.971268,24.503677
-20425487,Alchemilla_vulgaris,60.197,5.5
 1701572832,Alchemilla_vulgaris,58.1455,7.9893
 1144046253,Alchemilla_vulgaris,60.3324,5.3464
 1144046241,Alchemilla_vulgaris,60.3777,5.3538
@@ -850,5 +810,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144046265,Alchemilla_vulgaris,59.705,5.3569
 1098950387,Alchemilla_vulgaris,50.917221,14.074166
 39203937,Alchemilla_vulgaris,65.61,-21.402
-441958308,Alchemilla_vulgaris,46.75,9.5
 1701972483,Alchemilla_vulgaris,58.2457,8.0034
