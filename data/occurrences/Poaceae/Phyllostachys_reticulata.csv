@@ -64,13 +64,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830203277,Phyllostachys_reticulata,36.683333,137.133333
 1830624047,Phyllostachys_reticulata,34.01951,134.487713
 1830686285,Phyllostachys_reticulata,32.966667,132.916667
-1830686231,Phyllostachys_reticulata,33.8,133.55
 1830686266,Phyllostachys_reticulata,32.716667,133.016667
 1830686244,Phyllostachys_reticulata,32.733333,132.983333
 1829598807,Phyllostachys_reticulata,36.197222,138.754444
 1652307881,Phyllostachys_reticulata,-17.656929,145.525848
 395785942,Phyllostachys_reticulata,35.104167,133.8875
-1830688443,Phyllostachys_reticulata,33.7,133.866667
 1830687440,Phyllostachys_reticulata,32.933333,132.65
 1830689074,Phyllostachys_reticulata,33.65,134.083333
 204386081,Phyllostachys_reticulata,34.44744,135.88417
@@ -81,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381829283,Phyllostachys_reticulata,36.09948,140.50616
 395785930,Phyllostachys_reticulata,35.022778,134.1175
 1652229442,Phyllostachys_reticulata,-28.666599,151.92776
-1829609447,Phyllostachys_reticulata,36.3,138.9
 1936655175,Phyllostachys_reticulata,37.216,-7.4221
 395785965,Phyllostachys_reticulata,35.148056,134.364167
 395786076,Phyllostachys_reticulata,35.0025,134.181944
@@ -105,7 +102,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381829177,Phyllostachys_reticulata,36.09966,140.56297
 395785764,Phyllostachys_reticulata,35.154167,133.638889
 395785767,Phyllostachys_reticulata,35.019444,134.0375
-729283771,Phyllostachys_reticulata,34.866699,135.2
 395785947,Phyllostachys_reticulata,35.077222,133.477222
 395785757,Phyllostachys_reticulata,35.255,134.116667
 1828732595,Phyllostachys_reticulata,39.3858,140.04892
@@ -131,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829771712,Phyllostachys_reticulata,35.36995,140.196739
 1829767609,Phyllostachys_reticulata,35.403278,140.096744
 624042204,Phyllostachys_reticulata,35.453269,140.04675
-1934098376,Phyllostachys_reticulata,34.651944,135.1
 2244456640,Phyllostachys_reticulata,35.15818,139.13704
 1419217898,Phyllostachys_reticulata,16.350556,-94.354167
 1419193313,Phyllostachys_reticulata,19.492222,-98.889444
@@ -225,15 +220,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030930290,Phyllostachys_reticulata,22.391288,106.817838
 891624396,Phyllostachys_reticulata,23.6675,120.786389
 1652228573,Phyllostachys_reticulata,-17.590261,145.942509
-1456464621,Phyllostachys_reticulata,3.78,-67
 1030930268,Phyllostachys_reticulata,25.175621,110.351669
 1828729666,Phyllostachys_reticulata,32.80334,130.70729
 1697769212,Phyllostachys_reticulata,41.570766,42.05133
 2200500649,Phyllostachys_reticulata,35.016715,127.652314
 2200617726,Phyllostachys_reticulata,37.941667,127.097222
 1828722603,Phyllostachys_reticulata,35.33002,139.90225
-1259976456,Phyllostachys_reticulata,33.066667,-117.3
-1829603748,Phyllostachys_reticulata,36.3,138.7
 2200617806,Phyllostachys_reticulata,38.124657,128.628026
 1317293077,Phyllostachys_reticulata,43.38,-116.12
 1320186587,Phyllostachys_reticulata,36.5667,-119.617
@@ -241,8 +233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318291288,Phyllostachys_reticulata,47.0586,-122.903
 1030930279,Phyllostachys_reticulata,25.255089,110.050532
 2200617498,Phyllostachys_reticulata,35.844444,128.719444
-38028809,Phyllostachys_reticulata,21.6,-157.9
-1830156109,Phyllostachys_reticulata,36.9,137.416667
 1933827805,Phyllostachys_reticulata,34.89917,137.68739
 729280238,Phyllostachys_reticulata,35.133301,134.567
 1828722483,Phyllostachys_reticulata,37.65088,139.87444
@@ -263,12 +253,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200617580,Phyllostachys_reticulata,38.012195,128.628014
 2200617668,Phyllostachys_reticulata,33.427335,126.563646
 1652059728,Phyllostachys_reticulata,-18.248592,146.084176
-1829610213,Phyllostachys_reticulata,36.4,139
 2200617474,Phyllostachys_reticulata,36.494973,126.365001
 1828810421,Phyllostachys_reticulata,36.317778,136.519064
 1830159166,Phyllostachys_reticulata,37.833333,139.016667
-1829605368,Phyllostachys_reticulata,36.2,138.9
-2200617475,Phyllostachys_reticulata,37.819444,124.7
 2200617678,Phyllostachys_reticulata,36.117195,128.00419
 2200617709,Phyllostachys_reticulata,36.977197,129.408421
 2200617677,Phyllostachys_reticulata,36.887809,129.351498
@@ -321,7 +308,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303804587,Phyllostachys_reticulata,28.57755,105.702145
 1830667951,Phyllostachys_reticulata,35.59311,140.12758
 1303804523,Phyllostachys_reticulata,25.897942,111.009947
-1830171339,Phyllostachys_reticulata,36.7,137.183333
 1303804550,Phyllostachys_reticulata,28.732762,120.625634
 1303804606,Phyllostachys_reticulata,30.196022,119.366283
 1303804586,Phyllostachys_reticulata,28.074413,119.141815
@@ -332,6 +318,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303804577,Phyllostachys_reticulata,36.107933,120.415961
 1303804584,Phyllostachys_reticulata,28.451836,119.916426
 891705075,Phyllostachys_reticulata,24.055833,121.2775
-1830198663,Phyllostachys_reticulata,36.7,137.216667
 1303804609,Phyllostachys_reticulata,28.286507,113.228971
 1257394211,Phyllostachys_reticulata,39.7333,-121.8333
