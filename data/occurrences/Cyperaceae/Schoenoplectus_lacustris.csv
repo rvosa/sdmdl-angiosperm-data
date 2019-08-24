@@ -46,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268219567,Schoenoplectus_lacustris,55.084722,38.854167
 2288539179,Schoenoplectus_lacustris,51.653,4.778167
 1697186951,Schoenoplectus_lacustris,51.1993,114.8962
-1094187441,Schoenoplectus_lacustris,33.1,35.58
 2268219847,Schoenoplectus_lacustris,56.718611,37.136111
 1576193601,Schoenoplectus_lacustris,41.252115,-3.066483
 1697769564,Schoenoplectus_lacustris,44.109722,41.598889
@@ -71,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342950273,Schoenoplectus_lacustris,57.141679,9.552225
 237346238,Schoenoplectus_lacustris,52.420002,14.538056
 1882285226,Schoenoplectus_lacustris,48.72,10.49
-1882284524,Schoenoplectus_lacustris,48.86,10.7
 1851360122,Schoenoplectus_lacustris,42.5253,-5.712
 1702105097,Schoenoplectus_lacustris,59.6849,11.0969
 1701857395,Schoenoplectus_lacustris,60.2788,10.4529
@@ -215,7 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844870671,Schoenoplectus_lacustris,41.33,-0.36
 1031213,Schoenoplectus_lacustris,55.85537,14.03193
 1701567392,Schoenoplectus_lacustris,59.9788,12.1417
-1148597494,Schoenoplectus_lacustris,59.38333,24.3
 1697410446,Schoenoplectus_lacustris,56.083333,36.583333
 1702200623,Schoenoplectus_lacustris,59.9771,12.124
 199503541,Schoenoplectus_lacustris,36.216,-5.386
@@ -231,12 +228,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 230819420,Schoenoplectus_lacustris,51.817486,5.771532
 1936566885,Schoenoplectus_lacustris,40.9003,-3.4643
 318230029,Schoenoplectus_lacustris,59.6654,5.6544
-199503631,Schoenoplectus_lacustris,38.6,-5.35
 1999468843,Schoenoplectus_lacustris,62.41265,25.942269
 1701627114,Schoenoplectus_lacustris,59.5693,11.1957
 1701281305,Schoenoplectus_lacustris,63.8666,9.8902
 1947595665,Schoenoplectus_lacustris,48.34,13.25
-1697410394,Schoenoplectus_lacustris,55.833333,36.5
 1702219803,Schoenoplectus_lacustris,60.6348,11.3191
 1697410391,Schoenoplectus_lacustris,56.433333,36.583333
 1697410425,Schoenoplectus_lacustris,56.233333,35.75
@@ -244,7 +239,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702346414,Schoenoplectus_lacustris,58.9897,6.0474
 1936567088,Schoenoplectus_lacustris,37.2211,-7.1515
 1702191882,Schoenoplectus_lacustris,59.6657,10.8594
-1705490075,Schoenoplectus_lacustris,64.82,25.4
 1999598998,Schoenoplectus_lacustris,60.915481,23.779462
 1701592804,Schoenoplectus_lacustris,59.6639,10.1093
 1638432280,Schoenoplectus_lacustris,45.35639,13.73972
@@ -253,7 +247,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144201135,Schoenoplectus_lacustris,59.6528,5.6546
 1936642235,Schoenoplectus_lacustris,42.9667,-4.1785
 1697410295,Schoenoplectus_lacustris,55.516667,31.766667
-1697410374,Schoenoplectus_lacustris,56.333333,37
 1042873123,Schoenoplectus_lacustris,63.2325,26.755556
 1702205767,Schoenoplectus_lacustris,62.8814,7.9018
 1563900953,Schoenoplectus_lacustris,58.2894,7.8035
@@ -269,7 +262,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936608278,Schoenoplectus_lacustris,40.8055,-1.8632
 615398631,Schoenoplectus_lacustris,36.82,74.35
 1936564448,Schoenoplectus_lacustris,40.7565,-2.634
-1851373165,Schoenoplectus_lacustris,42.8,-4.999
 1701397852,Schoenoplectus_lacustris,60.9038,10.9126
 1702256327,Schoenoplectus_lacustris,60.1991,11.1376
 1936559649,Schoenoplectus_lacustris,42.4561,-6.788
@@ -346,7 +338,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144173678,Schoenoplectus_lacustris,60.1056,5.813
 1699896928,Schoenoplectus_lacustris,59.8219,10.3464
 1936443671,Schoenoplectus_lacustris,39.9767,-1.8653
-1050612827,Schoenoplectus_lacustris,43,-3.5
 1936548882,Schoenoplectus_lacustris,40.1847,-1.9441
 1702430202,Schoenoplectus_lacustris,58.9602,9.4372
 1702430449,Schoenoplectus_lacustris,59.8564,10.4361
@@ -391,7 +382,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144772384,Schoenoplectus_lacustris,41.73333,8.85
 1936444190,Schoenoplectus_lacustris,39.9235,-1.9481
 1697410385,Schoenoplectus_lacustris,54.664092,40.972624
-1899287903,Schoenoplectus_lacustris,45.5,-75.5
 1702279936,Schoenoplectus_lacustris,59.3261,11.5772
 1701871989,Schoenoplectus_lacustris,59.9341,10.9638
 1936542001,Schoenoplectus_lacustris,39.0385,-4.2491
@@ -400,7 +390,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1881881110,Schoenoplectus_lacustris,58.74998,24.65699
 211638036,Schoenoplectus_lacustris,42.619999,-1.84
 1144179771,Schoenoplectus_lacustris,60.2763,5.4236
-1883574336,Schoenoplectus_lacustris,37.783333,14.2
 1598353537,Schoenoplectus_lacustris,60.973285,24.443462
 1831337363,Schoenoplectus_lacustris,54.0484,11.5819
 1031043,Schoenoplectus_lacustris,56.92602,14.00551
@@ -436,7 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204435379,Schoenoplectus_lacustris,42.561001,-1.276
 204435376,Schoenoplectus_lacustris,42.731998,-1.259
 204435378,Schoenoplectus_lacustris,42.391998,-1.415
-1144772491,Schoenoplectus_lacustris,42.7,9.26667
 204435377,Schoenoplectus_lacustris,42.852001,-1.452
 1851319113,Schoenoplectus_lacustris,42.823,-4.67
 1705351828,Schoenoplectus_lacustris,57.140039,16.333766
@@ -450,21 +438,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697410358,Schoenoplectus_lacustris,54.669795,40.883972
 1697321465,Schoenoplectus_lacustris,47.583333,119.083333
 1598353551,Schoenoplectus_lacustris,62.924802,22.522793
-1144772373,Schoenoplectus_lacustris,42.1,9.48333
 1598353460,Schoenoplectus_lacustris,65.224346,27.199411
 1598353507,Schoenoplectus_lacustris,63.153514,21.558943
 1598353488,Schoenoplectus_lacustris,65.033875,26.179206
 1050612830,Schoenoplectus_lacustris,41.96,-1.42
 1455439444,Schoenoplectus_lacustris,50.476733,4.897235
 1050612824,Schoenoplectus_lacustris,42.94,-1.82
-1050612812,Schoenoplectus_lacustris,42.7,-2.06
-1144772471,Schoenoplectus_lacustris,42.71667,9.2
 1697410405,Schoenoplectus_lacustris,54.526997,40.885575
 1701802955,Schoenoplectus_lacustris,59.2378,10.8545
 1936394555,Schoenoplectus_lacustris,38.882,-4.251503
 217685797,Schoenoplectus_lacustris,38.42,-5.58
 1705321224,Schoenoplectus_lacustris,57.450026,14.639233
-217685796,Schoenoplectus_lacustris,38.61,-4.9
 1702210720,Schoenoplectus_lacustris,59.656,9.7541
 1705747454,Schoenoplectus_lacustris,53.7772,21.6129
 204435382,Schoenoplectus_lacustris,42.849998,-4.16
@@ -472,7 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318230033,Schoenoplectus_lacustris,58.7408,5.8984
 1144772362,Schoenoplectus_lacustris,41.48333,9.13333
 1144772415,Schoenoplectus_lacustris,41.71667,8.81667
-1053981347,Schoenoplectus_lacustris,42.05,-1.7
 204435381,Schoenoplectus_lacustris,42.837002,-1.721
 1144772417,Schoenoplectus_lacustris,42.63333,8.98333
 1053981380,Schoenoplectus_lacustris,42.24,-1.49
@@ -494,7 +477,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701246246,Schoenoplectus_lacustris,64.0277,10.8205
 1697950889,Schoenoplectus_lacustris,50.016667,-97.05
 1697410373,Schoenoplectus_lacustris,54.142774,35.903924
-296542832,Schoenoplectus_lacustris,47.656,12.3
 1936602019,Schoenoplectus_lacustris,42.8041,-4.2243
 187254204,Schoenoplectus_lacustris,63.8485,10.3879
 1936546617,Schoenoplectus_lacustris,42.7979,-4.7133
@@ -505,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999585132,Schoenoplectus_lacustris,68.665782,27.82055
 217685819,Schoenoplectus_lacustris,38.51,-5.47
 1697410313,Schoenoplectus_lacustris,54.490387,40.549171
-217685822,Schoenoplectus_lacustris,38.6,-5.12
 204435578,Schoenoplectus_lacustris,42.933998,-2.589
 1851390563,Schoenoplectus_lacustris,42.48,-6.75
 1712606805,Schoenoplectus_lacustris,42.487217,-2.400095
@@ -529,7 +510,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936099142,Schoenoplectus_lacustris,39.0251,-3.6944
 211638608,Schoenoplectus_lacustris,43.400002,-5.83
 1851347714,Schoenoplectus_lacustris,42.4783,-5.2185
-1851404865,Schoenoplectus_lacustris,43.28,-5.4
 204435656,Schoenoplectus_lacustris,42.66,-1.23
 1851372014,Schoenoplectus_lacustris,42.43,-5.7054
 1851334956,Schoenoplectus_lacustris,42.37,-5.73
@@ -538,15 +518,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702012297,Schoenoplectus_lacustris,60.3414,11.6361
 1701369559,Schoenoplectus_lacustris,60.0892,12.3301
 1701796826,Schoenoplectus_lacustris,60.1045,12.2029
-1050612817,Schoenoplectus_lacustris,43.18,-3.2
 21438267,Schoenoplectus_lacustris,60.2967,10.4563
 1697769542,Schoenoplectus_lacustris,38.482889,48.870964
 1702012457,Schoenoplectus_lacustris,59.4645,10.1557
 1701796757,Schoenoplectus_lacustris,60.6259,11.3119
 1702012344,Schoenoplectus_lacustris,60.1327,10.251
 1701796752,Schoenoplectus_lacustris,59.4829,10.1033
-1050612823,Schoenoplectus_lacustris,43.37,-2.9
-1050612816,Schoenoplectus_lacustris,43.2,-3.16
 1936131394,Schoenoplectus_lacustris,38.144,-3.0811
 1936129458,Schoenoplectus_lacustris,41.2854,-3.8492
 1712604571,Schoenoplectus_lacustris,42.329552,-1.735689
@@ -582,7 +559,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702012319,Schoenoplectus_lacustris,60.8795,11.6804
 1936601042,Schoenoplectus_lacustris,43.3378,-3.9759
 1657204057,Schoenoplectus_lacustris,46.75806,15.64306
-1697949995,Schoenoplectus_lacustris,49.966667,-98.1
 1050612839,Schoenoplectus_lacustris,42.95,-2.57
 187254227,Schoenoplectus_lacustris,63.7402,9.8204
 1936419224,Schoenoplectus_lacustris,40.4832,-2.081
@@ -605,7 +581,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1657205149,Schoenoplectus_lacustris,46.75972,15.64417
 1701252108,Schoenoplectus_lacustris,60.8037,10.8468
 1697410337,Schoenoplectus_lacustris,54.6693,40.8842
-1697949866,Schoenoplectus_lacustris,50.2,-97.283333
 1702012510,Schoenoplectus_lacustris,64.3724,11.1863
 1881896533,Schoenoplectus_lacustris,59.580278,25.883611
 318230027,Schoenoplectus_lacustris,58.9437,5.7411
@@ -634,7 +609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598353603,Schoenoplectus_lacustris,61.419512,24.468055
 1697410444,Schoenoplectus_lacustris,54.835488,37.738005
 1999468932,Schoenoplectus_lacustris,60.66216,21.51534
-1988105849,Schoenoplectus_lacustris,60.7,21.5
 57722871,Schoenoplectus_lacustris,64.843803,25.4156
 1042875364,Schoenoplectus_lacustris,60.666667,21.516667
 1702012404,Schoenoplectus_lacustris,59.3511,10.6794
@@ -643,7 +617,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598353593,Schoenoplectus_lacustris,60.870237,23.95915
 1598353477,Schoenoplectus_lacustris,60.521673,27.643321
 1701306402,Schoenoplectus_lacustris,64.1519,11.1329
-2291958841,Schoenoplectus_lacustris,9.4,42.016667
 1031036,Schoenoplectus_lacustris,56.617097,14.18205
 1806526636,Schoenoplectus_lacustris,46.781389,15.546667
 1697321438,Schoenoplectus_lacustris,48.134934,109.382286
@@ -660,7 +633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598353642,Schoenoplectus_lacustris,61.057343,24.31177
 1701796835,Schoenoplectus_lacustris,58.8006,9.1125
 1598353455,Schoenoplectus_lacustris,60.575048,27.735577
-1848994179,Schoenoplectus_lacustris,47.75,16.8
 57722863,Schoenoplectus_lacustris,62.325596,24.970942
 2268220246,Schoenoplectus_lacustris,56.686432,38.070693
 1144176529,Schoenoplectus_lacustris,63.7674,9.8485
@@ -671,7 +643,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701760903,Schoenoplectus_lacustris,62.9377,7.148
 1697410296,Schoenoplectus_lacustris,55.878752,40.749015
 1702175709,Schoenoplectus_lacustris,59.3366,10.8774
-2288675654,Schoenoplectus_lacustris,52,-1.083333
 1323845129,Schoenoplectus_lacustris,67.3278,15.4766
 2291344944,Schoenoplectus_lacustris,52.083333,-0.85
 1881896737,Schoenoplectus_lacustris,58.554722,26.686389
@@ -829,7 +800,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705321619,Schoenoplectus_lacustris,56.422808,13.109777
 1598353626,Schoenoplectus_lacustris,61.31394,23.729411
 1598353439,Schoenoplectus_lacustris,60.903085,27.641901
-1702012329,Schoenoplectus_lacustris,59.7999,10.8
 1598353431,Schoenoplectus_lacustris,66.093599,29.096697
 1705285021,Schoenoplectus_lacustris,57.318992,16.469106
 1042876059,Schoenoplectus_lacustris,61.6725,17.25064
@@ -948,7 +918,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697410419,Schoenoplectus_lacustris,56.562385,37.750453
 1042869621,Schoenoplectus_lacustris,55.66445,13.56204
 1705296635,Schoenoplectus_lacustris,56.423302,12.947731
-786270870,Schoenoplectus_lacustris,49,8.3
 1702012394,Schoenoplectus_lacustris,59.6403,10.6407
 1701796786,Schoenoplectus_lacustris,58.5701,8.3811
 2268219880,Schoenoplectus_lacustris,55.565051,37.627499
@@ -1091,8 +1060,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598353497,Schoenoplectus_lacustris,61.30932,23.543084
 1702012335,Schoenoplectus_lacustris,60.0233,11.4314
 1697410447,Schoenoplectus_lacustris,56.766649,38.719107
-1697186894,Schoenoplectus_lacustris,50.666667,118.6
-1697187022,Schoenoplectus_lacustris,50.5,117.9
 1598353541,Schoenoplectus_lacustris,62.670454,21.234316
 1598353614,Schoenoplectus_lacustris,61.851458,23.672231
 1598353457,Schoenoplectus_lacustris,62.244977,25.746254
@@ -1102,7 +1069,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1798982139,Schoenoplectus_lacustris,47.403694,60.944252
 1042867649,Schoenoplectus_lacustris,63.01872,16.11182
 1702012468,Schoenoplectus_lacustris,59.7736,5.4785
-1697186948,Schoenoplectus_lacustris,51.1,114.533333
 1702012317,Schoenoplectus_lacustris,60.3913,10.4742
 415406027,Schoenoplectus_lacustris,63.1325,21.540001
 1598353445,Schoenoplectus_lacustris,60.544121,27.634781
@@ -1325,7 +1291,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042874733,Schoenoplectus_lacustris,55.603325,13.395946
 788476822,Schoenoplectus_lacustris,56.463342,14.698421
 788599608,Schoenoplectus_lacustris,58.044549,12.519442
-1988147269,Schoenoplectus_lacustris,54.3,10.1
 1038961320,Schoenoplectus_lacustris,41.1186,-73.4228
 1039002069,Schoenoplectus_lacustris,41.605,-72.88
 1999572660,Schoenoplectus_lacustris,60.609105,24.349158
