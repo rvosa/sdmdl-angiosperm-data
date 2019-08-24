@@ -20,8 +20,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913343941,Rorippa_islandica,66.988333,-50.9335
 1829921353,Rorippa_islandica,35.332438,139.215571
 2244508512,Rorippa_islandica,34.833333,135.066667
-2244510778,Rorippa_islandica,34.8,134.983333
-1988186146,Rorippa_islandica,49.27,-123.2
 1829917753,Rorippa_islandica,35.390765,139.22807
 1829926097,Rorippa_islandica,35.282444,139.165578
 2244511297,Rorippa_islandica,34.783333,135.033333
@@ -98,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830535284,Rorippa_islandica,33.4375,133.98125
 1830529323,Rorippa_islandica,34.65,134.966667
 381836663,Rorippa_islandica,36.31779,139.99461
-56654362,Rorippa_islandica,34.3,-81.62
 1829937285,Rorippa_islandica,35.490757,139.478049
 1935718225,Rorippa_islandica,46.55417,11.625
 19628975,Rorippa_islandica,48.8746,2.18019
@@ -117,7 +114,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381836540,Rorippa_islandica,35.9279,139.98727
 1828665757,Rorippa_islandica,36.577,136.6468
 381836550,Rorippa_islandica,35.99423,139.89198
-1828665905,Rorippa_islandica,36.5,136.742
 1701164332,Rorippa_islandica,43.03689,11.074616
 607618386,Rorippa_islandica,32.895556,100.665833
 1949631787,Rorippa_islandica,53.811667,-125.925
@@ -131,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395797382,Rorippa_islandica,35.045833,133.763611
 1148499381,Rorippa_islandica,58.875,25.45833
 388860756,Rorippa_islandica,35.59907,139.17807
-1262028939,Rorippa_islandica,49.983333,-74.7
 395797402,Rorippa_islandica,35.089361,134.101306
 19628799,Rorippa_islandica,48.8053,2.22714
 729314565,Rorippa_islandica,35.599998,134.467
@@ -163,13 +158,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381836487,Rorippa_islandica,36.0728,140.20802
 729294436,Rorippa_islandica,34.766701,135.383
 39534442,Rorippa_islandica,64.083,-21.76
-729275295,Rorippa_islandica,34.900002,135
 729273718,Rorippa_islandica,34.716702,134.89999
 388861006,Rorippa_islandica,36.385092,139.663138
 295936349,Rorippa_islandica,35.557418,139.565541
 1828888704,Rorippa_islandica,34.68602,134.9496
 729282760,Rorippa_islandica,34.950001,135.283
-729284710,Rorippa_islandica,34.883301,135.2
 729277402,Rorippa_islandica,34.766701,135.217
 1829899873,Rorippa_islandica,36.702222,137.858333
 1830393040,Rorippa_islandica,35.088802,137.112722
@@ -177,9 +170,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828888589,Rorippa_islandica,34.85664,134.54362
 1828888739,Rorippa_islandica,34.75737,134.8407
 1828888735,Rorippa_islandica,34.82084,134.70683
-729316680,Rorippa_islandica,34.833302,135.3
 1828888219,Rorippa_islandica,34.75743,134.81842
-2289508032,Rorippa_islandica,48.2,11.616667
 19628862,Rorippa_islandica,48.812,2.5255
 1703291819,Rorippa_islandica,50.649906844255,-95.7171859987571
 1262026627,Rorippa_islandica,47.883333,-73.716667
@@ -219,11 +210,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262023296,Rorippa_islandica,50.35,-77.683333
 1262023272,Rorippa_islandica,50.133333,-77.75
 1262023722,Rorippa_islandica,51.533333,-79.116667
-1262023308,Rorippa_islandica,51.3,-78.55
 381836467,Rorippa_islandica,36.28809,140.0927
 473342805,Rorippa_islandica,51.3064,-78.5495
 1262023746,Rorippa_islandica,51.483333,-78.75
-1262023284,Rorippa_islandica,50.2,-77.716667
 1262023432,Rorippa_islandica,49.866667,-77.45
 381836466,Rorippa_islandica,36.01371,139.92844
 1829771470,Rorippa_islandica,35.528261,140.121742
@@ -239,13 +228,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248703589,Rorippa_islandica,46.25,-70.75
 60026490,Rorippa_islandica,42.483485,-7.594758
 1828888272,Rorippa_islandica,34.86672,134.72379
-1804601450,Rorippa_islandica,45.3,-75.616667
 1829767886,Rorippa_islandica,35.669908,139.95925
 1828888576,Rorippa_islandica,34.85364,134.75742
 1319074224,Rorippa_islandica,66.75,-150.667
 1829783002,Rorippa_islandica,35.6359,139.44583
 1804598220,Rorippa_islandica,48.95,-94.583333
-1804539185,Rorippa_islandica,48.616667,-93.1
 2307808930,Rorippa_islandica,69.23,-134.03
 1949630516,Rorippa_islandica,49.308333,-121.405
 1804535920,Rorippa_islandica,69.233333,-134.333333
@@ -260,7 +247,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050609173,Rorippa_islandica,42.37,-1.79
 234431442,Rorippa_islandica,35.457431,139.615538
 39749479,Rorippa_islandica,65.729,-20.236
-1804512441,Rorippa_islandica,45.3,-75.55
 1248703619,Rorippa_islandica,47.416667,-70.416667
 1262016912,Rorippa_islandica,45.966,-70.66
 1804406424,Rorippa_islandica,44.466667,-77.65
@@ -301,7 +287,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829781286,Rorippa_islandica,35.63715,139.44667
 1936376786,Rorippa_islandica,42.6936,-2.9403
 1262015620,Rorippa_islandica,46.177484,-73.099394
-1050609145,Rorippa_islandica,42.7,-2.93
 1262011478,Rorippa_islandica,48.58,-78.793
 1804458694,Rorippa_islandica,45.433333,-76.25
 234431483,Rorippa_islandica,35.499088,139.328062
@@ -326,9 +311,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262035489,Rorippa_islandica,46.099167,-73.475833
 211635749,Rorippa_islandica,43.209999,-4.69
 415964744,Rorippa_islandica,41.76555,-72.66555
-1804392234,Rorippa_islandica,49.6,-92.75
 211635746,Rorippa_islandica,43.150002,-4.84
-211635748,Rorippa_islandica,43.240002,-5
 211635750,Rorippa_islandica,43.16,-4.82
 234431478,Rorippa_islandica,35.440763,139.378057
 1829781045,Rorippa_islandica,35.64669,139.457
@@ -338,9 +321,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851358673,Rorippa_islandica,42.2771,-5.7353
 234431443,Rorippa_islandica,35.532414,139.390554
 1851390321,Rorippa_islandica,42.43,-5.7054
-1949622818,Rorippa_islandica,49.033333,-118.2
 1262033837,Rorippa_islandica,45.146,-73.59
-1949622397,Rorippa_islandica,50.4,-118.5
 234431456,Rorippa_islandica,35.515757,139.59054
 1834901962,Rorippa_islandica,35.354167,139.36875
 393109094,Rorippa_islandica,36.0085,139.08423
@@ -355,8 +336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 60026736,Rorippa_islandica,41.085393,-5.946365
 1262033858,Rorippa_islandica,45.575556,-72.567222
 883424445,Rorippa_islandica,47.283333,-95.283333
-1262008156,Rorippa_islandica,45.405,-74.3
-1262009365,Rorippa_islandica,45.5,-72.433333
 1931000374,Rorippa_islandica,47.8498,-112.7864
 1262008216,Rorippa_islandica,45.256069,-73.668202
 1825742219,Rorippa_islandica,59.4641,10.65876
@@ -369,7 +348,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 234431479,Rorippa_islandica,35.474092,139.390556
 388860934,Rorippa_islandica,36.262778,139.684444
 234431439,Rorippa_islandica,35.574082,139.640533
-1262011215,Rorippa_islandica,46.9,-71.666667
 1262008029,Rorippa_islandica,46.791,-71.295
 473467203,Rorippa_islandica,45.6974,-73.4735
 473462523,Rorippa_islandica,45.7053,-73.4528
@@ -378,7 +356,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473464409,Rorippa_islandica,45.7044,-73.4589
 1804369036,Rorippa_islandica,43.583333,-79.566667
 473472079,Rorippa_islandica,45.7013,-73.4661
-1949557508,Rorippa_islandica,60.283333,-129
 415964749,Rorippa_islandica,41.80833,-72.24944
 39749331,Rorippa_islandica,65.749,-18.172
 234431485,Rorippa_islandica,35.415767,139.453052
@@ -396,7 +373,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262008037,Rorippa_islandica,46.720833,-71.270556
 1834901927,Rorippa_islandica,35.379167,139.31875
 1262004749,Rorippa_islandica,46.734368,-71.504016
-1804481950,Rorippa_islandica,42.366667,-82.4
 393109797,Rorippa_islandica,35.86364,139.61705
 234431431,Rorippa_islandica,35.482424,139.390555
 1804526128,Rorippa_islandica,45.333333,-75.816667
@@ -410,7 +386,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804444686,Rorippa_islandica,48.133333,-89.35
 1834901972,Rorippa_islandica,35.420833,139.26875
 234431460,Rorippa_islandica,35.515758,139.665533
-1804585973,Rorippa_islandica,48.7,-89.116667
 234431482,Rorippa_islandica,35.38244,139.528047
 234431457,Rorippa_islandica,35.549086,139.57804
 1890159690,Rorippa_islandica,34.064063,73.16224
@@ -430,7 +405,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890160164,Rorippa_islandica,35.420561,75.44429
 1703298227,Rorippa_islandica,52.9960292136783,-97.3005419946931
 1804497730,Rorippa_islandica,48.433333,-89.25
-1804553030,Rorippa_islandica,44,-77.733333
 1262007981,Rorippa_islandica,46.776737,-71.280915
 1262033854,Rorippa_islandica,46.7767,-71.281012
 1262033908,Rorippa_islandica,46.776722,-71.280873
@@ -442,7 +416,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828888293,Rorippa_islandica,34.8071,134.70015
 1890160135,Rorippa_islandica,33.996108,73.757687
 1949584224,Rorippa_islandica,62.266667,-140.683333
-1260843685,Rorippa_islandica,46.5,9.83333
 1262002767,Rorippa_islandica,45.966111,-71.841667
 686192692,Rorippa_islandica,50.45,-67.05
 1949584065,Rorippa_islandica,61.966667,-140.416667
@@ -458,17 +431,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890159718,Rorippa_islandica,34.907925,72.256603
 1804372598,Rorippa_islandica,67.333333,-126.416667
 1890159706,Rorippa_islandica,34.020505,72.954642
-1804612047,Rorippa_islandica,45.316667,-75.1
 1890160092,Rorippa_islandica,35.996231,71.555887
 1890160173,Rorippa_islandica,35.282564,75.613355
 1890160134,Rorippa_islandica,35.301356,75.640499
 1890159773,Rorippa_islandica,35.067969,72.486338
 919478304,Rorippa_islandica,25.012526,102.700013
 473260858,Rorippa_islandica,45.371389,-73.774167
-1949531051,Rorippa_islandica,61,-129
 1248703662,Rorippa_islandica,51.333333,-78.816667
 1913878749,Rorippa_islandica,34.905355,73.648996
-473260860,Rorippa_islandica,45.7,-73.533333
 473485855,Rorippa_islandica,46.65,-73.883333
 1804602161,Rorippa_islandica,61.15,-126.883333
 1936009605,Rorippa_islandica,42.6118,0.9262
@@ -485,7 +455,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415964795,Rorippa_islandica,41.10416,-74.76
 883424430,Rorippa_islandica,58.866667,-118.666667
 1262004083,Rorippa_islandica,46.216667,-72.616667
-1804455285,Rorippa_islandica,65.35,-125.4
 1261997344,Rorippa_islandica,45.65,-72.566667
 388860576,Rorippa_islandica,42.554241,143.492824
 1804541016,Rorippa_islandica,66.366667,-125.533333
@@ -494,7 +463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804385356,Rorippa_islandica,65.883333,-128.216667
 1830633600,Rorippa_islandica,33.582733,134.326927
 415964784,Rorippa_islandica,41.43805,-71.57638
-1988089102,Rorippa_islandica,49.2,-122.7
 1055072959,Rorippa_islandica,38.41224,-96.11638
 415964748,Rorippa_islandica,41.67166,-72.94916
 2288247206,Rorippa_islandica,50.452,6.102
@@ -505,27 +473,20 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055797999,Rorippa_islandica,51.548322,-0.271231
 668753873,Rorippa_islandica,46.774722,-71.282778
 415964746,Rorippa_islandica,41.62138,-72.74555
-1949511323,Rorippa_islandica,52.266667,-123
 894984618,Rorippa_islandica,49.066667,-113.783333
 2291570515,Rorippa_islandica,68.083333,-135.416667
 39533480,Rorippa_islandica,65.593,-17.066
-465923830,Rorippa_islandica,47.983333,-84.9
-39533482,Rorippa_islandica,66,-18.385
-1804383993,Rorippa_islandica,55.016667,-82.9
 1802796731,Rorippa_islandica,68.29731,17.60818
 381836994,Rorippa_islandica,36.60202,140.646
 1323763662,Rorippa_islandica,67.2953,14.8491
 1500089706,Rorippa_islandica,52.725,-117.65
 894984644,Rorippa_islandica,49.083333,-113.85
-217082146,Rorippa_islandica,42.37,-71.9
 1702319387,Rorippa_islandica,59.55417,10.03753
 883379132,Rorippa_islandica,45.268056,-74.176667
 39533475,Rorippa_islandica,64.828,-23.205
 415952347,Rorippa_islandica,44.95861,-74.83444
-1261976352,Rorippa_islandica,46.3,-72.116667
 473260857,Rorippa_islandica,45.2699,-74.1785
 1038959255,Rorippa_islandica,41.3792,-72.5783
-1804486615,Rorippa_islandica,61.7,-135.933333
 381836992,Rorippa_islandica,36.1961,140.28654
 39533485,Rorippa_islandica,63.924,-21.989
 473260855,Rorippa_islandica,45.3662,-73.8532
@@ -537,7 +498,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261968293,Rorippa_islandica,46.816667,-71.166667
 1248703602,Rorippa_islandica,45.516667,-73.65
 1055072964,Rorippa_islandica,38.39532,-95.95556
-1988220581,Rorippa_islandica,51.77,-120.9
 1705362375,Rorippa_islandica,56.805334,14.037221
 39749335,Rorippa_islandica,65.843,-17.548
 1829905161,Rorippa_islandica,36.486455,139.11039
@@ -550,7 +510,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055072965,Rorippa_islandica,37.2195,-97.7037
 1701778595,Rorippa_islandica,62.575,11.3842
 39749337,Rorippa_islandica,65.679,-17.529
-1804410674,Rorippa_islandica,53.4,-103.883333
 2242419708,Rorippa_islandica,40.004819,-105.361736
 1055072960,Rorippa_islandica,38.28077,-95.51119
 388860470,Rorippa_islandica,35.763219,139.418737
@@ -580,7 +539,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261986525,Rorippa_islandica,45.2555,-70.885
 415926396,Rorippa_islandica,40.84583,-74.37666
 1261986527,Rorippa_islandica,47.716,-68.595
-1261961264,Rorippa_islandica,46.5,-71.6
 1055072958,Rorippa_islandica,38.42056,-96.18722
 1261967991,Rorippa_islandica,46.868039,-71.083552
 465923832,Rorippa_islandica,46.087359,-73.183896
@@ -597,7 +555,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388860546,Rorippa_islandica,36.778654,139.442867
 1261986454,Rorippa_islandica,46.62299,-70.967
 1705330559,Rorippa_islandica,61.726183,17.104209
-1988100727,Rorippa_islandica,49,-114.49
 39534535,Rorippa_islandica,65.62,-17.041
 388860480,Rorippa_islandica,35.792932,139.074046
 415964758,Rorippa_islandica,41.92916,-72.91388
@@ -640,7 +597,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39533452,Rorippa_islandica,64.145,-21.705
 39533459,Rorippa_islandica,65.987,-18.534
 39534386,Rorippa_islandica,64.024,-21.865
-1804472094,Rorippa_islandica,54.116667,-123
 1701292196,Rorippa_islandica,66.8093,13.9645
 39533462,Rorippa_islandica,65.926,-16.461
 1804572941,Rorippa_islandica,57.233333,-122.716667
