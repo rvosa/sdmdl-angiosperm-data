@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268945629,Lipocarpha_mexicana,13.708083,-86.442528
 1257908314,Lipocarpha_mexicana,13.710472,-86.366306
 1257781591,Lipocarpha_mexicana,-24.677222,47.193889
-768777553,Lipocarpha_mexicana,4.8,-71.33
 1894618476,Lipocarpha_mexicana,19.153556,-88.186083
 1894618506,Lipocarpha_mexicana,19.736306,-88.07275
 1894618459,Lipocarpha_mexicana,19.606639,-87.995417
@@ -11,16 +10,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257794502,Lipocarpha_mexicana,-22.066667,46.383333
 1212482420,Lipocarpha_mexicana,-22.966667,46.133333
 1261870720,Lipocarpha_mexicana,-17.433333,-63.65
-1261863853,Lipocarpha_mexicana,-15.233333,-61.5
 1894534302,Lipocarpha_mexicana,22.975,-104.441667
 1258992684,Lipocarpha_mexicana,15.116667,-85.514444
 1258989216,Lipocarpha_mexicana,14.033056,-87.126389
-1260026597,Lipocarpha_mexicana,-17.883333,-63.1
 1260029234,Lipocarpha_mexicana,-17.56666,-63.25
 1893635420,Lipocarpha_mexicana,17.53,-101.068333
 1893635422,Lipocarpha_mexicana,17.296111,-99.487778
 1260086907,Lipocarpha_mexicana,10.794444,-83.591667
-1258542709,Lipocarpha_mexicana,7.5,-69.5
 1260469418,Lipocarpha_mexicana,6.16666,-67.33333
 1095291222,Lipocarpha_mexicana,-6.066667,-38.15
 1258989275,Lipocarpha_mexicana,14.129722,-87.164444
@@ -39,6 +35,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260468961,Lipocarpha_mexicana,-22.183333,-47.116667
 1675869549,Lipocarpha_mexicana,-22.242,-47.142
 1675980584,Lipocarpha_mexicana,4.275,-72.692
-1258989242,Lipocarpha_mexicana,13.71666,-89.2
 1257958567,Lipocarpha_mexicana,8.366667,-80.25
-1258989240,Lipocarpha_mexicana,13.633333,-88.8
