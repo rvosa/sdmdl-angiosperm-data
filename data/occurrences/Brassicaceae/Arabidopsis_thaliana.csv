@@ -83,7 +83,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838967112,Arabidopsis_thaliana,40.628059,23.195
 1838967430,Arabidopsis_thaliana,40.53278,23.59222
 1930460064,Arabidopsis_thaliana,40.794258,-73.954186
-1848349625,Arabidopsis_thaliana,48.335,16.3
 1838967218,Arabidopsis_thaliana,40.552502,23.31472
 1838967282,Arabidopsis_thaliana,40.410561,23.689171
 2313368108,Arabidopsis_thaliana,48.22,12.97
@@ -131,7 +130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838967070,Arabidopsis_thaliana,40.973061,24.798611
 1838966910,Arabidopsis_thaliana,41.07917,25.28083
 1838967147,Arabidopsis_thaliana,41.246109,24.91111
-2313366806,Arabidopsis_thaliana,48.18,11.4
 1701352124,Arabidopsis_thaliana,48.71778,16.87944
 1702251038,Arabidopsis_thaliana,59.7522,10.2724
 2290535074,Arabidopsis_thaliana,52.160114,4.49701
@@ -147,7 +145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848349176,Arabidopsis_thaliana,48.01417,16.26528
 1848349360,Arabidopsis_thaliana,48.00472,16.27222
 1702390930,Arabidopsis_thaliana,59.7533,10.1479
-1095923707,Arabidopsis_thaliana,56,14
 1224529764,Arabidopsis_thaliana,55.95497,13.55741
 1144054682,Arabidopsis_thaliana,58.7774,5.632
 1144054691,Arabidopsis_thaliana,58.7797,5.6344
@@ -210,7 +207,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989378462,Arabidopsis_thaliana,42.3559,-85.77473
 1838959384,Arabidopsis_thaliana,40.161671,21.361389
 1838959383,Arabidopsis_thaliana,40.261391,21.635281
-1095917981,Arabidopsis_thaliana,59.48,17
 1144053002,Arabidopsis_thaliana,60.3553,6.3603
 1999641562,Arabidopsis_thaliana,61.136781,21.472977
 1838959525,Arabidopsis_thaliana,39.946671,21.24
@@ -269,11 +265,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599798561,Arabidopsis_thaliana,60.43379,22.173856
 1989422447,Arabidopsis_thaliana,43.850331,-85.890857
 900309360,Arabidopsis_thaliana,58.4338,7.854
-1094187172,Arabidopsis_thaliana,33.1,35.82
 1702223895,Arabidopsis_thaliana,58.5454,6.4974
 415996702,Arabidopsis_thaliana,41.80916,-72.25361
 620536767,Arabidopsis_thaliana,45.13766,-64.53284
-1095917414,Arabidopsis_thaliana,59.2,17.92
 1702317697,Arabidopsis_thaliana,59.3244,8.4972
 1702317550,Arabidopsis_thaliana,59.4768,7.9541
 1935652369,Arabidopsis_thaliana,47.08046,15.38769
@@ -398,7 +392,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838959632,Arabidopsis_thaliana,40.878891,23.646391
 1838961951,Arabidopsis_thaliana,41.113331,24.28944
 1838959504,Arabidopsis_thaliana,41.144169,24.13361
-986393308,Arabidopsis_thaliana,50.116667,20.7
 1838959486,Arabidopsis_thaliana,41.173611,23.842501
 1838959510,Arabidopsis_thaliana,41.141392,24.26778
 1838959549,Arabidopsis_thaliana,40.904442,24.35861
@@ -498,7 +491,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702184088,Arabidopsis_thaliana,60.1966,11.2371
 1701771484,Arabidopsis_thaliana,62.9861,10.2372
 1342823104,Arabidopsis_thaliana,56.286731,8.182926
-994576063,Arabidopsis_thaliana,50,20
 1701321232,Arabidopsis_thaliana,62.8883,10.1052
 1702317349,Arabidopsis_thaliana,58.6233,8.2467
 1936211153,Arabidopsis_thaliana,41.7352,-4.7088
@@ -615,7 +607,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 214504881,Arabidopsis_thaliana,52.521946,13.141944
 2313363751,Arabidopsis_thaliana,48.16,11.51
 198469021,Arabidopsis_thaliana,43.130001,-4.89
-1701808391,Arabidopsis_thaliana,49.6333,21.6
 1702268201,Arabidopsis_thaliana,59.0895,10.8927
 1342823752,Arabidopsis_thaliana,56.413868,8.423321
 1697522191,Arabidopsis_thaliana,56.191667,40.722222
@@ -645,7 +636,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935652354,Arabidopsis_thaliana,45.14222,14.19194
 1851354976,Arabidopsis_thaliana,42.245,-5.3121
 415946465,Arabidopsis_thaliana,41.85313,-72.3639
-2313284416,Arabidopsis_thaliana,48.16,11.5
 415945977,Arabidopsis_thaliana,41.76813,-72.57332
 1697522208,Arabidopsis_thaliana,56.391667,41.355556
 1230500913,Arabidopsis_thaliana,48.71806,21.26056
@@ -666,7 +656,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323853432,Arabidopsis_thaliana,67.7394,15.1986
 1930151485,Arabidopsis_thaliana,40.8581,-73.8808
 1702228784,Arabidopsis_thaliana,59.1487,11.6447
-318102742,Arabidopsis_thaliana,37.2,-7.03
 1702229129,Arabidopsis_thaliana,59.0518,11.1082
 186792016,Arabidopsis_thaliana,58.3432,8.2767
 1503339840,Arabidopsis_thaliana,52.470833,13.223611
@@ -696,7 +685,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 198468867,Arabidopsis_thaliana,43.220001,-4.58
 1342837958,Arabidopsis_thaliana,55.436687,12.066662
 198468866,Arabidopsis_thaliana,43.119999,-4.62
-994553111,Arabidopsis_thaliana,50,19.8
 441964569,Arabidopsis_thaliana,51.165596,14.997319
 895231860,Arabidopsis_thaliana,39.794,-1.137
 1702216589,Arabidopsis_thaliana,59.516,10.6832
@@ -708,9 +696,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701769861,Arabidopsis_thaliana,63.4946,10.0715
 1946425202,Arabidopsis_thaliana,46.95139,15.86194
 186791942,Arabidopsis_thaliana,58.4243,7.8263
-1059619198,Arabidopsis_thaliana,52,-9.5
 1657168202,Arabidopsis_thaliana,47.07167,14.36444
-1697522162,Arabidopsis_thaliana,54.9,35.016667
 1702207308,Arabidopsis_thaliana,59.5822,11.1506
 1931331848,Arabidopsis_thaliana,41.797633,46.313633
 1936693311,Arabidopsis_thaliana,42.0861,43.4667
@@ -840,7 +826,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212022718,Arabidopsis_thaliana,40.0525,23.984167
 1212022775,Arabidopsis_thaliana,40.936111,22.000278
 1838959772,Arabidopsis_thaliana,40.334721,23.708059
-1838959852,Arabidopsis_thaliana,40.5,23.659439
 1838959882,Arabidopsis_thaliana,40.232498,23.72806
 1212022689,Arabidopsis_thaliana,40.736389,23.579444
 1212022783,Arabidopsis_thaliana,40.5125,21.537778
@@ -872,7 +857,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838959813,Arabidopsis_thaliana,40.486389,22.184441
 1838959783,Arabidopsis_thaliana,40.587502,23.485279
 1838959874,Arabidopsis_thaliana,40.69083,22.115829
-1212022654,Arabidopsis_thaliana,40.5,23.659444
 1212022693,Arabidopsis_thaliana,40.074444,23.790556
 1212022699,Arabidopsis_thaliana,40.055278,23.986944
 1212022713,Arabidopsis_thaliana,40.030278,23.811111
@@ -969,12 +953,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697522337,Arabidopsis_thaliana,53.269136,35.165717
 1851354652,Arabidopsis_thaliana,42.81283,-5.51904
 29581224,Arabidopsis_thaliana,40.187,-2.1383
-1851332771,Arabidopsis_thaliana,42.4,-6.795
 1701228634,Arabidopsis_thaliana,63.49,10.8746
 1705300122,Arabidopsis_thaliana,57.284026,16.458529
 186791867,Arabidopsis_thaliana,58.7521,7.8472
 1851320602,Arabidopsis_thaliana,42.299,-6.713
-994541231,Arabidopsis_thaliana,50,19.7
 1851322455,Arabidopsis_thaliana,42.255,-6.327
 1702025250,Arabidopsis_thaliana,62.2961,7.1442
 1702206153,Arabidopsis_thaliana,60.7861,10.9552
@@ -1094,15 +1076,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702191688,Arabidopsis_thaliana,60.8302,10.888
 1701841529,Arabidopsis_thaliana,59.9067,10.0638
 1701848535,Arabidopsis_thaliana,59.9276,9.6968
-1050627501,Arabidopsis_thaliana,41.7,-1.76
 1795863010,Arabidopsis_thaliana,42.640031,-2.279092
 59974147,Arabidopsis_thaliana,41.857877,-8.066331
 1936612436,Arabidopsis_thaliana,38.8145,-4.13
 895227460,Arabidopsis_thaliana,41.209,-1.193
 1831054556,Arabidopsis_thaliana,53.1485,11.2487
-1697522267,Arabidopsis_thaliana,53.4,35.433333
 1050622514,Arabidopsis_thaliana,41.71,-1.75
-1050622462,Arabidopsis_thaliana,41.72,-1.7
 1702199467,Arabidopsis_thaliana,60.842,10.9052
 1795863671,Arabidopsis_thaliana,42.640285,-2.279296
 176877669,Arabidopsis_thaliana,42.963,-86.217
@@ -1120,7 +1099,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702191834,Arabidopsis_thaliana,63.8818,11.2836
 1701793154,Arabidopsis_thaliana,58.5491,6.9045
 1946778001,Arabidopsis_thaliana,50.18,9.99
-788793101,Arabidopsis_thaliana,38.116667,21.4
 1936630048,Arabidopsis_thaliana,38.6018,-4.5975
 1936630348,Arabidopsis_thaliana,38.5567,-4.5965
 788793042,Arabidopsis_thaliana,37.416667,22.116667
@@ -1189,7 +1167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211642823,Arabidopsis_thaliana,37.623,-1.17
 1881012715,Arabidopsis_thaliana,48.81,10.76
 1702338883,Arabidopsis_thaliana,58.8097,5.6678
-30951051,Arabidopsis_thaliana,40.44,-5.3
 1701965001,Arabidopsis_thaliana,63.1594,8.4849
 415962706,Arabidopsis_thaliana,41.96166,-73.30833
 1697522363,Arabidopsis_thaliana,56.519497,44.844317
@@ -1215,7 +1192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851410633,Arabidopsis_thaliana,42.801,-4.951
 1701353046,Arabidopsis_thaliana,45.16778,28.27972
 1936580754,Arabidopsis_thaliana,40.4331,-4.9171
-1050656886,Arabidopsis_thaliana,42.88,-3.3
 1851345169,Arabidopsis_thaliana,43.043,-5.007
 1851324878,Arabidopsis_thaliana,42.825,-5.123
 29583654,Arabidopsis_thaliana,39.86,-0.37
@@ -1240,7 +1216,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701224946,Arabidopsis_thaliana,63.4346,10.8338
 1701786618,Arabidopsis_thaliana,59.7541,8.7856
 615267079,Arabidopsis_thaliana,36.07,72.63
-615267399,Arabidopsis_thaliana,36.08,72.6
 186791631,Arabidopsis_thaliana,59.3455,7.3023
 1881014252,Arabidopsis_thaliana,48.77,10.72
 187090376,Arabidopsis_thaliana,61.5506,9.969
@@ -1253,7 +1228,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701983299,Arabidopsis_thaliana,59.444,11.2228
 296416486,Arabidopsis_thaliana,47.212,11.409
 1936443016,Arabidopsis_thaliana,39.9932,-1.7128
-30950828,Arabidopsis_thaliana,39.84,-1.2
 1342839754,Arabidopsis_thaliana,55.771578,12.583718
 1701785011,Arabidopsis_thaliana,59.9373,10.4763
 675233512,Arabidopsis_thaliana,41.97611,-72.55833
@@ -1284,11 +1258,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2312418858,Arabidopsis_thaliana,47.79,12.94
 1936548406,Arabidopsis_thaliana,39.0977,-4.574
 29582315,Arabidopsis_thaliana,39.85,-0.25
-1842846757,Arabidopsis_thaliana,34.03,-5.5
 675233870,Arabidopsis_thaliana,41.96527,-71.96805
 1988962110,Arabidopsis_thaliana,42.33426,-85.30981
 29582320,Arabidopsis_thaliana,40.39,-0.11
-1851327537,Arabidopsis_thaliana,42.65,-5.5
 1831515877,Arabidopsis_thaliana,42.32833,9.19889
 1851378129,Arabidopsis_thaliana,42.791,-4.962
 1702434848,Arabidopsis_thaliana,59.7235,10.3068
@@ -1330,7 +1302,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702405268,Arabidopsis_thaliana,59.7415,10.3075
 1050656875,Arabidopsis_thaliana,43.06,-3.51
 1702405331,Arabidopsis_thaliana,59.8687,10.1518
-29582336,Arabidopsis_thaliana,40.3,-0.12
 1936568921,Arabidopsis_thaliana,37.0429,-2.4165
 1702405313,Arabidopsis_thaliana,59.7867,10.2737
 860310800,Arabidopsis_thaliana,42.41,2.82
@@ -1373,13 +1344,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988823252,Arabidopsis_thaliana,44.64028,-84.79469
 415962708,Arabidopsis_thaliana,41.57694,-73.40833
 1668933965,Arabidopsis_thaliana,54.845,37.745
-1500200166,Arabidopsis_thaliana,49.083333,14.5
 1599798531,Arabidopsis_thaliana,60.878636,24.593802
 860310738,Arabidopsis_thaliana,38.1022,-0.6388
 858315405,Arabidopsis_thaliana,53.9485,13.415
 415928438,Arabidopsis_thaliana,41.66666,-73.50833
 415962701,Arabidopsis_thaliana,41.72472,-73.47694
-1702362978,Arabidopsis_thaliana,60.85,24.6
 1262021576,Arabidopsis_thaliana,46.863333,-71.2725
 30847197,Arabidopsis_thaliana,37.049999,-3.11
 1936408289,Arabidopsis_thaliana,37.0985,-2.9787
@@ -1489,7 +1458,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697522184,Arabidopsis_thaliana,53.989552,35.953855
 1697522178,Arabidopsis_thaliana,53.959659,37.159063
 1697730676,Arabidopsis_thaliana,44.820921,34.774886
-29581910,Arabidopsis_thaliana,40.23,-1.3
 900226008,Arabidopsis_thaliana,58.8083,5.667
 111302276,Arabidopsis_thaliana,42.876999,-1.329
 1697522143,Arabidopsis_thaliana,54.191269,35.979195
@@ -1507,7 +1475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936577505,Arabidopsis_thaliana,38.4702,-6.9367
 30847196,Arabidopsis_thaliana,37.84,-4.82
 1936139441,Arabidopsis_thaliana,39.807,-0.3145
-1050586105,Arabidopsis_thaliana,41.15,-4.3
 1936393233,Arabidopsis_thaliana,40.2949,-0.3777
 1851341575,Arabidopsis_thaliana,42.85,-4.65
 1851349096,Arabidopsis_thaliana,42.84,-4.77
@@ -1523,7 +1490,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988963714,Arabidopsis_thaliana,41.978133,-84.69963
 900225893,Arabidopsis_thaliana,59.0153,6.0478
 111302277,Arabidopsis_thaliana,42.841999,-1.366
-111302279,Arabidopsis_thaliana,43.091,-1.9
 1936404103,Arabidopsis_thaliana,41.4831,-4.7022
 1705321275,Arabidopsis_thaliana,57.478861,14.649984
 1697522228,Arabidopsis_thaliana,54.709372,40.855064
@@ -1532,10 +1498,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 694445893,Arabidopsis_thaliana,55.61397,12.34637
 1599798512,Arabidopsis_thaliana,61.006491,26.01433
 1701764800,Arabidopsis_thaliana,63.9626,10.1127
-1144575997,Arabidopsis_thaliana,42,9.11667
 1599798538,Arabidopsis_thaliana,63.092032,23.184076
-29581864,Arabidopsis_thaliana,39.05,-0.4
-142313554,Arabidopsis_thaliana,38.61,-4.9
 1936547493,Arabidopsis_thaliana,43.1593,-4.625
 1936145020,Arabidopsis_thaliana,43.4189,-3.9648
 1928760333,Arabidopsis_thaliana,40.860444,-73.876483
@@ -1546,7 +1509,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936604167,Arabidopsis_thaliana,42.7174,-3.8562
 1851355748,Arabidopsis_thaliana,42.64,-6.26
 296416456,Arabidopsis_thaliana,46.781,12.591
-1144576002,Arabidopsis_thaliana,42.53333,9.3
 694443479,Arabidopsis_thaliana,48.29319,4.0565
 111302282,Arabidopsis_thaliana,42.958,-1.302
 2310790475,Arabidopsis_thaliana,53.32,-3.84
@@ -1602,7 +1564,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30847639,Arabidopsis_thaliana,38.02,-5.16
 1936155588,Arabidopsis_thaliana,40.7352,-3.9487
 1705353779,Arabidopsis_thaliana,57.576827,15.0096
-1842891825,Arabidopsis_thaliana,42.3,1
 1050656883,Arabidopsis_thaliana,40.51,-3.77
 318217487,Arabidopsis_thaliana,59.0867,5.7101
 1989542239,Arabidopsis_thaliana,44.753244,-86.066174
@@ -1610,7 +1571,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29581760,Arabidopsis_thaliana,39.86,-0.72
 1455447929,Arabidopsis_thaliana,50.001442,4.375873
 318217486,Arabidopsis_thaliana,58.7792,5.6354
-29583593,Arabidopsis_thaliana,39.95,-0.6
 1050632200,Arabidopsis_thaliana,42.84,-3.78
 29583594,Arabidopsis_thaliana,39.96,-0.83
 1936547477,Arabidopsis_thaliana,43.0277,-4.3637
@@ -1627,7 +1587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050586124,Arabidopsis_thaliana,42.74,-3.04
 1050586214,Arabidopsis_thaliana,42.68,-2.27
 1050656910,Arabidopsis_thaliana,42.65,-6.62
-1050586360,Arabidopsis_thaliana,42.6,-2.61
 1705748222,Arabidopsis_thaliana,53.1383,23.1432
 30847521,Arabidopsis_thaliana,38.110001,-5.17
 2320700954,Arabidopsis_thaliana,60.905955,7.201533
@@ -1635,8 +1594,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936376198,Arabidopsis_thaliana,42.7386,-3.0502
 1050586177,Arabidopsis_thaliana,42.47,-2.59
 30846671,Arabidopsis_thaliana,38.290001,-5.29
-1050586150,Arabidopsis_thaliana,42.49,-2.5
-1851376737,Arabidopsis_thaliana,43,-6.24
 1050586190,Arabidopsis_thaliana,42.45,-2.64
 111302515,Arabidopsis_thaliana,43.074001,-2.023
 30847524,Arabidopsis_thaliana,37.93,-5.05
@@ -1673,7 +1630,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111302513,Arabidopsis_thaliana,43.137001,-1.949
 1050586303,Arabidopsis_thaliana,42.62,-2.75
 1936088804,Arabidopsis_thaliana,42.7386,-3.038
-876156146,Arabidopsis_thaliana,41.41,2.1
 1038953381,Arabidopsis_thaliana,41.8425,-72.7408
 1262009145,Arabidopsis_thaliana,46.777038,-71.282008
 29581232,Arabidopsis_thaliana,40.87,-5.581
@@ -1708,7 +1664,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050586335,Arabidopsis_thaliana,42.92,-2.29
 1988813115,Arabidopsis_thaliana,44.732936,-85.616554
 1144575998,Arabidopsis_thaliana,42.23333,9.03333
-1050586329,Arabidopsis_thaliana,43.06,-3.3
 1851382826,Arabidopsis_thaliana,42.92,-6.49
 318217492,Arabidopsis_thaliana,59.0657,5.9564
 111302656,Arabidopsis_thaliana,42.68,-2.33
@@ -1734,7 +1689,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 694459304,Arabidopsis_thaliana,42.84476,-5.86242
 1842891795,Arabidopsis_thaliana,42.415,0.673
 1262008436,Arabidopsis_thaliana,46.777071,-71.28223
-1305258639,Arabidopsis_thaliana,41.95,-86.3
 1262033753,Arabidopsis_thaliana,46.777075,-71.282192
 732467926,Arabidopsis_thaliana,42.55,-80.116667
 668752855,Arabidopsis_thaliana,46.776667,-71.281111
@@ -1797,7 +1751,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 694446495,Arabidopsis_thaliana,39.414,-7.454
 694440454,Arabidopsis_thaliana,39.41611,-7.45667
 1936093768,Arabidopsis_thaliana,42.4395,-7.4208
-1978633888,Arabidopsis_thaliana,52.15,4.5
 1936093624,Arabidopsis_thaliana,42.4502,-6.9585
 1851405306,Arabidopsis_thaliana,42.38,-5.37
 694440615,Arabidopsis_thaliana,45.91808,2.28224
@@ -1820,13 +1773,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804572289,Arabidopsis_thaliana,42.916667,-78.933333
 1656071257,Arabidopsis_thaliana,59.36641,10.69547
 1323851905,Arabidopsis_thaliana,59.3779,10.7257
-30847867,Arabidopsis_thaliana,37.77,-3
-1890156362,Arabidopsis_thaliana,34.333333,73.2
 667366241,Arabidopsis_thaliana,39.60521,-8.40425
 1676483849,Arabidopsis_thaliana,40.240022,9.22596
 186791213,Arabidopsis_thaliana,58.4861,7.9024
 1599798558,Arabidopsis_thaliana,60.702703,27.06098
-1050586255,Arabidopsis_thaliana,42.56,-0.5
 1883360256,Arabidopsis_thaliana,57.70472,14.117039
 1050586273,Arabidopsis_thaliana,42.61,-2.62
 1701907488,Arabidopsis_thaliana,59.5536,10.3711
@@ -1860,13 +1810,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788786366,Arabidopsis_thaliana,38.833333,22.266667
 788786425,Arabidopsis_thaliana,38.55,22.283333
 1989604126,Arabidopsis_thaliana,56.51036,13.40081
-788786545,Arabidopsis_thaliana,38.7,21.566667
 1851398625,Arabidopsis_thaliana,43.11,-5.15
 788786246,Arabidopsis_thaliana,38.783333,21.933333
 1701957855,Arabidopsis_thaliana,63.9804,10.1339
 788786604,Arabidopsis_thaliana,38.95,21.816667
-788797821,Arabidopsis_thaliana,38.5,22.316667
-788786305,Arabidopsis_thaliana,38.833333,21.7
 1705349342,Arabidopsis_thaliana,64.842618,14.152626
 1323851782,Arabidopsis_thaliana,68.4585,17.1357
 1701890971,Arabidopsis_thaliana,61.8924,6.612
@@ -1891,10 +1838,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697522225,Arabidopsis_thaliana,55.411972,38.747034
 1702366456,Arabidopsis_thaliana,60.2342,9.0451
 1599798515,Arabidopsis_thaliana,59.904482,23.25196
-211618893,Arabidopsis_thaliana,43.560001,-7.7
 1701646307,Arabidopsis_thaliana,59.7549,10.8065
 1144064592,Arabidopsis_thaliana,61.8362,6.1034
-788798175,Arabidopsis_thaliana,39.6,21.183333
 1697522283,Arabidopsis_thaliana,55.444821,38.294365
 1702104537,Arabidopsis_thaliana,61.6636,8.0199
 30951148,Arabidopsis_thaliana,41.04,-6.92
@@ -1922,7 +1867,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788797940,Arabidopsis_thaliana,39.416667,21.166667
 1697522189,Arabidopsis_thaliana,54.839284,41.777528
 1697522238,Arabidopsis_thaliana,54.833742,37.589664
-788797999,Arabidopsis_thaliana,39.4,21.2
 788798116,Arabidopsis_thaliana,39.616667,21.15
 788786187,Arabidopsis_thaliana,38.683333,22.15
 2288396671,Arabidopsis_thaliana,13.258333,38.133333
@@ -1936,7 +1880,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697522177,Arabidopsis_thaliana,55.871713,40.10304
 1599801687,Arabidopsis_thaliana,61.415902,24.28097
 1599801719,Arabidopsis_thaliana,61.326265,24.288746
-993224590,Arabidopsis_thaliana,50.9333,5.8
 1999518600,Arabidopsis_thaliana,60.432358,23.173091
 1702366420,Arabidopsis_thaliana,59.111,9.4453
 1701907408,Arabidopsis_thaliana,59.5259,10.4407
@@ -1946,9 +1889,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697522128,Arabidopsis_thaliana,55.678187,40.491435
 1599801759,Arabidopsis_thaliana,61.172294,27.647365
 1701279217,Arabidopsis_thaliana,61.1657,8.5075
-615267378,Arabidopsis_thaliana,34.9,70.77
 1144064462,Arabidopsis_thaliana,60.415,5.3041
-788785494,Arabidopsis_thaliana,38.533333,22.6
 1599801716,Arabidopsis_thaliana,61.120234,23.192346
 1599801656,Arabidopsis_thaliana,61.441996,22.026732
 1144576013,Arabidopsis_thaliana,41.48333,9.03333
@@ -2004,7 +1945,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099898121,Arabidopsis_thaliana,64.226944,27.728611
 2288902824,Arabidopsis_thaliana,12.666667,39.533333
 1260044267,Arabidopsis_thaliana,12.66666,39.53333
-2290092699,Arabidopsis_thaliana,39.033333,-76.9
 1936101092,Arabidopsis_thaliana,41.5833,2.3333
 1701779249,Arabidopsis_thaliana,63.3439,10.2287
 788798353,Arabidopsis_thaliana,36.95,22.35
@@ -2065,7 +2005,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599798448,Arabidopsis_thaliana,61.161176,28.753338
 1701976651,Arabidopsis_thaliana,58.4528,6.2753
 1599798454,Arabidopsis_thaliana,61.335206,28.37259
-2291569845,Arabidopsis_thaliana,51.916667,4.1
 1702199825,Arabidopsis_thaliana,59.2715,10.7272
 1144575976,Arabidopsis_thaliana,42.53333,9.23333
 1701344699,Arabidopsis_thaliana,62.5849,11.3266
@@ -2095,9 +2034,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144064566,Arabidopsis_thaliana,60.86693,7.23398
 1701337264,Arabidopsis_thaliana,62.8457,11.3079
 1144575980,Arabidopsis_thaliana,42.18333,9.05
-1144575987,Arabidopsis_thaliana,42.1,9.13333
 1144064612,Arabidopsis_thaliana,62.57994,5.90741
-1144575993,Arabidopsis_thaliana,42.11667,9.1
 1144576000,Arabidopsis_thaliana,42.15,9.18333
 1144575975,Arabidopsis_thaliana,42.11667,9.16667
 1599801641,Arabidopsis_thaliana,60.135122,23.306898
@@ -2107,7 +2044,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099898106,Arabidopsis_thaliana,55.867433,12.925384
 1698019306,Arabidopsis_thaliana,63.4808,10.857
 1701250842,Arabidopsis_thaliana,60.4384,11.2441
-1144575988,Arabidopsis_thaliana,42.35,9
 2269045918,Arabidopsis_thaliana,44.13416,11.29431
 1599798467,Arabidopsis_thaliana,60.544121,27.634781
 1701774470,Arabidopsis_thaliana,60.3215,11.2542
@@ -2117,8 +2053,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144064428,Arabidopsis_thaliana,58.97009,5.71814
 1599801704,Arabidopsis_thaliana,62.397909,29.994896
 667366230,Arabidopsis_thaliana,7.48775,39.25415
-2292029344,Arabidopsis_thaliana,7.833333,39.4
-2289210942,Arabidopsis_thaliana,7.9,39.25
 694440465,Arabidopsis_thaliana,44.33018,23.79488
 318217484,Arabidopsis_thaliana,59.0795,5.7806
 2242395894,Arabidopsis_thaliana,40.488187,-74.449072
@@ -2127,7 +2061,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099881142,Arabidopsis_thaliana,60.485833,22.168889
 1099896851,Arabidopsis_thaliana,60.456944,22.686944
 1999576450,Arabidopsis_thaliana,60.48958,22.69276
-788784414,Arabidopsis_thaliana,36.9,22.383333
 1273861111,Arabidopsis_thaliana,56.2751,15.39344
 1705387568,Arabidopsis_thaliana,58.339663,16.724583
 1144064629,Arabidopsis_thaliana,61.03699,6.57199
@@ -2209,7 +2142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144064609,Arabidopsis_thaliana,62.24268,7.4387
 1599801702,Arabidopsis_thaliana,62.878659,26.898528
 1935652615,Arabidopsis_thaliana,47.925,16.08333
-615267374,Arabidopsis_thaliana,32.3,77.52
 2291569831,Arabidopsis_thaliana,50.774837,5.913734
 694440466,Arabidopsis_thaliana,35.78216,-79.13008
 1851570941,Arabidopsis_thaliana,37.18,-3.51
@@ -2265,7 +2197,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701327697,Arabidopsis_thaliana,59.3143,10.7391
 1056722874,Arabidopsis_thaliana,55.156399,-2.006
 1701254313,Arabidopsis_thaliana,63.7623,11.2608
-616357497,Arabidopsis_thaliana,52.15,4.4
 187089920,Arabidopsis_thaliana,63.4031,11.7733
 1599798457,Arabidopsis_thaliana,60.504103,26.441849
 1599798493,Arabidopsis_thaliana,62.063778,28.431307
@@ -2303,7 +2234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705424991,Arabidopsis_thaliana,57.122656,16.264724
 1999518514,Arabidopsis_thaliana,60.374381,22.472002
 1599798703,Arabidopsis_thaliana,60.776349,23.784384
-1701968016,Arabidopsis_thaliana,63.5,10.7577
 1702366209,Arabidopsis_thaliana,59.4761,10.3502
 1599798704,Arabidopsis_thaliana,60.780618,23.967652
 1599801715,Arabidopsis_thaliana,60.503056,23.629384
@@ -2381,7 +2311,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701722979,Arabidopsis_thaliana,62.4757,6.1872
 1999518481,Arabidopsis_thaliana,60.241891,23.782639
 1701697366,Arabidopsis_thaliana,59.8352,10.4897
-1228502002,Arabidopsis_thaliana,41.7,-86.6667
 1144064468,Arabidopsis_thaliana,60.3801,5.255
 1599798690,Arabidopsis_thaliana,60.946198,23.397889
 187089915,Arabidopsis_thaliana,63.5593,10.238
@@ -2401,8 +2330,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701780745,Arabidopsis_thaliana,58.7512,9.0605
 1599801717,Arabidopsis_thaliana,61.125326,23.377489
 1989240866,Arabidopsis_thaliana,41.9856,-85.8196
-1701884468,Arabidopsis_thaliana,59.3,10.6664
-732467920,Arabidopsis_thaliana,42.783333,-81.2
 1622365815,Arabidopsis_thaliana,63.160783,22.330438
 1701971301,Arabidopsis_thaliana,58.841,9.0953
 1599798706,Arabidopsis_thaliana,60.951002,23.582062
@@ -2422,7 +2349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891606928,Arabidopsis_thaliana,49.72,6.48
 1891589465,Arabidopsis_thaliana,49.78,5.93
 1057200851,Arabidopsis_thaliana,51.219399,-0.4648
-1891606682,Arabidopsis_thaliana,49.7,6.4
 1099892569,Arabidopsis_thaliana,56.02416,14.04017
 1705267182,Arabidopsis_thaliana,57.256392,16.418274
 187090330,Arabidopsis_thaliana,63.6035,10.9657
@@ -2680,14 +2606,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788629433,Arabidopsis_thaliana,56.43836,12.58244
 1144575990,Arabidopsis_thaliana,41.86667,9.38333
 1099886093,Arabidopsis_thaliana,58.45779,12.22211
-1144576012,Arabidopsis_thaliana,41.86667,9.4
 788644379,Arabidopsis_thaliana,57.50357,11.96626
 2313362585,Arabidopsis_thaliana,48.17,11.54
 1702366498,Arabidopsis_thaliana,61.8159,6.1337
 1702366241,Arabidopsis_thaliana,59.9494,11.023
 1702366266,Arabidopsis_thaliana,59.4858,10.4981
 1701890962,Arabidopsis_thaliana,61.07,6.9338
-1893208803,Arabidopsis_thaliana,49.06,5.9
 1144064602,Arabidopsis_thaliana,62.91966,8.80075
 1702366089,Arabidopsis_thaliana,59.8713,10.4734
 1701907607,Arabidopsis_thaliana,59.8228,5.5206
@@ -2750,7 +2674,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144575985,Arabidopsis_thaliana,42.26667,8.85
 57678325,Arabidopsis_thaliana,61.87986,25.190674
 1144576001,Arabidopsis_thaliana,42.21667,8.85
-1144575992,Arabidopsis_thaliana,42.25,8.8
 667366268,Arabidopsis_thaliana,33.94535,35.79174
 694440596,Arabidopsis_thaliana,36.429,2.88
 694467755,Arabidopsis_thaliana,43.39395,6.31837
@@ -2788,7 +2711,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 667366247,Arabidopsis_thaliana,32.48017,77.12443
 1055548463,Arabidopsis_thaliana,50.674301,-1.5244
 1842870041,Arabidopsis_thaliana,35.01,-4.15
-1842906910,Arabidopsis_thaliana,35.2,-2.95
 667366164,Arabidopsis_thaliana,35.1511,35.94941
 1842861375,Arabidopsis_thaliana,35.01,-4.26
 1702366199,Arabidopsis_thaliana,59.7903,10.4877
@@ -2943,7 +2865,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144064514,Arabidopsis_thaliana,59.81037,6.31595
 1056170391,Arabidopsis_thaliana,51.196301,0.0655
 788488050,Arabidopsis_thaliana,58.03458,14.94375
-1144576048,Arabidopsis_thaliana,42.3,9.15
 1099892075,Arabidopsis_thaliana,56.000381,13.08862
 1099896946,Arabidopsis_thaliana,57.77184,14.17784
 1705371495,Arabidopsis_thaliana,57.99134,14.959839
@@ -3063,7 +2984,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702327257,Arabidopsis_thaliana,65.1365,12.3393
 20465325,Arabidopsis_thaliana,65.1397,12.4712
 1701680503,Arabidopsis_thaliana,65.4069,12.5328
-1701890933,Arabidopsis_thaliana,65.1184,12
 667366186,Arabidopsis_thaliana,43.26096,6.59849
 667366153,Arabidopsis_thaliana,43.26544,6.63823
 694459126,Arabidopsis_thaliana,48.00694,0.23397
@@ -3076,11 +2996,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242703803,Arabidopsis_thaliana,63.580888,29.111235
 1099895396,Arabidopsis_thaliana,58.389094,13.846898
 1056309795,Arabidopsis_thaliana,51.577999,-4.3002
-1144559426,Arabidopsis_thaliana,42,9.21667
 1701890982,Arabidopsis_thaliana,66.4191,13.9807
 1599798523,Arabidopsis_thaliana,65.0231,25.405223
 667366271,Arabidopsis_thaliana,37.08708,-76.47302
-788800547,Arabidopsis_thaliana,40.6,23.1
 1057258310,Arabidopsis_thaliana,51.4879,-3.2686
 1099884874,Arabidopsis_thaliana,58.2759,12.26962
 1055975320,Arabidopsis_thaliana,51.184299,-0.7496
@@ -3148,7 +3066,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 694440591,Arabidopsis_thaliana,36.47987,2.80057
 1702310735,Arabidopsis_thaliana,59.1425,11.456
 1701237886,Arabidopsis_thaliana,63.4498,10.4237
-1702366284,Arabidopsis_thaliana,59.5485,10.3
 1702366198,Arabidopsis_thaliana,59.5499,10.2913
 1702366175,Arabidopsis_thaliana,59.9094,10.2695
 1702366291,Arabidopsis_thaliana,59.5477,10.3796
