@@ -47,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388819374,Dioscorea_polystachya,35.582414,139.56554
 388819373,Dioscorea_polystachya,35.599078,139.603035
 388819325,Dioscorea_polystachya,35.582414,139.653031
-1849149179,Dioscorea_polystachya,34.433333,-82.6
 1258627439,Dioscorea_polystachya,27.80138,98.56861
 388819326,Dioscorea_polystachya,35.532422,139.703028
 388819346,Dioscorea_polystachya,35.549086,139.703028
@@ -80,9 +79,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 245533730,Dioscorea_polystachya,35.315781,139.540546
 245533728,Dioscorea_polystachya,35.140791,139.090594
 56563951,Dioscorea_polystachya,33.01889,-87.07861
-56562932,Dioscorea_polystachya,33.3,-87.5
 891607031,Dioscorea_polystachya,24.313611,121.729167
-122229238,Dioscorea_polystachya,34.77,-86
 245533915,Dioscorea_polystachya,35.52409,139.69053
 245533916,Dioscorea_polystachya,35.499092,139.578041
 245533805,Dioscorea_polystachya,35.424097,139.365558
@@ -101,7 +98,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1834909744,Dioscorea_polystachya,35.320833,139.34375
 176931427,Dioscorea_polystachya,37.033269,-94.726406
 1260947790,Dioscorea_polystachya,36.575833,-93.805278
-1830204618,Dioscorea_polystachya,35.533333,138.8
 1834909918,Dioscorea_polystachya,35.3125,139.45625
 1834910026,Dioscorea_polystachya,35.404167,139.41875
 245533781,Dioscorea_polystachya,35.549086,139.590539
