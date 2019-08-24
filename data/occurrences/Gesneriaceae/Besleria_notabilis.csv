@@ -90,7 +90,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253640663,Besleria_notabilis,10.058333,-84.016667
 1261828384,Besleria_notabilis,10.06,-84
 44360199,Besleria_notabilis,8.79,-82.96
-1318753947,Besleria_notabilis,10.0583,-83.0167
 1318822050,Besleria_notabilis,8.67,-80.58
 1318987804,Besleria_notabilis,9.37,-78.58
 1261202740,Besleria_notabilis,9.36666,-78.58333
@@ -100,8 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 44361754,Besleria_notabilis,10.79,-85.3
 44359914,Besleria_notabilis,10.21,-84.61
 1253591934,Besleria_notabilis,10.333333,-84.7
-1253647878,Besleria_notabilis,8.466667,-83.583335
-1258600251,Besleria_notabilis,8.46,-83.58
 1253609340,Besleria_notabilis,11.033333,-85.408334
 1259457539,Besleria_notabilis,10.46,-84.7
 1261199294,Besleria_notabilis,11.03,-85.4
@@ -211,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259445965,Besleria_notabilis,8.625,-80.108333
 1259445902,Besleria_notabilis,8.620833,-80.115556
 1259445914,Besleria_notabilis,9.69,-83.78
-1258688802,Besleria_notabilis,9.316667,-82.15
 1259446407,Besleria_notabilis,9.245,-82.38333
 1318980482,Besleria_notabilis,9.82,-83.7
 1259446671,Besleria_notabilis,10.05,-83.98
