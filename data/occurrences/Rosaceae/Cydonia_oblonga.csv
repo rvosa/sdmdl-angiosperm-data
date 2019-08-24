@@ -59,12 +59,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30859433,Cydonia_oblonga,37.310001,-4.47
 1258809956,Cydonia_oblonga,38.35,-90.242778
 2289037680,Cydonia_oblonga,52.011,5.913833
-1930698640,Cydonia_oblonga,41.684,44.801
 992014751,Cydonia_oblonga,-33.6229,138.7136
 1652141125,Cydonia_oblonga,-28.719515,151.185838
 992026539,Cydonia_oblonga,-35.519444,138.394167
 1084192356,Cydonia_oblonga,-35.51951,138.3941
-1936569218,Cydonia_oblonga,40.45,27.833333
 1259075149,Cydonia_oblonga,-16.98333,-67.8
 441983396,Cydonia_oblonga,52.123055,11.636666
 1831517631,Cydonia_oblonga,43.41361,28.15028
@@ -86,7 +84,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936244392,Cydonia_oblonga,40.7745,-2.6339
 30859380,Cydonia_oblonga,37.66,-4.93
 1936512526,Cydonia_oblonga,38.7186,0.0084
-1701077333,Cydonia_oblonga,42.366977,10.903171
 1897692404,Cydonia_oblonga,-36.85,174.766667
 1929301914,Cydonia_oblonga,39.78,-121.58
 30958106,Cydonia_oblonga,38.48,-0.51
@@ -97,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895239267,Cydonia_oblonga,40.39,0.23
 1936575412,Cydonia_oblonga,38.1479,-4.0968
 30955936,Cydonia_oblonga,38.61,-0.64
-1502059966,Cydonia_oblonga,38.83,0.12
 895242291,Cydonia_oblonga,39.76,-0.26
 624040454,Cydonia_oblonga,35.461603,140.096744
 1091222030,Cydonia_oblonga,-35.066666,173.233333
@@ -142,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199471614,Cydonia_oblonga,36.527,-5.586
 30859382,Cydonia_oblonga,38.110001,-4.94
 1423116258,Cydonia_oblonga,19.42944,-97.77222
-237338219,Cydonia_oblonga,41.42,2.46
 1423116522,Cydonia_oblonga,18.791667,-98.775
 993532870,Cydonia_oblonga,-35.3167,149.0333
 1091301709,Cydonia_oblonga,-36.269,174.413
@@ -177,7 +172,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 786128968,Cydonia_oblonga,48.5,9.1
 235659650,Cydonia_oblonga,37.35,-4.41
 1697731696,Cydonia_oblonga,44.844239,34.955441
-1851926227,Cydonia_oblonga,38.596573,-28.61681
 1936069754,Cydonia_oblonga,39.9949,-0.2603
 1050577030,Cydonia_oblonga,42.59,-2.45
 1843517200,Cydonia_oblonga,44.8395,34.958711
@@ -191,15 +185,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992444546,Cydonia_oblonga,-33.295663,138.383861
 1084447959,Cydonia_oblonga,-34.93057,138.67186
 1257296817,Cydonia_oblonga,-35.06523,138.568027
-30859343,Cydonia_oblonga,40.380001,-3.71
 786129264,Cydonia_oblonga,35.5,24
 2290093007,Cydonia_oblonga,9.033333,38.816667
 1978889592,Cydonia_oblonga,43.08136,-84.416872
 2290677967,Cydonia_oblonga,9.066667,38.8
 2290731434,Cydonia_oblonga,34.416667,46.85
 1030747979,Cydonia_oblonga,29.124451,115.822033
-1098980705,Cydonia_oblonga,44.5,26.083334
-56556086,Cydonia_oblonga,33.21111,-87.54389
 1030747958,Cydonia_oblonga,25.885558,116.027126
 1697731710,Cydonia_oblonga,44.725028,34.326782
 992123566,Cydonia_oblonga,-35.02,138.786
@@ -212,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697795314,Cydonia_oblonga,42.057669,48.288776
 1303675231,Cydonia_oblonga,34.264878,108.94426
 439096858,Cydonia_oblonga,36.21168,37.1473
-1893208226,Cydonia_oblonga,49.53,6.04
 1303675265,Cydonia_oblonga,33.981028,108.20147
 1842907018,Cydonia_oblonga,35.2,-2.95
 699272182,Cydonia_oblonga,41.28138,-73.49805
@@ -220,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929608281,Cydonia_oblonga,40.799624,-76.864254
 1697795291,Cydonia_oblonga,43.90732,42.719897
 1056753043,Cydonia_oblonga,51.548322,-0.271231
-1259513304,Cydonia_oblonga,-16.5,-68.15
 1705467250,Cydonia_oblonga,57.263261,16.45077
 1340039598,Cydonia_oblonga,57.263261,16.450772
 465767288,Cydonia_oblonga,45.09271,-64.36132
