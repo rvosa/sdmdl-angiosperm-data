@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2304480036,Helichrysum_glumaceum,23.69,92.62
 2290209916,Helichrysum_glumaceum,8.315,40.416667
 1064686615,Helichrysum_glumaceum,17.295,54.485556
 890180622,Helichrysum_glumaceum,23.150833,57.463611
@@ -10,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842880591,Helichrysum_glumaceum,4.1042,38.3018
 1842880598,Helichrysum_glumaceum,4.537,38.258
 623671895,Helichrysum_glumaceum,-3.009133,36.704166
-1836430714,Helichrysum_glumaceum,12.66028,53.424999
 912492927,Helichrysum_glumaceum,-2.73,36.7
 1259218348,Helichrysum_glumaceum,-2.728056,36.698889
 1701527560,Helichrysum_glumaceum,15.82167,51.96278
@@ -54,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288685252,Helichrysum_glumaceum,8.26,43.89
 2290517399,Helichrysum_glumaceum,9.483333,41.916667
 2291822003,Helichrysum_glumaceum,9.466667,41.916667
-2290394287,Helichrysum_glumaceum,-24.666667,34.666667
 2291823372,Helichrysum_glumaceum,9.5,41.9
 2291821582,Helichrysum_glumaceum,9.533333,41.4
 2288642277,Helichrysum_glumaceum,9.2,42.45
@@ -68,4 +65,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289898256,Helichrysum_glumaceum,16.633333,38.333333
 1096857598,Helichrysum_glumaceum,14.7,39.42
 1839025917,Helichrysum_glumaceum,13.03333,24.41667
-2288314693,Helichrysum_glumaceum,14.8,-17.333333
