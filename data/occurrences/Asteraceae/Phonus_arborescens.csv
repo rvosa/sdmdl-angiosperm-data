@@ -27,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290452458,Phonus_arborescens,35.514444,-5.159333
 1936697913,Phonus_arborescens,35.5144,-5.1593
 30660151,Phonus_arborescens,37.360001,-1.73
-199467350,Phonus_arborescens,36.8,-4.295
 78869583,Phonus_arborescens,37.757,-1.144
 199495536,Phonus_arborescens,36.92,-4.095
 199495493,Phonus_arborescens,36.719,-4.316
@@ -52,7 +51,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895284728,Phonus_arborescens,38.59,-0.07
 1936421426,Phonus_arborescens,37.3346,-1.6918
 318107151,Phonus_arborescens,38.07,-1.01
-1842882315,Phonus_arborescens,35.4,-5
 199495152,Phonus_arborescens,36.88312,-4.04322
 1050652940,Phonus_arborescens,37.18,-1.82
 1851567583,Phonus_arborescens,38.63,0.007
@@ -66,18 +64,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204424022,Phonus_arborescens,38.240002,-0.54
 1936447789,Phonus_arborescens,38.1916,-0.6033
 199495172,Phonus_arborescens,36.679,-5.21
-85785454,Phonus_arborescens,36.68,-3.9
 2289350606,Phonus_arborescens,36.783333,-3.55
 199494953,Phonus_arborescens,36.62403,-4.7875
 199494963,Phonus_arborescens,36.6207,-4.68234
 1936364884,Phonus_arborescens,36.8354,-2.3732
 199494896,Phonus_arborescens,36.54,-4.73
 85785458,Phonus_arborescens,36.779999,-2.55
-85785430,Phonus_arborescens,36.490002,-4.9
 895304270,Phonus_arborescens,38.33,-0.54
 2287246925,Phonus_arborescens,37.133333,-1.85
 199494832,Phonus_arborescens,36.63,-4.62
-1851583324,Phonus_arborescens,37,-1.93
 199494761,Phonus_arborescens,36.76444,-3.83842
 199495223,Phonus_arborescens,36.81082,-4.42524
 199494776,Phonus_arborescens,36.58212,-4.88425
