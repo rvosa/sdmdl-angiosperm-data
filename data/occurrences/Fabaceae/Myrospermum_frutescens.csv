@@ -17,18 +17,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1060487592,Myrospermum_frutescens,10.0775,-73.823333
 1585307663,Myrospermum_frutescens,13.79537,-89.39351
 1570684197,Myrospermum_frutescens,6.500261,-71.6939
-1257908602,Myrospermum_frutescens,11.087278,-85.715944
 1257908108,Myrospermum_frutescens,13.610889,-86.451444
 1257722543,Myrospermum_frutescens,11.866667,-86.483333
 1123900035,Myrospermum_frutescens,7.982117,-75.636061
 1257670919,Myrospermum_frutescens,13.190233,-86.321933
-1585309814,Myrospermum_frutescens,13.18028,-87.69861
 2308891989,Myrospermum_frutescens,10.84,-85.61
 1123892894,Myrospermum_frutescens,9.57526,-73.28235
 1260724843,Myrospermum_frutescens,12.833333,-87.5
 1897358837,Myrospermum_frutescens,15.995917,-96.124278
 1894616168,Myrospermum_frutescens,15.77325,-96.216806
-1253822221,Myrospermum_frutescens,9.926389,-84.901944
 1897358797,Myrospermum_frutescens,15.988667,-96.108333
 1253815819,Myrospermum_frutescens,10.087219,-85.179684
 1253804111,Myrospermum_frutescens,10.033424,-85.160475
@@ -54,7 +51,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258714857,Myrospermum_frutescens,13.20027,-86.31805
 1259953972,Myrospermum_frutescens,13.538889,-89.294722
 1585308310,Myrospermum_frutescens,13.5425,-89.3025
-1057457477,Myrospermum_frutescens,13.736897,-88.866511
 1897567012,Myrospermum_frutescens,15.845,-95.975833
 1585308298,Myrospermum_frutescens,13.45806,-87.75944
 1258465998,Myrospermum_frutescens,13.458056,-87.759444
@@ -77,8 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930651727,Myrospermum_frutescens,10.8194,-85.6458
 1253646154,Myrospermum_frutescens,10.819444,-85.645833
 1261830522,Myrospermum_frutescens,10.81,-85.64
-1253597693,Myrospermum_frutescens,9.816667,-84.9
-1261562041,Myrospermum_frutescens,9.81,-84.9
 2290109912,Myrospermum_frutescens,10.173333,-85.006667
 45607820,Myrospermum_frutescens,10.48,-85.38
 1261477855,Myrospermum_frutescens,10.48333,-85.38333
@@ -122,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261836700,Myrospermum_frutescens,12.116667,-85.466667
 1258549821,Myrospermum_frutescens,14.71666,-89.58333
 1701736198,Myrospermum_frutescens,7.0758,-65.9119
-1419226468,Myrospermum_frutescens,15.991667,-95.458333
 1895238576,Myrospermum_frutescens,16.675,-95.534444
 1896167222,Myrospermum_frutescens,16.691667,-95.525
 1258520296,Myrospermum_frutescens,9,-69.9
@@ -134,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1060487600,Myrospermum_frutescens,11.11355,-72.62466
 1123891092,Myrospermum_frutescens,10.969722,-72.711944
 1258289121,Myrospermum_frutescens,18.178889,-102.9325
-1258217739,Myrospermum_frutescens,11.133333,-85.783333
 1261545497,Myrospermum_frutescens,9.730556,-75.265
 1123883241,Myrospermum_frutescens,10.887244,-72.899363
 1123891229,Myrospermum_frutescens,11.01299,-72.710208
@@ -144,7 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 45605854,Myrospermum_frutescens,11.06,-85.66
 1258289196,Myrospermum_frutescens,12.21666,-85.4
 1946169164,Myrospermum_frutescens,12.216667,-85.4
-45605859,Myrospermum_frutescens,10.23,-85.83
 1259146522,Myrospermum_frutescens,12.275,-86.50833
 1895238583,Myrospermum_frutescens,16.219722,-95.1275
 1895238579,Myrospermum_frutescens,16.339722,-95.305556
@@ -157,14 +148,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258308976,Myrospermum_frutescens,11.18333,-85.8
 1258308261,Myrospermum_frutescens,12.06666,-86.65
 1259460144,Myrospermum_frutescens,10.45,-85.13
-1890919240,Myrospermum_frutescens,11.330095,-74.08699
 1260621231,Myrospermum_frutescens,12.38333,-86.05
 1228182701,Myrospermum_frutescens,9.1667,-69.25
 1259460420,Myrospermum_frutescens,10.83333,-85.61666
 1895596242,Myrospermum_frutescens,19.491667,-105.041667
 1258289282,Myrospermum_frutescens,10.9,-68.26666
 2290376544,Myrospermum_frutescens,10.9,-68.275
-1259460200,Myrospermum_frutescens,14.085,-87.16694
 1258289281,Myrospermum_frutescens,10.86666,-68.23333
 1269525259,Myrospermum_frutescens,11.268073,-74.187746
 45605678,Myrospermum_frutescens,10.06,-84.76
@@ -183,5 +172,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261051001,Myrospermum_frutescens,18.4667,-100.5667
 912161967,Myrospermum_frutescens,18.47,-100.59
 1701746884,Myrospermum_frutescens,3.8811,-72.8667
-1931336925,Myrospermum_frutescens,18.39161,-66.05516
 1928752358,Myrospermum_frutescens,18.024203,-66.789131
