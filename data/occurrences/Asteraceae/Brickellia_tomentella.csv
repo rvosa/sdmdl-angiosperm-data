@@ -60,9 +60,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893639935,Brickellia_tomentella,17.408333,-97.991667
 1894646239,Brickellia_tomentella,20.921667,-99.599167
 1895964813,Brickellia_tomentella,19.016944,-98.118333
-56666402,Brickellia_tomentella,33.3,-85.47
 1894646231,Brickellia_tomentella,20.752778,-99.933333
-1269646833,Brickellia_tomentella,31,-93.208
 864865157,Brickellia_tomentella,33.927277,-91.789287
 1893440393,Brickellia_tomentella,18.625,-97.308333
 1896164793,Brickellia_tomentella,18.641667,-97.358333
@@ -125,12 +123,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 924820936,Brickellia_tomentella,32.32209,-95.30083
 56666010,Brickellia_tomentella,35.58,-77.38
 864865895,Brickellia_tomentella,31.578257,-85.998029
-56666008,Brickellia_tomentella,35,-93.42
 1893422415,Brickellia_tomentella,17.5520962565434,-99.5009359166002
 56666013,Brickellia_tomentella,33.77,-83.73
 864865824,Brickellia_tomentella,33.79484,-83.71323
 1893422337,Brickellia_tomentella,16.858333,-93.175
-56666017,Brickellia_tomentella,30.88,-85.8
 2291879445,Brickellia_tomentella,32.183333,-81.666667
 56666006,Brickellia_tomentella,33.87,-83.08
 1895426570,Brickellia_tomentella,19.308344,-98.479558
@@ -144,12 +140,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 864865886,Brickellia_tomentella,31.635281,-94.178664
 1317719973,Brickellia_tomentella,38.2367,-76.4975
 864864856,Brickellia_tomentella,33.6125,-92.06444
-56666015,Brickellia_tomentella,33.3,-85.13
 56666004,Brickellia_tomentella,31.33,-84.93
 1929166930,Brickellia_tomentella,38.176118,-75.392009
 1930243014,Brickellia_tomentella,38.983446,-74.901283
 415939775,Brickellia_tomentella,36.85,-75.97694
-1895964871,Brickellia_tomentella,19.166667,-98.4
-1259784698,Brickellia_tomentella,19.16,-98.4
 1259784013,Brickellia_tomentella,18.97,-97.78
 1928806491,Brickellia_tomentella,19.12,-98.7767
