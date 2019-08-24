@@ -254,7 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030474689,Carex_vulpinoidea,41.087,-84.942
 1930474576,Carex_vulpinoidea,38.6222,-75.8164
 1989169902,Carex_vulpinoidea,42.197583,-86.088722
-202078567,Carex_vulpinoidea,39.12,-122
 473453293,Carex_vulpinoidea,45.027167,-72.707833
 1929191420,Carex_vulpinoidea,34.909992,-88.508719
 1320510844,Carex_vulpinoidea,38.9357,-77.2831
@@ -286,7 +285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929625232,Carex_vulpinoidea,38.35856,-75.33433
 1931299731,Carex_vulpinoidea,39.05114,-76.508179
 1928302995,Carex_vulpinoidea,38.449174,-76.494973
-1978384438,Carex_vulpinoidea,42,-88
 1929731445,Carex_vulpinoidea,38.76139,-75.87883
 1928059194,Carex_vulpinoidea,42.21072,-88.32879
 1989183678,Carex_vulpinoidea,43.26409,-86.16512
@@ -309,7 +307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176907214,Carex_vulpinoidea,38.16951,-95.27647
 176907667,Carex_vulpinoidea,38.2130199990828,-95.31528
 1931222081,Carex_vulpinoidea,39.96825,-90.46497
-1978384062,Carex_vulpinoidea,40,-90
 2265964378,Carex_vulpinoidea,44.7875,-93.143333
 473415926,Carex_vulpinoidea,45.579842,-73.731081
 1928882899,Carex_vulpinoidea,38.43422,-75.35089
@@ -400,13 +397,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465877904,Carex_vulpinoidea,45.3016,-62.34044
 1849161940,Carex_vulpinoidea,38.2395,-80.5286
 1988108871,Carex_vulpinoidea,49.04,-117.4904
-465863148,Carex_vulpinoidea,45,-64.0325
-56538966,Carex_vulpinoidea,34.3,-81.62
 1931328265,Carex_vulpinoidea,34.504279,-92.495617
 176907921,Carex_vulpinoidea,39.0725,-96.801389
 1321796845,Carex_vulpinoidea,39.2931,-76.7869
 176907204,Carex_vulpinoidea,38.373889,-94.645
-1929101404,Carex_vulpinoidea,45.8,-119.95
 1829897449,Carex_vulpinoidea,36.070556,139.098889
 1931321063,Carex_vulpinoidea,41.44889,-73.55181
 176907234,Carex_vulpinoidea,39.089722,-96.849167
@@ -434,7 +428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931281820,Carex_vulpinoidea,33.568584,-93.383258
 995533582,Carex_vulpinoidea,42.275833,-73.316111
 1946864290,Carex_vulpinoidea,49.98,10.86
-473402759,Carex_vulpinoidea,45.3833,-75.8
 176907758,Carex_vulpinoidea,41.5446,-81.4729
 176907257,Carex_vulpinoidea,38.790279,-99.875832
 1988117574,Carex_vulpinoidea,49.225,-122.88
@@ -463,7 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978898671,Carex_vulpinoidea,42.2656,-88.2861
 1930556425,Carex_vulpinoidea,42.26547,-88.28617
 465863094,Carex_vulpinoidea,45.95774,-63.98747
-1228290122,Carex_vulpinoidea,41.8,-74.9
 473443807,Carex_vulpinoidea,45.561667,-75.400278
 176907280,Carex_vulpinoidea,45.363611,-85.178056
 473443860,Carex_vulpinoidea,45.654722,-75.654444
@@ -485,7 +477,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265429180,Carex_vulpinoidea,44.725535,-93.612653
 2265436584,Carex_vulpinoidea,48.098709,-90.630416
 1257691084,Carex_vulpinoidea,38.5378,-90.5581
-176907290,Carex_vulpinoidea,38.4,-96.333333
 473442185,Carex_vulpinoidea,45.683333,-75.983333
 176907830,Carex_vulpinoidea,38.923889,-95.275001
 415979335,Carex_vulpinoidea,41.21138,-72.65555
@@ -510,7 +501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668761103,Carex_vulpinoidea,46.906111,-71.038889
 415979319,Carex_vulpinoidea,41.96166,-73.33388
 2265504149,Carex_vulpinoidea,44.855363,-93.838918
-1989140246,Carex_vulpinoidea,41.3,-91.3
 176907297,Carex_vulpinoidea,38.246406,-95.326014
 318052726,Carex_vulpinoidea,40.060403,-96.07467
 176907255,Carex_vulpinoidea,39.0086,-99.399557
@@ -518,13 +508,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415912239,Carex_vulpinoidea,41.75472,-73.47833
 1988888011,Carex_vulpinoidea,36.396389,-85.643611
 1320306800,Carex_vulpinoidea,38.7189,-77.1103
-1988096067,Carex_vulpinoidea,49.08,-116.6
 1988106097,Carex_vulpinoidea,49.12,-116.63
 1931290228,Carex_vulpinoidea,38.2345,-94.9419
 1262028140,Carex_vulpinoidea,45.466667,-73.033333
-1260166564,Carex_vulpinoidea,37.83333,-94.3
 1928812059,Carex_vulpinoidea,38.2489,-95.3264
-1988237716,Carex_vulpinoidea,49.2,-122.9
 1989033649,Carex_vulpinoidea,41.82959,-84.1581
 2265446493,Carex_vulpinoidea,44.725651,-93.592284
 1989204238,Carex_vulpinoidea,35.05,-83.416667
@@ -570,10 +557,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265527100,Carex_vulpinoidea,44.795997,-95.533931
 1228230748,Carex_vulpinoidea,43.007964,-78.405198
 1897728697,Carex_vulpinoidea,-36.416667,174.55
-1259606797,Carex_vulpinoidea,37.633333,-91.3
 1932897161,Carex_vulpinoidea,36.476944,-77.945833
 56538881,Carex_vulpinoidea,34.78472,-86.94111
-1260166173,Carex_vulpinoidea,37.5,-94.53333
 2242376342,Carex_vulpinoidea,39.906685,-105.192581
 1927815017,Carex_vulpinoidea,32.6256,-95.2558
 415946303,Carex_vulpinoidea,41.325,-72.02861
@@ -597,10 +582,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415979318,Carex_vulpinoidea,41.47611,-73.23694
 1321198129,Carex_vulpinoidea,38.98,-77.2203
 2265503924,Carex_vulpinoidea,45.362225,-94.732288
-668812776,Carex_vulpinoidea,55.583333,-110.5
 176907996,Carex_vulpinoidea,39.671671,-97.543853
 2313351882,Carex_vulpinoidea,48.06,11.49
-883402526,Carex_vulpinoidea,55.6,-110.483333
 176907668,Carex_vulpinoidea,39.677286,-97.539861
 318052965,Carex_vulpinoidea,44.5066,-96.5242
 1455172453,Carex_vulpinoidea,45.084722,-64.416667
@@ -621,19 +604,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899277042,Carex_vulpinoidea,45.475,-80.05
 1988602588,Carex_vulpinoidea,40.533333,-79.25
 1703284270,Carex_vulpinoidea,49.9835359990713,-95.877567
-1262026173,Carex_vulpinoidea,45.933333,-71.8
 1897783444,Carex_vulpinoidea,-35.933333,174.05
-1091203319,Carex_vulpinoidea,-39.683333,175.1
 1091111753,Carex_vulpinoidea,-39.916666,175.566666
 1986971322,Carex_vulpinoidea,34.378056,-94.225833
 1930978343,Carex_vulpinoidea,40.42,-74.95
-1259974962,Carex_vulpinoidea,37.38333,-90.7
 415945711,Carex_vulpinoidea,41.9625,-73.37138
-1978008637,Carex_vulpinoidea,37,-84
 1986967255,Carex_vulpinoidea,39.986525,-105.223188
 2242391042,Carex_vulpinoidea,37.0392,-103.5857
 415945895,Carex_vulpinoidea,40.81444,-74.49666
-1978008818,Carex_vulpinoidea,36,-85
 1949617793,Carex_vulpinoidea,50.55,-119.15
 2265363710,Carex_vulpinoidea,43.534167,-92.4025
 1988124095,Carex_vulpinoidea,50.83,-118.99
@@ -658,7 +636,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258088147,Carex_vulpinoidea,37.90056,-84.268333
 176907611,Carex_vulpinoidea,38.772893,-95.665809
 415983063,Carex_vulpinoidea,40.84888,-74.49277
-1899354050,Carex_vulpinoidea,43.85,-80
 441716813,Carex_vulpinoidea,46.7325,-116.99917
 1988814803,Carex_vulpinoidea,44.6308,-84.87626
 1275087602,Carex_vulpinoidea,41.3875,-74.018056
@@ -668,10 +645,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265503999,Carex_vulpinoidea,46.318701,-94.548814
 2270629709,Carex_vulpinoidea,35.0282,-112.03
 668812478,Carex_vulpinoidea,45.016667,-79.316667
-1455172512,Carex_vulpinoidea,44.616667,-79.5
 1275087491,Carex_vulpinoidea,41.416667,-74.018889
 2265454293,Carex_vulpinoidea,48.409722,-96.275
-1988960949,Carex_vulpinoidea,43.5,-73.666667
 1897782163,Carex_vulpinoidea,-38.9125,177.112778
 1949620863,Carex_vulpinoidea,49.233333,-119.532222
 1269676528,Carex_vulpinoidea,30.356,-91.0949
@@ -681,7 +656,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176907604,Carex_vulpinoidea,37.800059,-95.843257
 176907215,Carex_vulpinoidea,43.245,-86.336
 1846489183,Carex_vulpinoidea,34.902975,-112.063908
-1455172465,Carex_vulpinoidea,45.173611,-74.6
 2265505994,Carex_vulpinoidea,45.825554,-95.095558
 2270629277,Carex_vulpinoidea,34.8926,-112.215
 1846488590,Carex_vulpinoidea,34.8985,-112.2088
@@ -699,7 +673,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668761090,Carex_vulpinoidea,46.295833,-72.520833
 1248711778,Carex_vulpinoidea,51.716667,-76.05
 441716902,Carex_vulpinoidea,46.830833,-119.944722
-1988238759,Carex_vulpinoidea,49.1,-122.8
 668812433,Carex_vulpinoidea,43.795833,-79.145833
 668812692,Carex_vulpinoidea,44.118458,-80.010492
 668812702,Carex_vulpinoidea,42.716667,-73.85
@@ -723,14 +696,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455172484,Carex_vulpinoidea,45.75,-71.25
 51787952,Carex_vulpinoidea,45.5397,-122.2386
 1899311646,Carex_vulpinoidea,48.283333,-89.933333
-1949629045,Carex_vulpinoidea,50.7,-119.266667
 2265504407,Carex_vulpinoidea,43.715556,-93.086667
 473290923,Carex_vulpinoidea,45.01833,-73.75777
 668812641,Carex_vulpinoidea,44.816667,-80.583333
 668812791,Carex_vulpinoidea,42.916667,-79.266667
-668812833,Carex_vulpinoidea,44.2,-79.983333
-668812895,Carex_vulpinoidea,44.2,-83.016667
-1988114949,Carex_vulpinoidea,50.7,-119.1
 1989235885,Carex_vulpinoidea,17.4457,-97.2219
 1260937437,Carex_vulpinoidea,37.33694,-91.295
 1260936485,Carex_vulpinoidea,37.93694,-91.15
@@ -762,7 +731,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928373537,Carex_vulpinoidea,38.125,-90.675
 1989948859,Carex_vulpinoidea,34.396005,-92.168677
 176907824,Carex_vulpinoidea,37.424013,-95.201881
-1978008715,Carex_vulpinoidea,36,-86
 176907390,Carex_vulpinoidea,39.363176,-100.230779
 1261000875,Carex_vulpinoidea,39.01111,-90.94555
 176907389,Carex_vulpinoidea,38.805565,-99.736233
@@ -782,15 +750,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668812428,Carex_vulpinoidea,40.85,-121.533333
 1988966692,Carex_vulpinoidea,44.41726,-83.333104
 473452844,Carex_vulpinoidea,45.466667,-73.933333
-1804607862,Carex_vulpinoidea,45.3,-75.55
 1988687681,Carex_vulpinoidea,44.432239,-83.390704
-1989125908,Carex_vulpinoidea,45.04167,-83.2
 176907388,Carex_vulpinoidea,39.223343,-98.689094
 1804466885,Carex_vulpinoidea,45.416667,-76.316667
 2265504635,Carex_vulpinoidea,45.232068,-92.96821
 668812914,Carex_vulpinoidea,41.55,-81.166667
 1897702492,Carex_vulpinoidea,-39.433333,175.383333
-668812677,Carex_vulpinoidea,42.7,-80.333333
 176907485,Carex_vulpinoidea,37.22175,-97.48097
 1989945717,Carex_vulpinoidea,36.044058,-90.664188
 668812789,Carex_vulpinoidea,43.883333,-78.116667
@@ -808,7 +773,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899311477,Carex_vulpinoidea,48.35,-89.783333
 2265503274,Carex_vulpinoidea,44.112499,-96.152222
 1989470952,Carex_vulpinoidea,44.659873,-83.999586
-1091330146,Carex_vulpinoidea,-41.2,172.1
 1897775439,Carex_vulpinoidea,-35.25,173.766667
 176907458,Carex_vulpinoidea,37.64606,-98.70285
 1899287149,Carex_vulpinoidea,41.918889,-82.516667
@@ -835,7 +799,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930034395,Carex_vulpinoidea,47.3758,-114.7859
 441716333,Carex_vulpinoidea,46.235,-123.423611
 441716426,Carex_vulpinoidea,47.243333,-121.965833
-1262031471,Carex_vulpinoidea,45.5,-72.25
 1930750098,Carex_vulpinoidea,47.2501,-121.9656
 415979325,Carex_vulpinoidea,41.07833,-73.46888
 1897775411,Carex_vulpinoidea,-39.083333,175.266667
@@ -848,15 +811,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265504957,Carex_vulpinoidea,43.522099,-92.518958
 176907387,Carex_vulpinoidea,38.70545,-97.4496
 668812773,Carex_vulpinoidea,43.333333,-80.283333
-1262011824,Carex_vulpinoidea,45.133333,-72.8
 441716949,Carex_vulpinoidea,46.22205,-123.4069
 1260964661,Carex_vulpinoidea,38.08777,-92.5425
 1262011640,Carex_vulpinoidea,48.369444,-78.716667
 1899374400,Carex_vulpinoidea,44.233333,-79.366667
 1899374501,Carex_vulpinoidea,44.241667,-79.25
 668812834,Carex_vulpinoidea,43.966667,-80.233333
-1899370576,Carex_vulpinoidea,44.283333,-79.2
-215986158,Carex_vulpinoidea,45.6,-76.033
 606660145,Carex_vulpinoidea,41.95805,-73.37083
 1988943943,Carex_vulpinoidea,41.971105,-83.936005
 606661979,Carex_vulpinoidea,41.96166,-73.30833
@@ -864,13 +824,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899374866,Carex_vulpinoidea,44.316667,-79.316667
 1929438983,Carex_vulpinoidea,44.7384,-104.2421
 1091250202,Carex_vulpinoidea,-37.616666,177.95
-1091116193,Carex_vulpinoidea,-41.2,172.15
 1897775375,Carex_vulpinoidea,-39.216667,175.083333
 1928991630,Carex_vulpinoidea,41.853142,-74.177938
 1988688193,Carex_vulpinoidea,44.126219,-84.557008
 1989200447,Carex_vulpinoidea,43.99032,-83.87667
 1262017259,Carex_vulpinoidea,45.608971,-74.016795
-1988107411,Carex_vulpinoidea,49.7,-88.38
 1262010765,Carex_vulpinoidea,45.777,-71.339
 668812367,Carex_vulpinoidea,43.433333,-79.766667
 1804597712,Carex_vulpinoidea,44.791667,-77.077778
@@ -881,7 +839,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606655431,Carex_vulpinoidea,41.48888,-71.81277
 2265504985,Carex_vulpinoidea,48.43325,-92.842322
 1929647309,Carex_vulpinoidea,42.916201,-70.863665
-1804441929,Carex_vulpinoidea,42.45,-81.7
 1262010004,Carex_vulpinoidea,45.124167,-71.686111
 1262010131,Carex_vulpinoidea,45.202778,-71.672778
 1260983348,Carex_vulpinoidea,38.32472,-91.62027
@@ -893,7 +850,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262010707,Carex_vulpinoidea,45.644,-75.921
 1703288432,Carex_vulpinoidea,51.5998891080548,-101.083376123239
 1899311563,Carex_vulpinoidea,49.483333,-88.683333
-668812679,Carex_vulpinoidea,43.233333,-81.9
 1260965406,Carex_vulpinoidea,37.86,-94.42722
 1262009897,Carex_vulpinoidea,45.083333,-74.183333
 176907198,Carex_vulpinoidea,44.8425,-103.3962
@@ -909,12 +865,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930599143,Carex_vulpinoidea,18.72,-70.58
 668812678,Carex_vulpinoidea,42.25,-83.05
 2265503297,Carex_vulpinoidea,45.406779,-93.193727
-668812691,Carex_vulpinoidea,44.6,-78.833333
 2265504179,Carex_vulpinoidea,44.042035,-92.049333
 1899311136,Carex_vulpinoidea,49.616667,-88.666667
 318052751,Carex_vulpinoidea,44.904082,-106.98691
 473291353,Carex_vulpinoidea,49.610274,-88.724289
-1262011320,Carex_vulpinoidea,46.1,-71.886
 2265505718,Carex_vulpinoidea,43.550746,-92.878835
 1455172500,Carex_vulpinoidea,45.233333,-73.766667
 2265503821,Carex_vulpinoidea,43.567731,-92.515339
@@ -929,11 +883,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318052773,Carex_vulpinoidea,44.621649,-101.995766
 2265506415,Carex_vulpinoidea,47.432911,-95.603967
 2265504268,Carex_vulpinoidea,47.717061,-95.387756
-1804523958,Carex_vulpinoidea,45.433333,-75.6
 176907795,Carex_vulpinoidea,44.986808,-102.279041
 176908041,Carex_vulpinoidea,43.460978,-103.491293
 2265505876,Carex_vulpinoidea,45.434262,-95.245018
-1931028091,Carex_vulpinoidea,18.7,-70.6
 1804576221,Carex_vulpinoidea,44.844444,-75.303889
 1899330335,Carex_vulpinoidea,42.733333,-81.016667
 1897648602,Carex_vulpinoidea,-37.916667,176.816667
@@ -943,7 +895,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265503489,Carex_vulpinoidea,44.53608,-94.321395
 2265504220,Carex_vulpinoidea,49.105822,-95.122912
 1899359507,Carex_vulpinoidea,44.861111,-78.625
-1899380880,Carex_vulpinoidea,45,-79.75
 1929139688,Carex_vulpinoidea,45.416899,-94.04856
 2265505138,Carex_vulpinoidea,43.739626,-92.879241
 2265504037,Carex_vulpinoidea,45.216197,-93.775961
@@ -951,7 +902,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265504332,Carex_vulpinoidea,44.087544,-93.557059
 2265504771,Carex_vulpinoidea,43.7396,-92.819237
 2265503858,Carex_vulpinoidea,43.506845,-93.65853
-1988243857,Carex_vulpinoidea,42.83,-80.3
 2265504005,Carex_vulpinoidea,45.072595,-94.185089
 318052749,Carex_vulpinoidea,46.6673974668608,-103.191982567422
 2265503975,Carex_vulpinoidea,47.190706,-92.483223
@@ -961,11 +911,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931280369,Carex_vulpinoidea,41.836824,-90.539089
 473291349,Carex_vulpinoidea,48.366667,-90.633333
 2265505695,Carex_vulpinoidea,43.739341,-95.084917
-1455172480,Carex_vulpinoidea,51.6,-101.8
 1455172496,Carex_vulpinoidea,51.583333,-101.083333
-1988219443,Carex_vulpinoidea,48.4,-90.6
 1929236107,Carex_vulpinoidea,41.0578,-73.7731
-668761105,Carex_vulpinoidea,46.816667,-71.3
 438859614,Carex_vulpinoidea,-9.41667,34.05
 2265504117,Carex_vulpinoidea,44.229186,-91.93937
 1228531679,Carex_vulpinoidea,42.990325,-88.920991
@@ -980,14 +927,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 217047062,Carex_vulpinoidea,34.6475,-86.82195
 56538134,Carex_vulpinoidea,33.33194,-86.69417
 883406181,Carex_vulpinoidea,49.883333,-97.15
-1989409977,Carex_vulpinoidea,41.95,-86.3
-473291345,Carex_vulpinoidea,48.183333,-89.6
 1846543281,Carex_vulpinoidea,39.136806,-94.155123
 1846543338,Carex_vulpinoidea,39.570059,-94.918992
 2270629876,Carex_vulpinoidea,35.10797,-111.72091
 1929034835,Carex_vulpinoidea,39.05445,-94.580234
 668812497,Carex_vulpinoidea,42.583333,-80.416667
-1988137909,Carex_vulpinoidea,48.2,-89.6
 2265504337,Carex_vulpinoidea,44.377654,-93.211311
 668812453,Carex_vulpinoidea,43.666667,-79.65
 668812771,Carex_vulpinoidea,42.95,-81.216667
@@ -998,10 +942,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265503624,Carex_vulpinoidea,45.284891,-93.558229
 1804487429,Carex_vulpinoidea,45.433333,-75.583333
 473462478,Carex_vulpinoidea,45.705565,-73.452766
-473290531,Carex_vulpinoidea,46.083333,-73
 473290614,Carex_vulpinoidea,48.666667,-79.416667
 2265505960,Carex_vulpinoidea,44.217888,-93.535365
-473290518,Carex_vulpinoidea,46.066667,-73
 1262011432,Carex_vulpinoidea,45.283333,-72.983333
 1899288631,Carex_vulpinoidea,48.116667,-79.713889
 1899288644,Carex_vulpinoidea,48.130556,-80.016667
@@ -1018,7 +960,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56538111,Carex_vulpinoidea,34.56722,-86.58334
 56538137,Carex_vulpinoidea,32.03944,-85.41306
 56538128,Carex_vulpinoidea,32.81694,-85.345
-1030470720,Carex_vulpinoidea,43.6,-83.716667
 1804595778,Carex_vulpinoidea,44.866667,-81.033333
 1928034130,Carex_vulpinoidea,34.559383,-86.586094
 56538107,Carex_vulpinoidea,32.42167,-86.23972
@@ -1029,7 +970,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668812415,Carex_vulpinoidea,43.533333,-79.65
 1928066368,Carex_vulpinoidea,40.243128,-79.237532
 56538098,Carex_vulpinoidea,34.64833,-86.82195
-1262006622,Carex_vulpinoidea,45.6,-75.1
 2265504064,Carex_vulpinoidea,45.580646,-93.583513
 1260039432,Carex_vulpinoidea,40.5472,-88.9275
 1262006796,Carex_vulpinoidea,46.75,-78.66
@@ -1039,18 +979,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265503698,Carex_vulpinoidea,46.354095,-92.938274
 2265505147,Carex_vulpinoidea,45.682879,-93.564477
 473291343,Carex_vulpinoidea,48.611882,-89.613789
-1989065307,Carex_vulpinoidea,48.616667,-89.6
 56538065,Carex_vulpinoidea,33.93,-85.48583
 1038951073,Carex_vulpinoidea,41.754,-80.085
-1030440057,Carex_vulpinoidea,42.9,-86.2
 2265505155,Carex_vulpinoidea,43.551362,-91.422031
 1928026801,Carex_vulpinoidea,45.256214,-85.190938
-1804409841,Carex_vulpinoidea,50.233333,-83.3
 1989310705,Carex_vulpinoidea,45.340082,-85.25062
 2265506359,Carex_vulpinoidea,48.677587,-95.159056
 2265504786,Carex_vulpinoidea,43.550485,-93.019467
 2265504713,Carex_vulpinoidea,49.287332,-94.926586
-1804562185,Carex_vulpinoidea,50.6,-81.416667
 1899347778,Carex_vulpinoidea,44.116184,-79.507713
 2265505576,Carex_vulpinoidea,45.665152,-95.500112
 2265506264,Carex_vulpinoidea,44.691689,-95.350531
@@ -1062,14 +998,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804387547,Carex_vulpinoidea,45.666667,-64.733333
 1455172495,Carex_vulpinoidea,45.25,-72.583333
 2265503606,Carex_vulpinoidea,48.359967,-94.564698
-1804483253,Carex_vulpinoidea,47.4,-68.333333
 2265503337,Carex_vulpinoidea,48.287244,-94.564235
 2265504294,Carex_vulpinoidea,48.46865,-94.55915
 1804437356,Carex_vulpinoidea,46.366667,-66.633333
 668812431,Carex_vulpinoidea,43.866667,-80.116667
 1804554670,Carex_vulpinoidea,46.516667,-67.333333
 1929624363,Carex_vulpinoidea,43.285569,-90.320967
-465877888,Carex_vulpinoidea,45.4,-64.44
 1260109988,Carex_vulpinoidea,38.691667,-90.686111
 1929252328,Carex_vulpinoidea,34.0661,-82.6361
 2265503757,Carex_vulpinoidea,47.200075,-94.435208
@@ -1095,14 +1029,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804567224,Carex_vulpinoidea,48.45,-89.183333
 1899359301,Carex_vulpinoidea,45.051389,-78.506944
 1989206892,Carex_vulpinoidea,45.976031,-86.271598
-473291151,Carex_vulpinoidea,45.3,-74.183333
 1986981134,Carex_vulpinoidea,32.273926,-93.924007
 1212014889,Carex_vulpinoidea,41.54444,-73.20888
-668812442,Carex_vulpinoidea,43.583333,-79.7
 2265502956,Carex_vulpinoidea,45.390467,-94.00344
-668812768,Carex_vulpinoidea,44.066667,-78.5
 668812463,Carex_vulpinoidea,43.533333,-79.533333
-668812404,Carex_vulpinoidea,43.8,-80
 2265506489,Carex_vulpinoidea,47.231866,-93.522768
 668812784,Carex_vulpinoidea,43.516667,-79.605556
 2265503635,Carex_vulpinoidea,45.422477,-94.036033
@@ -1119,12 +1049,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258608316,Carex_vulpinoidea,34.66666,-83.41666
 1260997455,Carex_vulpinoidea,36.3432,-90.552
 668761119,Carex_vulpinoidea,46.784722,-71.278333
-1804437384,Carex_vulpinoidea,45.5,-77.833333
-1899297459,Carex_vulpinoidea,42.616667,-82.5
 668761118,Carex_vulpinoidea,46.777778,-71.276944
-1899297556,Carex_vulpinoidea,42.5,-82.55
 473290845,Carex_vulpinoidea,46.308333,-72.475
-1899350330,Carex_vulpinoidea,42.625,-82.5
 768789591,Carex_vulpinoidea,41.58277,-73.20416
 1930955791,Carex_vulpinoidea,45.541667,-84.680556
 668812429,Carex_vulpinoidea,43.466667,-79.95
@@ -1169,7 +1095,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668761111,Carex_vulpinoidea,46.779167,-71.276389
 668812427,Carex_vulpinoidea,43.55,-79.666667
 415979320,Carex_vulpinoidea,41.92277,-73.43305
-1258596124,Carex_vulpinoidea,40.492,-89
 176907454,Carex_vulpinoidea,39.26082,-98.12827
 2265505494,Carex_vulpinoidea,43.671736,-91.272582
 176907893,Carex_vulpinoidea,39.395414,-99.318617
@@ -1186,7 +1111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176907478,Carex_vulpinoidea,39.528552,-95.516602
 176907913,Carex_vulpinoidea,38.08388,-95.72653
 473291341,Carex_vulpinoidea,43.240635,-81.220601
-1899321638,Carex_vulpinoidea,43.8,-79.15
 1261886388,Carex_vulpinoidea,40.48,-90.06
 1899328666,Carex_vulpinoidea,44.166667,-78.883333
 415979353,Carex_vulpinoidea,41.81111,-72.2525
@@ -1201,7 +1125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930792119,Carex_vulpinoidea,44.20694,-88.554462
 473326261,Carex_vulpinoidea,45.07,-72.33
 2265504403,Carex_vulpinoidea,45.106814,-94.540161
-1899349744,Carex_vulpinoidea,49.5,-80.75
 1978887526,Carex_vulpinoidea,45.7747,-86.550695
 2265504609,Carex_vulpinoidea,45.081628,-94.28642
 2265505757,Carex_vulpinoidea,45.043836,-93.655981
@@ -1237,8 +1160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703287242,Carex_vulpinoidea,51.4328899836986,-100.68736072827
 318052827,Carex_vulpinoidea,46.8703468767359,-101.276766596683
 2265503113,Carex_vulpinoidea,43.979723,-96.367859
-1455172472,Carex_vulpinoidea,45.466667,-74.3
-1899307729,Carex_vulpinoidea,43.883333,-80.1
 176907881,Carex_vulpinoidea,38.54087,-96.05127
 1260164811,Carex_vulpinoidea,38.763,-93.735
 318052778,Carex_vulpinoidea,36.816005,-89.289809
@@ -1250,7 +1171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176907377,Carex_vulpinoidea,37.651557,-98.267981
 1260164753,Carex_vulpinoidea,38.76277,-93.73583
 318052788,Carex_vulpinoidea,37.260402,-89.567071
-1899380936,Carex_vulpinoidea,43.7,-79.516667
 176907397,Carex_vulpinoidea,37.395,-99.783209
 318052814,Carex_vulpinoidea,46.50629,-97.34466
 176907962,Carex_vulpinoidea,37.79438,-95.07331
@@ -1285,7 +1205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929000730,Carex_vulpinoidea,40.795335,-82.788236
 318052918,Carex_vulpinoidea,46.541462,-97.272295
 318053007,Carex_vulpinoidea,45.44457,-98.98624
-1949638584,Carex_vulpinoidea,52.266667,-123
 176907416,Carex_vulpinoidea,39.70025,-98.26657
 318053081,Carex_vulpinoidea,45.1676,-98.74162
 318052922,Carex_vulpinoidea,40.146876,-97.722476
@@ -1306,7 +1225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260166205,Carex_vulpinoidea,33.83333,-94.83333
 1260164355,Carex_vulpinoidea,38.47,-90.82
 318052947,Carex_vulpinoidea,41.23723,-96.29885
-1804363977,Carex_vulpinoidea,44.3,-76.183333
 318053048,Carex_vulpinoidea,46.63665,-97.92583
 176907976,Carex_vulpinoidea,37.75834,-94.78052
 473486114,Carex_vulpinoidea,45.5794,-73.6611
@@ -1356,10 +1274,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270630956,Carex_vulpinoidea,34.15,-109.985
 473258198,Carex_vulpinoidea,45.3641,-73.8558
 883387130,Carex_vulpinoidea,53.683333,-114.35
-1988198721,Carex_vulpinoidea,49.1,-88.6
 2234540893,Carex_vulpinoidea,35.609577,-93.869762
 176907405,Carex_vulpinoidea,37.225104,-97.533548
-668761094,Carex_vulpinoidea,45.383333,-73.1
 176908034,Carex_vulpinoidea,37.65378,-96.09536
 318053039,Carex_vulpinoidea,45.33216,-97.4583
 318053003,Carex_vulpinoidea,43.17018,-97.22048
@@ -1370,7 +1286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473258183,Carex_vulpinoidea,45.166667,-72.15
 318052950,Carex_vulpinoidea,48.76013,-97.8651
 176907375,Carex_vulpinoidea,37.834196,-96.10781
-1675871895,Carex_vulpinoidea,41.8,-72.25
 318052948,Carex_vulpinoidea,41.0557,-96.06615
 318052978,Carex_vulpinoidea,40.48866,-95.73333
 318053076,Carex_vulpinoidea,40.14972,-96.34867
@@ -1427,7 +1342,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 727737808,Carex_vulpinoidea,38.4039,-96.18166
 318052960,Carex_vulpinoidea,42.786651,-96.948714
 318052961,Carex_vulpinoidea,45.584114,-97.336378
-1030464806,Carex_vulpinoidea,43.6,-83.65
 1988198675,Carex_vulpinoidea,46.05,-71.37
 473258179,Carex_vulpinoidea,45.129167,-72.234167
 473290807,Carex_vulpinoidea,45.36611,-73.8039
@@ -1446,7 +1360,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176907471,Carex_vulpinoidea,37.03715,-95.20822
 176907319,Carex_vulpinoidea,38.63961,-99.59691
 176907848,Carex_vulpinoidea,37.97488,-95.01208
-1261992313,Carex_vulpinoidea,45.7,-71.43
 176907935,Carex_vulpinoidea,39.111873,-97.568084
 176907470,Carex_vulpinoidea,39.13519,-95.33265
 176907438,Carex_vulpinoidea,38.45708,-95.00798
@@ -1515,9 +1428,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176908004,Carex_vulpinoidea,38.52313,-96.42834
 473291258,Carex_vulpinoidea,42.579386,-80.430902
 473291652,Carex_vulpinoidea,43.957824,-76.838044
-1988124211,Carex_vulpinoidea,44,-77.25
 1261983005,Carex_vulpinoidea,45.946,-71.278
-668761093,Carex_vulpinoidea,45.9,-71.066667
 1228319080,Carex_vulpinoidea,48.85,-88.483333
 2265503012,Carex_vulpinoidea,47.195787,-95.107789
 2265506514,Carex_vulpinoidea,47.282324,-95.233417
@@ -1526,7 +1437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930965995,Carex_vulpinoidea,45.798889,-77.031944
 2265504341,Carex_vulpinoidea,46.499382,-95.092832
 2265504939,Carex_vulpinoidea,47.14513,-95.244163
-1988110579,Carex_vulpinoidea,43.1,-82
 1988114141,Carex_vulpinoidea,44.02,-79.05
 2265503991,Carex_vulpinoidea,47.99924,-95.244165
 318052781,Carex_vulpinoidea,36.17035,-91.77598
@@ -1538,7 +1448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988957918,Carex_vulpinoidea,42.456686,-84.005246
 1899364798,Carex_vulpinoidea,44.287319999057,-81.58679
 1228604924,Carex_vulpinoidea,43.385346,-95.323307
-1804558933,Carex_vulpinoidea,42.3,-82.4
 1228484432,Carex_vulpinoidea,43.372835,-94.883697
 176907408,Carex_vulpinoidea,39.826905,-97.625697
 176907784,Carex_vulpinoidea,39.689871,-97.527642
@@ -1559,7 +1468,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989069239,Carex_vulpinoidea,45.82859,-87.04447
 727724081,Carex_vulpinoidea,38.498008,-96.32941
 1931280522,Carex_vulpinoidea,42.417244,-87.811738
-1261961178,Carex_vulpinoidea,46.85,-71.2
 1228216661,Carex_vulpinoidea,47.956624,-95.276949
 2265503953,Carex_vulpinoidea,47.927254,-95.204797
 2265505267,Carex_vulpinoidea,48.027311,-95.279983
@@ -1577,7 +1485,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473291371,Carex_vulpinoidea,50.4509,-96.9523
 415983431,Carex_vulpinoidea,41.22583,-73.66555
 1261956933,Carex_vulpinoidea,48.425465,-70.823363
-473290609,Carex_vulpinoidea,46.333333,-74.5
 1261956681,Carex_vulpinoidea,48.42669,-70.828169
 1988962141,Carex_vulpinoidea,45.712159,-85.671603
 1929496415,Carex_vulpinoidea,41.113151,-74.043752
@@ -1604,7 +1511,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988116916,Carex_vulpinoidea,45.73,-76.68
 1988173817,Carex_vulpinoidea,45.23,-75.87
 473291381,Carex_vulpinoidea,52.97513,-113.927895
-1988211442,Carex_vulpinoidea,42.5,-81.67
 441716817,Carex_vulpinoidea,47.67778,-116.77944
 2265504551,Carex_vulpinoidea,44.066322,-96.124397
 1228512107,Carex_vulpinoidea,41.4333,-87.9667
@@ -1623,7 +1529,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228572601,Carex_vulpinoidea,41.649482,-87.085867
 1929364804,Carex_vulpinoidea,42.14197,-88.081742
 1988819433,Carex_vulpinoidea,46.202557,-85.734102
-1929970388,Carex_vulpinoidea,45.383333,-75.7
 2265504491,Carex_vulpinoidea,46.061893,-96.456463
 1930640976,Carex_vulpinoidea,42.067083,-88.106938
 1261953715,Carex_vulpinoidea,46.742073,-71.279603
@@ -1644,7 +1549,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1807225664,Carex_vulpinoidea,46.633142,-63.96816
 473290455,Carex_vulpinoidea,46.6236,-64.0185
 1989256855,Carex_vulpinoidea,42.17635,-83.80257
-1261983803,Carex_vulpinoidea,46.8,-71.35
 1228465512,Carex_vulpinoidea,39.541658,-93.536557
 1989073733,Carex_vulpinoidea,41.9856,-85.8196
 465878057,Carex_vulpinoidea,44.53981,-76.36788
@@ -1704,7 +1608,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265504235,Carex_vulpinoidea,46.814884,-92.079219
 473291200,Carex_vulpinoidea,43.475932,-80.936626
 176907472,Carex_vulpinoidea,38.40836,-95.7048
-1988233854,Carex_vulpinoidea,49,-119
 2265507191,Carex_vulpinoidea,46.91894,-92.9176
 473291203,Carex_vulpinoidea,42.486988,-82.41792
 1228621871,Carex_vulpinoidea,39.019673,-93.927176
@@ -1730,7 +1633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930372813,Carex_vulpinoidea,40.110588,-88.20727
 1928796070,Carex_vulpinoidea,40.676044,-89.540273
 1988852211,Carex_vulpinoidea,43.10356,-78.010827
-1804579628,Carex_vulpinoidea,45.416667,-75.7
 1322400587,Carex_vulpinoidea,38.9711,-77.0767
 2265504158,Carex_vulpinoidea,46.869327,-96.473428
 465878051,Carex_vulpinoidea,45.38612,-63.91392
@@ -1817,7 +1719,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318053051,Carex_vulpinoidea,40.33612,-97.57538
 1929517224,Carex_vulpinoidea,41.597384,-85.858755
 1228345635,Carex_vulpinoidea,40.626703,-75.217347
-1988086993,Carex_vulpinoidea,49.1,-116.5
 1228472259,Carex_vulpinoidea,43.768784,-103.516942
 2265502358,Carex_vulpinoidea,45.282569,-94.824825
 1228464605,Carex_vulpinoidea,37.471228,-89.255088
@@ -1827,7 +1728,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415983277,Carex_vulpinoidea,42.95416,-85.47222
 1929279350,Carex_vulpinoidea,39.457334,-75.661318
 1930501075,Carex_vulpinoidea,36.82508,-87.038498
-1988086147,Carex_vulpinoidea,49,-116.5
 415983424,Carex_vulpinoidea,41.15416,-72.24944
 1929067197,Carex_vulpinoidea,39.869306,-88.909481
 2265504600,Carex_vulpinoidea,45.282397,-94.07601
@@ -1854,17 +1754,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228505943,Carex_vulpinoidea,38.903013,-77.681884
 1228605605,Carex_vulpinoidea,37.021078,-90.308997
 1927875667,Carex_vulpinoidea,42.704801,-73.754842
-1804580834,Carex_vulpinoidea,44.1,-79.116667
 415979342,Carex_vulpinoidea,41.86055,-72.00722
 1927769380,Carex_vulpinoidea,37.309201,-84.925458
 1321125519,Carex_vulpinoidea,38.8242,-77.7111
 1228234238,Carex_vulpinoidea,37.982517,-82.356287
 1321285460,Carex_vulpinoidea,38.9414,-77.6572
 415979393,Carex_vulpinoidea,39.07666,-78.5975
-1261952528,Carex_vulpinoidea,45.4,-72.733333
 1928874273,Carex_vulpinoidea,48.75,-86.25
 1930802998,Carex_vulpinoidea,37.709096,-85.269987
-1988099047,Carex_vulpinoidea,48.8,-86.3
 2265505167,Carex_vulpinoidea,49.344621,-95.028893
 473291236,Carex_vulpinoidea,43.063753,-79.955061
 1228227643,Carex_vulpinoidea,37.71846,-85.277512
@@ -1893,9 +1790,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415996257,Carex_vulpinoidea,42.53888,-71.87111
 473290797,Carex_vulpinoidea,45.430262,-73.290339
 415983066,Carex_vulpinoidea,42.12,-85.53277
-1228300119,Carex_vulpinoidea,45.4,-75.5
 1930280179,Carex_vulpinoidea,42.185908,-76.669949
-1899316933,Carex_vulpinoidea,48,-85
 51788272,Carex_vulpinoidea,43.9755,-116.9719
 415979385,Carex_vulpinoidea,43.49972,-87.85027
 473291193,Carex_vulpinoidea,47.397425,-79.685499
@@ -1909,7 +1804,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320112957,Carex_vulpinoidea,38.8336,-78.0294
 1930131615,Carex_vulpinoidea,41.083591,-92.035362
 1228208616,Carex_vulpinoidea,35.14648,-90.184539
-1988138537,Carex_vulpinoidea,44.5,-81.25
 1228220889,Carex_vulpinoidea,38.826616,-77.702588
 1931216643,Carex_vulpinoidea,41.896229,-90.159571
 1228374568,Carex_vulpinoidea,37.444504,-84.329506
@@ -1964,12 +1858,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415979345,Carex_vulpinoidea,41.35,-72.03277
 415979382,Carex_vulpinoidea,37.46527,-84.50694
 1899323737,Carex_vulpinoidea,44.9863799990568,-81.25393
-465159279,Carex_vulpinoidea,45.41667,-73.5
 473490574,Carex_vulpinoidea,45.9693,-73.186
 415979389,Carex_vulpinoidea,41.27305,-71.98166
 1989533482,Carex_vulpinoidea,45.864457,-84.625601
 2242391487,Carex_vulpinoidea,38.913494,-99.318968
-1676050650,Carex_vulpinoidea,47,-84.75
 1927888129,Carex_vulpinoidea,40.397761,-105.07498
 473291223,Carex_vulpinoidea,46.926111,-84.606389
 1928845605,Carex_vulpinoidea,39.480606,-86.054986
@@ -2015,11 +1907,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989352373,Carex_vulpinoidea,42.39556,-83.27861
 1928236724,Carex_vulpinoidea,40.993426,-87.476358
 1928686129,Carex_vulpinoidea,42.604802,-73.769566
-1989080565,Carex_vulpinoidea,42.2,-83.15
-1928107095,Carex_vulpinoidea,44.5,-81.37
 473290743,Carex_vulpinoidea,45.494375,-73.644447
 1989008450,Carex_vulpinoidea,42.347668,-83.057856
-1989538586,Carex_vulpinoidea,44.5,-81.366667
 473291334,Carex_vulpinoidea,44.520459,-80.023663
 1989167070,Carex_vulpinoidea,46.133333,-82.183333
 1930263679,Carex_vulpinoidea,36.545629,-94.485217
@@ -2063,7 +1952,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927922552,Carex_vulpinoidea,40.963434,-72.184801
 1319581922,Carex_vulpinoidea,39.0369,-76.7592
 1928481610,Carex_vulpinoidea,40.940583,-72.406845
-415979363,Carex_vulpinoidea,49.11666,-66.5
 1930923778,Carex_vulpinoidea,40.917044,-72.66204
 473290938,Carex_vulpinoidea,46.05001,-73.7082
 1899377656,Carex_vulpinoidea,45.553848,-78.719273
@@ -2181,7 +2069,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988841794,Carex_vulpinoidea,46.268126,-89.178329
 1928135927,Carex_vulpinoidea,38.908738,-76.975278
 1897775389,Carex_vulpinoidea,-39.25,175.383333
-1228546415,Carex_vulpinoidea,38.7167,-88.1
 1260164828,Carex_vulpinoidea,38.660886,-90.422618
 1260167328,Carex_vulpinoidea,38.66083,-90.4225
 1928409705,Carex_vulpinoidea,40.41483,-74.229589
@@ -2266,9 +2153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228488405,Carex_vulpinoidea,41.19031,41.19031
 1930624598,Carex_vulpinoidea,39.620602,-86.281935
 2265505699,Carex_vulpinoidea,47.368179,-93.838004
-786107333,Carex_vulpinoidea,45,-85.8
-786107337,Carex_vulpinoidea,38.5,-86.6
-786107331,Carex_vulpinoidea,39.6,-84.6
 1928058781,Carex_vulpinoidea,38.902087,-76.942724
 1929666119,Carex_vulpinoidea,42.296486,-71.292557
 415979390,Carex_vulpinoidea,40.04194,-75.47666
@@ -2277,7 +2161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228277852,Carex_vulpinoidea,41.293939,-82.217379
 1260165781,Carex_vulpinoidea,35.587,-80.462
 1928400742,Carex_vulpinoidea,37.203547,-94.340605
-1228273182,Carex_vulpinoidea,38.5,-92.5
 1228242975,Carex_vulpinoidea,37.125929,-92.743054
 51788263,Carex_vulpinoidea,45.7056,-121.5203
 1927794614,Carex_vulpinoidea,39.822497,-86.937169
@@ -2307,7 +2190,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928238622,Carex_vulpinoidea,37.084227,-94.513281
 1929018903,Carex_vulpinoidea,41.283456,-70.082794
 1260167253,Carex_vulpinoidea,37.08,-94.51
-1317226334,Carex_vulpinoidea,38.8667,-77.1
 1930662582,Carex_vulpinoidea,37.058942,-88.132526
 1928396077,Carex_vulpinoidea,41.321145,-88.989803
 1930465683,Carex_vulpinoidea,41.295257,-74.734754
