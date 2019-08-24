@@ -47,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258374343,Viscainoa_geniculata,29.16,-113.91
 1265830123,Viscainoa_geniculata,29.666667,-114.75
 1893528119,Viscainoa_geniculata,24.225,-110.341667
-2270528407,Viscainoa_geniculata,27.35,-112.4
 1893636140,Viscainoa_geniculata,31.646667,-116.526667
 2270529383,Viscainoa_geniculata,29.4367,-115.075
 1893528189,Viscainoa_geniculata,23.775,-110.308333
@@ -56,7 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894067746,Viscainoa_geniculata,28.7395454764523,-113.895515271911
 1894067788,Viscainoa_geniculata,28.7391054881272,-113.896285286326
 1895516349,Viscainoa_geniculata,31.385278,-116.277778
-1259239686,Viscainoa_geniculata,28.733333,-113.9
 1896070205,Viscainoa_geniculata,29.233333,-114.186111
 1894067848,Viscainoa_geniculata,28.6805137847851,-114.223232318342
 1259238306,Viscainoa_geniculata,29.133333,-114.15
@@ -77,7 +75,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893716996,Viscainoa_geniculata,31.863333,-116.601667
 1894067803,Viscainoa_geniculata,29.770806,-114.766444
 1894068325,Viscainoa_geniculata,30.116861,-115.650111
-1258398005,Viscainoa_geniculata,29.8,-115.1
 1895516409,Viscainoa_geniculata,29.2936067246093,-113.870470741312
 1896070202,Viscainoa_geniculata,28.294722,-113.536111
 2270528801,Viscainoa_geniculata,30.067918,-115.370784
@@ -113,25 +110,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894067723,Viscainoa_geniculata,27.433222,-112.483389
 1321830914,Viscainoa_geniculata,29.58,-114.78
 1894067843,Viscainoa_geniculata,29.583306,-114.783639
-1258396743,Viscainoa_geniculata,29,-113.783333
 1258396709,Viscainoa_geniculata,24.27,-110.32
 1258396729,Viscainoa_geniculata,23.24,-110.15
 1258396731,Viscainoa_geniculata,23.233333,-110.15
 1258396740,Viscainoa_geniculata,27.95,-113.55
 1894068420,Viscainoa_geniculata,26.3780426533673,-112.511557806539
 1258398031,Viscainoa_geniculata,26.373889,-112.510556
-1258396770,Viscainoa_geniculata,26.9,-113.116667
 1258398100,Viscainoa_geniculata,28.96,-113.63
 1258398122,Viscainoa_geniculata,29.55,-114.25
 1895516373,Viscainoa_geniculata,29.4640689197273,-114.181996148935
-1258398109,Viscainoa_geniculata,29.266667,-114.2
 1258398094,Viscainoa_geniculata,30.666667,-114.766667
 1258398054,Viscainoa_geniculata,28.583333,-114.05
-1258396772,Viscainoa_geniculata,28.5,-114.066667
-1258396867,Viscainoa_geniculata,26.483333,-112.7
 1894067779,Viscainoa_geniculata,24.2193238510653,-110.301290759424
 1895516365,Viscainoa_geniculata,30.69,-114.75
-1258398093,Viscainoa_geniculata,29.4,-114.2
 1258396774,Viscainoa_geniculata,23.85,-110.683333
 1258398038,Viscainoa_geniculata,29.966667,-114.55
 1259238624,Viscainoa_geniculata,29.666667,-114.416667
@@ -139,7 +130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258398119,Viscainoa_geniculata,26.37,-112.51
 1258396716,Viscainoa_geniculata,26.383333,-112.616667
 1258396749,Viscainoa_geniculata,24.231667,-110.306667
-1258398075,Viscainoa_geniculata,28.883333,-113.8
 1894067655,Viscainoa_geniculata,26.616667,-111.833417
 1894067741,Viscainoa_geniculata,29.0007597087475,-113.77634643781
 1894067869,Viscainoa_geniculata,23.2540429388168,-110.151011178077
@@ -164,9 +154,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894067888,Viscainoa_geniculata,28.975,-114.141667
 1896059393,Viscainoa_geniculata,26.738889,-112.926667
 1896070228,Viscainoa_geniculata,28.903889,-113.540278
-1258398105,Viscainoa_geniculata,28.9,-114.133333
 1894068311,Viscainoa_geniculata,26.3838059288868,-112.608473046371
-1258398036,Viscainoa_geniculata,26.383333,-112.6
 1894067769,Viscainoa_geniculata,28.4425007951719,-113.992960364616
 1894067753,Viscainoa_geniculata,28.9454399130311,-113.559379063743
 1894067765,Viscainoa_geniculata,29.0292603762833,-113.831328904574
