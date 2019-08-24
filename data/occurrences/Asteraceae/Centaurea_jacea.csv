@@ -11,11 +11,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988595374,Centaurea_jacea,47.55389,13.67583
 1935672008,Centaurea_jacea,47.68833,14.92694
 1831532104,Centaurea_jacea,50.178283,8.6712
-1844870866,Centaurea_jacea,42.6,-2.77
 1701514957,Centaurea_jacea,48.11667,16.26667
 1844879051,Centaurea_jacea,41.356941,23.87694
 2244174669,Centaurea_jacea,51.821945,11.067778
-1844870927,Centaurea_jacea,42.6,-2.76
 1844879303,Centaurea_jacea,40.66806,21.96306
 1606547691,Centaurea_jacea,60.661649,23.611986
 1844878960,Centaurea_jacea,41.299721,24.065559
@@ -50,10 +48,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891608388,Centaurea_jacea,49.58,6.26
 1891608342,Centaurea_jacea,49.54,6.34
 1891608414,Centaurea_jacea,49.68,6.25
-1891608363,Centaurea_jacea,49.7,6.18
 1891608336,Centaurea_jacea,49.55,6.35
 1999600979,Centaurea_jacea,60.738616,27.006054
-1891608364,Centaurea_jacea,49.56,6.3
 1891608275,Centaurea_jacea,49.53,5.96
 1229578596,Centaurea_jacea,60.6331,6.2564
 1999601000,Centaurea_jacea,60.541651,21.936605
@@ -121,10 +117,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1675998524,Centaurea_jacea,50.177683,8.639667
 911748402,Centaurea_jacea,51.396114,11.037223
 1050658776,Centaurea_jacea,42.61,-2.87
-1421199830,Centaurea_jacea,51.6,12.4
 1050658883,Centaurea_jacea,42.83,-2.66
 1675998534,Centaurea_jacea,50.131917,8.683167
-1050651732,Centaurea_jacea,42.9,-2.59
 1881244286,Centaurea_jacea,48.46,10.51
 1949957020,Centaurea_jacea,52.283333,7.993056
 1501446177,Centaurea_jacea,40.12,-1.44
@@ -147,7 +141,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 775295610,Centaurea_jacea,45.882367,10.767933
 1598525236,Centaurea_jacea,62.620692,29.561979
 1090830323,Centaurea_jacea,48.374167,15.583611
-899748747,Centaurea_jacea,49.2,7.2
 1902144755,Centaurea_jacea,48.36111,15.86139
 1701326668,Centaurea_jacea,63.3107,10.1695
 1598525235,Centaurea_jacea,62.619931,29.560637
@@ -161,7 +154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830973832,Centaurea_jacea,48.02778,16.27083
 900309028,Centaurea_jacea,59.2022,9.6087
 1697586927,Centaurea_jacea,54.828167,25.833917
-899748722,Centaurea_jacea,49,8.3
 1936250981,Centaurea_jacea,42.7681,-0.2856
 876157352,Centaurea_jacea,42.815,0.829
 1999474447,Centaurea_jacea,62.457946,25.939697
@@ -176,7 +168,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701283299,Centaurea_jacea,63.4181,10.4152
 1427569730,Centaurea_jacea,69.9713,23.2959
 1842892655,Centaurea_jacea,48.7675,21.2177
-1095917873,Centaurea_jacea,59.23,17.9
 1135438927,Centaurea_jacea,43.05528,11.79806
 1230542007,Centaurea_jacea,48.76806,21.21833
 812034745,Centaurea_jacea,50.940472,14.661677
@@ -190,7 +181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055825281,Centaurea_jacea,51.494571,0.068397
 1842879720,Centaurea_jacea,42.056,0.9007
 675078221,Centaurea_jacea,59.886499,10.542277
-1697586929,Centaurea_jacea,60.6,45.6
 684151878,Centaurea_jacea,47.605556,12.531111
 1702230338,Centaurea_jacea,59.8197,10.9866
 895303532,Centaurea_jacea,41.504,-1.748
@@ -224,7 +214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144050056,Centaurea_jacea,58.7641,5.7136
 1842880044,Centaurea_jacea,42.1743,-1.0063
 1842884706,Centaurea_jacea,42.1763,19.105
-1638386606,Centaurea_jacea,46.38528,12.5
 1899737711,Centaurea_jacea,48.29378,14.40383
 1098971059,Centaurea_jacea,47.84285,12.113206
 1019291817,Centaurea_jacea,42.1705,2.2305
@@ -244,7 +233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323859908,Centaurea_jacea,69.7326,30.1178
 1842879788,Centaurea_jacea,46.3333,13.8593
 1936204683,Centaurea_jacea,42.0256,2.6658
-1842879821,Centaurea_jacea,48.2,12.93
 1936686130,Centaurea_jacea,36.837778,-4.861389
 1936687073,Centaurea_jacea,36.2617,-5.495
 1936699688,Centaurea_jacea,35.0906,-5.16
@@ -296,11 +284,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936679364,Centaurea_jacea,37.981667,22.301944
 1936679757,Centaurea_jacea,39.7922,21.2275
 1936200181,Centaurea_jacea,39.878333,-3.326944
-1936200779,Centaurea_jacea,38.839167,-1.9
 1936683333,Centaurea_jacea,38.0517,22.1419
 1936682890,Centaurea_jacea,39.6928,21.0986
 1936677939,Centaurea_jacea,38.0178,22.1778
-786108130,Centaurea_jacea,48.6,8.9
 1936682945,Centaurea_jacea,39.7258,21.0581
 1936677499,Centaurea_jacea,37.9972,22.1894
 895200741,Centaurea_jacea,40.175,-2.125
@@ -343,7 +329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936681409,Centaurea_jacea,39.9825,21.3731
 1935671934,Centaurea_jacea,47.20325,14.58547
 1019292804,Centaurea_jacea,42.7606,-0.3276
-786108148,Centaurea_jacea,49.5,9.9
 1701315317,Centaurea_jacea,66.9505,13.9437
 1936681791,Centaurea_jacea,40.1425,21.6242
 1936681935,Centaurea_jacea,40.1989,21.6467
@@ -358,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253403365,Centaurea_jacea,51.936039,11.786434
 1936689793,Centaurea_jacea,37.1553,-6.4958
 441993983,Centaurea_jacea,51.233237,15.022209
-786108117,Centaurea_jacea,49.3,9.6
 9064504,Centaurea_jacea,48.5518,3.91538
 9064481,Centaurea_jacea,46.9687,4.64968
 9064489,Centaurea_jacea,46.709,4.62985
@@ -389,7 +373,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313473668,Centaurea_jacea,48.15,11.49
 9064473,Centaurea_jacea,46.8813,2.15927
 1831081868,Centaurea_jacea,53.5485,11.4153
-2313472903,Centaurea_jacea,48.2,11.5
 860329654,Centaurea_jacea,48.422,16.8418
 9064477,Centaurea_jacea,47.1947,1.88297
 9064475,Centaurea_jacea,47.1438,1.86349
@@ -420,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441995509,Centaurea_jacea,51.288097,14.82163
 1936644015,Centaurea_jacea,38.2975,-2.0406
 1936661381,Centaurea_jacea,40.595278,44.963056
-786108056,Centaurea_jacea,47.7,9
 1936660553,Centaurea_jacea,40.5356,44.6839
 1936658956,Centaurea_jacea,40.77,45.009167
 1936660328,Centaurea_jacea,39.6856,45.2325
@@ -429,7 +411,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936660479,Centaurea_jacea,39.205,46.461389
 1936660610,Centaurea_jacea,39.060556,46.188333
 1936659887,Centaurea_jacea,39.3961,46.2592
-786108047,Centaurea_jacea,49.6,8.7
 1936660061,Centaurea_jacea,40.1378,44.291944
 1144620346,Centaurea_jacea,41.93333,9.15
 1936660571,Centaurea_jacea,39.364167,46.298333
@@ -444,8 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702182819,Centaurea_jacea,59.5479,10.8087
 1936661081,Centaurea_jacea,39.956667,44.684444
 1702182835,Centaurea_jacea,59.3785,11.7379
-1657178107,Centaurea_jacea,46.4,13.35
-895181921,Centaurea_jacea,40.31,-2.1
 1702182780,Centaurea_jacea,59.6666,11.259
 1503344152,Centaurea_jacea,52.375,13.298611
 1230531149,Centaurea_jacea,46.45556,14.62306
@@ -468,7 +447,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 684151768,Centaurea_jacea,47.50699,9.72162
 1936670886,Centaurea_jacea,42.6215,-3.0623
 895315004,Centaurea_jacea,40.609,0.051
-991880485,Centaurea_jacea,46.7,9.7
 1697593458,Centaurea_jacea,55.582591,37.556825
 441992172,Centaurea_jacea,51.295174,14.902501
 441992256,Centaurea_jacea,51.161301,14.981107
@@ -478,7 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441992148,Centaurea_jacea,51.412663,14.960544
 1050641916,Centaurea_jacea,42.82,-2.71
 1701256839,Centaurea_jacea,61.0187,6.4049
-786108119,Centaurea_jacea,49.6,9.6
 1050638371,Centaurea_jacea,42.85,-2.65
 9064242,Centaurea_jacea,48.1505,3.64637
 9064247,Centaurea_jacea,48.1676,3.48377
@@ -575,7 +552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936616344,Centaurea_jacea,42.2333,13.95
 1697586937,Centaurea_jacea,66.306492,33.44866
 1935670475,Centaurea_jacea,47.31139,15.84806
-1881239547,Centaurea_jacea,48.91,10.8
 1144201150,Centaurea_jacea,60.3853,5.3418
 9038847,Centaurea_jacea,46.5671,4.90051
 1697587006,Centaurea_jacea,53.933333,35.75
@@ -587,28 +563,21 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638385111,Centaurea_jacea,47.525,16.54167
 1837462793,Centaurea_jacea,44.111347,8.115658
 1702232385,Centaurea_jacea,59.6535,11.4374
-991880483,Centaurea_jacea,48.1,11.5
 1697593576,Centaurea_jacea,52.087926,40.798035
 1701299035,Centaurea_jacea,63.0479,9.2561
 1936578471,Centaurea_jacea,30.0414,-7.8067
-1936603369,Centaurea_jacea,36.8,-5.3167
 1230543177,Centaurea_jacea,48.20444,14.20389
 441988482,Centaurea_jacea,52.403332,13.045555
 1936605681,Centaurea_jacea,40.433333,39.766667
-1936607248,Centaurea_jacea,39.7333,26.8
 1936606212,Centaurea_jacea,39.85,41.283333
 1936605604,Centaurea_jacea,41.266667,32.683333
-1936605875,Centaurea_jacea,40.7,39.05
 1936606494,Centaurea_jacea,40.366667,39.666667
-1936607198,Centaurea_jacea,39.5,30.033333
-1936607542,Centaurea_jacea,39.6667,27.1
 1936606945,Centaurea_jacea,40.65,40.7167
 1936606203,Centaurea_jacea,41.4333,32.7167
 1936605324,Centaurea_jacea,40.5167,39.7833
 1936606167,Centaurea_jacea,40.583333,31.283333
 1936604808,Centaurea_jacea,39.9833,41.6667
 1702032764,Centaurea_jacea,59.4662,11.6445
-1936605701,Centaurea_jacea,40.5,39.766667
 1936605269,Centaurea_jacea,40.483333,39.783333
 1936606893,Centaurea_jacea,41.2667,32.6833
 1936607100,Centaurea_jacea,40.366667,40.783333
@@ -627,7 +596,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936617844,Centaurea_jacea,42.4772,2.0733
 1701839301,Centaurea_jacea,59.721,11.8372
 1332523799,Centaurea_jacea,50.6991,9.91655
-1638384896,Centaurea_jacea,46.45,13.3
 1946917567,Centaurea_jacea,50.01,10.74
 1701256206,Centaurea_jacea,63.5519,10.2064
 1844870123,Centaurea_jacea,42.65,-0.62
@@ -651,7 +619,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638385005,Centaurea_jacea,47.775,16.875
 1671648872,Centaurea_jacea,44.153696,9.617214
 1936566854,Centaurea_jacea,36.7592,-5.3762
-1936569511,Centaurea_jacea,38.1,12.65
 1936643607,Centaurea_jacea,42.8767,-4.1767
 441983196,Centaurea_jacea,47.25,11.333333
 1946918439,Centaurea_jacea,48.33,13.33
@@ -663,10 +630,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701838658,Centaurea_jacea,61.2441,11.4756
 1851384495,Centaurea_jacea,42.359,-5.1013
 1050625719,Centaurea_jacea,42.72,-2.55
-991880481,Centaurea_jacea,48.3,11.5
 1936572460,Centaurea_jacea,37.6834,-3.4662
 1946917651,Centaurea_jacea,50.01,10.55
-1050627438,Centaurea_jacea,41.82,-1.8
 1946916744,Centaurea_jacea,49.94,9.81
 1701838841,Centaurea_jacea,59.7201,11.8353
 1946917582,Centaurea_jacea,50.02,10.32
@@ -683,7 +648,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187130613,Centaurea_jacea,63.9225,11.4338
 1598525233,Centaurea_jacea,65.219625,29.643987
 1795863066,Centaurea_jacea,42.641725,-2.283537
-1638384987,Centaurea_jacea,44.48333,4.6
 1323735820,Centaurea_jacea,69.6865,30.0631
 1050628000,Centaurea_jacea,41.82,-1.82
 1935670851,Centaurea_jacea,45.59833,13.95867
@@ -699,7 +663,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323750588,Centaurea_jacea,66.9527,13.9356
 1999474423,Centaurea_jacea,60.37001,22.345534
 186801254,Centaurea_jacea,58.4914,7.4621
-1050624644,Centaurea_jacea,41.8,-1.79
 1050626069,Centaurea_jacea,42.72,-2.53
 1999474369,Centaurea_jacea,60.794967,21.430907
 1638384674,Centaurea_jacea,48.925,15.79167
@@ -720,7 +683,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705872910,Centaurea_jacea,52.4468,23.0104
 1936610531,Centaurea_jacea,42.5018,-0.8228
 204424928,Centaurea_jacea,42.507999,-0.815
-1050640340,Centaurea_jacea,42.5,-0.81
 895308107,Centaurea_jacea,42.508,-0.815
 1946918014,Centaurea_jacea,47.57,10.04
 1702161547,Centaurea_jacea,59.6854,9.7983
@@ -733,7 +695,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441984820,Centaurea_jacea,51.054443,13.739166
 20711633,Centaurea_jacea,59.665,11.8058
 1936671966,Centaurea_jacea,41.3094,-4.1959
-895300055,Centaurea_jacea,39.7,-2.01
 1638384643,Centaurea_jacea,48.175,14.04167
 1702164236,Centaurea_jacea,59.9474,9.4824
 1702161794,Centaurea_jacea,58.7916,8.859
@@ -748,7 +709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831517122,Centaurea_jacea,42.59389,-3.78806
 296440667,Centaurea_jacea,47.148,10.397
 367095684,Centaurea_jacea,46.167778,10.285
-788456409,Centaurea_jacea,40.2,21.016667
 1323829540,Centaurea_jacea,69.1389,29.2525
 187130313,Centaurea_jacea,61.1476,11.3501
 895174612,Centaurea_jacea,39.88,-2.01
@@ -783,7 +743,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702160485,Centaurea_jacea,59.2034,9.689
 1946917907,Centaurea_jacea,50.36,10.28
 1946917902,Centaurea_jacea,50.36,10.26
-1946917901,Centaurea_jacea,50.28,10.2
 1946917883,Centaurea_jacea,49.98,10.72
 1946917796,Centaurea_jacea,49.97,10.62
 1946917887,Centaurea_jacea,50.31,10.38
@@ -799,7 +758,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935671068,Centaurea_jacea,47.2125,15.63417
 441986753,Centaurea_jacea,51.530064,12.619874
 1851579639,Centaurea_jacea,42.36,-0.23
-1946917871,Centaurea_jacea,49.94,10.8
 1946917787,Centaurea_jacea,49.94,10.86
 1702151133,Centaurea_jacea,61.942,11.0286
 165101580,Centaurea_jacea,46.799652,15.745045
@@ -836,14 +794,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936549232,Centaurea_jacea,33.1333,-5.15
 684151463,Centaurea_jacea,47.208611,9.756389
 1701986073,Centaurea_jacea,61.114,11.6102
-1936549986,Centaurea_jacea,32.5167,-6
 1697593562,Centaurea_jacea,50.930806,37.610617
 1697586950,Centaurea_jacea,54.80119,40.874876
-1936549536,Centaurea_jacea,33.3,-5.2167
 1936549371,Centaurea_jacea,33.2833,-5.2333
-1936549571,Centaurea_jacea,33.1667,-5.1
 1701993118,Centaurea_jacea,59.7665,10.9407
-1936549455,Centaurea_jacea,33.6,-4.9167
 1936549304,Centaurea_jacea,33.25,-5.0667
 1697749085,Centaurea_jacea,44.747372,34.30202
 296440648,Centaurea_jacea,46.766,12.584
@@ -889,7 +843,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936445379,Centaurea_jacea,42.8408,-4.8491
 1701985987,Centaurea_jacea,61.101,11.3651
 1881241644,Centaurea_jacea,48.77,10.68
-1230531516,Centaurea_jacea,47.66667,15.1
 1701785843,Centaurea_jacea,59.6117,8.7581
 1697593528,Centaurea_jacea,52.481266,42.879435
 1701583133,Centaurea_jacea,61.7765,9.507
@@ -925,8 +878,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230542209,Centaurea_jacea,48.87611,21.13917
 204423888,Centaurea_jacea,42.860001,-0.84
 318106405,Centaurea_jacea,42.59,-0.11
-895224210,Centaurea_jacea,40.6,-2
-895304690,Centaurea_jacea,40.66,0.1
 1697586920,Centaurea_jacea,59.773997,38.361804
 1701722580,Centaurea_jacea,61.3324,7.8696
 1851330175,Centaurea_jacea,42.863,-4.965
@@ -949,14 +900,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895306245,Centaurea_jacea,41.78,-2.82
 1831518040,Centaurea_jacea,48.89389,21.015
 1851385817,Centaurea_jacea,43.006,-5.067
-1500700121,Centaurea_jacea,40.4,-0.35
 1050580310,Centaurea_jacea,42.53,-2.56
 1598525297,Centaurea_jacea,60.831361,24.795071
-1500701304,Centaurea_jacea,40.3,-0.12
 1702230873,Centaurea_jacea,59.6823,11.7973
 57687296,Centaurea_jacea,63.480301,25.33
 895306507,Centaurea_jacea,40.331,-0.11
-1946917784,Centaurea_jacea,50.29,10.4
 1702230875,Centaurea_jacea,59.9275,8.8479
 1288097204,Centaurea_jacea,50.710974,9.777154
 1851397697,Centaurea_jacea,42.914,-5.138
@@ -983,7 +931,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946917856,Centaurea_jacea,49.99,10.45
 1342311864,Centaurea_jacea,57.050082,9.864062
 1500700352,Centaurea_jacea,39.05,-0.86
-895306180,Centaurea_jacea,42.5,-2.7
 1946919800,Centaurea_jacea,50.21,9.93
 1701641833,Centaurea_jacea,59.4667,7.9475
 1702229710,Centaurea_jacea,59.2494,7.8867
@@ -994,7 +941,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598525264,Centaurea_jacea,60.398831,25.652693
 895306499,Centaurea_jacea,40.39,-0.23
 1500200084,Centaurea_jacea,49.333333,13.75
-2291789933,Centaurea_jacea,43.3,0.85
 860310255,Centaurea_jacea,42.301,2.169
 1946917851,Centaurea_jacea,50.02,9.79
 860318800,Centaurea_jacea,42.92,0.37
@@ -1018,7 +964,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936200480,Centaurea_jacea,36.8384,-4.347
 1050647797,Centaurea_jacea,42.79,-2.49
 1831081654,Centaurea_jacea,53.1485,11.4153
-860318454,Centaurea_jacea,42.4,2.21
 1598525279,Centaurea_jacea,60.459916,26.642525
 1935669981,Centaurea_jacea,47.12861,16.46778
 1946918116,Centaurea_jacea,50.08,10.57
@@ -1031,12 +976,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946917744,Centaurea_jacea,50.32,10.57
 1065671905,Centaurea_jacea,64.339556,19.58221
 1598525280,Centaurea_jacea,64.586132,28.760531
-1851328366,Centaurea_jacea,42.6,-5.554
 1288097231,Centaurea_jacea,50.6354,9.5768
 1500702016,Centaurea_jacea,40.75,0.22
 1668935330,Centaurea_jacea,54.913,37.568
 895305491,Centaurea_jacea,41.77,-1.74
-318106650,Centaurea_jacea,42.5,-1.3
 1851372487,Centaurea_jacea,42.658,-0.664
 1697587052,Centaurea_jacea,55.694687,35.572441
 1851393678,Centaurea_jacea,42.668,-0.675
@@ -1093,13 +1036,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895305440,Centaurea_jacea,40.22,-1.325
 1946917840,Centaurea_jacea,50.32,9.87
 1946917841,Centaurea_jacea,49.67,10.29
-1946917756,Centaurea_jacea,50.16,10.8
 1936579079,Centaurea_jacea,40.159533,-5.060733
 1657178332,Centaurea_jacea,47.775,15.29167
 1053984190,Centaurea_jacea,42.62,-1.19
-1053983637,Centaurea_jacea,42.65,-1.2
 895305495,Centaurea_jacea,40.31,-0.35
-1053984070,Centaurea_jacea,42.64,-1.2
 1697586975,Centaurea_jacea,57.184832,26.694546
 1050642874,Centaurea_jacea,42.86,-0.82
 895304931,Centaurea_jacea,40.426,-0.318
@@ -1115,7 +1055,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598525228,Centaurea_jacea,61.734493,22.841796
 204423415,Centaurea_jacea,42.640999,-1.176
 1702258001,Centaurea_jacea,59.213,10.9179
-1324958595,Centaurea_jacea,47.916667,13.5
 1050642911,Centaurea_jacea,42.92,-2.05
 57687298,Centaurea_jacea,62.4459,24.381399
 1946917734,Centaurea_jacea,50.12,10.68
@@ -1135,7 +1074,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895230619,Centaurea_jacea,38.925,-2.821
 895298616,Centaurea_jacea,38.89,-2.83
 788704634,Centaurea_jacea,57.722234,12.939299
-1050645051,Centaurea_jacea,41.1,-4.13
 1598525194,Centaurea_jacea,59.961868,23.425553
 1050642918,Centaurea_jacea,42.76,-2.11
 1053984117,Centaurea_jacea,42.63,-1.14
@@ -1158,14 +1096,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053984035,Centaurea_jacea,42.64,-1.18
 1936578351,Centaurea_jacea,40.2501,-5.1764
 1701786047,Centaurea_jacea,59.8557,8.9375
-1050645085,Centaurea_jacea,41.07,-3.8
 1324958605,Centaurea_jacea,48.006944,16.295833
-1053984149,Centaurea_jacea,42.67,-1
 1702432328,Centaurea_jacea,59.2684,8.6413
-1053984133,Centaurea_jacea,42.63,-1
 1697749056,Centaurea_jacea,44.893306,34.783316
 1332523770,Centaurea_jacea,50.5858,9.82794
-895304934,Centaurea_jacea,40.6,-1.76
 1936656559,Centaurea_jacea,41.0508,-3.9056
 1705325348,Centaurea_jacea,58.064649,11.556239
 900225916,Centaurea_jacea,59.0889,5.7996
@@ -1174,7 +1108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598525270,Centaurea_jacea,61.052466,28.184458
 1050645096,Centaurea_jacea,41.05,-3.89
 895305040,Centaurea_jacea,40.96,-2.11
-895299615,Centaurea_jacea,40.23,-1.3
 1712607254,Centaurea_jacea,42.66188,-1.897898
 1712606201,Centaurea_jacea,42.653819,-1.918549
 1935670855,Centaurea_jacea,46.55167,13.28333
@@ -1192,7 +1125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895304930,Centaurea_jacea,41.77,-1.86
 1500699403,Centaurea_jacea,39.87,-0.84
 895298000,Centaurea_jacea,39.96,-0.95
-1946917586,Centaurea_jacea,50.33,10.3
 296440661,Centaurea_jacea,48.229444,14.551389
 1935670808,Centaurea_jacea,47.6375,15.04583
 895305821,Centaurea_jacea,41.33,-3.18
@@ -1205,7 +1137,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946917666,Centaurea_jacea,50.32,10.32
 204423419,Centaurea_jacea,42.639999,-0.13
 1288097200,Centaurea_jacea,50.5823,9.84912
-237338833,Centaurea_jacea,42.4,1.85
 57687299,Centaurea_jacea,62.231899,25.794701
 684151779,Centaurea_jacea,47.11701,10.6293
 684151894,Centaurea_jacea,47.121111,10.656111
@@ -1220,7 +1151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946917961,Centaurea_jacea,50.21,10.22
 1050574495,Centaurea_jacea,42.73,-3.09
 296440663,Centaurea_jacea,47.274,10.793
-1050574502,Centaurea_jacea,42.6,-2.68
 296440642,Centaurea_jacea,47.216,11.35
 1144121529,Centaurea_jacea,59.98286,5.53824
 1050574516,Centaurea_jacea,42.69,-2.77
@@ -1228,14 +1158,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050574473,Centaurea_jacea,42.79,-2.99
 1050574434,Centaurea_jacea,42.73,-2.59
 204423787,Centaurea_jacea,42.799,-2.994
-991880480,Centaurea_jacea,46.9,14.8
 895298067,Centaurea_jacea,39.86,-0.72
 1936548208,Centaurea_jacea,40.9187,-2.645
 1851400505,Centaurea_jacea,42.74,-5.38
 199466520,Centaurea_jacea,41.04,-4.84
 1851344259,Centaurea_jacea,42.56,-5.62
 1050574481,Centaurea_jacea,42.88,-2.57
-895304858,Centaurea_jacea,42.4,-4.15
 1265012845,Centaurea_jacea,57.28219,14.35088
 1946918038,Centaurea_jacea,50.27,10.55
 1806556918,Centaurea_jacea,42.896696,-1.780896
@@ -1341,7 +1269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701369337,Centaurea_jacea,59.3224,11.1358
 1702439489,Centaurea_jacea,59.3079,9.1142
 1050574457,Centaurea_jacea,43.03,-2.56
-1050574485,Centaurea_jacea,42.6,-2.65
 1050574490,Centaurea_jacea,42.95,-2.33
 1701981137,Centaurea_jacea,60.5669,6.8939
 788696800,Centaurea_jacea,55.725755,13.069942
@@ -1354,7 +1281,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701315976,Centaurea_jacea,62.8445,11.2881
 1845008680,Centaurea_jacea,49.204722,8.028056
 1701316008,Centaurea_jacea,63.2259,10.9997
-1050574491,Centaurea_jacea,42.9,-2.77
 1701225144,Centaurea_jacea,63.2642,10.823
 1050574488,Centaurea_jacea,42.96,-2.57
 1050574529,Centaurea_jacea,42.62,-2.71
@@ -1375,12 +1301,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144620361,Centaurea_jacea,41.91667,8.73333
 1697587035,Centaurea_jacea,54.486315,40.592049
 1697586997,Centaurea_jacea,54.69844,40.604439
-833455592,Centaurea_jacea,49.35,8.6
 1845008356,Centaurea_jacea,49.358333,8.595833
 788550253,Centaurea_jacea,58.44337,13.86582
 1638533141,Centaurea_jacea,39.95,20.683333
 1701245987,Centaurea_jacea,64.0535,9.9525
-1144620344,Centaurea_jacea,42.1,9.2
 1701786033,Centaurea_jacea,59.2411,7.9746
 1702210278,Centaurea_jacea,58.9821,10.9538
 1598525163,Centaurea_jacea,62.494052,25.143859
@@ -1392,13 +1316,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702417027,Centaurea_jacea,58.8051,9.1125
 1999474384,Centaurea_jacea,60.918312,21.850016
 1705873030,Centaurea_jacea,52.4488,22.9112
-1098971024,Centaurea_jacea,47.75,23
 57687341,Centaurea_jacea,62.462681,24.83563
 1099865780,Centaurea_jacea,56.954444,8.689722
 1598525176,Centaurea_jacea,62.5049,24.958903
 1705872757,Centaurea_jacea,50.4716,17.3341
 1701228080,Centaurea_jacea,65.4609,12.1694
-1098971033,Centaurea_jacea,47.650002,23.6
 1705872922,Centaurea_jacea,49.4404,20.1446
 1697586989,Centaurea_jacea,54.63824,40.686296
 1144121481,Centaurea_jacea,60.6751,5.2262
@@ -1424,7 +1346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705873004,Centaurea_jacea,52.5141,23.2358
 1598525550,Centaurea_jacea,61.735748,22.737537
 1598525456,Centaurea_jacea,61.884374,28.422923
-1249267131,Centaurea_jacea,50.6,6.8
 865490164,Centaurea_jacea,59.1321,11.3862
 186801494,Centaurea_jacea,58.2999,6.6539
 1705872785,Centaurea_jacea,54.2505,22.0303
@@ -1435,12 +1356,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999474361,Centaurea_jacea,60.41537,22.35722
 1999474474,Centaurea_jacea,60.619117,21.788092
 1999474350,Centaurea_jacea,60.412181,22.266782
-1249267114,Centaurea_jacea,50.6,6.9
 1323859723,Centaurea_jacea,59.6988,10.6347
 1697587010,Centaurea_jacea,54.823537,41.651716
 1598525511,Centaurea_jacea,61.049469,23.941978
 1598525192,Centaurea_jacea,60.91787,26.748009
-1705872992,Centaurea_jacea,52.7,23.1635
 1598525438,Centaurea_jacea,61.150555,24.489639
 1598525203,Centaurea_jacea,62.015548,23.080838
 900227030,Centaurea_jacea,59.3019,5.6364
@@ -1450,9 +1369,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705872928,Centaurea_jacea,52.5238,22.9285
 1705872902,Centaurea_jacea,52.7228,23.6003
 1705872778,Centaurea_jacea,54.3186,22.9092
-1060320011,Centaurea_jacea,50.6,6.7
 1705872904,Centaurea_jacea,52.6837,23.5448
-1060320021,Centaurea_jacea,50.8,6.3
 684151879,Centaurea_jacea,47.0675,15.507222
 1705872864,Centaurea_jacea,54.2705,22.9564
 1705872890,Centaurea_jacea,54.3356,22.675
@@ -1475,7 +1392,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099870837,Centaurea_jacea,64.130556,28.390556
 1999474289,Centaurea_jacea,60.478319,26.915087
 1598525237,Centaurea_jacea,60.568095,26.98779
-1060320013,Centaurea_jacea,50.6,7
 1842892596,Centaurea_jacea,42.31,1.85
 1598525481,Centaurea_jacea,61.053533,24.126848
 1697749114,Centaurea_jacea,44.470118,34.083147
@@ -1493,13 +1409,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986495037,Centaurea_jacea,61.32771,10.51106
 1999474290,Centaurea_jacea,60.429293,22.500724
 1098971028,Centaurea_jacea,48.706944,10.301666
-786108271,Centaurea_jacea,50.5,7
 1598525155,Centaurea_jacea,60.559013,27.170088
 1598525468,Centaurea_jacea,60.63287,27.819244
 1999474394,Centaurea_jacea,60.346382,22.711688
 1598525508,Centaurea_jacea,61.851458,23.672231
 1705402098,Centaurea_jacea,57.274257,15.17529
-786108257,Centaurea_jacea,50.5,6.9
 1065671890,Centaurea_jacea,63.880993,19.92803
 1598525444,Centaurea_jacea,61.657452,23.126328
 1801081617,Centaurea_jacea,44.465825,33.850594
@@ -1515,7 +1429,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187130682,Centaurea_jacea,63.2658,10.8232
 684151772,Centaurea_jacea,48.163611,11.6125
 1598525216,Centaurea_jacea,61.472963,22.961438
-1144620333,Centaurea_jacea,41.95,8.7
 1999474415,Centaurea_jacea,60.893641,21.678625
 2313351393,Centaurea_jacea,48.21,11.63
 1598525435,Centaurea_jacea,62.97534,22.162542
@@ -1548,7 +1461,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705872967,Centaurea_jacea,52.7431,23.8511
 812022785,Centaurea_jacea,50.687417,9.24345
 1936694351,Centaurea_jacea,42.7761,-5.8128
-991880447,Centaurea_jacea,51.7,7.8
 1701985132,Centaurea_jacea,59.2493,9.6575
 1702277070,Centaurea_jacea,59.0396,10.8909
 1598525483,Centaurea_jacea,60.893194,25.246966
@@ -1596,7 +1508,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598525422,Centaurea_jacea,61.336391,29.145377
 1705327749,Centaurea_jacea,57.042658,16.446171
 1598525525,Centaurea_jacea,60.545354,27.270362
-786108199,Centaurea_jacea,47.1,11.5
 684151774,Centaurea_jacea,47.815556,11.553889
 900226075,Centaurea_jacea,58.9347,5.6896
 1697586942,Centaurea_jacea,55.232186,26.074769
@@ -1632,7 +1543,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144121457,Centaurea_jacea,59.04558,5.99703
 1831082227,Centaurea_jacea,53.9485,12.4152
 1598525452,Centaurea_jacea,60.951002,23.582062
-786108202,Centaurea_jacea,50.7,7.1
 1701786792,Centaurea_jacea,59.9619,10.4058
 1999474425,Centaurea_jacea,60.555169,22.501472
 1144121539,Centaurea_jacea,61.52828,7.56571
@@ -1798,7 +1708,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 335195701,Centaurea_jacea,48.899378,7.266486
 187130686,Centaurea_jacea,63.3985,10.1409
 57687309,Centaurea_jacea,61.057301,24.3116
-1144620345,Centaurea_jacea,42.5,9.43333
 1598525453,Centaurea_jacea,61.488467,23.523209
 1701659739,Centaurea_jacea,59.1459,11.7352
 1705380443,Centaurea_jacea,55.704216,13.193143
@@ -1939,7 +1848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705368841,Centaurea_jacea,58.045204,14.958566
 1701961867,Centaurea_jacea,63.3167,10.2674
 1598525339,Centaurea_jacea,63.146165,27.69095
-786108025,Centaurea_jacea,49.6,8.1
 1598525302,Centaurea_jacea,60.767062,23.418025
 1598525359,Centaurea_jacea,60.67749,23.427997
 788713173,Centaurea_jacea,57.865139,11.99489
@@ -1947,7 +1855,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702420930,Centaurea_jacea,59.4125,11.3521
 788688925,Centaurea_jacea,58.67665,11.28658
 1323811256,Centaurea_jacea,65.8647,13.2026
-317818090,Centaurea_jacea,41.78,2.7
 788701968,Centaurea_jacea,55.924459,13.10503
 1702421221,Centaurea_jacea,59.4323,11.2476
 1705345027,Centaurea_jacea,59.438443,18.103166
@@ -1976,7 +1883,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 689685,Centaurea_jacea,56.16599,15.56567
 1598525311,Centaurea_jacea,60.963903,24.134942
 1702277014,Centaurea_jacea,59.3439,10.8725
-786108135,Centaurea_jacea,47.7,9.4
 788707852,Centaurea_jacea,57.691615,12.308359
 788709583,Centaurea_jacea,60.53512,15.20728
 1701497813,Centaurea_jacea,59.4362,11.2832
@@ -1985,7 +1891,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313350847,Centaurea_jacea,48.27,11.79
 2313351619,Centaurea_jacea,48.23,11.74
 2313351401,Centaurea_jacea,48.17,11.37
-786107978,Centaurea_jacea,47.8,20
 1598525154,Centaurea_jacea,61.799324,26.143691
 1701357012,Centaurea_jacea,60.8542,10.9051
 1144121512,Centaurea_jacea,60.5667,6.9425
@@ -2137,7 +2042,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701875567,Centaurea_jacea,59.8576,10.4996
 57687310,Centaurea_jacea,62.0439,25.840401
 788720944,Centaurea_jacea,55.835334,13.298413
-2313352067,Centaurea_jacea,48.14,11.4
 2313467976,Centaurea_jacea,48.07,11.54
 1999474332,Centaurea_jacea,60.464875,22.231784
 1705372435,Centaurea_jacea,57.184036,14.048284
@@ -2169,17 +2073,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788725225,Centaurea_jacea,58.49992,13.773099
 788681298,Centaurea_jacea,58.161357,13.550428
 2313352483,Centaurea_jacea,48.22,11.46
-1144620340,Centaurea_jacea,42.7,9.4
 367095669,Centaurea_jacea,46.6715,11.1656
 1638383762,Centaurea_jacea,47.05639,15.395
 1705270837,Centaurea_jacea,57.338216,16.153938
 689592,Centaurea_jacea,56.552979,14.128853
 1697593477,Centaurea_jacea,55.770962,37.254392
 1701849899,Centaurea_jacea,59.4371,11.3098
-317818104,Centaurea_jacea,41.5,2.1
 689572,Centaurea_jacea,41.387778,2.17
 1697593563,Centaurea_jacea,54.720064,38.476388
-786108070,Centaurea_jacea,49.5,8.5
 689383,Centaurea_jacea,41.7311,1.98359
 1598525391,Centaurea_jacea,63.058093,26.897904
 788703921,Centaurea_jacea,55.697935,13.293398
@@ -2196,7 +2097,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999474275,Centaurea_jacea,60.449243,22.297779
 2313469122,Centaurea_jacea,48.14,11.51
 1657174090,Centaurea_jacea,47.72806,16.87583
-786108066,Centaurea_jacea,49,8.5
 1705273321,Centaurea_jacea,57.104306,15.063825
 1099893015,Centaurea_jacea,55.50033,13.47877
 1701225013,Centaurea_jacea,61.2559,11.3209
@@ -2386,7 +2286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 367095672,Centaurea_jacea,46.575,11.680278
 812022767,Centaurea_jacea,50.553867,9.674333
 1671649594,Centaurea_jacea,44.443363,8.847865
-1891592482,Centaurea_jacea,49.8,6.43
 1702352377,Centaurea_jacea,59.3256,10.6694
 1099867050,Centaurea_jacea,59.493611,10.3825
 1701284705,Centaurea_jacea,62.9402,10.2019
