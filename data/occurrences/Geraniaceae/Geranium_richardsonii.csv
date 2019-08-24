@@ -170,11 +170,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930182366,Geranium_richardsonii,39.92,-112.47
 1258386761,Geranium_richardsonii,41.025,-115.06666
 2242420456,Geranium_richardsonii,39.833333,-105.916667
-1897649599,Geranium_richardsonii,-37.783333,174.9
 1930923719,Geranium_richardsonii,40.54,-110.76
 1986971553,Geranium_richardsonii,40.4453,-111.9854
 2242359162,Geranium_richardsonii,40.310278,-106.4125
-2270520102,Geranium_richardsonii,57.79,-152.44
 1303601535,Geranium_richardsonii,46.77,-110.77
 1258333097,Geranium_richardsonii,46.76666,-110.76666
 1895414343,Geranium_richardsonii,29.3506367747246,-107.801206590385
@@ -220,7 +218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303601824,Geranium_richardsonii,33.87,-107.5
 1928778598,Geranium_richardsonii,34.4069,-111.0011
 1929105416,Geranium_richardsonii,43.0867,-112.0128
-1303595672,Geranium_richardsonii,63.07,-135.72
 1895414310,Geranium_richardsonii,25.9575083942185,-107.045696709067
 1303601635,Geranium_richardsonii,33.2,-108.2
 1929170982,Geranium_richardsonii,41.2,-114.01
@@ -291,7 +288,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303594464,Geranium_richardsonii,49.08,-116.87
 1928411323,Geranium_richardsonii,40.38,-111.61
 1929243275,Geranium_richardsonii,43.682783,-111.456847
-1949614385,Geranium_richardsonii,52.916667,-131.6
 883409593,Geranium_richardsonii,54.383333,-119.75
 1303601735,Geranium_richardsonii,45.53,-111.58
 623653060,Geranium_richardsonii,36.418018,-105.335581
@@ -523,7 +519,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988176527,Geranium_richardsonii,50.32,-125.44
 1303595075,Geranium_richardsonii,49.63,-110.2
 1843869557,Geranium_richardsonii,36.032283,-106.855583
-1303595136,Geranium_richardsonii,52.98,-131.78
 1843870722,Geranium_richardsonii,36.031628,-106.855179
 1303601946,Geranium_richardsonii,44.3,-103.68
 1804422126,Geranium_richardsonii,55.4,-122.633333
@@ -637,7 +632,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303594683,Geranium_richardsonii,50.65,-115.8
 1988158754,Geranium_richardsonii,49.32,-117.65
 1303602404,Geranium_richardsonii,42.58,-110.57
-1804546542,Geranium_richardsonii,63.55,-137.45
 1928139910,Geranium_richardsonii,42.606131,-110.562767
 1303595782,Geranium_richardsonii,49.52,-108.82
 1303601667,Geranium_richardsonii,45.42,-111.17
@@ -659,7 +653,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843870604,Geranium_richardsonii,34.330463,-107.104907
 1988210402,Geranium_richardsonii,49.72,-114.85
 1303602298,Geranium_richardsonii,49.85,-114.8
-1804472033,Geranium_richardsonii,63.133333,-135.75
 2270667384,Geranium_richardsonii,34.08,-109.8
 51845110,Geranium_richardsonii,43.5906,-122.1266
 1843869904,Geranium_richardsonii,32.862053,-105.916862
@@ -690,7 +683,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843869672,Geranium_richardsonii,32.957341,-105.742487
 1303602521,Geranium_richardsonii,41.28,-106.13
 1303602012,Geranium_richardsonii,40.78,-110
-1896048907,Geranium_richardsonii,19.082222,-100.047222
 1303602099,Geranium_richardsonii,40.93,-109.18
 1303602492,Geranium_richardsonii,44.57,-106.88
 1303595012,Geranium_richardsonii,56.45,-120.85
