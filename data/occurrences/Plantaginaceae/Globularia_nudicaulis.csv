@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1569810868,Globularia_nudicaulis,43.028883,-2.065391
 1944754275,Globularia_nudicaulis,43.0288829990589,-2.065391
 1571768763,Globularia_nudicaulis,42.906112,-5.552185
-1265892060,Globularia_nudicaulis,42.6,0.02
 1851367894,Globularia_nudicaulis,43.0338,-5.4863
 1851344400,Globularia_nudicaulis,42.97,-3.018
 1944754549,Globularia_nudicaulis,42.7445869990596,-3.061113
@@ -35,7 +34,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050599452,Globularia_nudicaulis,42.68,0.08
 204428736,Globularia_nudicaulis,43.292,-2.316
 1050654756,Globularia_nudicaulis,42.94,-1.84
-2288739943,Globularia_nudicaulis,44.333333,6.6
 204428993,Globularia_nudicaulis,43.047001,-1.238
 1851370034,Globularia_nudicaulis,43.084,-5.217
 1851397177,Globularia_nudicaulis,43.031,-5.179
@@ -88,7 +86,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204428936,Globularia_nudicaulis,43.331001,-3.056
 1050586075,Globularia_nudicaulis,42.77,-2.49
 1806556644,Globularia_nudicaulis,42.689057,-1.584721
-1050586098,Globularia_nudicaulis,42.97,-2.9
 1936362343,Globularia_nudicaulis,43.0359,-5.481
 575323786,Globularia_nudicaulis,42.966667,-5.066667
 1936524035,Globularia_nudicaulis,43.3414,-4.4818
@@ -97,23 +94,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204428934,Globularia_nudicaulis,43.410999,-2.66
 1050586062,Globularia_nudicaulis,43.09,-3.12
 1050654795,Globularia_nudicaulis,43.15,-2.66
-1050654782,Globularia_nudicaulis,43.28,-3.3
 204428935,Globularia_nudicaulis,43.014999,-3.067
 1050654780,Globularia_nudicaulis,43.04,-3.06
-1050654827,Globularia_nudicaulis,43.2,-3.25
 204428933,Globularia_nudicaulis,43.213001,-2.982
-1050586057,Globularia_nudicaulis,42.6,-2.55
 204428719,Globularia_nudicaulis,42.59,-2.45
 1851384527,Globularia_nudicaulis,43.02,-5.02
 1050586120,Globularia_nudicaulis,43.13,-3.18
 1851364775,Globularia_nudicaulis,43.11,-4.78
 204428723,Globularia_nudicaulis,42.66,-1.23
-1851327868,Globularia_nudicaulis,43,-6.24
 1050586061,Globularia_nudicaulis,42.62,-2.78
 1050586090,Globularia_nudicaulis,42.95,-3.19
-1050586067,Globularia_nudicaulis,43.06,-3.3
 1702509576,Globularia_nudicaulis,42.92,-1.82
-1851393584,Globularia_nudicaulis,43.2,-5.03
 1053982254,Globularia_nudicaulis,42.94,-0.91
 1851353201,Globularia_nudicaulis,42.92,-5.51
 1050586117,Globularia_nudicaulis,42.77,-2.57
