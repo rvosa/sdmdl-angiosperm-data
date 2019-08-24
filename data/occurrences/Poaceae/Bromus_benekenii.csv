@@ -2,7 +2,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2273633559,Bromus_benekenii,58.17521,14.61598
 2244174328,Bromus_benekenii,51.201111,11.741112
 1935659927,Bromus_benekenii,45.295,14.21611
-2244175097,Bromus_benekenii,51.67778,10
 2244175937,Bromus_benekenii,50.503056,6.683333
 1830970779,Bromus_benekenii,47.64444,13.18861
 1830970796,Bromus_benekenii,48.0125,16.0525
@@ -30,7 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697401114,Bromus_benekenii,56.536111,38.858333
 1935659757,Bromus_benekenii,47.02037,15.39227
 1697767368,Bromus_benekenii,44.7308,37.48765
-1697401260,Bromus_benekenii,52.9,36.083333
 1935659747,Bromus_benekenii,47.08946,15.36762
 1701831130,Bromus_benekenii,59.3313,11.8045
 1135435635,Bromus_benekenii,47.90528,15.73694
@@ -43,7 +41,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935659738,Bromus_benekenii,47.10402,15.37625
 1702243480,Bromus_benekenii,59.661,10.789
 1697813203,Bromus_benekenii,43.661111,40.395833
-1050653031,Bromus_benekenii,42.8,-2.56
 1702222716,Bromus_benekenii,59.085,5.7144
 684150583,Bromus_benekenii,47.40895,9.91862
 2333952011,Bromus_benekenii,62.586528,7.865289
@@ -119,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697722299,Bromus_benekenii,45.034715,35.066814
 1935657292,Bromus_benekenii,47.10333,15.38917
 1697401226,Bromus_benekenii,51.398416,34.431869
-788856657,Bromus_benekenii,40.05,20.8
 1563868250,Bromus_benekenii,55.49038,13.49422
 1705351757,Bromus_benekenii,57.850422,16.495682
 7942896,Bromus_benekenii,48.9554,1.70688
@@ -183,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702214242,Bromus_benekenii,62.7501,7.8069
 1701801869,Bromus_benekenii,62.5336,6.7484
 1702074587,Bromus_benekenii,59.4127,8.2639
-1038085907,Bromus_benekenii,49.183056,12
 1702394423,Bromus_benekenii,61.2052,6.6856
 1144202801,Bromus_benekenii,62.297,7.1422
 1342240277,Bromus_benekenii,56.280818,10.460431
@@ -210,16 +205,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342240288,Bromus_benekenii,56.289414,10.493073
 1342240381,Bromus_benekenii,55.643462,11.930492
 646392,Bromus_benekenii,55.66028,13.6832
-1702024159,Bromus_benekenii,62.4351,6.5
 1342240313,Bromus_benekenii,55.619567,11.372755
 1144045772,Bromus_benekenii,60.1355,6.2876
 1702024193,Bromus_benekenii,62.4348,6.4845
 1342240252,Bromus_benekenii,56.490346,10.192362
 1697401055,Bromus_benekenii,55.583333,31.783333
 646420,Bromus_benekenii,55.48456,13.75753
-786101274,Bromus_benekenii,48,8.7
 1342240338,Bromus_benekenii,55.821178,11.624502
-991876251,Bromus_benekenii,47.9,8.9
 2334973921,Bromus_benekenii,62.436048,7.867805
 187101633,Bromus_benekenii,62.4359,7.8678
 1342240378,Bromus_benekenii,55.296405,11.778795
@@ -235,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2333122019,Bromus_benekenii,62.559334,7.871874
 1342240258,Bromus_benekenii,55.59565,9.689008
 1701291167,Bromus_benekenii,62.5598,7.8709
-991876252,Bromus_benekenii,48.1,9
 1342240251,Bromus_benekenii,56.302886,10.057225
 1705276612,Bromus_benekenii,57.842615,16.443336
 1563864467,Bromus_benekenii,55.50388,13.61106
@@ -261,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702020975,Bromus_benekenii,59.4494,8.0212
 1342240260,Bromus_benekenii,54.868668,9.505156
 1697401133,Bromus_benekenii,53.967992,37.190774
-788823775,Bromus_benekenii,38.7,22.166667
 296429201,Bromus_benekenii,47.272,10.064
 296429194,Bromus_benekenii,47.241,10.427
 1342240364,Bromus_benekenii,55.846375,11.706085
@@ -280,7 +270,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702186336,Bromus_benekenii,63.1644,8.4014
 1701505753,Bromus_benekenii,48.85528,15.84944
 1342240353,Bromus_benekenii,55.243615,11.727906
-788808707,Bromus_benekenii,38,21.866667
 646412,Bromus_benekenii,55.57737,13.82882
 1342240264,Bromus_benekenii,55.836774,9.916805
 143004011,Bromus_benekenii,42.509998,-0.08
@@ -439,7 +428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788491974,Bromus_benekenii,38.783333,21.95
 1230515572,Bromus_benekenii,48.83472,21.23194
 1050623941,Bromus_benekenii,42.68,-2.55
-788491497,Bromus_benekenii,40.9,24.183333
 1144152288,Bromus_benekenii,61.81088,6.85799
 2287646998,Bromus_benekenii,50.452,6.102
 1935659741,Bromus_benekenii,46.44306,14.32778
@@ -488,22 +476,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144152207,Bromus_benekenii,60.54419,6.66526
 1434677796,Bromus_benekenii,58.30224,14.64182
 894166085,Bromus_benekenii,43.02,-5.15
-1701777799,Bromus_benekenii,62.8,8.7745
 1702017971,Bromus_benekenii,59.4474,7.8864
 1697722237,Bromus_benekenii,44.769649,34.29451
 1697722285,Bromus_benekenii,44.788658,34.29451
 1946842974,Bromus_benekenii,49.92,9.96
-1050623960,Bromus_benekenii,42.6,-2.57
-1144615065,Bromus_benekenii,41.7,8.8
 1699980051,Bromus_benekenii,62.6271,8.152
 187100863,Bromus_benekenii,62.6739,8.5607
 1701255470,Bromus_benekenii,62.6207,8.8928
 1701304050,Bromus_benekenii,63.0076,7.4893
 187100865,Bromus_benekenii,62.5938,9.0292
-1657170279,Bromus_benekenii,46.7,15.1
-1657170350,Bromus_benekenii,46.68333,15.1
 1701255233,Bromus_benekenii,62.7784,7.9517
-788865127,Bromus_benekenii,41.5,24.333333
 1701225411,Bromus_benekenii,62.6386,8.8537
 1144152316,Bromus_benekenii,61.5524,7.6254
 1323832140,Bromus_benekenii,59.3701,8.5689
@@ -519,7 +501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187100872,Bromus_benekenii,63.7231,9.7541
 1845008153,Bromus_benekenii,49.951944,8.181944
 1701765463,Bromus_benekenii,63.7303,9.7401
-788456529,Bromus_benekenii,40.1,20.883333
 1701779217,Bromus_benekenii,63.4909,9.3112
 788625534,Bromus_benekenii,55.464485,13.430537
 2268228777,Bromus_benekenii,55.927364,37.613207
@@ -535,7 +516,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 646691,Bromus_benekenii,58.57802,13.37168
 788783953,Bromus_benekenii,39.833333,21.216667
 1600348505,Bromus_benekenii,62.665686,29.556106
-1144615109,Bromus_benekenii,42.41667,9.1
 788856619,Bromus_benekenii,40.133333,22.333333
 1697401076,Bromus_benekenii,55.205928,36.384832
 1697401154,Bromus_benekenii,55.116794,36.71331
@@ -543,7 +523,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701337553,Bromus_benekenii,62.7124,8.1496
 1701924433,Bromus_benekenii,61.9528,7.0268
 1701255426,Bromus_benekenii,62.7884,8.3503
-1144615085,Bromus_benekenii,42.03333,9.2
 788864999,Bromus_benekenii,40.133333,22.383333
 1702117585,Bromus_benekenii,58.8765,9.3382
 1702413933,Bromus_benekenii,61.172,6.9038
@@ -577,7 +556,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697401216,Bromus_benekenii,53.370388,36.623416
 1144615067,Bromus_benekenii,42.35,9.43333
 788865032,Bromus_benekenii,40.916667,24.133333
-1230515284,Bromus_benekenii,54.3,18.31667
 1702345617,Bromus_benekenii,59.9077,10.4304
 1702360713,Bromus_benekenii,59.9078,10.4214
 1697401075,Bromus_benekenii,54.820341,41.65369
@@ -647,12 +625,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702266667,Bromus_benekenii,59.5281,10.0694
 1702266723,Bromus_benekenii,59.5495,10.1939
 1702266719,Bromus_benekenii,59.4928,10.1567
-1899072208,Bromus_benekenii,49.78,6.2
 1701225404,Bromus_benekenii,62.5534,7.7068
 1701830244,Bromus_benekenii,61.92,5.962
 2268219444,Bromus_benekenii,55.612433,36.479283
 646354,Bromus_benekenii,55.65862,14.26409
-1899072122,Bromus_benekenii,49.6,5.97
 812021601,Bromus_benekenii,50.501633,9.388483
 1702017966,Bromus_benekenii,59.3258,9.6238
 1999645819,Bromus_benekenii,60.457546,22.278371
