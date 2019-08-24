@@ -2,7 +2,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258138835,Mitrasacmopsis_quadrivalvis,-18.300556,47.144167
 1258186706,Mitrasacmopsis_quadrivalvis,-17.835555,47.022778
 1257731637,Mitrasacmopsis_quadrivalvis,-18.640555,47.284444
-2291857097,Mitrasacmopsis_quadrivalvis,-5.5,30.533333
 912174512,Mitrasacmopsis_quadrivalvis,-6.05,30.93
 912174516,Mitrasacmopsis_quadrivalvis,-5.48,30.53
 1839424338,Mitrasacmopsis_quadrivalvis,-12.075027,25.163361
@@ -11,7 +10,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290027561,Mitrasacmopsis_quadrivalvis,-13.983333,48.433333
 2268876389,Mitrasacmopsis_quadrivalvis,-14.003333,48.430833
 1144727812,Mitrasacmopsis_quadrivalvis,-14.00333,48.43083
-1839371922,Mitrasacmopsis_quadrivalvis,-13.4,28.241666
 2289282802,Mitrasacmopsis_quadrivalvis,-6.05,30.933333
 1839508668,Mitrasacmopsis_quadrivalvis,-5.966667,30.033333
 1144727856,Mitrasacmopsis_quadrivalvis,-14.04528,48.29667
@@ -25,11 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839438869,Mitrasacmopsis_quadrivalvis,-3.883333,29.85
 1261242317,Mitrasacmopsis_quadrivalvis,-14.06666,48.28333
 209975641,Mitrasacmopsis_quadrivalvis,-3.88,29.85
-1261153228,Mitrasacmopsis_quadrivalvis,-21.333333,47.4
-1261220832,Mitrasacmopsis_quadrivalvis,-14.1,48.28333
-1839519968,Mitrasacmopsis_quadrivalvis,-4.083333,29.6
-1839508644,Mitrasacmopsis_quadrivalvis,-3.233333,29.5
-209975635,Mitrasacmopsis_quadrivalvis,-3.23,29.5
 209975622,Mitrasacmopsis_quadrivalvis,-3.88,29.97
 2289852623,Mitrasacmopsis_quadrivalvis,-3.883333,29.966667
 209975631,Mitrasacmopsis_quadrivalvis,-3.57,29.63
@@ -42,13 +35,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 209975628,Mitrasacmopsis_quadrivalvis,-3.75,30.17
 1839438902,Mitrasacmopsis_quadrivalvis,-3.683333,29.966667
 209975644,Mitrasacmopsis_quadrivalvis,-3.68,29.97
-209975640,Mitrasacmopsis_quadrivalvis,0.3,29.33
-1839520748,Mitrasacmopsis_quadrivalvis,0.3,29.333333
-1839520648,Mitrasacmopsis_quadrivalvis,-12.2,27.8
-1839438893,Mitrasacmopsis_quadrivalvis,-3.083333,29.4
 209975634,Mitrasacmopsis_quadrivalvis,-3.57,29.68
 1839519400,Mitrasacmopsis_quadrivalvis,-3.566667,29.683333
-209975643,Mitrasacmopsis_quadrivalvis,-3.08,29.4
 1839508674,Mitrasacmopsis_quadrivalvis,-3.966667,29.75
 209975637,Mitrasacmopsis_quadrivalvis,-3.97,29.75
 1839520695,Mitrasacmopsis_quadrivalvis,-2.433333,30.25
