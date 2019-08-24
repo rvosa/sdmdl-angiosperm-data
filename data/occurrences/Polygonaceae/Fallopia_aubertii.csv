@@ -25,7 +25,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895228270,Fallopia_aubertii,39.586,-0.63
 2313292676,Fallopia_aubertii,48.07,11.53
 1701102448,Fallopia_aubertii,42.80643,10.203434
-1988136448,Fallopia_aubertii,49.3,-123.2
 1936235241,Fallopia_aubertii,40.0392,3.5011
 1230753112,Fallopia_aubertii,48.23194,16.33333
 1839012359,Fallopia_aubertii,51.804722,12.04639
@@ -33,7 +32,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342466963,Fallopia_aubertii,54.993568,10.632162
 1342466998,Fallopia_aubertii,55.350871,10.788785
 1098995686,Fallopia_aubertii,48.515,9.065556
-899764243,Fallopia_aubertii,48.5,9
 788607489,Fallopia_aubertii,55.39267,12.82774
 1342466976,Fallopia_aubertii,56.903029,10.25474
 1342466946,Fallopia_aubertii,57.463805,9.790448
@@ -93,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768857,Fallopia_aubertii,56.06693,12.76628
 1342466931,Fallopia_aubertii,55.577109,9.783852
 1342466938,Fallopia_aubertii,54.893716,9.848489
-615322958,Fallopia_aubertii,38.73,68.8
 1135443932,Fallopia_aubertii,45.28333,14.26667
 441813174,Fallopia_aubertii,47.683333,-122.25
 770884,Fallopia_aubertii,55.96071,12.7586
@@ -119,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 769016,Fallopia_aubertii,55.41458,12.84189
 56632489,Fallopia_aubertii,31.10528,-85.25445
 1844870520,Fallopia_aubertii,41.65,-1.72
-1091328890,Fallopia_aubertii,-39.916666,175
 1342466953,Fallopia_aubertii,54.955672,10.771185
 1342467052,Fallopia_aubertii,55.31894,15.195869
 1342466988,Fallopia_aubertii,54.978363,11.522326
@@ -141,7 +137,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851568343,Fallopia_aubertii,38.31,-0.85
 1844869535,Fallopia_aubertii,40.83,-1.99
 1342466927,Fallopia_aubertii,56.189627,9.490141
-1897707386,Fallopia_aubertii,-36.9,174.833333
 994472760,Fallopia_aubertii,-36.9151,174.83378
 1897709187,Fallopia_aubertii,-36.916667,174.833333
 115873789,Fallopia_aubertii,37.84,-4.82
@@ -155,7 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1502043163,Fallopia_aubertii,38.69,-0.53
 1705285326,Fallopia_aubertii,56.686912,16.237664
 1342466986,Fallopia_aubertii,55.332677,10.803731
-1851341179,Fallopia_aubertii,41.5,1.86
 1500896829,Fallopia_aubertii,40.07,-0.57
 895235737,Fallopia_aubertii,40.072,-0.578
 1989601469,Fallopia_aubertii,56.45786,16.4358
@@ -165,7 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563139330,Fallopia_aubertii,56.03147,12.70846
 1896340985,Fallopia_aubertii,22.325,-98.408333
 895154636,Fallopia_aubertii,39.07,-2.48
-1988196478,Fallopia_aubertii,49.6,-119.6
 415615908,Fallopia_aubertii,36.71869,-4.43328
 1513679935,Fallopia_aubertii,57.5243,-1.83219
 1897745417,Fallopia_aubertii,-36.916667,174.583333
@@ -178,12 +171,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050614279,Fallopia_aubertii,43.31,-3.06
 1936121288,Fallopia_aubertii,42.7086,-3.8317
 1989435887,Fallopia_aubertii,41.90686,-84.01425
-1944835019,Fallopia_aubertii,43,-75
 1851364073,Fallopia_aubertii,42.83,-5.63
-786150351,Fallopia_aubertii,47.5,19
-899785771,Fallopia_aubertii,47,20
 296426137,Fallopia_aubertii,43.119,5.804
-1851318852,Fallopia_aubertii,42.74,-6.5
 1936545984,Fallopia_aubertii,43.4377,-3.8663
 1936583291,Fallopia_aubertii,43.4562,-3.8048
 919482249,Fallopia_aubertii,28.48611,98.911543
@@ -205,7 +194,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705351497,Fallopia_aubertii,57.05803,15.047114
 1705385317,Fallopia_aubertii,57.785688,14.140848
 1030842198,Fallopia_aubertii,32.637983,103.59895
-1897704121,Fallopia_aubertii,-43.533333,172.6
 1701863717,Fallopia_aubertii,59.4238,10.6125
 1030679423,Fallopia_aubertii,30.055305,101.96483
 1030679377,Fallopia_aubertii,31.905842,102.206261
@@ -236,7 +224,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303775835,Fallopia_aubertii,33.981028,108.20147
 699267891,Fallopia_aubertii,41.37833,-72.10277
 768805,Fallopia_aubertii,56.18529,15.59863
-1944827227,Fallopia_aubertii,37,-119
 1705370048,Fallopia_aubertii,56.880223,16.655973
 1705487792,Fallopia_aubertii,49.5955,17.2573
 1303775834,Fallopia_aubertii,31.68115,103.853481
