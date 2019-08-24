@@ -11,7 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652378241,Leucopogon_juniperinus,-27.31,152.233611
 1652355376,Leucopogon_juniperinus,-28.235472,153.122417
 1451048615,Leucopogon_juniperinus,-33.066389,151.390278
-1451048613,Leucopogon_juniperinus,-34.076389,151.606667
 1936890451,Leucopogon_juniperinus,-33.076389,151.606667
 996189582,Leucopogon_juniperinus,-26.064,152.635
 1652342532,Leucopogon_juniperinus,-26.06425,152.6345
@@ -68,8 +67,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652100239,Leucopogon_juniperinus,-27.806871,153.209125
 995836020,Leucopogon_juniperinus,-29.6139,152.202
 1451568303,Leucopogon_juniperinus,-29.612305,152.20359
-994040549,Leucopogon_juniperinus,-35.1292,150.75
-994040506,Leucopogon_juniperinus,-35.1167,150.75
 1652154162,Leucopogon_juniperinus,-26.456878,152.359129
 1652207477,Leucopogon_juniperinus,-28.240208,152.392473
 993999842,Leucopogon_juniperinus,-36.3978,150.0403
@@ -279,7 +276,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994870759,Leucopogon_juniperinus,-33.0167,151.6167
 1451564927,Leucopogon_juniperinus,-33.065085,151.567807
 995830433,Leucopogon_juniperinus,-33.07,151.57
-1937103957,Leucopogon_juniperinus,-28.6167,153.6167
 993764557,Leucopogon_juniperinus,-28.4708,153.2611
 995553885,Leucopogon_juniperinus,-33.72,151
 1451443937,Leucopogon_juniperinus,-33.715091,151.001157
