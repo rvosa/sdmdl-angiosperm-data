@@ -14,12 +14,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288343627,Arachis_hypogaea_var._peruviana,8.034833,-9.097167
 1265102523,Arachis_hypogaea_var._peruviana,8.035,-9.09667
 1600734037,Arachis_hypogaea_var._peruviana,60.201121,24.648567
-1427425153,Arachis_hypogaea_var._peruviana,10.933333,-14.3
-768776602,Arachis_hypogaea_var._peruviana,1.53,-75.7
 736073893,Arachis_hypogaea_var._peruviana,35.5375,139.34375
 1988118239,Arachis_hypogaea_var._peruviana,49.22,-122.92
 1424302561,Arachis_hypogaea_var._peruviana,-23.251111,-57.341944
-1427425177,Arachis_hypogaea_var._peruviana,10.1,-11.866667
 1019295432,Arachis_hypogaea_var._peruviana,15.862222,-11.5725
 2290313988,Arachis_hypogaea_var._peruviana,-0.735667,12.970333
 1261058950,Arachis_hypogaea_var._peruviana,-1.03416,11.17083
@@ -29,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381784561,Arachis_hypogaea_var._peruviana,36.00196,139.91286
 1257799397,Arachis_hypogaea_var._peruviana,-2.466667,-78.166667
 1087505934,Arachis_hypogaea_var._peruviana,-23.416667,-45.233333
-1421196987,Arachis_hypogaea_var._peruviana,-21.75,-64.2
 1090573026,Arachis_hypogaea_var._peruviana,-23.2217,-45.31
 1600734096,Arachis_hypogaea_var._peruviana,60.640265,24.830996
 1849162220,Arachis_hypogaea_var._peruviana,34.0006,-81.0316
@@ -37,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258115709,Arachis_hypogaea_var._peruviana,29.6433,-82.3444
 1457820492,Arachis_hypogaea_var._peruviana,29.643333,-82.344444
 1260125502,Arachis_hypogaea_var._peruviana,-1.45,-79.28333
-1260125966,Arachis_hypogaea_var._peruviana,-2.21666,-79.1
 453148773,Arachis_hypogaea_var._peruviana,-25.875,28.125
 1259470912,Arachis_hypogaea_var._peruviana,-15.500278,-63.017222
 1457759452,Arachis_hypogaea_var._peruviana,29.60938,-82.40529
@@ -63,7 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996747838,Arachis_hypogaea_var._peruviana,-15.645787,128.699025
 994385715,Arachis_hypogaea_var._peruviana,-15.6472,128.6978
 2291722360,Arachis_hypogaea_var._peruviana,7.05,2.116667
-1424795294,Arachis_hypogaea_var._peruviana,7.5,2.066667
 1057397397,Arachis_hypogaea_var._peruviana,51.82899,-0.216681
 1999563469,Arachis_hypogaea_var._peruviana,60.556272,22.111472
 768759765,Arachis_hypogaea_var._peruviana,-0.13,-74.85
@@ -71,8 +65,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289821329,Arachis_hypogaea_var._peruviana,12.2385,2.9025
 1421382011,Arachis_hypogaea_var._peruviana,29.646389,-82.345
 1652136963,Arachis_hypogaea_var._peruviana,-27.056874,152.875792
-1258957820,Arachis_hypogaea_var._peruviana,-18.5,-64.1
-1424794769,Arachis_hypogaea_var._peruviana,7.2,2.066667
 2251613588,Arachis_hypogaea_var._peruviana,-33.362222,-64.541667
 1417915585,Arachis_hypogaea_var._peruviana,20.028333,-97.508333
 1417919811,Arachis_hypogaea_var._peruviana,20.034722,-97.436389
@@ -88,7 +80,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258730476,Arachis_hypogaea_var._peruviana,48.3666,-120.1224
 317857037,Arachis_hypogaea_var._peruviana,10.383333,1.483333
 1090562159,Arachis_hypogaea_var._peruviana,-31.6667,-63.9167
-1258456662,Arachis_hypogaea_var._peruviana,38.6,-90.25
 2270473338,Arachis_hypogaea_var._peruviana,-31.833,-63.75
 2290616736,Arachis_hypogaea_var._peruviana,8.416667,1.883333
 1503243917,Arachis_hypogaea_var._peruviana,27.6328,-80.3889
@@ -106,14 +97,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893573507,Arachis_hypogaea_var._peruviana,16.413889,-92.181944
 47725450,Arachis_hypogaea_var._peruviana,11.716,-0.333
 1893593334,Arachis_hypogaea_var._peruviana,29.307778,-110.594167
-729283750,Arachis_hypogaea_var._peruviana,34.866699,135.2
 1893615337,Arachis_hypogaea_var._peruviana,18.771667,-98.775
 1893573998,Arachis_hypogaea_var._peruviana,16.7146587505556,-91.1221274972357
-729284809,Arachis_hypogaea_var._peruviana,34.883301,135.2
 317857034,Arachis_hypogaea_var._peruviana,11.45,-2.233333
 1261928102,Arachis_hypogaea_var._peruviana,-11.71666,-71.08333
 1258329192,Arachis_hypogaea_var._peruviana,-17.698333,-63.1475
-1421196981,Arachis_hypogaea_var._peruviana,-14.5,-66.62
 1928250867,Arachis_hypogaea_var._peruviana,33.87,-96.85
 1421384304,Arachis_hypogaea_var._peruviana,16.622222,-92.991667
 1895135205,Arachis_hypogaea_var._peruviana,16.605278,-93.560555
@@ -121,7 +109,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896328580,Arachis_hypogaea_var._peruviana,19.958056,-96.845278
 1829771415,Arachis_hypogaea_var._peruviana,35.511597,140.184236
 1895525175,Arachis_hypogaea_var._peruviana,20.6012687560128,-103.315789252766
-317857032,Arachis_hypogaea_var._peruviana,12.15,1.8
 1896328566,Arachis_hypogaea_var._peruviana,20.641667,-103.308333
 438511361,Arachis_hypogaea_var._peruviana,19.16322,99.57848
 2289780488,Arachis_hypogaea_var._peruviana,18.366667,99.75
@@ -132,11 +119,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891598454,Arachis_hypogaea_var._peruviana,23.851944,120.307222
 1928414556,Arachis_hypogaea_var._peruviana,-29.47,-51.95
 1893442603,Arachis_hypogaea_var._peruviana,21.108333,-88.858333
-1260251435,Arachis_hypogaea_var._peruviana,-14.5,-67.5
 1895944525,Arachis_hypogaea_var._peruviana,18.280833,-98.966667
 1896328562,Arachis_hypogaea_var._peruviana,23.029167,-99.148056
 1893615326,Arachis_hypogaea_var._peruviana,18.281667,-98.966667
-1930639719,Arachis_hypogaea_var._peruviana,-1.07,-77.6
 1897941734,Arachis_hypogaea_var._peruviana,21.921667,-103.311667
 1421371129,Arachis_hypogaea_var._peruviana,20.598889,-88.1625
 1988090971,Arachis_hypogaea_var._peruviana,49.25,-123.25
@@ -151,9 +136,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260251422,Arachis_hypogaea_var._peruviana,-13.75,-68.16666
 1260251153,Arachis_hypogaea_var._peruviana,-14.75,-66.66666
 1675775491,Arachis_hypogaea_var._peruviana,-14.25,-68.17
-1676024159,Arachis_hypogaea_var._peruviana,-11.25,-66.3
 1929139524,Arachis_hypogaea_var._peruviana,-11.17,-68.75
-1929105003,Arachis_hypogaea_var._peruviana,-11,-68.75
 1090554344,Arachis_hypogaea_var._peruviana,-22.9056,-47.0608
 1090554316,Arachis_hypogaea_var._peruviana,-22.870251,-47.077171
 1077450207,Arachis_hypogaea_var._peruviana,-30.053181,-51.124635
@@ -169,7 +152,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1417921390,Arachis_hypogaea_var._peruviana,20.51,-101.011944
 1417913267,Arachis_hypogaea_var._peruviana,17.035,-95.956667
 1260858891,Arachis_hypogaea_var._peruviana,-9.48333,-78.28333
-439526245,Arachis_hypogaea_var._peruviana,11.166,42.5
 1930193252,Arachis_hypogaea_var._peruviana,-3.49530408217513,-45.2510857721038
 1896328587,Arachis_hypogaea_var._peruviana,18.484722,-95.073056
 2285832121,Arachis_hypogaea_var._peruviana,-11.098055,-61.366111
@@ -177,8 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 371107173,Arachis_hypogaea_var._peruviana,19.191667,-88.525
 1417926990,Arachis_hypogaea_var._peruviana,20.241667,-101.025
 1417918805,Arachis_hypogaea_var._peruviana,16.891667,-96.891667
-1259958954,Arachis_hypogaea_var._peruviana,-0.3,-76.33333
-47725308,Arachis_hypogaea_var._peruviana,-0.3,-76.333
 1419226167,Arachis_hypogaea_var._peruviana,18.234167,-99.6775
 1893935502,Arachis_hypogaea_var._peruviana,18.2348428011393,-99.6762223041406
 1095192680,Arachis_hypogaea_var._peruviana,-18.53333,-54.75
@@ -189,15 +169,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1417915310,Arachis_hypogaea_var._peruviana,21.008333,-88.908333
 1896328574,Arachis_hypogaea_var._peruviana,19.513056,-96.944167
 1893308700,Arachis_hypogaea_var._peruviana,19.511111,-96.9375
-1258518952,Arachis_hypogaea_var._peruviana,12.683333,-87.2
 1895944467,Arachis_hypogaea_var._peruviana,18.2925,-98.075833
-2289608400,Arachis_hypogaea_var._peruviana,-0.1,11.766667
 891615813,Arachis_hypogaea_var._peruviana,25.196667,121.421111
 1893935544,Arachis_hypogaea_var._peruviana,18.6173556403354,-99.319805220587
 1896328570,Arachis_hypogaea_var._peruviana,20.525,-103.425
 1893935447,Arachis_hypogaea_var._peruviana,20.5330524905944,-103.427148579822
 1896328569,Arachis_hypogaea_var._peruviana,18.625,-99.325
-1261543480,Arachis_hypogaea_var._peruviana,-1.26666,-79.7
 1606515873,Arachis_hypogaea_var._peruviana,61.471182,23.941384
 234408812,Arachis_hypogaea_var._peruviana,35.390772,139.565544
 1893935426,Arachis_hypogaea_var._peruviana,18.0870031907527,-99.904708164639
@@ -215,11 +192,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844890382,Arachis_hypogaea_var._peruviana,6.382356,-4.976543
 1896328571,Arachis_hypogaea_var._peruviana,19.792778,-96.675833
 1895944485,Arachis_hypogaea_var._peruviana,18.753889,-98.448889
-1258518981,Arachis_hypogaea_var._peruviana,11.85,-86.2
 1261483732,Arachis_hypogaea_var._peruviana,-4.46666,-78.16666
 437901697,Arachis_hypogaea_var._peruviana,-22.13119,166.35794
 891619014,Arachis_hypogaea_var._peruviana,25.163889,121.436389
-2291722407,Arachis_hypogaea_var._peruviana,9.3,42.133333
 1090596937,Arachis_hypogaea_var._peruviana,-30.019139,-51.237222
 415941381,Arachis_hypogaea_var._peruviana,41.68944,-70.15694
 1895525193,Arachis_hypogaea_var._peruviana,18.6201068585923,-95.0719436834822
@@ -229,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893935504,Arachis_hypogaea_var._peruviana,22.01694,-100.375
 438179525,Arachis_hypogaea_var._peruviana,9.24168,15.70882
 438178444,Arachis_hypogaea_var._peruviana,22.454,114.139
-2291722145,Arachis_hypogaea_var._peruviana,13.716667,38.2
 1897633783,Arachis_hypogaea_var._peruviana,-36.816667,174.766667
 1030992235,Arachis_hypogaea_var._peruviana,21.533749,109.321003
 1844890429,Arachis_hypogaea_var._peruviana,5.347015,-3.983645
@@ -246,7 +220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896328585,Arachis_hypogaea_var._peruviana,18.268889,-95.665278
 1893935358,Arachis_hypogaea_var._peruviana,18.5601107263102,-95.0630642920407
 1989523162,Arachis_hypogaea_var._peruviana,18.4205,-95.1081
-439512128,Arachis_hypogaea_var._peruviana,8.7,17.7
 2290219214,Arachis_hypogaea_var._peruviana,9.216667,42.216667
 1893935413,Arachis_hypogaea_var._peruviana,18.6008,-98.465
 2291722458,Arachis_hypogaea_var._peruviana,7.38,3.838333
@@ -262,7 +235,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438179400,Arachis_hypogaea_var._peruviana,-0.14685,10.80001
 1030788749,Arachis_hypogaea_var._peruviana,30.561162,114.381419
 891676807,Arachis_hypogaea_var._peruviana,24.823889,121.758056
-994549671,Arachis_hypogaea_var._peruviana,-27,153
 437514002,Arachis_hypogaea_var._peruviana,0.80707,24.45298
 1600734020,Arachis_hypogaea_var._peruviana,60.541105,27.133555
 730555558,Arachis_hypogaea_var._peruviana,13.0468,-9.542
@@ -275,7 +247,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030992212,Arachis_hypogaea_var._peruviana,23.9022,106.618742
 437181121,Arachis_hypogaea_var._peruviana,11.32238,-5.6984
 439512023,Arachis_hypogaea_var._peruviana,14.083,-16.2167
-995046665,Arachis_hypogaea_var._peruviana,-15.65,128.7
 996873871,Arachis_hypogaea_var._peruviana,-15.655,128.705
 994231194,Arachis_hypogaea_var._peruviana,-15.648601,128.701248
 1030992251,Arachis_hypogaea_var._peruviana,23.127041,113.341527
@@ -289,7 +260,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442112897,Arachis_hypogaea_var._peruviana,40.799999,44.533333
 1303786376,Arachis_hypogaea_var._peruviana,25.833607,116.357607
 1228291469,Arachis_hypogaea_var._peruviana,41.850033,-87.650052
-438283281,Arachis_hypogaea_var._peruviana,-24.08333,45.7
 730555559,Arachis_hypogaea_var._peruviana,12.53333,-9.81667
 1303961118,Arachis_hypogaea_var._peruviana,25.39996,112.948819
 1844900985,Arachis_hypogaea_var._peruviana,4.589715,-74.34848
