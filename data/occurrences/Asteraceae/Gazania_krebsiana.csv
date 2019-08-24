@@ -48,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461906782,Gazania_krebsiana,-27.625,28.625
 461907163,Gazania_krebsiana,-33.125,26.625
 461906784,Gazania_krebsiana,-27.625,27.125
-2005446053,Gazania_krebsiana,-31.5,29.5
 2005494503,Gazania_krebsiana,-33.835556,19.393611
 616274649,Gazania_krebsiana,-26.375,32.625
 461907154,Gazania_krebsiana,-10.625,33.875
@@ -115,12 +114,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461907142,Gazania_krebsiana,-25.875,31.125
 461907131,Gazania_krebsiana,-24.875,27.875
 461907129,Gazania_krebsiana,-29.625,25.375
-2005508092,Gazania_krebsiana,-29.8,30.8
 461906746,Gazania_krebsiana,-30.875,21.875
 461907126,Gazania_krebsiana,-29.625,28.375
 461906760,Gazania_krebsiana,-28.625,24.125
 461906744,Gazania_krebsiana,-33.625,22.625
-931013189,Gazania_krebsiana,6.233333,-75.5
 461906741,Gazania_krebsiana,-31.625,23.625
 461907121,Gazania_krebsiana,-27.375,24.375
 461906743,Gazania_krebsiana,-32.375,24.625
@@ -359,10 +356,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461907134,Gazania_krebsiana,-24.375,28.625
 453240947,Gazania_krebsiana,-28.375,24.375
 461906666,Gazania_krebsiana,-28.625,23.375
-1988159570,Gazania_krebsiana,-25.2,30.5
 453240900,Gazania_krebsiana,-28.125,32.375
-1988178727,Gazania_krebsiana,-29.6,24.1
-1988122894,Gazania_krebsiana,-32.4,22.6
 453240924,Gazania_krebsiana,-27.875,25.125
 461906697,Gazania_krebsiana,-25.875,25.625
 453240901,Gazania_krebsiana,-29.125,30.625
