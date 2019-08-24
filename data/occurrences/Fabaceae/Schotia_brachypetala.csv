@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005450184,Schotia_brachypetala,-24.685833,30.593889
 2005490917,Schotia_brachypetala,-28.006111,32.314167
 462248364,Schotia_brachypetala,-23.375,28.625
-2289394976,Schotia_brachypetala,-25.5,31.5
 1258086662,Schotia_brachypetala,34.4128,-119.8431
 462248368,Schotia_brachypetala,-24.625,30.375
 1090566699,Schotia_brachypetala,-22.863721,-47.086761
@@ -34,16 +33,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1912806517,Schotia_brachypetala,-26.3213,32.51125
 995127871,Schotia_brachypetala,-37.8167,144.9667
 462248340,Schotia_brachypetala,-22.375,31.125
-994075936,Schotia_brachypetala,-17.2833,145.5
 1988296110,Schotia_brachypetala,-25.140047,32.083425
 1897730968,Schotia_brachypetala,-36.85,174.783333
-1930874506,Schotia_brachypetala,25.68,-80.3
 462248337,Schotia_brachypetala,-22.375,29.125
 1652198513,Schotia_brachypetala,-20.306909,148.709151
 462248338,Schotia_brachypetala,-24.125,28.125
 462248317,Schotia_brachypetala,-22.875,28.125
 1912806525,Schotia_brachypetala,-26.0527,32.32933
-1261861951,Schotia_brachypetala,25.61666,-80.3
 1652128020,Schotia_brachypetala,-24.890218,151.575799
 462248316,Schotia_brachypetala,-25.125,31.375
 616318257,Schotia_brachypetala,-29.875,31.125
@@ -51,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462248314,Schotia_brachypetala,-26.875,32.375
 995497793,Schotia_brachypetala,-23.45,144.266667
 2005503985,Schotia_brachypetala,-30.875,29.875
-912248671,Schotia_brachypetala,-20.2,31
 462248315,Schotia_brachypetala,-32.375,28.625
 616318229,Schotia_brachypetala,-29.875,30.875
 616318231,Schotia_brachypetala,-27.625,32.375
@@ -75,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290134663,Schotia_brachypetala,-26.166667,32.333333
 462248322,Schotia_brachypetala,-22.125,29.125
 462248173,Schotia_brachypetala,-26.125,31.125
-1897706028,Schotia_brachypetala,-34.9,173.983333
 462248328,Schotia_brachypetala,-26.625,31.625
 462248289,Schotia_brachypetala,-22.875,30.375
 462248294,Schotia_brachypetala,-26.125,32.125
@@ -85,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462248295,Schotia_brachypetala,-24.875,31.625
 462248321,Schotia_brachypetala,-22.875,29.875
 462248236,Schotia_brachypetala,-25.625,28.375
-994117930,Schotia_brachypetala,-17.2333,145.5
 462248177,Schotia_brachypetala,-23.625,27.875
 462248169,Schotia_brachypetala,-33.375,26.625
 462248297,Schotia_brachypetala,-28.375,32.125
@@ -137,9 +130,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989824578,Schotia_brachypetala,-20.125,32.625
 462248166,Schotia_brachypetala,-28.125,32.125
 912248622,Schotia_brachypetala,-17.82,31.04
-1099112952,Schotia_brachypetala,-19,29
 462248231,Schotia_brachypetala,-25.125,31.125
-38605874,Schotia_brachypetala,21.3,-157.85
 1989824720,Schotia_brachypetala,-19.625,32.625
 462248235,Schotia_brachypetala,-25.625,31.375
 462248313,Schotia_brachypetala,-25.125,30.125
@@ -148,14 +139,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462248208,Schotia_brachypetala,-31.625,28.875
 462248268,Schotia_brachypetala,-26.375,31.125
 462248190,Schotia_brachypetala,-22.375,29.625
-994117831,Schotia_brachypetala,-23.3333,151
 866263655,Schotia_brachypetala,-26.566399,32.825199
 912248656,Schotia_brachypetala,-26.48,32.65
 813401886,Schotia_brachypetala,-26.321348,32.511251
 2005492524,Schotia_brachypetala,-30.125,30.875
 462248234,Schotia_brachypetala,-23.875,29.375
 912248640,Schotia_brachypetala,-25.97,32.59
-866263794,Schotia_brachypetala,-25.5,32.333333
 813401885,Schotia_brachypetala,-25.00597,32.700414
 813401024,Schotia_brachypetala,-24.993916,32.582465
 813401888,Schotia_brachypetala,-26.105124,32.144806
