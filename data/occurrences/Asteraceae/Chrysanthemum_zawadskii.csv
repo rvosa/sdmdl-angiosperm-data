@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697282308,Chrysanthemum_zawadskii,51.4889,105.5119
 1697301714,Chrysanthemum_zawadskii,51.1985,105.3254
 1697301706,Chrysanthemum_zawadskii,51.2363,105.4229
-1988143239,Chrysanthemum_zawadskii,49.3,-123.2
 1697301694,Chrysanthemum_zawadskii,51.4139,105.5084
 1697301689,Chrysanthemum_zawadskii,51.4165,105.5036
 1697301719,Chrysanthemum_zawadskii,51.388889,104.652778
@@ -34,10 +33,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697301684,Chrysanthemum_zawadskii,62.40692,91.97685
 1988191989,Chrysanthemum_zawadskii,49.25,-123.25
 1697341920,Chrysanthemum_zawadskii,48.631093,111.737824
-1697301607,Chrysanthemum_zawadskii,51.883333,134.4
 1697301673,Chrysanthemum_zawadskii,62.41785,89.47264
-1697301717,Chrysanthemum_zawadskii,52.116667,94.4
-1697301729,Chrysanthemum_zawadskii,51.166667,86
 1697302835,Chrysanthemum_zawadskii,55.833333,88.416667
 1835716260,Chrysanthemum_zawadskii,53.997832,123.929061
 1697341933,Chrysanthemum_zawadskii,50.833156,100.090084
@@ -99,9 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697301595,Chrysanthemum_zawadskii,63.923754,127.508378
 1835711621,Chrysanthemum_zawadskii,49.82538,118.353256
 1303713025,Chrysanthemum_zawadskii,38.462419,111.127621
-1697301679,Chrysanthemum_zawadskii,52.8,99.8
-1697301682,Chrysanthemum_zawadskii,51.1,114.533333
-1697301678,Chrysanthemum_zawadskii,51.3,116
 684153507,Chrysanthemum_zawadskii,47.28144,11.417514
 1697301621,Chrysanthemum_zawadskii,50.376727,127.60943
 1697692016,Chrysanthemum_zawadskii,62.723753,55.57573
