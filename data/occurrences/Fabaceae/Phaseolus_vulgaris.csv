@@ -5,7 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268986862,Phaseolus_vulgaris,9.632389,-84.1245
 1658216736,Phaseolus_vulgaris,-3.198667,-52.2104
 2270532255,Phaseolus_vulgaris,-24.89692,-65.67072
-1585316655,Phaseolus_vulgaris,13.66967,-89.24605
 1829085174,Phaseolus_vulgaris,-3.970528,-38.281556
 1606547159,Phaseolus_vulgaris,60.661649,23.611986
 1853944961,Phaseolus_vulgaris,-20.383889,-43.493611
@@ -14,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1934834640,Phaseolus_vulgaris,39.1225,16.36667
 2268836005,Phaseolus_vulgaris,38.606028,-90.302139
 2302273083,Phaseolus_vulgaris,20.0067,-97.60403
-1702532254,Phaseolus_vulgaris,4.6677,-74.099922
 1143428460,Phaseolus_vulgaris,-16.571139,-57.530444
 1227940570,Phaseolus_vulgaris,-17.8664,122.3689
 1061551626,Phaseolus_vulgaris,-17.86643,122.36893
@@ -55,8 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 899794986,Phaseolus_vulgaris,51.9,12.7
 1585315664,Phaseolus_vulgaris,13.83122,-89.58778
 1253909804,Phaseolus_vulgaris,9.72375,-84.025667
-1585315905,Phaseolus_vulgaris,13.69875,-89.28036
-1258104548,Phaseolus_vulgaris,13.719222,-89.274444
 1799090418,Phaseolus_vulgaris,43.01361,42.82389
 1799090766,Phaseolus_vulgaris,42.79,42.64833
 1077303459,Phaseolus_vulgaris,-11.836694,-55.501667
@@ -103,7 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089192153,Phaseolus_vulgaris,-6.936111,-35.853056
 1424297952,Phaseolus_vulgaris,-7.033611,-35.934722
 1060576345,Phaseolus_vulgaris,48.9,9.8
-1705433466,Phaseolus_vulgaris,56.577439,16.423307
 991907317,Phaseolus_vulgaris,49,8.5
 1802957733,Phaseolus_vulgaris,-26.910315,-51.299243
 1077389001,Phaseolus_vulgaris,-26.910278,-51.299167
@@ -157,10 +152,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1990851904,Phaseolus_vulgaris,46.89972,15.88
 1990148717,Phaseolus_vulgaris,39.45,16.61639
 1897953240,Phaseolus_vulgaris,24.821944,-101.614444
-1701610081,Phaseolus_vulgaris,59.3075,10.2909
 788480486,Phaseolus_vulgaris,55.86337,12.85731
 786206386,Phaseolus_vulgaris,48.1,11.6
-1342763884,Phaseolus_vulgaris,55.343018,10.709581
 1259357906,Phaseolus_vulgaris,12.683333,-86.966667
 1253811641,Phaseolus_vulgaris,9.659164,-83.950021
 1123887843,Phaseolus_vulgaris,6.18423,-75.29764
@@ -191,7 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 122983509,Phaseolus_vulgaris,8.831944,-83.071389
 1421494414,Phaseolus_vulgaris,22.197389,-104.264889
 1799090010,Phaseolus_vulgaris,45.21667,15.01667
-1799090202,Phaseolus_vulgaris,45.13333,14.61667
 1799090037,Phaseolus_vulgaris,44.8,15.33333
 1799090066,Phaseolus_vulgaris,45.08333,15.16667
 1990148693,Phaseolus_vulgaris,39.18306,16.1
@@ -214,10 +206,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1418667936,Phaseolus_vulgaris,19.12639,-98.80278
 1799090120,Phaseolus_vulgaris,41.64167,23.20389
 1799089964,Phaseolus_vulgaris,42.13111,24.9325
-1799089955,Phaseolus_vulgaris,38.54972,14.81639
 1799089956,Phaseolus_vulgaris,43.61444,25.61528
-1799090029,Phaseolus_vulgaris,38.48306,14.93306
-1799089946,Phaseolus_vulgaris,39.145,8.30556
 1799089953,Phaseolus_vulgaris,43.53806,25.87028
 1799090047,Phaseolus_vulgaris,42.04694,25.68556
 1799089949,Phaseolus_vulgaris,42.39583,25.99556
@@ -276,7 +265,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1799090100,Phaseolus_vulgaris,40.95,15.66667
 1799090067,Phaseolus_vulgaris,40,16.28333
 1799090053,Phaseolus_vulgaris,40.1,9.15
-2242415875,Phaseolus_vulgaris,39.73193,-104.9619
 1893574253,Phaseolus_vulgaris,16.99353300326,-91.588806304345
 575319380,Phaseolus_vulgaris,28.016667,98.616667
 1258627309,Phaseolus_vulgaris,28.01666,98.61666
@@ -299,15 +287,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1418667350,Phaseolus_vulgaris,19.92472,-97.64778
 1418667451,Phaseolus_vulgaris,19.231939,-98.86528
 1418668039,Phaseolus_vulgaris,19.02583,-98.82056
-1799089887,Phaseolus_vulgaris,36.79972,12.05
-1799089784,Phaseolus_vulgaris,41.33056,19.905
 2234827965,Phaseolus_vulgaris,40.39972,19.86639
 1799089914,Phaseolus_vulgaris,41.40972,19.73472
 1932388672,Phaseolus_vulgaris,42.91389,41.30889
 2237781390,Phaseolus_vulgaris,40.91639,19.71639
 2234827972,Phaseolus_vulgaris,40.41639,15.73306
 1799089912,Phaseolus_vulgaris,40.73306,19.46639
-2234827986,Phaseolus_vulgaris,41.3275,19.81861
 1934834618,Phaseolus_vulgaris,42.02083,41.92389
 1893571816,Phaseolus_vulgaris,16.947222,-92.429167
 1927439859,Phaseolus_vulgaris,46.75,15.36972
@@ -332,16 +317,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2236594953,Phaseolus_vulgaris,40.58306,9
 1799089905,Phaseolus_vulgaris,40.31639,20.18306
 2234827977,Phaseolus_vulgaris,40.18306,16.41639
-2236594968,Phaseolus_vulgaris,40.90278,8.68889
 2234827990,Phaseolus_vulgaris,40.36972,16.26306
 2237781327,Phaseolus_vulgaris,42.08111,20.30806
 2234827926,Phaseolus_vulgaris,41.49111,44.71889
 2234827974,Phaseolus_vulgaris,39.87472,20.35
-1799089896,Phaseolus_vulgaris,28.585,-17.21667
 2236964702,Phaseolus_vulgaris,41.29,19.51667
 2234827884,Phaseolus_vulgaris,42.32528,44.91333
 2234827944,Phaseolus_vulgaris,41.86333,44.32222
-1799089881,Phaseolus_vulgaris,28.68306,-17.25
 2236964641,Phaseolus_vulgaris,40.25,19.56639
 2236964643,Phaseolus_vulgaris,40.01639,19.88306
 2235579977,Phaseolus_vulgaris,40.96639,15.81639
@@ -351,7 +333,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1912817507,Phaseolus_vulgaris,41.36306,44.82917
 1417922854,Phaseolus_vulgaris,17.804722,-97.776111
 1893590736,Phaseolus_vulgaris,27.112778,-109.1625
-1585312313,Phaseolus_vulgaris,13.68333,-89.25
 1931419449,Phaseolus_vulgaris,16.3267,-96.3667
 1258378009,Phaseolus_vulgaris,13.8,-84.96666
 1260603763,Phaseolus_vulgaris,-19.38333,-64.45
@@ -495,11 +476,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893967741,Phaseolus_vulgaris,19.513056,-104.207778
 1894643522,Phaseolus_vulgaris,18.241667,-95.108333
 45749855,Phaseolus_vulgaris,9.81,-84.11
-1253811597,Phaseolus_vulgaris,9.866648,-84.103314
-1702848088,Phaseolus_vulgaris,9.87,-84.12
 1895426113,Phaseolus_vulgaris,19.3186922649689,-96.4005994476168
 1418667802,Phaseolus_vulgaris,16.37917,-98.04389
-45749910,Phaseolus_vulgaris,9.86,-84.11
 1418668370,Phaseolus_vulgaris,16.20694,-97.52944
 1419219514,Phaseolus_vulgaris,23.615278,-103.916667
 1893704096,Phaseolus_vulgaris,19.21833,-96.375
@@ -530,9 +508,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077451538,Phaseolus_vulgaris,-30.053181,-51.124635
 1893704087,Phaseolus_vulgaris,19.340556,-96.5025
 1896136671,Phaseolus_vulgaris,19.344444,-96.359444
-47824413,Phaseolus_vulgaris,-2.783,-80.216
 1895947825,Phaseolus_vulgaris,19.086944,-97.859722
-1258225912,Phaseolus_vulgaris,-2.78333,-80.21666
 1259464814,Phaseolus_vulgaris,19.225,-98.963611
 2234827837,Phaseolus_vulgaris,47.26639,16.28306
 1259464533,Phaseolus_vulgaris,17.549444,-99.445
@@ -644,8 +620,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1417913793,Phaseolus_vulgaris,19.872778,-99.735833
 1417921163,Phaseolus_vulgaris,22.144444,-102.273611
 1417917988,Phaseolus_vulgaris,18.591667,-103.558333
-1417930432,Phaseolus_vulgaris,19.174167,-96.131944
-1417925115,Phaseolus_vulgaris,19.358611,-99.092778
 1417918010,Phaseolus_vulgaris,18.267222,-100.661111
 1417931599,Phaseolus_vulgaris,20.408889,-101.203056
 1417926259,Phaseolus_vulgaris,18.836389,-99.578611
@@ -774,7 +748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421384102,Phaseolus_vulgaris,21.046667,-88.893333
 1261503263,Phaseolus_vulgaris,9.075,-83.08333
 1260605266,Phaseolus_vulgaris,-4.91666,-73.75
-891616221,Phaseolus_vulgaris,23.696667,120.186667
 1421389415,Phaseolus_vulgaris,20.791111,-88.039444
 1421391903,Phaseolus_vulgaris,19.430833,-88.101111
 1421409879,Phaseolus_vulgaris,19.430833,-88.101389
@@ -840,13 +813,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894324399,Phaseolus_vulgaris,21.908333,-102.408333
 1894325349,Phaseolus_vulgaris,22.308333,-102.225
 1894325386,Phaseolus_vulgaris,21.708333,-102.291667
-1894327529,Phaseolus_vulgaris,21.941667,-107.558333
 1894327499,Phaseolus_vulgaris,22.241667,-102.375
 1030818706,Phaseolus_vulgaris,31.893892,104.43684
 1417915465,Phaseolus_vulgaris,21.108333,-89.308333
 1261483351,Phaseolus_vulgaris,17.13333,121.03333
 1894874788,Phaseolus_vulgaris,18.2501308684787,-93.0180147102426
-1259461776,Phaseolus_vulgaris,14.12972,-87.16444
 1417915792,Phaseolus_vulgaris,19.505556,-98.881944
 1259465530,Phaseolus_vulgaris,14.15805,-87.04638
 1417923858,Phaseolus_vulgaris,20.21,-100.96
@@ -857,10 +828,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1417919092,Phaseolus_vulgaris,20.208333,-89.108333
 1927439987,Phaseolus_vulgaris,40.54972,15.76667
 1417922173,Phaseolus_vulgaris,20.308333,-89.308333
-1890517637,Phaseolus_vulgaris,40.14556,18.48889
 1417924559,Phaseolus_vulgaris,21.208333,-88.808333
 1927440131,Phaseolus_vulgaris,41.96639,42.21639
-1848746965,Phaseolus_vulgaris,41.7175,44.78417
 1927439828,Phaseolus_vulgaris,42.08444,42.825
 1890517586,Phaseolus_vulgaris,41.5,15.05
 1417919058,Phaseolus_vulgaris,21.201944,-88.793056
@@ -889,7 +858,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030818715,Phaseolus_vulgaris,28.262715,103.571742
 1894323305,Phaseolus_vulgaris,20.541667,-104.808333
 1228384574,Phaseolus_vulgaris,-23,-66
-1259463622,Phaseolus_vulgaris,14.021111,-87.206667
 371283403,Phaseolus_vulgaris,20.825,-86.891667
 1896136743,Phaseolus_vulgaris,20.847222,-86.875
 1848747158,Phaseolus_vulgaris,49.36278,21.14389
@@ -1003,12 +971,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894325251,Phaseolus_vulgaris,22.758333,-99.608333
 1894327809,Phaseolus_vulgaris,20.241667,-89.941667
 1894326283,Phaseolus_vulgaris,23.658333,-100.208333
-1894323760,Phaseolus_vulgaris,24.008333,-94.125
 1894326415,Phaseolus_vulgaris,25.025,-100.608333
 1894324129,Phaseolus_vulgaris,24.258333,-99.758333
 1894325143,Phaseolus_vulgaris,18.975,-98.191667
-1894327984,Phaseolus_vulgaris,23.491667,-91.008333
-1894327638,Phaseolus_vulgaris,24.108333,-94.158333
 1030785975,Phaseolus_vulgaris,30.561162,114.381419
 1894326880,Phaseolus_vulgaris,20.191667,-90.275
 1894325509,Phaseolus_vulgaris,20.175,-90.241667
@@ -1112,7 +1077,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894325734,Phaseolus_vulgaris,19.0373086201758,-98.3845245747614
 1894323392,Phaseolus_vulgaris,23.841667,-101.241667
 1894324149,Phaseolus_vulgaris,24.958333,-106.925
-1896136682,Phaseolus_vulgaris,19.498333,-105.044167
 1258194850,Phaseolus_vulgaris,39.0468,-92.3813
 1894327556,Phaseolus_vulgaris,19.908333,-97.408333
 1894323918,Phaseolus_vulgaris,18.908333,-97.741667
@@ -1147,7 +1111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896136690,Phaseolus_vulgaris,19.475,-96.758333
 1895947866,Phaseolus_vulgaris,18.633333,-98.55
 1261857357,Phaseolus_vulgaris,-0.58333,-79.36666
-891611199,Phaseolus_vulgaris,25.017222,121.530556
 1894323688,Phaseolus_vulgaris,23.725,-103.991667
 1894325463,Phaseolus_vulgaris,24.758333,-104.458333
 1894325511,Phaseolus_vulgaris,24.441667,-103.891667
@@ -1155,7 +1118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894328184,Phaseolus_vulgaris,19.841667,-100.841667
 1894325738,Phaseolus_vulgaris,16.3649537672969,-92.4113251482384
 1894327002,Phaseolus_vulgaris,16.041667,-92.275
-1894327830,Phaseolus_vulgaris,18.725,-92.791667
 1894328044,Phaseolus_vulgaris,16.025,-93.258333
 1894325099,Phaseolus_vulgaris,17.075,-95.725
 1894325362,Phaseolus_vulgaris,19.891667,-97.675
@@ -1242,7 +1204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090596945,Phaseolus_vulgaris,-30.019139,-51.237222
 2289285511,Phaseolus_vulgaris,2.95,9.916667
 1896136754,Phaseolus_vulgaris,19.468333,-96.781667
-891626002,Phaseolus_vulgaris,25.015833,121.535833
 891625984,Phaseolus_vulgaris,25.061667,121.65
 1896136669,Phaseolus_vulgaris,19.697222,-96.841944
 1702208609,Phaseolus_vulgaris,59.18,10.9642
@@ -1278,7 +1239,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894323520,Phaseolus_vulgaris,21.328306086068,-100.624315769264
 1894327994,Phaseolus_vulgaris,21.641667,-101.475
 1894324825,Phaseolus_vulgaris,20.458333,-103.625
-1894328153,Phaseolus_vulgaris,21.825,-95.008333
 1894323957,Phaseolus_vulgaris,19.825,-97.308333
 1894325078,Phaseolus_vulgaris,17.475,-97.575
 1894325109,Phaseolus_vulgaris,19.158333,-97.425
@@ -1349,13 +1309,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894327186,Phaseolus_vulgaris,19.208333,-98.441667
 1894325865,Phaseolus_vulgaris,19.358333,-98.541667
 1123897086,Phaseolus_vulgaris,6.244204,-75.58121
-1701873845,Phaseolus_vulgaris,59.97258,10.72237
 1259021265,Phaseolus_vulgaris,13.15,-85.96666
 1838174136,Phaseolus_vulgaris,37.28306,22.06639
 1844871273,Phaseolus_vulgaris,45.75,126.65
 1821772313,Phaseolus_vulgaris,36.86639,21.89972
 1895426096,Phaseolus_vulgaris,18.8120415411048,-97.277276634093
-1930247705,Phaseolus_vulgaris,40.862289,-73.877023
 2270614216,Phaseolus_vulgaris,34.9494,-112.054
 1060576858,Phaseolus_vulgaris,50.6,6.9
 1258561054,Phaseolus_vulgaris,14.563056,-89.325833
@@ -1442,7 +1400,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894325279,Phaseolus_vulgaris,18.34333,-99.83
 1894326063,Phaseolus_vulgaris,19.3475653198057,-97.9653556908133
 1894326587,Phaseolus_vulgaris,19.291667,-98.408333
-1894323398,Phaseolus_vulgaris,19.008333,-92.025
 1894326688,Phaseolus_vulgaris,19.091667,-98.291667
 1894324836,Phaseolus_vulgaris,18.741667,-97.758333
 1894325034,Phaseolus_vulgaris,19.108333,-97.558333
@@ -1523,7 +1480,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894326655,Phaseolus_vulgaris,18.758333,-97.325
 1227942452,Phaseolus_vulgaris,-38.0236,144.4079
 1260302918,Phaseolus_vulgaris,13.05,-85.98333
-993151817,Phaseolus_vulgaris,-35.2667,149.1
 1846511347,Phaseolus_vulgaris,20.159444,-102.366944
 1999651671,Phaseolus_vulgaris,59.960838,23.505513
 1895426175,Phaseolus_vulgaris,16.8724277210481,-92.4768770629186
@@ -1569,7 +1525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895913704,Phaseolus_vulgaris,18.991667,-99.125
 1895913805,Phaseolus_vulgaris,18.991667,-99.108333
 1895913780,Phaseolus_vulgaris,18.375,-100.025
-1702284551,Phaseolus_vulgaris,59.8904,10.7513
 1030989170,Phaseolus_vulgaris,24.392902,106.633387
 1259462900,Phaseolus_vulgaris,17.225,-89.61305
 1989410580,Phaseolus_vulgaris,21.3673,-104.908
@@ -1585,7 +1540,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844871180,Phaseolus_vulgaris,38.33306,16.3
 1835223642,Phaseolus_vulgaris,37.91639,15.26639
 1835223583,Phaseolus_vulgaris,39.23306,16.33306
-1838174089,Phaseolus_vulgaris,38.31639,16.39972
 1838174044,Phaseolus_vulgaris,39.25,16.7
 1894324540,Phaseolus_vulgaris,19.208333,-100.175
 1030785970,Phaseolus_vulgaris,30.290996,108.936374
@@ -1601,7 +1555,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465765609,Phaseolus_vulgaris,45.40128,-62.49975
 1894324980,Phaseolus_vulgaris,19.058333,-101.425
 1894327825,Phaseolus_vulgaris,26.825,-105.141667
-1894327469,Phaseolus_vulgaris,23.208333,-106.425
 1894328114,Phaseolus_vulgaris,27.075,-109.458333
 1894327008,Phaseolus_vulgaris,20.991667,-98.375
 1799088293,Phaseolus_vulgaris,36.93306,22.46639
@@ -1741,7 +1694,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894327130,Phaseolus_vulgaris,19.525,-103.391667
 1701673165,Phaseolus_vulgaris,59.4426,10.6488
 57710972,Phaseolus_vulgaris,60.293499,25.0529
-900310168,Phaseolus_vulgaris,58.5756,8.963
 1894325341,Phaseolus_vulgaris,20.375,-100.258333
 1894326482,Phaseolus_vulgaris,20.675,-99.908333
 1894328318,Phaseolus_vulgaris,16.141667,-92.158333
@@ -1758,7 +1710,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894325703,Phaseolus_vulgaris,16.525,-92.741667
 1894325706,Phaseolus_vulgaris,16.758333,-93.158333
 1894326148,Phaseolus_vulgaris,17.441667,-99.325
-1894323585,Phaseolus_vulgaris,21.141667,-95.025
 1894327077,Phaseolus_vulgaris,21.908333,-102.591667
 1894327100,Phaseolus_vulgaris,15.075,-92.458333
 1894327584,Phaseolus_vulgaris,16.808333,-92.708333
@@ -1825,7 +1776,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894324267,Phaseolus_vulgaris,21.991667,-99.025
 1894328178,Phaseolus_vulgaris,18.891667,-99.141667
 1894325699,Phaseolus_vulgaris,20.225,-99.625
-1894326399,Phaseolus_vulgaris,19.825,-91.308333
 1894324221,Phaseolus_vulgaris,19.041667,-98.325
 994118901,Phaseolus_vulgaris,-16.9,145.75
 1089144447,Phaseolus_vulgaris,-6.95,-35.544722
@@ -1864,18 +1814,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894327224,Phaseolus_vulgaris,25.375,-105.758333
 1304093123,Phaseolus_vulgaris,24.615701,100.709787
 1894327194,Phaseolus_vulgaris,19.225,-101.725
-1894324906,Phaseolus_vulgaris,19.208333,-96.158333
 1894323528,Phaseolus_vulgaris,29.308333,-100.958333
 1894327597,Phaseolus_vulgaris,20.258333,-103.558333
 1894325470,Phaseolus_vulgaris,28.958333,-107.858333
 1304093131,Phaseolus_vulgaris,25.012526,102.700013
 1304093138,Phaseolus_vulgaris,27.82308,99.706013
-2290322997,Phaseolus_vulgaris,-8.435,124.584722
-37984178,Phaseolus_vulgaris,-12.5,177.083
 1705294055,Phaseolus_vulgaris,56.190642,15.636128
 1304093103,Phaseolus_vulgaris,24.580446,99.92854
-1598871450,Phaseolus_vulgaris,60.170379,24.92525
-2289403124,Phaseolus_vulgaris,-1.424017,127.651
 912161669,Phaseolus_vulgaris,18.27,-101.75
 1895426132,Phaseolus_vulgaris,17.95,-101.283333
 1988641613,Phaseolus_vulgaris,17.8422,-101.101
@@ -1898,7 +1843,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830629738,Phaseolus_vulgaris,33.71791,134.475688
 1988979437,Phaseolus_vulgaris,43.612132,-84.286594
 891674594,Phaseolus_vulgaris,24.213056,121.537778
-891674683,Phaseolus_vulgaris,25.046111,121.511944
 1705317643,Phaseolus_vulgaris,56.443317,13.353795
 1258561084,Phaseolus_vulgaris,18.45,-90.08
 1989189702,Phaseolus_vulgaris,18.9765,-90.4377
@@ -1918,13 +1862,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999651676,Phaseolus_vulgaris,60.624373,23.547497
 1260939698,Phaseolus_vulgaris,39.70833,-91.35833
 57710974,Phaseolus_vulgaris,60.544102,27.6346
-1705401374,Phaseolus_vulgaris,56.66443,16.365267
 786206359,Phaseolus_vulgaris,49.7,9.5
 437864657,Phaseolus_vulgaris,-19.85,47.03333
 1990858687,Phaseolus_vulgaris,55.59097,13.06121
-57710975,Phaseolus_vulgaris,60.2407,25.9408
-1697572058,Phaseolus_vulgaris,55.778749,37.634996
-1999651681,Phaseolus_vulgaris,60.047876,24.543292
 786206323,Phaseolus_vulgaris,47.6,19.1
 1999651166,Phaseolus_vulgaris,60.318625,24.969628
 438197447,Phaseolus_vulgaris,-22.33333,45.4
@@ -1934,7 +1874,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705272294,Phaseolus_vulgaris,59.053114,15.878055
 1303768308,Phaseolus_vulgaris,31.370137,109.629918
 1259465880,Phaseolus_vulgaris,19.681667,-101.213333
-1705289036,Phaseolus_vulgaris,56.36134,16.536173
 1273863932,Phaseolus_vulgaris,58.58069,13.34252
 786206338,Phaseolus_vulgaris,51.8,15
 1322746089,Phaseolus_vulgaris,22.97,-82.3869
