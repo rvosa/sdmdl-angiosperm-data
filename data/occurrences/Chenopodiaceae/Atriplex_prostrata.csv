@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451062679,Atriplex_prostrata,-32.79916,116.473263
 1265270831,Atriplex_prostrata,36.663,-4.449
 1658403216,Atriplex_prostrata,58.92553,23.496
-1881032388,Atriplex_prostrata,49.04,10.6
 1658403350,Atriplex_prostrata,59.012483,24.284
 1881032396,Atriplex_prostrata,49.03,10.59
 1598609154,Atriplex_prostrata,60.946835,26.656446
@@ -92,13 +91,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930254986,Atriplex_prostrata,41.7447,-111.8278
 1702208688,Atriplex_prostrata,59.0868,10.8891
 2287443491,Atriplex_prostrata,52.420617,4.710483
-1095918310,Atriplex_prostrata,61,17
 1323862846,Atriplex_prostrata,69.7432,19.1602
 1934139189,Atriplex_prostrata,34.7138,135.3573
 1988782139,Atriplex_prostrata,43.293917,-86.126889
 1230506191,Atriplex_prostrata,48.27222,13.49306
 2307213730,Atriplex_prostrata,51.49,-3.19
-1095917577,Atriplex_prostrata,64.87,25.2
 911920055,Atriplex_prostrata,50.05295,8.5999
 2270177256,Atriplex_prostrata,35.77228,-121.32
 728981615,Atriplex_prostrata,51.860375,5.946654
@@ -170,7 +167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343101999,Atriplex_prostrata,57.353048,10.170329
 1343099446,Atriplex_prostrata,54.923625,9.053356
 1701278644,Atriplex_prostrata,63.3463,10.1851
-1144577938,Atriplex_prostrata,42.7,9.26667
 1343099328,Atriplex_prostrata,56.693617,8.843567
 1343104575,Atriplex_prostrata,55.534148,11.129885
 1343106522,Atriplex_prostrata,55.625894,12.08431
@@ -192,7 +188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343098403,Atriplex_prostrata,55.946459,8.382253
 1343100345,Atriplex_prostrata,56.916956,9.581754
 1343099539,Atriplex_prostrata,57.02611,9.006901
-1851375929,Atriplex_prostrata,41.3,-6.43
 1343106015,Atriplex_prostrata,55.763099,11.811914
 1881033324,Atriplex_prostrata,48.69,10.77
 1343104327,Atriplex_prostrata,55.653541,10.977407
@@ -248,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343105634,Atriplex_prostrata,55.614052,11.642406
 1697477453,Atriplex_prostrata,52.011982,46.143632
 1343103990,Atriplex_prostrata,56.214413,10.73204
-883414717,Atriplex_prostrata,49.983333,20
 1343102481,Atriplex_prostrata,57.333433,10.335824
 1343098067,Atriplex_prostrata,56.080512,8.251568
 199463296,Atriplex_prostrata,36.672,-4.449
@@ -467,7 +461,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343099496,Atriplex_prostrata,56.612854,9.039413
 1343105996,Atriplex_prostrata,55.744048,11.858351
 1343098614,Atriplex_prostrata,56.513284,8.568063
-1697477396,Atriplex_prostrata,55.5,40.605556
 1343098810,Atriplex_prostrata,56.468664,8.665955
 1343100531,Atriplex_prostrata,56.584168,9.658038
 1343107287,Atriplex_prostrata,55.274299,12.440823
@@ -521,7 +514,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343101504,Atriplex_prostrata,56.527863,10.01471
 1343099977,Atriplex_prostrata,57.160211,9.403706
 883412044,Atriplex_prostrata,51.9200519990845,-112.246423
-30658298,Atriplex_prostrata,37.299999,-2.1
 1989534362,Atriplex_prostrata,42.896349,-81.372624
 1829854200,Atriplex_prostrata,35.704292,136.084234
 441964602,Atriplex_prostrata,52.123055,11.636666
@@ -794,7 +786,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343068951,Atriplex_prostrata,55.615412,12.418635
 1343068513,Atriplex_prostrata,54.88812,12.0599
 1843839625,Atriplex_prostrata,34.441142,-108.763549
-318104060,Atriplex_prostrata,38.1,-0.64
 1343068685,Atriplex_prostrata,55.036471,12.252532
 1657162095,Atriplex_prostrata,47.81389,16.84472
 1830660776,Atriplex_prostrata,33.570833,133.60625
@@ -889,7 +880,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343068844,Atriplex_prostrata,55.614401,12.371055
 1343067392,Atriplex_prostrata,55.371696,11.626222
 1343109318,Atriplex_prostrata,56.255153,10.346459
-318104052,Atriplex_prostrata,38.78,-1.4
 1343068204,Atriplex_prostrata,55.677821,11.9967
 1343064248,Atriplex_prostrata,55.559435,9.735937
 1343068975,Atriplex_prostrata,55.741746,12.442163
@@ -926,7 +916,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996636004,Atriplex_prostrata,-34.450993,118.879017
 1501073538,Atriplex_prostrata,38.47,-0.32
 211643823,Atriplex_prostrata,38.019,-1.172
-318103981,Atriplex_prostrata,38.44,-0.6
 1343061143,Atriplex_prostrata,55.264341,8.565986
 1343064913,Atriplex_prostrata,56.410256,10.108821
 1343061158,Atriplex_prostrata,55.282367,8.581533
@@ -1042,13 +1031,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343068773,Atriplex_prostrata,55.613371,12.323479
 1343064321,Atriplex_prostrata,57.0055,9.813635
 1343062371,Atriplex_prostrata,55.508476,11.936289
-318103901,Atriplex_prostrata,43.34,-3
 1638340595,Atriplex_prostrata,53.8077779991015,-114.041944
-1050620553,Atriplex_prostrata,43.3,-2.99
 1050620565,Atriplex_prostrata,43.26,-2.96
 1042867013,Atriplex_prostrata,56.22624,13.04561
 623662416,Atriplex_prostrata,38.033333,-118.834722
-318104020,Atriplex_prostrata,38.34,-0.5
 318104017,Atriplex_prostrata,38.34,-0.54
 996702501,Atriplex_prostrata,-35.03,117.88
 1343062810,Atriplex_prostrata,55.846726,8.224125
@@ -1135,13 +1121,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851378880,Atriplex_prostrata,38.377,-0.522
 1343063023,Atriplex_prostrata,55.102226,8.473709
 1343068655,Atriplex_prostrata,55.98927,12.249439
-318103841,Atriplex_prostrata,38.3,-0.51
 1501054295,Atriplex_prostrata,37.97,-0.79
 1501066830,Atriplex_prostrata,38.36,-0.44
 996605504,Atriplex_prostrata,-33.35,116.62
 1936583228,Atriplex_prostrata,43.4183,-4.0389
-996544389,Atriplex_prostrata,-34.9,117.9
-996605766,Atriplex_prostrata,-33.5,116.9
 2270176731,Atriplex_prostrata,34.7719999991157,-120.4867
 1343055331,Atriplex_prostrata,55.82369,11.912097
 1702372896,Atriplex_prostrata,59.02266,9.53738
@@ -1155,11 +1138,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343062791,Atriplex_prostrata,55.963099,8.157721
 1343066853,Atriplex_prostrata,55.730564,11.204279
 1343067031,Atriplex_prostrata,55.575887,11.306658
-1930995185,Atriplex_prostrata,40,-111.75
 1343062182,Atriplex_prostrata,55.776974,11.589633
 1598812609,Atriplex_prostrata,60.575556,23.36155
 1343067818,Atriplex_prostrata,55.53837,11.811697
-895242277,Atriplex_prostrata,41.02,-0.2
 1701344245,Atriplex_prostrata,63.4411,10.4704
 1343054705,Atriplex_prostrata,57.621498,10.279406
 1343064203,Atriplex_prostrata,56.377459,9.670664
@@ -1199,16 +1180,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260985137,Atriplex_prostrata,38.567778,-90.482222
 1343064529,Atriplex_prostrata,57.041212,9.847376
 1450656789,Atriplex_prostrata,49.01,12.16
-1050657789,Atriplex_prostrata,43.17,-2.9
 1343062993,Atriplex_prostrata,55.165321,8.519971
 1050657801,Atriplex_prostrata,43.24,-2.88
 204421461,Atriplex_prostrata,43.376999,-1.648
-1501068133,Atriplex_prostrata,38.49,-0.8
 1936539624,Atriplex_prostrata,41.6149,0.2024
 1936539629,Atriplex_prostrata,41.6038,0.1189
 1829870905,Atriplex_prostrata,34.645857,137.145865
 2310088111,Atriplex_prostrata,49.17,-123.07
-1988080721,Atriplex_prostrata,49.02,-118.4
 1501065654,Atriplex_prostrata,38.26,-0.78
 1343063275,Atriplex_prostrata,55.219754,8.676503
 1343063251,Atriplex_prostrata,55.192796,8.676721
@@ -1236,7 +1214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343055252,Atriplex_prostrata,55.189055,11.7556
 1936507518,Atriplex_prostrata,42.8466,-9.1116
 1343067002,Atriplex_prostrata,55.593844,11.307711
-1050657797,Atriplex_prostrata,43.3,-3
 1050657778,Atriplex_prostrata,43.29,-2.89
 1050657773,Atriplex_prostrata,43.27,-2.96
 1343108765,Atriplex_prostrata,55.586444,12.325313
@@ -1245,7 +1222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702438122,Atriplex_prostrata,59.1467,11.1414
 1042865667,Atriplex_prostrata,55.92134,14.26088
 1042865302,Atriplex_prostrata,56.20946,14.10747
-1050657763,Atriplex_prostrata,43.29,-3
 1701933433,Atriplex_prostrata,59.428,10.5924
 318103586,Atriplex_prostrata,38.57,-0.85
 318103582,Atriplex_prostrata,38.61,-0.88
@@ -1282,7 +1258,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343067727,Atriplex_prostrata,55.152797,11.768798
 1702420181,Atriplex_prostrata,59.7506,10.2901
 1705325358,Atriplex_prostrata,56.787742,12.614732
-1144577963,Atriplex_prostrata,42.68333,9.3
 1050657723,Atriplex_prostrata,43.33,-2.66
 1343062434,Atriplex_prostrata,55.697684,12.078964
 1671648283,Atriplex_prostrata,40.689703,8.533597
@@ -1291,7 +1266,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1332511341,Atriplex_prostrata,50.8407,10.0849
 1697477452,Atriplex_prostrata,55.576563,37.546274
 318104240,Atriplex_prostrata,38.45,-0.77
-1340028279,Atriplex_prostrata,39.383333,26.3
 1050580585,Atriplex_prostrata,41.84,-1.41
 1260984229,Atriplex_prostrata,38.53333,-90.34166
 318104007,Atriplex_prostrata,38.51,-0.65
@@ -1301,7 +1275,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598812657,Atriplex_prostrata,60.033677,24.080287
 1343068861,Atriplex_prostrata,55.766991,12.360789
 1598812536,Atriplex_prostrata,60.031869,23.99967
-1099863532,Atriplex_prostrata,60.016667,24
 1343054329,Atriplex_prostrata,56.27889,9.620486
 1343108419,Atriplex_prostrata,56.343321,8.942071
 1343054658,Atriplex_prostrata,56.23016,10.152007
@@ -1311,7 +1284,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1807235681,Atriplex_prostrata,46.2369,-63.188705
 1343066989,Atriplex_prostrata,55.602822,11.308239
 1343061645,Atriplex_prostrata,56.220873,10.183983
-1501070383,Atriplex_prostrata,38.47,-0.7
 1099862532,Atriplex_prostrata,60.993611,24.467222
 1050574216,Atriplex_prostrata,42.47,-2.43
 176888331,Atriplex_prostrata,41.29984,-102.076
@@ -1329,7 +1301,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989372169,Atriplex_prostrata,42.22,-83.38215
 996580794,Atriplex_prostrata,-34.628333,118.043889
 415954998,Atriplex_prostrata,40.65,-73.94944
-1144577921,Atriplex_prostrata,41.68333,8.9
 1340028071,Atriplex_prostrata,38.266667,21.733333
 1936554052,Atriplex_prostrata,38.975,-4.2942
 318104219,Atriplex_prostrata,38.33,-0.43
@@ -1352,11 +1323,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270176371,Atriplex_prostrata,34.7709999991157,-120.4674
 415926897,Atriplex_prostrata,41.17277,-73.11
 1144577955,Atriplex_prostrata,42.66667,9.45
-318103872,Atriplex_prostrata,38.6,-0.42
 318103868,Atriplex_prostrata,39.13,-0.28
 996562871,Atriplex_prostrata,-34.794,117.575
 996563113,Atriplex_prostrata,-34.975833,117.459167
-1936640800,Atriplex_prostrata,-42.6333,-74.1
 1144577926,Atriplex_prostrata,42.66667,9.31667
 1598812666,Atriplex_prostrata,60.924447,24.645685
 788606906,Atriplex_prostrata,56.22886,12.73732
@@ -1365,7 +1334,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30848864,Atriplex_prostrata,43.439999,-2.88
 415951579,Atriplex_prostrata,41.31833,-72.30083
 1099859075,Atriplex_prostrata,59.23321,15.15001
-895285788,Atriplex_prostrata,38.5,-0.31
 2270175909,Atriplex_prostrata,34.9656999991135,-120.6185
 1099860573,Atriplex_prostrata,59.24862,15.18126
 1042863005,Atriplex_prostrata,55.62005,13.22495
@@ -1377,7 +1345,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705358240,Atriplex_prostrata,55.492598,13.386015
 1705261969,Atriplex_prostrata,55.425172,12.967643
 895190855,Atriplex_prostrata,40.57,-0.22
-1697216980,Atriplex_prostrata,55,64.466667
 1099864107,Atriplex_prostrata,65.64021,22.04733
 1697216943,Atriplex_prostrata,55.25,80.95
 1948557303,Atriplex_prostrata,60.198171,25.131671
@@ -1390,7 +1357,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1450656715,Atriplex_prostrata,49.02,12.13
 1702211326,Atriplex_prostrata,59.4453,10.6136
 1946797162,Atriplex_prostrata,49.92,10.88
-1988185824,Atriplex_prostrata,49.1,-123.1
 144904890,Atriplex_prostrata,37.986,-3.735
 2248048717,Atriplex_prostrata,-33.353889,-63.589444
 996256263,Atriplex_prostrata,-31.955,115.777
@@ -1402,7 +1368,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318676230,Atriplex_prostrata,63.013059,7.330275
 1042866993,Atriplex_prostrata,56.21394,14.95099
 1598812603,Atriplex_prostrata,60.995497,24.478654
-1050604960,Atriplex_prostrata,42.4,-1.6
 1705345205,Atriplex_prostrata,55.527429,12.924016
 1050604995,Atriplex_prostrata,42.48,-1.97
 1936384820,Atriplex_prostrata,42.5404,-8.8675
@@ -1441,14 +1406,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050605049,Atriplex_prostrata,42.51,-2.22
 1050605016,Atriplex_prostrata,42.22,-1.75
 1050605017,Atriplex_prostrata,42.48,-2.05
-1053980766,Atriplex_prostrata,42.22,-1.5
 1050657774,Atriplex_prostrata,42.17,-1.68
-1050604993,Atriplex_prostrata,42.3,-1.91
 199462833,Atriplex_prostrata,36.743,-5.167
 1050657750,Atriplex_prostrata,42.16,-1.63
 1050657782,Atriplex_prostrata,42.21,-1.67
 1050657765,Atriplex_prostrata,42.16,-1.59
-1144577910,Atriplex_prostrata,41.95,9.4
 1999483731,Atriplex_prostrata,60.491906,22.765322
 51767716,Atriplex_prostrata,44.6017,-123.95
 204421163,Atriplex_prostrata,42.014,-1.448
@@ -1499,7 +1461,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936214388,Atriplex_prostrata,38.3717,-6.5975
 30848797,Atriplex_prostrata,37.23,-3.23
 234411215,Atriplex_prostrata,35.324115,139.640537
-895257557,Atriplex_prostrata,39.5,-0.38
 2270278114,Atriplex_prostrata,34.9626999991136,-120.6435
 1936108033,Atriplex_prostrata,42.2611,-8.7832
 1323714158,Atriplex_prostrata,67.5613,14.8932
@@ -1525,7 +1486,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323714299,Atriplex_prostrata,67.7289,14.8073
 1323714180,Atriplex_prostrata,68.0034,15.4187
 1323714150,Atriplex_prostrata,67.5757,14.9331
-241457648,Atriplex_prostrata,37.72,-4.3
 1936088721,Atriplex_prostrata,41.7526,0.8735
 1936089026,Atriplex_prostrata,41.997,-0.3693
 1702211357,Atriplex_prostrata,59.1778,10.965
@@ -1557,7 +1517,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323714178,Atriplex_prostrata,67.1769,14.2261
 1697477496,Atriplex_prostrata,55.580756,37.553549
 1323714193,Atriplex_prostrata,67.0506,14.0244
-1946797403,Atriplex_prostrata,49.98,10.3
 1701968165,Atriplex_prostrata,62.8892,8.5378
 1323714204,Atriplex_prostrata,66.2717,13.7428
 1701242302,Atriplex_prostrata,63.3558,8.5104
@@ -1587,28 +1546,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946797302,Atriplex_prostrata,50.22,10.04
 1701563986,Atriplex_prostrata,62.6738,8.5412
 1697727015,Atriplex_prostrata,44.908414,35.123978
-1144577936,Atriplex_prostrata,42.7,9.25
-1144577916,Atriplex_prostrata,42.66667,9.3
 1936088820,Atriplex_prostrata,37.5828,-1.359
 30848919,Atriplex_prostrata,38.200001,-5.28
 996385511,Atriplex_prostrata,-34.533056,117.833056
 1144577907,Atriplex_prostrata,42.13333,8.61667
 1340028609,Atriplex_prostrata,36.801944,28.149167
 1830217807,Atriplex_prostrata,35.14396,139.6205
-1144577927,Atriplex_prostrata,41.6,9.3
 1144577957,Atriplex_prostrata,42.46667,8.68333
 1144577968,Atriplex_prostrata,42.16667,8.58333
-1144577929,Atriplex_prostrata,41.78333,9.4
 1144577949,Atriplex_prostrata,41.96667,9.41667
 1144577905,Atriplex_prostrata,42.66667,9.06667
 1144578098,Atriplex_prostrata,42.13333,9.55
-1144577914,Atriplex_prostrata,41.4,9.23333
-1144577967,Atriplex_prostrata,41.83333,9.4
-1144577924,Atriplex_prostrata,42.1,9.53333
 1144577954,Atriplex_prostrata,42.66667,9.28333
-1050605115,Atriplex_prostrata,42.4,-2.24
-1144578092,Atriplex_prostrata,41.9,9.4
-1144577964,Atriplex_prostrata,42.73333,9.2
 1323714121,Atriplex_prostrata,65.7668,12.4341
 1323714290,Atriplex_prostrata,65.2946,12.1368
 318217531,Atriplex_prostrata,60.2384,6.93058
@@ -1624,13 +1573,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705326970,Atriplex_prostrata,57.568837,14.774143
 1144221236,Atriplex_prostrata,59.7901,5.5205
 1099885442,Atriplex_prostrata,56.2808,14.50645
-1050657747,Atriplex_prostrata,43.35,-2.5
 1705395410,Atriplex_prostrata,57.767442,16.561312
 1144577918,Atriplex_prostrata,41.53333,9.26667
 1936545660,Atriplex_prostrata,43.3414,-4.4818
 1701989783,Atriplex_prostrata,59.7877,5.5189
 1144577933,Atriplex_prostrata,42.06667,8.73333
-1946797193,Atriplex_prostrata,49.94,10.3
 318217533,Atriplex_prostrata,59.0956,5.7092
 1050657772,Atriplex_prostrata,43.35,-2.67
 1323714026,Atriplex_prostrata,70.6202,29.7143
@@ -1640,7 +1587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323851245,Atriplex_prostrata,70.7852,28.6744
 1946797401,Atriplex_prostrata,50.02,10.57
 1936451902,Atriplex_prostrata,41.286,-3.7656
-1050657749,Atriplex_prostrata,43.3,-2.95
 2270175813,Atriplex_prostrata,35.3133,-120.8661
 415926896,Atriplex_prostrata,41.76583,-72.68388
 993322374,Atriplex_prostrata,-31.9833,115.8667
@@ -1670,13 +1616,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936102273,Atriplex_prostrata,42.5033,-2.478
 1050605184,Atriplex_prostrata,43.29,-2.15
 1050605149,Atriplex_prostrata,42.51,-2.73
-1050605145,Atriplex_prostrata,42.8,-2.98
 1144221201,Atriplex_prostrata,59.2704,5.5168
 1050605122,Atriplex_prostrata,42.48,-2.59
 1144221268,Atriplex_prostrata,60.7674,5.7228
 204421317,Atriplex_prostrata,42.483002,-2.592
 1705464777,Atriplex_prostrata,60.875511,17.286131
-1050605162,Atriplex_prostrata,42.5,-2.62
 1144221205,Atriplex_prostrata,59.2699,5.4993
 1230499237,Atriplex_prostrata,44.55083,10.78472
 1323714008,Atriplex_prostrata,70.0617,20.6453
@@ -1684,23 +1628,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 234411217,Atriplex_prostrata,35.140798,139.653037
 1323714052,Atriplex_prostrata,69.3763,20.2623
 1323714248,Atriplex_prostrata,68.2656,17.3355
-30850468,Atriplex_prostrata,36.490002,-4.9
 1936252031,Atriplex_prostrata,40.9539,-1.4566
 2270251463,Atriplex_prostrata,34.422,-119.795
 1099859125,Atriplex_prostrata,59.29441,15.41382
 606659456,Atriplex_prostrata,43.24888,-70.59972
-1842847397,Atriplex_prostrata,41.41,2.1
-1050657753,Atriplex_prostrata,43.4,-2.4
 30850464,Atriplex_prostrata,37.299999,-4.81
 1050657739,Atriplex_prostrata,43.41,-2.64
 234411211,Atriplex_prostrata,35.540754,139.740525
-1050605158,Atriplex_prostrata,42.44,-2.5
 30848801,Atriplex_prostrata,37.669998,-4.59
 1936031901,Atriplex_prostrata,37.5847,-2.6615
 2270267849,Atriplex_prostrata,34.3987999991201,-119.5359
 2270175911,Atriplex_prostrata,35.345556,-120.858056
 441964914,Atriplex_prostrata,51.770611,12.634789
-1230499312,Atriplex_prostrata,41.5,-0.15
 1598809573,Atriplex_prostrata,61.345839,24.487901
 1598812685,Atriplex_prostrata,60.167438,24.745248
 1598809628,Atriplex_prostrata,61.350734,24.509945
@@ -1725,7 +1664,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415955039,Atriplex_prostrata,41.265,-72.67138
 1929434393,Atriplex_prostrata,40.25342,-111.8622
 1144221478,Atriplex_prostrata,61.6132,6.6525
-1050657685,Atriplex_prostrata,40.99,-1.5
 1929964841,Atriplex_prostrata,40.3576,-109.3557
 204421316,Atriplex_prostrata,42.555,-2.58
 1050605096,Atriplex_prostrata,42.55,-2.58
@@ -1742,7 +1680,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702211434,Atriplex_prostrata,59.19856,10.87356
 318217532,Atriplex_prostrata,58.7521,5.6293
 1622359015,Atriplex_prostrata,63.132517,21.540172
-30848331,Atriplex_prostrata,37.119999,-4.8
 1702211393,Atriplex_prostrata,59.199,10.7981
 1323714017,Atriplex_prostrata,68.7883,17.1673
 1323714025,Atriplex_prostrata,68.8251,17.0964
@@ -1752,7 +1689,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702034831,Atriplex_prostrata,59.1982,10.7946
 1936252049,Atriplex_prostrata,42.199,-0.5426
 1099862339,Atriplex_prostrata,63.557778,27.191667
-2289211163,Atriplex_prostrata,63.5,27
 234411212,Atriplex_prostrata,35.540753,139.715527
 1144577920,Atriplex_prostrata,41.91667,8.66667
 1144577948,Atriplex_prostrata,42.58333,8.73333
@@ -1805,7 +1741,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199462853,Atriplex_prostrata,37.17,-4.75
 2270176209,Atriplex_prostrata,34.4049473048247,-119.543673328561
 204421310,Atriplex_prostrata,43.300999,-2.254
-996385550,Atriplex_prostrata,-32.2,115.9
 1702011844,Atriplex_prostrata,63.7595,10.0936
 1042863463,Atriplex_prostrata,57.29221,15.58245
 1936097530,Atriplex_prostrata,39.4231,-3.3614
@@ -1814,14 +1749,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1288077096,Atriplex_prostrata,50.6553,9.60446
 1598809591,Atriplex_prostrata,61.472318,23.77839
 1598809582,Atriplex_prostrata,60.530276,27.716348
-415955075,Atriplex_prostrata,45.7,-64.46666
 1598812760,Atriplex_prostrata,60.884864,24.694786
-199462574,Atriplex_prostrata,36.72,-4.4
 199462565,Atriplex_prostrata,36.63,-4.51
 1598812787,Atriplex_prostrata,62.759719,21.21684
 1804389051,Atriplex_prostrata,44.216667,-66.1425
 1598809621,Atriplex_prostrata,65.332094,26.942654
-993330532,Atriplex_prostrata,52.1667,4.5
 1099862811,Atriplex_prostrata,60.582778,27.706944
 1697477412,Atriplex_prostrata,54.860198,38.484671
 1099862743,Atriplex_prostrata,60.569167,27.193889
@@ -1872,7 +1804,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895642488,Atriplex_prostrata,32.162222,-116.900427
 2270175508,Atriplex_prostrata,35.3133,-120.86613
 1042863023,Atriplex_prostrata,55.52899,12.95091
-1230498779,Atriplex_prostrata,47.75,16.8
 1042863332,Atriplex_prostrata,55.72167,13.04091
 1042863177,Atriplex_prostrata,55.57458,12.90787
 51767194,Atriplex_prostrata,43.9828,-124.0986
@@ -1975,7 +1906,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598812681,Atriplex_prostrata,61.146985,24.304145
 1702413332,Atriplex_prostrata,59.4686,10.3412
 1701292176,Atriplex_prostrata,64.6931,11.443
-1988228030,Atriplex_prostrata,49.2,-123.09
 1705276211,Atriplex_prostrata,55.923565,14.292623
 1598812715,Atriplex_prostrata,64.843784,25.415849
 1042864822,Atriplex_prostrata,56.10431,13.6041
@@ -1989,7 +1919,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 245530458,Atriplex_prostrata,35.224124,139.603039
 1999483664,Atriplex_prostrata,60.415622,22.629856
 1099863181,Atriplex_prostrata,56.464722,10.046944
-699272598,Atriplex_prostrata,42.7,-72.83333
 1598812735,Atriplex_prostrata,61.040584,23.572412
 318217535,Atriplex_prostrata,58.888,6.0415
 1323714068,Atriplex_prostrata,69.8413,22.014
@@ -2077,11 +2006,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248691834,Atriplex_prostrata,48.392222,-77.216667
 1705327702,Atriplex_prostrata,57.042658,16.446171
 1042866611,Atriplex_prostrata,56.20784,13.93438
-668742651,Atriplex_prostrata,47.4,-70.390556
 1598809529,Atriplex_prostrata,61.001788,24.45504
 2290522112,Atriplex_prostrata,52.160114,4.49701
 1042863331,Atriplex_prostrata,55.7117,13.21239
-1893207418,Atriplex_prostrata,49.46,6
 2273633084,Atriplex_prostrata,67.51987,15.73862
 1042865700,Atriplex_prostrata,55.99661,12.74211
 1899071322,Atriplex_prostrata,49.49,6.36
@@ -2107,7 +2034,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999483701,Atriplex_prostrata,60.437719,22.226673
 1598812737,Atriplex_prostrata,60.545354,27.270362
 1701876138,Atriplex_prostrata,59.4788,10.6329
-1899071555,Atriplex_prostrata,49.52,6
 465914986,Atriplex_prostrata,47.44418,-70.510986
 2309512234,Atriplex_prostrata,45.25,-74.71
 1702290049,Atriplex_prostrata,59.0935,11.2254
@@ -2165,7 +2091,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701242332,Atriplex_prostrata,58.46423,6.11775
 1598809598,Atriplex_prostrata,60.486809,27.369791
 1701772918,Atriplex_prostrata,63.4858,9.8533
-1899072236,Atriplex_prostrata,49.5,6.04
 1042861841,Atriplex_prostrata,55.7211,13.02215
 465914980,Atriplex_prostrata,45.35926,-63.36608
 1701876038,Atriplex_prostrata,59.0428,10.9512
@@ -2242,7 +2167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598812748,Atriplex_prostrata,60.723703,24.724687
 415955035,Atriplex_prostrata,41.31972,-72.07555
 1701665228,Atriplex_prostrata,59.3338,10.7314
-1340028718,Atriplex_prostrata,34.983333,34
 1340027399,Atriplex_prostrata,35.185278,33.903056
 1701864459,Atriplex_prostrata,61.8403,6.8061
 1042866599,Atriplex_prostrata,55.6439,13.70531
@@ -2267,7 +2191,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099860666,Atriplex_prostrata,58.25088,11.44101
 1042866305,Atriplex_prostrata,56.20219,15.56228
 1323695977,Atriplex_prostrata,67.2689,14.3622
-1988072520,Atriplex_prostrata,49.2,-123.2
 1701876118,Atriplex_prostrata,59.5054,10.6606
 1701446161,Atriplex_prostrata,59.5053,10.654
 1701259550,Atriplex_prostrata,63.744,11.2796
@@ -2285,9 +2208,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144221465,Atriplex_prostrata,61.03699,6.57199
 1042866339,Atriplex_prostrata,56.42484,12.6245
 1701241128,Atriplex_prostrata,63.5744,10.6113
-318048616,Atriplex_prostrata,45.46667,-74.3
 1144220734,Atriplex_prostrata,59.0498,10.9306
-1893207379,Atriplex_prostrata,49.95,5.9
 1042866700,Atriplex_prostrata,56.04236,14.16579
 1144220720,Atriplex_prostrata,59.0868,11.0366
 2313358651,Atriplex_prostrata,48.17,11.37
@@ -2331,7 +2252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323714149,Atriplex_prostrata,65.40838,12.05587
 1228537557,Atriplex_prostrata,42.0833,-87.9667
 1144221306,Atriplex_prostrata,60.2775,6.6239
-1144578089,Atriplex_prostrata,41.85,9.4
 1144221433,Atriplex_prostrata,61.16472,5.20639
 1042865776,Atriplex_prostrata,56.44523,12.56357
 1042863420,Atriplex_prostrata,55.58285,12.92779
@@ -2406,7 +2326,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415955059,Atriplex_prostrata,41.41666,-71.66666
 415955060,Atriplex_prostrata,41.50638,-71.13055
 1228598460,Atriplex_prostrata,41.809753,-87.900616
-1935981531,Atriplex_prostrata,37.6,-0.9833
 1099861851,Atriplex_prostrata,58.2514,11.46485
 1099862445,Atriplex_prostrata,58.998933,17.663422
 1099863459,Atriplex_prostrata,57.87127,11.98884
@@ -2422,7 +2341,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1668931945,Atriplex_prostrata,58.69046,11.25914
 1258052575,Atriplex_prostrata,38.50361,-90.67583
 1701230185,Atriplex_prostrata,63.58554,10.68569
-465915012,Atriplex_prostrata,45.6,-64.85
 465915007,Atriplex_prostrata,45.333333,-65.55
 1099860570,Atriplex_prostrata,57.65525,12.132
 1701776152,Atriplex_prostrata,63.6888,9.6572
@@ -2510,7 +2428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042866786,Atriplex_prostrata,56.0278,14.15345
 1042865793,Atriplex_prostrata,55.57137,12.99359
 415955069,Atriplex_prostrata,42.21666,-70.78333
-1936330106,Atriplex_prostrata,41.1,-4.5333
 1099860731,Atriplex_prostrata,58.37229,11.82594
 1144077381,Atriplex_prostrata,60.8743,5.5826
 1705407006,Atriplex_prostrata,57.659746,11.843094
@@ -2531,7 +2448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144072183,Atriplex_prostrata,69.84757,21.9192
 1701562515,Atriplex_prostrata,63.5715,10.7823
 1144221222,Atriplex_prostrata,60.2791,6.2511
-415955073,Atriplex_prostrata,42.3,-71.08333
 1228310560,Atriplex_prostrata,41.59337,-87.346427
 1260927995,Atriplex_prostrata,39.15556,-94.39333
 1228510079,Atriplex_prostrata,41.842147,-87.790235
