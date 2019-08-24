@@ -19,7 +19,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897784598,Rytidosperma_setifolium,-42.331389,173.556111
 1843458314,Rytidosperma_setifolium,-41.856389,173.114722
 1897782802,Rytidosperma_setifolium,-44.222222,169.773333
-1843403245,Rytidosperma_setifolium,-36.533333,175.4
 1897773454,Rytidosperma_setifolium,-37.983333,175.116667
 1843398832,Rytidosperma_setifolium,-39.283333,176.4
 1843374495,Rytidosperma_setifolium,-39.266667,175.666667
@@ -48,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091300200,Rytidosperma_setifolium,-42.066666,172.38
 1091319067,Rytidosperma_setifolium,-43.316666,170.933333
 1091174822,Rytidosperma_setifolium,-41.45,172.05
-1897619380,Rytidosperma_setifolium,-42.133333,171.333333
 1091265813,Rytidosperma_setifolium,-45.55,168.205
 1426047925,Rytidosperma_setifolium,-43.85384,171.16461
 1091138483,Rytidosperma_setifolium,-46.133333,167.82
@@ -59,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091241481,Rytidosperma_setifolium,-42.583333,172.166666
 1897657925,Rytidosperma_setifolium,-39.116667,175.533333
 1897721319,Rytidosperma_setifolium,-39.066667,175.55
-1897635522,Rytidosperma_setifolium,-36.533333,175.416667
 993496180,Rytidosperma_setifolium,-43.75,171.3167
 1897833837,Rytidosperma_setifolium,-40.318472,175.796861
 1897646593,Rytidosperma_setifolium,-39.233333,175.55
@@ -87,7 +84,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897670183,Rytidosperma_setifolium,-39.15,175.6
 1897696482,Rytidosperma_setifolium,-39.15,175.616667
 1897619754,Rytidosperma_setifolium,-38.916667,174.916667
-1897766872,Rytidosperma_setifolium,-46.083333,166.583333
 993311736,Rytidosperma_setifolium,-42.0833,173.25
 1897733654,Rytidosperma_setifolium,-39.233333,175.45
 1897726340,Rytidosperma_setifolium,-37.849444,177.983056
