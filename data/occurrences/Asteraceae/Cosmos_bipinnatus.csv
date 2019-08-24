@@ -10,12 +10,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1995319346,Cosmos_bipinnatus,59.6724,10.7658
 1702030048,Cosmos_bipinnatus,59.6725,10.7644
 1829925975,Cosmos_bipinnatus,35.340768,139.128079
-1060342734,Cosmos_bipinnatus,48.5,9
-1060342750,Cosmos_bipinnatus,47.4,3.6
 1829919684,Cosmos_bipinnatus,35.330306,139.165075
 1258081167,Cosmos_bipinnatus,38.616945,-90.263889
-1060342736,Cosmos_bipinnatus,46.6,10.8
-1060342644,Cosmos_bipinnatus,46.7,11.1
 1829930248,Cosmos_bipinnatus,35.315772,139.153078
 1702029219,Cosmos_bipinnatus,59.1801,10.9656
 2268932839,Cosmos_bipinnatus,19.497972,-100.294555
@@ -34,7 +30,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 684325314,Cosmos_bipinnatus,51.151783,14.986138
 1697688965,Cosmos_bipinnatus,55.358333,40.397222
 684325313,Cosmos_bipinnatus,51.24567,14.766545
-1060342741,Cosmos_bipinnatus,46.6,13.8
 1702028105,Cosmos_bipinnatus,60.0067,11.0674
 932708684,Cosmos_bipinnatus,42.30361,-8.74505
 1897945865,Cosmos_bipinnatus,22.749722,-103.087222
@@ -52,12 +47,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894416807,Cosmos_bipinnatus,20.889278,-100.205805
 1897945848,Cosmos_bipinnatus,22.746667,-103.0975
 1697689070,Cosmos_bipinnatus,58.618967,44.697017
-895221457,Cosmos_bipinnatus,40.4,-1.5833
 391289769,Cosmos_bipinnatus,37.291667,140.393889
 1702252942,Cosmos_bipinnatus,60.0066,11.0687
 391289754,Cosmos_bipinnatus,37.29,140.393333
 1989605412,Cosmos_bipinnatus,55.71043,13.19551
-786125918,Cosmos_bipinnatus,48.5,9.1
 1946994188,Cosmos_bipinnatus,49.96,9.77
 1701861486,Cosmos_bipinnatus,59.4389,10.7095
 895217760,Cosmos_bipinnatus,39.482,-0.39
@@ -88,7 +81,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993667161,Cosmos_bipinnatus,-35.3781,149.0833
 1089173311,Cosmos_bipinnatus,-7.470556,-36.898222
 1949645729,Cosmos_bipinnatus,49.255833,-124.853611
-1988196978,Cosmos_bipinnatus,49.38,-121.4
 1342366080,Cosmos_bipinnatus,56.462257,10.305089
 1701859606,Cosmos_bipinnatus,59.4407,10.7117
 441996254,Cosmos_bipinnatus,51.147099,12.646997
@@ -108,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705371201,Cosmos_bipinnatus,57.011324,16.401075
 1894647775,Cosmos_bipinnatus,20.505444,-100.504444
 441995327,Cosmos_bipinnatus,51.183678,14.793103
-786125537,Cosmos_bipinnatus,49,8.4
 1702034592,Cosmos_bipinnatus,59.4398,10.7085
 1928273170,Cosmos_bipinnatus,27.308467,-108.031517
 441995415,Cosmos_bipinnatus,51.139912,14.924171
@@ -116,13 +107,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897337541,Cosmos_bipinnatus,20.23585,-104.454361
 1949316376,Cosmos_bipinnatus,51.767422,12.625325
 461743447,Cosmos_bipinnatus,-25.125,29.875
-996192234,Cosmos_bipinnatus,-35.4,149.12
-993385875,Cosmos_bipinnatus,-35.4,149.1167
 1928160303,Cosmos_bipinnatus,-28.27036,29.20519
 441994584,Cosmos_bipinnatus,51.766575,12.627171
 441994586,Cosmos_bipinnatus,51.767906,12.624286
 1697843658,Cosmos_bipinnatus,43.405796,40.009
-1697688994,Cosmos_bipinnatus,56.1,38.775
 441994660,Cosmos_bipinnatus,51.767899,12.624146
 230817906,Cosmos_bipinnatus,51.700262,5.845119
 441994667,Cosmos_bipinnatus,51.767902,12.624199
@@ -146,7 +134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652178704,Cosmos_bipinnatus,-28.569731,151.952273
 995391713,Cosmos_bipinnatus,-28.5711,151.9514
 996191847,Cosmos_bipinnatus,-29.2081,152.0144
-912494718,Cosmos_bipinnatus,-6.8,31.63
 1457791340,Cosmos_bipinnatus,29.61375,-82.41087
 1260389771,Cosmos_bipinnatus,-6.798889,31.625833
 1697689034,Cosmos_bipinnatus,52.703966,41.570254
@@ -181,7 +168,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702193737,Cosmos_bipinnatus,61.5356,10.1049
 1705346337,Cosmos_bipinnatus,57.318758,15.591116
 1894647733,Cosmos_bipinnatus,20.68675,-99.804444
-1585292976,Cosmos_bipinnatus,13.91667,-88.1
 1830622714,Cosmos_bipinnatus,34.109555,134.443051
 1342366066,Cosmos_bipinnatus,56.024939,9.985437
 996774826,Cosmos_bipinnatus,-31.952,115.825
@@ -208,7 +194,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2273388532,Cosmos_bipinnatus,35.308237,-83.184948
 1928629252,Cosmos_bipinnatus,40.0761,-105.2839
 1259073560,Cosmos_bipinnatus,23.86,-105.21
-1259071721,Cosmos_bipinnatus,23.8,-104.76
 1701861963,Cosmos_bipinnatus,59.1834,10.9652
 1701842683,Cosmos_bipinnatus,59.4282,10.4638
 441988569,Cosmos_bipinnatus,52.880756,11.475657
@@ -232,7 +217,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895244308,Cosmos_bipinnatus,17.511667,-97.649167
 1897838865,Cosmos_bipinnatus,-43.543056,172.614556
 2239092457,Cosmos_bipinnatus,-31.390833,-64.190833
-1897764753,Cosmos_bipinnatus,-36.9,174.75
 1895729990,Cosmos_bipinnatus,17.879722,-99.820556
 1897945876,Cosmos_bipinnatus,21.351667,-103.234167
 1897945817,Cosmos_bipinnatus,21.924722,-101.388055
@@ -240,7 +224,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897945888,Cosmos_bipinnatus,21.35,-103.221944
 1897945799,Cosmos_bipinnatus,21.349167,-103.243889
 1897945894,Cosmos_bipinnatus,21.355278,-103.244444
-318108812,Cosmos_bipinnatus,38.39,-0.5
 995522998,Cosmos_bipinnatus,-28.65,151.95
 2270485964,Cosmos_bipinnatus,33.417308,-111.936365
 2270486623,Cosmos_bipinnatus,33.335,-112.127
@@ -274,7 +257,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 371259172,Cosmos_bipinnatus,18.298444,-101.216083
 371259198,Cosmos_bipinnatus,18.248361,-101.633944
 2239092472,Cosmos_bipinnatus,-24.895556,-65.240278
-1895244327,Cosmos_bipinnatus,16.276389,-96.3
 1897945823,Cosmos_bipinnatus,21.604444,-102.861944
 1897945814,Cosmos_bipinnatus,21.556667,-102.785
 1897945819,Cosmos_bipinnatus,21.4925,-103.575
@@ -300,7 +282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894647787,Cosmos_bipinnatus,20.177778,-100.078055
 461743445,Cosmos_bipinnatus,-26.875,27.625
 1258963103,Cosmos_bipinnatus,-18.518056,-64.085555
-995119756,Cosmos_bipinnatus,-37.9,145
 992577626,Cosmos_bipinnatus,-32.495,137.766111
 1894647764,Cosmos_bipinnatus,20.425,-100.308333
 1894647747,Cosmos_bipinnatus,20.339167,-99.993889
@@ -309,7 +290,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 43204950,Cosmos_bipinnatus,34.13009,134.54333
 1893979355,Cosmos_bipinnatus,20.3030737605332,-100.284577897757
 891595795,Cosmos_bipinnatus,22.639444,120.584167
-992572203,Cosmos_bipinnatus,-38,140.966667
 992573977,Cosmos_bipinnatus,-34.783333,138.716667
 1893593765,Cosmos_bipinnatus,19.673333,-103.255
 1893911400,Cosmos_bipinnatus,17.853889,-99.751944
@@ -337,7 +317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895244275,Cosmos_bipinnatus,19.603333,-101.682778
 1895244283,Cosmos_bipinnatus,21.311111,-100.202222
 1895244266,Cosmos_bipinnatus,20.166667,-99.118611
-1895244256,Cosmos_bipinnatus,19.501111,-98.9
 1895244369,Cosmos_bipinnatus,29.783611,-108.327778
 1893593705,Cosmos_bipinnatus,19.491667,-98.888333
 1894528846,Cosmos_bipinnatus,25.208333,-106.508333
@@ -364,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893593659,Cosmos_bipinnatus,19.781667,-100.641667
 1895244271,Cosmos_bipinnatus,22.490556,-104.773889
 1894528876,Cosmos_bipinnatus,25.441667,-106.158333
-1259805379,Cosmos_bipinnatus,22.5,-104.8
 1894528872,Cosmos_bipinnatus,25.191667,-105.908333
 1894528860,Cosmos_bipinnatus,25.325,-105.775
 1895244405,Cosmos_bipinnatus,19.041667,-99.275
@@ -396,17 +374,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893593676,Cosmos_bipinnatus,21.155,-100.932778
 1895244295,Cosmos_bipinnatus,19.689444,-101.231389
 1893593736,Cosmos_bipinnatus,21.228333,-100.943333
-1259805017,Cosmos_bipinnatus,22.3,-104.716667
 1893593779,Cosmos_bipinnatus,19.451667,-101.73
 891602636,Cosmos_bipinnatus,24.347222,121.305833
 1261311661,Cosmos_bipinnatus,21.516667,-105.016667
 234416601,Cosmos_bipinnatus,35.449098,139.578042
 1896111683,Cosmos_bipinnatus,18.885833,-96.945833
-1893593717,Cosmos_bipinnatus,19.74,-101.3
 1895387293,Cosmos_bipinnatus,28.495281,-108.480561
 1895387304,Cosmos_bipinnatus,19.070833,-98.491667
 1893593642,Cosmos_bipinnatus,19.6525,-101.17667
-1988229534,Cosmos_bipinnatus,49.3,-123.3
 318679538,Cosmos_bipinnatus,59.694728,10.630375
 1418345949,Cosmos_bipinnatus,19.511667,-96.9175
 1895387250,Cosmos_bipinnatus,19.075,-98.483333
@@ -432,7 +407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896111690,Cosmos_bipinnatus,19.458333,-101.691667
 1895387275,Cosmos_bipinnatus,28.033333,-107.933333
 1895952652,Cosmos_bipinnatus,19.069444,-97.8575
-1893593737,Cosmos_bipinnatus,20.5,-100.265
 1893593785,Cosmos_bipinnatus,19.041667,-98.208333
 1896111674,Cosmos_bipinnatus,15.325,-92.291667
 1893593719,Cosmos_bipinnatus,15.291111,-92.293056
@@ -477,7 +451,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895387203,Cosmos_bipinnatus,24.446111,-104.122219
 1893593699,Cosmos_bipinnatus,18.675,-97.358333
 1585294143,Cosmos_bipinnatus,13.83333,-89.26667
-1893593724,Cosmos_bipinnatus,22.913333,-104.6
 234416605,Cosmos_bipinnatus,35.332446,139.590541
 442113294,Cosmos_bipinnatus,35.349998,139.083328
 234416593,Cosmos_bipinnatus,35.557414,139.31556
