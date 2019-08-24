@@ -1,7 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913353100,Tephroseris_palustris_subsp._congesta,61.110111,-94.075806
-1913349620,Tephroseris_palustris_subsp._congesta,61.104,-94.020306
-1913350366,Tephroseris_palustris_subsp._congesta,61.100556,-94.002561
 1806446717,Tephroseris_palustris_subsp._congesta,67.823278,-115.104889
 1806447314,Tephroseris_palustris_subsp._congesta,67.824778,-115.017556
 1806446741,Tephroseris_palustris_subsp._congesta,67.825139,-115.091472
@@ -12,7 +10,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146321332,Tephroseris_palustris_subsp._congesta,63.6022899992495,-170.77223
 1146321413,Tephroseris_palustris_subsp._congesta,63.7075799992516,-171.74037
 1146322143,Tephroseris_palustris_subsp._congesta,65.97517,-149.99768
-1804559926,Tephroseris_palustris_subsp._congesta,69.567,-138.95
 1913351180,Tephroseris_palustris_subsp._congesta,74.193033,-120.302218
 2304943770,Tephroseris_palustris_subsp._congesta,71.36,-116.56
 2305445945,Tephroseris_palustris_subsp._congesta,70.73,-117.76
@@ -24,21 +21,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2309957542,Tephroseris_palustris_subsp._congesta,58.77,-93.84
 1804510830,Tephroseris_palustris_subsp._congesta,74.899444,-109.523056
 1804530455,Tephroseris_palustris_subsp._congesta,69.116389,-105.055
-1456068258,Tephroseris_palustris_subsp._congesta,68.5928,-110.307
-1306621059,Tephroseris_palustris_subsp._congesta,68.592778,-110.306667
-1837291029,Tephroseris_palustris_subsp._congesta,68.5927779993597,-110.306667
-1658228837,Tephroseris_palustris_subsp._congesta,68.677778,-110.366667
-2307442041,Tephroseris_palustris_subsp._congesta,68.68,-110.37
-1804463775,Tephroseris_palustris_subsp._congesta,68.751389,-109.105556
 2310933574,Tephroseris_palustris_subsp._congesta,51.35,-80.43
 22263127,Tephroseris_palustris_subsp._congesta,48.5868,4.05412
-1342341739,Tephroseris_palustris_subsp._congesta,55.414964,9.843826
 1146249081,Tephroseris_palustris_subsp._congesta,57.266667,-154.233333
 1703299124,Tephroseris_palustris_subsp._congesta,58.7669439991643,-93.251111
 1146371013,Tephroseris_palustris_subsp._congesta,66.56,-164.02
 1804484784,Tephroseris_palustris_subsp._congesta,71.467222,-121.900556
 1146374437,Tephroseris_palustris_subsp._congesta,68,-161.49
-1703299091,Tephroseris_palustris_subsp._congesta,57.8548089149821,-92.747953388086
 1899340510,Tephroseris_palustris_subsp._congesta,49.38993,-94.28793
 1146235073,Tephroseris_palustris_subsp._congesta,64.5264133809344,-143.23964039453
 1703299184,Tephroseris_palustris_subsp._congesta,58.4069439991588,-93.062222
@@ -82,11 +71,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146375165,Tephroseris_palustris_subsp._congesta,59.76,-161.83
 1697311456,Tephroseris_palustris_subsp._congesta,73.58429,99.96454
 1146218777,Tephroseris_palustris_subsp._congesta,65.91,-161.93
-1935534217,Tephroseris_palustris_subsp._congesta,53.9485,14.0816
 1697311439,Tephroseris_palustris_subsp._congesta,71.129835,179.251539
-1269686797,Tephroseris_palustris_subsp._congesta,70.515999,-149.865997
-1054798290,Tephroseris_palustris_subsp._congesta,51.6,-79.25
-1248700068,Tephroseris_palustris_subsp._congesta,51.327778,-79.733333
 1248699958,Tephroseris_palustris_subsp._congesta,50.258333,-76.6125
 1248700061,Tephroseris_palustris_subsp._congesta,52.208333,-78.513889
 1146357383,Tephroseris_palustris_subsp._congesta,65.46,-164.7
@@ -95,14 +80,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804454124,Tephroseris_palustris_subsp._congesta,69.566667,-140.166667
 1978802530,Tephroseris_palustris_subsp._congesta,73.15,-79.966667
 1146396164,Tephroseris_palustris_subsp._congesta,65.5,-145.23
-1248699977,Tephroseris_palustris_subsp._congesta,51.511944,-79.209167
-1262019533,Tephroseris_palustris_subsp._congesta,53.4,-79.066667
 1146208818,Tephroseris_palustris_subsp._congesta,64.88,-148.81
 1697311457,Tephroseris_palustris_subsp._congesta,74.82714,106.2729
 1697311718,Tephroseris_palustris_subsp._congesta,60.961947,151.026889
 1889151034,Tephroseris_palustris_subsp._congesta,53.083333,-111.566667
 1697343248,Tephroseris_palustris_subsp._congesta,51.004952,98.950853
-1804596929,Tephroseris_palustris_subsp._congesta,68.966667,-137.266667
 1146304110,Tephroseris_palustris_subsp._congesta,64.86,-147.83
 1697311438,Tephroseris_palustris_subsp._congesta,52.5,111.5
 1146304060,Tephroseris_palustris_subsp._congesta,62.95,-159.33
@@ -136,8 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897686747,Tephroseris_palustris_subsp._congesta,62.808333,-92.086111
 1804525000,Tephroseris_palustris_subsp._congesta,72.216667,-119.916667
 1804485962,Tephroseris_palustris_subsp._congesta,70.7366669994132,-117.771944
-1697311447,Tephroseris_palustris_subsp._congesta,71.10321,66.75744
-1697311499,Tephroseris_palustris_subsp._congesta,71.10985,66.83638
 1146244208,Tephroseris_palustris_subsp._congesta,69.8329067772367,-156.003179923095
 1146366890,Tephroseris_palustris_subsp._congesta,61.01,-159.88
 1804517572,Tephroseris_palustris_subsp._congesta,68.35,-133.716667
@@ -150,10 +130,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697311505,Tephroseris_palustris_subsp._congesta,66.29443,73.82287
 1146332206,Tephroseris_palustris_subsp._congesta,69.33,-138.71
 1146216166,Tephroseris_palustris_subsp._congesta,64.81,-148.51
-1806447920,Tephroseris_palustris_subsp._congesta,74.833333,-113.366667
 1146235215,Tephroseris_palustris_subsp._congesta,70.3328120592471,-161.836693856539
 1146366904,Tephroseris_palustris_subsp._congesta,61.03,-159.8
-1146397943,Tephroseris_palustris_subsp._congesta,65.6,-168.08
 1146234746,Tephroseris_palustris_subsp._congesta,68.6497969985179,-141.169290768089
 1697311509,Tephroseris_palustris_subsp._congesta,50.63422,97.401009
 1146384074,Tephroseris_palustris_subsp._congesta,64.53,-165.38
@@ -165,7 +143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697311427,Tephroseris_palustris_subsp._congesta,63.085435,152.51358
 1146215824,Tephroseris_palustris_subsp._congesta,69.5,-161.86
 1697311467,Tephroseris_palustris_subsp._congesta,67.50621,78.6457
-1146379734,Tephroseris_palustris_subsp._congesta,66.58,-164.41
 1697311465,Tephroseris_palustris_subsp._congesta,66.59319,66.52838
 1146241419,Tephroseris_palustris_subsp._congesta,70.0328974877262,-156.836560850093
 1146304067,Tephroseris_palustris_subsp._congesta,64.83,-160.9
@@ -174,10 +151,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697311443,Tephroseris_palustris_subsp._congesta,64.905948,-172.552903
 1146304100,Tephroseris_palustris_subsp._congesta,64.83,-160.83
 1889148820,Tephroseris_palustris_subsp._congesta,53.466104,-112.605619
-1248699981,Tephroseris_palustris_subsp._congesta,51.492778,-79.326111
 1831344875,Tephroseris_palustris_subsp._congesta,53.4485,12.7484
 1146396889,Tephroseris_palustris_subsp._congesta,65.16,-147.91
-1248699949,Tephroseris_palustris_subsp._congesta,51.642222,-79.228889
 1146379478,Tephroseris_palustris_subsp._congesta,66.1,-165.68
 1146367287,Tephroseris_palustris_subsp._congesta,61.43,-165.45
 1697311449,Tephroseris_palustris_subsp._congesta,73.23841,90.59814
@@ -189,7 +164,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146239095,Tephroseris_palustris_subsp._congesta,68.5997527289608,-143.75269809267
 1697311461,Tephroseris_palustris_subsp._congesta,51.294145,95.828899
 1697311387,Tephroseris_palustris_subsp._congesta,68.596761,175.663583
-1146236532,Tephroseris_palustris_subsp._congesta,70.3663966072959,-148.369747478231
 1913350162,Tephroseris_palustris_subsp._congesta,72.25175,-120.195642
 1146372385,Tephroseris_palustris_subsp._congesta,63.91,-142.2
 883415408,Tephroseris_palustris_subsp._congesta,65.883333,-128.216667
@@ -198,11 +172,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804613638,Tephroseris_palustris_subsp._congesta,65.883333,-128.083333
 1889151225,Tephroseris_palustris_subsp._congesta,69.583333,-141.666667
 1146379192,Tephroseris_palustris_subsp._congesta,65.58,-163.91
-1801079350,Tephroseris_palustris_subsp._congesta,53.3,-80
 1146380603,Tephroseris_palustris_subsp._congesta,67.66,-155.46
 1703286534,Tephroseris_palustris_subsp._congesta,51.4178934092729,-99.9693365468044
 883415223,Tephroseris_palustris_subsp._congesta,65.666667,-128.833333
-1889151189,Tephroseris_palustris_subsp._congesta,71.3252,-156.6885
 1146243449,Tephroseris_palustris_subsp._congesta,69.86,-142.2
 1248700006,Tephroseris_palustris_subsp._congesta,51.503889,-79.213889
 1697311479,Tephroseris_palustris_subsp._congesta,69.3737,87.28405
@@ -210,7 +182,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804453344,Tephroseris_palustris_subsp._congesta,73.516667,-120.3
 2290358981,Tephroseris_palustris_subsp._congesta,67.65,-139
 883415293,Tephroseris_palustris_subsp._congesta,69.4317,-132.813654
-1978801202,Tephroseris_palustris_subsp._congesta,69,-105
 1697311413,Tephroseris_palustris_subsp._congesta,63.237029,147.787056
 1804480590,Tephroseris_palustris_subsp._congesta,62.8001162467032,-92.0835089085846
 1146244376,Tephroseris_palustris_subsp._congesta,71.2662746368676,-156.653435089448
@@ -221,7 +192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1889148819,Tephroseris_palustris_subsp._congesta,59.123374,-112.436267
 1889151102,Tephroseris_palustris_subsp._congesta,65.100907,-138.355996
 1146304098,Tephroseris_palustris_subsp._congesta,61.41,-165.41
-1146244523,Tephroseris_palustris_subsp._congesta,71.291667,-156.7875
 1146394382,Tephroseris_palustris_subsp._congesta,65.61,-171.03
 1697311489,Tephroseris_palustris_subsp._congesta,69.04305,76.84649
 1146367089,Tephroseris_palustris_subsp._congesta,61.33,-163
@@ -255,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697311425,Tephroseris_palustris_subsp._congesta,65.70899,82.46289
 1697310563,Tephroseris_palustris_subsp._congesta,67.570532,156.589496
 1146370001,Tephroseris_palustris_subsp._congesta,62.11,-145.75
-1146356552,Tephroseris_palustris_subsp._congesta,60.38,-166.18
 1146391470,Tephroseris_palustris_subsp._congesta,64.33,-146.66
 1146243395,Tephroseris_palustris_subsp._congesta,65.45,-145.43
 1146392134,Tephroseris_palustris_subsp._congesta,64.86,-147.86
@@ -305,7 +274,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978800397,Tephroseris_palustris_subsp._congesta,64.15,-83.083333
 2265434557,Tephroseris_palustris_subsp._congesta,47.1589,-96.00743
 1697310661,Tephroseris_palustris_subsp._congesta,66.769003,123.374504
-1697311432,Tephroseris_palustris_subsp._congesta,69.640848,167.645874
 1038218408,Tephroseris_palustris_subsp._congesta,53.7485,12.7484
 1697310579,Tephroseris_palustris_subsp._congesta,51.7968,116.7102
 1697460892,Tephroseris_palustris_subsp._congesta,54.295084,59.393177
@@ -327,8 +295,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697311434,Tephroseris_palustris_subsp._congesta,59.566352,150.915849
 788559290,Tephroseris_palustris_subsp._congesta,55.506663,13.88024
 1845010758,Tephroseris_palustris_subsp._congesta,54.196667,9.246667
-1146383988,Tephroseris_palustris_subsp._congesta,64.5,-165.41
-1804508643,Tephroseris_palustris_subsp._congesta,72.8,-78.916667
 1146345851,Tephroseris_palustris_subsp._congesta,64.7,-162.03
 1146356869,Tephroseris_palustris_subsp._congesta,60.86,-162.53
 1705370701,Tephroseris_palustris_subsp._congesta,56.084914,14.350672
@@ -337,11 +303,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697311429,Tephroseris_palustris_subsp._congesta,65.232316,160.51485
 1889151020,Tephroseris_palustris_subsp._congesta,52.972632,-113.961217
 1456474681,Tephroseris_palustris_subsp._congesta,69.42,-152.17
-1456056051,Tephroseris_palustris_subsp._congesta,71.32,-156.72
 1697311430,Tephroseris_palustris_subsp._congesta,70.745268,136.194594
 441839013,Tephroseris_palustris_subsp._congesta,69.833333,-155.5
 1455985725,Tephroseris_palustris_subsp._congesta,69.83,-155.5
-1248700071,Tephroseris_palustris_subsp._congesta,51.507222,-79.218611
 1146304108,Tephroseris_palustris_subsp._congesta,66.75,-161.5
 1703284678,Tephroseris_palustris_subsp._congesta,50.249903591725,-96.0671940313644
 1889151140,Tephroseris_palustris_subsp._congesta,50.259953,-96.05938
@@ -361,7 +325,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441839024,Tephroseris_palustris_subsp._congesta,71.175,-156.583333
 1456364390,Tephroseris_palustris_subsp._congesta,71.175,-156.58
 1456011155,Tephroseris_palustris_subsp._congesta,71.17,-156.58
-465002433,Tephroseris_palustris_subsp._congesta,63.35,-90.7
 1456478121,Tephroseris_palustris_subsp._congesta,71.1375,-156.475
 441839014,Tephroseris_palustris_subsp._congesta,71.166667,-156.583333
 1889151033,Tephroseris_palustris_subsp._congesta,53.6815,-112.8531
@@ -377,7 +340,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146368154,Tephroseris_palustris_subsp._congesta,62.95,-155.6
 1889151112,Tephroseris_palustris_subsp._congesta,69.116505,-105.05817
 1066985,Tephroseris_palustris_subsp._congesta,55.608254,13.177218
-1066533,Tephroseris_palustris_subsp._congesta,56.51959,16.398552
 1066997,Tephroseris_palustris_subsp._congesta,55.672901,13.552304
 1563210309,Tephroseris_palustris_subsp._congesta,66.08,-118.03
 1066962,Tephroseris_palustris_subsp._congesta,56.066015,14.333212
@@ -392,7 +354,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804428817,Tephroseris_palustris_subsp._congesta,61.382778,-149.051111
 1804509694,Tephroseris_palustris_subsp._congesta,64.5575,-165.4075
 1456388085,Tephroseris_palustris_subsp._congesta,69.8,-160.83
-1705299101,Tephroseris_palustris_subsp._congesta,56.519589,16.39855
 1067008,Tephroseris_palustris_subsp._congesta,55.773014,14.153144
 1066917,Tephroseris_palustris_subsp._congesta,55.726736,13.462168
 1066933,Tephroseris_palustris_subsp._congesta,55.684461,13.495184
@@ -407,7 +368,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1889151176,Tephroseris_palustris_subsp._congesta,69.2048,-113.8779
 1146368029,Tephroseris_palustris_subsp._congesta,62.98,-156.06
 1146364754,Tephroseris_palustris_subsp._congesta,61.53,-149.23
-1978800899,Tephroseris_palustris_subsp._congesta,69,-105.833333
 1978792565,Tephroseris_palustris_subsp._congesta,68.25,-135
 684164941,Tephroseris_palustris_subsp._congesta,47.089901,10.000979
 1804397696,Tephroseris_palustris_subsp._congesta,68,-72.416667
@@ -421,12 +381,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1889150923,Tephroseris_palustris_subsp._congesta,54.149999999105,-113.65
 1146239564,Tephroseris_palustris_subsp._congesta,66.8327263626086,-161.052850903349
 1697310618,Tephroseris_palustris_subsp._congesta,50.5,89.616667
-1146383412,Tephroseris_palustris_subsp._congesta,63.7,-170.35
 1066887,Tephroseris_palustris_subsp._congesta,55.79848,14.16002
-1146383322,Tephroseris_palustris_subsp._congesta,63.33,-171.6
 1055582096,Tephroseris_palustris_subsp._congesta,52.381239,-0.220488
 1067019,Tephroseris_palustris_subsp._congesta,55.74612,13.26038
-1697311414,Tephroseris_palustris_subsp._congesta,66.910217,-171.631465
 1697310614,Tephroseris_palustris_subsp._congesta,63.564582,125.230523
 1697310622,Tephroseris_palustris_subsp._congesta,50.666667,118.6
 1697310584,Tephroseris_palustris_subsp._congesta,50.5,117.9
@@ -436,7 +393,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563204740,Tephroseris_palustris_subsp._congesta,58.47,-111.53
 1889150991,Tephroseris_palustris_subsp._congesta,58.466667,-111.533333
 1067011,Tephroseris_palustris_subsp._congesta,56.001689,13.616965
-1067175,Tephroseris_palustris_subsp._congesta,56.01478,14.70398
 1066528,Tephroseris_palustris_subsp._congesta,56.44196,12.56199
 1066926,Tephroseris_palustris_subsp._congesta,55.88023,14.22911
 788684569,Tephroseris_palustris_subsp._congesta,55.94729,14.15739
@@ -444,9 +400,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705279197,Tephroseris_palustris_subsp._congesta,55.773014,14.153139
 1066928,Tephroseris_palustris_subsp._congesta,56.10561,14.4901
 1831345345,Tephroseris_palustris_subsp._congesta,53.3485,11.9152
-1456186311,Tephroseris_palustris_subsp._congesta,69.583,-134.667
 1146391679,Tephroseris_palustris_subsp._congesta,64.84,-147.72
-1697460968,Tephroseris_palustris_subsp._congesta,68.781503,49.309044
 1697461023,Tephroseris_palustris_subsp._congesta,54.314507,54.577711
 1889151100,Tephroseris_palustris_subsp._congesta,53.431482,-113.033796
 1889150951,Tephroseris_palustris_subsp._congesta,53.5345,-113.4898
@@ -471,7 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042839512,Tephroseris_palustris_subsp._congesta,56.04584,14.2148
 1066539,Tephroseris_palustris_subsp._congesta,57.0806,12.40966
 1066927,Tephroseris_palustris_subsp._congesta,55.74617,13.95305
-1099912013,Tephroseris_palustris_subsp._congesta,54.814444,12.010278
 1067017,Tephroseris_palustris_subsp._congesta,55.52264,13.25034
 1067020,Tephroseris_palustris_subsp._congesta,55.850673,13.658844
 1066862,Tephroseris_palustris_subsp._congesta,58.064187,13.663732
