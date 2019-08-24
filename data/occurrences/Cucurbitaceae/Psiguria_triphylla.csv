@@ -10,9 +10,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1707491798,Psiguria_triphylla,7.235,-73.248583
 1087687422,Psiguria_triphylla,-10.519472,-37.051444
 1455939447,Psiguria_triphylla,5.85214,-60.1879
-1257999083,Psiguria_triphylla,38.61306,-90.25917
 1258072864,Psiguria_triphylla,8.713611,-80.610278
-1314768838,Psiguria_triphylla,4.38333,-51.68333
 1089185592,Psiguria_triphylla,-8.693333,-35.842778
 1934719413,Psiguria_triphylla,4.891667,-73.281667
 1324592377,Psiguria_triphylla,-7.834444,-34.906139
@@ -108,7 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253623082,Psiguria_triphylla,10.316667,-84.816667
 1260410378,Psiguria_triphylla,10.88,-85.4
 1253624357,Psiguria_triphylla,10.880556,-85.40139
-1055707681,Psiguria_triphylla,17.217668,-88.684767
 1321354294,Psiguria_triphylla,-1.0664,-77.6153
 1265821200,Psiguria_triphylla,0.0849971539424009,-79.6662648593102
 1896272441,Psiguria_triphylla,18.321944,-94.763889
@@ -154,7 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289458004,Psiguria_triphylla,16.566667,-90.233333
 1259896877,Psiguria_triphylla,-14.8,-67.38333
 1929425760,Psiguria_triphylla,-14.8,-67.38
-1896272430,Psiguria_triphylla,20.785556,-105.516667
 1253609707,Psiguria_triphylla,10.929167,-85.470834
 768735660,Psiguria_triphylla,-0.6,-72.16
 1261259224,Psiguria_triphylla,-1.25,-76.91666
@@ -368,7 +364,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259050497,Psiguria_triphylla,-0.338611,-78.826111
 1421402150,Psiguria_triphylla,17.283333,-94.583333
 1259053066,Psiguria_triphylla,-0.79166,-76.96055
-1259709920,Psiguria_triphylla,8.108333,-82.893333
 1257601384,Psiguria_triphylla,16.716667,-88.983333
 1896194021,Psiguria_triphylla,18.541667,-95.325
 1259706642,Psiguria_triphylla,18.533333,-95.316667
@@ -424,8 +419,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456091180,Psiguria_triphylla,5.66,-58.66
 1228162463,Psiguria_triphylla,8.5714,-79.9106
 1456271056,Psiguria_triphylla,8.3,-59.7
-1260410874,Psiguria_triphylla,8.333333,-59.666667
 1456187844,Psiguria_triphylla,7.75,-60.25
 1456338603,Psiguria_triphylla,8.25,-59.75
 1259708331,Psiguria_triphylla,20.433333,-98.333333
-1823456575,Psiguria_triphylla,5,-59
