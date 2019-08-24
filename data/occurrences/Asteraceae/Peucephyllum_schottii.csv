@@ -46,14 +46,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846501928,Peucephyllum_schottii,30.466667,-114.733333
 1846501887,Peucephyllum_schottii,33.766667,-116.083333
 2270516610,Peucephyllum_schottii,31.6356,-115.069
-1930913805,Peucephyllum_schottii,33.6,-116.27
 1846501940,Peucephyllum_schottii,31.635567,-115.069133
 1846480445,Peucephyllum_schottii,35.08145,-114.444833
 1894822747,Peucephyllum_schottii,32.158333,-115.308333
 1894066332,Peucephyllum_schottii,32.150028,-115.300056
-2270518248,Peucephyllum_schottii,32.15,-115.3
 2270466627,Peucephyllum_schottii,32.2532,-114.02
-2270518522,Peucephyllum_schottii,29.4,-114.2
 2270466529,Peucephyllum_schottii,32.73,-113.77
 1846480434,Peucephyllum_schottii,36.258889,-112.331111
 1846480439,Peucephyllum_schottii,36.235,-112.341389
@@ -67,7 +64,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895506814,Peucephyllum_schottii,27.413889,-112.311111
 1846480465,Peucephyllum_schottii,36.3775,-112.463611
 1893691993,Peucephyllum_schottii,28.151667,-113.618333
-1846480503,Peucephyllum_schottii,31.783333,-113.5
 1846555537,Peucephyllum_schottii,32.480224,-114.28277
 1846501981,Peucephyllum_schottii,31.291389,-113.431944
 2270467404,Peucephyllum_schottii,33.1957,-114.19
@@ -90,13 +86,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259878148,Peucephyllum_schottii,31.316667,-113.566667
 2242401515,Peucephyllum_schottii,32.723202,-113.878098
 2270466564,Peucephyllum_schottii,32.32,-114.05
-1899731527,Peucephyllum_schottii,33.483333,-115.2
 1930775572,Peucephyllum_schottii,36.5421,-114.8442
 1929687159,Peucephyllum_schottii,36.6001,-114.9145
 1930029907,Peucephyllum_schottii,36.8458,-114.8646
 2270466921,Peucephyllum_schottii,33.6022,-113.896
 1893408877,Peucephyllum_schottii,20.458333,-98.641667
-1846501966,Peucephyllum_schottii,30.05,-114.6
 1893408961,Peucephyllum_schottii,30.058333,-114.608333
 2270258109,Peucephyllum_schottii,33.69346,-115.79671
 2270466096,Peucephyllum_schottii,32.6155,-113.326
@@ -112,8 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895506564,Peucephyllum_schottii,27.333333,-112.316667
 1259879490,Peucephyllum_schottii,27.398333,-112.301944
 2270466531,Peucephyllum_schottii,32.818327,-114.49765
-1895506790,Peucephyllum_schottii,29,-113.566667
-2270467521,Peucephyllum_schottii,36,-114.43
 2270466683,Peucephyllum_schottii,36.23,-112.42
 1846501995,Peucephyllum_schottii,30.458611,-114.63
 1895203661,Peucephyllum_schottii,28.576389,-114.114444
@@ -140,7 +132,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846501902,Peucephyllum_schottii,33.670833,-116.405556
 1929257879,Peucephyllum_schottii,35.483212,-114.746313
 1893432972,Peucephyllum_schottii,28.675,-113.558333
-1895506805,Peucephyllum_schottii,28.9,-113.533333
 1456127946,Peucephyllum_schottii,28.67,-113.55
 1893432910,Peucephyllum_schottii,28.941667,-113.591667
 1426409927,Peucephyllum_schottii,33.6695,-115.6277
@@ -157,7 +148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456243613,Peucephyllum_schottii,27.18,-112.08
 1895506750,Peucephyllum_schottii,27.2503498086389,-112.090593765716
 1895506586,Peucephyllum_schottii,31.9229958541208,-113.564476159105
-1846501975,Peucephyllum_schottii,32.416667,-115.5
 2270518868,Peucephyllum_schottii,32.403951,-115.512743
 2270517238,Peucephyllum_schottii,31.633333,-115.166667
 1846502004,Peucephyllum_schottii,31.584722,-115.038889
