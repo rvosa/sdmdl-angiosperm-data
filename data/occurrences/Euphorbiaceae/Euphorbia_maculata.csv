@@ -121,8 +121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268833746,Euphorbia_maculata,43.153056,-90.921667
 1829937312,Euphorbia_maculata,35.457431,139.590541
 2292016858,Euphorbia_maculata,51.886,5.908
-2244507726,Euphorbia_maculata,34.666667,135.2
-1988079606,Euphorbia_maculata,49,-119.458
 2289168175,Euphorbia_maculata,52.299465,5.243393
 1989053666,Euphorbia_maculata,43.349722,-90.377778
 1829916486,Euphorbia_maculata,35.357434,139.178074
@@ -207,7 +205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1990228932,Euphorbia_maculata,34.582472,-77.65075
 1252630132,Euphorbia_maculata,51.48,-0.31
 1928665946,Euphorbia_maculata,40.8667,-73.8803
-1947085589,Euphorbia_maculata,48.41,13.3
 1927926937,Euphorbia_maculata,32.328619,-94.3536
 1989407189,Euphorbia_maculata,42.923361,-86.212361
 2270561446,Euphorbia_maculata,33.411847,-112.13489
@@ -300,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415616800,Euphorbia_maculata,36.763,-4.429
 1269726846,Euphorbia_maculata,31.1618,-93.783467
 1988239449,Euphorbia_maculata,49.028,-119.458
-318107771,Euphorbia_maculata,38.39,-0.4
 1829558488,Euphorbia_maculata,35.9687,139.99089
 1135442590,Euphorbia_maculata,47.91972,16.67806
 1257942643,Euphorbia_maculata,38.932222,-92.323889
@@ -357,7 +353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 214532440,Euphorbia_maculata,39.50861,20.223057
 860313311,Euphorbia_maculata,41.23,1.99
 1258146853,Euphorbia_maculata,41.446225,-73.615004
-1830526094,Euphorbia_maculata,34.8,134.983333
 2270689254,Euphorbia_maculata,33.3577,-111.734
 1258146867,Euphorbia_maculata,40.819996,-73.925303
 1934099267,Euphorbia_maculata,35.1212,135.8345
@@ -368,7 +363,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30968675,Euphorbia_maculata,37.66,-0.71
 992058670,Euphorbia_maculata,-35.475278,138.635556
 1061568882,Euphorbia_maculata,-36.36,146.3189
-1144676520,Euphorbia_maculata,42.7,9.45
 144905540,Euphorbia_maculata,36.991191,-6.440732
 1269726830,Euphorbia_maculata,31.055714,-93.56987
 1503253456,Euphorbia_maculata,27.1175,-82.3278
@@ -403,7 +397,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992052947,Euphorbia_maculata,-35.501507,138.593329
 1503260874,Euphorbia_maculata,29.3278,-81.0789
 996859151,Euphorbia_maculata,-32.028225,115.900094
-993635313,Euphorbia_maculata,-32,115.9
 1843411277,Euphorbia_maculata,-36.914444,174.615278
 1843413117,Euphorbia_maculata,-37.109722,174.622222
 1897785983,Euphorbia_maculata,-36.8075,174.862778
@@ -429,16 +422,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 240489288,Euphorbia_maculata,33.0271799991374,-108.155
 2244452444,Euphorbia_maculata,36.85,136.966667
 1829867985,Euphorbia_maculata,35.124126,139.090594
-1881648457,Euphorbia_maculata,48.6,10.87
 1288100588,Euphorbia_maculata,50.4529,9.8154
-2313284431,Euphorbia_maculata,48.16,11.5
 1881653544,Euphorbia_maculata,48.61,10.85
 381808827,Euphorbia_maculata,36.26287,139.83847
 395763457,Euphorbia_maculata,34.914167,134.012222
 2305619805,Euphorbia_maculata,43.53,-80.23
 1638393846,Euphorbia_maculata,48.075,16.125
 1638393804,Euphorbia_maculata,48.0775,16.44806
-1830529954,Euphorbia_maculata,34.85,133.7
 2234311430,Euphorbia_maculata,35.9083,-79.0512
 1638394624,Euphorbia_maculata,46.975,14.375
 728978831,Euphorbia_maculata,51.857538,6.049728
@@ -485,7 +475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176913119,Euphorbia_maculata,40.891,-95.8035
 176913302,Euphorbia_maculata,38.409444,-96.556944
 1269722462,Euphorbia_maculata,30.391,-88.7793
-1830676260,Euphorbia_maculata,33.633333,133.8
 1269722064,Euphorbia_maculata,30.395,-88.7931
 1260999684,Euphorbia_maculata,38.46833,-93.22916
 1989536762,Euphorbia_maculata,42.209444,-83.557222
@@ -510,7 +499,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 230817927,Euphorbia_maculata,51.565039,5.936345
 1830517028,Euphorbia_maculata,34.856389,134.779167
 1260249572,Euphorbia_maculata,38.333333,-90.25
-1988089486,Euphorbia_maculata,49.02,-118.4
 1260250897,Euphorbia_maculata,38.77916,-89.64055
 395763433,Euphorbia_maculata,34.986111,134.151389
 1269622846,Euphorbia_maculata,30.3744,-86.9241
@@ -526,7 +514,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929387450,Euphorbia_maculata,41.2856,45.8458
 415988917,Euphorbia_maculata,27.81111,114.66805
 1843405705,Euphorbia_maculata,-35.216667,173.966667
-1843401620,Euphorbia_maculata,-35.45,173.5
 1652302597,Euphorbia_maculata,-28.035028,148.567591
 996200542,Euphorbia_maculata,-28.035,148.568
 995381449,Euphorbia_maculata,-28.0364,148.5667
@@ -535,7 +522,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995386214,Euphorbia_maculata,-25.6436,149.7925
 995366041,Euphorbia_maculata,-36.3608,146.3256
 1829788802,Euphorbia_maculata,35.57768,139.42441
-1830684102,Euphorbia_maculata,33.716667,133.3
 2336853575,Euphorbia_maculata,47.21167,14.8175
 296459762,Euphorbia_maculata,47.21181,14.8181
 1933837297,Euphorbia_maculata,35.04075,135.57353
@@ -554,8 +540,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381808863,Euphorbia_maculata,36.77835,140.36012
 1829693199,Euphorbia_maculata,36.13074,139.50354
 1830682279,Euphorbia_maculata,33.533333,133.383333
-1830682296,Euphorbia_maculata,33.566667,133.1
-1830682085,Euphorbia_maculata,33.433333,134
 1830225661,Euphorbia_maculata,36.683333,137.266667
 395763412,Euphorbia_maculata,34.959444,133.753611
 932706371,Euphorbia_maculata,42.25207,-8.79533
@@ -568,7 +552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176913117,Euphorbia_maculata,37.092222,-97.104722
 56543827,Euphorbia_maculata,31.54083,-86.59084
 1830623040,Euphorbia_maculata,34.151747,134.599118
-1830682208,Euphorbia_maculata,33.8,133.55
 1830213970,Euphorbia_maculata,36.85,137.433333
 381808864,Euphorbia_maculata,36.47588,140.58958
 1829909652,Euphorbia_maculata,34.012778,134.006944
@@ -585,7 +568,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996134522,Euphorbia_maculata,-33.42,149.57
 1652274956,Euphorbia_maculata,-27.94417,153.259473
 996097190,Euphorbia_maculata,-27.9456,153.2586
-1830691260,Euphorbia_maculata,33.3,134.1
 2336853569,Euphorbia_maculata,47.38333,15.10889
 296459748,Euphorbia_maculata,47.381667,15.093583
 1638393755,Euphorbia_maculata,47.425,15.29167
@@ -600,7 +582,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995532286,Euphorbia_maculata,40.377861,-90.035694
 381808665,Euphorbia_maculata,36.28507,139.99699
 1947085252,Euphorbia_maculata,50.01,10.47
-391289368,Euphorbia_maculata,37.766667,140.5
 1073837668,Euphorbia_maculata,-30.28192,150.589329
 1947085208,Euphorbia_maculata,50.03,10.51
 1947085198,Euphorbia_maculata,50.11,10.78
@@ -626,7 +607,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 345671469,Euphorbia_maculata,33.2981,-97.6587
 1830622596,Euphorbia_maculata,34.109555,134.443051
 199477356,Euphorbia_maculata,37.7296,-6.5802
-1830213944,Euphorbia_maculata,36.733333,137.3
 1829697211,Euphorbia_maculata,35.85151,139.32228
 1935687920,Euphorbia_maculata,47.76083,16.14583
 1830690681,Euphorbia_maculata,33.433333,133.433333
@@ -640,20 +620,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996736584,Euphorbia_maculata,-31.909444,115.765556
 996736573,Euphorbia_maculata,-31.909488,115.765648
 996762479,Euphorbia_maculata,-32.938497,117.18344
-996093827,Euphorbia_maculata,-28.7,151.9
 1652210332,Euphorbia_maculata,-28.658621,151.91644
 1947085580,Euphorbia_maculata,48.27,13.03
 2336853577,Euphorbia_maculata,48.295,14.30222
-1947085610,Euphorbia_maculata,48.41,13.4
 1269676785,Euphorbia_maculata,30.674,-90.471
-1947085643,Euphorbia_maculata,48.4,13.3
 1947085648,Euphorbia_maculata,48.35,13.31
 1947085625,Euphorbia_maculata,48.35,13.35
 1947085782,Euphorbia_maculata,48.57,13.46
 1340036702,Euphorbia_maculata,41.216667,24.75
 1947085733,Euphorbia_maculata,48.46,13.39
 1947085730,Euphorbia_maculata,48.44,13.34
-1947085769,Euphorbia_maculata,48.4,13.31
 1947085613,Euphorbia_maculata,48.46,13.42
 296459761,Euphorbia_maculata,48.29553,14.30224
 1947085727,Euphorbia_maculata,48.35,13.27
@@ -665,7 +641,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829647730,Euphorbia_maculata,36.2675,139.582778
 176913142,Euphorbia_maculata,39.066111,-96.802222
 1269677980,Euphorbia_maculata,31.635556,-92.418056
-2244519942,Euphorbia_maculata,33.1,133.083333
 2244520542,Euphorbia_maculata,33.25,133.133333
 1829850855,Euphorbia_maculata,36.264211,139.587061
 176913495,Euphorbia_maculata,39.061944,-96.830278
@@ -676,10 +651,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849183048,Euphorbia_maculata,33.7243,-79.5116
 388808819,Euphorbia_maculata,34.810556,135.453056
 395763366,Euphorbia_maculata,35.036389,133.386111
-238089875,Euphorbia_maculata,37,140
 2242377126,Euphorbia_maculata,39.730205,-104.961445
 2244520662,Euphorbia_maculata,33.55,133.95
-2244518618,Euphorbia_maculata,32.916667,132.9
 1830526419,Euphorbia_maculata,34.816667,135.033333
 2244519388,Euphorbia_maculata,33.516667,133.816667
 381808742,Euphorbia_maculata,36.56289,140.5428
@@ -707,7 +680,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933848324,Euphorbia_maculata,35.2985,138.9374
 381808722,Euphorbia_maculata,36.60202,140.646
 2291202629,Euphorbia_maculata,51.162552,6.0672
-1830213983,Euphorbia_maculata,36.7,137.216667
 381808631,Euphorbia_maculata,36.05147,140.57903
 176913272,Euphorbia_maculata,38.918611,-94.974167
 176913452,Euphorbia_maculata,38.985833,-95.107778
@@ -719,15 +691,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830213977,Euphorbia_maculata,36.683333,137.233333
 176913151,Euphorbia_maculata,38.458056,-94.920278
 381808751,Euphorbia_maculata,36.49296,140.61169
-1269665823,Euphorbia_maculata,30.233,-91
 381808752,Euphorbia_maculata,36.61325,140.67506
 860313723,Euphorbia_maculata,41.364,2.157
 2270180543,Euphorbia_maculata,36.3203,-119.105
 441750465,Euphorbia_maculata,46.328333,-117.025
 1934098502,Euphorbia_maculata,36.269167,138.862778
-1829609246,Euphorbia_maculata,36.3,138.9
 1843368608,Euphorbia_maculata,-36.866667,174.766667
-995193964,Euphorbia_maculata,-34.3,142.2167
 1843368750,Euphorbia_maculata,-37.25,174.95
 1843377307,Euphorbia_maculata,-36.95,174.783333
 1135300780,Euphorbia_maculata,-34.432053,139.067756
@@ -755,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829851461,Euphorbia_maculata,36.228115,139.601881
 1829650202,Euphorbia_maculata,36.2175,139.659444
 395763304,Euphorbia_maculata,34.959722,133.691389
-1258711695,Euphorbia_maculata,37.05,-89.5
 395763308,Euphorbia_maculata,34.965556,133.653889
 395763294,Euphorbia_maculata,34.9725,133.898056
 176913225,Euphorbia_maculata,31.303873,-84.684916
@@ -765,14 +733,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652236425,Euphorbia_maculata,-27.47354,152.975793
 996655602,Euphorbia_maculata,-33.32,120.95
 992627119,Euphorbia_maculata,-35.600953,138.456387
-1091278379,Euphorbia_maculata,-39.7,174.44
 995187207,Euphorbia_maculata,-37.7944,145.0097
 995857159,Euphorbia_maculata,-31.0792,150.945
 1936842416,Euphorbia_maculata,-31.077715,150.945569
 994774981,Euphorbia_maculata,-31.0792,150.9447
 1451577984,Euphorbia_maculata,-31.077588,150.945846
-1421394698,Euphorbia_maculata,33.9,-111.8
-1144676504,Euphorbia_maculata,42,9.4
 43212060,Euphorbia_maculata,34.12689,134.5192
 395763213,Euphorbia_maculata,35.089361,134.101306
 43212059,Euphorbia_maculata,34.13082,134.5923
@@ -809,11 +774,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988226020,Euphorbia_maculata,49.19,-122.89
 388808671,Euphorbia_maculata,35.59074,139.278063
 1828667624,Euphorbia_maculata,36.579572,136.752278
-1897759973,Euphorbia_maculata,-36.95,174.6
 995161977,Euphorbia_maculata,-37.8167,144.9667
 729271574,Euphorbia_maculata,35.0667,135.14999
 415948815,Euphorbia_maculata,41.905,-72.70194
-1260982153,Euphorbia_maculata,37.83333,-94.3
 1258518905,Euphorbia_maculata,38.61,-90.23805
 176912449,Euphorbia_maculata,42.725746,-92.467558
 2265543719,Euphorbia_maculata,48.084242,-90.825443
@@ -827,7 +790,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260917744,Euphorbia_maculata,31.25833,-91.05
 296459729,Euphorbia_maculata,47.527,9.751
 729299776,Euphorbia_maculata,35.0667,135.283
-1931259095,Euphorbia_maculata,40.4,-120.63
 56574019,Euphorbia_maculata,31.26778,-85.22278
 1144676523,Euphorbia_maculata,41.48333,9.01667
 1828666875,Euphorbia_maculata,36.56927,136.6361
@@ -837,7 +799,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2336853579,Euphorbia_maculata,47.96806,17.02361
 1260984277,Euphorbia_maculata,38.61944,-90.25833
 995193965,Euphorbia_maculata,-37.0608,144.2183
-1897624419,Euphorbia_maculata,-36.5,174.716667
 1897696098,Euphorbia_maculata,-36.75,174.916667
 2265390475,Euphorbia_maculata,45.668416,-94.184846
 1260987825,Euphorbia_maculata,39.2125,-93.99055
@@ -885,24 +846,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388808695,Euphorbia_maculata,35.524091,139.790521
 729330757,Euphorbia_maculata,34.0667,134.16701
 381808510,Euphorbia_maculata,36.16028,140.36682
-1050655147,Euphorbia_maculata,43.3,-3
 729288827,Euphorbia_maculata,35.483299,135.017
 1038995267,Euphorbia_maculata,41.244728,-72.757496
 1050655165,Euphorbia_maculata,43.66,-1.33
 1260980959,Euphorbia_maculata,38.37638,-93.85638
-1050655045,Euphorbia_maculata,43.5,-1.49
 395763148,Euphorbia_maculata,34.935361,133.562694
 1829650185,Euphorbia_maculata,36.241944,139.513611
-1050655129,Euphorbia_maculata,43.65,-1.2
-1050655145,Euphorbia_maculata,43.51,-1.5
 1050655182,Euphorbia_maculata,43.53,-1.52
-204427852,Euphorbia_maculata,43.650002,-1.2
 788696123,Euphorbia_maculata,39.166667,20.866667
 388808647,Euphorbia_maculata,35.239949,139.120169
 43212052,Euphorbia_maculata,34.142,134.59019
 1675945556,Euphorbia_maculata,40.0767,-89.4483
 388808702,Euphorbia_maculata,35.490761,139.753025
-1830226724,Euphorbia_maculata,36.666667,137.2
 388808646,Euphorbia_maculata,35.515759,139.778023
 1894822515,Euphorbia_maculata,24.308333,-111.341667
 996595113,Euphorbia_maculata,-31.95,115.83
@@ -928,15 +883,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51838042,Euphorbia_maculata,44.1855,-122.0821
 1830213949,Euphorbia_maculata,36.65,137.233333
 317819715,Euphorbia_maculata,41.569,1.879
-1947085236,Euphorbia_maculata,50.01,10.2
 1988096611,Euphorbia_maculata,49.17,-123.14
-1988213284,Euphorbia_maculata,49.2,-122.9
 43212047,Euphorbia_maculata,34.12535,134.55386
 245530512,Euphorbia_maculata,35.45743,139.590541
 204378493,Euphorbia_maculata,34.60191,135.7383
-729284630,Euphorbia_maculata,34.883301,135.2
-1830214600,Euphorbia_maculata,36.816667,137.4
-729284483,Euphorbia_maculata,34.866699,135.2
 729282072,Euphorbia_maculata,34.950001,135.267
 1260944594,Euphorbia_maculata,37.64083,-92.13027
 176913283,Euphorbia_maculata,37.318036,-95.196619
@@ -1003,7 +953,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415988545,Euphorbia_maculata,33.99916,-81.03027
 1061549685,Euphorbia_maculata,-11.75,142.57
 1258117450,Euphorbia_maculata,27.3917,-82.5642
-729291814,Euphorbia_maculata,34.633301,134.5
 624040912,Euphorbia_maculata,35.528261,140.184236
 624040913,Euphorbia_maculata,35.536594,140.121742
 441750467,Euphorbia_maculata,47.81083,-122.37611
@@ -1029,20 +978,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729292450,Euphorbia_maculata,34.9175,134.634
 1829770781,Euphorbia_maculata,35.503264,140.109242
 1829770626,Euphorbia_maculata,35.4866,140.096744
-1830237988,Euphorbia_maculata,36.65,137.1
 729293212,Euphorbia_maculata,34.650002,135.10001
 245530504,Euphorbia_maculata,35.50742,139.378056
 993503840,Euphorbia_maculata,-37.7833,144.8167
-994915857,Euphorbia_maculata,-37.8,144.8167
 388808642,Euphorbia_maculata,35.829611,139.93258
 624040613,Euphorbia_maculata,35.4866,140.109242
 176913051,Euphorbia_maculata,38.807847,-95.191136
-1261003567,Euphorbia_maculata,38.6,-90.25833
 624040914,Euphorbia_maculata,35.519931,140.121742
 624040529,Euphorbia_maculata,35.36995,140.159242
 624040611,Euphorbia_maculata,35.519928,140.084244
 624040915,Euphorbia_maculata,35.536594,140.134239
-729272603,Euphorbia_maculata,35.150002,134.8
 729291344,Euphorbia_maculata,34.666698,134.533
 2313061356,Euphorbia_maculata,49.47,11.12
 624040526,Euphorbia_maculata,35.444939,140.059247
@@ -1063,7 +1008,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897728442,Euphorbia_maculata,-37.833333,175.35
 1893596392,Euphorbia_maculata,21.266667,-99.718611
 245530491,Euphorbia_maculata,35.240781,139.078089
-895267838,Euphorbia_maculata,39.5,-0.38
 1269675313,Euphorbia_maculata,30.414625,-91.176222
 1829858338,Euphorbia_maculata,33.400238,133.246411
 729325652,Euphorbia_maculata,35.016701,135.16701
@@ -1101,7 +1045,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265544385,Euphorbia_maculata,45.748333,-94.260002
 187980211,Euphorbia_maculata,35.474095,139.628036
 245530486,Euphorbia_maculata,35.449098,139.665534
-1851328782,Euphorbia_maculata,41.5,1.74
 1030782216,Euphorbia_maculata,32.583831,110.701804
 1897745883,Euphorbia_maculata,-38.166667,176.266667
 1897638740,Euphorbia_maculata,-36.85,174.766667
@@ -1125,7 +1068,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893596275,Euphorbia_maculata,20.375,-100.275
 381809081,Euphorbia_maculata,36.37887,140.48746
 245530478,Euphorbia_maculata,35.524082,139.228068
-992512094,Euphorbia_maculata,-34.9,138.6
 994774220,Euphorbia_maculata,-36.1167,146.8667
 1947085237,Euphorbia_maculata,50.07,9.04
 995632091,Euphorbia_maculata,-33.82,151.18
@@ -1143,12 +1085,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 393098643,Euphorbia_maculata,36.0085,139.08423
 187980216,Euphorbia_maculata,35.582409,139.278063
 187980224,Euphorbia_maculata,35.215785,139.103088
-1988889464,Euphorbia_maculata,44.06667,-81.4
 2265448919,Euphorbia_maculata,44.750833,-92.834444
 415988530,Euphorbia_maculata,41.61694,-72.085
 415988892,Euphorbia_maculata,41.54888,-72.10777
 2243084479,Euphorbia_maculata,38.278199,140.359875
-1829456923,Euphorbia_maculata,39.51,140.6
 1830213975,Euphorbia_maculata,36.46677,140.09143
 176912445,Euphorbia_maculata,42.922,-85.715
 1893596280,Euphorbia_maculata,20.145,-100.668333
@@ -1159,9 +1099,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996036332,Euphorbia_maculata,-32.72,151.58
 1451582104,Euphorbia_maculata,-32.715085,151.551138
 1451654805,Euphorbia_maculata,-32.715085,151.584471
-995044449,Euphorbia_maculata,-37.8667,145
 1893596320,Euphorbia_maculata,20.378333,-100.023333
-1893596398,Euphorbia_maculata,20.5,-100.265
 187980233,Euphorbia_maculata,35.415767,139.453052
 187980378,Euphorbia_maculata,35.574074,139.403051
 1928407800,Euphorbia_maculata,37.12,-113.58
@@ -1173,7 +1111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265967606,Euphorbia_maculata,44.506944,-92.558889
 2290823128,Euphorbia_maculata,38.116667,-90.666667
 1989034600,Euphorbia_maculata,38.125,-90.008333
-883373498,Euphorbia_maculata,37.433333,-90.2
 393098641,Euphorbia_maculata,36.02119,139.00264
 1320084323,Euphorbia_maculata,38.9694,-77.1767
 1893596369,Euphorbia_maculata,19.404722,-101.638333
@@ -1184,10 +1121,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419231074,Euphorbia_maculata,20.228333,-100.955278
 1893596406,Euphorbia_maculata,19.706667,-102.223333
 992482398,Euphorbia_maculata,-34.982058,138.734432
-1897627281,Euphorbia_maculata,-36.933333,174.8
 996535291,Euphorbia_maculata,-32.226,115.805
 994726553,Euphorbia_maculata,-37.8667,144.9667
-996037087,Euphorbia_maculata,-37.88,145
 187980270,Euphorbia_maculata,35.499092,139.578041
 187980280,Euphorbia_maculata,35.31577,139.090584
 187980317,Euphorbia_maculata,35.140791,139.090594
@@ -1236,13 +1171,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187980496,Euphorbia_maculata,35.632398,139.140573
 187980257,Euphorbia_maculata,35.38244,139.528047
 1893596323,Euphorbia_maculata,20.288333,-100.758333
-1893596350,Euphorbia_maculata,19.74,-101.3
 187980293,Euphorbia_maculata,35.257447,139.128084
 1893596329,Euphorbia_maculata,20.303333,-101.02
 992458174,Euphorbia_maculata,-34.949,138.606
 1897710970,Euphorbia_maculata,-37.916667,175.416667
 992410106,Euphorbia_maculata,-34.950556,138.605
-993311994,Euphorbia_maculata,-34.95,138.6
 187980214,Euphorbia_maculata,35.624074,139.565537
 187980454,Euphorbia_maculata,35.315781,139.565544
 187980296,Euphorbia_maculata,35.315766,139.015595
@@ -1268,12 +1201,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187980438,Euphorbia_maculata,35.207452,139.103089
 187980435,Euphorbia_maculata,35.199121,139.128088
 187980478,Euphorbia_maculata,35.415769,139.665535
-1897681096,Euphorbia_maculata,-36.9,174.7
 1897655225,Euphorbia_maculata,-36.894517,174.696524
 187980394,Euphorbia_maculata,35.574078,139.31556
 1930290504,Euphorbia_maculata,37.12,-113.57
 1262018289,Euphorbia_maculata,45.63694,-74.132331
-2290363673,Euphorbia_maculata,47.2,7.533333
 187980432,Euphorbia_maculata,35.349111,139.540546
 1829781993,Euphorbia_maculata,35.64669,139.457
 187980248,Euphorbia_maculata,35.432431,139.403055
@@ -1287,7 +1218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 736062544,Euphorbia_maculata,35.99437,139.33553
 415988894,Euphorbia_maculata,41.78222,-72.61194
 187980322,Euphorbia_maculata,35.324102,139.103082
-1830220657,Euphorbia_maculata,36.75,137.3
 1899337713,Euphorbia_maculata,45.9721054299615,-81.947556288273
 187980246,Euphorbia_maculata,35.3241,139.053089
 187980481,Euphorbia_maculata,35.299105,139.078087
@@ -1297,7 +1227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187980460,Euphorbia_maculata,35.432433,139.490549
 187980361,Euphorbia_maculata,35.482424,139.34056
 187980388,Euphorbia_maculata,35.23245,139.128085
-1830214563,Euphorbia_maculata,36.7,137.2
 1899337583,Euphorbia_maculata,45.8329838903914,-82.4975303098383
 2270192009,Euphorbia_maculata,35.30077,-120.66065
 187980315,Euphorbia_maculata,35.515753,139.353058
@@ -1402,11 +1331,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204378503,Euphorbia_maculata,34.66947,135.76106
 1030484304,Euphorbia_maculata,43.775,-86.22361
 1986905953,Euphorbia_maculata,43.6108,-116.2053
-1830222374,Euphorbia_maculata,36.683333,137.2
 122231676,Euphorbia_maculata,35.15,-85.63
-1897728917,Euphorbia_maculata,-37.8,175.766667
 1897745885,Euphorbia_maculata,-37.816667,175.766667
-1611938097,Euphorbia_maculata,31.783333,-106.5
 2270534271,Euphorbia_maculata,14.547284,-90.780924
 1830643986,Euphorbia_maculata,33.599001,133.694516
 176913412,Euphorbia_maculata,37.55078,-96.69625
@@ -1423,7 +1349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451654830,Euphorbia_maculata,-33.881755,151.234488
 176912495,Euphorbia_maculata,37.79614,-95.84408
 2270664286,Euphorbia_maculata,32.02,-112.71
-1899297582,Euphorbia_maculata,43.691667,-79.3
 2270191905,Euphorbia_maculata,35.30521,-120.66555
 176912539,Euphorbia_maculata,39.37682,-97.29352
 176912525,Euphorbia_maculata,39.071906,-100.239064
@@ -1473,7 +1398,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176912502,Euphorbia_maculata,37.35661,-97.9286
 1258587104,Euphorbia_maculata,40.941,-90.389
 729289983,Euphorbia_maculata,35.599998,134.783
-1829421467,Euphorbia_maculata,42.7,143.1
 176913317,Euphorbia_maculata,37.03715,-95.0881
 1936013848,Euphorbia_maculata,37.2768,-3.678
 176912500,Euphorbia_maculata,37.16971,-94.84021
@@ -1497,7 +1421,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415988897,Euphorbia_maculata,41.67166,-72.94916
 415989165,Euphorbia_maculata,41.76861,-72.17388
 2243087807,Euphorbia_maculata,38.784148,139.752527
-1899381722,Euphorbia_maculata,44.85,-79
 1260947171,Euphorbia_maculata,39.70944,-91.85527
 176912563,Euphorbia_maculata,37.30816,-94.79143
 176912564,Euphorbia_maculata,37.02375,-94.73514
@@ -1544,7 +1467,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897761868,Euphorbia_maculata,-36.866667,174.583333
 668769162,Euphorbia_maculata,46.818056,-71.2125
 668769160,Euphorbia_maculata,46.786667,-71.232778
-1899381785,Euphorbia_maculata,43.7,-79.516667
 381809130,Euphorbia_maculata,36.53717,140.52885
 176913183,Euphorbia_maculata,37.32765,-95.79804
 176912516,Euphorbia_maculata,38.50583,-97.48328
@@ -1559,7 +1481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204378508,Euphorbia_maculata,34.67733,135.77458
 380067173,Euphorbia_maculata,35.31932,139.32764
 1258869877,Euphorbia_maculata,32.616667,-92.85
-2270666135,Euphorbia_maculata,32,-110.64
 1055075003,Euphorbia_maculata,38.41685,-96.17848
 1055074969,Euphorbia_maculata,37.46781,-97.23347
 788855378,Euphorbia_maculata,44.725,21.62
@@ -1574,7 +1495,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055074890,Euphorbia_maculata,31.09823,-97.34278
 2252097137,Euphorbia_maculata,-31.140278,-64.174167
 2270664012,Euphorbia_maculata,31.81,-111.44
-2270665017,Euphorbia_maculata,31.8,-110.79
 2270666323,Euphorbia_maculata,31.4852,-110.82
 2270664315,Euphorbia_maculata,32.75,-111.78
 2270665554,Euphorbia_maculata,31.399,-111.09
@@ -1595,7 +1515,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830220324,Euphorbia_maculata,36.666667,137.166667
 1988132407,Euphorbia_maculata,45.47,-71.94
 1055074977,Euphorbia_maculata,38.19839,-95.57264
-2270665745,Euphorbia_maculata,33.5,-112.02
 2270183260,Euphorbia_maculata,33.6621,-116.3108
 2252097150,Euphorbia_maculata,-31.198611,-64.583611
 2252096528,Euphorbia_maculata,-28.085833,-65.656667
@@ -1670,7 +1589,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055074618,Euphorbia_maculata,39.7174,-95.24918
 1055075034,Euphorbia_maculata,37.79636,-95.84181
 1829616660,Euphorbia_maculata,36.423611,138.994444
-996535090,Euphorbia_maculata,-32.1,115.8
 415988923,Euphorbia_maculata,38.62722,-90.19777
 1055074607,Euphorbia_maculata,37.7859,-95.679
 575152517,Euphorbia_maculata,37.516667,49.266667
@@ -1686,7 +1604,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055074565,Euphorbia_maculata,39.34331,-95.38503
 2313282777,Euphorbia_maculata,48.17,11.51
 2252096747,Euphorbia_maculata,-31.4325,-65.427222
-1259645382,Euphorbia_maculata,-30.1,-63.93333
 2252097596,Euphorbia_maculata,-30.271389,-63.806667
 1055074898,Euphorbia_maculata,38.52583,-96.41333
 2242403395,Euphorbia_maculata,41.645042,-87.639968
@@ -1707,7 +1624,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055074902,Euphorbia_maculata,39.44136,-92.43261
 1055074605,Euphorbia_maculata,37.4123,-94.92737
 1055074995,Euphorbia_maculata,39.87627,-100.43343
-1829607206,Euphorbia_maculata,36.5,138.5
 1055074914,Euphorbia_maculata,42.46059,-83.13465
 1055075015,Euphorbia_maculata,37.16702,-95.70748
 1055074525,Euphorbia_maculata,40.09312,-83.01796
@@ -1757,7 +1673,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176912532,Euphorbia_maculata,37.067582,-94.708493
 381809087,Euphorbia_maculata,35.95332,140.5554
 176912520,Euphorbia_maculata,39.35004,-94.93104
-1830213991,Euphorbia_maculata,36.783333,137.4
 1259477305,Euphorbia_maculata,-30.72,-64.26
 2252097131,Euphorbia_maculata,-31.699722,-63.531111
 1989211163,Euphorbia_maculata,42.28713,-83.741558
@@ -1769,7 +1684,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 736062546,Euphorbia_maculata,36.07621,139.68748
 2265542649,Euphorbia_maculata,44.97441,-93.233002
 1989606470,Euphorbia_maculata,47.41817,8.65552
-1829604513,Euphorbia_maculata,36.4,139
 736062528,Euphorbia_maculata,35.83659,139.58101
 2265542525,Euphorbia_maculata,45.511762,-93.94495
 736062547,Euphorbia_maculata,36.12623,139.69655
@@ -1843,7 +1757,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260973326,Euphorbia_maculata,37.18,-90.50111
 2265545234,Euphorbia_maculata,45.416386,-92.652429
 2265541839,Euphorbia_maculata,43.669411,-96.185341
-995269045,Euphorbia_maculata,-37.7,145.3667
 1090532033,Euphorbia_maculata,42.4333,-76.4833
 2265542713,Euphorbia_maculata,44.992077,-93.166387
 1260971372,Euphorbia_maculata,37.42305,-92.35222
@@ -1918,7 +1831,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929190034,Euphorbia_maculata,40.830162,-73.113541
 415989150,Euphorbia_maculata,41.80833,-72.24944
 1989064324,Euphorbia_maculata,41.88543,-86.59259
-415988921,Euphorbia_maculata,42.1,-72.55
 1228521349,Euphorbia_maculata,41.15,-87.8667
 415989161,Euphorbia_maculata,41.56222,-72.65055
 1259547919,Euphorbia_maculata,-31.398,-64.181
@@ -1937,7 +1849,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415933750,Euphorbia_maculata,43.03888,-87.90638
 1038919372,Euphorbia_maculata,42.0223,-73.2936
 1038944636,Euphorbia_maculata,41.6153,-72.1432
-1937164891,Euphorbia_maculata,41,-73
 2265544025,Euphorbia_maculata,44.90516,-93.16646
 1228352516,Euphorbia_maculata,42.584742,-87.821185
 1260957902,Euphorbia_maculata,37.25694,-94.44416
