@@ -8,7 +8,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268824553,Sinclairia_discolor,18.577778,-95.081111
 1257597125,Sinclairia_discolor,13.296389,-86.236111
 1260856009,Sinclairia_discolor,12.991944,-85.831667
-1585318533,Sinclairia_discolor,14.4,-89.35
 1897372116,Sinclairia_discolor,16.934722,-14.916667
 1894538979,Sinclairia_discolor,16.934722,-91.248611
 1322711791,Sinclairia_discolor,16.9347,-91.2486
@@ -22,7 +21,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258939419,Sinclairia_discolor,13.483333,-88.533333
 1585318484,Sinclairia_discolor,13.85,-89.66667
 1258939688,Sinclairia_discolor,16.754722,-89.008333
-1258505139,Sinclairia_discolor,13.566667,-85.7
 1585318281,Sinclairia_discolor,13.48333,-88.53333
 1258376714,Sinclairia_discolor,16.400556,-89.111111
 1893573412,Sinclairia_discolor,16.413889,-92.919444
@@ -38,12 +36,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261849198,Sinclairia_discolor,17.577778,-96.333333
 1897533571,Sinclairia_discolor,14.958847,-92.176955
 1259863701,Sinclairia_discolor,10.30111,-84.80388
-1258370725,Sinclairia_discolor,15.1,-88.916667
 1895209679,Sinclairia_discolor,18.85,-97.083333
 1261308151,Sinclairia_discolor,16.383333,-89.15
 1456031958,Sinclairia_discolor,17.62,-96.35
 1896206719,Sinclairia_discolor,16.93,-92.138333
-1896206748,Sinclairia_discolor,20.8,-105.416667
 1322064699,Sinclairia_discolor,17.6167,-96.35
 1259856126,Sinclairia_discolor,17.61666,-96.35
 1895209751,Sinclairia_discolor,15.505556,-92.286111
@@ -77,8 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421410645,Sinclairia_discolor,17.413889,-91.898611
 1895209636,Sinclairia_discolor,16.7725,-91.033056
 1421386026,Sinclairia_discolor,17.161111,-92.122222
-1261293090,Sinclairia_discolor,12.3,-85.4
-1261293170,Sinclairia_discolor,13,-85.91666
 1259858471,Sinclairia_discolor,10.30583,-84.80916
 1895209729,Sinclairia_discolor,16.860278,-93.424444
 1322266008,Sinclairia_discolor,16.95,-94.6333
@@ -86,7 +80,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895209625,Sinclairia_discolor,17.295278,-92.521111
 1259863932,Sinclairia_discolor,16.95,-94.63333
 1261280929,Sinclairia_discolor,11.833333,-85.95
-1258583936,Sinclairia_discolor,16.9,-92.44
 1321141715,Sinclairia_discolor,19.7236,-96.8339
 1894683764,Sinclairia_discolor,16.9099269591229,-92.4493775114954
 1895209609,Sinclairia_discolor,16.825,-92.508333
@@ -108,11 +101,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893662636,Sinclairia_discolor,19.598333,-104.208333
 1896206744,Sinclairia_discolor,17.164167,-97.881944
 1929906630,Sinclairia_discolor,17.1931,-97.8561
-1261305148,Sinclairia_discolor,13.1,-86.416667
 1261287590,Sinclairia_discolor,11.85,-85.983333
-1261313276,Sinclairia_discolor,11.833333,-86
 1261282310,Sinclairia_discolor,11.833333,-85.983333
-1261280948,Sinclairia_discolor,13,-85.933333
 1895351378,Sinclairia_discolor,16.8416430268031,-93.7343567877766
 1318270758,Sinclairia_discolor,16.8409,-93.7344
 1895209641,Sinclairia_discolor,16.885278,-93.774722
@@ -130,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895209693,Sinclairia_discolor,16.836111,-93.116389
 1317629283,Sinclairia_discolor,16.8247,-93.0872
 1896269535,Sinclairia_discolor,18.375,-94.908333
-1317222460,Sinclairia_discolor,18.37,-94.9
 1259855932,Sinclairia_discolor,15.21527,-90.21833
 1259856868,Sinclairia_discolor,15.29944,-90.31472
 1258583951,Sinclairia_discolor,10.05,-84.01
@@ -170,11 +159,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260378614,Sinclairia_discolor,12.98888,-85.92083
 1930229683,Sinclairia_discolor,16.8103,-91.4486
 1318796977,Sinclairia_discolor,15.25,-89.42
-1930323460,Sinclairia_discolor,15.25,-89
 1456133760,Sinclairia_discolor,15.417,-89.208
 1893399319,Sinclairia_discolor,16.791667,-92.908333
 1258583963,Sinclairia_discolor,14.221111,-87.066944
-1258583945,Sinclairia_discolor,16.4,-89.15
 1895209682,Sinclairia_discolor,15.464722,-92.454444
 1318481959,Sinclairia_discolor,15.6667,-92.25
 1895351392,Sinclairia_discolor,15.666667,-92.25
