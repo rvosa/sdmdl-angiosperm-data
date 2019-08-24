@@ -27,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895211692,Kernera_saxatilis_subsp._boissieri,40.824,0.373
 1935698372,Kernera_saxatilis_subsp._boissieri,47.52123,14.03282
 1851330742,Kernera_saxatilis_subsp._boissieri,43.21,-4.705
-214545424,Kernera_saxatilis_subsp._boissieri,47.5,11.283334
 214545425,Kernera_saxatilis_subsp._boissieri,46.783333,12.783334
 895202029,Kernera_saxatilis_subsp._boissieri,39.527,-0.83
 1501111015,Kernera_saxatilis_subsp._boissieri,39.52,-0.83
@@ -49,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211647338,Kernera_saxatilis_subsp._boissieri,38.076,-2.265
 211647336,Kernera_saxatilis_subsp._boissieri,38.246,-2.046
 1701529411,Kernera_saxatilis_subsp._boissieri,46.50781,23.44233
-30872796,Kernera_saxatilis_subsp._boissieri,42.419998,0.2
 60005655,Kernera_saxatilis_subsp._boissieri,42.672776,0.150566
 30967324,Kernera_saxatilis_subsp._boissieri,42.67,0.15
 1936534223,Kernera_saxatilis_subsp._boissieri,42.667,0.1434
@@ -63,16 +61,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434673935,Kernera_saxatilis_subsp._boissieri,45.140833,5.589722
 1230886557,Kernera_saxatilis_subsp._boissieri,48.75333,18.44639
 29682579,Kernera_saxatilis_subsp._boissieri,38.17,-2.14
-1050589526,Kernera_saxatilis_subsp._boissieri,42.9,-0.7
 30872797,Kernera_saxatilis_subsp._boissieri,42.880001,-0.92
 1851382732,Kernera_saxatilis_subsp._boissieri,42.93,-0.86
 1936426290,Kernera_saxatilis_subsp._boissieri,42.9257,-2.3151
 111308545,Kernera_saxatilis_subsp._boissieri,43.029999,-2.073
 1936418369,Kernera_saxatilis_subsp._boissieri,43.1658,-4.7974
-1702509659,Kernera_saxatilis_subsp._boissieri,42.9,-0.86
 1702508423,Kernera_saxatilis_subsp._boissieri,42.63,-0.06
 1050589625,Kernera_saxatilis_subsp._boissieri,42.87,-0.64
-296486685,Kernera_saxatilis_subsp._boissieri,46.783,12.9
 296486690,Kernera_saxatilis_subsp._boissieri,47.01,12.616
 1936378220,Kernera_saxatilis_subsp._boissieri,37.7647,-3.4327
 895185606,Kernera_saxatilis_subsp._boissieri,40.759,0.293
@@ -94,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111308135,Kernera_saxatilis_subsp._boissieri,43.056,-1.226
 1230885439,Kernera_saxatilis_subsp._boissieri,47.875,15.70833
 1936152752,Kernera_saxatilis_subsp._boissieri,42.5938,-2.5991
-1050589605,Kernera_saxatilis_subsp._boissieri,42.6,-2.61
 111308474,Kernera_saxatilis_subsp._boissieri,42.609001,-2.616
 211629611,Kernera_saxatilis_subsp._boissieri,43.220001,-4.86
 1050589630,Kernera_saxatilis_subsp._boissieri,42.65,0.62
@@ -104,7 +98,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936079821,Kernera_saxatilis_subsp._boissieri,37.3135,-3.5655
 860312017,Kernera_saxatilis_subsp._boissieri,40.85,0.33
 111308471,Kernera_saxatilis_subsp._boissieri,43.165001,-2.145
-211629610,Kernera_saxatilis_subsp._boissieri,43.169998,-4.8
 1050589551,Kernera_saxatilis_subsp._boissieri,42.97,-2.34
 1831523405,Kernera_saxatilis_subsp._boissieri,46.70972,12.93194
 1936079861,Kernera_saxatilis_subsp._boissieri,43.0266,-2.7927
@@ -120,9 +113,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211630534,Kernera_saxatilis_subsp._boissieri,42.959999,-6.18
 1936014339,Kernera_saxatilis_subsp._boissieri,37.9592,-2.55
 111308473,Kernera_saxatilis_subsp._boissieri,42.601002,-2.653
-1050589640,Kernera_saxatilis_subsp._boissieri,42.6,-2.65
 1638405019,Kernera_saxatilis_subsp._boissieri,47.46056,13.82889
-2288242524,Kernera_saxatilis_subsp._boissieri,47.2,7.183333
 1936080444,Kernera_saxatilis_subsp._boissieri,37.972,-2.58
 1701529407,Kernera_saxatilis_subsp._boissieri,47.69639,15.61028
 30967850,Kernera_saxatilis_subsp._boissieri,42.65,-0.29
@@ -137,7 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288242509,Kernera_saxatilis_subsp._boissieri,44.208333,10.416667
 1845009563,Kernera_saxatilis_subsp._boissieri,46.769444,7.889167
 1264995139,Kernera_saxatilis_subsp._boissieri,48.26769,15.74424
-1705472880,Kernera_saxatilis_subsp._boissieri,46.71666,11.5
 1230886548,Kernera_saxatilis_subsp._boissieri,47.54778,13.60944
 1935907102,Kernera_saxatilis_subsp._boissieri,37.015306,-3.4545
 2313363165,Kernera_saxatilis_subsp._boissieri,48.07,11.54
@@ -145,4 +135,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1264995152,Kernera_saxatilis_subsp._boissieri,47.38539,13.07102
 1935907557,Kernera_saxatilis_subsp._boissieri,37.15,-3.4333
 1842845906,Kernera_saxatilis_subsp._boissieri,41.41,2.22
-2242400746,Kernera_saxatilis_subsp._boissieri,47,8.027466
