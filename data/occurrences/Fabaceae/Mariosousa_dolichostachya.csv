@@ -23,7 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260843981,Mariosousa_dolichostachya,18.529722,-89.604167
 1260850764,Mariosousa_dolichostachya,18.5475,-89.907778
 1421389954,Mariosousa_dolichostachya,19.808333,-90.55
-1893306847,Mariosousa_dolichostachya,19.8,-90.55
 415936437,Mariosousa_dolichostachya,17.33836,-88.37787
 1257753747,Mariosousa_dolichostachya,18.605833,-89.848333
 1421377386,Mariosousa_dolichostachya,16.975,-91.280556
@@ -56,8 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087376379,Mariosousa_dolichostachya,18.8125,-89.311111
 1893306835,Mariosousa_dolichostachya,18.236111,-89.802778
 1893794570,Mariosousa_dolichostachya,18.257222,-89.819444
-1421414498,Mariosousa_dolichostachya,18,-89.411667
-1259537536,Mariosousa_dolichostachya,18,-89
 1893794572,Mariosousa_dolichostachya,17.877778,-89.279722
 1929198866,Mariosousa_dolichostachya,18.1222,-89.7906
 1893794585,Mariosousa_dolichostachya,18.122222,-89.790556
@@ -88,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894680378,Mariosousa_dolichostachya,20.869444,-86.8875
 1421399849,Mariosousa_dolichostachya,20.861111,-86.897222
 1421413233,Mariosousa_dolichostachya,21.275,-86.875
-1929632460,Mariosousa_dolichostachya,17.1,-89.07
 1421406104,Mariosousa_dolichostachya,20.994444,-87.183333
 1421410138,Mariosousa_dolichostachya,21.372222,-88.897222
 1893306914,Mariosousa_dolichostachya,21.383333,-88.897222
@@ -100,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893444759,Mariosousa_dolichostachya,19.841667,-89.425
 1893444843,Mariosousa_dolichostachya,19.541667,-89.558333
 1893444781,Mariosousa_dolichostachya,20.975,-86.841667
-1421399256,Mariosousa_dolichostachya,20.841667,-86.9
 1893444838,Mariosousa_dolichostachya,19.508333,-89.925
 1895210146,Mariosousa_dolichostachya,18.541667,-89.936111
 1421416745,Mariosousa_dolichostachya,19.583333,-89.838889
@@ -119,9 +114,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421384458,Mariosousa_dolichostachya,18.108333,-89.077778
 1894680360,Mariosousa_dolichostachya,21.0911331360697,-86.9914872347055
 1894680322,Mariosousa_dolichostachya,20.909722,-89.009722
-1421394612,Mariosousa_dolichostachya,20.9,-88.916667
 1421404523,Mariosousa_dolichostachya,18.808333,-88.301389
-1894680301,Mariosousa_dolichostachya,20.9,-88.9
 1894680328,Mariosousa_dolichostachya,19.7895111359244,-87.628979637077
 1896222421,Mariosousa_dolichostachya,19.791667,-87.608333
 1895210088,Mariosousa_dolichostachya,19.788889,-87.627778
@@ -157,12 +150,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896222391,Mariosousa_dolichostachya,20.941667,-88.641667
 1421418578,Mariosousa_dolichostachya,20.955556,-88.6375
 371080297,Mariosousa_dolichostachya,20.975,-88.625
-1421388787,Mariosousa_dolichostachya,21,-88.5875
 371084225,Mariosousa_dolichostachya,20.891667,-88.691667
 1895210171,Mariosousa_dolichostachya,19.433333,-89.676389
 1896222420,Mariosousa_dolichostachya,18.208333,-89.441667
 1421391896,Mariosousa_dolichostachya,18.425,-89.4375
-1895210041,Mariosousa_dolichostachya,18.4,-89.438889
 371076713,Mariosousa_dolichostachya,18.208333,-89.475
 1421352269,Mariosousa_dolichostachya,20.966667,-86.8625
 1894680325,Mariosousa_dolichostachya,19.925,-88.758333
@@ -190,20 +181,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 371079685,Mariosousa_dolichostachya,18.875,-88.241667
 1896222418,Mariosousa_dolichostachya,18.491667,-88.525
 1421390966,Mariosousa_dolichostachya,18.883333,-88.236111
-1421385778,Mariosousa_dolichostachya,20.5,-88.829167
 1896222411,Mariosousa_dolichostachya,20.525,-89.175
 1896222427,Mariosousa_dolichostachya,18.608333,-89.458333
-1894680366,Mariosousa_dolichostachya,18.333333,-89.4
 1421375638,Mariosousa_dolichostachya,18.629167,-89.413889
 1258260084,Mariosousa_dolichostachya,18.57,-90.03
-1258787157,Mariosousa_dolichostachya,20.9,-86.87
 1258260083,Mariosousa_dolichostachya,20.85,-86.95
 1895210209,Mariosousa_dolichostachya,20.173611,-87.455278
 1929332708,Mariosousa_dolichostachya,20.17414,-87.55236
-1258787181,Mariosousa_dolichostachya,20.09,-87.6
 1421392195,Mariosousa_dolichostachya,20.127778,-87.466667
 371077337,Mariosousa_dolichostachya,20.125,-87.475
-1258787167,Mariosousa_dolichostachya,18.82,-88.4
 1895210132,Mariosousa_dolichostachya,18.866667,-88.255556
 1421368165,Mariosousa_dolichostachya,18.790278,-88.316667
 1421372534,Mariosousa_dolichostachya,17.95,-88.883333
@@ -218,12 +204,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258260079,Mariosousa_dolichostachya,19.08,-88.46
 1894680331,Mariosousa_dolichostachya,19.0835882668903,-88.4496986720988
 1421381029,Mariosousa_dolichostachya,19.081944,-88.45
-1228360288,Mariosousa_dolichostachya,20.8333,-89
 1421405286,Mariosousa_dolichostachya,20.675556,-88.572222
 371071916,Mariosousa_dolichostachya,20.541667,-88.791667
 1895210081,Mariosousa_dolichostachya,20.491667,-88.827778
 1421411915,Mariosousa_dolichostachya,21.166667,-89.65
-1258787177,Mariosousa_dolichostachya,21.2,-89.65
 1895210149,Mariosousa_dolichostachya,20.484444,-88.829167
 371072598,Mariosousa_dolichostachya,20.491667,-88.841667
 1258787178,Mariosousa_dolichostachya,20.48,-88.82
@@ -236,7 +220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895210064,Mariosousa_dolichostachya,20.491667,-87.731944
 1894680363,Mariosousa_dolichostachya,20.508333,-87.708333
 1895210097,Mariosousa_dolichostachya,21.018056,-86.851389
-1228162631,Mariosousa_dolichostachya,19,-90.5
 1989334266,Mariosousa_dolichostachya,18.4951,-89.3951
 1895210008,Mariosousa_dolichostachya,19.522222,-88.036111
 1258787182,Mariosousa_dolichostachya,19.52,-88.03
