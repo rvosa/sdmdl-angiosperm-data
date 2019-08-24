@@ -132,7 +132,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1889161337,Senecio_flaccidus,32.398,-106.143
 1889161298,Senecio_flaccidus,32.0095,-105.943833
 1889161335,Senecio_flaccidus,32.5475,-105.571833
-1265813939,Senecio_flaccidus,35.1,-116.7
 1846496367,Senecio_flaccidus,33.888417,-111.502789
 1259894807,Senecio_flaccidus,32.30194,-106.59888
 1259896002,Senecio_flaccidus,32.52638,-108.01027
@@ -215,8 +214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986952696,Senecio_flaccidus,38.495278,-112.251389
 1988169915,Senecio_flaccidus,31.69,-109.112
 2270658681,Senecio_flaccidus,34.4874,-112.583
-2270658875,Senecio_flaccidus,34.2,-112.367
-1258975965,Senecio_flaccidus,38.6,-112.25
 1258975636,Senecio_flaccidus,35.18333,-114.06666
 1927975025,Senecio_flaccidus,35.1928,-114.0714
 1895229878,Senecio_flaccidus,30.395556,-108.208056
@@ -232,7 +229,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270659531,Senecio_flaccidus,31.3801,-110.111
 1895229986,Senecio_flaccidus,19.512778,-97.298889
 1931156946,Senecio_flaccidus,38.5019,-105.1069
-1258967519,Senecio_flaccidus,38.5,-105.1
 1895229892,Senecio_flaccidus,22.093611,-100.7175
 1269686855,Senecio_flaccidus,37.181,-111.976997
 1846484824,Senecio_flaccidus,34.6148,-111.20615
@@ -333,7 +329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895213756,Senecio_flaccidus,30.741667,-109.991667
 1931230799,Senecio_flaccidus,33.47,-111.47
 1846478225,Senecio_flaccidus,35.0767,-114.3069
-2270660970,Senecio_flaccidus,34.55,-109.5
 1846502465,Senecio_flaccidus,36.033333,-117.133333
 1897939083,Senecio_flaccidus,22.627222,-102.759444
 2270659055,Senecio_flaccidus,35.1667,-111.117
@@ -346,7 +341,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895480773,Senecio_flaccidus,28.508697,-106.186503
 1895480763,Senecio_flaccidus,28.542336,-106.911983
 1895213826,Senecio_flaccidus,30.042222,-115.747222
-2270523107,Senecio_flaccidus,30.2,-115.45
 1842930226,Senecio_flaccidus,32.603346,-108.469548
 2270658298,Senecio_flaccidus,36.6483,-110.441
 2270213146,Senecio_flaccidus,35.9843999991026,-121.238
@@ -374,7 +368,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843805035,Senecio_flaccidus,35.128003,-106.747886
 1895229789,Senecio_flaccidus,25.341667,-102.291667
 1894631576,Senecio_flaccidus,25.440278,-102.1825
-1261040280,Senecio_flaccidus,25.4,-102.4
 1895373029,Senecio_flaccidus,25.4300463926225,-102.176897053884
 2270253266,Senecio_flaccidus,34.741667,-120.058333
 2270660024,Senecio_flaccidus,35.2884,-111.428
@@ -450,7 +443,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842930232,Senecio_flaccidus,34.325317,-106.702612
 177029501,Senecio_flaccidus,37.123038,-101.930815
 1234284794,Senecio_flaccidus,31.7457,-109.53667
-1895372949,Senecio_flaccidus,28,-101.75
 1234284807,Senecio_flaccidus,31.40823,-110.62397
 1895229901,Senecio_flaccidus,28.008333,-101.758333
 2270583346,Senecio_flaccidus,33.9345,-112.693
@@ -471,7 +463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895229970,Senecio_flaccidus,29.225,-102.375
 2270488913,Senecio_flaccidus,36.591871,-116.034131
 1895229928,Senecio_flaccidus,21.278611,-103.605556
-1895368508,Senecio_flaccidus,26,-107.05
 1846555492,Senecio_flaccidus,35.105778,-114.377222
 2270561496,Senecio_flaccidus,33.67,-111.35
 2270660056,Senecio_flaccidus,32.45,-112.625
@@ -484,7 +475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895213697,Senecio_flaccidus,32.523611,-116.029722
 1896338265,Senecio_flaccidus,32.548333,-116.041667
 1896151961,Senecio_flaccidus,31.291667,-109.908333
-1895253840,Senecio_flaccidus,31.283333,-109.9
 1895451670,Senecio_flaccidus,32.535,-116.05
 1929418879,Senecio_flaccidus,37.3401,-114.6224
 1895253904,Senecio_flaccidus,31.025,-110.391667
@@ -587,7 +577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270660268,Senecio_flaccidus,31.8333,-110.852
 1895451692,Senecio_flaccidus,30.566667,-111.316667
 1846502408,Senecio_flaccidus,33.87665,-111.74453
-1930308619,Senecio_flaccidus,37.25,-114
 2270660677,Senecio_flaccidus,31.9699,-109.972
 1234284821,Senecio_flaccidus,34.065361,-116.230669
 1895229929,Senecio_flaccidus,21.875833,-102.238611
@@ -619,7 +608,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242368670,Senecio_flaccidus,37.079011,-103.017153
 1896247791,Senecio_flaccidus,19.541111,-97.276944
 1234284758,Senecio_flaccidus,36.844966,-102.81781
-1895372897,Senecio_flaccidus,19.616667,-97.4
 2270215057,Senecio_flaccidus,36.81537,-121.35912
 2270262079,Senecio_flaccidus,33.6699823080228,-117.510619512413
 2270658963,Senecio_flaccidus,34.1094,-111.353
@@ -635,7 +623,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895372936,Senecio_flaccidus,22.213197,-102.312411
 1896247783,Senecio_flaccidus,22.225,-102.325
 1895229985,Senecio_flaccidus,22.725833,-102.694167
-1895372942,Senecio_flaccidus,23.2,-102.383333
 1895229899,Senecio_flaccidus,23.208333,-102.391667
 2270212588,Senecio_flaccidus,35.26944,-120.27778
 1895229849,Senecio_flaccidus,21.728333,-101.629722
@@ -717,7 +704,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270659054,Senecio_flaccidus,36.73,-114.224
 1563370450,Senecio_flaccidus,31.896944,-106.489167
 2270522088,Senecio_flaccidus,30.783229,-110.852703
-1259866771,Senecio_flaccidus,31.366667,-111.6
 2270659660,Senecio_flaccidus,32.895,-109.895
 1895230025,Senecio_flaccidus,22.063611,-101.963889
 1895213692,Senecio_flaccidus,31.282222,-111.661111
@@ -725,7 +711,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270660833,Senecio_flaccidus,33.1138,-109.282
 1895213744,Senecio_flaccidus,30.735,-111.688333
 1895213796,Senecio_flaccidus,30.676667,-110.92
-1703278115,Senecio_flaccidus,32,-106.5
 2270262018,Senecio_flaccidus,36.081014,-116.995468
 1842930294,Senecio_flaccidus,32.395,-103.675
 1846502377,Senecio_flaccidus,33.813653,-111.926144
@@ -740,7 +725,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270659583,Senecio_flaccidus,36.5356,-113.387
 1259868147,Senecio_flaccidus,24.233333,-104.463611
 2270661595,Senecio_flaccidus,36.6509,-113.446
-1895480769,Senecio_flaccidus,22.683333,-102.2
 2270661326,Senecio_flaccidus,36.3017,-113.674
 1895229876,Senecio_flaccidus,21.833889,-102.1525
 2270261484,Senecio_flaccidus,35.0299999991128,-120.6175
@@ -770,7 +754,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270658610,Senecio_flaccidus,32.96,-109.406
 1893421905,Senecio_flaccidus,21.991667,-100.808333
 1893404763,Senecio_flaccidus,32.575,-116.225
-1611936480,Senecio_flaccidus,30.6,-104.1
 1895229767,Senecio_flaccidus,21.948056,-100.649444
 1842913631,Senecio_flaccidus,35.15,-107.46
 1930707533,Senecio_flaccidus,37.2315,-112.8376
@@ -778,8 +761,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563370472,Senecio_flaccidus,31.896667,-106.458889
 1846482054,Senecio_flaccidus,32.35,-116.616667
 1611936477,Senecio_flaccidus,31.923611,-106.504444
-1611936397,Senecio_flaccidus,31.8,-106.483333
-1563370462,Senecio_flaccidus,31.9,-106.483333
 1703278121,Senecio_flaccidus,32.011389,-106.51
 1896247798,Senecio_flaccidus,19.3925,-97.393333
 1895229963,Senecio_flaccidus,19.401944,-97.428333
@@ -796,7 +777,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177029613,Senecio_flaccidus,37.944208,-101.438287
 1895229834,Senecio_flaccidus,22.718889,-102.324167
 1930167421,Senecio_flaccidus,36.3002,-108.1734
-2270659077,Senecio_flaccidus,35.62,-112.1
 1931195514,Senecio_flaccidus,38.3321,-112.855
 1895372916,Senecio_flaccidus,28.106111,-107.640831
 1842930345,Senecio_flaccidus,35.656281,-108.537076
@@ -812,11 +792,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895229972,Senecio_flaccidus,29.541667,-104.808333
 1895229845,Senecio_flaccidus,27.940278,-101.216667
 1895451634,Senecio_flaccidus,30.037936,-111.102853
-1895372935,Senecio_flaccidus,29.533333,-104.8
 1846502368,Senecio_flaccidus,33.737817,-111.844761
 1842913687,Senecio_flaccidus,35.687134,-106.311346
 2270583116,Senecio_flaccidus,33.691,-111.726
-1611936485,Senecio_flaccidus,31.9,-106.45
 1842930272,Senecio_flaccidus,31.593826,-108.769414
 1928301724,Senecio_flaccidus,36.1804,-114.1092
 1842930346,Senecio_flaccidus,31.611691,-108.778982
@@ -826,7 +804,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842930295,Senecio_flaccidus,32.706336,-106.774339
 56666395,Senecio_flaccidus,31.87,-109.77
 1893392009,Senecio_flaccidus,28.725,-108.508333
-1895229945,Senecio_flaccidus,28.3,-107.939444
 1895230092,Senecio_flaccidus,22.026944,-100.133333
 1846502451,Senecio_flaccidus,36.96358,-112.65152
 1895230045,Senecio_flaccidus,21.835556,-101.596667
@@ -865,12 +842,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842930348,Senecio_flaccidus,34.053608,-107.038251
 2270259439,Senecio_flaccidus,34.124929,-118.445713
 1842930314,Senecio_flaccidus,34.097514,-107.097991
-1426406376,Senecio_flaccidus,33.7,-117.383333
 1234284769,Senecio_flaccidus,36.852312,-103.125767
 1234284670,Senecio_flaccidus,36.87446,-102.51278
 1846502783,Senecio_flaccidus,29.859444,-107.436389
 1895372921,Senecio_flaccidus,29.8485244077396,-107.456898484175
-1895229990,Senecio_flaccidus,28.675,-103.6
 2270524010,Senecio_flaccidus,29.844827,-107.46634
 1895230010,Senecio_flaccidus,29.047222,-106.325556
 1234284698,Senecio_flaccidus,34.07094,-99.72444
@@ -908,7 +883,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270661467,Senecio_flaccidus,31.965,-111.36
 2270660342,Senecio_flaccidus,31.7711,-111.595
 1895229976,Senecio_flaccidus,28.141944,-103.025833
-1895372948,Senecio_flaccidus,27.6,-101.858333
 1929563086,Senecio_flaccidus,28.1417,-102.98
 177029638,Senecio_flaccidus,37.52301,-101.99414
 2270658024,Senecio_flaccidus,36.1349,-111.06
@@ -943,10 +917,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846502413,Senecio_flaccidus,34.398889,-112.625278
 177029614,Senecio_flaccidus,37.32406,-101.89135
 177029617,Senecio_flaccidus,37.50851,-101.99412
-1611936420,Senecio_flaccidus,30.9,-105.05
 2270661687,Senecio_flaccidus,36.7278,-110.254
 1234284699,Senecio_flaccidus,37.1481,-102.26126
-1611936463,Senecio_flaccidus,31.916667,-106.5
 1846502456,Senecio_flaccidus,34.60275,-113.81042
 2270661866,Senecio_flaccidus,36.4498,-109.291
 1895230024,Senecio_flaccidus,22.813611,-99.903611
@@ -979,10 +951,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895230031,Senecio_flaccidus,19.283611,-97.556111
 1895512068,Senecio_flaccidus,31.25,-107.833333
 1895451777,Senecio_flaccidus,19.2661914146542,-97.5345042084228
-1895373139,Senecio_flaccidus,27.933333,-103.7
-1895372924,Senecio_flaccidus,28.683333,-104.4
 1895229925,Senecio_flaccidus,27.941667,-103.708333
-1895480757,Senecio_flaccidus,23.1,-102.416667
 1234284789,Senecio_flaccidus,28.45,-114.083333
 2270661849,Senecio_flaccidus,32.9676,-111.124
 1846502422,Senecio_flaccidus,32.107222,-111.006556
@@ -996,7 +965,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929536924,Senecio_flaccidus,37.1203,-113.5776
 2270522474,Senecio_flaccidus,30.85827,-110.000479
 1846502476,Senecio_flaccidus,36.65895,-111.64942
-2270525332,Senecio_flaccidus,29,-102.466667
 1234284785,Senecio_flaccidus,36.854911,-113.5717
 1929886975,Senecio_flaccidus,37.080272,-102.914384
 1234284755,Senecio_flaccidus,37.08026,-102.9137
@@ -1016,7 +984,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931214412,Senecio_flaccidus,36.6309,-114.1749
 1930314893,Senecio_flaccidus,23.43,-102.19
 1893404926,Senecio_flaccidus,32.375,-116.275
-1234284852,Senecio_flaccidus,32.416667,-116.3
 2270658993,Senecio_flaccidus,34.9494,-112.054
 1234284746,Senecio_flaccidus,35.66778,-101.36123
 1895213698,Senecio_flaccidus,29.541667,-112.391667
@@ -1084,7 +1051,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1234284684,Senecio_flaccidus,36.859389,-102.763408
 2270659720,Senecio_flaccidus,31.862,-109.258
 1895230053,Senecio_flaccidus,28.404444,-107.466944
-2270659772,Senecio_flaccidus,34.5833,-112.6
 2270659226,Senecio_flaccidus,34.56,-112.37
 2270659502,Senecio_flaccidus,34.55,-112.52
 1426412686,Senecio_flaccidus,35.821892,-118.336724
@@ -1180,7 +1146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895930954,Senecio_flaccidus,30.690294,-110.877739
 177029720,Senecio_flaccidus,33.726111,-115.812222
 2270658478,Senecio_flaccidus,36.9903,-112.975
-2270659396,Senecio_flaccidus,34.1,-109.36
 2270658342,Senecio_flaccidus,34.2535,-110.433
 1842913712,Senecio_flaccidus,32.909001,-107.665093
 1893404775,Senecio_flaccidus,32.475,-116.058333
@@ -1272,7 +1237,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895229893,Senecio_flaccidus,24.240556,-104.484167
 1895229883,Senecio_flaccidus,21.763056,-101.9125
 1893590656,Senecio_flaccidus,31.027778,-110.413889
-1426412322,Senecio_flaccidus,34,-118
 2270660150,Senecio_flaccidus,34.49,-112.58
 2270659494,Senecio_flaccidus,34.825,-111.788
 1931136612,Senecio_flaccidus,34.934344,-101.664941
@@ -1283,14 +1247,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895230056,Senecio_flaccidus,30.168056,-106.453333
 1895253944,Senecio_flaccidus,30.616389,-106.511111
 1842913644,Senecio_flaccidus,31.421151,-108.674044
-1426412308,Senecio_flaccidus,34.2,-118.025
 1895213691,Senecio_flaccidus,29.966389,-115.071389
 1895373063,Senecio_flaccidus,22.647769,-102.884288
 1895229932,Senecio_flaccidus,22.505,-102.235
 1895229927,Senecio_flaccidus,21.833056,-101.5975
 1234284796,Senecio_flaccidus,35.52808,-108.74258
 1842913728,Senecio_flaccidus,32.175427,-104.443835
-1426414352,Senecio_flaccidus,37,-117.366667
 1895230004,Senecio_flaccidus,22.126667,-100.782222
 1895229795,Senecio_flaccidus,22.091667,-101.241667
 1234284860,Senecio_flaccidus,38.055492,-121.678073
@@ -1408,7 +1370,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895213670,Senecio_flaccidus,30.118056,-111.073611
 1895451719,Senecio_flaccidus,30.117072,-111.078422
 1426406420,Senecio_flaccidus,33.93056,-116.83194
-1259868772,Senecio_flaccidus,30.8,-110.883333
 1895213773,Senecio_flaccidus,30.730278,-110.871944
 1895451698,Senecio_flaccidus,30.75,-110.833333
 2242399600,Senecio_flaccidus,30.364713,-103.663072
@@ -1422,7 +1383,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895372966,Senecio_flaccidus,21.879384714616,-102.300187577541
 1895213723,Senecio_flaccidus,32.374444,-116.333889
 1426411923,Senecio_flaccidus,32.64978,-116.29921
-1228290976,Senecio_flaccidus,38,-98
 1426406443,Senecio_flaccidus,33.85,-116.9917
 2242371033,Senecio_flaccidus,38.431308,-105.237475
 2242376155,Senecio_flaccidus,38.391061,-105.116719
@@ -1433,7 +1393,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927891407,Senecio_flaccidus,38.15999,-108.374807
 1930443638,Senecio_flaccidus,30.6261,-110.9669
 1259866451,Senecio_flaccidus,30.633333,-110.95
-1259866704,Senecio_flaccidus,26.2,-101.383333
 1895223915,Senecio_flaccidus,25.268333,-105.599167
 2270659605,Senecio_flaccidus,32.2217,-110.926
 1895230019,Senecio_flaccidus,31.707778,-106.428611
