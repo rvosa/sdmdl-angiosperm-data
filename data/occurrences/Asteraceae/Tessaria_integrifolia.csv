@@ -87,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258102497,Tessaria_integrifolia,-9.568333,-70.551111
 1258102273,Tessaria_integrifolia,-17.516667,-63.083333
 1930394317,Tessaria_integrifolia,-9.5683,-70.5511
-1135463532,Tessaria_integrifolia,8.03333,-83.2
 1707564517,Tessaria_integrifolia,2.283333,-75.583333
 1707557651,Tessaria_integrifolia,3.428611,-74.115556
 1932878450,Tessaria_integrifolia,3.42,-74.11
@@ -172,13 +171,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123914657,Tessaria_integrifolia,5.670563,-77.304639
 1258412340,Tessaria_integrifolia,2.25,-73.73333
 1123916979,Tessaria_integrifolia,2.25,-73.733333
-1259809581,Tessaria_integrifolia,-25.25,-57.58333
-1144789163,Tessaria_integrifolia,-25.26667,-57.63333
 1563330280,Tessaria_integrifolia,5.97,-75.95
 1261309900,Tessaria_integrifolia,-12.66666,-68.75
 1123912658,Tessaria_integrifolia,5.966667,-75.95
 1898894035,Tessaria_integrifolia,5.94658,-75.9541
-1096837549,Tessaria_integrifolia,-25.25,-57.58
 1228355294,Tessaria_integrifolia,-15.5,-68
 1261293161,Tessaria_integrifolia,-0.016667,-77.6
 1260800146,Tessaria_integrifolia,7.08333,-67.05
@@ -222,7 +218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563280983,Tessaria_integrifolia,-16.8,-67.18
 1273760060,Tessaria_integrifolia,8.339856,-74.561356
 1261302761,Tessaria_integrifolia,-16.8,-67.18333
-1260802399,Tessaria_integrifolia,10.60833,-67.03333
 1563315970,Tessaria_integrifolia,0.08,-78.5
 1261290741,Tessaria_integrifolia,0.08333,-78.5
 1261285699,Tessaria_integrifolia,2.58333,-74.11666
@@ -291,7 +286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563336232,Tessaria_integrifolia,-0.43,-77.87
 1259995807,Tessaria_integrifolia,-0.416667,-77.816667
 1123902501,Tessaria_integrifolia,4.4168,-75.435784
-1260802080,Tessaria_integrifolia,10.43333,-66.88333
 1563306077,Tessaria_integrifolia,-12.83,-69.28
 1260799686,Tessaria_integrifolia,-4.08333,-79.2
 1563263718,Tessaria_integrifolia,-0.52,-77.87
@@ -305,7 +299,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259750789,Tessaria_integrifolia,7.451667,-80.611944
 1261292728,Tessaria_integrifolia,-9.16638,-75.79222
 1261286825,Tessaria_integrifolia,-13.155,-72.5225
-2270525564,Tessaria_integrifolia,10.589925,-66.867139
 1123907496,Tessaria_integrifolia,6.210805,-75.155624
 1228191836,Tessaria_integrifolia,-12,-70.25
 1261302806,Tessaria_integrifolia,-0.51666,-77.83333
@@ -351,8 +344,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929142757,Tessaria_integrifolia,-8.745458,-67.39983
 1258936392,Tessaria_integrifolia,9.9,-83.66
 1890898023,Tessaria_integrifolia,6.26697,-76.61081
-1259809561,Tessaria_integrifolia,-25.25,-57.63333
 2239106717,Tessaria_integrifolia,-31.389722,-63.700833
-1055560925,Tessaria_integrifolia,-23.236211,-58.391024
 1228216557,Tessaria_integrifolia,-5,-80.3333
 2239107661,Tessaria_integrifolia,-31.396389,-64.202778
