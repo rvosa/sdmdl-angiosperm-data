@@ -72,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1656070799,Begonia_fruticosa,-26.7275,-49.596667
 1077399559,Begonia_fruticosa,-26.7275,-49.585278
 1077305539,Begonia_fruticosa,-26.7275,-49.585133
-1077484374,Begonia_fruticosa,-26.7275,-49.6
 1077484375,Begonia_fruticosa,-26.908611,-51.247222
 1077398784,Begonia_fruticosa,-27.09,-49.59
 1077401052,Begonia_fruticosa,-27.000278,-50.129444
@@ -92,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077406510,Begonia_fruticosa,-26.821667,-49.77
 1424323109,Begonia_fruticosa,-26.908611,-49.678333
 1424323102,Begonia_fruticosa,-26.640278,-49.860556
-1424323050,Begonia_fruticosa,-26.1,-49.05
 1077406509,Begonia_fruticosa,-26.101667,-49.05
 1090696127,Begonia_fruticosa,-23.824667,-46.941722
 1077305407,Begonia_fruticosa,-25.442222,-48.923333
@@ -131,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123811792,Begonia_fruticosa,-20.272778,-40.479167
 1090964965,Begonia_fruticosa,-24.517222,-48.835278
 1123813275,Begonia_fruticosa,-20.074444,-41.123889
-1123813411,Begonia_fruticosa,-19.931111,-40.7
 1424221536,Begonia_fruticosa,-22.497778,-43.025278
 1077383151,Begonia_fruticosa,-26.402778,-49.344167
 1077388728,Begonia_fruticosa,-26.460278,-49.948889
@@ -204,9 +201,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1322857442,Begonia_fruticosa,-23.7833,-46.3167
 1087341327,Begonia_fruticosa,-23.783333,-46.316667
 1929013735,Begonia_fruticosa,-22.28,-42.45
-1424253929,Begonia_fruticosa,-22,-42.05
-1260530773,Begonia_fruticosa,-23.58333,-46
-1087338732,Begonia_fruticosa,-23.583333,-46
 1265830155,Begonia_fruticosa,-23.783333,-46.333333
 2270511526,Begonia_fruticosa,-25.4667,-48.8167
 1089043540,Begonia_fruticosa,-23.075,-45.9375
