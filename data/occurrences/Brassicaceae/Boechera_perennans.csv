@@ -143,11 +143,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893339712,Boechera_perennans,31.028611,-115.446944
 1986944474,Boechera_perennans,33.541667,-116.481667
 1986953940,Boechera_perennans,37.412778,-118.001944
-1929745558,Boechera_perennans,42.68,-115.8
 2270662927,Boechera_perennans,32.7717,-116.223
 1843810448,Boechera_perennans,31.871538,-108.430236
 1843809995,Boechera_perennans,32.072,-107.608
-1929587721,Boechera_perennans,37.3,-113.42
 1024483864,Boechera_perennans,34.325,-116.95
 1846550097,Boechera_perennans,36.317579,-112.879433
 1846550104,Boechera_perennans,32.833333,-116.283333
@@ -155,13 +153,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270481962,Boechera_perennans,32.00747,-109.19067
 1843829687,Boechera_perennans,36.94,-107.237
 2270595972,Boechera_perennans,36.6847,-110.53
-2270509848,Boechera_perennans,30.8667,-115.7
 2270595058,Boechera_perennans,32.646,-112.755
 2270595593,Boechera_perennans,33.7612,-110.869
 1931171727,Boechera_perennans,34.86,-111.69
 2270593301,Boechera_perennans,33.7613,-110.835
 2270596453,Boechera_perennans,32.4656,-112.754
-1929407441,Boechera_perennans,37.28,-112.1
 2270596019,Boechera_perennans,33.8194,-110.852
 1842917401,Boechera_perennans,36.716715,-107.41748
 2270592959,Boechera_perennans,33.4732,-111.216
@@ -171,10 +167,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270594537,Boechera_perennans,34.7754,-112.202
 2270593705,Boechera_perennans,34.8688,-112.067
 2270595321,Boechera_perennans,33.4585,-111.45
-1931064908,Boechera_perennans,37.2,-113.63
 2270592988,Boechera_perennans,33.9622,-111.848
 2270595478,Boechera_perennans,33.4443,-111.243
-2270594370,Boechera_perennans,36.4,-111.85
 2270595696,Boechera_perennans,36.0544,-112.139
 1929944527,Boechera_perennans,38.75,-111.37
 2270585380,Boechera_perennans,33.4006,-111.346
@@ -189,9 +183,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929165978,Boechera_perennans,36.6163,-114.193
 1929172257,Boechera_perennans,37.22,-113.42
 2270593232,Boechera_perennans,35.0982,-114.377
-1929471960,Boechera_perennans,38.58,-109.5
 1930855529,Boechera_perennans,37.23819,-118.23069
-1929756632,Boechera_perennans,37.9,-113.7
 1929990384,Boechera_perennans,38.43,-109.32
 1929159715,Boechera_perennans,39.55,-110.65
 1928471041,Boechera_perennans,38.75,-109.13
@@ -204,10 +196,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270585634,Boechera_perennans,33.335,-112.127
 2270594152,Boechera_perennans,32.6408,-109.843
 1846550064,Boechera_perennans,31.980266,-108.222813
-1895364707,Boechera_perennans,32.5,-116.416667
 2270595369,Boechera_perennans,33.5752,-110.06
 1930786062,Boechera_perennans,37.12,-113.85
-1930822288,Boechera_perennans,38.8,-109.3
 1929533853,Boechera_perennans,38.18,-111.18
 1930220187,Boechera_perennans,40.82,-109.13
 1929881247,Boechera_perennans,38.73,-115.47
@@ -223,7 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270595380,Boechera_perennans,31.9123,-109.957
 1930761130,Boechera_perennans,37.55,-110.03
 1930991206,Boechera_perennans,38.38,-110.13
-1928048367,Boechera_perennans,38,-110
 1928703002,Boechera_perennans,38.12,-110.15
 415721101,Boechera_perennans,37.58724,-114.535026
 1928018355,Boechera_perennans,37.58,-114.53
@@ -263,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270593672,Boechera_perennans,33.646,-112.927
 1846550122,Boechera_perennans,34.61472,-112.4175
 2270596328,Boechera_perennans,34.0082,-113.462
-1930848997,Boechera_perennans,39.55,-112.2
 1931254826,Boechera_perennans,41.2679,-105.5269
 1928948867,Boechera_perennans,40.17,-110.55
 2270593058,Boechera_perennans,33.2822,-110.821
@@ -277,7 +265,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270595098,Boechera_perennans,34.33,-113.19
 1931023169,Boechera_perennans,38.93,-111.17
 2270174199,Boechera_perennans,35.261095,-115.305333
-1930811308,Boechera_perennans,40.6,-109.57
 2270595532,Boechera_perennans,35.1163,-113.871
 2270592769,Boechera_perennans,33.9937,-113.514
 2270594967,Boechera_perennans,32.9549,-109.531
@@ -290,7 +277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270595460,Boechera_perennans,36.8093,-112.081
 1843863208,Boechera_perennans,36.151813,-108.162135
 1928565428,Boechera_perennans,38.35,-112.23
-1929275608,Boechera_perennans,39.7,-114.03
 1928709007,Boechera_perennans,38.43,-112.32
 2270594313,Boechera_perennans,34.1909,-112.141
 1843862971,Boechera_perennans,35.656281,-108.537076
@@ -313,10 +299,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846550115,Boechera_perennans,33.965712,-111.865157
 2270587906,Boechera_perennans,33.6764,-111.778
 2270585057,Boechera_perennans,33.6764,-111.743
-1928825687,Boechera_perennans,37.13,-113.3
 1986953859,Boechera_perennans,36.1804,-114.1092
 1930277778,Boechera_perennans,36.18,-114.11
-1928536947,Boechera_perennans,36.97,-114.3
 1927856053,Boechera_perennans,37.38,-114.55
 1930964475,Boechera_perennans,37.47,-114.57
 1986954682,Boechera_perennans,36.966667,-114.299722
@@ -358,7 +342,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846550240,Boechera_perennans,34.285312,-111.06758
 1426106847,Boechera_perennans,33.618333,-116.424722
 1846550021,Boechera_perennans,33.4775,-111.4375
-1928723950,Boechera_perennans,38.93,-115.5
 2270594000,Boechera_perennans,33.9075,-113.593583
 1846550196,Boechera_perennans,33.864159,-111.414521
 1846550186,Boechera_perennans,33.883032,-111.476553
@@ -391,10 +374,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270593934,Boechera_perennans,34.57,-113.47
 2270595245,Boechera_perennans,33.3594,-114.106
 1929197403,Boechera_perennans,37.52,-112.05
-1930871213,Boechera_perennans,37.8,-111.42
 1928735381,Boechera_perennans,37.47,-111.48
 1927811413,Boechera_perennans,36.96,-112.77
-1928193735,Boechera_perennans,38.92,-115.4
 2270598023,Boechera_perennans,34.2308,-111.36
 1893412294,Boechera_perennans,28.758333,-113.608333
 2270594616,Boechera_perennans,36.7515,-111.442
