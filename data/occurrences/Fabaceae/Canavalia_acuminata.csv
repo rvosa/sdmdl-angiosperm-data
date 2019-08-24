@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894617285,Canavalia_acuminata,15.777528,-96.175139
 1894617304,Canavalia_acuminata,15.754444,-96.217472
 1897366628,Canavalia_acuminata,18.7375,-103.205555
-1897569538,Canavalia_acuminata,15.919277,-95.9
 1897569521,Canavalia_acuminata,15.905278,-95.928889
 1894973338,Canavalia_acuminata,22.936111,-105.598611
 1897569453,Canavalia_acuminata,15.871944,-95.999167
@@ -15,8 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260887950,Canavalia_acuminata,19.14916,-104.26583
 1897569434,Canavalia_acuminata,15.898889,-96.0225
 574739797,Canavalia_acuminata,19.149167,-104.265833
-1897569478,Canavalia_acuminata,15.9,-95.925833
-1260142176,Canavalia_acuminata,15.9,-95.92583
 1894903154,Canavalia_acuminata,19.5046776094542,-105.029047632107
 1894903159,Canavalia_acuminata,19.5275106124805,-105.007158218496
 1894903156,Canavalia_acuminata,19.5308714041081,-105.021074553012
@@ -28,10 +25,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893752182,Canavalia_acuminata,19.72509,-105.26776
 1894903162,Canavalia_acuminata,19.375,-104.991667
 1259396457,Canavalia_acuminata,19.439722,-104.924167
-1893967701,Canavalia_acuminata,19.672222,-104.4
 1896281981,Canavalia_acuminata,17.666667,-101.566667
 1893967745,Canavalia_acuminata,19.671111,-104.432222
-1259395836,Canavalia_acuminata,20.833333,-105.4
 1989299926,Canavalia_acuminata,21.1382,-104.903
 1259395001,Canavalia_acuminata,21.08611,-104.86666
 1421790866,Canavalia_acuminata,17.766667,-101.716667
@@ -41,7 +36,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988967663,Canavalia_acuminata,21.769,-104.886
 1896281971,Canavalia_acuminata,17.541667,-101.275
 1988926138,Canavalia_acuminata,19.4992,-105.039
-1895387926,Canavalia_acuminata,23.3,-106
 1259397665,Canavalia_acuminata,19.514167,-105.037778
 1895387979,Canavalia_acuminata,19.5105944762045,-104.98857372205
 1894903151,Canavalia_acuminata,19.5089273029202,-105.058575330186
@@ -58,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896281984,Canavalia_acuminata,17.263611,-94.623611
 1896281987,Canavalia_acuminata,17.2525,-94.612778
 1988938302,Canavalia_acuminata,19.4808,-104.64
-1260568008,Canavalia_acuminata,-0.88333,-77.8
 1989145745,Canavalia_acuminata,20.8508,-105.104
 1988868562,Canavalia_acuminata,19.0523,-104.294
 1260569718,Canavalia_acuminata,0.085,-76.9925
