@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935710799,Phyteuma_orbiculare,47.42167,14.60325
 1701153516,Phyteuma_orbiculare,44.059143,10.208277
 1842902259,Phyteuma_orbiculare,42.707,0.845
-1265892019,Phyteuma_orbiculare,42.6,0.02
 1571769013,Phyteuma_orbiculare,42.914861,-5.822933
 1233567464,Phyteuma_orbiculare,42.430133,19.763783
 1935710621,Phyteuma_orbiculare,45.45825,14.01869
@@ -110,7 +109,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1270042348,Phyteuma_orbiculare,47.517384,10.412415
 1270042164,Phyteuma_orbiculare,47.501362,10.411942
 1935710246,Phyteuma_orbiculare,47.49167,13.95722
-786211238,Phyteuma_orbiculare,47.5,10.4
 1936699292,Phyteuma_orbiculare,40.4263,-1.8554
 1135458675,Phyteuma_orbiculare,47.60361,15.08889
 1848988238,Phyteuma_orbiculare,48.88306,20.88889
@@ -126,11 +124,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851404676,Phyteuma_orbiculare,42.46184,-6.67954
 1935709878,Phyteuma_orbiculare,47.53106,15.03653
 1935710058,Phyteuma_orbiculare,47.77833,16.58278
-895198998,Phyteuma_orbiculare,40.712,0.2
 1935709867,Phyteuma_orbiculare,47.77917,16.58278
-895302410,Phyteuma_orbiculare,39.5,-0.85
 1935710856,Phyteuma_orbiculare,47.27729,14.35562
-1501109010,Phyteuma_orbiculare,40.71,0.2
 1935710788,Phyteuma_orbiculare,47.25858,14.34211
 1881990338,Phyteuma_orbiculare,48.87,10.97
 143005434,Phyteuma_orbiculare,42.259998,1.42
@@ -152,7 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1657197212,Phyteuma_orbiculare,48.10833,16.16278
 895165388,Phyteuma_orbiculare,40.075,-2.056
 1657197363,Phyteuma_orbiculare,47.57278,15.135
-1935708538,Phyteuma_orbiculare,47.61528,14.7
 1050628990,Phyteuma_orbiculare,41.79,-1.77
 2306499893,Phyteuma_orbiculare,47.31,2.83
 152943473,Phyteuma_orbiculare,46.499625,14.245274
@@ -160,11 +154,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318118634,Phyteuma_orbiculare,42.78,-0.23
 1935708445,Phyteuma_orbiculare,47.595,13.98333
 232590835,Phyteuma_orbiculare,38.456,-2.433
-1050619603,Phyteuma_orbiculare,42.8,-2.27
 1638416568,Phyteuma_orbiculare,46.50667,14.48667
 1851331617,Phyteuma_orbiculare,42.917,-5.824
 895247421,Phyteuma_orbiculare,39.105,-0.924
-1500868875,Phyteuma_orbiculare,39.1,-0.92
 1936521220,Phyteuma_orbiculare,40.7085,-2.0897
 1264995021,Phyteuma_orbiculare,47.123889,13.175556
 1936521362,Phyteuma_orbiculare,41.2913,-1.7951
@@ -198,15 +190,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936422679,Phyteuma_orbiculare,42.3148,2.6348
 895241445,Phyteuma_orbiculare,40.51,-2.11
 1050597821,Phyteuma_orbiculare,42.95,-0.71
-1050597763,Phyteuma_orbiculare,42.88,-0.7
 1705479083,Phyteuma_orbiculare,47.724,13.0117
 1851363989,Phyteuma_orbiculare,42.842,-5.576
 30884313,Phyteuma_orbiculare,38.490002,-2.54
-211634351,Phyteuma_orbiculare,43.049999,-6
 1851403179,Phyteuma_orbiculare,42.91,-5.76
 318118843,Phyteuma_orbiculare,40.41,-0.62
 1947375200,Phyteuma_orbiculare,50.43,9.76
-1053986450,Phyteuma_orbiculare,42.9,-1.21
 296517213,Phyteuma_orbiculare,47.577,13.132
 860317090,Phyteuma_orbiculare,42.684,0.4538
 30884312,Phyteuma_orbiculare,43.080002,-2.75
@@ -224,10 +213,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500700222,Phyteuma_orbiculare,40.71,0.18
 860310406,Phyteuma_orbiculare,42.75,0.98
 1936369439,Phyteuma_orbiculare,42.6784,0.6433
-895189868,Phyteuma_orbiculare,40.75,0.1
 204433350,Phyteuma_orbiculare,42.974998,-2.013
 204433349,Phyteuma_orbiculare,42.451,-1.133
-1053984798,Phyteuma_orbiculare,42.64,-1.2
 1050597750,Phyteuma_orbiculare,42.93,-0.75
 1050597758,Phyteuma_orbiculare,42.92,-0.75
 1053984741,Phyteuma_orbiculare,42.63,-1.14
@@ -245,7 +232,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936402005,Phyteuma_orbiculare,42.8535,-0.8472
 204433353,Phyteuma_orbiculare,42.988998,-1.007
 30883781,Phyteuma_orbiculare,43.16,-4.85
-30884307,Phyteuma_orbiculare,42.599998,-0.2
 204433354,Phyteuma_orbiculare,42.640999,-1.176
 204433355,Phyteuma_orbiculare,42.716,-1.431
 204433352,Phyteuma_orbiculare,42.950001,-0.836
@@ -257,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204433363,Phyteuma_orbiculare,42.564999,-1.52
 204433364,Phyteuma_orbiculare,42.537998,-1.52
 1288113683,Phyteuma_orbiculare,50.6321,9.92192
-1050597770,Phyteuma_orbiculare,42.6,-2.6
 1936172575,Phyteuma_orbiculare,41.2342,-3.2519
 1638420020,Phyteuma_orbiculare,47.84806,16.02222
 1848988086,Phyteuma_orbiculare,47.525,14.625
@@ -277,8 +262,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936131931,Phyteuma_orbiculare,41.2525,-3.061
 204433365,Phyteuma_orbiculare,43.009998,-6.36
 1936091793,Phyteuma_orbiculare,38.4491,-2.4397
-1851392224,Phyteuma_orbiculare,43,-6.24
-991907510,Phyteuma_orbiculare,44.1,7.8
 1936172192,Phyteuma_orbiculare,43.1478,-4.7968
 1936357420,Phyteuma_orbiculare,43.0152,-5.971
 204433324,Phyteuma_orbiculare,42.762001,-2.591
@@ -288,11 +271,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050597782,Phyteuma_orbiculare,42.68,-3.18
 1050597767,Phyteuma_orbiculare,42.16,-2.13
 1851370868,Phyteuma_orbiculare,43.02,-5.15
-1050597781,Phyteuma_orbiculare,42.6,-2.59
 1936357704,Phyteuma_orbiculare,42.5938,-2.5991
 1935710570,Phyteuma_orbiculare,46.77667,12.79083
 1936357603,Phyteuma_orbiculare,40.707,0.2763
-211633708,Phyteuma_orbiculare,43.220001,-4.7
 1935710579,Phyteuma_orbiculare,46.78194,12.78833
 211633713,Phyteuma_orbiculare,43.200001,-4.72
 211633709,Phyteuma_orbiculare,43.220001,-4.69
@@ -312,7 +293,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 296517200,Phyteuma_orbiculare,46.745556,12.606389
 211633706,Phyteuma_orbiculare,43.23,-4.98
 1050597766,Phyteuma_orbiculare,43.01,-2.03
-1947373968,Phyteuma_orbiculare,49.94,10.3
 860322282,Phyteuma_orbiculare,42.346,0.007
 1842870984,Phyteuma_orbiculare,42.75,0.86
 1936361009,Phyteuma_orbiculare,40.6534,-1.9722
@@ -323,7 +303,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053982267,Phyteuma_orbiculare,42.96,-0.92
 1936542959,Phyteuma_orbiculare,43.031747,-4.166119
 204433325,Phyteuma_orbiculare,42.977001,-2.344
-991907522,Phyteuma_orbiculare,47,12
 204433664,Phyteuma_orbiculare,42.68,-2.33
 1050597773,Phyteuma_orbiculare,42.61,-2.53
 1701544149,Phyteuma_orbiculare,42.40583,19.99278
@@ -331,7 +310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860322312,Phyteuma_orbiculare,42.298,-0.24
 1053981996,Phyteuma_orbiculare,43.02,0.34
 30884305,Phyteuma_orbiculare,41.009998,-3.59
-895152871,Phyteuma_orbiculare,38.5,-2.45
 2291093778,Phyteuma_orbiculare,47.133333,7.066667
 1936172688,Phyteuma_orbiculare,40.4639,-1.9397
 296517201,Phyteuma_orbiculare,46.733,12.647
@@ -341,12 +319,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 876155182,Phyteuma_orbiculare,42.66,0.86
 1936141380,Phyteuma_orbiculare,41.1894,-3.1205
 211634159,Phyteuma_orbiculare,43.240002,-6.09
-211634554,Phyteuma_orbiculare,43.049999,-6.3
 1050597790,Phyteuma_orbiculare,42.83,-3.22
 211634108,Phyteuma_orbiculare,43.130001,-5.36
 30887039,Phyteuma_orbiculare,38.490002,-2.43
 1050597784,Phyteuma_orbiculare,42.61,-2.62
-1050597764,Phyteuma_orbiculare,42.77,-2.6
 812029145,Phyteuma_orbiculare,50.565367,9.18395
 1053981685,Phyteuma_orbiculare,42.76,-1.77
 1848987985,Phyteuma_orbiculare,46.50889,14.36528
@@ -363,7 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935710839,Phyteuma_orbiculare,47.19802,15.46525
 1260852829,Phyteuma_orbiculare,46.58305,9.61666
 30884310,Phyteuma_orbiculare,42.689999,-0.44
-833456061,Phyteuma_orbiculare,50.2,6.416666
 1099058922,Phyteuma_orbiculare,47.599998,10.783334
 1842871050,Phyteuma_orbiculare,42.13,1.85
 1705471890,Phyteuma_orbiculare,46.85,13.33
@@ -381,7 +356,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1332791794,Phyteuma_orbiculare,50.5134,9.62408
 1705472424,Phyteuma_orbiculare,46.67,13.83
 812029151,Phyteuma_orbiculare,50.576483,9.190017
-1135455371,Phyteuma_orbiculare,47.01667,13.1
 1845010113,Phyteuma_orbiculare,46.702778,7.859444
 2306162574,Phyteuma_orbiculare,51.26,-0.32
 812029143,Phyteuma_orbiculare,50.55155,9.202117
@@ -393,10 +367,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1135455410,Phyteuma_orbiculare,46.96667,12.26667
 1264997433,Phyteuma_orbiculare,47.599722,13.168333
 1057550513,Phyteuma_orbiculare,50.952361,0.221594
-1842887602,Phyteuma_orbiculare,41.4,1.15
 812029142,Phyteuma_orbiculare,50.666883,9.15875
 317870428,Phyteuma_orbiculare,50.476944,9.1575
-786211543,Phyteuma_orbiculare,50.6,9.2
 1264998406,Phyteuma_orbiculare,47.26474,15.00108
 1056284111,Phyteuma_orbiculare,50.938472,-0.542201
 876155648,Phyteuma_orbiculare,42.14,2.33
@@ -405,7 +377,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313346133,Phyteuma_orbiculare,48.17,11.71
 2313345563,Phyteuma_orbiculare,48.07,11.54
 1935710569,Phyteuma_orbiculare,47.33278,15.405
-786213294,Phyteuma_orbiculare,47.6,10.6
 1264995407,Phyteuma_orbiculare,47.415,11.9475
 1264997014,Phyteuma_orbiculare,47.500833,14.932222
 2291574244,Phyteuma_orbiculare,46.65,7.916667
@@ -415,7 +386,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317824946,Phyteuma_orbiculare,42.6408,-3.0213
 14526298,Phyteuma_orbiculare,47.8808,2.76513
 1848911673,Phyteuma_orbiculare,38.19991,-6.122048
-437623629,Phyteuma_orbiculare,44.41667,6.9
 317824947,Phyteuma_orbiculare,42.49,2.09
 438622167,Phyteuma_orbiculare,48.43611,2.705
 1135455458,Phyteuma_orbiculare,42.45667,13.56083
