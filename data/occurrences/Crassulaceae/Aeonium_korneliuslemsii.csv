@@ -23,7 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994560991,Aeonium_korneliuslemsii,-43.03195,147.43437
 1091206156,Aeonium_korneliuslemsii,-43.733333,176.266666
 1843483147,Aeonium_korneliuslemsii,-43.731684,176.26684
-994559664,Aeonium_korneliuslemsii,-43,148
 1091273821,Aeonium_korneliuslemsii,-43.95,-176.55
 992056271,Aeonium_korneliuslemsii,-35.273333,136.893056
 996863803,Aeonium_korneliuslemsii,-33.840944,121.908222
@@ -36,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994542911,Aeonium_korneliuslemsii,-42.81529,147.31771
 318101478,Aeonium_korneliuslemsii,38.35,-0.63
 1936670230,Aeonium_korneliuslemsii,38.3457,-0.644
-1897775063,Aeonium_korneliuslemsii,-36.9,174.75
 992025601,Aeonium_korneliuslemsii,-34.32262,137.491381
 992025622,Aeonium_korneliuslemsii,-34.327,137.496
 1091310537,Aeonium_korneliuslemsii,-43.663,172.705
@@ -46,12 +44,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994513863,Aeonium_korneliuslemsii,-42.81529,147.36771
 996720478,Aeonium_korneliuslemsii,-35.02,117.95
 1701067650,Aeonium_korneliuslemsii,42.580947,10.075458
-318101267,Aeonium_korneliuslemsii,38.35,-0.4
 996665926,Aeonium_korneliuslemsii,-32.301564,115.704266
 996672896,Aeonium_korneliuslemsii,-31.951389,115.755833
-994768395,Aeonium_korneliuslemsii,-42.8,147.5333
-994486817,Aeonium_korneliuslemsii,-42.8,147.5
-318101305,Aeonium_korneliuslemsii,38.3,-0.52
 993470122,Aeonium_korneliuslemsii,-31.9514,115.7558
 1928166716,Aeonium_korneliuslemsii,34.43,-119.65
 1671640373,Aeonium_korneliuslemsii,42.329597,10.912186
@@ -61,7 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995158067,Aeonium_korneliuslemsii,-38.2833,144.5167
 895276720,Aeonium_korneliuslemsii,38.77,0.07
 1091301085,Aeonium_korneliuslemsii,-36.783333,175.076666
-1091149715,Aeonium_korneliuslemsii,-41.3,174.883333
 143003486,Aeonium_korneliuslemsii,36.77,-4.46
 415614859,Aeonium_korneliuslemsii,36.72269,-4.38929
 143003492,Aeonium_korneliuslemsii,28.379999,-16.629999
@@ -71,8 +64,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992468572,Aeonium_korneliuslemsii,-35.1862,138.6178
 993972209,Aeonium_korneliuslemsii,-35.1875,138.6167
 415614860,Aeonium_korneliuslemsii,36.73815,-4.35765
-995116082,Aeonium_korneliuslemsii,-38.3,144.3917
-992578763,Aeonium_korneliuslemsii,-38.3,144.4
 994599505,Aeonium_korneliuslemsii,-42.88195,147.31771
 143003487,Aeonium_korneliuslemsii,28.02,-15.61
 1261338217,Aeonium_korneliuslemsii,-16.533333,-68.083333
@@ -82,4 +73,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896050784,Aeonium_korneliuslemsii,34.3175,-119.268889
 1095638781,Aeonium_korneliuslemsii,-45.887,170.525
 85478607,Aeonium_korneliuslemsii,28.4002,-16.5415
-85476816,Aeonium_korneliuslemsii,39.7,2.71
