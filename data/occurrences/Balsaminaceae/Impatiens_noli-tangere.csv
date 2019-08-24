@@ -13,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831523138,Impatiens_noli-tangere,47.56389,13.63778
 1831523088,Impatiens_noli-tangere,47.56778,13.63111
 2242527232,Impatiens_noli-tangere,39.025394,141.134808
-1946679752,Impatiens_noli-tangere,49.5,8.7
 1829027401,Impatiens_noli-tangere,39.582161,141.483558
 1837901981,Impatiens_noli-tangere,51.332775,9.428056
 1829934007,Impatiens_noli-tangere,35.382432,139.215571
@@ -63,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702169383,Impatiens_noli-tangere,59.6993,11.9371
 1829640170,Impatiens_noli-tangere,36.081389,138.653056
 1697583459,Impatiens_noli-tangere,55.724483,37.37125
-1060487376,Impatiens_noli-tangere,51.6,10.8
 1801061177,Impatiens_noli-tangere,51.4925,104.241667
 1829511401,Impatiens_noli-tangere,37.677778,140.074167
 2287445365,Impatiens_noli-tangere,52.102933,6.287633
@@ -74,8 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829562804,Impatiens_noli-tangere,36.26226,140.33434
 1702175733,Impatiens_noli-tangere,59.8374,11.0079
 2317899965,Impatiens_noli-tangere,59.837371,11.00792
-899775602,Impatiens_noli-tangere,49.1,12.5
-1095918278,Impatiens_noli-tangere,59,17
 1988161438,Impatiens_noli-tangere,48.906,-121.682
 1702208456,Impatiens_noli-tangere,59.4671,11.2117
 1830123134,Impatiens_noli-tangere,35.54462,139.12953
@@ -103,7 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701276649,Impatiens_noli-tangere,63.2798,10.0419
 1829558357,Impatiens_noli-tangere,37.12113,139.71822
 1829558327,Impatiens_noli-tangere,37.28072,140.64471
-1830204320,Impatiens_noli-tangere,35.416667,137.7
 1209657872,Impatiens_noli-tangere,55.355152,-117.609393
 1828479702,Impatiens_noli-tangere,43.167,141.048
 388833851,Impatiens_noli-tangere,35.59074,139.203069
@@ -111,7 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1270040928,Impatiens_noli-tangere,50.959007,14.111579
 441766333,Impatiens_noli-tangere,48.5787,-121.77736
 1936204420,Impatiens_noli-tangere,45.4636,25.9461
-786172155,Impatiens_noli-tangere,49.1,12.4
 1598979133,Impatiens_noli-tangere,61.545074,21.626547
 388833852,Impatiens_noli-tangere,35.390772,139.553045
 1701656304,Impatiens_noli-tangere,59.6153,11.1111
@@ -125,7 +119,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323822683,Impatiens_noli-tangere,67.2347,15.425
 1323864813,Impatiens_noli-tangere,67.2609,15.352
 883428850,Impatiens_noli-tangere,53.5334989990988,-113.654917
-391292976,Impatiens_noli-tangere,37.772778,140
 1933897638,Impatiens_noli-tangere,43.966667,144.216667
 1948562998,Impatiens_noli-tangere,61.856679,24.099278
 391292845,Impatiens_noli-tangere,37.675,140.109167
@@ -137,7 +130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697809601,Impatiens_noli-tangere,43.65,40.155556
 1829854845,Impatiens_noli-tangere,35.139731,139.076615
 2244449509,Impatiens_noli-tangere,36.55,137.166667
-391292885,Impatiens_noli-tangere,37.4,140.083333
 391292817,Impatiens_noli-tangere,37.684444,140.074167
 1701655954,Impatiens_noli-tangere,59.3733,11.0153
 1702268676,Impatiens_noli-tangere,59.4082,11.735
@@ -156,23 +148,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 391292768,Impatiens_noli-tangere,37.660278,140.109722
 1062919476,Impatiens_noli-tangere,51.605339,11.134572
 1934155630,Impatiens_noli-tangere,37.066667,139.933333
-786172214,Impatiens_noli-tangere,48.4,9.8
 1702238080,Impatiens_noli-tangere,59.2969,9.9569
 1829619728,Impatiens_noli-tangere,36.883056,139.359444
 1702268620,Impatiens_noli-tangere,59.6494,10.9916
 1829621899,Impatiens_noli-tangere,36.480556,138.785278
 1701343992,Impatiens_noli-tangere,63.6352,11.2505
 1828480073,Impatiens_noli-tangere,43.168,140.993
-786172322,Impatiens_noli-tangere,53.7,10.3
-786172210,Impatiens_noli-tangere,48.5,9.4
 442022146,Impatiens_noli-tangere,51.152405,14.585331
 12763579,Impatiens_noli-tangere,49.0869,3.94082
 442022147,Impatiens_noli-tangere,48.708355,9.10659
-786172190,Impatiens_noli-tangere,47.8,9.8
 1830677825,Impatiens_noli-tangere,33.816667,133.383333
 684326254,Impatiens_noli-tangere,50.829281,12.999494
 1999606458,Impatiens_noli-tangere,60.489044,22.690098
-786172279,Impatiens_noli-tangere,51,14.1
 395771199,Impatiens_noli-tangere,35.149167,134.157222
 1705351832,Impatiens_noli-tangere,57.7701,16.158077
 373739331,Impatiens_noli-tangere,60.488998,22.6901
@@ -219,13 +206,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204431150,Impatiens_noli-tangere,42.84,0.86
 1323821244,Impatiens_noli-tangere,67.1231,15.0216
 728979363,Impatiens_noli-tangere,51.744436,6.031545
-786172182,Impatiens_noli-tangere,54,12.2
 788417637,Impatiens_noli-tangere,55.50666,13.90202
 238094444,Impatiens_noli-tangere,37.65,140.383333
 381815267,Impatiens_noli-tangere,36.55079,140.41856
 395771153,Impatiens_noli-tangere,35.183889,134.134722
 1935696923,Impatiens_noli-tangere,47.28472,15.95861
-1830688091,Impatiens_noli-tangere,33.466667,133
 1830687977,Impatiens_noli-tangere,33.483333,133.066667
 1933837422,Impatiens_noli-tangere,35.9678,136.9747
 574845229,Impatiens_noli-tangere,42.539444,141.955
@@ -271,7 +256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701315802,Impatiens_noli-tangere,63.6675,10.182
 395771080,Impatiens_noli-tangere,35.168333,134.116389
 1146247350,Impatiens_noli-tangere,58.793217,-136.073567
-238094450,Impatiens_noli-tangere,37,140
 381815164,Impatiens_noli-tangere,36.59924,140.6537
 21027530,Impatiens_noli-tangere,60.4924,11.0194
 1701839443,Impatiens_noli-tangere,62.7583,8.3156
@@ -317,7 +301,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701829173,Impatiens_noli-tangere,59.5861,11.187
 1598979142,Impatiens_noli-tangere,62.244977,25.746254
 1702191977,Impatiens_noli-tangere,59.6744,10.7489
-991896122,Impatiens_noli-tangere,47.8,9.1
 1702173890,Impatiens_noli-tangere,60.6731,11.146
 1701832088,Impatiens_noli-tangere,60.6687,11.142
 395770992,Impatiens_noli-tangere,35.124167,133.611667
@@ -334,7 +317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729296032,Impatiens_noli-tangere,34.75,135.25
 1697583589,Impatiens_noli-tangere,57.823526,40.915368
 395770939,Impatiens_noli-tangere,35.133333,133.674444
-1988183121,Impatiens_noli-tangere,54.92,-121
 1697583661,Impatiens_noli-tangere,56.360279,45.142199
 388833742,Impatiens_noli-tangere,35.6324,139.190569
 1658228867,Impatiens_noli-tangere,56.2833,-121.225
@@ -354,13 +336,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381815053,Impatiens_noli-tangere,36.47508,140.37106
 1342588573,Impatiens_noli-tangere,55.546614,11.843997
 1638404359,Impatiens_noli-tangere,48.26111,14.38472
-1988177979,Impatiens_noli-tangere,49.1,-122
 1697583470,Impatiens_noli-tangere,59.961701,38.477512
-1949618927,Impatiens_noli-tangere,49.15,-122
 1702160655,Impatiens_noli-tangere,59.5588,11.3137
 2306495939,Impatiens_noli-tangere,49.08,-121.95
 1949619000,Impatiens_noli-tangere,49.083333,-121.95
-1988228098,Impatiens_noli-tangere,49.2,-122
 204380993,Impatiens_noli-tangere,34.54811,135.96527
 895168841,Impatiens_noli-tangere,60.13,23.53
 1999488921,Impatiens_noli-tangere,60.247977,24.044051
@@ -378,7 +357,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701989281,Impatiens_noli-tangere,60.2321,11.8415
 388833693,Impatiens_noli-tangere,35.515749,139.453049
 1599340264,Impatiens_noli-tangere,63.160812,21.764479
-786172218,Impatiens_noli-tangere,53.9,10.7
 729272807,Impatiens_noli-tangere,35.400002,134.89999
 1697583512,Impatiens_noli-tangere,54.80119,40.874876
 684326255,Impatiens_noli-tangere,48.776112,9.179722
@@ -396,7 +374,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701785575,Impatiens_noli-tangere,59.3716,9.1812
 1701796196,Impatiens_noli-tangere,59.4019,11.65
 1701312082,Impatiens_noli-tangere,63.6733,10.2095
-1146238695,Impatiens_noli-tangere,64.8,-147.1
 1829628619,Impatiens_noli-tangere,36.655,139.056111
 1230862039,Impatiens_noli-tangere,48.37278,14.25139
 388833725,Impatiens_noli-tangere,35.60741,139.590536
@@ -408,7 +385,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729276660,Impatiens_noli-tangere,34.783298,134.233
 1999606435,Impatiens_noli-tangere,60.598668,23.336108
 1697269173,Impatiens_noli-tangere,62.27511,89.02897
-1146262913,Impatiens_noli-tangere,61.24,-149.7
 21026884,Impatiens_noli-tangere,59.41,11.7369
 1988151259,Impatiens_noli-tangere,49.78,-117.15
 1999606443,Impatiens_noli-tangere,60.579752,23.301731
@@ -452,12 +428,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702383126,Impatiens_noli-tangere,60.8621,10.8125
 1701913136,Impatiens_noli-tangere,60.8666,10.8772
 2288611355,Impatiens_noli-tangere,42.95,0.533333
-1830163179,Impatiens_noli-tangere,36.4,137.033333
 1598979125,Impatiens_noli-tangere,60.878936,24.585489
 729331728,Impatiens_noli-tangere,35.3853,134.50101
 729291130,Impatiens_noli-tangere,34.668598,134.536
 57700947,Impatiens_noli-tangere,61.773899,25.7558
-786172255,Impatiens_noli-tangere,48.8,8.2
 204380996,Impatiens_noli-tangere,34.49162,135.95116
 57701005,Impatiens_noli-tangere,60.854599,26.601299
 729314864,Impatiens_noli-tangere,35.4333,134.567
@@ -472,7 +446,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598979121,Impatiens_noli-tangere,60.986064,24.361107
 788414226,Impatiens_noli-tangere,55.82781,14.11617
 1830184285,Impatiens_noli-tangere,36.533333,137.55
-1697335199,Impatiens_noli-tangere,47.5,119.1
 729286824,Impatiens_noli-tangere,35.233299,134.483
 1598979122,Impatiens_noli-tangere,61.022116,24.509848
 1701836196,Impatiens_noli-tangere,59.9296,10.3507
@@ -493,10 +466,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999488961,Impatiens_noli-tangere,60.488266,22.693844
 1598982187,Impatiens_noli-tangere,62.759881,21.545451
 1697269258,Impatiens_noli-tangere,61.17616,72.52985
-729286552,Impatiens_noli-tangere,35.1833,134.5
 295911489,Impatiens_noli-tangere,35.21578,139.003099
 1701358860,Impatiens_noli-tangere,61.1711,11.3341
-1122936416,Impatiens_noli-tangere,48,11.3
 1598979120,Impatiens_noli-tangere,61.013456,24.527175
 729320483,Impatiens_noli-tangere,34.799999,133.433
 1576175224,Impatiens_noli-tangere,5.285891,-75.590098
@@ -513,7 +484,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598979099,Impatiens_noli-tangere,60.212924,23.983132
 1598979102,Impatiens_noli-tangere,61.056118,24.316377
 1598979106,Impatiens_noli-tangere,62.637766,27.52007
-1697269203,Impatiens_noli-tangere,51.7,134.466667
 1598979108,Impatiens_noli-tangere,61.013958,24.341215
 1697269158,Impatiens_noli-tangere,51.666667,134.55
 1598979105,Impatiens_noli-tangere,60.270871,23.867492
@@ -526,11 +496,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701227429,Impatiens_noli-tangere,62.9388,10.1919
 1701567129,Impatiens_noli-tangere,63.0366,10.2947
 1598979101,Impatiens_noli-tangere,61.096491,24.225773
-1801075275,Impatiens_noli-tangere,60,-149.5
 1830212802,Impatiens_noli-tangere,43.45053,144.24702
 295911455,Impatiens_noli-tangere,35.515749,139.20307
 1830161992,Impatiens_noli-tangere,36.516667,136.95
-1830176023,Impatiens_noli-tangere,36.433333,136.8
 729286475,Impatiens_noli-tangere,35.133301,134.05
 1949600809,Impatiens_noli-tangere,54.416667,-126.883333
 295911433,Impatiens_noli-tangere,35.390756,139.040587
@@ -540,7 +508,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2305680510,Impatiens_noli-tangere,49.31,-121.41
 1598979095,Impatiens_noli-tangere,65.429328,26.454468
 1697269152,Impatiens_noli-tangere,61.82963,89.38769
-1830188369,Impatiens_noli-tangere,36.6,137.383333
 1999582593,Impatiens_noli-tangere,60.371645,22.315342
 1701309697,Impatiens_noli-tangere,63.3948,10.3909
 1697269189,Impatiens_noli-tangere,51.733333,134.55
@@ -560,7 +527,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030774847,Impatiens_noli-tangere,29.990847,109.484961
 1030774860,Impatiens_noli-tangere,29.887732,110.032936
 186813966,Impatiens_noli-tangere,58.8837,9.0182
-1697335109,Impatiens_noli-tangere,47.083333,119.5
 187992220,Impatiens_noli-tangere,35.457424,139.278065
 1598979092,Impatiens_noli-tangere,61.592618,22.615643
 1598979091,Impatiens_noli-tangere,60.869121,24.691192
@@ -569,7 +535,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598979085,Impatiens_noli-tangere,61.01173,24.53101
 824345,Impatiens_noli-tangere,57.100382,15.178909
 1598979082,Impatiens_noli-tangere,60.812668,23.459699
-2268553591,Impatiens_noli-tangere,54.2,13.2
 1697583444,Impatiens_noli-tangere,57.456771,25.80946
 1999488870,Impatiens_noli-tangere,60.86198,21.777044
 1697583435,Impatiens_noli-tangere,57.213288,26.698494
@@ -583,7 +548,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 393101547,Impatiens_noli-tangere,36.0085,139.08423
 1598979083,Impatiens_noli-tangere,61.029485,24.424131
 1598979140,Impatiens_noli-tangere,61.477586,23.329878
-1830175469,Impatiens_noli-tangere,35.8,138.516667
 1598982186,Impatiens_noli-tangere,60.495128,26.442003
 367096999,Impatiens_noli-tangere,46.893806,12.647806
 1999582589,Impatiens_noli-tangere,60.378697,23.292815
@@ -594,7 +558,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830212675,Impatiens_noli-tangere,36.72582,140.15868
 187992232,Impatiens_noli-tangere,35.490748,139.053086
 1705396380,Impatiens_noli-tangere,58.011413,16.228107
-1701345315,Impatiens_noli-tangere,63.1,10.2381
 1705349870,Impatiens_noli-tangere,56.973424,14.571957
 991865724,Impatiens_noli-tangere,54.0484,12.4151
 1598979087,Impatiens_noli-tangere,61.207693,27.963301
@@ -611,7 +574,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598979084,Impatiens_noli-tangere,60.663269,27.975351
 1830174526,Impatiens_noli-tangere,36.683333,137.516667
 1705396436,Impatiens_noli-tangere,58.020334,16.245133
-1830186998,Impatiens_noli-tangere,36.283333,137.2
 1598979090,Impatiens_noli-tangere,63.334636,29.645273
 1830158906,Impatiens_noli-tangere,36.583333,137.416667
 393101544,Impatiens_noli-tangere,36.02119,139.00264
@@ -683,11 +645,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697269153,Impatiens_noli-tangere,62.45779,88.9093
 187181578,Impatiens_noli-tangere,63.342,10.2685
 1697269194,Impatiens_noli-tangere,63.11422,87.92017
-1949614221,Impatiens_noli-tangere,58.8,-122.716667
 187992225,Impatiens_noli-tangere,35.399088,138.915603
 2333941658,Impatiens_noli-tangere,62.999629,8.933871
 1697269135,Impatiens_noli-tangere,54.880035,160.889591
-1146344722,Impatiens_noli-tangere,58.3,-134.4
 2310218321,Impatiens_noli-tangere,52.73,-3.97
 381815682,Impatiens_noli-tangere,36.75233,139.58623
 1598979080,Impatiens_noli-tangere,61.860121,24.051559
@@ -713,7 +673,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701777808,Impatiens_noli-tangere,65.6451,12.5765
 1702409086,Impatiens_noli-tangere,59.2766,11.0206
 1455437721,Impatiens_noli-tangere,49.755188,5.26399
-1988086462,Impatiens_noli-tangere,51.7,-120
 1949568323,Impatiens_noli-tangere,53.926389,-121.452778
 1598982182,Impatiens_noli-tangere,62.518983,27.482227
 1146343314,Impatiens_noli-tangere,57.88,-133.61
@@ -733,10 +692,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702285481,Impatiens_noli-tangere,61.2167,10.1822
 442114641,Impatiens_noli-tangere,40.799999,44.483334
 1703294035,Impatiens_noli-tangere,50.8687786749148,-100.050888580575
-1949614404,Impatiens_noli-tangere,53.75,-121.2
 187180732,Impatiens_noli-tangere,64.0726,11.9011
 883390680,Impatiens_noli-tangere,50.88,-100.053333
-883390679,Impatiens_noli-tangere,56.8,-114.583333
 1598979070,Impatiens_noli-tangere,63.247387,28.021636
 1144130447,Impatiens_noli-tangere,61.5312,6.5834
 1144130758,Impatiens_noli-tangere,62.199,7.4337
@@ -763,7 +720,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949554142,Impatiens_noli-tangere,54.383333,-128.55
 442114637,Impatiens_noli-tangere,55.433334,56.583332
 883390683,Impatiens_noli-tangere,55.45,-114.583333
-1988155232,Impatiens_noli-tangere,51.42,-120.2
 2290865342,Impatiens_noli-tangere,47.166667,7.35
 1697269185,Impatiens_noli-tangere,61.02923,89.61473
 186813965,Impatiens_noli-tangere,60.5631,6.6925
@@ -832,7 +788,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697583522,Impatiens_noli-tangere,54.802039,41.743495
 1668934776,Impatiens_noli-tangere,54.914,37.578
 1099873600,Impatiens_noli-tangere,61.129444,22.130833
-1146304394,Impatiens_noli-tangere,58.3,-134.41
 1701966412,Impatiens_noli-tangere,63.3361,9.8688
 216099846,Impatiens_noli-tangere,62.876999,27.684401
 1697583570,Impatiens_noli-tangere,54.390199,37.631046
@@ -840,7 +795,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900318505,Impatiens_noli-tangere,60.5138,10.3021
 1598982203,Impatiens_noli-tangere,62.128951,24.025447
 1288108517,Impatiens_noli-tangere,50.4556,10.0541
-1988093559,Impatiens_noli-tangere,49.3,-121.6
 187181031,Impatiens_noli-tangere,59.92,10.5382
 1702285451,Impatiens_noli-tangere,61.2991,9.9799
 1701262387,Impatiens_noli-tangere,63.0407,9.7216
@@ -859,7 +813,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323756711,Impatiens_noli-tangere,61.32771,10.51106
 1705396375,Impatiens_noli-tangere,57.813062,16.427674
 1323829235,Impatiens_noli-tangere,64.48175,11.91558
-2244448286,Impatiens_noli-tangere,36.4,137.066667
 1828822261,Impatiens_noli-tangere,36.302711,136.314575
 1598982175,Impatiens_noli-tangere,61.076744,25.208899
 1323829076,Impatiens_noli-tangere,67.1536,14.9423
@@ -873,13 +826,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598982209,Impatiens_noli-tangere,61.209777,23.181522
 1598979047,Impatiens_noli-tangere,61.365702,22.413523
 1598982174,Impatiens_noli-tangere,61.441996,22.026732
-1099022534,Impatiens_noli-tangere,45.166668,26
 381815463,Impatiens_noli-tangere,36.60202,140.646
 1829883431,Impatiens_noli-tangere,37.067111,139.924722
 1701325759,Impatiens_noli-tangere,63.1842,9.745
-1249267575,Impatiens_noli-tangere,50.6,6.9
 1323829036,Impatiens_noli-tangere,67.2198,15.5902
-1988219265,Impatiens_noli-tangere,58.8,-122.7
 1702171249,Impatiens_noli-tangere,59.1221,11.3672
 1702265671,Impatiens_noli-tangere,60.384,7.156
 1702265701,Impatiens_noli-tangere,67.2313,15.6367
@@ -912,11 +862,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829784115,Impatiens_noli-tangere,35.70809,139.32536
 1598979050,Impatiens_noli-tangere,60.530647,27.643499
 1701673398,Impatiens_noli-tangere,59.2161,10.7955
-1829421312,Impatiens_noli-tangere,42.7,143.1
 1144130384,Impatiens_noli-tangere,61.7078,6.4182
 1701866509,Impatiens_noli-tangere,64.53678,12.57728
 1598982169,Impatiens_noli-tangere,61.259684,25.972062
-1099867693,Impatiens_noli-tangere,55.216667,9.4
 1598982165,Impatiens_noli-tangere,61.567921,23.137512
 1099022581,Impatiens_noli-tangere,48.947498,12.915277
 1598982160,Impatiens_noli-tangere,61.30932,23.543084
@@ -924,9 +872,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598979042,Impatiens_noli-tangere,61.167826,24.701907
 1701760396,Impatiens_noli-tangere,63.7605,11.3722
 1701569538,Impatiens_noli-tangere,63.3327,10.308
-786172347,Impatiens_noli-tangere,50.5,7
 1622360210,Impatiens_noli-tangere,62.581185,21.251674
-991896120,Impatiens_noli-tangere,50.6,7
 1829839510,Impatiens_noli-tangere,35.697,138.269111
 1099022580,Impatiens_noli-tangere,48.969444,13.128333
 1598979059,Impatiens_noli-tangere,61.191443,24.514162
@@ -950,11 +896,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598982155,Impatiens_noli-tangere,61.691844,24.634795
 381815470,Impatiens_noli-tangere,36.80775,140.73969
 1999488848,Impatiens_noli-tangere,60.272632,22.938493
-1099906822,Impatiens_noli-tangere,65.433333,26.5
 1598982158,Impatiens_noli-tangere,65.389394,26.458707
 1598982207,Impatiens_noli-tangere,62.155271,25.749967
 1042987242,Impatiens_noli-tangere,57.3787,12.3237
-1144130914,Impatiens_noli-tangere,65.4333,26.5
 1828822480,Impatiens_noli-tangere,36.276626,136.689565
 1099015052,Impatiens_noli-tangere,48.466667,10.366667
 1702284555,Impatiens_noli-tangere,60.1176,10.8804
@@ -980,7 +924,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830627665,Impatiens_noli-tangere,33.820586,133.910383
 1702265674,Impatiens_noli-tangere,60.086,10.5459
 1598979039,Impatiens_noli-tangere,61.684803,24.257333
-786172318,Impatiens_noli-tangere,51.9,10.3
 1701340047,Impatiens_noli-tangere,64.4721,11.7562
 1099022587,Impatiens_noli-tangere,48.372501,10.364722
 1978366766,Impatiens_noli-tangere,54.063067,45.887104
@@ -1037,11 +980,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598982149,Impatiens_noli-tangere,61.254298,25.413234
 1099022573,Impatiens_noli-tangere,47.283333,12.766666
 1701673532,Impatiens_noli-tangere,59.5795,11.5497
-786172300,Impatiens_noli-tangere,47.2,12.7
 1598982142,Impatiens_noli-tangere,61.752205,23.303949
 1829599707,Impatiens_noli-tangere,36.725556,138.888889
 1099022561,Impatiens_noli-tangere,47.516666,9.766666
-786172311,Impatiens_noli-tangere,47.3,12.8
 1598982144,Impatiens_noli-tangere,61.582708,23.701105
 1042987274,Impatiens_noli-tangere,58.1906,11.6205
 1099022562,Impatiens_noli-tangere,49.017223,12.095834
@@ -1068,10 +1009,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598982138,Impatiens_noli-tangere,61.252077,28.766919
 1999488853,Impatiens_noli-tangere,60.128021,23.541692
 1598979020,Impatiens_noli-tangere,61.251408,22.626021
-1829606923,Impatiens_noli-tangere,36.5,138.5
 1598982132,Impatiens_noli-tangere,61.556773,22.762147
 1829856343,Impatiens_noli-tangere,43.799332,142.718852
-786172294,Impatiens_noli-tangere,50.6,7.2
 1598982195,Impatiens_noli-tangere,61.578037,23.513172
 1598982135,Impatiens_noli-tangere,60.167438,24.745248
 1999488845,Impatiens_noli-tangere,60.211207,23.63221
@@ -1195,7 +1134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999488896,Impatiens_noli-tangere,60.374996,22.490072
 57700963,Impatiens_noli-tangere,61.056198,25.024799
 318681924,Impatiens_noli-tangere,59.421651,11.316125
-1830152049,Impatiens_noli-tangere,36.4,137.1
 1701243249,Impatiens_noli-tangere,64.1406,11.713
 788417866,Impatiens_noli-tangere,55.787764,13.837882
 1598982118,Impatiens_noli-tangere,61.591275,24.077154
@@ -1212,9 +1150,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883390648,Impatiens_noli-tangere,55.3666669991184,-115.033333
 216099831,Impatiens_noli-tangere,62.4216,25.9419
 2284154214,Impatiens_noli-tangere,36.58,137.17
-1829608528,Impatiens_noli-tangere,36.2,138.7
 1598979005,Impatiens_noli-tangere,62.671388,29.563434
-1829610261,Impatiens_noli-tangere,36.1,138.9
 788435606,Impatiens_noli-tangere,62.476066,17.315787
 1949500545,Impatiens_noli-tangere,54.066667,-122.466667
 1829597403,Impatiens_noli-tangere,36.550278,139.323611
@@ -1232,7 +1168,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702310192,Impatiens_noli-tangere,58.9696,11.4958
 1622360280,Impatiens_noli-tangere,62.491912,21.268914
 1701220930,Impatiens_noli-tangere,63.0294,10.2747
-1829605683,Impatiens_noli-tangere,36.5,139.2
 1084020894,Impatiens_noli-tangere,54.3484,12.4151
 1999606418,Impatiens_noli-tangere,59.987204,23.65502
 388833512,Impatiens_noli-tangere,35.833759,139.080157
@@ -1254,7 +1189,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702326079,Impatiens_noli-tangere,58.8859,9.0173
 441766121,Impatiens_noli-tangere,60.133333,-149.416667
 824391,Impatiens_noli-tangere,57.28219,14.35088
-1988072044,Impatiens_noli-tangere,60.1,-149.4
 1893209259,Impatiens_noli-tangere,49.85,6.36
 1701454293,Impatiens_noli-tangere,59.3791,11.2089
 1598982109,Impatiens_noli-tangere,60.951002,23.582062
@@ -1322,7 +1256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099898854,Impatiens_noli-tangere,57.65848,14.05547
 1701965301,Impatiens_noli-tangere,63.3138,9.8382
 1701567878,Impatiens_noli-tangere,61.52828,7.56571
-1988082297,Impatiens_noli-tangere,50.93,-118.8
 883393470,Impatiens_noli-tangere,54.366667,-115.083333
 1697269228,Impatiens_noli-tangere,67.43247,86.66003
 788417672,Impatiens_noli-tangere,59.654072,12.569092
@@ -1341,7 +1274,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788417796,Impatiens_noli-tangere,55.92788,13.966278
 1042987213,Impatiens_noli-tangere,56.4335,12.8352
 1099022567,Impatiens_noli-tangere,49.510555,11.435278
-1146364575,Impatiens_noli-tangere,61.5,-149.03
 1598978997,Impatiens_noli-tangere,63.524905,22.472251
 1042987290,Impatiens_noli-tangere,58.1045,11.847
 1042987265,Impatiens_noli-tangere,57.8563,11.9943
@@ -1362,10 +1294,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702265580,Impatiens_noli-tangere,62.65769,8.70421
 1804422596,Impatiens_noli-tangere,53.033333,-122.616667
 1323829094,Impatiens_noli-tangere,66.1883,13.7125
-1949468460,Impatiens_noli-tangere,53.016667,-122.6
 1702420965,Impatiens_noli-tangere,59.4212,11.3703
 1988169483,Impatiens_noli-tangere,49.18,-121.74
-1949465588,Impatiens_noli-tangere,49.2,-121.733333
 1701874230,Impatiens_noli-tangere,60.3882,10.4332
 788417979,Impatiens_noli-tangere,55.672901,13.552304
 388833685,Impatiens_noli-tangere,35.84181,139.044327
@@ -1375,8 +1305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788419945,Impatiens_noli-tangere,59.39918,15.80128
 1042987345,Impatiens_noli-tangere,59.5196,15.0403
 1701436387,Impatiens_noli-tangere,60.54419,6.66526
-1988140195,Impatiens_noli-tangere,49.5,-117.29
-1988216626,Impatiens_noli-tangere,58.81,-122.7
 1042987259,Impatiens_noli-tangere,57.6815,12.2081
 1099022576,Impatiens_noli-tangere,48.97139,10.4575
 1042987326,Impatiens_noli-tangere,57.7758,12.2828
@@ -1407,7 +1335,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702265681,Impatiens_noli-tangere,60.2058,9.6314
 824812,Impatiens_noli-tangere,57.67801,14.08041
 788421086,Impatiens_noli-tangere,60.36569,15.73539
-1988088748,Impatiens_noli-tangere,49.39,-121.4
 788655259,Impatiens_noli-tangere,56.433477,12.835168
 1705420629,Impatiens_noli-tangere,57.70472,14.117037
 1701662787,Impatiens_noli-tangere,59.6656,10.7662
@@ -1484,7 +1411,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598982090,Impatiens_noli-tangere,61.431381,25.216838
 1701866476,Impatiens_noli-tangere,61.1434,6.7525
 1702284670,Impatiens_noli-tangere,60.3186,11.245
-1893208020,Impatiens_noli-tangere,49.9,6.08
 1702210780,Impatiens_noli-tangere,59.428,11.4397
 1701873898,Impatiens_noli-tangere,59.9495,11.0141
 1598982094,Impatiens_noli-tangere,61.31394,23.729411
@@ -1495,7 +1421,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697809594,Impatiens_noli-tangere,39.765798,46.73687
 1099022569,Impatiens_noli-tangere,47.569168,10.702778
 1702265723,Impatiens_noli-tangere,59.6807,10.5272
-1949473033,Impatiens_noli-tangere,53,-122.5
 1042987263,Impatiens_noli-tangere,57.7083,11.6448
 1702265680,Impatiens_noli-tangere,61.3457,7.4018
 1891595563,Impatiens_noli-tangere,49.81,6.42
@@ -1515,7 +1440,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701873884,Impatiens_noli-tangere,59.8902,11.5825
 1705427303,Impatiens_noli-tangere,56.305579,12.850521
 1702284568,Impatiens_noli-tangere,59.6769,10.5892
-1099022544,Impatiens_noli-tangere,57,25.833334
 1622360239,Impatiens_noli-tangere,61.243538,24.66856
 57700935,Impatiens_noli-tangere,60.8876,24.5931
 1702265644,Impatiens_noli-tangere,61.6846,6.3824
@@ -1545,12 +1469,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146364746,Impatiens_noli-tangere,61.53,-149.23
 187180755,Impatiens_noli-tangere,62.9388,9.7684
 883390661,Impatiens_noli-tangere,56.2485,-120.8351
-1697269188,Impatiens_noli-tangere,50.833333,113.3
 1323829165,Impatiens_noli-tangere,65.4149,12.5008
 788417180,Impatiens_noli-tangere,58.90582,11.938271
 1702265699,Impatiens_noli-tangere,64.09835,11.76978
 1144190986,Impatiens_noli-tangere,63.29955,9.71096
-786172240,Impatiens_noli-tangere,48.5,9.6
 788417484,Impatiens_noli-tangere,57.837675,13.281254
 1701436407,Impatiens_noli-tangere,59.879,8.5981
 1701220870,Impatiens_noli-tangere,63.1196,10.2192
@@ -1605,7 +1527,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829596554,Impatiens_noli-tangere,36.484167,139.260278
 1702284565,Impatiens_noli-tangere,59.53,10.6999
 788760903,Impatiens_noli-tangere,56.20606,12.80831
-2284183894,Impatiens_noli-tangere,64,-150.33
 1144129832,Impatiens_noli-tangere,59.56058,10.73151
 1705294189,Impatiens_noli-tangere,56.428889,12.863916
 825046,Impatiens_noli-tangere,57.787732,14.27369
@@ -1626,7 +1547,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788417604,Impatiens_noli-tangere,59.27273,15.21436
 1065680015,Impatiens_noli-tangere,63.838418,20.131774
 1697583610,Impatiens_noli-tangere,55.893706,37.376031
-1146367786,Impatiens_noli-tangere,62.2,-159.76
 1705397712,Impatiens_noli-tangere,56.646843,14.915187
 1042987276,Impatiens_noli-tangere,59.0261,11.2301
 824814,Impatiens_noli-tangere,56.73878,14.56284
@@ -1699,12 +1619,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705283901,Impatiens_noli-tangere,56.410965,12.741598
 1042987299,Impatiens_noli-tangere,58.7625,12.033
 788417639,Impatiens_noli-tangere,55.707689,13.963167
-1988067121,Impatiens_noli-tangere,49.1999999990671,-121.7
 1949453244,Impatiens_noli-tangere,53.916667,-122.75
 1099022568,Impatiens_noli-tangere,47.648335,12.174444
 1598979188,Impatiens_noli-tangere,62.246581,25.938612
 1303789741,Impatiens_noli-tangere,34.264878,108.94426
-1988086029,Impatiens_noli-tangere,55.1999999991165,-127.6
 1999606419,Impatiens_noli-tangere,61.424586,22.99571
 1701436317,Impatiens_noli-tangere,63.64775,10.50138
 1701436382,Impatiens_noli-tangere,60.5227,6.7153
@@ -1766,7 +1684,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697583743,Impatiens_noli-tangere,54.682667,55.995215
 1701654857,Impatiens_noli-tangere,65.847,13.2258
 1702265653,Impatiens_noli-tangere,60.8255,7.1059
-786172167,Impatiens_noli-tangere,48.4,18.3
 1622360219,Impatiens_noli-tangere,60.359155,25.638146
 1705336289,Impatiens_noli-tangere,58.270577,15.739245
 1598979174,Impatiens_noli-tangere,60.893194,25.246966
@@ -1810,7 +1727,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788418015,Impatiens_noli-tangere,56.1157,13.103152
 824346,Impatiens_noli-tangere,57.65202,14.84716
 1598978981,Impatiens_noli-tangere,61.676722,23.880081
-1988109560,Impatiens_noli-tangere,49.0999999990666,-118.7
 812026397,Impatiens_noli-tangere,50.545067,9.897917
 1999646951,Impatiens_noli-tangere,61.249119,21.683942
 1697583718,Impatiens_noli-tangere,55.417531,55.530707
