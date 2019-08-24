@@ -16,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697316116,Hydrilla_verticillata,53.7504,127.3061
 1258074851,Hydrilla_verticillata,37.574764,-92.976397
 1258081212,Hydrilla_verticillata,38.658583,-90.479694
-1253912859,Hydrilla_verticillata,9.973621,-84.093933
 1652387862,Hydrilla_verticillata,-27.499197,153.016492
 1585304009,Hydrilla_verticillata,13.62028,-88.713
 2268823575,Hydrilla_verticillata,13.620278,-88.712778
@@ -65,9 +64,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768798503,Hydrilla_verticillata,28.28966,-81.40538
 415949098,Hydrilla_verticillata,-28.47069,153.30286
 415985096,Hydrilla_verticillata,-28.83666,153.435
-415985097,Hydrilla_verticillata,-28.63777,158.34666
 996213070,Hydrilla_verticillata,-28.568,153.465
-996023875,Hydrilla_verticillata,-28.6379,158.347
 996023862,Hydrilla_verticillata,-28.8365,153.435
 415985100,Hydrilla_verticillata,-16.12,128.73694
 996023579,Hydrilla_verticillata,-15.5494,128.26
@@ -97,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230838380,Hydrilla_verticillata,8.7,-83.2
 1652366991,Hydrilla_verticillata,-19.950833,145.620278
 1849131058,Hydrilla_verticillata,32.9761,-79.9921
-415954400,Hydrilla_verticillata,-28.63786,153.55553
 415954401,Hydrilla_verticillata,-28.83655,153.43493
 415954399,Hydrilla_verticillata,-28.56833,153.46468
 1424783204,Hydrilla_verticillata,45,-90
@@ -108,7 +104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768798509,Hydrilla_verticillata,38.1125,-77.83122
 1652292611,Hydrilla_verticillata,-20.571428,148.476996
 415954280,Hydrilla_verticillata,38.75897,-77.0493
-768798508,Hydrilla_verticillata,38.91322,-76.942
 415954278,Hydrilla_verticillata,38.77291,-76.70927
 1830229313,Hydrilla_verticillata,36.766667,137.45
 415954276,Hydrilla_verticillata,38.91158,-75.4538
@@ -234,12 +229,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204380458,Hydrilla_verticillata,34.60601,135.95908
 1652105732,Hydrilla_verticillata,-26.323546,151.992467
 1652135850,Hydrilla_verticillata,-23.890222,151.259132
-995852965,Hydrilla_verticillata,-17.97,122.22
-995852993,Hydrilla_verticillata,-17.95,122.2
 996116811,Hydrilla_verticillata,-15.6319,128.769
 996693896,Hydrilla_verticillata,-15.563889,128.610833
 995866463,Hydrilla_verticillata,-17.4494,145.88
-996643208,Hydrilla_verticillata,-17.96,122.23
 56585716,Hydrilla_verticillata,31.32778,-86.26667
 996116818,Hydrilla_verticillata,-15.7617,128.735
 996677404,Hydrilla_verticillata,-15.762,128.735
@@ -252,7 +244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652222150,Hydrilla_verticillata,-25.590218,151.142475
 1257325009,Hydrilla_verticillata,-12.6819,131.4653
 415898053,Hydrilla_verticillata,41.35416,-71.96694
-995542234,Hydrilla_verticillata,-17.96,122.233333
 729285039,Hydrilla_verticillata,34.833302,135.05
 729285053,Hydrilla_verticillata,34.8167,135.033
 729284979,Hydrilla_verticillata,34.883301,135.08299
@@ -337,7 +328,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729279255,Hydrilla_verticillata,34.716702,134.983
 729273502,Hydrilla_verticillata,34.799999,134.83299
 729274672,Hydrilla_verticillata,34.916698,134.867
-729287893,Hydrilla_verticillata,34.3167,134.867
 729274822,Hydrilla_verticillata,34.900002,135.08299
 1451489057,Hydrilla_verticillata,-33.881755,151.217822
 995650585,Hydrilla_verticillata,-33.88,151.22
@@ -405,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270641536,Hydrilla_verticillata,33.50473,-112.287213
 1315140529,Hydrilla_verticillata,35.810989,-78.626404
 2291355358,Hydrilla_verticillata,16.833333,101.966667
-1260138575,Hydrilla_verticillata,9.97555,-84.09972
 2287626893,Hydrilla_verticillata,-4.833333,103.916667
 994877716,Hydrilla_verticillata,-12.7167,130.9833
 994362730,Hydrilla_verticillata,-12.681888,132.934494
@@ -479,7 +468,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1315140567,Hydrilla_verticillata,30.898342,-84.870956
 1897762792,Hydrilla_verticillata,30.810889,-84.876194
 2234221201,Hydrilla_verticillata,33.571031,73.080561
-2289250698,Hydrilla_verticillata,-1.25,36.833333
 993240920,Hydrilla_verticillata,-15.5833,128.2833
 996526154,Hydrilla_verticillata,-15.583333,128.283333
 1451549360,Hydrilla_verticillata,-29.048415,152.584415
@@ -535,7 +523,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994488055,Hydrilla_verticillata,-24.3,151.5
 1897840653,Hydrilla_verticillata,-24.281556,151.512972
 1897840472,Hydrilla_verticillata,-25.622972,151.610167
-2234221388,Hydrilla_verticillata,33.693343,73.123515
 994302320,Hydrilla_verticillata,-12.431916,132.867863
 995349187,Hydrilla_verticillata,-12.4333,132.8667
 1697177875,Hydrilla_verticillata,54.37214,82.00206
@@ -585,7 +572,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995349153,Hydrilla_verticillata,-18.0833,125.7167
 615334275,Hydrilla_verticillata,34.43,70.45
 992308835,Hydrilla_verticillata,-34.693611,139.590556
-1258852721,Hydrilla_verticillata,9.175,-79.96666
 993653407,Hydrilla_verticillata,-29.0639,153.3283
 995206229,Hydrilla_verticillata,-34.3,142.2167
 995349254,Hydrilla_verticillata,-34.1667,142.1667
@@ -601,17 +587,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993630256,Hydrilla_verticillata,-19.2667,146.8
 2289900945,Hydrilla_verticillata,25.3,82.983333
 994851649,Hydrilla_verticillata,-36.05,146.3833
-2287624455,Hydrilla_verticillata,1.3667,103.8
 993139584,Hydrilla_verticillata,-24.4006,151.6072
 1451671886,Hydrilla_verticillata,-31.048411,152.667764
 996066511,Hydrilla_verticillata,-31.05,152.67
 992139543,Hydrilla_verticillata,-12.815381,131.167686
-2290254080,Hydrilla_verticillata,-25.733333,32.666667
 992138264,Hydrilla_verticillata,-34.88844,139.615533
 1030953664,Hydrilla_verticillata,24.846283,110.451522
 1651933717,Hydrilla_verticillata,-27.081875,152.584129
 996312532,Hydrilla_verticillata,-32.02,115.92
-891648705,Hydrilla_verticillata,25.015833,121.535833
 2289581548,Hydrilla_verticillata,28.483333,77.283333
 995580482,Hydrilla_verticillata,-33.95,151.1
 1451458451,Hydrilla_verticillata,-33.948423,151.101158
@@ -626,7 +609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994905790,Hydrilla_verticillata,-27.4667,152.9167
 1652056595,Hydrilla_verticillata,-27.415207,152.91746
 2287627755,Hydrilla_verticillata,-0.45,100.416667
-996526073,Hydrilla_verticillata,-31.995,115.491
 1030953669,Hydrilla_verticillata,24.200284,108.140563
 1030953683,Hydrilla_verticillata,24.388378,106.006265
 993298869,Hydrilla_verticillata,-27.4167,153.0833
@@ -651,12 +633,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992462246,Hydrilla_verticillata,-13.7,130.7
 1303973274,Hydrilla_verticillata,24.813781,113.184435
 1651933773,Hydrilla_verticillata,-27.24854,152.917459
-891706397,Hydrilla_verticillata,25.046111,121.511944
 1303973213,Hydrilla_verticillata,25.39996,112.948819
 1303806444,Hydrilla_verticillata,25.959029,117.359304
-1303806458,Hydrilla_verticillata,25.091075,121.559835
 1303806445,Hydrilla_verticillata,30.976183,104.28243
-891706362,Hydrilla_verticillata,22.6275,120.281944
 2287627980,Hydrilla_verticillata,-2.0746,120.6851
 1303806465,Hydrilla_verticillata,33.222857,107.545509
 2287624638,Hydrilla_verticillata,-6.530289,106.73231
@@ -669,7 +648,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303806468,Hydrilla_verticillata,36.408496,114.361389
 1303973229,Hydrilla_verticillata,18.626309,109.700342
 1303983687,Hydrilla_verticillata,26.876096,100.229945
-891651276,Hydrilla_verticillata,25.011944,121.535278
 1057314133,Hydrilla_verticillata,54.393286,-2.758337
 891706359,Hydrilla_verticillata,22.655556,120.441944
 1303967122,Hydrilla_verticillata,23.519195,110.462487
@@ -689,7 +667,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288285357,Hydrilla_verticillata,-6.566667,106.833333
 1303806431,Hydrilla_verticillata,26.076106,119.306406
 2287625361,Hydrilla_verticillata,-7.44222,107.671156
-891706380,Hydrilla_verticillata,22.194722,120.879722
 1651933760,Hydrilla_verticillata,-27.340206,153.092457
 2287626444,Hydrilla_verticillata,-8.116667,113.35
 2287628111,Hydrilla_verticillata,-7.7162,112.9981
@@ -702,5 +679,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451537119,Hydrilla_verticillata,-29.865081,152.451089
 995762192,Hydrilla_verticillata,-29.87,152.45
 2287626857,Hydrilla_verticillata,-7.75,109.666667
-2287626909,Hydrilla_verticillata,-7.7126,108.8417
-2005767793,Hydrilla_verticillata,37.566538,126.977996
