@@ -12,7 +12,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258116493,Inga_ruiziana,-11.964167,-73.660833
 1258146591,Inga_ruiziana,11.9476,-84.576
 1257997945,Inga_ruiziana,-10.376111,-75.243055
-1257928824,Inga_ruiziana,9.394444,-82.270833
 1253902755,Inga_ruiziana,10.454694,-84.758083
 1257738949,Inga_ruiziana,12.150556,-84.878611
 1928770722,Inga_ruiziana,6.54033,-76.31075
@@ -56,8 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253890324,Inga_ruiziana,9.747028,-84.565917
 1257829498,Inga_ruiziana,-16.781944,-64.231111
 1260904576,Inga_ruiziana,-10.77111,-75.32138
-1095246365,Inga_ruiziana,-12.761388,-48.213888
-1087506125,Inga_ruiziana,-23.416667,-45.233333
 1253830897,Inga_ruiziana,10.700795,-84.219104
 1261011480,Inga_ruiziana,-0.81666,-77.58333
 1259691522,Inga_ruiziana,-0.097778,-76.151944
@@ -111,7 +108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768752804,Inga_ruiziana,1.12,-76.64
 1253747776,Inga_ruiziana,9.825,-83.063889
 1258794568,Inga_ruiziana,-1.14222,-77.59138
-45337116,Inga_ruiziana,8.46,-83.6
 1259195877,Inga_ruiziana,-2.20833,-78.22222
 45337114,Inga_ruiziana,9.45,-83.84
 1932878143,Inga_ruiziana,-2.61,-70.17
@@ -130,8 +126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258431373,Inga_ruiziana,10.544444,-83.547222
 1258475798,Inga_ruiziana,7,-75.5
 1258372784,Inga_ruiziana,-4.05972,-78.17611
-1253578763,Inga_ruiziana,8.480171,-83.591289
-45337130,Inga_ruiziana,8.48,-83.59
 2013785938,Inga_ruiziana,1.079722,-76.645278
 1259564445,Inga_ruiziana,9.29833,-83.77222
 1258464418,Inga_ruiziana,-3.95333,-73.42138
@@ -146,7 +140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768749756,Inga_ruiziana,-0.93,-71.6
 1258442326,Inga_ruiziana,-0.3,-76.26666
 1258442245,Inga_ruiziana,-0.33333,-76.4
-1077564650,Inga_ruiziana,-12.544444,-37.690833
 1258316614,Inga_ruiziana,-3.25,-72.91666
 1258269234,Inga_ruiziana,-4.91666,-78.31666
 1258273759,Inga_ruiziana,-0.85,-77.4
@@ -157,11 +150,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258592393,Inga_ruiziana,-0.483333,-77.35
 1253583112,Inga_ruiziana,8.691508,-83.228678
 1096744963,Inga_ruiziana,8.69,-83.23
-1423974444,Inga_ruiziana,-12.833333,-38.666667
-1087723643,Inga_ruiziana,-4.546028,-46.670533
 1253625352,Inga_ruiziana,10.643889,-83.736112
 45336907,Inga_ruiziana,10.64,-83.73
-1253590542,Inga_ruiziana,8.480556,-83.591667
 1253644859,Inga_ruiziana,9.758333,-84.559722
 45336894,Inga_ruiziana,9.75,-84.55
 1314980542,Inga_ruiziana,5.55486,-74.2931
@@ -198,10 +188,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 45336777,Inga_ruiziana,8.7,-83.51
 1253642258,Inga_ruiziana,10.913889,-84.768056
 1261558979,Inga_ruiziana,-0.683333,-76.483333
-45336767,Inga_ruiziana,8.46,-83.58
-1253644861,Inga_ruiziana,8.466667,-83.583337
 1253630483,Inga_ruiziana,8.733333,-83.333333
-1423974500,Inga_ruiziana,-15.15,-39.083333
 45336666,Inga_ruiziana,8.73,-83.33
 1261560502,Inga_ruiziana,9.67,-83.05
 930981178,Inga_ruiziana,1.3,-78.133333
@@ -311,9 +298,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261547543,Inga_ruiziana,-0.33333,-77.08333
 1259228395,Inga_ruiziana,7.25,-75.2
 1261537420,Inga_ruiziana,-0.58333,-77.3
-45335090,Inga_ruiziana,8.45,-83.55
 1261468010,Inga_ruiziana,8.93333,-79.61666
-1253694522,Inga_ruiziana,8.466667,-83.583335
 1261903094,Inga_ruiziana,10.96,-85.11
 1228475070,Inga_ruiziana,10.5,-84.5
 1253691354,Inga_ruiziana,10.966667,-85.116667
@@ -332,7 +317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258304662,Inga_ruiziana,-4.916667,-73.75
 931012303,Inga_ruiziana,6.038224,-75.003247
 1258268751,Inga_ruiziana,-2.833333,-76.916667
-1258245648,Inga_ruiziana,3.83333,-77.16666
 1261544001,Inga_ruiziana,9.7,-84.39166
 45334922,Inga_ruiziana,9.7,-84.38
 1253709884,Inga_ruiziana,9.7,-84.391667
@@ -346,14 +330,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257897205,Inga_ruiziana,1.08333,-78.01666
 1261472869,Inga_ruiziana,9.33333,-79.58333
 1261483147,Inga_ruiziana,9.4,-79.566667
-1563310642,Inga_ruiziana,9.33,-29.58
 1261847718,Inga_ruiziana,-1.05,-77.73333
 768725063,Inga_ruiziana,-0.58,-72.38
-1423974546,Inga_ruiziana,-23.166667,-53.766667
 1258282022,Inga_ruiziana,-3.333333,-76.333333
 1260270376,Inga_ruiziana,6.41666,-67.41666
 1258240806,Inga_ruiziana,-1.13333,-77.5
-1423974505,Inga_ruiziana,-23.2,-53.733333
 1228443363,Inga_ruiziana,-12,-70.25
 1261903282,Inga_ruiziana,-12.766667,-69.233333
 1261517540,Inga_ruiziana,12.28333,-85.08333
@@ -402,9 +383,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258232101,Inga_ruiziana,-7.33333,-75.08333
 1261479795,Inga_ruiziana,-8.81666,-75.05
 1260270229,Inga_ruiziana,-8.2,-76.46666
-437384241,Inga_ruiziana,-17.41667,-39.25
 1042591926,Inga_ruiziana,-8.2,-76.47
-439382286,Inga_ruiziana,-15.35,-39
 185100029,Inga_ruiziana,-0.3,-76.283
 1261555324,Inga_ruiziana,-3.91666,-77.7
 1258262518,Inga_ruiziana,-0.25,-75.91666
@@ -426,7 +405,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258665553,Inga_ruiziana,-3.83333,-73.5
 1228506139,Inga_ruiziana,-4,-75
 1260270730,Inga_ruiziana,-8.66666,-75
-1423974548,Inga_ruiziana,-13.633333,-41.816667
 1261547664,Inga_ruiziana,-3.83333,-77.68333
 1258294730,Inga_ruiziana,-1.05,-77.68333
 185099992,Inga_ruiziana,-1.05,-77.683
@@ -440,8 +418,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258694404,Inga_ruiziana,13.46666,-85.23333
 1259570646,Inga_ruiziana,9.5,-79.516667
 1261833819,Inga_ruiziana,-4.5,-78.63333
-1259565820,Inga_ruiziana,8.47,-83.59
-1423974410,Inga_ruiziana,-17.483333,-39.216667
 1258300576,Inga_ruiziana,11.95,-84.75
 1258694410,Inga_ruiziana,12.98333,-85.81666
 1042558557,Inga_ruiziana,-15.007778,-59.95
@@ -453,7 +429,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259059935,Inga_ruiziana,8.095,-77.304444
 1258282893,Inga_ruiziana,0.06666,-76.85
 1259040782,Inga_ruiziana,-0.58333,-79.36666
-1423974813,Inga_ruiziana,-16.433333,-39.083333
 1259569335,Inga_ruiziana,9.24388,-79.81583
 1259568975,Inga_ruiziana,8.25,-82.875
 1259572503,Inga_ruiziana,8.256667,-82.893333
@@ -462,7 +437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259568852,Inga_ruiziana,9.066389,-79.651111
 1259572411,Inga_ruiziana,9.35833,-79.60833
 1259026192,Inga_ruiziana,9.35,-79.7
-1258990405,Inga_ruiziana,9.533333,-79.666667
 1261501029,Inga_ruiziana,-3.765,-73.2325
 1258999363,Inga_ruiziana,9.22277,-80.01916
 1259572703,Inga_ruiziana,9.16361,-79.82805
@@ -492,7 +466,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258453068,Inga_ruiziana,-1.1,-77.9
 1314980583,Inga_ruiziana,6.5908,-75.0477
 1258551215,Inga_ruiziana,9.3875,-83.642778
-1259570851,Inga_ruiziana,9.31666,-82.15
 1258552710,Inga_ruiziana,9.233333,-82.333333
 1259563936,Inga_ruiziana,9.81,-83.7
 1259570223,Inga_ruiziana,9.03166,-82.25
