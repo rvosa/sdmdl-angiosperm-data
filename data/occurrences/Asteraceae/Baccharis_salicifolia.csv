@@ -1,29 +1,20 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2270245995,Baccharis_salicifolia,34.452772,-120.470879
 2270229574,Baccharis_salicifolia,34.4115,-119.848928
 2268763366,Baccharis_salicifolia,33.372333,-116.424667
 2268940555,Baccharis_salicifolia,13.708611,-86.363167
-1913592389,Baccharis_salicifolia,-23.541111,-46.244444
 2269394348,Baccharis_salicifolia,-33.290111,-70.973917
 1928502413,Baccharis_salicifolia,37.10011,-114.49869
 2270223621,Baccharis_salicifolia,37.071552,-122.254752
 2270539850,Baccharis_salicifolia,31.760617,-110.6155
-1632856769,Baccharis_salicifolia,-21.943611,-41.990833
 2270223403,Baccharis_salicifolia,35.187084,-120.746349
 1846559678,Baccharis_salicifolia,33.318306,-112.036893
-1423908075,Baccharis_salicifolia,-17.866389,-40.125278
-1842842122,Baccharis_salicifolia,41.3165,2.1189
-1423921874,Baccharis_salicifolia,-21.753056,-41.648889
 1454580064,Baccharis_salicifolia,-32.989167,-71.023333
 2239104142,Baccharis_salicifolia,-30.714167,-65.059722
 2247776018,Baccharis_salicifolia,-34.555776,-68.296957
 2268826073,Baccharis_salicifolia,13.697639,-86.31775
 2284164336,Baccharis_salicifolia,-13.6571,-71.4238
 2270491130,Baccharis_salicifolia,32.03437,-110.67474
-1843529763,Baccharis_salicifolia,-21.9436,-41.9908
 2270489591,Baccharis_salicifolia,32.01814,-110.64329
-1440663685,Baccharis_salicifolia,-17.929167,-41.184722
-1586203670,Baccharis_salicifolia,-22.354167,-42.760556
 1797621493,Baccharis_salicifolia,-34.906666,-67.856666
 1797621500,Baccharis_salicifolia,-34.966111,-67.524444
 1258104111,Baccharis_salicifolia,13.704556,-86.324472
@@ -74,7 +65,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424462232,Baccharis_salicifolia,33.919445,-106.850278
 1090627978,Baccharis_salicifolia,-32.535278,-68.977778
 1897566757,Baccharis_salicifolia,17.0715,-96.922361
-1090144038,Baccharis_salicifolia,-20.937917,-44.140972
 2239102943,Baccharis_salicifolia,-29.437222,-67.898889
 1846553722,Baccharis_salicifolia,34.413521,-111.61804
 1424453611,Baccharis_salicifolia,-23.671111,-65.592778
@@ -150,7 +140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831516391,Baccharis_salicifolia,-31.90694,-69.59306
 1846546491,Baccharis_salicifolia,34.4816109991191,-111.772972
 2269391008,Baccharis_salicifolia,-34.1,-70.45
-1699358842,Baccharis_salicifolia,-31.758889,-52.400556
 1843908333,Baccharis_salicifolia,32.94976,-107.57569
 1418009521,Baccharis_salicifolia,28.550125,-106.322701
 1846515231,Baccharis_salicifolia,33.967133,-112.7253
@@ -158,8 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1418009663,Baccharis_salicifolia,28.521645,-106.263786
 1895671197,Baccharis_salicifolia,25.758722,-112.035972
 1895671204,Baccharis_salicifolia,24.538583,-111.505556
-2270566079,Baccharis_salicifolia,28.84423,-112.4007
-1257760415,Baccharis_salicifolia,28.84423,-112.40068
 1077471925,Baccharis_salicifolia,-24.107111,-52.312806
 2239102355,Baccharis_salicifolia,-26.917778,-65.682222
 1257624648,Baccharis_salicifolia,-13.0575,-72.628889
@@ -341,7 +328,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585291012,Baccharis_salicifolia,14.41667,-89.35
 1260128069,Baccharis_salicifolia,14.41666,-89.35
 1897951429,Baccharis_salicifolia,21.6125,-102.867222
-2270176873,Baccharis_salicifolia,33.3923,-118.4512
 1893727838,Baccharis_salicifolia,19.562222,-101.715556
 1846493197,Baccharis_salicifolia,33.32465,-111.1533
 2270253200,Baccharis_salicifolia,34.88,-120.48
@@ -358,7 +344,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2237778741,Baccharis_salicifolia,-9.385556,-41.817778
 2270590282,Baccharis_salicifolia,33.9825,-111.836
 1897374965,Baccharis_salicifolia,20.606667,-100.33
-1077215756,Baccharis_salicifolia,-41.827778,-92.633333
 1896214452,Baccharis_salicifolia,18.556944,-97.100278
 1894638204,Baccharis_salicifolia,20.811667,-100.502778
 1419228976,Baccharis_salicifolia,19.703333,-97.651389
@@ -443,7 +428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51767798,Baccharis_salicifolia,42.287,-124.3099
 1897951517,Baccharis_salicifolia,24.044167,-103.245278
 2270685446,Baccharis_salicifolia,32.92,-110.74
-442186103,Baccharis_salicifolia,42.2671,-124.3698
 1897951461,Baccharis_salicifolia,24.280833,-103.403611
 2270686767,Baccharis_salicifolia,33.3484,-112.723
 1258716651,Baccharis_salicifolia,13.233611,-86.333333
@@ -525,7 +509,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893909461,Baccharis_salicifolia,18.627222,-99.647222
 1894638832,Baccharis_salicifolia,20.52,-100.433333
 2270648127,Baccharis_salicifolia,31.867095,-109.379005
-1894817163,Baccharis_salicifolia,26.375,-112.875
 1897951449,Baccharis_salicifolia,22.725278,-102.561111
 1897951490,Baccharis_salicifolia,21.343611,-103.4675
 1897951414,Baccharis_salicifolia,22.321389,-103.583333
@@ -620,7 +603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426199796,Baccharis_salicifolia,33.739444,-118.345833
 1893727863,Baccharis_salicifolia,17.598611,-99.176667
 1895476911,Baccharis_salicifolia,17.559444,-99.238972
-1259642513,Baccharis_salicifolia,-39.52333,-69.29638
 1846476969,Baccharis_salicifolia,27.63086,-113.0706
 2270548016,Baccharis_salicifolia,27.630861,-113.070611
 1144608435,Baccharis_salicifolia,-23,-61
@@ -653,9 +635,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289069708,Baccharis_salicifolia,31.85,-106.6
 2270177155,Baccharis_salicifolia,34.6763999991168,-120.556
 1077314791,Baccharis_salicifolia,-18.916667,-56.433333
-2270177664,Baccharis_salicifolia,34.0005999991249,-119.7393
 2270176606,Baccharis_salicifolia,34.6928999991166,-120.5833
-2270176555,Baccharis_salicifolia,34.0234999991246,-119.8745
 1846492582,Baccharis_salicifolia,31.51398,-110.33268
 2270176690,Baccharis_salicifolia,35.594329,-121.115274
 1324959290,Baccharis_salicifolia,-16.666667,-56.8
@@ -689,7 +669,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259764746,Baccharis_salicifolia,20.75,-99.38333
 1896214444,Baccharis_salicifolia,19.925278,-96.841389
 1895477122,Baccharis_salicifolia,25.258333,-100.091667
-1896214456,Baccharis_salicifolia,15.697222,-96.305556
 1895476811,Baccharis_salicifolia,26.533333,-100.533333
 1895476677,Baccharis_salicifolia,19.7033718304063,-103.462706133406
 2270684581,Baccharis_salicifolia,36.1342,-112.117
@@ -707,7 +686,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896214449,Baccharis_salicifolia,20.525,-99.641667
 1846507607,Baccharis_salicifolia,36.26195,-111.82967
 1842918592,Baccharis_salicifolia,34.301697,-107.084824
-1419193562,Baccharis_salicifolia,19.492222,-98.889444
 1893587197,Baccharis_salicifolia,30.825556,-110.008611
 1456166547,Baccharis_salicifolia,-25.5,-57.5
 2239094399,Baccharis_salicifolia,-29.795556,-62.804722
@@ -746,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261289109,Baccharis_salicifolia,-25.15,-57.23333
 1259762128,Baccharis_salicifolia,15.3,-92.3
 1929508483,Baccharis_salicifolia,21.17,-100.5
-2270277345,Baccharis_salicifolia,34.13905,-119.18302
 1893727816,Baccharis_salicifolia,20.154167,-99.025278
 1895476983,Baccharis_salicifolia,21.166667,-100.5
 1258575188,Baccharis_salicifolia,15.33,-92.25
@@ -761,11 +738,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893727836,Baccharis_salicifolia,20.36222,-102.74139
 1896214453,Baccharis_salicifolia,20.7,-105.266667
 1896214417,Baccharis_salicifolia,19.925,-101.675
-1585291019,Baccharis_salicifolia,13.66667,-89.25
 1895476986,Baccharis_salicifolia,19.8956592678546,-100.375892568051
 1893727812,Baccharis_salicifolia,19.928333,-101.67
 2270685550,Baccharis_salicifolia,34.66,-113.58
-1258575192,Baccharis_salicifolia,13.66666,-89.25
 1893727823,Baccharis_salicifolia,19.245,-102.256667
 2270177998,Baccharis_salicifolia,34.9656999991135,-120.6185
 1893587094,Baccharis_salicifolia,30.959167,-110.195278
@@ -873,7 +848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456462124,Baccharis_salicifolia,-17.77,-63.07
 1261293410,Baccharis_salicifolia,16.516667,-88.766667
 2239104644,Baccharis_salicifolia,-26.759722,-66.28
-2270259502,Baccharis_salicifolia,34.0136999991247,-119.6865
 1893587157,Baccharis_salicifolia,26.961111,-109.646389
 2239095259,Baccharis_salicifolia,-33.362222,-64.541667
 1895949981,Baccharis_salicifolia,18.883333,-98.033333
@@ -928,7 +902,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846492859,Baccharis_salicifolia,33.43444,-111.9094
 1077309512,Baccharis_salicifolia,-19.633333,-57.166667
 2270686450,Baccharis_salicifolia,33.78,-111.46
-2270251618,Baccharis_salicifolia,34.199267,-119.247283
 1893727896,Baccharis_salicifolia,19.251667,-103.983333
 2239098140,Baccharis_salicifolia,-24.066667,-61.292222
 1228635909,Baccharis_salicifolia,-21.700001,-65.699997
@@ -1081,12 +1054,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259763354,Baccharis_salicifolia,14.475,-87.65277
 1913939915,Baccharis_salicifolia,25.083333,-105.533333
 439436207,Baccharis_salicifolia,19.90639,-101.76889
-1259762699,Baccharis_salicifolia,14.08638,-87.18972
 1893774994,Baccharis_salicifolia,27.540725,-107.514102
 1895476814,Baccharis_salicifolia,27.823111,-107.603178
 1895477061,Baccharis_salicifolia,25.1320487502679,-104.619457048329
 1259761609,Baccharis_salicifolia,14.15805,-87.04638
-1259761935,Baccharis_salicifolia,14.030833,-87.209167
 1895476553,Baccharis_salicifolia,22.7839707192906,-104.273729905438
 1895950103,Baccharis_salicifolia,18.133333,-97.5275
 1895476667,Baccharis_salicifolia,19.4575621674498,-96.9581131496899
@@ -1099,7 +1070,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270251409,Baccharis_salicifolia,34.4219999991198,-119.795
 1896214443,Baccharis_salicifolia,19.400556,-96.650833
 2270259142,Baccharis_salicifolia,34.5608999991182,-119.7695
-1259764445,Baccharis_salicifolia,14.085,-87.16694
 1456023033,Baccharis_salicifolia,-9.33,-75.25
 2270176387,Baccharis_salicifolia,35.28325,-120.26594
 2270257470,Baccharis_salicifolia,34.4269999991198,-119.8585
@@ -1109,7 +1079,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270177456,Baccharis_salicifolia,35.10867,-120.62643
 1421416683,Baccharis_salicifolia,16.708333,-92.486111
 1896214394,Baccharis_salicifolia,17.341667,-96.675
-2270176400,Baccharis_salicifolia,35.709206,-121.303571
 1893436578,Baccharis_salicifolia,17.508333,-97.475
 1930194949,Baccharis_salicifolia,23.55,-103.28
 1261278978,Baccharis_salicifolia,13.716667,-86.5
@@ -1139,7 +1108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846491181,Baccharis_salicifolia,33.86619,-111.46523
 1928106329,Baccharis_salicifolia,17.5,-100.0094
 1259765227,Baccharis_salicifolia,17.16,-92.33
-1259764122,Baccharis_salicifolia,14.129722,-87.164444
 1896214459,Baccharis_salicifolia,19.490278,-98.824444
 2236722087,Baccharis_salicifolia,35.595833,-118.445833
 1895278004,Baccharis_salicifolia,19.501111,-98.8525
@@ -1158,7 +1126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270177068,Baccharis_salicifolia,35.322137,-120.845525
 2270260773,Baccharis_salicifolia,34.5478999991183,-119.8972
 2270176542,Baccharis_salicifolia,35.07057,-120.60025
-2270176326,Baccharis_salicifolia,35.70986,-121.29099
 2270176524,Baccharis_salicifolia,35.057432,-120.603495
 1895278021,Baccharis_salicifolia,19.855,-99.2125
 1893436623,Baccharis_salicifolia,17.575,-97.491667
@@ -1167,7 +1134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270471444,Baccharis_salicifolia,25.364199,-107.552103
 1896214391,Baccharis_salicifolia,18.45,-97.391944
 1259761214,Baccharis_salicifolia,14.135,-87.118889
-1259977029,Baccharis_salicifolia,14.049444,-87.211111
 1895476826,Baccharis_salicifolia,25.520619,-107.532956
 2270684309,Baccharis_salicifolia,31.35,-109.27
 1896214428,Baccharis_salicifolia,19.855833,-96.82
@@ -1175,7 +1141,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270251407,Baccharis_salicifolia,34.422,-119.795
 1895476740,Baccharis_salicifolia,27.456711,-107.487889
 1899730602,Baccharis_salicifolia,29.033333,-106.383333
-1258575160,Baccharis_salicifolia,14.13333,-87.16666
 1928059756,Baccharis_salicifolia,37.2089,-115.075
 1895476492,Baccharis_salicifolia,20.3000028057596,-103.261872794915
 2270258294,Baccharis_salicifolia,33.629981382216,-117.960628435549
@@ -1222,7 +1187,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929777146,Baccharis_salicifolia,29.78,-114.72
 2270257076,Baccharis_salicifolia,34.40694,-119.07917
 1259764225,Baccharis_salicifolia,17.7,-99.73333
-1260694522,Baccharis_salicifolia,-40.86666,-72.41666
 2239095159,Baccharis_salicifolia,-29.979167,-63.263611
 2239095147,Baccharis_salicifolia,-33.186667,-65.928333
 2270628126,Baccharis_salicifolia,33.8621,-113.2
@@ -1236,9 +1200,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846491153,Baccharis_salicifolia,34.597,-113.4505
 2270686121,Baccharis_salicifolia,34.58,-113.49
 2270256548,Baccharis_salicifolia,34.423,-119.2903
-2270290661,Baccharis_salicifolia,34.016528,-119.771088
 2270684601,Baccharis_salicifolia,34.29,-113.39
-2270258819,Baccharis_salicifolia,33.9968999991249,-119.7295
 370836743,Baccharis_salicifolia,19.975,-98.941667
 1842918509,Baccharis_salicifolia,32.538627,-107.705527
 1895277995,Baccharis_salicifolia,19.1671606391957,-98.9972464871594
@@ -1257,7 +1219,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270259217,Baccharis_salicifolia,34.4148999991199,-119.8797
 1893394495,Baccharis_salicifolia,19.4484001234328,-98.1259098324073
 1456318101,Baccharis_salicifolia,13.38,-86.28
-1931034944,Baccharis_salicifolia,13.38,-83.28
 1259764432,Baccharis_salicifolia,15.91666,-85.91666
 1895277983,Baccharis_salicifolia,19.7694910113626,-99.1545492829319
 1893727862,Baccharis_salicifolia,19.81,-99.14
@@ -1271,12 +1232,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176889492,Baccharis_salicifolia,33.65919,-111.083048
 2270629503,Baccharis_salicifolia,32.895,-109.895
 2239094701,Baccharis_salicifolia,-31.699722,-63.531111
-1896214402,Baccharis_salicifolia,19.722222,-96.406944
 2270685510,Baccharis_salicifolia,33.0458,-109.442
 2270627745,Baccharis_salicifolia,33.1138,-109.282
 1259548157,Baccharis_salicifolia,-30.72,-64.26
 1846492481,Baccharis_salicifolia,36.34363,-113.95303
-1259763101,Baccharis_salicifolia,14.09083,-87.225
 1259155593,Baccharis_salicifolia,13.283333,-86.65
 1896214411,Baccharis_salicifolia,19.625,-99.313889
 1846491198,Baccharis_salicifolia,32.8962,-110.4233
@@ -1318,9 +1277,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895278076,Baccharis_salicifolia,20.1119765661593,-98.7087069173073
 1895476874,Baccharis_salicifolia,27.368936,-107.504167
 2239094802,Baccharis_salicifolia,-32.769167,-62.804167
-1895277968,Baccharis_salicifolia,19.4631165287677,-99.0748243349856
 1895278032,Baccharis_salicifolia,19.770278,-99.152222
-1893394571,Baccharis_salicifolia,19.458333,-99.075
 1846491116,Baccharis_salicifolia,36.85764,-111.60253
 2270628756,Baccharis_salicifolia,36.87,-111.59
 2270626979,Baccharis_salicifolia,36.24,-111.83
@@ -1342,12 +1299,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895277980,Baccharis_salicifolia,19.8539308057526,-99.2467747597548
 2270176385,Baccharis_salicifolia,35.727502,-120.111691
 1259765498,Baccharis_salicifolia,16.74,-92.38
-2270176370,Baccharis_salicifolia,35.2571,-120.8494
 2270176647,Baccharis_salicifolia,35.182478,-120.620374
 1259106029,Baccharis_salicifolia,11.516667,-86.166667
 1895375272,Baccharis_salicifolia,16.716667,-92.916667
 2270583484,Baccharis_salicifolia,33.6911,-111.691
-1024483471,Baccharis_salicifolia,34,-119.733333
 1896214427,Baccharis_salicifolia,19.337828,-96.77335
 1426218909,Baccharis_salicifolia,33.9942,-117.3863
 1846492634,Baccharis_salicifolia,32.575861,-111.324472
@@ -1367,7 +1322,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896214454,Baccharis_salicifolia,19.144722,-96.994722
 2270628416,Baccharis_salicifolia,36.405,-111.88
 1846491183,Baccharis_salicifolia,36.25969,-112.91877
-2291303081,Baccharis_salicifolia,-20.333333,57.4
 2270260487,Baccharis_salicifolia,34.351798,-118.393173
 1927830915,Baccharis_salicifolia,21.060983,-104.2322
 1895476481,Baccharis_salicifolia,21.021467,-104.224911
@@ -1384,7 +1338,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895375296,Baccharis_salicifolia,16.2396444934006,-92.9893514958547
 1259763787,Baccharis_salicifolia,16.235556,-92.998889
 1893339682,Baccharis_salicifolia,30.975,-115.608333
-2288901874,Baccharis_salicifolia,-20.308333,57.583333
 2239095334,Baccharis_salicifolia,-27.531667,-66.349167
 2270686540,Baccharis_salicifolia,33.82,-111.48
 1846492567,Baccharis_salicifolia,34.60043,-113.55232
@@ -1412,7 +1365,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270471918,Baccharis_salicifolia,26.760273,-105.586474
 1931075613,Baccharis_salicifolia,16.54,-92.52
 1931043800,Baccharis_salicifolia,19.91156,-99.33761
-1259764117,Baccharis_salicifolia,14.1,-87.216667
 2270176589,Baccharis_salicifolia,35.3133,-120.86613
 1846492593,Baccharis_salicifolia,36.39098,-112.62006
 1843892729,Baccharis_salicifolia,33.246502,-106.06322
@@ -1466,8 +1418,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270176272,Baccharis_salicifolia,35.0837,-120.6259
 1895476534,Baccharis_salicifolia,21.166667,-105
 1259763917,Baccharis_salicifolia,19.156667,-101.8825
-2270258027,Baccharis_salicifolia,33.9993999991249,-119.7329
-1456016833,Baccharis_salicifolia,-46.58,-71.43
 1426185174,Baccharis_salicifolia,37.5917,-121.9318
 1846492604,Baccharis_salicifolia,34.71834,-114.48715
 1426195872,Baccharis_salicifolia,37.5963,-121.9299
@@ -1512,7 +1462,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270257905,Baccharis_salicifolia,34.510963,-118.651979
 2270686022,Baccharis_salicifolia,34.02,-111.08
 2270685888,Baccharis_salicifolia,34.3825,-112.204
-2270259031,Baccharis_salicifolia,33.9968999991249,-119.7261
 2270686139,Baccharis_salicifolia,33.16,-110.49
 2270628658,Baccharis_salicifolia,33.8642,-111.467
 1895477109,Baccharis_salicifolia,26.35,-101.283333
@@ -1530,7 +1479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426454718,Baccharis_salicifolia,28.5,-113.5
 1895476588,Baccharis_salicifolia,20.6865732627716,-99.3452520555913
 1895278047,Baccharis_salicifolia,19.7217162665745,-98.821486236299
-924817292,Baccharis_salicifolia,29.25,-103.25
 1456102454,Baccharis_salicifolia,16.92,-96.5
 2270685027,Baccharis_salicifolia,31.46,-111.24
 2270472094,Baccharis_salicifolia,26.941523,-108.88363
@@ -1564,7 +1512,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895277930,Baccharis_salicifolia,19.401111,-98.926111
 1895476913,Baccharis_salicifolia,19.4381180706054,-98.9542684000015
 1929224123,Baccharis_salicifolia,19.4375,-98.954169
-2270257107,Baccharis_salicifolia,33.9983999991249,-119.7309
 2270176693,Baccharis_salicifolia,35.31105,-120.65321
 2270685381,Baccharis_salicifolia,33.85,-112.27
 2270686998,Baccharis_salicifolia,33.85,-112.26
@@ -1591,7 +1538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895477039,Baccharis_salicifolia,19.624406,-99.143819
 1895278101,Baccharis_salicifolia,19.574722,-99.105278
 1893436620,Baccharis_salicifolia,17.791667,-97.641667
-1895278017,Baccharis_salicifolia,19.433889,-99.076111
 1895476585,Baccharis_salicifolia,17.694528,-97.623814
 1929654047,Baccharis_salicifolia,17.6956,-97.6356
 1259930188,Baccharis_salicifolia,-14,-72
@@ -1679,22 +1625,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270685794,Baccharis_salicifolia,33.47,-111.84
 1090547426,Baccharis_salicifolia,36,-114.8667
 1895278010,Baccharis_salicifolia,19.31,-99.2725
-51768659,Baccharis_salicifolia,45.57,-123.9422
 1930339280,Baccharis_salicifolia,19.9542,-99.5344
 2273847270,Baccharis_salicifolia,-31.9778,-71.30407
 2270630151,Baccharis_salicifolia,32.4303,-110.705
-2273847384,Baccharis_salicifolia,-33.425278,-70.633333
 2270176992,Baccharis_salicifolia,34.179577,-117.675977
 1257742759,Baccharis_salicifolia,14.742778,-91.158333
 2239094237,Baccharis_salicifolia,-30.750278,-64.435833
 1928313428,Baccharis_salicifolia,19.38161,-99.23525
-1929121287,Baccharis_salicifolia,-28.672018589456,-50.4173966056359
-1931374193,Baccharis_salicifolia,-29.2292199269738,-51.3485671911022
 1090546564,Baccharis_salicifolia,37.0667,-122.05
 1895477120,Baccharis_salicifolia,17.4275611552209,-96.1053335921928
 1929043203,Baccharis_salicifolia,19.52,-98.82
 1846492523,Baccharis_salicifolia,33.50857,-111.72593
-1258575179,Baccharis_salicifolia,13.716667,-89.2
 2239095108,Baccharis_salicifolia,-29.974444,-62.996111
 2239098973,Baccharis_salicifolia,-32.883889,-68.898889
 2270581022,Baccharis_salicifolia,33.4281,-111.935
@@ -1720,7 +1661,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895476912,Baccharis_salicifolia,26.34,-101.37
 2270177466,Baccharis_salicifolia,35.0217999991129,-120.2742
 2239105171,Baccharis_salicifolia,-30.942222,-64.276944
-2239098428,Baccharis_salicifolia,-39.017222,-62.783889
 2289874514,Baccharis_salicifolia,-33.6,-67.183333
 1931327445,Baccharis_salicifolia,25.5444,-103.4417
 1931078993,Baccharis_salicifolia,25.57631,-100.41881
@@ -1744,7 +1684,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228396434,Baccharis_salicifolia,3.8811,-72.8667
 1893436665,Baccharis_salicifolia,17.658333,-96.925
 2013770765,Baccharis_salicifolia,1.142288,-76.641912
-2239098250,Baccharis_salicifolia,-38.529444,-67.466944
 1927951136,Baccharis_salicifolia,18.7769,-103.16
 1259765263,Baccharis_salicifolia,18.77,-103.16
 1426051631,Baccharis_salicifolia,33.282108,-116.435249
@@ -1754,7 +1693,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895477003,Baccharis_salicifolia,29.0974833168685,-108.063864275696
 1259760660,Baccharis_salicifolia,24.85,-107.233333
 1929340571,Baccharis_salicifolia,24.8581,-107.2144
-1259486632,Baccharis_salicifolia,-38.98333,-67.81666
 2239103892,Baccharis_salicifolia,-34.598611,-64.424722
 1931031409,Baccharis_salicifolia,16.96,-96.82
 1930999264,Baccharis_salicifolia,17.0967,-96.71719
@@ -1787,7 +1725,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259763082,Baccharis_salicifolia,25.988056,-111.427222
 1259764295,Baccharis_salicifolia,25.976667,-111.474167
 1928942788,Baccharis_salicifolia,26,-111.44
-1931021470,Baccharis_salicifolia,26.0128,-111.34331
 1929674312,Baccharis_salicifolia,32.008308,-116.610828
 1259761615,Baccharis_salicifolia,32.566667,-115.95
 1929821739,Baccharis_salicifolia,19.3667,-99.25
@@ -1804,18 +1741,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928513628,Baccharis_salicifolia,21.5172,-104.92442
 1259760842,Baccharis_salicifolia,24,-110.116667
 1426181856,Baccharis_salicifolia,37.6628,-121.7394
-1426114693,Baccharis_salicifolia,33.4080984718854,-118.449269390999
-1426191906,Baccharis_salicifolia,33.354405,-118.351078
-1426133520,Baccharis_salicifolia,33.335082,-118.311381
 1895476882,Baccharis_salicifolia,23.0618032768347,-109.708426105167
 1259764977,Baccharis_salicifolia,19.16,-96.75
-1930915763,Baccharis_salicifolia,-22.7338542306886,-45.1200000862427
 1228371006,Baccharis_salicifolia,-9.5,-75.8333
 1426101925,Baccharis_salicifolia,37.4656,-121.7769
 1426056334,Baccharis_salicifolia,38.2389694496165,-122.629542826739
-1259762889,Baccharis_salicifolia,13.70861,-89.20305
-51768705,Baccharis_salicifolia,42.4075,-124.4206
-1426065114,Baccharis_salicifolia,33.325831,-118.340993
 51768710,Baccharis_salicifolia,42.2971,-124.0291
 1426153105,Baccharis_salicifolia,37.2179,-121.7405
 2239104701,Baccharis_salicifolia,-30.856667,-64.526111
@@ -1829,9 +1759,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426094902,Baccharis_salicifolia,37.5718,-121.871
 2239104750,Baccharis_salicifolia,-33.979167,-64.081389
 2239099242,Baccharis_salicifolia,-31.389722,-63.700833
-1056272064,Baccharis_salicifolia,-23.236211,-58.391024
 1426064937,Baccharis_salicifolia,33.569901,-116.078499
-51768672,Baccharis_salicifolia,45.4025,-123.9444
 1259762262,Baccharis_salicifolia,32.45,-117
 1928246415,Baccharis_salicifolia,25.6697,-100.46
 1930411021,Baccharis_salicifolia,27.0233,-108.9322
@@ -1841,8 +1769,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929406855,Baccharis_salicifolia,24.7992,-107.38442
 1259764543,Baccharis_salicifolia,19.68,-101.185278
 1259764350,Baccharis_salicifolia,19.229167,-99.082778
-1928911655,Baccharis_salicifolia,19.4375,-99.1372
-1895476927,Baccharis_salicifolia,19.4322757969331,-99.1306285468827
 2239097807,Baccharis_salicifolia,-31.691389,-65.101389
 1259486394,Baccharis_salicifolia,-31.33,-63.62
 1259760859,Baccharis_salicifolia,14.94416,-89.52861
