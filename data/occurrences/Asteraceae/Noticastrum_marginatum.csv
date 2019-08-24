@@ -4,10 +4,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2244394938,Noticastrum_marginatum,4.78672,-74.02325
 2244394652,Noticastrum_marginatum,4.78844,-74.02558
 2239105170,Noticastrum_marginatum,-28.193611,-65.943056
-1702533194,Noticastrum_marginatum,4.64465,-74.032683
-1702529142,Noticastrum_marginatum,4.637056,-74.032972
 1707501612,Noticastrum_marginatum,5.708056,-73.511667
-1702530174,Noticastrum_marginatum,4.646889,-74.032278
 1702531829,Noticastrum_marginatum,4.416583,-74.171417
 1836125765,Noticastrum_marginatum,7.152667,-72.634139
 1707497015,Noticastrum_marginatum,7.343056,-72.700528
@@ -75,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261295756,Noticastrum_marginatum,-13.35416,-72.06527
 1261305900,Noticastrum_marginatum,5.55,-75.816667
 1123911493,Noticastrum_marginatum,5.575853,-75.79531
-1456169079,Noticastrum_marginatum,5.55,-79.82
 1456404935,Noticastrum_marginatum,-3.62,-79.27
 47813352,Noticastrum_marginatum,-3.616,-79.266
 1098676472,Noticastrum_marginatum,4.51696,-73.74926
@@ -116,8 +112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2239095196,Noticastrum_marginatum,-28.422222,-65.389444
 2239094667,Noticastrum_marginatum,-28.016667,-65.913889
 1890927895,Noticastrum_marginatum,2.229391,-76.537102
-47813738,Noticastrum_marginatum,-0.25,-78.416
-1261308932,Noticastrum_marginatum,-0.25,-78.41666
 1259274957,Noticastrum_marginatum,9.66666,-70.83333
 1890968600,Noticastrum_marginatum,6.80535,-75.49231
 1314962713,Noticastrum_marginatum,6.80535,-75.4923
@@ -173,7 +167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228231914,Noticastrum_marginatum,3.8811,-72.8667
 1259541098,Noticastrum_marginatum,-17.9,-64.48333
 2239099335,Noticastrum_marginatum,-31.094167,-64.482778
-1260774570,Noticastrum_marginatum,4.671043,-74.047638
 2239099054,Noticastrum_marginatum,-30.926389,-64.500278
 1228521933,Noticastrum_marginatum,-11.5,-75
 2239099438,Noticastrum_marginatum,-30.855278,-64.507778
