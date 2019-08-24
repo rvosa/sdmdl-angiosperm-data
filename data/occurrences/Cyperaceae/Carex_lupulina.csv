@@ -21,7 +21,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930173478,Carex_lupulina,39.054211,-75.733917
 1675495519,Carex_lupulina,33.8408,-80.8597
 1929025819,Carex_lupulina,38.50395,-75.951206
-1931103666,Carex_lupulina,41.054377,-71.899825
 1930532822,Carex_lupulina,41.863,-72.759
 1990674448,Carex_lupulina,39.615498,-92.512919
 1999316684,Carex_lupulina,42.994704,-71.080985
@@ -47,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928098899,Carex_lupulina,38.746994,-76.846225
 1258145921,Carex_lupulina,39.146389,-76.960833
 1675776275,Carex_lupulina,38.8097,-76.7383
-1931298521,Carex_lupulina,41.073889,-71.906667
 1930957194,Carex_lupulina,39.14555,-76.963361
 1258176347,Carex_lupulina,39.0867,-92.5819
 1928001917,Carex_lupulina,38.810175,-76.711664
@@ -296,10 +294,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988973181,Carex_lupulina,42.233333,-72.633333
 1849180229,Carex_lupulina,33.4153,-80.2498
 176905758,Carex_lupulina,37.41116,-94.70474
-1322408558,Carex_lupulina,38.8919,-77.0611
 1320860532,Carex_lupulina,38.3875,-77.38
 176905709,Carex_lupulina,42.862499,-92.220276
-1320284435,Carex_lupulina,38.93,-77.1144
 1849187217,Carex_lupulina,33.7774,-80.5884
 1989349933,Carex_lupulina,43.70625,-85.3348
 1258612085,Carex_lupulina,37.25,-90.11666
@@ -330,7 +326,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415951027,Carex_lupulina,41.25666,-73.45277
 1262027082,Carex_lupulina,45.016944,-73.196389
 1262029508,Carex_lupulina,45.666667,-73.65
-473283089,Carex_lupulina,45.493056,-75.736111
 2265498648,Carex_lupulina,46.831456,-93.200268
 176905747,Carex_lupulina,42.806013,-92.228586
 1978886958,Carex_lupulina,43.386323,-84.894988
@@ -341,7 +336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928235286,Carex_lupulina,33.3314,-94.9564
 2265434478,Carex_lupulina,46.046637,-93.316825
 1260107215,Carex_lupulina,37.5,-94.53333
-415925649,Carex_lupulina,41.19166,-71.575
 2265431079,Carex_lupulina,43.579801,-91.262964
 2265386941,Carex_lupulina,44.5074,-94.019534
 2265421500,Carex_lupulina,45.318501,-95.081073
@@ -402,7 +396,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473423507,Carex_lupulina,45.460203,-73.548712
 1261003587,Carex_lupulina,36.87194,-90.27
 1260106078,Carex_lupulina,38.66083,-90.4225
-1989404715,Carex_lupulina,35.268,-75.543
 415982879,Carex_lupulina,41.52666,-73.15833
 415983131,Carex_lupulina,40.81444,-74.49666
 1988651176,Carex_lupulina,41.483932,-84.5583
@@ -435,7 +428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265498303,Carex_lupulina,45.938889,-92.841111
 1804524625,Carex_lupulina,45.3,-75.55
 1989122828,Carex_lupulina,44.288613,-83.452476
-1317921914,Carex_lupulina,38.8994,-77.0575
 2265498448,Carex_lupulina,45.220276,-92.754723
 1804400149,Carex_lupulina,45.416667,-76.333333
 473452155,Carex_lupulina,45.466667,-73.933333
@@ -518,7 +510,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 217047033,Carex_lupulina,34.46889,-86.32584
 56534439,Carex_lupulina,34.70222,-86.09278
 217047036,Carex_lupulina,34.82278,-86.485
-1846543448,Carex_lupulina,32.36556,-80.46583
 56534422,Carex_lupulina,34.55222,-86.58528
 56534332,Carex_lupulina,32.43222,-86.95972
 56534431,Carex_lupulina,32.57778,-85.06861
@@ -570,7 +561,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265499188,Carex_lupulina,43.579834,-91.282916
 1260936393,Carex_lupulina,39.49416,-92.67277
 1260936387,Carex_lupulina,39.49472,-92.69166
-1804485949,Carex_lupulina,45.366667,-75.633333
 1989251092,Carex_lupulina,45.180344,-84.744978
 2265499061,Carex_lupulina,45.087045,-92.793076
 2265500169,Carex_lupulina,45.09812,-92.78778
@@ -816,7 +806,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1322866955,Carex_lupulina,38.9392,-76.9342
 1424770031,Carex_lupulina,35.109493,-82.140596
 1318901789,Carex_lupulina,38.9694,-77.1767
-1424769495,Carex_lupulina,-75.174894,-75.220118
 1424770029,Carex_lupulina,35.25044,-77.642877
 1424769496,Carex_lupulina,42.4611,-76.5036
 1424770311,Carex_lupulina,40.53394,-93.817448
@@ -842,11 +831,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989947508,Carex_lupulina,34.783799,-91.746267
 1424769999,Carex_lupulina,36.768803,-91.000128
 1424770302,Carex_lupulina,36.864235,-91.401241
-415983106,Carex_lupulina,41.15344,-71.55219
 1424770022,Carex_lupulina,38.339637,-93.778269
 1424770317,Carex_lupulina,54,-72
 465879163,Carex_lupulina,45.416889,-73.488487
-1090532541,Carex_lupulina,42.45,-76.4667
 176905737,Carex_lupulina,38.00933,-94.75651
 1424769436,Carex_lupulina,38.591751,-82.186534
 1424770350,Carex_lupulina,29.763284,-95.363272
@@ -885,7 +872,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258872974,Carex_lupulina,36.49333,-90.075
 1038932006,Carex_lupulina,42.0223,-73.2936
 1260949431,Carex_lupulina,37.69305,-90.6225
-1322292663,Carex_lupulina,38.9103,-76.9664
 1260105520,Carex_lupulina,36.236111,-90.055556
 1260104895,Carex_lupulina,37.6915,-90.619932
 1260105850,Carex_lupulina,36.756944,-90.392778
@@ -906,13 +892,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989009261,Carex_lupulina,42.282331,-83.794288
 1424769509,Carex_lupulina,43.085441,-76.896661
 1989121759,Carex_lupulina,45.618613,-84.692477
-1261979025,Carex_lupulina,45.479472,-75.628961
 1038928657,Carex_lupulina,41.6523,-73.3145
 465879645,Carex_lupulina,45.494751,-75.607162
 1038975549,Carex_lupulina,41.2069,-73.4399
-465879638,Carex_lupulina,45.411572,-75.698194
 1038990905,Carex_lupulina,41.73,-73.4539
-1261977327,Carex_lupulina,45.479363,-75.628952
 1039010858,Carex_lupulina,41.9798,-71.8736
 1424769977,Carex_lupulina,45.578203,-84.689326
 1988760286,Carex_lupulina,45.577242,-84.653277
@@ -944,11 +927,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415983105,Carex_lupulina,41.84027,-70.91944
 1228157690,Carex_lupulina,41.15,-87.8667
 1424770068,Carex_lupulina,37.164225,-94.218553
-1318088368,Carex_lupulina,38.8667,-77.1
 1424770343,Carex_lupulina,37.2745,-94.60551
 1038930364,Carex_lupulina,41.4014,-73.4705
 1989501279,Carex_lupulina,43.025057,-83.077563
-415983128,Carex_lupulina,42.56388,-70.81111
 1038949491,Carex_lupulina,41.6939,-72.3069
 415983103,Carex_lupulina,41.74805,-71.18972
 1424770002,Carex_lupulina,31.370226,-81.43399
@@ -959,7 +940,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424769988,Carex_lupulina,44.051188,-86.457047
 1038950089,Carex_lupulina,41.5367,-72.7944
 1038923538,Carex_lupulina,41.8352,-72.5734
-415983109,Carex_lupulina,41.29833,-70.01277
 1228342314,Carex_lupulina,41.98217,-87.769956
 1228172343,Carex_lupulina,41.996976,-87.765338
 415982897,Carex_lupulina,41.54027,-73.21388
@@ -970,7 +950,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415925879,Carex_lupulina,41.66694,-72.59722
 415982901,Carex_lupulina,41.98333,-73.42111
 415982910,Carex_lupulina,41.78222,-72.61194
-1424769438,Carex_lupulina,38.840801,-77.054807
 1039013601,Carex_lupulina,41.3669,-72.7169
 1039007307,Carex_lupulina,41.3776,-71.9014
 1038931116,Carex_lupulina,41.3219,-72.3016
