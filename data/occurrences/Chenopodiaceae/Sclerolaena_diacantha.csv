@@ -136,7 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992073481,Sclerolaena_diacantha,-34.090833,139.808611
 992073583,Sclerolaena_diacantha,-34.086111,139.817778
 996944926,Sclerolaena_diacantha,-29.608972,116.921222
-996927091,Sclerolaena_diacantha,-26.055449,113.553935
 996977054,Sclerolaena_diacantha,-29.387111,120.141972
 995399875,Sclerolaena_diacantha,-34.3069,142.28
 1652316652,Sclerolaena_diacantha,-23.503334,138.55456
@@ -456,13 +455,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085334404,Sclerolaena_diacantha,-32.76976,135.16673
 1085331148,Sclerolaena_diacantha,-32.64566,134.33114
 1085334632,Sclerolaena_diacantha,-32.87393,135.02718
-1085339003,Sclerolaena_diacantha,-33.00675,134.23068
 992020116,Sclerolaena_diacantha,-32.505833,134.458611
 992020524,Sclerolaena_diacantha,-32.708056,134.564167
 992021048,Sclerolaena_diacantha,-32.576389,135.240278
 992020169,Sclerolaena_diacantha,-32.646944,134.329722
 1085330136,Sclerolaena_diacantha,-32.57488,135.24153
-992020533,Sclerolaena_diacantha,-33.008056,134.229167
 992020948,Sclerolaena_diacantha,-32.875278,135.025833
 1085331643,Sclerolaena_diacantha,-32.70654,134.56568
 1652104832,Sclerolaena_diacantha,-28.900791,147.122551
@@ -527,10 +524,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085317823,Sclerolaena_diacantha,-33.8477,136.32071
 1085320541,Sclerolaena_diacantha,-33.802,136.56937
 1085313116,Sclerolaena_diacantha,-33.73285,136.52045
-992003162,Sclerolaena_diacantha,-33.625278,137.211944
 992009950,Sclerolaena_diacantha,-30.257222,138.826944
 1085316883,Sclerolaena_diacantha,-33.69003,136.40342
-1085320326,Sclerolaena_diacantha,-33.62388,137.21335
 991999467,Sclerolaena_diacantha,-33.734167,136.519167
 991997506,Sclerolaena_diacantha,-33.691389,136.401944
 991998510,Sclerolaena_diacantha,-33.456667,136.706389
@@ -553,7 +548,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996901628,Sclerolaena_diacantha,-31.176519,118.429518
 1085303218,Sclerolaena_diacantha,-26.20322,132.32967
 996835170,Sclerolaena_diacantha,-31.376166,117.935023
-996656516,Sclerolaena_diacantha,-26.433889,113.428333
 991995716,Sclerolaena_diacantha,-26.204722,132.328333
 996728597,Sclerolaena_diacantha,-28.447778,115.222222
 996694988,Sclerolaena_diacantha,-31.168056,121.602222
@@ -565,7 +559,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257356139,Sclerolaena_diacantha,-24.481892,134.334593
 992625790,Sclerolaena_diacantha,-31.070361,140.532984
 1257356160,Sclerolaena_diacantha,-24.465236,134.317936
-992586117,Sclerolaena_diacantha,-34.550556,136.2725
 1085269546,Sclerolaena_diacantha,-28.21568,134.54649
 996597746,Sclerolaena_diacantha,-28.799564,117.350597
 992613682,Sclerolaena_diacantha,-27.725,136.697
@@ -693,15 +686,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992595189,Sclerolaena_diacantha,-34.049722,138.148889
 996508668,Sclerolaena_diacantha,-28.527222,115.568889
 1085177581,Sclerolaena_diacantha,-33.87904,137.7038
-992591152,Sclerolaena_diacantha,-33.851944,137.692778
 1085168757,Sclerolaena_diacantha,-34.29639,137.97821
-992591486,Sclerolaena_diacantha,-33.794722,137.711667
 992592786,Sclerolaena_diacantha,-33.595,137.98
 992593677,Sclerolaena_diacantha,-33.524722,137.988611
 1085167917,Sclerolaena_diacantha,-33.88706,137.9592
 992592416,Sclerolaena_diacantha,-33.908333,137.883889
 1085168161,Sclerolaena_diacantha,-33.84529,137.98742
-1085177472,Sclerolaena_diacantha,-33.79333,137.71301
 992593187,Sclerolaena_diacantha,-34.297778,137.976944
 1085177428,Sclerolaena_diacantha,-34.04823,138.15017
 1451567184,Sclerolaena_diacantha,-33.705432,143.01906
@@ -720,7 +710,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992595008,Sclerolaena_diacantha,-34.01,138.23
 996662291,Sclerolaena_diacantha,-32.48984,120.653975
 1085168101,Sclerolaena_diacantha,-33.90595,137.85458
-1085177816,Sclerolaena_diacantha,-33.85062,137.69405
 992592003,Sclerolaena_diacantha,-33.888611,137.957778
 1085181851,Sclerolaena_diacantha,-33.67676,139.09866
 1085180935,Sclerolaena_diacantha,-33.02438,139.11807
@@ -775,7 +764,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995106983,Sclerolaena_diacantha,-35.7264,143.5472
 992556999,Sclerolaena_diacantha,-32.716667,137.833333
 996540622,Sclerolaena_diacantha,-28.283333,118.316389
-996553506,Sclerolaena_diacantha,-25.738056,113.653333
 996501168,Sclerolaena_diacantha,-23.080833,115.787778
 994001418,Sclerolaena_diacantha,-30.6333,143.0333
 1652189562,Sclerolaena_diacantha,-28.623548,151.125827
@@ -900,7 +888,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995648881,Sclerolaena_diacantha,-30.3,145.62
 992537403,Sclerolaena_diacantha,-29.33,142.25
 995062132,Sclerolaena_diacantha,-34.5417,141.9958
-996264780,Sclerolaena_diacantha,-26.342778,113.401944
 1451488405,Sclerolaena_diacantha,-30.298455,145.617874
 1451491186,Sclerolaena_diacantha,-29.331823,142.251242
 1451540142,Sclerolaena_diacantha,-31.581787,145.884548
@@ -983,7 +970,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993336246,Sclerolaena_diacantha,-30.5833,118.9167
 993360052,Sclerolaena_diacantha,-33.35,146.45
 995211802,Sclerolaena_diacantha,-36.1,144.2833
-996387906,Sclerolaena_diacantha,-24.835,113.658
 992434024,Sclerolaena_diacantha,-28.15,138.166667
 995211856,Sclerolaena_diacantha,-36.0667,143.65
 993331608,Sclerolaena_diacantha,-28.15,138.1667
@@ -1093,12 +1079,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992377229,Sclerolaena_diacantha,-33.233333,140.908333
 994825393,Sclerolaena_diacantha,-34.95,141.5167
 994924881,Sclerolaena_diacantha,-33.1833,140.9167
-992367552,Sclerolaena_diacantha,-34.516667,136.25
-992372843,Sclerolaena_diacantha,-34.583333,136.3
 992376196,Sclerolaena_diacantha,-33.191667,140.916667
-994841673,Sclerolaena_diacantha,-34.5167,136.25
 992376626,Sclerolaena_diacantha,-33.358333,140.916667
-992372214,Sclerolaena_diacantha,-34.55,136.266667
 992447893,Sclerolaena_diacantha,-34.45,140.566667
 992376168,Sclerolaena_diacantha,-35.35,142.18
 996982731,Sclerolaena_diacantha,-34.45,140.57
@@ -1140,7 +1122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257347011,Sclerolaena_diacantha,-24.348616,128.684642
 994936727,Sclerolaena_diacantha,-28.1667,122.75
 996388005,Sclerolaena_diacantha,-32.95,120.13
-992349901,Sclerolaena_diacantha,-32.083333,133
 996406336,Sclerolaena_diacantha,-28.628333,121.458056
 1451538735,Sclerolaena_diacantha,-31.415125,145.017896
 1937067179,Sclerolaena_diacantha,-31.42,145.02
@@ -1304,7 +1285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937159345,Sclerolaena_diacantha,-33.02,144.87
 1061532074,Sclerolaena_diacantha,-33.0833,146.9333
 1061532073,Sclerolaena_diacantha,-33,144.8667
-992250577,Sclerolaena_diacantha,-34.483333,136.266667
 992240386,Sclerolaena_diacantha,-28.628472,130.614712
 992240446,Sclerolaena_diacantha,-29.95,131.7
 992240363,Sclerolaena_diacantha,-29.833333,131.75
@@ -1417,7 +1397,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992273926,Sclerolaena_diacantha,-34.284722,140.548889
 994936575,Sclerolaena_diacantha,-24.4333,139.4667
 996387876,Sclerolaena_diacantha,-30.361667,117.111389
-994698007,Sclerolaena_diacantha,-24.6333,113.5667
 996387715,Sclerolaena_diacantha,-24.879722,113.896389
 996387977,Sclerolaena_diacantha,-24.565,113.658
 995562522,Sclerolaena_diacantha,-31.07,141.7
@@ -1489,9 +1468,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992264906,Sclerolaena_diacantha,-32.034665,122.902841
 992215838,Sclerolaena_diacantha,-32.4763,123.8651
 1451714373,Sclerolaena_diacantha,-29.965115,146.867853
-992208220,Sclerolaena_diacantha,-35.245556,136.821111
 992192425,Sclerolaena_diacantha,-31.654722,138.368889
-992209787,Sclerolaena_diacantha,-33.934444,137.627778
 1651976606,Sclerolaena_diacantha,-28.081883,150.750829
 992210146,Sclerolaena_diacantha,-33.783333,138.154167
 992172976,Sclerolaena_diacantha,-29,137.433333
@@ -1513,7 +1490,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992199112,Sclerolaena_diacantha,-23.915385,132.717719
 992199800,Sclerolaena_diacantha,-34.283333,138.233333
 992209142,Sclerolaena_diacantha,-34.274528,142.222443
-992178070,Sclerolaena_diacantha,-34.964722,136.974722
 992201529,Sclerolaena_diacantha,-23.771771,133.367713
 992177772,Sclerolaena_diacantha,-34.151944,136.309444
 994697361,Sclerolaena_diacantha,-34.2833,142.2167
