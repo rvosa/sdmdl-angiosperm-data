@@ -141,14 +141,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259568291,Salvia_lyrata,38.825,-92.29583
 1258039814,Salvia_lyrata,36.674445,-92.668611
 1260990875,Salvia_lyrata,36.89416,-90.27833
-122246564,Salvia_lyrata,30.78,-88.2
 1260947470,Salvia_lyrata,36.49111,-89.96777
 1260986199,Salvia_lyrata,37.08944,-89.63972
 1262233892,Salvia_lyrata,29.25,-82.933333
 606646498,Salvia_lyrata,33.25083,-79.26722
 1258088322,Salvia_lyrata,37.90056,-84.268333
 1260977718,Salvia_lyrata,37.005,-92.06333
-1262233333,Salvia_lyrata,38.16666,-90.7
 1262236984,Salvia_lyrata,38.125,-90.675
 1261003195,Salvia_lyrata,37.18,-91.17
 56652812,Salvia_lyrata,34.33916,-87.44334
@@ -179,7 +177,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56653352,Salvia_lyrata,32.82111,-87.82222
 2288323613,Salvia_lyrata,32.533333,-92.65
 1258602718,Salvia_lyrata,35.86666,-82.81666
-1261153601,Salvia_lyrata,32.16666,-82.5
 1258605951,Salvia_lyrata,34.66666,-83.33333
 1258159333,Salvia_lyrata,36.847833,-89.912472
 2234471541,Salvia_lyrata,35.913325,-79.042764
@@ -190,7 +187,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846513473,Salvia_lyrata,31.753611,-92.163889
 1835735145,Salvia_lyrata,32.5333,-92.65
 1846513611,Salvia_lyrata,36.599167,-92.2925
-122246580,Salvia_lyrata,33.3,-87.5
 56653339,Salvia_lyrata,33.34917,-87.29417
 1305257592,Salvia_lyrata,32.55,-92.45
 1064053676,Salvia_lyrata,29.08228,-96.45069
@@ -198,7 +194,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260996067,Salvia_lyrata,36.980318,-90.997681
 606646492,Salvia_lyrata,37.12888,-84.08333
 2270526916,Salvia_lyrata,37.557202,-79.356165
-122246578,Salvia_lyrata,32.6,-85.4
 1269666148,Salvia_lyrata,32.516,-92.716
 1260932205,Salvia_lyrata,37.51138,-90.33194
 1064053637,Salvia_lyrata,35.50973,-93.98134
@@ -226,7 +221,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291626581,Salvia_lyrata,36.016667,-93.383333
 56653337,Salvia_lyrata,32.75472,-88.02862
 122246572,Salvia_lyrata,33.75,-85.85
-122246575,Salvia_lyrata,33,-87.15
 1321107945,Salvia_lyrata,39.1317,-77.5278
 1320313625,Salvia_lyrata,39.1639,-77.5206
 2242405879,Salvia_lyrata,39.353513,-82.035324
