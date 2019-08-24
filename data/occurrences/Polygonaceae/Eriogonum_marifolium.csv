@@ -14,14 +14,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 623669650,Eriogonum_marifolium,38.810556,-120.241111
 623669300,Eriogonum_marifolium,39.825833,-120.252778
 1426197793,Eriogonum_marifolium,41.3205,-122.5058
-1988097059,Eriogonum_marifolium,38.3,-119.7
 1930959133,Eriogonum_marifolium,40.315922,-120.688699
 1426358447,Eriogonum_marifolium,38.328333,-119.653333
 202100257,Eriogonum_marifolium,38.495813,-119.952525
 51834045,Eriogonum_marifolium,44.4091,-121.8757
 51832045,Eriogonum_marifolium,44.3964,-121.9585
-1988156383,Eriogonum_marifolium,44.1,-121.7
-1261452817,Eriogonum_marifolium,44,-120.66666
 442229687,Eriogonum_marifolium,42.0729,-120.2451
 176943989,Eriogonum_marifolium,42.961612,-122.158232
 51831461,Eriogonum_marifolium,44.4687,-121.9578
@@ -86,7 +83,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056723067,Eriogonum_marifolium,36.7781,-119.4178
 51832099,Eriogonum_marifolium,42.4394,-122.3146
 51831706,Eriogonum_marifolium,43.2873,-122.0126
-1228603120,Eriogonum_marifolium,37,-119
 51832098,Eriogonum_marifolium,43.3722,-123.0642
 51832171,Eriogonum_marifolium,43.0356,-122.4536
 51831698,Eriogonum_marifolium,44.8208,-121.7634
