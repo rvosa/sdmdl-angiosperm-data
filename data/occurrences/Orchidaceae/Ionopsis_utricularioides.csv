@@ -58,7 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258450021,Ionopsis_utricularioides,-5.00083,-79.08861
 1258529837,Ionopsis_utricularioides,-4.97944,-79.08361
 1421359138,Ionopsis_utricularioides,18,-93.083333
-1894546570,Ionopsis_utricularioides,18.886944,-93.130278
 1897603744,Ionopsis_utricularioides,18,-93.05
 1087365621,Ionopsis_utricularioides,-21.6,-47.566667
 2290001902,Ionopsis_utricularioides,7.75,-59.5
@@ -78,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930444101,Ionopsis_utricularioides,18.452107,-66.439584
 1259614439,Ionopsis_utricularioides,18.41666,-66.41666
 1260179045,Ionopsis_utricularioides,10.466667,-68.166667
-1585304703,Ionopsis_utricularioides,13.66667,-89.25
 1895134492,Ionopsis_utricularioides,18.812778,-96.926667
 1261381436,Ionopsis_utricularioides,-14.56666,-68.46666
 2270475414,Ionopsis_utricularioides,-24.79626,-49.27366
@@ -90,7 +88,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1098693613,Ionopsis_utricularioides,6.444318,-77.330009
 1503333030,Ionopsis_utricularioides,-20.766667,-42.35
 1261354231,Ionopsis_utricularioides,7.4,-76.51666
-1258542459,Ionopsis_utricularioides,13.67222,-89.25
 1895911330,Ionopsis_utricularioides,16.708333,-94.141667
 1895000707,Ionopsis_utricularioides,16.400278,-90.716944
 1847922764,Ionopsis_utricularioides,-17.5,-61.5
@@ -99,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261366981,Ionopsis_utricularioides,11.03333,-84.46666
 1261395472,Ionopsis_utricularioides,13.78333,-84.7
 1260311840,Ionopsis_utricularioides,10.43138,-84.00361
-2289561198,Ionopsis_utricularioides,-0.633333,-90.35
 1261357568,Ionopsis_utricularioides,12.13333,-84.23333
 1261395694,Ionopsis_utricularioides,13.65833,-84.98333
 1895000627,Ionopsis_utricularioides,16.658611,-90.815556
@@ -128,12 +124,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258551510,Ionopsis_utricularioides,16.28333,-89.01666
 1098677588,Ionopsis_utricularioides,3.356402,-72.961001
 1258551491,Ionopsis_utricularioides,14.733333,-83.966667
-1057045092,Ionopsis_utricularioides,12.839906,-85.034783
 1258551512,Ionopsis_utricularioides,14.36777,-89.40777
 1258542477,Ionopsis_utricularioides,9.1625,-79.84166
 1928000298,Ionopsis_utricularioides,18.341667,-66.7
 1258542473,Ionopsis_utricularioides,15.733333,-87.450278
-1258551504,Ionopsis_utricularioides,13.66666,-89.25
 1098677583,Ionopsis_utricularioides,3.61898,-76.912329
 1258542478,Ionopsis_utricularioides,9.15472,-79.84805
 1258542460,Ionopsis_utricularioides,9.15,-79.85
@@ -147,7 +141,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897603750,Ionopsis_utricularioides,15.4403,-87.27
 1897603755,Ionopsis_utricularioides,13.4256,-89.1219
 1258551509,Ionopsis_utricularioides,12.05,-85.31666
-1056438691,Ionopsis_utricularioides,18.151419,-77.319014
 1897603874,Ionopsis_utricularioides,14.3637,-87.5022
 1897603776,Ionopsis_utricularioides,15.0224,-87.5902
 1897603741,Ionopsis_utricularioides,14.4132,-87.5748
@@ -176,7 +169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259226409,Ionopsis_utricularioides,-6.107628,-76.922958
 1258542462,Ionopsis_utricularioides,14.94138,-88.02
 1258542464,Ionopsis_utricularioides,16.81527,-88.37833
-1057228497,Ionopsis_utricularioides,17.217668,-88.684767
 1701751620,Ionopsis_utricularioides,-1.4628,-78.1869
 1258542454,Ionopsis_utricularioides,15.72916,-87.45388
 1258551521,Ionopsis_utricularioides,15.775,-87.45722
@@ -186,16 +178,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930946340,Ionopsis_utricularioides,20.016103,-76.0653
 473281305,Ionopsis_utricularioides,20.416978,-75.462953
 1261390405,Ionopsis_utricularioides,-3.7,-79.16
-1928835755,Ionopsis_utricularioides,21.700274,-82.591611
 1258542474,Ionopsis_utricularioides,20.68,-89.19
 1930766007,Ionopsis_utricularioides,18.191952,-77.837573
 1929325375,Ionopsis_utricularioides,20.332534,-75.36634
-1056506654,Ionopsis_utricularioides,23.950465,-102.532886
 1928212531,Ionopsis_utricularioides,18.20442,-67.100491
 473281301,Ionopsis_utricularioides,20.151389,-75.4675
 1701751672,Ionopsis_utricularioides,-10.8339,-52.8731
 1928505739,Ionopsis_utricularioides,-25.548936,-48.631716
-1929101326,Ionopsis_utricularioides,21.700003,-83.000004
 1055571958,Ionopsis_utricularioides,21.62117,-79.03635
 1930429474,Ionopsis_utricularioides,22.16501,-78.840105
 1259614055,Ionopsis_utricularioides,18.172,-77.644
@@ -206,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930026913,Ionopsis_utricularioides,18.037482,-77.506809
 1929455941,Ionopsis_utricularioides,18.201298,-67.139308
 1929573368,Ionopsis_utricularioides,18.26799,-77.61356
-1928412864,Ionopsis_utricularioides,18.021466,-76.750075
 1931197294,Ionopsis_utricularioides,22.856303,-81.327749
 1930026407,Ionopsis_utricularioides,18.14,-66.266111
 1929006623,Ionopsis_utricularioides,18.3736,-66.7096
