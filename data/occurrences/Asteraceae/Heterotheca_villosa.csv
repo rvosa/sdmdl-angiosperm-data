@@ -115,7 +115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846554643,Heterotheca_villosa,35.9593609991029,-111.944389
 1928383768,Heterotheca_villosa,46.425989,-105.313078
 1846539637,Heterotheca_villosa,36.92792,-111.735577
-1321011272,Heterotheca_villosa,10.4342,-109.108
 1426308288,Heterotheca_villosa,41.5676199990633,-123.21011
 1928442506,Heterotheca_villosa,42.862983,-106.338314
 1988099722,Heterotheca_villosa,50.27,-119.27
@@ -222,7 +221,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270651264,Heterotheca_villosa,34.2653,-110.798
 441723077,Heterotheca_villosa,45.6125,-121.1475
 2270680401,Heterotheca_villosa,37.2719,-112.94
-441723006,Heterotheca_villosa,48.194,-122.711167
 1848025127,Heterotheca_villosa,35.549,-106.858
 2242378765,Heterotheca_villosa,39.757123,-104.861641
 1846546822,Heterotheca_villosa,36.487567,-112.120733
@@ -427,7 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931185694,Heterotheca_villosa,38.8483,-109.158
 176958970,Heterotheca_villosa,45.2263232981103,-111.235098144183
 1843818672,Heterotheca_villosa,36.131498,-106.149413
-2242401106,Heterotheca_villosa,39.73193,-104.9619
 176958933,Heterotheca_villosa,39.117704,-106.688151
 2265448840,Heterotheca_villosa,45.390746,-95.347525
 1846500373,Heterotheca_villosa,36.610967,-112.617433
@@ -529,7 +526,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929634459,Heterotheca_villosa,24.7,-99.855
 1896189781,Heterotheca_villosa,25.958333,-101.558333
 1259845896,Heterotheca_villosa,25.95,-101.55
-2242399944,Heterotheca_villosa,39.732207,-104.961468
 1949603329,Heterotheca_villosa,49.083333,-119.5
 1703289928,Heterotheca_villosa,49.7332202490171,-99.4836339384016
 176958663,Heterotheca_villosa,41.141318,-107.185344
@@ -779,7 +775,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248698846,Heterotheca_villosa,53.983333,-117.283333
 176959083,Heterotheca_villosa,47.187466,-96.226405
 176959121,Heterotheca_villosa,47.521523,-96.290992
-176959105,Heterotheca_villosa,41.3132769590952,-105.578804682741
 1846557199,Heterotheca_villosa,34.1547,-110.092
 2270262668,Heterotheca_villosa,35.55604,-118.611603
 2234327208,Heterotheca_villosa,30.393534,-86.495783
@@ -1245,7 +1240,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176959168,Heterotheca_villosa,42.6018877694969,-104.451676030299
 176959207,Heterotheca_villosa,43.76519,-103.26243
 176959100,Heterotheca_villosa,43.66866,-103.4684
-176958511,Heterotheca_villosa,41.3134669557484,-105.578954688726
 176958654,Heterotheca_villosa,38.7441,-106.08
 176958991,Heterotheca_villosa,42.2670189001166,-104.91893581066
 176958453,Heterotheca_villosa,38.785648,-104.870857
@@ -1284,7 +1278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988077366,Heterotheca_villosa,49.48,-100.52
 176958645,Heterotheca_villosa,37.169803,-103.86381
 176958695,Heterotheca_villosa,37.80643,-104.1425
-788621652,Heterotheca_villosa,55.88197,12.87652
 176959198,Heterotheca_villosa,47.43993,-96.42242
 176958236,Heterotheca_villosa,40.59479,-103.1672
 2265508152,Heterotheca_villosa,47.456092,-96.387558
