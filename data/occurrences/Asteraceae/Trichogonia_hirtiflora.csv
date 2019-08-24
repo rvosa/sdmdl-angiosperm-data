@@ -77,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077242082,Trichogonia_hirtiflora,-18.371667,-43.721944
 1208829691,Trichogonia_hirtiflora,-18.390528,-43.356639
 1077242710,Trichogonia_hirtiflora,-18.110556,-43.6375
-1094909553,Trichogonia_hirtiflora,-19,-44
 1090828855,Trichogonia_hirtiflora,-18.142222,-43.586111
 1213638235,Trichogonia_hirtiflora,-16.579444,-42.896667
 1077242642,Trichogonia_hirtiflora,-18.390278,-43.353889
@@ -121,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424234161,Trichogonia_hirtiflora,-16.895,-42.991667
 1424234165,Trichogonia_hirtiflora,-18.272222,-43.712778
 1087641922,Trichogonia_hirtiflora,-20.056667,-43.691389
-1077225061,Trichogonia_hirtiflora,-20.366667,-43.4
 2290096925,Trichogonia_hirtiflora,-18.25,-43.674722
 1087180688,Trichogonia_hirtiflora,-20.399167,-43.890833
 1094822143,Trichogonia_hirtiflora,-16.216944,-42.871389
@@ -164,14 +162,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1423839125,Trichogonia_hirtiflora,-16.595556,-42.901667
 1423839109,Trichogonia_hirtiflora,-17.709444,-44.288611
 1089112890,Trichogonia_hirtiflora,-16.533333,-42.816667
-1077215009,Trichogonia_hirtiflora,-17,-43.833333
-1077215026,Trichogonia_hirtiflora,-18.233333,-43.6
 912684434,Trichogonia_hirtiflora,-16.54,-42.92
 1077214994,Trichogonia_hirtiflora,-4.238056,-38.936111
 1077214967,Trichogonia_hirtiflora,-16.593333,-42.889444
 1087568105,Trichogonia_hirtiflora,-19.816667,-43.666667
 1318616374,Trichogonia_hirtiflora,-19.82,-43.67
-1077587065,Trichogonia_hirtiflora,-11.833333,-38.7
 1077215029,Trichogonia_hirtiflora,-19.072222,-43.655556
 1423839146,Trichogonia_hirtiflora,-18.866667,-43.766667
 1929529713,Trichogonia_hirtiflora,-18.43185,-43.391944
