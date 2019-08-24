@@ -54,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2316556817,Danthonia_decumbens,62.55141,7.717669
 1230582274,Danthonia_decumbens,48.125,16.20806
 1697385727,Danthonia_decumbens,55.484722,40.422222
-1095918180,Danthonia_decumbens,59,17
 2313334108,Danthonia_decumbens,48.08,11.48
 1697385734,Danthonia_decumbens,53.937175,23.949475
 781075548,Danthonia_decumbens,36.16,-5.61
@@ -117,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042033760,Danthonia_decumbens,63.37,10.0871
 1342387290,Danthonia_decumbens,55.056707,9.648415
 1701257052,Danthonia_decumbens,63.4847,10.9752
-895221020,Danthonia_decumbens,40.6,-2.11
 1699857563,Danthonia_decumbens,59.6994,11.8605
 1342387073,Danthonia_decumbens,55.947978,9.086775
 1701656172,Danthonia_decumbens,59.3104,10.78
@@ -152,8 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701516931,Danthonia_decumbens,48.88639,20.91694
 1701803502,Danthonia_decumbens,63.3538,8.5204
 2324996015,Danthonia_decumbens,62.668311,7.754886
-788864146,Danthonia_decumbens,39.8,21.133333
-1050640899,Danthonia_decumbens,42.82,-2.7
 1935681063,Danthonia_decumbens,47.41944,10.57528
 1701764878,Danthonia_decumbens,62.8927,6.8261
 152921040,Danthonia_decumbens,46.299662,14.57858
@@ -187,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701839658,Danthonia_decumbens,61.1549,7.114
 1702213446,Danthonia_decumbens,59.7475,10.7251
 1702213863,Danthonia_decumbens,59.7312,10.7314
-895189326,Danthonia_decumbens,40.14,8.6
 1936625974,Danthonia_decumbens,40.1461,8.6069
 894164694,Danthonia_decumbens,42.74908,-5.60696
 1701319280,Danthonia_decumbens,62.532,7.3773
@@ -228,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894164102,Danthonia_decumbens,43.464,-8.339
 1671651067,Danthonia_decumbens,44.133635,9.638981
 318109730,Danthonia_decumbens,42.85,-8.01
-1936607757,Danthonia_decumbens,41.7667,33.1
 1671651210,Danthonia_decumbens,44.080426,9.783761
 1936647556,Danthonia_decumbens,42.8515,-8.0223
 1702201850,Danthonia_decumbens,59.4527,10.4473
@@ -256,7 +250,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671651088,Danthonia_decumbens,44.075591,9.795599
 1795863135,Danthonia_decumbens,42.641725,-2.283537
 1701766828,Danthonia_decumbens,63.627,9.8071
-1697385667,Danthonia_decumbens,55.6,31.9
 1702256610,Danthonia_decumbens,59.7357,10.1588
 1702184722,Danthonia_decumbens,59.7412,10.5825
 1697385660,Danthonia_decumbens,57.06911,28.938332
@@ -276,7 +269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199473085,Danthonia_decumbens,36.517,-5.63
 199473099,Danthonia_decumbens,36.527,-5.597
 1050623873,Danthonia_decumbens,42.67,-2.56
-1050624102,Danthonia_decumbens,41.73,-1.8
 1702021624,Danthonia_decumbens,59.6636,10.1448
 1697385715,Danthonia_decumbens,55.50833,31.793618
 1638392895,Danthonia_decumbens,47.10833,15.55
@@ -290,7 +282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702165096,Danthonia_decumbens,59.9658,10.371
 860314872,Danthonia_decumbens,42.73,-0.73
 1702021667,Danthonia_decumbens,59.7085,10.1463
-1988124906,Danthonia_decumbens,47.11,15.6
 1701339631,Danthonia_decumbens,64.8309,11.2446
 1702021559,Danthonia_decumbens,59.6733,10.0564
 1697385676,Danthonia_decumbens,55.489727,31.645666
@@ -305,7 +296,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1881610712,Danthonia_decumbens,48.87,10.82
 1831111125,Danthonia_decumbens,53.3485,12.2485
 230817637,Danthonia_decumbens,51.72765,5.756293
-318109628,Danthonia_decumbens,42.69,-2.5
 1701233846,Danthonia_decumbens,64.7326,11.2155
 1702163392,Danthonia_decumbens,59.5976,11.4832
 1701829670,Danthonia_decumbens,59.7156,9.9786
@@ -358,10 +348,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999532143,Danthonia_decumbens,61.460829,28.131466
 1702023419,Danthonia_decumbens,59.8066,10.8066
 1697385659,Danthonia_decumbens,54.666273,40.643192
-1701996978,Danthonia_decumbens,59.717,10.2
 895229940,Danthonia_decumbens,40.968,-2.174
 20800027,Danthonia_decumbens,59.7086,10.1286
-473466149,Danthonia_decumbens,47.141667,-55.1
 1701580844,Danthonia_decumbens,59.7103,10.821
 1701986252,Danthonia_decumbens,60.6013,11.1997
 1701986306,Danthonia_decumbens,60.6597,11.1414
@@ -373,7 +361,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144179788,Danthonia_decumbens,59.8629,5.5253
 1701996960,Danthonia_decumbens,59.6712,10.2871
 894162631,Danthonia_decumbens,42.907,-9.104
-318109525,Danthonia_decumbens,42.9,-9.1
 1936519912,Danthonia_decumbens,42.9006,-9.1117
 1701982568,Danthonia_decumbens,60.1381,12.092
 1701982648,Danthonia_decumbens,60.2086,11.9874
@@ -500,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701227184,Danthonia_decumbens,63.6178,10.5228
 1702434851,Danthonia_decumbens,59.7724,10.7361
 1697385732,Danthonia_decumbens,54.653584,40.556074
-473465191,Danthonia_decumbens,47.5,-55.716667
 1999532171,Danthonia_decumbens,60.844969,22.498484
 1936599589,Danthonia_decumbens,43.3713,-4.2356
 1600092252,Danthonia_decumbens,60.199636,23.654148
@@ -509,7 +495,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600095002,Danthonia_decumbens,61.151386,27.11755
 1600092258,Danthonia_decumbens,61.081575,28.139216
 1600092255,Danthonia_decumbens,60.446688,22.550168
-1053985508,Danthonia_decumbens,42.64,-1.1
 1697385665,Danthonia_decumbens,56.157215,21.072807
 1600092259,Danthonia_decumbens,60.735056,27.977527
 1702435969,Danthonia_decumbens,59.6639,11.8136
@@ -561,11 +546,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323784868,Danthonia_decumbens,59.8212,10.4177
 187143858,Danthonia_decumbens,63.0717,9.1316
 1600092235,Danthonia_decumbens,61.317209,27.822905
-895150973,Danthonia_decumbens,40.14,-1.3
 1936564414,Danthonia_decumbens,42.7635,-3.698
 1600092220,Danthonia_decumbens,60.078171,23.358115
 1600092226,Danthonia_decumbens,60.453781,22.69751
-1053980654,Danthonia_decumbens,42.8,-2.23
 900226483,Danthonia_decumbens,59.088,5.7997
 1600092222,Danthonia_decumbens,60.430514,22.536927
 1705352455,Danthonia_decumbens,57.050677,16.217157
@@ -584,7 +567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705438983,Danthonia_decumbens,57.393442,14.687602
 1050577570,Danthonia_decumbens,42.82,-3.14
 1705313757,Danthonia_decumbens,57.597135,15.102812
-211624610,Danthonia_decumbens,43.169998,-4.8
 1701327347,Danthonia_decumbens,63.442,10.9546
 1332529837,Danthonia_decumbens,50.456328,10.020615
 1936522058,Danthonia_decumbens,43.2585,-3.7405
@@ -608,7 +590,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701336431,Danthonia_decumbens,62.463,7.8077
 1999532155,Danthonia_decumbens,60.820443,22.372157
 1701870951,Danthonia_decumbens,59.3224,11.8204
-1050577593,Danthonia_decumbens,42.6,-2.68
 1144154463,Danthonia_decumbens,61.3951,7.0622
 318220240,Danthonia_decumbens,59.123,5.7241
 1701981422,Danthonia_decumbens,59.5992,6.1201
@@ -616,7 +597,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600092215,Danthonia_decumbens,60.131475,23.676387
 1144154489,Danthonia_decumbens,61.2511,7.0338
 1050577599,Danthonia_decumbens,42.83,-3.19
-1050577624,Danthonia_decumbens,42.6,-2.48
 1050577586,Danthonia_decumbens,42.67,-2.59
 1842842681,Danthonia_decumbens,42.315,-0.203
 1050577580,Danthonia_decumbens,42.81,-2.27
@@ -640,7 +620,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050577589,Danthonia_decumbens,42.61,-2.53
 1050577607,Danthonia_decumbens,43.14,-3.42
 318220263,Danthonia_decumbens,63.4133,10.3317
-1144780080,Danthonia_decumbens,41.88333,9.4
 1050577595,Danthonia_decumbens,42.99,-2.83
 318220237,Danthonia_decumbens,59.2349,5.8887
 1144154466,Danthonia_decumbens,61.5259,6.3017
@@ -650,7 +629,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050577578,Danthonia_decumbens,43.04,-3.14
 1144154439,Danthonia_decumbens,61.5643,6.4302
 115869375,Danthonia_decumbens,41.009998,-3.59
-1050577562,Danthonia_decumbens,43.18,-3
 1842842699,Danthonia_decumbens,42.269,-0.181
 1701279262,Danthonia_decumbens,63.998,10.1755
 186803901,Danthonia_decumbens,58.6246,7.4073
@@ -681,7 +659,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144154494,Danthonia_decumbens,62.17854,7.01267
 1701600511,Danthonia_decumbens,60.0429,10.823
 1144154368,Danthonia_decumbens,60.8146,6.6928
-894160018,Danthonia_decumbens,43.2,-5.03
 1935724963,Danthonia_decumbens,47.54278,15.05694
 1702204733,Danthonia_decumbens,60.21098,11.73359
 1701871094,Danthonia_decumbens,59.59,10.9393
@@ -698,7 +675,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318220243,Danthonia_decumbens,58.9432,5.7237
 1999532232,Danthonia_decumbens,60.710307,22.057762
 1701338913,Danthonia_decumbens,63.5521,9.7546
-211625420,Danthonia_decumbens,42.959999,-6.3
 186803909,Danthonia_decumbens,58.4317,7.8441
 211625224,Danthonia_decumbens,43.279999,-6.04
 1144154411,Danthonia_decumbens,59.7825,6.7904
@@ -748,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702187416,Danthonia_decumbens,59.1415,10.8965
 1935724988,Danthonia_decumbens,47.1975,14.60083
 1702014718,Danthonia_decumbens,59.2367,7.519
-1935724992,Danthonia_decumbens,47.19694,14.6
 1701413626,Danthonia_decumbens,60.1134,12.13
 1144154357,Danthonia_decumbens,59.3625,5.64729
 318220245,Danthonia_decumbens,59.94976,6.01605
@@ -937,7 +912,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999595595,Danthonia_decumbens,60.678525,21.475864
 1701600482,Danthonia_decumbens,59.8785,10.5559
 165390395,Danthonia_decumbens,42.8168,-2.0902
-1891601892,Danthonia_decumbens,50,6.05
 1701566397,Danthonia_decumbens,64.7905,11.4306
 1600092195,Danthonia_decumbens,61.164748,28.120849
 1701659754,Danthonia_decumbens,59.0927,11.2255
@@ -974,13 +948,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999577602,Danthonia_decumbens,60.436415,22.190478
 1701580128,Danthonia_decumbens,59.97276,8.53529
 1702014766,Danthonia_decumbens,58.9622,8.9131
-1702014641,Danthonia_decumbens,58.9533,9
 1701797706,Danthonia_decumbens,58.859,8.922
 1702277448,Danthonia_decumbens,59.41,11.7132
 1056116191,Danthonia_decumbens,57.11568,-2.896484
 1702014635,Danthonia_decumbens,58.9578,8.9652
 1697721292,Danthonia_decumbens,44.614178,34.234772
-1144671328,Danthonia_decumbens,42.5,9.43333
 1702277431,Danthonia_decumbens,59.3133,10.8181
 1891601072,Danthonia_decumbens,49.76,6.22
 1701788056,Danthonia_decumbens,59.1118,8.9913
@@ -1012,7 +984,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812023916,Danthonia_decumbens,50.7514,9.0937
 1891593704,Danthonia_decumbens,49.96,6.06
 1705369401,Danthonia_decumbens,58.018272,14.959203
-1891605712,Danthonia_decumbens,49.79,6.2
 1701990205,Danthonia_decumbens,59.7419,7.5945
 1701304180,Danthonia_decumbens,63.4799,9.833
 1600092189,Danthonia_decumbens,61.517163,21.638099
@@ -1033,7 +1004,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702047338,Danthonia_decumbens,59.7918,10.7372
 1600092183,Danthonia_decumbens,60.455411,26.88698
 1600092399,Danthonia_decumbens,60.544839,26.541492
-1842843470,Danthonia_decumbens,41.5,2.34
 1935681356,Danthonia_decumbens,47.05583,15.35972
 1701251818,Danthonia_decumbens,62.95126,8.13133
 788489343,Danthonia_decumbens,56.580218,13.746166
@@ -1210,7 +1180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144154341,Danthonia_decumbens,60.66099,5.76755
 1288084249,Danthonia_decumbens,50.457667,9.97
 1705406129,Danthonia_decumbens,56.280658,13.948944
-1842900011,Danthonia_decumbens,41.41,2.1
 1702204752,Danthonia_decumbens,60.68074,12.10997
 1705408250,Danthonia_decumbens,58.674665,13.220525
 1842900051,Danthonia_decumbens,42.31,2.21
@@ -1226,7 +1195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186803824,Danthonia_decumbens,58.3875,7.5274
 1935724979,Danthonia_decumbens,47.19639,14.60139
 1600092156,Danthonia_decumbens,60.063596,24.03374
-1144671305,Danthonia_decumbens,42.2,8.95
 1842900085,Danthonia_decumbens,41.41,2.22
 1701871058,Danthonia_decumbens,59.2044,10.9875
 1657179936,Danthonia_decumbens,47.19833,14.61417
