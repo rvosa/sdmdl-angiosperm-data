@@ -60,7 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936613009,Phyteuma_hemisphaericum,41.1885,-3.4783
 1936197974,Phyteuma_hemisphaericum,40.3014,-5.731
 204433789,Phyteuma_hemisphaericum,42.712002,0.246
-1050648620,Phyteuma_hemisphaericum,43.04,-4.4
 1851405256,Phyteuma_hemisphaericum,42.802,-6.242
 318118635,Phyteuma_hemisphaericum,42.79,-0.24
 788712736,Phyteuma_hemisphaericum,42.541667,1.72
@@ -107,7 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204433347,Phyteuma_hemisphaericum,42.560001,0.62
 1050597757,Phyteuma_hemisphaericum,42.65,0.62
 1935710811,Phyteuma_hemisphaericum,47.35305,13.59195
-1935710606,Phyteuma_hemisphaericum,47.31667,13.8
 1851384411,Phyteuma_hemisphaericum,42.92,-6.49
 1851346770,Phyteuma_hemisphaericum,43.01,-6.36
 204433348,Phyteuma_hemisphaericum,42.73,-0.25
@@ -125,9 +123,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851352268,Phyteuma_hemisphaericum,42.84,-6.86
 1851340724,Phyteuma_hemisphaericum,43.01,-6.48
 1936090725,Phyteuma_hemisphaericum,42.4434,-6.6061
-1851343552,Phyteuma_hemisphaericum,42.3,-6.76
 1936358747,Phyteuma_hemisphaericum,40.2924,-5.7307
-211634576,Phyteuma_hemisphaericum,42.959999,-6.3
 1935710583,Phyteuma_hemisphaericum,46.59444,13.17639
 296517203,Phyteuma_hemisphaericum,46.882,12.383
 1978789640,Phyteuma_hemisphaericum,47.167222,11.865556
@@ -140,7 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978789717,Phyteuma_hemisphaericum,45.868889,7.170556
 1936358085,Phyteuma_hemisphaericum,40.1747,-5.3502
 1845010160,Phyteuma_hemisphaericum,46.621389,8.034444
-786213550,Phyteuma_hemisphaericum,46.9,11
 1135435098,Phyteuma_hemisphaericum,47.03333,13.78333
 1936053074,Phyteuma_hemisphaericum,42.7791,-0.3119
 1135450729,Phyteuma_hemisphaericum,47.20861,11.46083
@@ -151,9 +146,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1264998560,Phyteuma_hemisphaericum,46.877778,11.033611
 1264998426,Phyteuma_hemisphaericum,47.208611,11.460556
 860321161,Phyteuma_hemisphaericum,42.58,1.96
-438626607,Phyteuma_hemisphaericum,42.9,0.06667
 296517296,Phyteuma_hemisphaericum,46.898,11.584
-1842898662,Phyteuma_hemisphaericum,42.4,2.21
 1264998486,Phyteuma_hemisphaericum,47.3942,13.6892
 296517307,Phyteuma_hemisphaericum,46.76,11.581
 296517245,Phyteuma_hemisphaericum,46.636389,11.806111
