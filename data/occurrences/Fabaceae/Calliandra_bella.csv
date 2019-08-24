@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090519354,Calliandra_bella,-15.159722,-39.054722
 1090516407,Calliandra_bella,-14.416667,-39.083333
 1094889287,Calliandra_bella,-17.183333,-39.333333
-1089174926,Calliandra_bella,-7.144444,-34.814167
 1424287310,Calliandra_bella,-19.281667,-40.461944
 1090510373,Calliandra_bella,-13.166667,-39.15
 1930571173,Calliandra_bella,-16.4192,-39.2022
@@ -29,9 +28,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094763678,Calliandra_bella,-16.468889,-39.151667
 1929338639,Calliandra_bella,-15.15,-39.08
 1094765698,Calliandra_bella,-13.461389,-41.760278
-1090485934,Calliandra_bella,-16.385833,-37.180278
-912652086,Calliandra_bella,-16.39,-37.18
-1928393325,Calliandra_bella,-16.3858,-37.1803
 1077207090,Calliandra_bella,-16.266667,-39.016667
 1929146371,Calliandra_bella,-13.6905822702052,-39.4791155302736
 1090459953,Calliandra_bella,-14.781944,-39.069167
@@ -40,7 +36,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1423972927,Calliandra_bella,-14.777222,-39.091111
 1094739918,Calliandra_bella,-14.766667,-39.083333
 912187047,Calliandra_bella,-14.77,-39.08
-1316164993,Calliandra_bella,-21.281,-47.168
 912187029,Calliandra_bella,-14.25,-39.27
 1563195193,Calliandra_bella,-15.1,-39.07
 1090455529,Calliandra_bella,-15.1,-39.066667
@@ -54,7 +49,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090452305,Calliandra_bella,-13.533333,-39.783333
 1094731873,Calliandra_bella,-13.283333,-41.766667
 1095203658,Calliandra_bella,-15.06667,-39.01667
-1423972989,Calliandra_bella,-15.066667,-4.500278
 1931237983,Calliandra_bella,-15.07,-39.02
 1086975536,Calliandra_bella,-15.066667,-39.016667
 1928985306,Calliandra_bella,-16.5,-39.3
@@ -62,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928557711,Calliandra_bella,-13.8169853358915,-41.2967346704298
 1270109539,Calliandra_bella,-16.433333,-39.05
 912186999,Calliandra_bella,-16,-39
-1929310861,Calliandra_bella,-15.86,-38.88
 1929662797,Calliandra_bella,-16.356769,-39.133236
 912187070,Calliandra_bella,-15,-39
 1930098291,Calliandra_bella,-14.5970025727043,-39.2841023667327
