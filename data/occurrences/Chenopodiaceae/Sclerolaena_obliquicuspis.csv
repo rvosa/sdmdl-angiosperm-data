@@ -39,8 +39,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992076849,Sclerolaena_obliquicuspis,-30.369722,135.524167
 1084090486,Sclerolaena_obliquicuspis,-30.36979,135.52416
 992076861,Sclerolaena_obliquicuspis,-30.629167,135.426111
-996963718,Sclerolaena_obliquicuspis,-30.892366,119.022423
-996963721,Sclerolaena_obliquicuspis,-30.853271,118.996174
 992072259,Sclerolaena_obliquicuspis,-32.482331,137.729692
 996208435,Sclerolaena_obliquicuspis,-31.66736,144.25475
 993643824,Sclerolaena_obliquicuspis,-31.6672,144.2547
@@ -65,12 +63,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992051333,Sclerolaena_obliquicuspis,-30.8775,132.203611
 992030678,Sclerolaena_obliquicuspis,-33.636788,136.930268
 1227988170,Sclerolaena_obliquicuspis,-31.9741,126.8912
-993595821,Sclerolaena_obliquicuspis,-35.2833,149.1167
 993586046,Sclerolaena_obliquicuspis,-34.2744,140.9633
 992037786,Sclerolaena_obliquicuspis,-29.884722,133.566944
 992046866,Sclerolaena_obliquicuspis,-33.67,139.11
 1085390723,Sclerolaena_obliquicuspis,-33.67023,139.10578
-996023775,Sclerolaena_obliquicuspis,-31.6175,155.321
 1085374260,Sclerolaena_obliquicuspis,-34.36791,140.51203
 992042334,Sclerolaena_obliquicuspis,-33.925556,140.994444
 1085372531,Sclerolaena_obliquicuspis,-34.24686,140.79569
@@ -271,7 +267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992582335,Sclerolaena_obliquicuspis,-34.116667,140.1
 1085188671,Sclerolaena_obliquicuspis,-29.76603,138.63671
 992597092,Sclerolaena_obliquicuspis,-29.765833,138.636667
-996551257,Sclerolaena_obliquicuspis,-30.814444,119.108056
 992548681,Sclerolaena_obliquicuspis,-32.466667,137.733333
 1937235886,Sclerolaena_obliquicuspis,-33.430278,140.713611
 992557966,Sclerolaena_obliquicuspis,-32.716667,137.833333
@@ -403,8 +398,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085501457,Sclerolaena_obliquicuspis,-32.24416,133.62569
 992504490,Sclerolaena_obliquicuspis,-33.866667,140.866667
 992504519,Sclerolaena_obliquicuspis,-33.966667,140.883333
-996406477,Sclerolaena_obliquicuspis,-26.883056,118.166667
-996406479,Sclerolaena_obliquicuspis,-26.916667,118.549722
 992487994,Sclerolaena_obliquicuspis,-32.466667,137.766667
 992489385,Sclerolaena_obliquicuspis,-30.4,135.35
 992488431,Sclerolaena_obliquicuspis,-31.532044,138.334399
@@ -529,7 +522,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451538884,Sclerolaena_obliquicuspis,-34.415153,143.501286
 992410459,Sclerolaena_obliquicuspis,-31.758333,132.166667
 1142235814,Sclerolaena_obliquicuspis,-30.47176,139.14948
-996406475,Sclerolaena_obliquicuspis,-26,114.3
 992396776,Sclerolaena_obliquicuspis,-32.77,137.954167
 992402017,Sclerolaena_obliquicuspis,-34.7,139.5
 996406481,Sclerolaena_obliquicuspis,-30.95,121.17
@@ -612,7 +604,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1450984135,Sclerolaena_obliquicuspis,-34.05,141.1667
 992251128,Sclerolaena_obliquicuspis,-30.583611,138.946389
 992307707,Sclerolaena_obliquicuspis,-30.5,132.5
-992371202,Sclerolaena_obliquicuspis,-34.916667,137.083333
 995770744,Sclerolaena_obliquicuspis,-32.5,142.67
 992283571,Sclerolaena_obliquicuspis,-32.5,142.7
 1451539039,Sclerolaena_obliquicuspis,-32.498485,142.66794
@@ -640,7 +631,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996501630,Sclerolaena_obliquicuspis,-31.91,126.82
 1451539165,Sclerolaena_obliquicuspis,-32.815135,144.601249
 1937193566,Sclerolaena_obliquicuspis,-32.75,144.7
-996501755,Sclerolaena_obliquicuspis,-26.860278,118.163333
 995770559,Sclerolaena_obliquicuspis,-32.78,144.85
 996501334,Sclerolaena_obliquicuspis,-31.7075,128.8917
 992268370,Sclerolaena_obliquicuspis,-32.7,137.933333
@@ -738,13 +728,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992207304,Sclerolaena_obliquicuspis,-34.033333,137.9
 993772814,Sclerolaena_obliquicuspis,-31.5,144.5333
 993772819,Sclerolaena_obliquicuspis,-31.3167,143.4
-996406463,Sclerolaena_obliquicuspis,-26.945278,117.644722
 993772764,Sclerolaena_obliquicuspis,-31.8,141.2167
-996406473,Sclerolaena_obliquicuspis,-28.063056,118.550833
 993772669,Sclerolaena_obliquicuspis,-33.2833,143.1167
 992221827,Sclerolaena_obliquicuspis,-32.833333,137.433333
 992218938,Sclerolaena_obliquicuspis,-32.733333,137.4
-996406460,Sclerolaena_obliquicuspis,-27.862222,119.293333
 1451448914,Sclerolaena_obliquicuspis,-31.998484,142.451271
 995562517,Sclerolaena_obliquicuspis,-32,142.45
 993176164,Sclerolaena_obliquicuspis,-30.3333,144.5167
@@ -784,9 +771,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992177920,Sclerolaena_obliquicuspis,-33.065278,137.308056
 992177702,Sclerolaena_obliquicuspis,-33.063889,137.318056
 992199820,Sclerolaena_obliquicuspis,-34.192222,138.15
-1937000870,Sclerolaena_obliquicuspis,-30.98,118.92
-996406421,Sclerolaena_obliquicuspis,-31.051111,118.830556
-992178037,Sclerolaena_obliquicuspis,-33.783333,137.716667
 992178018,Sclerolaena_obliquicuspis,-32.416667,135.641667
 994697603,Sclerolaena_obliquicuspis,-30.3667,139.35
 992182376,Sclerolaena_obliquicuspis,-34.1,139.433333
@@ -845,7 +829,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992113821,Sclerolaena_obliquicuspis,-33.689167,139.66
 992113798,Sclerolaena_obliquicuspis,-32.862222,139.859444
 994219854,Sclerolaena_obliquicuspis,-23.315238,133.784587
-996406469,Sclerolaena_obliquicuspis,-27.472,117.665
 992448236,Sclerolaena_obliquicuspis,-32.663,137.886
 992365909,Sclerolaena_obliquicuspis,-32.666667,137.583333
 995001811,Sclerolaena_obliquicuspis,-34.7667,142.2667
@@ -857,7 +840,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992126991,Sclerolaena_obliquicuspis,-30.347778,138.517222
 992109934,Sclerolaena_obliquicuspis,-34.091667,139.441389
 992101546,Sclerolaena_obliquicuspis,-34.1,139.6
-992096503,Sclerolaena_obliquicuspis,-33.5825,137.183333
 992114379,Sclerolaena_obliquicuspis,-32.5075,136.483056
 992091783,Sclerolaena_obliquicuspis,-34.269167,140.555833
 993632288,Sclerolaena_obliquicuspis,-28.6167,132.1833
