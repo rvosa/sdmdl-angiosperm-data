@@ -1,8 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936842745,Acacia_eriopoda,-22.331,124.725
-1229649583,Acacia_eriopoda,-17.5165,122.1648
-1805870915,Acacia_eriopoda,-17.960389,122.210222
-1229649581,Acacia_eriopoda,-17.517525,122.159011
 1805869657,Acacia_eriopoda,-24.368028,122.021444
 1805882945,Acacia_eriopoda,-25.114307,120.721488
 996941787,Acacia_eriopoda,-20.15025,120.21225
@@ -44,7 +41,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995372049,Acacia_eriopoda,-18.1497,122.5328
 995372033,Acacia_eriopoda,-25.4717,119.5622
 995372009,Acacia_eriopoda,-21.1722,119.8983
-995372067,Acacia_eriopoda,-17.9667,122.2333
 995372041,Acacia_eriopoda,-18.0258,122.5983
 993446312,Acacia_eriopoda,-22.3217,122.0786
 996562475,Acacia_eriopoda,-22.114167,119.868056
@@ -56,10 +52,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996455999,Acacia_eriopoda,-18.292222,127.207778
 996231387,Acacia_eriopoda,-17.659,123.846
 996457410,Acacia_eriopoda,-18.366111,123.090278
-996677344,Acacia_eriopoda,-17.95,122.25
 996902557,Acacia_eriopoda,-24.2,120.5
 996396404,Acacia_eriopoda,-17.421667,128.300556
-996396473,Acacia_eriopoda,-17.96,122.23
 996334468,Acacia_eriopoda,-19.866667,128.133333
 994333601,Acacia_eriopoda,-17.315275,128.451256
 995064213,Acacia_eriopoda,-17.4833,128.3667
@@ -79,7 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996529020,Acacia_eriopoda,-24.33,116.85
 996982412,Acacia_eriopoda,-21.283333,119.666667
 994318637,Acacia_eriopoda,-18.181949,125.601281
-996935427,Acacia_eriopoda,-17.783333,122.266667
 996936445,Acacia_eriopoda,-18.45,128.78
 993397253,Acacia_eriopoda,-17.8833,122.3
 995371957,Acacia_eriopoda,-18.1667,125.6
@@ -93,7 +86,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995792977,Acacia_eriopoda,-17.45,128.42
 995029803,Acacia_eriopoda,-17.45,128.4222
 996526750,Acacia_eriopoda,-17.835278,122.301389
-996526462,Acacia_eriopoda,-17.966667,122.233333
 996529069,Acacia_eriopoda,-22.8,120.9
 996527470,Acacia_eriopoda,-18.181667,124.851944
 996307956,Acacia_eriopoda,-24.165556,116.505833
@@ -104,12 +96,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996902643,Acacia_eriopoda,-22.5,118.7
 996527993,Acacia_eriopoda,-23.4,124.1
 996529559,Acacia_eriopoda,-18.683333,121.783333
-996526905,Acacia_eriopoda,-17.6,122.2
 993286400,Acacia_eriopoda,-21.3667,119.5667
-996527116,Acacia_eriopoda,-17.316667,122.183333
 996528641,Acacia_eriopoda,-21.366667,119.566667
 994699923,Acacia_eriopoda,-17.8667,122.3667
-996527219,Acacia_eriopoda,-17.3,122.2
 996530047,Acacia_eriopoda,-19.366667,121.533333
 996527270,Acacia_eriopoda,-17.897778,122.430833
 996528288,Acacia_eriopoda,-20,120
@@ -129,8 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996527716,Acacia_eriopoda,-22.5,122.4
 994253186,Acacia_eriopoda,-22.881999,121.984672
 996527898,Acacia_eriopoda,-22.8,121.9
-996526771,Acacia_eriopoda,-17.233333,122.183333
-996527281,Acacia_eriopoda,-17.316667,122.166667
 996527921,Acacia_eriopoda,-17.425,122.362
 993446454,Acacia_eriopoda,-17.9,124.6667
 996565869,Acacia_eriopoda,-17.9,124.7
@@ -145,7 +132,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996463698,Acacia_eriopoda,-17.8,122.7
 996692659,Acacia_eriopoda,-17.95,122.38
 996128161,Acacia_eriopoda,-17.65,123.17
-996128232,Acacia_eriopoda,-17.97,122.23
 996128120,Acacia_eriopoda,-18.2,122.45
 996644921,Acacia_eriopoda,-18.181389,125.908889
 994903300,Acacia_eriopoda,-18.3333,125.65
@@ -158,7 +144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995937644,Acacia_eriopoda,-18.72,121.9
 996765676,Acacia_eriopoda,-18.7,121.9
 994119969,Acacia_eriopoda,-18,122.5
-995966021,Acacia_eriopoda,-17.9,122.25
 995663998,Acacia_eriopoda,-18.18,125.6
 996525468,Acacia_eriopoda,-17.303056,124.577778
 996527608,Acacia_eriopoda,-20.316667,119.416667
@@ -172,8 +157,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996302286,Acacia_eriopoda,-17.908889,123.684167
 996269286,Acacia_eriopoda,-17.5,124.2
 996529902,Acacia_eriopoda,-22.55,122.18
-995839068,Acacia_eriopoda,-17.95,122.2
-994235338,Acacia_eriopoda,-17.948642,122.201299
 993269957,Acacia_eriopoda,-22.55,122.1833
 996528488,Acacia_eriopoda,-22.231389,122.851667
 1937063853,Acacia_eriopoda,-22.5,122.07
@@ -193,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996529572,Acacia_eriopoda,-18.383056,126.983333
 996529182,Acacia_eriopoda,-18.033333,123.933333
 993744737,Acacia_eriopoda,-17.8333,122.5833
-995164454,Acacia_eriopoda,-17.9667,122.2167
 996530103,Acacia_eriopoda,-23.186111,120.786389
 996529684,Acacia_eriopoda,-19.256667,121.481667
 995174211,Acacia_eriopoda,-17.3667,124
