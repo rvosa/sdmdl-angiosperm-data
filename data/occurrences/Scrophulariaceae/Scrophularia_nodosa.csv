@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935723998,Scrophularia_nodosa,47.09333,15.325
-1989760284,Scrophularia_nodosa,48.9775,15.3
 1995324612,Scrophularia_nodosa,48.24275,14.47333
 1919928414,Scrophularia_nodosa,47.57139,13.62361
 1919928408,Scrophularia_nodosa,47.56861,13.64222
@@ -123,19 +122,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342957022,Scrophularia_nodosa,55.759299,8.927007
 1342957177,Scrophularia_nodosa,55.820176,9.708929
 1060658461,Scrophularia_nodosa,53.100452,12.881721
-1795579806,Scrophularia_nodosa,43.1,-1.7
 441935530,Scrophularia_nodosa,50.570217,12.597302
 441935503,Scrophularia_nodosa,48.496788,8.58875
 441935531,Scrophularia_nodosa,51.221821,14.966968
 2313347106,Scrophularia_nodosa,48.06,11.61
 1705349997,Scrophularia_nodosa,57.043183,15.660255
 1701765979,Scrophularia_nodosa,63.311,10.2522
-1697651952,Scrophularia_nodosa,51.166667,40.3
 1323852495,Scrophularia_nodosa,67.1485,15.4032
 1701762208,Scrophularia_nodosa,63.3177,10.3923
 1323851541,Scrophularia_nodosa,67.1751,15.3823
 1999602838,Scrophularia_nodosa,60.187703,22.533888
-786271944,Scrophularia_nodosa,50.9,13.9
 1701321570,Scrophularia_nodosa,62.8924,6.8065
 186836892,Scrophularia_nodosa,58.5005,6.6877
 1702196260,Scrophularia_nodosa,59.1048,5.5745
@@ -158,8 +154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441935467,Scrophularia_nodosa,52.888889,11.175834
 1503365967,Scrophularia_nodosa,52.470833,13.223611
 1701277628,Scrophularia_nodosa,64.5752,10.9531
-786271821,Scrophularia_nodosa,49.5,8.4
-786271891,Scrophularia_nodosa,49.5,8.5
 441935453,Scrophularia_nodosa,52.123055,11.636666
 1702213749,Scrophularia_nodosa,59.6328,10.7405
 1701641331,Scrophularia_nodosa,59.6666,11.2625
@@ -218,7 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187255402,Scrophularia_nodosa,63.1482,7.9979
 1323847700,Scrophularia_nodosa,68.985,17.5155
 1697651792,Scrophularia_nodosa,56.080848,40.097316
-786271935,Scrophularia_nodosa,48,8.6
 2284481605,Scrophularia_nodosa,51.277164,12.973773
 1270042699,Scrophularia_nodosa,51.760391,13.10492
 1701779933,Scrophularia_nodosa,63.2641,10.4654
@@ -233,7 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323840981,Scrophularia_nodosa,66.8786,13.8476
 1831336962,Scrophularia_nodosa,53.4485,11.4153
 1701338166,Scrophularia_nodosa,64.4294,11.0445
-786271915,Scrophularia_nodosa,48,9
 186836354,Scrophularia_nodosa,58.5858,7.396
 1701224393,Scrophularia_nodosa,62.9791,9.7793
 187254945,Scrophularia_nodosa,63.9835,11.4626
@@ -257,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186836283,Scrophularia_nodosa,58.3457,7.6888
 1701963011,Scrophularia_nodosa,64.5123,11.5946
 1701292125,Scrophularia_nodosa,63.3119,9.1307
-786271925,Scrophularia_nodosa,48,8.9
 186836321,Scrophularia_nodosa,58.7862,8.9559
 1270042610,Scrophularia_nodosa,50.572502,12.16006
 186836284,Scrophularia_nodosa,58.2467,7.9549
@@ -376,10 +367,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831337275,Scrophularia_nodosa,53.3485,11.4153
 1839074901,Scrophularia_nodosa,41.012501,22.343889
 1668934339,Scrophularia_nodosa,54.855,37.603
-786271919,Scrophularia_nodosa,47.8,8.1
 1598702250,Scrophularia_nodosa,60.998119,24.474748
 1598702314,Scrophularia_nodosa,60.972014,24.471277
-1144782820,Scrophularia_nodosa,42.36667,9.3
 1598702289,Scrophularia_nodosa,60.994859,24.492571
 1323797269,Scrophularia_nodosa,69.4993,19.017
 1701849527,Scrophularia_nodosa,61.3735,11.4184
@@ -474,9 +463,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598699493,Scrophularia_nodosa,62.034253,21.46358
 1701884165,Scrophularia_nodosa,61.3694,11.4228
 1701305420,Scrophularia_nodosa,61.1597,10.3658
-1144782821,Scrophularia_nodosa,42.41667,9.3
 1697651801,Scrophularia_nodosa,54.638137,40.691275
-2307714310,Scrophularia_nodosa,51.6,-4.01
 1144184542,Scrophularia_nodosa,60.2521,5.2678
 1144782835,Scrophularia_nodosa,42.38333,9.36667
 1144782826,Scrophularia_nodosa,42.38333,9.38333
@@ -574,7 +561,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701927323,Scrophularia_nodosa,61.9528,7.0268
 1701927519,Scrophularia_nodosa,60.8075,9.6157
 1702421539,Scrophularia_nodosa,60.7987,9.5604
-2289231330,Scrophularia_nodosa,52.5,6.466667
 1701988998,Scrophularia_nodosa,59.5695,9.2478
 1323865232,Scrophularia_nodosa,67.331,14.7094
 187254508,Scrophularia_nodosa,63.6797,9.0505
@@ -671,7 +657,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697651807,Scrophularia_nodosa,54.823116,41.644764
 1848994100,Scrophularia_nodosa,48.21667,16.23333
 1598702431,Scrophularia_nodosa,61.746979,23.115068
-1144782805,Scrophularia_nodosa,42.43333,9.4
 1701791007,Scrophularia_nodosa,62.0062,6.0682
 1701717823,Scrophularia_nodosa,61.32397,6.51018
 1981550978,Scrophularia_nodosa,62.24268,7.4387
@@ -837,7 +822,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598702468,Scrophularia_nodosa,61.556773,22.762147
 1701318537,Scrophularia_nodosa,63.6166,9.7362
 1598702506,Scrophularia_nodosa,60.724847,27.271868
-2291025588,Scrophularia_nodosa,51.1,-4.216667
 1999571341,Scrophularia_nodosa,60.49073,22.200643
 57723040,Scrophularia_nodosa,61.065899,25.0798
 57723045,Scrophularia_nodosa,62.214199,25.8146
@@ -1026,7 +1010,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788576530,Scrophularia_nodosa,61.23108,16.5638
 1701968918,Scrophularia_nodosa,63.6732,10.5259
 1701568166,Scrophularia_nodosa,61.032,10.5454
-860319692,Scrophularia_nodosa,42.4,1.72
 788448248,Scrophularia_nodosa,57.322695,14.340397
 1701775780,Scrophularia_nodosa,59.2405,10.9721
 2313562631,Scrophularia_nodosa,49.49,5.98
@@ -1118,7 +1101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788594862,Scrophularia_nodosa,55.62233,13.12635
 788585610,Scrophularia_nodosa,55.58066,13.14791
 1701396931,Scrophularia_nodosa,59.1509,11.1007
-786271812,Scrophularia_nodosa,47.9,20
 1701927425,Scrophularia_nodosa,60.0442,9.6373
 21449039,Scrophularia_nodosa,59.5255,10.3151
 1701248888,Scrophularia_nodosa,63.8935,10.874
@@ -1167,7 +1149,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598702430,Scrophularia_nodosa,61.794669,28.418774
 788545933,Scrophularia_nodosa,56.29682,14.31287
 899813304,Scrophularia_nodosa,47.416668,13.25
-786271896,Scrophularia_nodosa,47.6,13.3
 1999602950,Scrophularia_nodosa,59.960838,23.505513
 788581964,Scrophularia_nodosa,59.08488,16.58072
 1701229349,Scrophularia_nodosa,63.5025,10.0346
@@ -1180,7 +1161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697651888,Scrophularia_nodosa,56.520963,41.910499
 1702423901,Scrophularia_nodosa,59.7423,5.7115
 2313348168,Scrophularia_nodosa,48.13,11.49
-616356679,Scrophularia_nodosa,50.83,5.9
 1697651828,Scrophularia_nodosa,55.223102,40.143433
 1702423861,Scrophularia_nodosa,60.3224,6.1805
 1598702447,Scrophularia_nodosa,63.637543,23.262597
