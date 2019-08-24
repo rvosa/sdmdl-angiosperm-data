@@ -91,12 +91,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259711059,Cucurbita_argyrosperma_subsp._sororia,21.45,-104.933333
 1259709825,Cucurbita_argyrosperma_subsp._sororia,21.43333,-105.08333
 1895809138,Cucurbita_argyrosperma_subsp._sororia,21.441667,-105.091667
-1896110300,Cucurbita_argyrosperma_subsp._sororia,21.5,-104.563889
 1895775044,Cucurbita_argyrosperma_subsp._sororia,16.825,-95.108333
 1893371160,Cucurbita_argyrosperma_subsp._sororia,18.758333,-96.475
 1895774784,Cucurbita_argyrosperma_subsp._sororia,28.491667,-109.391667
 1259708334,Cucurbita_argyrosperma_subsp._sororia,26.91666,-108.91666
-1258547242,Cucurbita_argyrosperma_subsp._sororia,18.6,-96.4
 1258547335,Cucurbita_argyrosperma_subsp._sororia,18.75,-96.46
 1893371189,Cucurbita_argyrosperma_subsp._sororia,18.608333,-96.408333
 1895775150,Cucurbita_argyrosperma_subsp._sororia,26.913889,-108.925
@@ -125,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895775146,Cucurbita_argyrosperma_subsp._sororia,21.475,-104.841667
 1895775056,Cucurbita_argyrosperma_subsp._sororia,15.838333,-96.491667
 1895776612,Cucurbita_argyrosperma_subsp._sororia,19.341667,-96.675
-1421791406,Cucurbita_argyrosperma_subsp._sororia,17.7,-101.525
 1895774936,Cucurbita_argyrosperma_subsp._sororia,15.725,-96.688333
 1895776197,Cucurbita_argyrosperma_subsp._sororia,18.891667,-98.858333
 1893371080,Cucurbita_argyrosperma_subsp._sororia,15.704167,-96.619444
@@ -151,9 +148,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894974619,Cucurbita_argyrosperma_subsp._sororia,24.275,-106.525
 1895775101,Cucurbita_argyrosperma_subsp._sororia,24.808333,-107.391667
 1895774946,Cucurbita_argyrosperma_subsp._sororia,24.308333,-106.558333
-1259709252,Cucurbita_argyrosperma_subsp._sororia,21.566667,-104.9
 1893371232,Cucurbita_argyrosperma_subsp._sororia,22.0175,-105.383056
-1259707264,Cucurbita_argyrosperma_subsp._sororia,22,-105.416667
 1893371288,Cucurbita_argyrosperma_subsp._sororia,15.262778,-92.403611
 1893371158,Cucurbita_argyrosperma_subsp._sororia,15.541667,-92.125
 1895775086,Cucurbita_argyrosperma_subsp._sororia,15.691667,-92.141667
@@ -220,7 +215,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895776222,Cucurbita_argyrosperma_subsp._sororia,27.508333,-105.008333
 1893371266,Cucurbita_argyrosperma_subsp._sororia,17.891667,-101.358333
 1895775126,Cucurbita_argyrosperma_subsp._sororia,22.508333,-105.375
-1228406616,Cucurbita_argyrosperma_subsp._sororia,17.6667,-100
 1895775067,Cucurbita_argyrosperma_subsp._sororia,23.841667,-106.425
 1895776159,Cucurbita_argyrosperma_subsp._sororia,27.258333,-108.758333
 1895776671,Cucurbita_argyrosperma_subsp._sororia,26.591667,-108.341667
@@ -272,7 +266,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259709109,Cucurbita_argyrosperma_subsp._sororia,15.68333,-92.01666
 1895775096,Cucurbita_argyrosperma_subsp._sororia,16.508333,-93.991667
 1893445988,Cucurbita_argyrosperma_subsp._sororia,20.775,-88.408333
-1503413840,Cucurbita_argyrosperma_subsp._sororia,15.433333,-92.1
 1895774848,Cucurbita_argyrosperma_subsp._sororia,18.425,-95.175
 1895775058,Cucurbita_argyrosperma_subsp._sororia,15.691667,-92.025
 2236056692,Cucurbita_argyrosperma_subsp._sororia,18.42,-95.175
@@ -338,7 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896259028,Cucurbita_argyrosperma_subsp._sororia,20.932778,-89.125
 1895776565,Cucurbita_argyrosperma_subsp._sororia,20.708333,-89.225
 1259706635,Cucurbita_argyrosperma_subsp._sororia,20.785278,-88.413611
-1421415060,Cucurbita_argyrosperma_subsp._sororia,20.7,-88.2375
 1893446117,Cucurbita_argyrosperma_subsp._sororia,20.175,-89.541667
 1893371314,Cucurbita_argyrosperma_subsp._sororia,18.958889,-103.622222
 1893371275,Cucurbita_argyrosperma_subsp._sororia,17.202778,-100.616667
@@ -379,8 +371,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261259729,Cucurbita_argyrosperma_subsp._sororia,13.11666,-86.43333
 1895776370,Cucurbita_argyrosperma_subsp._sororia,16.708333,-93.025
 1895774959,Cucurbita_argyrosperma_subsp._sororia,16.641667,-92.958333
-1258712306,Cucurbita_argyrosperma_subsp._sororia,12.7,-87.05
-1258599423,Cucurbita_argyrosperma_subsp._sororia,12.95,-87.6
 1895775004,Cucurbita_argyrosperma_subsp._sororia,16.941667,-91.375
 1893371341,Cucurbita_argyrosperma_subsp._sororia,18.825,-101.625
 1895775041,Cucurbita_argyrosperma_subsp._sororia,19.325,-96.525
@@ -392,7 +382,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893371171,Cucurbita_argyrosperma_subsp._sororia,16.121944,-91.757778
 1895776653,Cucurbita_argyrosperma_subsp._sororia,22.758333,-99.975
 1893371230,Cucurbita_argyrosperma_subsp._sororia,19.821111,-105.285556
-1258547229,Cucurbita_argyrosperma_subsp._sororia,8.8,-82.505
 1893590529,Cucurbita_argyrosperma_subsp._sororia,29.181667,-110.136389
 1893590617,Cucurbita_argyrosperma_subsp._sororia,28.886389,-109.747778
 1893371193,Cucurbita_argyrosperma_subsp._sororia,16.002778,-97.559444
@@ -455,18 +444,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893371170,Cucurbita_argyrosperma_subsp._sororia,19.525,-103.508333
 1893371211,Cucurbita_argyrosperma_subsp._sororia,18.958333,-103.891667
 1893371152,Cucurbita_argyrosperma_subsp._sororia,19.525,-105.008333
-1893371206,Cucurbita_argyrosperma_subsp._sororia,19.233333,-104.7
 1893371316,Cucurbita_argyrosperma_subsp._sororia,19.241667,-104.708333
 1895391825,Cucurbita_argyrosperma_subsp._sororia,28.460561,-109.527219
 1893371117,Cucurbita_argyrosperma_subsp._sororia,22.925,-105.808333
 1895775043,Cucurbita_argyrosperma_subsp._sororia,16.441667,-92.341667
-1895391835,Cucurbita_argyrosperma_subsp._sororia,17.79,-94.1
 1893371365,Cucurbita_argyrosperma_subsp._sororia,18.808333,-96.058333
-1258547163,Cucurbita_argyrosperma_subsp._sororia,18.8,-96.06
 1258547351,Cucurbita_argyrosperma_subsp._sororia,18.69,-96.01
 1895774979,Cucurbita_argyrosperma_subsp._sororia,18.741667,-95.991667
 1893371247,Cucurbita_argyrosperma_subsp._sororia,19.315833,-103.034722
-1258713812,Cucurbita_argyrosperma_subsp._sororia,8.6,-79.88333
 1259709641,Cucurbita_argyrosperma_subsp._sororia,19.179722,-103.673889
 1259706571,Cucurbita_argyrosperma_subsp._sororia,19.411389,-103.386111
 1259709518,Cucurbita_argyrosperma_subsp._sororia,19.343611,-104.728889
@@ -533,4 +518,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895776435,Cucurbita_argyrosperma_subsp._sororia,13.700896,-89.199893
 1895774791,Cucurbita_argyrosperma_subsp._sororia,24.825,-107.408333
 1893371143,Cucurbita_argyrosperma_subsp._sororia,21.508333,-104.908333
-1259710014,Cucurbita_argyrosperma_subsp._sororia,24.8,-107.4
