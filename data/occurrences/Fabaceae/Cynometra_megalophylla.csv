@@ -15,9 +15,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234860271,Cynometra_megalophylla,6.5,-3.5
 2288754925,Cynometra_megalophylla,7.083333,-5.883333
 1258282721,Cynometra_megalophylla,5.83333,0.2
-621085965,Cynometra_megalophylla,5.5,0.127
 2290665245,Cynometra_megalophylla,5.833333,0.211667
-621085101,Cynometra_megalophylla,4.536,-1.501
 1261886701,Cynometra_megalophylla,4.89333,-1.835
 2288873214,Cynometra_megalophylla,4.893333,-1.835
 2252218592,Cynometra_megalophylla,5.1,-2.4
@@ -26,7 +24,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317861746,Cynometra_megalophylla,9,-3.05
 2289539222,Cynometra_megalophylla,7.6,1.283333
 2234859856,Cynometra_megalophylla,6.216667,-5.016667
-2291934016,Cynometra_megalophylla,7.333333,13.833333
 1945000457,Cynometra_megalophylla,7.397228,3.52562
 2288681134,Cynometra_megalophylla,7.416667,3.533333
 1844889681,Cynometra_megalophylla,5.717971,-7.403381
@@ -41,10 +38,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 621165946,Cynometra_megalophylla,7.45,-0.59
 1844889655,Cynometra_megalophylla,7.67133,-5.57393
 1844889668,Cynometra_megalophylla,5.804204,-6.629836
-621165947,Cynometra_megalophylla,5.34,-0.2
 621165948,Cynometra_megalophylla,6.38,-0.17
 1844889732,Cynometra_megalophylla,4.94947,-6.09352
 621165951,Cynometra_megalophylla,7.28,-0.22
-2252218077,Cynometra_megalophylla,5.37,0.14
 621165952,Cynometra_megalophylla,7.37,0.19
 621165955,Cynometra_megalophylla,5.01,-1.37
