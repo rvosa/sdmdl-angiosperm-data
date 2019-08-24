@@ -7,7 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1801061599,Aster_alpinus,54.2827,126.871
 1801061633,Aster_alpinus,51.14899,107.11209
 1801067180,Aster_alpinus,54.716667,46.883333
-2242418259,Aster_alpinus,39.732207,-104.961468
 1842878251,Aster_alpinus,43.07622,-3.23567
 1842896894,Aster_alpinus,40.4227,44.1927
 1831515921,Aster_alpinus,40.42667,44.19889
@@ -104,7 +103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697291077,Aster_alpinus,70.99759,102.7022
 1146247310,Aster_alpinus,65.116667,-134.416667
 1988124702,Aster_alpinus,65.119016,-134.421037
-1936648363,Aster_alpinus,42.5467,1.4542
 1697291095,Aster_alpinus,71.15389,102.6752
 1050643000,Aster_alpinus,43.08,-1.76
 1851395290,Aster_alpinus,42.93691,-5.54787
@@ -282,7 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050601038,Aster_alpinus,42.56,0.62
 1936622128,Aster_alpinus,42.5147,0.5642
 1050653215,Aster_alpinus,43.02,-0.98
-2242400484,Aster_alpinus,39.732042,-104.961511
 1697291215,Aster_alpinus,49.916667,89.25
 1050600956,Aster_alpinus,42.6,-2.57
 1050601177,Aster_alpinus,42.98,-0.99
@@ -335,7 +332,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 296417955,Aster_alpinus,46.683,12.502
 1851369530,Aster_alpinus,43.01,-5.52
 296417953,Aster_alpinus,47.031,12.366
-1801062475,Aster_alpinus,68.140755,-177.256632
 1949572904,Aster_alpinus,60.1,-127.408333
 883415843,Aster_alpinus,50.2311,-114.5161
 1697304997,Aster_alpinus,53.855636,127.358433
@@ -425,7 +421,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788427909,Aster_alpinus,37.95,22.233333
 2289735101,Aster_alpinus,44,7.433333
 1697291066,Aster_alpinus,67.03294,92.11312
-1897829974,Aster_alpinus,-43.483333,172.55
 1988155818,Aster_alpinus,58.93,-125.77
 1146361828,Aster_alpinus,61.01,-138.63
 1274894958,Aster_alpinus,52.92679,-117.496693
