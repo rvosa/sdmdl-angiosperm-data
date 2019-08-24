@@ -28,7 +28,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 890173236,Molineria_capitulata,24.894722,98.675556
 1426201456,Molineria_capitulata,24.927975,98.766525
 919454848,Molineria_capitulata,21.475834,101.56752
-37610664,Molineria_capitulata,21.3167,-157.8
 1258816165,Molineria_capitulata,-3.36833,36.695
 1258816186,Molineria_capitulata,-3.32722,36.6225
 1318799697,Molineria_capitulata,22.22,-159.57
@@ -41,9 +40,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994074380,Molineria_capitulata,-17.6167,145.6167
 1123798482,Molineria_capitulata,-19.936111,-40.616667
 1259002606,Molineria_capitulata,13.66666,-89.25
-1077199987,Molineria_capitulata,-12.966667,-38.5
 1652173388,Molineria_capitulata,-17.30693,145.84251
-994068546,Molineria_capitulata,-17.2667,145.9
 994063141,Molineria_capitulata,-16.4667,145.3167
 1652192542,Molineria_capitulata,-17.856927,146.109175
 994062134,Molineria_capitulata,-17.6667,145.85
@@ -52,10 +49,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2247703253,Molineria_capitulata,-31.699722,-63.531111
 891598190,Molineria_capitulata,22.031667,121.551944
 47808155,Molineria_capitulata,19.416,101.166
-994057980,Molineria_capitulata,-17.1,145.6833
 994212383,Molineria_capitulata,-17.2667,145.8833
 994058945,Molineria_capitulata,-17.5333,145.4167
-1261333542,Molineria_capitulata,38.6,-90.25
 1802530504,Molineria_capitulata,27.7477,98.352501
 994326821,Molineria_capitulata,-13.548595,130.167893
 1253710839,Molineria_capitulata,9.916667,-84.141667
@@ -67,12 +62,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 36214813,Molineria_capitulata,-6.73333,146.883
 1261902207,Molineria_capitulata,-6.73333,146.88333
 994320487,Molineria_capitulata,-12.348584,134.9345
-2291323375,Molineria_capitulata,3.716667,101.7
 1257395606,Molineria_capitulata,-16.1667,145.4167
 1652065338,Molineria_capitulata,-17.540262,145.84251
 1936937155,Molineria_capitulata,-17.53,145.83
 891607619,Molineria_capitulata,25.018056,121.735
-2287867840,Molineria_capitulata,0.566667,123.9
 1258236051,Molineria_capitulata,13.67222,-89.25
 2287871236,Molineria_capitulata,-3.141786,126.228098
 891619387,Molineria_capitulata,22.030278,121.553611
@@ -91,14 +84,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030917641,Molineria_capitulata,24.175587,110.235565
 1928768201,Molineria_capitulata,18.31096,-66.69693
 37610768,Molineria_capitulata,21.45,-157.783
-2287868199,Molineria_capitulata,-1,120
 2287869622,Molineria_capitulata,14.35,101.366667
 2287868204,Molineria_capitulata,3.416667,97.666667
 2287867785,Molineria_capitulata,3.916667,98.083333
-994159904,Molineria_capitulata,-17.5,145.75
 1030926937,Molineria_capitulata,22.391288,106.817838
-993300488,Molineria_capitulata,-23.3667,150.5
-1258332989,Molineria_capitulata,12.1,-86.316667
 993813743,Molineria_capitulata,-35.2833,149.1167
 621138974,Molineria_capitulata,5.51,-0.11
 2252218888,Molineria_capitulata,5.51,0.11
@@ -131,10 +120,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994146983,Molineria_capitulata,-17.2667,145.4667
 1651877252,Molineria_capitulata,-17.423596,145.84251
 1030948802,Molineria_capitulata,24.846283,110.451522
-2287869316,Molineria_capitulata,6.083333,116.6
 1651934068,Molineria_capitulata,-17.415262,145.917509
 919581497,Molineria_capitulata,25.012526,102.700013
-2287878993,Molineria_capitulata,-6.75,147
 1030948818,Molineria_capitulata,24.392902,106.633387
 993331037,Molineria_capitulata,-17.3333,145.8667
 1030948801,Molineria_capitulata,25.000411,107.045385
@@ -142,8 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030948817,Molineria_capitulata,23.327903,107.580539
 919581518,Molineria_capitulata,23.880344,100.092756
 1030948842,Molineria_capitulata,22.464142,107.839351
-2287868640,Molineria_capitulata,-1.7,101.266667
-2287878977,Molineria_capitulata,-5,140
 1030948779,Molineria_capitulata,23.25013,111.266023
 919581450,Molineria_capitulata,22.983563,103.687613
 919581501,Molineria_capitulata,22.792186,103.086573
@@ -153,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287876965,Molineria_capitulata,-2.20311,133.2589
 2287868145,Molineria_capitulata,-0.383333,100.466667
 2287868467,Molineria_capitulata,1.183333,127.45
-37610389,Molineria_capitulata,21.3,-157.85
 994132185,Molineria_capitulata,-17.3333,146.0167
 1030948799,Molineria_capitulata,23.519195,110.462487
 1303984393,Molineria_capitulata,23.380294,104.254632
@@ -169,7 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303785017,Molineria_capitulata,31.461477,104.743084
 1030948825,Molineria_capitulata,25.104264,107.509707
 1030948809,Molineria_capitulata,24.045429,109.85442
-2287377156,Molineria_capitulata,-5.4,102.27
 2287869415,Molineria_capitulata,3.016667,100.25
 2287868746,Molineria_capitulata,3.033333,99.866667
 994132131,Molineria_capitulata,-17.4167,145.8167
@@ -199,10 +182,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287867249,Molineria_capitulata,-2.183333,99.716667
 1303785000,Molineria_capitulata,21.613427,108.053037
 1651934016,Molineria_capitulata,-17.248596,145.917508
-2287868396,Molineria_capitulata,1.816667,127.8
 2287868818,Molineria_capitulata,0.774378,127.319931
 2287870322,Molineria_capitulata,1.066667,104.466667
-2287872014,Molineria_capitulata,-0.4,100.35
 2287869611,Molineria_capitulata,0.1651,100.811
 2287869175,Molineria_capitulata,-0.322207,100.673199
 891694780,Molineria_capitulata,22.508333,120.692778
