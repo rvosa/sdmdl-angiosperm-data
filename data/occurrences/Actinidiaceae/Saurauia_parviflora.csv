@@ -7,9 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1707556773,Saurauia_parviflora,1.283333,-78.25
 1707556793,Saurauia_parviflora,1.283331,-78.25
 1258400384,Saurauia_parviflora,2.53472,-76.97694
-1576185256,Saurauia_parviflora,5.109444,-75.7
-1099626483,Saurauia_parviflora,1.5,-78.3333
-1099641725,Saurauia_parviflora,1.36667,-78.2
 1099638870,Saurauia_parviflora,2.54403,-77.00855
 1576183779,Saurauia_parviflora,5.508889,-75.401389
 1259228349,Saurauia_parviflora,6.58333,-76.83333
@@ -18,8 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1800543388,Saurauia_parviflora,1.94079,-77.32289
 1259231178,Saurauia_parviflora,1.16666,-77.96666
 1099636649,Saurauia_parviflora,1.13688,-77.97539
-1099628783,Saurauia_parviflora,1.3,-78.066667
-1259230626,Saurauia_parviflora,1.3,-78.05
 1576170878,Saurauia_parviflora,4.9908,-75.598722
 1259228153,Saurauia_parviflora,1.06666,-78.03333
 1099636483,Saurauia_parviflora,1.14692,-77.98289
@@ -36,7 +31,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099630158,Saurauia_parviflora,1.36616,-78.1155
 1099635880,Saurauia_parviflora,1.16028,-77.98689
 1259227406,Saurauia_parviflora,1.08333,-78.01666
-1261490503,Saurauia_parviflora,4,-76
 1259227517,Saurauia_parviflora,1.25,-78.15
 1099629987,Saurauia_parviflora,1.335568,-78.121409
 1259216134,Saurauia_parviflora,3.95074,-76.21954
@@ -47,6 +41,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099628710,Saurauia_parviflora,1.23711,-78.128
 1099641649,Saurauia_parviflora,1.29084,-78.09928
 1123902803,Saurauia_parviflora,2.52663,-76.9663
-1099628936,Saurauia_parviflora,1.3,-78.0667
 1099641550,Saurauia_parviflora,1.29071,-78.09903
 1099635342,Saurauia_parviflora,1.16683,-77.97479
