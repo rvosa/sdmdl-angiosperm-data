@@ -97,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829626026,Actinidia_kolomikta,36.781111,139.070833
 2244464373,Actinidia_kolomikta,40.32619,140.74759
 1697268711,Actinidia_kolomikta,49.416667,136.333333
-1697268757,Actinidia_kolomikta,48.166667,135
 1030772025,Actinidia_kolomikta,29.990847,109.484961
 393089210,Actinidia_kolomikta,36.0334,138.3302
 393089212,Actinidia_kolomikta,36.0085,139.08423
@@ -138,7 +137,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697268762,Actinidia_kolomikta,42.577435,131.191284
 1697268805,Actinidia_kolomikta,44.035275,134.204139
 245535516,Actinidia_kolomikta,35.574077,139.278063
-1829604068,Actinidia_kolomikta,36.9,139.4
 1030835765,Actinidia_kolomikta,30.066708,102.758313
 187974593,Actinidia_kolomikta,35.482417,139.128078
 1933892075,Actinidia_kolomikta,36.80717,137.80186
@@ -148,7 +146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697268706,Actinidia_kolomikta,47.039967,142.053981
 2244459772,Actinidia_kolomikta,35.70435,138.72888
 1030960547,Actinidia_kolomikta,26.830907,116.84608
-1830182863,Actinidia_kolomikta,36.816667,137.7
 1697268684,Actinidia_kolomikta,48.066008,136.376964
 2200616888,Actinidia_kolomikta,35.309549,127.579089
 1697268697,Actinidia_kolomikta,48.893786,131.177303
@@ -181,13 +178,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729328189,Actinidia_kolomikta,35.468899,134.634
 1829602773,Actinidia_kolomikta,36.547222,139.185833
 1829600118,Actinidia_kolomikta,36.55,138.455
-1829605353,Actinidia_kolomikta,36.4,138.5
 2200617114,Actinidia_kolomikta,38.08285,128.427616
 2200611225,Actinidia_kolomikta,38.085133,128.405923
 1697268730,Actinidia_kolomikta,43.171657,132.782474
 2200616983,Actinidia_kolomikta,37.467197,130.837589
 2244459287,Actinidia_kolomikta,35.32362,137.81609
-1829609103,Actinidia_kolomikta,36.4,138.4
 1828819771,Actinidia_kolomikta,36.868647,139.394877
 1030851909,Actinidia_kolomikta,28.262715,103.571742
 1697268761,Actinidia_kolomikta,43.094583,131.485048
@@ -216,11 +211,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030771956,Actinidia_kolomikta,30.295026,109.479425
 1030718836,Actinidia_kolomikta,33.392394,104.926525
 1829892290,Actinidia_kolomikta,35.275333,138.332972
-1829610975,Actinidia_kolomikta,36.8,139.1
 2200617104,Actinidia_kolomikta,37.222222,128.683333
 1829897094,Actinidia_kolomikta,36.045,138.45
 1030851896,Actinidia_kolomikta,30.368117,102.81464
-607724198,Actinidia_kolomikta,36.16667,138.5
 1829617212,Actinidia_kolomikta,36.080556,138.836667
 2200616700,Actinidia_kolomikta,37.562304,127.548959
 1030772005,Actinidia_kolomikta,29.157849,107.099275
@@ -235,14 +228,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697268732,Actinidia_kolomikta,48.950006,140.293933
 1030846090,Actinidia_kolomikta,29.73797,103.231884
 1830174812,Actinidia_kolomikta,36.516667,137.633333
-1829605818,Actinidia_kolomikta,36.6,139.2
-1829605870,Actinidia_kolomikta,36.5,139.2
 1829602400,Actinidia_kolomikta,36.560278,139.193056
 1030960788,Actinidia_kolomikta,33.524483,107.990638
 730745163,Actinidia_kolomikta,43.53889,131.89667
 1828887834,Actinidia_kolomikta,36.71997,139.69803
 1933877780,Actinidia_kolomikta,36.8902,139.2003
-1830208159,Actinidia_kolomikta,36.533333,137.6
 1697268731,Actinidia_kolomikta,43.08877,134.148958
 1697268691,Actinidia_kolomikta,43.347856,134.046687
 1697268737,Actinidia_kolomikta,43.662015,134.091813
@@ -262,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303639958,Actinidia_kolomikta,29.157849,107.099276
 1303640013,Actinidia_kolomikta,28.672732,104.010884
 1303639944,Actinidia_kolomikta,28.685449,103.676251
-1303639973,Actinidia_kolomikta,29.3,106.266667
 1835661293,Actinidia_kolomikta,39.6119,141.4842
 1303639969,Actinidia_kolomikta,28.6398,102.507677
 1303639962,Actinidia_kolomikta,29.160369,103.148639
