@@ -23,10 +23,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849006266,Staphylea_pinnata,48.75889,21.24417
 1697808972,Staphylea_pinnata,43.501624,39.996929
 1697809023,Staphylea_pinnata,43.452047,39.966373
-1213675180,Staphylea_pinnata,47.933333,16.7
 2235819543,Staphylea_pinnata,41.9999,45.7118
 152955302,Staphylea_pinnata,45.899696,14.245325
-574744660,Staphylea_pinnata,40.723611,40.6
 1831000646,Staphylea_pinnata,48.44833,15.39583
 1929497040,Staphylea_pinnata,41.8515,46.287683
 1697809026,Staphylea_pinnata,44.577778,37.979167
@@ -37,8 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849005856,Staphylea_pinnata,41.88861,44.7875
 1882314079,Staphylea_pinnata,48.66,10.87
 1936606466,Staphylea_pinnata,41.4333,32.7167
-1936606609,Staphylea_pinnata,41.366667,32.7
-1936606607,Staphylea_pinnata,40.8,40.5167
 2248085391,Staphylea_pinnata,47.951667,16.350283
 1936675846,Staphylea_pinnata,47.9517,16.3503
 2289613499,Staphylea_pinnata,47.951667,16.350278
@@ -74,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697809029,Staphylea_pinnata,44.867671,37.745075
 2313467146,Staphylea_pinnata,48.03,11.36
 1055396728,Staphylea_pinnata,50.938472,-0.542201
-2289185913,Staphylea_pinnata,48,16.85
 1697808980,Staphylea_pinnata,44.607629,38.275569
 1697582418,Staphylea_pinnata,48.153702,28.31673
 1697809011,Staphylea_pinnata,44.936196,37.602926
@@ -95,10 +90,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705385724,Staphylea_pinnata,59.852706,17.630684
 1701177280,Staphylea_pinnata,43.833661,11.725613
 1341938094,Staphylea_pinnata,49.52,11.54
-2289167969,Staphylea_pinnata,47.5,18.98333
 1697809051,Staphylea_pinnata,44.734723,37.925062
 1638429032,Staphylea_pinnata,46.28333,15.58333
-1638429070,Staphylea_pinnata,46.28333,15.6
 788422273,Staphylea_pinnata,55.60694,13.002764
 1638429080,Staphylea_pinnata,47.81806,13.07944
 1803766202,Staphylea_pinnata,48.256111,16.340556
