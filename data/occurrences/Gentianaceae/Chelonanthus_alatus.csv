@@ -7,20 +7,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2294342361,Chelonanthus_alatus,0.03986,-70.94472
 1852375810,Chelonanthus_alatus,-14.171667,-46.779444
 1987023540,Chelonanthus_alatus,-5.831389,-61.3
-1913582385,Chelonanthus_alatus,-15.735277,-47.9275
 1930074917,Chelonanthus_alatus,-2.8756,-54.9397
 1676572556,Chelonanthus_alatus,-1.863889,-48.079783
 1701060483,Chelonanthus_alatus,5.561389,-68.449778
 1827466680,Chelonanthus_alatus,-9.036944,-58.602222
 2313486205,Chelonanthus_alatus,-0.04028,-70.94389
-1913582370,Chelonanthus_alatus,-15.735833,-47.929444
 1853945890,Chelonanthus_alatus,-11.539444,-55.3925
 1932884278,Chelonanthus_alatus,1.55,-74.06
 1839289194,Chelonanthus_alatus,8.70417,-83.1975
 1258105382,Chelonanthus_alatus,12.037917,-84.763639
 1258104164,Chelonanthus_alatus,13.760278,-86.314111
 1258104248,Chelonanthus_alatus,13.817639,-85.981972
-1265928882,Chelonanthus_alatus,-15.736944,-47.928611
 1638350016,Chelonanthus_alatus,-1.579167,-49.644167
 1324651118,Chelonanthus_alatus,6,-70.23
 1213513924,Chelonanthus_alatus,-21.23875,-44.494139
@@ -148,7 +145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260843166,Chelonanthus_alatus,-3.715278,-78.900278
 2290203882,Chelonanthus_alatus,-9.184167,-75.796389
 2291353649,Chelonanthus_alatus,-7.479722,-72.902111
-1424297280,Chelonanthus_alatus,-8.28,-34.954167
 1042716175,Chelonanthus_alatus,-3,-58
 1424299384,Chelonanthus_alatus,-9.757778,-67.752778
 768771493,Chelonanthus_alatus,2.5,-72.64
@@ -168,7 +164,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253808196,Chelonanthus_alatus,9.083333,-83.069444
 1042691977,Chelonanthus_alatus,-1,-59
 1260487559,Chelonanthus_alatus,-15.00777,-68.45361
-2290261972,Chelonanthus_alatus,10.433333,-66.85
 768767928,Chelonanthus_alatus,-2.85,-69.77
 768769264,Chelonanthus_alatus,3.8,-67.79
 1077221560,Chelonanthus_alatus,-13.283333,-41.883333
@@ -281,7 +276,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2013800605,Chelonanthus_alatus,1.307939,-70.428884
 1253751809,Chelonanthus_alatus,9.1,-83.402778
 1056477568,Chelonanthus_alatus,-0.633333,-76.516667
-1056924787,Chelonanthus_alatus,17.217668,-88.684767
 2005847126,Chelonanthus_alatus,-23.3844,-45.4021
 1259212272,Chelonanthus_alatus,6.78333,-75.13333
 2289551504,Chelonanthus_alatus,5.283333,-53.05
@@ -318,7 +312,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253673870,Chelonanthus_alatus,9.722222,-84.504167
 45351843,Chelonanthus_alatus,9.72,-84.5
 1260149415,Chelonanthus_alatus,9.72222,-84.50416
-930983136,Chelonanthus_alatus,6.12124,-77.41303
 1042571232,Chelonanthus_alatus,-2.515556,-60.03
 1456270851,Chelonanthus_alatus,3.17778,-58.6736
 2005816432,Chelonanthus_alatus,-11.501389,-50.942222
@@ -403,7 +396,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 45351617,Chelonanthus_alatus,9.77,-84.62
 1253588532,Chelonanthus_alatus,9.777778,-84.536111
 1259204888,Chelonanthus_alatus,9.77777,-84.53611
-1896082563,Chelonanthus_alatus,7.54,-81.792222
 1065430545,Chelonanthus_alatus,5.72189,-76.660037
 1261551003,Chelonanthus_alatus,0.36666,-79.75
 1261842701,Chelonanthus_alatus,0.35,-79.73333
@@ -504,8 +496,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260324238,Chelonanthus_alatus,4.98333,-64.81666
 1261117350,Chelonanthus_alatus,6.666667,-76.45
 2291616654,Chelonanthus_alatus,-16.583333,-43.75
-1065430527,Chelonanthus_alatus,6.10428,-77.42693
-931011746,Chelonanthus_alatus,6.130387,-77.404324
 2291624592,Chelonanthus_alatus,-17,-64.766667
 2288743797,Chelonanthus_alatus,7.016667,-74.75
 931015356,Chelonanthus_alatus,2.533333,-72.633333
@@ -513,7 +503,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260322477,Chelonanthus_alatus,5.55,-67.13333
 1261115688,Chelonanthus_alatus,1.16666,-77.96666
 2291616864,Chelonanthus_alatus,5.333333,-53
-1042542432,Chelonanthus_alatus,9.58038,-58.25
 1260140457,Chelonanthus_alatus,6.26666,-58.25
 2289630881,Chelonanthus_alatus,5.55,-57.666667
 1260321940,Chelonanthus_alatus,4.25,-66.33333
@@ -566,12 +555,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456140553,Chelonanthus_alatus,4.83333,-52.3667
 2289845806,Chelonanthus_alatus,2.866667,-54.066667
 2013798421,Chelonanthus_alatus,4.23211,-73.622166
-1934715650,Chelonanthus_alatus,2.965278,-78.176667
 1314980646,Chelonanthus_alatus,6.04777,-74.9914
 1898883276,Chelonanthus_alatus,6,-74.783333
-1936419252,Chelonanthus_alatus,2.9833,-78.1833
 931012385,Chelonanthus_alatus,6.038224,-75.003247
-1898908118,Chelonanthus_alatus,2.983333,-78.183334
 1456321297,Chelonanthus_alatus,4.71667,-52.3333
 1261115801,Chelonanthus_alatus,8.03333,-75.06666
 1314980615,Chelonanthus_alatus,8.04942,-75.1371
@@ -667,7 +653,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261118190,Chelonanthus_alatus,-15.583333,-67.566667
 1261117149,Chelonanthus_alatus,7.35,-75.05
 768723495,Chelonanthus_alatus,-0.58,-72.39
-2289554263,Chelonanthus_alatus,10.430556,-66.825
 2265347110,Chelonanthus_alatus,16.79,-98.235
 2291624129,Chelonanthus_alatus,10.583333,-66.666667
 1896082576,Chelonanthus_alatus,14.9625,-92.169167
@@ -767,10 +752,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260138961,Chelonanthus_alatus,9.66666,-67.86666
 2288286955,Chelonanthus_alatus,-15.333333,-68.516667
 1258589158,Chelonanthus_alatus,8.533333,-79.95
-1929787046,Chelonanthus_alatus,-15.7834208090807,-47.9298726661488
 2289637641,Chelonanthus_alatus,-8.033333,-50.066667
 1929392286,Chelonanthus_alatus,-16.2565304858771,-47.9507751562949
-1260351492,Chelonanthus_alatus,-0.216667,-78.5
 1261116114,Chelonanthus_alatus,13.166667,-85.95
 1261117502,Chelonanthus_alatus,-0.45,-76.9
 1213524548,Chelonanthus_alatus,-7.516667,-63.166667
@@ -800,9 +783,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261115995,Chelonanthus_alatus,14.066667,-84.633333
 2291624771,Chelonanthus_alatus,14.016667,-84.566667
 1258489572,Chelonanthus_alatus,13.966667,-84.683333
-1890915830,Chelonanthus_alatus,4.333333,-77.416664
-1257610785,Chelonanthus_alatus,4.333333,-77.416667
-1259204600,Chelonanthus_alatus,8.705833,-83.879444
 1257610811,Chelonanthus_alatus,5.166667,-76.683333
 1257610790,Chelonanthus_alatus,5.1,-76.7
 1257610612,Chelonanthus_alatus,5.1,-76.666667
@@ -900,16 +880,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896082582,Chelonanthus_alatus,16.943889,-93.375
 1261117998,Chelonanthus_alatus,-4.533333,-73.55
 1257615728,Chelonanthus_alatus,9.316667,-79.65
-1257615453,Chelonanthus_alatus,9.55,-79.65
 1144646500,Chelonanthus_alatus,8.45444,-71.23972
 1257615763,Chelonanthus_alatus,9.166667,-79.766667
 1257616379,Chelonanthus_alatus,9.201667,-79.784444
-1257615766,Chelonanthus_alatus,9.042222,-79.573611
 1844921143,Chelonanthus_alatus,6.633333,-73.916664
 1929064203,Chelonanthus_alatus,-14.79038,-47.5333
 1257606986,Chelonanthus_alatus,-16.266667,-67.8
 1930648714,Chelonanthus_alatus,-7.6,-73.75
-1257616433,Chelonanthus_alatus,9.508333,-79.691667
 1844920318,Chelonanthus_alatus,5.150162,-69.166722
 1261887013,Chelonanthus_alatus,8.666667,-79.916667
 1257615504,Chelonanthus_alatus,9.328333,-79.790833
@@ -934,7 +911,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257616443,Chelonanthus_alatus,8.941667,-80.533333
 1259022731,Chelonanthus_alatus,12.066667,-85.083333
 607752105,Chelonanthus_alatus,-12.81667,-51.76667
-1144646518,Chelonanthus_alatus,-4.27667,-73.88028
 1258589103,Chelonanthus_alatus,15.418056,-89.107778
 1261887015,Chelonanthus_alatus,15.418056,-89.108333
 607741160,Chelonanthus_alatus,-12.9,-51.86667
@@ -961,7 +937,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257615481,Chelonanthus_alatus,9.154722,-79.848055
 1929248629,Chelonanthus_alatus,-15.7833,-47.68338
 1257615527,Chelonanthus_alatus,9.074167,-79.66
-1928748718,Chelonanthus_alatus,-15.78,-47.83
 1260294725,Chelonanthus_alatus,12.18333,-84.2
 2235736712,Chelonanthus_alatus,12.167,-84.042
 45348404,Chelonanthus_alatus,12.25,-84.33
@@ -981,7 +956,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844913909,Chelonanthus_alatus,3.61092,-76.590835
 1890920723,Chelonanthus_alatus,3.122433,-73.888174
 1261501238,Chelonanthus_alatus,-10.716667,-75.283333
-1257615519,Chelonanthus_alatus,9.0375,-79.583333
 1456138557,Chelonanthus_alatus,7.66,-61.5
 1144646587,Chelonanthus_alatus,6.01778,-63.85611
 1456079659,Chelonanthus_alatus,6.08,-62
@@ -993,7 +967,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228472556,Chelonanthus_alatus,6,-77
 1261887031,Chelonanthus_alatus,17.15,-88.683333
 2013770115,Chelonanthus_alatus,3.474017,-67.956242
-1844912548,Chelonanthus_alatus,11.316933,-73.968388
 1456019140,Chelonanthus_alatus,7.47,-63.26
 2235818104,Chelonanthus_alatus,-0.5,-70.67
 2235876426,Chelonanthus_alatus,0.67,-70.5
@@ -1015,11 +988,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1314980640,Chelonanthus_alatus,4.71447,-74.4272
 1844899323,Chelonanthus_alatus,4.209439,-73.62873
 1844899365,Chelonanthus_alatus,3.578064,-76.7861
-1144646508,Chelonanthus_alatus,-16.71472,-64.67083
 1259241943,Chelonanthus_alatus,-16.11666,-67.13333
 1261032200,Chelonanthus_alatus,17.4,-100.3167
 1257616341,Chelonanthus_alatus,8.687222,-79.921944
-1144646520,Chelonanthus_alatus,16.93556,-96.21083
 1261886996,Chelonanthus_alatus,8.8,-82.48333
 1314980654,Chelonanthus_alatus,4.0677,-73.6662
 1314980645,Chelonanthus_alatus,4.12395,-73.6344
