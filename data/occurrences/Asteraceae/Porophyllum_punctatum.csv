@@ -10,7 +10,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1417697249,Porophyllum_punctatum,18.840611,-98.917583
 1253905021,Porophyllum_punctatum,10.825239,-85.731989
 1258015921,Porophyllum_punctatum,17.60052,-99.175552
-1253911134,Porophyllum_punctatum,10.59,-85.2
 2268833605,Porophyllum_punctatum,21.355567,-89.12645
 1421389704,Porophyllum_punctatum,20.523333,-89.718889
 1585311998,Porophyllum_punctatum,13.92722,-88.10222
@@ -31,14 +30,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257769047,Porophyllum_punctatum,19.226945,-89.3175
 1894072512,Porophyllum_punctatum,19.598889,-88.89
 2268860164,Porophyllum_punctatum,16.794639,-90.928139
-1253781363,Porophyllum_punctatum,10.9,-85.733333
-1259341846,Porophyllum_punctatum,10.9,-85.73333
-1253781370,Porophyllum_punctatum,10.841667,-85.7
 1253781431,Porophyllum_punctatum,10.883333,-85.566667
 1417700897,Porophyllum_punctatum,18.519419,-98.934533
-1456147314,Porophyllum_punctatum,10.9,-85.73
 1259351616,Porophyllum_punctatum,10.88333,-85.56666
-1259342507,Porophyllum_punctatum,10.84166,-85.7
 1895251561,Porophyllum_punctatum,19.383333,-100.858333
 1894614640,Porophyllum_punctatum,15.753889,-96.149111
 1895251613,Porophyllum_punctatum,19.315,-102.968889
@@ -56,7 +50,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253775391,Porophyllum_punctatum,10.805773,-85.699493
 1253814803,Porophyllum_punctatum,10.869444,-85.861111
 1253828983,Porophyllum_punctatum,10.884722,-85.778056
-1253829135,Porophyllum_punctatum,10.885,-85.7
 1894107301,Porophyllum_punctatum,16.448056,-94.086389
 1257765023,Porophyllum_punctatum,16.448055,-94.086389
 1893305837,Porophyllum_punctatum,18.738889,-90.733333
@@ -129,11 +122,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894766986,Porophyllum_punctatum,16.6363197216999,-95.0111084076632
 1894973343,Porophyllum_punctatum,23.656944,-106.804167
 1894766932,Porophyllum_punctatum,16.6852053120329,-95.0155536533919
-1258939044,Porophyllum_punctatum,17.1,-89.066667
 1259880530,Porophyllum_punctatum,10.88472,-85.60416
 1895251441,Porophyllum_punctatum,18.191667,-94.175
 1253656752,Porophyllum_punctatum,10.884722,-85.604167
-45834743,Porophyllum_punctatum,10.88,-85.6
 1421363043,Porophyllum_punctatum,19.614722,-90.218333
 1421414207,Porophyllum_punctatum,18.183333,-94.166667
 1895251523,Porophyllum_punctatum,19.291667,-89.441667
@@ -147,16 +138,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893794433,Porophyllum_punctatum,18.520833,-89.680556
 1895443604,Porophyllum_punctatum,20.077778,-90.199167
 1895251697,Porophyllum_punctatum,19.241667,-89.334722
-1421387237,Porophyllum_punctatum,19.833333,-90.5
 1895443647,Porophyllum_punctatum,20.55,-89.9075
 1895251490,Porophyllum_punctatum,20.080556,-90.354167
 1895145029,Porophyllum_punctatum,19.236667,-89.335833
 1258992160,Porophyllum_punctatum,19.23,-89.33
 1421385378,Porophyllum_punctatum,19.484722,-90.118333
-1258941765,Porophyllum_punctatum,17.06666,-89.1
-1929653197,Porophyllum_punctatum,17.1,-89.07
-1258952675,Porophyllum_punctatum,17.1,-89.06666
-1931078743,Porophyllum_punctatum,17.07,-89.1
 1895251574,Porophyllum_punctatum,18.192222,-98.08
 1893688379,Porophyllum_punctatum,18.198313,-98.052462
 1257754054,Porophyllum_punctatum,16.664722,-95.007222
@@ -166,15 +152,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895251353,Porophyllum_punctatum,24.359167,-107.0125
 1893819278,Porophyllum_punctatum,19.5411221496575,-104.678622686538
 1455703399,Porophyllum_punctatum,17.083333,-89.125
-1893764283,Porophyllum_punctatum,24.2,-106.99
 1893764288,Porophyllum_punctatum,24.358333,-107.013889
 1418344713,Porophyllum_punctatum,18.708333,-95.525
 1893559314,Porophyllum_punctatum,18.441944,-98.972778
 1895251455,Porophyllum_punctatum,16.678056,-95.0225
-1258941067,Porophyllum_punctatum,17.08333,-89.1
 1259861571,Porophyllum_punctatum,16.67805,-95.0225
 1894766988,Porophyllum_punctatum,16.6788176066546,-95.0224977990564
-1928548237,Porophyllum_punctatum,17.08,-89.1
 1893559295,Porophyllum_punctatum,18.405,-99.055556
 1456186199,Porophyllum_punctatum,17.07,-89.17
 1893819281,Porophyllum_punctatum,19.5674815241874,-104.786292279262
@@ -188,7 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893764305,Porophyllum_punctatum,24.266667,-107.433333
 1421399628,Porophyllum_punctatum,20.495833,-90.198611
 1258834664,Porophyllum_punctatum,10.95,-85.61
-45834740,Porophyllum_punctatum,10.8,-84.66
 1421395117,Porophyllum_punctatum,20.335556,-88.487222
 1253639144,Porophyllum_punctatum,10.800278,-85.666111
 1893764286,Porophyllum_punctatum,24.275,-107.45
@@ -228,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894973286,Porophyllum_punctatum,23.225,-106.420833
 1419063034,Porophyllum_punctatum,20.208333,-90.175
 1894973390,Porophyllum_punctatum,23.262778,-106.3775
-1253721701,Porophyllum_punctatum,10.806944,-85.7
 1895251676,Porophyllum_punctatum,19.315556,-103.821667
 1895251657,Porophyllum_punctatum,19.383333,-105.016667
 1895251468,Porophyllum_punctatum,19.416667,-105.016667
@@ -244,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421411718,Porophyllum_punctatum,19.736111,-89.25
 1419060040,Porophyllum_punctatum,19.691667,-89.441667
 1895251618,Porophyllum_punctatum,19.768611,-89.283056
-1895251635,Porophyllum_punctatum,20.347222,-105.3
 1895443579,Porophyllum_punctatum,19.4494908755601,-103.711599930405
 1895251352,Porophyllum_punctatum,20.130278,-88.945556
 1895443619,Porophyllum_punctatum,19.3842114655979,-104.981071044991
@@ -262,7 +242,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895251589,Porophyllum_punctatum,18.943333,-103.930556
 1895443646,Porophyllum_punctatum,18.916667,-103.916667
 1895251367,Porophyllum_punctatum,19.358333,-96.758333
-1419166638,Porophyllum_punctatum,16.6,-93.55
 1896209386,Porophyllum_punctatum,19.331667,-96.761667
 1893964753,Porophyllum_punctatum,19.665833,-104.293889
 1895443617,Porophyllum_punctatum,20.933333,-89.483333
@@ -277,7 +256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253711156,Porophyllum_punctatum,8.95,-83.333333
 1894899533,Porophyllum_punctatum,19.375,-105.008333
 1895443651,Porophyllum_punctatum,19.383611,-104.980831
-1930119503,Porophyllum_punctatum,19.37,-105
 1895251606,Porophyllum_punctatum,20.433333,-90.097222
 1894687625,Porophyllum_punctatum,18.4694700976067,-88.5170588170437
 1421380705,Porophyllum_punctatum,20.434722,-90.0975
@@ -307,13 +285,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896209395,Porophyllum_punctatum,20.643056,-90.211389
 1895251337,Porophyllum_punctatum,20.691667,-90.225
 371299742,Porophyllum_punctatum,20.658333,-90.225
-1894687573,Porophyllum_punctatum,20.6,-88.172222
 1895251275,Porophyllum_punctatum,16.8025,-95.0775
-1421392225,Porophyllum_punctatum,20.6,-88.170833
 1896209397,Porophyllum_punctatum,20.416667,-88.028611
 1421401041,Porophyllum_punctatum,20.714722,-88.2625
 1895251496,Porophyllum_punctatum,20.259722,-89.45
-1258953271,Porophyllum_punctatum,14.966667,-90.2
 1893688397,Porophyllum_punctatum,19.385,-104.981667
 1895443638,Porophyllum_punctatum,16.1812025995165,-95.2113758279929
 1895251543,Porophyllum_punctatum,16.180278,-95.224444
@@ -351,7 +326,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261300075,Porophyllum_punctatum,16.99611,-89.71638
 1895251416,Porophyllum_punctatum,24.100833,-106.846667
 1895251483,Porophyllum_punctatum,20.714722,-88.245833
-1421362206,Porophyllum_punctatum,20.666667,-90.3
 1895251598,Porophyllum_punctatum,19.420556,-104.953333
 1421395287,Porophyllum_punctatum,20.766667,-90.2625
 1259879273,Porophyllum_punctatum,16.63333,-94.11666
@@ -378,7 +352,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895251481,Porophyllum_punctatum,20.813333,-105.196667
 1421371504,Porophyllum_punctatum,20.253333,-89.59
 1895251385,Porophyllum_punctatum,20.4175,-89.5875
-1895251660,Porophyllum_punctatum,19.783333,-87.6
 1896209419,Porophyllum_punctatum,19.791667,-87.608333
 1895251597,Porophyllum_punctatum,19.127222,-103.854167
 1421415502,Porophyllum_punctatum,19.788889,-87.627778
@@ -458,7 +431,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500198024,Porophyllum_punctatum,23.283333,-106.466667
 1895251580,Porophyllum_punctatum,19.302222,-96.566111
 1895251497,Porophyllum_punctatum,19.323333,-96.729444
-1895443636,Porophyllum_punctatum,19.3,-96.6
 1421403826,Porophyllum_punctatum,19.430556,-90.711111
 1895251524,Porophyllum_punctatum,19.436111,-90.701111
 1895251559,Porophyllum_punctatum,19.205833,-100.574722
@@ -507,7 +479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 371294533,Porophyllum_punctatum,20.508333,-90.275
 1895251399,Porophyllum_punctatum,20.520833,-90.306944
 1421388159,Porophyllum_punctatum,20.536111,-90.394444
-1896209421,Porophyllum_punctatum,20.5,-90.380556
 1895251363,Porophyllum_punctatum,18.315278,-99.133333
 1895251267,Porophyllum_punctatum,18.051111,-102.4525
 1895443611,Porophyllum_punctatum,17.936208,-94.600478
@@ -548,10 +519,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896209430,Porophyllum_punctatum,16.9075,-99.931667
 1895251554,Porophyllum_punctatum,17.815,-96.999167
 1895251375,Porophyllum_punctatum,18.903611,-103.651944
-1896091347,Porophyllum_punctatum,17.816667,-97
 1893437694,Porophyllum_punctatum,17.791667,-96.041667
 1895251551,Porophyllum_punctatum,20.447222,-87.666667
-1259881533,Porophyllum_punctatum,20.26,-87.4
 371296219,Porophyllum_punctatum,20.291667,-87.391667
 1895251434,Porophyllum_punctatum,20.259722,-87.402778
 1421376195,Porophyllum_punctatum,20.256944,-87.404167
@@ -569,7 +538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894687552,Porophyllum_punctatum,20.258333,-87.508333
 1419060633,Porophyllum_punctatum,20.208333,-87.458333
 1895251605,Porophyllum_punctatum,21.097222,-89.597778
-1893305792,Porophyllum_punctatum,20.25,-87.5
 1421415158,Porophyllum_punctatum,20.875,-89.736111
 1895251637,Porophyllum_punctatum,20.268056,-87.386667
 371302130,Porophyllum_punctatum,20.391667,-88.925
@@ -599,7 +567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895251430,Porophyllum_punctatum,20.528333,-105.303611
 1895251424,Porophyllum_punctatum,20.363333,-89.769722
 1895251425,Porophyllum_punctatum,20.670833,-88.572222
-45833431,Porophyllum_punctatum,10.8,-85.68
 45833435,Porophyllum_punctatum,10.56,-85.25
 1259880488,Porophyllum_punctatum,8.96361,-83.31805
 1259878115,Porophyllum_punctatum,10.616667,-85.233333
@@ -624,13 +591,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895443621,Porophyllum_punctatum,19.5650582882542,-96.5706042809769
 1896209360,Porophyllum_punctatum,19.281944,-96.440278
 1258583366,Porophyllum_punctatum,10.533333,-85.316667
-2289989941,Porophyllum_punctatum,10.7,-85.45
 1259881422,Porophyllum_punctatum,16.90361,-89.89388
 1896209364,Porophyllum_punctatum,19.45,-96.675556
 1895251372,Porophyllum_punctatum,21.188611,-105.119167
 1258583358,Porophyllum_punctatum,14.859722,-90.583889
 1895251354,Porophyllum_punctatum,19.459722,-96.744444
-1895443614,Porophyllum_punctatum,20.5,-105.25
 1265820366,Porophyllum_punctatum,20.500547363798,-105.250250813694
 1929323138,Porophyllum_punctatum,20.45314,-97.7394
 1895251616,Porophyllum_punctatum,19.091667,-103.791667
@@ -663,7 +628,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929362514,Porophyllum_punctatum,20.6039,-105.2289
 1895443684,Porophyllum_punctatum,20.5977289905841,-105.222233572114
 1895443618,Porophyllum_punctatum,18.58333,-103.56222
-1930194140,Porophyllum_punctatum,19.52,-103.3
 1895251402,Porophyllum_punctatum,19.521111,-103.306389
 1895443656,Porophyllum_punctatum,19.5224,-103.305575
 1930432410,Porophyllum_punctatum,19.2039,-104.6819
