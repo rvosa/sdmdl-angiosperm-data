@@ -26,11 +26,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 44948526,Cynometra_retusa,9.64,-83
 45445427,Cynometra_retusa,16.483333,-88.9
 1893814775,Cynometra_retusa,18.3891,-92.483283
-1894550145,Cynometra_retusa,18.640833,-92.365833
 1893814779,Cynometra_retusa,18.365867,-92.640867
 1894550113,Cynometra_retusa,18.287222,-92.005278
 1893814766,Cynometra_retusa,18.00535,-92.287417
-1894550131,Cynometra_retusa,18.641389,-92.365833
 1894874437,Cynometra_retusa,18.3665192849031,-92.6413350559132
 44948363,Cynometra_retusa,8.68,-83.21
 1894874466,Cynometra_retusa,17.9723729267683,-92.3107700946368
@@ -62,7 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265481573,Cynometra_retusa,10.67,-85.3
 1253698138,Cynometra_retusa,10.67,-85.297778
 44947289,Cynometra_retusa,10.67,-85.29
-2235812016,Cynometra_retusa,9.6222,-85.6889
 44947600,Cynometra_retusa,10.4,-84.05
 1253598147,Cynometra_retusa,10.402778,-84.058333
 1258278775,Cynometra_retusa,8.73,-83.44
@@ -70,14 +67,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253601844,Cynometra_retusa,8.726526,-83.463101
 1253601839,Cynometra_retusa,8.672222,-83.5875
 44947384,Cynometra_retusa,8.67,-83.58
-1253642024,Cynometra_retusa,9.380556,-84.15
-1261855705,Cynometra_retusa,9.39,-84.13
-44947044,Cynometra_retusa,9.38,-84.15
-44947712,Cynometra_retusa,8.46,-83.58
 1261472140,Cynometra_retusa,10.990556,-85.427778
 44947665,Cynometra_retusa,10.99,-85.42
 1253601809,Cynometra_retusa,8.770833,-83.393056
-1056132471,Cynometra_retusa,-1.427421,-78.767071
 1259512845,Cynometra_retusa,18.56666,-95.06666
 1419217235,Cynometra_retusa,18.575,-95.075
 44947109,Cynometra_retusa,10.37,-84.03
@@ -95,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260985824,Cynometra_retusa,10.86666,-84.46666
 1253690867,Cynometra_retusa,10.866667,-84.966667
 1896361228,Cynometra_retusa,18.584722,-95.073889
-1895452367,Cynometra_retusa,19.8839089314004,-105.270248729016
 1896361188,Cynometra_retusa,18.586111,-95.084722
 1258873104,Cynometra_retusa,18.56,-95.06
 1421377155,Cynometra_retusa,18.253333,-92.088333
