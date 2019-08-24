@@ -8,9 +8,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268970870,Eriogonum_wrightii,30.61331,-104.20289
 2270485725,Eriogonum_wrightii,36.66746,-113.83055
 1426502112,Eriogonum_wrightii,34.272639,-117.606583
-2242422975,Eriogonum_wrightii,39.73193,-104.9619
 1676479238,Eriogonum_wrightii,33.6569599991292,-116.46464
-2242422101,Eriogonum_wrightii,39.732042,-104.962197
 1846483988,Eriogonum_wrightii,34.397232,-112.939097
 1846558478,Eriogonum_wrightii,34.421802,-111.602974
 2270700398,Eriogonum_wrightii,33.729997,-111.512147
@@ -190,7 +188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270588110,Eriogonum_wrightii,33.9626,-111.862
 1894824354,Eriogonum_wrightii,31.991667,-116.841667
 2270606277,Eriogonum_wrightii,33.9566,-111.838
-1897330027,Eriogonum_wrightii,21.73,-101.663333
 2270605458,Eriogonum_wrightii,33.5417,-111.3
 176944706,Eriogonum_wrightii,33.526437,-111.389852
 1893339930,Eriogonum_wrightii,30,-115.483333
@@ -224,7 +221,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270603555,Eriogonum_wrightii,32.662,-112.331
 2270591606,Eriogonum_wrightii,31.57,-108.78
 2270606608,Eriogonum_wrightii,34.6792,-111.684
-2270529249,Eriogonum_wrightii,28.28333,-115.25
 2270549129,Eriogonum_wrightii,32.77,-108.28
 1426355323,Eriogonum_wrightii,33.983333,-116.65
 2270606673,Eriogonum_wrightii,34.8194,-112.8
@@ -317,9 +313,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426284171,Eriogonum_wrightii,35.458333,-118.366667
 1930261982,Eriogonum_wrightii,37.29409,-113.8358
 1846531106,Eriogonum_wrightii,31.40589,-111.199849
-1896048883,Eriogonum_wrightii,21.930833,-101.360556
 2270547312,Eriogonum_wrightii,34.272879,-117.614543
-1895415509,Eriogonum_wrightii,21.9177166589435,-101.261552166658
 1893338335,Eriogonum_wrightii,32.05,-115.916667
 1843876901,Eriogonum_wrightii,32.597249,-107.966745
 2270606088,Eriogonum_wrightii,31.8826,-109.95
@@ -342,8 +336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270606883,Eriogonum_wrightii,33.0302,-110.833
 1896065984,Eriogonum_wrightii,32.075,-116.868056
 1846530951,Eriogonum_wrightii,32.083333,-116.879167
-1893405443,Eriogonum_wrightii,28.375,-115.225
-1846530890,Eriogonum_wrightii,28.299956,-115.218391
 1893405018,Eriogonum_wrightii,31.1384050331713,-109.974820886148
 1896052170,Eriogonum_wrightii,31.067222,-110.327222
 1893404862,Eriogonum_wrightii,31.958333,-116.058333
@@ -398,10 +390,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270547708,Eriogonum_wrightii,34.086772,-116.855655
 2270604102,Eriogonum_wrightii,32.65,-109.82
 2270548759,Eriogonum_wrightii,34.811645,-119.14733
-1846531944,Eriogonum_wrightii,33.27944,-111.15667
 2284235641,Eriogonum_wrightii,29.73,-114.75
 1893401528,Eriogonum_wrightii,29.741667,-114.758333
-2270529523,Eriogonum_wrightii,28.33333,-115.2333
 1611941995,Eriogonum_wrightii,31.905556,-106.451667
 1843876886,Eriogonum_wrightii,31.804177,-108.80134
 1893401484,Eriogonum_wrightii,30.775,-115.541667
@@ -437,7 +427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2284246108,Eriogonum_wrightii,29.22,-114.03
 2284226032,Eriogonum_wrightii,28.75,-113.588
 2284289975,Eriogonum_wrightii,32.02,-116.85
-1896061627,Eriogonum_wrightii,28.318333,-115.215
 1894067968,Eriogonum_wrightii,30.966917,-115.399833
 2270607048,Eriogonum_wrightii,33.5965,-112.557
 1843877266,Eriogonum_wrightii,34.077409,-107.021293
@@ -462,7 +451,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895415490,Eriogonum_wrightii,32.083333,-116.8
 2270528023,Eriogonum_wrightii,32.08333,-116.8
 1893394184,Eriogonum_wrightii,32.091667,-116.808333
-2284338221,Eriogonum_wrightii,28.3583,-115.208
 2284142450,Eriogonum_wrightii,24.62,-101.45
 1846529970,Eriogonum_wrightii,34.557478,-112.430536
 1928478865,Eriogonum_wrightii,38.162955,-119.148914
@@ -491,7 +479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270604375,Eriogonum_wrightii,34.9494,-112.054
 176945060,Eriogonum_wrightii,32.083333,-116.525
 2270606560,Eriogonum_wrightii,33.2794,-111.165
-2284207094,Eriogonum_wrightii,28.32,-115.188
 2270605667,Eriogonum_wrightii,33.8775,-111.039
 2270606676,Eriogonum_wrightii,33.2879,-110.852
 2284278039,Eriogonum_wrightii,31.05,-115.55
@@ -560,18 +547,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270607245,Eriogonum_wrightii,33.7916,-111.467
 1896054232,Eriogonum_wrightii,27.516111,-112.622778
 1893392481,Eriogonum_wrightii,27.508333,-112.608333
-1893432625,Eriogonum_wrightii,28.258333,-115.208333
 1893392436,Eriogonum_wrightii,29.325,-114.125
-2284219578,Eriogonum_wrightii,29.4883,-113.55
-1893392537,Eriogonum_wrightii,29.491667,-113.558333
 1896054238,Eriogonum_wrightii,29.301111,-114.061389
-1893432582,Eriogonum_wrightii,28.291667,-115.191667
-1426440857,Eriogonum_wrightii,28.233333,-115.170833
-2284271090,Eriogonum_wrightii,28.1408,-115.22
-1893432529,Eriogonum_wrightii,28.141667,-115.225
-1896061626,Eriogonum_wrightii,28.150556,-115.233611
-1426440861,Eriogonum_wrightii,28.1375,-115.216667
-1426440862,Eriogonum_wrightii,28.291667,-115.183333
 1893404736,Eriogonum_wrightii,30.975,-115.591667
 2270606954,Eriogonum_wrightii,33.8582,-111.68
 1896054228,Eriogonum_wrightii,31.597222,-116.09
@@ -592,7 +569,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843877224,Eriogonum_wrightii,34.057704,-106.943576
 1843877264,Eriogonum_wrightii,31.581297,-108.784321
 1843877214,Eriogonum_wrightii,31.581976,-108.778229
-1896052173,Eriogonum_wrightii,22.075556,-100.668056
 1804594822,Eriogonum_wrightii,39.333333,-120.5
 1843876997,Eriogonum_wrightii,35.153281,-106.357251
 2270188439,Eriogonum_wrightii,38.18861,-119.98972
