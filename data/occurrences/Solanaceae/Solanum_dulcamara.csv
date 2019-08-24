@@ -212,7 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935725501,Solanum_dulcamara,48.75722,21.27722
 1989279162,Solanum_dulcamara,44.032383,-86.494017
 1342988523,Solanum_dulcamara,56.09848,8.251219
-1265474754,Solanum_dulcamara,38.52,-2.4
 317826469,Solanum_dulcamara,42.100791,2.375029
 1342988770,Solanum_dulcamara,55.901925,9.534489
 1697831382,Solanum_dulcamara,44.398918,41.93448
@@ -255,7 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705380003,Solanum_dulcamara,55.713454,13.202075
 1056904921,Solanum_dulcamara,51.307793,0.287735
 1697647862,Solanum_dulcamara,51.116667,40.366667
-1697647877,Solanum_dulcamara,53.5,39
 1701273988,Solanum_dulcamara,63.7996,11.476
 2269047043,Solanum_dulcamara,44.150766,11.317978
 1702224711,Solanum_dulcamara,59.55753,5.7797
@@ -267,7 +265,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936689157,Solanum_dulcamara,41.9912,2.5582
 177032212,Solanum_dulcamara,43.36675,-91.2097
 233102072,Solanum_dulcamara,43.15404,-92.64237
-2307485281,Solanum_dulcamara,42.85,-80.5
 1999601773,Solanum_dulcamara,60.842085,22.479551
 214571183,Solanum_dulcamara,51.9925,14.335833
 1342989323,Solanum_dulcamara,55.475551,12.190392
@@ -330,7 +327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895217615,Solanum_dulcamara,39.36639,-2.09785
 211639252,Solanum_dulcamara,39.82,-1.26
 1936668941,Solanum_dulcamara,39.8161,-1.2604
-788603458,Solanum_dulcamara,39.7,20.833333
 1851371538,Solanum_dulcamara,42.5587,-5.2055
 1701835511,Solanum_dulcamara,59.4095,11.7158
 932707250,Solanum_dulcamara,42.22183,-8.11689
@@ -359,7 +355,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936694830,Solanum_dulcamara,40.1358,44.1708
 441843051,Solanum_dulcamara,45.665383,-122.711117
 1260249566,Solanum_dulcamara,38.666667,-90.333333
-441843042,Solanum_dulcamara,48.2,-122.35
 1851369667,Solanum_dulcamara,42.436,-6.818
 1050636951,Solanum_dulcamara,42.86,-2.63
 1935725469,Solanum_dulcamara,45.5315,13.9485
@@ -381,7 +376,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849002159,Solanum_dulcamara,42.64992,44.632
 1701312358,Solanum_dulcamara,63.6863,9.8603
 186837742,Solanum_dulcamara,59.3925,10.6736
-786274939,Solanum_dulcamara,46.6,9.8
 932705539,Solanum_dulcamara,42.27014,-8.83165
 1701260627,Solanum_dulcamara,63.7062,11.2006
 415928003,Solanum_dulcamara,41.03583,-74.04138
@@ -413,7 +407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342989040,Solanum_dulcamara,55.479156,11.19022
 1702032427,Solanum_dulcamara,60.3582,10.5833
 893488302,Solanum_dulcamara,39.700001,45.349998
-1849002091,Solanum_dulcamara,39.7,45.35
 1851364898,Solanum_dulcamara,42.287,-6.544
 1849001751,Solanum_dulcamara,39.81667,44.71667
 893488295,Solanum_dulcamara,39.816669,44.716671
@@ -425,7 +418,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851575100,Solanum_dulcamara,42.66,0.57
 1936620879,Solanum_dulcamara,42.4539,13.7153
 1851321682,Solanum_dulcamara,42.424,-6.66
-895187985,Solanum_dulcamara,42.45,13.7
 1144202931,Solanum_dulcamara,60.3887,5.3241
 21535308,Solanum_dulcamara,47.7263,3.76638
 1936686605,Solanum_dulcamara,43.3444,-5.3701
@@ -463,7 +455,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702002502,Solanum_dulcamara,60.8992,10.8008
 1671673563,Solanum_dulcamara,44.180678,9.685203
 1930088894,Solanum_dulcamara,42.789444,-117.560833
-1095900646,Solanum_dulcamara,41,23
 1931378105,Solanum_dulcamara,42.5133,44.6633
 1148473917,Solanum_dulcamara,59.383333,24.283333
 1697647721,Solanum_dulcamara,56.077736,40.119667
@@ -475,7 +466,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199506623,Solanum_dulcamara,36.269,-5.421
 415953019,Solanum_dulcamara,43.24535,-71.00681
 1851318311,Solanum_dulcamara,42.7143,-5.5224
-668803210,Solanum_dulcamara,45.3,-74.183333
 177032216,Solanum_dulcamara,41.5446,-81.4729
 1986944664,Solanum_dulcamara,40.73,-111.931667
 2265422977,Solanum_dulcamara,44.311112,-91.940834
@@ -552,17 +542,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265444300,Solanum_dulcamara,44.062778,-93.239722
 895174347,Solanum_dulcamara,39.88,-2.47
 415997010,Solanum_dulcamara,41.29555,-72.86305
-1501108464,Solanum_dulcamara,40.14,-0.4
 1936612160,Solanum_dulcamara,40.1335,-0.4073
 1671673256,Solanum_dulcamara,44.107295,9.76876
 115889986,Solanum_dulcamara,38.200001,-5.28
-1830504117,Solanum_dulcamara,34.7,135.2
 1701293635,Solanum_dulcamara,63.3965,10.3711
 1702160611,Solanum_dulcamara,59.5667,11.27
 177032115,Solanum_dulcamara,42.726954,-92.459604
 51964380,Solanum_dulcamara,46.1192,-123.9313
 1258213911,Solanum_dulcamara,43.829445,-69.711111
-1849002019,Solanum_dulcamara,42.7,44.61667
 1697647890,Solanum_dulcamara,58.175371,45.878874
 1054799206,Solanum_dulcamara,45.37,-73.765833
 1697647926,Solanum_dulcamara,56.478799,44.820591
@@ -585,7 +572,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598610008,Solanum_dulcamara,60.216073,24.674115
 895174275,Solanum_dulcamara,39.97,-2.24
 668803207,Solanum_dulcamara,46.774722,-71.282778
-415996925,Solanum_dulcamara,41.7,-70.29944
 1701992298,Solanum_dulcamara,59.736,10.9647
 1929258644,Solanum_dulcamara,47.32645,-117.7009
 1851379436,Solanum_dulcamara,42.56,-5.62
@@ -668,7 +654,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849002778,Solanum_dulcamara,48.79417,21.15139
 1928185205,Solanum_dulcamara,40.76,-111.8244
 211639318,Solanum_dulcamara,43.439999,-5.76
-788558547,Solanum_dulcamara,40.6,23.1
 788554680,Solanum_dulcamara,41.133333,23.216667
 1228474034,Solanum_dulcamara,41.8333,-87.85
 1342989256,Solanum_dulcamara,56.206588,9.69992
@@ -678,7 +663,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415935224,Solanum_dulcamara,41.88527,-72.26194
 1598610000,Solanum_dulcamara,60.708198,24.785195
 1598610036,Solanum_dulcamara,60.715987,24.878118
-415939385,Solanum_dulcamara,42.2,-71.01666
 1936423545,Solanum_dulcamara,40.7352,-2.0538
 1144178880,Solanum_dulcamara,60.21298,5.44478
 415939350,Solanum_dulcamara,41.79055,-72.44333
@@ -692,16 +676,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415935221,Solanum_dulcamara,41.935,-72.32333
 1342989320,Solanum_dulcamara,55.512173,12.219466
 1598610071,Solanum_dulcamara,60.825981,24.79544
-895210724,Solanum_dulcamara,39.7,-2.13
 415939351,Solanum_dulcamara,41.76416,-72.43805
 883395352,Solanum_dulcamara,53.0815279990945,-118.064859
 1705265148,Solanum_dulcamara,55.881969,12.876519
 2265451896,Solanum_dulcamara,43.9875,-92.319444
-1978751988,Solanum_dulcamara,46.8,-71.216667
 1702419942,Solanum_dulcamara,61.1821,7.2427
 1702420001,Solanum_dulcamara,61.2008,6.6926
 1342989187,Solanum_dulcamara,55.577122,12.31008
-1144783777,Solanum_dulcamara,41.9,8.8
 21551901,Solanum_dulcamara,48.3163,2.56466
 1697647870,Solanum_dulcamara,58.784532,46.652688
 1342989241,Solanum_dulcamara,56.261155,9.57177
@@ -710,7 +691,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989545631,Solanum_dulcamara,41.810323,-85.985006
 1701702777,Solanum_dulcamara,60.885,10.8147
 1598609935,Solanum_dulcamara,60.849236,25.281446
-2313348663,Solanum_dulcamara,48.1,11.55
 1697647761,Solanum_dulcamara,54.9731,41.7633
 895168816,Solanum_dulcamara,42.626,-6.835
 1050630803,Solanum_dulcamara,42.62,-6.83
@@ -733,7 +713,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342989275,Solanum_dulcamara,55.838796,12.355924
 1701703172,Solanum_dulcamara,60.866,10.8873
 1342989257,Solanum_dulcamara,57.138655,10.031363
-1988207496,Solanum_dulcamara,49.3,-123.2
 1598610016,Solanum_dulcamara,60.916041,24.652758
 860311036,Solanum_dulcamara,42.492,-0.118
 2291786506,Solanum_dulcamara,43.341667,0.719444
@@ -756,13 +735,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949614751,Solanum_dulcamara,49.31,-119.545
 2312421645,Solanum_dulcamara,48.07,11.54
 1936513281,Solanum_dulcamara,41.2409,-4.6362
-1988215618,Solanum_dulcamara,49,-119.5
 1598609803,Solanum_dulcamara,60.642213,25.807967
-1804552143,Solanum_dulcamara,44.55,-77.1
 1851360355,Solanum_dulcamara,42.74,-5.38
 1851406967,Solanum_dulcamara,39.51,-1.08
 1883574400,Solanum_dulcamara,37.900002,14.883333
-1849002913,Solanum_dulcamara,37.9,14.88333
 1050615945,Solanum_dulcamara,42.84,-2.67
 1598609828,Solanum_dulcamara,60.333801,24.435712
 1598609920,Solanum_dulcamara,61.006147,24.520347
@@ -778,7 +754,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598609872,Solanum_dulcamara,61.830116,27.95523
 2265447005,Solanum_dulcamara,44.064446,-93.235001
 415935219,Solanum_dulcamara,41.6325,-72.24055
-994445850,Solanum_dulcamara,61,25
 441843076,Solanum_dulcamara,48.23011,-122.394763
 415939313,Solanum_dulcamara,41.72777,-72.84083
 1598609921,Solanum_dulcamara,60.983981,24.48696
@@ -819,7 +794,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598609922,Solanum_dulcamara,61.030231,24.324119
 1851408517,Solanum_dulcamara,42.894,-4.745
 1598609829,Solanum_dulcamara,61.189023,24.141359
-1804459932,Solanum_dulcamara,45.3,-75.616667
 1598609949,Solanum_dulcamara,60.968467,24.571311
 1050615959,Solanum_dulcamara,42.78,-2.52
 788620520,Solanum_dulcamara,65.31909,21.47144
@@ -828,7 +802,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598613050,Solanum_dulcamara,60.167438,24.745248
 1598609932,Solanum_dulcamara,61.030945,24.314803
 1598609753,Solanum_dulcamara,61.000802,24.522613
-1988129206,Solanum_dulcamara,49.13,-122.1
 1849002809,Solanum_dulcamara,48.36111,21.78556
 1598609952,Solanum_dulcamara,61.127128,24.275074
 1598609979,Solanum_dulcamara,61.001426,24.507771
@@ -844,7 +817,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598609912,Solanum_dulcamara,60.973118,24.482275
 1598609889,Solanum_dulcamara,60.972186,24.480501
 1598609909,Solanum_dulcamara,62.214299,21.444023
-895216377,Solanum_dulcamara,40.05,-1.3
 1598609960,Solanum_dulcamara,60.437906,22.529544
 1989220900,Solanum_dulcamara,44.35003,-84.06093
 1989151679,Solanum_dulcamara,44.43635,-83.43728
@@ -854,7 +826,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936389218,Solanum_dulcamara,42.9903,-2.6824
 1050615954,Solanum_dulcamara,42.99,-2.67
 1038929875,Solanum_dulcamara,41.244728,-72.757496
-2270554210,Solanum_dulcamara,5.8,-75.9
 1705439068,Solanum_dulcamara,57.781999,14.159527
 1144783825,Solanum_dulcamara,42.25,8.76667
 1144783808,Solanum_dulcamara,41.58333,9.25
@@ -887,7 +858,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697647839,Solanum_dulcamara,55.572175,37.550585
 1050645921,Solanum_dulcamara,42.86,-0.92
 1804414229,Solanum_dulcamara,44.55,-77.116667
-1501959192,Solanum_dulcamara,39.6,-1.19
 415939334,Solanum_dulcamara,41.32777,-72.99111
 1936362333,Solanum_dulcamara,41.6549,0.8011
 1697647840,Solanum_dulcamara,55.564139,37.591593
@@ -920,7 +890,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242371418,Solanum_dulcamara,39.771506,-105.128556
 1988939447,Solanum_dulcamara,45.42451,-83.83462
 1598610030,Solanum_dulcamara,61.318103,28.463334
-1804435198,Solanum_dulcamara,45.3,-75.55
 1697647770,Solanum_dulcamara,55.570252,37.603476
 143006118,Solanum_dulcamara,40.740002,-3.24
 1804372780,Solanum_dulcamara,45.55,-75.833333
@@ -961,7 +930,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57724652,Solanum_dulcamara,61.831799,25.8123
 1262199796,Solanum_dulcamara,46.814646,-89.624781
 57724673,Solanum_dulcamara,61.801498,25.687401
-199506134,Solanum_dulcamara,38.62,-2.6
 1053981901,Solanum_dulcamara,42.32,-1.63
 1598610034,Solanum_dulcamara,60.095529,22.864064
 1936572984,Solanum_dulcamara,40.9058,-4.0105
@@ -1003,7 +971,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936364372,Solanum_dulcamara,39.8515,-4.0416
 1936098412,Solanum_dulcamara,38.8001,-2.3448
 1144105537,Solanum_dulcamara,60.3456,5.2803
-473445518,Solanum_dulcamara,45.5,-73.6
 1851329768,Solanum_dulcamara,42.83,-5.63
 1929496912,Solanum_dulcamara,43.33708,-114.5166
 1502018541,Solanum_dulcamara,39.95,-0.72
@@ -1030,7 +997,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262017363,Solanum_dulcamara,46.65,-71.927778
 1701179151,Solanum_dulcamara,43.94487,10.184189
 465768256,Solanum_dulcamara,45.06806,-64.35247
-1050632114,Solanum_dulcamara,43.4,-4.19
 1949624234,Solanum_dulcamara,50.198611,-119.261111
 1262019957,Solanum_dulcamara,45.416667,-73.916667
 1949624277,Solanum_dulcamara,49.033333,-119.033333
@@ -1075,7 +1041,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806556617,Solanum_dulcamara,42.842835,-1.716523
 2289232432,Solanum_dulcamara,40.09385,-88.2146
 1598609962,Solanum_dulcamara,61.376894,24.668793
-1050615956,Solanum_dulcamara,42.5,-2.62
 1050632145,Solanum_dulcamara,43.37,-2.53
 1262199759,Solanum_dulcamara,42.39593,-71.178666
 1323725587,Solanum_dulcamara,59.8258,10.7746
@@ -1083,7 +1048,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989269454,Solanum_dulcamara,42.39854,-85.32735
 1051032,Solanum_dulcamara,56.73503,15.17863
 473441791,Solanum_dulcamara,45.460203,-73.548712
-1305258543,Solanum_dulcamara,41.95,-86.3
 1050615976,Solanum_dulcamara,42.54,-2.56
 668803220,Solanum_dulcamara,46.779167,-71.275
 57724668,Solanum_dulcamara,62.1553,25.7498
@@ -1094,7 +1058,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598609913,Solanum_dulcamara,61.490238,23.776536
 1598613076,Solanum_dulcamara,63.596372,27.097444
 473469186,Solanum_dulcamara,45.6974,-73.4735
-1262011378,Solanum_dulcamara,45.6,-75.1
 1228485732,Solanum_dulcamara,41.95,-88.4333
 1936103631,Solanum_dulcamara,41.7904,-2.231
 473461874,Solanum_dulcamara,45.291734,-72.995521
@@ -1127,7 +1090,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1657203299,Solanum_dulcamara,48.04583,16.49583
 1455435459,Solanum_dulcamara,50.513692,4.587456
 1930788299,Solanum_dulcamara,45.51607,-111.6089
-51964282,Solanum_dulcamara,44.6,-123.2411
 1805098566,Solanum_dulcamara,42.211,-2.243
 51964357,Solanum_dulcamara,45.6853,-121.3058
 1986869137,Solanum_dulcamara,39.424,-118.808
@@ -1173,7 +1135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030488171,Solanum_dulcamara,43.77388,-86.19738
 575072905,Solanum_dulcamara,30.383333,51.833333
 1928558450,Solanum_dulcamara,30.38,51.83
-1988107552,Solanum_dulcamara,61.3,27.7
 1657205182,Solanum_dulcamara,46.775,15.625
 1928910581,Solanum_dulcamara,61.27,27.68
 1260942462,Solanum_dulcamara,38.70444,-93.22805
@@ -1227,7 +1188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598610117,Solanum_dulcamara,60.904323,26.720603
 57724649,Solanum_dulcamara,61.236599,24.296301
 441842354,Solanum_dulcamara,46.328761,-120.554075
-199506120,Solanum_dulcamara,36.72,-4.4
 1928628107,Solanum_dulcamara,43.788815,-91.295929
 1936601114,Solanum_dulcamara,43.3429,-4.3584
 1929393176,Solanum_dulcamara,43.814389,-91.265515
@@ -1242,25 +1202,20 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931177769,Solanum_dulcamara,43.839148,-91.286754
 1851346372,Solanum_dulcamara,42.64,-5.87
 1598610011,Solanum_dulcamara,60.543131,27.816975
-56666769,Solanum_dulcamara,45.45,-84.5
 186837054,Solanum_dulcamara,61.3218,10.3168
 1899333531,Solanum_dulcamara,43.85,-78.966667
 1927766923,Solanum_dulcamara,60.666667,21.516667
 606660825,Solanum_dulcamara,41.73611,-72.65
 2326491888,Solanum_dulcamara,60.343679,11.644744
 1929840915,Solanum_dulcamara,43.796082,-91.279567
-1988073369,Solanum_dulcamara,60.7,21.5
 1144105598,Solanum_dulcamara,63.1909,10.29012
 1598609991,Solanum_dulcamara,62.575756,24.613333
 296546606,Solanum_dulcamara,47.152,10.713
-1050615951,Solanum_dulcamara,43.04,-2.2
 473262998,Solanum_dulcamara,45.371389,-73.774167
 1030488181,Solanum_dulcamara,42.80893,-84.39222
 1702277289,Solanum_dulcamara,59.2695,10.7368
 1030488235,Solanum_dulcamara,42.73694,-84.48389
-993824689,Solanum_dulcamara,52.15,4.5
 788606060,Solanum_dulcamara,55.88197,12.87652
-788604242,Solanum_dulcamara,40.1,21.016667
 1988142805,Solanum_dulcamara,49.14,-122.91
 1899338296,Solanum_dulcamara,43.75,-79.35
 473263003,Solanum_dulcamara,45.52926,-73.88414
@@ -1292,10 +1247,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697647800,Solanum_dulcamara,54.772878,41.833044
 1899349610,Solanum_dulcamara,43.783333,-79.116667
 1598613053,Solanum_dulcamara,61.057343,24.31177
-575074341,Solanum_dulcamara,37.416667,59
 1804427819,Solanum_dulcamara,45.366667,-76.033333
 1144105550,Solanum_dulcamara,60.2607,5.2536
-1851330523,Solanum_dulcamara,42.82,-6
 1989314673,Solanum_dulcamara,44.15592,-85.55484
 1598609914,Solanum_dulcamara,61.505538,24.273142
 473521339,Solanum_dulcamara,45.591667,-75.225
@@ -1328,15 +1281,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260850686,Solanum_dulcamara,50.24916,4.71222
 1598613105,Solanum_dulcamara,61.729744,22.548893
 1598613063,Solanum_dulcamara,61.441996,22.026732
-1804495106,Solanum_dulcamara,45.116667,-76.5
-1849002226,Solanum_dulcamara,39.58333,48
 1697647781,Solanum_dulcamara,54.790004,39.826337
 415939341,Solanum_dulcamara,41.61388,-72.77305
 1144105580,Solanum_dulcamara,60.3549,5.3538
 668803218,Solanum_dulcamara,46.790278,-71.2875
 1598613094,Solanum_dulcamara,61.326265,24.288746
 788558607,Solanum_dulcamara,40.933333,24.133333
-1804379917,Solanum_dulcamara,45.4,-76.733333
 1135484223,Solanum_dulcamara,42.433203,44.49225
 1657203012,Solanum_dulcamara,48.28389,16.89833
 415939384,Solanum_dulcamara,39.29027,-76.61222
@@ -1346,7 +1296,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056929856,Solanum_dulcamara,51.82743,-0.789018
 51964039,Solanum_dulcamara,44.0579,-123.084
 186837050,Solanum_dulcamara,58.7836,5.808
-1988065112,Solanum_dulcamara,49.1,-123.1
 1697647909,Solanum_dulcamara,52.048177,41.149822
 1988909806,Solanum_dulcamara,42.3249,-83.6666
 1988907937,Solanum_dulcamara,42.42795,-83.72962
@@ -1370,7 +1319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912519515,Solanum_dulcamara,34.86,68.72
 1699960939,Solanum_dulcamara,40.422137,8.941981
 1702277308,Solanum_dulcamara,59.3143,10.7391
-2291786084,Solanum_dulcamara,49.9,-119.483333
 1699960781,Solanum_dulcamara,40.389332,8.995711
 1999477190,Solanum_dulcamara,60.458188,22.296483
 143006122,Solanum_dulcamara,40.560001,-1.94
@@ -1383,16 +1331,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030488231,Solanum_dulcamara,42.53944,-83.63972
 1332808428,Solanum_dulcamara,50.566,9.78254
 465896609,Solanum_dulcamara,45.055984,-72.838068
-1804610051,Solanum_dulcamara,43.466667,-79.9
 318239557,Solanum_dulcamara,59.0821,5.8144
 1598613160,Solanum_dulcamara,62.243106,25.553921
 1622357498,Solanum_dulcamara,63.043208,21.55694
 1598613106,Solanum_dulcamara,61.318303,23.915799
 1899376529,Solanum_dulcamara,43.966667,-79.516667
 1899382299,Solanum_dulcamara,44.283333,-79.666667
-1261973130,Solanum_dulcamara,44.633333,-79.1
 1598609833,Solanum_dulcamara,60.460392,26.969656
-1804521032,Solanum_dulcamara,44.166667,-78.9
 415939329,Solanum_dulcamara,41.58277,-73.20416
 1701782912,Solanum_dulcamara,58.4627,6.5403
 31967341,Solanum_dulcamara,42.677,-0.712
@@ -1422,14 +1367,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701314882,Solanum_dulcamara,63.4141,10.412
 912519549,Solanum_dulcamara,48.58,22.33
 1702347411,Solanum_dulcamara,60.03967,10.29662
-1804491933,Solanum_dulcamara,44.466667,-78.7
-1988161705,Solanum_dulcamara,45.4,-71.9
-574659432,Solanum_dulcamara,36.35,46.2
 1228348367,Solanum_dulcamara,42.040585,-87.782561
 1598613013,Solanum_dulcamara,61.146985,24.304145
 31967342,Solanum_dulcamara,42.629,-0.543
 216103159,Solanum_dulcamara,62.232498,30.3536
-1804447295,Solanum_dulcamara,44.6,-78.916667
 1849001852,Solanum_dulcamara,35.52694,46.17639
 465896610,Solanum_dulcamara,45.342779,-71.843977
 1702307658,Solanum_dulcamara,59.5188,10.1045
@@ -1487,7 +1428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948286965,Solanum_dulcamara,61.074884,25.422222
 1598613086,Solanum_dulcamara,61.169958,25.974984
 1261968677,Solanum_dulcamara,42.833333,-80.166667
-621087992,Solanum_dulcamara,4.2,10.05
 1702347299,Solanum_dulcamara,60.3947,11.2593
 2242413917,Solanum_dulcamara,41.690899,-87.922368
 2313348497,Solanum_dulcamara,48.12,11.71
@@ -1541,7 +1481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845010669,Solanum_dulcamara,49.983056,7.966111
 1697744613,Solanum_dulcamara,44.465702,33.699017
 1598610207,Solanum_dulcamara,63.243518,22.117639
-912519527,Solanum_dulcamara,40.6,31.29
 57724664,Solanum_dulcamara,61.065701,25.0613
 1598610163,Solanum_dulcamara,61.785178,21.591341
 1699936164,Solanum_dulcamara,63.0198,10.3336
@@ -1626,7 +1565,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788568206,Solanum_dulcamara,57.377869,12.135442
 1598610005,Solanum_dulcamara,60.881858,26.693053
 1598609837,Solanum_dulcamara,66.461633,25.762608
-1849001865,Solanum_dulcamara,32.2,52.28333
 1705402591,Solanum_dulcamara,57.438386,13.588489
 1702307576,Solanum_dulcamara,59.4099,9.0837
 788565976,Solanum_dulcamara,58.647693,16.133967
@@ -1641,14 +1579,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705426068,Solanum_dulcamara,59.842233,18.438182
 1701343297,Solanum_dulcamara,60.1954,5.4913
 1702347402,Solanum_dulcamara,59.9416,10.942
-1936888329,Solanum_dulcamara,41.3,-72.933333
 1988145893,Solanum_dulcamara,49.38,-121.44
 1989374684,Solanum_dulcamara,42.12317,-86.36361
 1598610001,Solanum_dulcamara,60.505198,26.860419
 1697647974,Solanum_dulcamara,53.06144,58.616477
 1989104048,Solanum_dulcamara,43.865354,-83.344414
 1989461206,Solanum_dulcamara,42.44766,-84.9841
-1937254464,Solanum_dulcamara,51.3,-0.366667
 1988686302,Solanum_dulcamara,41.79451,-85.02337
 1989354030,Solanum_dulcamara,42.00994,-85.95796
 1705284892,Solanum_dulcamara,57.184716,16.384014
@@ -1669,14 +1605,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598609817,Solanum_dulcamara,60.268225,24.602631
 1702014560,Solanum_dulcamara,59.9627,10.3253
 1135484899,Solanum_dulcamara,50.803791,-2.335713
-1988117109,Solanum_dulcamara,49.22,-122.6
 1927820545,Solanum_dulcamara,41.258983,-73.685408
 441843029,Solanum_dulcamara,46.416639,-116.93267
-1988238958,Solanum_dulcamara,49.87,-118.1
 1228439615,Solanum_dulcamara,41.8333,-88.0833
 1697647973,Solanum_dulcamara,55.972646,58.281458
 1697647979,Solanum_dulcamara,55.918305,58.561172
-1849001837,Solanum_dulcamara,36.5,45
 1702373752,Solanum_dulcamara,60.7524,11.266
 1988600562,Solanum_dulcamara,45.613356,-85.588715
 1999601823,Solanum_dulcamara,63.537025,22.873113
@@ -1748,7 +1681,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055714255,Solanum_dulcamara,40.202511,33.421397
 1030488114,Solanum_dulcamara,44.39639,-83.76194
 1935725632,Solanum_dulcamara,47.12324,15.38167
-912519543,Solanum_dulcamara,40.2,33.42
 1705320527,Solanum_dulcamara,56.670213,12.725821
 1999477160,Solanum_dulcamara,60.679277,21.494077
 1988721195,Solanum_dulcamara,45.338454,-84.929799
@@ -1796,7 +1728,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988602653,Solanum_dulcamara,43.996948,-83.11559
 1321314962,Solanum_dulcamara,39.1639,-77.5206
 1030488252,Solanum_dulcamara,43.07911,-84.65687
-1055429583,Solanum_dulcamara,34.083333,76
 1598609786,Solanum_dulcamara,60.719563,26.456434
 1697286470,Solanum_dulcamara,60.369771,120.124848
 1999477136,Solanum_dulcamara,60.485662,22.310716
@@ -1813,7 +1744,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899357926,Solanum_dulcamara,44.13054,-79.512863
 1999477162,Solanum_dulcamara,60.403087,22.658798
 465768246,Solanum_dulcamara,45.62901,-62.68887
-1988092610,Solanum_dulcamara,49.6,-119.67
 1320618650,Solanum_dulcamara,38.1114,-76.9989
 1135484908,Solanum_dulcamara,50.89,0.681111
 1701454032,Solanum_dulcamara,58.7602,9.0778
@@ -1941,7 +1871,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788625180,Solanum_dulcamara,55.684461,13.495184
 1705416764,Solanum_dulcamara,55.699356,13.9022
 1705417292,Solanum_dulcamara,57.65525,12.131997
-1228194044,Solanum_dulcamara,42.2,-88.2333
 1701469654,Solanum_dulcamara,59.76019,10.03432
 788635848,Solanum_dulcamara,55.672901,13.552304
 788606561,Solanum_dulcamara,55.428153,14.110889
@@ -1990,7 +1919,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701899301,Solanum_dulcamara,61.5508,10.0039
 1598609844,Solanum_dulcamara,63.799455,22.631469
 415939324,Solanum_dulcamara,41.69166,-72.08694
-1262199811,Solanum_dulcamara,38,-98
 51964541,Solanum_dulcamara,44.4683,-119.6446
 1928846691,Solanum_dulcamara,40.486427,-86.133603
 1989523702,Solanum_dulcamara,42.456686,-84.005246
@@ -2000,7 +1928,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788634930,Solanum_dulcamara,56.287981,13.706322
 1930463540,Solanum_dulcamara,41.139375,-85.505118
 1701899355,Solanum_dulcamara,59.60196,9.69407
-1144783785,Solanum_dulcamara,42.28333,9.3
 1144783810,Solanum_dulcamara,41.76667,8.76667
 1262199730,Solanum_dulcamara,41.481585,-120.540911
 51964132,Solanum_dulcamara,45.2447,-117.9567
@@ -2088,7 +2015,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57724694,Solanum_dulcamara,61.3438,24.502001
 1598610114,Solanum_dulcamara,61.236626,24.29647
 1705295857,Solanum_dulcamara,56.425278,12.633345
-465877321,Solanum_dulcamara,45.2,-64.615833
 1038968740,Solanum_dulcamara,41.3965,-72.3438
 415939355,Solanum_dulcamara,41.98361,-73.19694
 1303687745,Solanum_dulcamara,27.928607,101.279419
@@ -2109,7 +2035,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701899324,Solanum_dulcamara,59.4858,10.4981
 1051248,Solanum_dulcamara,56.16742,15.31429
 1144105531,Solanum_dulcamara,60.62736,10.91732
-415939380,Solanum_dulcamara,45.48333,-74.3
 1622357467,Solanum_dulcamara,62.313356,21.303044
 1697648032,Solanum_dulcamara,48.733352,40.350895
 1999601768,Solanum_dulcamara,59.982548,23.476212
@@ -2153,11 +2078,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51964469,Solanum_dulcamara,45.8822,-119.3238
 415939376,Solanum_dulcamara,42.47,-71.02111
 1935957822,Solanum_dulcamara,41.7119,-3.0614
-51964442,Solanum_dulcamara,44.3,-120.8333
 788567238,Solanum_dulcamara,55.524772,13.906531
 1050860,Solanum_dulcamara,57.787732,14.27369
 1705295861,Solanum_dulcamara,56.504142,12.938837
-1144783802,Solanum_dulcamara,41.95,9.4
 1144105542,Solanum_dulcamara,59.80997,11.60166
 1598610145,Solanum_dulcamara,61.258145,25.785762
 1705257538,Solanum_dulcamara,57.896184,16.398636
@@ -2170,7 +2093,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598609976,Solanum_dulcamara,61.27625,22.426603
 441842349,Solanum_dulcamara,46.99667,-120.54667
 1701899344,Solanum_dulcamara,59.8694,10.5261
-1989031476,Solanum_dulcamara,42.2,-83.15
 788601686,Solanum_dulcamara,56.44196,12.56199
 465768266,Solanum_dulcamara,43.95778,-65.99649
 1990860416,Solanum_dulcamara,56.28648,12.92931
@@ -2233,7 +2155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788568952,Solanum_dulcamara,56.902094,12.489298
 1697647874,Solanum_dulcamara,56.72324,38.802783
 1262199690,Solanum_dulcamara,44.147192,-69.486719
-912460069,Solanum_dulcamara,45.4,-61.5
 1988800313,Solanum_dulcamara,42.416278,-83.15925
 1702347364,Solanum_dulcamara,59.8672,10.4375
 788767066,Solanum_dulcamara,55.94729,14.15739
@@ -2458,7 +2379,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705316084,Solanum_dulcamara,58.587275,14.089145
 1999601811,Solanum_dulcamara,60.540349,25.812752
 2313347452,Solanum_dulcamara,48.17,11.62
-1702277381,Solanum_dulcamara,59.3,10.6664
 1701659634,Solanum_dulcamara,59.3026,10.6668
 1929427421,Solanum_dulcamara,44.595616,-75.169094
 1930744784,Solanum_dulcamara,42.06676,-72.861487
@@ -2485,7 +2405,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788634731,Solanum_dulcamara,55.923564,14.292627
 1288096698,Solanum_dulcamara,50.6135,10.044333
 1702020760,Solanum_dulcamara,63.58554,10.68569
-1937013102,Solanum_dulcamara,46.5,13.65
 1935957998,Solanum_dulcamara,40.3236,-3.5074
 1697647820,Solanum_dulcamara,55.382095,41.773024
 1927767662,Solanum_dulcamara,55.807778,12.448889
@@ -2588,8 +2507,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598613125,Solanum_dulcamara,62.245037,28.24747
 1598610079,Solanum_dulcamara,63.284473,23.507953
 912519534,Solanum_dulcamara,40.88,35.46
-912519573,Solanum_dulcamara,37.21,50
-912519557,Solanum_dulcamara,36.3,59.6
 1671675088,Solanum_dulcamara,44.4086,9.235949
 1697831452,Solanum_dulcamara,43.59817,39.75067
 1038962658,Solanum_dulcamara,41.305,-73.3914
