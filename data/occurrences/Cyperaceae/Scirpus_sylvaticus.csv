@@ -108,7 +108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701570306,Scirpus_sylvaticus,63.808,11.4605
 1999599006,Scirpus_sylvaticus,60.941144,23.213782
 1701253221,Scirpus_sylvaticus,63.3621,10.2565
-2310484039,Scirpus_sylvaticus,58.1,27.06
 1342952697,Scirpus_sylvaticus,56.314377,8.295497
 1702037056,Scirpus_sylvaticus,59.7352,10.165
 1697379572,Scirpus_sylvaticus,58.80239,43.98574
@@ -189,7 +188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342952824,Scirpus_sylvaticus,55.920941,9.166721
 1701327877,Scirpus_sylvaticus,63.4103,10.4769
 1851372574,Scirpus_sylvaticus,43.022,-3.792
-211638274,Scirpus_sylvaticus,43.02,-3.8
 1701296770,Scirpus_sylvaticus,64.1821,11.1951
 204435811,Scirpus_sylvaticus,43.021999,-3.792
 1701240877,Scirpus_sylvaticus,63.4003,10.8317
@@ -215,7 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2322048604,Scirpus_sylvaticus,62.470812,7.524163
 1702205915,Scirpus_sylvaticus,62.5507,6.8557
 1701563513,Scirpus_sylvaticus,62.5527,7.6767
-296542882,Scirpus_sylvaticus,47.264,10.1
 1702203212,Scirpus_sylvaticus,61.1725,11.4607
 1702184646,Scirpus_sylvaticus,62.8106,7.8064
 1701626636,Scirpus_sylvaticus,59.6246,11.2473
@@ -375,7 +372,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697410937,Scirpus_sylvaticus,53.707656,42.502542
 1323784795,Scirpus_sylvaticus,59.7849,10.4517
 1851399662,Scirpus_sylvaticus,42.93,-5.14
-1947595585,Scirpus_sylvaticus,50.17,10.7
 1598346773,Scirpus_sylvaticus,61.010051,24.417384
 1702216745,Scirpus_sylvaticus,60.4142,10.3889
 1702368513,Scirpus_sylvaticus,59.1577,9.6513
@@ -493,7 +489,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701661657,Scirpus_sylvaticus,59.2805,10.998
 1144147817,Scirpus_sylvaticus,60.32605,6.17715
 1042864240,Scirpus_sylvaticus,63.557778,27.191667
-1988120130,Scirpus_sylvaticus,61.1,25.3
 1042864489,Scirpus_sylvaticus,61.083333,25.333333
 1701233515,Scirpus_sylvaticus,63.3247,10.2488
 1702377098,Scirpus_sylvaticus,61.4245,11.3521
@@ -552,7 +547,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144147830,Scirpus_sylvaticus,60.21298,5.44478
 1598349875,Scirpus_sylvaticus,60.795191,24.701237
 1701304152,Scirpus_sylvaticus,63.2613,10.265
-211637653,Scirpus_sylvaticus,43.549999,-6.4
 788656926,Scirpus_sylvaticus,56.00213,13.88745
 1701764704,Scirpus_sylvaticus,59.9197,10.565
 1697410817,Scirpus_sylvaticus,55.401926,38.638774
@@ -750,7 +744,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598349808,Scirpus_sylvaticus,61.971894,25.376072
 1598349848,Scirpus_sylvaticus,61.318303,23.915799
 1598346772,Scirpus_sylvaticus,60.908692,26.655936
-1705493663,Scirpus_sylvaticus,65,25.5
 57722928,Scirpus_sylvaticus,60.641899,21.683599
 187255138,Scirpus_sylvaticus,62.9909,10.5297
 1598346793,Scirpus_sylvaticus,64.222579,27.71767
@@ -1032,7 +1025,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702297625,Scirpus_sylvaticus,59.7018,10.5362
 1701721012,Scirpus_sylvaticus,59.8319,10.3825
 1697410946,Scirpus_sylvaticus,49.409298,41.527977
-1893207652,Scirpus_sylvaticus,49.5,6.02
 1042863656,Scirpus_sylvaticus,55.90151,13.98105
 1701233665,Scirpus_sylvaticus,63.7731,11.424
 1598349813,Scirpus_sylvaticus,63.14754,27.294282
@@ -1238,7 +1230,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042865741,Scirpus_sylvaticus,55.923564,14.292627
 1697410842,Scirpus_sylvaticus,59.078442,42.292531
 1042868365,Scirpus_sylvaticus,58.96977,16.44408
-735647937,Scirpus_sylvaticus,48.8,2.195556
 1702292755,Scirpus_sylvaticus,59.94976,6.01605
 1702297615,Scirpus_sylvaticus,60.7094,10.6124
 57722932,Scirpus_sylvaticus,61.981098,26.7106
