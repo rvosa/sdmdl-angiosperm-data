@@ -11,7 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1658227944,Artemisia_dracunculus,60.31327,-135.82677
 2292017592,Artemisia_dracunculus,39.116717,67.8529
 1658227919,Artemisia_dracunculus,61.87416,-132.87416
-1658404270,Artemisia_dracunculus,58.98277,23.3052
 1799056557,Artemisia_dracunculus,42.388333,73.807778
 1658227941,Artemisia_dracunculus,61.1559,-139.3868
 1801061635,Artemisia_dracunculus,50.98734,107.23693
@@ -55,9 +54,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927831061,Artemisia_dracunculus,44.492856,-103.835458
 2270477531,Artemisia_dracunculus,35.197366999111,-112.202733
 1988147428,Artemisia_dracunculus,62.18051,-133.7628
-1099891455,Artemisia_dracunculus,55.632889,12.542556
 1846552793,Artemisia_dracunculus,36.747399,-111.914646
-1705455731,Artemisia_dracunculus,56.869192,16.647146
 1928814115,Artemisia_dracunculus,48.8348,-111.9817
 1986990188,Artemisia_dracunculus,40.49372,-111.64821
 1988185827,Artemisia_dracunculus,61.89631,-132.67949
@@ -90,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895927695,Artemisia_dracunculus,30.833333,-110.641167
 1895927638,Artemisia_dracunculus,30.841528,-110.643361
 1936235351,Artemisia_dracunculus,41.5183,-8.7864
-1342973400,Artemisia_dracunculus,56.125657,12.320171
 1697694710,Artemisia_dracunculus,56.173611,42.75
 623661424,Artemisia_dracunculus,39.4387,-120.206365
 623661397,Artemisia_dracunculus,38.7003099990792,-119.84377
@@ -105,10 +101,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895931467,Artemisia_dracunculus,30.740833,-110.5725
 1936237719,Artemisia_dracunculus,38.8133,-9.4775
 1697352010,Artemisia_dracunculus,49.116667,44.116667
-1705432013,Artemisia_dracunculus,57.175688,16.940278
 1697694700,Artemisia_dracunculus,55.788889,41.736111
 1141840448,Artemisia_dracunculus,38.6853099990793,-100.92371
-1705432924,Artemisia_dracunculus,57.18497,16.913621
 1846547991,Artemisia_dracunculus,35.3523889991093,-111.737333
 1895931319,Artemisia_dracunculus,30.855278,-110.663056
 317857226,Artemisia_dracunculus,52.140183,13.376367
@@ -122,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615271675,Artemisia_dracunculus,34.88,67.43
 615272776,Artemisia_dracunculus,37.97,74.18
 1697694766,Artemisia_dracunculus,52.856653,37.429168
-1705452320,Artemisia_dracunculus,56.196588,16.398719
 1846512914,Artemisia_dracunculus,36.3219181993621,-112.230477355753
 1846517412,Artemisia_dracunculus,36.0845950961785,-113.580858204125
 1843911108,Artemisia_dracunculus,36.846542,-104.927406
@@ -131,7 +124,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242388489,Artemisia_dracunculus,40.97722,-104.50917
 1843906189,Artemisia_dracunculus,34.48285,-105.43041
 1936195116,Artemisia_dracunculus,39.93005,-8.94755
-1843420906,Artemisia_dracunculus,-37.704722,176.196389
 1851348564,Artemisia_dracunculus,41.640761,-8.815758
 2270690238,Artemisia_dracunculus,31.5545,-110.14
 1342973279,Artemisia_dracunculus,56.462257,10.305089
@@ -150,23 +142,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788775919,Artemisia_dracunculus,56.69861,16.17324
 1990818180,Artemisia_dracunculus,37.253163,-118.161816
 788524150,Artemisia_dracunculus,55.88015,13.28922
-1705469696,Artemisia_dracunculus,56.62247,16.621273
 2306834436,Artemisia_dracunculus,44.02,-79.53
 1843899929,Artemisia_dracunculus,36.01012,-104.6796
 233097047,Artemisia_dracunculus,39.2931,-102.9584
 1342973324,Artemisia_dracunculus,55.169306,11.832763
 1986978900,Artemisia_dracunculus,43.9117,-110.5388
 1988092893,Artemisia_dracunculus,32.3,77.977
-1342973312,Artemisia_dracunculus,56.10041,10.517905
 1842913486,Artemisia_dracunculus,36.8335560192277,-108.004340556379
 176880757,Artemisia_dracunculus,33.0276199991374,-108.15756
 1697694737,Artemisia_dracunculus,54.731401,37.369656
 1990818124,Artemisia_dracunculus,38.3044,-111.4843
 1889161818,Artemisia_dracunculus,32.416833,-106.073167
 2270688948,Artemisia_dracunculus,33.9322,-112.696
-1342973145,Artemisia_dracunculus,55.504919,9.829916
 2290097538,Artemisia_dracunculus,19.71,103.59
-1342973223,Artemisia_dracunculus,55.150085,10.324686
 1701350239,Artemisia_dracunculus,49.95389,88.02306
 1986956509,Artemisia_dracunculus,43.295066,-110.789476
 1843914896,Artemisia_dracunculus,36.7036,-106.234
@@ -181,23 +169,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899340651,Artemisia_dracunculus,49.6188,-95.0822
 1928036627,Artemisia_dracunculus,38.34106,-117.99742
 1846554773,Artemisia_dracunculus,36.4289,-112.026
-932706244,Artemisia_dracunculus,42.49541,-9.01359
 1658227869,Artemisia_dracunculus,60.8088,-136.7881
 1846546765,Artemisia_dracunculus,36.353483,-112.0832
 788414664,Artemisia_dracunculus,56.2338,13.86931
-1702248575,Artemisia_dracunculus,59.9111,10.6835
 2242358137,Artemisia_dracunculus,37.0727,-106.8505
 1342973181,Artemisia_dracunculus,56.202752,10.199544
 1843895248,Artemisia_dracunculus,35.5348,-105.4175
 788503373,Artemisia_dracunculus,55.43844,13.84842
 1697300708,Artemisia_dracunculus,71.6424,102.5752
 1930486949,Artemisia_dracunculus,37.7481,-111.8592
-1342973357,Artemisia_dracunculus,56.095511,12.177542
 788415594,Artemisia_dracunculus,55.6133,14.13017
 1986979550,Artemisia_dracunculus,37.5206,-118.2028
 1986952851,Artemisia_dracunculus,37.1881,-112.6387
 788472395,Artemisia_dracunculus,55.47881,13.01269
-900311148,Artemisia_dracunculus,58.7143,9.17
 1146245631,Artemisia_dracunculus,62.1167739538483,-142.18787371874
 2310177973,Artemisia_dracunculus,62.12,-142.19
 1658227921,Artemisia_dracunculus,62.11667,-142.1875
@@ -291,7 +275,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176880681,Artemisia_dracunculus,38.889722,-102.370278
 176880710,Artemisia_dracunculus,39.284722,-103.063056
 1846492247,Artemisia_dracunculus,31.37565,-110.291667
-1897837850,Artemisia_dracunculus,-43.517056,172.644917
 1658227986,Artemisia_dracunculus,61.0083,-138.1967
 1658227912,Artemisia_dracunculus,61.02833,-138.5033
 1697694740,Artemisia_dracunculus,47.707523,43.063308
@@ -329,7 +312,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895425100,Artemisia_dracunculus,30.344167,-108.138056
 1893339596,Artemisia_dracunculus,30.943889,-115.497222
 2270586034,Artemisia_dracunculus,32.8818,-110.15
-1258546277,Artemisia_dracunculus,41.71777,44.78444
 788460094,Artemisia_dracunculus,56.23983,15.61091
 2270471699,Artemisia_dracunculus,30.749754,-115.520029
 1949649615,Artemisia_dracunculus,56.141667,-120.031944
@@ -344,12 +326,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265445352,Artemisia_dracunculus,45.303706,-95.30637
 176880711,Artemisia_dracunculus,42.652947,-92.499372
 1986991785,Artemisia_dracunculus,43.2629,-109.5632
-1342973302,Artemisia_dracunculus,55.287301,10.833169
 1843819295,Artemisia_dracunculus,31.885892,-108.481461
 1342973162,Artemisia_dracunculus,56.999137,8.924591
 1843820773,Artemisia_dracunculus,33.428,-104.368
 176880639,Artemisia_dracunculus,38.704333,-98.034449
-1897662640,Artemisia_dracunculus,-37.783333,174.9
 1697694711,Artemisia_dracunculus,58.377787,45.386967
 51759056,Artemisia_dracunculus,43.7866,-117.8617
 1697694798,Artemisia_dracunculus,48.153621,46.863071
@@ -357,13 +337,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843809957,Artemisia_dracunculus,35.632256,-105.675486
 1599794962,Artemisia_dracunculus,61.262617,24.074154
 1426068073,Artemisia_dracunculus,36.795,-118.570833
-1936508281,Artemisia_dracunculus,43.3105,-10.0002
-788485550,Artemisia_dracunculus,56.28454,12.49214
 1209659396,Artemisia_dracunculus,50.5319009990746,-110.423031
 1927887647,Artemisia_dracunculus,40.5258,-110.8155
 1697694722,Artemisia_dracunculus,55.357005,37.526816
 1988076566,Artemisia_dracunculus,48.8,-115
-788484514,Artemisia_dracunculus,55.47247,14.28323
 2270626470,Artemisia_dracunculus,36.6394,-110.463
 1426088981,Artemisia_dracunculus,38.6037,-119.5706
 1986977719,Artemisia_dracunculus,43.263333,-110.661667
@@ -371,7 +348,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1209656517,Artemisia_dracunculus,49.6,-110.35
 1930643038,Artemisia_dracunculus,31.0464,-115.4525
 51759079,Artemisia_dracunculus,43.7387,-117.1777
-1094713533,Artemisia_dracunculus,-28.275556,-49.165833
 1986968148,Artemisia_dracunculus,41.620556,-112.546667
 1697694735,Artemisia_dracunculus,58.365965,45.523885
 615272584,Artemisia_dracunculus,36.65,74.53
@@ -379,10 +355,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895473368,Artemisia_dracunculus,29.3506367747246,-107.801206590385
 1930433441,Artemisia_dracunculus,29.62,-107.97
 1949635108,Artemisia_dracunculus,49.025,-119.678056
-441964441,Artemisia_dracunculus,52.521946,13.410277
 1949610434,Artemisia_dracunculus,49.6,-115.866667
-1091148386,Artemisia_dracunculus,-41.416666,175.666666
-1897629951,Artemisia_dracunculus,-41.416667,175.666667
 2270175880,Artemisia_dracunculus,34.8049999991154,-120.449
 1209659399,Artemisia_dracunculus,59.116667,-112.416667
 1209659484,Artemisia_dracunculus,59.816667,-111.783333
@@ -447,7 +420,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846492242,Artemisia_dracunculus,36.25,-112.166667
 1949628239,Artemisia_dracunculus,49.088333,-119.626667
 615271810,Artemisia_dracunculus,36.83,75.42
-1999518189,Artemisia_dracunculus,60.661159,21.277182
 1209657222,Artemisia_dracunculus,41.919996,-113.458211
 1230495878,Artemisia_dracunculus,48.025,16.29167
 1949610510,Artemisia_dracunculus,51.833333,-122.566667
@@ -455,7 +427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986965204,Artemisia_dracunculus,33.300833,-106.523889
 1705317199,Artemisia_dracunculus,57.455385,14.848979
 1986964000,Artemisia_dracunculus,43.866667,88.166667
-1599795004,Artemisia_dracunculus,60.202222,24.950175
 1209655953,Artemisia_dracunculus,59.116667,-112.45
 1988111690,Artemisia_dracunculus,50.8,-121
 1209657231,Artemisia_dracunculus,39.644614,-111.310384
@@ -479,7 +450,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265476556,Artemisia_dracunculus,44.87389,-92.782501
 1843822995,Artemisia_dracunculus,35.777525,-106.270626
 1929405260,Artemisia_dracunculus,39.1638,-119.7038
-900317547,Artemisia_dracunculus,58.1547,8.023
 1949588633,Artemisia_dracunculus,50.216667,-120.083333
 1949591062,Artemisia_dracunculus,50.147222,-120.563889
 1703299123,Artemisia_dracunculus,49.417722,-98.312694
@@ -577,7 +547,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883420371,Artemisia_dracunculus,49.7808,-114.7733
 2242399764,Artemisia_dracunculus,39.732191,-104.965606
 1846491028,Artemisia_dracunculus,39.144561,-107.943601
-1042022001,Artemisia_dracunculus,59.97258,10.72237
 2265476467,Artemisia_dracunculus,46.434856,-96.354219
 2265476859,Artemisia_dracunculus,44.059162,-93.116148
 176880628,Artemisia_dracunculus,46.5112,-97.9234
@@ -685,7 +654,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929543341,Artemisia_dracunculus,36.0821,-107.995
 2270625429,Artemisia_dracunculus,31.9297,-109.382
 1986921816,Artemisia_dracunculus,37.100833,-112.638611
-1701904223,Artemisia_dracunculus,59.10126,9.74684
 1843838891,Artemisia_dracunculus,33.464042,-105.768673
 176880756,Artemisia_dracunculus,39.112113,-97.566933
 1842917825,Artemisia_dracunculus,31.593825,-108.769445
@@ -738,7 +706,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176880741,Artemisia_dracunculus,34.897054,-102.120793
 176880707,Artemisia_dracunculus,34.7491,-102.78595
 1895473346,Artemisia_dracunculus,25.166667,-103.25
-1099910008,Artemisia_dracunculus,60.169722,24.938611
 1895473384,Artemisia_dracunculus,27.6038508569914,-107.540058688385
 176880655,Artemisia_dracunculus,35.04084,-102.19944
 176880732,Artemisia_dracunculus,36.90303,-102.88117
@@ -812,7 +779,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176880676,Artemisia_dracunculus,37.281,-98.74402
 176880667,Artemisia_dracunculus,41.90827,-96.8117
 176880716,Artemisia_dracunculus,45.56908,-103.17371
-464768313,Artemisia_dracunculus,-22.2725,166.44444
 1599794952,Artemisia_dracunculus,61.493121,23.710602
 1986913928,Artemisia_dracunculus,37.45,-115.733889
 176880666,Artemisia_dracunculus,37.449515,-115.733824
@@ -898,7 +864,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988072958,Artemisia_dracunculus,49.07,-119.59
 2242385866,Artemisia_dracunculus,39.683462,-105.154818
 2242399898,Artemisia_dracunculus,39.684868,-105.156068
-1893430975,Artemisia_dracunculus,32.425,-117.091667
 1893431139,Artemisia_dracunculus,30.691667,-115.008333
 2270256927,Artemisia_dracunculus,36.28171,-121.45669
 1426100460,Artemisia_dracunculus,36.5426,-117.5703
@@ -911,7 +876,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426061866,Artemisia_dracunculus,33.8048,-116.7793
 1703302800,Artemisia_dracunculus,49.179306,-101.067722
 1703302822,Artemisia_dracunculus,49.577972,-100.619583
-1897672678,Artemisia_dracunculus,-36.683333,175.116667
 2270627596,Artemisia_dracunculus,35.3306,-111.705
 1426216989,Artemisia_dracunculus,37.5293,-118.2053
 1705350982,Artemisia_dracunculus,57.05803,15.047114
@@ -931,7 +895,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929596463,Artemisia_dracunculus,41.168715,-73.763482
 1705331858,Artemisia_dracunculus,56.743346,14.988099
 1891607196,Artemisia_dracunculus,49.47,6.04
-1891597971,Artemisia_dracunculus,49.59,6.13
 51759402,Artemisia_dracunculus,45.6649,-120.7624
 1030878908,Artemisia_dracunculus,44.433887,84.918534
 1030878811,Artemisia_dracunculus,46.169623,90.428703
@@ -955,7 +918,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846492291,Artemisia_dracunculus,32.373,-110.691
 812020990,Artemisia_dracunculus,50.650267,9.1705
 1209657230,Artemisia_dracunculus,49.266667,-100.983333
-1703302856,Artemisia_dracunculus,50.1986109990725,-98.204722
 1703302846,Artemisia_dracunculus,49.8469439990705,-99.952222
 1209657198,Artemisia_dracunculus,50.434228,-100.589538
 1697694789,Artemisia_dracunculus,48.257446,44.356259
@@ -988,7 +950,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426102702,Artemisia_dracunculus,36.7743,-118.3313
 1702358280,Artemisia_dracunculus,61.13415,10.39176
 1209658827,Artemisia_dracunculus,51.046361,-114.03681
-788448768,Artemisia_dracunculus,57.64303,18.32273
 2242399433,Artemisia_dracunculus,39.782701,-105.082013
 1209659015,Artemisia_dracunculus,55.741356,-118.534617
 2265476305,Artemisia_dracunculus,46.869327,-96.473428
@@ -1010,7 +971,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441695382,Artemisia_dracunculus,44.491247,-114.1951
 1703302818,Artemisia_dracunculus,49.2404460384942,-98.5369320975249
 1988215531,Artemisia_dracunculus,49.02,-122.05
-788729162,Artemisia_dracunculus,56.046186,12.696177
 1426051646,Artemisia_dracunculus,36.774,-118.3352
 1703302775,Artemisia_dracunculus,49.371110999068,-98.243889
 1928936129,Artemisia_dracunculus,39.742488,-105.513608
@@ -1019,7 +979,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1209657175,Artemisia_dracunculus,52.163738,-105.137266
 1697300614,Artemisia_dracunculus,46.067626,135.392507
 2270636286,Artemisia_dracunculus,35.055,-111.782
-1893207323,Artemisia_dracunculus,49.53,6.04
 1895473364,Artemisia_dracunculus,28.135414,-102.728335
 1846492241,Artemisia_dracunculus,32.266008,-110.824326
 1831055081,Artemisia_dracunculus,53.4485,11.9152
@@ -1051,8 +1010,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895223640,Artemisia_dracunculus,29.038889,-102.566667
 1426136814,Artemisia_dracunculus,36.7754,-118.3331
 2242386058,Artemisia_dracunculus,39.550499,-107.582763
-441961649,Artemisia_dracunculus,57,25
-786093410,Artemisia_dracunculus,56.9,24.1
 1209657217,Artemisia_dracunculus,32.9187,-116.948591
 1303733512,Artemisia_dracunculus,37.503189,101.760864
 1303733517,Artemisia_dracunculus,35.391656,102.060263
@@ -1099,19 +1056,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697694777,Artemisia_dracunculus,53.308208,52.654139
 1697300643,Artemisia_dracunculus,51.683333,100.983333
 1931252340,Artemisia_dracunculus,31.88,-116.35
-1705280126,Artemisia_dracunculus,56.66405,16.343408
-1259749243,Artemisia_dracunculus,32.4,-117.083333
 1895201665,Artemisia_dracunculus,28.653889,-114.028889
 1259748830,Artemisia_dracunculus,31.9,-116.35
-1929331145,Artemisia_dracunculus,32.38044,-117.07811
 2270258590,Artemisia_dracunculus,34.7713999991157,-118.762
 1697694822,Artemisia_dracunculus,54.314507,54.577711
 51759180,Artemisia_dracunculus,45.5947,-121.1775
 1209658780,Artemisia_dracunculus,51.0666669990782,-114.08333
 2242420080,Artemisia_dracunculus,40.377206,-105.521665
 1209658819,Artemisia_dracunculus,52.140695,-112.748542
-1599794957,Artemisia_dracunculus,59.861327,23.158675
-1705280102,Artemisia_dracunculus,56.654999,16.359583
 2242385872,Artemisia_dracunculus,39.645156,-105.039569
 1697694753,Artemisia_dracunculus,51.669545,39.172709
 51759331,Artemisia_dracunculus,45.3278,-117.2286
@@ -1123,7 +1075,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928931972,Artemisia_dracunculus,39.739154,-104.984703
 788675537,Artemisia_dracunculus,55.87246,12.8213
 1986899095,Artemisia_dracunculus,40.412662,-123.935555
-788686491,Artemisia_dracunculus,59.31706,18.07814
 51758517,Artemisia_dracunculus,45.5649,-122.4093
 2242400884,Artemisia_dracunculus,48.255794,-99.399785
 2270625304,Artemisia_dracunculus,32.4303,-110.705
