@@ -18,12 +18,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51965878,Sphaerophysa_salsula,45.8949,-119.5606
 615407455,Sphaerophysa_salsula,37.05,80.75
 1843829931,Sphaerophysa_salsula,35.899226,-106.130021
-615407454,Sphaerophysa_salsula,37.08,80.8
 1843896173,Sphaerophysa_salsula,35.127,-106.573
 233102110,Sphaerophysa_salsula,37.1429,-100.772817
 2270564064,Sphaerophysa_salsula,46.1465,-118.9423
 2242377425,Sphaerophysa_salsula,37.945853,-106.126808
-615407384,Sphaerophysa_salsula,36,97.5
 2270223333,Sphaerophysa_salsula,43.3088,-108.2319
 1843806566,Sphaerophysa_salsula,35.083499,-106.601361
 1986960420,Sphaerophysa_salsula,37.961389,-106.246944
@@ -46,11 +44,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242420045,Sphaerophysa_salsula,37.725,-105.850576
 1929601907,Sphaerophysa_salsula,40.98,-117.48
 1843827298,Sphaerophysa_salsula,35.045288,-106.890524
-1928485877,Sphaerophysa_salsula,41.9,-109.81
 2270507503,Sphaerophysa_salsula,41.90162,-109.82431
 177036855,Sphaerophysa_salsula,37.057693,-99.726862
-1928285031,Sphaerophysa_salsula,41.9,-109.58
-1929092370,Sphaerophysa_salsula,39.6,-118.57
 1843827246,Sphaerophysa_salsula,35.052448,-106.856345
 1611939471,Sphaerophysa_salsula,31.915833,-106.601389
 1843827158,Sphaerophysa_salsula,35.033337,-106.938657
@@ -62,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843822591,Sphaerophysa_salsula,34.417371,-106.800455
 2270503825,Sphaerophysa_salsula,35.083634,-106.207386
 1697261199,Sphaerophysa_salsula,50.697755,93.237388
-441849329,Sphaerophysa_salsula,46.5,-119.716667
 2270502779,Sphaerophysa_salsula,37.7819,-105.5357
 1095184233,Sphaerophysa_salsula,37.54158,-105.85808
 442313564,Sphaerophysa_salsula,45.8406,-119.2883
@@ -87,10 +81,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303766494,Sphaerophysa_salsula,38.798957,113.432164
 441849587,Sphaerophysa_salsula,46.3775,-120.3075
 1303766496,Sphaerophysa_salsula,32.790891,102.544402
-1697261154,Sphaerophysa_salsula,51.8,107.6
-1697261182,Sphaerophysa_salsula,51.4,118.8
 1099881451,Sphaerophysa_salsula,38.414167,77.246111
 1843827591,Sphaerophysa_salsula,35.084607,-106.651018
 1303955926,Sphaerophysa_salsula,38.590879,108.846037
 1303766455,Sphaerophysa_salsula,44.000502,89.18066
-1096870186,Sphaerophysa_salsula,39.9,88.38
