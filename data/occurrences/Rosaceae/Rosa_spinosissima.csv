@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1978365882,Rosa_spinosissima,55.6,37.7
 1844883240,Rosa_spinosissima,39.70306,21.198059
 1978366074,Rosa_spinosissima,53.59525,53.356806
 1828867331,Rosa_spinosissima,55.89922,14.25458
@@ -52,7 +51,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1142100032,Rosa_spinosissima,48.03389,16.27389
 1050652868,Rosa_spinosissima,42.81,-2.56
 2309871392,Rosa_spinosissima,51.62,-4.27
-786262552,Rosa_spinosissima,50.1,8.7
 2287442376,Rosa_spinosissima,52.156767,4.3758
 1936262266,Rosa_spinosissima,41.062,-3.5726
 1702223543,Rosa_spinosissima,59.7009,5.3839
@@ -60,7 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900307920,Rosa_spinosissima,62.389,5.6329
 2290547482,Rosa_spinosissima,52.655917,4.634833
 1142100383,Rosa_spinosissima,48.48444,15.70722
-2309987978,Rosa_spinosissima,49.4,26.07
 1231087510,Rosa_spinosissima,40.48861,44.3125
 2309856837,Rosa_spinosissima,49.41,24.82
 1231087533,Rosa_spinosissima,40.28472,45.09306
@@ -104,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 237345721,Rosa_spinosissima,57.140278,9.257222
 788612709,Rosa_spinosissima,56.02941,14.14427
 900307652,Rosa_spinosissima,69.702,29.388
-895221906,Rosa_spinosissima,40.6,-1.52
 900309955,Rosa_spinosissima,70.0748,29.7558
 1257516604,Rosa_spinosissima,50.1214,-5.5347
 1342886352,Rosa_spinosissima,56.729638,9.055877
@@ -122,18 +118,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900306212,Rosa_spinosissima,60.6057,12.4646
 900316151,Rosa_spinosissima,65.4806,12.3386
 1701647133,Rosa_spinosissima,58.7259,5.6602
-1050647769,Rosa_spinosissima,42.6,-2.65
 317825734,Rosa_spinosissima,42.601,-2.653
 788496690,Rosa_spinosissima,55.53081,13.00742
 1935718306,Rosa_spinosissima,57.10389,9.16972
-1935718281,Rosa_spinosissima,47.18333,18.2
 1231081550,Rosa_spinosissima,39.69194,45.30139
 1342886542,Rosa_spinosissima,57.619693,10.446769
 1701854095,Rosa_spinosissima,60.0657,10.1841
 1671672817,Rosa_spinosissima,43.938874,7.758873
 895212573,Rosa_spinosissima,40.255,-0.313
 1671672897,Rosa_spinosissima,43.938567,7.607939
-199500706,Rosa_spinosissima,36.99,-4.4
 1501122053,Rosa_spinosissima,40.25,-0.31
 1342886282,Rosa_spinosissima,56.405359,8.536878
 1342886347,Rosa_spinosissima,56.675604,8.811003
@@ -146,7 +139,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900314786,Rosa_spinosissima,63.2874,9.0785
 900306624,Rosa_spinosissima,64.6422,12.3134
 900311075,Rosa_spinosissima,64.4671,12.295
-1050643852,Rosa_spinosissima,41.68,-1.8
 900308028,Rosa_spinosissima,63.7584,9.7369
 900313359,Rosa_spinosissima,63.9667,11.3481
 1930086457,Rosa_spinosissima,41.6611,42.6061
@@ -181,7 +173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900315868,Rosa_spinosissima,60.3312,6.6069
 186832838,Rosa_spinosissima,61.343,7.3976
 232591786,Rosa_spinosissima,38.474,-2.467
-991910688,Rosa_spinosissima,48.2,11.4
 900306300,Rosa_spinosissima,61.3004,7.2467
 198470527,Rosa_spinosissima,43.031624,-5.524746
 900309143,Rosa_spinosissima,61.2981,7.3159
@@ -217,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 198469830,Rosa_spinosissima,43.248447,-4.803498
 788596066,Rosa_spinosissima,56.41127,12.63025
 1342886674,Rosa_spinosissima,55.595468,9.720743
-29729381,Rosa_spinosissima,40.292,-2.1
 1563903645,Rosa_spinosissima,58.2709,7.6538
 1231078225,Rosa_spinosissima,40.90722,44.42667
 1004789,Rosa_spinosissima,55.72215,13.16727
@@ -251,7 +241,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186832645,Rosa_spinosissima,58.8273,7.7954
 900316427,Rosa_spinosissima,58.5021,8.5768
 1701843212,Rosa_spinosissima,60.723,10.9697
-1050629519,Rosa_spinosissima,41.8,-1.85
 1342886349,Rosa_spinosissima,57.088576,8.676899
 1342886689,Rosa_spinosissima,55.93061,12.045436
 1701328823,Rosa_spinosissima,63.9691,10.2223
@@ -260,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563903007,Rosa_spinosissima,58.4666,8.0581
 900307369,Rosa_spinosissima,58.8335,7.7796
 1342886353,Rosa_spinosissima,56.792493,9.105081
-899802988,Rosa_spinosissima,55.1,8.5
 1342886405,Rosa_spinosissima,56.908734,9.384569
 1342886496,Rosa_spinosissima,56.104695,10.1161
 1050627661,Rosa_spinosissima,41.81,-1.86
@@ -315,7 +303,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702152243,Rosa_spinosissima,59.1255,11.4024
 19747072,Rosa_spinosissima,48.7514,1.23717
 1851392998,Rosa_spinosissima,42.997,-5.067
-1053986556,Rosa_spinosissima,42.9,-1.35
 1342890252,Rosa_spinosissima,56.189495,9.522365
 1851393850,Rosa_spinosissima,43.042,-5.069
 1701786402,Rosa_spinosissima,61.6687,11.1713
@@ -324,12 +311,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851397290,Rosa_spinosissima,42.874,-4.867
 1701986271,Rosa_spinosissima,60.2011,12.0149
 1851387348,Rosa_spinosissima,43.075,-5.229
-1851370612,Rosa_spinosissima,42.9,-4.917
 19746727,Rosa_spinosissima,46.5671,4.90051
 1936443894,Rosa_spinosissima,40.6253,-1.8544
 30887805,Rosa_spinosissima,37.68,-3.57
 1050591614,Rosa_spinosissima,40.63,-1.84
-1050591621,Rosa_spinosissima,40.6,-1.77
 900312603,Rosa_spinosissima,58.6281,8.8528
 1342886599,Rosa_spinosissima,55.676547,12.335071
 1851568527,Rosa_spinosissima,40.58,-1.75
@@ -372,7 +357,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999495473,Rosa_spinosissima,60.674066,21.586659
 57719918,Rosa_spinosissima,62.240398,25.736601
 30887810,Rosa_spinosissima,37.049999,-3.56
-1050609326,Rosa_spinosissima,43.1,-3.2
 1705314619,Rosa_spinosissima,56.777144,15.255629
 1948359520,Rosa_spinosissima,60.91548,24.646346
 1948359521,Rosa_spinosissima,60.966773,24.479083
@@ -388,12 +372,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29729515,Rosa_spinosissima,40.01,-0.627
 1705442006,Rosa_spinosissima,56.539712,14.119536
 29729512,Rosa_spinosissima,40.028,-0.627
-1851360039,Rosa_spinosissima,42.4,-4.52
 1500984844,Rosa_spinosissima,40.02,-0.62
 29729519,Rosa_spinosissima,40.009,-0.616
-1500697567,Rosa_spinosissima,40.66,0.1
 1705358704,Rosa_spinosissima,57.244895,13.999646
-895184639,Rosa_spinosissima,40.4,-0.35
 318119692,Rosa_spinosissima,38.65,-0.23
 1042998930,Rosa_spinosissima,57.7128,11.9153
 1705263999,Rosa_spinosissima,57.536234,15.77182
@@ -417,7 +398,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705344409,Rosa_spinosissima,57.484899,16.006947
 111312456,Rosa_spinosissima,42.650002,-1.188
 111312871,Rosa_spinosissima,42.675999,-1.859
-788819046,Rosa_spinosissima,41.25,23.6
 111312457,Rosa_spinosissima,42.451,-1.121
 1004385,Rosa_spinosissima,57.24918,15.41591
 1948508808,Rosa_spinosissima,62.295018,27.140283
@@ -430,7 +410,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053980851,Rosa_spinosissima,42.08,-1.36
 1851399300,Rosa_spinosissima,43.249,-8.945
 1502022413,Rosa_spinosissima,40.31,-0.35
-1502025279,Rosa_spinosissima,40.3,-0.23
 1705300389,Rosa_spinosissima,56.819793,14.47875
 1697733183,Rosa_spinosissima,44.893215,34.784131
 1705344424,Rosa_spinosissima,57.463905,16.161796
@@ -483,7 +462,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313367421,Rosa_spinosissima,48.12,11.49
 29729673,Rosa_spinosissima,39.95,-0.72
 1936545563,Rosa_spinosissima,43.031747,-4.166119
-1050609285,Rosa_spinosissima,42.8,-2.71
 900312427,Rosa_spinosissima,58.1499,6.8848
 918799225,Rosa_spinosissima,49.7597,8.3022
 1050609307,Rosa_spinosissima,42.74,-2.53
@@ -503,10 +481,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050609340,Rosa_spinosissima,42.77,-2.57
 1050609336,Rosa_spinosissima,42.87,-3.25
 1050609343,Rosa_spinosissima,42.61,-2.62
-1050609317,Rosa_spinosissima,42.8,-2.6
-786262482,Rosa_spinosissima,53.1,4.8
 1260845340,Rosa_spinosissima,43.75277,6.86166
-1050609330,Rosa_spinosissima,42.79,-2.6
 1948359431,Rosa_spinosissima,62.787323,27.682533
 1702361106,Rosa_spinosissima,60.6003,12.0083
 1948508833,Rosa_spinosissima,61.070051,25.051918
@@ -514,7 +489,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1883360653,Rosa_spinosissima,57.142778,9.274722
 187238168,Rosa_spinosissima,63.2913,9.8475
 1845010363,Rosa_spinosissima,49.815833,8.076667
-991910679,Rosa_spinosissima,44.5,15.2
 1999495483,Rosa_spinosissima,60.351243,23.164468
 211635845,Rosa_spinosissima,43.169998,-5.94
 1042998928,Rosa_spinosissima,57.656,12.0101
@@ -560,7 +534,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697733198,Rosa_spinosissima,44.796698,34.29966
 57719909,Rosa_spinosissima,61.527699,24.2616
 57719896,Rosa_spinosissima,63.0951,23.1341
-1705493762,Rosa_spinosissima,65,25.5
 1999495529,Rosa_spinosissima,60.386629,22.306829
 1705498853,Rosa_spinosissima,61.26,22.69
 1883360521,Rosa_spinosissima,59.58522,16.5859
@@ -604,7 +577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288437372,Rosa_spinosissima,50.452,6.102
 57719914,Rosa_spinosissima,62.964199,25.9125
 1701232942,Rosa_spinosissima,63.7527,11.3006
-876157748,Rosa_spinosissima,41.4,1.15
 1842895665,Rosa_spinosissima,41.84,0.65
 1999495495,Rosa_spinosissima,60.493466,22.674025
 1701929814,Rosa_spinosissima,59.4109,11.3652
@@ -648,7 +620,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999638479,Rosa_spinosissima,60.242863,24.017533
 1144050827,Rosa_spinosissima,59.7449,5.3118
 1144050829,Rosa_spinosissima,59.7795,5.3672
-1705499699,Rosa_spinosissima,63.67,22.7
 1702343353,Rosa_spinosissima,59.82582,5.48698
 1144050841,Rosa_spinosissima,59.752,5.411
 39534402,Rosa_spinosissima,63.7861,-18.1058
