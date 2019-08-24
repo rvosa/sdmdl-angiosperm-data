@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1883575872,Wahlenbergia_hederacea,40.22167,-5.54361
-1702507587,Wahlenbergia_hederacea,43.33,-5.6
 1842910115,Wahlenbergia_hederacea,43.33614,-5.6065
 1851326017,Wahlenbergia_hederacea,43.1549,-3.3401
 932709184,Wahlenbergia_hederacea,42.24527,-7.4929
@@ -69,7 +68,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936409011,Wahlenbergia_hederacea,42.1401,-6.7507
 1053985866,Wahlenbergia_hederacea,43.27,-1.77
 1936171560,Wahlenbergia_hederacea,39.5035,-5.1181
-1050601034,Wahlenbergia_hederacea,42.69,-2.5
 1053985904,Wahlenbergia_hederacea,43.25,-1.76
 1053985839,Wahlenbergia_hederacea,43.27,-1.78
 1050601009,Wahlenbergia_hederacea,43.06,-2.71
@@ -101,17 +99,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851393659,Wahlenbergia_hederacea,42.28,-6.15
 1050601100,Wahlenbergia_hederacea,43.03,-2.65
 1936357722,Wahlenbergia_hederacea,43.0171,-2.6086
-1050601093,Wahlenbergia_hederacea,43.07,-2.6
 204438608,Wahlenbergia_hederacea,43.023998,-2.589
 1050601095,Wahlenbergia_hederacea,43.02,-2.58
 204438644,Wahlenbergia_hederacea,43.224998,-1.775
 204438647,Wahlenbergia_hederacea,43.296001,-1.65
 204438626,Wahlenbergia_hederacea,43.150002,-3.375
-1050601089,Wahlenbergia_hederacea,42.9,-2.24
 1936543324,Wahlenbergia_hederacea,43.1642,-4.2315
 1936357726,Wahlenbergia_hederacea,41.7986,-8.1227
 1050601094,Wahlenbergia_hederacea,42.95,-2.43
-1050601113,Wahlenbergia_hederacea,43.19,-3
 1050601104,Wahlenbergia_hederacea,43.13,-2.57
 1050601109,Wahlenbergia_hederacea,42.99,-2.83
 1050601105,Wahlenbergia_hederacea,42.93,-2.33
@@ -120,7 +115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806554484,Wahlenbergia_hederacea,43.161,-1.715
 1936031841,Wahlenbergia_hederacea,40.0742,-5.8157
 1851321270,Wahlenbergia_hederacea,40.14,-4.58
-1050601106,Wahlenbergia_hederacea,42.91,-2.3
 211642265,Wahlenbergia_hederacea,43.049999,-6.42
 211642034,Wahlenbergia_hederacea,43.400002,-5.11
 30900698,Wahlenbergia_hederacea,41.009998,-3.59
@@ -131,8 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211641954,Wahlenbergia_hederacea,43.189999,-5.89
 318127188,Wahlenbergia_hederacea,40.39,-5.77
 211641951,Wahlenbergia_hederacea,43.220001,-5.96
-211641712,Wahlenbergia_hederacea,43.560001,-7.7
-211642202,Wahlenbergia_hederacea,43.049999,-6
 211641803,Wahlenbergia_hederacea,43.220001,-6.05
 1935969341,Wahlenbergia_hederacea,40.4968,-6.1575
 1935969396,Wahlenbergia_hederacea,43.0742,-4.2297
