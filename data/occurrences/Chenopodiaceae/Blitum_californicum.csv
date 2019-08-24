@@ -43,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270278689,Blitum_californicum,34.363129,-118.920337
 1929418604,Blitum_californicum,33.535993,-116.95452
 2270182469,Blitum_californicum,35.11429,-120.63014
-1846534016,Blitum_californicum,33.5,-117.9
 1899734127,Blitum_californicum,34.533333,-118.083333
 623665141,Blitum_californicum,33.816667,-118.85
 2270265237,Blitum_californicum,34.5691999991181,-120.6291
@@ -67,7 +66,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270181982,Blitum_californicum,35.106147,-119.579269
 2270267970,Blitum_californicum,34.0019999991249,-120.0582
 1893396851,Blitum_californicum,32.541667,-117.125
-623665150,Blitum_californicum,34,-119.75
 1896078391,Blitum_californicum,32.325833,-116.81
 1846533679,Blitum_californicum,32.734299,-116.479916
 2270181838,Blitum_californicum,35.27928,-120.88808
@@ -87,4 +85,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896078388,Blitum_californicum,38.9675,-121.289722
 1259338800,Blitum_californicum,31.804444,-116.790278
 2270269664,Blitum_californicum,34.4536999991194,-119.7014
-1259338843,Blitum_californicum,31.7,-116.566667
