@@ -119,8 +119,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895211785,Nardus_stricta,40.387,-1.675
 1701779247,Nardus_stricta,63.5644,10.5855
 1936679896,Nardus_stricta,37.9286,22.4047
-895206912,Nardus_stricta,37.92,22.4
-1050641584,Nardus_stricta,41.67,-1.8
 1701274338,Nardus_stricta,62.9455,7.3811
 1701804288,Nardus_stricta,62.6977,11.4831
 1323767346,Nardus_stricta,67.2865,15.6602
@@ -168,7 +166,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701222781,Nardus_stricta,63.1345,11.7277
 1701267736,Nardus_stricta,63.3714,10.3189
 187206063,Nardus_stricta,63.3542,12.0085
-1060413341,Nardus_stricta,52,-9.5
 1701245201,Nardus_stricta,63.5077,9.7062
 1701969091,Nardus_stricta,63.1121,11.0643
 1936645012,Nardus_stricta,41.6056,24.5936
@@ -184,7 +181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697404243,Nardus_stricta,52.204513,35.453581
 1701562961,Nardus_stricta,62.6825,11.1193
 1701274328,Nardus_stricta,62.7957,11.0588
-1986952332,Nardus_stricta,55.716667,11.5
 187207039,Nardus_stricta,63.6483,11.5052
 1701960795,Nardus_stricta,63.4187,10.2529
 1936626909,Nardus_stricta,40.8242,-4.0686
@@ -227,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936607438,Nardus_stricta,40.633333,37.933333
 1702203316,Nardus_stricta,60.7929,10.9226
 894164335,Nardus_stricta,43.03651,-5.61809
-1095900652,Nardus_stricta,41,23
 1929004050,Nardus_stricta,42.50208,44.4556
 1050626619,Nardus_stricta,41.76,-1.86
 1851395260,Nardus_stricta,42.78,-6.097
@@ -250,7 +245,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186823887,Nardus_stricta,59.0954,7.2099
 1701833612,Nardus_stricta,59.7379,11.3439
 1701849666,Nardus_stricta,58.5737,6.5884
-788757346,Nardus_stricta,38.7,22.133333
 1342723989,Nardus_stricta,55.648652,8.164485
 1050619670,Nardus_stricta,42.69,-2.51
 788878560,Nardus_stricta,41.016667,22.283333
@@ -258,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702164249,Nardus_stricta,59.9474,9.4824
 1060413343,Nardus_stricta,65.741943,-18.008055
 1697403947,Nardus_stricta,59.960684,38.467922
-1881950210,Nardus_stricta,48.91,10.7
 1999525303,Nardus_stricta,60.704764,21.468594
 786763049,Nardus_stricta,53.4485,11.7486
 318117192,Nardus_stricta,40.42,-5.31
@@ -276,7 +269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697404192,Nardus_stricta,56.511302,47.028008
 1697404222,Nardus_stricta,51.688989,36.368286
 1638411453,Nardus_stricta,46.86667,15.03333
-115882843,Nardus_stricta,42.599998,0.2
 1638411392,Nardus_stricta,47.1175,14.63778
 1697404105,Nardus_stricta,54.80119,40.874876
 1701987847,Nardus_stricta,61.2876,12.1346
@@ -289,7 +281,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936519587,Nardus_stricta,40.8251,-3.9619
 1936649056,Nardus_stricta,42.8127,-0.2126
 1702151598,Nardus_stricta,62.0904,5.3891
-318117117,Nardus_stricta,42.81,-0.2
 894164055,Nardus_stricta,42.819,-0.205
 1701791040,Nardus_stricta,62.4831,9.0582
 1701992122,Nardus_stricta,59.7011,10.8036
@@ -315,13 +306,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697404093,Nardus_stricta,54.202229,36.295243
 1697404027,Nardus_stricta,66.250148,37.130631
 1697404039,Nardus_stricta,59.75328,38.389166
-860314695,Nardus_stricta,42.8242,-0.7
 1230982686,Nardus_stricta,48.7725,21.20028
 1599965650,Nardus_stricta,60.825585,24.999569
 1322529711,Nardus_stricta,40.0889,29.1803
 1321528406,Nardus_stricta,40.7831,40.7408
 115882842,Nardus_stricta,42.790001,-0.55
-1317551045,Nardus_stricta,45.9,6.88
 318116956,Nardus_stricta,40.39,-0.63
 1323771094,Nardus_stricta,68.7156,17.2713
 1599965591,Nardus_stricta,61.262124,24.677306
@@ -332,7 +321,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599965669,Nardus_stricta,60.618954,24.414923
 1599965626,Nardus_stricta,60.954393,24.489294
 1599965594,Nardus_stricta,60.315035,24.685178
-994538925,Nardus_stricta,61.1,23.3
 1599965653,Nardus_stricta,60.386335,25.169871
 1599965581,Nardus_stricta,60.292827,25.192284
 1599965751,Nardus_stricta,61.118572,24.018712
@@ -349,7 +337,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1332790533,Nardus_stricta,50.500758,9.961359
 1599965638,Nardus_stricta,61.342398,28.82887
 1599965601,Nardus_stricta,68.070417,24.70375
-1702509670,Nardus_stricta,42.9,-0.86
 57709418,Nardus_stricta,68.389297,27.4214
 1599965623,Nardus_stricta,62.175936,22.043712
 1999525244,Nardus_stricta,60.966079,21.634107
@@ -362,13 +349,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697404087,Nardus_stricta,54.171233,36.085419
 199491192,Nardus_stricta,40.12,-5.99
 235666350,Nardus_stricta,40.2987928469321,-5.77124510229997
-235666355,Nardus_stricta,40.3,-5.77
 1702509208,Nardus_stricta,42.65,-1.14
 235666351,Nardus_stricta,40.22,-6.71
 235666347,Nardus_stricta,40.31,-5.65
 235666352,Nardus_stricta,40.23,-6.83
 895158331,Nardus_stricta,43.11,-5.27
-788757406,Nardus_stricta,38,22.183333
 296501593,Nardus_stricta,46.883,12.783
 1599965622,Nardus_stricta,60.232651,23.827796
 1599965612,Nardus_stricta,60.259028,23.622773
@@ -382,7 +367,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144730228,Nardus_stricta,41.83333,9.23333
 1050594857,Nardus_stricta,42.85,-0.84
 1231977650,Nardus_stricta,53.1485,11.582
-1144730195,Nardus_stricta,42.4,8.91667
 1599965721,Nardus_stricta,61.289274,23.293102
 1705313801,Nardus_stricta,57.59704,15.08609
 1599965550,Nardus_stricta,61.830243,27.117283
@@ -409,7 +393,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 328379750,Nardus_stricta,43.15,-3.437
 1038234785,Nardus_stricta,50.676113,8.131945
 1936599323,Nardus_stricta,42.9813,-4.4731
-894159079,Nardus_stricta,43,-6.24
 1599965611,Nardus_stricta,60.998401,24.395216
 2289572873,Nardus_stricta,60.983333,24.383333
 1053986376,Nardus_stricta,42.48,0.37
@@ -429,7 +412,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705282901,Nardus_stricta,57.99134,14.959839
 1705327241,Nardus_stricta,57.735295,15.081665
 1599965592,Nardus_stricta,65.570946,28.00354
-1947342506,Nardus_stricta,50.17,10.8
 1899357409,Nardus_stricta,44.861111,-78.625
 894161450,Nardus_stricta,43.0483,-5.3126
 39460223,Nardus_stricta,66.022,-18.058
@@ -439,7 +421,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1805098991,Nardus_stricta,42.241,-2.97
 894160468,Nardus_stricta,42.55,-5.74
 1053981099,Nardus_stricta,42.95,-0.83
-894160518,Nardus_stricta,42.2,-6.52
 1702025259,Nardus_stricta,61.1101,9.8442
 894158901,Nardus_stricta,42.84,-6.86
 1050594866,Nardus_stricta,43.14,-3.42
@@ -463,7 +444,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211632568,Nardus_stricta,43.060001,-5.92
 39460134,Nardus_stricta,63.879,-21.588
 1323863756,Nardus_stricta,69.2269,20.4808
-115882628,Nardus_stricta,40.549999,-4.3
 296501601,Nardus_stricta,46.888,12.37
 211632322,Nardus_stricta,43.34,-6.14
 1638411266,Nardus_stricta,47.10611,14.91472
@@ -475,7 +455,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144160363,Nardus_stricta,60.7511,6.6607
 1697404077,Nardus_stricta,57.085118,24.813558
 1705878632,Nardus_stricta,52.8301,23.8402
-211631612,Nardus_stricta,42.959999,-6.3
 1050594839,Nardus_stricta,43.04,-2.78
 1697404121,Nardus_stricta,54.943341,39.436875
 1668934554,Nardus_stricta,54.905,37.578
@@ -492,7 +471,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638411561,Nardus_stricta,47.625,15.29167
 21195880,Nardus_stricta,62.664,6.2836
 894166697,Nardus_stricta,40.87,-3.77
-788878300,Nardus_stricta,40.9,21.833333
 211631611,Nardus_stricta,43.049999,-6.18
 1323703715,Nardus_stricta,66.8503,15.5698
 39460226,Nardus_stricta,65.769,-19.998
@@ -518,8 +496,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999525230,Nardus_stricta,60.827432,21.597536
 1697404111,Nardus_stricta,55.242575,41.061849
 894161788,Nardus_stricta,42.82,-5.87
-1899326092,Nardus_stricta,60.816667,21.6
-894161814,Nardus_stricta,42.82,-6
 1638411581,Nardus_stricta,47.275,13.95833
 39459906,Nardus_stricta,65.901,-19.328
 1260858412,Nardus_stricta,46.55,9.61666
@@ -544,7 +520,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 115882841,Nardus_stricta,42.43,-0.57
 1323864299,Nardus_stricta,67.1519,15.0115
 1702424686,Nardus_stricta,62.74169,7.3964
-211632510,Nardus_stricta,43.049999,-6
 1323803124,Nardus_stricta,68.0696,17.8198
 1845009856,Nardus_stricta,49.1525,7.755556
 1697404080,Nardus_stricta,55.733518,37.796067
@@ -558,7 +533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323703670,Nardus_stricta,68.1344,17.0814
 21195383,Nardus_stricta,58.4528,6.2753
 318228210,Nardus_stricta,59.98286,5.53824
-894162167,Nardus_stricta,43.1,-5.4
 57709413,Nardus_stricta,62.564381,25.839642
 1599965719,Nardus_stricta,60.605363,24.1668
 39460565,Nardus_stricta,66.115,-23.56
@@ -567,8 +541,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323864300,Nardus_stricta,66.87726,15.63325
 1702232570,Nardus_stricta,59.1579,11.0363
 1837335068,Nardus_stricta,61.32771,10.51106
-39459898,Nardus_stricta,65.769,-21.5
-1249267789,Nardus_stricta,46.5,7.6
 1697404071,Nardus_stricta,54.658992,40.771741
 1599965738,Nardus_stricta,61.172263,26.346579
 1702403434,Nardus_stricta,60.4804,9.4548
@@ -576,7 +548,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697404109,Nardus_stricta,54.706488,40.843957
 1065671045,Nardus_stricta,66.037865,16.223109
 1701281824,Nardus_stricta,63.4428,8.569
-1988134401,Nardus_stricta,60.2,-44.5
 1668933023,Nardus_stricta,56.51036,13.40081
 1440783709,Nardus_stricta,58.4335,7.8534
 1697404100,Nardus_stricta,54.709372,40.855064
@@ -604,16 +575,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259931504,Nardus_stricta,60.18333,-44.05
 1804438971,Nardus_stricta,60.316667,-44.116667
 1702424698,Nardus_stricta,62.33985,6.63925
-465894995,Nardus_stricta,60.1,-43.783333
 1259931612,Nardus_stricta,60.16666,-44.28333
 1701928771,Nardus_stricta,62.8075,7.2642
 177285711,Nardus_stricta,64.684998,24.618
 465894993,Nardus_stricta,60.183333,-44.05
-39699247,Nardus_stricta,65.521,-19.8
 1804441154,Nardus_stricta,60.283333,-44.033333
 39699240,Nardus_stricta,65.894,-18.039
 1323757476,Nardus_stricta,62.1702,9.6912
-1259931687,Nardus_stricta,60.1,-43.78333
 1599965770,Nardus_stricta,61.59517,24.265264
 788593896,Nardus_stricta,55.96328,13.88426
 1599965740,Nardus_stricta,61.249429,25.040824
@@ -622,7 +590,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702372353,Nardus_stricta,61.13415,10.39176
 1701718998,Nardus_stricta,62.4625,7.1969
 39699083,Nardus_stricta,65.386,-17.335
-39699084,Nardus_stricta,65.612,-17.5
 39699081,Nardus_stricta,65.437,-17.348
 1323703714,Nardus_stricta,67.3125,14.4773
 812028269,Nardus_stricta,50.6935,9.1792
@@ -657,7 +624,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701319315,Nardus_stricta,62.5921,11.4343
 1705425974,Nardus_stricta,65.818123,15.087581
 1065671017,Nardus_stricta,64.013254,17.278668
-1804397306,Nardus_stricta,60.616667,-44.7
 318228215,Nardus_stricta,58.9355,5.6167
 1323703688,Nardus_stricta,67.2334,16.32
 1845009854,Nardus_stricta,46.716667,7.85
@@ -770,7 +736,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812028271,Nardus_stricta,50.638867,9.153533
 1599965540,Nardus_stricta,61.877298,28.992982
 1999525326,Nardus_stricta,60.73948,22.503317
-1891596293,Nardus_stricta,50.08,5.9
 1702403348,Nardus_stricta,58.6343,6.0887
 1705258476,Nardus_stricta,58.246954,11.457687
 1705318786,Nardus_stricta,57.802872,11.918184
@@ -904,7 +869,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995402923,Nardus_stricta,51.4167,-0.6833
 995402896,Nardus_stricta,51.3833,-0.6167
 187206694,Nardus_stricta,63.4894,9.994
-1261975443,Nardus_stricta,45.7,-71.466667
 1697404160,Nardus_stricta,56.034843,36.203912
 1702018402,Nardus_stricta,58.872,9.3295
 1024639802,Nardus_stricta,45.699286,-71.462595
@@ -1022,7 +986,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697768236,Nardus_stricta,40.532681,44.716868
 1042854074,Nardus_stricta,55.95329,13.07376
 1323703698,Nardus_stricta,65.6927,14.0311
-2289178382,Nardus_stricta,46.2,14.616667
 1702403442,Nardus_stricta,61.11844,5.90272
 1065671033,Nardus_stricta,65.957275,16.18965
 1599965580,Nardus_stricta,64.130291,28.125968
@@ -1054,7 +1017,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705398150,Nardus_stricta,56.646843,14.915187
 39698837,Nardus_stricta,65.678,-18.193
 373764612,Nardus_stricta,64.6166,24.833
-1259931852,Nardus_stricta,60.35,-45
 1697404097,Nardus_stricta,54.358713,34.961055
 1144730215,Nardus_stricta,42.03333,9.13333
 27460696,Nardus_stricta,46.8546,0.928775
