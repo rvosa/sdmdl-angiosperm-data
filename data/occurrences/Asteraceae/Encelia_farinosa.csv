@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270491761,Encelia_farinosa,34.70635,-115.67433
 1846485548,Encelia_farinosa,33.462085,-111.942681
 1846487922,Encelia_farinosa,33.460686,-111.47156
-1658228144,Encelia_farinosa,32.243406,-111.168
 1846559633,Encelia_farinosa,33.318306,-112.036893
 1846484245,Encelia_farinosa,33.572071,-112.504743
 1846484185,Encelia_farinosa,33.49422,-112.56478
@@ -58,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895647959,Encelia_farinosa,23.3925,-110.213055
 2270516819,Encelia_farinosa,32.9259,-112.576
 1846523788,Encelia_farinosa,33.656111,-114.793056
-1895646163,Encelia_farinosa,30.955833,-114.766111
 415972763,Encelia_farinosa,32.357,-112.8838
 2270515346,Encelia_farinosa,34.329207,-114.110528
 1895932288,Encelia_farinosa,30.635278,-109.279444
@@ -195,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426234783,Encelia_farinosa,34.173333,-114.278611
 1894651444,Encelia_farinosa,29.375,-112.275
 1846492656,Encelia_farinosa,33.98283,-111.725
-1894651492,Encelia_farinosa,28.936667,-112.318333
 1846555700,Encelia_farinosa,32.976917,-109.370633
 2270677094,Encelia_farinosa,33.4592,-113.372
 1846497455,Encelia_farinosa,32.90955,-109.450733
@@ -244,7 +241,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846477446,Encelia_farinosa,33.26435,-111.1753
 1258969446,Encelia_farinosa,23.516667,-109.683333
 1258969882,Encelia_farinosa,23.316667,-110.166667
-1897345381,Encelia_farinosa,24.325,-110.325
 1846475398,Encelia_farinosa,33.67632,-111.1612
 1929721641,Encelia_farinosa,36.279167,-114.003333
 2270648400,Encelia_farinosa,36.2871,-113.995
@@ -278,11 +274,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930920456,Encelia_farinosa,29.1336,-109.945
 1846498410,Encelia_farinosa,33.686667,-115.423333
 2270487900,Encelia_farinosa,33.424278,-111.92811
-1894819741,Encelia_farinosa,25.458333,-112.775
 2270483892,Encelia_farinosa,33.57787,-112.18811
 1986976297,Encelia_farinosa,33.361389,-112.041667
 1895381327,Encelia_farinosa,28.311939,-109.282781
-2270827667,Encelia_farinosa,29.0975,-113.529
 176938646,Encelia_farinosa,33.526437,-111.389852
 1928227903,Encelia_farinosa,28.5014,-109.7633
 1895425916,Encelia_farinosa,26.663889,-112.896939
@@ -291,9 +285,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846497218,Encelia_farinosa,33.1794,-111.6612
 2270485572,Encelia_farinosa,33.4147,-111.909
 1894820562,Encelia_farinosa,27.641667,-113.408333
-1894820530,Encelia_farinosa,25.125,-110.158333
 1894820565,Encelia_farinosa,24.041667,-110.158333
-1895647902,Encelia_farinosa,25.021667,-110.6875
 1426234741,Encelia_farinosa,33.804167,-117.091667
 1899735419,Encelia_farinosa,34.518639,-118.593833
 1500202039,Encelia_farinosa,33.601667,-117.028333
@@ -304,7 +296,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846494320,Encelia_farinosa,33.5165,-111.4156
 1895307637,Encelia_farinosa,23.302778,-110.162778
 1895646149,Encelia_farinosa,23.303333,-110.161667
-1894819734,Encelia_farinosa,26.058333,-111.091667
 1894820553,Encelia_farinosa,27.591667,-113.008333
 2270645528,Encelia_farinosa,34.3667,-114.183
 1897357146,Encelia_farinosa,31.151667,-101.859444
@@ -329,7 +320,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895425859,Encelia_farinosa,24.1025,-110.414439
 1846476960,Encelia_farinosa,35.88933,-113.7162
 1894820546,Encelia_farinosa,24.141667,-110.175
-1895649794,Encelia_farinosa,30.549167,-114.716111
 1426234802,Encelia_farinosa,34.083333,-115.333333
 1846497748,Encelia_farinosa,34.26007,-114.02663
 1894819748,Encelia_farinosa,23.141667,-109.675
@@ -337,9 +327,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895522339,Encelia_farinosa,25.833333,-112.083333
 1258145000,Encelia_farinosa,25.833333,-112.05
 2270478679,Encelia_farinosa,27.8536,-113.505
-1894823017,Encelia_farinosa,27.441667,-111.875
 1894064436,Encelia_farinosa,31.633556,-115.08325
-1894819731,Encelia_farinosa,24.108333,-110.025
 2270477736,Encelia_farinosa,31.6333,-115.083
 1894819746,Encelia_farinosa,23.508333,-109.991667
 2270644934,Encelia_farinosa,32.4142,-111.498
@@ -369,7 +357,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1274894781,Encelia_farinosa,33.816667,-116.383333
 1846477872,Encelia_farinosa,34.1222,-114.1892
 1895381271,Encelia_farinosa,23.525281,-110.288889
-1895381284,Encelia_farinosa,24.323297,-110.315397
 2270645809,Encelia_farinosa,33.4587,-111.45
 1895381260,Encelia_farinosa,28.8905950747155,-113.525926901092
 1261308327,Encelia_farinosa,32.16666,-110.83333
@@ -388,7 +375,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893668359,Encelia_farinosa,23.525,-110.201667
 1895648951,Encelia_farinosa,30.401667,-115.9675
 1894817394,Encelia_farinosa,26.991667,-113.375
-1893596318,Encelia_farinosa,19.488333,-100.466667
 1846498288,Encelia_farinosa,33.883333,-117.383333
 2270560061,Encelia_farinosa,33.59,-111.44
 1893528224,Encelia_farinosa,23.108333,-110.041667
@@ -397,7 +383,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270186602,Encelia_farinosa,32.74225,-115.99425
 1893591048,Encelia_farinosa,29.008333,-110.811389
 1260345421,Encelia_farinosa,27.60555,-110.28333
-1895381368,Encelia_farinosa,27.4355219435324,-111.85795862215
 1895522407,Encelia_farinosa,23.916667,-110.25
 2270645321,Encelia_farinosa,33.2102,-114.207
 1893528222,Encelia_farinosa,23.641667,-110.291667
@@ -415,7 +400,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846497816,Encelia_farinosa,33.23287,-113.16716
 1846498257,Encelia_farinosa,31.833333,-113.5
 1260884960,Encelia_farinosa,30.650278,-110.944167
-1258189510,Encelia_farinosa,31.316667,-113.566667
 1893660471,Encelia_farinosa,26.96985,-108.98966
 1895381286,Encelia_farinosa,27.65,-109.9
 1846497582,Encelia_farinosa,33.46371,-111.58903
@@ -424,7 +408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846479229,Encelia_farinosa,32.6496,-111.2337
 1899732211,Encelia_farinosa,31.083333,-115
 1928372321,Encelia_farinosa,27.9411,-110.6481
-1895522348,Encelia_farinosa,24.337322,-110.297314
 2270645411,Encelia_farinosa,35.7262,-113.387
 2270480313,Encelia_farinosa,23.55,-109.617
 1894064458,Encelia_farinosa,23.55,-109.616778
@@ -437,7 +420,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270645988,Encelia_farinosa,36.3456,-114.013
 2270588926,Encelia_farinosa,33.7167,-111.85
 1986910096,Encelia_farinosa,36.258067,-115.02324
-1259818987,Encelia_farinosa,20.55,-99.3
 1895455600,Encelia_farinosa,29.133611,-109.945
 1846498374,Encelia_farinosa,29.089167,-110.961111
 1896257055,Encelia_farinosa,30.716667,-112.16
@@ -462,7 +444,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270646884,Encelia_farinosa,32.9549,-109.531
 2270587628,Encelia_farinosa,32.1204,-113.298
 2270646845,Encelia_farinosa,32.7553,-114.361
-2270485914,Encelia_farinosa,21.37372,-157.742848
 1426234738,Encelia_farinosa,33.6904,-115.8026
 2270646667,Encelia_farinosa,32.3117,-114.051
 2270260323,Encelia_farinosa,33.58717,-115.97855
@@ -474,7 +455,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846498155,Encelia_farinosa,36.13601,-111.81673
 2270646173,Encelia_farinosa,33.33,-113.953
 2270644919,Encelia_farinosa,36.1372,-111.816
-1846497707,Encelia_farinosa,33.462078,-111.944678
 2270581808,Encelia_farinosa,33.6474,-111.726
 1893392249,Encelia_farinosa,27.758333,-109.708333
 1895381341,Encelia_farinosa,27.9610410033327,-110.92486045232
@@ -491,7 +471,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270476830,Encelia_farinosa,25.84572,-108.983333
 1893392308,Encelia_farinosa,31.391667,-115.525
 2270645424,Encelia_farinosa,32.7253,-114.624
-1846496172,Encelia_farinosa,30.5,-116.133333
 1456105242,Encelia_farinosa,26.35,-112.6
 2270581549,Encelia_farinosa,33.3712,-112.377
 1894064362,Encelia_farinosa,26.350028,-112.599944
@@ -513,7 +492,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270478141,Encelia_farinosa,29.111624,-111.027244
 1455963584,Encelia_farinosa,24.8,-110.72
 2270645365,Encelia_farinosa,32.7519,-111.817
-2270476756,Encelia_farinosa,31.336547,-113.61116
 1846497626,Encelia_farinosa,33.614342,-112.034142
 1426234713,Encelia_farinosa,36.115205,-117.154255
 2270188240,Encelia_farinosa,32.99606,-115.09029
@@ -537,7 +515,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893433115,Encelia_farinosa,27.641667,-109.908333
 1928455556,Encelia_farinosa,32.3,-115.31
 1895522333,Encelia_farinosa,24.378261,-111.083333
-36696157,Encelia_farinosa,20.7667,-156.45
 2270582587,Encelia_farinosa,33.80062,-112.13462
 2270580794,Encelia_farinosa,33.5975,-111.205
 2270582743,Encelia_farinosa,33.686,-111.739
@@ -545,10 +522,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270645800,Encelia_farinosa,33.6011,-111.21
 1895522396,Encelia_farinosa,32.2039743956441,-113.857288367831
 2270188530,Encelia_farinosa,33.6621,-116.3108
-1894064448,Encelia_farinosa,24.2852359489164,-110.326823703191
 1893393174,Encelia_farinosa,28.225,-113.441667
 1893393179,Encelia_farinosa,28.941667,-113.591667
-1893393055,Encelia_farinosa,30.475,-114.675
 122230608,Encelia_farinosa,33.42,-112.42
 2270477854,Encelia_farinosa,30.883804,-110.856184
 1426234744,Encelia_farinosa,33.558889,-117.253333
@@ -562,7 +537,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426234764,Encelia_farinosa,33.7854,-117.494698
 2270583144,Encelia_farinosa,33.4483,-112.073
 1927957696,Encelia_farinosa,33.095354,-114.297737
-2270478252,Encelia_farinosa,31.337201,-113.624235
 2270584631,Encelia_farinosa,33.715,-111.517
 1893393094,Encelia_farinosa,32.125,-113.791667
 2270589007,Encelia_farinosa,33.37,-112.028
@@ -573,28 +547,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176938685,Encelia_farinosa,33.575134,-116.48253
 176938121,Encelia_farinosa,33.416667,-116.216667
 1893392248,Encelia_farinosa,31.0275,-114.835278
-1931053476,Encelia_farinosa,31.3431,-113.635
 2270261499,Encelia_farinosa,33.6545,-116.3967
 1895381283,Encelia_farinosa,25.6001965889718,-109.049930605164
 1895381311,Encelia_farinosa,29.518042,-111.004467
 2270646882,Encelia_farinosa,36.0367,-114.322
 2270583113,Encelia_farinosa,33.5656,-111.536
-1456238595,Encelia_farinosa,27.43,-111.942
 2270584663,Encelia_farinosa,33.4069,-111.966
-2270482457,Encelia_farinosa,29.3,-112.367
-1893393086,Encelia_farinosa,29.541667,-113.558333
 2270588999,Encelia_farinosa,33.6042,-111.847
 2270581608,Encelia_farinosa,33.4222,-111.822
-1895522413,Encelia_farinosa,28.629636,-112.818858
 2270583224,Encelia_farinosa,33.4581,-111.949
-1895425951,Encelia_farinosa,25.942222,-111.148322
-2270478208,Encelia_farinosa,25.8667,-111.233
-1894819738,Encelia_farinosa,26.025,-111.175
-1895647935,Encelia_farinosa,25.872222,-111.21253
 924817916,Encelia_farinosa,33.01068,-111.41922
 2270581730,Encelia_farinosa,33.528,-111.7
 2270186517,Encelia_farinosa,33.9858,-116.5835
-1894064339,Encelia_farinosa,25.872861,-111.213861
 1893393200,Encelia_farinosa,25.925,-111.558333
 2270262768,Encelia_farinosa,34.451057,-115.790906
 1456192816,Encelia_farinosa,25.92,-111.55
@@ -615,9 +579,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893392279,Encelia_farinosa,23.575,-110.191667
 1895522343,Encelia_farinosa,23.5889391193428,-110.222754574234
 2270260799,Encelia_farinosa,33.9405,-116.6417
-1846498372,Encelia_farinosa,33.973056,-117.328056
 1846497544,Encelia_farinosa,33.453994,-111.954125
-1846502798,Encelia_farinosa,29.1925,-112.384722
 1426234715,Encelia_farinosa,33.8305,-116.5461
 1846498269,Encelia_farinosa,33.647472,-116.401528
 1455981011,Encelia_farinosa,23.77,-109.83
@@ -651,9 +613,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846556180,Encelia_farinosa,36.4776,-116.8732
 1846497602,Encelia_farinosa,33.4223,-111.82262
 1895381294,Encelia_farinosa,29.916667,-112.666667
-1894064386,Encelia_farinosa,23.5959516699047,-109.585645069767
 1426234690,Encelia_farinosa,36.111426,-117.178888
-1426444977,Encelia_farinosa,28.304167,-115.575
 1895522351,Encelia_farinosa,29.50599,-114.74024
 1426234735,Encelia_farinosa,34.0191,-116.582802
 1426234716,Encelia_farinosa,32.68594,-116.06519
