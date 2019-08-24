@@ -121,13 +121,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838954179,Agrimonia_eupatoria,38.76194,21.85194
 1838954083,Agrimonia_eupatoria,38.686668,21.84667
 1838954090,Agrimonia_eupatoria,38.660831,21.84417
-899739369,Agrimonia_eupatoria,51.3,11
 1838953940,Agrimonia_eupatoria,38.568329,21.806391
 932713652,Agrimonia_eupatoria,48.709724,8.894167
 1622351460,Agrimonia_eupatoria,49.033978,11.06177
 1848348152,Agrimonia_eupatoria,48.70306,16.46667
 1598998969,Agrimonia_eupatoria,62.603229,29.726076
-899739364,Agrimonia_eupatoria,53.9,10.9
 1838954067,Agrimonia_eupatoria,40.070831,21.479441
 1838954144,Agrimonia_eupatoria,39.720001,21.63167
 1838954097,Agrimonia_eupatoria,39.942219,21.58889
@@ -153,10 +151,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697697123,Agrimonia_eupatoria,56.703,31.5569
 2287444564,Agrimonia_eupatoria,52.387733,4.558133
 1230507357,Agrimonia_eupatoria,39.36389,45.98722
-899739360,Agrimonia_eupatoria,51.6,12.3
-1421199776,Agrimonia_eupatoria,51.8,12.7
 1697547812,Agrimonia_eupatoria,55.566667,40.2875
-1842844100,Agrimonia_eupatoria,42.3,1
 876156985,Agrimonia_eupatoria,48.3388,16.4007
 1701457129,Agrimonia_eupatoria,59.4145,8.2407
 1830968904,Agrimonia_eupatoria,48.00028,16.29417
@@ -200,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050642989,Agrimonia_eupatoria,42.84,-2.72
 1851399507,Agrimonia_eupatoria,42.131,-4.555
 900314208,Agrimonia_eupatoria,59.5463,6.3825
-1502044219,Agrimonia_eupatoria,39.9,-0.39
 1851335005,Agrimonia_eupatoria,42.744962,-4.259561
 1598998980,Agrimonia_eupatoria,61.538949,23.564481
 441960572,Agrimonia_eupatoria,51.361778,14.624206
@@ -214,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702037316,Agrimonia_eupatoria,59.893,10.5459
 1230498872,Agrimonia_eupatoria,39.03083,46.36917
 1230499087,Agrimonia_eupatoria,40.94,44.7175
-1697350886,Agrimonia_eupatoria,51.233333,40.2
 1880979507,Agrimonia_eupatoria,48.79,10.63
 1230499295,Agrimonia_eupatoria,41.25,44.94333
 1702240520,Agrimonia_eupatoria,59.6788,10.6054
@@ -238,13 +231,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212030980,Agrimonia_eupatoria,38.914722,21.924167
 1838954006,Agrimonia_eupatoria,38.840832,21.53639
 1838954110,Agrimonia_eupatoria,38.962502,21.608061
-1697547935,Agrimonia_eupatoria,53.5,39
-883400328,Agrimonia_eupatoria,49.5,20.183333
 1838954076,Agrimonia_eupatoria,38.992779,21.55611
 1838954187,Agrimonia_eupatoria,38.914719,21.92417
 1212031638,Agrimonia_eupatoria,38.691111,21.436667
 1838953979,Agrimonia_eupatoria,39.14167,21.485559
-994566188,Agrimonia_eupatoria,49.5,20.2
 1212030956,Agrimonia_eupatoria,38.833889,21.735278
 1212031172,Agrimonia_eupatoria,38.992778,21.556111
 124806595,Agrimonia_eupatoria,49.0155,1.52899
@@ -272,7 +262,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 728979137,Agrimonia_eupatoria,51.789453,6.034464
 437600117,Agrimonia_eupatoria,49.06944,1.85111
 932707639,Agrimonia_eupatoria,42.24317,-8.86808
-1795579610,Agrimonia_eupatoria,43.1,-1.71
 1342284767,Agrimonia_eupatoria,55.721612,9.659383
 1851372743,Agrimonia_eupatoria,42.9545,-5.2306
 1851365183,Agrimonia_eupatoria,42.4487,-5.3925
@@ -281,10 +270,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 124806632,Agrimonia_eupatoria,48.62,2.90323
 1697547847,Agrimonia_eupatoria,56.397222,38.866667
 1576192866,Agrimonia_eupatoria,40.319109,-4.566745
-2268333223,Agrimonia_eupatoria,49.5,9.7
 1702316326,Agrimonia_eupatoria,59.5169,10.5321
-786083962,Agrimonia_eupatoria,49.5,9.8
-786083921,Agrimonia_eupatoria,49,8.4
 1928099275,Agrimonia_eupatoria,41.675,42.6419
 1702268174,Agrimonia_eupatoria,59.3024,10.6744
 1927828511,Agrimonia_eupatoria,41.6611,45.8083
@@ -310,7 +296,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503339848,Agrimonia_eupatoria,52.379167,13.297222
 211643267,Agrimonia_eupatoria,38.165,-2.092
 1705352784,Agrimonia_eupatoria,57.339643,16.469478
-786083912,Agrimonia_eupatoria,49.6,9.6
 1928002838,Agrimonia_eupatoria,42.43867,44.49385
 1702217924,Agrimonia_eupatoria,59.5156,10.6908
 1705370807,Agrimonia_eupatoria,55.927833,12.792084
@@ -340,16 +325,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838954172,Agrimonia_eupatoria,38.884441,21.762501
 1212026946,Agrimonia_eupatoria,38.864722,22.226944
 1212027181,Agrimonia_eupatoria,38.916389,21.786111
-786083991,Agrimonia_eupatoria,48.7,10.1
 1701233359,Agrimonia_eupatoria,61.1037,6.8761
-786083995,Agrimonia_eupatoria,49.5,10
 1342287592,Agrimonia_eupatoria,57.412179,10.521818
 1230493547,Agrimonia_eupatoria,39.21778,46.33278
 198468338,Agrimonia_eupatoria,43.18,-4.64
 1702213576,Agrimonia_eupatoria,59.1974,11.0038
 788533356,Agrimonia_eupatoria,56.17307,12.95923
 1928119332,Agrimonia_eupatoria,41.93,43.87
-786083881,Agrimonia_eupatoria,49.2,8.6
 788529033,Agrimonia_eupatoria,56.27227,12.85981
 1342291580,Agrimonia_eupatoria,55.849468,11.961965
 1697798399,Agrimonia_eupatoria,44.597222,37.968056
@@ -371,7 +353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697732895,Agrimonia_eupatoria,44.411111,33.797222
 1697547827,Agrimonia_eupatoria,56.236111,41.322222
 1848347797,Agrimonia_eupatoria,48.37417,15.57861
-1795579631,Agrimonia_eupatoria,42.4,-1.83
 1705334122,Agrimonia_eupatoria,59.102524,15.232779
 1702213488,Agrimonia_eupatoria,59.7394,10.7283
 1702213831,Agrimonia_eupatoria,59.7312,10.7314
@@ -379,7 +360,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 584124,Agrimonia_eupatoria,56.0757,14.48116
 1795578898,Agrimonia_eupatoria,42.71,-1.11
 1795579827,Agrimonia_eupatoria,42.83,-1.72
-786083940,Agrimonia_eupatoria,50.4,10.1
 199456956,Agrimonia_eupatoria,36.875,-4.038
 29573309,Agrimonia_eupatoria,40.256,-2.089
 1936670151,Agrimonia_eupatoria,38.7672,-0.5496
@@ -396,7 +376,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828867879,Agrimonia_eupatoria,56.112,14.18209
 1936670278,Agrimonia_eupatoria,38.7935,-0.5142
 1098948914,Agrimonia_eupatoria,51.420834,11.144444
-786083897,Agrimonia_eupatoria,51.4,11.1
 1838954068,Agrimonia_eupatoria,37.62056,22.04583
 1212023216,Agrimonia_eupatoria,37.544167,22.28
 1697547789,Agrimonia_eupatoria,56.422222,40.475
@@ -410,10 +389,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838954138,Agrimonia_eupatoria,37.87278,22.14333
 59970595,Agrimonia_eupatoria,42.169852,-7.081168
 895231841,Agrimonia_eupatoria,39.608,-0.839
-786083889,Agrimonia_eupatoria,48.8,9.8
 6723530,Agrimonia_eupatoria,46.5671,4.90051
 1701406684,Agrimonia_eupatoria,61.0316,7.6609
-1230491679,Agrimonia_eupatoria,40.11667,44.7
 1851356087,Agrimonia_eupatoria,42.35,-6.554
 1342289153,Agrimonia_eupatoria,55.345304,11.135508
 893396964,Agrimonia_eupatoria,39.950001,44.883331
@@ -422,7 +399,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211643266,Agrimonia_eupatoria,38.17,-2.14
 1144045746,Agrimonia_eupatoria,60.4887,5.4312
 328095533,Agrimonia_eupatoria,39.95,44.88
-328095530,Agrimonia_eupatoria,40.12,44.7
 1230491537,Agrimonia_eupatoria,40.31667,44.28333
 893396946,Agrimonia_eupatoria,40.316669,44.283329
 1851357937,Agrimonia_eupatoria,42.6353,-6.4491
@@ -481,7 +457,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828867605,Agrimonia_eupatoria,56.09298,13.91203
 1795864012,Agrimonia_eupatoria,42.640497,-2.27866
 59970430,Agrimonia_eupatoria,42.542182,-7.276822
-1697547758,Agrimonia_eupatoria,55.5,31.75
 30931228,Agrimonia_eupatoria,42.560001,0.45
 1702184721,Agrimonia_eupatoria,59.7429,10.5915
 1702193745,Agrimonia_eupatoria,59.074,10.8708
@@ -514,7 +489,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999606627,Agrimonia_eupatoria,60.483088,22.238214
 1050624252,Agrimonia_eupatoria,42.69,-2.45
 1342289171,Agrimonia_eupatoria,55.299289,11.196051
-1050624713,Agrimonia_eupatoria,41.7,-1.74
 1702192069,Agrimonia_eupatoria,59.7407,10.7301
 1697548045,Agrimonia_eupatoria,53.686569,53.157951
 1701626976,Agrimonia_eupatoria,59.7304,10.7296
@@ -584,7 +558,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936447190,Agrimonia_eupatoria,38.7703,-0.2848
 1701984646,Agrimonia_eupatoria,59.7737,9.9535
 1502061938,Agrimonia_eupatoria,38.79,-0.82
-1050656021,Agrimonia_eupatoria,42.66,-2
 1831515202,Agrimonia_eupatoria,37.37917,22.05
 1701577443,Agrimonia_eupatoria,59.7765,9.9394
 1144597834,Agrimonia_eupatoria,42.08333,8.75
@@ -593,7 +566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144597823,Agrimonia_eupatoria,42.35,9.15
 1702235195,Agrimonia_eupatoria,59.1018,10.7748
 1701375209,Agrimonia_eupatoria,60.915,10.6874
-1842884189,Agrimonia_eupatoria,35.13,-5.2
 1342292288,Agrimonia_eupatoria,55.473337,12.095592
 1697547742,Agrimonia_eupatoria,57.776531,35.222223
 1705338955,Agrimonia_eupatoria,57.292829,15.670877
@@ -604,14 +576,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705347170,Agrimonia_eupatoria,57.291929,15.669222
 1828868318,Agrimonia_eupatoria,55.64346,13.2717
 1342292256,Agrimonia_eupatoria,55.465479,12.14364
-1598998961,Agrimonia_eupatoria,61.5,23.117618
 1702031339,Agrimonia_eupatoria,60.7862,10.9194
 1828867933,Agrimonia_eupatoria,56.26133,12.99943
 1828866775,Agrimonia_eupatoria,55.89922,14.25458
 29574693,Agrimonia_eupatoria,40.05,-1.18
 1342291493,Agrimonia_eupatoria,55.696154,11.982186
 237337117,Agrimonia_eupatoria,42.22,1.85
-29571635,Agrimonia_eupatoria,39.51,-1.2
 1936521171,Agrimonia_eupatoria,42.4318,-6.9347
 1702233943,Agrimonia_eupatoria,60.3593,10.4772
 199456703,Agrimonia_eupatoria,36.585,-4.883
@@ -658,12 +628,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936357273,Agrimonia_eupatoria,42.2602,2.4896
 1936423000,Agrimonia_eupatoria,42.3243,2.8289
 1701373722,Agrimonia_eupatoria,59.8019,10.7849
-1851363351,Agrimonia_eupatoria,42.596,-6.3
 1828867799,Agrimonia_eupatoria,55.74425,13.17874
-30844420,Agrimonia_eupatoria,36.580002,-4.9
 1702408703,Agrimonia_eupatoria,59.8944,10.2778
 1828867999,Agrimonia_eupatoria,56.11076,14.26617
-29574540,Agrimonia_eupatoria,40.4,-0.35
 1702408767,Agrimonia_eupatoria,59.8502,10.2047
 1851411903,Agrimonia_eupatoria,42.914,-5.138
 1701930820,Agrimonia_eupatoria,59.7121,10.5375
@@ -671,7 +638,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702438695,Agrimonia_eupatoria,59.5322,10.516
 1702432306,Agrimonia_eupatoria,59.0919,9.7007
 211618151,Agrimonia_eupatoria,43.470001,-5.19
-211618154,Agrimonia_eupatoria,43.400002,-6.2
 211618152,Agrimonia_eupatoria,43.27,-5.99
 6732397,Agrimonia_eupatoria,48.3163,2.56466
 124806307,Agrimonia_eupatoria,48.9295,2.76782
@@ -704,9 +670,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702384793,Agrimonia_eupatoria,60.7836,10.8429
 1936415522,Agrimonia_eupatoria,41.0714,-3.4655
 1828867540,Agrimonia_eupatoria,55.49015,13.12536
-860311067,Agrimonia_eupatoria,43.1,-0.36
 6714493,Agrimonia_eupatoria,46.8094,4.42361
-2290075341,Agrimonia_eupatoria,43.3,0.65
 1936538725,Agrimonia_eupatoria,39.7349,-1.2508
 124806310,Agrimonia_eupatoria,48.798,2.70297
 30844416,Agrimonia_eupatoria,37.580002,-3.91
@@ -729,7 +693,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30844430,Agrimonia_eupatoria,36.869999,-3.45
 1828867977,Agrimonia_eupatoria,55.57698,14.11321
 1705341571,Agrimonia_eupatoria,57.340467,15.88659
-786083857,Agrimonia_eupatoria,46.8,14.4
 1828867882,Agrimonia_eupatoria,56.13257,14.30914
 895194104,Agrimonia_eupatoria,39.85,-0.25
 1838954136,Agrimonia_eupatoria,40.128059,20.78861
@@ -826,7 +789,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851578439,Agrimonia_eupatoria,42.94,-4.53
 1598998941,Agrimonia_eupatoria,59.992102,23.647979
 1053983935,Agrimonia_eupatoria,42.62,-1.15
-1050611840,Agrimonia_eupatoria,42.6,-2.36
 1705341488,Agrimonia_eupatoria,57.216566,15.757222
 111301680,Agrimonia_eupatoria,42.962002,-1.596
 788819776,Agrimonia_eupatoria,39.783333,21.183333
@@ -837,8 +799,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999489677,Agrimonia_eupatoria,60.479939,22.443607
 111301684,Agrimonia_eupatoria,42.921001,-2.05
 29574115,Agrimonia_eupatoria,38.68,-0.18
-1053983290,Agrimonia_eupatoria,42.68,-1.2
-29574244,Agrimonia_eupatoria,40.3,-0.23
 1598998940,Agrimonia_eupatoria,60.209815,23.811954
 1050612124,Agrimonia_eupatoria,42.41,-2.09
 111301681,Agrimonia_eupatoria,42.955002,-1.756
@@ -850,8 +810,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 235644673,Agrimonia_eupatoria,37.53,-4.41
 1936101448,Agrimonia_eupatoria,37.9167,-2.9167
 1936393882,Agrimonia_eupatoria,40.2925,-0.2719
-188532156,Agrimonia_eupatoria,38.61,-4.9
-1144597821,Agrimonia_eupatoria,42.08333,8.7
 1500699687,Agrimonia_eupatoria,39.94,-0.25
 29574242,Agrimonia_eupatoria,40.31,-0.35
 1851327599,Agrimonia_eupatoria,42.92,-5.39
@@ -912,12 +870,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598998929,Agrimonia_eupatoria,60.887602,24.593126
 1851395859,Agrimonia_eupatoria,42.91,-6.24
 1332515484,Agrimonia_eupatoria,50.577615,9.836454
-1050612215,Agrimonia_eupatoria,42.56,0.5
 1705324108,Agrimonia_eupatoria,57.122656,16.264724
 1935646649,Agrimonia_eupatoria,47.70139,14.95833
 1701777769,Agrimonia_eupatoria,63.4798,10.8166
 1050611994,Agrimonia_eupatoria,43.31,-2.94
-895215331,Agrimonia_eupatoria,40.05,-1.3
 29571802,Agrimonia_eupatoria,38.87,-0.41
 1936096571,Agrimonia_eupatoria,38.8265,-0.8125
 1936096530,Agrimonia_eupatoria,39.0896,-0.4576
@@ -930,7 +886,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598998904,Agrimonia_eupatoria,60.448409,22.534467
 1936361260,Agrimonia_eupatoria,36.7775,-5.3656
 1598998923,Agrimonia_eupatoria,60.225912,23.865468
-1050612562,Agrimonia_eupatoria,43.09,-3.1
 1936164454,Agrimonia_eupatoria,41.8558,0.9508
 1050612427,Agrimonia_eupatoria,42.99,-2.88
 1936523374,Agrimonia_eupatoria,43.3414,-4.4818
@@ -954,7 +909,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697548038,Agrimonia_eupatoria,47.851386,37.788477
 860311605,Agrimonia_eupatoria,40.76,0.33
 111300903,Agrimonia_eupatoria,42.997002,-2.969
-1050612895,Agrimonia_eupatoria,42.54,-2.5
 1936096475,Agrimonia_eupatoria,41.7428,-4.0837
 1936558919,Agrimonia_eupatoria,42.5917,-3.8057
 111301685,Agrimonia_eupatoria,43.266998,-3.388
@@ -969,7 +923,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936096537,Agrimonia_eupatoria,39.4496,-0.4445
 111300905,Agrimonia_eupatoria,43.092999,-2.085
 85480680,Agrimonia_eupatoria,42.05,2.34
-111301229,Agrimonia_eupatoria,43,-0.12
 30844507,Agrimonia_eupatoria,37.310001,-4.24
 111300901,Agrimonia_eupatoria,43.285,-3.166
 111301440,Agrimonia_eupatoria,42.59,-2.33
@@ -978,7 +931,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936549245,Agrimonia_eupatoria,43.3126,-5.9608
 1702509374,Agrimonia_eupatoria,42.84,-1.71
 1697547929,Agrimonia_eupatoria,55.580935,37.556256
-1050613054,Agrimonia_eupatoria,42.5,-2.44
 1936127676,Agrimonia_eupatoria,41.301378,-3.770447
 1936096557,Agrimonia_eupatoria,42.4143,-2.819
 318217584,Agrimonia_eupatoria,59.252,5.7992
@@ -995,7 +947,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434773994,Agrimonia_eupatoria,39.616756,-8.782807
 1050612977,Agrimonia_eupatoria,42.61,-2.62
 1842903631,Agrimonia_eupatoria,42.325,-0.251
-85480441,Agrimonia_eupatoria,41.5,-1.5
 1935646659,Agrimonia_eupatoria,46.59667,13.49583
 1935646617,Agrimonia_eupatoria,46.89861,16.0325
 85480788,Agrimonia_eupatoria,41.989,0.978
@@ -1017,12 +968,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30844441,Agrimonia_eupatoria,38.389999,-4.26
 1671648403,Agrimonia_eupatoria,40.656353,8.505298
 1671650119,Agrimonia_eupatoria,40.634763,8.491421
-217683267,Agrimonia_eupatoria,37.44,-4.3
 1702262669,Agrimonia_eupatoria,59.7187,10.7245
 85481435,Agrimonia_eupatoria,41.95,1.49
 217683264,Agrimonia_eupatoria,37.36,-4.19
 217683266,Agrimonia_eupatoria,37.45,-4.19
-895208100,Agrimonia_eupatoria,38,-2
 1806554938,Agrimonia_eupatoria,43.143,-1.678
 1805098221,Agrimonia_eupatoria,42.22,-2.231
 1805098240,Agrimonia_eupatoria,42.211,-2.243
@@ -1031,7 +980,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455431082,Agrimonia_eupatoria,50.504728,4.573318
 1805098228,Agrimonia_eupatoria,42.229,-2.243
 1144077805,Agrimonia_eupatoria,61.30602,6.92873
-2290730198,Agrimonia_eupatoria,37.4,34.133333
 1851322127,Agrimonia_eupatoria,42.83,-6.49
 1671650232,Agrimonia_eupatoria,40.503592,8.358144
 1806130394,Agrimonia_eupatoria,42.832126,-1.627807
@@ -1049,17 +997,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697547757,Agrimonia_eupatoria,57.085118,24.813558
 57675198,Agrimonia_eupatoria,61.2243,23.7386
 1598999259,Agrimonia_eupatoria,61.451887,22.857228
-1851352248,Agrimonia_eupatoria,43.2,-5.03
 85480169,Agrimonia_eupatoria,40.993,-1.187
 1851346348,Agrimonia_eupatoria,42.92,-6.49
-1059618659,Agrimonia_eupatoria,48.2,11.5
 1936127631,Agrimonia_eupatoria,41.05075,-4.09704
 1936014795,Agrimonia_eupatoria,40.0857,-1.2184
 85480099,Agrimonia_eupatoria,38.6508,-0.3207
 1851397409,Agrimonia_eupatoria,42.83,-5.51
 1701648977,Agrimonia_eupatoria,59.92224,10.50728
 1701315839,Agrimonia_eupatoria,61.052,10.3612
-1050613831,Agrimonia_eupatoria,42.86,-2.2
 1697547791,Agrimonia_eupatoria,54.554567,40.840482
 1701931642,Agrimonia_eupatoria,59.9362,10.5657
 1050613919,Agrimonia_eupatoria,42.83,-3.22
@@ -1074,7 +1019,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050614212,Agrimonia_eupatoria,42.75,-2.65
 1697547808,Agrimonia_eupatoria,55.449738,41.544524
 1697798390,Agrimonia_eupatoria,42.794645,44.007368
-1050614056,Agrimonia_eupatoria,42.91,-2.5
 1936387331,Agrimonia_eupatoria,37.9006,-2.842
 1598998921,Agrimonia_eupatoria,59.996165,23.654114
 2313365407,Agrimonia_eupatoria,48.29,11.45
@@ -1083,14 +1027,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697547781,Agrimonia_eupatoria,55.214281,36.360883
 1936387307,Agrimonia_eupatoria,37.9547,-2.9216
 1697547805,Agrimonia_eupatoria,55.204924,36.334044
-1502043138,Agrimonia_eupatoria,38.68,-0.3
 1598998911,Agrimonia_eupatoria,61.166777,28.771304
 211618010,Agrimonia_eupatoria,43.41,-5.11
 85480072,Agrimonia_eupatoria,42.22,1.97
 199456580,Agrimonia_eupatoria,36.99,-4.74
-1053980908,Agrimonia_eupatoria,42.6,-2.12
 199456579,Agrimonia_eupatoria,36.75258,-3.81387
-876155323,Agrimonia_eupatoria,41.41,2.1
 1705419257,Agrimonia_eupatoria,55.666357,13.170678
 1701361130,Agrimonia_eupatoria,60.2702,10.419
 1697547792,Agrimonia_eupatoria,54.673776,40.860518
@@ -1107,7 +1048,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697547776,Agrimonia_eupatoria,54.802039,41.743495
 1144077811,Agrimonia_eupatoria,62.1025,7.2097
 318101137,Agrimonia_eupatoria,38.86,-0.06
-1851397286,Agrimonia_eupatoria,42.82,-6
 30951157,Agrimonia_eupatoria,40.39,-5.77
 1697547940,Agrimonia_eupatoria,55.283003,38.736728
 1598612448,Agrimonia_eupatoria,60.566505,22.710023
@@ -1123,11 +1063,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260845375,Agrimonia_eupatoria,50.24916,4.71222
 1598999260,Agrimonia_eupatoria,60.840771,22.857416
 1831054612,Agrimonia_eupatoria,53.5485,11.4153
-1851410922,Agrimonia_eupatoria,42.74,-5.5
 317855884,Agrimonia_eupatoria,50.172967,8.638033
 211617565,Agrimonia_eupatoria,43.200001,-6.02
-211618401,Agrimonia_eupatoria,43.5,-6.45
-85480252,Agrimonia_eupatoria,41.58,0.9
 1705333888,Agrimonia_eupatoria,56.530921,13.185433
 30844434,Agrimonia_eupatoria,40.02,-3.59
 187080322,Agrimonia_eupatoria,63.4723,10.8163
@@ -1154,9 +1091,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702232519,Agrimonia_eupatoria,59.191,10.7933
 1697547798,Agrimonia_eupatoria,54.428644,40.922965
 812020074,Agrimonia_eupatoria,50.631133,9.446383
-1144597825,Agrimonia_eupatoria,42.4,9.16667
 1697547803,Agrimonia_eupatoria,54.662183,40.489823
-786083984,Agrimonia_eupatoria,51.4,8.4
 1598998915,Agrimonia_eupatoria,61.49211,23.156194
 1598999216,Agrimonia_eupatoria,60.262781,25.100103
 2310385396,Agrimonia_eupatoria,51.51,-3.07
@@ -1169,7 +1104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313364850,Agrimonia_eupatoria,48.21,11.63
 575075408,Agrimonia_eupatoria,37.366667,55.85
 1701967865,Agrimonia_eupatoria,59.6995,10.5725
-85479923,Agrimonia_eupatoria,41.5,1.86
 1701580249,Agrimonia_eupatoria,59.8229,10.7557
 1828866780,Agrimonia_eupatoria,55.94153,12.77195
 1701341647,Agrimonia_eupatoria,59.9097,10.5287
@@ -1178,7 +1112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701990762,Agrimonia_eupatoria,59.0487,10.8826
 1999489622,Agrimonia_eupatoria,60.314254,23.286666
 1701990727,Agrimonia_eupatoria,59.8785,10.5559
-2291905330,Agrimonia_eupatoria,36.65,8.7
 1702390397,Agrimonia_eupatoria,59.1978,10.8234
 812020070,Agrimonia_eupatoria,50.713933,9.2191
 1265610859,Agrimonia_eupatoria,52.238884,-2.162076
@@ -1358,13 +1291,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705369180,Agrimonia_eupatoria,58.036113,14.941853
 1697548026,Agrimonia_eupatoria,48.332701,44.621678
 1828867071,Agrimonia_eupatoria,61.309444,23.615833
-1935986035,Agrimonia_eupatoria,41.1,-4.5333
 1705382480,Agrimonia_eupatoria,55.721667,13.340946
-85480046,Agrimonia_eupatoria,41.69,2.7
 1265610843,Agrimonia_eupatoria,52.332245,-0.820709
 1701788235,Agrimonia_eupatoria,59.6403,10.6407
 1828866616,Agrimonia_eupatoria,55.686024,13.225185
-85480032,Agrimonia_eupatoria,41.6,2.46
 1828867674,Agrimonia_eupatoria,59.55528,16.29486
 1828867043,Agrimonia_eupatoria,56.10385,14.2039
 1697547828,Agrimonia_eupatoria,55.713071,35.542991
@@ -1406,7 +1336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 20390290,Agrimonia_eupatoria,60.32528,10.13214
 1701303551,Agrimonia_eupatoria,63.6056,10.9256
 1828866028,Agrimonia_eupatoria,56.06461,14.46182
-85478390,Agrimonia_eupatoria,41.6,2.58
 584464,Agrimonia_eupatoria,56.15344,15.64072
 1828866467,Agrimonia_eupatoria,55.91805,12.81139
 1057337762,Agrimonia_eupatoria,51.548322,-0.271231
@@ -1446,7 +1375,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831055674,Agrimonia_eupatoria,53.3485,11.7486
 1701446387,Agrimonia_eupatoria,61.096,6.8764
 1144077689,Agrimonia_eupatoria,60.62736,10.91732
-1893208284,Agrimonia_eupatoria,49.8,5.93
 1598999142,Agrimonia_eupatoria,60.144663,23.666165
 1697548036,Agrimonia_eupatoria,50.360754,44.118357
 1701990787,Agrimonia_eupatoria,60.6672,10.9489
@@ -1467,7 +1395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701910819,Agrimonia_eupatoria,59.60196,9.69407
 1598999153,Agrimonia_eupatoria,60.160822,24.385365
 1989602487,Agrimonia_eupatoria,56.227532,12.927901
-1144597824,Agrimonia_eupatoria,41.95,9.4
 1828866438,Agrimonia_eupatoria,56.13712,12.78536
 296392906,Agrimonia_eupatoria,47.167,14.676
 85477914,Agrimonia_eupatoria,38.9533,-2.8573
@@ -1486,7 +1413,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1340029337,Agrimonia_eupatoria,57.704499,11.965181
 584317,Agrimonia_eupatoria,57.915421,14.633156
 1697798384,Agrimonia_eupatoria,42.40335,46.92413
-85477916,Agrimonia_eupatoria,42.4,1.85
 1701226560,Agrimonia_eupatoria,59.4858,10.4981
 1701762865,Agrimonia_eupatoria,59.4868,10.3154
 1828868080,Agrimonia_eupatoria,57.73568,11.6521
@@ -1518,8 +1444,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705370127,Agrimonia_eupatoria,58.036227,14.958779
 1828867467,Agrimonia_eupatoria,55.71148,13.32469
 1828866510,Agrimonia_eupatoria,55.664343,13.344033
-786083906,Agrimonia_eupatoria,49,8.5
-1842883685,Agrimonia_eupatoria,34.95,-4.3
 1697548069,Agrimonia_eupatoria,49.289306,41.487465
 1702290762,Agrimonia_eupatoria,59.2599,5.8074
 1828867707,Agrimonia_eupatoria,59.36588,16.50273
@@ -1544,12 +1468,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1098948921,Agrimonia_eupatoria,46.466667,22.583334
 1702290772,Agrimonia_eupatoria,63.45631,11.2006
 1094187759,Agrimonia_eupatoria,32.97,35.48
-85476738,Agrimonia_eupatoria,37.72,-3.4
 1828868310,Agrimonia_eupatoria,55.7211,13.02215
 1697547841,Agrimonia_eupatoria,55.736119,37.31227
 1705273420,Agrimonia_eupatoria,56.211725,15.278152
 1828866236,Agrimonia_eupatoria,56.44196,12.56199
-786083874,Agrimonia_eupatoria,52.5,13.8
 1697798397,Agrimonia_eupatoria,43.90732,42.719897
 1705445850,Agrimonia_eupatoria,55.646424,13.270686
 1701990789,Agrimonia_eupatoria,59.2161,10.7955
@@ -1569,7 +1491,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828867682,Agrimonia_eupatoria,58.62385,15.21293
 1697548041,Agrimonia_eupatoria,50.707873,34.467716
 1697548117,Agrimonia_eupatoria,50.741507,34.089824
-85479658,Agrimonia_eupatoria,41.5,2.34
 1828867062,Agrimonia_eupatoria,55.55731,13.21163
 1632921246,Agrimonia_eupatoria,58.69046,11.25914
 1828865613,Agrimonia_eupatoria,56.425278,12.633349
@@ -1645,7 +1566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697547881,Agrimonia_eupatoria,55.511281,37.967971
 1705265778,Agrimonia_eupatoria,58.485317,15.530028
 1828867302,Agrimonia_eupatoria,55.770833,12.542778
-85476796,Agrimonia_eupatoria,41.86,2.1
 1828868292,Agrimonia_eupatoria,57.413135,12.022324
 1697547804,Agrimonia_eupatoria,55.381385,41.848211
 584444,Agrimonia_eupatoria,56.20219,15.56228
@@ -1679,7 +1599,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828866447,Agrimonia_eupatoria,59.974444,23.435556
 1701665469,Agrimonia_eupatoria,59.182,6.1299
 1701446354,Agrimonia_eupatoria,63.58554,10.68569
-1891596913,Agrimonia_eupatoria,49.8,6.42
 1697798350,Agrimonia_eupatoria,43.59817,39.75067
 1701788147,Agrimonia_eupatoria,59.1782,10.9335
 1702510678,Agrimonia_eupatoria,58.491717,16.179015
