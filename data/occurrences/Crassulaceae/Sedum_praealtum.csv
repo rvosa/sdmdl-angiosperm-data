@@ -1,10 +1,7 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842901712,Sedum_praealtum,41.109,1.148
-1702532963,Sedum_praealtum,4.6677,-74.099922
 1897487823,Sedum_praealtum,17.152278,-96.378444
 1426519195,Sedum_praealtum,34.425,-119.895
-1842898726,Sedum_praealtum,42.3565,3.1706
-1897822186,Sedum_praealtum,-46.447222,169.810833
 1897487884,Sedum_praealtum,17.204194,-96.661
 1897487851,Sedum_praealtum,18.222583,-96.894778
 992086161,Sedum_praealtum,-34.839,138.785
@@ -15,10 +12,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065950213,Sedum_praealtum,-34.1878,148.259
 993709742,Sedum_praealtum,-34.1878,148.2594
 992062765,Sedum_praealtum,-37.649244,145.106616
-1091205290,Sedum_praealtum,-44.266666,176.216666
 860312820,Sedum_praealtum,41.343,1.847
-994559602,Sedum_praealtum,-43,148
-1091134590,Sedum_praealtum,-43.733333,176.266666
 994560754,Sedum_praealtum,-42.85,147.32
 994560552,Sedum_praealtum,-42.78,147.25
 1843411234,Sedum_praealtum,-35.268889,173.525556
@@ -32,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897340398,Sedum_praealtum,20.601389,-100.339444
 1419173514,Sedum_praealtum,15.970833,-93.477222
 1897715858,Sedum_praealtum,-36.816667,174.9
-1843401192,Sedum_praealtum,-36.166667,175.366667
 462258258,Sedum_praealtum,-25.625,28.375
 995174784,Sedum_praealtum,-37.6922,142.9231
 1897340352,Sedum_praealtum,19.571111,-97.161944
@@ -59,8 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937004744,Sedum_praealtum,-31.083333,150.95
 1091300385,Sedum_praealtum,-43.15,172.783333
 1896250683,Sedum_praealtum,19.675,-97.108333
-1585318826,Sedum_praealtum,13.66667,-89.25
-1259304785,Sedum_praealtum,13.666667,-89.25
 1897784704,Sedum_praealtum,-36.876944,174.809722
 1895143882,Sedum_praealtum,16.868333,-92.709722
 1895143907,Sedum_praealtum,16.865833,-92.651667
@@ -97,7 +88,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258495172,Sedum_praealtum,20.17,-98.73
 1896052262,Sedum_praealtum,20.5225,-98.681944
 1895441865,Sedum_praealtum,19.4969657429566,-98.8179493791519
-1895299202,Sedum_praealtum,19.4977948006908,-99.1096932786686
 1895143851,Sedum_praealtum,16.734167,-92.777778
 1896052256,Sedum_praealtum,20.215833,-98.736944
 1896056478,Sedum_praealtum,19.583889,-97.011667
@@ -119,6 +109,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1098674346,Sedum_praealtum,4.580739,-74.212178
 1893394823,Sedum_praealtum,18.841667,-97.141667
 1891013418,Sedum_praealtum,4.728984,-74.080662
-1898921058,Sedum_praealtum,4.638237,-74.08433
 2013819378,Sedum_praealtum,4.44877,-74.300667
 1895441940,Sedum_praealtum,20.239752226805,-98.2117535612075
