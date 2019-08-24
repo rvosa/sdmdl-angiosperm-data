@@ -14,8 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2252209926,Afzelia_africana,9.13374,-1.51324
 1883316627,Afzelia_africana,12.7425,-16.334444
 1883316648,Afzelia_africana,12.533056,-16.356111
-1945001497,Afzelia_africana,7.391266,3.862815
-1936630167,Afzelia_africana,0.9,9.3
 1258573263,Afzelia_africana,8.25027,-2.26972
 2291931486,Afzelia_africana,6.883333,1.6
 2289672009,Afzelia_africana,8.250278,-2.269722
@@ -112,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291931652,Afzelia_africana,9.566667,-4.05
 1703341089,Afzelia_africana,9,-3.5
 1844889381,Afzelia_africana,9.356944,-7.120833
-621129297,Afzelia_africana,5.54,0.04
 437974345,Afzelia_africana,9.685,-0.8325
 2291931683,Afzelia_africana,5.9,0.066667
 438307303,Afzelia_africana,4.935,18.44917
@@ -126,14 +123,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439326995,Afzelia_africana,3.91194,17.91722
 621129295,Afzelia_africana,9.03575,-2.29269
 1839537873,Afzelia_africana,2.15,31.133333
-2290639848,Afzelia_africana,11.883333,-15.6
-438973635,Afzelia_africana,11.85,-15.58333
 2252209798,Afzelia_africana,8.03,-1.43
 2288582902,Afzelia_africana,14.15,-16.066667
 1839537946,Afzelia_africana,4,22.25
 437329031,Afzelia_africana,14.83333,12.46667
 437974346,Afzelia_africana,13.26667,-13.75
-2252209728,Afzelia_africana,5.41,0.17
 438639890,Afzelia_africana,5.76194,20.66722
 438973633,Afzelia_africana,0.07583,18.28639
 436976052,Afzelia_africana,6.51833,23.26583
