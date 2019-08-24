@@ -15,12 +15,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1229656957,Phlomis_crinita_subsp._malacitana,39.24,-1.13
 415622075,Phlomis_crinita_subsp._malacitana,36.69599,-5.00371
 415622067,Phlomis_crinita_subsp._malacitana,36.774,-4.899
-1265474486,Phlomis_crinita_subsp._malacitana,38.974964,-1.860258
 1936699169,Phlomis_crinita_subsp._malacitana,38.646,-1.5339
-2242395239,Phlomis_crinita_subsp._malacitana,39.73193,-104.9619
 415622015,Phlomis_crinita_subsp._malacitana,37.096,-2.769
 415622011,Phlomis_crinita_subsp._malacitana,36.664,-5.053
-2305898816,Phlomis_crinita_subsp._malacitana,36.19,44.01
 1936200228,Phlomis_crinita_subsp._malacitana,38.4067,-2.0067
 1936687840,Phlomis_crinita_subsp._malacitana,36.768,-5.3899
 895204204,Phlomis_crinita_subsp._malacitana,39.04,-0.799
@@ -75,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199494212,Phlomis_crinita_subsp._malacitana,36.663,-5.098
 30886956,Phlomis_crinita_subsp._malacitana,36.860001,-4.01
 1501055205,Phlomis_crinita_subsp._malacitana,38.86,-0.18
-2290230963,Phlomis_crinita_subsp._malacitana,32.766667,-5.666667
 895259843,Phlomis_crinita_subsp._malacitana,38.77,-0.29
 199494942,Phlomis_crinita_subsp._malacitana,36.646,-5.053
 1500664074,Phlomis_crinita_subsp._malacitana,39.23,-0.74
@@ -90,14 +86,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199495492,Phlomis_crinita_subsp._malacitana,36.71,-4.96
 199495736,Phlomis_crinita_subsp._malacitana,36.66813,-5.05193
 318118234,Phlomis_crinita_subsp._malacitana,38.33,-0.88
-860324494,Phlomis_crinita_subsp._malacitana,35.87,-2.02
 318118366,Phlomis_crinita_subsp._malacitana,38.44,-2.03
-860327778,Phlomis_crinita_subsp._malacitana,33.45,-6.04
-860327777,Phlomis_crinita_subsp._malacitana,35.6,-5.4
 31963996,Phlomis_crinita_subsp._malacitana,37.09,-2.94
 31963413,Phlomis_crinita_subsp._malacitana,36.91,-3.95
 165391768,Phlomis_crinita_subsp._malacitana,36.71,-5.41
 31963411,Phlomis_crinita_subsp._malacitana,36.89,-5.41
 31963997,Phlomis_crinita_subsp._malacitana,37.09,-3.39
 31963873,Phlomis_crinita_subsp._malacitana,36.91,-2.94
-860327734,Phlomis_crinita_subsp._malacitana,33.03,-7.66
