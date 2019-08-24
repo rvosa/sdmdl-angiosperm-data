@@ -68,7 +68,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501056664,Santolina_villosa,38.5,-0.6
 232592019,Santolina_villosa,38.165,-2.092
 199502497,Santolina_villosa,36.92,-4.072
-30889448,Santolina_villosa,39.75,3.35
 30675977,Santolina_villosa,37.68,-2.02
 895165113,Santolina_villosa,41.007,-3.042
 1501105253,Santolina_villosa,38.72,-0.15
@@ -129,7 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318121005,Santolina_villosa,40.21,-1.14
 1501064969,Santolina_villosa,38.69,-0.64
 1502028017,Santolina_villosa,40.21,-0.12
-1851329878,Santolina_villosa,39.727,3.484
 1502023073,Santolina_villosa,40.4,-0.35
 895204197,Santolina_villosa,39.713,-0.4656
 895210653,Santolina_villosa,40.23,-0.94
@@ -156,8 +154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204435203,Santolina_villosa,42.645,-1.457
 1050610977,Santolina_villosa,42.04,-1.87
 204435202,Santolina_villosa,42.709999,-1.04
-85842514,Santolina_villosa,39.75,2.77
-204435206,Santolina_villosa,39.799999,2.82
 1502012412,Santolina_villosa,39.77,-0.37
 788634676,Santolina_villosa,44.10807,6.24786
 199501953,Santolina_villosa,36.83742,-3.80501
@@ -168,7 +164,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204435207,Santolina_villosa,42.284,-1.454
 1502016767,Santolina_villosa,40.05,-1.3
 1053981020,Santolina_villosa,42.07,-1.85
-85842511,Santolina_villosa,39.75,2.65
 317825726,Santolina_villosa,41.642,2.021
 1501994525,Santolina_villosa,38.87,-0.41
 1050610935,Santolina_villosa,42.5,-2.45
@@ -186,7 +181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199501843,Santolina_villosa,36.76276,-3.80793
 199501954,Santolina_villosa,36.902,-4.016
 895141935,Santolina_villosa,39.77,-0.72
-85842352,Santolina_villosa,39.57,3
 1501963103,Santolina_villosa,39.51,-0.96
 199501948,Santolina_villosa,36.91,-4.07
 1050610986,Santolina_villosa,40.27,-0.97
@@ -212,11 +206,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204435484,Santolina_villosa,42.763,-2.737
 1050610951,Santolina_villosa,42.79,-2.77
 318120223,Santolina_villosa,38.78,-0.52
-1705472377,Santolina_villosa,46.67,13.83
 1502042068,Santolina_villosa,40.12,-0.01
 1502041834,Santolina_villosa,40.31,-0.35
 318120233,Santolina_villosa,38.6,-0.53
-1501862202,Santolina_villosa,38.59,-0.07
 1502040008,Santolina_villosa,39.14,-0.4
 1502038264,Santolina_villosa,39.42,-1.32
 30889475,Santolina_villosa,42.09,2.52
