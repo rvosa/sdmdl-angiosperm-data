@@ -15,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 781078163,Thymelaea_hirsuta,36.953,-4.398
 781078144,Thymelaea_hirsuta,36.69861,-4.5862
 781078133,Thymelaea_hirsuta,36.71391,-4.59253
-1502060198,Thymelaea_hirsuta,38.5,-0.33
 415624150,Thymelaea_hirsuta,36.76457,-2.22665
 1936243993,Thymelaea_hirsuta,36.7626,-2.2279
 1231185093,Thymelaea_hirsuta,34.26139,9.54472
@@ -60,8 +59,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415624116,Thymelaea_hirsuta,36.7342,-4.1172
 199510727,Thymelaea_hirsuta,36.719,-4.338
 199510709,Thymelaea_hirsuta,36.902,-4.106
-1936626724,Thymelaea_hirsuta,39.7,9.4283
-895189384,Thymelaea_hirsuta,39.7,9.4167
 1936625569,Thymelaea_hirsuta,39.6936,9.35
 1839098785,Thymelaea_hirsuta,36.759171,22.79611
 199510708,Thymelaea_hirsuta,36.849,-3.959
@@ -82,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290610473,Thymelaea_hirsuta,38.49,-0.283333
 1936687278,Thymelaea_hirsuta,38.4651,-0.3307
 1851573121,Thymelaea_hirsuta,38.47,-0.32
-1069649,Thymelaea_hirsuta,36.7,23.033333
 1050625202,Thymelaea_hirsuta,37.34,-1.68
 1936536814,Thymelaea_hirsuta,37.3346,-1.6918
 143006499,Thymelaea_hirsuta,36.580002,-4.68
@@ -97,7 +93,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851571962,Thymelaea_hirsuta,38.14,-0.96
 1851571663,Thymelaea_hirsuta,38.35,-0.93
 1936535020,Thymelaea_hirsuta,37.041,-2.1016
-895164975,Thymelaea_hirsuta,39.5,-0.5
 30939662,Thymelaea_hirsuta,39.450001,-0.56
 895175183,Thymelaea_hirsuta,39.19,-0.215
 1936552910,Thymelaea_hirsuta,39.538136,-0.492356
@@ -109,7 +104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895248224,Thymelaea_hirsuta,39.757,-0.193
 895170219,Thymelaea_hirsuta,39.603,-0.583
 1851572942,Thymelaea_hirsuta,38.36,-0.51
-1501125893,Thymelaea_hirsuta,39.56,-0.6
 1851573411,Thymelaea_hirsuta,38.34,-0.54
 1502059944,Thymelaea_hirsuta,38.11,-0.95
 1502061394,Thymelaea_hirsuta,37.91,-0.73
@@ -121,11 +115,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501936214,Thymelaea_hirsuta,37.97,-0.78
 1851571506,Thymelaea_hirsuta,38.34,-0.77
 1851376413,Thymelaea_hirsuta,36.73,-2.61
-1502061423,Thymelaea_hirsuta,37.9,-0.77
 1502064576,Thymelaea_hirsuta,38.64,-0.03
 895281322,Thymelaea_hirsuta,39.68,-0.84
 1502065137,Thymelaea_hirsuta,38.58,-0.88
-1050606574,Thymelaea_hirsuta,36.79,-2.1
 1701551587,Thymelaea_hirsuta,34.0225,-6.58028
 1842907104,Thymelaea_hirsuta,34.6703,-2.0757
 199510355,Thymelaea_hirsuta,36.73666,-4.47125
@@ -134,23 +126,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895248124,Thymelaea_hirsuta,39.41,-0.62
 143006446,Thymelaea_hirsuta,37.049999,-2.55
 1701189002,Thymelaea_hirsuta,42.389402,11.210865
-143006448,Thymelaea_hirsuta,37.130001,-2.1
 1260337538,Thymelaea_hirsuta,38.583333,-0.133333
 1851566590,Thymelaea_hirsuta,38.48,-0.73
-1842855534,Thymelaea_hirsuta,29.6,-9.26
 211640003,Thymelaea_hirsuta,40.439999,0.41
-1851567660,Thymelaea_hirsuta,38.24,-0.9
 1701190843,Thymelaea_hirsuta,42.411119,11.145667
 143006451,Thymelaea_hirsuta,36.68,-3.67
 895283785,Thymelaea_hirsuta,40.21,-0.12
 143006526,Thymelaea_hirsuta,37.32,-2.55
 204405355,Thymelaea_hirsuta,37.364,-2.26
-1501935234,Thymelaea_hirsuta,38.6,-0.88
 1501973294,Thymelaea_hirsuta,38.33,-0.54
 1699962773,Thymelaea_hirsuta,40.732022,8.595034
 860317569,Thymelaea_hirsuta,38.2898,-0.8015
 895236071,Thymelaea_hirsuta,40.03,0.01
-143006443,Thymelaea_hirsuta,36.869999,-3
 1502043758,Thymelaea_hirsuta,38.51,-0.76
 1851567610,Thymelaea_hirsuta,38.41,-0.49
 1851568777,Thymelaea_hirsuta,38.33,-0.65
@@ -163,8 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851565920,Thymelaea_hirsuta,38.42,-0.54
 1502062809,Thymelaea_hirsuta,38.55,-0.18
 143006453,Thymelaea_hirsuta,36.68,-3.56
-895283532,Thymelaea_hirsuta,40.3,-0.12
-143006465,Thymelaea_hirsuta,36.830002,-6.2
 1144794591,Thymelaea_hirsuta,42.63333,8.91667
 199510204,Thymelaea_hirsuta,36.72,-4.29
 1851396317,Thymelaea_hirsuta,41.23,1.99
@@ -174,11 +159,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 143006440,Thymelaea_hirsuta,37.130001,-1.87
 1936403794,Thymelaea_hirsuta,37.8704,-0.7615
 143006437,Thymelaea_hirsuta,37.310001,-1.87
-143006452,Thymelaea_hirsuta,37.220001,-2.1
-1831528051,Thymelaea_hirsuta,38.1,12.66667
 1701188957,Thymelaea_hirsuta,42.381389,11.210556
 1144794595,Thymelaea_hirsuta,41.83333,8.81667
-1851570373,Thymelaea_hirsuta,39.59,-0.5
 1701188994,Thymelaea_hirsuta,42.384756,11.199046
 1936197886,Thymelaea_hirsuta,39.5567,-0.5186
 1231179738,Thymelaea_hirsuta,35.86056,9.20583
@@ -188,16 +170,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895198103,Thymelaea_hirsuta,40.21,0.12
 895210386,Thymelaea_hirsuta,39.68,-0.38
 143006455,Thymelaea_hirsuta,36.68,-4.23
-143006456,Thymelaea_hirsuta,36.68,-3.9
 143006439,Thymelaea_hirsuta,36.68,-2.22
 1502032867,Thymelaea_hirsuta,38.77,0.07
 143006457,Thymelaea_hirsuta,37.66,-0.73
 895225444,Thymelaea_hirsuta,39.694,-0.195
 1501226354,Thymelaea_hirsuta,39.69,-0.19
-1502001818,Thymelaea_hirsuta,39.5,-0.38
 1936399446,Thymelaea_hirsuta,37.3171,-1.7372
 1936399770,Thymelaea_hirsuta,36.7443,-2.2171
-1144794587,Thymelaea_hirsuta,41.4,9.2
 895170527,Thymelaea_hirsuta,39.12,-0.299
 1501097440,Thymelaea_hirsuta,39.12,-0.29
 199510038,Thymelaea_hirsuta,36.6207,-4.68234
@@ -214,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2013949564,Thymelaea_hirsuta,39.39722,-0.32972
 895249198,Thymelaea_hirsuta,38.68,-0.07
 1501564552,Thymelaea_hirsuta,39.55,-0.51
-895249482,Thymelaea_hirsuta,38.16,-1
 1701188939,Thymelaea_hirsuta,42.583456,11.107824
 199509872,Thymelaea_hirsuta,36.719,-4.293
 1502060975,Thymelaea_hirsuta,39.64,-0.57
@@ -244,7 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 143006598,Thymelaea_hirsuta,37.040001,-3.67
 1699963241,Thymelaea_hirsuta,40.727554,8.621633
 1936389759,Thymelaea_hirsuta,37.0071,-2.4617
-2289552878,Thymelaea_hirsuta,37.5,14
 1831528522,Thymelaea_hirsuta,39.54111,8.45861
 1831528386,Thymelaea_hirsuta,39.87,8.43917
 237336792,Thymelaea_hirsuta,36.858,-3.97
@@ -264,7 +241,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 143006464,Thymelaea_hirsuta,38.459999,-0.36
 199510274,Thymelaea_hirsuta,36.63,-4.73
 199510276,Thymelaea_hirsuta,36.72,-4.51
-143006458,Thymelaea_hirsuta,38.48,-1.4
 199510248,Thymelaea_hirsuta,36.73,-3.39
 199510551,Thymelaea_hirsuta,36.753,-4.484
 1701551945,Thymelaea_hirsuta,35.89917,8.89278
@@ -272,7 +248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199510120,Thymelaea_hirsuta,36.73,-3.73
 199510119,Thymelaea_hirsuta,36.76276,-3.80793
 199510127,Thymelaea_hirsuta,36.91,-4.18
-199510126,Thymelaea_hirsuta,36.72,-4.4
 199509943,Thymelaea_hirsuta,36.74149,-4.34926
 199509918,Thymelaea_hirsuta,36.74498,-4.01528
 1936670840,Thymelaea_hirsuta,37.0418,-3.7884
@@ -282,7 +257,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936161126,Thymelaea_hirsuta,37.1302,-1.988
 2291795787,Thymelaea_hirsuta,30.766667,20.216667
 788648174,Thymelaea_hirsuta,30.405833,19.573889
-788578016,Thymelaea_hirsuta,35.2,24.2
 1701189007,Thymelaea_hirsuta,42.437842,11.117361
 1701189069,Thymelaea_hirsuta,42.407094,11.284953
 318126161,Thymelaea_hirsuta,38.36,-0.55
@@ -291,7 +265,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144794597,Thymelaea_hirsuta,42.81667,9.33333
 328335761,Thymelaea_hirsuta,30.91667,29.61667
 788576998,Thymelaea_hirsuta,35.316667,25.383333
-788549996,Thymelaea_hirsuta,38.016667,23.6
 788563733,Thymelaea_hirsuta,38.15,23.95
 1144794580,Thymelaea_hirsuta,42.65,8.93333
 1842904109,Thymelaea_hirsuta,29.15,-9.98
@@ -300,13 +273,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701189018,Thymelaea_hirsuta,42.776043,10.790114
 1701188992,Thymelaea_hirsuta,43.09793,10.539952
 788577969,Thymelaea_hirsuta,38.05,23.85
-1705471197,Thymelaea_hirsuta,43.5,6.3333
 1936168576,Thymelaea_hirsuta,37.686,-1.6856
 1701188984,Thymelaea_hirsuta,42.408357,11.209104
 1701188968,Thymelaea_hirsuta,42.393759,11.203694
-1936108548,Thymelaea_hirsuta,37.6,-0.9833
-860320824,Thymelaea_hirsuta,41.32,2.1
-1842892566,Thymelaea_hirsuta,41.41,2.1
 1701188996,Thymelaea_hirsuta,42.436261,11.212883
 1935976072,Thymelaea_hirsuta,36.5257,-6.1632
 2289167491,Thymelaea_hirsuta,34.85,5.733333
