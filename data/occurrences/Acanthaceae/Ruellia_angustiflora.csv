@@ -44,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1252589646,Ruellia_angustiflora,-25.330056,-53.876778
 1086916402,Ruellia_angustiflora,-25.268889,-54.0275
 1077480088,Ruellia_angustiflora,-23.893083,-51.951
-1806850782,Ruellia_angustiflora,-13.65,-47.819167
 1853946731,Ruellia_angustiflora,-25.733611,-53.057222
 1077480254,Ruellia_angustiflora,-23.892361,-50.981306
 1086917221,Ruellia_angustiflora,-25.306944,-53.955556
@@ -52,7 +51,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077481415,Ruellia_angustiflora,-22.775219,-52.786139
 1077481290,Ruellia_angustiflora,-23.885861,-51.98575
 1143413136,Ruellia_angustiflora,-29.7554,-52.567439
-1077420044,Ruellia_angustiflora,-27.903333,-48.588611
 1420312961,Ruellia_angustiflora,-22.925833,-48.459167
 1090699577,Ruellia_angustiflora,-22.9258,-48.459058
 1571563140,Ruellia_angustiflora,-22.925556,-48.459058
@@ -73,9 +71,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089275062,Ruellia_angustiflora,-23.391111,-51.941944
 1089278011,Ruellia_angustiflora,-23.339967,-51.866019
 1086912939,Ruellia_angustiflora,-24.057222,-49.075
-1077412375,Ruellia_angustiflora,-27.902222,-48.584722
 1086912843,Ruellia_angustiflora,-23.841667,-49.143611
-1095627084,Ruellia_angustiflora,-25.033333,-34.033333
 1077473228,Ruellia_angustiflora,-25.043611,-51.567278
 1077473305,Ruellia_angustiflora,-24.200444,-52.320667
 1086911073,Ruellia_angustiflora,-24.052778,-49.067222
@@ -101,9 +97,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268822052,Ruellia_angustiflora,-26.896111,-53.875556
 1095242840,Ruellia_angustiflora,-28.226111,-50.76
 1944855332,Ruellia_angustiflora,-20.785277,-56.708888
-1260491838,Ruellia_angustiflora,-12.31666,-72.3
 1259476990,Ruellia_angustiflora,-27.08666,-54.95305
-1424369526,Ruellia_angustiflora,-21.4,-41.066667
 1259755857,Ruellia_angustiflora,-27.43333,-55.56666
 1259199395,Ruellia_angustiflora,-25.291944,-57.09
 1259594083,Ruellia_angustiflora,-25.96666,-54.11666
@@ -215,7 +209,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261207094,Ruellia_angustiflora,-26,-56.76666
 1261205979,Ruellia_angustiflora,-26.016667,-56.766667
 1852089394,Ruellia_angustiflora,-26.07,-56.77
-1261212959,Ruellia_angustiflora,-2.16666,-79.96666
 1261206951,Ruellia_angustiflora,-26.06666,-56.76666
 1144759144,Ruellia_angustiflora,-27.05,-57.41667
 1257775699,Ruellia_angustiflora,-25.5,-54.666667
@@ -288,6 +281,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930634858,Ruellia_angustiflora,-27.1005874672668,-52.6189412501881
 1928765282,Ruellia_angustiflora,-30.0370295144366,-51.230764822094
 1930154862,Ruellia_angustiflora,-29.75136,-51.143791
-1056201877,Ruellia_angustiflora,-23.236211,-58.391024
 1144759154,Ruellia_angustiflora,-25.25,-57
 1259813440,Ruellia_angustiflora,-22.1,-56.48333
