@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288317801,Baphia_massaiensis,-18.622361,26.866111
 1937580394,Baphia_massaiensis,-23.098611,34.386944
 2291911065,Baphia_massaiensis,-22.709889,31.396944
-2307410657,Baphia_massaiensis,-22.71,31.4
 912391607,Baphia_massaiensis,-5.58,34.57
 1563308188,Baphia_massaiensis,-18.0061,22.9469
 1563267882,Baphia_massaiensis,-18.0708,21.8117
@@ -33,9 +32,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258940290,Baphia_massaiensis,-5.18166,34.18333
 1258832201,Baphia_massaiensis,-5.01638,34.36694
 2289709527,Baphia_massaiensis,-18.875,18.375
-2005506140,Baphia_massaiensis,-17,24
 2288956013,Baphia_massaiensis,-18.183333,16.433333
-2005485931,Baphia_massaiensis,-18,19
 461659448,Baphia_massaiensis,-18.125,17.875
 1052049608,Baphia_massaiensis,-8.75,82.25
 2289839889,Baphia_massaiensis,-14.594694,24.334333
@@ -57,8 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291723048,Baphia_massaiensis,-8.783333,31.116667
 1261541772,Baphia_massaiensis,-8.78333,31.11666
 461659440,Baphia_massaiensis,-17.875,25.125
-35417011,Baphia_massaiensis,21.4333,-157.8
-1261863004,Baphia_massaiensis,21.43333,-157.8
 461659446,Baphia_massaiensis,-18.875,22.375
 461659435,Baphia_massaiensis,-18.125,21.625
 912408570,Baphia_massaiensis,-19.55,25.92
@@ -83,8 +78,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289074162,Baphia_massaiensis,-8.666667,38.416667
 461659422,Baphia_massaiensis,-17.875,24.625
 461659418,Baphia_massaiensis,-19.625,20.875
-2291722939,Baphia_massaiensis,-16.8,15.333333
-2287553488,Baphia_massaiensis,-15.966667,14.1
 813362472,Baphia_massaiensis,-15.58,14.06
 813362461,Baphia_massaiensis,-14.49,18.38
 2291722361,Baphia_massaiensis,-22.166667,33.683333
@@ -132,13 +125,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866265327,Baphia_massaiensis,-15.067887,39.198791
 1937580799,Baphia_massaiensis,-15.094532,39.447821
 1937580737,Baphia_massaiensis,-14.966602,39.842769
-1937580787,Baphia_massaiensis,-14.900278,38.3
 1937580830,Baphia_massaiensis,-14.371667,38.196389
 1937580834,Baphia_massaiensis,-15.0954,39.248
 1937580798,Baphia_massaiensis,-15.357778,39.516389
 1937580856,Baphia_massaiensis,-15.713611,39.343333
 1937580679,Baphia_massaiensis,-13.078936,39.277319
-1937580867,Baphia_massaiensis,-12.5,39.800278
 1937580836,Baphia_massaiensis,-13.683889,39.845556
 1937580625,Baphia_massaiensis,-13.714722,39.824167
 1937580668,Baphia_massaiensis,-12.475847,39.833405
