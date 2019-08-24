@@ -40,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1707495764,Codonanthopsis_crassifolia,7.158983,-73.834633
 931000402,Codonanthopsis_crassifolia,6.220917,-74.85
 1944832468,Codonanthopsis_crassifolia,-1.517611,-73.816167
-1828924475,Codonanthopsis_crassifolia,21.38,-79.7081
 1257738575,Codonanthopsis_crassifolia,12.311111,-85.228333
 1135159634,Codonanthopsis_crassifolia,1.711944,-75.899999
 1094917007,Codonanthopsis_crassifolia,-9.571389,-64.011667
@@ -88,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257508866,Codonanthopsis_crassifolia,8.834722,-80.646667
 768771543,Codonanthopsis_crassifolia,4.02,-68.01
 1253872072,Codonanthopsis_crassifolia,9.625,-82.643889
-1135159235,Codonanthopsis_crassifolia,75.6152,-75.481167
 1456127516,Codonanthopsis_crassifolia,3.40689,-58.3179
 1320207426,Codonanthopsis_crassifolia,3.58839,-58.2993
 1042537607,Codonanthopsis_crassifolia,-8.657361,-64.36
@@ -218,7 +216,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1321337699,Codonanthopsis_crassifolia,4.93,-58.22
 1894551426,Codonanthopsis_crassifolia,17.952778,-92.548056
 1456075716,Codonanthopsis_crassifolia,5.07222,-58.2597
-1258599710,Codonanthopsis_crassifolia,8.48,-83.59
 1320493618,Codonanthopsis_crassifolia,4.85,-58.23
 1896050084,Codonanthopsis_crassifolia,17.704167,-92.901389
 1894551435,Codonanthopsis_crassifolia,17.9,-92.420833
@@ -324,12 +321,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456381539,Codonanthopsis_crassifolia,5.2,-59.1167
 1456050246,Codonanthopsis_crassifolia,6.08333,-60.1167
 1317577838,Codonanthopsis_crassifolia,3.62,-53.2
-1322377737,Codonanthopsis_crassifolia,9.3,-82.13
 1319041080,Codonanthopsis_crassifolia,5.27,-60.67
 1261200284,Codonanthopsis_crassifolia,6.35,-76.43333
 1320459286,Codonanthopsis_crassifolia,7.38,-58.6
 2289893734,Codonanthopsis_crassifolia,7.383333,-58.6
-931011736,Codonanthopsis_crassifolia,6.147847,-77.428596
 1317959326,Codonanthopsis_crassifolia,6.35,-76.43
 1318698903,Codonanthopsis_crassifolia,4.3,-67.47
 1321902103,Codonanthopsis_crassifolia,5.13,-64.32
@@ -467,9 +462,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261834554,Codonanthopsis_crassifolia,-3.74805,-73.24722
 2291701286,Codonanthopsis_crassifolia,6,-57.833333
 1890948960,Codonanthopsis_crassifolia,6.2809,-75.0674
-1261199968,Codonanthopsis_crassifolia,11.60277,-83.66805
 1259213804,Codonanthopsis_crassifolia,6.2925,-75.0125
-44702967,Codonanthopsis_crassifolia,9.38,-84.15
 1042502576,Codonanthopsis_crassifolia,-3.9,-49.67
 1930493299,Codonanthopsis_crassifolia,-3.927348,-49.673567
 1928038865,Codonanthopsis_crassifolia,-3.970008,-49.723477
@@ -504,7 +497,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259171286,Codonanthopsis_crassifolia,1.933333,-67.033333
 1317781932,Codonanthopsis_crassifolia,4.7,-76.92
 1259452356,Codonanthopsis_crassifolia,16.05,-88.85
-1259455026,Codonanthopsis_crassifolia,15.883333,-88.916667
 1258519896,Codonanthopsis_crassifolia,10.433333,-83.966667
 1260431317,Codonanthopsis_crassifolia,8.225,-72.24166
 2289670131,Codonanthopsis_crassifolia,4.7,-52.266667
@@ -573,16 +565,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320884711,Codonanthopsis_crassifolia,1.83,-67
 1260289780,Codonanthopsis_crassifolia,12.05,-83.8
 1320247268,Codonanthopsis_crassifolia,10.6,-61.18
-1317587496,Codonanthopsis_crassifolia,5.83,-55.17
 1228178142,Codonanthopsis_crassifolia,3.75,-76.5
 1317387733,Codonanthopsis_crassifolia,3.42,-65.67
 1228516082,Codonanthopsis_crassifolia,16.0278,-90.0753
 1258706764,Codonanthopsis_crassifolia,16.02777,-90.07527
-1259454570,Codonanthopsis_crassifolia,9.31666,-82.15
 1259453074,Codonanthopsis_crassifolia,9.242775,-82.257334
 1259452116,Codonanthopsis_crassifolia,9.258333,-82.4
 1320103481,Codonanthopsis_crassifolia,15.5,-89.17
-1259452819,Codonanthopsis_crassifolia,9.05,-82
 1895431808,Codonanthopsis_crassifolia,17.45361,-91.18611
 1258706898,Codonanthopsis_crassifolia,17.53944,-88.60666
 1259454448,Codonanthopsis_crassifolia,9.15,-79.85
