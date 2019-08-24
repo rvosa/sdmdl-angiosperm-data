@@ -15,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 781074670,Anagallis_tenella,36.89093,-3.91143
 781074673,Anagallis_tenella,36.61271,-5.00689
 2291379152,Anagallis_tenella,52.4482,4.565567
-895225787,Anagallis_tenella,38.48891,-28.31672
 1851362749,Anagallis_tenella,43.16961,-5.00113
 2290792214,Anagallis_tenella,51.230083,5.82375
 1050653473,Anagallis_tenella,40.69,0.26
@@ -29,8 +28,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 932707543,Anagallis_tenella,42.06291,-8.78385
 1702506786,Anagallis_tenella,37.5,-8.77
 1851576425,Anagallis_tenella,43.45,-5.19
-1851347853,Anagallis_tenella,37.504944,-8.7778
-143003720,Anagallis_tenella,43.439999,-3.99
 932707438,Anagallis_tenella,42.24094,-8.27419
 1851333759,Anagallis_tenella,43.15505,-4.77094
 1851326481,Anagallis_tenella,42.9625,-4.3003
@@ -85,7 +82,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211619138,Anagallis_tenella,43.529999,-5.85
 31956117,Anagallis_tenella,34.98,-4.77
 31956112,Anagallis_tenella,34.078666,-4.122681
-1936503400,Anagallis_tenella,34.0833,-34.1167
 7146641,Anagallis_tenella,49.2594,4.04139
 1936407441,Anagallis_tenella,43.733,-7.9212
 1502044145,Anagallis_tenella,38.66,-0.31
@@ -99,7 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936390168,Anagallis_tenella,43.4229,-2.8531
 895285721,Anagallis_tenella,38.68,-0.3
 211643447,Anagallis_tenella,38.262,-1.886
-1936365889,Anagallis_tenella,37.73815,-8.763
 1936394364,Anagallis_tenella,38.8056,-2.3701
 1936379012,Anagallis_tenella,43.188981,-7.800125
 1936124880,Anagallis_tenella,39.5471,-4.6539
@@ -117,7 +112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936136373,Anagallis_tenella,39.3937,-5.2076
 895193820,Anagallis_tenella,39.95,-0.37
 1936698784,Anagallis_tenella,42.7636,-3.6857
-1988195675,Anagallis_tenella,49.25,-123.12
 1053985874,Anagallis_tenella,43.25,-1.76
 1050580049,Anagallis_tenella,43.31,-3.06
 1936164457,Anagallis_tenella,43.7071,-8.0457
@@ -127,7 +121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050580064,Anagallis_tenella,42.69,-2.44
 1936524993,Anagallis_tenella,43.3414,-4.4818
 1851408589,Anagallis_tenella,42.55,-5.74
-31956107,Anagallis_tenella,35.9,-5.38
 1050656475,Anagallis_tenella,43.2,-3.06
 1936505881,Anagallis_tenella,42.2284,-7.8381
 1050580066,Anagallis_tenella,42.99,-2.83
@@ -161,7 +154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936369315,Anagallis_tenella,38.1166,-2.6818
 1806555034,Anagallis_tenella,43.161,-1.715
 143003783,Anagallis_tenella,40.549999,-4.18
-1936091915,Anagallis_tenella,36.9304,-6.5299
 1936144677,Anagallis_tenella,43.066,-4.8436
 211619383,Anagallis_tenella,43.049999,-6.3
 1050580096,Anagallis_tenella,42.74,-2.51
@@ -172,17 +164,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211618707,Anagallis_tenella,43.560001,-6.64
 211618710,Anagallis_tenella,43.459999,-6.56
 1851574286,Anagallis_tenella,40.39,-5.77
-211618655,Anagallis_tenella,43.580002,-6.24
 1851405752,Anagallis_tenella,43.03,-3.92
 211619174,Anagallis_tenella,43.080002,-5.22
-31969157,Anagallis_tenella,39.77,2.77
-1930114632,Anagallis_tenella,-26.1963928715053,-49.2662006010121
 318101825,Anagallis_tenella,38.69,-0.53
-1055848815,Anagallis_tenella,55.633281,-5.196611
 1935989210,Anagallis_tenella,43.3481,-8.1994
 2288944383,Anagallis_tenella,50.452,6.102
 1055953772,Anagallis_tenella,50.90489,-1.411216
-31969154,Anagallis_tenella,39.810001,2.88
 876157516,Anagallis_tenella,34.83,-4.48
 7132761,Anagallis_tenella,46.8546,0.928775
 31955619,Anagallis_tenella,38.44,-3.52
@@ -190,10 +177,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935949991,Anagallis_tenella,42.4411,-4.4604
 31955455,Anagallis_tenella,36.91,-4.07
 31955456,Anagallis_tenella,36.71,-4.96
-1842881797,Anagallis_tenella,42.23,3.06
 1935949822,Anagallis_tenella,40.5528,-4.1823
 1935949879,Anagallis_tenella,40.7341,-4.0671
-1935950246,Anagallis_tenella,39.7658,2.742
 1842881792,Anagallis_tenella,41.13,1.27
 1842881878,Anagallis_tenella,41.41,2.22
 296407046,Anagallis_tenella,47.448621,12.407434
