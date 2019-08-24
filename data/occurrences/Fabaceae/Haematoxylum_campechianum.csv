@@ -96,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894617805,Haematoxylum_campechianum,19.241389,-88.316944
 1894618101,Haematoxylum_campechianum,19.284167,-88.365306
 1893311459,Haematoxylum_campechianum,19.213889,-90.728056
-1421358363,Haematoxylum_campechianum,17.366667,-89.4
 1893311588,Haematoxylum_campechianum,18.316944,-89.857222
 1893311565,Haematoxylum_campechianum,19.7875,-90.494722
 1421382552,Haematoxylum_campechianum,19.791667,-90.497222
@@ -104,11 +103,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893311461,Haematoxylum_campechianum,19.966667,-90.366667
 1895888702,Haematoxylum_campechianum,17.733333,-92.008333
 1897498831,Haematoxylum_campechianum,19.980556,-90.376389
-1893316931,Haematoxylum_campechianum,17.75,-92
 1988830931,Haematoxylum_campechianum,21.21667,-87.18333
 1893311453,Haematoxylum_campechianum,19.761389,-90.484167
 1893316939,Haematoxylum_campechianum,20.833333,-90.195833
-1265481480,Haematoxylum_campechianum,20.83,-90.2
 1896124122,Haematoxylum_campechianum,20.077778,-90.325
 1893311463,Haematoxylum_campechianum,19.785,-90.505278
 1893311497,Haematoxylum_campechianum,20.080556,-90.338889
@@ -149,7 +146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897498813,Haematoxylum_campechianum,18.490278,-89.265555
 1894546609,Haematoxylum_campechianum,17.928056,-92.990556
 1259923324,Haematoxylum_campechianum,18.36583,-92.64083
-30868866,Haematoxylum_campechianum,19.9,-90.379997
 1893814219,Haematoxylum_campechianum,18.365867,-92.640867
 1893814229,Haematoxylum_campechianum,18.541511,-92.5667
 1259920483,Haematoxylum_campechianum,18.54138,-92.56694
@@ -162,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893814207,Haematoxylum_campechianum,18.241722,-92.664111
 1893814216,Haematoxylum_campechianum,18.252417,-92.656889
 1259922715,Haematoxylum_campechianum,18.25222,-92.65694
-1421351981,Haematoxylum_campechianum,18.633333,-89.4
 1893316937,Haematoxylum_campechianum,18.633611,-89.400278
 1897498761,Haematoxylum_campechianum,18.594444,-89.413889
 1893316921,Haematoxylum_campechianum,18.248611,-92.83
@@ -222,10 +217,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265481495,Haematoxylum_campechianum,16.88,-91.32
 1893311504,Haematoxylum_campechianum,21.073611,-89.95
 1421383828,Haematoxylum_campechianum,19.905556,-90.431944
-1421377320,Haematoxylum_campechianum,19.7,-89.433333
 1897498928,Haematoxylum_campechianum,17.850556,-89.313611
 1893444176,Haematoxylum_campechianum,19.858333,-89.308333
-1894546683,Haematoxylum_campechianum,17.9,-92.420833
 1419060645,Haematoxylum_campechianum,21.158333,-88.191667
 1419062440,Haematoxylum_campechianum,18.175,-92.091667
 1419061800,Haematoxylum_campechianum,21.158333,-88.158333
@@ -236,7 +229,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893316972,Haematoxylum_campechianum,18.058333,-93.141667
 1893316889,Haematoxylum_campechianum,18.184167,-91.750556
 1895234597,Haematoxylum_campechianum,18.266667,-91.780556
-1265481481,Haematoxylum_campechianum,16.9,-89.85
 1893316875,Haematoxylum_campechianum,18.350278,-91.850278
 1893610530,Haematoxylum_campechianum,18.538333,-89.921667
 1897499093,Haematoxylum_campechianum,18.536944,-89.887222
@@ -255,12 +247,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455703115,Haematoxylum_campechianum,17.783333,-88.533333
 1896124139,Haematoxylum_campechianum,20.643056,-90.213889
 1258284021,Haematoxylum_campechianum,18.183333,-88.283333
-1258284094,Haematoxylum_campechianum,18.2,-88.4
 1894546621,Haematoxylum_campechianum,18.136389,-92.088889
 1421361318,Haematoxylum_campechianum,20.691667,-90.211111
 1897498839,Haematoxylum_campechianum,19.368889,-90.710278
 1893316818,Haematoxylum_campechianum,19.397222,-90.716111
-1259512053,Haematoxylum_campechianum,19.4,-90.72
 1893316887,Haematoxylum_campechianum,18.583611,-91.066944
 1421370773,Haematoxylum_campechianum,18.231944,-91.455556
 1421415149,Haematoxylum_campechianum,19.402778,-90.722222
@@ -272,7 +262,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894680966,Haematoxylum_campechianum,20.8473022819903,-86.9031665568622
 1894680978,Haematoxylum_campechianum,18.6109626627376,-89.2995868698954
 1896124068,Haematoxylum_campechianum,17.911944,-92.917222
-1893316829,Haematoxylum_campechianum,19.780556,-87.6
 1896124084,Haematoxylum_campechianum,17.825,-91.625
 1893407201,Haematoxylum_campechianum,16.441667,-95.458333
 1896124108,Haematoxylum_campechianum,20.643056,-90.211389
@@ -291,7 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897498937,Haematoxylum_campechianum,18.295,-92.104167
 1893316833,Haematoxylum_campechianum,19.216944,-90.483611
 1421361192,Haematoxylum_campechianum,18.158333,-92.130556
-1895234651,Haematoxylum_campechianum,18.3,-91.219444
 1421396142,Haematoxylum_campechianum,19.144444,-90.436111
 1897499114,Haematoxylum_campechianum,19.232222,-90.497222
 1893316882,Haematoxylum_campechianum,18.083889,-92.033611
@@ -312,7 +300,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421399692,Haematoxylum_campechianum,20.95,-87.298611
 1897498694,Haematoxylum_campechianum,18.622222,-91.9725
 1421368083,Haematoxylum_campechianum,21.430556,-88.25
-1895234662,Haematoxylum_campechianum,20.841667,-86.9
 1896124087,Haematoxylum_campechianum,20.844444,-86.903889
 1897498701,Haematoxylum_campechianum,18.627222,-91.970555
 1894680839,Haematoxylum_campechianum,18.626944,-91.899167
@@ -322,9 +309,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893316886,Haematoxylum_campechianum,18.616944,-91.966944
 1894421630,Haematoxylum_campechianum,18.611111,-91.865833
 1895234609,Haematoxylum_campechianum,20.883333,-87.0875
-1258558406,Haematoxylum_campechianum,20.84,-86.9
 1421374228,Haematoxylum_campechianum,21.101389,-89.975
-1421409465,Haematoxylum_campechianum,19,-88.229167
 1893444191,Haematoxylum_campechianum,20.225,-90.191667
 1897498997,Haematoxylum_campechianum,20.213056,-90.179167
 1894680987,Haematoxylum_campechianum,20.204167,-90.475
@@ -337,11 +322,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896124109,Haematoxylum_campechianum,20.538889,-90.402778
 1893316843,Haematoxylum_campechianum,20.541667,-90.291667
 1893316915,Haematoxylum_campechianum,21.101389,-89.977778
-1421415121,Haematoxylum_campechianum,21.1,-89.969444
 1894681019,Haematoxylum_campechianum,21.108333,-89.975
 1259519044,Haematoxylum_campechianum,21.08,-89.96
 1893316775,Haematoxylum_campechianum,19.786111,-87.608333
-1421391700,Haematoxylum_campechianum,19.783333,-87.6
 1896124118,Haematoxylum_campechianum,19.784444,-87.613056
 1894680877,Haematoxylum_campechianum,19.7834614725633,-87.6013889601525
 1893316912,Haematoxylum_campechianum,21.101389,-89.983333
@@ -381,7 +364,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421403779,Haematoxylum_campechianum,18.502778,-88.516667
 1894421700,Haematoxylum_campechianum,18.643333,-91.830833
 1896124094,Haematoxylum_campechianum,17.9875,-92.367778
-1259509419,Haematoxylum_campechianum,17.8,-91.53
 1893316861,Haematoxylum_campechianum,17.9823362898597,-92.3746886442797
 1896124107,Haematoxylum_campechianum,18.711944,-91.667778
 1421390979,Haematoxylum_campechianum,18.733333,-91.616667
@@ -459,7 +441,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419195077,Haematoxylum_campechianum,17.400833,-91.855833
 1895234614,Haematoxylum_campechianum,20.844444,-86.902778
 1893407143,Haematoxylum_campechianum,18.058333,-91.541667
-1846509539,Haematoxylum_campechianum,17.8,-91.533333
 1896124127,Haematoxylum_campechianum,17.625,-91.041667
 1895053954,Haematoxylum_campechianum,17.808333,-91.541667
 1896124083,Haematoxylum_campechianum,17.491667,-91.058333
