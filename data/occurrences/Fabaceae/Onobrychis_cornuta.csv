@@ -13,13 +13,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936660462,Onobrychis_cornuta,40.385833,45.533333
 1230991132,Onobrychis_cornuta,40.47556,44.67694
 1230991136,Onobrychis_cornuta,40.88278,43.97722
-1986952176,Onobrychis_cornuta,40.883333,44
-893480318,Onobrychis_cornuta,40.5,45.299999
 328380011,Onobrychis_cornuta,39.95,44.88
 893480292,Onobrychis_cornuta,39.950001,44.883331
-328379972,Onobrychis_cornuta,40.5,45.3
 142317196,Onobrychis_cornuta,37.68,31.31
-142317186,Onobrychis_cornuta,36.6,30.1
 1697858093,Onobrychis_cornuta,37.133333,34.266667
 1799021099,Onobrychis_cornuta,39.20341,71.2178
 574760561,Onobrychis_cornuta,28.816667,56.416667
@@ -27,8 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1799021144,Onobrychis_cornuta,37.7737,58.305473
 1701540907,Onobrychis_cornuta,36.13333,51.31667
 574775061,Onobrychis_cornuta,37.75,58.083333
-328380077,Onobrychis_cornuta,30.33,67.5
-1936162683,Onobrychis_cornuta,30.3333,67.5
 1936162860,Onobrychis_cornuta,33.6167,69.15
 328380090,Onobrychis_cornuta,33.62,69.15
 1230990979,Onobrychis_cornuta,33.95,69.36667
