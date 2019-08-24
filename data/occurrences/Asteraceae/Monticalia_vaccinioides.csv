@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2274007467,Monticalia_vaccinioides,4.561261,-74.021042
 1989714717,Monticalia_vaccinioides,5.751778,-73.375417
 1703244777,Monticalia_vaccinioides,4.85,-73.916667
 1703244735,Monticalia_vaccinioides,6.566667,-72
@@ -8,10 +7,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269774835,Monticalia_vaccinioides,6.409111,-72.7345
 1269772881,Monticalia_vaccinioides,6.047158,-72.993486
 1269773146,Monticalia_vaccinioides,6.027917,-72.96625
-1702530181,Monticalia_vaccinioides,4.639556,-74.032167
 1269753110,Monticalia_vaccinioides,5.745583,-72.702861
-1702529251,Monticalia_vaccinioides,4.64465,-74.032683
-1702529086,Monticalia_vaccinioides,4.63845,-74.03205
 1269753547,Monticalia_vaccinioides,5.50725,-72.696056
 1269753426,Monticalia_vaccinioides,5.510556,-72.69
 1821672269,Monticalia_vaccinioides,1.695806,-76.824861
@@ -19,13 +15,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269755336,Monticalia_vaccinioides,5.742917,-72.695111
 1269753060,Monticalia_vaccinioides,5.74525,-72.694556
 1269753492,Monticalia_vaccinioides,5.508389,-72.695972
-1702530176,Monticalia_vaccinioides,4.64665,-74.030283
-1702529073,Monticalia_vaccinioides,4.637056,-74.032972
 1702528280,Monticalia_vaccinioides,4.433056,-74.182583
 1927465186,Monticalia_vaccinioides,1.106222,-77.673083
 1702530804,Monticalia_vaccinioides,5.00945,-74.206567
 1702531266,Monticalia_vaccinioides,4.430222,-74.179139
-1702533722,Monticalia_vaccinioides,4.575944,-74.003583
 1821672029,Monticalia_vaccinioides,1.270583,-77.239056
 1702531218,Monticalia_vaccinioides,4.47425,-74.177889
 1257480299,Monticalia_vaccinioides,4.876531,-75.261505
@@ -194,13 +187,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456025886,Monticalia_vaccinioides,-0.33,-78.25
 1456190968,Monticalia_vaccinioides,4.9194,-75.28
 1891006157,Monticalia_vaccinioides,4.919444,-75.28
-1898880465,Monticalia_vaccinioides,4.608889,-74.034519
-1898878441,Monticalia_vaccinioides,4.6075,-74.03694
 1260769342,Monticalia_vaccinioides,6.43333,-76.1
 2013798161,Monticalia_vaccinioides,6.45556,-76.029999
 1314958680,Monticalia_vaccinioides,6.45556,-76.03
 1123904088,Monticalia_vaccinioides,6.447977,-76.095245
-735659946,Monticalia_vaccinioides,4.558889,-74.022222
 1123903560,Monticalia_vaccinioides,6.457331,-76.116851
 1890986533,Monticalia_vaccinioides,6.455555,-76.120552
 1261290328,Monticalia_vaccinioides,0.66666,-77.91666
@@ -237,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47821893,Monticalia_vaccinioides,-2.8,-79.133
 1890944316,Monticalia_vaccinioides,4.526825,-73.733276
 1314958646,Monticalia_vaccinioides,4.52435,-73.7464
-1890983573,Monticalia_vaccinioides,4.63166,-74.035095
 1261294583,Monticalia_vaccinioides,0.78333,-77.88333
 47822021,Monticalia_vaccinioides,-1.216,-77.883
 47822032,Monticalia_vaccinioides,0.7,-77.666
@@ -301,7 +290,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456003805,Monticalia_vaccinioides,0.8,-77.98
 1261302580,Monticalia_vaccinioides,-0.96666,-78.36666
 1456270400,Monticalia_vaccinioides,-0.97,-78.37
-1259033035,Monticalia_vaccinioides,4.56666,-74
 1260770478,Monticalia_vaccinioides,-2.8167,-79.15
 1701727795,Monticalia_vaccinioides,7.8333,-72.0833
 1576180474,Monticalia_vaccinioides,4.892594,-75.32363
@@ -316,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1314958661,Monticalia_vaccinioides,6.47961,-72.2993
 1844936414,Monticalia_vaccinioides,6.338054,-72.324848
 779871460,Monticalia_vaccinioides,4.059633,-75.252538
-1098683948,Monticalia_vaccinioides,4.569331,-74.003941
 1098683968,Monticalia_vaccinioides,4.55211,-73.964964
 1098683952,Monticalia_vaccinioides,4.563193,-73.991203
 1260773821,Monticalia_vaccinioides,4.254829,-74.230934
@@ -352,8 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1314958686,Monticalia_vaccinioides,4.46438,-74.0765
 1260769504,Monticalia_vaccinioides,-2.75,-78.65
 1456456644,Monticalia_vaccinioides,7.3,-72.95
-2013767393,Monticalia_vaccinioides,4.595183,-74.054021
-1314958652,Monticalia_vaccinioides,4.59518,-74.054
 1228332550,Monticalia_vaccinioides,3.8811,-72.8667
 1260774873,Monticalia_vaccinioides,0.68333,-77.88333
 1890898095,Monticalia_vaccinioides,6.351422,-72.548554
