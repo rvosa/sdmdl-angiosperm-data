@@ -167,7 +167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846549207,Sporobolus_cryptandrus,33.890694,-111.953056
 1804462503,Sporobolus_cryptandrus,29.534,-104.794
 2242413225,Sporobolus_cryptandrus,36.579899,-104.814812
-1988232908,Sporobolus_cryptandrus,49.4,-121.43
 1986952411,Sporobolus_cryptandrus,37.446002999089,-114.793791
 1846541044,Sporobolus_cryptandrus,35.8050229432073,-113.409943288013
 2270689626,Sporobolus_cryptandrus,33.9377,-112.701
@@ -247,7 +246,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843902587,Sporobolus_cryptandrus,36.357,-103.073
 1843903009,Sporobolus_cryptandrus,36.847917,-103.931138
 2242383769,Sporobolus_cryptandrus,39.564702,-104.289721
-1260370712,Sporobolus_cryptandrus,42.22055,-105
 2242377963,Sporobolus_cryptandrus,39.549869,-104.292465
 883384555,Sporobolus_cryptandrus,53.853802,-112.984001
 1248739257,Sporobolus_cryptandrus,46.346944,-72.583056
@@ -295,7 +293,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846488751,Sporobolus_cryptandrus,31.7977,-110.7473
 1929218902,Sporobolus_cryptandrus,37.2941,-113.0611
 1843891045,Sporobolus_cryptandrus,35.61784,-105.260124
-1804484958,Sporobolus_cryptandrus,51,-106.55
 177038652,Sporobolus_cryptandrus,39.0725,-96.801389
 1894818152,Sporobolus_cryptandrus,28.791667,-113.675
 1931032429,Sporobolus_cryptandrus,43.2355,-117.495
@@ -348,7 +345,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270589526,Sporobolus_cryptandrus,32.3045,-110.391
 2270592317,Sporobolus_cryptandrus,32.5789,-110.525
 2270591358,Sporobolus_cryptandrus,32.9252,-110.733
-1258711630,Sporobolus_cryptandrus,37.1,-89.5
 1928090987,Sporobolus_cryptandrus,37.5876,-112.0688
 2270498285,Sporobolus_cryptandrus,32.97,-110.78
 2270594768,Sporobolus_cryptandrus,32.9397,-110.75
@@ -423,15 +419,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883384981,Sporobolus_cryptandrus,50.2480879990728,-110.685918
 883384975,Sporobolus_cryptandrus,50.559722,-110.427222
 883384551,Sporobolus_cryptandrus,50.3718149990736,-110.686372
-1930498498,Sporobolus_cryptandrus,37.22,-118.3
 177038876,Sporobolus_cryptandrus,39.995752,-98.049538
 177038804,Sporobolus_cryptandrus,39.590123,-97.657211
 2242366508,Sporobolus_cryptandrus,40.401775,-104.422491
-1949610433,Sporobolus_cryptandrus,49.6,-115.616667
 1949636326,Sporobolus_cryptandrus,50.583333,-116.116667
 415735346,Sporobolus_cryptandrus,33.987535,-91.418323
 2242363154,Sporobolus_cryptandrus,40.445154,-104.422497
-1988212072,Sporobolus_cryptandrus,50.6,-116.1
 1949607724,Sporobolus_cryptandrus,49.013889,-119.493056
 2242365413,Sporobolus_cryptandrus,40.474789,-104.36662
 1893744374,Sporobolus_cryptandrus,26.336667,-101.245
@@ -444,7 +437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265460489,Sporobolus_cryptandrus,44.645833,-93.754167
 1929142712,Sporobolus_cryptandrus,40.3576,-109.4896
 1500201062,Sporobolus_cryptandrus,31.7125,-104.775
-1260389908,Sporobolus_cryptandrus,23.2,-102.375
 2270577512,Sporobolus_cryptandrus,34.923,-112.459
 1986939390,Sporobolus_cryptandrus,44.0174,-75.8499
 1989053880,Sporobolus_cryptandrus,44.221031,-85.957099
@@ -457,10 +449,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895765616,Sporobolus_cryptandrus,24.658333,-100.041667
 1893744377,Sporobolus_cryptandrus,25.686667,-99.621667
 1930234944,Sporobolus_cryptandrus,40.434662,-111.91497
-1320791144,Sporobolus_cryptandrus,25.5,-99.5833
 1986966658,Sporobolus_cryptandrus,40.429722,-111.915
 1703292332,Sporobolus_cryptandrus,49.7632194527231,-99.6772515508325
-1895418826,Sporobolus_cryptandrus,25.7,-99.633333
 1703291757,Sporobolus_cryptandrus,50.5679033467314,-96.5332124900066
 1986966292,Sporobolus_cryptandrus,40.465833,-111.949444
 1259398633,Sporobolus_cryptandrus,37.28333,-90.56666
@@ -509,14 +499,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177038625,Sporobolus_cryptandrus,37.864265,-101.367897
 1930803033,Sporobolus_cryptandrus,37.149292,-102.211739
 2242370750,Sporobolus_cryptandrus,39.71172,-104.804708
-1949621907,Sporobolus_cryptandrus,49.066667,-119.5
-1563371408,Sporobolus_cryptandrus,31.904167,-106.1
 2270651743,Sporobolus_cryptandrus,34.7835,-112.035
 1259602563,Sporobolus_cryptandrus,31.06666,-104.78333
 2242372110,Sporobolus_cryptandrus,40.354727,-105.595879
 883387273,Sporobolus_cryptandrus,39.1005919990764,-113.244301
-1988169171,Sporobolus_cryptandrus,49.1,-119.5
-1988241899,Sporobolus_cryptandrus,49,-119.6
 1928075270,Sporobolus_cryptandrus,38.5376,-118.2336
 1928078995,Sporobolus_cryptandrus,38.0989,-116.9206
 1928254009,Sporobolus_cryptandrus,42.1404,-100.4915
@@ -525,13 +511,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270576865,Sporobolus_cryptandrus,34.7835,-112.532
 1899288133,Sporobolus_cryptandrus,45.508333,-77.566667
 2265572668,Sporobolus_cryptandrus,46.251667,-94.499722
-1899288089,Sporobolus_cryptandrus,45.508333,-79.3
 1899277145,Sporobolus_cryptandrus,45.491667,-77.666667
 1843806219,Sporobolus_cryptandrus,31.603341,-108.667856
 1843806868,Sporobolus_cryptandrus,34.428346,-106.878243
 1895765513,Sporobolus_cryptandrus,25.408333,-100.958333
 1611938377,Sporobolus_cryptandrus,30.755556,-105.004167
-1899288192,Sporobolus_cryptandrus,45.2,-78.866667
 2270653509,Sporobolus_cryptandrus,34.4884,-110.67
 2270579139,Sporobolus_cryptandrus,32.3322,-110.225
 2270577782,Sporobolus_cryptandrus,34.5032,-110.635
@@ -542,9 +526,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261036479,Sporobolus_cryptandrus,24.82,-100.07
 1895418677,Sporobolus_cryptandrus,24.969719,-100.561111
 1248739241,Sporobolus_cryptandrus,46.394167,-74.991111
-1248739199,Sporobolus_cryptandrus,46.4,-75.033333
 1039018806,Sporobolus_cryptandrus,41.1932,-73.196
-1895418750,Sporobolus_cryptandrus,26.7,-109.6
 473576624,Sporobolus_cryptandrus,46.35,-72.55
 883384799,Sporobolus_cryptandrus,37.2334309990908,-113.923887
 1895765632,Sporobolus_cryptandrus,26.158333,-101.508333
@@ -552,13 +534,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270578409,Sporobolus_cryptandrus,33.932938,-112.695767
 1949630036,Sporobolus_cryptandrus,49.083333,-119.516667
 1949642456,Sporobolus_cryptandrus,46.642222,-119.722778
-1949603059,Sporobolus_cryptandrus,49.083333,-119.5
 177038613,Sporobolus_cryptandrus,37.071002,-102.029254
 883430138,Sporobolus_cryptandrus,49.8805969990707,-112.563932
 1893773776,Sporobolus_cryptandrus,28.54778,-107.48556
 1895113797,Sporobolus_cryptandrus,28.191667,-105.475
 1893744373,Sporobolus_cryptandrus,28.135,-106.498333
-1988096373,Sporobolus_cryptandrus,49.1,-122.8
 1611937724,Sporobolus_cryptandrus,30.794444,-105.0125
 1989033876,Sporobolus_cryptandrus,44.447214,-86.124276
 1989168083,Sporobolus_cryptandrus,44.661438,-85.925425
@@ -576,7 +556,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843808320,Sporobolus_cryptandrus,35.085,-108.788
 1988721861,Sporobolus_cryptandrus,44.2774,-84.06439
 1500199150,Sporobolus_cryptandrus,33.583333,-116.416667
-1804407354,Sporobolus_cryptandrus,44.833333,-76.6
 1419194628,Sporobolus_cryptandrus,25.333333,-100.966667
 1804457080,Sporobolus_cryptandrus,45.508333,-77.563889
 1895418752,Sporobolus_cryptandrus,25.353336,-101.031933
@@ -591,7 +570,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989176278,Sporobolus_cryptandrus,44.49882,-85.64056
 2270654765,Sporobolus_cryptandrus,31.3571,-110.845
 1988904199,Sporobolus_cryptandrus,44.767242,-85.503139
-1895889762,Sporobolus_cryptandrus,23.5,-104.582778
 1989529530,Sporobolus_cryptandrus,44.65963,-84.71274
 1989030049,Sporobolus_cryptandrus,44.575457,-85.362458
 1989030630,Sporobolus_cryptandrus,44.417974,-85.509179
@@ -642,7 +620,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895765496,Sporobolus_cryptandrus,25.375,-101.241667
 883430132,Sporobolus_cryptandrus,52.58319399909,-110.586967
 2242365756,Sporobolus_cryptandrus,39.743439,-105.193748
-1804607629,Sporobolus_cryptandrus,48.8,-93.083333
 415735556,Sporobolus_cryptandrus,39.71669,-102.14222
 1262017884,Sporobolus_cryptandrus,46.044987,-73.260043
 1262034814,Sporobolus_cryptandrus,46.044949,-73.260115
@@ -704,7 +681,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949555335,Sporobolus_cryptandrus,49.05,-118.866667
 1899372247,Sporobolus_cryptandrus,43.663889,-79.513889
 1843849155,Sporobolus_cryptandrus,32.34875,-103.868833
-1929999840,Sporobolus_cryptandrus,43.2,-117.65
 1930056263,Sporobolus_cryptandrus,43.0386,-117.6964
 1986927344,Sporobolus_cryptandrus,40.3473,-112.6025
 1929671031,Sporobolus_cryptandrus,40.3394,-112.5993
@@ -721,7 +697,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270576331,Sporobolus_cryptandrus,35.0439,-113.924
 1697950088,Sporobolus_cryptandrus,49.716667,-99.083333
 2270578893,Sporobolus_cryptandrus,35.0584,-113.942
-1899380621,Sporobolus_cryptandrus,45.016667,-79.6
 2270577549,Sporobolus_cryptandrus,36.925,-113.225
 2270654128,Sporobolus_cryptandrus,35.1165,-113.854
 2270578290,Sporobolus_cryptandrus,34.9858,-113.942
@@ -737,7 +712,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895889781,Sporobolus_cryptandrus,24.717778,-103.87
 1899368713,Sporobolus_cryptandrus,43.633333,-79.325
 1895889857,Sporobolus_cryptandrus,25.45,-103.72
-1804572329,Sporobolus_cryptandrus,44,-77.733333
 1843848853,Sporobolus_cryptandrus,32.348104,-103.816917
 1611942638,Sporobolus_cryptandrus,31.864722,-106.493056
 1563372721,Sporobolus_cryptandrus,31.909722,-106.507222
@@ -772,7 +746,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177038836,Sporobolus_cryptandrus,38.59649,-97.334609
 1899380614,Sporobolus_cryptandrus,44.883333,-79.333333
 1929463253,Sporobolus_cryptandrus,36.7119,-108.3904
-1611942469,Sporobolus_cryptandrus,31.2,-105.483333
 1563372742,Sporobolus_cryptandrus,31.949167,-106.509722
 177038729,Sporobolus_cryptandrus,38.47418,-97.46416
 1893417557,Sporobolus_cryptandrus,31.641667,-115.991667
@@ -790,7 +763,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804441217,Sporobolus_cryptandrus,49.833333,-99.583333
 1986921251,Sporobolus_cryptandrus,39.022778,-109.135278
 1843848781,Sporobolus_cryptandrus,35.655663,-108.323227
-883385035,Sporobolus_cryptandrus,49.4,-110.8
 1843849518,Sporobolus_cryptandrus,35.656281,-108.537076
 415735458,Sporobolus_cryptandrus,42.064952,-102.536011
 1899347547,Sporobolus_cryptandrus,44.116184,-79.507713
@@ -879,7 +851,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415735427,Sporobolus_cryptandrus,34.885123,-100.222172
 415735615,Sporobolus_cryptandrus,36.84455,-103.59104
 415735426,Sporobolus_cryptandrus,35.037413,-102.402167
-883384218,Sporobolus_cryptandrus,52.366667,-110.7
 415735570,Sporobolus_cryptandrus,34.11643,-99.74
 415735603,Sporobolus_cryptandrus,33.96985,-101.47718
 415735438,Sporobolus_cryptandrus,34.86694,-100.63348
@@ -918,7 +889,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843849049,Sporobolus_cryptandrus,35.043074,-106.898461
 177038842,Sporobolus_cryptandrus,39.93157,-95.41203
 1895113802,Sporobolus_cryptandrus,29.558333,-104.391667
-1895418845,Sporobolus_cryptandrus,26.6,-100.816667
 2270654294,Sporobolus_cryptandrus,35.9598,-113.953
 415735600,Sporobolus_cryptandrus,48.27992,-110.11139
 415735402,Sporobolus_cryptandrus,48.1216183630114,-104.479059418152
@@ -985,7 +955,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177038691,Sporobolus_cryptandrus,37.55322,-101.05442
 177038881,Sporobolus_cryptandrus,39.03241,-96.80367
 177038767,Sporobolus_cryptandrus,39.1143,-98.6909
-1259285851,Sporobolus_cryptandrus,28.8,-111.833333
 1895670813,Sporobolus_cryptandrus,25.788778,-112.071083
 415735608,Sporobolus_cryptandrus,40.01389,-101.95781
 415735418,Sporobolus_cryptandrus,40.58444,-102.32102
@@ -1001,13 +970,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177038896,Sporobolus_cryptandrus,37.30172,-98.582145
 177038738,Sporobolus_cryptandrus,38.677489,-100.920249
 415735718,Sporobolus_cryptandrus,34.980095,-101.705874
-1804398406,Sporobolus_cryptandrus,51.733333,-122.4
 177038890,Sporobolus_cryptandrus,37.32336,-101.461
 415735483,Sporobolus_cryptandrus,46.7528,-99.72998
 177038683,Sporobolus_cryptandrus,39.188442,-101.783033
-1988121778,Sporobolus_cryptandrus,51.7,-122.4
 177038789,Sporobolus_cryptandrus,37.60827,-99.274975
-1804580234,Sporobolus_cryptandrus,51.716667,-122.4
 177038866,Sporobolus_cryptandrus,38.82501,-98.45674
 415735385,Sporobolus_cryptandrus,46.955149,-99.52885
 177038764,Sporobolus_cryptandrus,39.03021,-97.04118
@@ -1026,7 +992,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415735523,Sporobolus_cryptandrus,40.62553,-103.15043
 415735484,Sporobolus_cryptandrus,37.314978,-89.518749
 177038719,Sporobolus_cryptandrus,39.72544,-99.11925
-1895418774,Sporobolus_cryptandrus,28.116667,-105.4
 415735675,Sporobolus_cryptandrus,42.87992,-98.6987
 415735587,Sporobolus_cryptandrus,39.5018,-102.26889
 415735580,Sporobolus_cryptandrus,41.4525,-96.35597
@@ -1092,7 +1057,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804511869,Sporobolus_cryptandrus,44.85,-79.866667
 415735383,Sporobolus_cryptandrus,39.00785,-104.82083
 415735386,Sporobolus_cryptandrus,41.00665,-96.17392
-1988205349,Sporobolus_cryptandrus,50.8,-121
 415735361,Sporobolus_cryptandrus,37.24664,-103.43364
 1989324454,Sporobolus_cryptandrus,42.120441,-85.945793
 177038712,Sporobolus_cryptandrus,37.15427,-100.76604
@@ -1213,7 +1177,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415735777,Sporobolus_cryptandrus,24.67725,-100.283605
 2270655119,Sporobolus_cryptandrus,34.4309,-110.945
 727751744,Sporobolus_cryptandrus,40.30467,-104.35913
-1322870644,Sporobolus_cryptandrus,24.8333,-100.1
 727751685,Sporobolus_cryptandrus,38.79346,-100.85926
 727751792,Sporobolus_cryptandrus,39.8407,-101.84258
 727751690,Sporobolus_cryptandrus,39.81635,-101.04461
@@ -1307,7 +1270,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177038892,Sporobolus_cryptandrus,38.84711,-100.08999
 177038787,Sporobolus_cryptandrus,37.80707,-99.35478
 1248739253,Sporobolus_cryptandrus,45.494722,-74.025
-1248739225,Sporobolus_cryptandrus,45.566667,-73.9
 1261950627,Sporobolus_cryptandrus,45.491113,-74.032926
 177038667,Sporobolus_cryptandrus,37.22655,-101.41395
 1843848882,Sporobolus_cryptandrus,32.149779,-104.551422
@@ -1350,7 +1312,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1322209187,Sporobolus_cryptandrus,30.8167,-109.217
 1988208596,Sporobolus_cryptandrus,49.53,-119.57
 177038794,Sporobolus_cryptandrus,38.804001,-95.18636
-2270578638,Sporobolus_cryptandrus,33.4,-111.95
 1320180790,Sporobolus_cryptandrus,24.8333,-100.067
 1843849060,Sporobolus_cryptandrus,35.261174,-103.287593
 1988105901,Sporobolus_cryptandrus,49.03,-119.45
@@ -1363,7 +1324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51968051,Sporobolus_cryptandrus,44.7528,-117.0294
 727751824,Sporobolus_cryptandrus,38.97167,-95.23525
 1320790307,Sporobolus_cryptandrus,30.75,-115.217
-51967835,Sporobolus_cryptandrus,44.3,-120.8333
 2242408949,Sporobolus_cryptandrus,38.972488,-97.023544
 1930576094,Sporobolus_cryptandrus,38.82794,-102.603396
 1929870754,Sporobolus_cryptandrus,38.649,-102.9972
@@ -1383,8 +1343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038918806,Sporobolus_cryptandrus,41.146,-73.3467
 1929099811,Sporobolus_cryptandrus,38.872179,-104.749832
 1928933798,Sporobolus_cryptandrus,38.824488,-104.800276
-1317534175,Sporobolus_cryptandrus,22.8,-99
-1259941947,Sporobolus_cryptandrus,29.25,-90.1
 699265307,Sporobolus_cryptandrus,42.23333,-70.81666
 1258908195,Sporobolus_cryptandrus,34.746389,-92.289444
 883384233,Sporobolus_cryptandrus,52.5645,-111.057
@@ -1415,18 +1373,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899378551,Sporobolus_cryptandrus,43.732195,-79.368602
 1259946132,Sporobolus_cryptandrus,39.18527,-91.01666
 1319203332,Sporobolus_cryptandrus,29.0667,-110.967
-1321533426,Sporobolus_cryptandrus,27.9333,-110.9
 1317354565,Sporobolus_cryptandrus,25.6667,-100.317
-1319462153,Sporobolus_cryptandrus,25.4167,-101
 699265301,Sporobolus_cryptandrus,35.6075,-103.09972
 727751829,Sporobolus_cryptandrus,38.04668,-97.34504
 1318051073,Sporobolus_cryptandrus,31.15,-110.95
-1988084591,Sporobolus_cryptandrus,50.6999999990757,-120.8
 2270579390,Sporobolus_cryptandrus,36.0731,-109.892
-1322738902,Sporobolus_cryptandrus,31,-110.75
-993630223,Sporobolus_cryptandrus,32.8333,-108.5
 1259942102,Sporobolus_cryptandrus,32.44861,-99.73278
 1988783773,Sporobolus_cryptandrus,43.732239,-83.451072
 2270578492,Sporobolus_cryptandrus,32.2311,-110.952
-1259940190,Sporobolus_cryptandrus,32.8,-98.76
 1259937607,Sporobolus_cryptandrus,29.42389,-98.49333
