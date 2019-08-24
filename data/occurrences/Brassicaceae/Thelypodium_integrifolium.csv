@@ -40,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986953498,Thelypodium_integrifolium,38.273611,-109.373056
 1927841732,Thelypodium_integrifolium,38.07,-118.58
 1928466818,Thelypodium_integrifolium,41.03,-119.27
-1931371529,Thelypodium_integrifolium,34.87,-111.7
 1846551124,Thelypodium_integrifolium,36.282483,-111.888567
 1929260679,Thelypodium_integrifolium,37.3067,-111.665
 1895351789,Thelypodium_integrifolium,30.1369412339454,-108.159562306738
@@ -63,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930083721,Thelypodium_integrifolium,43.1011,-112.505
 1930525936,Thelypodium_integrifolium,38.32,-118.25
 1931061413,Thelypodium_integrifolium,40.75,-119.43
-1928884301,Thelypodium_integrifolium,37.9,-118.35
 1930826864,Thelypodium_integrifolium,41.1962,-104.0752
 1931109621,Thelypodium_integrifolium,37.08,-113.58
 1929870712,Thelypodium_integrifolium,37.3985,-118.3219
@@ -71,11 +69,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930125089,Thelypodium_integrifolium,41.42,-114.67
 1931214330,Thelypodium_integrifolium,40.45,-118.02
 1846551027,Thelypodium_integrifolium,41.424949,-115.605044
-1930056160,Thelypodium_integrifolium,40.9,-111.22
 1929443788,Thelypodium_integrifolium,38.35,-115.58
 1928438919,Thelypodium_integrifolium,37.43,-110.35
 1930908967,Thelypodium_integrifolium,40.33,-112.73
-1929589724,Thelypodium_integrifolium,37.38,-113
 1928612030,Thelypodium_integrifolium,37.47,-109.82
 1930700834,Thelypodium_integrifolium,40.08,-111.73
 1929758396,Thelypodium_integrifolium,37.0183,-108.3023
@@ -88,14 +84,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930908221,Thelypodium_integrifolium,38.58,-118.72
 1928971189,Thelypodium_integrifolium,37.27,-113.41
 1929851766,Thelypodium_integrifolium,41.88,-119.05
-1988147007,Thelypodium_integrifolium,52.1,-122.1
 1931384051,Thelypodium_integrifolium,39.12,-114.32
 1928844037,Thelypodium_integrifolium,38.57,-111.85
 1930102560,Thelypodium_integrifolium,41.72,-118.13
-1929253922,Thelypodium_integrifolium,37.8,-111.58
-1930194357,Thelypodium_integrifolium,37.03,-112.5
 1930765173,Thelypodium_integrifolium,38.27,-112.23
-1928506072,Thelypodium_integrifolium,37.8,-111.42
 1895589322,Thelypodium_integrifolium,36.2025,-112.019722
 1928556774,Thelypodium_integrifolium,39.15,-114.38
 1928136510,Thelypodium_integrifolium,38.133644,-118.984552
@@ -116,7 +108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426201804,Thelypodium_integrifolium,34.3629,-116.8596
 1426101223,Thelypodium_integrifolium,37.323023,-118.219197
 51972945,Thelypodium_integrifolium,43.5864,-119.0531
-51972946,Thelypodium_integrifolium,44.3,-120.8333
 1426137881,Thelypodium_integrifolium,37.429887,-118.080711
 51973528,Thelypodium_integrifolium,44.3042,-120.7683
 51973638,Thelypodium_integrifolium,44.8711,-117.3231
