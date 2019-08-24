@@ -48,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257686215,Schkuhria_pinnata,13.702222,-86.4925
 1257686503,Schkuhria_pinnata,13.283889,-86.653611
 2239100774,Schkuhria_pinnata,-31.390833,-64.190833
-993695383,Schkuhria_pinnata,-35.2694,149.1122
 2239100460,Schkuhria_pinnata,-31.081389,-64.315
 1848994425,Schkuhria_pinnata,-31.08139,-64.315
 2239101060,Schkuhria_pinnata,-30.951389,-64.330556
@@ -125,7 +124,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462245955,Schkuhria_pinnata,-25.125,29.875
 1652182023,Schkuhria_pinnata,-23.80689,150.89247
 1652184035,Schkuhria_pinnata,-24.22475,148.068028
-993599065,Schkuhria_pinnata,-35.2211,149.1042
 1260494607,Schkuhria_pinnata,-13.23333,-72.51666
 1936677836,Schkuhria_pinnata,-30.9603,-64.2919
 1074136930,Schkuhria_pinnata,-32.079238,150.139597
@@ -221,7 +219,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462245946,Schkuhria_pinnata,-22.375,29.125
 1652105495,Schkuhria_pinnata,-24.808846,147.754183
 1652107872,Schkuhria_pinnata,-27.806878,151.859144
-2005459908,Schkuhria_pinnata,-25.736389,28.276944
 1652108790,Schkuhria_pinnata,-28.83271,151.93665
 993541634,Schkuhria_pinnata,-28.8689,151.1628
 993501950,Schkuhria_pinnata,-28.3766,152.1347
@@ -604,7 +601,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895462959,Schkuhria_pinnata,20.3104357532924,-103.985426693636
 1896350177,Schkuhria_pinnata,20.441667,-104.023333
 1894531072,Schkuhria_pinnata,24.491667,-104.491667
-895207956,Schkuhria_pinnata,40.03,0.13
 1928950583,Schkuhria_pinnata,-16.97,-67.17
 462245917,Schkuhria_pinnata,-27.625,28.125
 462245916,Schkuhria_pinnata,-27.125,28.875
@@ -699,7 +695,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462245924,Schkuhria_pinnata,-30.125,26.875
 462245906,Schkuhria_pinnata,-29.875,26.375
 1228636954,Schkuhria_pinnata,-21.75,-64.73333
-1261309026,Schkuhria_pinnata,-16.533333,-68.083333
 1260793878,Schkuhria_pinnata,-7,-77
 462245923,Schkuhria_pinnata,-27.125,29.875
 462245922,Schkuhria_pinnata,-23.625,28.375
@@ -879,7 +874,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895198730,Schkuhria_pinnata,19.668333,-100.739444
 1895198816,Schkuhria_pinnata,24.101111,-104.038611
 1913939949,Schkuhria_pinnata,25.083333,-105.533333
-1259866981,Schkuhria_pinnata,14.080556,-87.188889
 1895198431,Schkuhria_pinnata,18.705278,-97.374167
 1894528721,Schkuhria_pinnata,26.708333,-105.941667
 1259869271,Schkuhria_pinnata,14.144444,-87.342778
@@ -890,18 +884,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896280248,Schkuhria_pinnata,18.711944,-97.340833
 1895198484,Schkuhria_pinnata,22.539722,-103.677222
 1895198703,Schkuhria_pinnata,19.923056,-99.367222
-1259866230,Schkuhria_pinnata,14.030833,-87.209167
 1895948353,Schkuhria_pinnata,18.169722,-97.465556
-1260062007,Schkuhria_pinnata,14.049444,-87.211111
 462245894,Schkuhria_pinnata,-30.625,26.125
 1261302207,Schkuhria_pinnata,13.28333,-86.65
 462245907,Schkuhria_pinnata,-25.125,28.375
 995894184,Schkuhria_pinnata,-32.02,149.4
-1261304228,Schkuhria_pinnata,-16.53333,-68.08333
 1451594997,Schkuhria_pinnata,-32.015099,149.401164
 1228255361,Schkuhria_pinnata,-15.5,-68
 1936902671,Schkuhria_pinnata,-32.9,151.7
-1258583292,Schkuhria_pinnata,14.093056,-87.184167
 462245888,Schkuhria_pinnata,-25.125,29.375
 462245885,Schkuhria_pinnata,-25.875,25.625
 1261288936,Schkuhria_pinnata,13.18333,-86.3
@@ -1113,7 +1103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2284494740,Schkuhria_pinnata,19.5,-98.95
 1895198824,Schkuhria_pinnata,20.690556,-102.973611
 1895201573,Schkuhria_pinnata,19.508333,-98.958333
-1258583102,Schkuhria_pinnata,14.085,-87.166944
 1895198770,Schkuhria_pinnata,20.412222,-103.680556
 1896280234,Schkuhria_pinnata,18.909722,-100.206944
 1895198528,Schkuhria_pinnata,20.6325,-103.273333
@@ -1318,7 +1307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895390338,Schkuhria_pinnata,27.733333,-107.633333
 1895463001,Schkuhria_pinnata,29.05,-102.633333
 1895198776,Schkuhria_pinnata,29.058333,-102.641667
-1259867162,Schkuhria_pinnata,14.554722,-90.576944
 1895294381,Schkuhria_pinnata,19.8897632933069,-99.1998287748809
 1895198848,Schkuhria_pinnata,20.841111,-101.549722
 1895463040,Schkuhria_pinnata,16.5902189285272,-93.893395851148
@@ -1330,7 +1318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895198694,Schkuhria_pinnata,20.928889,-103.195833
 1895201483,Schkuhria_pinnata,19.891667,-99.225
 995479899,Schkuhria_pinnata,-31.266667,150.783333
-462245872,Schkuhria_pinnata,-24.625,25.875
 1895198512,Schkuhria_pinnata,17.318056,-96.493056
 1259546112,Schkuhria_pinnata,-28.21666,-65.86666
 462245825,Schkuhria_pinnata,-27.375,30.375
@@ -1431,7 +1418,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895294300,Schkuhria_pinnata,19.3409005086742,-98.9900999128624
 1936995900,Schkuhria_pinnata,-32.27,150.62
 1651992381,Schkuhria_pinnata,-26.581884,150.917484
-462245809,Schkuhria_pinnata,-30.875,30.375
 1096649684,Schkuhria_pinnata,-0.03,-78.37
 462245856,Schkuhria_pinnata,-27.375,28.375
 1451594239,Schkuhria_pinnata,-32.265092,150.617814
@@ -1491,9 +1477,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895390448,Schkuhria_pinnata,24.027139,-104.584381
 1928776745,Schkuhria_pinnata,24.02358,-104.65517
 1895198466,Schkuhria_pinnata,24.028889,-104.593056
-1896305884,Schkuhria_pinnata,19.398611,-99.083333
 1890940461,Schkuhria_pinnata,4.654195,-74.285984
-1895294314,Schkuhria_pinnata,19.345556,-99.123889
 995468255,Schkuhria_pinnata,-30.983333,150.25
 993759970,Schkuhria_pinnata,-31.0833,150.9333
 2291879197,Schkuhria_pinnata,-22.116667,17.366667
@@ -1576,7 +1560,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451645594,Schkuhria_pinnata,-31.065089,150.901125
 1651992409,Schkuhria_pinnata,-27.581878,151.917475
 462245829,Schkuhria_pinnata,-27.625,25.375
-1895198567,Schkuhria_pinnata,19.518611,-99.126111
 1895462921,Schkuhria_pinnata,23.0875411698975,-102.794682343135
 1895462928,Schkuhria_pinnata,21.0212148334838,-101.535958134783
 1895462941,Schkuhria_pinnata,21.175881,-101.738626
@@ -1641,9 +1624,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651992400,Schkuhria_pinnata,-27.748544,151.917477
 2239106525,Schkuhria_pinnata,-32.707778,-64.737222
 1895198442,Schkuhria_pinnata,19.499722,-98.887778
-1895294347,Schkuhria_pinnata,19.420278,-99.217778
-1895390399,Schkuhria_pinnata,19.4228619796588,-99.2133994691937
-1895390383,Schkuhria_pinnata,19.4046249453707,-99.1772185517546
 1260061974,Schkuhria_pinnata,14.038611,-86.928333
 2239096321,Schkuhria_pinnata,-31.15,-64.349167
 685242398,Schkuhria_pinnata,-29.625,30.375
@@ -1660,7 +1640,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 685242386,Schkuhria_pinnata,-33.625,19.375
 813404925,Schkuhria_pinnata,-26.199721,32.151686
 685242395,Schkuhria_pinnata,-32.375,27.125
-813404926,Schkuhria_pinnata,-25.966445,32.577741
 2239093466,Schkuhria_pinnata,-25.389167,-65.617222
 1895463023,Schkuhria_pinnata,28.3241149340484,-104.78527773464
 2239096402,Schkuhria_pinnata,-31.654722,-64.426111
@@ -1671,7 +1650,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462245918,Schkuhria_pinnata,-28.875,24.625
 1451594884,Schkuhria_pinnata,-31.648425,150.717805
 1937038993,Schkuhria_pinnata,-31.65,150.72
-788710822,Schkuhria_pinnata,56.046186,12.696177
 1937217412,Schkuhria_pinnata,-32.62,151.42
 1451594190,Schkuhria_pinnata,-32.615085,151.417807
 1259868849,Schkuhria_pinnata,19.18,-99.07
@@ -1692,11 +1670,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895198748,Schkuhria_pinnata,19.341667,-99.175
 462245868,Schkuhria_pinnata,-27.375,25.875
 462245853,Schkuhria_pinnata,-27.375,27.125
-685242389,Schkuhria_pinnata,-34.125,23.125
 788710642,Schkuhria_pinnata,55.77033,13.08989
 1895198704,Schkuhria_pinnata,19.335556,-99.310278
 462245845,Schkuhria_pinnata,-25.875,28.125
-685242406,Schkuhria_pinnata,-34.125,22.875
 1260793494,Schkuhria_pinnata,-17.65,-65.4
 685242388,Schkuhria_pinnata,-25.125,28.625
 462245757,Schkuhria_pinnata,-33.125,26.875
@@ -1726,13 +1702,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895198475,Schkuhria_pinnata,19.708333,-101.108333
 1259866173,Schkuhria_pinnata,19.68,-101.185278
 1930971508,Schkuhria_pinnata,20.1,-98.71
-1895390413,Schkuhria_pinnata,19.4322757969331,-99.1306285468827
 1895463036,Schkuhria_pinnata,20.1230869690942,-98.7362076082653
 1895462902,Schkuhria_pinnata,19.7022676112207,-101.185433905445
 1895198800,Schkuhria_pinnata,19.708333,-101.172222
-1931027417,Schkuhria_pinnata,19.4375,-99.1372
 1895198825,Schkuhria_pinnata,20.1225,-98.739722
-1895198836,Schkuhria_pinnata,19.353056,-99.157222
 1895198857,Schkuhria_pinnata,24.1,-104.686111
 1259867300,Schkuhria_pinnata,19.260556,-103.530833
 462245833,Schkuhria_pinnata,-26.875,29.375
@@ -1761,7 +1734,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895462960,Schkuhria_pinnata,20.765258499584,-104.080785762585
 1259866577,Schkuhria_pinnata,20.758333,-104.079444
 2239107276,Schkuhria_pinnata,-31.420278,-64.188611
-1895198845,Schkuhria_pinnata,19.49,-99.113056
 1259870187,Schkuhria_pinnata,19.306111,-99.232222
 1895390426,Schkuhria_pinnata,19.3250152231917,-98.9996970850811
 2239106746,Schkuhria_pinnata,-31.389722,-63.700833
