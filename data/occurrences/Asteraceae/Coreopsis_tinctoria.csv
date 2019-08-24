@@ -8,7 +8,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829933037,Coreopsis_tinctoria,35.365776,139.528047
 1702026788,Coreopsis_tinctoria,59.0152,10.0045
 2234608857,Coreopsis_tinctoria,35.38215,-75.831383
-2244448291,Coreopsis_tinctoria,36.683333,137.2
 1258161941,Coreopsis_tinctoria,38.485,-90.8219
 1705468382,Coreopsis_tinctoria,56.667478,16.475502
 1457757617,Coreopsis_tinctoria,29.67305,-82.0326
@@ -82,11 +81,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242419134,Coreopsis_tinctoria,39.919468,-105.06465
 1269713196,Coreopsis_tinctoria,30.36,-91.125
 176918601,Coreopsis_tinctoria,38.1293,-98.4639
-1829693638,Coreopsis_tinctoria,34.90405,138.3
-1835652391,Coreopsis_tinctoria,34.90404,138.3
 1986958862,Coreopsis_tinctoria,37.0721505147454,-112.657204360033
 1933863394,Coreopsis_tinctoria,35.0602,135.576
-1830672825,Coreopsis_tinctoria,32.816667,132.7
 1829853951,Coreopsis_tinctoria,34.904472,138.297813
 1342359647,Coreopsis_tinctoria,55.318173,10.550914
 1837376696,Coreopsis_tinctoria,59.3118,4.8892
@@ -106,7 +102,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830684868,Coreopsis_tinctoria,32.983333,132.916667
 1260038863,Coreopsis_tinctoria,40.9675,-102.24305
 381800521,Coreopsis_tinctoria,43.11927,141.24417
-1830684687,Coreopsis_tinctoria,33.433333,134
 176918890,Coreopsis_tinctoria,39.364,-94.9401
 176918584,Coreopsis_tinctoria,37.572977,-95.162734
 1843405373,Coreopsis_tinctoria,-36.871111,174.725278
@@ -116,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242377594,Coreopsis_tinctoria,39.551518,-104.292587
 788461318,Coreopsis_tinctoria,33.205005,-97.119046
 176918897,Coreopsis_tinctoria,38.74,-97.831944
-1269678722,Coreopsis_tinctoria,30.483,-92.4
 2242377540,Coreopsis_tinctoria,39.800775,-105.167276
 788481990,Coreopsis_tinctoria,55.93199,13.50512
 788839480,Coreopsis_tinctoria,56.06644,14.6308
@@ -126,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441728677,Coreopsis_tinctoria,47.601667,-122.315
 153274597,Coreopsis_tinctoria,25.518383,-80.36795
 1503272765,Coreopsis_tinctoria,25.5183,-80.3681
-1843377312,Coreopsis_tinctoria,-36.9,174.75
 1897707339,Coreopsis_tinctoria,-36.883333,174.716667
 56549518,Coreopsis_tinctoria,31.45917,-86.79861
 1913944607,Coreopsis_tinctoria,31.459167,-86.798611
@@ -135,7 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697688290,Coreopsis_tinctoria,55.528072,40.108938
 1927955586,Coreopsis_tinctoria,37.3955,-113.5222
 441728696,Coreopsis_tinctoria,48.915,-119.633333
-1988119318,Coreopsis_tinctoria,49.2,-122.98
 1849188821,Coreopsis_tinctoria,33.9651,-80.9435
 1933851711,Coreopsis_tinctoria,35.6501,139.4412
 1949634313,Coreopsis_tinctoria,49.024444,-117.532778
@@ -196,7 +188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701628419,Coreopsis_tinctoria,59.0539,10.0199
 1274896462,Coreopsis_tinctoria,49.516667,-110.366667
 1893941567,Coreopsis_tinctoria,22.343889,-97.875
-1261282558,Coreopsis_tinctoria,36.533333,-90.4
 176918867,Coreopsis_tinctoria,37.255804,-95.182796
 1260978872,Coreopsis_tinctoria,36.94722,-91.12166
 240489889,Coreopsis_tinctoria,45.83986,-119.69019
@@ -210,7 +201,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260949045,Coreopsis_tinctoria,36.59666,-90.3475
 176918862,Coreopsis_tinctoria,37.57035,-95.22508
 1829646669,Coreopsis_tinctoria,36.266667,139.576667
-1978012901,Coreopsis_tinctoria,36,-85
 176918861,Coreopsis_tinctoria,37.790602,-98.738155
 176919066,Coreopsis_tinctoria,38.917228,-95.006695
 176918863,Coreopsis_tinctoria,38.505431,-98.733424
@@ -236,7 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846475753,Coreopsis_tinctoria,34.8985,-112.2088
 2270700646,Coreopsis_tinctoria,34.8926,-112.205
 1928912164,Coreopsis_tinctoria,34.8997,-111.6747
-1261288854,Coreopsis_tinctoria,29,-100.96666
 1896139944,Coreopsis_tinctoria,27.875,-101.525
 1261304333,Coreopsis_tinctoria,34.58333,-98.46666
 245529382,Coreopsis_tinctoria,35.515756,139.553043
@@ -246,7 +235,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895347639,Coreopsis_tinctoria,28.833333,-101.75
 1928975658,Coreopsis_tinctoria,28.00978,-101.689964
 1895347759,Coreopsis_tinctoria,27.92205,-101.621992
-1930271009,Coreopsis_tinctoria,28.02,-101.6
 240489892,Coreopsis_tinctoria,35.299656,-94.160835
 1260977067,Coreopsis_tinctoria,36.60472,-94.34361
 729326800,Coreopsis_tinctoria,34.849998,134.717
@@ -336,7 +324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928592910,Coreopsis_tinctoria,34.513359,-102.601298
 176918730,Coreopsis_tinctoria,37.20139,-99.41119
 1846497812,Coreopsis_tinctoria,31.285833,-94.893056
-1829603902,Coreopsis_tinctoria,36.3,139.2
 176919036,Coreopsis_tinctoria,37.60974,-99.17156
 176918727,Coreopsis_tinctoria,39.05022,-97.99322
 240489870,Coreopsis_tinctoria,33.9816,-101.75888
@@ -555,7 +542,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176918995,Coreopsis_tinctoria,37.91081,-99.53392
 43204289,Coreopsis_tinctoria,33.7475,133.6041
 176919051,Coreopsis_tinctoria,37.10956,-95.10997
-1988178815,Coreopsis_tinctoria,47,-120
 176918690,Coreopsis_tinctoria,39.75612,-99.35227
 1701567604,Coreopsis_tinctoria,63.3963,10.3911
 1323733171,Coreopsis_tinctoria,63.40577,10.35582
@@ -644,14 +630,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846497808,Coreopsis_tinctoria,34.90837,-111.46317
 1322255477,Coreopsis_tinctoria,38.9694,-77.1767
 1929808029,Coreopsis_tinctoria,40.862722,-73.992056
-1843813632,Coreopsis_tinctoria,36,-109
 1274896544,Coreopsis_tinctoria,48.999859,-110.21713
 441728538,Coreopsis_tinctoria,48.573336,-118.087048
 730570883,Coreopsis_tinctoria,-23.12028,-134.96917
 1274896439,Coreopsis_tinctoria,49.695434,-112.836984
 1931204492,Coreopsis_tinctoria,40.642048,-74.441201
 1701259714,Coreopsis_tinctoria,59.9494,10.7007
-36162088,Coreopsis_tinctoria,28.2,-177.383
 1303701140,Coreopsis_tinctoria,37.525146,121.361954
 415905283,Coreopsis_tinctoria,41.37833,-72.10277
 1303701144,Coreopsis_tinctoria,25.959029,117.359304
@@ -687,7 +671,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51808235,Coreopsis_tinctoria,45.5649,-122.4093
 51808850,Coreopsis_tinctoria,45.6338,-120.9111
 2270700658,Coreopsis_tinctoria,32.2217,-110.926
-2309882127,Coreopsis_tinctoria,43.1,-79.09
 415905278,Coreopsis_tinctoria,41.18638,-73.19611
 1038937944,Coreopsis_tinctoria,41.5583,-73.036
 1260957597,Coreopsis_tinctoria,37.08416,-94.51305
