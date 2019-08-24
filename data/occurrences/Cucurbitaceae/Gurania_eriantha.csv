@@ -5,10 +5,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988239487,Gurania_eriantha,-13.05773,-71.548458
 1932881819,Gurania_eriantha,-3.78,-70.64
 1324649810,Gurania_eriantha,-0.02,-74.95
-1324592429,Gurania_eriantha,-14.770278,-39.547778
 1324649676,Gurania_eriantha,1.44,-75.87
 1258125963,Gurania_eriantha,-11.97,-73.677778
-1090519982,Gurania_eriantha,-14.770278,-39.536111
 1257803388,Gurania_eriantha,-11.231667,-74.9025
 1077302737,Gurania_eriantha,-11.581667,-55.287667
 1891235779,Gurania_eriantha,1.65611,-75.90667
@@ -18,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257693982,Gurania_eriantha,-10.326944,-75.523333
 1424363860,Gurania_eriantha,-9.750833,-67.670833
 1042688466,Gurania_eriantha,-6.6891,-64.61
-1424271146,Gurania_eriantha,-18.77,-40.4475
 1257702287,Gurania_eriantha,-10.298889,-75.5075
 1257796756,Gurania_eriantha,-14.744278,-68.943028
 1087649774,Gurania_eriantha,-6.188194,-51.59105
@@ -33,14 +30,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260905034,Gurania_eriantha,-13.00777,-72.64666
 1260910968,Gurania_eriantha,-13.014722,-72.7525
 1042674772,Gurania_eriantha,-2.478556,-56
-1087691597,Gurania_eriantha,-11.311,-37.3041
 768770845,Gurania_eriantha,1.2,-76.71
 1257654269,Gurania_eriantha,-12.783611,-72.3075
 1257656288,Gurania_eriantha,-13.215278,-70.767778
 1802580552,Gurania_eriantha,-17,-65.43
-1090500427,Gurania_eriantha,-15.173611,-39.341667
-1928805922,Gurania_eriantha,-14.7703,-39.2028
-1089177039,Gurania_eriantha,-14.770278,-39.202778
 1258016007,Gurania_eriantha,-4.250278,-78.659167
 768767077,Gurania_eriantha,-2.37,-70.22
 768767288,Gurania_eriantha,-2.91,-69.74
@@ -63,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 80079902,Gurania_eriantha,-12.57,-70.1
 1259688817,Gurania_eriantha,-0.6625,-76.66666
 1259503744,Gurania_eriantha,-2.775,-78.116667
-1087531627,Gurania_eriantha,-13.407222,-40.396111
 80078766,Gurania_eriantha,-12.62,-69.95
 2288835165,Gurania_eriantha,-15.783333,-62.916667
 1259200432,Gurania_eriantha,-15.78333,-62.91666
@@ -82,7 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268842612,Gurania_eriantha,-2.533333,-77.9
 2290578021,Gurania_eriantha,-6.45,-76.333333
 1317621303,Gurania_eriantha,-3.22,-78.25
-1424151483,Gurania_eriantha,-15.804444,-48.875833
 1707562104,Gurania_eriantha,1.6,-76.1
 1322092257,Gurania_eriantha,-4.30175,-78.6839
 1258783999,Gurania_eriantha,-5.01194,-78.9025
@@ -182,15 +173,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261258653,Gurania_eriantha,-12.81666,-72.78333
 1261258988,Gurania_eriantha,-13.083333,-71.166667
 1261259028,Gurania_eriantha,-1.45,-78.1
-1930985651,Gurania_eriantha,-3.49530408217513,-45.2510857721038
 1697944657,Gurania_eriantha,-1.06667,-77.6
 1931180581,Gurania_eriantha,-2.33,-77.68
 1261261690,Gurania_eriantha,-12.81666,-69.3
 1261260988,Gurania_eriantha,-11.25,-75.3
 1261261333,Gurania_eriantha,-16.2,-67.85
 1261259603,Gurania_eriantha,-3.3,-72.91666
-1930505735,Gurania_eriantha,-3.83,-46.07
-1928211765,Gurania_eriantha,-5.2,-46.2
 1258568285,Gurania_eriantha,4.52333,-76.64611
 47776849,Gurania_eriantha,-0.516,-76.383
 1261259785,Gurania_eriantha,-0.51666,-76.38333
@@ -216,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261555537,Gurania_eriantha,-3.91666,-77.7
 47777096,Gurania_eriantha,-0.283,-76.433
 1261259721,Gurania_eriantha,-0.28333,-76.43333
-1931275105,Gurania_eriantha,-3.866667,-49.733333
 47776815,Gurania_eriantha,-2.416,-77.333
 1261259760,Gurania_eriantha,-2.41666,-77.33333
 47776805,Gurania_eriantha,-1.6,-75.666
@@ -296,4 +283,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228586624,Gurania_eriantha,-16.7261,-64.435
 1259425576,Gurania_eriantha,-14.15,-67.91666
 1929171313,Gurania_eriantha,-14.146836,-67.887075
-1057023754,Gurania_eriantha,-16.714611,-64.670931
