@@ -29,7 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1699346924,Bulbostylis_capillaris,32.289067,-106.5506
 240491317,Bulbostylis_capillaris,33.0299899991373,-108.16191
 1123819694,Bulbostylis_capillaris,-19.555611,-39.837056
-1086964849,Bulbostylis_capillaris,-0.838611,-46.626194
 233097250,Bulbostylis_capillaris,38.1176,-97.8574
 996143035,Bulbostylis_capillaris,-33.0081,-54.4367
 996143094,Bulbostylis_capillaris,-32.2858,-54.8291
@@ -120,7 +119,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038981199,Bulbostylis_capillaris,41.8353,-72.5733
 415976710,Bulbostylis_capillaris,41.82361,-72.62111
 1989256416,Bulbostylis_capillaris,32.582778,-84.792222
-2290537600,Bulbostylis_capillaris,-8.233333,35
 1989470429,Bulbostylis_capillaris,45.983333,-78.266667
 415976705,Bulbostylis_capillaris,41.14333,-73.23361
 1895474994,Bulbostylis_capillaris,29.708333,-107.591667
@@ -155,7 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895947106,Bulbostylis_capillaris,19.063889,-98.473611
 1123789122,Bulbostylis_capillaris,-20.319722,-40.3375
 1090436981,Bulbostylis_capillaris,-12.716667,-40.116667
-994605299,Bulbostylis_capillaris,-23.18189,150.93413
 1989398978,Bulbostylis_capillaris,42.236488,-86.369143
 1895475010,Bulbostylis_capillaris,17.284439,-97.198061
 1989362857,Bulbostylis_capillaris,41.950249,-86.561343
@@ -195,7 +192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090430929,Bulbostylis_capillaris,-11.633333,-41.033333
 1989330259,Bulbostylis_capillaris,37.583333,-86.05
 1611935435,Bulbostylis_capillaris,30.608333,-104.133333
-2252131215,Bulbostylis_capillaris,-33.109722,-64.298889
 1419196077,Bulbostylis_capillaris,20.018056,-100.707222
 1039017196,Bulbostylis_capillaris,41.4697,-71.8753
 1893317856,Bulbostylis_capillaris,20.075,-98.375
@@ -227,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895802026,Bulbostylis_capillaris,23.291667,-99.891667
 1930951805,Bulbostylis_capillaris,-29.928505,-50.320229
 415976783,Bulbostylis_capillaris,39.46666,-76.64972
-891636018,Bulbostylis_capillaris,23.506944,120.815833
 1896340554,Bulbostylis_capillaris,17.808333,-94.158333
 1988956244,Bulbostylis_capillaris,42.528397,-86.023785
 1988811685,Bulbostylis_capillaris,43.360079,-86.167499
@@ -241,7 +236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415976766,Bulbostylis_capillaris,43.40972,-70.98833
 176897654,Bulbostylis_capillaris,37.05414,-94.63967
 176898042,Bulbostylis_capillaris,37.60197,-95.31662
-891664216,Bulbostylis_capillaris,24.161667,121.285278
 176897659,Bulbostylis_capillaris,38.05289,-97.61453
 1895967590,Bulbostylis_capillaris,18.910833,-98.108611
 1895947115,Bulbostylis_capillaris,19.057222,-98.322222
@@ -254,7 +248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988686399,Bulbostylis_capillaris,17.177,-96.6202
 415976719,Bulbostylis_capillaris,41.80222,-72.66611
 727729114,Bulbostylis_capillaris,38.498008,-96.32941
-1937272637,Bulbostylis_capillaris,-16.9833,145.55
 1989465359,Bulbostylis_capillaris,42.17833,-84.09389
 1895474990,Bulbostylis_capillaris,23.023244,-98.044436
 1038948065,Bulbostylis_capillaris,41.305111,-72.920823
@@ -287,34 +280,25 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989355936,Bulbostylis_capillaris,42.175235,-85.549164
 415976779,Bulbostylis_capillaris,42.56111,-71.58972
 1989334848,Bulbostylis_capillaris,42.214515,-85.716777
-415976726,Bulbostylis_capillaris,41.30805,-72.92805
 415976785,Bulbostylis_capillaris,46.75,-77
-891670800,Bulbostylis_capillaris,25.011944,121.535278
 415976753,Bulbostylis_capillaris,41.41166,-72.41611
-891700769,Bulbostylis_capillaris,24.498056,121.105278
-891628252,Bulbostylis_capillaris,24.443333,121.498333
 1038984351,Bulbostylis_capillaris,41.406,-72.4831
 415976778,Bulbostylis_capillaris,41.96666,-71.43277
 699269631,Bulbostylis_capillaris,42.95055,-71.87222
 415976758,Bulbostylis_capillaris,41.79666,-72.20194
 415976727,Bulbostylis_capillaris,41.33888,-72.96777
 415976755,Bulbostylis_capillaris,41.79416,-72.20972
-891700787,Bulbostylis_capillaris,24.471389,121.485
 415976724,Bulbostylis_capillaris,41.4825,-73.40944
-891700774,Bulbostylis_capillaris,24.489722,121.528056
-891700800,Bulbostylis_capillaris,24.045833,121.234444
 415976725,Bulbostylis_capillaris,41.39472,-73.45388
 1038944143,Bulbostylis_capillaris,41.4014,-73.4705
 1989547161,Bulbostylis_capillaris,42.60639,-83.43153
 415946389,Bulbostylis_capillaris,41.40222,-73.47166
 1988776206,Bulbostylis_capillaris,42.61763,-82.54275
 1988696791,Bulbostylis_capillaris,42.625906,-83.033234
-994749572,Bulbostylis_capillaris,16.4167,120.6167
 1038923747,Bulbostylis_capillaris,41.2281,-73.059
 1038959854,Bulbostylis_capillaris,41.9093,-71.8712
 1038931640,Bulbostylis_capillaris,41.6522,-73.3144
 1988959041,Bulbostylis_capillaris,42.24115,-83.612994
-891700751,Bulbostylis_capillaris,24.735278,121.425833
 415976746,Bulbostylis_capillaris,41.65722,-72.66055
 1989491934,Bulbostylis_capillaris,42.47652,-83.14909
 415976756,Bulbostylis_capillaris,41.79055,-72.44277
@@ -323,7 +307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038954225,Bulbostylis_capillaris,41.305,-73.3914
 994749830,Bulbostylis_capillaris,19.6667,-101.1833
 1039012200,Bulbostylis_capillaris,41.3988,-73.2928
-415976775,Bulbostylis_capillaris,42.61333,-70.71111
 415976745,Bulbostylis_capillaris,41.61972,-72.14305
 415976743,Bulbostylis_capillaris,41.78222,-72.61194
 1038931801,Bulbostylis_capillaris,41.766,-72.6834
@@ -334,7 +317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038969195,Bulbostylis_capillaris,41.6049,-72.88
 415976751,Bulbostylis_capillaris,41.59638,-72.94777
 415976730,Bulbostylis_capillaris,41.985,-73.42277
-415976729,Bulbostylis_capillaris,41.21055,-72.38305
 1038984916,Bulbostylis_capillaris,41.6153,-72.1433
 1039011126,Bulbostylis_capillaris,41.7635,-72.6153
 415976747,Bulbostylis_capillaris,41.56222,-72.65055
