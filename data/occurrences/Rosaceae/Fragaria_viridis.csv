@@ -47,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839011848,Fragaria_viridis,40.709999,21.996941
 1839011890,Fragaria_viridis,40.53389,22.076111
 1839011745,Fragaria_viridis,40.492779,22.12833
-1839012014,Fragaria_viridis,40.6325,21.4
 1839011927,Fragaria_viridis,40.84306,21.966391
 1839011906,Fragaria_viridis,40.832218,22.077221
 1881670071,Fragaria_viridis,48.89,10.82
@@ -130,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 214534984,Fragaria_viridis,52.405556,14.532778
 1839011712,Fragaria_viridis,39.930561,22.35667
 1697537078,Fragaria_viridis,55.627778,40.652778
-1230748766,Fragaria_viridis,51.1,20.33333
 788670875,Fragaria_viridis,55.62998,13.18459
 1342490150,Fragaria_viridis,55.461198,11.189224
 1697732528,Fragaria_viridis,44.466667,33.766667
@@ -147,10 +145,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212102207,Fragaria_viridis,39.059444,21.904167
 1703326754,Fragaria_viridis,59.4176,10.5925
 1342490215,Fragaria_viridis,55.921637,12.04612
-1935689400,Fragaria_viridis,47.21667,18.2
 1701867601,Fragaria_viridis,59.6691,11.245
 1697537377,Fragaria_viridis,49.083333,44.15
-1697537215,Fragaria_viridis,53.5,39
 1697537320,Fragaria_viridis,52.4921,59.74388
 1697796461,Fragaria_viridis,43.637473,41.877694
 1899272420,Fragaria_viridis,52.20654,59.61304
@@ -163,7 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947115680,Fragaria_viridis,48.36,13.32
 1697796503,Fragaria_viridis,43.763687,41.905074
 1935689385,Fragaria_viridis,46.84,15.94889
-1697537222,Fragaria_viridis,51.166667,40.3
 1935689389,Fragaria_viridis,46.83889,15.94806
 1230739775,Fragaria_viridis,38.95056,46.18889
 1936202203,Fragaria_viridis,38.9506,46.1889
@@ -174,7 +169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230739595,Fragaria_viridis,40.80222,45.06972
 1230739778,Fragaria_viridis,39.34,46.43667
 1697732441,Fragaria_viridis,45.041265,35.037804
-883372881,Fragaria_viridis,50.016667,19.8
 1230739636,Fragaria_viridis,41.045,44.6275
 1705349665,Fragaria_viridis,57.280409,16.463439
 1230739678,Fragaria_viridis,41.13861,44.99611
@@ -229,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702203181,Fragaria_viridis,60.7419,10.9691
 1701843199,Fragaria_viridis,60.7941,10.9024
 1697537080,Fragaria_viridis,56.073425,40.107908
-777074,Fragaria_viridis,40.983333,23.2
 1838939160,Fragaria_viridis,56.14029,13.39135
 1702191591,Fragaria_viridis,60.7902,10.9187
 1697537109,Fragaria_viridis,55.366667,31.95
@@ -258,7 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702090469,Fragaria_viridis,59.4998,10.3689
 1342490180,Fragaria_viridis,55.696154,11.982186
 788811134,Fragaria_viridis,40.416667,21.566667
-1881670210,Fragaria_viridis,48.83,10.8
 1342490138,Fragaria_viridis,55.725381,10.981037
 1342490201,Fragaria_viridis,55.687567,12.031979
 1342490205,Fragaria_viridis,55.678593,12.032659
@@ -283,7 +275,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050625932,Fragaria_viridis,41.42,-3.76
 30932853,Fragaria_viridis,41.419998,-3.77
 111306795,Fragaria_viridis,41.428001,-3.76
-1881671054,Fragaria_viridis,48.77,10.7
 1881671025,Fragaria_viridis,48.79,10.74
 1936607441,Fragaria_viridis,41.4211,-3.7672
 1701785757,Fragaria_viridis,59.7737,9.9535
@@ -304,7 +295,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701979281,Fragaria_viridis,60.1078,10.2708
 1701588750,Fragaria_viridis,59.2264,10.7004
 1701932901,Fragaria_viridis,60.8378,10.9776
-1881671305,Fragaria_viridis,48.73,10.7
 1701710924,Fragaria_viridis,59.5146,10.5285
 1342490149,Fragaria_viridis,55.805743,11.910757
 788811194,Fragaria_viridis,40.983333,23.266667
@@ -315,8 +305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1881669810,Fragaria_viridis,48.81,10.61
 1600465273,Fragaria_viridis,60.265242,25.280666
 1702009792,Fragaria_viridis,59.503,10.6703
-1500200465,Fragaria_viridis,49.083333,14.5
-1500200503,Fragaria_viridis,50.1,14
 1697537224,Fragaria_viridis,52.366576,39.075054
 1342490161,Fragaria_viridis,55.868064,11.531753
 1947116533,Fragaria_viridis,50.13,9.91
@@ -434,8 +422,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838938581,Fragaria_viridis,57.34209,12.10015
 1622369489,Fragaria_viridis,63.132517,21.540172
 1697537164,Fragaria_viridis,56.442138,36.8788
-788825325,Fragaria_viridis,40.2,22.3
-788825385,Fragaria_viridis,40.1,22.25
 1701332333,Fragaria_viridis,59.4354,10.5796
 2313364774,Fragaria_viridis,48.27,11.62
 1697732433,Fragaria_viridis,44.867671,34.936867
@@ -453,7 +439,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697537346,Fragaria_viridis,55.943946,58.910145
 1697537342,Fragaria_viridis,55.551235,58.341864
 1697537173,Fragaria_viridis,54.851734,37.881776
-1891597412,Fragaria_viridis,49.8,6.52
 1838938671,Fragaria_viridis,58.7516,11.18367
 1697732429,Fragaria_viridis,44.62713,34.27906
 1838939492,Fragaria_viridis,58.91683,17.57962
@@ -468,7 +453,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705445429,Fragaria_viridis,58.411121,15.616814
 1891594656,Fragaria_viridis,49.72,6.41
 1891596916,Fragaria_viridis,49.63,6.41
-1891603899,Fragaria_viridis,49.7,6.4
 1840910261,Fragaria_viridis,58.21768,13.42905
 1702311610,Fragaria_viridis,60.4176,10.4908
 1697537339,Fragaria_viridis,49.727024,45.230145
@@ -535,7 +519,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1840910116,Fragaria_viridis,58.46683,15.67128
 776790,Fragaria_viridis,56.907088,14.740436
 1697796531,Fragaria_viridis,42.754071,47.196665
-2290659028,Fragaria_viridis,43.983333,3.5
 1840910107,Fragaria_viridis,57.82326,11.71833
 1697732437,Fragaria_viridis,44.687634,33.702707
 1838939629,Fragaria_viridis,56.04311,14.08943
@@ -604,7 +587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186810502,Fragaria_viridis,59.4983,10.3776
 1702304088,Fragaria_viridis,59.3017,10.6673
 1697537108,Fragaria_viridis,55.272868,41.877277
-1701881721,Fragaria_viridis,59.3,10.6664
 1697537088,Fragaria_viridis,55.383066,41.784227
 1838939248,Fragaria_viridis,59.258522,17.224161
 1701884812,Fragaria_viridis,59.8353,10.4808
