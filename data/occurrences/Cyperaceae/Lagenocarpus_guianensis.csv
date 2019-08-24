@@ -7,7 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2237781042,Lagenocarpus_guianensis,-4.006944,-47.674861
 1042716475,Lagenocarpus_guianensis,-0.134694,-63.29
 1416802695,Lagenocarpus_guianensis,3.64,-68.1
-1928292395,Lagenocarpus_guianensis,21.6931,-82.995
 1087683070,Lagenocarpus_guianensis,-10.4529,-37.1854
 1257553627,Lagenocarpus_guianensis,12.315278,-83.680833
 768777297,Lagenocarpus_guianensis,1.29,-70.19
@@ -37,14 +36,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090477962,Lagenocarpus_guianensis,-14.202778,-39.034167
 1090484861,Lagenocarpus_guianensis,-12.226111,-37.836944
 1077591423,Lagenocarpus_guianensis,-9.697808,-35.893411
-1094777938,Lagenocarpus_guianensis,-17.620833,-39.224722
 768750274,Lagenocarpus_guianensis,8.3,-72.43
 1089162648,Lagenocarpus_guianensis,-7.115,-34.863056
 1147295013,Lagenocarpus_guianensis,3.53,-67.84
 1086975807,Lagenocarpus_guianensis,-13.533333,-41.95
 1094173436,Lagenocarpus_guianensis,-12.056667,-37.690833
 1077198838,Lagenocarpus_guianensis,-12.683333,-38.15
-1261905894,Lagenocarpus_guianensis,15.9,-89
 1928511253,Lagenocarpus_guianensis,-14.67,-39.1
 1260829786,Lagenocarpus_guianensis,-14.66666,-39.1
 1456440649,Lagenocarpus_guianensis,6.46667,-58.5333
@@ -92,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912173639,Lagenocarpus_guianensis,-14.13,-38.98
 1259973665,Lagenocarpus_guianensis,1.983333,-66.966667
 1930179333,Lagenocarpus_guianensis,0.881103,-52.01741
-1929189318,Lagenocarpus_guianensis,-0.77,-48.52
 1258304406,Lagenocarpus_guianensis,14.091667,-83.333333
 1258713983,Lagenocarpus_guianensis,14.04166,-83.4
 1929118345,Lagenocarpus_guianensis,-14.9,-39.02
@@ -117,9 +113,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456463504,Lagenocarpus_guianensis,3.25,-67.33
 1456306103,Lagenocarpus_guianensis,2.92,-67.43
 1456367376,Lagenocarpus_guianensis,2.73,-67.56
-1259318345,Lagenocarpus_guianensis,16.56611,-88.40416
 1213620183,Lagenocarpus_guianensis,-1.46,-48.5
-1258474696,Lagenocarpus_guianensis,16.7975,-88.31444
 1456172644,Lagenocarpus_guianensis,8.16,-59.98
 1456473851,Lagenocarpus_guianensis,8.3,-59.7
 1456153249,Lagenocarpus_guianensis,6.58,-58.13
