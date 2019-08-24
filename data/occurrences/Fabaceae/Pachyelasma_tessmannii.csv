@@ -14,7 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462127481,Pachyelasma_tessmannii,-0.875,13.125
 1258316848,Pachyelasma_tessmannii,-0.76666,13.05
 2288426551,Pachyelasma_tessmannii,2.733333,9.878333
-1261546503,Pachyelasma_tessmannii,1.41666,28.58333
 1261856744,Pachyelasma_tessmannii,2.78333,16.41666
 1261505482,Pachyelasma_tessmannii,2.83333,16.45
 1261924969,Pachyelasma_tessmannii,5.25,9.15
@@ -26,4 +25,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1944992668,Pachyelasma_tessmannii,5.98556,6.179215
 2013866319,Pachyelasma_tessmannii,-0.166667,10.75
 2288975426,Pachyelasma_tessmannii,3.9,17.933333
-1839840865,Pachyelasma_tessmannii,0.766667,24.45
