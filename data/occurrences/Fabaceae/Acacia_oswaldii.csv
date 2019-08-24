@@ -38,7 +38,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992085192,Acacia_oswaldii,-32.316389,135.269444
 1454382789,Acacia_oswaldii,-32.37365,135.2895
 1454382793,Acacia_oswaldii,-32.31662,135.26937
-992077702,Acacia_oswaldii,-32.868193,134.110839
 993718623,Acacia_oswaldii,-33.3222,141.2236
 1450989489,Acacia_oswaldii,-20.1206,146.1561
 1257381041,Acacia_oswaldii,-24.691944,133.593611
@@ -176,8 +175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992052603,Acacia_oswaldii,-32.351944,134.116667
 992052778,Acacia_oswaldii,-31.821389,133.102222
 1652250749,Acacia_oswaldii,-23.075,146.925
-1085411051,Acacia_oswaldii,-31.86692,132.03455
-992052742,Acacia_oswaldii,-31.866667,132.034444
 1652276535,Acacia_oswaldii,-27.996072,146.568107
 1085409196,Acacia_oswaldii,-31.82145,133.10211
 992052835,Acacia_oswaldii,-31.971111,133.531944
@@ -246,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085369740,Acacia_oswaldii,-32.5193,135.03862
 1085365099,Acacia_oswaldii,-32.66565,135.63022
 995211506,Acacia_oswaldii,-35.8333,143.1667
-993573957,Acacia_oswaldii,-35.2667,149.1
 1652308422,Acacia_oswaldii,-28.81976,146.807618
 992005796,Acacia_oswaldii,-30.5915,138.9486
 1074669827,Acacia_oswaldii,-29.563429,150.190293
@@ -347,11 +343,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992009045,Acacia_oswaldii,-30.3775,139.3528
 992009640,Acacia_oswaldii,-30.340278,138.823889
 1085325009,Acacia_oswaldii,-30.33878,138.82506
-991999198,Acacia_oswaldii,-33.624722,137.201111
 1085324872,Acacia_oswaldii,-29.90822,139.46008
 992013274,Acacia_oswaldii,-30.186111,139.243056
 991999060,Acacia_oswaldii,-33.3569,137.3725
-1085320345,Acacia_oswaldii,-33.6233,137.20246
 1084170048,Acacia_oswaldii,-30.18467,139.24439
 1652230718,Acacia_oswaldii,-21.704963,147.783057
 996632313,Acacia_oswaldii,-29.987312,121.046712
@@ -509,8 +503,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085174111,Acacia_oswaldii,-34.43192,137.50603
 1085170929,Acacia_oswaldii,-35.06936,137.52907
 992590870,Acacia_oswaldii,-34.575278,137.546944
-992591566,Acacia_oswaldii,-33.794722,137.711667
-1085177481,Acacia_oswaldii,-33.79333,137.71301
 992593120,Acacia_oswaldii,-34.102222,137.654444
 994764710,Acacia_oswaldii,-25.3333,138.6667
 1085178005,Acacia_oswaldii,-33.45883,137.97447
@@ -694,7 +686,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451549047,Acacia_oswaldii,-28.881763,150.234454
 992505398,Acacia_oswaldii,-33.3,138.166667
 993348585,Acacia_oswaldii,-30.3333,144.5167
-992506482,Acacia_oswaldii,-32.303611,133.568333
 994272417,Acacia_oswaldii,-23.748565,133.701266
 996259176,Acacia_oswaldii,-29.399722,121.266389
 995318966,Acacia_oswaldii,-29.3997,121.2664
@@ -747,7 +738,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451484331,Acacia_oswaldii,-32.581773,148.001192
 1937334843,Acacia_oswaldii,-26.45,147.55
 992466007,Acacia_oswaldii,-29.566667,139.433333
-1652076798,Acacia_oswaldii,-19.498583,147.50083
 996931626,Acacia_oswaldii,-31.33,128.55
 994712863,Acacia_oswaldii,-29.0667,141.8333
 994428829,Acacia_oswaldii,-27.66527,140.91762
@@ -829,7 +819,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992415165,Acacia_oswaldii,-29.716667,136.716667
 992489802,Acacia_oswaldii,-31.960463,127.277264
 994610128,Acacia_oswaldii,-29.71531,136.71768
-996743219,Acacia_oswaldii,-31.983333,128.283333
 996743604,Acacia_oswaldii,-30.1578,127.8645
 996645233,Acacia_oswaldii,-29.516667,125.016667
 994903131,Acacia_oswaldii,-29.5339,127.0672
@@ -849,7 +838,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996743159,Acacia_oswaldii,-31.416389,131.597222
 1652039754,Acacia_oswaldii,-28.190252,144.259249
 1451484736,Acacia_oswaldii,-29.531769,149.001147
-992428458,Acacia_oswaldii,-31.569444,130.386111
 995638260,Acacia_oswaldii,-29.53,149
 995780326,Acacia_oswaldii,-30.7,148.87
 992427646,Acacia_oswaldii,-32.4,138.4
@@ -932,7 +920,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451542005,Acacia_oswaldii,-28.981756,151.21777
 992416057,Acacia_oswaldii,-32.5,140.233333
 1652045448,Acacia_oswaldii,-24.415246,145.417544
-993309619,Acacia_oswaldii,-32.45,133.6667
 992408657,Acacia_oswaldii,-33.533333,139.033333
 992390437,Acacia_oswaldii,-29.75,137.266667
 992390441,Acacia_oswaldii,-30.283333,136.866667
@@ -958,7 +945,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994865546,Acacia_oswaldii,-33.15,137.25
 995644128,Acacia_oswaldii,-28.12,150.28
 994700142,Acacia_oswaldii,-32.1167,133.6167
-996820825,Acacia_oswaldii,-32.083333,130.166667
 996819315,Acacia_oswaldii,-32.064722,126.113056
 996819161,Acacia_oswaldii,-31.816389,128.398611
 996819573,Acacia_oswaldii,-31.926,127.045
@@ -1030,13 +1016,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992466079,Acacia_oswaldii,-29.9,130.1
 992465577,Acacia_oswaldii,-29.566667,130.133333
 992450460,Acacia_oswaldii,-29.55,130.15
-1085164456,Acacia_oswaldii,-34.66152,136.34378
-992377680,Acacia_oswaldii,-34.6,136.316667
 996819636,Acacia_oswaldii,-34.916667,141.716667
 992372539,Acacia_oswaldii,-31.416667,135.366667
 995780450,Acacia_oswaldii,-32.4,135.2
 996820687,Acacia_oswaldii,-32.866667,135.166667
-992372283,Acacia_oswaldii,-34.666667,136.333333
 993397796,Acacia_oswaldii,-32.9167,135.1667
 995780437,Acacia_oswaldii,-32.92,135.2
 992377471,Acacia_oswaldii,-33.825,140.941667
@@ -1044,7 +1027,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992377185,Acacia_oswaldii,-33.475,140.791667
 994266026,Acacia_oswaldii,-33.448523,140.817969
 992376820,Acacia_oswaldii,-33.45,140.816667
-1085494119,Acacia_oswaldii,-34.59228,136.32631
 992377462,Acacia_oswaldii,-33,140.708333
 1258928055,Acacia_oswaldii,-33.46805,140.78472
 992377429,Acacia_oswaldii,-33.133333,135.55
@@ -1202,7 +1184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995663981,Acacia_oswaldii,-31.88,141.23
 1451494757,Acacia_oswaldii,-31.88183,141.234619
 992273561,Acacia_oswaldii,-32.833333,138.066667
-992412258,Acacia_oswaldii,-35.133333,137.567778
 992343783,Acacia_oswaldii,-31.183333,138.283333
 993822083,Acacia_oswaldii,-32.6333,137.9167
 992283961,Acacia_oswaldii,-27.183333,140.166389
@@ -1237,7 +1218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995780855,Acacia_oswaldii,-21,140.25
 1451541749,Acacia_oswaldii,-30.215142,143.351238
 995780208,Acacia_oswaldii,-30.22,143.35
-992267297,Acacia_oswaldii,-34.583333,136.316667
 994741336,Acacia_oswaldii,-31.4333,131.8
 992267687,Acacia_oswaldii,-34.683333,137.883333
 992268199,Acacia_oswaldii,-34.774,137.868
@@ -1293,7 +1273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992535690,Acacia_oswaldii,-34.916667,139.183333
 992231063,Acacia_oswaldii,-31.233333,138.183333
 992240438,Acacia_oswaldii,-30,129.5
-992240325,Acacia_oswaldii,-31.707384,130.097801
 995780695,Acacia_oswaldii,-24.25,135.25
 992233970,Acacia_oswaldii,-28.716667,138.633333
 996821438,Acacia_oswaldii,-24.7,129.5
@@ -1328,13 +1307,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995780394,Acacia_oswaldii,-32.97,141.32
 996821446,Acacia_oswaldii,-23.766667,133.866667
 994298536,Acacia_oswaldii,-23.74857,133.88459
-995169646,Acacia_oswaldii,-32.5167,133.3
-992223558,Acacia_oswaldii,-32.516667,133.3
-993283267,Acacia_oswaldii,-32.5,133.3
 992501313,Acacia_oswaldii,-34.416667,137.916667
-992223577,Acacia_oswaldii,-32.516667,133.283333
 992358889,Acacia_oswaldii,-32.383333,133.911944
-995780399,Acacia_oswaldii,-32.5,133.27
 992319109,Acacia_oswaldii,-33.833333,138.6
 994234023,Acacia_oswaldii,-23.281888,134.951245
 995780334,Acacia_oswaldii,-30.87,145.25
@@ -1392,7 +1366,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994233781,Acacia_oswaldii,-25.11528,129.084645
 995780191,Acacia_oswaldii,-31.15,139.08
 995780489,Acacia_oswaldii,-34.67,139.27
-995551447,Acacia_oswaldii,-29,114.27
 994701118,Acacia_oswaldii,-28.7667,140.3
 994296079,Acacia_oswaldii,-24.465224,135.71792
 992221883,Acacia_oswaldii,-33.083333,140.333333
@@ -1545,7 +1518,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992172181,Acacia_oswaldii,-33.866667,138
 992172152,Acacia_oswaldii,-33.883333,137.966667
 992172162,Acacia_oswaldii,-33.871944,138.001944
-992292905,Acacia_oswaldii,-33.716667,137.05
 992450371,Acacia_oswaldii,-29.94,134.55
 992253415,Acacia_oswaldii,-31.25,136.8
 996941341,Acacia_oswaldii,-31.716389,128.891667
@@ -1622,7 +1594,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995780392,Acacia_oswaldii,-32.12,133.7
 993757664,Acacia_oswaldii,-31.4667,130.4833
 993805741,Acacia_oswaldii,-30.2333,121.2
-995780496,Acacia_oswaldii,-31.57,130.45
 992130387,Acacia_oswaldii,-31.133333,138.228611
 1651953891,Acacia_oswaldii,-26.915222,149.9175
 1451541925,Acacia_oswaldii,-29.965115,146.867853
