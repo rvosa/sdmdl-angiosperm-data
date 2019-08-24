@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2238753427,Sporobolus_rigidus,43.768444,-98.018611
-2242357132,Sporobolus_rigidus,39.732207,-104.961468
 2242359228,Sporobolus_rigidus,39.407461,-104.734121
 2242357785,Sporobolus_rigidus,38.1289,-102.48576
 2242355891,Sporobolus_rigidus,38.4693,-102.57062
@@ -107,7 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242366785,Sporobolus_rigidus,40.172327,-104.331928
 1986939304,Sporobolus_rigidus,51.916667,-111.9
 2265487959,Sporobolus_rigidus,44.685833,-93.022224
-2242408546,Sporobolus_rigidus,39.73193,-104.9619
 1804366850,Sporobolus_rigidus,44.7,-81.25
 1986960614,Sporobolus_rigidus,44.268333,-104.710278
 1986936819,Sporobolus_rigidus,45.399444,-109.860556
@@ -347,7 +345,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415918732,Sporobolus_rigidus,44.85333,-96.28305
 1228175764,Sporobolus_rigidus,42.363633,-87.844794
 786102571,Sporobolus_rigidus,40.1,-98.5
-1931010558,Sporobolus_rigidus,40.862289,-73.877023
 1228423937,Sporobolus_rigidus,41.780868,-87.580881
 1930052177,Sporobolus_rigidus,44.046125,-82.994114
 1228180393,Sporobolus_rigidus,41.472212,-87.376386
