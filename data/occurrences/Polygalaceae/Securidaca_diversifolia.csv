@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1829085085,Securidaca_diversifolia,-3.743722,-38.574697
 1881608483,Securidaca_diversifolia,6.580628,-73.575414
 1881608080,Securidaca_diversifolia,6.580153,-73.571539
 1837913852,Securidaca_diversifolia,14.39314,-89.386
@@ -9,7 +8,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268939269,Securidaca_diversifolia,11.573,-86.025556
 1890638556,Securidaca_diversifolia,-12.298611,-39.076111
 2013909619,Securidaca_diversifolia,-7.472778,-39.099444
-2243140997,Securidaca_diversifolia,-29.2607,-15.105548
 1657212834,Securidaca_diversifolia,-11.2731,-37.4348
 2268863027,Securidaca_diversifolia,11.622945,-86.2315
 2268861642,Securidaca_diversifolia,11.622945,-86.200333
@@ -42,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253917822,Securidaca_diversifolia,10.927778,-85.494444
 2332697227,Securidaca_diversifolia,19.93826,-97.54774
 1303205757,Securidaca_diversifolia,-3.593889,-40.4675
-1303583581,Securidaca_diversifolia,-2.494,-44.2635
 1264696458,Securidaca_diversifolia,-10.441,-36.5945
 1264695692,Securidaca_diversifolia,-10.15186,-36.38209
 1702655763,Securidaca_diversifolia,-8.590972,-37.237861
@@ -53,12 +50,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087082613,Securidaca_diversifolia,-8.375444,-44.049083
 1077249135,Securidaca_diversifolia,-13.15,-41.75
 2243140087,Securidaca_diversifolia,-7.6425,-38.666667
-1455708253,Securidaca_diversifolia,-6.986111,-3.406111
 1094797519,Securidaca_diversifolia,-6.986389,-38.406389
 1303206695,Securidaca_diversifolia,-7.464167,-39.470333
-1455708304,Securidaca_diversifolia,-7.179722,-3.075278
 1253915718,Securidaca_diversifolia,10.978593,-85.430343
-1426660928,Securidaca_diversifolia,-2.473056,-44.053833
 1094797493,Securidaca_diversifolia,-7.179722,-39.075278
 1427548345,Securidaca_diversifolia,9.544472,-75.346361
 1087082692,Securidaca_diversifolia,-8.545,-37.221111
@@ -81,7 +75,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913568678,Securidaca_diversifolia,-6.330556,-50.445556
 1585317975,Securidaca_diversifolia,13.81138,-89.56904
 1258205001,Securidaca_diversifolia,13.811111,-89.568889
-1213647322,Securidaca_diversifolia,-15.74225,-47.934
 1077242819,Securidaca_diversifolia,-13.433333,-40.416667
 1077241534,Securidaca_diversifolia,-12.777222,-38.621667
 1094907129,Securidaca_diversifolia,-13.457222,-40.3975
@@ -99,10 +92,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087079211,Securidaca_diversifolia,-7.606111,-34.820556
 1087685666,Securidaca_diversifolia,-10.964444,-37.084722
 1089184779,Securidaca_diversifolia,-11.166417,-37.255972
-1042697206,Securidaca_diversifolia,-1.055833,-4.18
 1089185726,Securidaca_diversifolia,-9.247222,-36.424722
-1094906910,Securidaca_diversifolia,-1.055833,-3.995
-1424424052,Securidaca_diversifolia,-1.055833,-4.178333
 1913567814,Securidaca_diversifolia,-6.011389,-50.295278
 1913567847,Securidaca_diversifolia,-6.353056,-50.425
 1913567798,Securidaca_diversifolia,-6.343056,-50.422778
@@ -123,9 +113,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077233017,Securidaca_diversifolia,-13.974722,-42.353889
 2331567776,Securidaca_diversifolia,-9.983056,-38.425278
 1094874117,Securidaca_diversifolia,-9.983056,-38.44
-1042687797,Securidaca_diversifolia,-58.941667,-47.63
 1094877435,Securidaca_diversifolia,-13.067778,-41.889722
-1424368536,Securidaca_diversifolia,-58.941667,-47.631389
 1087679640,Securidaca_diversifolia,-9.805278,-37.684167
 1123817961,Securidaca_diversifolia,-20.345833,-40.542222
 1257816948,Securidaca_diversifolia,10.902306,-85.467222
@@ -161,7 +149,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094858805,Securidaca_diversifolia,-20.023056,-43.501667
 1094845823,Securidaca_diversifolia,-11.233333,-40.466667
 1094847139,Securidaca_diversifolia,-11.626944,-41.000833
-1094860464,Securidaca_diversifolia,-12.883333,-37.95
 1095247954,Securidaca_diversifolia,-15.426944,-42.425277
 1094849194,Securidaca_diversifolia,-12.336389,-42.908056
 1260842559,Securidaca_diversifolia,8.828889,-80.678611
@@ -208,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260888895,Securidaca_diversifolia,10.431389,-84.003611
 1894072305,Securidaca_diversifolia,19.233333,-89.365
 1094808270,Securidaca_diversifolia,-12.335,-40.475833
-1253805804,Securidaca_diversifolia,10.858333,-85.916667
 1253793982,Securidaca_diversifolia,10.875414,-85.892344
 1094810230,Securidaca_diversifolia,-13.488611,-41.840833
 1090454345,Securidaca_diversifolia,-12.254444,-39.046111
@@ -228,7 +214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253799358,Securidaca_diversifolia,10.444444,-84.002778
 1095227231,Securidaca_diversifolia,-16.121111,-48.511111
 1095234654,Securidaca_diversifolia,-14.521666,-46.58
-1253815292,Securidaca_diversifolia,10.856944,-85.943056
 1094793307,Securidaca_diversifolia,-13.596389,-41.823056
 1094795146,Securidaca_diversifolia,-10.517222,-40.311389
 1259662166,Securidaca_diversifolia,14.41666,-89.35
@@ -263,7 +248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253764783,Securidaca_diversifolia,10.219444,-84.6
 1893924244,Securidaca_diversifolia,18.17775,-96.861528
 1257546887,Securidaca_diversifolia,8.78582,-82.97032
-1456275571,Securidaca_diversifolia,8.375,-59.7381
 1077214043,Securidaca_diversifolia,-11.195278,-40.503056
 1123799307,Securidaca_diversifolia,-19.948611,-40.603611
 1585319863,Securidaca_diversifolia,13.81667,-89.98333
@@ -276,7 +260,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258723465,Securidaca_diversifolia,12.966667,-85.216667
 1094766710,Securidaca_diversifolia,-12.852778,-39.475556
 1094768033,Securidaca_diversifolia,-12.45,-41.433333
-1056512831,Securidaca_diversifolia,23.950465,-102.532886
 371325172,Securidaca_diversifolia,18.128083,-101.563583
 1893312676,Securidaca_diversifolia,17.7325,-92.011667
 1094755196,Securidaca_diversifolia,-11.15,-40.45
@@ -297,7 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897565924,Securidaca_diversifolia,17.5140503556123,-96.324753039142
 1087671875,Securidaca_diversifolia,-11.014722,-37.206389
 2284166047,Securidaca_diversifolia,4.92,-55.12
-1056427855,Securidaca_diversifolia,17.217668,-88.684767
 1259662601,Securidaca_diversifolia,16.76666,-88.6
 1259662760,Securidaca_diversifolia,13.68333,-89.58333
 1895529745,Securidaca_diversifolia,18.7720558842051,-89.3737550422817
@@ -310,7 +292,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291677639,Securidaca_diversifolia,5.183333,-52.666667
 1702651022,Securidaca_diversifolia,-8.834986,-35.760583
 1253586006,Securidaca_diversifolia,9.395701,-83.595652
-1321058895,Securidaca_diversifolia,15.58,-61.37
 45961571,Securidaca_diversifolia,9.39,-83.59
 1094744674,Securidaca_diversifolia,-12.869167,-39.825833
 45961567,Securidaca_diversifolia,10.32,-85.21
@@ -337,8 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257818031,Securidaca_diversifolia,10.917778,-85.470833
 1060488369,Securidaca_diversifolia,9.63,-74.912222
 1260275097,Securidaca_diversifolia,4.9,-67.56666
-1060488378,Securidaca_diversifolia,10.36,-75.569722
-1060488365,Securidaca_diversifolia,10.376533,-75.574017
 1094895819,Securidaca_diversifolia,-8.648889,-37.122222
 1253593375,Securidaca_diversifolia,10.409722,-84.1125
 1702651002,Securidaca_diversifolia,-8.648969,-37.122083
@@ -379,7 +358,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253642139,Securidaca_diversifolia,10.913889,-84.768056
 45960839,Securidaca_diversifolia,10.21,-84.61
 1090485381,Securidaca_diversifolia,-12.45,-41.483333
-45961203,Securidaca_diversifolia,10.85,-85.91
 1929389843,Securidaca_diversifolia,-12.5669562453856,-41.3897405625552
 1456266548,Securidaca_diversifolia,4.8,-60.0333
 1042535552,Securidaca_diversifolia,4.1737,-60.33
@@ -415,7 +393,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894631428,Securidaca_diversifolia,21.632861,-99.219855
 1896051428,Securidaca_diversifolia,21.591944,-99.211389
 1896327723,Securidaca_diversifolia,21.637222,-99.218056
-1322820554,Securidaca_diversifolia,15.5911,-61.3391
 912088179,Securidaca_diversifolia,-13.25,-41.75
 1094785635,Securidaca_diversifolia,-12.916667,-41.316667
 1424081341,Securidaca_diversifolia,2.75,-59.833333
@@ -448,8 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261567402,Securidaca_diversifolia,10.34,-84.72
 1258981593,Securidaca_diversifolia,12.55,-83.73333
 1094731638,Securidaca_diversifolia,-14.416667,-39.016667
-912088015,Securidaca_diversifolia,-14.42,-89.02
-1260274980,Securidaca_diversifolia,7.75,-58.11666
 1455940221,Securidaca_diversifolia,5.7,-53.85
 1928091028,Securidaca_diversifolia,-12.93,-38.35
 1259049724,Securidaca_diversifolia,-2.45,-79.666667
@@ -473,7 +448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253632239,Securidaca_diversifolia,10.216667,-84.85
 1895529844,Securidaca_diversifolia,21.62806,-99.23194
 1894631441,Securidaca_diversifolia,21.63938,-99.22094
-1456041583,Securidaca_diversifolia,6.83333,-58.45
 1893679585,Securidaca_diversifolia,21.516667,-99.75
 1894677409,Securidaca_diversifolia,19.395833,-88.113889
 1893679603,Securidaca_diversifolia,21.333333,-99.383333
@@ -494,7 +468,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258589088,Securidaca_diversifolia,10.76,-85.3
 1893679597,Securidaca_diversifolia,19.355,-90.721667
 1585319775,Securidaca_diversifolia,13.83333,-89.91667
-2289536085,Securidaca_diversifolia,6.833333,-58.416667
 1258589184,Securidaca_diversifolia,10.96,-85.11
 1253632244,Securidaca_diversifolia,10.983333,-85.116667
 1896327694,Securidaca_diversifolia,21.003611,-98.149444
@@ -507,8 +480,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258595422,Securidaca_diversifolia,10.3,-84.73
 1929371052,Securidaca_diversifolia,-13.62,-41.82
 1094767087,Securidaca_diversifolia,-13.616667,-41.816667
-1260031130,Securidaca_diversifolia,-2.76666,-79.9
-47844456,Securidaca_diversifolia,-2.766,-79.9
 1258592026,Securidaca_diversifolia,6.66666,-75.83333
 2284180017,Securidaca_diversifolia,8.8917,-64.25
 1260274169,Securidaca_diversifolia,8.89166,-64.25
@@ -525,7 +496,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893679573,Securidaca_diversifolia,17.471667,-99.37
 1077195469,Securidaca_diversifolia,-13,-41.366667
 1927769443,Securidaca_diversifolia,17.08,-89
-47844434,Securidaca_diversifolia,-2.8,-80
 1456407337,Securidaca_diversifolia,-1.67,-54.52
 1930460518,Securidaca_diversifolia,-1.666667,-54.516667
 1042631198,Securidaca_diversifolia,-3.6531,-67.53
@@ -541,11 +511,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042482943,Securidaca_diversifolia,6.011163,-66.5
 1895529727,Securidaca_diversifolia,16.7643533092339,-92.3540928599925
 1260276795,Securidaca_diversifolia,6.91666,-66.5
-1322693098,Securidaca_diversifolia,6.8,-58.1333
 1896327724,Securidaca_diversifolia,18.665,-97
 1895529855,Securidaca_diversifolia,16.793056,-93.091111
-1456313064,Securidaca_diversifolia,6.78333,-58.15
-1087332744,Securidaca_diversifolia,6.783333,-58.15
 2287509381,Securidaca_diversifolia,3.066667,-59.466667
 1456237351,Securidaca_diversifolia,3.06,-59.46
 2291678313,Securidaca_diversifolia,8.683333,-79.9
@@ -561,7 +528,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288434090,Securidaca_diversifolia,2.9,-59.716667
 1258577695,Securidaca_diversifolia,9.177222,-79.761667
 1456063693,Securidaca_diversifolia,2.9,-59.71
-45959873,Securidaca_diversifolia,9.38,-84.15
 1258618654,Securidaca_diversifolia,19.79,-88.31
 1895529731,Securidaca_diversifolia,16.916667,-94.65
 1419229661,Securidaca_diversifolia,15.064722,-92.3125
@@ -604,7 +570,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895529754,Securidaca_diversifolia,17.666667,-95.666667
 1421379051,Securidaca_diversifolia,17.663056,-93.733333
 1894549921,Securidaca_diversifolia,17.735,-93.671944
-1934704404,Securidaca_diversifolia,11.299842,-74.024682
 1894677449,Securidaca_diversifolia,21.161111,-86.833611
 1896327729,Securidaca_diversifolia,20.844444,-86.903889
 1421379271,Securidaca_diversifolia,16.705556,-92.461111
@@ -622,7 +587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258580905,Securidaca_diversifolia,13.64527,-85.11833
 1896327702,Securidaca_diversifolia,19.520278,-105.074167
 1259695499,Securidaca_diversifolia,9.16722,-79.41638
-1060488384,Securidaca_diversifolia,11.3342,-74.0312
 1424081249,Securidaca_diversifolia,-4.25,-58.666667
 1087667972,Securidaca_diversifolia,-10.925675,-37.099631
 1258277215,Securidaca_diversifolia,-2,-79.96666
@@ -669,7 +633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896051427,Securidaca_diversifolia,18.605,-103.565
 47844625,Securidaca_diversifolia,1.066,-78.983
 1258294934,Securidaca_diversifolia,1.06666,-78.98333
-1928889426,Securidaca_diversifolia,-15.7834208090807,-47.9298726661488
 1087319706,Securidaca_diversifolia,4,-57.5
 1456369058,Securidaca_diversifolia,4.75,-57.5
 1456300844,Securidaca_diversifolia,-4,-44.5
@@ -741,7 +704,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895529705,Securidaca_diversifolia,16.5023946299429,-94.1285871687341
 1895529792,Securidaca_diversifolia,16.3298237811135,-93.8753807003487
 1258588739,Securidaca_diversifolia,-3.690833,-73.265556
-1456138766,Securidaca_diversifolia,4.95,-52.3
 1895529778,Securidaca_diversifolia,21.25,-97.883333
 1896327693,Securidaca_diversifolia,21.258333,-97.891667
 1259606775,Securidaca_diversifolia,9.43333,-79.75
@@ -755,7 +717,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259032118,Securidaca_diversifolia,12.48333,-85.6
 1258974873,Securidaca_diversifolia,9.1,-79.616667
 1259296232,Securidaca_diversifolia,16.79861,-90.10027
-1896051414,Securidaca_diversifolia,20.200833,-96.771111
 1259295734,Securidaca_diversifolia,9.16861,-79.85194
 1258618574,Securidaca_diversifolia,9.08277,-79.67027
 1896051448,Securidaca_diversifolia,19.784444,-97.298611
@@ -768,10 +729,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259295915,Securidaca_diversifolia,8.974167,-79.659444
 768749818,Securidaca_diversifolia,2.25,-73.91
 1456344520,Securidaca_diversifolia,5.73,-53.95
-1259295872,Securidaca_diversifolia,9.28333,-80.05
 1259297051,Securidaca_diversifolia,9.31666,-79.65
 1260274812,Securidaca_diversifolia,-12.81666,-51.76666
-1258659244,Securidaca_diversifolia,8.621389,-79.061389
 1258657166,Securidaca_diversifolia,8.94166,-77.72916
 1259679514,Securidaca_diversifolia,15.89833,-89.22916
 1846530435,Securidaca_diversifolia,17.433333,-95.55
@@ -780,7 +739,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260273865,Securidaca_diversifolia,-14.73333,-52.33333
 1260300939,Securidaca_diversifolia,12.2,-83.96666
 1259296647,Securidaca_diversifolia,9.19166,-79.39861
-1259294463,Securidaca_diversifolia,9.36416,-79.95666
 1896051440,Securidaca_diversifolia,17.170278,-99.531667
 1893389799,Securidaca_diversifolia,17.258333,-93.675
 1896051411,Securidaca_diversifolia,17.188611,-93.794444
@@ -790,7 +748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931308039,Securidaca_diversifolia,-16.03,-48.05
 1930989681,Securidaca_diversifolia,-15.510201,-39.182106
 1831001431,Securidaca_diversifolia,9.16361,-79.83778
-1930715655,Securidaca_diversifolia,-15.7833,-47.9167
 1929009347,Securidaca_diversifolia,-16.0198,-48.0648
 1930476178,Securidaca_diversifolia,-9.83938229365265,-48.7258127080231
 1929620324,Securidaca_diversifolia,-18.5829791433087,-46.5184856161177
@@ -798,18 +755,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896327718,Securidaca_diversifolia,20.958333,-97.425
 1895951549,Securidaca_diversifolia,20.426944,-98.081389
 1455948747,Securidaca_diversifolia,-2.5,-50.92
-2291678266,Securidaca_diversifolia,5.846517,-55.159049
 1896051416,Securidaca_diversifolia,14.193333,-90.113333
-1258277197,Securidaca_diversifolia,-2.01666,-80.91666
 1261918419,Securidaca_diversifolia,-6.93333,-76.8
 1456344627,Securidaca_diversifolia,6.67,-66.77
-1456287602,Securidaca_diversifolia,5.85,-55.15
 1930281575,Securidaca_diversifolia,-8.26132030382383,-49.2652448371057
 1895139655,Securidaca_diversifolia,16.9,-93.597222
 1931193201,Securidaca_diversifolia,-1.438098,-48.44475
 1260289731,Securidaca_diversifolia,12.15,-83.78333
-1928866877,Securidaca_diversifolia,-0.494633,-48.597593
-1090543099,Securidaca_diversifolia,-0.7167,-48.5233
 1258618630,Securidaca_diversifolia,16.33333,-88.98333
 1259297353,Securidaca_diversifolia,9.1,-79.23333
 1259295785,Securidaca_diversifolia,13.94333,-87.0125
@@ -817,7 +769,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259296305,Securidaca_diversifolia,16.33333,-89.16666
 1930775973,Securidaca_diversifolia,-2.925897,-54.941254
 1090541859,Securidaca_diversifolia,-2.6364,-54.9372
-1259295601,Securidaca_diversifolia,8.25805,-79.11166
 1259586888,Securidaca_diversifolia,16.23333,-88.98333
 473276600,Securidaca_diversifolia,20.4667,-75.8167
 1259295081,Securidaca_diversifolia,16.71666,-88.61666
@@ -829,7 +780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228237447,Securidaca_diversifolia,22.5,-100.5
 1261031664,Securidaca_diversifolia,18.68,-103.34
 1896051435,Securidaca_diversifolia,18.700556,-103.304722
-1259294508,Securidaca_diversifolia,9.00833,-79.59166
 1456087287,Securidaca_diversifolia,3.16,-59.86
 1259294467,Securidaca_diversifolia,17.01666,-89.06666
 1228145138,Securidaca_diversifolia,16.8333,-88.9167
@@ -843,16 +793,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261047670,Securidaca_diversifolia,18.9725,-100.221944
 1259294952,Securidaca_diversifolia,9.141389,-79.843055
 1259297171,Securidaca_diversifolia,9.14138,-79.84305
-1456385239,Securidaca_diversifolia,5.83,-55.16
 1259297083,Securidaca_diversifolia,9.17805,-79.84361
 2284241001,Securidaca_diversifolia,0.9,-76.17
-1259293694,Securidaca_diversifolia,16.93333,-88.23583
 1260343251,Securidaca_diversifolia,13.966667,-84.258333
 1456201339,Securidaca_diversifolia,7.25,-58.71
 1456078390,Securidaca_diversifolia,8.16,-60
 1930931950,Securidaca_diversifolia,22.172875,-83.970797
 1456089946,Securidaca_diversifolia,2.75,-59.5
 1456340811,Securidaca_diversifolia,4.93,-52.33
-1456275239,Securidaca_diversifolia,6.75,-57.91
-1929488080,Securidaca_diversifolia,14.744365,-61.152758
 1929180877,Securidaca_diversifolia,22.513257,-83.414875
