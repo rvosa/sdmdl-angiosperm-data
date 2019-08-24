@@ -50,7 +50,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1229649106,Chenopodium_parabolicum,-30.562778,150.131111
 992055904,Chenopodium_parabolicum,-31.108333,138.612222
 1652182507,Chenopodium_parabolicum,-25.32363,150.701436
-992057450,Chenopodium_parabolicum,-34.858889,135.785278
 995456051,Chenopodium_parabolicum,-34.273445,138.547204
 992063802,Chenopodium_parabolicum,-37.675637,144.506901
 995382789,Chenopodium_parabolicum,-37.6769,144.5058
@@ -195,7 +194,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085320899,Chenopodium_parabolicum,-33.61587,136.77454
 991997941,Chenopodium_parabolicum,-33.734167,136.519167
 992013531,Chenopodium_parabolicum,-30.194722,139.234167
-992601171,Chenopodium_parabolicum,-35.522222,138.176944
 1084283465,Chenopodium_parabolicum,-27.03364,129.89175
 992627253,Chenopodium_parabolicum,-27.035,129.89
 1085302792,Chenopodium_parabolicum,-26.06187,132.43798
@@ -282,8 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993451723,Chenopodium_parabolicum,-23.55,132.9
 992588236,Chenopodium_parabolicum,-25.983333,129.482778
 1085219473,Chenopodium_parabolicum,-25.98204,129.48399
-1085216812,Chenopodium_parabolicum,-34.62708,135.45303
-992604466,Chenopodium_parabolicum,-34.628611,135.451667
 1085166312,Chenopodium_parabolicum,-26.33383,130.10288
 992579797,Chenopodium_parabolicum,-26.335278,130.101667
 1257354372,Chenopodium_parabolicum,-23.531894,134.384583
@@ -293,10 +289,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992590458,Chenopodium_parabolicum,-33.7325,137.8328
 992590353,Chenopodium_parabolicum,-33.460278,137.973056
 1085177906,Chenopodium_parabolicum,-33.45883,137.97447
-1085177509,Chenopodium_parabolicum,-33.93962,137.60173
 1085177875,Chenopodium_parabolicum,-33.38023,137.97843
 1085177399,Chenopodium_parabolicum,-34.01814,138.08616
-992591736,Chenopodium_parabolicum,-33.941111,137.600278
 1085174851,Chenopodium_parabolicum,-34.10081,137.65569
 1085169501,Chenopodium_parabolicum,-33.73117,137.83409
 992593388,Chenopodium_parabolicum,-34.102222,137.654444
@@ -474,7 +468,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992481753,Chenopodium_parabolicum,-33.5,137
 1936831550,Chenopodium_parabolicum,-30.383333,150.033333
 992460014,Chenopodium_parabolicum,-35.516667,138.216667
-992523441,Chenopodium_parabolicum,-42.6,145.3
 992421944,Chenopodium_parabolicum,-33.066667,136.733333
 993917495,Chenopodium_parabolicum,-33.4167,137.25
 994745134,Chenopodium_parabolicum,-37.5667,144.4
@@ -488,7 +481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993873787,Chenopodium_parabolicum,-34.2,137.8333
 992571644,Chenopodium_parabolicum,-34.2,137.833333
 992415000,Chenopodium_parabolicum,-30.216667,139.233333
-993868747,Chenopodium_parabolicum,-35.2833,149.1167
 994264711,Chenopodium_parabolicum,-25.131947,129.017991
 996400575,Chenopodium_parabolicum,-25.133333,129.016667
 992408091,Chenopodium_parabolicum,-32.533333,136.616667
@@ -498,7 +490,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1142235793,Chenopodium_parabolicum,-30.47176,139.14948
 994710150,Chenopodium_parabolicum,-37.6667,144.35
 992394892,Chenopodium_parabolicum,-34.7,139.466667
-992462581,Chenopodium_parabolicum,-24.882165,113.667795
 992402320,Chenopodium_parabolicum,-34.283333,138.55
 992395793,Chenopodium_parabolicum,-33.6,137.933333
 992419294,Chenopodium_parabolicum,-32.835278,138.021111
@@ -517,16 +508,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996400622,Chenopodium_parabolicum,-24,132
 992371516,Chenopodium_parabolicum,-34.55,139.283333
 992372498,Chenopodium_parabolicum,-30.466667,131.883333
-1085494733,Chenopodium_parabolicum,-34.64873,136.18536
-992378675,Chenopodium_parabolicum,-34.514722,136.291111
-1085477190,Chenopodium_parabolicum,-34.64773,136.36756
-1085499708,Chenopodium_parabolicum,-34.48725,136.28217
-992375651,Chenopodium_parabolicum,-34.65,136.183333
-992375479,Chenopodium_parabolicum,-34.683333,136.266667
-992375557,Chenopodium_parabolicum,-34.566667,136.233333
-992375569,Chenopodium_parabolicum,-34.55,136.216667
-1085484086,Chenopodium_parabolicum,-34.552,136.21014
-992375716,Chenopodium_parabolicum,-34.65,136.366667
 992382569,Chenopodium_parabolicum,-32.1,138.033333
 992374052,Chenopodium_parabolicum,-33.583333,136.8
 995768896,Chenopodium_parabolicum,-32.1,138.058
@@ -665,7 +646,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257301111,Chenopodium_parabolicum,-23.41525,132.417943
 992175875,Chenopodium_parabolicum,-33.966667,137.716667
 992176015,Chenopodium_parabolicum,-34.066667,138.033333
-992175900,Chenopodium_parabolicum,-33.783333,137.716667
 992172514,Chenopodium_parabolicum,-34.6,138.75
 992175968,Chenopodium_parabolicum,-34.416667,137.916667
 992207681,Chenopodium_parabolicum,-37.665083,144.357181
