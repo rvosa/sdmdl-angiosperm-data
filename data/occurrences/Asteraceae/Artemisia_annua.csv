@@ -76,7 +76,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176880080,Artemisia_annua,39.3257,-93.2287
 1230493651,Artemisia_annua,39.50417,46.49278
 1830635341,Artemisia_annua,34.141219,134.493184
-2288334389,Artemisia_annua,20.3,105.71
 1830196911,Artemisia_annua,36.666667,137.216667
 233097037,Artemisia_annua,38.7077,-91.4325
 1928091449,Artemisia_annua,38.066,-87.965667
@@ -121,8 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230491132,Artemisia_annua,52.03333,11.73333
 1050621265,Artemisia_annua,43.31,-3.04
 1051226932,Artemisia_annua,51.48,-0.31
-1830189898,Artemisia_annua,36.7,137.266667
-1258502385,Artemisia_annua,37.21666,-90.2
 1697693821,Artemisia_annua,55.680912,37.733451
 1697693763,Artemisia_annua,47.360223,39.358864
 176880477,Artemisia_annua,39.529514,-98.639091
@@ -130,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1319789864,Artemisia_annua,38.9694,-77.1767
 1946776110,Artemisia_annua,49.91,10.86
 204420685,Artemisia_annua,43.285999,-2.994
-211620014,Artemisia_annua,43.279999,-3
 1851573595,Artemisia_annua,43.28,-2.99
 1851407688,Artemisia_annua,43.286,-2.994
 1697693823,Artemisia_annua,51.117078,35.464138
@@ -169,7 +165,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933825138,Artemisia_annua,35.70597,140.20334
 1320381902,Artemisia_annua,38.8822,-77.0575
 1697693756,Artemisia_annua,56.859611,35.911896
-1261309727,Artemisia_annua,39.16666,-90.8
 204420500,Artemisia_annua,43.310001,-3.06
 464926922,Artemisia_annua,43.35066,-3.00947
 895165743,Artemisia_annua,44.21,-3.06
@@ -178,15 +173,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318054504,Artemisia_annua,38.8653,-76.9867
 729312497,Artemisia_annua,34.849998,134.767
 1030877069,Artemisia_annua,28.890891,108.658379
-1144572936,Artemisia_annua,42.6,9.5
 176880316,Artemisia_annua,36.578701,-94.4638
 1261284068,Artemisia_annua,38.125,-90.675
 1322221352,Artemisia_annua,38.8872,-77.0558
 388793053,Artemisia_annua,35.636944,139.791389
 2308692003,Artemisia_annua,43.55,-80.25
-1830237266,Artemisia_annua,36.683333,137.2
-1144572935,Artemisia_annua,42.6,9.48333
-895161906,Artemisia_annua,41.41,2.1
 1600885641,Artemisia_annua,61.315064,23.756255
 1829648326,Artemisia_annua,36.332778,138.650556
 388793055,Artemisia_annua,35.621944,139.833611
@@ -195,8 +186,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261288935,Artemisia_annua,37.8062,-89.8965
 1260931583,Artemisia_annua,38.4625,-90.297222
 1933853655,Artemisia_annua,35.9165,139.7739
-1144572941,Artemisia_annua,42.3,9.15
-1144572958,Artemisia_annua,42.7,9.45
 1261000729,Artemisia_annua,39.01111,-90.92611
 1638374001,Artemisia_annua,44.86667,13.85
 1600885744,Artemisia_annua,61.310159,23.757697
@@ -212,10 +201,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 234409040,Artemisia_annua,35.465763,139.678033
 1830229209,Artemisia_annua,34.60139,135.51323
 234409039,Artemisia_annua,35.532422,139.703028
-1830166264,Artemisia_annua,36.666667,137.2
 464756696,Artemisia_annua,48.83506,2.38661
 464683772,Artemisia_annua,48.84197,2.371
-1030811248,Artemisia_annua,31.3,110.3
 1260947762,Artemisia_annua,36.57666,-93.84111
 1697693753,Artemisia_annua,56.717456,36.788416
 1697301126,Artemisia_annua,43.137178,131.904071
@@ -228,14 +215,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030811280,Artemisia_annua,30.094142,112.469755
 1030811292,Artemisia_annua,30.561162,114.381419
 2307206971,Artemisia_annua,43.68,-80.43
-615270986,Artemisia_annua,36,68.62
 296417464,Artemisia_annua,46.05,11.116667
 464683703,Artemisia_annua,43.91665,4.79467
 465211470,Artemisia_annua,43.91777,4.78708
 1030876552,Artemisia_annua,30.023401,108.185012
 1030878683,Artemisia_annua,29.351226,107.616845
 1030878596,Artemisia_annua,28.463627,104.597805
-1897767271,Artemisia_annua,-36.933333,174.6
 1933933715,Artemisia_annua,34.95208,136.65778
 1030811200,Artemisia_annua,30.663372,113.166529
 296417424,Artemisia_annua,46.0575,11.129167
@@ -297,7 +282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030811202,Artemisia_annua,33.981028,108.20147
 1030811204,Artemisia_annua,29.887732,110.032936
 438605821,Artemisia_annua,48.81935,2.33803
-464938250,Artemisia_annua,48.70389,2.4
 1830182226,Artemisia_annua,36.516667,137.216667
 474632633,Artemisia_annua,48.70596,2.3883
 465001371,Artemisia_annua,48.84355,2.34949
@@ -319,7 +303,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437274612,Artemisia_annua,48.807,2.34426
 464756634,Artemisia_annua,48.81907,2.36023
 464927034,Artemisia_annua,48.81905,2.35989
-615270495,Artemisia_annua,35.92,74.3
 2306680069,Artemisia_annua,42.38,-82.19
 1881010289,Artemisia_annua,49.82,9.87
 465146590,Artemisia_annua,48.81989,2.36419
@@ -386,7 +369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260971476,Artemisia_annua,37.45277,-92.40611
 1230486139,Artemisia_annua,50.11667,14.43333
 439606308,Artemisia_annua,50.1175,14.41743
-1988159063,Artemisia_annua,46.4,-75.03
 788589692,Artemisia_annua,57.704499,11.965181
 1303733781,Artemisia_annua,28.932073,99.79929
 1303733740,Artemisia_annua,32.637983,103.59895
@@ -413,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697693802,Artemisia_annua,47.341789,40.553799
 465004130,Artemisia_annua,37.77957,-85.47483
 2288745506,Artemisia_annua,50.879153,5.93116
-1262031354,Artemisia_annua,45.3,-73.233333
 1303733690,Artemisia_annua,22.929376,112.044025
 1303733801,Artemisia_annua,49.587665,117.480336
 1303733780,Artemisia_annua,38.890348,114.150771
@@ -421,7 +402,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928214331,Artemisia_annua,38.99693,-85.628065
 464686559,Artemisia_annua,49.59378,17.25088
 1303733741,Artemisia_annua,11.318545,116.562386
-1697301177,Artemisia_annua,51.8,107.6
 1697845381,Artemisia_annua,38.687051,48.74814
 1303733749,Artemisia_annua,25.707879,116.763457
 1830969105,Artemisia_annua,49.59556,17.25167
@@ -444,7 +424,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303733755,Artemisia_annua,36.20227,117.087972
 1057590278,Artemisia_annua,51.548322,-0.271231
 1303733789,Artemisia_annua,40.0222,116.219945
-1456177995,Artemisia_annua,26.07,100.1
 1929631792,Artemisia_annua,41.03593,-74.878225
 465001351,Artemisia_annua,48.84186,2.34379
 1929346872,Artemisia_annua,40.693649,-89.588986
@@ -499,13 +478,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439605781,Artemisia_annua,48.82721,2.26881
 437607406,Artemisia_annua,42.05976,86.57407
 1230492212,Artemisia_annua,47.25,9.56667
-438605955,Artemisia_annua,26.2,107.05
 437946329,Artemisia_annua,41.99511,86.9903
 464685207,Artemisia_annua,48.84255,2.3485
 1303733717,Artemisia_annua,24.186045,113.415062
 437274919,Artemisia_annua,37.45626,126.70521
 2005771013,Artemisia_annua,37.471667,126.605753
-438606118,Artemisia_annua,25.7,100.18
 438605824,Artemisia_annua,48.84351,2.35818
 464683928,Artemisia_annua,48.84379,2.35863
 1830969549,Artemisia_annua,44.81083,21.38917
