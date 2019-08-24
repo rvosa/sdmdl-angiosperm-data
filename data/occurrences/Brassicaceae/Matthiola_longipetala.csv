@@ -58,7 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846550329,Matthiola_longipetala,32.207627,-111.003186
 1019441438,Matthiola_longipetala,31.78333,-4.83333
 2288235568,Matthiola_longipetala,30.45,-7.533333
-912275955,Matthiola_longipetala,32.25,37
 992548845,Matthiola_longipetala,-35.45,138.366667
 995105217,Matthiola_longipetala,-35.4667,143.2667
 1099890275,Matthiola_longipetala,55.63723,13.10468
@@ -67,9 +66,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 874589,Matthiola_longipetala,56.82447,15.99931
 1099892802,Matthiola_longipetala,55.69914,13.14177
 995319211,Matthiola_longipetala,-35.4694,143.3111
-992514757,Matthiola_longipetala,-33.7,137.9
-993461069,Matthiola_longipetala,-33.6667,137.9
-995102326,Matthiola_longipetala,-35.3667,143.1
 992518049,Matthiola_longipetala,-33.169276,138.128306
 1697793048,Matthiola_longipetala,42.873574,47.460766
 995101530,Matthiola_longipetala,-36.3667,141.8833
@@ -91,8 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947411676,Matthiola_longipetala,35.061944,33.540556
 992457718,Matthiola_longipetala,-33.22483,138.391361
 2270486602,Matthiola_longipetala,44.095612,-88.520331
-2308904412,Matthiola_longipetala,44.65,-78.8
-994813982,Matthiola_longipetala,-35.4,142.95
 732480006,Matthiola_longipetala,52.333333,-113.75
 1701538765,Matthiola_longipetala,34.3725,8.83194
 2313366101,Matthiola_longipetala,48.12,11.71
@@ -108,20 +102,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812027693,Matthiola_longipetala,50.6375,9.394183
 992169290,Matthiola_longipetala,-33.882059,137.917761
 992170769,Matthiola_longipetala,-33.882058,137.934427
-912275995,Matthiola_longipetala,31.82,35.7
 1600880259,Matthiola_longipetala,60.534373,25.266408
 912275967,Matthiola_longipetala,31.58,36.33
-912276022,Matthiola_longipetala,31.8,36.59
-912275987,Matthiola_longipetala,31.5,35.5
 574844444,Matthiola_longipetala,33.283333,46.25
-912275978,Matthiola_longipetala,32.08,36.1
 912275988,Matthiola_longipetala,32.08,35.57
 575013682,Matthiola_longipetala,29.916667,52.883333
 1099896372,Matthiola_longipetala,63.095278,21.616389
 1318596034,Matthiola_longipetala,38.9392,-76.9342
 1091184985,Matthiola_longipetala,-46.123,169.958
-574763585,Matthiola_longipetala,32.5,47.166667
-575075312,Matthiola_longipetala,30.5,44.5
 1846550841,Matthiola_longipetala,31.215586,34.786281
 1600880285,Matthiola_longipetala,60.257122,24.739081
 1999569432,Matthiola_longipetala,60.476078,22.293889
@@ -133,16 +121,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099890065,Matthiola_longipetala,57.78741,12.0174
 732480007,Matthiola_longipetala,46.316667,-79.466667
 1999634879,Matthiola_longipetala,60.359155,25.638146
-1988075745,Matthiola_longipetala,49.3,-123.2
 1099896554,Matthiola_longipetala,59.394226,15.841462
 995319182,Matthiola_longipetala,-33.7167,137.8667
 912275982,Matthiola_longipetala,29.68,35.45
-912275990,Matthiola_longipetala,31.5,35.78
 912275952,Matthiola_longipetala,30.32,35.48
 912275986,Matthiola_longipetala,30.53,35.57
 667718748,Matthiola_longipetala,35.96527,38.03669
 912273446,Matthiola_longipetala,31.27,35.52
-912275950,Matthiola_longipetala,30.1,35.62
 912275984,Matthiola_longipetala,30.33,36.58
 667718752,Matthiola_longipetala,36.21168,37.1473
 732480009,Matthiola_longipetala,52.116667,-106.633333
@@ -151,7 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846550868,Matthiola_longipetala,31.232102,35.237261
 912273423,Matthiola_longipetala,31.88,35.67
 667718914,Matthiola_longipetala,34.56,38.26722
-1846550465,Matthiola_longipetala,31.75,35
 667718909,Matthiola_longipetala,33.78394,35.82748
 992199434,Matthiola_longipetala,-33.27,138.35
 1843863692,Matthiola_longipetala,35.084607,-106.651018
@@ -169,4 +153,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912273434,Matthiola_longipetala,31.87,35.73
 912275974,Matthiola_longipetala,32.27,35.88
 1099894462,Matthiola_longipetala,55.59028,13.02351
-912273435,Matthiola_longipetala,31.47,36.1
