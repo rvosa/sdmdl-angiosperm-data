@@ -102,7 +102,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323862192,Alopecurus_geniculatus,69.9606,23.2682
 900306874,Alopecurus_geniculatus,63.7303,11.3855
 1323862173,Alopecurus_geniculatus,69.9549,23.2285
-2288426586,Alopecurus_geniculatus,4.5,101.566667
 441686020,Alopecurus_geniculatus,48.85658,-121.01725
 1702223772,Alopecurus_geniculatus,59.1127,5.6716
 1702352615,Alopecurus_geniculatus,59.0877,10.8874
@@ -140,7 +139,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702506773,Alopecurus_geniculatus,41.02,-3.58
 1702371795,Alopecurus_geniculatus,59.2468,9.5896
 1935647843,Alopecurus_geniculatus,47.51889,13.93278
-1697376546,Alopecurus_geniculatus,51.233333,40.2
 1702269286,Alopecurus_geniculatus,59.5616,11.0571
 1095892198,Alopecurus_geniculatus,60.97,16.63
 2335285160,Alopecurus_geniculatus,59.5919,11.08769
@@ -175,7 +173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843910914,Alopecurus_geniculatus,36.978333,-105.246944
 1701274795,Alopecurus_geniculatus,62.8946,7.4016
 1988069941,Alopecurus_geniculatus,48.533,-124.444
-2308520587,Alopecurus_geniculatus,53.1,-132.05
 1949645834,Alopecurus_geniculatus,49.255833,-124.853611
 1323864489,Alopecurus_geniculatus,67.5334,15.4689
 1987004794,Alopecurus_geniculatus,36.464684,-115.748728
@@ -236,7 +233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999599801,Alopecurus_geniculatus,60.404314,22.414226
 1702196703,Alopecurus_geniculatus,59.0929,5.78
 1342540439,Alopecurus_geniculatus,55.985969,12.105356
-1697376529,Alopecurus_geniculatus,53.5,39
 2268216284,Alopecurus_geniculatus,55.574171,37.620781
 1701272680,Alopecurus_geniculatus,63.8879,10.9887
 900309374,Alopecurus_geniculatus,58.3676,7.2693
@@ -323,7 +319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931217802,Alopecurus_geniculatus,37.3955,-113.5222
 895169891,Alopecurus_geniculatus,41.514,-6.226
 318102111,Alopecurus_geniculatus,41.51,-6.22
-1658234101,Alopecurus_geniculatus,42.9,-79.1667
 1563863766,Alopecurus_geniculatus,55.5089,13.77479
 1563866286,Alopecurus_geniculatus,55.45001,13.75663
 1999471109,Alopecurus_geniculatus,60.364818,22.455181
@@ -352,7 +347,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702031557,Alopecurus_geniculatus,59.0732,10.8656
 1999471125,Alopecurus_geniculatus,69.909781,27.030696
 894167419,Alopecurus_geniculatus,43.186,-7.542
-1701408654,Alopecurus_geniculatus,59.4,11.6974
 1342531704,Alopecurus_geniculatus,55.175241,9.05369
 1701773184,Alopecurus_geniculatus,63.8186,9.6185
 1999471096,Alopecurus_geniculatus,69.053257,27.033258
@@ -365,9 +359,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999471124,Alopecurus_geniculatus,60.489711,22.260018
 186789303,Alopecurus_geniculatus,58.6272,8.8545
 1702021537,Alopecurus_geniculatus,59.6712,10.2871
-1705490095,Alopecurus_geniculatus,64.82,25.4
 1323836825,Alopecurus_geniculatus,67.3292,15.4685
-1146335832,Alopecurus_geniculatus,55.9,-159.48
 1988157926,Alopecurus_geniculatus,55.9065,-159.4815
 1701592987,Alopecurus_geniculatus,62.4851,10.5658
 1702022035,Alopecurus_geniculatus,62.4884,10.7785
@@ -386,7 +378,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936608318,Alopecurus_geniculatus,40.8104,-3.4163
 296405404,Alopecurus_geniculatus,47.479,9.898
 1342536121,Alopecurus_geniculatus,56.112609,10.228903
-318102067,Alopecurus_geniculatus,40.81,-3.4
 1935648397,Alopecurus_geniculatus,47.54,14.1225
 296405411,Alopecurus_geniculatus,47.221,10.156
 1936566992,Alopecurus_geniculatus,40.8286,-3.3571
@@ -402,8 +393,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1059612556,Alopecurus_geniculatus,63.852222,-21.122499
 991990581,Alopecurus_geniculatus,-27.314005,133.303293
 992613993,Alopecurus_geniculatus,-34.965392,138.734432
-1897774084,Alopecurus_geniculatus,-37,174.9
-1091197091,Alopecurus_geniculatus,-41.1,172.588333
 1880990908,Alopecurus_geniculatus,48.74,10.72
 1936566564,Alopecurus_geniculatus,40.9849,-1.7888
 1936567530,Alopecurus_geniculatus,40.9941,-1.8005
@@ -463,13 +452,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936567800,Alopecurus_geniculatus,40.5678,-2.8477
 1881881166,Alopecurus_geniculatus,58.665446,25.255615
 1701789150,Alopecurus_geniculatus,59.7414,10.9651
-296405422,Alopecurus_geniculatus,47,11.010278
 1701997345,Alopecurus_geniculatus,62.6626,8.6282
 296405423,Alopecurus_geniculatus,46.963333,10.976389
-899739894,Alopecurus_geniculatus,54.4,12.5
 992625069,Alopecurus_geniculatus,-33.982037,140.834399
 894163491,Alopecurus_geniculatus,43.05,-5.118
-899739867,Alopecurus_geniculatus,54.4,12.7
 992614382,Alopecurus_geniculatus,-31.95,138.38
 1084218135,Alopecurus_geniculatus,-28.21955,134.659
 992613653,Alopecurus_geniculatus,-28.219444,134.658889
@@ -523,7 +509,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988687666,Alopecurus_geniculatus,42.51325,-83.04867
 994504397,Alopecurus_geniculatus,-40.93196,144.76772
 1091270604,Alopecurus_geniculatus,-45.233333,167.758333
-1050579271,Alopecurus_geniculatus,43.65,-1.2
 1342535998,Alopecurus_geniculatus,57.272218,10.167764
 1702406317,Alopecurus_geniculatus,59.8053,10.2031
 894167350,Alopecurus_geniculatus,42.065,-4.747
@@ -542,7 +527,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701957868,Alopecurus_geniculatus,62.9505,10.7837
 20441777,Alopecurus_geniculatus,59.8939,10.3314
 296405394,Alopecurus_geniculatus,46.948,11.038
-992563465,Alopecurus_geniculatus,-28.2,134.683333
 992563308,Alopecurus_geniculatus,-27.540278,134.519444
 894167474,Alopecurus_geniculatus,43.02,-4.78
 994001737,Alopecurus_geniculatus,-30.6333,143.0333
@@ -550,7 +534,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091315542,Alopecurus_geniculatus,-39.916666,175.255
 992543630,Alopecurus_geniculatus,-36.833333,147.75
 1897679624,Alopecurus_geniculatus,-41.216667,174.866667
-1259586893,Alopecurus_geniculatus,-1.5,-78.7
 296405461,Alopecurus_geniculatus,46.787,15.993
 1598425130,Alopecurus_geniculatus,60.875172,26.248515
 2268216243,Alopecurus_geniculatus,55.750472,37.850025
@@ -612,7 +595,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598425137,Alopecurus_geniculatus,61.011459,24.516233
 1929688761,Alopecurus_geniculatus,41.248291,-121.114556
 1930694260,Alopecurus_geniculatus,41.234415,-120.773104
-1135304437,Alopecurus_geniculatus,-28.55,150.2
 993938886,Alopecurus_geniculatus,-29.0667,149.6333
 1936200419,Alopecurus_geniculatus,40.4574,-5.0263
 1598425044,Alopecurus_geniculatus,60.947835,24.523041
@@ -632,10 +614,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323798922,Alopecurus_geniculatus,68.8018,18.5091
 1946739485,Alopecurus_geniculatus,50.19,9.91
 1881881224,Alopecurus_geniculatus,58.697042,25.73409
-992514136,Alopecurus_geniculatus,-27.333333,133.5
 1598425079,Alopecurus_geniculatus,62.670753,23.218939
 992525498,Alopecurus_geniculatus,-28.018,134.276
-992516711,Alopecurus_geniculatus,-29.866667,137.4
 1702388922,Alopecurus_geniculatus,59.5067,10.6285
 992514929,Alopecurus_geniculatus,-32.583333,135.583333
 2268215807,Alopecurus_geniculatus,55.84748,37.590322
@@ -663,8 +643,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323789174,Alopecurus_geniculatus,66.3836,13.1712
 1705438985,Alopecurus_geniculatus,61.828305,16.072575
 1066929682,Alopecurus_geniculatus,-32.519947,142.305571
-995064487,Alopecurus_geniculatus,-37.8,145.6333
-1989372159,Alopecurus_geniculatus,45.35,-75.8
 1946736926,Alopecurus_geniculatus,50.02,10.86
 1697376385,Alopecurus_geniculatus,54.706448,40.991542
 1146347923,Alopecurus_geniculatus,64.88,-148.81
@@ -692,7 +670,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702181987,Alopecurus_geniculatus,59.2378,10.8545
 1936195633,Alopecurus_geniculatus,41.087,-3.8823
 1705334523,Alopecurus_geniculatus,57.552436,16.47334
-992480256,Alopecurus_geniculatus,-28.4,135.566667
 1598424963,Alopecurus_geniculatus,61.03521,28.102396
 1652040293,Alopecurus_geniculatus,-27.081893,148.917515
 1705431771,Alopecurus_geniculatus,57.556628,16.4804
@@ -702,8 +679,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598425058,Alopecurus_geniculatus,60.865654,28.295334
 995072322,Alopecurus_geniculatus,-36.4167,143.25
 995072281,Alopecurus_geniculatus,-36.5833,142.1167
-995072347,Alopecurus_geniculatus,-36.7167,142.6
-995072153,Alopecurus_geniculatus,-38.4,143.8833
 994717363,Alopecurus_geniculatus,-38.1833,141.3667
 1091174719,Alopecurus_geniculatus,-41.483333,172.05
 1091138074,Alopecurus_geniculatus,-43.383333,171.183333
@@ -713,15 +688,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323798983,Alopecurus_geniculatus,67.0861,14.0218
 1144150280,Alopecurus_geniculatus,61.35276,5.91639
 1323798970,Alopecurus_geniculatus,67.4911,14.6899
-1146325836,Alopecurus_geniculatus,68.63,-149.6
 318217795,Alopecurus_geniculatus,58.7199,5.7793
 1598425217,Alopecurus_geniculatus,60.545598,27.088144
-995072183,Alopecurus_geniculatus,-36.05,146.4
 995072210,Alopecurus_geniculatus,-35.8167,145.45
 993336233,Alopecurus_geniculatus,-36.05,146.3833
-993455801,Alopecurus_geniculatus,-34.0333,140.8
-992508746,Alopecurus_geniculatus,-34.033333,140.8
-995072199,Alopecurus_geniculatus,-36,145.9167
 995072222,Alopecurus_geniculatus,-35.9167,145.65
 1050575987,Alopecurus_geniculatus,42.49,-2.41
 1323798937,Alopecurus_geniculatus,69.5548,20.5255
@@ -792,9 +762,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894160213,Alopecurus_geniculatus,42.57,-5.25
 1705339843,Alopecurus_geniculatus,57.513647,15.997093
 1701226739,Alopecurus_geniculatus,69.6508,18.9255
-894158801,Alopecurus_geniculatus,42.65,-5.5
 1451624116,Alopecurus_geniculatus,-34.631788,146.601238
-995973222,Alopecurus_geniculatus,-34.63,146.6
 2270563721,Alopecurus_geniculatus,36.3258,-112.108
 296405463,Alopecurus_geniculatus,47.197,14.804
 1946736948,Alopecurus_geniculatus,50.34,10.55
@@ -810,7 +778,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441685344,Alopecurus_geniculatus,42.930194,-111.504544
 993298501,Alopecurus_geniculatus,-30.3167,144.5333
 993298548,Alopecurus_geniculatus,-30.3333,144.5333
-994840896,Alopecurus_geniculatus,-37.6583,141.1
 994516897,Alopecurus_geniculatus,-41.26528,147.21769
 1928544493,Alopecurus_geniculatus,44.5973,-123.2411
 1332512862,Alopecurus_geniculatus,50.422621,9.561317
@@ -865,25 +832,21 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144150201,Alopecurus_geniculatus,58.9395,6.0327
 1701796364,Alopecurus_geniculatus,59.9987,11.2492
 1323798956,Alopecurus_geniculatus,69.0663,18.203
-992429791,Alopecurus_geniculatus,-31.7,140.333333
 1986925323,Alopecurus_geniculatus,41.892778,-119.590833
 1930190822,Alopecurus_geniculatus,41.8939,-119.5911
 993497311,Alopecurus_geniculatus,-35.85,145.4333
 993243298,Alopecurus_geniculatus,-30.6333,145.0333
 993243740,Alopecurus_geniculatus,-31.6833,147.15
-993243673,Alopecurus_geniculatus,-31.4333,147.2
 1598425010,Alopecurus_geniculatus,62.287669,27.969698
 1702264952,Alopecurus_geniculatus,59.86748,11.21437
 995072477,Alopecurus_geniculatus,-36.1667,145.4333
 995972848,Alopecurus_geniculatus,-35.32,143.55
 1652004693,Alopecurus_geniculatus,-25.573609,139.375953
-992346225,Alopecurus_geniculatus,-29.9,137.083333
 995972843,Alopecurus_geniculatus,-38.07,141.82
 994800098,Alopecurus_geniculatus,-38.0833,141.8333
 1697376357,Alopecurus_geniculatus,54.625308,40.655264
 318217794,Alopecurus_geniculatus,58.7267,5.6923
 318217796,Alopecurus_geniculatus,58.6729,5.6974
-211617464,Alopecurus_geniculatus,42.959999,-6.3
 318217792,Alopecurus_geniculatus,58.735,5.6656
 1999471073,Alopecurus_geniculatus,60.47168,22.695137
 1702013459,Alopecurus_geniculatus,58.5759,7.1558
@@ -894,7 +857,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894163870,Alopecurus_geniculatus,42.42,-6.101
 1702394369,Alopecurus_geniculatus,69.3121,18.9579
 1598425181,Alopecurus_geniculatus,63.596372,27.097444
-994830267,Alopecurus_geniculatus,-34.7,142.35
 1999471091,Alopecurus_geniculatus,68.792032,27.651874
 1928613024,Alopecurus_geniculatus,37.5003,-112.1925
 1928565141,Alopecurus_geniculatus,38.5634,-111.6973
@@ -913,12 +875,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701980865,Alopecurus_geniculatus,63.879,11.3057
 1999471111,Alopecurus_geniculatus,60.278999,22.575727
 883372502,Alopecurus_geniculatus,51.2719,-110.2988
-2270565848,Alopecurus_geniculatus,34.1,-109.417
 883372263,Alopecurus_geniculatus,51.816667,-110.183333
 318217784,Alopecurus_geniculatus,58.991,5.64
 1999471094,Alopecurus_geniculatus,68.887326,27.120291
 1701334055,Alopecurus_geniculatus,63.0452,11.6203
-1949520529,Alopecurus_geniculatus,49,-122
 1949552035,Alopecurus_geniculatus,46.783333,-71.275
 1697376453,Alopecurus_geniculatus,54.856059,38.537435
 1999471049,Alopecurus_geniculatus,60.601301,22.275632
@@ -926,21 +886,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291665355,Alopecurus_geniculatus,50.452,6.102
 1230499113,Alopecurus_geniculatus,48.78333,15.06667
 1901021167,Alopecurus_geniculatus,46.7833,-71.275
-993496486,Alopecurus_geniculatus,52.1167,4.5
 668788135,Alopecurus_geniculatus,46.780278,-71.2675
 894161415,Alopecurus_geniculatus,42.46,-6.26
 1598425086,Alopecurus_geniculatus,62.244977,25.746254
 230816866,Alopecurus_geniculatus,51.826323,5.815125
 1999471100,Alopecurus_geniculatus,60.723251,22.165913
-883372478,Alopecurus_geniculatus,50.083333,-110.4
 187086840,Alopecurus_geniculatus,63.1096,10.9719
-1228632026,Alopecurus_geniculatus,47.3922,-121.4
 1598424977,Alopecurus_geniculatus,61.519733,23.88631
 1598424992,Alopecurus_geniculatus,60.64694,27.718935
 1697376452,Alopecurus_geniculatus,54.860198,38.484671
-992406161,Alopecurus_geniculatus,-29.3,150.1
-1269693034,Alopecurus_geniculatus,49,-121
-1988160384,Alopecurus_geniculatus,49,-121.1
 39615050,Alopecurus_geniculatus,65.757,-16.897
 1702264886,Alopecurus_geniculatus,60.2947,11.3248
 1845007945,Alopecurus_geniculatus,50.159722,6.329444
@@ -951,15 +905,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788555871,Alopecurus_geniculatus,58.44337,13.86582
 187086512,Alopecurus_geniculatus,62.8629,8.774
 1701591281,Alopecurus_geniculatus,59.2058,8.0632
-883373689,Alopecurus_geniculatus,50.7,-110.633333
 2270564783,Alopecurus_geniculatus,33.9059,-109.563
-995972822,Alopecurus_geniculatus,-30.58,145
 1451623668,Alopecurus_geniculatus,-30.581793,145.00122
 1260856849,Alopecurus_geniculatus,50.81111,1.6075
 1845007916,Alopecurus_geniculatus,49.595556,8.449167
 1697376411,Alopecurus_geniculatus,55.401926,38.638774
 1701442489,Alopecurus_geniculatus,59.2745,11.0091
-1988122478,Alopecurus_geniculatus,49.2,-122.7
 1668935384,Alopecurus_geniculatus,54.855,37.564
 1702026656,Alopecurus_geniculatus,60.37037,5.41776
 1845008011,Alopecurus_geniculatus,49.823889,7.85
@@ -974,7 +925,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999471108,Alopecurus_geniculatus,60.649107,21.865671
 1701778982,Alopecurus_geniculatus,62.9791,11.7921
 1144150229,Alopecurus_geniculatus,59.19546,5.85371
-1949517548,Alopecurus_geniculatus,49.066667,-120.8
 1144150332,Alopecurus_geniculatus,68.83792,17.11835
 1323742810,Alopecurus_geniculatus,69.6041,20.5372
 993798349,Alopecurus_geniculatus,-33.8833,144.6833
@@ -984,8 +934,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995973211,Alopecurus_geniculatus,-33.88,144.68
 995972831,Alopecurus_geniculatus,-32.72,143.25
 1451623697,Alopecurus_geniculatus,-32.715147,143.251268
-994568838,Alopecurus_geniculatus,-41.6,146.4
-994875222,Alopecurus_geniculatus,-41.5667,146.4
 894167060,Alopecurus_geniculatus,42.19,-5.85
 1845007869,Alopecurus_geniculatus,50.563611,7.8525
 1702182083,Alopecurus_geniculatus,59.171,10.9943
@@ -1020,14 +968,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598425196,Alopecurus_geniculatus,62.412275,24.771673
 186789072,Alopecurus_geniculatus,58.9223,6.8725
 230817007,Alopecurus_geniculatus,51.883224,5.732152
-1988155216,Alopecurus_geniculatus,49.1,-123.1
 1897756526,Alopecurus_geniculatus,-38.75,177.133333
 1701255211,Alopecurus_geniculatus,63.6166,9.7362
 1598425226,Alopecurus_geniculatus,60.634607,27.453833
 1598425270,Alopecurus_geniculatus,61.0609,24.496741
 1701255244,Alopecurus_geniculatus,62.8547,11.7213
 1598425167,Alopecurus_geniculatus,62.059201,25.180148
-1949535456,Alopecurus_geniculatus,53.616667,-132.2
 1701642520,Alopecurus_geniculatus,59.8074,7.1907
 1598425057,Alopecurus_geniculatus,61.969517,25.185495
 1928157031,Alopecurus_geniculatus,36.32447,-112.112252
@@ -1039,13 +985,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705394621,Alopecurus_geniculatus,57.122877,16.085881
 1702200210,Alopecurus_geniculatus,68.8639,18.3403
 1999471155,Alopecurus_geniculatus,60.458421,22.178232
-1949567315,Alopecurus_geniculatus,49.1,-125.783333
 1598424995,Alopecurus_geniculatus,61.001243,28.191792
 1144150359,Alopecurus_geniculatus,60.86693,7.23398
 318046126,Alopecurus_geniculatus,45.08546,-100.80031
 1701336579,Alopecurus_geniculatus,63.7239,11.5817
 1697376382,Alopecurus_geniculatus,54.912443,40.302265
-993810231,Alopecurus_geniculatus,-30.5167,147.7
 1598425254,Alopecurus_geniculatus,60.814094,27.45637
 1455432368,Alopecurus_geniculatus,50.167925,5.796712
 1323864297,Alopecurus_geniculatus,67.279,14.7912
@@ -1055,8 +999,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702310255,Alopecurus_geniculatus,59.2139,10.953
 1701250944,Alopecurus_geniculatus,59.2125,10.9529
 1697376402,Alopecurus_geniculatus,54.749592,40.441643
-1988125690,Alopecurus_geniculatus,49.1,-122.9
-1146347915,Alopecurus_geniculatus,60.21,-150.8
 1701246308,Alopecurus_geniculatus,63.9804,10.1339
 1999471061,Alopecurus_geniculatus,60.538494,22.540284
 1702020041,Alopecurus_geniculatus,64.4173,13.8688
@@ -1074,19 +1016,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702431499,Alopecurus_geniculatus,62.3578,5.7245
 993805505,Alopecurus_geniculatus,-34.1333,145.3833
 1702013615,Alopecurus_geniculatus,58.3165,8.1611
-993498183,Alopecurus_geniculatus,-27.95,140.6
 1323798739,Alopecurus_geniculatus,69.6128,29.3797
 992471617,Alopecurus_geniculatus,-27.747778,140.738333
-993169419,Alopecurus_geniculatus,-31.05,144.4
 1451624007,Alopecurus_geniculatus,-31.265095,150.151144
 1451713988,Alopecurus_geniculatus,-31.098446,147.201189
-995973194,Alopecurus_geniculatus,-29.72,149.8
 1451624033,Alopecurus_geniculatus,-29.715098,149.801134
 1701854499,Alopecurus_geniculatus,59.1791,10.9642
 994801169,Alopecurus_geniculatus,-35.5667,142.0167
-994801214,Alopecurus_geniculatus,-35.5667,142
 995972903,Alopecurus_geniculatus,-31.27,150.15
-996214657,Alopecurus_geniculatus,-31.1,147.2
 1897693621,Alopecurus_geniculatus,-40.383333,175.75
 1845007865,Alopecurus_geniculatus,49.983056,7.966111
 1426237160,Alopecurus_geniculatus,38.933,-123.7084
@@ -1097,7 +1034,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598424985,Alopecurus_geniculatus,60.836152,26.436068
 1697376419,Alopecurus_geniculatus,54.766706,40.963855
 1598425182,Alopecurus_geniculatus,60.814593,27.272629
-1988239920,Alopecurus_geniculatus,49.3,-123.3
 1702264934,Alopecurus_geniculatus,59.7266,10.9028
 1697170299,Alopecurus_geniculatus,64.0301,82.04416
 39615033,Alopecurus_geniculatus,65.848,-18.833
@@ -1121,7 +1057,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928791026,Alopecurus_geniculatus,34.003055,-109.432342
 1323798963,Alopecurus_geniculatus,67.2855,14.4547
 993163864,Alopecurus_geniculatus,-30.5833,145.8833
-995851819,Alopecurus_geniculatus,-31.6,147.4
 1451575579,Alopecurus_geniculatus,-31.598444,147.401192
 186789070,Alopecurus_geniculatus,58.4143,7.9132
 1598425014,Alopecurus_geniculatus,64.928433,29.005192
@@ -1161,7 +1096,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705420133,Alopecurus_geniculatus,57.850182,14.114138
 1999471022,Alopecurus_geniculatus,60.039852,22.967156
 1999471028,Alopecurus_geniculatus,60.499674,22.199317
-1988107990,Alopecurus_geniculatus,53.6,-132.3
 1598425202,Alopecurus_geniculatus,62.41042,21.478535
 187086471,Alopecurus_geniculatus,63.02,10.3138
 1144150252,Alopecurus_geniculatus,60.2469,5.2641
@@ -1176,7 +1110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999471075,Alopecurus_geniculatus,60.446012,22.207256
 1702182031,Alopecurus_geniculatus,69.7266,30.1287
 39615039,Alopecurus_geniculatus,65.554,-19.451
-993151684,Alopecurus_geniculatus,-33.9,148.1667
 1701958069,Alopecurus_geniculatus,63.6538,9.3938
 1598425241,Alopecurus_geniculatus,61.59517,24.265264
 1598424994,Alopecurus_geniculatus,60.558097,26.477377
@@ -1218,7 +1151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701226481,Alopecurus_geniculatus,62.5705,11.3839
 1701566593,Alopecurus_geniculatus,63.0245,10.314
 187086469,Alopecurus_geniculatus,63.0098,10.4418
-1701233677,Alopecurus_geniculatus,63,10.5203
 187086433,Alopecurus_geniculatus,63.7201,9.668
 994800451,Alopecurus_geniculatus,-36.5333,144.3833
 995503875,Alopecurus_geniculatus,-36.661944,144.428611
@@ -1265,7 +1197,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995008233,Alopecurus_geniculatus,-34.75,142.35
 995008227,Alopecurus_geniculatus,-34.7167,142.45
 995008235,Alopecurus_geniculatus,-34.7667,142.2667
-1451034525,Alopecurus_geniculatus,-34.716667,142.4
 994801269,Alopecurus_geniculatus,-35.5833,142.05
 1999471116,Alopecurus_geniculatus,64.492534,27.516697
 1598425053,Alopecurus_geniculatus,60.330632,24.127144
@@ -1308,7 +1239,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248734522,Alopecurus_geniculatus,49.183056,-77.955556
 1702017812,Alopecurus_geniculatus,59.4975,8.6556
 1897724137,Alopecurus_geniculatus,-38.75,177.083333
-995007336,Alopecurus_geniculatus,-38.2333,141.5
 992358774,Alopecurus_geniculatus,-38.241778,141.4925
 1451034559,Alopecurus_geniculatus,-38.233333,141.483333
 465767699,Alopecurus_geniculatus,44.044191,-65.92729
@@ -1318,7 +1248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57676938,Alopecurus_geniculatus,62.246601,25.9384
 1598425248,Alopecurus_geniculatus,60.851595,23.224396
 1702374654,Alopecurus_geniculatus,60.70202,5.3772
-1705493609,Alopecurus_geniculatus,65,25.5
 1999471045,Alopecurus_geniculatus,60.377431,22.562361
 1701344126,Alopecurus_geniculatus,64.4395,10.9943
 1949503130,Alopecurus_geniculatus,54.016667,-132.15
@@ -1352,7 +1281,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187086405,Alopecurus_geniculatus,64.82224,13.67852
 1701308264,Alopecurus_geniculatus,62.8652,11.2111
 1701282144,Alopecurus_geniculatus,62.8759,10.3664
-1988102967,Alopecurus_geniculatus,49.9999999990714,-122.8
 1701226558,Alopecurus_geniculatus,62.6514,11.8589
 1323798924,Alopecurus_geniculatus,69.3153,18.8561
 1451624153,Alopecurus_geniculatus,-34.615113,148.01788
@@ -1495,7 +1423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451623689,Alopecurus_geniculatus,-32.398487,142.434609
 187086476,Alopecurus_geniculatus,62.7442,10.5169
 1065675141,Alopecurus_geniculatus,63.91559,19.80378
-995972827,Alopecurus_geniculatus,-32.4,142.43
 1323798967,Alopecurus_geniculatus,70.0616,24.9896
 39204526,Alopecurus_geniculatus,64.987,-21.545
 1701334460,Alopecurus_geniculatus,62.9377,10.4678
@@ -1503,8 +1430,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451440797,Alopecurus_geniculatus,-35.615155,144.117961
 1451586711,Alopecurus_geniculatus,-34.0985,141.917967
 995547344,Alopecurus_geniculatus,-35.62,144.12
-1986948219,Alopecurus_geniculatus,-34.1,141.916667
-995874561,Alopecurus_geniculatus,-34.1,141.92
 1451575266,Alopecurus_geniculatus,-35.515145,144.95128
 995397735,Alopecurus_geniculatus,50.0833,4.4667
 1705318759,Alopecurus_geniculatus,57.791355,12.071511
@@ -1516,8 +1441,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705358159,Alopecurus_geniculatus,57.801073,13.955105
 57676950,Alopecurus_geniculatus,62.223999,21.319799
 1065671299,Alopecurus_geniculatus,64.584539,18.675829
-1702017748,Alopecurus_geniculatus,59.5,8.2052
-994987482,Alopecurus_geniculatus,-34.1833,141.2
 1701762247,Alopecurus_geniculatus,63.3085,10.1673
 1598425112,Alopecurus_geniculatus,61.427819,21.653481
 1937211110,Alopecurus_geniculatus,-33.366667,116.15
@@ -1525,7 +1448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701571089,Alopecurus_geniculatus,63.2176,10.3029
 996241446,Alopecurus_geniculatus,-35.62,146.62
 2270565455,Alopecurus_geniculatus,36.446577,-112.128463
-995008231,Alopecurus_geniculatus,-34.7,142.2833
 1451719152,Alopecurus_geniculatus,-35.665127,147.017915
 996241320,Alopecurus_geniculatus,-35.67,147.02
 1598425011,Alopecurus_geniculatus,62.603786,25.731147
@@ -1542,7 +1464,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598425178,Alopecurus_geniculatus,62.063708,25.562456
 1451719203,Alopecurus_geniculatus,-35.715124,147.317911
 993467371,Alopecurus_geniculatus,-32.2333,148.25
-996241875,Alopecurus_geniculatus,-31.57,147.2
 1451719242,Alopecurus_geniculatus,-31.565112,147.201195
 1228631614,Alopecurus_geniculatus,41.844147,-100.826061
 1999470982,Alopecurus_geniculatus,60.386379,22.561141
@@ -1571,7 +1492,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 597078,Alopecurus_geniculatus,57.322695,14.340397
 1701226544,Alopecurus_geniculatus,62.9016,10.4856
 993467339,Alopecurus_geniculatus,-36.0667,144.6833
-995008229,Alopecurus_geniculatus,-35.9,142
 1702409182,Alopecurus_geniculatus,59.4362,11.2832
 465767675,Alopecurus_geniculatus,46.1302,-60.19032
 1988142791,Alopecurus_geniculatus,49.75,-126.49
@@ -1580,18 +1500,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697376422,Alopecurus_geniculatus,55.932223,37.782117
 20441798,Alopecurus_geniculatus,59.4416,11.2306
 1323799039,Alopecurus_geniculatus,65.8337,13.2376
-993115200,Alopecurus_geniculatus,-28.1,148.9667
 1651967399,Alopecurus_geniculatus,-28.081893,148.917521
 1988204650,Alopecurus_geniculatus,49.09,-123.08
 1702264919,Alopecurus_geniculatus,59.6448,10.6409
-1988130074,Alopecurus_geniculatus,49.3,-123.2
 1705461503,Alopecurus_geniculatus,56.74779,16.252843
 1144150224,Alopecurus_geniculatus,60.286,5.233
-1988158619,Alopecurus_geniculatus,49.5,-117.29
 39614574,Alopecurus_geniculatus,65.454,-21.928
 1988233140,Alopecurus_geniculatus,51.07,-114.11
 1451704878,Alopecurus_geniculatus,-34.548457,146.401241
-996144231,Alopecurus_geniculatus,-34.55,146.4
 1065671312,Alopecurus_geniculatus,64.68558,21.240199
 57676978,Alopecurus_geniculatus,60.630501,21.969299
 1702219736,Alopecurus_geniculatus,60.7272,11.246
@@ -1611,12 +1527,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986885383,Alopecurus_geniculatus,42.25605,-120.34294
 1931096290,Alopecurus_geniculatus,46.250433,-117.250441
 1986901204,Alopecurus_geniculatus,46.251944,-117.249722
-1146248578,Alopecurus_geniculatus,58.4,-134.566667
 1323798948,Alopecurus_geniculatus,69.3037,19.0094
 1598425035,Alopecurus_geniculatus,63.595509,26.49306
 1144150243,Alopecurus_geniculatus,60.2922,5.2344
 1702310163,Alopecurus_geniculatus,58.9955,11.5499
-1061532271,Alopecurus_geniculatus,-33.8333,150.2
 994134938,Alopecurus_geniculatus,-36.25,146.75
 1986884929,Alopecurus_geniculatus,44.464722,-111.736389
 1598425176,Alopecurus_geniculatus,60.725094,27.088634
@@ -1633,7 +1547,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451719445,Alopecurus_geniculatus,-34.265122,146.567902
 1598424979,Alopecurus_geniculatus,68.543242,21.971588
 1988120153,Alopecurus_geniculatus,49.33,-123.16
-1988074188,Alopecurus_geniculatus,49.17,-123.1
 1931097095,Alopecurus_geniculatus,46.816128,-116.71168
 239014310,Alopecurus_geniculatus,62.244999,25.746099
 187086467,Alopecurus_geniculatus,63.5793,9.9669
@@ -1647,7 +1560,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702013531,Alopecurus_geniculatus,58.8866,6.8833
 1701799956,Alopecurus_geniculatus,69.6716,29.9413
 1651967433,Alopecurus_geniculatus,-28.081914,144.917573
-1988135326,Alopecurus_geniculatus,49.1,-122.66
 1598425038,Alopecurus_geniculatus,60.908692,26.655936
 1701866054,Alopecurus_geniculatus,60.0725,10.8958
 1144150165,Alopecurus_geniculatus,59.211,10.9346
@@ -1659,7 +1571,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39204476,Alopecurus_geniculatus,64.178,-21.637
 992314968,Alopecurus_geniculatus,-34.25,140.466667
 993749863,Alopecurus_geniculatus,-35.9333,145.9167
-995391184,Alopecurus_geniculatus,-35.9,145.8833
 1697376417,Alopecurus_geniculatus,55.21766,40.154619
 596842,Alopecurus_geniculatus,56.18529,15.59863
 57676973,Alopecurus_geniculatus,62.564301,25.8396
@@ -1722,7 +1633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187086395,Alopecurus_geniculatus,69.3489,21.8512
 1323798933,Alopecurus_geniculatus,69.02943,17.64963
 992436038,Alopecurus_geniculatus,-26.362222,139.399444
-996241519,Alopecurus_geniculatus,-42.87,147.3
 1598425015,Alopecurus_geniculatus,60.814579,26.721387
 1999599830,Alopecurus_geniculatus,60.457546,22.278371
 1099922284,Alopecurus_geniculatus,58.020311,13.151875
@@ -1831,7 +1741,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701797325,Alopecurus_geniculatus,58.7516,7.5138
 1928093637,Alopecurus_geniculatus,45.603292,-84.694536
 186789059,Alopecurus_geniculatus,58.5581,7.7772
-995397931,Alopecurus_geniculatus,52.8,0.5333
 1144150232,Alopecurus_geniculatus,60.4057,5.3254
 1697376401,Alopecurus_geniculatus,54.33124,34.986565
 1705393935,Alopecurus_geniculatus,58.657094,16.01694
@@ -1911,7 +1820,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2273632703,Alopecurus_geniculatus,56.34255,13.96198
 415916975,Alopecurus_geniculatus,43.4525,-71.01388
 1701762176,Alopecurus_geniculatus,63.3647,11.8996
-85490064,Alopecurus_geniculatus,42.4,1.97
 1144150272,Alopecurus_geniculatus,60.56901,5.51371
 1323799091,Alopecurus_geniculatus,63.4087,11.82983
 1927989774,Alopecurus_geniculatus,30.674364,-96.369963
@@ -1927,7 +1835,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39615061,Alopecurus_geniculatus,64.896,-23.71
 1701957786,Alopecurus_geniculatus,63.4986,10.8682
 465767691,Alopecurus_geniculatus,44.84454,-65.28706
-786086967,Alopecurus_geniculatus,39.7,-104.9
 597350,Alopecurus_geniculatus,56.646843,14.91519
 1705372716,Alopecurus_geniculatus,55.582845,12.927791
 1697376438,Alopecurus_geniculatus,55.869041,37.489491
@@ -1939,7 +1846,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51747430,Alopecurus_geniculatus,42.4658,-122.0814
 1144150320,Alopecurus_geniculatus,61.30602,6.92873
 1804430193,Alopecurus_geniculatus,54.316667,-130.316667
-992334852,Alopecurus_geniculatus,-29.7,139.733333
 1949450156,Alopecurus_geniculatus,49.766667,-123.15
 992287287,Alopecurus_geniculatus,-29.366667,139.833333
 1928864027,Alopecurus_geniculatus,31.975994,-93.049884
@@ -1958,7 +1864,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705379251,Alopecurus_geniculatus,56.748649,14.546646
 995216757,Alopecurus_geniculatus,-37.9667,145.95
 1928578747,Alopecurus_geniculatus,36.805031,-98.666474
-1988187063,Alopecurus_geniculatus,54.2999999991065,-130.3
 1697376391,Alopecurus_geniculatus,55.33719,41.62432
 1705265800,Alopecurus_geniculatus,57.639579,14.750369
 1144150333,Alopecurus_geniculatus,63.29955,9.71096
@@ -1980,11 +1885,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598425110,Alopecurus_geniculatus,61.164592,25.417742
 1697376511,Alopecurus_geniculatus,55.965335,37.798206
 1426237153,Alopecurus_geniculatus,40.9418,-121.7083
-996242006,Alopecurus_geniculatus,-30.95,148.4
 57676949,Alopecurus_geniculatus,61.139099,23.9331
 1451719305,Alopecurus_geniculatus,-30.948438,148.401169
 1451719283,Alopecurus_geniculatus,-31.248447,146.901195
-996241431,Alopecurus_geniculatus,-31.25,146.9
 996242011,Alopecurus_geniculatus,-33.77,147.52
 1451719349,Alopecurus_geniculatus,-33.765112,147.517883
 1598425184,Alopecurus_geniculatus,61.169958,25.974984
@@ -2009,7 +1912,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702310220,Alopecurus_geniculatus,59.2127,10.9082
 1598425151,Alopecurus_geniculatus,63.14754,27.294282
 1937203019,Alopecurus_geniculatus,-28.85,151.17
-993527638,Alopecurus_geniculatus,-37.8167,147.6
 1598425166,Alopecurus_geniculatus,61.152375,21.514117
 441685348,Alopecurus_geniculatus,46.019167,-121.288056
 1929114938,Alopecurus_geniculatus,44.953689,-67.161929
@@ -2037,7 +1939,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598424909,Alopecurus_geniculatus,60.421768,22.28357
 1038977852,Alopecurus_geniculatus,41.986,-73.4257
 1930196370,Alopecurus_geniculatus,48.288888,-99.437635
-1937346865,Alopecurus_geniculatus,-33.27,146.4
 1451719366,Alopecurus_geniculatus,-33.265123,146.401225
 1701866118,Alopecurus_geniculatus,59.5868,10.6824
 1598425193,Alopecurus_geniculatus,61.159763,21.699024
@@ -2046,10 +1947,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702264971,Alopecurus_geniculatus,59.97892,11.24854
 39615037,Alopecurus_geniculatus,65.758,-20.252
 39615035,Alopecurus_geniculatus,65.735,-19.109
-996241961,Alopecurus_geniculatus,-30.22,142.2
 1598425081,Alopecurus_geniculatus,63.146991,27.492621
 1451719226,Alopecurus_geniculatus,-35.165145,144.701278
-996241615,Alopecurus_geniculatus,-35.17,144.7
 1598425013,Alopecurus_geniculatus,64.262584,29.916452
 1701454360,Alopecurus_geniculatus,59.3787,10.7337
 1598425124,Alopecurus_geniculatus,61.31394,23.729411
@@ -2077,7 +1976,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 699261730,Alopecurus_geniculatus,41.76194,-72.74194
 1702264916,Alopecurus_geniculatus,59.5204,10.7135
 1038923904,Alopecurus_geniculatus,41.766,-72.6834
-1228631628,Alopecurus_geniculatus,44.32,-76
 39205980,Alopecurus_geniculatus,65.769,-18.26
 1323798966,Alopecurus_geniculatus,68.9492,19.004
 1228632031,Alopecurus_geniculatus,39.468308,-123.050477
@@ -2096,7 +1994,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598425039,Alopecurus_geniculatus,61.435035,21.840057
 1705278833,Alopecurus_geniculatus,58.389095,13.846897
 597359,Alopecurus_geniculatus,56.463342,14.698421
-1988191150,Alopecurus_geniculatus,45.33,-61
 1228631651,Alopecurus_geniculatus,41.1456,-104.8019
 1228631693,Alopecurus_geniculatus,42.249544,-71.066161
 1701866085,Alopecurus_geniculatus,59.9411,10.9778
