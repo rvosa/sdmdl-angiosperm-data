@@ -36,7 +36,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1837903233,Potentilla_neumaniana,51.345833,10.999445
 1839062903,Potentilla_neumaniana,51.998329,12.45056
 1702028893,Potentilla_neumaniana,59.764,9.9839
-1842867064,Potentilla_neumaniana,42.3,1
 2287445311,Potentilla_neumaniana,52.394567,4.5754
 1935713400,Potentilla_neumaniana,47.13019,15.4091
 1830992879,Potentilla_neumaniana,48.26861,15.44725
@@ -73,10 +72,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935713227,Potentilla_neumaniana,47.03509,15.37346
 1701345806,Potentilla_neumaniana,60.1144,10.2799
 1882017209,Potentilla_neumaniana,48.73,10.63
-1882009637,Potentilla_neumaniana,48.69,10.9
 1882009656,Potentilla_neumaniana,48.73,10.64
 1702028751,Potentilla_neumaniana,60.1275,10.2758
-1882009930,Potentilla_neumaniana,48.68,10.9
 1882009699,Potentilla_neumaniana,48.69,10.99
 1882009857,Potentilla_neumaniana,48.61,10.97
 1882016324,Potentilla_neumaniana,48.77,10.57
@@ -155,7 +152,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701505271,Potentilla_neumaniana,44.7925,6.56444
 1342827833,Potentilla_neumaniana,55.992403,12.393552
 895199541,Potentilla_neumaniana,40.338,-2.229
-1882009534,Potentilla_neumaniana,48.9,10.78
 1701274905,Potentilla_neumaniana,61.0476,7.6022
 1702238497,Potentilla_neumaniana,59.7636,9.988
 1935712132,Potentilla_neumaniana,47.15389,14.735
@@ -199,8 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701233906,Potentilla_neumaniana,63.5001,10.7869
 1947418556,Potentilla_neumaniana,49.98,10.68
 895224329,Potentilla_neumaniana,40.747,-1.052
-198469876,Potentilla_neumaniana,43.130001,-4.8
-895231854,Potentilla_neumaniana,39.865,-1.1
 788457402,Potentilla_neumaniana,55.36795,13.07731
 198469882,Potentilla_neumaniana,43.099998,-4.69
 788486102,Potentilla_neumaniana,55.45494,12.99066
@@ -217,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701254236,Potentilla_neumaniana,63.4893,10.8565
 788483630,Potentilla_neumaniana,55.36791,13.07574
 1701328124,Potentilla_neumaniana,63.596,10.8521
-29723295,Potentilla_neumaniana,40.292,-2.1
 1342827746,Potentilla_neumaniana,55.534148,11.129885
 1342827750,Potentilla_neumaniana,55.534422,11.114052
 187228672,Potentilla_neumaniana,63.9108,9.9895
@@ -271,11 +264,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701315130,Potentilla_neumaniana,63.823,9.6532
 1701272734,Potentilla_neumaniana,63.8247,9.6715
 1947419522,Potentilla_neumaniana,48.29,13.11
-1947419531,Potentilla_neumaniana,48.3,13.16
 1795863790,Potentilla_neumaniana,42.640285,-2.279296
 1936667630,Potentilla_neumaniana,42.08,-3.5212
 1936642269,Potentilla_neumaniana,42.8256,-3.8455
-1050622449,Potentilla_neumaniana,41.72,-1.7
 230819590,Potentilla_neumaniana,51.736092,5.901132
 1050622414,Potentilla_neumaniana,41.65,-1.72
 858371705,Potentilla_neumaniana,54.0485,13.415
@@ -315,12 +306,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697945799,Potentilla_neumaniana,64.039,11.3651
 728980152,Potentilla_neumaniana,51.690508,6.030776
 1701309872,Potentilla_neumaniana,63.5879,10.9043
-29723242,Potentilla_neumaniana,39.7,-2.01
 1701233989,Potentilla_neumaniana,64.0154,11.4347
 1701290449,Potentilla_neumaniana,63.9599,11.2563
 187227831,Potentilla_neumaniana,63.7824,11.1203
 1701304210,Potentilla_neumaniana,63.8078,11.2238
-1050621127,Potentilla_neumaniana,42.92,-0.7
 1701968208,Potentilla_neumaniana,64.0212,11.3533
 1701294463,Potentilla_neumaniana,63.7025,11.0536
 1701236879,Potentilla_neumaniana,63.77,11.3425
@@ -333,7 +322,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342827745,Potentilla_neumaniana,55.725381,10.981037
 1342827774,Potentilla_neumaniana,55.725636,10.965125
 1882009831,Potentilla_neumaniana,48.76,10.69
-1882017836,Potentilla_neumaniana,48.77,10.7
 1705352036,Potentilla_neumaniana,57.05073,16.20068
 1838940027,Potentilla_neumaniana,56.00416,14.2292
 1701278795,Potentilla_neumaniana,63.4376,10.8311
@@ -343,8 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838940668,Potentilla_neumaniana,55.49411,14.04936
 1851372165,Potentilla_neumaniana,43.022,-5.154
 1502036942,Potentilla_neumaniana,40.57,0.22
-1502011308,Potentilla_neumaniana,40.04,-0.6
-1501122686,Potentilla_neumaniana,40.3,-0.33
 1851400441,Potentilla_neumaniana,43.016,-5.019
 895307430,Potentilla_neumaniana,40.301,-0.335
 1838941376,Potentilla_neumaniana,55.96826,14.30355
@@ -353,7 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1332799692,Potentilla_neumaniana,50.300233,9.671232
 1851320411,Potentilla_neumaniana,43.024,-5.068
 1838942542,Potentilla_neumaniana,55.89476,14.11021
-1050651476,Potentilla_neumaniana,43.17,-4.9
 1838941804,Potentilla_neumaniana,55.66337,14.21901
 1342827692,Potentilla_neumaniana,56.889914,8.399593
 1838942720,Potentilla_neumaniana,55.89922,14.25458
@@ -406,7 +391,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860317773,Potentilla_neumaniana,42.03,1.01
 2313367287,Potentilla_neumaniana,48.12,11.46
 979385,Potentilla_neumaniana,55.37731,13.09403
-1502029135,Potentilla_neumaniana,40.3,-0.12
 1332799691,Potentilla_neumaniana,50.511979,10.025425
 1050603023,Potentilla_neumaniana,42.73,-3.29
 1342827758,Potentilla_neumaniana,57.445944,9.773401
@@ -423,7 +407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895236122,Potentilla_neumaniana,40.67,-0.46
 30976263,Potentilla_neumaniana,42.75,-0.74
 1502027570,Potentilla_neumaniana,40.48,-0.23
-29724897,Potentilla_neumaniana,40.4,-0.35
 1701304311,Potentilla_neumaniana,63.4431,10.8745
 1332799695,Potentilla_neumaniana,50.478639,10.081607
 1947423959,Potentilla_neumaniana,50.18,9.86
@@ -437,10 +420,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838940724,Potentilla_neumaniana,55.59028,13.02351
 978516,Potentilla_neumaniana,57.38091,13.99546
 895237824,Potentilla_neumaniana,40.39,0.11
-1851397452,Potentilla_neumaniana,42.56,-5.5
 788510118,Potentilla_neumaniana,55.71428,13.30627
 1050612264,Potentilla_neumaniana,42.45,-1.13
-30885022,Potentilla_neumaniana,43.349998,-3
 788527888,Potentilla_neumaniana,56.09182,14.24602
 788575355,Potentilla_neumaniana,55.87863,14.22262
 1838940641,Potentilla_neumaniana,55.94031,13.10182
@@ -492,11 +473,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701712845,Potentilla_neumaniana,59.7638,9.9702
 29720055,Potentilla_neumaniana,40.256,-0.348
 1501122772,Potentilla_neumaniana,40.25,-0.34
-1502016962,Potentilla_neumaniana,40.14,-1.3
 1050602995,Potentilla_neumaniana,42.42,-5.43
 111311667,Potentilla_neumaniana,42.948002,-1.964
-29724208,Potentilla_neumaniana,40.05,-1.3
-29723174,Potentilla_neumaniana,39.95,-0.6
 978462,Potentilla_neumaniana,57.15346,15.69558
 1705341676,Potentilla_neumaniana,57.235408,15.72739
 1936443844,Potentilla_neumaniana,41.0222,-4.0837
@@ -514,7 +492,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705341771,Potentilla_neumaniana,57.259618,15.684255
 1053983899,Potentilla_neumaniana,42.65,-1.07
 1705395962,Potentilla_neumaniana,57.347427,15.556068
-1502025765,Potentilla_neumaniana,40.3,-0.23
 1851391477,Potentilla_neumaniana,42.922,-4.685
 1705341764,Potentilla_neumaniana,57.521531,14.603569
 1936648744,Potentilla_neumaniana,42.9152,-4.692
@@ -531,8 +508,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050603049,Potentilla_neumaniana,43.33,-3.04
 895210885,Potentilla_neumaniana,40.67,-0.57
 1050603010,Potentilla_neumaniana,42.66,-2.48
-1501961072,Potentilla_neumaniana,39.6,-1.08
-29724167,Potentilla_neumaniana,39.86,-0.6
 111311479,Potentilla_neumaniana,42.966999,-1.302
 1936444069,Potentilla_neumaniana,40.9604,-3.9519
 788575299,Potentilla_neumaniana,55.69907,13.44565
@@ -545,7 +520,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895237324,Potentilla_neumaniana,40.313,-0.487
 1936195237,Potentilla_neumaniana,41.1263,-3.18
 860311872,Potentilla_neumaniana,40.76,0.33
-1144755397,Potentilla_neumaniana,42.81667,9.4
 1705324096,Potentilla_neumaniana,57.319026,15.58514
 1936559470,Potentilla_neumaniana,42.7837,-3.0135
 1936444792,Potentilla_neumaniana,40.8878,-4.0102
@@ -564,7 +538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701660627,Potentilla_neumaniana,59.9774,10.0302
 111311483,Potentilla_neumaniana,42.653,-2.311
 1053980484,Potentilla_neumaniana,42.65,-2.31
-1053980461,Potentilla_neumaniana,42.71,-1
 978129,Potentilla_neumaniana,57.3341,16.18296
 788456894,Potentilla_neumaniana,56.26306,15.09117
 1838940265,Potentilla_neumaniana,55.99432,14.42822
@@ -587,7 +560,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050603003,Potentilla_neumaniana,42.86,-2.57
 1050603047,Potentilla_neumaniana,42.95,-2.45
 2028546377,Potentilla_neumaniana,42.09,2.72
-1050603075,Potentilla_neumaniana,42.7,-2.99
 1806555503,Potentilla_neumaniana,42.689057,-1.584721
 1050603035,Potentilla_neumaniana,42.74,-3.03
 1806555536,Potentilla_neumaniana,42.927648,-1.810162
@@ -597,7 +569,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806555516,Potentilla_neumaniana,42.751966,-1.68344
 204433991,Potentilla_neumaniana,42.59,-2.33
 978212,Potentilla_neumaniana,57.24956,16.44053
-1947419071,Potentilla_neumaniana,50.28,10.4
 1701240169,Potentilla_neumaniana,63.9013,9.9708
 1050603037,Potentilla_neumaniana,42.94,-2.58
 1806555431,Potentilla_neumaniana,42.927698,-1.810602
@@ -627,7 +598,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050603016,Potentilla_neumaniana,42.88,-2.49
 1702210226,Potentilla_neumaniana,59.7499,9.85407
 1947418454,Potentilla_neumaniana,50.13,10.76
-1050603038,Potentilla_neumaniana,42.57,-2.4
 1050603040,Potentilla_neumaniana,42.55,-2.64
 204433983,Potentilla_neumaniana,42.59,-2.45
 204433981,Potentilla_neumaniana,42.68,-2.33
@@ -646,7 +616,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323809714,Potentilla_neumaniana,63.8217,9.6805
 2291809869,Potentilla_neumaniana,47.416667,-0.366667
 1701337283,Potentilla_neumaniana,63.8435,9.8132
-2028547050,Potentilla_neumaniana,42.1,2.7
 1455430829,Potentilla_neumaniana,50.207325,4.824194
 1705747633,Potentilla_neumaniana,53.0969,23.6567
 1702279470,Potentilla_neumaniana,60.1029,10.3192
@@ -662,7 +631,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050603059,Potentilla_neumaniana,42.87,-2.46
 1050603081,Potentilla_neumaniana,42.77,-2.69
 1050603018,Potentilla_neumaniana,42.72,-2.81
-1050603013,Potentilla_neumaniana,42.8,-2.71
 1050603022,Potentilla_neumaniana,42.86,-3.22
 1705284531,Potentilla_neumaniana,57.318992,16.469106
 1050603036,Potentilla_neumaniana,42.88,-2.96
@@ -676,7 +644,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050603060,Potentilla_neumaniana,42.77,-2.57
 1288115433,Potentilla_neumaniana,50.349125,9.882898
 1260845424,Potentilla_neumaniana,43.78333,6.95
-833456116,Potentilla_neumaniana,50,8.183333
 1883795796,Potentilla_neumaniana,57.78762,14.27015
 1332799686,Potentilla_neumaniana,50.582333,9.849118
 1050603019,Potentilla_neumaniana,42.61,-2.48
@@ -700,7 +667,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701763062,Potentilla_neumaniana,63.6707,9.0505
 1701260672,Potentilla_neumaniana,63.9644,10.0924
 1701242181,Potentilla_neumaniana,63.5354,10.8002
-1260845412,Potentilla_neumaniana,50.4,6.73333
 30885027,Potentilla_neumaniana,37.209999,-6.97
 187228461,Potentilla_neumaniana,63.4426,10.9145
 187228575,Potentilla_neumaniana,63.4366,10.6736
@@ -716,7 +682,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702010149,Potentilla_neumaniana,60.1278,10.2868
 1701795857,Potentilla_neumaniana,60.1366,10.3052
 1701588133,Potentilla_neumaniana,60.1409,10.3234
-1144755423,Potentilla_neumaniana,42.7,9.4
 1288115399,Potentilla_neumaniana,50.673391,9.803327
 1638418326,Potentilla_neumaniana,47.225,15.79167
 1701660705,Potentilla_neumaniana,60.1423,10.3235
@@ -750,7 +715,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434677457,Potentilla_neumaniana,58.5996,13.37157
 1838940258,Potentilla_neumaniana,59.93463,17.64395
 1701967989,Potentilla_neumaniana,63.6039,11.0465
-465901325,Potentilla_neumaniana,61.1,-46.2
 1937489043,Potentilla_neumaniana,61.70525,8.43794
 1838940042,Potentilla_neumaniana,55.59508,12.94016
 1701255744,Potentilla_neumaniana,63.5736,10.6011
@@ -760,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2012691597,Potentilla_neumaniana,55.5089,13.77479
 1840910783,Potentilla_neumaniana,57.34209,12.10015
 1840910748,Potentilla_neumaniana,63.32121,12.54021
-1705471571,Potentilla_neumaniana,46,6.3333
 1701964557,Potentilla_neumaniana,63.8368,11.0837
 1838940078,Potentilla_neumaniana,56.107844,13.916273
 1701344987,Potentilla_neumaniana,63.7319,9.6986
@@ -778,13 +741,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891596294,Potentilla_neumaniana,49.66,6.41
 812030069,Potentilla_neumaniana,50.62255,9.419167
 2313368694,Potentilla_neumaniana,48.14,11.51
-1891607160,Potentilla_neumaniana,49.8,6.49
 1705425043,Potentilla_neumaniana,57.122656,16.264724
 1702279355,Potentilla_neumaniana,59.9094,10.2695
 1701291734,Potentilla_neumaniana,63.5961,10.8442
 1838940890,Potentilla_neumaniana,56.11862,14.27098
 812030111,Potentilla_neumaniana,50.650267,9.1705
-2309002167,Potentilla_neumaniana,53.3,-3.8
 1990858857,Potentilla_neumaniana,56.41386,15.20786
 2306555744,Potentilla_neumaniana,53.18,-3.42
 1840910781,Potentilla_neumaniana,57.36073,12.11136
@@ -810,11 +771,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701277622,Potentilla_neumaniana,63.595,10.9248
 1701332636,Potentilla_neumaniana,63.4703,10.8562
 1840910685,Potentilla_neumaniana,55.68662,13.96263
-876152707,Potentilla_neumaniana,41.78,2.7
 1840910692,Potentilla_neumaniana,57.79691,13.39156
 1705267909,Potentilla_neumaniana,57.256392,16.418274
 1840910828,Potentilla_neumaniana,58.71075,11.20821
-876152961,Potentilla_neumaniana,41.5,2.34
 2313366157,Potentilla_neumaniana,48.17,11.46
 1838940066,Potentilla_neumaniana,55.524772,13.906531
 1705427030,Potentilla_neumaniana,55.524772,13.906526
@@ -863,7 +822,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838939779,Potentilla_neumaniana,55.492511,14.047174
 788659961,Potentilla_neumaniana,58.1591,13.63932
 1144755495,Potentilla_neumaniana,47.59278,14.14028
-786226069,Potentilla_neumaniana,49.3,8.7
 2313366427,Potentilla_neumaniana,48.28,11.61
 1838943206,Potentilla_neumaniana,55.6054,13.06798
 1840910775,Potentilla_neumaniana,57.11442,12.24157
