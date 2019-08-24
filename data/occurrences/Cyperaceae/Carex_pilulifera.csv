@@ -92,12 +92,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638387018,Carex_pilulifera,47.16833,16.08694
 1342299318,Carex_pilulifera,56.801521,8.990486
 1838163443,Carex_pilulifera,48.405,6.94861
-1095906876,Carex_pilulifera,61.6,16.33
-1095906822,Carex_pilulifera,59.2,17.92
 1563901531,Carex_pilulifera,58.8258,7.482
 1702107168,Carex_pilulifera,59.6837,11.0381
 1599409025,Carex_pilulifera,60.107333,24.369908
-786106286,Carex_pilulifera,51.8,10.6
 1305191074,Carex_pilulifera,47.327606,13.761333
 1323769062,Carex_pilulifera,68.4408,17.4253
 1702243182,Carex_pilulifera,58.6311,8.6062
@@ -244,7 +241,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342299766,Carex_pilulifera,54.992977,9.788059
 1342299566,Carex_pilulifera,55.605799,9.435219
 1342299462,Carex_pilulifera,55.300816,9.242867
-1050633049,Carex_pilulifera,42.68,-2.5
 1342299669,Carex_pilulifera,56.90765,9.647294
 1935660814,Carex_pilulifera,47.05083,14.85389
 1701803171,Carex_pilulifera,59.9728,12.1753
@@ -255,7 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701776385,Carex_pilulifera,63.3297,9.6689
 684797,Carex_pilulifera,56.10208,14.20543
 1701285147,Carex_pilulifera,63.972,10.2971
-786106137,Carex_pilulifera,51.8,10.7
 1701768748,Carex_pilulifera,63.4146,10.6514
 1342298954,Carex_pilulifera,56.547248,8.177321
 1042824179,Carex_pilulifera,56.14462,14.09585
@@ -480,13 +475,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701786482,Carex_pilulifera,60.6013,11.1997
 1702089514,Carex_pilulifera,58.5473,6.4311
 1701910266,Carex_pilulifera,62.65769,8.70421
-1838302647,Carex_pilulifera,48.4,11.73333
 1342299481,Carex_pilulifera,57.124517,9.320734
 1342299872,Carex_pilulifera,56.977247,9.993993
 2287439797,Carex_pilulifera,51.988212,5.787553
 1342300546,Carex_pilulifera,55.860397,12.53026
 1342299628,Carex_pilulifera,55.712874,9.611487
-2310461876,Carex_pilulifera,52.13,-4.1
 1701576803,Carex_pilulifera,59.6157,8.6925
 1702006059,Carex_pilulifera,59.7355,10.1295
 1701577575,Carex_pilulifera,59.7291,9.9149
@@ -594,11 +587,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599408995,Carex_pilulifera,61.153801,24.592375
 1701985774,Carex_pilulifera,60.2589,10.6173
 1999502876,Carex_pilulifera,60.698642,21.527461
-1144179014,Carex_pilulifera,60.6,24.55
 1599408985,Carex_pilulifera,60.317043,24.914922
 1701929791,Carex_pilulifera,59.3097,7.6213
 1042872800,Carex_pilulifera,60.383333,25.166667
-1323846124,Carex_pilulifera,61.0667,23.3
 1599412030,Carex_pilulifera,61.118572,24.018712
 1599409008,Carex_pilulifera,60.954358,24.487451
 994538488,Carex_pilulifera,61.10366,24.0001
@@ -727,7 +718,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599408920,Carex_pilulifera,61.009666,24.516373
 1599408915,Carex_pilulifera,61.006418,24.535121
 1323776525,Carex_pilulifera,67.9339,15.167
-995899012,Carex_pilulifera,61,24.53
 1697425408,Carex_pilulifera,56.468349,35.74719
 1599408921,Carex_pilulifera,60.984108,24.592294
 1599408916,Carex_pilulifera,60.968627,24.4346
@@ -832,7 +822,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705352410,Carex_pilulifera,57.068636,16.217355
 1701847787,Carex_pilulifera,59.0251,11.0181
 1705300411,Carex_pilulifera,56.846551,14.461413
-1053980571,Carex_pilulifera,42.8,-2.23
 1701227507,Carex_pilulifera,62.0552,9.1434
 1701343005,Carex_pilulifera,62.1091,8.9904
 1599412037,Carex_pilulifera,61.30932,23.543084
@@ -883,15 +872,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186799774,Carex_pilulifera,58.8511,7.7045
 204423877,Carex_pilulifera,42.977001,-2.319
 204423876,Carex_pilulifera,43.287998,-1.737
-1050645423,Carex_pilulifera,43.04,-2.6
 204423619,Carex_pilulifera,43.198002,-1.788
 1946865012,Carex_pilulifera,50.12,10.63
 204423826,Carex_pilulifera,43.213001,-2.982
 204423878,Carex_pilulifera,43.222,-3.265
 204423875,Carex_pilulifera,43.222,-3.179
-204423618,Carex_pilulifera,43.188999,-1.8
-1050646782,Carex_pilulifera,43.2,-3.24
-1050645553,Carex_pilulifera,43.19,-2.6
 1050645657,Carex_pilulifera,43.06,-2.85
 1946864919,Carex_pilulifera,50.08,10.65
 1705343373,Carex_pilulifera,57.502008,15.973681
@@ -1017,7 +1002,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701337443,Carex_pilulifera,63.3002,9.8677
 1323776094,Carex_pilulifera,67.3223,15.0349
 187126102,Carex_pilulifera,63.9008,9.9677
-786106312,Carex_pilulifera,47,14.8
 1323776529,Carex_pilulifera,67.4639,15.7832
 685063,Carex_pilulifera,57.43438,15.79877
 187125522,Carex_pilulifera,62.4613,6.9924
@@ -1055,7 +1039,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187126135,Carex_pilulifera,62.8074,9.7159
 1323776101,Carex_pilulifera,67.3895,14.8835
 1701967824,Carex_pilulifera,62.6648,6.7063
-1144638534,Carex_pilulifera,42.2,8.95
 1599412060,Carex_pilulifera,60.941144,23.213782
 1144638520,Carex_pilulifera,42.23333,8.98333
 1042868643,Carex_pilulifera,66.43901,14.34921
@@ -1117,7 +1100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599412002,Carex_pilulifera,61.053533,24.126848
 1701274175,Carex_pilulifera,63.4428,8.569
 1702010069,Carex_pilulifera,61.027,9.8679
-39631583,Carex_pilulifera,65.6,-23.538
 1144042070,Carex_pilulifera,58.84309,6.82981
 1702384111,Carex_pilulifera,62.21485,6.35549
 187126108,Carex_pilulifera,63.3529,10.2291
@@ -1163,7 +1145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935665586,Carex_pilulifera,47.39806,15.135
 1323776163,Carex_pilulifera,67.2944,14.4545
 1935665545,Carex_pilulifera,47.57472,14.46222
-2313356077,Carex_pilulifera,48.06,11.4
 1935665553,Carex_pilulifera,47.53722,14.87278
 1599411997,Carex_pilulifera,60.870237,23.95915
 1935665536,Carex_pilulifera,47.54056,14.51444
@@ -1338,7 +1319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702398794,Carex_pilulifera,59.0265,6.927
 1599411967,Carex_pilulifera,60.682242,23.610638
 1599411978,Carex_pilulifera,60.776349,23.784384
-1891594354,Carex_pilulifera,49.7,6.15
 1702166748,Carex_pilulifera,61.9388,5.4356
 1144046162,Carex_pilulifera,61.54414,5.76869
 1323776557,Carex_pilulifera,67.403,15.758
@@ -1368,7 +1348,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701284047,Carex_pilulifera,63.4509,10.3135
 1701236038,Carex_pilulifera,64.7328,12.2593
 1323766647,Carex_pilulifera,67.3004,14.3846
-1891596948,Carex_pilulifera,49.75,6.3
 1042839495,Carex_pilulifera,55.69842,13.30351
 1891604568,Carex_pilulifera,49.68,6.23
 1999502914,Carex_pilulifera,59.945542,22.969793
@@ -1389,11 +1368,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701883790,Carex_pilulifera,59.41,11.7132
 39280667,Carex_pilulifera,64.833,-23.429
 1999502767,Carex_pilulifera,60.460729,22.368937
-1893209263,Carex_pilulifera,49.8,6.43
 1042850089,Carex_pilulifera,56.16836,14.30213
 1042875698,Carex_pilulifera,60.14247,15.35437
 1701918330,Carex_pilulifera,58.7602,9.0605
-1891605578,Carex_pilulifera,50.08,5.9
 1599411961,Carex_pilulifera,61.097337,22.452507
 1999502786,Carex_pilulifera,60.717489,22.653061
 2289783770,Carex_pilulifera,52.772244,6.450194
@@ -1431,7 +1408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599408831,Carex_pilulifera,60.522891,27.297363
 1701364054,Carex_pilulifera,59.6982,10.5742
 812022516,Carex_pilulifera,50.546717,9.60145
-1891595358,Carex_pilulifera,49.8,6.19
 1701957725,Carex_pilulifera,63.3869,10.4306
 2313357089,Carex_pilulifera,48.17,11.37
 1599411940,Carex_pilulifera,61.524406,21.825207
@@ -1620,7 +1596,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999502780,Carex_pilulifera,60.473684,22.102985
 1042868616,Carex_pilulifera,58.14161,12.13986
 1701236048,Carex_pilulifera,63.5846,10.8133
-786106159,Carex_pilulifera,47.8,7.9
 1935665584,Carex_pilulifera,47.09,15.38528
 1599411901,Carex_pilulifera,61.31394,23.729411
 1702337295,Carex_pilulifera,59.996,10.9093
@@ -1666,7 +1641,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599408836,Carex_pilulifera,61.27625,22.426603
 1999502746,Carex_pilulifera,60.388775,22.633461
 1701909220,Carex_pilulifera,59.8541,10.4102
-2291588831,Carex_pilulifera,46.2,14.616667
 20686453,Carex_pilulifera,60.37037,5.41776
 1042874935,Carex_pilulifera,56.19313,15.59965
 1999502779,Carex_pilulifera,60.787498,21.392758
@@ -1848,7 +1822,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042873322,Carex_pilulifera,67.2337,15.6859
 1042873615,Carex_pilulifera,59.32146,14.91513
 1042868814,Carex_pilulifera,60.22986,16.54522
-735648651,Carex_pilulifera,48.8,2.195556
 616365656,Carex_pilulifera,50.54,5.44
 1042824192,Carex_pilulifera,55.36901,13.07692
 1705469001,Carex_pilulifera,57.662153,14.077192
