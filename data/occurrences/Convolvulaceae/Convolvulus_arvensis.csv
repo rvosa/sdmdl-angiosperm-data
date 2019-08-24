@@ -91,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844879163,Convolvulus_arvensis,41.20694,23.57667
 1844878997,Convolvulus_arvensis,41.290001,23.928061
 1844878976,Convolvulus_arvensis,41.410561,24.27944
-1842843831,Convolvulus_arvensis,41.41,2.1
 1844878930,Convolvulus_arvensis,41.383331,24.26111
 1844879049,Convolvulus_arvensis,41.389999,23.905001
 1844879332,Convolvulus_arvensis,40.96944,21.940559
@@ -319,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838988567,Convolvulus_arvensis,39.8475,21.35861
 1838988596,Convolvulus_arvensis,40.681671,21.71694
 1838988693,Convolvulus_arvensis,39.781391,21.652781
-1257910986,Convolvulus_arvensis,43.966667,-99.2
 1838988649,Convolvulus_arvensis,40.639999,21.55917
 1838988615,Convolvulus_arvensis,39.671669,21.71056
 1838988625,Convolvulus_arvensis,40.660278,21.58194
@@ -373,7 +371,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230542962,Convolvulus_arvensis,39.545,47.01806
 1929576506,Convolvulus_arvensis,38.928642,-75.962997
 1931005274,Convolvulus_arvensis,41.710289,-73.938028
-2309310585,Convolvulus_arvensis,48.6,-102.01
 730748574,Convolvulus_arvensis,45.05684,-116.78396
 1846553859,Convolvulus_arvensis,35.3526669991093,-111.737278
 1936251261,Convolvulus_arvensis,40.88754,-6.83898
@@ -492,7 +489,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2327409685,Convolvulus_arvensis,60.793828,11.041247
 1701858994,Convolvulus_arvensis,60.7938,11.0412
 233153500,Convolvulus_arvensis,48.7452,20.0354
-995453304,Convolvulus_arvensis,60.566667,16.6
 2265962798,Convolvulus_arvensis,46.710833,-92.206111
 2265963188,Convolvulus_arvensis,46.705833,-92.212778
 441997540,Convolvulus_arvensis,51.078888,14.430833
@@ -612,7 +608,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838988359,Convolvulus_arvensis,38.864441,21.78417
 1212067854,Convolvulus_arvensis,39.100278,21.51
 1212067908,Convolvulus_arvensis,38.913889,21.772778
-1050652715,Convolvulus_arvensis,41.8,-4.72
 1838988373,Convolvulus_arvensis,39.122219,21.512779
 1838988354,Convolvulus_arvensis,39.063061,21.860559
 1838988385,Convolvulus_arvensis,38.84333,21.735559
@@ -688,7 +683,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697741899,Convolvulus_arvensis,44.645468,33.536539
 441996398,Convolvulus_arvensis,51.12682,14.17697
 1843899538,Convolvulus_arvensis,36.62353,-107.03144
-1024487952,Convolvulus_arvensis,39.4513889990741,-120
 1024487963,Convolvulus_arvensis,38.78,-121.541944
 1851353580,Convolvulus_arvensis,42.5958,-5.5846
 1024487948,Convolvulus_arvensis,38.916667,-121.604722
@@ -696,7 +690,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441997390,Convolvulus_arvensis,51.111534,11.51855
 2252401989,Convolvulus_arvensis,-34.911667,-69.668889
 1895671482,Convolvulus_arvensis,24.8205,-112.086917
-1697863485,Convolvulus_arvensis,34.9,33.633333
 895204348,Convolvulus_arvensis,38.709,-0.464
 1230535329,Convolvulus_arvensis,40.94361,45.44972
 187882343,Convolvulus_arvensis,42.79,-1.62
@@ -707,11 +700,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838988312,Convolvulus_arvensis,41.098331,23.59861
 895200796,Convolvulus_arvensis,40.338,-2.229
 1212063803,Convolvulus_arvensis,41.098333,23.598611
-1697624840,Convolvulus_arvensis,51.166667,40.3
 1929667870,Convolvulus_arvensis,40.782323,-73.965416
 2308795665,Convolvulus_arvensis,44.02,-79.54
 1986958410,Convolvulus_arvensis,41.5656,-112.6174
-1697624878,Convolvulus_arvensis,53.5,39
 1229657212,Convolvulus_arvensis,42.84,-2.43
 1830123162,Convolvulus_arvensis,35.45165,139.47197
 2242419371,Convolvulus_arvensis,40.010564,-105.250024
@@ -728,9 +719,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 240489633,Convolvulus_arvensis,33.02789,-108.15007
 1697823305,Convolvulus_arvensis,43.456657,42.093773
 1257684231,Convolvulus_arvensis,39.6498,-92.51
-786120340,Convolvulus_arvensis,49.5,8.5
 1988232874,Convolvulus_arvensis,49.27,-123.197
-2310098319,Convolvulus_arvensis,49.27,-123.2
 1599576620,Convolvulus_arvensis,61.347763,24.240012
 1988215753,Convolvulus_arvensis,49.27,-123.11
 441994106,Convolvulus_arvensis,51.805103,14.030939
@@ -750,7 +739,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270186577,Convolvulus_arvensis,35.71572,-121.07483
 1986914947,Convolvulus_arvensis,40.5717,-111.7525
 1843903124,Convolvulus_arvensis,35.552333,-105.136888
-1257871666,Convolvulus_arvensis,38.783333,-90
 1851381205,Convolvulus_arvensis,42.2367,-5.4111
 198468692,Convolvulus_arvensis,43.16,-4.68
 441727672,Convolvulus_arvensis,47.111667,-120.7155
@@ -855,7 +843,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199470289,Convolvulus_arvensis,36.895,-3.78
 2265448217,Convolvulus_arvensis,45.838886,-95.089317
 199470271,Convolvulus_arvensis,36.719,-4.338
-1144635749,Convolvulus_arvensis,42.38333,9.2
 2270639674,Convolvulus_arvensis,35.0131,-111.859
 1697624914,Convolvulus_arvensis,51.114237,40.278382
 1260556998,Convolvulus_arvensis,38.606111,-90.302222
@@ -879,7 +866,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831081935,Convolvulus_arvensis,53.5485,11.4153
 1936658804,Convolvulus_arvensis,39.3653,46.2458
 441726862,Convolvulus_arvensis,50.891667,142.645833
-786120279,Convolvulus_arvensis,54.1,12.1
 1935674904,Convolvulus_arvensis,47.27944,15.95889
 2242355547,Convolvulus_arvensis,37.2588,-107.4631
 1702219531,Convolvulus_arvensis,60.7617,11.1447
@@ -915,7 +901,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851351522,Convolvulus_arvensis,42.286,-6.532
 1851389967,Convolvulus_arvensis,42.279,-6.629
 1936647168,Convolvulus_arvensis,38.7172,-3.9215
-317819045,Convolvulus_arvensis,39.7,45.52
 1702032747,Convolvulus_arvensis,60.6808,10.9104
 1936615771,Convolvulus_arvensis,42.3581,13.6533
 1851343814,Convolvulus_arvensis,42.454,-6.817
@@ -937,7 +922,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176917782,Convolvulus_arvensis,39.066111,-96.802222
 2242362655,Convolvulus_arvensis,39.524941,-104.188273
 2252399025,Convolvulus_arvensis,-43.259167,-66.055
-204401644,Convolvulus_arvensis,36.833,-2.4
 45445075,Convolvulus_arvensis,38.898611,-122.253889
 1893980488,Convolvulus_arvensis,20.108111,-98.816167
 1893980487,Convolvulus_arvensis,19.50375,-98.8815
@@ -964,7 +948,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999509905,Convolvulus_arvensis,60.443566,22.226723
 2265439780,Convolvulus_arvensis,45.196755,-96.289996
 1936607054,Convolvulus_arvensis,39.883333,38.033333
-381801022,Convolvulus_arvensis,43.5,116.816667
 1701513536,Convolvulus_arvensis,39.93333,39.41667
 199470174,Convolvulus_arvensis,36.525,-5.262
 152918915,Convolvulus_arvensis,46.299655,14.411936
@@ -974,7 +957,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465882860,Convolvulus_arvensis,46.941111,-63.993056
 1893387890,Convolvulus_arvensis,27.070278,-107.698333
 296445009,Convolvulus_arvensis,47.56224,9.75346
-2290581266,Convolvulus_arvensis,13.666667,39.8
 2289175762,Convolvulus_arvensis,12.433333,39.016667
 2301715704,Convolvulus_arvensis,28.816745,83.871273
 2252398570,Convolvulus_arvensis,-32.408056,-69.250278
@@ -991,20 +973,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851350632,Convolvulus_arvensis,42.5217,-5.3016
 176917974,Convolvulus_arvensis,38.316387,-103.349167
 1795863618,Convolvulus_arvensis,42.639188,-2.279602
-211644864,Convolvulus_arvensis,38.7,-1.33
 1671664974,Convolvulus_arvensis,40.917501,8.233388
 2270589376,Convolvulus_arvensis,31.3727,-110.113
 1038944120,Convolvulus_arvensis,41.4697,-71.8753
 1999509930,Convolvulus_arvensis,60.462434,22.276749
 2265445270,Convolvulus_arvensis,46.137778,-93.1825
-615300290,Convolvulus_arvensis,36.8,74.5
 1988885624,Convolvulus_arvensis,43.69132,-85.47371
 2270668618,Convolvulus_arvensis,31.365,-110.121
 1701419262,Convolvulus_arvensis,60.7258,11.1441
 442113246,Convolvulus_arvensis,45.666668,-118.783333
 1893980457,Convolvulus_arvensis,20.590028,-100.451111
 1823458162,Convolvulus_arvensis,-35.3869,-64.9208
-30859467,Convolvulus_arvensis,37.200001,-6.3
 176917924,Convolvulus_arvensis,40.417409,-105.047253
 1795863689,Convolvulus_arvensis,42.640285,-2.279296
 1844870211,Convolvulus_arvensis,41.61,0.13
@@ -1030,7 +1009,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204373146,Convolvulus_arvensis,34.50497,135.79243
 30859291,Convolvulus_arvensis,37.380001,-6.29
 42942998,Convolvulus_arvensis,34.483333,135.783333
-615300434,Convolvulus_arvensis,35.87,75.4
 2265586420,Convolvulus_arvensis,44.274575,-93.998474
 1893587557,Convolvulus_arvensis,28.111944,-111.033889
 441985112,Convolvulus_arvensis,51.267555,11.785894
@@ -1050,7 +1028,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843912346,Convolvulus_arvensis,37.6531,-104.7653
 211644887,Convolvulus_arvensis,38.011,-1.229
 176918110,Convolvulus_arvensis,42.705614,-92.586323
-1024487883,Convolvulus_arvensis,35.916667,-117.6
 788471183,Convolvulus_arvensis,39.966667,21.366667
 1936667506,Convolvulus_arvensis,42.0349,-3.545
 51806520,Convolvulus_arvensis,44.1632,-121.1684
@@ -1068,7 +1045,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936672886,Convolvulus_arvensis,40.685,-3.0368
 441984741,Convolvulus_arvensis,51.50943,12.813856
 1986939435,Convolvulus_arvensis,41.766667,-111.583333
-615300289,Convolvulus_arvensis,38.9,75.2
 615300298,Convolvulus_arvensis,36.48,74.88
 1671646676,Convolvulus_arvensis,44.099732,9.73815
 895144972,Convolvulus_arvensis,40.198,-1.091
@@ -1086,7 +1062,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894820457,Convolvulus_arvensis,32.391667,-117.025
 1701514577,Convolvulus_arvensis,14.48333,44.65
 911749120,Convolvulus_arvensis,14.483334,44.650002
-895205764,Convolvulus_arvensis,39.5,-0.38
 895144024,Convolvulus_arvensis,39.51,-0.412
 1846534650,Convolvulus_arvensis,35.2133,-112.277
 895302850,Convolvulus_arvensis,39.77,-0.37
@@ -1096,7 +1071,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176918087,Convolvulus_arvensis,38.834438,-94.656082
 615300237,Convolvulus_arvensis,36.48,72.53
 2289776623,Convolvulus_arvensis,34.633333,-118.366667
-788471545,Convolvulus_arvensis,39.183333,21.5
 1843812616,Convolvulus_arvensis,34.943,-104.678
 615300230,Convolvulus_arvensis,36.28,72.52
 204401833,Convolvulus_arvensis,36.879,-2.781
@@ -1104,17 +1078,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176918082,Convolvulus_arvensis,39.083998,-95.997622
 176918053,Convolvulus_arvensis,42.718486,-92.483417
 199470082,Convolvulus_arvensis,36.691,-5.054
-615300245,Convolvulus_arvensis,35.9,71.77
 1899735738,Convolvulus_arvensis,34.333333,-116.85
 1261008372,Convolvulus_arvensis,39.68333,-92.46666
 1342357700,Convolvulus_arvensis,55.852479,12.163236
 615300249,Convolvulus_arvensis,36.27,72.25
-1260982102,Convolvulus_arvensis,37.83333,-94.3
 1697624886,Convolvulus_arvensis,56.502368,45.018251
 388812204,Convolvulus_arvensis,35.257448,139.153081
 318108161,Convolvulus_arvensis,38.39,-0.44
 1936567008,Convolvulus_arvensis,40.9479,-1.6944
-615300241,Convolvulus_arvensis,36.3,72.23
 1024487887,Convolvulus_arvensis,38.25,-121.166667
 615300275,Convolvulus_arvensis,35.78,72.03
 1999509888,Convolvulus_arvensis,60.463204,22.298486
@@ -1128,7 +1099,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 233370754,Convolvulus_arvensis,28.341667,-109.031944
 1024487939,Convolvulus_arvensis,38.55,-121.752778
 442113256,Convolvulus_arvensis,-41.183334,-71.383331
-1024487969,Convolvulus_arvensis,38.5,-121.833333
 1024487984,Convolvulus_arvensis,38.466667,-121.675
 318108185,Convolvulus_arvensis,38.66,-0.06
 1851333809,Convolvulus_arvensis,42.56,-5.62
@@ -1165,21 +1135,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318108112,Convolvulus_arvensis,38.36,-0.44
 2312420438,Convolvulus_arvensis,47.79,12.85
 1894646908,Convolvulus_arvensis,20.593686,-100.438736
-1024487882,Convolvulus_arvensis,37.883333,-121.7
 1842857507,Convolvulus_arvensis,35.22,-5.33
 176918079,Convolvulus_arvensis,39.339435,-94.912489
 176917937,Convolvulus_arvensis,39.20831,-98.149036
 1697624850,Convolvulus_arvensis,55.499902,40.304092
 176917917,Convolvulus_arvensis,39.26638,-98.200373
 176918033,Convolvulus_arvensis,39.995752,-98.049538
-1842857060,Convolvulus_arvensis,35.1,-5.27
 2265444953,Convolvulus_arvensis,44.287627,-92.199704
 1929427164,Convolvulus_arvensis,37.3928,-108.6906
 1702239985,Convolvulus_arvensis,60.2219,10.9685
 1701586823,Convolvulus_arvensis,59.0649,5.9215
 2270512862,Convolvulus_arvensis,29.0833,-111.017
 1701983913,Convolvulus_arvensis,60.0822,10.2248
-2242418697,Convolvulus_arvensis,40,-105
 1893742644,Convolvulus_arvensis,20.481667,-100.961667
 318107878,Convolvulus_arvensis,38.33,-0.65
 318108472,Convolvulus_arvensis,38.29,-0.87
@@ -1200,7 +1167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851405273,Convolvulus_arvensis,42.319,-5.19
 1988683872,Convolvulus_arvensis,43.82633,-84.75242
 1999509817,Convolvulus_arvensis,60.425787,22.516664
-615300444,Convolvulus_arvensis,28.1,83.9
 176918049,Convolvulus_arvensis,38.585801,-94.938504
 1701229321,Convolvulus_arvensis,55.3979,12.3077
 615300208,Convolvulus_arvensis,35.22,74.82
@@ -1214,14 +1180,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999592836,Convolvulus_arvensis,60.450385,22.689771
 1258214937,Convolvulus_arvensis,-17.58444,-63.09972
 2268761429,Convolvulus_arvensis,28.82,83.78
-1986967689,Convolvulus_arvensis,41.5,-111.958333
 2252399978,Convolvulus_arvensis,-43.091944,-65.136111
-1259480889,Convolvulus_arvensis,-43.25,-65.3
-2252398118,Convolvulus_arvensis,-25.033333,-66
 318108428,Convolvulus_arvensis,38.42,-0.42
 2270183660,Convolvulus_arvensis,34.7889999991155,-120.5405
 1842857383,Convolvulus_arvensis,34.27,-3.32
-575150029,Convolvulus_arvensis,23.066667,57.6
 1701711483,Convolvulus_arvensis,59.9119,10.3321
 1323850689,Convolvulus_arvensis,59.8934,10.5102
 1323850718,Convolvulus_arvensis,59.8844,10.5098
@@ -1230,7 +1192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936517528,Convolvulus_arvensis,38.5126,-2.5424
 1927787915,Convolvulus_arvensis,37.23154,-112.3675
 2270668638,Convolvulus_arvensis,33.806,-110.92
-1842857247,Convolvulus_arvensis,35.2,-5.32
 574782110,Convolvulus_arvensis,23.25,57.65
 1260938010,Convolvulus_arvensis,38.8675,-91.31138
 1936444408,Convolvulus_arvensis,42.065281,-4.746556
@@ -1259,7 +1220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261134071,Convolvulus_arvensis,38.875,-90.19444
 1671664499,Convolvulus_arvensis,40.683278,8.582585
 204401873,Convolvulus_arvensis,37.411,-2.689
-895282942,Convolvulus_arvensis,40.3,-0.12
 441726923,Convolvulus_arvensis,46.633333,-120.525278
 1936407385,Convolvulus_arvensis,41.3511,-3.336
 895282955,Convolvulus_arvensis,40.48,0.11
@@ -1267,7 +1227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265429990,Convolvulus_arvensis,44.612221,-95.156387
 1851386437,Convolvulus_arvensis,42.6053,-5.3071
 788491987,Convolvulus_arvensis,65.82665,21.7062
-1851402713,Convolvulus_arvensis,42.596,-6.3
 1928839567,Convolvulus_arvensis,40.4313,-111.9703
 1936436443,Convolvulus_arvensis,39.807,-0.3145
 1851369657,Convolvulus_arvensis,42.331,-6.53
@@ -1292,7 +1251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270669436,Convolvulus_arvensis,34.8926,-112.215
 2242371119,Convolvulus_arvensis,39.717183,-104.806384
 199469940,Convolvulus_arvensis,36.888,-4.521
-895143551,Convolvulus_arvensis,39.6,-1.19
 1989275048,Convolvulus_arvensis,44.477859,-85.921476
 187882591,Convolvulus_arvensis,42.57,-1.61
 1988957577,Convolvulus_arvensis,44.25114,-85.40317
@@ -1309,7 +1267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893742633,Convolvulus_arvensis,19.491667,-98.888333
 441727233,Convolvulus_arvensis,46.680333,-119.954786
 1851341488,Convolvulus_arvensis,42.66,-5.26
-1261133248,Convolvulus_arvensis,38.6,-90.25
 1851338116,Convolvulus_arvensis,41.13,-4.97
 1260984130,Convolvulus_arvensis,40.56361,-95.63027
 895204046,Convolvulus_arvensis,39.7121,-0.4657
@@ -1349,17 +1306,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895210944,Convolvulus_arvensis,40.12,0.01
 895210908,Convolvulus_arvensis,40.12,-0.12
 895267043,Convolvulus_arvensis,39.04,-0.17
-895285837,Convolvulus_arvensis,38.68,-0.3
 1261036301,Convolvulus_arvensis,24.82,-100.07
 895221058,Convolvulus_arvensis,40.072,-0.614
 1261133809,Convolvulus_arvensis,38.032,-91.528
 1838995782,Convolvulus_arvensis,41.12611,23.596939
 1261000924,Convolvulus_arvensis,39.01111,-90.92611
-895210964,Convolvulus_arvensis,40.3,0.23
 1500982206,Convolvulus_arvensis,40.07,-0.61
 199469773,Convolvulus_arvensis,36.96823,-4.4416
 187882597,Convolvulus_arvensis,42.57,-1.63
-1501561512,Convolvulus_arvensis,39.71,-0.2
 1936392951,Convolvulus_arvensis,40.4471,-5.2417
 995066040,Convolvulus_arvensis,-19.95,145.7333
 1260924878,Convolvulus_arvensis,36.3617,-90.5238
@@ -1374,7 +1328,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599576585,Convolvulus_arvensis,62.294323,28.259004
 2270668694,Convolvulus_arvensis,33.62,-109.09
 1842902474,Convolvulus_arvensis,40.2908,-3.4743
-1936640198,Convolvulus_arvensis,-34.1167,-71.8
 1894973312,Convolvulus_arvensis,24.765278,-107.590278
 1894820464,Convolvulus_arvensis,24.76472,-107.70111
 1599576543,Convolvulus_arvensis,61.089377,24.142941
@@ -1401,11 +1354,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999509892,Convolvulus_arvensis,60.523571,23.500453
 1599576576,Convolvulus_arvensis,61.310159,23.757697
 1599576609,Convolvulus_arvensis,60.267437,24.010655
-187882810,Convolvulus_arvensis,42.7,-1.17
 1705358660,Convolvulus_arvensis,57.182772,14.052297
 1599576563,Convolvulus_arvensis,60.238541,23.88684
 1599576539,Convolvulus_arvensis,61.510162,27.250385
-199469981,Convolvulus_arvensis,36.7,-5.054
 204425025,Convolvulus_arvensis,42.979,-1.51
 1846534586,Convolvulus_arvensis,29.719444,-110.5625
 1260943913,Convolvulus_arvensis,40.26222,-93.15083
@@ -1415,7 +1366,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270667983,Convolvulus_arvensis,33.1333,-111.75
 1936608113,Convolvulus_arvensis,40.153,-5.0677
 1830215112,Convolvulus_arvensis,34.48529,133.7641
-187882775,Convolvulus_arvensis,42.63,-1
 1851409626,Convolvulus_arvensis,38.17,-2.37
 204425248,Convolvulus_arvensis,42.52,-1.594
 187882779,Convolvulus_arvensis,42.65,-1.01
@@ -1429,18 +1379,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936408113,Convolvulus_arvensis,42.1122,-6.7033
 1928886491,Convolvulus_arvensis,43.0286,-112.5639
 2242369945,Convolvulus_arvensis,40.356348,-105.602876
-1697337889,Convolvulus_arvensis,47.5,119.166667
 204425244,Convolvulus_arvensis,42.721001,-1.15
 187882777,Convolvulus_arvensis,42.62,-1.19
 895155657,Convolvulus_arvensis,39.07,-2.94
 187882776,Convolvulus_arvensis,42.65,-1.09
-1804600795,Convolvulus_arvensis,45.3,-75.55
 187882781,Convolvulus_arvensis,42.66,-1.18
 1705359060,Convolvulus_arvensis,57.165279,14.086188
 187983038,Convolvulus_arvensis,35.449098,139.665534
 1895967940,Convolvulus_arvensis,18.933333,-98.1125
 1599576549,Convolvulus_arvensis,60.571987,27.198422
-1949590999,Convolvulus_arvensis,50.1,-119.4
 199469979,Convolvulus_arvensis,36.663,-5.098
 1936567208,Convolvulus_arvensis,43.3572,-8.2117
 1697741937,Convolvulus_arvensis,44.858059,34.793358
@@ -1461,15 +1408,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30663817,Convolvulus_arvensis,37.844,-3.051
 1697741947,Convolvulus_arvensis,44.825728,34.807262
 1851411831,Convolvulus_arvensis,42.47,-5.49
-217683911,Convolvulus_arvensis,38.61,-4.9
 204425250,Convolvulus_arvensis,42.647999,-1.713
 1697741876,Convolvulus_arvensis,44.893215,34.784131
 1829563685,Convolvulus_arvensis,36.59843,140.65047
 235657202,Convolvulus_arvensis,37.44,-4.64
-1893742632,Convolvulus_arvensis,20.5,-100.265
 1933853609,Convolvulus_arvensis,35.9112,139.8329
-1144635732,Convolvulus_arvensis,42.3,9.15
-895264117,Convolvulus_arvensis,40.3,-0.23
 1260940037,Convolvulus_arvensis,39.69694,-94.7025
 235657273,Convolvulus_arvensis,37.44,-4.53
 204425251,Convolvulus_arvensis,42.564999,-1.52
@@ -1482,7 +1425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936563464,Convolvulus_arvensis,42.517811,-3.687825
 187882783,Convolvulus_arvensis,42.63,-1.14
 1705360164,Convolvulus_arvensis,57.066141,15.051894
-615300235,Convolvulus_arvensis,39.5,76
 1999509918,Convolvulus_arvensis,60.453486,22.688452
 1144097589,Convolvulus_arvensis,61.52828,7.56571
 1851377762,Convolvulus_arvensis,37.63,-2.38
@@ -1490,7 +1432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702309614,Convolvulus_arvensis,59.213,10.9179
 2242369580,Convolvulus_arvensis,39.861608,-104.818617
 204425249,Convolvulus_arvensis,42.467999,-1.084
-1899374760,Convolvulus_arvensis,44.116667,-79.5
 1929703930,Convolvulus_arvensis,37.791228,-114.391783
 2242369885,Convolvulus_arvensis,38.397954,-105.060077
 1599576613,Convolvulus_arvensis,60.178495,23.970066
@@ -1498,9 +1439,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461738945,Convolvulus_arvensis,-26.875,29.875
 685750021,Convolvulus_arvensis,27.364386,76.412273
 1895527444,Convolvulus_arvensis,20.500673,-103.464122
-237338181,Convolvulus_arvensis,41.7,0.64
 442113260,Convolvulus_arvensis,-38.75,-68.116669
-575266235,Convolvulus_arvensis,24.466667,55.9
 2301714607,Convolvulus_arvensis,28.081335,81.650577
 235657263,Convolvulus_arvensis,37.26,-4.52
 895251568,Convolvulus_arvensis,39.59,-0.61
@@ -1508,7 +1447,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895258018,Convolvulus_arvensis,39.94,-0.13
 235657269,Convolvulus_arvensis,37.62,-4.87
 187983024,Convolvulus_arvensis,35.499093,139.715528
-895251972,Convolvulus_arvensis,39.59,-0.5
 1893587716,Convolvulus_arvensis,27.586111,-110.098333
 924822193,Convolvulus_arvensis,37.80996,-96.80688
 1261137465,Convolvulus_arvensis,38.437778,-90.914167
@@ -1526,13 +1464,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265509293,Convolvulus_arvensis,43.8675,-92.848611
 1936136116,Convolvulus_arvensis,37.8971,-3.9225
 895257786,Convolvulus_arvensis,38.87,-0.41
-235657210,Convolvulus_arvensis,37.53,-4.3
 1705748098,Convolvulus_arvensis,53.1383,23.1432
 1434678051,Convolvulus_arvensis,58.53089,13.36878
 1705334754,Convolvulus_arvensis,57.202674,16.384295
 1050576145,Convolvulus_arvensis,43.31,-3.06
 1599576831,Convolvulus_arvensis,60.135866,23.856038
-1265822109,Convolvulus_arvensis,37.9,22.983333
 187882782,Convolvulus_arvensis,42.63,-1.31
 1851385485,Convolvulus_arvensis,42.39,-6.75
 1895527439,Convolvulus_arvensis,20.223625,-101.003836
@@ -1543,7 +1479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851379889,Convolvulus_arvensis,42.65,-5.62
 1936163643,Convolvulus_arvensis,41.8529,1.3243
 2318086580,Convolvulus_arvensis,60.774781,10.868223
-217683912,Convolvulus_arvensis,38.6,-5.24
 235657206,Convolvulus_arvensis,37.44,-4.87
 235657208,Convolvulus_arvensis,37.63,-4.19
 235657259,Convolvulus_arvensis,37.44,-4.41
@@ -1552,10 +1487,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896152347,Convolvulus_arvensis,19.531667,-101.669722
 1098977338,Convolvulus_arvensis,48.138889,11.573889
 2235669365,Convolvulus_arvensis,37.53,-4.64
-442113258,Convolvulus_arvensis,54,-72
 461738942,Convolvulus_arvensis,-30.625,26.125
 461738944,Convolvulus_arvensis,-32.125,21.625
-1842888880,Convolvulus_arvensis,41.87,2.7
 1893587709,Convolvulus_arvensis,28.825,-111.472778
 1893587571,Convolvulus_arvensis,27.955556,-110.675
 199469563,Convolvulus_arvensis,36.64991,-4.62039
@@ -1572,19 +1505,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697624942,Convolvulus_arvensis,49.884247,40.181319
 1936084132,Convolvulus_arvensis,40.7207,-4.4695
 1599576744,Convolvulus_arvensis,60.260074,24.919573
-1262015147,Convolvulus_arvensis,45.65,-73.5
 2308873784,Convolvulus_arvensis,51.71,-4.95
 1697277971,Convolvulus_arvensis,50.283333,85.633333
 1599576607,Convolvulus_arvensis,60.865294,26.710694
 1831080502,Convolvulus_arvensis,53.5485,14.2482
 1599576814,Convolvulus_arvensis,60.554316,22.346525
-1262016236,Convolvulus_arvensis,45.5,-73.666667
 1262014239,Convolvulus_arvensis,45.492769,-73.55221
 1262014534,Convolvulus_arvensis,45.533333,-73.816667
 30860230,Convolvulus_arvensis,37.400002,-4.58
 1895527433,Convolvulus_arvensis,25.5224803165465,-100.943792707266
 1936088404,Convolvulus_arvensis,41.8644,0.9264
-30859805,Convolvulus_arvensis,38.560001,-5.3
 2028546340,Convolvulus_arvensis,42.09,2.72
 204425474,Convolvulus_arvensis,43.291,-2.156
 1893742643,Convolvulus_arvensis,19.585,-98.945
@@ -1595,7 +1525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265511018,Convolvulus_arvensis,44.241082,-96.261721
 2235671328,Convolvulus_arvensis,37.481,-4.69
 2242366745,Convolvulus_arvensis,39.746438,-105.183333
-473445497,Convolvulus_arvensis,45.5,-73.6
 1893587745,Convolvulus_arvensis,27.586944,-110.097222
 1893587759,Convolvulus_arvensis,28.825,-111.538056
 1701905509,Convolvulus_arvensis,59.1821,9.6387
@@ -1619,7 +1548,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705396608,Convolvulus_arvensis,57.66173,16.039754
 1144635713,Convolvulus_arvensis,41.58333,9.28333
 461738943,Convolvulus_arvensis,-32.375,28.375
-2289818833,Convolvulus_arvensis,-34.4,19.266667
 1834913061,Convolvulus_arvensis,35.3375,139.45625
 1030891168,Convolvulus_arvensis,32.637983,103.59895
 2012690777,Convolvulus_arvensis,-15.636944,-71.601389
@@ -1627,7 +1555,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30859817,Convolvulus_arvensis,37.66,-5.15
 199469493,Convolvulus_arvensis,36.76444,-3.83842
 143024100,Convolvulus_arvensis,37.84,-4.93
-30859809,Convolvulus_arvensis,37.580002,-4.7
 30859813,Convolvulus_arvensis,37.849998,-4.59
 1936229737,Convolvulus_arvensis,42.9908,-2.9768
 204425470,Convolvulus_arvensis,43.421001,-2.944
@@ -1639,7 +1566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806556316,Convolvulus_arvensis,42.846142,-1.752532
 1929278416,Convolvulus_arvensis,37.73011,-113.9987
 30860206,Convolvulus_arvensis,38.560001,-4.95
-1851369614,Convolvulus_arvensis,43,-6.24
 860311524,Convolvulus_arvensis,40.76,0.33
 30859815,Convolvulus_arvensis,38.470001,-5.18
 2243094585,Convolvulus_arvensis,38.651256,140.378581
@@ -1672,7 +1598,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204425471,Convolvulus_arvensis,42.799,-2.982
 1050576170,Convolvulus_arvensis,42.69,-2.42
 2242369228,Convolvulus_arvensis,39.553036,-105.093697
-1050576168,Convolvulus_arvensis,42.5,-2.44
 1834898534,Convolvulus_arvensis,35.320833,139.35625
 1936156996,Convolvulus_arvensis,39.8148,-4.1112
 176917772,Convolvulus_arvensis,46.88979000459,-102.6139175715
@@ -1681,7 +1606,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851326967,Convolvulus_arvensis,43.01,-5.64
 2265511912,Convolvulus_arvensis,43.724883,-92.759467
 176917794,Convolvulus_arvensis,46.883608,-103.189686
-1804443673,Convolvulus_arvensis,44.7,-75.55
 176918114,Convolvulus_arvensis,47.56013,-102.77553
 1262007201,Convolvulus_arvensis,45.283333,-74.033333
 1050576166,Convolvulus_arvensis,42.61,-2.48
@@ -1695,13 +1619,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851374676,Convolvulus_arvensis,42.82,-5.87
 1834898550,Convolvulus_arvensis,35.370833,139.21875
 1851401242,Convolvulus_arvensis,42.92,-5.39
-1098977321,Convolvulus_arvensis,37.5,22
 2270667693,Convolvulus_arvensis,35.32,-112.19
 176918023,Convolvulus_arvensis,38.12585,-102.31111
 176918016,Convolvulus_arvensis,39.293446,-102.71674
 176917773,Convolvulus_arvensis,39.24934,-103.49972
 2243094888,Convolvulus_arvensis,38.585346,140.41995
-30860211,Convolvulus_arvensis,37.849998,-4.7
 30860207,Convolvulus_arvensis,37.650002,-5.38
 30860213,Convolvulus_arvensis,37.669998,-4.59
 461738946,Convolvulus_arvensis,-26.875,22.125
@@ -1761,7 +1683,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262035537,Convolvulus_arvensis,46.8175,-71.213056
 1929823562,Convolvulus_arvensis,44.3442,-104.8114
 1936160519,Convolvulus_arvensis,41.9725,-3.3634
-2290999547,Convolvulus_arvensis,38,30.75
 1936142052,Convolvulus_arvensis,41.2861,-3.7536
 2290081653,Convolvulus_arvensis,37.183333,33.216667
 2243095247,Convolvulus_arvensis,38.956072,139.839528
@@ -1783,7 +1704,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806129184,Convolvulus_arvensis,42.813878,-1.648014
 1269715908,Convolvulus_arvensis,39.882999,-90.383003
 1928492288,Convolvulus_arvensis,44.7467,-105.238
-1611937259,Convolvulus_arvensis,31.805556,-106.5
 1806129017,Convolvulus_arvensis,42.832126,-1.627807
 204425473,Convolvulus_arvensis,43.310001,-2.205
 57690170,Convolvulus_arvensis,62.240398,25.736601
@@ -1796,7 +1716,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895223872,Convolvulus_arvensis,16.213333,-95.068056
 1899368612,Convolvulus_arvensis,43.633333,-79.325
 924822213,Convolvulus_arvensis,38.53262,-95.96472
-1988104873,Convolvulus_arvensis,50.3,-119.3
 1928538120,Convolvulus_arvensis,38.58687,-109.3332
 1806129186,Convolvulus_arvensis,42.810533,-1.661394
 1930793614,Convolvulus_arvensis,37.21704,-112.7472
@@ -1820,7 +1739,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211624023,Convolvulus_arvensis,43.110001,-5.24
 1702245646,Convolvulus_arvensis,59.26671,9.48765
 1050576177,Convolvulus_arvensis,42.82,-2.68
-2028546766,Convolvulus_arvensis,42.1,2.7
 668756271,Convolvulus_arvensis,46.752778,-71.295833
 1622364417,Convolvulus_arvensis,63.132517,21.540172
 461738941,Convolvulus_arvensis,-29.375,27.875
@@ -1860,7 +1778,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050576146,Convolvulus_arvensis,42.83,-2.67
 1050576189,Convolvulus_arvensis,42.79,-3.07
 199469652,Convolvulus_arvensis,36.68193,-4.45095
-574905989,Convolvulus_arvensis,35.683333,56.6
 176917869,Convolvulus_arvensis,38.963127,-100.487977
 176917987,Convolvulus_arvensis,37.44999,-99.08007
 176917965,Convolvulus_arvensis,37.28647,-97.88247
@@ -1870,10 +1787,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846534516,Convolvulus_arvensis,38.773086,-93.735658
 176917871,Convolvulus_arvensis,38.86583,-101.75001
 176917887,Convolvulus_arvensis,37.2784,-100.97618
-2290999398,Convolvulus_arvensis,-21.1,148.966667
 668756269,Convolvulus_arvensis,46.781944,-71.268333
 176917884,Convolvulus_arvensis,39.01785,-96.29187
-1899382190,Convolvulus_arvensis,43.7,-79.516667
 176917862,Convolvulus_arvensis,38.47274,-99.10408
 176917863,Convolvulus_arvensis,39.58506,-98.15131
 176918043,Convolvulus_arvensis,38.18162,-99.20823
@@ -1951,7 +1866,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270184052,Convolvulus_arvensis,33.8699736456337,-117.940631345521
 1030884353,Convolvulus_arvensis,31.905842,102.206261
 1030884362,Convolvulus_arvensis,31.084,103.267
-472900047,Convolvulus_arvensis,9.4,42.016667
 1228574081,Convolvulus_arvensis,41.850033,-87.650052
 1843867566,Convolvulus_arvensis,34.031547,-107.045512
 176917912,Convolvulus_arvensis,36.09533,-102.55718
@@ -1960,7 +1874,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176918028,Convolvulus_arvensis,36.72943,-102.55802
 176917922,Convolvulus_arvensis,35.34551,-101.49559
 176918118,Convolvulus_arvensis,34.40576,-102.31139
-2301714805,Convolvulus_arvensis,28.9,83.83
 176918103,Convolvulus_arvensis,34.51348,-102.70644
 1851347634,Convolvulus_arvensis,42.83,-5.39
 176918106,Convolvulus_arvensis,35.43705,-102.0945
@@ -1985,7 +1898,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176917768,Convolvulus_arvensis,38.33662,-96.99261
 176917810,Convolvulus_arvensis,37.35953,-97.60483
 176917999,Convolvulus_arvensis,46.8339250492644,-105.312568289332
-996174090,Convolvulus_arvensis,43.6,3.87
 1705472849,Convolvulus_arvensis,36.814,-4.7258
 176917900,Convolvulus_arvensis,34.8851,-100.28407
 176917919,Convolvulus_arvensis,34.54414,-102.02296
@@ -1999,7 +1911,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2301714968,Convolvulus_arvensis,29.063069,83.872814
 176917969,Convolvulus_arvensis,33.99304,-101.9225
 1851386996,Convolvulus_arvensis,42.46,-6.14
-1988112020,Convolvulus_arvensis,49.5,-115.8
 176918015,Convolvulus_arvensis,33.973293,-102.725562
 176917954,Convolvulus_arvensis,34.41264,-101.60863
 176918018,Convolvulus_arvensis,47.33787,-101.62222
@@ -2021,7 +1932,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176917941,Convolvulus_arvensis,36.20692,-101.53165
 1030488564,Convolvulus_arvensis,42.73083,-84.47861
 788549015,Convolvulus_arvensis,55.751802,13.040603
-1899321600,Convolvulus_arvensis,43.8,-79.15
 176918111,Convolvulus_arvensis,35.94992,-101.29071
 176917798,Convolvulus_arvensis,36.36755,-103.01136
 176917913,Convolvulus_arvensis,36.33611,-102.03566
@@ -2039,7 +1949,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176918001,Convolvulus_arvensis,43.431846,-104.197294
 176917888,Convolvulus_arvensis,38.38753,-98.081
 176917880,Convolvulus_arvensis,39.51962,-95.8547
-1851384121,Convolvulus_arvensis,42.82,-6
 1697624773,Convolvulus_arvensis,54.807627,41.753412
 1260946983,Convolvulus_arvensis,39.52138,-91.72333
 176917790,Convolvulus_arvensis,43.29723,-103.82762
@@ -2061,15 +1970,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176918113,Convolvulus_arvensis,46.99949,-104.18827
 176918040,Convolvulus_arvensis,47.06241,-109.54512
 176918091,Convolvulus_arvensis,48.7631070845432,-106.408877490978
-788728992,Convolvulus_arvensis,38.8,21.766667
 176917793,Convolvulus_arvensis,45.2494183235724,-104.096893588894
 211623700,Convolvulus_arvensis,43.540001,-6.55
 1846534324,Convolvulus_arvensis,34.69694,-112.12917
-615300383,Convolvulus_arvensis,34.9,70.75
 176917769,Convolvulus_arvensis,48.7916728485011,-105.484099392916
 176917795,Convolvulus_arvensis,47.16708,-107.13655
 176918008,Convolvulus_arvensis,46.25996,-106.42381
-788643762,Convolvulus_arvensis,39.533333,21.2
 176918075,Convolvulus_arvensis,47.298889,-105.767401
 176918035,Convolvulus_arvensis,45.81717,-104.44977
 176918096,Convolvulus_arvensis,47.002757,-108.330844
@@ -2083,7 +1989,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176917931,Convolvulus_arvensis,36.47977,-100.80222
 176917796,Convolvulus_arvensis,36.62639,-100.52222
 176917930,Convolvulus_arvensis,42.07615,-104.95275
-1988092730,Convolvulus_arvensis,60.4,22.3
 1999509926,Convolvulus_arvensis,60.457546,22.278371
 176917952,Convolvulus_arvensis,35.09735,-100.88778
 1701673340,Convolvulus_arvensis,59.2873,10.7465
@@ -2113,10 +2018,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176918054,Convolvulus_arvensis,38.04603,-99.829496
 1930152375,Convolvulus_arvensis,31.560444,-91.403171
 788656730,Convolvulus_arvensis,39.566667,21.433333
-788723661,Convolvulus_arvensis,38.7,22.133333
-615300399,Convolvulus_arvensis,34.9,70.77
 1899305660,Convolvulus_arvensis,43.683333,-79.416667
-2270666564,Convolvulus_arvensis,36.27,-109.2
 911941868,Convolvulus_arvensis,50.655083,9.185867
 1846534412,Convolvulus_arvensis,34.88194,-111.67556
 176918002,Convolvulus_arvensis,40.30305,-96.94141
@@ -2125,7 +2027,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599576646,Convolvulus_arvensis,62.244977,25.746254
 1260850493,Convolvulus_arvensis,50.5675,3.45
 176917911,Convolvulus_arvensis,46.5755750435232,-99.7076256070653
-211624441,Convolvulus_arvensis,43.5,-6.45
 176918003,Convolvulus_arvensis,47.4644442438749,-99.5277286927574
 176917775,Convolvulus_arvensis,46.2696235473853,-100.231158641069
 176917791,Convolvulus_arvensis,45.155509,-98.651135
@@ -2134,10 +2035,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176917784,Convolvulus_arvensis,40.97175,-98.01528
 1416604575,Convolvulus_arvensis,31.592336,-106.241184
 1846534397,Convolvulus_arvensis,34.666327,-112.12694
-615300416,Convolvulus_arvensis,35.6,68.95
 615300428,Convolvulus_arvensis,35.05,68.65
 176917904,Convolvulus_arvensis,40.3372,-98.94863
-615300411,Convolvulus_arvensis,36.72,69.2
 1846534574,Convolvulus_arvensis,34.015696,-117.326527
 2242402318,Convolvulus_arvensis,55.88526,12.199347
 1697624774,Convolvulus_arvensis,56.203964,42.325053
@@ -2145,8 +2044,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830605106,Convolvulus_arvensis,34.012207,134.58762
 176918014,Convolvulus_arvensis,46.01496,-100.21277
 1936571486,Convolvulus_arvensis,36.712,-6.0444
-615300407,Convolvulus_arvensis,37,72.57
-788683869,Convolvulus_arvensis,40.95,24.1
 415974870,Convolvulus_arvensis,39.15805,-75.52472
 176917963,Convolvulus_arvensis,46.42127,-102.86025
 1830619765,Convolvulus_arvensis,34.067115,134.33681
@@ -2184,7 +2081,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615300430,Convolvulus_arvensis,34.37,67.93
 176917989,Convolvulus_arvensis,41.93048,-96.80905
 1846534413,Convolvulus_arvensis,34.353794,-112.164156
-615300400,Convolvulus_arvensis,34.8,67.18
 615300423,Convolvulus_arvensis,34.52,68.23
 176918104,Convolvulus_arvensis,46.8995214249751,-102.338579305907
 1999509872,Convolvulus_arvensis,60.439014,22.262873
@@ -2193,7 +2089,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270182236,Convolvulus_arvensis,33.696,-118.0333
 1599576783,Convolvulus_arvensis,60.971243,24.503796
 615300396,Convolvulus_arvensis,33.32,67.22
-1098976839,Convolvulus_arvensis,33.5,69.5
 615300417,Convolvulus_arvensis,35.67,71.33
 176917981,Convolvulus_arvensis,42.8818,-97.27361
 176918037,Convolvulus_arvensis,43.24183,-97.67505
@@ -2274,9 +2169,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 924822190,Convolvulus_arvensis,38.41685,-96.17848
 924822202,Convolvulus_arvensis,39.16185,-108.30052
 2265509757,Convolvulus_arvensis,43.977067,-91.899115
-2270667414,Convolvulus_arvensis,34.3,-110.25
 176917886,Convolvulus_arvensis,38.673085,-96.521059
-318108094,Convolvulus_arvensis,36.82,-2.5
 176917935,Convolvulus_arvensis,45.58658,-100.53259
 176917942,Convolvulus_arvensis,47.48443,-102.92033
 176917966,Convolvulus_arvensis,47.11625,-101.11836
@@ -2314,7 +2207,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176917804,Convolvulus_arvensis,39.446,-96.41217
 2291898268,Convolvulus_arvensis,36.78045,8.687783
 2265510566,Convolvulus_arvensis,44.163577,-94.005457
-1830183333,Convolvulus_arvensis,36.75,137.3
 924822224,Convolvulus_arvensis,37.4385,-97.7815
 924822165,Convolvulus_arvensis,37.2341,-97.5224
 176918000,Convolvulus_arvensis,40.85889,-102.80056
@@ -2342,7 +2234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 924822189,Convolvulus_arvensis,37.2632,-97.3593
 1705259610,Convolvulus_arvensis,57.157457,16.449689
 1702235004,Convolvulus_arvensis,59.2035,10.9533
-2270666701,Convolvulus_arvensis,36.11,-112.2
 1599576651,Convolvulus_arvensis,59.960838,23.505513
 1599576709,Convolvulus_arvensis,62.609504,27.094196
 1702309707,Convolvulus_arvensis,59.2079,10.9122
@@ -2351,11 +2242,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788490614,Convolvulus_arvensis,55.867433,12.925384
 2243095235,Convolvulus_arvensis,38.91506,139.83658
 615300397,Convolvulus_arvensis,36.72,68.87
-2270667069,Convolvulus_arvensis,35.05,-110.8
 176917895,Convolvulus_arvensis,39.97384,-94.87446
 176917995,Convolvulus_arvensis,40.07441,-98.51951
 1697624750,Convolvulus_arvensis,54.492525,28.075153
-2270666281,Convolvulus_arvensis,34.11,-109.3
 924822205,Convolvulus_arvensis,38.498008,-96.32941
 1843867312,Convolvulus_arvensis,32.9629,-105.764717
 1599576538,Convolvulus_arvensis,62.877035,27.684615
@@ -2385,7 +2274,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599576771,Convolvulus_arvensis,61.864061,24.241311
 2242400976,Convolvulus_arvensis,41.565162,-87.596532
 1599576547,Convolvulus_arvensis,60.359155,25.638146
-1261964275,Convolvulus_arvensis,45.4,-71.9
 2270183319,Convolvulus_arvensis,34.5279380630766,-120.344692702755
 2265510445,Convolvulus_arvensis,43.741116,-91.304027
 1697278023,Convolvulus_arvensis,56.34049,95.40932
@@ -2419,8 +2307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988144482,Convolvulus_arvensis,50.36,-119.35
 1599576552,Convolvulus_arvensis,60.512518,27.679548
 924822154,Convolvulus_arvensis,38.46944,-98.65556
-1988122943,Convolvulus_arvensis,49.7,-112.82
-993302288,Convolvulus_arvensis,50.8167,1.6
 1697741911,Convolvulus_arvensis,44.852096,34.975662
 176917982,Convolvulus_arvensis,39.71479,-97.54171
 1697624825,Convolvulus_arvensis,55.685447,36.718232
@@ -2428,7 +2314,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144097526,Convolvulus_arvensis,59.04558,5.99703
 1228478654,Convolvulus_arvensis,41.8333,-87.85
 788463813,Convolvulus_arvensis,58.647693,16.133967
-2270669946,Convolvulus_arvensis,35.2,-111.65
 1261967311,Convolvulus_arvensis,46.833333,-71.166667
 788468533,Convolvulus_arvensis,56.307414,13.089862
 177283865,Convolvulus_arvensis,62.246601,25.9384
@@ -2444,7 +2329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702360999,Convolvulus_arvensis,60.076,10.213
 51806253,Convolvulus_arvensis,45.1439,-122.8542
 788469681,Convolvulus_arvensis,57.377869,12.135442
-1261958086,Convolvulus_arvensis,45.583333,-73.6
 1599576732,Convolvulus_arvensis,61.224346,23.738723
 2270666746,Convolvulus_arvensis,35.19,-111.65
 1999509827,Convolvulus_arvensis,60.431354,22.300368
@@ -2520,12 +2404,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257952620,Convolvulus_arvensis,-18.266667,47.15
 1434678163,Convolvulus_arvensis,55.54128,13.04373
 57690133,Convolvulus_arvensis,61.169899,25.9748
-1261989291,Convolvulus_arvensis,46.8,-71.183333
 1599576792,Convolvulus_arvensis,61.139083,23.93331
 2234542977,Convolvulus_arvensis,35.848464,-81.495927
 1599576515,Convolvulus_arvensis,59.924408,23.321306
 1228351101,Convolvulus_arvensis,41.95503,-87.940066
-786120305,Convolvulus_arvensis,46.5,24.6
 39646676,Convolvulus_arvensis,66.13,-18.902
 788490793,Convolvulus_arvensis,56.83313,12.66167
 51806258,Convolvulus_arvensis,44.4155,-121.0338
@@ -2559,10 +2441,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788456763,Convolvulus_arvensis,56.103842,14.411583
 1705382783,Convolvulus_arvensis,56.826825,15.723337
 1988088772,Convolvulus_arvensis,49.46,-120.51
-1988113243,Convolvulus_arvensis,50.2,-119.2
 51806898,Convolvulus_arvensis,45.4997,-119.55
 1949608464,Convolvulus_arvensis,50.266667,-119.266667
-1988110730,Convolvulus_arvensis,49.2,-119.8
 1056596198,Convolvulus_arvensis,50.952361,0.221594
 441727286,Convolvulus_arvensis,43.58333,-116.73667
 1843867049,Convolvulus_arvensis,32.109318,-104.471616
@@ -2576,12 +2456,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1039024895,Convolvulus_arvensis,41.617,-72.0845
 1705351362,Convolvulus_arvensis,59.899059,17.633958
 1599576749,Convolvulus_arvensis,61.162379,28.761899
-1988160619,Convolvulus_arvensis,49.1,-116.5
 415974853,Convolvulus_arvensis,41.6175,-72.08472
 1056637413,Convolvulus_arvensis,50.603593,-3.648517
 1988165582,Convolvulus_arvensis,50.17,-120.67
 1988233655,Convolvulus_arvensis,50.87,-121.84
-1988200587,Convolvulus_arvensis,50.42,-121.3
 1999509856,Convolvulus_arvensis,60.446663,22.225358
 1599576754,Convolvulus_arvensis,60.856631,23.40799
 1988221718,Convolvulus_arvensis,51.64,-120.03
@@ -2594,7 +2472,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599573480,Convolvulus_arvensis,60.567936,27.206604
 2273847203,Convolvulus_arvensis,-32.84296,-71.47384
 1846534499,Convolvulus_arvensis,33.345955,-111.905863
-2270664983,Convolvulus_arvensis,33.51,-111.9
 1260965448,Convolvulus_arvensis,39.87055,-93.51222
 1843867295,Convolvulus_arvensis,32.769778,-104.403893
 1702309632,Convolvulus_arvensis,59.4334,10.6659
@@ -2625,18 +2502,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599576688,Convolvulus_arvensis,60.944435,26.600201
 2301714922,Convolvulus_arvensis,28.504885,83.65889
 1701976855,Convolvulus_arvensis,58.7682,8.49
-1261949415,Convolvulus_arvensis,46.8,-71.216667
 911942931,Convolvulus_arvensis,50.660933,9.157167
 1701966567,Convolvulus_arvensis,63.3085,10.1673
 788463576,Convolvulus_arvensis,55.58285,12.92779
-786120439,Convolvulus_arvensis,51.9,12.4
 1823458163,Convolvulus_arvensis,-16.7261,-64.435
 176918071,Convolvulus_arvensis,39.03703,-95.70483
 415974869,Convolvulus_arvensis,42.83611,-74.85361
 1697624980,Convolvulus_arvensis,49.99938,45.024952
 1697624841,Convolvulus_arvensis,55.73348,36.894094
 1657176321,Convolvulus_arvensis,47.05333,15.37083
-1988228534,Convolvulus_arvensis,49.6,-119.6
 1843867082,Convolvulus_arvensis,36.410237,-106.54398
 1843867522,Convolvulus_arvensis,33.157739,-105.774179
 1705465325,Convolvulus_arvensis,56.744638,14.914524
@@ -2655,7 +2529,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242362225,Convolvulus_arvensis,39.838592,-104.94979
 1668934992,Convolvulus_arvensis,54.867,37.633
 788456806,Convolvulus_arvensis,60.078139,15.002762
-786120435,Convolvulus_arvensis,52.3,13.3
 176917797,Convolvulus_arvensis,52.199231,4.425291
 788464082,Convolvulus_arvensis,59.751437,17.172586
 1599573448,Convolvulus_arvensis,60.84626,27.11643
@@ -2663,7 +2536,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703301384,Convolvulus_arvensis,49.9748988033157,-97.0055004583219
 1705326277,Convolvulus_arvensis,55.897499,13.41575
 177283864,Convolvulus_arvensis,61.6884,24.4459
-1098976841,Convolvulus_arvensis,30.200001,67
 2313350822,Convolvulus_arvensis,48.17,11.46
 788471297,Convolvulus_arvensis,55.445069,14.121954
 1599573477,Convolvulus_arvensis,60.738616,27.006054
@@ -2681,7 +2553,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055584764,Convolvulus_arvensis,57.11568,-2.896484
 1599573473,Convolvulus_arvensis,60.444133,22.395867
 1705368956,Convolvulus_arvensis,58.045204,14.958566
-1988098880,Convolvulus_arvensis,49.5,-115.77
 1701883915,Convolvulus_arvensis,59.5135,11.3062
 1697624839,Convolvulus_arvensis,54.858042,37.587774
 876155858,Convolvulus_arvensis,41.32,1.98
@@ -2705,7 +2576,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599573516,Convolvulus_arvensis,63.233379,28.090928
 1701905448,Convolvulus_arvensis,61.23189,6.76174
 788459159,Convolvulus_arvensis,57.70035,11.81112
-1261947857,Convolvulus_arvensis,45.483333,-74.3
 1928807064,Convolvulus_arvensis,30.267153,-97.743061
 2265511644,Convolvulus_arvensis,44.016477,-96.438172
 788713874,Convolvulus_arvensis,57.88644,11.57378
@@ -2733,7 +2603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51806815,Convolvulus_arvensis,44.3897,-118.9492
 788461790,Convolvulus_arvensis,55.58462,13.29301
 788461376,Convolvulus_arvensis,55.429296,13.818618
-1144635734,Convolvulus_arvensis,42.7,9.45
 2265510636,Convolvulus_arvensis,44.858574,-93.661627
 2242361833,Convolvulus_arvensis,38.882744,-104.803815
 1599576677,Convolvulus_arvensis,62.601957,28.457149
@@ -2755,7 +2624,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415974862,Convolvulus_arvensis,41.79416,-72.20972
 1599573427,Convolvulus_arvensis,60.86395,26.711627
 1999614355,Convolvulus_arvensis,60.437719,22.226673
-1988081202,Convolvulus_arvensis,49.5,-88.5
 1038924754,Convolvulus_arvensis,41.1779,-73.2735
 415974857,Convolvulus_arvensis,41.17583,-73.27194
 461738919,Convolvulus_arvensis,-29.125,26.125
@@ -2786,7 +2654,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465764610,Convolvulus_arvensis,44.40841,-65.99525
 176918147,Convolvulus_arvensis,38.01004,-94.71968
 1703301653,Convolvulus_arvensis,50.4224999990739,-101.0475
-1988162505,Convolvulus_arvensis,49.5,-117.29
 1144097470,Convolvulus_arvensis,59.0935,10.8527
 2242399293,Convolvulus_arvensis,45.60487,-108.520603
 788462385,Convolvulus_arvensis,58.347861,11.940152
@@ -2826,7 +2693,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270669992,Convolvulus_arvensis,33.31,-111.84
 788469346,Convolvulus_arvensis,55.628938,13.142639
 1705430163,Convolvulus_arvensis,55.60694,13.002759
-1893208737,Convolvulus_arvensis,49.8,5.93
 788471162,Convolvulus_arvensis,55.62233,13.12635
 788461384,Convolvulus_arvensis,56.031862,14.152378
 1228323250,Convolvulus_arvensis,39.190047,-90.353728
@@ -2852,8 +2718,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928956148,Convolvulus_arvensis,40.63788,-74.450986
 2242362162,Convolvulus_arvensis,39.664777,-104.950009
 1705293305,Convolvulus_arvensis,55.398678,13.107498
-442113259,Convolvulus_arvensis,40.25,116.5
-1098976840,Convolvulus_arvensis,52.700001,15.2
 1098976856,Convolvulus_arvensis,48.731945,11.186944
 176918060,Convolvulus_arvensis,38.82759,-97.61234
 1303622221,Convolvulus_arvensis,40.055779,113.226621
@@ -2884,7 +2748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303784541,Convolvulus_arvensis,38.285524,109.735211
 1303784600,Convolvulus_arvensis,36.580048,110.011833
 176917881,Convolvulus_arvensis,39.532271,-95.269788
-1697278075,Convolvulus_arvensis,51.8,107.6
 441726909,Convolvulus_arvensis,47.42361,-120.30917
 1705289073,Convolvulus_arvensis,59.375566,17.03385
 788459275,Convolvulus_arvensis,57.6459,12.01825
@@ -3048,7 +2911,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788456408,Convolvulus_arvensis,55.85342,12.91541
 788468646,Convolvulus_arvensis,59.43331,17.81813
 788471701,Convolvulus_arvensis,55.645731,13.214332
-1228610861,Convolvulus_arvensis,-12,-76.6333
 1931205506,Convolvulus_arvensis,39.666261,-86.844998
 1697624972,Convolvulus_arvensis,50.741507,34.089824
 1030488503,Convolvulus_arvensis,42.72444,-83.03611
@@ -3060,7 +2922,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999509771,Convolvulus_arvensis,60.447958,22.261567
 1989414993,Convolvulus_arvensis,42.625906,-83.033234
 2252399042,Convolvulus_arvensis,-32.998889,-68.66
-1259547831,Convolvulus_arvensis,-33.03333,-68.6
 1842912233,Convolvulus_arvensis,35.18,-5.25
 1563868038,Convolvulus_arvensis,56.27618,14.52288
 1935952462,Convolvulus_arvensis,35.1667,-5.2667
@@ -3199,7 +3060,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989012969,Convolvulus_arvensis,42.402916,-86.273621
 51807026,Convolvulus_arvensis,45.3186,-117.9433
 1144097573,Convolvulus_arvensis,60.32605,6.17715
-788656236,Convolvulus_arvensis,40.6,23.1
 1928871181,Convolvulus_arvensis,37.146448,-94.463004
 51807486,Convolvulus_arvensis,44.9431,-123.0339
 924822133,Convolvulus_arvensis,38.04668,-97.34504
