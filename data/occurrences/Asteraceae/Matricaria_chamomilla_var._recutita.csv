@@ -37,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844881838,Matricaria_chamomilla_var._recutita,40.825562,24.021391
 1844881817,Matricaria_chamomilla_var._recutita,40.802219,24.190281
 1844881914,Matricaria_chamomilla_var._recutita,41.075562,23.88583
-1842843755,Matricaria_chamomilla_var._recutita,41.41,2.1
 2251611286,Matricaria_chamomilla_var._recutita,59.55753,5.7797
 1830988846,Matricaria_chamomilla_var._recutita,48.59528,16.42889
 1839045833,Matricaria_chamomilla_var._recutita,39.444721,20.27
@@ -188,7 +187,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839037606,Matricaria_chamomilla_var._recutita,38.62389,21.214439
 1839037750,Matricaria_chamomilla_var._recutita,38.672501,21.32444
 1839037344,Matricaria_chamomilla_var._recutita,38.73111,21.19972
-1094184215,Matricaria_chamomilla_var._recutita,31.9,35.22
 1839037671,Matricaria_chamomilla_var._recutita,38.776112,21.44833
 1839037096,Matricaria_chamomilla_var._recutita,38.599442,21.228889
 1839037228,Matricaria_chamomilla_var._recutita,38.697781,21.217779
@@ -229,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839037395,Matricaria_chamomilla_var._recutita,40.09111,21.41194
 1839037721,Matricaria_chamomilla_var._recutita,39.70417,21.00194
 1839037437,Matricaria_chamomilla_var._recutita,40.073608,21.409439
-2308464924,Matricaria_chamomilla_var._recutita,31.2,30.02
 1839037584,Matricaria_chamomilla_var._recutita,40.107498,21.458059
 1839037416,Matricaria_chamomilla_var._recutita,40.077782,21.34
 1839037562,Matricaria_chamomilla_var._recutita,40.200562,21.51556
@@ -332,7 +329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839037724,Matricaria_chamomilla_var._recutita,38.20472,22.08972
 1839036489,Matricaria_chamomilla_var._recutita,38.478329,22.922779
 1839036581,Matricaria_chamomilla_var._recutita,38.486111,23.07361
-1094185878,Matricaria_chamomilla_var._recutita,33.06,35.6
 1839037208,Matricaria_chamomilla_var._recutita,38.500561,23.06222
 1839037699,Matricaria_chamomilla_var._recutita,38.177219,22.240561
 1230975183,Matricaria_chamomilla_var._recutita,48.95,12.08333
@@ -362,7 +358,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839037776,Matricaria_chamomilla_var._recutita,38.02639,22.076111
 1839036614,Matricaria_chamomilla_var._recutita,37.854721,22.211109
 1095918193,Matricaria_chamomilla_var._recutita,59.22,17.92
-1095917562,Matricaria_chamomilla_var._recutita,59.08,17.8
 1935702412,Matricaria_chamomilla_var._recutita,47.07437,15.44154
 1839037822,Matricaria_chamomilla_var._recutita,40.311668,22.49444
 1839037899,Matricaria_chamomilla_var._recutita,40.740559,22.87361
@@ -375,7 +370,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839037850,Matricaria_chamomilla_var._recutita,40.73917,22.77528
 1839037821,Matricaria_chamomilla_var._recutita,40.461941,22.576941
 1839037833,Matricaria_chamomilla_var._recutita,40.603889,22.680559
-1094181469,Matricaria_chamomilla_var._recutita,32.84,35.1
 1839037874,Matricaria_chamomilla_var._recutita,40.376942,22.628611
 1839037819,Matricaria_chamomilla_var._recutita,40.605,22.72139
 1839037828,Matricaria_chamomilla_var._recutita,40.516392,22.583891
@@ -424,7 +418,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839037568,Matricaria_chamomilla_var._recutita,40.986111,24.51861
 1839037597,Matricaria_chamomilla_var._recutita,41.02417,23.34444
 1839037494,Matricaria_chamomilla_var._recutita,41.141392,24.26778
-1094180751,Matricaria_chamomilla_var._recutita,33,35.47
 1839037730,Matricaria_chamomilla_var._recutita,40.958889,24.51111
 1839037855,Matricaria_chamomilla_var._recutita,40.728611,23.015829
 1839037458,Matricaria_chamomilla_var._recutita,40.936668,23.87639
@@ -668,7 +661,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212065512,Matricaria_chamomilla_var._recutita,40.497778,22.240833
 1212065617,Matricaria_chamomilla_var._recutita,40.820556,22.883889
 1838986174,Matricaria_chamomilla_var._recutita,41.233608,23.009439
-1795579133,Matricaria_chamomilla_var._recutita,42.4,-1.6
 1697866953,Matricaria_chamomilla_var._recutita,34.902778,33.625
 1212065566,Matricaria_chamomilla_var._recutita,40.236944,21.964167
 1838986247,Matricaria_chamomilla_var._recutita,41.179722,22.761669
@@ -830,7 +822,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212063777,Matricaria_chamomilla_var._recutita,38.901944,22.010556
 1838986216,Matricaria_chamomilla_var._recutita,38.901939,22.010559
 1701837570,Matricaria_chamomilla_var._recutita,59.6693,10.7939
-1697866938,Matricaria_chamomilla_var._recutita,34.7,33.088889
 85508755,Matricaria_chamomilla_var._recutita,41.363,2.038
 1697844604,Matricaria_chamomilla_var._recutita,45.307312,37.039118
 1851372951,Matricaria_chamomilla_var._recutita,42.66436,-5.52444
@@ -845,7 +836,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702213278,Matricaria_chamomilla_var._recutita,60.778,10.8638
 1697691497,Matricaria_chamomilla_var._recutita,56.859611,35.911896
 1702213083,Matricaria_chamomilla_var._recutita,59.4429,10.709
-1838986291,Matricaria_chamomilla_var._recutita,40.281109,23.4
 1838986316,Matricaria_chamomilla_var._recutita,40.587502,23.485279
 1838986318,Matricaria_chamomilla_var._recutita,40.332218,23.02417
 1212059509,Matricaria_chamomilla_var._recutita,40.424167,23.848611
@@ -891,7 +881,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838986314,Matricaria_chamomilla_var._recutita,40.661942,23.718611
 1838986327,Matricaria_chamomilla_var._recutita,40.17028,23.85417
 1838986303,Matricaria_chamomilla_var._recutita,40.210831,23.672779
-1212059385,Matricaria_chamomilla_var._recutita,40.281111,23.4
 1212059441,Matricaria_chamomilla_var._recutita,40.638889,23.589167
 1838986308,Matricaria_chamomilla_var._recutita,40.136669,23.378059
 1838986322,Matricaria_chamomilla_var._recutita,40.152222,23.912781
@@ -1040,9 +1029,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318116124,Matricaria_chamomilla_var._recutita,38.19,-0.56
 241460032,Matricaria_chamomilla_var._recutita,37.961,-6.08
 204424806,Matricaria_chamomilla_var._recutita,43.307999,-1.995
-895204440,Matricaria_chamomilla_var._recutita,39.5,-0.38
 1697691447,Matricaria_chamomilla_var._recutita,55.557261,37.588809
-788490486,Matricaria_chamomilla_var._recutita,39,21.566667
 230818734,Matricaria_chamomilla_var._recutita,51.853234,5.829895
 895172927,Matricaria_chamomilla_var._recutita,39.61,-2.48
 1050620505,Matricaria_chamomilla_var._recutita,43.33,-3.06
@@ -1053,7 +1040,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999547916,Matricaria_chamomilla_var._recutita,60.412823,22.284869
 473105841,Matricaria_chamomilla_var._recutita,51.787792,12.648331
 1705361386,Matricaria_chamomilla_var._recutita,57.901159,15.206505
-899749519,Matricaria_chamomilla_var._recutita,54.4,12.6
 895289051,Matricaria_chamomilla_var._recutita,39.977,-1.343
 1655994200,Matricaria_chamomilla_var._recutita,37.833333,21.533333
 1999547889,Matricaria_chamomilla_var._recutita,60.448601,22.279673
@@ -1073,30 +1059,22 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050581115,Matricaria_chamomilla_var._recutita,43.57,-1.45
 895172228,Matricaria_chamomilla_var._recutita,37.589,-3.821
 895281225,Matricaria_chamomilla_var._recutita,39.806,-0.786
-1501093528,Matricaria_chamomilla_var._recutita,39.8,-0.78
-860310807,Matricaria_chamomilla_var._recutita,41.87,2.7
 1288111238,Matricaria_chamomilla_var._recutita,50.58961,9.664681
-1842887477,Matricaria_chamomilla_var._recutita,35.1,-5.37
 1999547906,Matricaria_chamomilla_var._recutita,60.42597,22.522094
-1144718872,Matricaria_chamomilla_var._recutita,42.3,9.15
 1701765083,Matricaria_chamomilla_var._recutita,55.3982,12.3235
 204424700,Matricaria_chamomilla_var._recutita,43.48,-1.45
 1999547890,Matricaria_chamomilla_var._recutita,60.499674,22.199317
 187200134,Matricaria_chamomilla_var._recutita,63.4365,10.4801
 1999547862,Matricaria_chamomilla_var._recutita,60.464551,22.222726
 1948442832,Matricaria_chamomilla_var._recutita,68.282246,24.030805
-1050658605,Matricaria_chamomilla_var._recutita,43.3,-3
-1050658592,Matricaria_chamomilla_var._recutita,43.3,-3.01
 318116278,Matricaria_chamomilla_var._recutita,38.62,-0.11
 318116297,Matricaria_chamomilla_var._recutita,38.23,-0.72
 860318109,Matricaria_chamomilla_var._recutita,41.76,0.89
 318116030,Matricaria_chamomilla_var._recutita,38.42,-0.54
 860311249,Matricaria_chamomilla_var._recutita,41.061,-5.041
-1501986946,Matricaria_chamomilla_var._recutita,39.5,-0.5
 1655994905,Matricaria_chamomilla_var._recutita,40.466667,22.583333
 1839044369,Matricaria_chamomilla_var._recutita,39.906109,22.181669
 1050579293,Matricaria_chamomilla_var._recutita,41.93,-1.25
-1655993919,Matricaria_chamomilla_var._recutita,41,25.116667
 1936575448,Matricaria_chamomilla_var._recutita,38.3483,-3.8367
 1699947263,Matricaria_chamomilla_var._recutita,40.442835,8.538762
 1701491266,Matricaria_chamomilla_var._recutita,59.2705,11.0115
@@ -1120,7 +1098,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701308694,Matricaria_chamomilla_var._recutita,63.413,10.4048
 1050659236,Matricaria_chamomilla_var._recutita,42.69,-2.94
 216100970,Matricaria_chamomilla_var._recutita,60.430698,22.2822
-1500200123,Matricaria_chamomilla_var._recutita,49.183333,13.8
 1999548032,Matricaria_chamomilla_var._recutita,60.712741,21.653572
 1701305019,Matricaria_chamomilla_var._recutita,63.4116,10.3647
 1999547931,Matricaria_chamomilla_var._recutita,60.436415,22.190478
@@ -1136,7 +1113,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701278466,Matricaria_chamomilla_var._recutita,63.4331,10.3677
 1702365960,Matricaria_chamomilla_var._recutita,60.791,11.1033
 318116300,Matricaria_chamomilla_var._recutita,37.41,-1.58
-1501976928,Matricaria_chamomilla_var._recutita,38.68,-0.3
 1697691539,Matricaria_chamomilla_var._recutita,57.045241,41.011497
 1697691493,Matricaria_chamomilla_var._recutita,56.965439,40.970879
 788569615,Matricaria_chamomilla_var._recutita,56.19644,14.07583
@@ -1150,11 +1126,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 874239,Matricaria_chamomilla_var._recutita,57.15049,16.01647
 1702287851,Matricaria_chamomilla_var._recutita,59.7533,10.1568
 895268170,Matricaria_chamomilla_var._recutita,39.701,-0.498
-895241254,Matricaria_chamomilla_var._recutita,40.4,0.35
 895184597,Matricaria_chamomilla_var._recutita,40.13,-0.48
 1999547954,Matricaria_chamomilla_var._recutita,60.402327,23.067633
 1701985905,Matricaria_chamomilla_var._recutita,59.7232,9.8543
-1501115371,Matricaria_chamomilla_var._recutita,39.7,-0.49
 788561092,Matricaria_chamomilla_var._recutita,55.704,13.15895
 1948442744,Matricaria_chamomilla_var._recutita,60.205922,24.658596
 1851385153,Matricaria_chamomilla_var._recutita,41.58,-4.86
@@ -1232,8 +1206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948442739,Matricaria_chamomilla_var._recutita,60.947995,24.45934
 1144121965,Matricaria_chamomilla_var._recutita,61.4539,5.8762
 1501963232,Matricaria_chamomilla_var._recutita,39.51,-0.96
-1851367537,Matricaria_chamomilla_var._recutita,42.65,-5.5
-85790148,Matricaria_chamomilla_var._recutita,37.849998,-4.7
 85790147,Matricaria_chamomilla_var._recutita,37.84,-4.82
 1948443009,Matricaria_chamomilla_var._recutita,60.260074,24.919573
 874844,Matricaria_chamomilla_var._recutita,58.44337,13.86582
@@ -1268,7 +1240,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697691502,Matricaria_chamomilla_var._recutita,55.736361,37.150439
 1702392951,Matricaria_chamomilla_var._recutita,59.4722,10.6815
 1701986892,Matricaria_chamomilla_var._recutita,59.2745,11.0091
-78871938,Matricaria_chamomilla_var._recutita,37.44,-4.3
 1455447824,Matricaria_chamomilla_var._recutita,50.513718,4.573357
 1638409873,Matricaria_chamomilla_var._recutita,47.025,16.125
 1323819448,Matricaria_chamomilla_var._recutita,67.2339,14.6295
@@ -1302,8 +1273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099917263,Matricaria_chamomilla_var._recutita,56.783333,8.75
 1999547925,Matricaria_chamomilla_var._recutita,60.615896,21.706255
 1702168516,Matricaria_chamomilla_var._recutita,59.2156,10.9891
-2311072175,Matricaria_chamomilla_var._recutita,51.7,-4.32
-1230972925,Matricaria_chamomilla_var._recutita,48.7,16.23333
 2290508317,Matricaria_chamomilla_var._recutita,56.683333,8.733333
 874269,Matricaria_chamomilla_var._recutita,57.29221,15.58245
 1999596035,Matricaria_chamomilla_var._recutita,60.658046,21.864245
@@ -1340,26 +1309,21 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948442950,Matricaria_chamomilla_var._recutita,62.244977,25.746254
 1701706214,Matricaria_chamomilla_var._recutita,61.2385,7.0998
 1842892205,Matricaria_chamomilla_var._recutita,42.13,1.85
-1060322047,Matricaria_chamomilla_var._recutita,50.7,7.1
 1701833255,Matricaria_chamomilla_var._recutita,59.3205,10.8133
 1948442899,Matricaria_chamomilla_var._recutita,61.412035,24.093936
 684160434,Matricaria_chamomilla_var._recutita,47.033333,15.399722
 1099905133,Matricaria_chamomilla_var._recutita,55.651389,12.302778
 1697691481,Matricaria_chamomilla_var._recutita,54.374261,40.803223
-786109479,Matricaria_chamomilla_var._recutita,50.6,7.1
 788576687,Matricaria_chamomilla_var._recutita,59.858145,17.634069
 1999547871,Matricaria_chamomilla_var._recutita,60.438852,22.517591
 1999547821,Matricaria_chamomilla_var._recutita,60.443467,22.389594
-786109491,Matricaria_chamomilla_var._recutita,50.6,7
 1999547873,Matricaria_chamomilla_var._recutita,60.444702,22.171052
 1701326142,Matricaria_chamomilla_var._recutita,62.526,7.1241
-786109495,Matricaria_chamomilla_var._recutita,50.5,7
 1948442969,Matricaria_chamomilla_var._recutita,61.152375,21.514117
 1948442861,Matricaria_chamomilla_var._recutita,61.31394,23.729411
 1701916335,Matricaria_chamomilla_var._recutita,58.7341,5.6311
 900225343,Matricaria_chamomilla_var._recutita,58.8984,5.6757
 788601946,Matricaria_chamomilla_var._recutita,57.67146,11.930419
-786109475,Matricaria_chamomilla_var._recutita,51.7,7.8
 1948442936,Matricaria_chamomilla_var._recutita,60.63287,27.819244
 1948442890,Matricaria_chamomilla_var._recutita,60.544862,27.452576
 1999547914,Matricaria_chamomilla_var._recutita,60.461929,22.150279
@@ -1372,7 +1336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812027666,Matricaria_chamomilla_var._recutita,50.655083,9.185867
 1948442780,Matricaria_chamomilla_var._recutita,60.630544,21.969442
 684160333,Matricaria_chamomilla_var._recutita,46.152222,9.599722
-786188384,Matricaria_chamomilla_var._recutita,50.7,7
 1701304778,Matricaria_chamomilla_var._recutita,63.3085,10.1673
 187200080,Matricaria_chamomilla_var._recutita,63.307,10.1672
 1948442731,Matricaria_chamomilla_var._recutita,60.505231,26.896816
@@ -1403,7 +1366,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788580224,Matricaria_chamomilla_var._recutita,55.62361,13.19422
 2291831732,Matricaria_chamomilla_var._recutita,52.783333,6.516667
 1948442710,Matricaria_chamomilla_var._recutita,61.042221,26.358383
-318116081,Matricaria_chamomilla_var._recutita,38.6,-0.88
 1599904951,Matricaria_chamomilla_var._recutita,59.981588,23.440458
 57706703,Matricaria_chamomilla_var._recutita,61.0564,25.043301
 1839335331,Matricaria_chamomilla_var._recutita,63.082698,25.855941
@@ -1470,7 +1432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999547918,Matricaria_chamomilla_var._recutita,60.446986,22.234412
 1948442782,Matricaria_chamomilla_var._recutita,63.043208,21.55694
 1999547837,Matricaria_chamomilla_var._recutita,60.430208,22.527877
-1657189962,Matricaria_chamomilla_var._recutita,47.1,15.48333
 1948442835,Matricaria_chamomilla_var._recutita,60.426083,24.182424
 1705465151,Matricaria_chamomilla_var._recutita,56.744638,14.914524
 788556333,Matricaria_chamomilla_var._recutita,55.686024,13.225185
@@ -1507,7 +1468,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705427451,Matricaria_chamomilla_var._recutita,56.260183,12.973731
 788556420,Matricaria_chamomilla_var._recutita,56.0457,12.7474
 1323819447,Matricaria_chamomilla_var._recutita,65.40838,12.05587
-85499696,Matricaria_chamomilla_var._recutita,41.69,2.7
 788605681,Matricaria_chamomilla_var._recutita,58.197903,15.995409
 1144121948,Matricaria_chamomilla_var._recutita,61.30602,6.92873
 1144121945,Matricaria_chamomilla_var._recutita,60.4111,5.3258
@@ -1517,7 +1477,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788567620,Matricaria_chamomilla_var._recutita,58.480497,15.232183
 1948442841,Matricaria_chamomilla_var._recutita,60.167438,24.745248
 874554,Matricaria_chamomilla_var._recutita,56.877485,14.811873
-1655994993,Matricaria_chamomilla_var._recutita,38.033333,23.6
 788567737,Matricaria_chamomilla_var._recutita,58.211686,13.598083
 1948442742,Matricaria_chamomilla_var._recutita,61.711975,27.280514
 1144121932,Matricaria_chamomilla_var._recutita,60.4161,5.305
@@ -1625,7 +1584,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705341969,Matricaria_chamomilla_var._recutita,57.937584,14.083162
 874520,Matricaria_chamomilla_var._recutita,57.60552,15.53392
 1705265604,Matricaria_chamomilla_var._recutita,57.639579,14.750369
-1144565863,Matricaria_chamomilla_var._recutita,41.4,9.21667
 1697691657,Matricaria_chamomilla_var._recutita,55.272868,41.877277
 874146,Matricaria_chamomilla_var._recutita,56.62967,16.16369
 2028614752,Matricaria_chamomilla_var._recutita,60.13132,24.720692
