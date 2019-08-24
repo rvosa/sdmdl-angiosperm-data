@@ -92,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844870053,Viola_riviniana,43.31,-1.75
 1324014627,Viola_riviniana,58.2954,7.9807
 1701915948,Viola_riviniana,59.8601,10.2587
-1095923723,Viola_riviniana,59,17
 1701554097,Viola_riviniana,40.25833,-5.86944
 1324016754,Viola_riviniana,58.434,7.8536
 1658402196,Viola_riviniana,59.18452,27.33843
@@ -114,7 +113,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839109338,Viola_riviniana,38.618061,21.94556
 1839109011,Viola_riviniana,38.593891,21.908331
 2313334367,Viola_riviniana,48.14,11.65
-899806918,Viola_riviniana,51.4,10.9
 1702378532,Viola_riviniana,59.7617,10.1135
 1702378549,Viola_riviniana,59.7473,10.169
 1702380270,Viola_riviniana,59.8052,10.3556
@@ -229,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323857998,Viola_riviniana,68.9833,17.5053
 1701562992,Viola_riviniana,63.3802,10.0633
 932707918,Viola_riviniana,43.73321,-7.94598
-1882373011,Viola_riviniana,48.8,10.96
 1851576492,Viola_riviniana,38.04,-2.56
 1882377356,Viola_riviniana,48.81,10.95
 214576965,Viola_riviniana,53.071388,11.443334
@@ -237,7 +234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313444679,Viola_riviniana,48.22,11.46
 1849140022,Viola_riviniana,47.413139,10.858472
 1231231498,Viola_riviniana,47.175,15.45833
-786300119,Viola_riviniana,48.9,8.9
 900315079,Viola_riviniana,58.4436,7.8331
 1343147633,Viola_riviniana,55.91144,8.606775
 900316739,Viola_riviniana,58.4424,7.836
@@ -270,7 +266,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638437177,Viola_riviniana,51.18333,21.16667
 1701325548,Viola_riviniana,63.3161,10.6592
 1935732436,Viola_riviniana,47.2506,14.49914
-1882372954,Viola_riviniana,48.91,10.7
 1598552485,Viola_riviniana,60.216591,23.986406
 1701222072,Viola_riviniana,62.4059,6.1055
 1503368752,Viola_riviniana,52.3875,13.163194
@@ -288,7 +283,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701840272,Viola_riviniana,59.3242,11.5597
 1697591599,Viola_riviniana,60.059327,38.531246
 1323854369,Viola_riviniana,68.4729,16.8671
-883378320,Viola_riviniana,49.966667,20.1
 932707323,Viola_riviniana,42.76907,-7.87692
 1936677882,Viola_riviniana,36.95,-2.8667
 932707306,Viola_riviniana,42.76919,-7.88914
@@ -318,7 +312,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343147681,Viola_riviniana,56.468707,8.682186
 1671677756,Viola_riviniana,44.370716,9.661471
 1144047843,Viola_riviniana,61.3389,6.4085
-786300183,Viola_riviniana,48.3,8.2
 1671677607,Viola_riviniana,44.361642,9.670555
 1050641039,Viola_riviniana,42.81,-2.72
 1323851544,Viola_riviniana,67.1769,15.3731
@@ -345,7 +338,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199514603,Viola_riviniana,36.885,-3.915
 895232435,Viola_riviniana,39.649,-1.129
 1343147999,Viola_riviniana,55.273444,9.400099
-1060516121,Viola_riviniana,52,-9.5
 186846144,Viola_riviniana,58.4071,7.2587
 1851321244,Viola_riviniana,42.436,-6.818
 728979703,Viola_riviniana,51.735202,6.074844
@@ -404,15 +396,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212226281,Viola_riviniana,40.393056,23.798889
 186846052,Viola_riviniana,58.1518,7.0638
 1212226263,Viola_riviniana,40.489722,23.581389
-895176933,Viola_riviniana,40.292,-2.1
 1212226464,Viola_riviniana,40.360278,23.441944
 1839109152,Viola_riviniana,40.799171,21.775
 1212226162,Viola_riviniana,40.560556,23.827778
-1050632832,Viola_riviniana,42.7,-2.5
 1343148219,Viola_riviniana,54.947519,9.865234
 910450770,Viola_riviniana,40.522,-6.173
 1851328079,Viola_riviniana,42.91209,-5.53698
-1050633016,Viola_riviniana,42.68,-2.5
 1851381773,Viola_riviniana,42.251,-6.582
 1947751633,Viola_riviniana,49.96,10.63
 1851383536,Viola_riviniana,42.244,-6.667
@@ -431,7 +420,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701970165,Viola_riviniana,63.089,9.3495
 1323860609,Viola_riviniana,59.3023,10.6954
 1343148012,Viola_riviniana,55.282377,9.415932
-895189550,Viola_riviniana,40.0167,9.3
 788495385,Viola_riviniana,56.1444,14.52224
 1702228447,Viola_riviniana,59.7692,10.7815
 1144045555,Viola_riviniana,60.5442,5.4782
@@ -459,7 +447,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291987851,Viola_riviniana,52.011,5.913833
 1851576203,Viola_riviniana,42.25,-6.32
 1851329912,Viola_riviniana,42.264,-6.327
-1851377281,Viola_riviniana,42.4,-6.795
 23373324,Viola_riviniana,46.5671,4.90051
 1851372977,Viola_riviniana,42.273,-6.738
 728978374,Viola_riviniana,51.753728,5.973746
@@ -531,7 +518,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050625671,Viola_riviniana,42.69,-2.46
 1050625667,Viola_riviniana,42.71,-2.51
 1657210289,Viola_riviniana,46.76528,15.96306
-1050626131,Viola_riviniana,41.82,-1.8
 860309545,Viola_riviniana,42.8043,-0.4168
 2302281056,Viola_riviniana,47.19278,15.31833
 1343148102,Viola_riviniana,56.467023,9.720933
@@ -539,8 +525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323725628,Viola_riviniana,66.7266,13.6958
 1851322231,Viola_riviniana,42.5796,-5.1977
 1882382317,Viola_riviniana,48.66,10.88
-186845891,Viola_riviniana,58.5,8.5839
-1144800838,Viola_riviniana,41.88333,9
 1701626671,Viola_riviniana,59.6044,11.2708
 1323725611,Viola_riviniana,66.7092,13.7647
 1936643467,Viola_riviniana,42.8789,-3.9319
@@ -585,7 +569,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671677288,Viola_riviniana,44.120179,9.74047
 1935731964,Viola_riviniana,47.0625,15.475
 1936559088,Viola_riviniana,42.09701,-8.30002
-1050622864,Viola_riviniana,41.8,-1.79
 1343147778,Viola_riviniana,55.21119,8.959447
 1343147648,Viola_riviniana,55.704929,8.656591
 1343148011,Viola_riviniana,55.111536,9.445509
@@ -600,10 +583,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1606511489,Viola_riviniana,61.417653,24.217253
 21647194,Viola_riviniana,59.6877,10.4298
 1705346826,Viola_riviniana,57.401497,15.688775
-1050622660,Viola_riviniana,41.8,-1.8
-1050623202,Viola_riviniana,41.8,-1.81
 1343148625,Viola_riviniana,55.335206,11.198038
-1050622726,Viola_riviniana,41.72,-1.7
 1999475446,Viola_riviniana,60.391038,22.433355
 21647306,Viola_riviniana,59.3353,10.6497
 1598552366,Viola_riviniana,62.175764,25.547399
@@ -633,7 +613,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702254611,Viola_riviniana,60.1265,9.063
 1702163332,Viola_riviniana,59.5441,11.1729
 788503668,Viola_riviniana,56.13998,13.04536
-1851358253,Viola_riviniana,42.8,-6.169
 186845746,Viola_riviniana,58.6891,7.8088
 186845761,Viola_riviniana,58.4336,7.8551
 186845759,Viola_riviniana,58.9344,7.7257
@@ -641,7 +620,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702162699,Viola_riviniana,60.2464,9.0027
 1701258684,Viola_riviniana,63.864,11.0654
 1701958105,Viola_riviniana,63.0535,9.0939
-1851344014,Viola_riviniana,42.8,-6.145
 187278000,Viola_riviniana,64.0154,11.4347
 1999573977,Viola_riviniana,60.397945,22.386052
 1343147760,Viola_riviniana,55.08537,8.928243
@@ -690,7 +668,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851571265,Viola_riviniana,37.36,-8.49
 1705352057,Viola_riviniana,57.148875,16.366934
 1831356074,Viola_riviniana,53.2485,11.7486
-895291122,Viola_riviniana,40.04,-0.6
 1831356106,Viola_riviniana,53.3485,11.4153
 1343148768,Viola_riviniana,55.695767,11.998074
 186845702,Viola_riviniana,58.4245,7.8503
@@ -728,7 +705,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 31968534,Viola_riviniana,35.15,-4.98
 1882378203,Viola_riviniana,48.77,10.63
 31968532,Viola_riviniana,35.17,-4.98
-1947755038,Viola_riviniana,50.22,10.2
 1851327177,Viola_riviniana,43.075,-5.193
 1851354312,Viola_riviniana,43.055,-4.799
 1705419344,Viola_riviniana,57.572349,11.943448
@@ -742,7 +718,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851399932,Viola_riviniana,43.106,-5.022
 186845613,Viola_riviniana,59.2493,7.5228
 1851362213,Viola_riviniana,42.938,-4.832
-1851568524,Viola_riviniana,40.6,-1.82
 895306608,Viola_riviniana,40.513,-1.719
 1563903289,Viola_riviniana,59.0558,7.5608
 1702031241,Viola_riviniana,61.0368,10.6078
@@ -750,7 +725,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701794033,Viola_riviniana,59.6728,10.1096
 1701576935,Viola_riviniana,60.1817,12.4669
 1882377730,Viola_riviniana,48.78,10.53
-1502054859,Viola_riviniana,39,-0.91
 2312419555,Viola_riviniana,47.69,12.73
 1936438399,Viola_riviniana,40.0619,-6.2841
 1851366216,Viola_riviniana,42.406,-6.636
@@ -819,7 +793,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702230325,Viola_riviniana,60.152,9.027
 21651861,Viola_riviniana,59.7603,10.2193
 1598552326,Viola_riviniana,61.156923,24.591209
-1050601513,Viola_riviniana,42.9,-0.7
 186845532,Viola_riviniana,59.2473,7.5387
 1701921103,Viola_riviniana,59.8597,10.1515
 187278899,Viola_riviniana,63.1928,8.1951
@@ -828,7 +801,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186845533,Viola_riviniana,58.7564,8.0762
 1705352039,Viola_riviniana,57.1224,16.250969
 1702430321,Viola_riviniana,59.7276,10.7338
-1060610407,Viola_riviniana,48.2,11.5
 1701853836,Viola_riviniana,60.0532,9.1706
 1702405288,Viola_riviniana,59.8944,10.2778
 1702430302,Viola_riviniana,59.9769,10.8902
@@ -905,7 +877,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343148091,Viola_riviniana,56.270063,9.588049
 21647595,Viola_riviniana,59.6034,8.5128
 1851377528,Viola_riviniana,42.331,-6.53
-1851326732,Viola_riviniana,42.596,-6.3
 1144800836,Viola_riviniana,41.95,9.21667
 1936407920,Viola_riviniana,37.0984,-2.8324
 1936407985,Viola_riviniana,37.3868,-2.8544
@@ -924,9 +895,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701930768,Viola_riviniana,59.7956,11.0047
 1288129412,Viola_riviniana,50.6697,9.56534
 1851372261,Viola_riviniana,42.476,-6.537
-143035571,Viola_riviniana,43.349998,-3
 1598552370,Viola_riviniana,60.990834,24.375501
-2305809922,Viola_riviniana,52.2,-4.4
 895284041,Viola_riviniana,40.49,-0.35
 1936423351,Viola_riviniana,42.6356,0.7547
 1702047852,Viola_riviniana,59.7932,10.5056
@@ -964,7 +933,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702266288,Viola_riviniana,59.7153,10.6043
 895235766,Viola_riviniana,40.66,0.22
 895235884,Viola_riviniana,40.57,0.11
-1947751674,Viola_riviniana,50.27,10.4
 1705257601,Viola_riviniana,57.361217,16.262162
 1598552379,Viola_riviniana,60.291337,25.318055
 1701417483,Viola_riviniana,60.026,9.2781
@@ -1001,7 +969,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851381586,Viola_riviniana,42.48,-6.75
 1705346773,Viola_riviniana,57.239923,15.80522
 1332811429,Viola_riviniana,50.6717,9.56762
-895301423,Viola_riviniana,40.4,-0.35
 1697591680,Viola_riviniana,54.289951,36.176619
 895301322,Viola_riviniana,40.75,-0.22
 1598552302,Viola_riviniana,60.231541,23.89473
@@ -1015,8 +982,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702238160,Viola_riviniana,59.8824,10.5632
 1705352059,Viola_riviniana,57.005779,16.216662
 1144179009,Viola_riviniana,60.2786,5.2471
-895301218,Viola_riviniana,40.66,0.1
-1053985265,Viola_riviniana,42.64,-1.1
 1598552346,Viola_riviniana,63.066662,21.735838
 1598552751,Viola_riviniana,60.197738,23.81403
 1851587865,Viola_riviniana,40.87,-3.89
@@ -1028,13 +993,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598552462,Viola_riviniana,60.947074,24.530484
 211641814,Viola_riviniana,43.41,-5.91
 143035567,Viola_riviniana,43.080002,-2.75
-895260591,Viola_riviniana,40.14,-1.3
 1936363042,Viola_riviniana,42.7114,-3.1967
 1936400840,Viola_riviniana,39.5547,-4.7472
 296557468,Viola_riviniana,46.792,12.833
 1050632723,Viola_riviniana,42.79,-2.13
 296557470,Viola_riviniana,46.794,12.892
-1500701252,Viola_riviniana,39.95,-0.6
 1050632705,Viola_riviniana,43.03,-1.91
 1697591696,Viola_riviniana,54.029739,35.798896
 1598552359,Viola_riviniana,60.967529,24.384535
@@ -1042,18 +1005,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701236457,Viola_riviniana,59.9097,10.5287
 1102443,Viola_riviniana,56.877485,14.811873
 1598552329,Viola_riviniana,61.022875,24.502387
-994438736,Viola_riviniana,61,24.5
 1598552350,Viola_riviniana,60.965289,24.495824
 1701857762,Viola_riviniana,59.5128,10.6407
 895264198,Viola_riviniana,40.31,-0.35
-895261614,Viola_riviniana,40.23,-1.3
-1050601330,Viola_riviniana,42.8,-0.32
 296557469,Viola_riviniana,46.813333,12.761111
 1598552316,Viola_riviniana,60.96584,24.383104
 1935732046,Viola_riviniana,47.08472,15.47472
 1598552322,Viola_riviniana,61.011446,24.491263
 991884560,Viola_riviniana,54.2484,12.4151
-2288412378,Viola_riviniana,61,24.483333
 1598552291,Viola_riviniana,64.823804,26.072933
 1936516900,Viola_riviniana,37.4049,-2.8543
 1937490477,Viola_riviniana,64.8075,25.994167
@@ -1089,14 +1048,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705346731,Viola_riviniana,57.256742,15.559997
 1936132442,Viola_riviniana,41.2787,-3.4431
 1936396668,Viola_riviniana,42.3881,-1.009
-1050601499,Viola_riviniana,43.18,-2
 1999475356,Viola_riviniana,60.385072,22.797382
 1598552297,Viola_riviniana,59.967534,23.435695
 1701246545,Viola_riviniana,63.981,10.0522
 1598552309,Viola_riviniana,60.23973,25.056176
 1999475383,Viola_riviniana,60.643422,22.196213
 1144800812,Viola_riviniana,41.81667,9.21667
-1144800818,Viola_riviniana,42,9.11667
 1697591671,Viola_riviniana,54.803324,41.742867
 1705323864,Viola_riviniana,57.481434,15.321761
 1701337518,Viola_riviniana,62.8675,10.1301
@@ -1107,7 +1064,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598552280,Viola_riviniana,62.721378,23.829871
 1697591626,Viola_riviniana,57.268742,26.803894
 1701902986,Viola_riviniana,61.0988,11.1248
-143035580,Viola_riviniana,43.5,-5.72
 143035586,Viola_riviniana,42.18,-8.76
 1936099610,Viola_riviniana,38.6025,-2.4845
 1851337982,Viola_riviniana,42.46,-6.14
@@ -1140,18 +1096,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1231231783,Viola_riviniana,48.62028,20.53944
 1851402375,Viola_riviniana,40.42,-7.88
 1936567192,Viola_riviniana,42.6894,-3.9779
-1050601464,Viola_riviniana,43.2,-3.16
 1050601453,Viola_riviniana,42.78,-2.41
 1947751715,Viola_riviniana,49.93,10.22
 1231231603,Viola_riviniana,48.66111,20.43917
-1050601478,Viola_riviniana,42.7,-2.42
 1144800839,Viola_riviniana,41.83333,9.33333
-1144800842,Viola_riviniana,42.61667,9.4
 1702434625,Viola_riviniana,59.5129,10.5559
-237340337,Viola_riviniana,41.77,2.1
 1705323859,Viola_riviniana,57.597135,15.102812
 1231231476,Viola_riviniana,48.625,20.53972
-1144800840,Viola_riviniana,41.7,9.21667
 1702236786,Viola_riviniana,59.5141,10.635
 1701304411,Viola_riviniana,63.9101,9.9272
 57733428,Viola_riviniana,61.242001,24.845501
@@ -1166,7 +1117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705338422,Viola_riviniana,56.695422,14.613717
 1705439710,Viola_riviniana,57.446412,15.044916
 1936543709,Viola_riviniana,43.3414,-4.4818
-1050601448,Viola_riviniana,42.75,-2.4
 1050601452,Viola_riviniana,42.79,-3.17
 1050601450,Viola_riviniana,43.01,-2.72
 318239149,Viola_riviniana,59.0867,5.7101
@@ -1176,7 +1126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598552286,Viola_riviniana,61.000078,26.125428
 1935732247,Viola_riviniana,47.37778,15.89167
 2324191288,Viola_riviniana,61.865899,6.228855
-1050601455,Viola_riviniana,42.95,-3.2
 1935732259,Viola_riviniana,47.37778,15.85556
 1701968670,Viola_riviniana,63.06,9.3857
 900225818,Viola_riviniana,61.05606,8.90577
@@ -1187,7 +1136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895312159,Viola_riviniana,39.87,-0.84
 1598552315,Viola_riviniana,60.242289,24.65871
 895295610,Viola_riviniana,39.896,-0.783
-1050601472,Viola_riviniana,42.6,-2.59
 1323764137,Viola_riviniana,68.457,17.1111
 1598552679,Viola_riviniana,60.177896,24.573169
 1323837679,Viola_riviniana,66.9681,13.8204
@@ -1208,7 +1156,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050601492,Viola_riviniana,42.86,-2.69
 1050632716,Viola_riviniana,43.27,-3.12
 1050632659,Viola_riviniana,43.35,-2.67
-1050632696,Viola_riviniana,43.1,-2.81
 1050632693,Viola_riviniana,43.42,-2.94
 1851325615,Viola_riviniana,42.92,-6.37
 1806556065,Viola_riviniana,42.927648,-1.810162
@@ -1227,7 +1174,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050601412,Viola_riviniana,42.54,-2.66
 876153074,Viola_riviniana,42.28,-0.03
 1936099891,Viola_riviniana,42.4151,-6.5464
-1050632697,Viola_riviniana,43.17,-3.2
 1851342408,Viola_riviniana,42.92,-6.49
 1598552369,Viola_riviniana,60.62312,24.375298
 441953928,Viola_riviniana,51.754322,12.650285
@@ -1238,7 +1184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144206978,Viola_riviniana,60.2739,6.6221
 1806556105,Viola_riviniana,42.689057,-1.584721
 1936098876,Viola_riviniana,43.0359,-5.481
-1050632685,Viola_riviniana,43.19,-3.1
 1144206984,Viola_riviniana,60.3041,6.6477
 1598552238,Viola_riviniana,61.001086,24.418112
 1705346831,Viola_riviniana,57.544112,16.035661
@@ -1256,7 +1201,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598552306,Viola_riviniana,62.224818,30.660758
 1598552320,Viola_riviniana,60.99212,24.418841
 1702393809,Viola_riviniana,59.8111,9.5437
-1050632694,Viola_riviniana,43.29,-3.3
 1936098851,Viola_riviniana,43.0489,-5.9442
 1936544028,Viola_riviniana,42.9828,-4.3505
 1851322835,Viola_riviniana,43.11,-5.27
@@ -1278,32 +1222,24 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050632715,Viola_riviniana,43.31,-2.68
 1050632719,Viola_riviniana,43.18,-3.04
 1050632692,Viola_riviniana,43.21,-3.06
-1050632679,Viola_riviniana,43.1,-2.89
 1050601425,Viola_riviniana,42.82,-3.15
 1050601403,Viola_riviniana,43.06,-2.55
-1050632678,Viola_riviniana,43.37,-2.9
 1050632687,Viola_riviniana,43.35,-2.92
 1050632668,Viola_riviniana,43.28,-1.89
-1050632675,Viola_riviniana,43.2,-2.63
 1050601402,Viola_riviniana,42.76,-3.07
-1050601437,Viola_riviniana,43.05,-2.6
 1050632684,Viola_riviniana,43.06,-2.66
 1050601491,Viola_riviniana,42.58,-2.43
 1050601493,Viola_riviniana,43.03,-2.58
 1936371845,Viola_riviniana,42.4949,-2.6241
 1050632691,Viola_riviniana,43.21,-2.47
-143035588,Viola_riviniana,38.040001,-3
 1050632682,Viola_riviniana,43.19,-3.25
 1323794380,Viola_riviniana,68.4647,17.2449
 1050632663,Viola_riviniana,43.09,-2.51
-1050601434,Viola_riviniana,42.6,-2.54
 1806556137,Viola_riviniana,42.852578,-1.661392
 1697591744,Viola_riviniana,55.578143,37.555466
 1050632681,Viola_riviniana,43.08,-2.85
 1697591736,Viola_riviniana,55.575968,37.55121
-1050632651,Viola_riviniana,43.2,-3.25
 1273861430,Viola_riviniana,57.97474,14.09382
-1050632672,Viola_riviniana,43.08,-2.5
 1050601459,Viola_riviniana,43.13,-2.32
 57733451,Viola_riviniana,61.808899,25.659599
 1936077273,Viola_riviniana,41.4322,-5.5146
@@ -1324,8 +1260,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144207118,Viola_riviniana,61.30602,6.92873
 1936543316,Viola_riviniana,43.3126,-5.9608
 1050601427,Viola_riviniana,43.16,-3.01
-1050601416,Viola_riviniana,43.02,-2.9
-1050601474,Viola_riviniana,42.8,-2.56
 1935732241,Viola_riviniana,47.00972,15.46806
 1050601408,Viola_riviniana,42.73,-3.18
 1050601407,Viola_riviniana,42.51,-2.62
@@ -1348,7 +1282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851366619,Viola_riviniana,42.92,-5.63
 1697591740,Viola_riviniana,55.568694,37.541242
 1851410740,Viola_riviniana,43.11,-4.91
-1851346290,Viola_riviniana,43,-5.76
 1323843975,Viola_riviniana,67.3865,15.3146
 1144119982,Viola_riviniana,60.955,5.999
 1323837693,Viola_riviniana,65.5675,12.3042
@@ -1376,17 +1309,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144800831,Viola_riviniana,42.35,8.73333
 1144027234,Viola_riviniana,60.54419,6.66526
 1701252979,Viola_riviniana,63.3736,10.0849
-1144800844,Viola_riviniana,42.4,8.86667
 1050601418,Viola_riviniana,42.83,-2.51
 1702300204,Viola_riviniana,59.7303,10.2093
 1701859709,Viola_riviniana,59.26671,9.48765
-1050601503,Viola_riviniana,42.6,-2.57
 1050601410,Viola_riviniana,42.98,-2.87
 876151574,Viola_riviniana,41.04,-1.16
 876151577,Viola_riviniana,40.95,-1.04
 187278889,Viola_riviniana,59.5337,10.4232
-814325433,Viola_riviniana,34.8,-4.7
-1144800855,Viola_riviniana,42.41667,8.9
 1935732334,Viola_riviniana,46.5625,13.47333
 1323837659,Viola_riviniana,68.6701,17.8707
 1701221190,Viola_riviniana,62.748,11.1435
@@ -1398,7 +1327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050601484,Viola_riviniana,42.88,-2.61
 1936090402,Viola_riviniana,42.4519,-6.5814
 1606511504,Viola_riviniana,61.427568,23.881443
-876151581,Viola_riviniana,41.5,-1.74
 318239154,Viola_riviniana,58.9362,5.5723
 1702048430,Viola_riviniana,61.4971,5.1104
 1598552745,Viola_riviniana,60.253924,24.558627
@@ -1427,7 +1355,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050601406,Viola_riviniana,42.61,-2.64
 2028547114,Viola_riviniana,42.08,2.68
 1050601481,Viola_riviniana,42.79,-2.72
-1050601488,Viola_riviniana,42.6,-2.55
 1701369158,Viola_riviniana,59.97276,8.53529
 1701962009,Viola_riviniana,64.1273,10.715
 1144207138,Viola_riviniana,62.656,6.2189
@@ -1453,7 +1380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144207126,Viola_riviniana,62.3148,5.8065
 1050601439,Viola_riviniana,42.77,-2.69
 1050601393,Viola_riviniana,42.76,-2.65
-1060610411,Viola_riviniana,49.1,11.3
 1050601423,Viola_riviniana,42.88,-2.99
 1050601426,Viola_riviniana,42.68,-2.45
 1851322410,Viola_riviniana,42.91,-5.76
@@ -1497,7 +1423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 833456489,Viola_riviniana,49.916666,7.85
 1323837618,Viola_riviniana,68.7793,17.1664
 1598552667,Viola_riviniana,60.725094,27.088634
-1937490855,Viola_riviniana,60.5,22.25
 143035572,Viola_riviniana,41.189999,-3.48
 1701688939,Viola_riviniana,60.5683,6.8937
 1702439651,Viola_riviniana,61.9163,5.9653
@@ -1532,14 +1457,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851390014,Viola_riviniana,42.37,-6.27
 1701771526,Viola_riviniana,62.552,9.1021
 1697591781,Viola_riviniana,54.856059,38.537435
-199514262,Viola_riviniana,37.36,-8.6
 1702342961,Viola_riviniana,59.4904,10.4038
 186846356,Viola_riviniana,58.434,7.8552
 1144206893,Viola_riviniana,60.2612,5.6251
 57733486,Viola_riviniana,61.9259,25.692499
 1701637808,Viola_riviniana,59.4984,10.3688
 1323837744,Viola_riviniana,66.3238,14.0739
-1231216729,Viola_riviniana,46.53333,14.4
 57733517,Viola_riviniana,62.443501,24.759501
 57733503,Viola_riviniana,61.886101,25.760799
 1701298694,Viola_riviniana,63.3566,9.1299
@@ -1591,7 +1514,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701267896,Viola_riviniana,65.5254,13.7638
 1598552697,Viola_riviniana,61.704964,28.414651
 1701266931,Viola_riviniana,63.0083,11.6763
-1701769337,Viola_riviniana,62.8,8.7745
 1701690888,Viola_riviniana,63.4982,10.8983
 1936098827,Viola_riviniana,39.3411,-7.3058
 1598549326,Viola_riviniana,62.890757,27.635632
@@ -1661,8 +1583,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705429854,Viola_riviniana,57.26756,14.928626
 788589824,Viola_riviniana,38.55,22.55
 1598552641,Viola_riviniana,60.241021,25.146387
-788543465,Viola_riviniana,39.8,21.183333
-1701969180,Viola_riviniana,62.528,9
 1701762884,Viola_riviniana,62.6929,6.7823
 1697591673,Viola_riviniana,56.233845,41.947312
 1323837666,Viola_riviniana,68.3602,17.1022
@@ -1699,7 +1619,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598552650,Viola_riviniana,61.146985,24.304145
 1701777483,Viola_riviniana,63.1095,10.1692
 1144800821,Viola_riviniana,42.03333,9.21667
-1249268902,Viola_riviniana,50.6,6.8
 1144800859,Viola_riviniana,42.26667,8.93333
 1702212457,Viola_riviniana,59.3501,7.2503
 187278124,Viola_riviniana,62.8222,11.5415
@@ -1727,15 +1646,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697591658,Viola_riviniana,54.823964,41.778022
 57733567,Viola_riviniana,62.966702,27.686501
 1324016498,Viola_riviniana,59.8086,8.6248
-1144800879,Viola_riviniana,41.9,9.2
 1598552720,Viola_riviniana,61.150555,24.489639
 1701809798,Viola_riviniana,62.3109,7.0517
 1701269944,Viola_riviniana,65.0525,13.8314
 1701790232,Viola_riviniana,62.3515,5.8412
-1249268890,Viola_riviniana,46.5,7.6
-786300247,Viola_riviniana,50.5,7
 186846250,Viola_riviniana,58.2994,6.6513
-786300244,Viola_riviniana,50.7,7.1
 1701467518,Viola_riviniana,59.9734,10.5765
 788486316,Viola_riviniana,60.16414,15.16368
 186846248,Viola_riviniana,58.2999,6.6539
@@ -1760,11 +1675,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701340560,Viola_riviniana,62.8235,10.0106
 1702351630,Viola_riviniana,64.53678,12.57728
 1144800822,Viola_riviniana,41.58333,9.08333
-786300255,Viola_riviniana,50.5,6.9
-786300278,Viola_riviniana,50.6,7
 1598552711,Viola_riviniana,61.501656,24.085572
 1701301346,Viola_riviniana,63.0829,9.099
-786300271,Viola_riviniana,50.6,6.9
 788495102,Viola_riviniana,55.92788,13.966278
 788495047,Viola_riviniana,55.988928,13.991072
 1702341865,Viola_riviniana,60.3141,11.2447
@@ -1779,11 +1691,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598552693,Viola_riviniana,61.493121,23.710602
 1598552656,Viola_riviniana,61.371873,22.599937
 1701266531,Viola_riviniana,63.2658,10.8232
-1144800864,Viola_riviniana,42.4,8.9
 1144800850,Viola_riviniana,42.38333,8.95
 1701902944,Viola_riviniana,61.1379,8.9211
 1702355878,Viola_riviniana,61.0796,8.9509
-786300230,Viola_riviniana,47.4,10.7
 788483631,Viola_riviniana,58.57802,13.37168
 1323837763,Viola_riviniana,68.1035,16.3828
 1701769069,Viola_riviniana,63.3446,10.1488
@@ -1826,7 +1736,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144206822,Viola_riviniana,58.97009,5.71814
 1701960463,Viola_riviniana,62.9483,11.0597
 1999475351,Viola_riviniana,60.387585,23.178344
-786300202,Viola_riviniana,50.5,6.8
 187278330,Viola_riviniana,62.86812,11.28687
 1598552694,Viola_riviniana,61.252077,28.766919
 1702209475,Viola_riviniana,62.94634,6.98913
@@ -1875,7 +1784,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702386480,Viola_riviniana,62.44288,7.70992
 1999574004,Viola_riviniana,60.234033,22.852918
 1702335136,Viola_riviniana,60.694,6.8388
-786300197,Viola_riviniana,50.7,7.2
 1701334213,Viola_riviniana,63.3985,10.1409
 1598552613,Viola_riviniana,61.59517,24.265264
 1831354853,Viola_riviniana,53.5485,13.9149
@@ -1988,7 +1896,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701279778,Viola_riviniana,63.0206,10.2546
 1598549331,Viola_riviniana,60.603622,27.31636
 1144206896,Viola_riviniana,60.373,5.5801
-1701344231,Viola_riviniana,63,10.5203
 1701970234,Viola_riviniana,62.9539,10.4882
 1598549257,Viola_riviniana,60.576984,27.151943
 39593588,Viola_riviniana,65.156,-13.684
@@ -2001,10 +1908,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788483751,Viola_riviniana,58.647693,16.133967
 1891595178,Viola_riviniana,49.91,5.91
 1697591615,Viola_riviniana,54.859115,20.247083
-1705471569,Viola_riviniana,46,6.3333
 788484512,Viola_riviniana,56.280658,13.948948
 788484570,Viola_riviniana,56.3807,14.000812
-616357167,Viola_riviniana,50.81,5.9
 1701772465,Viola_riviniana,63.589,10.4206
 1701267354,Viola_riviniana,63.0189,10.4323
 788484283,Viola_riviniana,56.34862,14.01009
@@ -2194,7 +2099,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39771065,Viola_riviniana,64.936,-22.842
 39771066,Viola_riviniana,64.854,-23.036
 1323863942,Viola_riviniana,67.3051,14.431
-39771067,Viola_riviniana,64.844,-23.4
 1701914508,Viola_riviniana,63.2478,10.54714
 1323726392,Viola_riviniana,67.2829,14.5127
 1891607614,Viola_riviniana,49.49,5.97
@@ -2225,7 +2129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701317254,Viola_riviniana,64.1455,11.6929
 788484045,Viola_riviniana,55.582731,13.832916
 1705463583,Viola_riviniana,57.345847,16.467929
-1891592087,Viola_riviniana,49.78,6.2
 1999573989,Viola_riviniana,60.745494,22.68611
 187278180,Viola_riviniana,63.4764,10.8466
 1701279003,Viola_riviniana,59.9288,10.5565
@@ -2254,7 +2157,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705423451,Viola_riviniana,56.200911,15.537208
 1273865230,Viola_riviniana,56.88377,14.81922
 1705258002,Viola_riviniana,59.858145,17.634069
-1893209110,Viola_riviniana,49.8,6.43
 788503935,Viola_riviniana,55.58435,13.33621
 788494345,Viola_riviniana,55.71148,13.32469
 186845964,Viola_riviniana,58.6884,9.0086
@@ -2290,7 +2192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144206836,Viola_riviniana,59.04558,5.99703
 1598552731,Viola_riviniana,63.231715,28.289814
 1702308491,Viola_riviniana,59.335,11.6456
-1891600631,Viola_riviniana,49.7,6.4
 1891605805,Viola_riviniana,49.71,6.45
 1705326375,Viola_riviniana,56.730527,14.530913
 1893208588,Viola_riviniana,49.07,6.05
@@ -2466,7 +2367,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701706525,Viola_riviniana,59.5139,9.7245
 1598552598,Viola_riviniana,60.874271,24.142984
 1598549224,Viola_riviniana,60.784637,24.150974
-876157759,Viola_riviniana,41.4,1.15
 1701897052,Viola_riviniana,59.6929,10.741
 788482665,Viola_riviniana,56.099849,14.251002
 616357166,Viola_riviniana,50.76,5.91
@@ -2860,7 +2760,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702355879,Viola_riviniana,61.1605,10.378
 788502223,Viola_riviniana,56.045903,13.376339
 788496543,Viola_riviniana,55.614583,13.404177
-2313342856,Viola_riviniana,48.11,11.4
 788504422,Viola_riviniana,55.802947,13.365979
 1701998570,Viola_riviniana,59.8931,10.537
 1705442699,Viola_riviniana,62.415673,16.580565
@@ -2873,7 +2772,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701894071,Viola_riviniana,59.4087,5.6524
 1701337764,Viola_riviniana,63.5752,9.9063
 1598552616,Viola_riviniana,61.333202,24.661896
-1702367034,Viola_riviniana,67.4167,15.7
 1702355824,Viola_riviniana,59.5772,9.6373
 1144207035,Viola_riviniana,60.9853,5.4866
 1701697031,Viola_riviniana,59.7245,11.045
@@ -2917,7 +2815,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701345281,Viola_riviniana,63.3627,10.5994
 1702168526,Viola_riviniana,60.43395,10.53107
 1144206845,Viola_riviniana,60.4239,5.2969
-786300054,Viola_riviniana,48.9,8.2
 788486097,Viola_riviniana,55.58181,13.43176
 1705318929,Viola_riviniana,57.7045,11.96518
 1101821,Viola_riviniana,57.025816,14.88974
@@ -2962,7 +2859,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702335121,Viola_riviniana,60.5195,6.5124
 1144206894,Viola_riviniana,59.8388,6.1504
 1701894484,Viola_riviniana,60.6749,6.5599
-616367285,Viola_riviniana,51.56,4.8
 788873916,Viola_riviniana,60.14247,15.35437
 1598552768,Viola_riviniana,61.483556,23.335881
 788483456,Viola_riviniana,55.836088,13.620919
@@ -3145,7 +3041,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702355808,Viola_riviniana,59.9094,10.2695
 1702209824,Viola_riviniana,65.9902,12.5449
 788502227,Viola_riviniana,58.389094,13.846898
-1144569283,Viola_riviniana,41.86667,9.4
 1803766459,Viola_riviniana,46.836667,15.592778
 788487062,Viola_riviniana,58.32407,11.72141
 1144206853,Viola_riviniana,60.4146,5.3215
@@ -3240,7 +3135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701318531,Viola_riviniana,62.395,6.5914
 1701285079,Viola_riviniana,59.2149,10.883
 1705295905,Viola_riviniana,56.435774,12.72815
-187278974,Viola_riviniana,59.3,10.6664
 1701328365,Viola_riviniana,59.2152,10.8655
 788497626,Viola_riviniana,55.59476,13.02502
 788501468,Viola_riviniana,58.34374,11.96518
