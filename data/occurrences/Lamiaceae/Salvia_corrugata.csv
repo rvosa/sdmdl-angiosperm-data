@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258150809,Salvia_corrugata,-2.841667,-79.144139
-1258178567,Salvia_corrugata,-6.598611,-77.791944
 1936662745,Salvia_corrugata,-3.1028,-78.9972
 1260410069,Salvia_corrugata,-3.10277,-78.99722
 1260310056,Salvia_corrugata,-2.574722,-79.1225
@@ -8,7 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260125382,Salvia_corrugata,-2.2,-78.83333
 1843579911,Salvia_corrugata,-2.9278,-78.7258
 1259019766,Salvia_corrugata,-2.92777,-78.72583
-1843370850,Salvia_corrugata,-37.783333,174.9
 1260127052,Salvia_corrugata,-1.51805,-78.49527
 1096773664,Salvia_corrugata,-3.13,-79.03
 1260279279,Salvia_corrugata,-3.13333,-79.03333
@@ -25,12 +23,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258415667,Salvia_corrugata,-2.5,-78.88333
 1259993013,Salvia_corrugata,-1.81666,-78.86666
 47842988,Salvia_corrugata,-1.816,-78.866
-1262236444,Salvia_corrugata,-0.2,-78.516667
 1096773676,Salvia_corrugata,-2.88,-78.98
-1258483034,Salvia_corrugata,0.38333,-78.16666
 1260280385,Salvia_corrugata,-2.33333,-78.93333
 1260026605,Salvia_corrugata,-2.95,-79.2
-1707489006,Salvia_corrugata,2.619381,-76.303461
 47842541,Salvia_corrugata,-2.533,-78.933
 1261154192,Salvia_corrugata,-2.53333,-78.93333
 47842491,Salvia_corrugata,-1.8,-78.866
@@ -44,7 +39,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262235810,Salvia_corrugata,-2.91666,-79.41666
 47842354,Salvia_corrugata,-2.916,-79.416
 1262235784,Salvia_corrugata,-2.81666,-78.13333
-1258729917,Salvia_corrugata,1.05,-77.68333
 47842535,Salvia_corrugata,-2.816,-78.133
 1262235698,Salvia_corrugata,-1.58333,-79.05
 1262235707,Salvia_corrugata,-1.58333,-79.06666
@@ -53,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47842735,Salvia_corrugata,-1.583,-79.066
 47842727,Salvia_corrugata,-3.2,-79.033
 47842734,Salvia_corrugata,-1.583,-79.05
-1843561124,Salvia_corrugata,1.58,-79.05
 1843535289,Salvia_corrugata,-2.68,-78.78
 1261154156,Salvia_corrugata,-2.81666,-78.83333
 47842794,Salvia_corrugata,-2.816,-78.833
@@ -66,7 +59,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47842694,Salvia_corrugata,-1.166,-79.083
 1261154129,Salvia_corrugata,-2.38333,-78.91666
 47842713,Salvia_corrugata,-2.383,-78.916
-1099626688,Salvia_corrugata,1.092583,-77.594917
 47842718,Salvia_corrugata,-2.883,-79.083
 1261154115,Salvia_corrugata,-2.88333,-79.08333
 1843527739,Salvia_corrugata,-2.88,-79.08
@@ -76,5 +68,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259051685,Salvia_corrugata,-2.50055,-78.75111
 1262235660,Salvia_corrugata,-2.86666,-79.06666
 1260275001,Salvia_corrugata,-2.15,-79.983333
-1099625421,Salvia_corrugata,1.28325,-77.62458
-1228299653,Salvia_corrugata,2.5,-76.8333
