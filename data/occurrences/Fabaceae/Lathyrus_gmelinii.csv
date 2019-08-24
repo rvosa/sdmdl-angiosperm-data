@@ -11,8 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843220232,Lathyrus_gmelinii,48.82378,87.02803
 1697270951,Lathyrus_gmelinii,55.95655,92.73321
 1697569188,Lathyrus_gmelinii,57.063859,60.180893
-1697270915,Lathyrus_gmelinii,51.083333,85
-1697270942,Lathyrus_gmelinii,51.166667,86
 1697270971,Lathyrus_gmelinii,49.933333,86.416667
 1697270908,Lathyrus_gmelinii,60.03214,90.62291
 1697271015,Lathyrus_gmelinii,59.57792,59.15735
@@ -30,7 +28,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697569197,Lathyrus_gmelinii,55.121887,58.373557
 1697569163,Lathyrus_gmelinii,56.092751,55.933744
 1697270935,Lathyrus_gmelinii,51.283333,87.75
-1697270904,Lathyrus_gmelinii,51.283333,88
 1697569176,Lathyrus_gmelinii,58.724598,60.420439
 1697662988,Lathyrus_gmelinii,54.956356,59.178835
 1697270924,Lathyrus_gmelinii,58.15035,94.12301
