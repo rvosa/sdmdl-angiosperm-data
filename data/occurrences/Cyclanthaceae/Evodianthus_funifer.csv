@@ -42,7 +42,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094897851,Evodianthus_funifer,-17.799722,-39.389444
 1424303446,Evodianthus_funifer,-1.066389,-47.8675
 1424303435,Evodianthus_funifer,-1.067778,-47.8725
-2236801532,Evodianthus_funifer,-14.333333,-19.034167
 1424303503,Evodianthus_funifer,-1.95,-51.566667
 1424303558,Evodianthus_funifer,-1.7,-51.516667
 1424303486,Evodianthus_funifer,-1.724444,-51.455278
@@ -84,7 +83,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806850179,Evodianthus_funifer,-10.104167,-75.550278
 1424288087,Evodianthus_funifer,-19.347222,-40.171111
 1253850780,Evodianthus_funifer,9.81788,-83.15871
-1260842533,Evodianthus_funifer,8.97305,-80.7575
 1077226205,Evodianthus_funifer,-13.716667,-39.133333
 2287828009,Evodianthus_funifer,5.408333,-54.135167
 2287830820,Evodianthus_funifer,5.402,-54.135167
@@ -154,7 +152,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 80075546,Evodianthus_funifer,-12.57,-70.1
 1090450137,Evodianthus_funifer,-14.416667,-39.016667
 1223130403,Evodianthus_funifer,-0.652389,-72.081139
-1257549250,Evodianthus_funifer,9,-84
 1258813084,Evodianthus_funifer,8.78555,-82.21416
 1424253469,Evodianthus_funifer,-8.236944,-73.055833
 1077210187,Evodianthus_funifer,-16.266667,-39.016667
@@ -248,9 +245,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261910614,Evodianthus_funifer,10.49,-83.78
 1806850333,Evodianthus_funifer,-0.65,-76.433333
 1258272316,Evodianthus_funifer,-0.5,-76.433333
-45186990,Evodianthus_funifer,8.48,-83.59
 1261859369,Evodianthus_funifer,10.8,-83.766667
-1253627928,Evodianthus_funifer,8.480556,-83.591667
 1253636739,Evodianthus_funifer,8.552778,-83.511111
 1258430545,Evodianthus_funifer,10.15,-83.73
 1253590897,Evodianthus_funifer,10.152778,-83.732778
@@ -293,7 +288,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2236801508,Evodianthus_funifer,-17.166667,-39.4
 1253609710,Evodianthus_funifer,8.719444,-83.580556
 45186429,Evodianthus_funifer,8.71,-83.58
-1259244479,Evodianthus_funifer,9.41666,-82.28333
 1228329307,Evodianthus_funifer,8.8333,-82.1667
 1261519445,Evodianthus_funifer,0.86666,-78.43333
 1253614193,Evodianthus_funifer,9.405556,-83.225
@@ -315,7 +309,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438577054,Evodianthus_funifer,5,-52.95
 1260419520,Evodianthus_funifer,8.673611,-83.188889
 1258284136,Evodianthus_funifer,-3.25,-72.9
-1090521293,Evodianthus_funifer,-13.802222,-38.1675
 45185644,Evodianthus_funifer,8.86,-83.28
 1253711271,Evodianthus_funifer,8.866667,-83.283333
 1258136341,Evodianthus_funifer,-1.02,-77.164722
@@ -362,9 +355,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260400594,Evodianthus_funifer,-0.41666,-76.83333
 1260390741,Evodianthus_funifer,9.25,-78.25
 1260399006,Evodianthus_funifer,-3.46666,-72.83333
-2291591680,Evodianthus_funifer,5.65,-53.616667
 1260400364,Evodianthus_funifer,-1.533333,-76.85
-1259239956,Evodianthus_funifer,9.09,-81.553333
 1223133731,Evodianthus_funifer,6.65,-74.516667
 1260401688,Evodianthus_funifer,6.35,-76.43333
 1260418548,Evodianthus_funifer,6.08333,-77.16666
@@ -396,15 +387,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260415453,Evodianthus_funifer,0.01666,-76.18333
 1260403728,Evodianthus_funifer,-0.71666,-77.6
 47767594,Evodianthus_funifer,0.016,-76.183
-1223133765,Evodianthus_funifer,6.092978,-77.387498
 1260388819,Evodianthus_funifer,9.4,-82.96
 1253689373,Evodianthus_funifer,9.404167,-82.969444
 1253706834,Evodianthus_funifer,9.347222,-82.983334
 45185600,Evodianthus_funifer,9.34,-82.98
 1260387244,Evodianthus_funifer,-0.71666,-77.53333
-1260392922,Evodianthus_funifer,8.46,-83.58
-1065430531,Evodianthus_funifer,6.20849,-77.39094
-1253695470,Evodianthus_funifer,8.466667,-83.583333
 1929489936,Evodianthus_funifer,6.78,-59.73
 1260396417,Evodianthus_funifer,-3.5,-73.08333
 1456424456,Evodianthus_funifer,6.79167,-59.7417
@@ -427,15 +414,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253698924,Evodianthus_funifer,10.533333,-83.5
 1260390461,Evodianthus_funifer,-0.916667,-76.183333
 1260374316,Evodianthus_funifer,7.456384,-76.846244
-1253694945,Evodianthus_funifer,8.466667,-83.583338
-45185441,Evodianthus_funifer,8.45,-83.55
 1260400182,Evodianthus_funifer,9.25,-79.416667
 1260399343,Evodianthus_funifer,-4.16666,-73.5
 1260417831,Evodianthus_funifer,3.63333,-53.2
 1260400705,Evodianthus_funifer,9.333333,-78.966667
 1260393379,Evodianthus_funifer,-4.16666,-73.33333
-45185439,Evodianthus_funifer,8.45,-83.58
-1253694988,Evodianthus_funifer,8.466667,-83.583339
 1260386674,Evodianthus_funifer,-2.533333,-76.816667
 1260388779,Evodianthus_funifer,-1.01666,-75.78333
 1260403950,Evodianthus_funifer,-1.06666,-77.61666
@@ -469,14 +452,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455957055,Evodianthus_funifer,3.66667,-53.1667
 1260393868,Evodianthus_funifer,9.25,-79
 1223132897,Evodianthus_funifer,7.216667,-75.05
-1260394926,Evodianthus_funifer,9.149722,-82.033056
 1260374266,Evodianthus_funifer,3.61666,-53.2
 45185607,Evodianthus_funifer,10.3,-84.71
 2270470238,Evodianthus_funifer,6.09,-75.638
 1253712436,Evodianthus_funifer,10.3,-84.716667
 1260410787,Evodianthus_funifer,10.3,-84.71666
 1260399856,Evodianthus_funifer,8.6,-83.066667
-45185595,Evodianthus_funifer,8.18,-83.2
 1042659321,Evodianthus_funifer,1.416667,-66.8
 1253698291,Evodianthus_funifer,10.416667,-83.566667
 45185422,Evodianthus_funifer,10.41,-83.56
@@ -492,8 +473,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260420516,Evodianthus_funifer,3.5,-76.66666
 1261526990,Evodianthus_funifer,8.828333,-82.205
 1260386628,Evodianthus_funifer,9.36666,-79.70833
-1090438923,Evodianthus_funifer,-15.266667,-38.316667
-1456066327,Evodianthus_funifer,-15.27,-38.3
 1260412447,Evodianthus_funifer,3.98333,-77.03333
 1260404639,Evodianthus_funifer,8.541667,-81.791667
 1260415286,Evodianthus_funifer,-0.53333,-76.38333
@@ -560,7 +539,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090418334,Evodianthus_funifer,-16.383333,-39.133333
 1260396391,Evodianthus_funifer,9.333333,-78.983333
 1260406357,Evodianthus_funifer,3.983333,-76.966667
-1260407041,Evodianthus_funifer,8.5,-83.583333
 1260392495,Evodianthus_funifer,8.75,-82.21666
 1260392017,Evodianthus_funifer,8.783333,-82.183333
 1260396141,Evodianthus_funifer,9.308333,-78.95
@@ -572,7 +550,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260415411,Evodianthus_funifer,3.25,-77.41666
 1260365242,Evodianthus_funifer,-0.51666,-76.38333
 1260390003,Evodianthus_funifer,8.705278,-80.608333
-1260418320,Evodianthus_funifer,6.25,-77.41666
 1890977869,Evodianthus_funifer,6.260167,-77.275531
 1065428600,Evodianthus_funifer,5.74439,-76.41405
 1260416851,Evodianthus_funifer,5.33333,-76.66666
@@ -734,8 +711,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890930901,Evodianthus_funifer,7.3,-75.066667
 1259246113,Evodianthus_funifer,9.2825,-78.927778
 1259076615,Evodianthus_funifer,10.08333,-66.01666
-1258537062,Evodianthus_funifer,8.483333,-83.6
-45184629,Evodianthus_funifer,8.48,-83.6
 1260406838,Evodianthus_funifer,-3.896944,-73.492222
 1260363121,Evodianthus_funifer,10.21666,-68.48333
 1258537042,Evodianthus_funifer,9.63,-82.81
@@ -836,12 +811,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291591459,Evodianthus_funifer,-0.666667,-77.333333
 1456342199,Evodianthus_funifer,-25,-48.42
 1456450651,Evodianthus_funifer,7.83,-59.21
-1259244228,Evodianthus_funifer,9.4,-82.28333
 1259265717,Evodianthus_funifer,9.245,-82.38333
-1259244150,Evodianthus_funifer,9.391667,-82.275
 1930186889,Evodianthus_funifer,-4.696879,-69.504833
 1456345369,Evodianthus_funifer,7.25,-58.71
-1260361874,Evodianthus_funifer,8.33333,-59.66666
 1455962890,Evodianthus_funifer,8.3,-59.7
 1319822109,Evodianthus_funifer,5.16667,-59.4833
 1455941678,Evodianthus_funifer,2.75,-59.5
