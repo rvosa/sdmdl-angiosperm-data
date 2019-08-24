@@ -37,20 +37,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253877264,Hymenostephium_cordatum,9.975,-83.694444
 1895246221,Hymenostephium_cordatum,18.161667,-99.154167
 1895246303,Hymenostephium_cordatum,18.205278,-99.195556
-1585323870,Hymenostephium_cordatum,13.26667,-87.83333
-1257835284,Hymenostephium_cordatum,9.998056,-84.0675
 1896234644,Hymenostephium_cordatum,19.15,-96.966667
 1419178841,Hymenostephium_cordatum,16.040556,-93.419167
 1260582854,Hymenostephium_cordatum,16.03416,-93.41916
 1426201459,Hymenostephium_cordatum,16.034167,-93.419167
-1253789933,Hymenostephium_cordatum,9.877778,-84.15
 1259358454,Hymenostephium_cordatum,13.224722,-86.294722
 1419159918,Hymenostephium_cordatum,16.048333,-93.438333
 1419173428,Hymenostephium_cordatum,15.963889,-93.286111
 1894108085,Hymenostephium_cordatum,16.274722,-93.5475
 1260051933,Hymenostephium_cordatum,16.274722,-92.5475
 1419168364,Hymenostephium_cordatum,16.766111,-93.364722
-1253759516,Hymenostephium_cordatum,9.874204,-84.146434
 1419169272,Hymenostephium_cordatum,16.138056,-93.610833
 1419175535,Hymenostephium_cordatum,16.306667,-92.972778
 1260051945,Hymenostephium_cordatum,16.164167,-93.602222
@@ -59,7 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894108079,Hymenostephium_cordatum,16.135556,-93.609444
 1419157405,Hymenostephium_cordatum,15.944444,-93.395278
 1419176160,Hymenostephium_cordatum,15.916944,-93.368333
-1253793866,Hymenostephium_cordatum,9.933333,-84.166667
 1897345426,Hymenostephium_cordatum,16.010056,-96.101944
 1897360203,Hymenostephium_cordatum,15.972056,-95.735555
 1895201606,Hymenostephium_cordatum,15.838611,-95.967778
@@ -75,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 46145289,Hymenostephium_cordatum,9.44,-83.84
 1893925327,Hymenostephium_cordatum,18.153278,-96.852139
 46145298,Hymenostephium_cordatum,9.49,-83.75
-2236115728,Hymenostephium_cordatum,11.1533,-96.8521
 1896091299,Hymenostephium_cordatum,17.816667,-97.15
 1897567801,Hymenostephium_cordatum,15.993916,-96.106194
 1897567735,Hymenostephium_cordatum,15.838194,-95.964361
@@ -117,14 +111,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257636126,Hymenostephium_cordatum,15.854167,-93.2115
 1258949966,Hymenostephium_cordatum,14.531111,-90.829167
 1893975327,Hymenostephium_cordatum,19.476111,-103.916667
-46145117,Hymenostephium_cordatum,9.85,-84.1
 1895201535,Hymenostephium_cordatum,17.216111,-98.078611
 46145113,Hymenostephium_cordatum,9.9,-84.27
 1258466766,Hymenostephium_cordatum,13.763889,-89.270833
 1258466089,Hymenostephium_cordatum,13.874722,-89.798611
-1585324110,Hymenostephium_cordatum,13.68333,-89.25
-1456135609,Hymenostephium_cordatum,-18.15,-63.82
-1056560249,Hymenostephium_cordatum,13.736897,-88.866511
 1585324294,Hymenostephium_cordatum,13.76389,-89.27083
 1585323890,Hymenostephium_cordatum,13.81667,-89.93333
 1258940239,Hymenostephium_cordatum,13.816667,-89.933333
@@ -198,7 +188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893559798,Hymenostephium_cordatum,18.451667,-98.931389
 46144532,Hymenostephium_cordatum,9.71,-84.39
 1261309916,Hymenostephium_cordatum,14.783333,-87.858333
-1456481843,Hymenostephium_cordatum,-20.38,-63.35
 1895808457,Hymenostephium_cordatum,21.4375,-104.931944
 1896284121,Hymenostephium_cordatum,21.458333,-104.941667
 1259727699,Hymenostephium_cordatum,21.45,-104.933333
@@ -215,9 +204,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893603751,Hymenostephium_cordatum,19.658333,-100.91
 1893975288,Hymenostephium_cordatum,19.3925,-104.108333
 1895201619,Hymenostephium_cordatum,22.821389,-99.260556
-1261885868,Hymenostephium_cordatum,9.97,-84.06
 1893975389,Hymenostephium_cordatum,19.608333,-104.294722
-1253600338,Hymenostephium_cordatum,9.977778,-84.069444
 46144657,Hymenostephium_cordatum,10.28,-84.81
 1261561445,Hymenostephium_cordatum,10.3,-84.8
 1253688530,Hymenostephium_cordatum,10.283333,-84.816667
@@ -302,9 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895201587,Hymenostephium_cordatum,16.175,-96.975
 1259728896,Hymenostephium_cordatum,21.216667,-104.9
 1895495513,Hymenostephium_cordatum,16.9251953858695,-92.3804969181493
-46144258,Hymenostephium_cordatum,9.93,-84.03
-1261279466,Hymenostephium_cordatum,9.94666,-84.04833
-1253710112,Hymenostephium_cordatum,9.946667,-84.048333
 1893603774,Hymenostephium_cordatum,19.358333,-96.571667
 1896234651,Hymenostephium_cordatum,19.675,-97.141667
 1419164114,Hymenostephium_cordatum,16.669444,-93.526111
@@ -377,7 +361,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895495236,Hymenostephium_cordatum,17.016667,-96.083333
 1896234649,Hymenostephium_cordatum,17.025,-96.091667
 1893712272,Hymenostephium_cordatum,17.415123,-100.193011
-1259724351,Hymenostephium_cordatum,9.93,-84.07
 1895495311,Hymenostephium_cordatum,15.2,-92.433333
 1930470939,Hymenostephium_cordatum,18.03,-96.67
 1895134260,Hymenostephium_cordatum,16.871667,-92.476944
@@ -453,7 +436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894690743,Hymenostephium_cordatum,16.8724287209968,-92.476878062945
 1895495253,Hymenostephium_cordatum,17.891836,-96.133558
 1896234657,Hymenostephium_cordatum,17.941667,-96.175
-1261290814,Hymenostephium_cordatum,11.866667,-85.966667
 1261291458,Hymenostephium_cordatum,11.833333,-86
 1259724395,Hymenostephium_cordatum,8.48333,-79.96666
 1261307955,Hymenostephium_cordatum,14.945833,-87.776944
@@ -520,7 +502,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259725123,Hymenostephium_cordatum,8.79666,-82.49
 1895495454,Hymenostephium_cordatum,21.6352370614283,-98.8945447803335
 1893416460,Hymenostephium_cordatum,21.641667,-98.908333
-1258041344,Hymenostephium_cordatum,9.972222,-84.145833
 1258200894,Hymenostephium_cordatum,10.25,-84.841667
 1258576898,Hymenostephium_cordatum,15.373333,-90.518889
 1259727541,Hymenostephium_cordatum,15.37055,-90.62083
@@ -565,10 +546,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931185233,Hymenostephium_cordatum,19.61,-96.915
 1893603671,Hymenostephium_cordatum,19.615,-96.923333
 1895495510,Hymenostephium_cordatum,19.611447128903,-96.9153326330182
-1456075034,Hymenostephium_cordatum,9.55,-70.03
-2291559467,Hymenostephium_cordatum,9.55,-70.033333
 1928028887,Hymenostephium_cordatum,21.0497,-99.1106
-1260797384,Hymenostephium_cordatum,9.55,-70.03333
 1928952026,Hymenostephium_cordatum,16.54745,-95.94372
 1893603570,Hymenostephium_cordatum,16.598333,-95.805
 1896302834,Hymenostephium_cordatum,19.447778,-96.693889
@@ -579,8 +557,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259734685,Hymenostephium_cordatum,17.498056,-100.02
 1259734378,Hymenostephium_cordatum,17.51666,-96.91666
 1259068354,Hymenostephium_cordatum,12.99166,-86.24166
-1260797130,Hymenostephium_cordatum,9.68333,-69.51666
-2289718576,Hymenostephium_cordatum,9.683333,-69.516667
 1895495189,Hymenostephium_cordatum,19.113056,-97.013056
 1929938549,Hymenostephium_cordatum,18.8617,-96.8917
 1895442010,Hymenostephium_cordatum,18.197994,-99.540806
@@ -593,7 +569,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259724509,Hymenostephium_cordatum,8.6,-80.133333
 1259725821,Hymenostephium_cordatum,8.85,-82.6
 1259725380,Hymenostephium_cordatum,8.866667,-82.6
-1257687253,Hymenostephium_cordatum,13.763611,-89.240833
 1259728757,Hymenostephium_cordatum,8.8475,-82.598333
 1259024323,Hymenostephium_cordatum,11.966667,-86.133333
 1895495321,Hymenostephium_cordatum,19.9339332300843,-97.2417294582602
@@ -628,7 +603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895495341,Hymenostephium_cordatum,18.8678444555986,-97.0885593417427
 1896302846,Hymenostephium_cordatum,20.648611,-97.252222
 1896302844,Hymenostephium_cordatum,18.863056,-97.076389
-1456474337,Hymenostephium_cordatum,9.92,-84.07
 1259727443,Hymenostephium_cordatum,8.733333,-82.416667
 1895495529,Hymenostephium_cordatum,17.416667,-100.233333
 1260302945,Hymenostephium_cordatum,13.05,-85.98333
@@ -646,7 +620,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895495425,Hymenostephium_cordatum,16.425508,-97.075339
 1931189949,Hymenostephium_cordatum,16.829161,-93.095086
 1895495295,Hymenostephium_cordatum,16.836142,-93.116208
-1259735299,Hymenostephium_cordatum,9.93305,-84.16694
 1895495316,Hymenostephium_cordatum,16.4785516891091,-90.5504663278225
 1895495463,Hymenostephium_cordatum,23.8856042708936,-105.112890695607
 1895495486,Hymenostephium_cordatum,23.6556634545676,-105.744973437296
@@ -694,7 +667,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929748818,Hymenostephium_cordatum,17.7203,-100.623608
 1895495528,Hymenostephium_cordatum,17.720281,-100.623611
 1259733037,Hymenostephium_cordatum,17.76,-100.68
-1260797442,Hymenostephium_cordatum,9.316667,-70.333333
 1928994211,Hymenostephium_cordatum,17.196728,-98.5137
 1259727222,Hymenostephium_cordatum,8.65,-82.333333
 1929137752,Hymenostephium_cordatum,18.7769,-103.16
@@ -708,7 +680,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259845656,Hymenostephium_cordatum,18.8,-100.38305
 1930771524,Hymenostephium_cordatum,18.8636,-100.4511
 1259733394,Hymenostephium_cordatum,18.86,-100.45
-1259067930,Hymenostephium_cordatum,12.166667,-86.166667
 1895201572,Hymenostephium_cordatum,17.234444,-96.839722
 1895495332,Hymenostephium_cordatum,17.234439,-96.839719
 1259845649,Hymenostephium_cordatum,18.81666,-100.28305
@@ -724,7 +695,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896169348,Hymenostephium_cordatum,18.891111,-96.931667
 1259734145,Hymenostephium_cordatum,19.68,-101.185278
 1930577172,Hymenostephium_cordatum,19.7017,-101.1853
-1228447536,Hymenostephium_cordatum,23,-102
 1258785140,Hymenostephium_cordatum,18.26,-97.14
 1930828892,Hymenostephium_cordatum,18.265556,-97.13
 1259733805,Hymenostephium_cordatum,19.675278,-101.202222
