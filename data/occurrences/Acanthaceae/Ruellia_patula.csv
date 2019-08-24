@@ -12,8 +12,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2306499777,Ruellia_patula,0.402,36.912
 2288451237,Ruellia_patula,5.868333,38.085
 2289200875,Ruellia_patula,5.125,37.641667
-1852124035,Ruellia_patula,-42.425,-17.2921
-1098892569,Ruellia_patula,-6.02,38.78
 2288296923,Ruellia_patula,-22.436194,31.200167
 462230523,Ruellia_patula,-24.875,29.875
 2288794404,Ruellia_patula,11.416667,40.636667
@@ -29,12 +27,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462230521,Ruellia_patula,-23.125,28.625
 462230519,Ruellia_patula,-23.875,28.375
 1052071846,Ruellia_patula,3.65,39.1
-911796405,Ruellia_patula,12.65722,53.44389
 911796440,Ruellia_patula,13.46667,45.916672
-911796427,Ruellia_patula,12.61667,53.950001
 911796401,Ruellia_patula,13.47333,45.922218
 911796441,Ruellia_patula,15.8275,51.970558
-911796428,Ruellia_patula,15.65417,52.201389
 1260514944,Ruellia_patula,-0.38333,30.45
 911796426,Ruellia_patula,14.82083,48.817501
 462230515,Ruellia_patula,-22.375,29.125
@@ -72,7 +67,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288306100,Ruellia_patula,-4.15,29.866667
 462230512,Ruellia_patula,-20.875,22.625
 462230508,Ruellia_patula,-23.625,31.375
-462230503,Ruellia_patula,-19.375,19.375
 328286972,Ruellia_patula,15.66667,38.83333
 1261875800,Ruellia_patula,0.43333,32.58333
 462230500,Ruellia_patula,-23.125,31.375
@@ -83,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462230501,Ruellia_patula,-22.375,31.375
 462230498,Ruellia_patula,-26.125,30.875
 1947453168,Ruellia_patula,6.05,37.616667
-2287425734,Ruellia_patula,18.4175,98.674167
 328286926,Ruellia_patula,2.73333,43.4
 1052145077,Ruellia_patula,3.78333,47.1
 328286939,Ruellia_patula,2.51667,44.95
@@ -109,9 +102,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 328286910,Ruellia_patula,4.66667,46.61667
 462230495,Ruellia_patula,-25.125,27.625
 317872266,Ruellia_patula,2.75,45.35
-685750200,Ruellia_patula,27.364386,76.412273
 462230488,Ruellia_patula,-22.875,29.375
-685750201,Ruellia_patula,22.487116,78.245626
 1261213032,Ruellia_patula,5.39,48.22
 1261212749,Ruellia_patula,5.915,48.89166
 462230493,Ruellia_patula,-24.125,31.125
@@ -124,9 +115,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462230478,Ruellia_patula,-18.625,24.125
 462230522,Ruellia_patula,-19.625,20.625
 462230484,Ruellia_patula,-24.375,26.875
-2291949690,Ruellia_patula,-6.816667,39.266667
 893354977,Ruellia_patula,17.033333,54.433333
-1261212100,Ruellia_patula,-6.81666,39.26666
 2291948579,Ruellia_patula,3.616667,46.116667
 2291949894,Ruellia_patula,-3.55,38.383333
 462230474,Ruellia_patula,-27.125,32.375
@@ -158,7 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462230455,Ruellia_patula,-21.375,25.375
 2291949467,Ruellia_patula,9.683333,41.85
 2291949740,Ruellia_patula,9.583333,41.866667
-2291041904,Ruellia_patula,7.60275,99.371694
 1839507363,Ruellia_patula,-2.466667,30.316667
 462230449,Ruellia_patula,-25.125,31.625
 2289480268,Ruellia_patula,9.483333,41.916667
@@ -185,7 +173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 453344178,Ruellia_patula,-20.375,22.875
 453344187,Ruellia_patula,-23.625,30.625
 453344189,Ruellia_patula,-25.375,29.375
-2289354658,Ruellia_patula,14.416667,99.033333
 453344163,Ruellia_patula,-28.625,31.875
 1839507518,Ruellia_patula,-2.883333,29.116667
 2289677779,Ruellia_patula,9.55,41.866667
@@ -263,4 +250,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 453344175,Ruellia_patula,-24.375,26.125
 453344170,Ruellia_patula,-19.625,17.375
 462230445,Ruellia_patula,-25.375,27.375
-438109401,Ruellia_patula,-8.83562,13.2111
