@@ -35,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091283055,Veronica_macrantha,-43.714,170.07
 1091208642,Veronica_macrantha,-43.569,170.278
 1091285113,Veronica_macrantha,-43.5,169.996666
-994595684,Veronica_macrantha,-43,170
 1091320495,Veronica_macrantha,-41.333333,172.57
 1897747587,Veronica_macrantha,-41.916667,171.916667
 1091197994,Veronica_macrantha,-41.218,172.682
@@ -47,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091295402,Veronica_macrantha,-41.104259,172.621408
 1091255447,Veronica_macrantha,-41.85,172.796
 1897736819,Veronica_macrantha,-41.083333,172.583333
-1897646762,Veronica_macrantha,-41.083333,171.916667
 1897671275,Veronica_macrantha,-41.083333,172.6
 1091279066,Veronica_macrantha,-41.933333,172.635
 1091299494,Veronica_macrantha,-41.849,172.794
