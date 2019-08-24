@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2269018398,Ilex_verticillata,37.86946,-90.30941
-1929231204,Ilex_verticillata,40.862289,-73.877023
 1989228815,Ilex_verticillata,42.494,-85.83707
 1899880420,Ilex_verticillata,42.54035,-72.17522
 1275090740,Ilex_verticillata,41.3114,-72.9247
@@ -30,12 +29,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928382794,Ilex_verticillata,39.3403,-75.6847
 2265966482,Ilex_verticillata,46.758889,-92.176389
 1899880739,Ilex_verticillata,37.37648,-80.52499
-1927812278,Ilex_verticillata,41.054703,-71.900985
 1929704167,Ilex_verticillata,40.588264,-74.187128
 1318958341,Ilex_verticillata,38.6106,-90.2596
 2234523975,Ilex_verticillata,38.148333,-77.049139
 2234525037,Ilex_verticillata,38.588861,-77.270083
-1929244462,Ilex_verticillata,41.07437,-71.91027
 1930795300,Ilex_verticillata,40.865729,-73.882359
 1928310032,Ilex_verticillata,38.681814,-75.773253
 1563147485,Ilex_verticillata,30.47206,-90.99005
@@ -72,7 +69,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257965399,Ilex_verticillata,37.84517,-90.25894
 1986725156,Ilex_verticillata,45.412242,-72.114006
 1978879349,Ilex_verticillata,42.38656,-84.07272
-1928408814,Ilex_verticillata,44.713725,-67.133383
 1248693407,Ilex_verticillata,46.4125,-71.840833
 1929758793,Ilex_verticillata,40.766811,-73.975389
 1930774511,Ilex_verticillata,41.17597,-73.59978
@@ -109,9 +105,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986726244,Ilex_verticillata,45.107222,-73.595278
 1931258677,Ilex_verticillata,43.1925,-90.6264
 1978897062,Ilex_verticillata,44.273056,-85.520556
-1988139666,Ilex_verticillata,49.3,-123.2
 2234454387,Ilex_verticillata,35.676867,-81.09285
-1928759937,Ilex_verticillata,35.97892,-70.01644
 415980040,Ilex_verticillata,41.76463,-72.17372
 415980041,Ilex_verticillata,41.7668,-72.17069
 1030480322,Ilex_verticillata,42.757861,-84.382083
@@ -189,13 +183,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094845513,Ilex_verticillata,29.561667,-98.501944
 2270684689,Ilex_verticillata,29.557,-98.5013
 473451105,Ilex_verticillata,46.053889,-73.812778
-1260272174,Ilex_verticillata,38.61305,-90.25916
 1928476632,Ilex_verticillata,41.9019,-79.8303
 1844410078,Ilex_verticillata,36.115051,-81.89836
 415958145,Ilex_verticillata,44.45666,-88.93055
 2265427778,Ilex_verticillata,46.15084,-94.67151
 2265438926,Ilex_verticillata,47.726088,-91.651851
-473453319,Ilex_verticillata,45.491611,-75.752361
 1319449667,Ilex_verticillata,39.163333,-76.773611
 465861486,Ilex_verticillata,43.961,-65.788
 122234944,Ilex_verticillata,34.00167,-87.59111
@@ -211,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415946990,Ilex_verticillata,41.65194,-71.82888
 415953489,Ilex_verticillata,40.78416,-74.69666
 415925873,Ilex_verticillata,41.77805,-72.13138
-668745315,Ilex_verticillata,47,-70.816667
 415925775,Ilex_verticillata,41.9897,-72.1502
 2265449271,Ilex_verticillata,45.49404,-93.789395
 2265465302,Ilex_verticillata,46.1625,-92.840278
@@ -256,16 +247,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415946606,Ilex_verticillata,41.73166,-73.45305
 473443399,Ilex_verticillata,46.286111,-74.751111
 2265369493,Ilex_verticillata,45.199167,-93.2075
-473474787,Ilex_verticillata,47.038889,-55.180556
 465861384,Ilex_verticillata,44.63153,-64.85918
 415958112,Ilex_verticillata,41.98888,-73.345
 415950901,Ilex_verticillata,41.42666,-73.31111
 415937910,Ilex_verticillata,41.905,-72.70194
 2265460736,Ilex_verticillata,47.73182,-91.60881
 415958164,Ilex_verticillata,41.01861,-72.31055
-204431067,Ilex_verticillata,43.255001,-2.156
 1054799677,Ilex_verticillata,45.4,-72.8
-668745296,Ilex_verticillata,46.942778,-70.892222
 1318845829,Ilex_verticillata,39.0347,-76.9078
 2265440910,Ilex_verticillata,46.09429,-93.707092
 1989236375,Ilex_verticillata,42.04386,-84.25088
@@ -279,7 +267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1820374911,Ilex_verticillata,42.4,-71.883333
 1258281512,Ilex_verticillata,37.508333,-90.541667
 1258281542,Ilex_verticillata,37.5,-90.516667
-415925653,Ilex_verticillata,41.19166,-71.575
 415928090,Ilex_verticillata,40.96083,-72.79638
 1804472759,Ilex_verticillata,48.3961109990636,-54.203333
 1038954531,Ilex_verticillata,41.4639,-72.1567
@@ -296,7 +283,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265597837,Ilex_verticillata,46.85544,-93.17822
 415960147,Ilex_verticillata,41.47611,-73.23694
 1807247941,Ilex_verticillata,44.3192,-65.06497
-1978027768,Ilex_verticillata,46,-59
 473550617,Ilex_verticillata,45.643333,-75.101417
 473547432,Ilex_verticillata,45.641667,-74.475
 1807247921,Ilex_verticillata,44.10823,-64.99506
@@ -365,7 +351,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668745293,Ilex_verticillata,46.726389,-71.602778
 668745294,Ilex_verticillata,45.994444,-73.291667
 2265599145,Ilex_verticillata,44.068611,-92.978889
-1804613183,Ilex_verticillata,45.466667,-75.633333
 415958136,Ilex_verticillata,41.87555,-71.86083
 1804408565,Ilex_verticillata,44.85,-77.233333
 2265596612,Ilex_verticillata,46.166728,-94.493829
@@ -406,7 +391,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804576684,Ilex_verticillata,44.55,-77.1
 56590928,Ilex_verticillata,34.3825,-85.625
 1929593583,Ilex_verticillata,34.8144,-83.3058
-1820374006,Ilex_verticillata,46.085078,-59.898793
 1894893764,Ilex_verticillata,40.091667,-75.158333
 1318235971,Ilex_verticillata,38.7525,-77.1042
 1804500807,Ilex_verticillata,44.8,-75.416667
@@ -420,7 +404,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988622468,Ilex_verticillata,43.387409,-84.140953
 1804522357,Ilex_verticillata,45.616667,-67.416667
 2265598229,Ilex_verticillata,44.362941,-93.433062
-2242391119,Ilex_verticillata,39.73193,-104.9619
 1804376153,Ilex_verticillata,45.566667,-67.416667
 1988818842,Ilex_verticillata,44.714972,-86.150854
 1989049904,Ilex_verticillata,41.890849,-84.796744
@@ -435,7 +418,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1820374294,Ilex_verticillata,45.85,-60.183333
 668745302,Ilex_verticillata,45.0625,-73.168056
 1804394001,Ilex_verticillata,45.483333,-75.333333
-1820373628,Ilex_verticillata,46.133889,-59.871944
 1039013971,Ilex_verticillata,41.86,-72.9086
 1899334833,Ilex_verticillata,44.336111,-79.227778
 606654535,Ilex_verticillata,41.60222,-71.92722
@@ -445,7 +427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606652643,Ilex_verticillata,41.79055,-72.44277
 1804404406,Ilex_verticillata,44.8,-77.045833
 606655433,Ilex_verticillata,41.48888,-71.81277
-606653667,Ilex_verticillata,44.0725,-68.6125
 1262011173,Ilex_verticillata,45.69,-71.15
 1988881658,Ilex_verticillata,46.35389,-86.396632
 1899372759,Ilex_verticillata,44.122222,-79.486111
@@ -470,7 +451,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899378010,Ilex_verticillata,43.983333,-79.4
 1899372341,Ilex_verticillata,44.2,-79.508333
 1262010042,Ilex_verticillata,46.38,-75.01
-1804409477,Ilex_verticillata,44.4,-66.166667
 1262016465,Ilex_verticillata,46.848856,-77.293702
 606661879,Ilex_verticillata,41.78444,-72.33944
 1988222465,Ilex_verticillata,43.53,-80.05
@@ -501,7 +481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265598818,Ilex_verticillata,45.339693,-93.127297
 2265598804,Ilex_verticillata,45.33761,-93.12677
 415958061,Ilex_verticillata,41.80833,-72.25
-1804493152,Ilex_verticillata,45.466667,-75.65
 1030483319,Ilex_verticillata,42.9,-86.2
 1899337559,Ilex_verticillata,45.8402138037259,-82.7059687798028
 1030483365,Ilex_verticillata,44.11833,-86.35028
@@ -529,7 +508,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265596616,Ilex_verticillata,47.593724,-91.844524
 2265597903,Ilex_verticillata,46.206987,-94.542157
 1899359112,Ilex_verticillata,45.041667,-78.6125
-699272819,Ilex_verticillata,42.07444,-70.185
 668745307,Ilex_verticillata,46.777222,-71.275833
 1030483358,Ilex_verticillata,43.77333,-86.20278
 668745306,Ilex_verticillata,46.776944,-71.275556
@@ -574,7 +552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030483313,Ilex_verticillata,42.2075,-83.71639
 1899328745,Ilex_verticillata,44.876389,-80.108333
 415924420,Ilex_verticillata,41.83333,-72.27888
-1248693281,Ilex_verticillata,47.231111,-61.951667
 2273387273,Ilex_verticillata,35.275381,-83.693124
 1030483324,Ilex_verticillata,44.63667,-85.15611
 415958148,Ilex_verticillata,41.52222,-72.07777
@@ -603,7 +580,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415958160,Ilex_verticillata,41.68111,-72.94111
 1261995719,Ilex_verticillata,46.47,-72.17
 2265597889,Ilex_verticillata,45.04239,-93.13742
-415958186,Ilex_verticillata,40.66777,-73.05472
 1989343876,Ilex_verticillata,45.194855,-87.601288
 1899307685,Ilex_verticillata,45.533333,-80.483333
 1211528405,Ilex_verticillata,44.783611,-79.746667
@@ -614,11 +590,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265596502,Ilex_verticillata,43.67147,-92.752514
 1030483395,Ilex_verticillata,42.73083,-84.47861
 1931140990,Ilex_verticillata,40.18177,-75.877681
-1928602702,Ilex_verticillata,39.997942,-75.240583
 668745317,Ilex_verticillata,46.666667,-73.016667
 1899302326,Ilex_verticillata,43.383333,-80.083333
 415958192,Ilex_verticillata,39.61972,-76.7075
-668745289,Ilex_verticillata,47.048333,-70.5875
 668745318,Ilex_verticillata,46.8,-73.116667
 1030483336,Ilex_verticillata,46.84778,-87.84889
 2265597976,Ilex_verticillata,43.521501,-92.898529
@@ -669,17 +643,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261978938,Ilex_verticillata,45.96213,-74.33015
 1030483307,Ilex_verticillata,42.6,-85.86667
 1261978958,Ilex_verticillata,45.987992,-74.002905
-473537890,Ilex_verticillata,44.968458,-67.004666
 2273387203,Ilex_verticillata,35.775305,-80.778016
 415958187,Ilex_verticillata,43.555,-71.61
 1030483346,Ilex_verticillata,45.0275,-84.67472
 1844409024,Ilex_verticillata,35.775862,-80.791234
 473266535,Ilex_verticillata,45.261667,-72.193889
 1978896612,Ilex_verticillata,43.400862,-84.915202
-415958188,Ilex_verticillata,41.35,-70.8375
 1978896602,Ilex_verticillata,43.604724,-84.917912
 1978897412,Ilex_verticillata,43.386323,-84.894988
-415993123,Ilex_verticillata,41.41666,-70.61666
 2242390378,Ilex_verticillata,41.614931,-86.846748
 473266529,Ilex_verticillata,45.040556,-72.226667
 1988854744,Ilex_verticillata,43.533463,-85.632326
@@ -695,8 +666,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899347158,Ilex_verticillata,45.15,-78.85
 1030483318,Ilex_verticillata,45.95778,-86.24611
 1807247778,Ilex_verticillata,46.819281,-60.56386
-668745290,Ilex_verticillata,47.466667,-61.733333
-1931088998,Ilex_verticillata,41.340158,-70.80034
 1261987765,Ilex_verticillata,45.8,-71.52
 1807247373,Ilex_verticillata,44.45458,-66.13649
 1807247964,Ilex_verticillata,44.332985,-64.968396
@@ -742,13 +711,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988630027,Ilex_verticillata,44.057592,-84.593137
 1804465006,Ilex_verticillata,42.5,-79.916667
 1988178525,Ilex_verticillata,45.49,-74.02
-465936953,Ilex_verticillata,47.479972,-64.919675
 465936957,Ilex_verticillata,45.64205,-62.55054
 1807247522,Ilex_verticillata,46.024512,-61.058345
 1988627930,Ilex_verticillata,45.659976,-85.515143
 2291926302,Ilex_verticillata,48.466667,-58.25
 465936959,Ilex_verticillata,44.427778,-64.460278
-465936955,Ilex_verticillata,46.713529,-60.396275
 465936961,Ilex_verticillata,44.65,-65.450556
 1030483327,Ilex_verticillata,47.35194,-88.03722
 1930282946,Ilex_verticillata,41.1774,-73.6175
@@ -761,8 +728,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2284348165,Ilex_verticillata,46.33,-74.5
 1261954262,Ilex_verticillata,45.466667,-74.083333
 1228420869,Ilex_verticillata,41.59337,-87.346427
-465936946,Ilex_verticillata,44.921314,-65.251917
-465937012,Ilex_verticillata,44.82685,-65.456429
 1039022231,Ilex_verticillata,41.2284,-73.3726
 1261987746,Ilex_verticillata,46.864,-72.484
 1989529339,Ilex_verticillata,43.12926,-83.12264
@@ -770,7 +735,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1039018678,Ilex_verticillata,41.7931,-72.1278
 1261987770,Ilex_verticillata,46.7014,-69.998
 1261987721,Ilex_verticillata,46.731,-71.467
-1807247361,Ilex_verticillata,46.02682,-59.69907
 465936942,Ilex_verticillata,45.433333,-64.349167
 1807247920,Ilex_verticillata,44.341995,-64.657732
 465936944,Ilex_verticillata,44.582397,-65.408413
@@ -785,9 +749,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030483415,Ilex_verticillata,43.07911,-84.65687
 1989134435,Ilex_verticillata,43.997751,-83.11602
 1988943563,Ilex_verticillata,43.10472,-84.69194
-1807247507,Ilex_verticillata,45.959757,-62.752447
-465936933,Ilex_verticillata,44.49181,-63.55649
-465936937,Ilex_verticillata,46.657472,-60.366452
 2265597700,Ilex_verticillata,48.23759,-91.90562
 1988171513,Ilex_verticillata,45.95,-78.18
 1228194892,Ilex_verticillata,41.95,-88.4333
@@ -803,14 +764,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899302262,Ilex_verticillata,42.666667,-80.366667
 1988805409,Ilex_verticillata,45.601682,-84.715694
 1261950507,Ilex_verticillata,46.036111,-71.343889
-1807247350,Ilex_verticillata,45.98377,-61.52528
 465936931,Ilex_verticillata,46.37296,-60.53025
 1030483452,Ilex_verticillata,44.33333,-84.6
 2265597943,Ilex_verticillata,48.273443,-92.513379
-465936935,Ilex_verticillata,44.259135,-66.362226
 1988774585,Ilex_verticillata,42.297033,-84.470586
 1989252302,Ilex_verticillata,46.912604,-88.573772
-465936924,Ilex_verticillata,47.041408,-60.598287
 2265598461,Ilex_verticillata,48.23716,-91.90629
 1030483483,Ilex_verticillata,44.33333,-83.63333
 465936929,Ilex_verticillata,45.8,-65.966667
@@ -819,7 +777,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265597599,Ilex_verticillata,46.926567,-92.933994
 2265598102,Ilex_verticillata,47.849102,-92.078442
 2265596936,Ilex_verticillata,48.031651,-91.618862
-465936926,Ilex_verticillata,44.32806,-66.26883
 1261956096,Ilex_verticillata,45.975971,-74.324849
 1030483379,Ilex_verticillata,43.33167,-86.22167
 1988937834,Ilex_verticillata,45.46667,-84.26667
@@ -848,7 +805,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415993403,Ilex_verticillata,42.05,-71.93333
 1320358237,Ilex_verticillata,38.8461,-77.3067
 1807247517,Ilex_verticillata,45.05293,-64.41276
-465937009,Ilex_verticillata,47.825077,-64.888919
 465937001,Ilex_verticillata,44.918262,-63.594591
 1261947855,Ilex_verticillata,46.333333,-72.433333
 2265596943,Ilex_verticillata,45.172248,-93.070422
@@ -875,20 +831,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265598213,Ilex_verticillata,46.599386,-92.297128
 2265598865,Ilex_verticillata,45.42978,-92.65903
 2265600770,Ilex_verticillata,45.40363,-93.28646
-1977964835,Ilex_verticillata,46.9544,-56.3235
 1930338740,Ilex_verticillata,39.520411,-75.942262
 1989541113,Ilex_verticillata,41.899937,-85.828245
 1988724073,Ilex_verticillata,45.564979,-84.692648
 1929918246,Ilex_verticillata,40.862717,-73.875936
-1927789873,Ilex_verticillata,41.071496,-71.858648
 415958214,Ilex_verticillata,43.38166,-87.94055
 415958130,Ilex_verticillata,41.57555,-71.86166
 1930817239,Ilex_verticillata,40.819544,-72.705376
 415958201,Ilex_verticillata,40.81944,-72.70527
-415958206,Ilex_verticillata,41.17583,-71.59166
 1927900025,Ilex_verticillata,41.046486,-74.435155
 1030483423,Ilex_verticillata,45.76667,-84.43611
-1977964718,Ilex_verticillata,47.0657,-56.3317
 1929925187,Ilex_verticillata,40.642048,-74.441201
 2265598214,Ilex_verticillata,47.855381,-92.058554
 415958196,Ilex_verticillata,38.5425,-75.71972
@@ -898,7 +850,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415993404,Ilex_verticillata,42.41666,-71.66666
 1929664631,Ilex_verticillata,40.643159,-73.695686
 1899324055,Ilex_verticillata,45.1758799990568,-81.33547
-415958210,Ilex_verticillata,42.28333,-81.86666
 1929643082,Ilex_verticillata,40.822666,-73.210682
 415958219,Ilex_verticillata,44.25305,-69.10305
 465936996,Ilex_verticillata,44.45103,-64.3834
@@ -924,7 +875,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099015012,Ilex_verticillata,38.846313,-77.306412
 415958137,Ilex_verticillata,41.3825,-72.10861
 1899369268,Ilex_verticillata,43.890718,-79.520073
-415958175,Ilex_verticillata,42.05,-70.2
 2265597162,Ilex_verticillata,45.406779,-93.193727
 2242389461,Ilex_verticillata,44.587021,-68.232238
 1248693374,Ilex_verticillata,47.291389,-79.457778
@@ -948,10 +898,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988720249,Ilex_verticillata,44.24747,-85.45829
 1988181309,Ilex_verticillata,44.77,-77.88
 1899324479,Ilex_verticillata,46.983122,-80.068102
-668745288,Ilex_verticillata,47.366667,-61.861111
 415958212,Ilex_verticillata,41.41666,-71.54944
 1899306578,Ilex_verticillata,46.167158,-79.796434
-465937000,Ilex_verticillata,47.2,-60.149167
 1989266241,Ilex_verticillata,45.96818,-86.030346
 415958093,Ilex_verticillata,41.98944,-73.09583
 465936968,Ilex_verticillata,45.551667,-78.595833
@@ -968,7 +916,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988805531,Ilex_verticillata,47.221056,-88.482225
 1988600911,Ilex_verticillata,42.22709,-83.66536
 1899377345,Ilex_verticillata,44.8265499990568,-81.29861
-1929039853,Ilex_verticillata,41.035935,-71.95194
 473268150,Ilex_verticillata,46.3942,-74.9911
 1807247502,Ilex_verticillata,45.35823,-61.51002
 1039021819,Ilex_verticillata,41.2069,-73.4399
@@ -996,8 +943,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930446547,Ilex_verticillata,40.883409,-73.554696
 1039024848,Ilex_verticillata,41.993,-72.1603
 1039014676,Ilex_verticillata,41.8911,-72.171
-415958213,Ilex_verticillata,41.34166,-71.72222
-1261975659,Ilex_verticillata,45.383056,-75.806389
 415958182,Ilex_verticillata,39.95361,-74.19833
 1807247969,Ilex_verticillata,43.924467,-66.123912
 1928892117,Ilex_verticillata,40.984506,-74.744684
@@ -1014,7 +959,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038972627,Ilex_verticillata,41.7406,-73.345
 1989223313,Ilex_verticillata,46.30545,-89.1752
 1319731833,Ilex_verticillata,38.9986,-77.2542
-1321881635,Ilex_verticillata,38.8486,-76.9242
 1929779428,Ilex_verticillata,40.757075,-73.687768
 415958181,Ilex_verticillata,41.46111,-71.77916
 1038920296,Ilex_verticillata,41.4854,-72.2664
@@ -1022,7 +966,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099015011,Ilex_verticillata,42.737648,-73.951721
 2265597928,Ilex_verticillata,46.12317,-93.61442
 1030483427,Ilex_verticillata,42.24111,-83.61306
-1930766245,Ilex_verticillata,40.651619,-73.128955
 1929858019,Ilex_verticillata,41.093429,-75.00184
 1321587079,Ilex_verticillata,38.8386,-76.9036
 465936988,Ilex_verticillata,45.13795,-64.308091
@@ -1055,10 +998,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038945092,Ilex_verticillata,41.5475,-72.6548
 1038956780,Ilex_verticillata,42.0043,-72.9489
 1930504827,Ilex_verticillata,40.898736,-73.866689
-415958194,Ilex_verticillata,41.27305,-71.98222
-2284179732,Ilex_verticillata,43.98,-59.78
-1090250503,Ilex_verticillata,43.9833,-59.7833
-1929200445,Ilex_verticillata,40.069203,-74.049273
 1038951911,Ilex_verticillata,41.6153,-72.1432
 1807247379,Ilex_verticillata,45.76693,-64.11013
 1039010903,Ilex_verticillata,41.4878,-73.4883
@@ -1117,7 +1056,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415958073,Ilex_verticillata,41.35305,-72.23
 1930310185,Ilex_verticillata,40.013969,-74.316407
 1930189159,Ilex_verticillata,40.894503,-73.880742
-1931163527,Ilex_verticillata,40.603345,-73.716186
 1322417058,Ilex_verticillata,38.6989,-77.1614
 1317803085,Ilex_verticillata,39.0356,-76.9453
 415958058,Ilex_verticillata,41.60111,-72.97555
