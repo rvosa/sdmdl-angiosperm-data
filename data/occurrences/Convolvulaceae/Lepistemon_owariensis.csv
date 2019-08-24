@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439327853,Lepistemon_owariensis,-3.87444,36.41806
-1257540448,Lepistemon_owariensis,-8.371389,39.241389
 1273869235,Lepistemon_owariensis,11.598056,-4.129444
 1260378889,Lepistemon_owariensis,-5.93333,30.1
 621093861,Lepistemon_owariensis,10.39363,-0.12597
@@ -15,12 +14,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291953679,Lepistemon_owariensis,7.010833,2.628611
 2291953922,Lepistemon_owariensis,6.666667,1.7
 1258699036,Lepistemon_owariensis,-8.31666,38.96666
-1258681604,Lepistemon_owariensis,-6.31666,38.78333
 1258743505,Lepistemon_owariensis,-7.83472,36.86944
 2291953648,Lepistemon_owariensis,7.04695,2.645083
-2289493269,Lepistemon_owariensis,6.593333,2.543333
-2291953194,Lepistemon_owariensis,6.516667,2.65
-1259260760,Lepistemon_owariensis,0.26666,32.61666
 2291953204,Lepistemon_owariensis,7.05,2.716667
 1258524913,Lepistemon_owariensis,-3.38388,36.79166
 2289892567,Lepistemon_owariensis,7.903333,1.918333
@@ -38,14 +33,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912320624,Lepistemon_owariensis,4.13,9.02
 912320630,Lepistemon_owariensis,3.98,9.27
 1261135843,Lepistemon_owariensis,-8.78333,33.25
-1261134059,Lepistemon_owariensis,0.38333,32.6
-2291953834,Lepistemon_owariensis,0.383333,32.6
-2289479458,Lepistemon_owariensis,3.416667,8.733333
-1261133991,Lepistemon_owariensis,0.35,32.58333
-2288493135,Lepistemon_owariensis,0.35,32.583333
 346716095,Lepistemon_owariensis,4.3,9.366667
 346718729,Lepistemon_owariensis,3.85,11.616667
-2289538480,Lepistemon_owariensis,3.866667,11.516667
 2288927108,Lepistemon_owariensis,9.433333,13.266667
 2291953253,Lepistemon_owariensis,-9.666667,33.366667
 2288550427,Lepistemon_owariensis,7.633333,3.916667
@@ -58,9 +47,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288824059,Lepistemon_owariensis,5.483333,10.516667
 346717392,Lepistemon_owariensis,2.55,12.166667
 2291953224,Lepistemon_owariensis,3.516667,16.033333
-2288710469,Lepistemon_owariensis,3.866667,11.45
 2291953612,Lepistemon_owariensis,-15.033333,34.5
-2289658001,Lepistemon_owariensis,3.883333,11.45
 2291953126,Lepistemon_owariensis,7.316667,13.533333
 2290198756,Lepistemon_owariensis,3.466667,25.716667
 2235887919,Lepistemon_owariensis,7.42,36.45
@@ -74,8 +61,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291953371,Lepistemon_owariensis,4.866667,11.116667
 2291952793,Lepistemon_owariensis,-11.733333,27.433333
 2290527781,Lepistemon_owariensis,6.141833,0.9
-1826233472,Lepistemon_owariensis,-2.876235,23.655006
 2289521796,Lepistemon_owariensis,0.766667,24.45
-2252226664,Lepistemon_owariensis,5.45,0.15
 346716397,Lepistemon_owariensis,5.466667,10.416667
-1826234043,Lepistemon_owariensis,-12.295286,17.544676
