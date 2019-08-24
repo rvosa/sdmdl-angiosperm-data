@@ -37,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935683120,Dianthus_deltoides,47.06477,15.441
 1899737744,Dianthus_deltoides,48.98547,15.11414
 1839002904,Dianthus_deltoides,51.82806,12.04306
-1421199873,Dianthus_deltoides,51.8,12.6
 1676060074,Dianthus_deltoides,48.645283,19.450167
 1144054783,Dianthus_deltoides,60.2677,10.4784
 1881757380,Dianthus_deltoides,58.013828,25.685459
@@ -53,11 +52,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851388078,Dianthus_deltoides,42.0837,-3.0538
 1851335219,Dianthus_deltoides,42.1044,-3.0708
 1702379437,Dianthus_deltoides,59.7262,10.3132
-1421199876,Dianthus_deltoides,51.7,10.7
 1702379485,Dianthus_deltoides,59.7077,10.2299
 1099924060,Dianthus_deltoides,64.50834,15.91319
 1702026243,Dianthus_deltoides,60.8724,8.8311
-1657179623,Dianthus_deltoides,46.9775,12.4
 1702175595,Dianthus_deltoides,59.6712,11.3631
 895225370,Dianthus_deltoides,43.325,1.181
 1702222987,Dianthus_deltoides,59.3455,10.5517
@@ -77,7 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323862545,Dianthus_deltoides,69.4937,20.8404
 1019617017,Dianthus_deltoides,44.09417,7.35278
 2290790907,Dianthus_deltoides,52.376417,4.5575
-2313294445,Dianthus_deltoides,48.17,11.5
 1935683021,Dianthus_deltoides,47.0625,15.43778
 1702317576,Dianthus_deltoides,61.883,9.0979
 1701637574,Dianthus_deltoides,60.7945,5.2568
@@ -98,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2316085206,Dianthus_deltoides,60.899538,9.61254
 1999493467,Dianthus_deltoides,59.998317,23.079872
 995453327,Dianthus_deltoides,59.96947,16.0077
-1095899178,Dianthus_deltoides,59.97,16
 1702230091,Dianthus_deltoides,60.8995,9.6125
 286837030,Dianthus_deltoides,52.521667,13.143333
 728980748,Dianthus_deltoides,51.817281,5.829542
@@ -134,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230582282,Dianthus_deltoides,47.125,16.375
 1701655836,Dianthus_deltoides,59.7677,11.819
 214525130,Dianthus_deltoides,52.517498,13.139722
-2310438088,Dianthus_deltoides,58.1,27.06
 1606512830,Dianthus_deltoides,67.804133,24.809751
 1701645317,Dianthus_deltoides,60.6596,12.4613
 1702268694,Dianthus_deltoides,59.3307,11.711
@@ -190,7 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342396137,Dianthus_deltoides,56.406224,9.006792
 1702035229,Dianthus_deltoides,60.2298,10.0372
 237337408,Dianthus_deltoides,42.65,0.93
-786132865,Dianthus_deltoides,48.3,8.8
 1839000919,Dianthus_deltoides,38.862782,22.19083
 1212089433,Dianthus_deltoides,38.862778,22.190833
 1839001100,Dianthus_deltoides,38.916389,21.78611
@@ -234,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701635584,Dianthus_deltoides,59.7477,10.8052
 1935682464,Dianthus_deltoides,47.25694,15.86194
 1851354389,Dianthus_deltoides,42.75864,-6.316222
-318109664,Dianthus_deltoides,40.5,-1.61
 186805642,Dianthus_deltoides,58.7617,8.7312
 186805641,Dianthus_deltoides,58.8841,8.9974
 1701803182,Dianthus_deltoides,59.9717,12.1629
@@ -243,7 +235,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323857202,Dianthus_deltoides,59.3023,10.6954
 1702085308,Dianthus_deltoides,60.4581,11.2274
 1702211078,Dianthus_deltoides,59.9718,11.9302
-786132777,Dianthus_deltoides,51.8,10.7
 441990714,Dianthus_deltoides,52.123055,11.636666
 1513325434,Dianthus_deltoides,57.33786,-2.61546
 1323847352,Dianthus_deltoides,69.6376,18.9048
@@ -346,7 +337,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186805430,Dianthus_deltoides,58.3985,7.9521
 204426181,Dianthus_deltoides,42.560001,0.38
 186805411,Dianthus_deltoides,58.7933,8.8607
-204426180,Dianthus_deltoides,42.650002,0.5
 186805426,Dianthus_deltoides,59.2452,7.4756
 1702162193,Dianthus_deltoides,59.6938,10.8414
 1701818299,Dianthus_deltoides,59.4998,10.3689
@@ -359,7 +349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702162610,Dianthus_deltoides,60.2311,9.0442
 1702163047,Dianthus_deltoides,59.274,11.6646
 1702162662,Dianthus_deltoides,60.2554,8.9756
-788651745,Dianthus_deltoides,40.883333,21.8
 1701616165,Dianthus_deltoides,60.2652,8.8753
 1342396968,Dianthus_deltoides,55.030874,9.382036
 1701828547,Dianthus_deltoides,60.2679,9.0063
@@ -425,13 +414,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851387285,Dianthus_deltoides,43.059,-5.131
 1701997124,Dianthus_deltoides,59.7622,10.166
 1701582949,Dianthus_deltoides,59.718,10.0756
-318109272,Dianthus_deltoides,42.8,-0.23
 1265003471,Dianthus_deltoides,56.27896,14.0463
 1936536107,Dianthus_deltoides,42.6853,-5.8453
 1701582911,Dianthus_deltoides,59.7803,10.1488
 1881619779,Dianthus_deltoides,48.81,10.51
 1230586760,Dianthus_deltoides,48.78056,21.10083
-1881619243,Dianthus_deltoides,48.8,10.5
 1701984655,Dianthus_deltoides,59.7746,9.95
 1701983291,Dianthus_deltoides,59.7214,11.8353
 1701785705,Dianthus_deltoides,60.6131,8.5114
@@ -605,13 +592,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705419836,Dianthus_deltoides,58.67373,14.964912
 1999493483,Dianthus_deltoides,60.436415,22.190478
 1599121504,Dianthus_deltoides,61.045291,24.650608
-30861563,Dianthus_deltoides,42.880001,-0.8
 1697496394,Dianthus_deltoides,56.392486,60.763103
 1702197107,Dianthus_deltoides,60.1745,12.1131
 1831110981,Dianthus_deltoides,53.3485,11.4153
 1999493484,Dianthus_deltoides,60.691195,21.565425
 1702199119,Dianthus_deltoides,61.5557,11.0429
-1050620500,Dianthus_deltoides,42.9,-0.78
 1702317195,Dianthus_deltoides,60.5144,10.0863
 1851410407,Dianthus_deltoides,42.904,-0.789
 1702305473,Dianthus_deltoides,61.0699,9.1695
@@ -630,7 +615,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697496236,Dianthus_deltoides,59.431368,46.536395
 1599121499,Dianthus_deltoides,60.955152,24.481849
 1701843935,Dianthus_deltoides,60.8131,9.9466
-2309575594,Dianthus_deltoides,52.4,-4.05
 1702205043,Dianthus_deltoides,59.9536,9.4923
 1098982631,Dianthus_deltoides,53.85,46.816666
 317819561,Dianthus_deltoides,42.282,-6.762
@@ -648,12 +632,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318679736,Dianthus_deltoides,61.03196,9.845245
 1701793627,Dianthus_deltoides,61.3457,11.234
 1599121498,Dianthus_deltoides,60.798462,26.106139
-1230586713,Dianthus_deltoides,47.5,16.03333
 1705340853,Dianthus_deltoides,57.425795,15.816866
 296454093,Dianthus_deltoides,46.766,12.916
 1936367672,Dianthus_deltoides,41.65,24.6833
 1935683429,Dianthus_deltoides,47.28167,14.62333
-204425796,Dianthus_deltoides,43.099998,-0.6
 1935683476,Dianthus_deltoides,47.0875,15.99333
 1697496333,Dianthus_deltoides,54.349053,44.125214
 1697496271,Dianthus_deltoides,56.339445,35.966767
@@ -679,7 +661,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1332529865,Dianthus_deltoides,50.4226,9.56132
 1705340869,Dianthus_deltoides,57.436038,15.205809
 204425799,Dianthus_deltoides,42.702,-1.053
-1050577925,Dianthus_deltoides,42.91,-0.8
 1599121494,Dianthus_deltoides,60.945213,24.526937
 1599121480,Dianthus_deltoides,63.573723,29.202177
 1599121767,Dianthus_deltoides,61.017943,24.361235
@@ -725,12 +706,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851413131,Dianthus_deltoides,42.92,-6.37
 1842895855,Dianthus_deltoides,42.5868,0.6695
 1851397583,Dianthus_deltoides,42.92,-6.49
-211624547,Dianthus_deltoides,43.169998,-4.8
 1702422817,Dianthus_deltoides,61.6123,6.5204
 1936101865,Dianthus_deltoides,42.6266,0.755
 1842895940,Dianthus_deltoides,42.633,0.762
 1434671361,Dianthus_deltoides,57.98429,13.80455
-1851399140,Dianthus_deltoides,43,-6.24
 1936600377,Dianthus_deltoides,42.9842,-4.2279
 1701241379,Dianthus_deltoides,62.3038,8.1226
 1701229860,Dianthus_deltoides,62.2423,8.3746
@@ -788,18 +767,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701340801,Dianthus_deltoides,62.5758,9.1265
 1935683494,Dianthus_deltoides,46.935,13.15
 186804910,Dianthus_deltoides,58.9335,7.7232
-1936431121,Dianthus_deltoides,40.6333,21.4
 1701784592,Dianthus_deltoides,60.6413,11.0561
 1705748041,Dianthus_deltoides,54.6522,18.4172
 1697496066,Dianthus_deltoides,57.029148,24.296608
 1050590048,Dianthus_deltoides,42.93,-0.73
-1265003300,Dianthus_deltoides,61.2,25.383333
 1676221374,Dianthus_deltoides,59.4641,10.65876
 1697495490,Dianthus_deltoides,57.063009,28.888015
 1265011907,Dianthus_deltoides,55.66771,13.54351
 1702339052,Dianthus_deltoides,59.0974,10.7779
 1989604147,Dianthus_deltoides,56.16349,15.68325
-899774484,Dianthus_deltoides,49.75,15
 1323731520,Dianthus_deltoides,59.4253,10.623
 20809341,Dianthus_deltoides,59.6788,9.9234
 1936033795,Dianthus_deltoides,60.0833,22.7833
@@ -814,7 +790,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701927101,Dianthus_deltoides,60.9829,9.2208
 1599121758,Dianthus_deltoides,60.884864,24.694786
 1851378778,Dianthus_deltoides,42.82,-6.25
-1988149360,Dianthus_deltoides,61.3,27.7
 1851405727,Dianthus_deltoides,43.02,-5.27
 186805410,Dianthus_deltoides,60.0829,10.2851
 1851319245,Dianthus_deltoides,43.11,-5.03
@@ -835,7 +810,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599121470,Dianthus_deltoides,60.702703,27.06098
 1599121763,Dianthus_deltoides,61.243538,24.66856
 1144198380,Dianthus_deltoides,58.70682,5.7667
-788653090,Dianthus_deltoides,41.1,22.066667
 1038170022,Dianthus_deltoides,49.125,12.883056
 1702407277,Dianthus_deltoides,60.4855,9.1911
 211625046,Dianthus_deltoides,43.040001,-6.14
@@ -844,7 +818,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993352697,Dianthus_deltoides,50.5167,8.0167
 187144635,Dianthus_deltoides,62.286,8.1424
 1260827639,Dianthus_deltoides,49.56666,5.51666
-1265011577,Dianthus_deltoides,61.25,24.2
 1697496123,Dianthus_deltoides,55.213398,36.362455
 1702407189,Dianthus_deltoides,60.5305,8.918
 1599121541,Dianthus_deltoides,61.083806,26.719023
@@ -917,7 +890,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935683440,Dianthus_deltoides,47.12306,14.39917
 1599121744,Dianthus_deltoides,61.694975,24.823597
 1599121752,Dianthus_deltoides,61.352595,22.040956
-1050577931,Dianthus_deltoides,42.51,-0.7
 1837335193,Dianthus_deltoides,61.13415,10.39176
 1599121457,Dianthus_deltoides,61.383449,22.97301
 1851385233,Dianthus_deltoides,42.515,-0.705
@@ -934,7 +906,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701967661,Dianthus_deltoides,58.753,9.1115
 211624508,Dianthus_deltoides,42.509998,-0.71
 1701497443,Dianthus_deltoides,61.1665,8.3588
-1060364777,Dianthus_deltoides,50.6,6.9
 1144198392,Dianthus_deltoides,62.943,7.335
 1702422786,Dianthus_deltoides,63.03129,7.29994
 1705402044,Dianthus_deltoides,57.274257,15.17529
@@ -977,7 +948,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701781143,Dianthus_deltoides,58.841,9.0953
 1701572117,Dianthus_deltoides,59.0897,10.8412
 1265004808,Dianthus_deltoides,56.84063,12.57829
-786132931,Dianthus_deltoides,50.5,7
 216098015,Dianthus_deltoides,63.053902,25.9091
 1265007066,Dianthus_deltoides,55.38345,13.05907
 1265011236,Dianthus_deltoides,62.225278,30.335278
@@ -989,8 +959,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144033424,Dianthus_deltoides,60.53847,9.05943
 1265009779,Dianthus_deltoides,56.257778,10.689167
 1701577828,Dianthus_deltoides,59.2493,9.6575
-1897827040,Dianthus_deltoides,56.25,10.7
-1265011612,Dianthus_deltoides,60.5,22.25
 177284067,Dianthus_deltoides,61.528801,25.962999
 1599121738,Dianthus_deltoides,61.657452,23.126328
 1702420531,Dianthus_deltoides,61.1011,8.9805
@@ -1060,7 +1028,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599121736,Dianthus_deltoides,61.493121,23.710602
 57691551,Dianthus_deltoides,61.501598,24.0854
 1599121456,Dianthus_deltoides,60.156544,24.394593
-912589389,Dianthus_deltoides,57.5,-4.23
 57691517,Dianthus_deltoides,62.968399,21.9659
 1599121533,Dianthus_deltoides,60.665965,24.756079
 1702420496,Dianthus_deltoides,61.3862,10.2513
@@ -1218,7 +1185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788484184,Dianthus_deltoides,57.404992,14.189811
 876153212,Dianthus_deltoides,42.72,-0.52
 1948544824,Dianthus_deltoides,60.725094,27.088634
-1705498879,Dianthus_deltoides,61.26,22.7
 1599121535,Dianthus_deltoides,60.980217,26.56281
 1599121701,Dianthus_deltoides,62.402636,21.286037
 1599121702,Dianthus_deltoides,61.43764,28.2151
@@ -1353,7 +1319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57691483,Dianthus_deltoides,62.009998,22.8902
 187144618,Dianthus_deltoides,63.7603,11.3823
 616355912,Dianthus_deltoides,51.96,5.66
-995406121,Dianthus_deltoides,50.4167,4
 1701791518,Dianthus_deltoides,60.2461,10.5643
 812024007,Dianthus_deltoides,50.644283,9.155
 1697496207,Dianthus_deltoides,54.859186,37.55752
@@ -1448,7 +1413,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265002005,Dianthus_deltoides,55.66445,13.56204
 1265008507,Dianthus_deltoides,58.51513,13.85156
 1055827044,Dianthus_deltoides,51.513353,-1.20548
-1702219109,Dianthus_deltoides,60.7,11.3385
 1599121526,Dianthus_deltoides,62.609504,27.094196
 1599118384,Dianthus_deltoides,60.386721,24.231068
 1702420524,Dianthus_deltoides,61.5032,10.1771
@@ -1529,7 +1493,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705258381,Dianthus_deltoides,58.980475,17.872909
 57691530,Dianthus_deltoides,62.495201,24.3771
 1056740027,Dianthus_deltoides,53.054945,-4.154618
-1893207428,Dianthus_deltoides,49.95,5.9
 1701996463,Dianthus_deltoides,59.1929,11.1444
 2288110922,Dianthus_deltoides,50.452,6.102
 1697495492,Dianthus_deltoides,57.653907,33.613453
@@ -1862,7 +1825,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265006212,Dianthus_deltoides,60.74866,15.4618
 1705316085,Dianthus_deltoides,58.566677,14.121107
 1599121595,Dianthus_deltoides,61.591275,24.077154
-1842850283,Dianthus_deltoides,42.4,2.21
 1265005532,Dianthus_deltoides,64.75004,20.9635
 1701794749,Dianthus_deltoides,61.755,8.3664
 1599121596,Dianthus_deltoides,60.429797,24.363779
@@ -1893,7 +1855,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57691497,Dianthus_deltoides,60.452099,25.997499
 1264995897,Dianthus_deltoides,47.586389,16.008889
 1265010637,Dianthus_deltoides,58.55265,15.04846
-786132734,Dianthus_deltoides,51.8,15
 1999608205,Dianthus_deltoides,61.488467,23.523209
 1701781197,Dianthus_deltoides,58.252,7.9522
 1697496104,Dianthus_deltoides,55.390395,41.787746
@@ -1918,7 +1879,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999608297,Dianthus_deltoides,60.67749,23.427997
 1265006598,Dianthus_deltoides,56.074111,14.083049
 1599121776,Dianthus_deltoides,60.545594,26.905924
-2288809243,Dianthus_deltoides,49.683333,5.6
 1705334300,Dianthus_deltoides,57.785688,14.140848
 57691490,Dianthus_deltoides,62.214298,23.824499
 1265010384,Dianthus_deltoides,63.2151,17.18819
@@ -2029,7 +1989,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812023976,Dianthus_deltoides,50.263483,9.650133
 1265011408,Dianthus_deltoides,58.18715,13.94898
 1705295910,Dianthus_deltoides,55.903495,13.504572
-1705477567,Dianthus_deltoides,48.27,13.8
 735730,Dianthus_deltoides,56.19864,15.65834
 1705370747,Dianthus_deltoides,58.04455,12.519441
 57691470,Dianthus_deltoides,60.846298,23.040701
