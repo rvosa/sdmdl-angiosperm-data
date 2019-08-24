@@ -1,12 +1,9 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1805856927,Scaevola_ramosissima,-29.900967,152.945536
 1916141672,Scaevola_ramosissima,-33.3744,151.3223
-1937006066,Scaevola_ramosissima,-37.25114,150.03147
 1937363971,Scaevola_ramosissima,-27.201667,152.530083
 1457263358,Scaevola_ramosissima,-33.687576,151.220213
-1451043676,Scaevola_ramosissima,-37.642222,149.700361
 1451042262,Scaevola_ramosissima,-37.55529,149.6684
-1451043741,Scaevola_ramosissima,-37.495833,149.938056
 1452191036,Scaevola_ramosissima,-32.99996,151.72815
 1451048470,Scaevola_ramosissima,-33.680778,150.559111
 1835227784,Scaevola_ramosissima,-27.727602,152.877598
@@ -16,11 +13,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848340890,Scaevola_ramosissima,-33.705215,150.456176
 1652378468,Scaevola_ramosissima,-28.801667,151.895833
 1936836749,Scaevola_ramosissima,-33.530806,151.298361
-1937005402,Scaevola_ramosissima,-37.578528,149.747028
 1652348052,Scaevola_ramosissima,-27.738889,152.902778
 1937304345,Scaevola_ramosissima,-35.570833,150.054167
 996212267,Scaevola_ramosissima,-33.533,151.283
-993715035,Scaevola_ramosissima,-35.1667,150.7167
 993697707,Scaevola_ramosissima,-35.75,150.1667
 993702569,Scaevola_ramosissima,-34.6292,150.2103
 1074092014,Scaevola_ramosissima,-33.972536,151.037905
@@ -51,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993464952,Scaevola_ramosissima,-37.7183,148.6089
 1936972148,Scaevola_ramosissima,-28.3175,152.708333
 994044871,Scaevola_ramosissima,-35.1108,150.3306
-994042146,Scaevola_ramosissima,-37.2494,150.0378
 993581329,Scaevola_ramosissima,-36.4978,150.0031
 995836058,Scaevola_ramosissima,-33.7728,150.461
 1451567870,Scaevola_ramosissima,-33.771209,150.462278
@@ -59,7 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995120755,Scaevola_ramosissima,-37.5156,149.6014
 995831764,Scaevola_ramosissima,-33.2008,151.027
 994765396,Scaevola_ramosissima,-33.2008,151.0269
-1655920687,Scaevola_ramosissima,-37.232,149.99
 1451565696,Scaevola_ramosissima,-33.199257,151.028095
 1936930005,Scaevola_ramosissima,-33.200833,151.026944
 1937229490,Scaevola_ramosissima,-34.2,150.8
@@ -70,8 +63,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995790667,Scaevola_ramosissima,-33.4667,150.742
 993636027,Scaevola_ramosissima,-33.4667,150.7417
 995522894,Scaevola_ramosissima,-31.606667,152.836667
-995831677,Scaevola_ramosissima,-37.8025,148.613
-1937053863,Scaevola_ramosissima,-37.8025,148.613056
 994003211,Scaevola_ramosissima,-35.1667,150.7
 1061588891,Scaevola_ramosissima,-34.560265,150.640285
 1652171497,Scaevola_ramosissima,-27.200556,152.527778
@@ -111,7 +102,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995435450,Scaevola_ramosissima,-37.707008,147.832164
 1652081311,Scaevola_ramosissima,-25.979637,151.344009
 995077933,Scaevola_ramosissima,-37.7,148.2833
-993932971,Scaevola_ramosissima,-35.15,150.7
 993902403,Scaevola_ramosissima,-36.3083,149.7764
 993899035,Scaevola_ramosissima,-35.5333,150.1167
 1451478255,Scaevola_ramosissima,-33.992869,150.996994
@@ -127,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451482803,Scaevola_ramosissima,-31.731742,152.801102
 993513377,Scaevola_ramosissima,-36.7167,149.9167
 1652049634,Scaevola_ramosissima,-27.373544,152.175804
-993892423,Scaevola_ramosissima,-36.5833,150.05
 992603109,Scaevola_ramosissima,-35.58,150.05
 994891021,Scaevola_ramosissima,-37.8167,147.0833
 1061583784,Scaevola_ramosissima,-34.681694,150.281088
@@ -169,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995533325,Scaevola_ramosissima,-33.483333,150.516667
 995012604,Scaevola_ramosissima,-37.7139,149.2194
 993285923,Scaevola_ramosissima,-36.6667,149.9167
-994816045,Scaevola_ramosissima,-37.6333,149.7167
 996120795,Scaevola_ramosissima,-37.5542,149.289
 994838836,Scaevola_ramosissima,-37.5542,149.2889
 995002158,Scaevola_ramosissima,-37.5,149.5833
@@ -177,7 +165,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993823742,Scaevola_ramosissima,-36.6333,149.9167
 1936842456,Scaevola_ramosissima,-33.2,151.116667
 1061583702,Scaevola_ramosissima,-34.219178,150.976537
-993828206,Scaevola_ramosissima,-35.0667,150.8333
 993830121,Scaevola_ramosissima,-36.2,149.6667
 994779298,Scaevola_ramosissima,-38.5333,146.7167
 994778975,Scaevola_ramosissima,-38.3333,147
@@ -227,7 +214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996120791,Scaevola_ramosissima,-23.92,149.08
 993204333,Scaevola_ramosissima,-23.8333,149
 1651878576,Scaevola_ramosissima,-23.91523,149.084161
-1936969075,Scaevola_ramosissima,-19.4,129.0667
 993294408,Scaevola_ramosissima,-37.3,149.9167
 996120797,Scaevola_ramosissima,-33.53,151.33
 1451696944,Scaevola_ramosissima,-33.531754,151.334482
@@ -244,7 +230,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937012098,Scaevola_ramosissima,-29.983333,152.983333
 993771711,Scaevola_ramosissima,-35.5667,150.05
 993783738,Scaevola_ramosissima,-35.5833,150.3
-994794459,Scaevola_ramosissima,-37.7,149.6167
 1061553624,Scaevola_ramosissima,-38.15,146.766667
 993217777,Scaevola_ramosissima,-35.1167,150.3167
 1451714308,Scaevola_ramosissima,-29.998411,152.967747
@@ -279,7 +264,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993751817,Scaevola_ramosissima,-37.75,148.6667
 993652811,Scaevola_ramosissima,-34.6667,150.3
 993756077,Scaevola_ramosissima,-35.1,150.3
-1936998860,Scaevola_ramosissima,-37.8,148.7
 993757125,Scaevola_ramosissima,-37.75,148.65
 993150362,Scaevola_ramosissima,-35.4667,149.9833
 993172173,Scaevola_ramosissima,-36.2,150.1
@@ -290,7 +274,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996170032,Scaevola_ramosissima,-37.52,149.62
 1451711806,Scaevola_ramosissima,-32.715082,152.151127
 993524354,Scaevola_ramosissima,-33.3667,150.9833
-993765064,Scaevola_ramosissima,-35.2833,149.1167
 992125875,Scaevola_ramosissima,-37.70227,148.82379
 995462593,Scaevola_ramosissima,-36.65,149.9
 1651966296,Scaevola_ramosissima,-27.41521,152.250803
@@ -303,10 +286,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993128936,Scaevola_ramosissima,-35.55,150.0667
 996021954,Scaevola_ramosissima,-35.53,150.08
 993137506,Scaevola_ramosissima,-37.7,148.6333
-995019123,Scaevola_ramosissima,-37.8,148.6667
 993172190,Scaevola_ramosissima,-33.05,151.5667
 993762307,Scaevola_ramosissima,-34.0667,151.0167
-994873960,Scaevola_ramosissima,-32.75,152.15
 996191502,Scaevola_ramosissima,-34.37,150.42
 993742544,Scaevola_ramosissima,-34.45,150.4167
 1451711735,Scaevola_ramosissima,-34.365096,150.417841
@@ -318,7 +299,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993800842,Scaevola_ramosissima,-36.9183,149.775
 993800881,Scaevola_ramosissima,-35.15,150.7167
 996191500,Scaevola_ramosissima,-33.97,151.07
-993800478,Scaevola_ramosissima,-37.25,150.0333
 993800402,Scaevola_ramosissima,-37.6333,148.4667
 993751901,Scaevola_ramosissima,-34.45,150.4333
 993129938,Scaevola_ramosissima,-28.65,151.9167
@@ -347,8 +327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937336703,Scaevola_ramosissima,-33.633333,151.316667
 993611802,Scaevola_ramosissima,-29.3,151.6833
 995019313,Scaevola_ramosissima,-34.8667,150.6
-1451516547,Scaevola_ramosissima,-37.265107,150.051226
-995720387,Scaevola_ramosissima,-37.27,150.05
 1937094006,Scaevola_ramosissima,-32.87,150.75
 995019147,Scaevola_ramosissima,-37.55,149.25
 1652113177,Scaevola_ramosissima,-28.673543,151.992481
@@ -394,7 +372,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992451340,Scaevola_ramosissima,-33.731962,151.13427
 992087106,Scaevola_ramosissima,-34.131964,150.99261
 993728094,Scaevola_ramosissima,-33.7333,151.0333
-996191568,Scaevola_ramosissima,-35.12,150.77
 1651966326,Scaevola_ramosissima,-28.581878,151.750818
 993728373,Scaevola_ramosissima,-37.55,149.15
 995386532,Scaevola_ramosissima,-33.8,151.25
@@ -424,9 +401,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848333623,Scaevola_ramosissima,-38.55,146.666667
 1936919750,Scaevola_ramosissima,-29.32,151.7
 1451711889,Scaevola_ramosissima,-29.315086,151.701097
-996191582,Scaevola_ramosissima,-35.1,150.8
 992160385,Scaevola_ramosissima,-33.715301,150.367614
-1451711833,Scaevola_ramosissima,-35.098428,150.801176
 1937129374,Scaevola_ramosissima,-27.57,153.05
 996191609,Scaevola_ramosissima,-33.72,150.47
 996191616,Scaevola_ramosissima,-33.72,150.37
@@ -442,7 +417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996120170,Scaevola_ramosissima,-33.75,150.62
 996021353,Scaevola_ramosissima,-34.35,150.5
 1451696865,Scaevola_ramosissima,-33.748429,150.617831
-1651966338,Scaevola_ramosissima,-27.748537,153.417454
 1451711829,Scaevola_ramosissima,-36.315103,150.067874
 996191599,Scaevola_ramosissima,-36.32,150.07
 1451697001,Scaevola_ramosissima,-33.765089,151.167821
