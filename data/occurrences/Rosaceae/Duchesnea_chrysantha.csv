@@ -84,7 +84,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830200477,Duchesnea_chrysantha,36.733333,137.016667
 391290868,Duchesnea_chrysantha,37.109972,140.241778
 1828479548,Duchesnea_chrysantha,43.123,141.035
-1830201985,Duchesnea_chrysantha,36.7,136.85
 395759255,Duchesnea_chrysantha,35.131889,134.346361
 391291126,Duchesnea_chrysantha,37.110833,140.217222
 1829560539,Duchesnea_chrysantha,36.15424,140.11671
@@ -106,12 +105,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 391291088,Duchesnea_chrysantha,37.531111,140.101667
 204377539,Duchesnea_chrysantha,34.46806,135.9688
 391291091,Duchesnea_chrysantha,37.428056,140.0675
-1830529921,Duchesnea_chrysantha,33.483333,133
 204377537,Duchesnea_chrysantha,34.49162,135.95116
 1830674427,Duchesnea_chrysantha,33.75,133.533333
 381806070,Duchesnea_chrysantha,36.0394,140.23232
 381806080,Duchesnea_chrysantha,36.26287,139.83847
-1830674173,Duchesnea_chrysantha,33.8,133.933333
 1830519870,Duchesnea_chrysantha,35.116667,133.85
 1830529784,Duchesnea_chrysantha,36.533333,136.85
 381806079,Duchesnea_chrysantha,36.26343,139.97427
@@ -122,7 +119,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830203274,Duchesnea_chrysantha,36.65,137.25
 391290811,Duchesnea_chrysantha,34.516667,133.866667
 1829621580,Duchesnea_chrysantha,36.478611,138.774722
-1830529911,Duchesnea_chrysantha,34.4,135.666667
 1829867329,Duchesnea_chrysantha,35.14079,139.053097
 395759232,Duchesnea_chrysantha,35.500556,133.8525
 1830676037,Duchesnea_chrysantha,33.766667,133.283333
@@ -133,9 +129,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830622568,Duchesnea_chrysantha,34.111666,134.439523
 1830625157,Duchesnea_chrysantha,34.085671,134.600342
 1830624504,Duchesnea_chrysantha,34.024815,134.486519
-1830681280,Duchesnea_chrysantha,33.75,133.6
 1830229045,Duchesnea_chrysantha,36.666667,137.233333
-1830681298,Duchesnea_chrysantha,33.266667,133.2
 1829696623,Duchesnea_chrysantha,35.78733,139.48991
 1830683653,Duchesnea_chrysantha,32.75,132.983333
 1830681252,Duchesnea_chrysantha,33.383333,133.083333
@@ -162,9 +156,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933837034,Duchesnea_chrysantha,33.4136,133.2769
 1830192659,Duchesnea_chrysantha,36.733333,137.383333
 395759177,Duchesnea_chrysantha,34.946389,133.5725
-2244520336,Duchesnea_chrysantha,33.283333,133.1
 2244519827,Duchesnea_chrysantha,33.75,133.566667
-238091692,Duchesnea_chrysantha,37,140
 395759127,Duchesnea_chrysantha,35.093333,133.995833
 381805888,Duchesnea_chrysantha,35.869,140.64165
 381805972,Duchesnea_chrysantha,36.52933,140.57886
@@ -173,14 +165,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381805782,Duchesnea_chrysantha,35.9279,139.98727
 1830192255,Duchesnea_chrysantha,36.883333,136.966667
 1830188630,Duchesnea_chrysantha,36.716667,136.933333
-1828666583,Duchesnea_chrysantha,36.5,136.7039
 1830191390,Duchesnea_chrysantha,36.766667,137.366667
 1828666616,Duchesnea_chrysantha,36.5067,136.6859
-1828665991,Duchesnea_chrysantha,36.49,136.7
 381805783,Duchesnea_chrysantha,36.12246,139.83076
 2244454334,Duchesnea_chrysantha,36.5891,136.78748
-1829609240,Duchesnea_chrysantha,36.3,138.9
-1828665915,Duchesnea_chrysantha,36.5,136.742
 395759084,Duchesnea_chrysantha,34.973333,133.896667
 395759086,Duchesnea_chrysantha,34.977778,133.977778
 1829695488,Duchesnea_chrysantha,35.95336,139.29683
@@ -236,11 +224,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830646178,Duchesnea_chrysantha,33.570833,133.61875
 729327533,Duchesnea_chrysantha,35.4006,134.50101
 1829636157,Duchesnea_chrysantha,36.469722,139.473333
-729324919,Duchesnea_chrysantha,34.849998,135.3
 729300584,Duchesnea_chrysantha,34.849998,135.317
 729301560,Duchesnea_chrysantha,35.099998,134.418
 729297612,Duchesnea_chrysantha,35.133301,135.25
-729272608,Duchesnea_chrysantha,35.150002,134.8
 729297556,Duchesnea_chrysantha,35.133301,135.267
 1828888695,Duchesnea_chrysantha,35.16769,134.79385
 1828889601,Duchesnea_chrysantha,35.31519,136.28398
@@ -269,7 +255,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 624041036,Duchesnea_chrysantha,35.328289,140.196742
 381805717,Duchesnea_chrysantha,36.77835,140.36012
 624041039,Duchesnea_chrysantha,35.503267,140.221733
-1830164249,Duchesnea_chrysantha,36.7,137.183333
 1829767785,Duchesnea_chrysantha,35.503264,140.084244
 1828814894,Duchesnea_chrysantha,36.373584,136.543915
 1830165174,Duchesnea_chrysantha,36.666667,137.133333
@@ -309,7 +294,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830183841,Duchesnea_chrysantha,36.616667,137.083333
 1829469707,Duchesnea_chrysantha,39.4468,140.4781
 1829695874,Duchesnea_chrysantha,36.1762,139.12006
-1830176988,Duchesnea_chrysantha,36.55,136.6
 381806222,Duchesnea_chrysantha,36.37887,140.48746
 395758915,Duchesnea_chrysantha,35.041889,133.506306
 388822476,Duchesnea_chrysantha,35.524082,139.228068
@@ -340,7 +324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388822255,Duchesnea_chrysantha,35.140791,139.090594
 1828814564,Duchesnea_chrysantha,36.372903,136.551488
 388822221,Duchesnea_chrysantha,35.50742,139.390555
-1830167560,Duchesnea_chrysantha,36.6,137.35
 1828889159,Duchesnea_chrysantha,34.83021,134.67538
 736062090,Duchesnea_chrysantha,36.05326,139.30907
 1829872498,Duchesnea_chrysantha,35.311921,139.494189
@@ -380,9 +363,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830208686,Duchesnea_chrysantha,36.783333,137.516667
 388822210,Duchesnea_chrysantha,35.240782,139.103087
 1828814807,Duchesnea_chrysantha,36.317778,136.519064
-1830198896,Duchesnea_chrysantha,36.8,137.016667
 388822188,Duchesnea_chrysantha,35.432432,139.465551
-1830186796,Duchesnea_chrysantha,36.666667,137.2
 1830208697,Duchesnea_chrysantha,36.55,137.166667
 388822205,Duchesnea_chrysantha,35.224114,139.028095
 43208080,Duchesnea_chrysantha,33.54396,134.2924
@@ -423,9 +404,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1834901900,Duchesnea_chrysantha,35.304167,139.24375
 388822247,Duchesnea_chrysantha,35.374108,139.540546
 388822482,Duchesnea_chrysantha,35.307449,139.590542
-1830164362,Duchesnea_chrysantha,36.65,137.2
 1830207063,Duchesnea_chrysantha,36.733333,137.216667
-1830175577,Duchesnea_chrysantha,36.683333,137.2
 388822250,Duchesnea_chrysantha,35.465762,139.490549
 1830175227,Duchesnea_chrysantha,36.616667,137.116667
 388822190,Duchesnea_chrysantha,35.407436,139.565543
@@ -443,7 +422,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1834902320,Duchesnea_chrysantha,35.3625,139.23125
 1829469718,Duchesnea_chrysantha,40.170833,140.40625
 388822246,Duchesnea_chrysantha,35.45743,139.590541
-1830202379,Duchesnea_chrysantha,36.65,137.4
 1829630074,Duchesnea_chrysantha,36.657222,139.091944
 388822200,Duchesnea_chrysantha,35.540749,139.290563
 381806542,Duchesnea_chrysantha,37.02807,140.37746
@@ -476,8 +454,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381806213,Duchesnea_chrysantha,36.34395,140.31462
 1830642358,Duchesnea_chrysantha,33.570418,133.52481
 2243081209,Duchesnea_chrysantha,38.226957,140.361535
-1829609834,Duchesnea_chrysantha,36.4,138.5
-2244451925,Duchesnea_chrysantha,37.1,136.983333
 1830642392,Duchesnea_chrysantha,33.554211,133.518466
 2243087022,Duchesnea_chrysantha,38.318357,140.316737
 380067243,Duchesnea_chrysantha,35.31932,139.32764
