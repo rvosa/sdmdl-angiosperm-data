@@ -8,7 +8,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268966118,Senegalia_glomerosa,13.672222,-89.554228
 1944855681,Senegalia_glomerosa,-15.266666,-42.437222
 1838432255,Senegalia_glomerosa,-22.963056,-43.148889
-2235641644,Senegalia_glomerosa,-46.976389,-46.976389
 1949967149,Senegalia_glomerosa,-14.0191,-49.1983
 1884025821,Senegalia_glomerosa,-21.363611,-41.085555
 2027497807,Senegalia_glomerosa,-9,-56
@@ -34,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1898863261,Senegalia_glomerosa,-8.999722,-37.98
 2269036215,Senegalia_glomerosa,-24.358417,-51.900222
 1570755748,Senegalia_glomerosa,-24.355639,-51.900222
-1898863322,Senegalia_glomerosa,-8.999722,-17.98
 1944854461,Senegalia_glomerosa,-9.72,-48.96
 1889167963,Senegalia_glomerosa,-7.56,-39.96
 1944855464,Senegalia_glomerosa,-15.8775,-42.233888
@@ -68,7 +66,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424511058,Senegalia_glomerosa,-3.218889,-51.765833
 1889176439,Senegalia_glomerosa,-10.191361,-56.200167
 1889176484,Senegalia_glomerosa,-10.417,-54.593361
-1889176705,Senegalia_glomerosa,-55.747028,-105.586111
 2284127260,Senegalia_glomerosa,-10.997778,-55.673056
 1077481721,Senegalia_glomerosa,-23.879639,-51.973722
 1889176554,Senegalia_glomerosa,-10.596056,-56.0435
@@ -162,7 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2284128818,Senegalia_glomerosa,-24.480003,-52.740006
 1291040916,Senegalia_glomerosa,-22.602778,-52.877778
 1424468413,Senegalia_glomerosa,-10.460556,-64.688611
-1095261832,Senegalia_glomerosa,-15.741388,-47.883888
 1095262979,Senegalia_glomerosa,-15.748611,-47.585555
 1929957028,Senegalia_glomerosa,-9.043803,-72.293156
 1094921937,Senegalia_glomerosa,-13.319167,-44.234722
@@ -221,7 +217,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1213656586,Senegalia_glomerosa,-13.748056,-60.365833
 1424440587,Senegalia_glomerosa,-18.7,-54.972222
 1265127223,Senegalia_glomerosa,3.74806,-53.47222
-1424455089,Senegalia_glomerosa,-22.975833,-43.046944
 1090850711,Senegalia_glomerosa,-18.651306,-54.41425
 1094890617,Senegalia_glomerosa,-7.220833,-38.622222
 1707492802,Senegalia_glomerosa,8.602841,-73.579577
@@ -261,7 +256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089274603,Senegalia_glomerosa,-22.711389,-53.161667
 1089278412,Senegalia_glomerosa,-23.349528,-51.865172
 1257704329,Senegalia_glomerosa,-14.670472,-68.710139
-1424314157,Senegalia_glomerosa,-3.225556,-33.609722
 1806875637,Senegalia_glomerosa,-19.752222,-43.9425
 1099326977,Senegalia_glomerosa,-6.323056,-39.397222
 1099326934,Senegalia_glomerosa,-6.323056,-39.383333
@@ -291,7 +285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089255217,Senegalia_glomerosa,-4.254444,-38.992083
 1094867503,Senegalia_glomerosa,-9.088889,-38.185556
 1090630375,Senegalia_glomerosa,-18.960683,-43.794927
-1257936518,Senegalia_glomerosa,9.4325,-82.266667
 1090577891,Senegalia_glomerosa,-20.708056,-49.316389
 1089178773,Senegalia_glomerosa,-6.893333,-35.523333
 1090899228,Senegalia_glomerosa,-7.254667,-38.755139
@@ -330,7 +323,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089176642,Senegalia_glomerosa,-7.841944,-37.124722
 1077229136,Senegalia_glomerosa,-14.363611,-42.536944
 1077229124,Senegalia_glomerosa,-14.305278,-42.540278
-1587327839,Senegalia_glomerosa,-15.737222,-47.919444
 1099326850,Senegalia_glomerosa,-6.35,-39.240556
 1989888566,Senegalia_glomerosa,-21.001389,-49.973889
 1087643371,Senegalia_glomerosa,-17.787778,-43.620833
@@ -358,7 +350,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095243052,Senegalia_glomerosa,-28.195555,-50.753611
 1094843664,Senegalia_glomerosa,-12.033333,-40.483333
 1087645234,Senegalia_glomerosa,-19.891611,-43.915972
-1094922475,Senegalia_glomerosa,-36.5675,-79.367778
 1882889536,Senegalia_glomerosa,-23.383333,-51.233333
 1089251080,Senegalia_glomerosa,-5.051944,-37.396111
 1316166567,Senegalia_glomerosa,-19.477194,-44.015167
@@ -412,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260402837,Senegalia_glomerosa,-14.153639,-68.729639
 1095238942,Senegalia_glomerosa,-12.756944,-48.256111
 1095238651,Senegalia_glomerosa,-12.7825,-48.249166
-1094922454,Senegalia_glomerosa,-35.841667,-79.338333
 1087518086,Senegalia_glomerosa,-19.497528,-43.833
 1090526676,Senegalia_glomerosa,-8.91,-47.766944
 1089105482,Senegalia_glomerosa,-22.833333,-46.916667
@@ -497,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257898709,Senegalia_glomerosa,16.8,-90.892139
 1089083511,Senegalia_glomerosa,-19.215583,-57.513889
 1089083489,Senegalia_glomerosa,-19.281167,-57.577278
-1836714165,Senegalia_glomerosa,10.625,-66.53
 1089083392,Senegalia_glomerosa,-19.182833,-58.190611
 1089083605,Senegalia_glomerosa,-19.087361,-57.492306
 1089083411,Senegalia_glomerosa,-19.189472,-57.62
@@ -639,7 +628,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089164508,Senegalia_glomerosa,-8.187333,-36.417722
 1094766901,Senegalia_glomerosa,-15.924167,-48.033333
 1424046725,Senegalia_glomerosa,-9.963056,-37.864167
-1056276830,Senegalia_glomerosa,13.736897,-88.866511
 1258961867,Senegalia_glomerosa,-17.93472,-64.28472
 1265922475,Senegalia_glomerosa,-14.071111,-46.467222
 912642668,Senegalia_glomerosa,-14.07,-46.48
@@ -715,9 +703,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090472460,Senegalia_glomerosa,-13.993056,-42.2075
 1089050625,Senegalia_glomerosa,-15.5325,-55.72
 1089245000,Senegalia_glomerosa,-6.660556,-40.130833
-1585289310,Senegalia_glomerosa,13.66667,-89.25
 1895911730,Senegalia_glomerosa,-6.660833,-40.130833
-1259540122,Senegalia_glomerosa,13.666667,-89.25
 1094750066,Senegalia_glomerosa,-6.728056,-40.321389
 1260767864,Senegalia_glomerosa,16.55,-88.71666
 1316165596,Senegalia_glomerosa,-15.093056,-52.439444
@@ -726,7 +712,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897330917,Senegalia_glomerosa,18.805,-103.2875
 45428570,Senegalia_glomerosa,16.55,-88.7
 1419194146,Senegalia_glomerosa,16.757222,-91.126944
-1929610798,Senegalia_glomerosa,-15.7834208090807,-47.9298726661488
 1424156665,Senegalia_glomerosa,-21.379444,-41.082222
 1585191682,Senegalia_glomerosa,-9,-51
 1929021709,Senegalia_glomerosa,-14.1361863978701,-47.5101417129434
@@ -948,7 +933,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087226800,Senegalia_glomerosa,-15.883333,-47.933333
 1893733925,Senegalia_glomerosa,16.808333,-95.555
 1931343924,Senegalia_glomerosa,19.43,-104.93
-1895911755,Senegalia_glomerosa,19.433333,-105.933333
 1259538185,Senegalia_glomerosa,19.420556,-104.947778
 1894898626,Senegalia_glomerosa,19.4422648652872,-104.941906372669
 1087261560,Senegalia_glomerosa,-20.233333,-56.366667
@@ -968,10 +952,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077311091,Senegalia_glomerosa,-19.483333,-57.533333
 2291597571,Senegalia_glomerosa,-14.833333,-67.083333
 1423972203,Senegalia_glomerosa,-17.571944,-42.134167
-2013782837,Senegalia_glomerosa,10.133333,-75.699997
 1090472543,Senegalia_glomerosa,-15.433333,-47.033333
 1930661395,Senegalia_glomerosa,7.35,-62.93
-1273756568,Senegalia_glomerosa,10.136033,-75.695609
 1896245528,Senegalia_glomerosa,18.158333,-92.781667
 1894875104,Senegalia_glomerosa,18.151389,-92.769167
 1258435068,Senegalia_glomerosa,-0.7,-77.33333
@@ -984,7 +966,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261501297,Senegalia_glomerosa,-5.41666,-78.83333
 1929776457,Senegalia_glomerosa,-5.42,-78.83
 1257584294,Senegalia_glomerosa,15.718333,-88.665556
-1087721535,Senegalia_glomerosa,-2.586747,-44.274342
 1895913686,Senegalia_glomerosa,18.45,-102.35
 1927874136,Senegalia_glomerosa,-14.7981072632728,-40.142458800023
 1095222804,Senegalia_glomerosa,-8.2,-42.1
@@ -1026,7 +1007,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912642683,Senegalia_glomerosa,-9.07,-63.25
 1094278390,Senegalia_glomerosa,-9.066667,-63.25
 1090441771,Senegalia_glomerosa,-15.45,-58.683333
-1261545019,Senegalia_glomerosa,10.233056,-75.573056
 1258237682,Senegalia_glomerosa,-0.333333,-76.933333
 1563278895,Senegalia_glomerosa,-1.13,-77.5
 1929438941,Senegalia_glomerosa,-7.48,-73.65
@@ -1043,7 +1023,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895399227,Senegalia_glomerosa,16.7648455237022,-91.0265703582516
 1261482096,Senegalia_glomerosa,-7.25,-39.83333
 1895911729,Senegalia_glomerosa,17.066667,-92.25
-1056857641,Senegalia_glomerosa,-23.236211,-58.391024
 1989064273,Senegalia_glomerosa,21.8005,-104.751
 1895911751,Senegalia_glomerosa,16.6,-90.65
 1895911747,Senegalia_glomerosa,21.8,-104.666667
@@ -1058,7 +1037,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893392497,Senegalia_glomerosa,17.225,-96.741667
 912642678,Senegalia_glomerosa,-6.83,-59
 1077563898,Senegalia_glomerosa,-12.25,-38.966667
-1895911754,Senegalia_glomerosa,17.5,-101.916667
 1090955466,Senegalia_glomerosa,-12.333333,-39.283333
 1258751054,Senegalia_glomerosa,-12.016667,-68.266667
 1896245567,Senegalia_glomerosa,14.958333,-92.268333
@@ -1167,7 +1145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930995067,Senegalia_glomerosa,-3.30310604939179,-60.6218414292583
 1099317300,Senegalia_glomerosa,-6.075,-36.375
 1258712825,Senegalia_glomerosa,18.58,-95.06
-1258261465,Senegalia_glomerosa,10.55,-66.066667
 371074647,Senegalia_glomerosa,19.691667,-88.708333
 371074572,Senegalia_glomerosa,19.475,-88.341667
 1930242107,Senegalia_glomerosa,-0.220997,-55.16572
@@ -1274,7 +1251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895911778,Senegalia_glomerosa,17.133333,-95.05
 1895399212,Senegalia_glomerosa,15.0200197191857,-92.3807618709358
 1929837143,Senegalia_glomerosa,-24.6610726566826,-48.9913739959915
-1890918619,Senegalia_glomerosa,11.330095,-74.08699
 2270472756,Senegalia_glomerosa,15.927544,-96.489764
 1988610696,Senegalia_glomerosa,15.7478,-96.461
 1257750925,Senegalia_glomerosa,15.5625,-89.334722
@@ -1370,7 +1346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890913451,Senegalia_glomerosa,4.252092,-74.535456
 1315041403,Senegalia_glomerosa,4.25209,-74.5355
 439049463,Senegalia_glomerosa,-15.56891,-47.84889
-1929663783,Senegalia_glomerosa,-15.758,-47.892
 437384945,Senegalia_glomerosa,-24.08333,-49.95
 1928200230,Senegalia_glomerosa,-15.5575,-47.916667
 1928438715,Senegalia_glomerosa,-15.87,-47.82
@@ -1387,8 +1362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927933536,Senegalia_glomerosa,-15.9545319822605,-39.5338182700265
 1893392555,Senegalia_glomerosa,17.491667,-91.558333
 1989475019,Senegalia_glomerosa,21.9783,-99.0219
-439049465,Senegalia_glomerosa,-15.79423,-47.88217
-1931191881,Senegalia_glomerosa,-15.758,-47.875
 1456467167,Senegalia_glomerosa,8.26,-62.21
 1929862899,Senegalia_glomerosa,-17.23,-51.82
 1096694756,Senegalia_glomerosa,-17.2,-51.78
