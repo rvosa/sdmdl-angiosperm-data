@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2242360283,Eriogonum_ovalifolium,39.6396,-106.3655
 2268953155,Eriogonum_ovalifolium,37.950892,-115.392532
 2268955143,Eriogonum_ovalifolium,38.107863,-115.517958
 2268953098,Eriogonum_ovalifolium,37.619474,-115.393306
@@ -248,7 +247,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986965287,Eriogonum_ovalifolium,41.926944,-111.196944
 176944195,Eriogonum_ovalifolium,42.861494,-106.775033
 1986967092,Eriogonum_ovalifolium,41.443889,-113.686389
-2242398130,Eriogonum_ovalifolium,39.73193,-104.9619
 1930422415,Eriogonum_ovalifolium,41.45,-113.68
 1988105355,Eriogonum_ovalifolium,50.5,-116.3
 1949607477,Eriogonum_ovalifolium,50.483333,-116.3
@@ -455,7 +453,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927858704,Eriogonum_ovalifolium,37.83,-116.82
 1929355956,Eriogonum_ovalifolium,40.05,-113.8
 1929265849,Eriogonum_ovalifolium,41.13,-115.88
-441746714,Eriogonum_ovalifolium,48.26667,-124.675
 1949614723,Eriogonum_ovalifolium,50.066667,-114.713889
 1929900986,Eriogonum_ovalifolium,39.87,-113.92
 63856216,Eriogonum_ovalifolium,42.5382,-119.7672
@@ -704,7 +701,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930837257,Eriogonum_ovalifolium,39.661978,-110.815128
 63856114,Eriogonum_ovalifolium,45.2447,-117.9567
 1986886803,Eriogonum_ovalifolium,39.290833,-110.158667
-1930164572,Eriogonum_ovalifolium,40.862289,-73.877023
 1986887473,Eriogonum_ovalifolium,38.522833,-109.737667
 63856492,Eriogonum_ovalifolium,41.9978,-117.7172
 63856368,Eriogonum_ovalifolium,43.1658,-119.7397
@@ -798,7 +794,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 63856343,Eriogonum_ovalifolium,42.6939,-120.545
 51832144,Eriogonum_ovalifolium,44.1429,-121.3374
 1228158931,Eriogonum_ovalifolium,40,-115
-1144680307,Eriogonum_ovalifolium,39.43361,-117.02083
 1563860789,Eriogonum_ovalifolium,43.003889,-115.203889
 1928096787,Eriogonum_ovalifolium,43.0039,-115.2039
 1928110520,Eriogonum_ovalifolium,39.334423,-108.215082
