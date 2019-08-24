@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005441205,Helichrysum_callicomum,-28.501111,28.9725
-2005501815,Helichrysum_callicomum,-25.25,30.3
 453252883,Helichrysum_callicomum,-29.375,29.125
 860328049,Helichrysum_callicomum,-28.5557,28.4183
 1842881601,Helichrysum_callicomum,-29.8425,29.7001
@@ -46,7 +45,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 453252897,Helichrysum_callicomum,-26.125,27.875
 453252836,Helichrysum_callicomum,-29.875,29.125
 453252835,Helichrysum_callicomum,-29.625,29.375
-2290661429,Helichrysum_callicomum,-29.75,29.2
 453252839,Helichrysum_callicomum,-23.875,29.875
 453252841,Helichrysum_callicomum,-24.875,30.875
 453252842,Helichrysum_callicomum,-24.625,30.875
