@@ -79,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1104242,Weigela_florida,55.69971,13.21015
 2200617366,Weigela_florida,37.461616,128.563287
 2200617360,Weigela_florida,35.843567,127.744745
-325458757,Weigela_florida,41.383335,128
 2200617526,Weigela_florida,36.039823,127.849112
 2200617357,Weigela_florida,37.69828,127.08109
 2200617419,Weigela_florida,37.382737,128.04948
@@ -90,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897664360,Weigela_florida,-36.866667,174.766667
 2200617617,Weigela_florida,35.309549,127.579089
 1050580998,Weigela_florida,42.86,-2.67
-1261256020,Weigela_florida,38.6,-90.25
 2200617502,Weigela_florida,38.11903,128.46498
 2200617352,Weigela_florida,37.233333,126.125
 2200617349,Weigela_florida,37.895613,127.155252
@@ -127,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200617298,Weigela_florida,37.728283,128.465507
 859261335,Weigela_florida,38.41685,-96.17848
 2200617344,Weigela_florida,33.362294,126.533449
-1897737970,Weigela_florida,-35.6,173.483333
 1697294158,Weigela_florida,45.319846,147.926775
 919460650,Weigela_florida,25.012526,102.700013
 2200617099,Weigela_florida,38.308043,127.322476
@@ -136,7 +133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200617285,Weigela_florida,37.430556,126.941667
 1928782144,Weigela_florida,40.411205,-75.846312
 1697294221,Weigela_florida,42.579492,131.188548
-995520094,Weigela_florida,-30.5,151.65
 2200617287,Weigela_florida,33.25957,126.561406
 1600904775,Weigela_florida,60.666584,26.749977
 1988100521,Weigela_florida,49.25,-123.12
@@ -150,14 +146,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200617095,Weigela_florida,37.737764,127.420585
 2200617186,Weigela_florida,38.16196,128.442103
 2200617343,Weigela_florida,38.11924,128.465197
-993152573,Weigela_florida,-35.3,149.1
 2200617342,Weigela_florida,34.467333,126.641111
 859261345,Weigela_florida,38.37084,-97.66421
 1935732693,Weigela_florida,47.04083,15.45889
 2200617180,Weigela_florida,35.316667,127.569444
 859261342,Weigela_florida,38.57972,-95.52667
 1988143488,Weigela_florida,49.11,-122.83
-1988189581,Weigela_florida,49.02,-118.4
 2200617341,Weigela_florida,37.697222,127.016667
 1843567735,Weigela_florida,37.58,126.955
 1697294214,Weigela_florida,42.675152,131.215942
@@ -165,10 +159,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288562154,Weigela_florida,37.366667,126.975
 1807241813,Weigela_florida,46.245139,-63.134027
 1988191839,Weigela_florida,49.26,-123.25
-1988125492,Weigela_florida,48.8,-123.5
-1988084130,Weigela_florida,49.3,-123.2
 1701277665,Weigela_florida,59.82582,5.48698
-1988153409,Weigela_florida,49.25,-124.8
 1303609733,Weigela_florida,34.31924,108.174498
 1893209018,Weigela_florida,49.53,6.04
 1258102706,Weigela_florida,38.5646,-92.1693
