@@ -1,16 +1,11 @@
 #!/usr/bin/env Rscript
-#library(adehabitatHS, quietly = T)
-library(raster) #
-#library(SDMTools, quietly = T)
-#library(factoextra, quietly = T)
-#library(ecospat, quietly = T)
-#library(cluster, quietly = T)
+library(raster)
 library(adehabitatMA)
-library(optparse) #
-library(yaml) #
-library(dplyr) #
-library(sp) #
-library(ade4) #
+library(optparse)
+library(yaml)
+library(dplyr)
+library(sp)
+library(ade4)
 library(tibble)
 
 # Process command line arguments, The usage is thus:
