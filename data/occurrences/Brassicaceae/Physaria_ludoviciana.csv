@@ -53,7 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177004132,Physaria_ludoviciana,40.814333,-104.003518
 1843829643,Physaria_ludoviciana,36.957708,-107.259496
 1930382257,Physaria_ludoviciana,40.78,-104.67
-1931055908,Physaria_ludoviciana,40.2,-109.12
 883421998,Physaria_ludoviciana,42.8562639990593,-106.558476
 177004154,Physaria_ludoviciana,41.991271,-105.045451
 1986953018,Physaria_ludoviciana,37.8652,-111.4496
@@ -72,7 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931129586,Physaria_ludoviciana,37.22,-112.38
 1986933089,Physaria_ludoviciana,38.133,-110.138
 1986933464,Physaria_ludoviciana,38.29,-110.136
-1929078634,Physaria_ludoviciana,37,-110
 1931373168,Physaria_ludoviciana,39.0542,-108.7627
 1986933432,Physaria_ludoviciana,38.25,-110.17
 1927832351,Physaria_ludoviciana,40.572611,-109.728653
@@ -134,7 +132,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177003943,Physaria_ludoviciana,39.29306,-103.03858
 177004076,Physaria_ludoviciana,40.68,-102.82934
 177004127,Physaria_ludoviciana,39.60922,-102.16884
-177003940,Physaria_ludoviciana,38.54751,-103.7
 177003973,Physaria_ludoviciana,40.91587,-102.26389
 177004164,Physaria_ludoviciana,40.76311,-103.379071
 177003937,Physaria_ludoviciana,42.49835,-100.55494
