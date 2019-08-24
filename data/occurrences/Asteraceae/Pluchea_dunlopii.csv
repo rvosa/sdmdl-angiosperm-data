@@ -116,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995381703,Pluchea_dunlopii,-19.3206,134.8489
 996721504,Pluchea_dunlopii,-23.35722,125.673551
 1652135691,Pluchea_dunlopii,-24.106886,151.542462
-1652135728,Pluchea_dunlopii,-24.006887,151.559128
 1257368544,Pluchea_dunlopii,-24.26,136.65
 1652280432,Pluchea_dunlopii,-28.885514,144.501408
 1257368372,Pluchea_dunlopii,-23.676,137.937
@@ -159,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652201978,Pluchea_dunlopii,-23.740267,140.909259
 912703008,Pluchea_dunlopii,-22.68,119.82
 996801922,Pluchea_dunlopii,-22.681944,119.823056
-996801894,Pluchea_dunlopii,-22.75,113.75
 994754652,Pluchea_dunlopii,-31.6333,142.95
 992590095,Pluchea_dunlopii,-27.266667,133.583333
 1652161701,Pluchea_dunlopii,-23.623581,145.292541
@@ -176,7 +174,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257350548,Pluchea_dunlopii,-23.96526,131.551284
 994757189,Pluchea_dunlopii,-23.9667,131.55
 1652189410,Pluchea_dunlopii,-24.223589,143.259235
-996280721,Pluchea_dunlopii,-20.816667,115.416667
 993465819,Pluchea_dunlopii,-29.25,142.0167
 992530220,Pluchea_dunlopii,-27.7,139.1
 994322858,Pluchea_dunlopii,-18.765256,131.20124
@@ -200,7 +197,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992426101,Pluchea_dunlopii,-25.3,145.1
 993331725,Pluchea_dunlopii,-25.35,145.1
 992419908,Pluchea_dunlopii,-27.2,141.6
-996666101,Pluchea_dunlopii,-24.987778,113.658333
 994314745,Pluchea_dunlopii,-25.948563,134.901269
 994262176,Pluchea_dunlopii,-20.131891,134.467897
 992424672,Pluchea_dunlopii,-28.33,140.35
@@ -210,7 +206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994312718,Pluchea_dunlopii,-24.932086,113.734725
 996665277,Pluchea_dunlopii,-24.808333,114.431667
 994887112,Pluchea_dunlopii,-24.8,114.4167
-996983449,Pluchea_dunlopii,-24.969722,113.658333
 994257035,Pluchea_dunlopii,-24.215257,131.684622
 994312851,Pluchea_dunlopii,-19.998545,137.584522
 995058272,Pluchea_dunlopii,-29.0833,141.2
@@ -223,7 +218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993662408,Pluchea_dunlopii,-29,141.0167
 996195472,Pluchea_dunlopii,-29,141.02
 1652093815,Pluchea_dunlopii,-28.91527,141.417622
-993302671,Pluchea_dunlopii,-20.7667,115.4
 993838886,Pluchea_dunlopii,-20,138.5667
 995263308,Pluchea_dunlopii,-21.7167,135.6333
 994308302,Pluchea_dunlopii,-21.715227,135.634559
@@ -255,13 +249,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993193508,Pluchea_dunlopii,-22.1333,134.5333
 994235782,Pluchea_dunlopii,-22.131895,134.384573
 992229910,Pluchea_dunlopii,-22.132039,134.534361
-996666271,Pluchea_dunlopii,-22.316667,113.816667
 992340859,Pluchea_dunlopii,-20.315373,133.917691
 992147150,Pluchea_dunlopii,-20.8,133.6
 995254557,Pluchea_dunlopii,-20.8167,133.55
 994221378,Pluchea_dunlopii,-20.831902,133.584569
 993146398,Pluchea_dunlopii,-21.95,146.6333
-996665433,Pluchea_dunlopii,-24.879722,113.658056
 992475660,Pluchea_dunlopii,-27.723961,140.764621
 992354403,Pluchea_dunlopii,-27.732016,140.767677
 996660837,Pluchea_dunlopii,-25.296944,114.616389
