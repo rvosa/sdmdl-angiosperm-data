@@ -42,7 +42,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324014852,Stachys_sylvatica,58.3967,7.2198
 1325760914,Stachys_sylvatica,58.48,26.48611
 1598600793,Stachys_sylvatica,60.927941,26.638209
-1837904417,Stachys_sylvatica,49.798889,8.8
 1324016056,Stachys_sylvatica,58.367,7.3496
 1697641716,Stachys_sylvatica,57.85648,34.43312
 1702378737,Stachys_sylvatica,59.7382,10.1794
@@ -59,7 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851369943,Stachys_sylvatica,43.503,-7.027
 694846711,Stachys_sylvatica,51.267778,14.095833
 1135462646,Stachys_sylvatica,47.19528,12.96139
-1095918381,Stachys_sylvatica,59,17
 1438585146,Stachys_sylvatica,57.96354,26.3976
 1935726811,Stachys_sylvatica,47.09194,15.41944
 1935726825,Stachys_sylvatica,47.10494,15.41489
@@ -93,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831000543,Stachys_sylvatica,48.54244,16.10864
 1831000557,Stachys_sylvatica,47.96997,16.13581
 1701819760,Stachys_sylvatica,59.0752,11.0047
-995454062,Stachys_sylvatica,59.966667,16
 1050649185,Stachys_sylvatica,42.87,-2.72
 1831000556,Stachys_sylvatica,47.85,15.16667
 788627353,Stachys_sylvatica,55.72206,13.17893
@@ -107,11 +104,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441939704,Stachys_sylvatica,51.0125,14.739722
 1598603576,Stachys_sylvatica,61.429934,24.307738
 574903328,Stachys_sylvatica,41.614167,45.921389
-786276995,Stachys_sylvatica,49.6,8.7
 1099087486,Stachys_sylvatica,47.742851,12.050694
 1936204757,Stachys_sylvatica,45.3231,25.5081
 1099087490,Stachys_sylvatica,47.705353,12.009019
-786276991,Stachys_sylvatica,49.5,8
 1697641910,Stachys_sylvatica,48.156524,39.923458
 2316226225,Stachys_sylvatica,59.660256,11.197204
 214571812,Stachys_sylvatica,52.57972,12.73389
@@ -160,8 +155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928194241,Stachys_sylvatica,41.6389,42.5831
 441939692,Stachys_sylvatica,51.14497,14.8814
 1323855985,Stachys_sylvatica,69.7391,19.1985
-883378968,Stachys_sylvatica,49.966667,20.1
-994562450,Stachys_sylvatica,50,20.1
 1701232607,Stachys_sylvatica,66.1493,13.0262
 441939694,Stachys_sylvatica,51.041838,13.016115
 1323856060,Stachys_sylvatica,69.74,19.2026
@@ -200,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851346998,Stachys_sylvatica,42.95062,-5.5391
 895228669,Stachys_sylvatica,42.48,1.24
 1702246467,Stachys_sylvatica,59.80373,7.70367
-1936644458,Stachys_sylvatica,41.7,21.5167
 30895029,Stachys_sylvatica,42.349998,1.66
 1697828880,Stachys_sylvatica,43.974905,40.171681
 788567328,Stachys_sylvatica,56.07885,13.12525
@@ -256,7 +248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702206826,Stachys_sylvatica,59.3553,7.3389
 1701563520,Stachys_sylvatica,63.8203,11.55
 1851396014,Stachys_sylvatica,42.6898,-5.5275
-1936606901,Stachys_sylvatica,40.8,40.5167
 1657203640,Stachys_sylvatica,45.78667,13.12167
 186839721,Stachys_sylvatica,59.6094,7.3634
 1837478896,Stachys_sylvatica,44.237646,8.105167
@@ -266,8 +257,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851350667,Stachys_sylvatica,42.6139,-5.539
 186839738,Stachys_sylvatica,58.3085,6.9682
 1058652,Stachys_sylvatica,56.02357,14.1782
-786276967,Stachys_sylvatica,48,8.6
-786276987,Stachys_sylvatica,47.9,9.7
 1598600789,Stachys_sylvatica,62.789425,29.359026
 1598600870,Stachys_sylvatica,61.442527,23.312428
 1702191369,Stachys_sylvatica,59.4182,11.179
@@ -348,7 +337,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701361818,Stachys_sylvatica,59.7399,10.8244
 1701989246,Stachys_sylvatica,64.8398,12.1967
 1323810602,Stachys_sylvatica,67.0414,14.0466
-860317915,Stachys_sylvatica,42.39,1
 1705361406,Stachys_sylvatica,57.784742,15.275679
 1701997441,Stachys_sylvatica,62.6843,8.4267
 1702163942,Stachys_sylvatica,59.3964,11.6108
@@ -387,7 +375,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702230826,Stachys_sylvatica,59.6823,11.7973
 1598600727,Stachys_sylvatica,60.859604,24.60904
 1323817015,Stachys_sylvatica,67.0412,14.0236
-895169113,Stachys_sylvatica,42.596,-6.3
 1598600756,Stachys_sylvatica,60.867973,26.245004
 1851324207,Stachys_sylvatica,42.67,-6.785
 1839082453,Stachys_sylvatica,40.65583,21.958059
@@ -405,7 +392,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318125006,Stachys_sylvatica,42.28,-2.65
 1323817895,Stachys_sylvatica,68.6702,17.7585
 1702229692,Stachys_sylvatica,59.2494,7.8867
-2288366291,Stachys_sylvatica,43.6,1.083333
 1050616618,Stachys_sylvatica,41.12,-3.57
 1697641701,Stachys_sylvatica,54.679228,35.508061
 57726230,Stachys_sylvatica,61.795502,25.625099
@@ -435,7 +421,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1883574289,Stachys_sylvatica,38.016666,14.816667
 1598600713,Stachys_sylvatica,60.51277,24.915099
 1999572212,Stachys_sylvatica,60.411282,23.066551
-1947650531,Stachys_sylvatica,50.31,9.8
 1598600773,Stachys_sylvatica,60.595969,25.75674
 1598600806,Stachys_sylvatica,60.965942,24.342456
 1598600772,Stachys_sylvatica,60.389935,22.519787
@@ -479,7 +464,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598600696,Stachys_sylvatica,61.130291,28.309866
 1050616707,Stachys_sylvatica,42.73,-1.84
 1851362918,Stachys_sylvatica,42.813,-4.731
-1053983635,Stachys_sylvatica,42.65,-1.2
 30894963,Stachys_sylvatica,43.509998,-6.65
 1702298747,Stachys_sylvatica,59.3695,7.3549
 1598600739,Stachys_sylvatica,59.992768,23.645939
@@ -492,7 +476,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936602521,Stachys_sylvatica,42.9842,-4.2279
 2325639896,Stachys_sylvatica,61.16401,10.389313
 1705341313,Stachys_sylvatica,57.261374,15.647793
-1050616704,Stachys_sylvatica,42.91,-0.8
 1702286501,Stachys_sylvatica,59.111,8.5373
 1702423222,Stachys_sylvatica,60.8249,9.3769
 1999477015,Stachys_sylvatica,60.385072,22.797382
@@ -503,7 +486,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455428001,Stachys_sylvatica,49.774347,5.618393
 57726246,Stachys_sylvatica,63.106701,29.7999
 1323764434,Stachys_sylvatica,65.3471,14.3018
-1851387817,Stachys_sylvatica,42.82,-6
 1323764448,Stachys_sylvatica,65.4554,14.4499
 1702286502,Stachys_sylvatica,59.8645,8.3483
 237340107,Stachys_sylvatica,42.57,0.87
@@ -569,7 +551,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050616705,Stachys_sylvatica,43.25,-3.38
 1050616607,Stachys_sylvatica,42.85,-2.24
 1050616622,Stachys_sylvatica,43.04,-2.63
-1050616639,Stachys_sylvatica,43.04,-2.2
 318239545,Stachys_sylvatica,58.7348,5.6569
 1144097862,Stachys_sylvatica,60.8372,5.9549
 1697641798,Stachys_sylvatica,55.580516,37.554985
@@ -583,12 +564,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186840046,Stachys_sylvatica,58.5885,7.3917
 1701231699,Stachys_sylvatica,63.087,9.3465
 1323794360,Stachys_sylvatica,68.5653,17.6978
-1050616708,Stachys_sylvatica,43.09,-2.5
 318239543,Stachys_sylvatica,59.2524,5.8696
 1323722425,Stachys_sylvatica,68.8979,18.3364
 1701444636,Stachys_sylvatica,65.4658,14.4065
 30893014,Stachys_sylvatica,41.009998,-3.59
-2290025098,Stachys_sylvatica,51.5,-3.2
 1050616655,Stachys_sylvatica,43.15,-3.14
 1990860621,Stachys_sylvatica,55.54033,13.27169
 187262197,Stachys_sylvatica,62.748,11.1435
@@ -666,7 +645,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701372556,Stachys_sylvatica,61.3492,10.2619
 1701339683,Stachys_sylvatica,62.6879,10.1427
 1099097096,Stachys_sylvatica,48.110554,11.189445
-1099097090,Stachys_sylvatica,48.116665,11.3
 1697828928,Stachys_sylvatica,42.795873,43.921709
 1701874717,Stachys_sylvatica,59.1372,8.3621
 1598603602,Stachys_sylvatica,61.419512,24.468055
@@ -716,7 +694,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187262302,Stachys_sylvatica,65.4641,14.385
 1701916304,Stachys_sylvatica,61.6455,11.992
 1697641768,Stachys_sylvatica,55.00896,41.181069
-1099097062,Stachys_sylvatica,47.650002,23.6
 1701663771,Stachys_sylvatica,59.0445,7.9281
 1701280404,Stachys_sylvatica,63.9822,10.0757
 1598603630,Stachys_sylvatica,62.128951,24.025447
@@ -765,7 +742,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598603522,Stachys_sylvatica,61.448701,22.213499
 1702286548,Stachys_sylvatica,58.9038,5.7622
 1099097087,Stachys_sylvatica,47.883335,10.616667
-30894304,Stachys_sylvatica,42.599998,-0.2
 1697641685,Stachys_sylvatica,56.327314,41.719773
 1323764463,Stachys_sylvatica,68.49,16.9407
 1701318753,Stachys_sylvatica,63.3449,9.889
@@ -890,7 +866,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598603623,Stachys_sylvatica,60.433264,24.545182
 1702423219,Stachys_sylvatica,60.2199,10.4602
 1702423251,Stachys_sylvatica,60.086,10.5459
-786277004,Stachys_sylvatica,54.3,10.6
 1701315260,Stachys_sylvatica,63.3529,10.2291
 1701769205,Stachys_sylvatica,62.9483,11.0597
 1598603534,Stachys_sylvatica,61.532758,26.902949
@@ -946,7 +921,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598603479,Stachys_sylvatica,61.59517,24.265264
 1705374179,Stachys_sylvatica,58.334678,16.731111
 1598603627,Stachys_sylvatica,61.798011,25.954121
-1099097103,Stachys_sylvatica,48.400002,10
 1598603649,Stachys_sylvatica,61.394002,23.346386
 1702211718,Stachys_sylvatica,59.26671,9.48765
 1598600618,Stachys_sylvatica,61.068866,26.302276
@@ -980,7 +954,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598600690,Stachys_sylvatica,59.936313,23.427413
 788606355,Stachys_sylvatica,56.280658,13.948948
 1598603429,Stachys_sylvatica,61.884304,25.570878
-1891600592,Stachys_sylvatica,49.7,5.99
 1705329913,Stachys_sylvatica,56.370401,13.092499
 1598603550,Stachys_sylvatica,61.166635,25.603465
 1598603544,Stachys_sylvatica,61.709601,26.14618
@@ -1083,7 +1056,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323764429,Stachys_sylvatica,68.2477,16.7411
 1702286454,Stachys_sylvatica,62.6823,8.4043
 1598600658,Stachys_sylvatica,61.587121,23.889099
-1891604985,Stachys_sylvatica,49.75,6.2
 1701995946,Stachys_sylvatica,59.1465,11.6399
 1701763524,Stachys_sylvatica,64.1455,11.6929
 1701995896,Stachys_sylvatica,58.8789,11.5413
@@ -1123,7 +1095,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999476984,Stachys_sylvatica,60.357966,23.943447
 1598603446,Stachys_sylvatica,60.626328,25.444187
 1323764457,Stachys_sylvatica,67.8751,16.2849
-1144776868,Stachys_sylvatica,42.5,9.43333
 1702286411,Stachys_sylvatica,62.3938,6.8915
 1598603448,Stachys_sylvatica,60.856631,23.40799
 1144105030,Stachys_sylvatica,60.21298,5.44478
@@ -1150,7 +1121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788571674,Stachys_sylvatica,59.101936,16.994317
 1598603408,Stachys_sylvatica,63.324467,27.894795
 1701790231,Stachys_sylvatica,59.1979,10.812
-1893209176,Stachys_sylvatica,49.8,6.43
 788568126,Stachys_sylvatica,56.001689,13.616965
 1701928104,Stachys_sylvatica,59.5139,9.7245
 1705263453,Stachys_sylvatica,57.831791,16.242839
@@ -1225,7 +1195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788567498,Stachys_sylvatica,55.778344,14.037823
 1701776742,Stachys_sylvatica,63.3256,10.2678
 1598600637,Stachys_sylvatica,61.168425,25.789213
-786277016,Stachys_sylvatica,51.3,9.5
 788568299,Stachys_sylvatica,56.81261,13.05008
 1697641769,Stachys_sylvatica,54.856113,37.549287
 1668719845,Stachys_sylvatica,69.1008,18.17395
@@ -1500,7 +1469,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705442813,Stachys_sylvatica,62.401456,17.294854
 788569320,Stachys_sylvatica,56.151907,14.29927
 788875706,Stachys_sylvatica,56.17281,14.28798
-1701444584,Stachys_sylvatica,67.4167,15.7
 1598600712,Stachys_sylvatica,62.517105,27.870501
 788606364,Stachys_sylvatica,58.33196,11.91035
 1323764407,Stachys_sylvatica,65.7746,14.2356
@@ -1515,7 +1483,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788567668,Stachys_sylvatica,56.938792,12.721812
 1697641869,Stachys_sylvatica,56.208597,42.952705
 1697641903,Stachys_sylvatica,55.49034,43.593947
-1701960486,Stachys_sylvatica,63.3738,10.4
 788574400,Stachys_sylvatica,58.49992,13.773099
 1697641863,Stachys_sylvatica,56.027509,44.821585
 1702286403,Stachys_sylvatica,59.2564,5.8516
@@ -1687,7 +1654,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697641855,Stachys_sylvatica,55.542554,38.015643
 788566877,Stachys_sylvatica,55.614583,13.404177
 1702286460,Stachys_sylvatica,59.9263,5.7192
-2313347625,Stachys_sylvatica,48.11,11.4
 788568580,Stachys_sylvatica,55.721666,13.340951
 1058871,Stachys_sylvatica,56.19883,15.64415
 1701874647,Stachys_sylvatica,59.7031,5.3819
