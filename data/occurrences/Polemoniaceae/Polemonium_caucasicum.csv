@@ -45,7 +45,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702374128,Polemonium_caucasicum,59.1188,11.3639
 1702171000,Polemonium_caucasicum,59.5132,11.2605
 1697625495,Polemonium_caucasicum,66.757466,33.779176
-1095920741,Polemonium_caucasicum,67,24
 1702175918,Polemonium_caucasicum,60.8364,9.7472
 1099922710,Polemonium_caucasicum,64.50834,15.91319
 2315866995,Polemonium_caucasicum,60.836433,9.747215
@@ -157,7 +156,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701242484,Polemonium_caucasicum,62.2305,8.356
 186828438,Polemonium_caucasicum,58.2467,7.5034
 1881895300,Polemonium_caucasicum,57.684,26.685
-786221921,Polemonium_caucasicum,49,8.3
 187222614,Polemonium_caucasicum,63.0988,10.0707
 1323737883,Polemonium_caucasicum,69.6977,18.9467
 1701776301,Polemonium_caucasicum,61.5606,9.8818
@@ -210,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323735038,Polemonium_caucasicum,69.6689,18.974
 788465340,Polemonium_caucasicum,56.1869,15.31001
 900315817,Polemonium_caucasicum,58.2668,7.7957
-1697625518,Polemonium_caucasicum,55.616667,32
 1702191490,Polemonium_caucasicum,59.3766,11.7413
 1697625564,Polemonium_caucasicum,55.483333,31.666667
 1702191547,Polemonium_caucasicum,59.4835,11.6546
@@ -397,7 +394,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323785677,Polemonium_caucasicum,68.5389,16.4585
 1697625693,Polemonium_caucasicum,55.57619,37.578393
 1705353917,Polemonium_caucasicum,57.5459,15.275815
-1697277506,Polemonium_caucasicum,51.166667,86
 187222558,Polemonium_caucasicum,63.9457,10.5396
 1697277481,Polemonium_caucasicum,51.126152,85.586071
 1701285737,Polemonium_caucasicum,62.3052,9.6075
@@ -409,7 +405,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697625454,Polemonium_caucasicum,64.830662,57.891409
 1697625805,Polemonium_caucasicum,52.572727,38.349123
 1599173110,Polemonium_caucasicum,61.173032,26.532398
-1697277484,Polemonium_caucasicum,51,85.833333
 1705439296,Polemonium_caucasicum,57.447245,15.006923
 1606512763,Polemonium_caucasicum,61.293329,21.77915
 1323787238,Polemonium_caucasicum,68.6811,17.1322
@@ -434,7 +429,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599173226,Polemonium_caucasicum,61.787523,25.00665
 1697625750,Polemonium_caucasicum,54.274066,46.060847
 1697277445,Polemonium_caucasicum,63.08622,88.01856
-1697277517,Polemonium_caucasicum,66.3,73.966667
 1563138243,Polemonium_caucasicum,63.557778,27.191667
 1599173068,Polemonium_caucasicum,61.308767,24.782147
 57713424,Polemonium_caucasicum,62.1987,26.160999
@@ -715,7 +709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313062592,Polemonium_caucasicum,49.26,11.64
 177286072,Polemonium_caucasicum,62.246601,25.9384
 1702204792,Polemonium_caucasicum,61.3848,9.6148
-2284207542,Polemonium_caucasicum,68.833,26
 1891596420,Polemonium_caucasicum,49.74,6.21
 1622361591,Polemonium_caucasicum,62.231797,21.511309
 1701264260,Polemonium_caucasicum,64.9648,13.5493
@@ -756,7 +749,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697277552,Polemonium_caucasicum,56.76013,83.58608
 1599173189,Polemonium_caucasicum,62.043312,24.225074
 186828443,Polemonium_caucasicum,60.8235,11.3078
-1891595094,Polemonium_caucasicum,50.08,5.9
 1887142350,Polemonium_caucasicum,54.65458,-2.606
 1891593392,Polemonium_caucasicum,50.06,5.88
 1697823624,Polemonium_caucasicum,42.52112,44.195321
@@ -788,7 +780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697277442,Polemonium_caucasicum,67.45103,86.65935
 788540988,Polemonium_caucasicum,63.246023,14.412876
 1599173213,Polemonium_caucasicum,61.886147,25.760956
-1099072455,Polemonium_caucasicum,46.75,9.5
 1697625659,Polemonium_caucasicum,56.163425,37.089211
 1701243196,Polemonium_caucasicum,64.2551,12.41
 1701567069,Polemonium_caucasicum,62.449,9.5716
@@ -1084,7 +1075,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599173103,Polemonium_caucasicum,60.846308,23.040871
 788534485,Polemonium_caucasicum,58.445768,11.375182
 2313350187,Polemonium_caucasicum,48.18,11.63
-788547878,Polemonium_caucasicum,63,23.815833
 57713455,Polemonium_caucasicum,61.139099,23.9331
 1990858250,Polemonium_caucasicum,58.32463,14.70319
 1099879007,Polemonium_caucasicum,58.19544,15.9782
