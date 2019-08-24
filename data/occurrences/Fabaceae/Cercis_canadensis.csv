@@ -65,7 +65,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228048118,Cercis_canadensis,38.981111,-79.231389
 1258087369,Cercis_canadensis,39.402,-88.1382
 1457760012,Cercis_canadensis,39.402028,-88.138194
-1257560392,Cercis_canadensis,38.614167,-90.258889
 1930275207,Cercis_canadensis,36.409099,-89.414634
 1928855113,Cercis_canadensis,35.54359,-88.005999
 1230535651,Cercis_canadensis,36.40917,-89.41472
@@ -144,7 +143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894626785,Cercis_canadensis,21.213333,-99.541667
 56543629,Cercis_canadensis,34.43444,-87.29
 1849162154,Cercis_canadensis,34.0858,-81.0951
-1986944666,Cercis_canadensis,39.871667,-75.675
 1899736155,Cercis_canadensis,40.254167,-121.756667
 176910325,Cercis_canadensis,38.1042,-95.025
 1258821958,Cercis_canadensis,38.605833,-90.301944
@@ -163,7 +161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260916423,Cercis_canadensis,31.16666,-90.8
 176910760,Cercis_canadensis,38.907303,-95.449878
 1261008041,Cercis_canadensis,37.8125,-94.28277
-1090563888,Cercis_canadensis,-22.9056,-47.065751
 176910631,Cercis_canadensis,36.558582,-93.836947
 1258820197,Cercis_canadensis,38.605556,-90.301389
 1930599166,Cercis_canadensis,33.6819,-82.1556
@@ -176,12 +173,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176911188,Cercis_canadensis,38.82939,-94.637368
 176911278,Cercis_canadensis,39.065729,-96.461376
 56543165,Cercis_canadensis,33.95528,-86.26833
-1897647190,Cercis_canadensis,-37.783333,174.9
 1258499364,Cercis_canadensis,38.615,-90.691944
 1260766731,Cercis_canadensis,38.615,-90.69194
 1929242923,Cercis_canadensis,35.32,-95.47
 176911280,Cercis_canadensis,42.84,-85.479
-1050600315,Cercis_canadensis,43.57,-1.45
 176911200,Cercis_canadensis,39.0366,-95.590379
 176911199,Cercis_canadensis,38.245024,-95.255131
 1894423594,Cercis_canadensis,25.650833,-100.6325
@@ -208,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260938209,Cercis_canadensis,37.109722,-93.886111
 1261458167,Cercis_canadensis,38.610833,-90.258611
 176911183,Cercis_canadensis,38.716634,-94.936328
-111303704,Cercis_canadensis,43.255001,-2.156
 176911304,Cercis_canadensis,38.469496,-95.019889
 1269667132,Cercis_canadensis,30.414625,-91.176222
 176911274,Cercis_canadensis,38.702201,-94.973343
@@ -292,7 +286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893735801,Cercis_canadensis,23.046111,-99.154167
 1261525343,Cercis_canadensis,38.5276,-90.6844
 56542725,Cercis_canadensis,32.20417,-86.785
-1261875903,Cercis_canadensis,38.61306,-90.25917
 1259510172,Cercis_canadensis,20.28333,-98.18333
 1423966610,Cercis_canadensis,20.283333,-98.183333
 1419195054,Cercis_canadensis,20.333333,-98.066667
@@ -300,7 +293,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56542836,Cercis_canadensis,31.30222,-86.79278
 1895139669,Cercis_canadensis,19.983333,-97.683333
 56542834,Cercis_canadensis,31.54111,-86.3875
-1320904576,Cercis_canadensis,38.8994,-77.0575
 1893824938,Cercis_canadensis,28.1780215351099,-101.814371479653
 1846489707,Cercis_canadensis,22.6,-100.366667
 1895800483,Cercis_canadensis,23.625,-99.158333
@@ -364,7 +356,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896290519,Cercis_canadensis,23.953889,-99.770833
 1261002776,Cercis_canadensis,39.49166,-91.80083
 1896290520,Cercis_canadensis,24.791667,-100.208333
-994470615,Cercis_canadensis,-33.53188,150.43421
 1261002146,Cercis_canadensis,37.84,-90.20944
 1849172030,Cercis_canadensis,34.059444,-82.627778
 56542837,Cercis_canadensis,34.28305,-87.39833
@@ -394,7 +385,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56542844,Cercis_canadensis,33.61333,-87.36028
 1896290503,Cercis_canadensis,23.109722,-99.195
 1895800435,Cercis_canadensis,23.141667,-99.208333
-994809902,Cercis_canadensis,-37.8167,144.9667
 623648236,Cercis_canadensis,34.516872,-94.922604
 415942015,Cercis_canadensis,41.68944,-70.15694
 1261897489,Cercis_canadensis,34.66666,-83.33333
@@ -542,7 +532,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065952483,Cercis_canadensis,37.9164,-95.9491
 1893824964,Cercis_canadensis,25.4967400648022,-100.188763293739
 2242402955,Cercis_canadensis,35.584831,-83.842766
-1899311804,Cercis_canadensis,45.41861,-75.678218
 1260992132,Cercis_canadensis,37.1734,-89.3143
 176911198,Cercis_canadensis,37.23793,-96.98998
 1065952524,Cercis_canadensis,37.6648,-100.20535
@@ -665,7 +654,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320568369,Cercis_canadensis,39.2625,-77.3908
 623648193,Cercis_canadensis,36.13607,-97.03267
 1927877397,Cercis_canadensis,40.864591,-73.877952
-1227942663,Cercis_canadensis,-37.8291,145.0222
 1419194769,Cercis_canadensis,25.333333,-100.75
 176911219,Cercis_canadensis,37.041808,-94.64297
 1065952494,Cercis_canadensis,37.02359,-94.62936
@@ -687,7 +675,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1889182949,Cercis_canadensis,38.833742,-77.276117
 415942007,Cercis_canadensis,28.555,-82.38805
 1228239576,Cercis_canadensis,41.4333,-87.9667
-1928147234,Cercis_canadensis,40.862289,-73.877023
 1260970029,Cercis_canadensis,36.609444,-93.392778
 1260969963,Cercis_canadensis,36.5025,-93.593333
 1260970150,Cercis_canadensis,36.78,-92.919444
@@ -753,7 +740,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318423669,Cercis_canadensis,38.97,-77.1794
 176911284,Cercis_canadensis,39.825845,-95.141389
 1260928389,Cercis_canadensis,36.493333,-90.075
-1228555199,Cercis_canadensis,23,-102
 1259512364,Cercis_canadensis,22.15,-100.36666
 1899355553,Cercis_canadensis,43.093654,-79.066994
 1260939326,Cercis_canadensis,39.185278,-91.016667
