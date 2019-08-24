@@ -87,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894816945,Valeriana_clematitis,19.375,-100.275
 787196385,Valeriana_clematitis,7.258353,-72.900014
 1894647447,Valeriana_clematitis,20.792222,-99.670833
-1707528799,Valeriana_clematitis,2.433333,-76.6
 1258780077,Valeriana_clematitis,-4.99027,-78.90416
 1258508979,Valeriana_clematitis,-0.96666,-78.25
 1897573191,Valeriana_clematitis,17.168151019173,-96.3696980536082
@@ -95,9 +94,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894647453,Valeriana_clematitis,21.309167,-99.666667
 46131856,Valeriana_clematitis,9.61,-83.81
 1707508593,Valeriana_clematitis,5.285278,-72.678889
-1228165373,Valeriana_clematitis,-11.5,-75
 1707508763,Valeriana_clematitis,5.283333,-72.678889
-1260653208,Valeriana_clematitis,4.75,-76.1
 1894647536,Valeriana_clematitis,20.91735,-99.566389
 1707540399,Valeriana_clematitis,5.705556,-73.469444
 1257514820,Valeriana_clematitis,0.633333,-77.533333
@@ -134,7 +131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896077235,Valeriana_clematitis,20.2125,-98.696389
 47859170,Valeriana_clematitis,-4.083,-79.166
 1098676202,Valeriana_clematitis,4.529912,-73.760695
-1261258292,Valeriana_clematitis,0.866667,-78.1
 1261258042,Valeriana_clematitis,0.28333,-77.91666
 1258809739,Valeriana_clematitis,4.69361,-75.49805
 1261256439,Valeriana_clematitis,-3.966667,-79.133333
@@ -148,7 +144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896142270,Valeriana_clematitis,21.135,-99.625
 1896077224,Valeriana_clematitis,21.134167,-99.625278
 1896077225,Valeriana_clematitis,21.104722,-99.568333
-1261256559,Valeriana_clematitis,6.1,-75.6
 1896142273,Valeriana_clematitis,20.851667,-99.588333
 1896077222,Valeriana_clematitis,20.855833,-99.577778
 1898922556,Valeriana_clematitis,6.316667,-75.683333
@@ -157,23 +152,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896142262,Valeriana_clematitis,19.434167,-101.512222
 1419190860,Valeriana_clematitis,16.742811,-92.694421
 1896077223,Valeriana_clematitis,19.551944,-101.405278
-1896142261,Valeriana_clematitis,19.485,-101.5
 1893595251,Valeriana_clematitis,19.433333,-101.515
 1896142254,Valeriana_clematitis,20.1725,-97.251111
 1896077230,Valeriana_clematitis,19.809722,-100.881667
 1419227173,Valeriana_clematitis,19.77,-97.246667
-1930508623,Valeriana_clematitis,-3.9917,-79.3
 1896142276,Valeriana_clematitis,19.772778,-97.564722
 1896077233,Valeriana_clematitis,19.797222,-97.557778
 1895953833,Valeriana_clematitis,19.773333,-97.5725
-1261256767,Valeriana_clematitis,-13,-70
 1896077232,Valeriana_clematitis,25.415278,-100.705278
 1419216865,Valeriana_clematitis,25.236667,-100.227778
-1896142272,Valeriana_clematitis,19.73,-101.5
 1895143930,Valeriana_clematitis,16.717778,-92.673889
 1896077228,Valeriana_clematitis,19.723889,-101.518056
 1896077237,Valeriana_clematitis,16.7025,-92.658889
-47859047,Valeriana_clematitis,-3.2,-78.75
 1259956668,Valeriana_clematitis,-0.46666,-78.48333
 47859057,Valeriana_clematitis,-0.466,-78.483
 47859054,Valeriana_clematitis,-0.083,-78.533
@@ -191,7 +181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47859069,Valeriana_clematitis,-0.583,-78.916
 1259957164,Valeriana_clematitis,-0.58333,-78.91666
 1896142279,Valeriana_clematitis,19.092778,-97.211667
-1259050175,Valeriana_clematitis,6.25,-75.5
 1259399210,Valeriana_clematitis,-9.73333,-76.39722
 1893424087,Valeriana_clematitis,19.308333,-99.408333
 1261257271,Valeriana_clematitis,-16.26666,-67.78333
@@ -199,12 +188,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47859617,Valeriana_clematitis,-4.566,-79.133
 2289632615,Valeriana_clematitis,-16.05,-68.016667
 1895287267,Valeriana_clematitis,19.636111,-98.926111
-1261258265,Valeriana_clematitis,-10.3,-75.53333
 1261256526,Valeriana_clematitis,-2.81666,-79.18333
 47859035,Valeriana_clematitis,-2.816,-79.183
-1852100675,Valeriana_clematitis,-1.72,-79.1
-1261258289,Valeriana_clematitis,-1.71666,-79.1
-47859037,Valeriana_clematitis,-1.716,-79.1
 1895287298,Valeriana_clematitis,19.2797914868087,-99.2759394511396
 1258731706,Valeriana_clematitis,-10.58333,-75.25
 1896142271,Valeriana_clematitis,20.475,-98.525
@@ -231,7 +216,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212008211,Valeriana_clematitis,19.11666,-98.76666
 1895287299,Valeriana_clematitis,19.117222,-98.704722
 1895287257,Valeriana_clematitis,19.438056,-98.783056
-1228294255,Valeriana_clematitis,-12.5,-72.5
 1895287259,Valeriana_clematitis,19.1231337730717,-98.6503691456385
 1895287342,Valeriana_clematitis,19.3417324537435,-99.3173296418814
 1895287302,Valeriana_clematitis,19.2175,-99.098056
@@ -241,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270484285,Valeriana_clematitis,19.330332,-99.29581
 1895287004,Valeriana_clematitis,19.4545062643304,-98.9673217648613
 1895287293,Valeriana_clematitis,19.3064862865281,-99.25931315092
-1260650758,Valeriana_clematitis,10.41666,-67.3
 1895287336,Valeriana_clematitis,19.174444,-98.996111
 2270484539,Valeriana_clematitis,19.18248,-99.027581
 1893424104,Valeriana_clematitis,19.175,-99.041667
@@ -250,8 +233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895287314,Valeriana_clematitis,19.186389,-99.078056
 1893424076,Valeriana_clematitis,19.158333,-99.075
 1895287278,Valeriana_clematitis,19.0909132118856,-98.6756476340449
-1261256490,Valeriana_clematitis,0.86666,-78.1
-47859131,Valeriana_clematitis,0.866,-78.1
 1893424154,Valeriana_clematitis,19.091667,-98.708333
 1895287315,Valeriana_clematitis,19.191667,-99.085556
 1895287286,Valeriana_clematitis,19.0723030523483,-98.6873138467932
@@ -289,13 +270,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893424023,Valeriana_clematitis,19.308333,-99.325
 1895287359,Valeriana_clematitis,19.308333,-99.308333
 1261505454,Valeriana_clematitis,-9.76666,-76.08333
-1261505976,Valeriana_clematitis,-6.33333,-77.4
 1261498387,Valeriana_clematitis,-10.748055,-75.539167
 1261499183,Valeriana_clematitis,-5.975278,-79.066111
 1893424111,Valeriana_clematitis,19.241667,-98.725
 1893424141,Valeriana_clematitis,21.541667,-99.058333
 1895143881,Valeriana_clematitis,16.822222,-92.586667
 1895143774,Valeriana_clematitis,15.879167,-93.526944
-1852125856,Valeriana_clematitis,-4,-79.25
 1259400119,Valeriana_clematitis,-6.107628,-76.922958
-1260652843,Valeriana_clematitis,-17.2,-65.93333
