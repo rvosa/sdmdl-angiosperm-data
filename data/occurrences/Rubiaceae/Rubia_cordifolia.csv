@@ -5,9 +5,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1801061619,Rubia_cordifolia,50.9553,107.0812
 1801061626,Rubia_cordifolia,51.14899,107.11209
 2005464864,Rubia_cordifolia,-29.748056,29.845
-2005486748,Rubia_cordifolia,-32.909444,28.070556
 1426502646,Rubia_cordifolia,6.989611,125.269611
-2243103245,Rubia_cordifolia,33.747222,129.786389
 1697295393,Rubia_cordifolia,50.87734,107.10727
 1697295418,Rubia_cordifolia,42.731111,131.132222
 1697295361,Rubia_cordifolia,50.5231,114.9901
@@ -18,8 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257600175,Rubia_cordifolia,6.915583,40.332817
 1257546544,Rubia_cordifolia,-4.841389,38.501667
 1257563910,Rubia_cordifolia,-3.283333,36.8
-462229545,Rubia_cordifolia,-34.125,25.625
-388861403,Rubia_cordifolia,34.37402,129.316488
 1426072959,Rubia_cordifolia,27.798056,98.503333
 1426136494,Rubia_cordifolia,27.789444,98.529444
 1426207223,Rubia_cordifolia,27.628611,98.593333
@@ -34,11 +30,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260057081,Rubia_cordifolia,-3.36861,36.69583
 1260853866,Rubia_cordifolia,27.12944,98.87527
 788581428,Rubia_cordifolia,26.466667,111.316667
-1933837931,Rubia_cordifolia,33.233333,129.416667
 1426094268,Rubia_cordifolia,27.632143,98.616417
 1930713611,Rubia_cordifolia,-30.683667,26.637333
-2005456299,Rubia_cordifolia,-31.147222,31.136944
-1930405028,Rubia_cordifolia,-31.14715,31.136933
 1259197029,Rubia_cordifolia,28.35583,98.84583
 1426089088,Rubia_cordifolia,27.715027,98.502167
 1426084256,Rubia_cordifolia,27.785164,98.47834
@@ -55,8 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258974398,Rubia_cordifolia,-3.2825,36.53722
 574646712,Rubia_cordifolia,28.108056,85.305556
 1258956501,Rubia_cordifolia,-8.60916,35.6275
-1258731970,Rubia_cordifolia,38.68306,-90.52333
-616315060,Rubia_cordifolia,-29.875,31.125
 1426097522,Rubia_cordifolia,27.630281,98.621674
 1426075182,Rubia_cordifolia,27.707777,98.496941
 1258768127,Rubia_cordifolia,-7.16666,37.75
@@ -80,7 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615391228,Rubia_cordifolia,35.87,75.32
 1258662829,Rubia_cordifolia,-3.34027,36.615
 1258742835,Rubia_cordifolia,-4.32416,37.89972
-1258600878,Rubia_cordifolia,37.87167,-122.27167
 1258614605,Rubia_cordifolia,-1.01944,31.61972
 1258535427,Rubia_cordifolia,22.85,106.23333
 575179139,Rubia_cordifolia,36.674722,101.371389
@@ -143,7 +133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697340559,Rubia_cordifolia,47.083333,119.5
 1697340633,Rubia_cordifolia,47.666667,112.25
 462229536,Rubia_cordifolia,-31.375,25.625
-462229537,Rubia_cordifolia,-34.125,24.375
 209983388,Rubia_cordifolia,-10.23,26.05
 462229540,Rubia_cordifolia,-30.375,30.625
 2265627859,Rubia_cordifolia,-9.66667,35.08333
@@ -159,7 +148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697295335,Rubia_cordifolia,43.587178,132.227211
 1697295366,Rubia_cordifolia,43.097194,131.563032
 209983206,Rubia_cordifolia,-1.65,29.4
-462229530,Rubia_cordifolia,-31.625,29.625
 1030972740,Rubia_cordifolia,25.742153,110.040007
 1697340608,Rubia_cordifolia,44.896133,101.577697
 1802593518,Rubia_cordifolia,6.03,116.6
@@ -168,7 +156,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030913147,Rubia_cordifolia,29.914155,102.234618
 1030912913,Rubia_cordifolia,30.911944,102.546111
 1839459314,Rubia_cordifolia,-1.5,29.35
-1802593595,Rubia_cordifolia,0.37,32.58
 2290784332,Rubia_cordifolia,-7.6275,111.194167
 1802583341,Rubia_cordifolia,-4,30.12
 2290250608,Rubia_cordifolia,-4,30.116667
@@ -209,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2012940381,Rubia_cordifolia,35.019425,72.476232
 2012940323,Rubia_cordifolia,35.040893,72.479934
 2012940592,Rubia_cordifolia,34.401389,73.380278
-1829420034,Rubia_cordifolia,34.788333,139.391389
 2012940389,Rubia_cordifolia,34.553995,73.349214
 2012940613,Rubia_cordifolia,34.400229,73.365453
 2012940356,Rubia_cordifolia,33.536795,70.343368
@@ -240,7 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2012940315,Rubia_cordifolia,33.892836,70.014975
 1030882040,Rubia_cordifolia,31.084,103.267
 2290071269,Rubia_cordifolia,9.4,42.016667
-1829883765,Rubia_cordifolia,26.626389,128.148889
 2290372111,Rubia_cordifolia,-1.133333,37.25
 1697295332,Rubia_cordifolia,43.084464,131.891021
 615391110,Rubia_cordifolia,36.17,74.17
@@ -264,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030882005,Rubia_cordifolia,28.932073,99.79929
 209983336,Rubia_cordifolia,-2.33,29.08
 1839564874,Rubia_cordifolia,-2.333333,29.083333
-2291870334,Rubia_cordifolia,-26.783333,32.816667
 1835600479,Rubia_cordifolia,-2.19,28.45
 209983381,Rubia_cordifolia,-2.25,28.68
 1839459302,Rubia_cordifolia,-2.25,28.683333
@@ -275,9 +259,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462229494,Rubia_cordifolia,-30.625,25.625
 209983385,Rubia_cordifolia,-6.67,28.75
 1839459097,Rubia_cordifolia,-6.666667,28.75
-1697295392,Rubia_cordifolia,42.579492,131.188548
 615391214,Rubia_cordifolia,35.67,71.4
-1933905254,Rubia_cordifolia,33.2158,129.4004
 2289565894,Rubia_cordifolia,9.3,41.216667
 1839565259,Rubia_cordifolia,-1.783333,30.7
 209983205,Rubia_cordifolia,-1.78,30.7
@@ -287,12 +269,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615391206,Rubia_cordifolia,35.67,71.33
 891632975,Rubia_cordifolia,23.685278,120.798333
 891630988,Rubia_cordifolia,23.507778,120.904167
-462229497,Rubia_cordifolia,-30.625,30.625
 462229498,Rubia_cordifolia,-27.375,32.125
 2289239050,Rubia_cordifolia,18.033333,98.4
 891632016,Rubia_cordifolia,23,120.624444
 2291851505,Rubia_cordifolia,9.483333,41.9
-891632049,Rubia_cordifolia,22.086111,121.567778
 891632011,Rubia_cordifolia,22.765278,120.882222
 891631745,Rubia_cordifolia,24.044722,121.526111
 462229516,Rubia_cordifolia,-28.375,31.125
@@ -309,7 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 209983338,Rubia_cordifolia,-2.58,30.07
 1261232116,Rubia_cordifolia,-2.58333,30.06666
 462229492,Rubia_cordifolia,-23.125,29.875
-462229534,Rubia_cordifolia,-26.375,31.125
 2288775421,Rubia_cordifolia,9.416667,41.6
 462229493,Rubia_cordifolia,-29.125,26.875
 1030688596,Rubia_cordifolia,32.055645,118.797741
@@ -317,10 +296,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030688592,Rubia_cordifolia,31.375019,119.823343
 1030882001,Rubia_cordifolia,32.38885,109.361869
 891655788,Rubia_cordifolia,23.593889,120.879444
-1802588562,Rubia_cordifolia,9.05,38.78
 462229535,Rubia_cordifolia,-26.875,31.375
 462229542,Rubia_cordifolia,-23.625,30.125
-462229541,Rubia_cordifolia,-34.375,21.375
 1030688493,Rubia_cordifolia,32.059064,119.418318
 891655780,Rubia_cordifolia,23.787778,120.781944
 1839459303,Rubia_cordifolia,-1.55,28.833333
@@ -404,7 +381,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291078000,Rubia_cordifolia,0.958333,35.283333
 1303667650,Rubia_cordifolia,40.440913,113.170145
 813404374,Rubia_cordifolia,-18.947334,33.210158
-462229505,Rubia_cordifolia,-26.875,32.875
 209983342,Rubia_cordifolia,-7.77,23.7
 209983209,Rubia_cordifolia,-1.7,29.27
 1839565153,Rubia_cordifolia,-1.416667,29.2
@@ -422,10 +398,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 209983363,Rubia_cordifolia,-1.58,29.12
 1839459284,Rubia_cordifolia,-7.583333,29.883333
 1303661749,Rubia_cordifolia,25.833607,116.357607
-1697295410,Rubia_cordifolia,43.017084,134.097153
-1697295384,Rubia_cordifolia,43.017494,134.127542
-1697295367,Rubia_cordifolia,43.019078,134.10775
-1697295364,Rubia_cordifolia,47.407458,139.048453
 1839459287,Rubia_cordifolia,-1.4,29.35
 1304120887,Rubia_cordifolia,29.805032,106.395571
 1303661828,Rubia_cordifolia,25.39996,112.948819
@@ -468,7 +440,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303661779,Rubia_cordifolia,34.43808,104.036837
 1303667691,Rubia_cordifolia,39.879848,114.630747
 1303661791,Rubia_cordifolia,36.92697,101.685623
-1303661697,Rubia_cordifolia,11.318545,116.562386
 1303661723,Rubia_cordifolia,18.626309,109.700342
 1303661717,Rubia_cordifolia,30.368117,102.81464
 1303661796,Rubia_cordifolia,35.491617,102.99556
@@ -490,7 +461,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 919508143,Rubia_cordifolia,25.584234,100.222124
 1839459295,Rubia_cordifolia,-1.25,29.233333
 209983351,Rubia_cordifolia,-1.25,29.23
-1934061710,Rubia_cordifolia,33.6776,130.2993
 1304120719,Rubia_cordifolia,28.115802,119.573404
 1303667595,Rubia_cordifolia,39.364854,114.714432
 1303667616,Rubia_cordifolia,38.884402,114.769278
@@ -503,8 +473,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303661788,Rubia_cordifolia,40.867233,111.814556
 1303661769,Rubia_cordifolia,29.3,106.266667
 1303667644,Rubia_cordifolia,49.587665,117.480336
-1839459264,Rubia_cordifolia,-1.916667,30.05
-462229496,Rubia_cordifolia,-30.125,30.875
 891655782,Rubia_cordifolia,23.234167,120.807778
 1303667591,Rubia_cordifolia,39.71615,115.838889
 1303667625,Rubia_cordifolia,37.269647,121.544774
@@ -529,10 +497,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697295371,Rubia_cordifolia,43.19892,131.741399
 1697295388,Rubia_cordifolia,51.333333,119.666667
 1697295382,Rubia_cordifolia,50.416667,113.533333
-1697295369,Rubia_cordifolia,42.602446,131.189366
 1697295360,Rubia_cordifolia,50.95,115.6
 1839459241,Rubia_cordifolia,1.933333,30.5
-1697295370,Rubia_cordifolia,42.46695,130.921467
 1303661774,Rubia_cordifolia,29.61015,115.998105
 1303661708,Rubia_cordifolia,27.536226,106.829864
 1304023179,Rubia_cordifolia,24.682731,113.604544
@@ -570,15 +536,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839459286,Rubia_cordifolia,-0.283333,29.45
 209983354,Rubia_cordifolia,-0.28,29.45
 919508164,Rubia_cordifolia,25.020615,98.490007
-2005765099,Rubia_cordifolia,33.267469,126.554731
-1303667703,Rubia_cordifolia,38.914453,121.616485
 1304123011,Rubia_cordifolia,39.162111,121.926205
 1304102801,Rubia_cordifolia,23.670114,112.396864
 891655781,Rubia_cordifolia,24.301667,120.773889
 891655748,Rubia_cordifolia,23.465278,120.941667
 1303667705,Rubia_cordifolia,41.075105,122.961066
-2005771938,Rubia_cordifolia,33.29473,126.53697
-2005764984,Rubia_cordifolia,33.345815,126.536759
 2005770806,Rubia_cordifolia,35.283935,129.068928
 1830664652,Rubia_cordifolia,33.57112,130.32394
 2005770376,Rubia_cordifolia,38.753456,125.353391
