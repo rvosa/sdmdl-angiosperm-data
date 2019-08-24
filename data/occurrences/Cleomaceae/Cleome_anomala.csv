@@ -60,7 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1898900544,Cleome_anomala,4.701415,-75.536663
 1261315273,Cleome_anomala,-0.96666,-78.88333
 1261323297,Cleome_anomala,0.41666,-77.75
-1261323470,Cleome_anomala,-0.16666,-78.5
 1261321444,Cleome_anomala,0.08333,-78.5
 1261323387,Cleome_anomala,-1.91666,-79.08333
 1260537409,Cleome_anomala,0.45,-78.46666
@@ -110,8 +109,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890992407,Cleome_anomala,1.854047,-76.727803
 1844951811,Cleome_anomala,1.195855,-76.982055
 1890949569,Cleome_anomala,1.160684,-77.155462
-1098673103,Cleome_anomala,4.67519,-74.05506
-1576171889,Cleome_anomala,4.66588,-74.04827
 1898868043,Cleome_anomala,1.170755,-77.157461
 1260541552,Cleome_anomala,-1.3,-78.5
 1890899028,Cleome_anomala,1.077529,-77.15101
