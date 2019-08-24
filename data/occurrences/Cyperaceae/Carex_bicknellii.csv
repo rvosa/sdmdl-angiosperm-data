@@ -53,10 +53,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176902049,Carex_bicknellii,43.10745,-92.041576
 668816829,Carex_bicknellii,48.65,-94.07
 1989190916,Carex_bicknellii,49.09841,-94.04246
-668816828,Carex_bicknellii,49.1,-93.96
 176901945,Carex_bicknellii,39.143612,-95.936111
 176901867,Carex_bicknellii,38.653332,-95.840279
-2311085082,Carex_bicknellii,49.1,-94.04
 176902713,Carex_bicknellii,40.55006,-97.96146
 176902032,Carex_bicknellii,38.6533,-95.8403
 1989518203,Carex_bicknellii,48.64747,-94.06843
@@ -64,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989105927,Carex_bicknellii,44.823611,-68.719167
 2265511426,Carex_bicknellii,43.6961,-96.202618
 2265433705,Carex_bicknellii,43.725019,-92.799431
-1260034008,Carex_bicknellii,37.83333,-94.3
 2265571133,Carex_bicknellii,44.725651,-93.592284
 1989348367,Carex_bicknellii,42.2648,-83.683896
 1928792524,Carex_bicknellii,42.233424,-72.645368
@@ -75,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260984473,Carex_bicknellii,40.52166,-94.14638
 2265438454,Carex_bicknellii,43.899838,-96.357127
 176902675,Carex_bicknellii,40.047347,-97.187012
-56535160,Carex_bicknellii,33.7,-94.23
 176902721,Carex_bicknellii,38.916627,-94.974029
 176902732,Carex_bicknellii,39.083998,-95.997622
 699273392,Carex_bicknellii,42.27194,-71.78333
@@ -83,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265449864,Carex_bicknellii,45.522547,-94.208949
 2265433854,Carex_bicknellii,45.522725,-94.229615
 2265428321,Carex_bicknellii,44.795997,-95.533931
-1260035418,Carex_bicknellii,37.5,-94.533333
 1228342215,Carex_bicknellii,39.175316,-89.701006
 1261856140,Carex_bicknellii,38.48972,-90.81667
 176902710,Carex_bicknellii,38.590665,-95.687794
@@ -125,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265493101,Carex_bicknellii,45.392318,-93.172984
 668816922,Carex_bicknellii,48.925,-94.616667
 2265491992,Carex_bicknellii,43.797643,-92.499266
-668816943,Carex_bicknellii,42.616667,-82.5
 2265493187,Carex_bicknellii,46.159244,-96.235363
 2265493653,Carex_bicknellii,45.116322,-94.472092
 2265492073,Carex_bicknellii,45.810665,-95.748005
@@ -169,7 +163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176902696,Carex_bicknellii,39.930249,-97.120443
 176902743,Carex_bicknellii,40.14975,-96.34864
 1846542413,Carex_bicknellii,38.863724,-93.738577
-1228349839,Carex_bicknellii,40,-86
 176902697,Carex_bicknellii,39.208064,-95.805036
 176902658,Carex_bicknellii,45.70682,-98.66663
 176902725,Carex_bicknellii,39.24995,-95.65942
@@ -182,7 +175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176902657,Carex_bicknellii,38.77966,-95.67036
 176902695,Carex_bicknellii,37.57035,-95.24319
 2242393160,Carex_bicknellii,41.854499,-87.797222
-176902686,Carex_bicknellii,39.90647,-95.9
 176902726,Carex_bicknellii,39.56329,-95.30327
 176902689,Carex_bicknellii,38.30467,-95.47349
 176902664,Carex_bicknellii,39.523229,-95.661206
@@ -246,7 +238,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929820445,Carex_bicknellii,40.469826,-75.019058
 1929310976,Carex_bicknellii,41.135768,-87.484162
 415977393,Carex_bicknellii,41.1175,-73.40777
-1228590877,Carex_bicknellii,45,-69
 176902748,Carex_bicknellii,44.804592,-68.755155
 415977465,Carex_bicknellii,44.79666,-68.7675
 2265493168,Carex_bicknellii,45.218819,-93.275736
@@ -312,7 +303,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415977386,Carex_bicknellii,41.62416,-72.07694
 1038985432,Carex_bicknellii,41.605,-72.88
 1928222805,Carex_bicknellii,42.075095,-72.033408
-1228302767,Carex_bicknellii,41.1,-89.8
 1927867063,Carex_bicknellii,40.93121,-73.898747
 1228214093,Carex_bicknellii,41.706423,-87.65616
 1228481832,Carex_bicknellii,41.56809,-87.6081
