@@ -115,7 +115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846492662,Calliandra_eriophylla,33.98117,-111.7225
 2270631662,Calliandra_eriophylla,33.7639,-111.904
 2270530691,Calliandra_eriophylla,33.981111,-111.7225
-2270632680,Calliandra_eriophylla,33.75,-111.9
 1846482734,Calliandra_eriophylla,32.824778,-110.803889
 1894565601,Calliandra_eriophylla,18.617778,-97.471944
 1846492083,Calliandra_eriophylla,34.1082,-112.1223
@@ -123,7 +122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846497471,Calliandra_eriophylla,33.980833,-111.7265
 1846488873,Calliandra_eriophylla,33.364292,-111.736336
 1846491687,Calliandra_eriophylla,34.23782,-112.0972
-1843869378,Calliandra_eriophylla,31.8,-110.7917
 2270638937,Calliandra_eriophylla,32.9676,-111.124
 1846491798,Calliandra_eriophylla,34.2253,-112.085
 1895929764,Calliandra_eriophylla,31.233056,-109.631389
@@ -137,7 +135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897949219,Calliandra_eriophylla,23.431944,-103.056944
 1897949228,Calliandra_eriophylla,23.615,-103.211944
 1897949250,Calliandra_eriophylla,24.358333,-102.474167
-2268941935,Calliandra_eriophylla,25.783333,-104.6
 2270630474,Calliandra_eriophylla,31.6404,-110.165
 2270619252,Calliandra_eriophylla,33.8593,-111.767
 1894642051,Calliandra_eriophylla,20.525,-100.341667
@@ -243,7 +240,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846508225,Calliandra_eriophylla,33.666194,-111.507083
 1929063166,Calliandra_eriophylla,28.63,-106.35
 1893964854,Calliandra_eriophylla,19.677778,-104.019444
-438283748,Calliandra_eriophylla,21.3,-100.43333
 1893560441,Calliandra_eriophylla,18.491944,-98.958889
 1893560359,Calliandra_eriophylla,18.409444,-99.051944
 1893761881,Calliandra_eriophylla,24.964444,-107.147778
@@ -257,16 +253,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897341622,Calliandra_eriophylla,17.875,-98.141667
 1930498874,Calliandra_eriophylla,30.85,-110.0667
 1895527334,Calliandra_eriophylla,30.858333,-110.075
-2270596204,Calliandra_eriophylla,32.25,-111
 1894641711,Calliandra_eriophylla,20.7068,-100.13363
 1895357514,Calliandra_eriophylla,24.1163582301793,-99.8602525424978
 2270595831,Calliandra_eriophylla,31.9192,-109.986
-1261041492,Calliandra_eriophylla,24.1,-99.82
 1895527491,Calliandra_eriophylla,18.233333,-97.566667
 1930698420,Calliandra_eriophylla,18.28,-97.13
 1895818100,Calliandra_eriophylla,28.58,-109.745
 1265477997,Calliandra_eriophylla,23.42,-109.72
-1930576979,Calliandra_eriophylla,27,-108.7958
 1893610078,Calliandra_eriophylla,21.681667,-103.813333
 2270595714,Calliandra_eriophylla,33.4006,-111.346
 1894642002,Calliandra_eriophylla,20.68675,-99.804444
@@ -280,7 +273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261039343,Calliandra_eriophylla,24.61,-99.88
 1893438996,Calliandra_eriophylla,17.741667,-96.908333
 1846508175,Calliandra_eriophylla,31.551972,-111.092139
-1259553296,Calliandra_eriophylla,17.73333,-96.9
 1897949275,Calliandra_eriophylla,21.166667,-103.166667
 1894641603,Calliandra_eriophylla,20.926667,-99.728333
 1419227124,Calliandra_eriophylla,20.352778,-99.885833
@@ -297,7 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270594657,Calliandra_eriophylla,33.4731,-111.433
 2270616492,Calliandra_eriophylla,33.92,-111.82
 1893587384,Calliandra_eriophylla,30.696389,-109.886944
-1930676452,Calliandra_eriophylla,32.8,-113.83
 1928426290,Calliandra_eriophylla,32.97,-114.77
 1846508203,Calliandra_eriophylla,34.087833,-111.714722
 1928001573,Calliandra_eriophylla,29.55,-110.42
@@ -323,14 +314,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419199839,Calliandra_eriophylla,25.026944,-105.779444
 2270479450,Calliandra_eriophylla,18.130775,-97.609556
 1896215565,Calliandra_eriophylla,18.497778,-97.283889
-1893610073,Calliandra_eriophylla,18.5,-97.288333
 1895527293,Calliandra_eriophylla,18.0804056348965,-97.5303422755715
 1893610121,Calliandra_eriophylla,22.656667,-103.961667
 1893610103,Calliandra_eriophylla,22.626667,-103.898333
 1894641798,Calliandra_eriophylla,20.737778,-100.394444
 2270562465,Calliandra_eriophylla,33.61,-111.42
 1837124183,Calliandra_eriophylla,31.556327,-110.377319
-1928321051,Calliandra_eriophylla,24.7,-99.855
 1895527340,Calliandra_eriophylla,24.7003842476326,-99.8551408296936
 1259554234,Calliandra_eriophylla,22.28333,-104.66666
 1895357529,Calliandra_eriophylla,25.080831,-100.543061
@@ -340,7 +329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846508139,Calliandra_eriophylla,31.833333,-112.938889
 1895357647,Calliandra_eriophylla,23.939306,-99.792522
 1896215555,Calliandra_eriophylla,17.575,-96.958333
-2270479608,Calliandra_eriophylla,26.15,-101.5
 1893439042,Calliandra_eriophylla,17.608333,-96.941667
 1893610050,Calliandra_eriophylla,17.571667,-96.955
 1259555833,Calliandra_eriophylla,30.683333,-110.866667
@@ -357,7 +345,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419194749,Calliandra_eriophylla,23.475,-104.391667
 2270596849,Calliandra_eriophylla,33.7058,-111.502
 1893761877,Calliandra_eriophylla,24.800556,-107.095833
-1929401695,Calliandra_eriophylla,31.3,-115.4833
 1895953026,Calliandra_eriophylla,18.2925,-98.075833
 1930090102,Calliandra_eriophylla,32.0897,-107.5805
 1930471102,Calliandra_eriophylla,21.55128,-99.69475
@@ -365,7 +352,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895802609,Calliandra_eriophylla,23.341667,-99.608333
 1895527313,Calliandra_eriophylla,21.9468446175427,-100.011208571996
 1895802566,Calliandra_eriophylla,23.191667,-99.841667
-1843822996,Calliandra_eriophylla,33.55,-110.7
 1893438926,Calliandra_eriophylla,17.758333,-97.008333
 1261881542,Calliandra_eriophylla,17.75,-96.96
 1931301756,Calliandra_eriophylla,31.844,-108.3109
@@ -400,8 +386,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895953032,Calliandra_eriophylla,18.518889,-98.415556
 1259555751,Calliandra_eriophylla,19.213611,-102.854444
 1896215561,Calliandra_eriophylla,17.475,-100.175
-1928663664,Calliandra_eriophylla,31.3083,-115.5
-1846508193,Calliandra_eriophylla,31.308333,-115.5
 1261851093,Calliandra_eriophylla,16.38,-95.34
 1846508134,Calliandra_eriophylla,33.51534,-111.41124
 2270595143,Calliandra_eriophylla,33.5318,-111.442
@@ -417,7 +401,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846478749,Calliandra_eriophylla,32.016274,-112.71213
 1846478769,Calliandra_eriophylla,31.858,-110.797
 2270595623,Calliandra_eriophylla,32.7895,-112.092
-1261851087,Calliandra_eriophylla,20.33,-98.6
 1894533745,Calliandra_eriophylla,24.091667,-104.041667
 1894533746,Calliandra_eriophylla,23.641667,-104.375
 1846478820,Calliandra_eriophylla,33.4156,-111.363997
@@ -461,7 +444,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895952975,Calliandra_eriophylla,18.213889,-98.103333
 1846478854,Calliandra_eriophylla,32.041975,-112.875
 1896215560,Calliandra_eriophylla,15.741667,-96.475
-1259559945,Calliandra_eriophylla,25.11,-99.8
 1896215558,Calliandra_eriophylla,16.35,-95.816667
 1261851109,Calliandra_eriophylla,31.315833,-110.942778
 1893438991,Calliandra_eriophylla,18.141667,-97.075
@@ -479,7 +461,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895952984,Calliandra_eriophylla,18.352778,-97.440833
 1895802660,Calliandra_eriophylla,23.058333,-99.625
 1893610039,Calliandra_eriophylla,21.831667,-103.78
-1893781580,Calliandra_eriophylla,29.583333,-104.9
 1893781574,Calliandra_eriophylla,28.908333,-105.258333
 1929191523,Calliandra_eriophylla,18.1325,-97.07219
 1893438950,Calliandra_eriophylla,17.741667,-97.558333
@@ -516,7 +497,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270596444,Calliandra_eriophylla,31.98,-112.73
 1320797240,Calliandra_eriophylla,32.08,-115.77
 1930815351,Calliandra_eriophylla,20.4417,-98.525
-1259559315,Calliandra_eriophylla,23.6,-99.21
 2270477847,Calliandra_eriophylla,29.111624,-111.027244
 1895802621,Calliandra_eriophylla,24.291667,-98.708333
 1846508183,Calliandra_eriophylla,33.712867,-111.856519
@@ -562,10 +542,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893407873,Calliandra_eriophylla,30.408333,-111.091667
 2270595708,Calliandra_eriophylla,34.1747,-111.803
 1837124253,Calliandra_eriophylla,32.874985,-114.83806
-2270596181,Calliandra_eriophylla,33.4111,-111.4
 2270596798,Calliandra_eriophylla,34.2308,-111.395
 2270593361,Calliandra_eriophylla,33.5908,-111.343
-2270594869,Calliandra_eriophylla,31.95,-112.8
 176897903,Calliandra_eriophylla,33.33,-113.952741
 2270596391,Calliandra_eriophylla,32.0044,-110.139
 2270594225,Calliandra_eriophylla,31.5506,-110.048
@@ -603,7 +581,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270596418,Calliandra_eriophylla,33.7722,-110.688
 1846493490,Calliandra_eriophylla,33.727947,-111.873456
 1259554650,Calliandra_eriophylla,24.916667,-107.116667
-2270595743,Calliandra_eriophylla,34.7,-113.61
 1930175724,Calliandra_eriophylla,30.9683,-110.8631
 1930673897,Calliandra_eriophylla,32.0839,-107.6172
 2270271729,Calliandra_eriophylla,33.0528,-116.32986
@@ -626,7 +603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426294358,Calliandra_eriophylla,33.16076,-115.3133
 1259556273,Calliandra_eriophylla,22.216667,-100.25
 1929736332,Calliandra_eriophylla,26.959608,-109.008539
-1259556543,Calliandra_eriophylla,24.4,-102.183333
 1259557550,Calliandra_eriophylla,18.18,-97.45
 1837124197,Calliandra_eriophylla,32.212854,-111.006204
 2270595158,Calliandra_eriophylla,32.23,-111.097
