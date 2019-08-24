@@ -47,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668802891,Scrophularia_lanceolata,46.748333,-71.340833
 1929836134,Scrophularia_lanceolata,43.24,-113.95
 441837231,Scrophularia_lanceolata,47.098383,-120.6983
-1248749378,Scrophularia_lanceolata,45.5,-75.866667
 441837217,Scrophularia_lanceolata,47.511594,-115.728455
 441837216,Scrophularia_lanceolata,47.67363,-115.364753
 2235372168,Scrophularia_lanceolata,45.622417,-118.012222
@@ -63,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242376108,Scrophularia_lanceolata,39.742223,-105.170378
 441836427,Scrophularia_lanceolata,45.0945,-117.0066
 1929970577,Scrophularia_lanceolata,40.44159,-111.7109
-1248749397,Scrophularia_lanceolata,46.75,-71.3
 1989359936,Scrophularia_lanceolata,43.64491,-85.38059
 1986942194,Scrophularia_lanceolata,42.206667,-111.668611
 1989255825,Scrophularia_lanceolata,44.215954,-85.902996
@@ -89,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928309408,Scrophularia_lanceolata,39.92256,-112.4689
 2242359997,Scrophularia_lanceolata,40.2093,-106.0552
 1248749379,Scrophularia_lanceolata,46.783333,-71.283333
-1930098779,Scrophularia_lanceolata,41.83,-111.5
 2265451794,Scrophularia_lanceolata,47.571667,-93.903056
 1899374372,Scrophularia_lanceolata,43.416667,-79.833333
 2265423092,Scrophularia_lanceolata,44.111111,-95.701111
@@ -125,8 +122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928999741,Scrophularia_lanceolata,42.4819,-107.2565
 1930647215,Scrophularia_lanceolata,37.4678,-113.4669
 2265398892,Scrophularia_lanceolata,44.735556,-93.598889
-1930889025,Scrophularia_lanceolata,41.27,-115.4
-2309990651,Scrophularia_lanceolata,44,-77.25
 1804572599,Scrophularia_lanceolata,44.883333,-75.25
 1930825882,Scrophularia_lanceolata,37.3665,-113.4485
 2265398396,Scrophularia_lanceolata,43.8675,-92.84861
@@ -140,7 +135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442308437,Scrophularia_lanceolata,44.8759,-123.2249
 2242367382,Scrophularia_lanceolata,38.932439,-105.285506
 63858337,Scrophularia_lanceolata,45.4056,-116.9819
-473445537,Scrophularia_lanceolata,45.5,-73.6
 51956450,Scrophularia_lanceolata,44.4333,-121.9083
 768795705,Scrophularia_lanceolata,41.96166,-73.30833
 1929637538,Scrophularia_lanceolata,39.8915,-108.0207
@@ -164,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986927722,Scrophularia_lanceolata,40.426944,-112.542778
 668802874,Scrophularia_lanceolata,46.033333,-72.483333
 1930389615,Scrophularia_lanceolata,44.4196,-104.1635
-1030493087,Scrophularia_lanceolata,42,-86
 1929933175,Scrophularia_lanceolata,43.2703,-117.1783
 1986925343,Scrophularia_lanceolata,41.749617,-119.126582
 1899359573,Scrophularia_lanceolata,45.047222,-78.615278
@@ -182,14 +175,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899312577,Scrophularia_lanceolata,45.016667,-79.616667
 1843887476,Scrophularia_lanceolata,33.460989,-105.736875
 1930299071,Scrophularia_lanceolata,39.2414,-109.6409
-1899382322,Scrophularia_lanceolata,44.933333,-79.5
 668802879,Scrophularia_lanceolata,46.775556,-71.275
 1986922721,Scrophularia_lanceolata,39.530556,-111.347222
 177028346,Scrophularia_lanceolata,38.94015,-98.53646
 1846524341,Scrophularia_lanceolata,40.99944,-75.18167
 1899350036,Scrophularia_lanceolata,44.083333,-78.125
 668802882,Scrophularia_lanceolata,46.773611,-71.261111
-1988155255,Scrophularia_lanceolata,58.7,-133.62
 415927124,Scrophularia_lanceolata,41.26416,-72.46472
 1899298744,Scrophularia_lanceolata,44.304167,-76.1875
 2242364839,Scrophularia_lanceolata,39.61666,-105.41666
@@ -204,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989039221,Scrophularia_lanceolata,46.03214,-86.27089
 1846524162,Scrophularia_lanceolata,42.2231,-114.349711
 668802875,Scrophularia_lanceolata,46.816667,-71.233333
-1931086364,Scrophularia_lanceolata,43.2,-111.19
 441837157,Scrophularia_lanceolata,43.17556,-111.15139
 177028192,Scrophularia_lanceolata,43.76519,-103.72211
 1989405071,Scrophularia_lanceolata,45.949842,-88.086055
@@ -305,13 +295,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988098216,Scrophularia_lanceolata,45.19,-116.67
 1426180509,Scrophularia_lanceolata,41.4828,-120.715302
 768795731,Scrophularia_lanceolata,42.51666,-72.58277
-668802870,Scrophularia_lanceolata,47.4,-70.390556
 768795728,Scrophularia_lanceolata,42.38333,-71.96666
 2242363949,Scrophularia_lanceolata,39.631631,-105.266219
 442308683,Scrophularia_lanceolata,44.7547,-122.3028
 768795734,Scrophularia_lanceolata,42.43333,-71.60833
 1899368298,Scrophularia_lanceolata,48.75,-86.25
-1988136817,Scrophularia_lanceolata,48.8,-86.3
 51956722,Scrophularia_lanceolata,45.5989,-122.7858
 1986916116,Scrophularia_lanceolata,41.300556,-111.811389
 1228383506,Scrophularia_lanceolata,41.722535,-87.575046
@@ -334,7 +322,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899367662,Scrophularia_lanceolata,48.333333,-88.833333
 1320260058,Scrophularia_lanceolata,38.8589,-77.6864
 1986877423,Scrophularia_lanceolata,41.549657,-111.954111
-1899367319,Scrophularia_lanceolata,47,-84.75
 442307997,Scrophularia_lanceolata,44.0509,-123.0669
 51956986,Scrophularia_lanceolata,45.7581,-116.835
 1426094860,Scrophularia_lanceolata,41.727299,-120.345497
@@ -454,7 +441,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038974787,Scrophularia_lanceolata,41.8442,-73.0055
 768795721,Scrophularia_lanceolata,41.99388,-73.20194
 1038965196,Scrophularia_lanceolata,41.2965,-73.1463
-1228353323,Scrophularia_lanceolata,40,-86
 1038986100,Scrophularia_lanceolata,41.9696,-72.8348
 1039025453,Scrophularia_lanceolata,41.4798,-72.3943
 1038995637,Scrophularia_lanceolata,41.367,-72.717
