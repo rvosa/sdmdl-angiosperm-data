@@ -174,7 +174,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893972095,Penstemon_kunthii,19.491667,-103.975
 1897346292,Penstemon_kunthii,19.593056,-103.596667
 1893749114,Penstemon_kunthii,17.775,-96.108333
-1896094128,Penstemon_kunthii,17.766667,-97.1
 1893364641,Penstemon_kunthii,17.775,-97.108333
 1895354053,Penstemon_kunthii,23.755194,-105.522811
 1895525494,Penstemon_kunthii,23.833333,-105.666667
@@ -200,11 +199,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419190925,Penstemon_kunthii,19.155833,-98.763889
 1417701413,Penstemon_kunthii,18.990436,-99.092969
 1896141583,Penstemon_kunthii,20.141667,-98.675
-1893650690,Penstemon_kunthii,19.636667,-97.1
 1419222389,Penstemon_kunthii,25.585556,-106.361111
 1259441964,Penstemon_kunthii,22.41666,-104.75
 1895559237,Penstemon_kunthii,22.441667,-104.908333
-1893650600,Penstemon_kunthii,19.8,-100.69
 1417699684,Penstemon_kunthii,19.053558,-99.314653
 1896083297,Penstemon_kunthii,19.676111,-103.595833
 1893650618,Penstemon_kunthii,19.563333,-103.608333
@@ -240,7 +237,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893650584,Penstemon_kunthii,20.225,-100.676667
 2270556391,Penstemon_kunthii,21.136869,-101.681457
 1896083478,Penstemon_kunthii,21.316944,-101.577222
-1896094117,Penstemon_kunthii,17.75,-97.1
 1893650666,Penstemon_kunthii,17.766667,-97.081667
 2270558502,Penstemon_kunthii,20.216667,-98.733333
 1893650651,Penstemon_kunthii,19.07,-98.488333
@@ -248,7 +244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1417697805,Penstemon_kunthii,18.516511,-99.012258
 1893650631,Penstemon_kunthii,21.479722,-101.213889
 1895966000,Penstemon_kunthii,19.092778,-98.483333
-1893650642,Penstemon_kunthii,19.786667,-100.2
 1896083467,Penstemon_kunthii,20.365833,-103.4475
 1893650601,Penstemon_kunthii,20.366667,-103.436667
 1896083401,Penstemon_kunthii,20.168611,-100.210556
@@ -274,7 +269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896141580,Penstemon_kunthii,19.786389,-100.1525
 1893650611,Penstemon_kunthii,19.761667,-100.145
 1896083441,Penstemon_kunthii,19.723889,-101.518056
-1896141564,Penstemon_kunthii,19.73,-101.5
 1419226361,Penstemon_kunthii,19.713889,-101.499722
 1893650649,Penstemon_kunthii,19.871667,-100.348333
 1893650608,Penstemon_kunthii,19.73,-101.515
@@ -287,7 +281,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419231231,Penstemon_kunthii,20.661389,-99.135833
 1417701240,Penstemon_kunthii,18.982836,-99.236764
 1893364689,Penstemon_kunthii,17.725,-97.541667
-1259441804,Penstemon_kunthii,28.23333,-108.2
 1895288625,Penstemon_kunthii,20.2125,-98.696944
 1896141569,Penstemon_kunthii,20.208333,-98.725
 1895354094,Penstemon_kunthii,20.139719,-98.671669
@@ -315,7 +308,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897526180,Penstemon_kunthii,22.217453,-102.607628
 1896083498,Penstemon_kunthii,20.152778,-98.708889
 1895679115,Penstemon_kunthii,23.906944,-104.994444
-1895288630,Penstemon_kunthii,19.1,-98.895278
 1896083319,Penstemon_kunthii,17.349167,-97.684444
 1897526172,Penstemon_kunthii,22.059444,-102.733083
 1893364661,Penstemon_kunthii,17.758333,-97.541667
@@ -326,11 +318,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896078158,Penstemon_kunthii,16.283611,-96.501667
 1419196266,Penstemon_kunthii,19.485,-98.772222
 1893427565,Penstemon_kunthii,19.491667,-98.775
-2270556286,Penstemon_kunthii,25.08333,-105.8
 1895354077,Penstemon_kunthii,25.066667,-105.783333
-1913940187,Penstemon_kunthii,25.083333,-105.8
 1896083425,Penstemon_kunthii,17.490833,-96.398333
-1930103722,Penstemon_kunthii,25.08,-105.8
 1310100321,Penstemon_kunthii,20.213715,-99.894787
 1896083422,Penstemon_kunthii,19.330556,-98.720556
 1310100329,Penstemon_kunthii,23.660255,-105.73928
@@ -350,8 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258876783,Penstemon_kunthii,19.21,-99.24
 1896078165,Penstemon_kunthii,23.674167,-105.725833
 1258876832,Penstemon_kunthii,27.44,-107.48
-1895354146,Penstemon_kunthii,23.75,-105.4
-1899731180,Penstemon_kunthii,23.55,-104.7
 1893749094,Penstemon_kunthii,24.803333,-106.141667
 1419231344,Penstemon_kunthii,23.650833,-105.7825
 1895354057,Penstemon_kunthii,17.0591164362412,-96.6902882857139
@@ -393,7 +380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893650589,Penstemon_kunthii,19.23,-99.888333
 1419227072,Penstemon_kunthii,19.157778,-98.755278
 1896083411,Penstemon_kunthii,23.757222,-105.368056
-2270556790,Penstemon_kunthii,19.216667,-98.8
 1895288603,Penstemon_kunthii,19.171187155593,-98.7675940777073
 1896083335,Penstemon_kunthii,19.170556,-98.7675
 1895525673,Penstemon_kunthii,23.778331,-105.360281
@@ -449,7 +435,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896141560,Penstemon_kunthii,19.208333,-99.258333
 1259441521,Penstemon_kunthii,19.21,-99.25
 1895288584,Penstemon_kunthii,19.2125,-99.274444
-1259443552,Penstemon_kunthii,19.21,-99.8
 1896083332,Penstemon_kunthii,19.116667,-99.962778
 1896083437,Penstemon_kunthii,19.759167,-99.248611
 1896083324,Penstemon_kunthii,20.831667,-103.850833
@@ -463,7 +448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896083433,Penstemon_kunthii,19.676944,-99.345
 1895288677,Penstemon_kunthii,19.6228300503579,-99.4037216596234
 1259443181,Penstemon_kunthii,19.650833,-99.386944
-2270555919,Penstemon_kunthii,19.483333,-98.9
 1896083461,Penstemon_kunthii,19.871667,-99.247222
 1895288551,Penstemon_kunthii,19.341389,-98.973333
 1896141571,Penstemon_kunthii,19.225,-99.891667
@@ -502,10 +486,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895288593,Penstemon_kunthii,20.126389,-98.671389
 1896078168,Penstemon_kunthii,20.015833,-98.404722
 1896083301,Penstemon_kunthii,23.748056,-105.505
-1895525685,Penstemon_kunthii,19.2,-99.8
 1895288605,Penstemon_kunthii,19.076111,-98.713056
 1895354068,Penstemon_kunthii,23.759719,-105.512997
-1895288620,Penstemon_kunthii,20.1,-98.625
 1895354032,Penstemon_kunthii,17.163417,-96.606733
 176995956,Penstemon_kunthii,17.188061,-96.602399
 1258941276,Penstemon_kunthii,23.96,-104.78
@@ -556,7 +538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896083405,Penstemon_kunthii,19.571944,-99.371667
 1895353996,Penstemon_kunthii,19.572486,-99.388433
 1895288644,Penstemon_kunthii,19.288333,-99.271944
-2288844439,Penstemon_kunthii,19.2,-98.8
 1895288641,Penstemon_kunthii,19.877778,-99.214167
 1895288668,Penstemon_kunthii,20.1316975476425,-98.7442638293605
 1896083316,Penstemon_kunthii,20.131111,-98.744167
@@ -682,7 +663,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893425257,Penstemon_kunthii,19.025,-99.175
 1895354034,Penstemon_kunthii,19.019656,-99.151878
 1895354037,Penstemon_kunthii,17.55,-97.416667
-1895354061,Penstemon_kunthii,19.116667,-99.2
 1893781483,Penstemon_kunthii,25.95607,-107.04728
 1895288654,Penstemon_kunthii,19.2039627622504,-98.7198150600342
 1896083334,Penstemon_kunthii,19.203333,-98.719722
@@ -721,19 +701,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895966025,Penstemon_kunthii,19.04,-97.702778
 1895354092,Penstemon_kunthii,19.074017,-98.703703
 1895353983,Penstemon_kunthii,19.334719,-99.310561
-1259441985,Penstemon_kunthii,25.05,-101.3
 1259442301,Penstemon_kunthii,19.29,-99.65
-1259440873,Penstemon_kunthii,23.7,-99.75
 1259442659,Penstemon_kunthii,19.383333,-102.316667
 1895354063,Penstemon_kunthii,18.533333,-103.366667
-1259440668,Penstemon_kunthii,19.6,-101.19
 1895354051,Penstemon_kunthii,19.229081,-98.031669
 1896083395,Penstemon_kunthii,20.237222,-98.753889
 1259442309,Penstemon_kunthii,19.40138,-100.23277
 1259440772,Penstemon_kunthii,19.58,-99.14
 1259443092,Penstemon_kunthii,19.11,-99.19
-1259442146,Penstemon_kunthii,18.9,-100.04
 1259442426,Penstemon_kunthii,19.124722,-98.1525
 1259441707,Penstemon_kunthii,19.542222,-103.586667
 1259442424,Penstemon_kunthii,19.166667,-98.633333
-1259440814,Penstemon_kunthii,19,-99.09
