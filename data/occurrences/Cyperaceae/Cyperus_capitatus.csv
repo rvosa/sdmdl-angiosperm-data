@@ -47,17 +47,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936607041,Cyperus_capitatus,42.016667,35.133333
 1936608853,Cyperus_capitatus,37.08755,-8.33748
 1851340415,Cyperus_capitatus,37.094,-8.33
-317819262,Cyperus_capitatus,41.32,2.1
 318109577,Cyperus_capitatus,38.15,-0.63
 860322783,Cyperus_capitatus,41.78,2.58
 318109576,Cyperus_capitatus,38.26,-0.51
 1831517508,Cyperus_capitatus,42.40583,27.67028
-895168756,Cyperus_capitatus,38,13.9167
 199472071,Cyperus_capitatus,36.506,-5.284
 30664489,Cyperus_capitatus,37.349998,-2.29
 1936537921,Cyperus_capitatus,37.37,-1.6347
 318109551,Cyperus_capitatus,38.16,-0.62
-318109541,Cyperus_capitatus,38.1,-0.64
 318109557,Cyperus_capitatus,38.09,-0.64
 895202474,Cyperus_capitatus,39.76,-0.14
 318109552,Cyperus_capitatus,38.12,-0.63
@@ -88,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199471676,Cyperus_capitatus,36.68543,-2.70103
 1936363331,Cyperus_capitatus,39.3298,-0.3213
 1936453503,Cyperus_capitatus,37.1705,-6.8262
-318109246,Cyperus_capitatus,37.16,-6.8
 895243403,Cyperus_capitatus,36.82,-2.27
 1936133936,Cyperus_capitatus,36.7987,-2.2614
 199471635,Cyperus_capitatus,36.48705,-4.74001
@@ -106,7 +102,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936418449,Cyperus_capitatus,37.2054,-7.3097
 2288661282,Cyperus_capitatus,37.068056,14.225556
 1851587263,Cyperus_capitatus,37.53,-1.36
-318109717,Cyperus_capitatus,36.97,-6.5
 1936418749,Cyperus_capitatus,36.9659,-6.5063
 144906029,Cyperus_capitatus,36.73,-2.83
 1144638988,Cyperus_capitatus,42.46667,9.46667
@@ -123,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895209401,Cyperus_capitatus,38.06,-0.66
 1936201874,Cyperus_capitatus,38.0041,-0.6891
 895213228,Cyperus_capitatus,40.06,-3.64
-1851373619,Cyperus_capitatus,37.25,-6.8
 788540779,Cyperus_capitatus,35.333333,25.083333
 1936339735,Cyperus_capitatus,37.1378,-1.8303
 1936569629,Cyperus_capitatus,36.8444,-2.3731
@@ -135,8 +129,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860317560,Cyperus_capitatus,41.32,1.98
 788542342,Cyperus_capitatus,35.333333,25.066667
 1935878894,Cyperus_capitatus,36.5066,-4.8884
-1842844888,Cyperus_capitatus,35.11,-2.4
-1842872541,Cyperus_capitatus,35.2,-3.16
 1455437410,Cyperus_capitatus,41.912611,15.529694
-1842896691,Cyperus_capitatus,41.41,2.1
 1935981344,Cyperus_capitatus,37.7348,-0.7429
