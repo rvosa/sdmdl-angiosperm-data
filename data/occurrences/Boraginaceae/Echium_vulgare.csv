@@ -31,7 +31,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844880247,Echium_vulgare,41.033329,22.110001
 1844880064,Echium_vulgare,41.28083,23.98139
 1837902118,Echium_vulgare,48.16,16.50028
-1935686060,Echium_vulgare,48.16667,16.5
 1701099809,Echium_vulgare,43.86025,11.39535
 1801083983,Echium_vulgare,44.751667,37.455
 1801066587,Echium_vulgare,50.94538,39.2599
@@ -118,13 +117,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268885782,Echium_vulgare,50.73581,86.17081
 1988132648,Echium_vulgare,50.15002,-120.90888
 2268885344,Echium_vulgare,52.04273,87.07979
-1095918355,Echium_vulgare,59,17
 1258112475,Echium_vulgare,38.0961,-90.7078
 1258105570,Echium_vulgare,38.096183,-90.707911
 1697742815,Echium_vulgare,44.568056,33.527778
 1135442851,Echium_vulgare,48.03389,16.27389
 895220662,Echium_vulgare,39.551,-0.655
-899759483,Echium_vulgare,49,8.4
 1999502960,Echium_vulgare,60.496299,22.293684
 1929883847,Echium_vulgare,41.710289,-73.938028
 1851334534,Echium_vulgare,43.042,-4.455
@@ -141,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994573533,Echium_vulgare,-41.81703,147.54116
 1061534586,Echium_vulgare,-33.3442,148.9828
 932708106,Echium_vulgare,42.48466,-6.87217
-860313389,Echium_vulgare,41.32,2.1
 932708127,Echium_vulgare,42.49388,-6.88402
 1230696873,Echium_vulgare,38.70417,-79.41556
 1230696774,Echium_vulgare,40.09278,46.24611
@@ -153,7 +149,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 367102777,Echium_vulgare,44.07,7.51052
 1701819959,Echium_vulgare,59.6206,10.9349
 1702252878,Echium_vulgare,60.0066,11.0687
-994571976,Echium_vulgare,-42.5,147.9
 1897830855,Echium_vulgare,-40.891,172.804333
 994564743,Echium_vulgare,-42.8388,147.4339
 1936201291,Echium_vulgare,39.763,-6.4344
@@ -176,7 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441997826,Echium_vulgare,51.461666,14.785556
 1851342524,Echium_vulgare,43.01678,-6.18487
 1657180230,Echium_vulgare,46.62444,13.4225
-994576249,Echium_vulgare,50,20
 1937098610,Echium_vulgare,-30.571944,151.551944
 860313283,Echium_vulgare,41.582,2.37
 895207845,Echium_vulgare,39.619,-0.909
@@ -200,11 +194,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 685199865,Echium_vulgare,-30.875,27.125
 1936205068,Echium_vulgare,41.7619,-4.7336
 1702268405,Echium_vulgare,59.3679,10.7692
-1060370040,Echium_vulgare,53.5,11.4
 1936197480,Echium_vulgare,39.6405,-0.321
 1212095248,Echium_vulgare,40.114722,21.381944
 1839003664,Echium_vulgare,40.114719,21.381941
-1697632834,Echium_vulgare,53.5,39
 2310509775,Echium_vulgare,45.19,-81.42
 1230684876,Echium_vulgare,41.1375,44.20528
 1230684788,Echium_vulgare,41.00361,44.49111
@@ -232,7 +224,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230696160,Echium_vulgare,40.81611,45.50694
 895198084,Echium_vulgare,40.421,-1.532
 1929441311,Echium_vulgare,41.6611,45.8083
-1503347399,Echium_vulgare,52.4,13.240972
 1230696062,Echium_vulgare,40.37389,44.70194
 1701803545,Echium_vulgare,59.7633,10.0236
 1702218198,Echium_vulgare,59.4691,10.783
@@ -240,7 +231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 143004611,Echium_vulgare,43.130001,-6.05
 186806667,Echium_vulgare,58.3902,7.8939
 1978752727,Echium_vulgare,46.796111,-71.312778
-1697632822,Echium_vulgare,51.166667,40.3
 1230696872,Echium_vulgare,40.055,46.53139
 186806666,Echium_vulgare,59.04751,8.54716
 1701643257,Echium_vulgare,59.4804,11.6738
@@ -254,7 +244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042986217,Echium_vulgare,57.3779,12.1354
 441995322,Echium_vulgare,50.604103,12.668124
 1936662160,Echium_vulgare,42.8417,0.7306
-30663683,Echium_vulgare,37.310001,-1.8
 1503347428,Echium_vulgare,52.409028,13.188889
 31961104,Echium_vulgare,42.299,1.893
 1705351698,Echium_vulgare,57.25791,16.47298
@@ -271,7 +260,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993711779,Echium_vulgare,-35.1681,149.1542
 994551337,Echium_vulgare,-42.85,147.43
 932706462,Echium_vulgare,42.33316,-8.81934
-318110308,Echium_vulgare,40.64,-0.2
 1230672914,Echium_vulgare,39.06889,46.36694
 1936645598,Echium_vulgare,41.6536,24.5656
 1851339152,Echium_vulgare,42.279,-6.593
@@ -287,7 +275,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851392542,Echium_vulgare,43.02104,-5.63062
 1599412263,Echium_vulgare,60.858596,26.632278
 1702246363,Echium_vulgare,59.97276,8.53529
-1947053302,Echium_vulgare,49.92,10.9
 1503347449,Echium_vulgare,52.470833,13.223611
 441990306,Echium_vulgare,51.515934,11.193253
 2291878185,Echium_vulgare,52.011,5.913833
@@ -312,9 +299,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895300329,Echium_vulgare,40.346,-2.087
 932704427,Echium_vulgare,42.0045,-7.975
 1947053371,Echium_vulgare,49.94,10.88
-1947053307,Echium_vulgare,49.93,10.9
 1599412271,Echium_vulgare,61.002135,24.473506
-786135082,Echium_vulgare,54.1,12.1
 1949950522,Echium_vulgare,50.781944,-1.125
 1230672721,Echium_vulgare,40.90722,44.42667
 1144044227,Echium_vulgare,60.3832,5.3349
@@ -328,9 +313,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897782483,Echium_vulgare,-42.972778,172.929167
 461814529,Echium_vulgare,-31.375,26.625
 895219708,Echium_vulgare,39.53,-0.516
-30663650,Echium_vulgare,37.299999,-2.1
 30663751,Echium_vulgare,37.349998,-2.07
-996163832,Echium_vulgare,-33.4,149.3667
 1999611931,Echium_vulgare,60.542338,22.223101
 1949648382,Echium_vulgare,49.043056,-118.206111
 1936674323,Echium_vulgare,41.2474,-4.0874
@@ -341,7 +324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851399934,Echium_vulgare,42.279,-6.629
 1851359730,Echium_vulgare,43.01837,-5.52393
 1851375340,Echium_vulgare,42.312,-6.47
-1851370147,Echium_vulgare,42.247,-6.4
 668752454,Echium_vulgare,46.201389,-75.958333
 1851406663,Echium_vulgare,42.39,-6.746
 415934387,Echium_vulgare,43.605,-73.23333
@@ -369,7 +351,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2269046923,Echium_vulgare,44.150766,11.317978
 436957977,Echium_vulgare,49.39389,-1.81444
 1671652964,Echium_vulgare,44.148219,9.666059
-788822069,Echium_vulgare,41.3,23.866667
 1260963612,Echium_vulgare,37.78,-91.68
 30863579,Echium_vulgare,42.34,0.69
 152922077,Echium_vulgare,46.399636,14.245283
@@ -379,7 +360,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851371645,Echium_vulgare,42.5948,-6.2558
 1851391687,Echium_vulgare,42.788532,-6.068717
 1837465988,Echium_vulgare,44.030476,8.142433
-1701409066,Echium_vulgare,59.3212,10.7
 1851319401,Echium_vulgare,42.8075,-5.5017
 1671652786,Echium_vulgare,44.115977,9.718384
 1936614329,Echium_vulgare,43.0204,-4.879
@@ -424,8 +404,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936553304,Echium_vulgare,40.7227,0.1809
 1851407166,Echium_vulgare,42.789,-6.084
 211626130,Echium_vulgare,43.169998,-7.55
-883371042,Echium_vulgare,49.5,-114.233333
-668752420,Echium_vulgare,47.4,-70.390556
 1702193769,Echium_vulgare,59.3434,10.8506
 1936642305,Echium_vulgare,43.0105,-4.2897
 1936642291,Echium_vulgare,43.0104,-4.302
@@ -433,12 +411,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895298432,Echium_vulgare,40.358,-0.957
 461814530,Echium_vulgare,-30.625,28.125
 461814525,Echium_vulgare,-30.875,27.875
-1936693465,Echium_vulgare,-35.85,-71.1
 230817350,Echium_vulgare,51.817335,5.815039
 318110150,Echium_vulgare,41.44,-0.13
 1936670665,Echium_vulgare,41.2732,-4.2072
 1230708405,Echium_vulgare,48.74778,21.27278
-895300012,Echium_vulgare,39.7,-1.89
 895224907,Echium_vulgare,41.346,-1.333
 1599412252,Echium_vulgare,61.309015,23.753051
 318110239,Echium_vulgare,42.52,-3.32
@@ -481,11 +457,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318110084,Echium_vulgare,43.37,-3.04
 895248327,Echium_vulgare,39.757,-0.193
 895170227,Echium_vulgare,39.603,-0.583
-993549812,Echium_vulgare,-35.5833,149.1
 1091254849,Echium_vulgare,-39.366666,175.785
 895200520,Echium_vulgare,39.97,-2.47
 1851401315,Echium_vulgare,42.468,-7.717
-30664477,Echium_vulgare,37.200001,-1.9
 30863758,Echium_vulgare,40.02,-3.59
 1936508189,Echium_vulgare,42.4613,-7.7243
 895173426,Echium_vulgare,39.88,-2.24
@@ -493,7 +467,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211626010,Echium_vulgare,42.459999,-7.72
 1500870060,Echium_vulgare,39.77,-0.28
 30863756,Echium_vulgare,36.68,-2.22
-318110062,Echium_vulgare,39.24,-1.2
 895172838,Echium_vulgare,39.79,-2.12
 895247787,Echium_vulgare,39.318,-0.721
 1936558568,Echium_vulgare,41.4547,1.9213
@@ -503,8 +476,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318109965,Echium_vulgare,42.64,0.21
 204426576,Echium_vulgare,42.928001,-1.83
 1697632858,Echium_vulgare,54.21204,45.779665
-30863765,Echium_vulgare,42.419998,0.2
-318109966,Echium_vulgare,42.19,0.2
 1936573086,Echium_vulgare,41.8432,-6.0245
 1697632893,Echium_vulgare,54.309727,46.078085
 465761435,Echium_vulgare,45.55783,-62.66332
@@ -541,7 +512,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1024272606,Echium_vulgare,55.52,40.29
 1936437034,Echium_vulgare,38.8086,0.0047
 1936635725,Echium_vulgare,39.64,-7.4151
-1897732831,Echium_vulgare,-39.6,176.75
 2290660006,Echium_vulgare,42.866667,2.55
 1851353804,Echium_vulgare,42.798,-5.122
 176935982,Echium_vulgare,38.153847,-79.983042
@@ -570,7 +540,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895239766,Echium_vulgare,40.12,0.01
 895248345,Echium_vulgare,39.59,-0.85
 211626285,Echium_vulgare,43.549999,-7.01
-895219610,Echium_vulgare,39.05,-0.4
 1936421592,Echium_vulgare,40.2696,-3.4717
 895241076,Echium_vulgare,39.86,-0.37
 1230709207,Echium_vulgare,47.93333,16.83333
@@ -614,15 +583,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415962170,Echium_vulgare,41.15861,-73.22583
 1702251459,Echium_vulgare,59.0417,6.5164
 1702251438,Echium_vulgare,58.4746,6.042
-211626280,Echium_vulgare,43.049999,-6
 1699942662,Echium_vulgare,40.316246,8.751317
-1881629006,Echium_vulgare,48.81,10.7
 10858423,Echium_vulgare,48.5316,2.75126
 860311087,Echium_vulgare,38.1022,-0.6388
 895237508,Echium_vulgare,40.49,0.46
 895238791,Echium_vulgare,39.95,-0.48
 1936412314,Echium_vulgare,40.3064,-4.4605
-895282326,Echium_vulgare,40.3,-0.12
 1702387359,Echium_vulgare,58.5234,6.1109
 176935961,Echium_vulgare,39.103539,-95.534192
 1701904956,Echium_vulgare,59.8133,10.3103
@@ -648,14 +614,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439289175,Echium_vulgare,49.30611,3.89639
 1851409005,Echium_vulgare,43.143,-4.937
 1500200091,Echium_vulgare,50.183333,13.133333
-1935686034,Echium_vulgare,44.42083,6.9
 895241582,Echium_vulgare,40.12,-0.12
 1702397592,Echium_vulgare,59.5321,10.5284
 895282283,Echium_vulgare,40.39,0.11
 1599412253,Echium_vulgare,60.966617,24.494798
 1500199976,Echium_vulgare,49.333333,13.75
 10825686,Echium_vulgare,46.8094,4.42361
-895301546,Echium_vulgare,39.7,-2.01
 895301505,Echium_vulgare,39.79,-2.47
 895241189,Echium_vulgare,40.57,0.11
 1947053848,Echium_vulgare,50.16,10.16
@@ -692,7 +656,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936403513,Echium_vulgare,42.726667,-7.021667
 1936400476,Echium_vulgare,42.7651,-3.3435
 1599412288,Echium_vulgare,59.960838,23.505513
-994445629,Echium_vulgare,61,24
 1599412242,Echium_vulgare,61.007841,24.466577
 1936392496,Echium_vulgare,41.6398,-2.8812
 1851336312,Echium_vulgare,41.69,-2.82
@@ -708,24 +671,20 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936692409,Echium_vulgare,39.707,-0.2718
 895222755,Echium_vulgare,40.037,-0.627
 1500701348,Echium_vulgare,40.75,-0.22
-895205251,Echium_vulgare,40.4,0.35
 176935989,Echium_vulgare,42.962,-85.865
 895222717,Echium_vulgare,40.019,-0.639
 895222699,Echium_vulgare,40.028,-0.65
 1500991663,Echium_vulgare,40.02,-0.65
 1500992010,Echium_vulgare,40.03,-0.62
-1500699879,Echium_vulgare,40.4,-0.35
 1500700620,Echium_vulgare,39.94,-0.13
 1500698617,Echium_vulgare,40.48,-0.11
 1500992163,Echium_vulgare,40.01,-0.63
 1936523774,Echium_vulgare,42.7979,-3.9307
 1936412058,Echium_vulgare,39.6307,-0.4845
 895183182,Echium_vulgare,40.03,-0.25
-895184622,Echium_vulgare,40.66,0.1
 143004478,Echium_vulgare,36.860001,-2.44
 895184559,Echium_vulgare,40.75,0.22
 1261000002,Echium_vulgare,37.62694,-92.1675
-895205258,Echium_vulgare,40.3,0.23
 895184482,Echium_vulgare,40.66,0.22
 895174794,Echium_vulgare,39.736,-0.485
 1697632827,Echium_vulgare,51.58173,37.615342
@@ -733,34 +692,26 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1668935370,Echium_vulgare,54.913,37.568
 1936391837,Echium_vulgare,40.4471,-5.2417
 895184681,Echium_vulgare,40.49,-0.35
-1500697095,Echium_vulgare,40.66,-0.1
 1842902467,Echium_vulgare,40.2908,-3.4743
 1050581925,Echium_vulgare,42.87,-0.64
-1988173032,Echium_vulgare,49.3,-123.2
 1989322287,Echium_vulgare,44.89991,-85.06522
 1599412250,Echium_vulgare,60.443195,22.446945
 1042986297,Echium_vulgare,57.3536,12.465
 1936403684,Echium_vulgare,42.3488,-0.0268
-993351182,Echium_vulgare,-35.5,149.0667
 993352663,Echium_vulgare,-35.3333,148.85
 895239091,Echium_vulgare,40.03,0.01
 993346525,Echium_vulgare,-35.8833,148.45
-2270477165,Echium_vulgare,-35.6,-71.2
 1091175369,Echium_vulgare,-45.051666,169.03
-895260465,Echium_vulgare,40.05,-1.3
 1501067395,Echium_vulgare,39.63,-0.44
 994712081,Echium_vulgare,-33.4667,149.4833
 994438895,Echium_vulgare,-33.46523,149.48422
 1451483377,Echium_vulgare,-33.465105,149.484509
 995634810,Echium_vulgare,-33.47,149.48
 1851351079,Echium_vulgare,42.463,-6.817
-895261076,Echium_vulgare,39.5,-0.5
 895261421,Echium_vulgare,39.42,-0.97
 1053984414,Echium_vulgare,42.65,-1.09
 1936403899,Echium_vulgare,40.437,-6.2897
-1053984451,Echium_vulgare,42.63,-1.1
 1260936773,Echium_vulgare,37.33694,-91.295
-895261857,Echium_vulgare,39.96,-1.3
 1053982563,Echium_vulgare,42.57,-1.63
 1261142642,Echium_vulgare,37.764444,-91.068611
 1144098436,Echium_vulgare,60.415,5.3041
@@ -794,7 +745,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176935993,Echium_vulgare,42.929,-85.06
 1705345057,Echium_vulgare,57.27218,15.674268
 1053984456,Echium_vulgare,42.66,-1.15
-895156522,Echium_vulgare,38.8,-2.37
 1936398014,Echium_vulgare,42.3488,0.8256
 1050631514,Echium_vulgare,42.88,-1.96
 1851356331,Echium_vulgare,42.793,-4.84
@@ -806,7 +756,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204426323,Echium_vulgare,42.870998,-1.574
 204426324,Echium_vulgare,42.391998,-1.415
 1851383333,Echium_vulgare,42.815,-4.621
-895305297,Echium_vulgare,40.3,-0.23
 1053984439,Echium_vulgare,42.62,-1.15
 30862804,Echium_vulgare,43.16,-4.85
 1053983496,Echium_vulgare,42.66,-1.05
@@ -825,7 +774,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204426320,Echium_vulgare,42.713001,-1.174
 461814517,Echium_vulgare,-31.125,27.875
 895258089,Echium_vulgare,39.77,-0.49
-1897829694,Echium_vulgare,-43.3,172.6
 461814520,Echium_vulgare,-30.875,27.625
 1851368158,Echium_vulgare,39.678,-0.277
 895267330,Echium_vulgare,39.67,-0.26
@@ -853,12 +801,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936408349,Echium_vulgare,42.1124,-6.7153
 186805856,Echium_vulgare,58.9513,7.7051
 1936124075,Echium_vulgare,38.5881,-1.7612
-995493049,Echium_vulgare,-33.1,149.533333
-996070574,Echium_vulgare,-33.1,149.53
 1451674841,Echium_vulgare,-33.098437,149.534505
 1332530339,Echium_vulgare,50.5768,9.8273
 995496630,Echium_vulgare,-36.35,148.733333
-1091161770,Echium_vulgare,-42.7,172.866666
 895257607,Echium_vulgare,38.87,-0.41
 994609212,Echium_vulgare,-42.95,147.53
 1936171537,Echium_vulgare,38.8219,-0.5823
@@ -884,7 +829,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091121872,Echium_vulgare,-43.985,170.458333
 895156461,Echium_vulgare,39.58,-0.26
 1842889229,Echium_vulgare,40.94,0.56
-895255304,Echium_vulgare,39.6,-0.96
 1936171776,Echium_vulgare,38.7385,-0.9303
 1936564539,Echium_vulgare,42.7086,-3.8317
 895214255,Echium_vulgare,38.78,-0.87
@@ -907,7 +851,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993886909,Echium_vulgare,-35.3333,148.9333
 992507175,Echium_vulgare,-41.383421,146.407763
 1897641644,Echium_vulgare,-38.25,175.116667
-994445016,Echium_vulgare,-41.4,146.4
 1450979458,Echium_vulgare,-35.8178,149.0678
 1451674760,Echium_vulgare,-33.365101,150.134499
 996070637,Echium_vulgare,-33.37,150.13
@@ -926,7 +869,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204426295,Echium_vulgare,43.058998,-2.539
 1262016066,Echium_vulgare,45.033333,-73.05
 1936171636,Echium_vulgare,42.7065,-5.712
-473445512,Echium_vulgare,45.5,-73.6
 1804401201,Echium_vulgare,45.277778,-76.791667
 204426334,Echium_vulgare,43.188999,-1.739
 1697289661,Echium_vulgare,52.666667,85.666667
@@ -941,7 +883,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806556273,Echium_vulgare,42.852578,-1.661392
 1936172356,Echium_vulgare,39.8212,-1.015
 1050631527,Echium_vulgare,43.34,-3.05
-1842870009,Echium_vulgare,41.41,2.1
 1936367292,Echium_vulgare,40.7195,-3.5933
 1050631507,Echium_vulgare,43.15,-2.67
 204426465,Echium_vulgare,42.59,-2.45
@@ -970,13 +911,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30862830,Echium_vulgare,38.130001,-3.46
 1936172568,Echium_vulgare,39.999,-3.5519
 30862838,Echium_vulgare,36.110001,-5.89
-1702509552,Echium_vulgare,42.73,-1.6
-1144673047,Echium_vulgare,42.3,9.15
 204426332,Echium_vulgare,43.234001,-1.738
 668752427,Echium_vulgare,46.749722,-71.290556
 1949577527,Echium_vulgare,50.130556,-120.797222
 1260996321,Echium_vulgare,37.4318,-91.0944
-1988121818,Echium_vulgare,50.2,-120.8
 204426331,Echium_vulgare,43.296001,-1.712
 1936099161,Echium_vulgare,42.4688,-6.5321
 204426466,Echium_vulgare,42.669998,-2.21
@@ -986,13 +924,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697632774,Echium_vulgare,54.713408,40.854836
 186805869,Echium_vulgare,58.753,9.1115
 1936173389,Echium_vulgare,42.3333,-2.8678
-1804521389,Echium_vulgare,44.7,-75.55
 211625573,Echium_vulgare,43.16,-4.81
 1936172563,Echium_vulgare,42.2873,-6.4665
 186805863,Echium_vulgare,58.7615,9.0778
 1262007223,Echium_vulgare,45.25,-74.133333
 1806556352,Echium_vulgare,42.855335,-1.67389
-1988102075,Echium_vulgare,48.7,-90.4
 1702283113,Echium_vulgare,59.4342,10.4896
 2244422323,Echium_vulgare,34.868611,136.575278
 1851394500,Echium_vulgare,43.01,-6.36
@@ -1007,7 +943,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050581939,Echium_vulgare,42.67,-2.43
 1936442142,Echium_vulgare,38.144,-3.0811
 318222104,Echium_vulgare,59.1519,6.1683
-1804403855,Echium_vulgare,45.3,-75.55
 1262006924,Echium_vulgare,47.37,-70.430278
 1804539743,Echium_vulgare,43.666667,-79.633333
 1999503036,Echium_vulgare,60.229599,23.476906
@@ -1027,7 +962,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936036143,Echium_vulgare,41.7814,-2.2312
 606661427,Echium_vulgare,41.88333,-74.25027
 1451674888,Echium_vulgare,-33.265107,149.10118
-996070617,Echium_vulgare,-33.27,149.1
 1450979463,Echium_vulgare,-35.8175,149.07
 461814514,Echium_vulgare,-33.625,18.875
 992426493,Echium_vulgare,-31.73,140.35
@@ -1035,10 +969,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 143004630,Echium_vulgare,36.849998,-4.91
 1842901467,Echium_vulgare,42.253,-0.266
 1056191835,Echium_vulgare,50.117316,-5.498496
-1804511018,Echium_vulgare,44.866667,-75.7
 1697742823,Echium_vulgare,44.86974,35.005875
 1936025176,Echium_vulgare,43.0355,-4.4621
-1262007815,Echium_vulgare,47.45,-70.5
 1697742846,Echium_vulgare,44.461966,33.948784
 1702390143,Echium_vulgare,59.2822,10.7513
 1851381559,Echium_vulgare,42.28,-5.97
@@ -1049,9 +981,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936159137,Echium_vulgare,41.9905,-3.3876
 1701858396,Echium_vulgare,59.2327,10.6965
 1701903642,Echium_vulgare,59.2078,9.6041
-1897814528,Echium_vulgare,46.8,10.302778
 1262004497,Echium_vulgare,46.820833,-71.215278
-1030489156,Echium_vulgare,42.9,-86.2
 1936160604,Echium_vulgare,41.9181,-3.4716
 1262032978,Echium_vulgare,46.754564,-71.296
 1702034529,Echium_vulgare,59.2239,10.9142
@@ -1063,7 +993,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993446617,Echium_vulgare,-36.6667,146.8667
 994814690,Echium_vulgare,-36.2167,149.1167
 994815170,Echium_vulgare,-36.6833,146.8833
-1897708113,Echium_vulgare,-39.3,175.733333
 1262033018,Echium_vulgare,46.782269,-71.283362
 1702283150,Echium_vulgare,59.3899,10.5185
 1042986272,Echium_vulgare,58.212,11.4183
@@ -1085,7 +1014,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323763963,Echium_vulgare,59.4307,10.6472
 318222100,Echium_vulgare,58.4918,6.0062
 1262003914,Echium_vulgare,45.616667,-76.65
-1949572850,Echium_vulgare,49.2,-121.5
 1705747753,Echium_vulgare,54.5194,18.5396
 1451485074,Echium_vulgare,-33.665103,150.051171
 1936850386,Echium_vulgare,-33.67,150.05
@@ -1112,7 +1040,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050581955,Echium_vulgare,42.83,-3.22
 1936251800,Echium_vulgare,42.8284,-3.2338
 1999571725,Echium_vulgare,60.245193,23.556433
-668752424,Echium_vulgare,45.533333,-74.2
 668752430,Echium_vulgare,46.786111,-71.236111
 668752438,Echium_vulgare,46.751389,-71.2875
 1851404860,Echium_vulgare,42.47,-5.62
@@ -1122,7 +1049,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451674961,Echium_vulgare,-33.6151,150.267834
 1599412247,Echium_vulgare,59.981133,23.473673
 1851365453,Echium_vulgare,42.49,-7.48
-211625647,Echium_vulgare,43.049999,-6.3
 1260850424,Echium_vulgare,43.39222,6.3425
 204426289,Echium_vulgare,42.744999,-2.664
 1851363353,Echium_vulgare,40.246,-5.263
@@ -1143,7 +1069,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788510176,Echium_vulgare,60.62123,17.01137
 1050582002,Echium_vulgare,42.97,-3.03
 900336862,Echium_vulgare,59.8857,10.5464
-1050581972,Echium_vulgare,42.8,-2.77
 1702011532,Echium_vulgare,59.433,10.6244
 1050581953,Echium_vulgare,42.95,-2.33
 668752418,Echium_vulgare,46.766667,-71.25
@@ -1151,7 +1076,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995298130,Echium_vulgare,-38.3667,144.9167
 994730568,Echium_vulgare,-33.6167,149.1167
 2234314059,Echium_vulgare,36.443753,-78.83084
-1262002055,Echium_vulgare,45.566667,-72
 1050581938,Echium_vulgare,42.83,-5.39
 461814512,Echium_vulgare,-28.375,29.125
 1949588016,Echium_vulgare,49.633333,-115.85
@@ -1170,7 +1094,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 216098242,Echium_vulgare,60.493,24.6224
 415962199,Echium_vulgare,40.73722,-72.87472
 211626050,Echium_vulgare,43.040001,-6.14
-1146391828,Echium_vulgare,64.85,-147.8
 993927014,Echium_vulgare,52.25,4.4333
 1936172142,Echium_vulgare,40.2827,-1.8249
 1697825688,Echium_vulgare,42.794645,44.007368
@@ -1202,14 +1125,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899328842,Echium_vulgare,43.65,-79.383333
 1258806291,Echium_vulgare,38.95,-92.33333
 1949533620,Echium_vulgare,49.233333,-121.766667
-1897750091,Echium_vulgare,-38.95,175.8
 1702357269,Echium_vulgare,59.1537,9.6556
 788551625,Echium_vulgare,55.931136,14.022755
 211625681,Echium_vulgare,43.130001,-6.07
 1899349640,Echium_vulgare,43.783333,-79.116667
 176935980,Echium_vulgare,39.67395,-95.89986
 1697632702,Echium_vulgare,54.802039,41.743495
-1851410571,Echium_vulgare,42.82,-6
 1697825689,Echium_vulgare,44.73137,37.822838
 1702357296,Echium_vulgare,59.3069,9.5356
 1701903674,Echium_vulgare,59.28,9.5352
@@ -1253,7 +1174,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599412352,Echium_vulgare,61.169958,25.974984
 211625662,Echium_vulgare,42.689999,-0.57
 1050581948,Echium_vulgare,42.69,-0.56
-1804595094,Echium_vulgare,45.4,-76.733333
 199474727,Echium_vulgare,42.692,-0.565
 1936145351,Echium_vulgare,42.6859,-0.5723
 1842897782,Echium_vulgare,41.69,2.46
@@ -1266,7 +1186,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042986243,Echium_vulgare,57.7128,11.9153
 1599412345,Echium_vulgare,62.412275,24.771673
 993187310,Echium_vulgare,-35.35,149.0333
-995483629,Echium_vulgare,-30.2,151.666667
 1451674789,Echium_vulgare,-36.215114,149.11789
 996070387,Echium_vulgare,-36.22,149.12
 1851329372,Echium_vulgare,42.65,-5.62
@@ -1289,7 +1208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897711313,Echium_vulgare,-36.816667,174.783333
 1701328484,Echium_vulgare,59.4417,10.6134
 994002785,Echium_vulgare,-35.3333,148.95
-1897682116,Echium_vulgare,-41.3,173.066667
 1897676271,Echium_vulgare,-38.016667,178.333333
 1842870002,Echium_vulgare,42.13,1.85
 1702329513,Echium_vulgare,59.8887,10.5278
@@ -1302,8 +1220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978790629,Echium_vulgare,45.045833,6.304722
 1261975830,Echium_vulgare,48.433333,-71.866667
 1949507577,Echium_vulgare,49.05,-115.95
-994556646,Echium_vulgare,-33.3,149.1
-992190205,Echium_vulgare,-38.3,141.6
 1325700575,Echium_vulgare,-26.875,29.875
 461814497,Echium_vulgare,-27.125,29.875
 1842902318,Echium_vulgare,41.32,1.98
@@ -1318,7 +1234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899376451,Echium_vulgare,43.966667,-79.516667
 1988878904,Echium_vulgare,44.632511,-86.228704
 1144098422,Echium_vulgare,60.4287,5.5788
-1842897767,Echium_vulgare,41.5,1.86
 995467549,Echium_vulgare,-33.25,148.983333
 1897769366,Echium_vulgare,-38.65,176.133333
 860319810,Echium_vulgare,42.03,1.01
@@ -1338,7 +1253,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318541800,Echium_vulgare,38.7922,-77.8392
 1451674712,Echium_vulgare,-31.498454,145.817882
 1451674738,Echium_vulgare,-33.348435,149.967834
-996070283,Echium_vulgare,-32.8,149.82
 1451674696,Echium_vulgare,-32.798434,149.817831
 996070658,Echium_vulgare,-33.35,149.97
 996070457,Echium_vulgare,-35.45,149.07
@@ -1352,11 +1266,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702309470,Echium_vulgare,59.2094,10.9016
 1702357257,Echium_vulgare,59.0423,8.5643
 176935962,Echium_vulgare,37.66027,-91.07837
-996070404,Echium_vulgare,-35.45,149.8
 1897707904,Echium_vulgare,-36.75,175.416667
 1451674754,Echium_vulgare,-35.448436,149.801196
 2269046792,Echium_vulgare,44.13416,11.29431
-1891591078,Echium_vulgare,49.8,6.51
 1056777688,Echium_vulgare,50.202835,-5.415526
 1056296863,Echium_vulgare,50.203427,-5.416489
 1897814520,Echium_vulgare,-42.538333,-73.805556
@@ -1364,7 +1276,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461814502,Echium_vulgare,-27.375,29.875
 992454382,Echium_vulgare,-33.834276,138.612754
 992176665,Echium_vulgare,-33.835556,138.611667
-1949500208,Echium_vulgare,49.5,-118.666667
 993132747,Echium_vulgare,-36.15,149.15
 1897643121,Echium_vulgare,-39.683333,175.783333
 1988090137,Echium_vulgare,45.23,-75.87
@@ -1374,8 +1285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 859259908,Echium_vulgare,44.89747,-85.41883
 859259912,Echium_vulgare,44.84406,-85.65216
 1705332225,Echium_vulgare,56.009581,14.438707
-993146388,Echium_vulgare,-35.8,148.9833
-1261964292,Echium_vulgare,45.133333,-71.8
 2234313273,Echium_vulgare,35.994033,-78.898619
 2234313759,Echium_vulgare,36.489863,-78.959733
 1701883929,Echium_vulgare,59.231,10.6911
@@ -1387,14 +1296,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1098988667,Echium_vulgare,48.424446,10.447222
 1042986231,Echium_vulgare,57.4546,12.1839
 1451674614,Echium_vulgare,-34.76512,146.917902
-993134074,Echium_vulgare,-36.73,149.7
 993151718,Echium_vulgare,-36.9167,149.65
-993762862,Echium_vulgare,-36.1833,149.1
 1322730249,Echium_vulgare,38.7025,-76.5831
 1935685975,Echium_vulgare,47.04083,15.45889
 1988164828,Echium_vulgare,45.82,-77.12
 1288102337,Echium_vulgare,50.5858,9.82794
-1988068927,Echium_vulgare,47.9,-84.9
 176935958,Echium_vulgare,37.25622,-90.96874
 1702309476,Echium_vulgare,59.2739,11.132
 1702203780,Echium_vulgare,59.8845,10.5428
@@ -1417,7 +1323,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2273633654,Echium_vulgare,55.79848,14.16002
 1988222840,Echium_vulgare,50.36,-119.35
 1261967686,Echium_vulgare,46.782222,-71.264722
-995577352,Echium_vulgare,-33.7,149.57
 1451456562,Echium_vulgare,-33.698439,149.567844
 1697742832,Echium_vulgare,44.519184,34.243312
 993685244,Echium_vulgare,-36.2333,149.1278
@@ -1449,13 +1354,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055372314,Echium_vulgare,51.781112,-0.667788
 1999502942,Echium_vulgare,60.260257,23.446368
 668752459,Echium_vulgare,49.090833,-68.604722
-1261958212,Echium_vulgare,46.7,-71.583333
 1599412226,Echium_vulgare,60.567958,21.860308
 1705315638,Echium_vulgare,56.459455,12.764015
 2242391367,Echium_vulgare,40.835294,-77.676865
 1599412338,Echium_vulgare,60.767062,23.418025
 1897717669,Echium_vulgare,-36.85,174.766667
-995577017,Echium_vulgare,-35.8,147.92
 1451456954,Echium_vulgare,-35.798454,147.917903
 1099913327,Echium_vulgare,55.771111,11.390833
 812024252,Echium_vulgare,50.650267,9.1705
@@ -1475,8 +1378,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465761430,Echium_vulgare,45.53998,-62.07872
 1999502939,Echium_vulgare,60.736441,22.824877
 465761431,Echium_vulgare,45.664951,-62.349505
-993990969,Echium_vulgare,-33.5,150.2
-1937149178,Echium_vulgare,-30.2,151.733333
 993746419,Echium_vulgare,-33.5167,150.2833
 461814503,Echium_vulgare,-29.375,27.375
 1936876719,Echium_vulgare,-33.45,149.816667
@@ -1490,7 +1391,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261996208,Echium_vulgare,45.466667,-74.083333
 1057584997,Echium_vulgare,51.230589,-2.373752
 1891595062,Echium_vulgare,49.47,6.03
-438622060,Echium_vulgare,42.9,0.06667
 1989261624,Echium_vulgare,45.743537,-85.522524
 1056823005,Echium_vulgare,51.096672,-4.179259
 1056992954,Echium_vulgare,51.102291,-4.215234
@@ -1510,12 +1410,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988919885,Echium_vulgare,45.328222,-85.160101
 1697750950,Echium_vulgare,44.564453,34.335108
 1098988669,Echium_vulgare,48.851112,10.353333
-1988213380,Echium_vulgare,49.5,-117.29
 1842854783,Echium_vulgare,40.4892,-0.9265
 1042986299,Echium_vulgare,57.8906,12.0593
 1697742844,Echium_vulgare,44.602691,34.25314
 1261955805,Echium_vulgare,46.906111,-71.189722
-995731941,Echium_vulgare,-33.42,149.7
 1451520863,Echium_vulgare,-33.415104,149.701172
 1949509816,Echium_vulgare,47.328889,-79.810278
 1705380940,Echium_vulgare,55.688214,13.644393
@@ -1539,11 +1437,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030489174,Echium_vulgare,45.05611,-85.8675
 1056625098,Echium_vulgare,51.150533,-0.57164
 1599412333,Echium_vulgare,60.878053,24.32687
-2287138674,Echium_vulgare,46.2,14.616667
 51821512,Echium_vulgare,44.4997,-122.5833
 1705479259,Echium_vulgare,55.43139,11.55583
 1891598264,Echium_vulgare,49.48,5.99
-1261953297,Echium_vulgare,46.85,-71.2
 1697632747,Echium_vulgare,56.059597,37.084516
 1702293103,Echium_vulgare,58.2756,7.9771
 1999571756,Echium_vulgare,60.500279,22.746007
@@ -1568,7 +1464,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891605729,Echium_vulgare,49.47,6.02
 1042986239,Echium_vulgare,57.7045,11.9652
 1451456978,Echium_vulgare,-35.298448,148.217888
-995577073,Echium_vulgare,-35.3,148.22
 788460674,Echium_vulgare,55.628938,13.142639
 1099910995,Echium_vulgare,55.5863,13.09887
 1042986288,Echium_vulgare,58.7033,11.5572
@@ -1593,7 +1488,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701341430,Echium_vulgare,59.5695,9.2743
 1897637429,Echium_vulgare,-44.35,171.233333
 461814509,Echium_vulgare,-32.625,25.625
-1897731025,Echium_vulgare,-43,172
 1319453302,Echium_vulgare,38.8111,-76.7028
 186805853,Echium_vulgare,59.7118,10.5552
 812024260,Echium_vulgare,50.654783,9.148867
@@ -1614,7 +1508,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697632882,Echium_vulgare,49.646927,44.750096
 1988209264,Echium_vulgare,49.63,-115.95
 1599412209,Echium_vulgare,60.86395,26.711627
-1261949487,Echium_vulgare,45.6,-76.483333
 1599412201,Echium_vulgare,60.90007,27.153474
 1055405053,Echium_vulgare,51.610961,0.484874
 1042986292,Echium_vulgare,58.4458,11.3752
@@ -1677,7 +1570,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899302720,Echium_vulgare,43.732195,-79.368602
 1042986183,Echium_vulgare,55.4282,14.1109
 1935955486,Echium_vulgare,40.4968,-6.1575
-860323716,Echium_vulgare,41.6,2.46
 1042986274,Echium_vulgare,57.935,11.5867
 1042986268,Echium_vulgare,58.0118,11.6232
 1999502929,Echium_vulgare,60.299296,23.930829
@@ -1694,7 +1586,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994522775,Echium_vulgare,-42.81529,147.33437
 1042986267,Echium_vulgare,57.8651,11.9949
 1055750402,Echium_vulgare,51.303973,0.867816
-165390531,Echium_vulgare,41.78,2.7
 1705498755,Echium_vulgare,59.9795,23.4432
 788463211,Echium_vulgare,55.428153,14.110889
 788486390,Echium_vulgare,55.58055,13.254462
@@ -1708,7 +1599,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697289680,Echium_vulgare,42.958239,133.819738
 1622363188,Echium_vulgare,62.368631,21.224584
 1705368928,Echium_vulgare,58.045316,14.975497
-1988090080,Echium_vulgare,49.7,-116
 788539904,Echium_vulgare,55.93478,13.97725
 788456167,Echium_vulgare,56.05827,14.492
 788523461,Echium_vulgare,56.031862,14.152378
@@ -1731,7 +1621,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788732934,Echium_vulgare,56.262414,15.620531
 1042986309,Echium_vulgare,59.1985,17.6258
 1935955236,Echium_vulgare,41.6368,-3.8418
-1988104307,Echium_vulgare,50.23,-121.1
 1042986324,Echium_vulgare,59.6124,16.5407
 1042986246,Echium_vulgare,57.6999,12.053
 788459226,Echium_vulgare,59.61238,16.540739
@@ -1747,7 +1636,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099918922,Echium_vulgare,57.137778,10.01
 1144098344,Echium_vulgare,59.84258,10.45045
 788539427,Echium_vulgare,55.99661,12.74211
-2235847613,Echium_vulgare,44.2,-77.25
 1897814502,Echium_vulgare,44.177778,-77.2425
 1701615244,Echium_vulgare,59.164,11.0435
 1055376577,Echium_vulgare,50.979352,-2.115329
@@ -1756,7 +1644,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701422701,Echium_vulgare,60.2384,6.93058
 812024255,Echium_vulgare,50.64365,9.407983
 473551315,Echium_vulgare,45.4964,-73.8911
-1988221351,Echium_vulgare,50.25,-117.8
 788788046,Echium_vulgare,56.151907,14.29927
 1697632802,Echium_vulgare,55.70106,36.721153
 788732819,Echium_vulgare,56.216726,15.675455
@@ -1768,7 +1655,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042986308,Echium_vulgare,59.4907,18.0567
 1702227749,Echium_vulgare,60.86693,7.23398
 1055836096,Echium_vulgare,51.280656,-0.22348
-1988129692,Echium_vulgare,48.8,-86.3
 1702309488,Echium_vulgare,59.0431,10.9608
 747064,Echium_vulgare,56.877485,14.811873
 1144098469,Echium_vulgare,60.5641,6.8965
@@ -1777,7 +1663,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 474790409,Echium_vulgare,45.59629,-73.51337
 788533848,Echium_vulgare,59.212366,17.88185
 1705429509,Echium_vulgare,55.636754,13.112939
-1988173776,Echium_vulgare,50.1,-120.8
 176935969,Echium_vulgare,39.39887,-95.02735
 788484534,Echium_vulgare,58.35472,11.97496
 415962201,Echium_vulgare,43.38166,-87.94055
@@ -1816,7 +1701,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415962202,Echium_vulgare,45.46666,-73.75
 788425194,Echium_vulgare,57.515673,14.906158
 1322387135,Echium_vulgare,38.8664,-77.7064
-176935994,Echium_vulgare,45.5,-73.58333
 1042986233,Echium_vulgare,57.4131,12.0223
 1042986244,Echium_vulgare,57.6062,12.0554
 1030489182,Echium_vulgare,42.27083,-83.72639
@@ -1826,14 +1710,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702216511,Echium_vulgare,60.5686,6.9138
 1065679265,Echium_vulgare,64.363799,21.089003
 788494065,Echium_vulgare,60.49961,15.45788
-1897623696,Echium_vulgare,-36.9,174.766667
 1705257931,Echium_vulgare,56.107845,13.916269
 1930039047,Echium_vulgare,40.642048,-74.441201
 2313348318,Echium_vulgare,48.17,11.46
 2242396490,Echium_vulgare,49.756958,0.383406
 1701307649,Echium_vulgare,63.3085,10.1673
 1702357235,Echium_vulgare,61.13415,10.39176
-1261951496,Echium_vulgare,45.483333,-74.3
 788537387,Echium_vulgare,56.15798,14.09413
 1042986265,Echium_vulgare,58.9374,11.2798
 415962184,Echium_vulgare,42.71194,-73.20361
@@ -1875,7 +1757,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038967864,Echium_vulgare,41.1932,-73.196
 415962173,Echium_vulgare,41.18638,-73.19611
 1701334837,Echium_vulgare,59.1911,9.6214
-1261946709,Echium_vulgare,48.1,-66.133333
 1702283189,Echium_vulgare,59.4356,10.4897
 1599412319,Echium_vulgare,61.078762,28.201322
 415962175,Echium_vulgare,41.51222,-75.90416
@@ -1990,7 +1871,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999638035,Echium_vulgare,60.359155,25.638146
 465761438,Echium_vulgare,45.36468,-63.27865
 1056631225,Echium_vulgare,50.885899,-0.6793
-786135037,Echium_vulgare,43.4,-4.8
 1949490481,Echium_vulgare,50.416667,-121.35
 1936007835,Echium_vulgare,40.0333,-3.59773
 1144098451,Echium_vulgare,59.9091,5.3002
@@ -2014,18 +1894,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056395298,Echium_vulgare,51.315399,-0.1649
 1055522071,Echium_vulgare,51.744301,-0.8042
 1055561842,Echium_vulgare,50.834202,-0.2716
-994900765,Echium_vulgare,-37.3,143.7667
 1099919632,Echium_vulgare,59.890833,10.527778
 1988123154,Echium_vulgare,49.23,-123.17
 1599415260,Echium_vulgare,61.573108,23.325308
-1988163041,Echium_vulgare,49.9,-119.5
 1144098501,Echium_vulgare,60.5702,6.9077
 788458238,Echium_vulgare,57.683596,13.228139
 1999571746,Echium_vulgare,62.241546,30.354667
 1599412202,Echium_vulgare,61.527355,28.218602
 1988993083,Echium_vulgare,42.24417,-83.62111
 1055551822,Echium_vulgare,51.255001,-0.3086
-1949490612,Echium_vulgare,49.1,-116.5
 436717954,Echium_vulgare,47.91667,6.65
 1999611982,Echium_vulgare,61.172294,27.647365
 1705263010,Echium_vulgare,57.274268,16.435148
@@ -2125,7 +2002,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1057262742,Echium_vulgare,51.724899,-2.2503
 1144098434,Echium_vulgare,60.3873,5.2744
 1056711074,Echium_vulgare,51.506201,-0.27236
-786135054,Echium_vulgare,48.1,20.8
 788433470,Echium_vulgare,56.788998,15.132901
 1056294581,Echium_vulgare,53.683498,-1.8449
 1930659955,Echium_vulgare,42.408823,-74.617236
