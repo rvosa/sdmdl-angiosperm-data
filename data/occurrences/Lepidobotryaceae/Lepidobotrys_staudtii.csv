@@ -14,9 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2284255020,Lepidobotrys_staudtii,4.9261,9.7361
 2013889147,Lepidobotrys_staudtii,4.926111,9.733333
 912096037,Lepidobotrys_staudtii,4.93,9.73
-2291738811,Lepidobotrys_staudtii,1.416667,28.583333
-1261855248,Lepidobotrys_staudtii,1.31666,28.63333
-2289833159,Lepidobotrys_staudtii,1.316667,28.633333
 912087326,Lepidobotrys_staudtii,4.47,9.07
 912087312,Lepidobotrys_staudtii,4.42,9.03
 1261877553,Lepidobotrys_staudtii,2.78333,16.41666
@@ -35,7 +32,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289668765,Lepidobotrys_staudtii,3.208333,13.625
 2290068711,Lepidobotrys_staudtii,3.833333,10.833333
 2288287590,Lepidobotrys_staudtii,3.783333,10.616667
-2289836490,Lepidobotrys_staudtii,3.466667,25.716667
 2290106096,Lepidobotrys_staudtii,4.583333,13.733333
 2289091978,Lepidobotrys_staudtii,4.85,13.4
 2291738970,Lepidobotrys_staudtii,4.85,13.383333
@@ -43,4 +39,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289983270,Lepidobotrys_staudtii,4.35,12.933333
 2291738934,Lepidobotrys_staudtii,3.9,17.933333
 2289166965,Lepidobotrys_staudtii,0.783333,11.533333
-1839462977,Lepidobotrys_staudtii,2.666667,23.183333
