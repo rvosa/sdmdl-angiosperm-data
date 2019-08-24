@@ -19,9 +19,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900315036,Cicerbita_alpina,59.3875,7.145
 1701322369,Cicerbita_alpina,63.2902,10.0652
 1702269560,Cicerbita_alpina,62.2221,11.9507
-1095899099,Cicerbita_alpina,60.9,16.23
 2332959360,Cicerbita_alpina,67.974585,16.546105
-1095899250,Cicerbita_alpina,63.3,13.05
 1701278620,Cicerbita_alpina,63.257,10.5427
 1701285279,Cicerbita_alpina,64.8943,13.0808
 1702241128,Cicerbita_alpina,59.9448,11.7488
@@ -98,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701336664,Cicerbita_alpina,63.3894,10.8801
 1702077534,Cicerbita_alpina,60.9609,8.603
 1702002169,Cicerbita_alpina,61.6169,12.0078
-1702206473,Cicerbita_alpina,63.6831,11.3
 187135248,Cicerbita_alpina,63.3298,9.649
 1701316753,Cicerbita_alpina,63.048,9.1869
 1701844621,Cicerbita_alpina,59.3736,7.3644
@@ -618,7 +615,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187134733,Cicerbita_alpina,66.0477,13.532
 1701233933,Cicerbita_alpina,64.5192,12.3641
 1701880749,Cicerbita_alpina,60.5967,7.4653
-1563301657,Cicerbita_alpina,68.57,18.5
 1701258163,Cicerbita_alpina,63.1572,10.0024
 1701667477,Cicerbita_alpina,62.53672,9.51846
 1701257973,Cicerbita_alpina,64.5987,12.2937
