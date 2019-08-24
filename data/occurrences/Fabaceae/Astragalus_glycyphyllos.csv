@@ -19,8 +19,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1837899701,Astragalus_glycyphyllos,50.834999,10.912222
 1948563106,Astragalus_glycyphyllos,60.881236,26.490544
 1697351014,Astragalus_glycyphyllos,56.561313,37.369428
-1697350973,Astragalus_glycyphyllos,56.1,42.638333
-2313368779,Astragalus_glycyphyllos,48.17,11.4
 1842877917,Astragalus_glycyphyllos,43.07586,-3.23579
 1702250890,Astragalus_glycyphyllos,59.8062,10.2567
 1697350951,Astragalus_glycyphyllos,56.323333,41.705278
@@ -44,7 +42,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838964473,Astragalus_glycyphyllos,38.64056,21.83917
 1697803003,Astragalus_glycyphyllos,44.7103,37.477867
 1291945322,Astragalus_glycyphyllos,58.83544,24.7497
-899741314,Astragalus_glycyphyllos,51.4,10.9
 1838964660,Astragalus_glycyphyllos,38.76194,21.85194
 1144584135,Astragalus_glycyphyllos,43.83278,7.70944
 1702379517,Astragalus_glycyphyllos,59.7317,10.3054
@@ -147,10 +144,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697562013,Astragalus_glycyphyllos,55.21456,36.364105
 1936692274,Astragalus_glycyphyllos,41.3189,0.9976
 1936680548,Astragalus_glycyphyllos,39.8969,21.0128
-786095075,Astragalus_glycyphyllos,49.5,9.9
 1702268917,Astragalus_glycyphyllos,59.302,10.691
-786095066,Astragalus_glycyphyllos,49.7,9.6
-786095071,Astragalus_glycyphyllos,49.5,9.8
 1702371946,Astragalus_glycyphyllos,60.8862,10.029
 1882639854,Astragalus_glycyphyllos,51.075626,10.456277
 694846013,Astragalus_glycyphyllos,51.821278,12.307515
@@ -165,15 +159,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1062495212,Astragalus_glycyphyllos,52.193729,11.05856
 2313367799,Astragalus_glycyphyllos,48.06,11.61
 199463230,Astragalus_glycyphyllos,36.73,-4.137
-1144584120,Astragalus_glycyphyllos,42.2,9.21667
 1230495772,Astragalus_glycyphyllos,39.205,46.46139
 1702559749,Astragalus_glycyphyllos,59.1809,11.1901
-1697562112,Astragalus_glycyphyllos,51.166667,40.3
-786094876,Astragalus_glycyphyllos,49.5,9.7
 1936660116,Astragalus_glycyphyllos,39.205,46.461389
 1701641561,Astragalus_glycyphyllos,59.1845,11.1886
 441964534,Astragalus_glycyphyllos,50.943321,14.891703
-786094902,Astragalus_glycyphyllos,48.3,8.8
 1343035310,Astragalus_glycyphyllos,57.316326,10.252183
 1702229376,Astragalus_glycyphyllos,59.3444,11.7352
 1702229378,Astragalus_glycyphyllos,59.3386,11.7558
@@ -181,7 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701836740,Astragalus_glycyphyllos,59.1758,10.8537
 1701802969,Astragalus_glycyphyllos,59.6666,10.5878
 1701313055,Astragalus_glycyphyllos,63.0247,8.2534
-786094840,Astragalus_glycyphyllos,49.1,8.6
 1697562022,Astragalus_glycyphyllos,54.633611,39.713056
 1148470016,Astragalus_glycyphyllos,59.093056,24.25
 1882639844,Astragalus_glycyphyllos,51.171856,13.304523
@@ -196,8 +185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441964663,Astragalus_glycyphyllos,50.86282,10.579097
 1702031410,Astragalus_glycyphyllos,59.551,10.1242
 1831054981,Astragalus_glycyphyllos,53.2485,11.582
-1144584130,Astragalus_glycyphyllos,42.28333,9.3
-786094972,Astragalus_glycyphyllos,53.9,10.8
 1697562016,Astragalus_glycyphyllos,53.871338,32.573613
 1323860747,Astragalus_glycyphyllos,59.3023,10.6954
 441963565,Astragalus_glycyphyllos,51.133007,14.988806
@@ -205,7 +192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230492313,Astragalus_glycyphyllos,39.36528,46.24583
 1230492291,Astragalus_glycyphyllos,39.85972,44.96528
 1701623062,Astragalus_glycyphyllos,59.6687,11.2512
-786094976,Astragalus_glycyphyllos,54,10.9
 1701402712,Astragalus_glycyphyllos,60.8348,9.5242
 1230492643,Astragalus_glycyphyllos,39.33333,46.38333
 1701835224,Astragalus_glycyphyllos,59.4563,10.8656
@@ -241,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948563035,Astragalus_glycyphyllos,60.478265,26.860564
 1702203013,Astragalus_glycyphyllos,59.7168,10.592
 1701629601,Astragalus_glycyphyllos,59.3984,10.4802
-1702198722,Astragalus_glycyphyllos,59.5454,10.3
 1701838664,Astragalus_glycyphyllos,59.7141,10.5972
 1702205634,Astragalus_glycyphyllos,59.5099,11.7274
 230816821,Astragalus_glycyphyllos,51.853178,5.84441
@@ -276,7 +261,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936614911,Astragalus_glycyphyllos,42.8612,-5.6453
 29590386,Astragalus_glycyphyllos,40.048,-2.021
 895223064,Astragalus_glycyphyllos,41.685,-1.768
-786094944,Astragalus_glycyphyllos,53.6,10.9
 1701800415,Astragalus_glycyphyllos,59.6996,10.1283
 1697561957,Astragalus_glycyphyllos,56.387764,31.704277
 1050629196,Astragalus_glycyphyllos,42.86,-5.63
@@ -320,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701786552,Astragalus_glycyphyllos,60.1669,12.0505
 1098955740,Astragalus_glycyphyllos,53.629723,11.412222
 296418364,Astragalus_glycyphyllos,45.910833,10.868889
-786094795,Astragalus_glycyphyllos,53.6,11.4
 1851337784,Astragalus_glycyphyllos,42.809,-4.975
 1831054976,Astragalus_glycyphyllos,53.2485,11.9152
 1701358750,Astragalus_glycyphyllos,59.7746,9.95
@@ -329,7 +312,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701982902,Astragalus_glycyphyllos,59.591,8.5599
 1701982395,Astragalus_glycyphyllos,60.141,12.08
 1701796208,Astragalus_glycyphyllos,59.3223,11.8037
-1050658562,Astragalus_glycyphyllos,43.02,-2.9
 1701984345,Astragalus_glycyphyllos,60.1454,10.3235
 1851346493,Astragalus_glycyphyllos,40.651,-1.977
 1702011000,Astragalus_glycyphyllos,59.3313,11.8212
@@ -481,14 +463,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111302439,Astragalus_glycyphyllos,42.57,-1.276
 111302436,Astragalus_glycyphyllos,42.872002,-1.586
 318039123,Astragalus_glycyphyllos,42.65,-1.17
-29592344,Astragalus_glycyphyllos,40.4,-0.35
-1050657611,Astragalus_glycyphyllos,42.8,-2.13
 111302435,Astragalus_glycyphyllos,42.731998,-1.259
 1705341436,Astragalus_glycyphyllos,57.259618,15.684255
 1705324197,Astragalus_glycyphyllos,57.356214,15.472938
 1697562064,Astragalus_glycyphyllos,53.957842,36.651219
 1050657610,Astragalus_glycyphyllos,42.86,-0.82
-318039174,Astragalus_glycyphyllos,42.64,-1.1
 111302437,Astragalus_glycyphyllos,42.451,-1.121
 318039175,Astragalus_glycyphyllos,42.64,-1.17
 111301932,Astragalus_glycyphyllos,42.647999,-1.103
@@ -508,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851347431,Astragalus_glycyphyllos,42.82,-5.75
 1701876982,Astragalus_glycyphyllos,60.6579,9.8689
 629688,Astragalus_glycyphyllos,57.083079,14.990416
-1099839564,Astragalus_glycyphyllos,47.5,13
 318038961,Astragalus_glycyphyllos,42.63,-2.44
 1936568998,Astragalus_glycyphyllos,42.7636,-3.6857
 1936109988,Astragalus_glycyphyllos,42.6292,-2.4403
@@ -532,7 +510,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851359845,Astragalus_glycyphyllos,42.56,-5.62
 1455446118,Astragalus_glycyphyllos,50.064359,4.431752
 1701882276,Astragalus_glycyphyllos,61.5068,11.2643
-1144584125,Astragalus_glycyphyllos,42.21667,9.3
 1050657643,Astragalus_glycyphyllos,42.99,-3.03
 1806555811,Astragalus_glycyphyllos,42.689057,-1.584721
 1144057498,Astragalus_glycyphyllos,59.19546,5.85371
@@ -553,26 +530,22 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290755299,Astragalus_glycyphyllos,49.516667,3.75
 1851365865,Astragalus_glycyphyllos,42.83,-6.49
 1050602583,Astragalus_glycyphyllos,42.85,-2.24
-2313367328,Astragalus_glycyphyllos,48.26,11.7
 1705341405,Astragalus_glycyphyllos,57.524417,16.000488
 1936044065,Astragalus_glycyphyllos,40.2513,-5.9406
 111302624,Astragalus_glycyphyllos,42.68,-2.33
 1438585068,Astragalus_glycyphyllos,59.0097,27.2935
-1851384982,Astragalus_glycyphyllos,43.2,-5.03
 1851345284,Astragalus_glycyphyllos,40.66,-1.965
 1050620023,Astragalus_glycyphyllos,42.27,-2.61
 1701579279,Astragalus_glycyphyllos,59.3596,8.2349
 2312428386,Astragalus_glycyphyllos,48.27,11.22
 1701309120,Astragalus_glycyphyllos,62.6563,8.6976
 2313366407,Astragalus_glycyphyllos,48.29,11.45
-1144584129,Astragalus_glycyphyllos,41.7,8.8
 1697562185,Astragalus_glycyphyllos,54.018405,44.045782
 111302626,Astragalus_glycyphyllos,42.59,-2.45
 1842892308,Astragalus_glycyphyllos,42.424,0.672
 111302625,Astragalus_glycyphyllos,42.59,-2.33
 1702010682,Astragalus_glycyphyllos,59.1201,10.8577
 296418384,Astragalus_glycyphyllos,47.133,10.516
-296418383,Astragalus_glycyphyllos,47.2,10.883
 1701273863,Astragalus_glycyphyllos,59.6838,10.7494
 1050602610,Astragalus_glycyphyllos,42.66,-2.31
 1701891785,Astragalus_glycyphyllos,58.8657,9.0494
@@ -593,7 +566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806317295,Astragalus_glycyphyllos,59.4641,10.65876
 1697562123,Astragalus_glycyphyllos,55.124566,38.896631
 1323708504,Astragalus_glycyphyllos,59.4253,10.623
-1851353479,Astragalus_glycyphyllos,43.1,-5.4
 186792521,Astragalus_glycyphyllos,59.2459,7.5362
 1638374063,Astragalus_glycyphyllos,46.64472,14.95278
 1883360272,Astragalus_glycyphyllos,57.70472,14.117039
@@ -639,11 +611,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702292222,Astragalus_glycyphyllos,60.8074,9.634
 1697803048,Astragalus_glycyphyllos,42.794645,44.007368
 1701612092,Astragalus_glycyphyllos,61.5395,11.1914
-991864448,Astragalus_glycyphyllos,47.2,15.4
 442112936,Astragalus_glycyphyllos,51.232777,11.2575
-1050620028,Astragalus_glycyphyllos,40.5,-5.18
 211620007,Astragalus_glycyphyllos,43.200001,-5.98
-1851399667,Astragalus_glycyphyllos,42.65,-5.5
 1697562119,Astragalus_glycyphyllos,50.608449,40.40017
 1702228681,Astragalus_glycyphyllos,61.002,11.11167
 1098955742,Astragalus_glycyphyllos,47.083332,15.366667
@@ -671,7 +640,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701837106,Astragalus_glycyphyllos,59.1744,10.8554
 1144057417,Astragalus_glycyphyllos,59.1067,5.67965
 1697562043,Astragalus_glycyphyllos,54.992827,41.212955
-1144584174,Astragalus_glycyphyllos,42.3,9.3
 1701446998,Astragalus_glycyphyllos,61.32771,10.51106
 1701278794,Astragalus_glycyphyllos,60.1361,10.3592
 1981550972,Astragalus_glycyphyllos,61.2931,10.3557
@@ -683,10 +651,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697562020,Astragalus_glycyphyllos,56.277662,42.063367
 1702292225,Astragalus_glycyphyllos,60.5566,9.7778
 2291723305,Astragalus_glycyphyllos,50.452,6.102
-786094898,Astragalus_glycyphyllos,47,18.9
 1340037188,Astragalus_glycyphyllos,59.19856,10.87356
 1831054650,Astragalus_glycyphyllos,53.9484,11.2487
-786095088,Astragalus_glycyphyllos,50.5,7.2
 1838941043,Astragalus_glycyphyllos,50.584722,8.674167
 1098955027,Astragalus_glycyphyllos,48.452221,10.222222
 1702292133,Astragalus_glycyphyllos,60.2264,10.4442
@@ -790,7 +756,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705327738,Astragalus_glycyphyllos,57.042658,16.446171
 629315,Astragalus_glycyphyllos,56.134164,13.965605
 1697562295,Astragalus_glycyphyllos,55.850638,57.88679
-786094894,Astragalus_glycyphyllos,46.6,25.4
 1702292170,Astragalus_glycyphyllos,59.7654,9.721
 629598,Astragalus_glycyphyllos,58.647693,16.133967
 1434671283,Astragalus_glycyphyllos,56.18389,15.60925
@@ -800,7 +765,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697562076,Astragalus_glycyphyllos,53.604777,39.02564
 616356120,Astragalus_glycyphyllos,50.76,6.01
 1891604223,Astragalus_glycyphyllos,49.99,6.04
-786095110,Astragalus_glycyphyllos,50.9,11.5
 1098955202,Astragalus_glycyphyllos,48.836666,10.093889
 629375,Astragalus_glycyphyllos,56.151907,14.29927
 812021214,Astragalus_glycyphyllos,50.748683,9.0206
@@ -858,7 +822,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705341407,Astragalus_glycyphyllos,57.386313,15.795971
 629278,Astragalus_glycyphyllos,56.121819,13.830549
 629562,Astragalus_glycyphyllos,55.70833,14.01691
-786095041,Astragalus_glycyphyllos,51.9,11.3
 1701634624,Astragalus_glycyphyllos,59.26671,9.48765
 629229,Astragalus_glycyphyllos,55.69086,13.95745
 629004,Astragalus_glycyphyllos,57.6672,14.971461
@@ -930,8 +893,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 629541,Astragalus_glycyphyllos,58.211964,11.418316
 1702306120,Astragalus_glycyphyllos,60.7626,11.689
 788752928,Astragalus_glycyphyllos,46.796944,10.297778
-991860876,Astragalus_glycyphyllos,46.9,17.5
-786095027,Astragalus_glycyphyllos,47.8,13.1
 1702160180,Astragalus_glycyphyllos,59.1742,11.0479
 1702289633,Astragalus_glycyphyllos,59.1724,11.0478
 629436,Astragalus_glycyphyllos,60.345391,15.746352
@@ -1004,7 +965,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702401673,Astragalus_glycyphyllos,59.9095,10.5466
 1701875915,Astragalus_glycyphyllos,59.3228,11.5832
 1701929706,Astragalus_glycyphyllos,59.3328,11.5567
-786094890,Astragalus_glycyphyllos,49,8.5
 1838941432,Astragalus_glycyphyllos,46.536667,12.296667
 296418387,Astragalus_glycyphyllos,47.265708,11.395036
 1697562008,Astragalus_glycyphyllos,54.740588,37.975986
@@ -1108,7 +1068,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 629577,Astragalus_glycyphyllos,58.283869,11.913114
 1702401790,Astragalus_glycyphyllos,59.8139,10.7651
 629536,Astragalus_glycyphyllos,55.7211,13.02215
-786095079,Astragalus_glycyphyllos,49.8,11.9
 629435,Astragalus_glycyphyllos,59.38876,16.98651
 629790,Astragalus_glycyphyllos,56.85765,14.18777
 1098955726,Astragalus_glycyphyllos,49.901669,10.3475
@@ -1140,17 +1099,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1290984980,Astragalus_glycyphyllos,50.60985,10.064417
 1935926586,Astragalus_glycyphyllos,40.8252,-3.95
 629481,Astragalus_glycyphyllos,59.105521,15.00532
-786094833,Astragalus_glycyphyllos,49.5,17.3
 1697803041,Astragalus_glycyphyllos,43.514697,39.869556
 629098,Astragalus_glycyphyllos,56.05561,14.55119
 1697562114,Astragalus_glycyphyllos,55.022872,37.382919
 296418398,Astragalus_glycyphyllos,46.6715,11.1656
 187094774,Astragalus_glycyphyllos,58.9785,7.5996
 1697562033,Astragalus_glycyphyllos,56.166487,38.814526
-994771455,Astragalus_glycyphyllos,46.5,13.65
 1290984973,Astragalus_glycyphyllos,50.622533,10.05495
 629117,Astragalus_glycyphyllos,56.200912,15.537211
-1838942766,Astragalus_glycyphyllos,52.2,14.009444
 629434,Astragalus_glycyphyllos,59.309456,12.310327
 1702329148,Astragalus_glycyphyllos,58.8619,7.7518
 1098955241,Astragalus_glycyphyllos,48.900002,2.816667
@@ -1171,7 +1127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705381849,Astragalus_glycyphyllos,55.524772,13.906526
 629089,Astragalus_glycyphyllos,56.161144,15.58764
 1099839563,Astragalus_glycyphyllos,52.216667,32.75
-1099839555,Astragalus_glycyphyllos,49.833332,24
 1842857870,Astragalus_glycyphyllos,41.78,2.46
 1705262744,Astragalus_glycyphyllos,57.265371,16.418423
 1098955225,Astragalus_glycyphyllos,50.961945,13.941112
