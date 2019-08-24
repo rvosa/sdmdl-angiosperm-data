@@ -7,7 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705249042,Fuscospora_cliffortioides,-42.15921,171.47614
 1800521551,Fuscospora_cliffortioides,-39.22964,175.9875
 1800521629,Fuscospora_cliffortioides,-45.59678,167.33727
-1800521806,Fuscospora_cliffortioides,-44.43779,165.01855
 1800521704,Fuscospora_cliffortioides,-41.0141,172.16861
 1800521593,Fuscospora_cliffortioides,-41.52094,173.21638
 1800521608,Fuscospora_cliffortioides,-41.23149,172.35674
@@ -21,7 +20,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1800521689,Fuscospora_cliffortioides,-45.23254,168.03178
 1800521683,Fuscospora_cliffortioides,-43.93479,169.94128
 1800521724,Fuscospora_cliffortioides,-46.03495,166.71878
-1800521552,Fuscospora_cliffortioides,-45.46079,166.78186
 1800521696,Fuscospora_cliffortioides,-46.05111,167.02786
 1800521702,Fuscospora_cliffortioides,-44.42146,169.32996
 1800521770,Fuscospora_cliffortioides,-40.87048,172.26534
@@ -69,15 +67,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091313773,Fuscospora_cliffortioides,-42.73289,172.19238
 1897719273,Fuscospora_cliffortioides,-38.722222,177.158056
 2236608513,Fuscospora_cliffortioides,-43.097945,171.471665
-1091249439,Fuscospora_cliffortioides,-42.12902,171.34419
 1091153893,Fuscospora_cliffortioides,-42.583333,172.166666
 1091170326,Fuscospora_cliffortioides,-43.01621,171.75249
 1091129245,Fuscospora_cliffortioides,-41.5751,172.94
 1091239383,Fuscospora_cliffortioides,-41.832,172.811
 1091111253,Fuscospora_cliffortioides,-39.74231,176.04958
 1091220446,Fuscospora_cliffortioides,-39.89897,176.00806
-1091119648,Fuscospora_cliffortioides,-43.77042,169.2072
-1091236454,Fuscospora_cliffortioides,-43.73014,169.20987
 1091199876,Fuscospora_cliffortioides,-43.11216,172.44717
 1091300410,Fuscospora_cliffortioides,-44.642,167.694
 1091299276,Fuscospora_cliffortioides,-45.282,167.641
@@ -94,10 +89,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091205641,Fuscospora_cliffortioides,-41.1326,172.60545
 1091250922,Fuscospora_cliffortioides,-38.9857,175.70598
 1091277549,Fuscospora_cliffortioides,-45.91436,167.28999
-1091204666,Fuscospora_cliffortioides,-45.578,166.638
 1091100937,Fuscospora_cliffortioides,-39.31214,176.36426
 1091269278,Fuscospora_cliffortioides,-46.13,167.693
-1091314873,Fuscospora_cliffortioides,-46.048,166.522
 1091150512,Fuscospora_cliffortioides,-44.48467,169.24719
 1091215526,Fuscospora_cliffortioides,-41.74672,171.81343
 1091259423,Fuscospora_cliffortioides,-43.16286,171.67439
@@ -107,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091299969,Fuscospora_cliffortioides,-42.05931,171.89229
 1091111060,Fuscospora_cliffortioides,-43.465,170.698
 1091122446,Fuscospora_cliffortioides,-43.47,170.701
-1091114093,Fuscospora_cliffortioides,-45.898,166.446
 1091185012,Fuscospora_cliffortioides,-45.632,166.974
 1091143118,Fuscospora_cliffortioides,-45.741,166.808
 1091107480,Fuscospora_cliffortioides,-45.624,166.845
@@ -159,7 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091206461,Fuscospora_cliffortioides,-39.2,175.54
 1091135877,Fuscospora_cliffortioides,-42.031,172.721
 1091242015,Fuscospora_cliffortioides,-45.523,167.312
-1897738774,Fuscospora_cliffortioides,-44.916667,166.916667
 1897754392,Fuscospora_cliffortioides,-39.2,175.533333
 1897697119,Fuscospora_cliffortioides,-39.25,175.416667
 1091314652,Fuscospora_cliffortioides,-41.768,172.891
@@ -208,7 +199,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091105626,Fuscospora_cliffortioides,-39.23,175.445
 1091101014,Fuscospora_cliffortioides,-39.229,175.445
 1897665149,Fuscospora_cliffortioides,-39.25,174.916667
-1897675105,Fuscospora_cliffortioides,-43.25,174.916667
 1897621573,Fuscospora_cliffortioides,-37.916667,178.083333
 1897673124,Fuscospora_cliffortioides,-43.25,171.583333
 1091209017,Fuscospora_cliffortioides,-39.329,175.703
