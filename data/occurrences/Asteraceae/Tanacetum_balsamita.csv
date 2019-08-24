@@ -27,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989189575,Tanacetum_balsamita,45.69582,-87.39805
 1705340373,Tanacetum_balsamita,57.367374,15.687222
 788453137,Tanacetum_balsamita,55.40934,13.61615
-1988179391,Tanacetum_balsamita,50.3,-119.3
 1455411536,Tanacetum_balsamita,50.677325,5.189541
 1851350040,Tanacetum_balsamita,37.63,-2.38
 1928664491,Tanacetum_balsamita,41.4947,-116.0956
@@ -41,9 +40,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930777365,Tanacetum_balsamita,38.912202,-76.965902
 2242400565,Tanacetum_balsamita,39.732042,-104.961511
 1928253664,Tanacetum_balsamita,40.9082,-111.5223
-442115436,Tanacetum_balsamita,40,45
 1986997089,Tanacetum_balsamita,42.118665,-111.389114
-1897654860,Tanacetum_balsamita,-36.933333,174.6
 2238661785,Tanacetum_balsamita,39.063582,46.275616
 2291863759,Tanacetum_balsamita,40.683333,44.516667
 1988929379,Tanacetum_balsamita,44.759186,-85.873254
@@ -62,12 +59,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51971707,Tanacetum_balsamita,44.5647,-123.2608
 1705296522,Tanacetum_balsamita,55.412273,12.844018
 1986997234,Tanacetum_balsamita,43.38139,-112.1225
-616355647,Tanacetum_balsamita,51.3,4.18
 2242400023,Tanacetum_balsamita,39.766724,-105.107574
 1986996870,Tanacetum_balsamita,42.539555,-113.807876
 1697692377,Tanacetum_balsamita,50.360712,40.990326
 788720680,Tanacetum_balsamita,59.39955,15.88507
-876155851,Tanacetum_balsamita,41.78,2.7
 465933080,Tanacetum_balsamita,44.59733,-75.6855
 1986997142,Tanacetum_balsamita,41.049747,-115.235832
 51797442,Tanacetum_balsamita,44.5367,-122.9058
