@@ -20,12 +20,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258104051,Lobelia_laxiflora,13.71,-86.330583
 1258104148,Lobelia_laxiflora,13.760278,-86.314111
 1897488040,Lobelia_laxiflora,17.163833,-96.341417
-1843471502,Lobelia_laxiflora,-36.858889,174.702778
 1258104332,Lobelia_laxiflora,13.817639,-85.981972
 1258137649,Lobelia_laxiflora,13.774945,-86.280528
 1258179184,Lobelia_laxiflora,13.737306,-86.382417
 1675972652,Lobelia_laxiflora,19.9789,-97.7508
-1585307584,Lobelia_laxiflora,13.73178,-89.28542
 1585307586,Lobelia_laxiflora,13.44394,-88.26983
 2269025505,Lobelia_laxiflora,9.9425,-83.887222
 1897488066,Lobelia_laxiflora,17.826528,-96.790194
@@ -86,12 +84,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270554678,Lobelia_laxiflora,30.34183,-110.30672
 1895927652,Lobelia_laxiflora,30.355028,-110.326333
 1253912713,Lobelia_laxiflora,10.263111,-84.829881
-1585306014,Lobelia_laxiflora,13.26667,-87.83333
 1895927579,Lobelia_laxiflora,30.327361,-110.350222
 1895927657,Lobelia_laxiflora,30.341944,-110.306944
 1258108301,Lobelia_laxiflora,18.657417,-97.012361
 1417696280,Lobelia_laxiflora,18.9625,-99.01275
-1897828088,Lobelia_laxiflora,-41.023583,175.523194
 1585306042,Lobelia_laxiflora,13.66689,-89.32611
 1257607732,Lobelia_laxiflora,13.092222,-85.956389
 1895927740,Lobelia_laxiflora,30.802881,-110.604878
@@ -204,9 +200,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894106515,Lobelia_laxiflora,16.251389,-93.701389
 1419162074,Lobelia_laxiflora,16.116667,-93.436944
 1896246920,Lobelia_laxiflora,19.513056,-96.943611
-1253821666,Lobelia_laxiflora,9.883245,-84.154632
 1253822004,Lobelia_laxiflora,10.260385,-84.838129
-1257835774,Lobelia_laxiflora,9.916667,-84.155556
 1894554287,Lobelia_laxiflora,17.5355,-96.722556
 1894554184,Lobelia_laxiflora,17.528167,-96.727472
 1894560193,Lobelia_laxiflora,17.562778,-96.799444
@@ -372,9 +366,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258717496,Lobelia_laxiflora,13.25,-86.233333
 1895953961,Lobelia_laxiflora,20.13,-97.876667
 1893902954,Lobelia_laxiflora,17.569444,-99.785278
-45447739,Lobelia_laxiflora,9.85,-84.1
 1893902965,Lobelia_laxiflora,17.585278,-99.813333
-1056550011,Lobelia_laxiflora,13.736897,-88.866511
 1893902966,Lobelia_laxiflora,17.629444,-99.764722
 1893904508,Lobelia_laxiflora,18.606389,-99.601667
 1893902953,Lobelia_laxiflora,17.665556,-99.856389
@@ -491,7 +483,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896051620,Lobelia_laxiflora,16.106389,-92.149167
 1893632409,Lobelia_laxiflora,19.922213,-104.51944
 1893904425,Lobelia_laxiflora,17.857778,-99.741389
-1259728090,Lobelia_laxiflora,13.738889,-89.279722
 1419227689,Lobelia_laxiflora,16.723889,-97.118889
 45447584,Lobelia_laxiflora,10.08,-84.11
 1899842026,Lobelia_laxiflora,16.773611,-92.661111
@@ -530,7 +521,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894629767,Lobelia_laxiflora,20.935556,-99.516389
 1893632514,Lobelia_laxiflora,17.598611,-99.176667
 1893632463,Lobelia_laxiflora,19.816667,-98.601667
-1585305976,Lobelia_laxiflora,13.08333,-89.8
 1893592341,Lobelia_laxiflora,26.995833,-108.975
 1260231232,Lobelia_laxiflora,14.480556,-90.733333
 1895484013,Lobelia_laxiflora,17.559444,-99.238972
@@ -542,7 +532,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895807452,Lobelia_laxiflora,21.437222,-105.004722
 1419223585,Lobelia_laxiflora,16.835278,-92.580556
 1895139663,Lobelia_laxiflora,16.835278,-92.580555
-996546256,Lobelia_laxiflora,-32.833333,115.683333
 1896051598,Lobelia_laxiflora,16.868333,-92.754167
 1896246869,Lobelia_laxiflora,18.608333,-97.116667
 1421371851,Lobelia_laxiflora,18.600278,-97.131389
@@ -554,7 +543,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893632399,Lobelia_laxiflora,17.54,-100.116667
 1419228864,Lobelia_laxiflora,20.5225,-98.702778
 1896146670,Lobelia_laxiflora,20.376111,-105.310278
-1585306019,Lobelia_laxiflora,13.66667,-89.23333
 1893966308,Lobelia_laxiflora,19.449167,-103.95
 1253617442,Lobelia_laxiflora,10.3,-84.800005
 45446977,Lobelia_laxiflora,9.8,-84.45
@@ -584,7 +572,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270652838,Lobelia_laxiflora,31.3751,-110.755
 1253696483,Lobelia_laxiflora,9.727222,-84.372222
 45446921,Lobelia_laxiflora,9.72,-84.37
-1260200602,Lobelia_laxiflora,14.589444,-90.579444
 1259728076,Lobelia_laxiflora,14.561944,-90.693333
 1228182940,Lobelia_laxiflora,14.5833,-90.75
 1260627942,Lobelia_laxiflora,14.578333,-90.680833
@@ -599,7 +586,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893602446,Lobelia_laxiflora,19.701667,-100.83
 1893602370,Lobelia_laxiflora,19.808333,-100.893333
 1893640936,Lobelia_laxiflora,23.451667,-110.24
-1893526955,Lobelia_laxiflora,23.508333,-111.041667
 1896146646,Lobelia_laxiflora,19.701667,-100.830278
 1893602458,Lobelia_laxiflora,19.7,-100.833333
 1895807482,Lobelia_laxiflora,21.45,-104.948611
@@ -677,7 +663,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893602493,Lobelia_laxiflora,19.618333,-101.133333
 1893632430,Lobelia_laxiflora,19.435833,-101.761389
 1896146727,Lobelia_laxiflora,19.414167,-101.752222
-992509617,Lobelia_laxiflora,-34.982059,138.667767
 1895484047,Lobelia_laxiflora,19.416389,-101.749719
 1258276878,Lobelia_laxiflora,19.89,-101.65
 1896051602,Lobelia_laxiflora,19.834722,-100.649444
@@ -806,7 +791,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259902413,Lobelia_laxiflora,19.540556,-102.217778
 1893640970,Lobelia_laxiflora,20.706667,-101.793333
 1893632489,Lobelia_laxiflora,19.857527,-101.841676
-1091314442,Lobelia_laxiflora,-45.85,170.6
 1893640942,Lobelia_laxiflora,21.294024,-99.827859
 1895483970,Lobelia_laxiflora,19.150761,-99.903269
 1261263848,Lobelia_laxiflora,14.466667,-89.25
@@ -913,7 +897,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895484087,Lobelia_laxiflora,16.7385837333435,-92.6888317282401
 1896246911,Lobelia_laxiflora,19.589444,-96.968333
 1419227394,Lobelia_laxiflora,19.77,-97.246667
-1896246919,Lobelia_laxiflora,19.513611,-96.942222
 1895522927,Lobelia_laxiflora,19.324047,-99.61613
 1896246916,Lobelia_laxiflora,19.775,-97.241667
 1896246908,Lobelia_laxiflora,19.513611,-96.940278
@@ -967,7 +950,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 45444754,Lobelia_laxiflora,9.78,-84.4
 1895483823,Lobelia_laxiflora,20.727011,-103.547114
 1896076039,Lobelia_laxiflora,21.152778,-99.461667
-1259726001,Lobelia_laxiflora,14.1175,-87.214722
 1421399016,Lobelia_laxiflora,15.061944,-92.080833
 1893632444,Lobelia_laxiflora,16.76806,-92.9225
 1896146690,Lobelia_laxiflora,16.752778,-93.116667
@@ -1076,7 +1058,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261271377,Lobelia_laxiflora,12.96666,-85.91666
 1259729863,Lobelia_laxiflora,10.08,-84.44
 1419223555,Lobelia_laxiflora,18.951667,-100.101944
-1261265548,Lobelia_laxiflora,12.05,-86.29166
 1893632382,Lobelia_laxiflora,20.471667,-103.446667
 1896146721,Lobelia_laxiflora,16.791667,-95.375
 1893695929,Lobelia_laxiflora,17.35111,-100.20917
@@ -1108,7 +1089,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895483901,Lobelia_laxiflora,19.815561,-97.752678
 1258276937,Lobelia_laxiflora,17.5,-99.46
 1896146718,Lobelia_laxiflora,19.026667,-99.265
-1258275528,Lobelia_laxiflora,14.135556,-87.200278
 1896146686,Lobelia_laxiflora,17.308333,-96.475
 1893407772,Lobelia_laxiflora,19.625,-100.291667
 1896051614,Lobelia_laxiflora,17.628889,-99.816667
@@ -1323,7 +1303,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270510960,Lobelia_laxiflora,19.217145,-99.11456
 1259727526,Lobelia_laxiflora,10.298333,-84.7825
 1896246915,Lobelia_laxiflora,19.513056,-96.944167
-1258275521,Lobelia_laxiflora,14.085,-87.16694
 1259725122,Lobelia_laxiflora,14.06944,-87.12972
 1896039167,Lobelia_laxiflora,19.829444,-104.1525
 1896075911,Lobelia_laxiflora,19.548333,-96.915833
@@ -1364,7 +1343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896246889,Lobelia_laxiflora,19.475,-96.95
 1260129988,Lobelia_laxiflora,11.96666,-86.3
 1896076043,Lobelia_laxiflora,19.654444,-96.859444
-1258275502,Lobelia_laxiflora,14.129722,-87.164444
 1896075882,Lobelia_laxiflora,18.681667,-96.995
 1258277110,Lobelia_laxiflora,8.533333,-81.816667
 1896075964,Lobelia_laxiflora,19.778333,-97.2
@@ -1401,7 +1379,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846529609,Lobelia_laxiflora,23.562647,-105.834658
 1258277128,Lobelia_laxiflora,8.8,-82.61666
 1896076046,Lobelia_laxiflora,20.309722,-98.170833
-1259724562,Lobelia_laxiflora,14.085,-87.166944
 2270505681,Lobelia_laxiflora,28.43661,-109.190785
 1896076025,Lobelia_laxiflora,18.7025,-97.778333
 1259037078,Lobelia_laxiflora,13.33333,-86.61666
@@ -1504,7 +1481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895483854,Lobelia_laxiflora,18.97923,-99.28051
 1846529480,Lobelia_laxiflora,30.330984,-110.705423
 1896146626,Lobelia_laxiflora,18.827778,-97.320278
-1896146700,Lobelia_laxiflora,19.191667,-96.158333
 1896039183,Lobelia_laxiflora,19.371111,-99.206667
 1893407779,Lobelia_laxiflora,19.358333,-102.458333
 1896075838,Lobelia_laxiflora,19.090278,-97.038889
@@ -1558,7 +1534,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896146657,Lobelia_laxiflora,18.914167,-97.13
 1896075895,Lobelia_laxiflora,19.583889,-103.613889
 1896075977,Lobelia_laxiflora,19.841944,-97.336111
-1259018384,Lobelia_laxiflora,11.78333,-86.51666
 1896075985,Lobelia_laxiflora,18.811667,-97.081389
 1896146659,Lobelia_laxiflora,18.811944,-97.093611
 1896146675,Lobelia_laxiflora,18.903889,-97.108333
@@ -1689,17 +1664,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896075961,Lobelia_laxiflora,19.752778,-104.528056
 1896075887,Lobelia_laxiflora,19.705556,-104.408889
 1895522905,Lobelia_laxiflora,30.8687955410718,-110.749237415841
-1228403549,Lobelia_laxiflora,3.8811,-72.8667
 1895484005,Lobelia_laxiflora,21.0472217471251,-99.0903253028056
 1896075952,Lobelia_laxiflora,21.142222,-99.149444
-1259724912,Lobelia_laxiflora,13.65888,-89.18305
 45443192,Lobelia_laxiflora,9.8,-84.1
 1258276098,Lobelia_laxiflora,18.86,-97.12
 1895522890,Lobelia_laxiflora,18.946939,-98.393889
 1895967189,Lobelia_laxiflora,18.9575,-98.383333
 1896075929,Lobelia_laxiflora,19.513611,-96.898333
 1896146737,Lobelia_laxiflora,19.54,-96.9275
-1896075917,Lobelia_laxiflora,14.6725,-90.500278
 1228570837,Lobelia_laxiflora,2.5,-76.8333
 1895483923,Lobelia_laxiflora,21.16025,-98.937736
 1802573837,Lobelia_laxiflora,1.58,-76.97
@@ -1741,7 +1713,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261045524,Lobelia_laxiflora,18.9,-100.15
 1228231259,Lobelia_laxiflora,13.7825,-88.6819
 1896146712,Lobelia_laxiflora,19.2025,-96.859444
-1228585970,Lobelia_laxiflora,37,-119
 1259727156,Lobelia_laxiflora,20.66666,-103.31666
 1258275569,Lobelia_laxiflora,20.767778,-104.886111
 1259728869,Lobelia_laxiflora,21.033333,-104.366667
@@ -1767,8 +1738,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258276889,Lobelia_laxiflora,19.702222,-101.193611
 1259728645,Lobelia_laxiflora,14.72138,-90.39305
 1258275672,Lobelia_laxiflora,19.668333,-101.141389
-1099059104,Lobelia_laxiflora,23,-102
-1144714784,Lobelia_laxiflora,18.74472,-99.0725
 1228406594,Lobelia_laxiflora,18.75,-99
 1056056203,Lobelia_laxiflora,18.732491,-99.006737
 1259727334,Lobelia_laxiflora,15.47083,-90.37083
