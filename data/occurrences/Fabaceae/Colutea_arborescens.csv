@@ -45,7 +45,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838988053,Colutea_arborescens,38.604721,21.944719
 1838988102,Colutea_arborescens,38.688061,21.43667
 1838987985,Colutea_arborescens,38.52306,21.943609
-910445922,Colutea_arborescens,37.061,-4.4
 1838988099,Colutea_arborescens,38.598331,21.791389
 1838988013,Colutea_arborescens,38.457779,21.99556
 1838988072,Colutea_arborescens,38.568329,21.978609
@@ -90,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230541812,Colutea_arborescens,48.02889,16.24889
 781075390,Colutea_arborescens,36.755,-4.361
 1830973823,Colutea_arborescens,47.99639,16.29278
-1851580543,Colutea_arborescens,39.69,-0.4
 2313285599,Colutea_arborescens,48.14,11.42
 1638387723,Colutea_arborescens,42.02542,19.15611
 1230541589,Colutea_arborescens,46.63278,10.895
@@ -120,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838987958,Colutea_arborescens,40.14167,21.39472
 318108379,Colutea_arborescens,38.33,-0.93
 317818878,Colutea_arborescens,42.772,-3.104
-1050646620,Colutea_arborescens,42.77,-3.1
 1936697741,Colutea_arborescens,37.2653,-2.4467
 1342353851,Colutea_arborescens,56.351486,10.56023
 895224098,Colutea_arborescens,40.756,-1.667
@@ -130,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851335071,Colutea_arborescens,38.504,-0.575
 1936274021,Colutea_arborescens,40.016478,-3.585308
 1936215860,Colutea_arborescens,38.4976,-0.5817
-318108356,Colutea_arborescens,38.5,-0.57
 211644580,Colutea_arborescens,37.542,-1.919
 1212068170,Colutea_arborescens,40.140278,21.339444
 1212068132,Colutea_arborescens,40.104444,21.343056
@@ -175,7 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211644516,Colutea_arborescens,38.374,-2.422
 211644514,Colutea_arborescens,38.347,-2.342
 1701083297,Colutea_arborescens,42.850673,11.690569
-30663723,Colutea_arborescens,37.299999,-2.1
 1563860206,Colutea_arborescens,40.05,20.85
 237618217,Colutea_arborescens,40.987,-2.423
 1230529083,Colutea_arborescens,39.20139,46.39722
@@ -195,7 +190,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29623473,Colutea_arborescens,40.565,-2.923
 895221062,Colutea_arborescens,39.879,-0.422
 211644734,Colutea_arborescens,37.853,-1.562
-30859497,Colutea_arborescens,40.560001,-3
 1936628931,Colutea_arborescens,40.5589,-2.9304
 199470235,Colutea_arborescens,36.938,-4.084
 199470234,Colutea_arborescens,36.895,-3.78
@@ -223,12 +217,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 31958284,Colutea_arborescens,37.23,-3.524
 1936622603,Colutea_arborescens,40.8798,-2.1111
 211644733,Colutea_arborescens,38.52,-0.99
-786117034,Colutea_arborescens,52.4,13
 30664498,Colutea_arborescens,37.110001,-1.93
 204401908,Colutea_arborescens,37.227,-1.991
 211644737,Colutea_arborescens,37.496,-1.807
-1050626723,Colutea_arborescens,41.8,-1.71
-786117038,Colutea_arborescens,53.9,11.2
 895303066,Colutea_arborescens,40.078,-0.437
 29623047,Colutea_arborescens,40.2281,-1.9791
 29623046,Colutea_arborescens,40.316,-1.782
@@ -240,7 +231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 864889335,Colutea_arborescens,42.731113,27.739723
 1831517495,Colutea_arborescens,42.73111,27.73972
 1050623268,Colutea_arborescens,41.81,-1.79
-211624136,Colutea_arborescens,41.810001,-1.8
 199470138,Colutea_arborescens,38.273,-1.268
 30956178,Colutea_arborescens,38.83,-0.18
 29623009,Colutea_arborescens,40.228,-1.972
@@ -249,7 +239,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111304751,Colutea_arborescens,42.68,-2.94
 211644741,Colutea_arborescens,37.899,-1.595
 1936538934,Colutea_arborescens,42.4387,0.3848
-1340041423,Colutea_arborescens,38.7,22.166667
 1936671749,Colutea_arborescens,41.336,-4.2323
 439776527,Colutea_arborescens,50.9019,11.6069
 30956206,Colutea_arborescens,40.79,-3.06
@@ -267,7 +256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895302546,Colutea_arborescens,39.87,-0.95
 211644740,Colutea_arborescens,37.613,-1.148
 29624731,Colutea_arborescens,39.69,-0.96
-1229657468,Colutea_arborescens,43.3,-2.16
 1831517849,Colutea_arborescens,30.86861,-8.37417
 30859458,Colutea_arborescens,37.040001,-3.67
 29623498,Colutea_arborescens,39.79,-2.12
@@ -285,7 +273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30954709,Colutea_arborescens,38.47,-0.71
 30954711,Colutea_arborescens,38.48,-0.72
 1936435983,Colutea_arborescens,38.7186,0.0084
-30956813,Colutea_arborescens,38.48,-0.5
 895240151,Colutea_arborescens,40.12,0.01
 1842864047,Colutea_arborescens,34.1083,-4.0067
 30954812,Colutea_arborescens,38.51,-0.65
@@ -302,7 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144643860,Colutea_arborescens,42.26667,9.53333
 1848984641,Colutea_arborescens,49.948906,10.915337
 30954830,Colutea_arborescens,39.42,-0.92
-1851340689,Colutea_arborescens,39.6,-1.08
 895296930,Colutea_arborescens,40.48,0.23
 1936396750,Colutea_arborescens,36.4703,-5.4008
 895302561,Colutea_arborescens,39.7183,-0.4643
@@ -313,7 +299,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701087006,Colutea_arborescens,43.895088,11.269573
 895184740,Colutea_arborescens,40.04,-0.48
 895184019,Colutea_arborescens,40.57,0.11
-1500701584,Colutea_arborescens,40,-0.25
 895185637,Colutea_arborescens,40.001,-0.253
 29623558,Colutea_arborescens,40.009,-0.616
 1500984686,Colutea_arborescens,40.02,-0.65
@@ -324,7 +309,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29623502,Colutea_arborescens,39.718,-0.463
 29623557,Colutea_arborescens,40.063,-0.614
 318039292,Colutea_arborescens,42.63,-1.11
-895210043,Colutea_arborescens,39.95,-0.6
 1288100330,Colutea_arborescens,50.678601,9.516916
 1229657467,Colutea_arborescens,41.09,-4.06
 30859498,Colutea_arborescens,37.490002,-4.02
@@ -335,8 +319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111304222,Colutea_arborescens,42.701,-1.04
 1229657541,Colutea_arborescens,42.67,-1.59
 1936376549,Colutea_arborescens,40.2714,-1.0018
-1144643845,Colutea_arborescens,42.33333,9.5
-1500698145,Colutea_arborescens,40,-0.23
 318039068,Colutea_arborescens,42.57,-1.63
 111304221,Colutea_arborescens,42.665001,-1.639
 29623831,Colutea_arborescens,40.13,-0.36
@@ -346,10 +328,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936365205,Colutea_arborescens,40.678,-0.1971
 1936389523,Colutea_arborescens,42.441,-0.9465
 29623884,Colutea_arborescens,40.31,-0.35
-29623775,Colutea_arborescens,39.05,-0.4
 1936169504,Colutea_arborescens,39.4568,-0.7929
 30956031,Colutea_arborescens,40.14,-0.95
-29623886,Colutea_arborescens,40.3,-0.23
 1936147824,Colutea_arborescens,39.9875,-4.723
 29623766,Colutea_arborescens,38.86,-0.18
 29623765,Colutea_arborescens,38.86,-0.29
@@ -385,9 +365,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895203975,Colutea_arborescens,39.87,-0.84
 1936109885,Colutea_arborescens,41.7877,-4.0964
 1936438053,Colutea_arborescens,38.2431,-2.9098
-1144643855,Colutea_arborescens,42.3,9.48333
 1936366469,Colutea_arborescens,40.6924,-3.6167
-876155313,Colutea_arborescens,41.41,2.1
 1936367028,Colutea_arborescens,40.7014,-3.6168
 1936071572,Colutea_arborescens,41.7392,-4.0872
 1671664475,Colutea_arborescens,40.281996,9.636673
@@ -402,7 +380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111304910,Colutea_arborescens,42.52,-2.677
 1671664522,Colutea_arborescens,40.289514,9.589815
 1936693218,Colutea_arborescens,40.2871,-3.5895
-1842846810,Colutea_arborescens,42.05,2.7
 1936111912,Colutea_arborescens,40.4514,-0.9965
 1936115360,Colutea_arborescens,40.4832,-2.081
 29623059,Colutea_arborescens,40.06,-3.369
@@ -459,16 +436,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842849047,Colutea_arborescens,31.14,-8.11
 1563860489,Colutea_arborescens,38.433333,22.416667
 1935926200,Colutea_arborescens,37.0161,-4.5637
-1842905435,Colutea_arborescens,34.84,-2.4
 1891253256,Colutea_arborescens,43.1865,27.59508
 788724957,Colutea_arborescens,56.07295,14.47676
 1891255207,Colutea_arborescens,46.29796,8.80845
 1842846710,Colutea_arborescens,34.92,-4.26
 1891253274,Colutea_arborescens,49.07815,16.66257
 1890636211,Colutea_arborescens,34.675278,-0.620833
-786116927,Colutea_arborescens,46.9,17.9
 1890637448,Colutea_arborescens,33.526667,-5.111944
-1842872813,Colutea_arborescens,33.37,-5.2
 1891254497,Colutea_arborescens,50.90297,11.03048
 1890636873,Colutea_arborescens,48.139167,11.580278
 788424659,Colutea_arborescens,56.877485,14.811873
@@ -479,7 +453,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701087020,Colutea_arborescens,43.721262,11.290106
 1705403775,Colutea_arborescens,58.405667,15.620281
 1890637271,Colutea_arborescens,42.453056,18.5775
-1563860506,Colutea_arborescens,40.6,23.1
 1891253839,Colutea_arborescens,55.512305,13.225203
 1891254361,Colutea_arborescens,55.60694,13.002764
 1701085879,Colutea_arborescens,43.78763,11.208463
