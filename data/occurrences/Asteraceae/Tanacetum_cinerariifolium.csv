@@ -11,7 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638434928,Tanacetum_cinerariifolium,42.11278,19.21167
 1638434878,Tanacetum_cinerariifolium,42.00833,19.15528
 876153650,Tanacetum_cinerariifolium,43.2859,17.084
-994565341,Tanacetum_cinerariifolium,-42.2,147.4
 994564681,Tanacetum_cinerariifolium,-41.16325,147.24093
 994415008,Tanacetum_cinerariifolium,-41.17,146.95
 1843477966,Tanacetum_cinerariifolium,-41.166667,146.95
@@ -28,8 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242398926,Tanacetum_cinerariifolium,39.732042,-104.961511
 2239103621,Tanacetum_cinerariifolium,-31.390833,-64.190833
 994474687,Tanacetum_cinerariifolium,-42.88195,147.31771
-1897776669,Tanacetum_cinerariifolium,-36.933333,174.6
-2289022746,Tanacetum_cinerariifolium,-1.083333,36.6
 1600904915,Tanacetum_cinerariifolium,61.488467,23.523209
 2291105331,Tanacetum_cinerariifolium,-5.833333,144.25
 2291105215,Tanacetum_cinerariifolium,-5.916667,143.833333
