@@ -41,7 +41,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702531427,Espeletia_grandiflora,4.444528,-74.180444
 1702528204,Espeletia_grandiflora,4.294167,-74.211167
 1264676829,Espeletia_grandiflora,4.530694,-74.006639
-1702528160,Espeletia_grandiflora,5,-74.210778
 1702531447,Espeletia_grandiflora,4.430722,-74.175222
 1707693834,Espeletia_grandiflora,4.908583,-73.730444
 1274940702,Espeletia_grandiflora,4.637517,-73.931133
@@ -63,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702526262,Espeletia_grandiflora,4.557417,-73.979917
 1934712740,Espeletia_grandiflora,4.55348,-73.99469
 1934712751,Espeletia_grandiflora,4.54987,-73.99156
-1934702654,Espeletia_grandiflora,4.8,-73.95
 1702523382,Espeletia_grandiflora,4.289722,-74.207472
 1707588897,Espeletia_grandiflora,4.297222,-74.214167
 1702522240,Espeletia_grandiflora,4.739222,-73.844861
@@ -144,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890991301,Espeletia_grandiflora,5.2075,-74.005833
 1320236952,Espeletia_grandiflora,4.2822,-74.2057
 1321428726,Espeletia_grandiflora,4.10615,-74.2521
-2287420730,Espeletia_grandiflora,5,-74.166667
 1890943131,Espeletia_grandiflora,4.061111,-74.2575
 1314993540,Espeletia_grandiflora,3.91806,-74.0994
 1314993534,Espeletia_grandiflora,4.06111,-74.2575
@@ -162,7 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844920465,Espeletia_grandiflora,4.812236,-73.791397
 1322771847,Espeletia_grandiflora,4.72526,-73.8345
 1322127876,Espeletia_grandiflora,4.84582,-73.7917
-1701726793,Espeletia_grandiflora,5,-74.1667
 1319488142,Espeletia_grandiflora,4.51249,-73.7466
 1890968319,Espeletia_grandiflora,4.098056,-74.25
 1314993508,Espeletia_grandiflora,4.09806,-74.25
@@ -224,7 +220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890924960,Espeletia_grandiflora,5.047262,-74.051862
 1321146741,Espeletia_grandiflora,4.71795,-73.8264
 1318647973,Espeletia_grandiflora,4.28879,-74.2095
-1314993501,Espeletia_grandiflora,4.71175,-73.9
 1322715877,Espeletia_grandiflora,4.42551,-74.1174
 1322134955,Espeletia_grandiflora,4.71537,-73.8274
 1318592707,Espeletia_grandiflora,4.28072,-74.2125
