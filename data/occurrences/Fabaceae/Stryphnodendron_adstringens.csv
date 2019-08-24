@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2285834555,Stryphnodendron_adstringens,-14.561666,-48.516944
 1988309904,Stryphnodendron_adstringens,-23.268961,-47.498272
 1931779831,Stryphnodendron_adstringens,-18.843889,-47.810556
-1913580954,Stryphnodendron_adstringens,-15.730555,-47.939166
 2269107347,Stryphnodendron_adstringens,-13.553433,-47.525856
 1931780217,Stryphnodendron_adstringens,-18.295833,-43.850556
 2269106260,Stryphnodendron_adstringens,-16.6375,-49.581389
@@ -38,13 +37,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090965267,Stryphnodendron_adstringens,-21.728389,-44.961889
 1265926663,Stryphnodendron_adstringens,-15.840555,-48.887222
 2005908507,Stryphnodendron_adstringens,-22.9643,-47.1821
-1213657523,Stryphnodendron_adstringens,-15.791612,-47.922308
 1424497007,Stryphnodendron_adstringens,-20.212222,-46.385
 1087663274,Stryphnodendron_adstringens,-19.354444,-43.615833
 1213664807,Stryphnodendron_adstringens,-15.633333,-47.716667
 1213651509,Stryphnodendron_adstringens,-21.1875,-47.735556
 1077484119,Stryphnodendron_adstringens,-18.800833,-43.644444
-1587327414,Stryphnodendron_adstringens,-15.743611,-47.884166
 1587327448,Stryphnodendron_adstringens,-16.366111,-43.006944
 1424497617,Stryphnodendron_adstringens,-24,-49
 2236798314,Stryphnodendron_adstringens,-19.290556,-43.553333
@@ -131,7 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1316166427,Stryphnodendron_adstringens,-19.50775,-43.955083
 1087506429,Stryphnodendron_adstringens,-22.88375,-48.485
 1848244974,Stryphnodendron_adstringens,-21.016667,-47.366667
-1094886684,Stryphnodendron_adstringens,-15.766111,-47.856111
 1077224633,Stryphnodendron_adstringens,-13.15,-41.6
 2005867622,Stryphnodendron_adstringens,-15.816944,-48.893889
 1316166381,Stryphnodendron_adstringens,-19.317222,-48.962222
@@ -140,9 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094816877,Stryphnodendron_adstringens,-12.545833,-41.394444
 1424243858,Stryphnodendron_adstringens,-16.536944,-49.154722
 1077222225,Stryphnodendron_adstringens,-13.245278,-41.824444
-1087241546,Stryphnodendron_adstringens,-15.766667,-47.916667
-1042694643,Stryphnodendron_adstringens,-15.766667,-47.92
-1095240746,Stryphnodendron_adstringens,-15.766666,-47.855277
 1424160028,Stryphnodendron_adstringens,-15.373611,-42.692222
 1089270285,Stryphnodendron_adstringens,-24.019444,-52.361
 1090525941,Stryphnodendron_adstringens,-10.362778,-48.223611
@@ -158,8 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087237431,Stryphnodendron_adstringens,-14.898889,-47.762778
 1213597263,Stryphnodendron_adstringens,-16.173056,-48.424722
 1316166372,Stryphnodendron_adstringens,-20.247778,-47.460278
-1042694059,Stryphnodendron_adstringens,-15.744444,-47.89
-1087238584,Stryphnodendron_adstringens,-15.744444,-47.887778
 1423980148,Stryphnodendron_adstringens,-20.568056,-47.403889
 1316166383,Stryphnodendron_adstringens,-20.246944,-47.461944
 1042693760,Stryphnodendron_adstringens,-15.588611,-47.47
@@ -194,9 +185,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1086647846,Stryphnodendron_adstringens,-17.708056,-44.191944
 1094818114,Stryphnodendron_adstringens,-15.916667,-48.016667
 1095217722,Stryphnodendron_adstringens,-15.91667,-48.01667
-1087263120,Stryphnodendron_adstringens,-15.765,-47.856667
 1090472373,Stryphnodendron_adstringens,-13.233333,-45.75
-1270114126,Stryphnodendron_adstringens,-18.883333,-3.633333
 1095221229,Stryphnodendron_adstringens,-13.97722,-48.18194
 1213597221,Stryphnodendron_adstringens,-15.466667,-45.783333
 1090891935,Stryphnodendron_adstringens,-3.499722,-42.56
@@ -279,7 +268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912093184,Stryphnodendron_adstringens,-13.6,-41.8
 1424294968,Stryphnodendron_adstringens,-15.950833,-47.875833
 1316164074,Stryphnodendron_adstringens,-16.6,-42.966667
-1087721382,Stryphnodendron_adstringens,-2.505825,-44.280028
 1423980029,Stryphnodendron_adstringens,-15.946389,-47.877778
 1423979968,Stryphnodendron_adstringens,-15.941111,-47.868056
 1090446748,Stryphnodendron_adstringens,-13.5,-41.833333
@@ -290,7 +278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089011850,Stryphnodendron_adstringens,-22.8,-48.297222
 1087499487,Stryphnodendron_adstringens,-22.566667,-48.738611
 1228503945,Stryphnodendron_adstringens,-17.5,-61.5
-1929916031,Stryphnodendron_adstringens,-15.7834208090807,-47.9298726661488
 1423980041,Stryphnodendron_adstringens,-14.016667,-42.55
 912139084,Stryphnodendron_adstringens,-12.82,-45.95
 1270109881,Stryphnodendron_adstringens,-12.816667,-45.95
@@ -302,7 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1423980053,Stryphnodendron_adstringens,-23.783333,-51.833333
 1423979961,Stryphnodendron_adstringens,-22.883333,-44.8
 1087263078,Stryphnodendron_adstringens,-15.95,-47.916667
-1087263063,Stryphnodendron_adstringens,-15.766667,-47.866667
 1931351320,Stryphnodendron_adstringens,-15.95,-47.9
 1929607502,Stryphnodendron_adstringens,-22.9038524686268,-47.0604339702591
 1260032913,Stryphnodendron_adstringens,-8.494444,-48.144722
@@ -347,7 +333,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931146577,Stryphnodendron_adstringens,-15.87895,-48.0355
 1929873753,Stryphnodendron_adstringens,-21.932532,-47.370228
 1928543198,Stryphnodendron_adstringens,-21.9938368723438,-47.4201556886451
-1928720365,Stryphnodendron_adstringens,-15.758,-47.875
 1930412246,Stryphnodendron_adstringens,-17.4,-51.75
 1930758941,Stryphnodendron_adstringens,-23.1741596601934,-45.8803535288034
 1928917420,Stryphnodendron_adstringens,-21.2296313087543,-43.7735051715705
