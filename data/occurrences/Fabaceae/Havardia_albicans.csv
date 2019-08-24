@@ -8,7 +8,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421373286,Havardia_albicans,20.553056,-88.836667
 1261017131,Havardia_albicans,20.536111,-88.8275
 1421405093,Havardia_albicans,20.544444,-88.835833
-1421394047,Havardia_albicans,21.3,-89.577778
 1421379060,Havardia_albicans,21.028333,-89.638056
 1257895405,Havardia_albicans,21.025,-89.641667
 1421406304,Havardia_albicans,20.616667,-87.652778
@@ -21,11 +20,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894072565,Havardia_albicans,19.520833,-89.060833
 1260851127,Havardia_albicans,19.52083,-89.06083
 1421397213,Havardia_albicans,21.166667,-89.85
-1421360315,Havardia_albicans,20.75,-89.5
 1257759952,Havardia_albicans,17.986111,-89.361667
 1897493476,Havardia_albicans,20.176389,-89.963889
 1257717937,Havardia_albicans,18.525,-89.901944
-1265478896,Havardia_albicans,18.52,-89.9
 1265478837,Havardia_albicans,18.98,-89.28
 1257947426,Havardia_albicans,17.913611,-89.318611
 1897371585,Havardia_albicans,19.874444,-88.078055
@@ -41,14 +38,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421402433,Havardia_albicans,17.966667,-91.766667
 1259907865,Havardia_albicans,17.97361,-91.76666
 1259907950,Havardia_albicans,18.5975,-90.08444
-1228440127,Havardia_albicans,20.8333,-89
 1989221856,Havardia_albicans,21.21667,-87.18333
 1259910740,Havardia_albicans,21.21666,-87.18333
 1259911705,Havardia_albicans,21.02833,-89.02833
 1056502435,Havardia_albicans,23.950465,-102.532886
 1897493543,Havardia_albicans,19.812222,-90.522222
 1897493563,Havardia_albicans,20.400833,-90.083055
-1893303555,Havardia_albicans,19.8,-90.527222
 1893303591,Havardia_albicans,20.080556,-90.338889
 1893303615,Havardia_albicans,19.783611,-90.289444
 1259911532,Havardia_albicans,21.02833,-89.63805
@@ -62,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259907664,Havardia_albicans,18.63055,-89.26666
 1421417107,Havardia_albicans,18.630556,-89.266667
 1893795326,Havardia_albicans,18.392222,-89.899444
-1265478746,Havardia_albicans,18.3,-89.85
 1259908807,Havardia_albicans,18.39222,-89.89944
 1893303581,Havardia_albicans,18.301944,-89.847222
 1421403858,Havardia_albicans,18.387222,-89.897778
@@ -72,17 +66,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421375673,Havardia_albicans,18.648611,-89.408333
 1259911455,Havardia_albicans,19.07305,-89.32166
 1893303494,Havardia_albicans,20.008056,-90.266667
-1895418924,Havardia_albicans,18.391389,-89.9
 1897493547,Havardia_albicans,20.008056,-90.226389
 1421359103,Havardia_albicans,20.452778,-89.731944
-1895418945,Havardia_albicans,21.2,-87.183333
 1893303576,Havardia_albicans,18.602222,-90.131944
 1421406656,Havardia_albicans,18.616667,-90.122222
 1897493535,Havardia_albicans,18.538056,-89.891667
 1893303562,Havardia_albicans,18.633333,-90.197222
 1893722022,Havardia_albicans,20.278333,-89.358333
 1259909718,Havardia_albicans,18.63333,-90.19722
-1265478720,Havardia_albicans,18.63,-90.2
 1259909511,Havardia_albicans,20.24972,-89.37583
 1419062945,Havardia_albicans,20.875,-89.641667
 1421362995,Havardia_albicans,19.614722,-90.218333
@@ -90,7 +81,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893442690,Havardia_albicans,20.825,-89.258333
 1893442710,Havardia_albicans,20.458333,-88.908333
 1893442679,Havardia_albicans,20.041667,-87.691667
-1421410743,Havardia_albicans,21.1,-89.608333
 1421404531,Havardia_albicans,20.838889,-90.197222
 1894690645,Havardia_albicans,20.434722,-90.0975
 1421397423,Havardia_albicans,20.469444,-90.061944
@@ -104,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421380569,Havardia_albicans,20.733333,-90.216667
 1893442740,Havardia_albicans,20.558333,-88.841667
 1421376226,Havardia_albicans,21.15,-88.963889
-1421402749,Havardia_albicans,21.036111,-89.8
 1896224693,Havardia_albicans,21.156389,-89.055278
 1421370835,Havardia_albicans,21.095833,-88.163889
 1421409780,Havardia_albicans,20.847222,-90.330556
@@ -120,7 +109,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897493595,Havardia_albicans,18.502222,-89.928611
 1421375872,Havardia_albicans,20.658333,-88.534722
 1421363597,Havardia_albicans,21.097222,-89.597778
-1260254563,Havardia_albicans,17.9,-88.3
 1258552457,Havardia_albicans,16.75,-93.11
 1421792686,Havardia_albicans,17.632222,-101.472778
 1894690702,Havardia_albicans,16.7535429201552,-93.1166229088522
@@ -137,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897493541,Havardia_albicans,20.414444,-90.156111
 1894690716,Havardia_albicans,20.408333,-90.177778
 1894690706,Havardia_albicans,20.5202068506393,-90.2783612106253
-1893753364,Havardia_albicans,20.4,-90.15
 1893444313,Havardia_albicans,20.775,-88.408333
 1421409047,Havardia_albicans,20.472222,-88.870833
 1897493507,Havardia_albicans,18.090278,-89.711111
@@ -152,7 +139,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259566193,Havardia_albicans,20.69,-88.13
 1895219962,Havardia_albicans,20.665,-90.2425
 1258554909,Havardia_albicans,20.64,-90.21
-1421362182,Havardia_albicans,20.666667,-90.3
 1421411782,Havardia_albicans,20.672222,-90.263889
 1421395330,Havardia_albicans,20.766667,-90.2625
 1893444301,Havardia_albicans,20.675,-91.258333
@@ -169,7 +155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894678989,Havardia_albicans,20.204167,-90.475
 1897493565,Havardia_albicans,20.205833,-90.171111
 1421398023,Havardia_albicans,20.205556,-90.420833
-1265478718,Havardia_albicans,20.2,-90.17
 1421366407,Havardia_albicans,21.202222,-89.270278
 1930963823,Havardia_albicans,21.2022,-89.2703
 371273637,Havardia_albicans,20.508333,-90.241667
@@ -178,7 +163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421405667,Havardia_albicans,20.519444,-90.304167
 1895219872,Havardia_albicans,21.008333,-89.241667
 1894690725,Havardia_albicans,20.508333,-90.375
-1421377545,Havardia_albicans,19.8,-90.486111
 1893442745,Havardia_albicans,20.891667,-88.625
 371285119,Havardia_albicans,20.875,-88.641667
 1897493491,Havardia_albicans,19.762778,-90.497778
@@ -188,10 +172,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259563700,Havardia_albicans,21.08,-89.96
 1894690678,Havardia_albicans,21.108333,-89.975
 1259567384,Havardia_albicans,21.09,-89.59
-1895219842,Havardia_albicans,21.1,-89.969444
 1421381987,Havardia_albicans,21.569444,-88.159722
 1265478943,Havardia_albicans,18.75,-89.75
-1421418619,Havardia_albicans,17.883333,-90.8
 1421405940,Havardia_albicans,17.891667,-90.793056
 1929572988,Havardia_albicans,19.95808,-87.75906
 1893442731,Havardia_albicans,21.158333,-88.158333
@@ -214,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421395262,Havardia_albicans,21.198611,-88.815278
 1894690728,Havardia_albicans,20.696305401081,-88.229861232691
 371281064,Havardia_albicans,20.691667,-88.225
-1895219858,Havardia_albicans,20.7,-88.233333
 1893444310,Havardia_albicans,20.758333,-88.241667
 1421390719,Havardia_albicans,20.691667,-88.227778
 1893444302,Havardia_albicans,20.925,-89.625
@@ -243,7 +224,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894678954,Havardia_albicans,19.7834614725633,-87.6013889601525
 1896224707,Havardia_albicans,19.791667,-87.608333
 1896224697,Havardia_albicans,19.858333,-90.508333
-1421391687,Havardia_albicans,19.783333,-87.6
 1421409423,Havardia_albicans,21.029167,-89.640278
 1421364845,Havardia_albicans,19.669444,-90.175
 371280892,Havardia_albicans,20.725,-88.308333
@@ -265,7 +245,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 371280875,Havardia_albicans,20.575,-88.775
 1894690699,Havardia_albicans,20.7380863007814,-88.3292887323335
 1893753310,Havardia_albicans,20.548333,-88.825
-1258552470,Havardia_albicans,20.07,-87.6
 371284118,Havardia_albicans,20.175,-87.675
 1895219892,Havardia_albicans,20.066667,-87.598333
 1421372266,Havardia_albicans,21.106944,-89.454722
@@ -279,13 +258,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421399624,Havardia_albicans,20.272222,-89.433333
 1896224701,Havardia_albicans,20.658333,-89.791667
 1421406892,Havardia_albicans,19.884722,-87.738889
-1895219897,Havardia_albicans,20.5,-87.731944
 371284131,Havardia_albicans,20.491667,-87.741667
 1421388633,Havardia_albicans,20.530556,-88.955556
 371284217,Havardia_albicans,20.375,-90.058333
 1421369266,Havardia_albicans,20.492778,-89.915556
 371281738,Havardia_albicans,20.875,-90.141667
-1895219894,Havardia_albicans,20.4,-90.231944
 1421397771,Havardia_albicans,20.275,-89.433333
 1896224705,Havardia_albicans,20.308333,-89.408333
 371276658,Havardia_albicans,19.275,-88.125
@@ -333,7 +310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929600324,Havardia_albicans,19.76636,-87.7544
 371276448,Havardia_albicans,19.691667,-87.741667
 1259567023,Havardia_albicans,20.48,-87.73
-1421414945,Havardia_albicans,20.45,-88.9
 1894690696,Havardia_albicans,21.091667,-89.591667
 1421381300,Havardia_albicans,20.513889,-88.943056
 1421380887,Havardia_albicans,18.511111,-88.569444
@@ -343,7 +319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894690638,Havardia_albicans,20.341667,-89.758333
 371277073,Havardia_albicans,19.908333,-88.758333
 1894690684,Havardia_albicans,19.825,-88.791667
-1421418353,Havardia_albicans,19.9,-88.783333
 371271635,Havardia_albicans,20.458333,-88.841667
 1895219823,Havardia_albicans,20.490278,-88.906944
 1258261703,Havardia_albicans,20.54,-88.82
@@ -352,7 +327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 371272322,Havardia_albicans,20.875,-88.991667
 371271743,Havardia_albicans,20.858333,-89.008333
 1895219868,Havardia_albicans,20.861111,-88.998611
-1258552474,Havardia_albicans,20.85,-89
 1895219849,Havardia_albicans,21.351944,-87.657222
 371271763,Havardia_albicans,20.875,-90.158333
 371271581,Havardia_albicans,21.308333,-87.758333
@@ -365,7 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 371271809,Havardia_albicans,20.458333,-89.641667
 1895219879,Havardia_albicans,20.180556,-89.258333
 1895219880,Havardia_albicans,20.441667,-89.633333
-1259346865,Havardia_albicans,17.4,-88.466667
 1258552469,Havardia_albicans,18.64,-90.22
 1421393828,Havardia_albicans,18.566667,-91.025
 1989472315,Havardia_albicans,18.6108,-90.7951
@@ -388,7 +361,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 371272198,Havardia_albicans,20.308333,-89.425
 1895219805,Havardia_albicans,20.304444,-89.418333
 1930477894,Havardia_albicans,18.3139,-91.8367
-1421412307,Havardia_albicans,18.5,-91.866667
 1895219852,Havardia_albicans,18.116667,-91.102778
 1895392154,Havardia_albicans,21.0582380406717,-89.6314639823269
 1895392188,Havardia_albicans,20.7714152771905,-88.572073673888
@@ -414,7 +386,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930356397,Havardia_albicans,18.976667,-90.43
 1421390974,Havardia_albicans,20.931389,-89.017778
 1936047346,Havardia_albicans,20.6372,-89.6731
-1258554869,Havardia_albicans,20.7,-89.09
 1928613633,Havardia_albicans,20.985872,-89.617573
 1928605645,Havardia_albicans,20.97961,-88.44356
 1421367069,Havardia_albicans,20.966944,-89.621667
