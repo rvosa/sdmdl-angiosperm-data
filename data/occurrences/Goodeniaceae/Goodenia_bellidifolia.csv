@@ -52,9 +52,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995351507,Goodenia_bellidifolia,-33.7406,150.3853
 1073842966,Goodenia_bellidifolia,-29.88214,151.142192
 1073836407,Goodenia_bellidifolia,-30.146259,151.078578
-993595613,Goodenia_bellidifolia,-35.2833,149.1167
 1061590203,Goodenia_bellidifolia,-34.259102,150.937574
-1652298012,Goodenia_bellidifolia,-27.623538,153.375788
 1652183549,Goodenia_bellidifolia,-25.381378,148.750105
 1652314637,Goodenia_bellidifolia,-26.336051,150.856928
 1073834378,Goodenia_bellidifolia,-29.572782,150.572574
@@ -162,7 +160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451610745,Goodenia_bellidifolia,-35.398437,149.684531
 992566003,Goodenia_bellidifolia,-35.103914,150.679568
 992567407,Goodenia_bellidifolia,-29.33,151.75
-1652190715,Goodenia_bellidifolia,-23.756897,149.10916
 992567505,Goodenia_bellidifolia,-28.915287,152.034218
 995933576,Goodenia_bellidifolia,-35.4,149.68
 1937260349,Goodenia_bellidifolia,-33.683333,150.55
@@ -317,7 +314,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993785716,Goodenia_bellidifolia,-33.7167,151.1667
 1936988627,Goodenia_bellidifolia,-30.5,152.166667
 995496180,Goodenia_bellidifolia,-30.433333,152.216667
-1651888148,Goodenia_bellidifolia,-25.915209,153.084116
 995471855,Goodenia_bellidifolia,-30.083333,151.933333
 1651880314,Goodenia_bellidifolia,-27.540205,153.17579
 1651991594,Goodenia_bellidifolia,-27.590206,153.092458
@@ -334,12 +330,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993796096,Goodenia_bellidifolia,-35.0833,150.15
 994799232,Goodenia_bellidifolia,-33.7167,150.3167
 1937220950,Goodenia_bellidifolia,-30.5,152.233333
-1651878484,Goodenia_bellidifolia,-23.91523,149.084161
 1451486584,Goodenia_bellidifolia,-30.08175,151.917765
 1936922413,Goodenia_bellidifolia,-30.08,151.92
 1937061848,Goodenia_bellidifolia,-29.883333,153.066667
-993266881,Goodenia_bellidifolia,-23.85,148.95
-995281454,Goodenia_bellidifolia,-23.8833,149
 1936880123,Goodenia_bellidifolia,-29.833333,151.033333
 995472875,Goodenia_bellidifolia,-29.95,151.083333
 1936924820,Goodenia_bellidifolia,-29.95,151.05
@@ -403,7 +396,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993805521,Goodenia_bellidifolia,-29.8333,151.1
 1451714259,Goodenia_bellidifolia,-29.865089,151.151111
 993800280,Goodenia_bellidifolia,-29.8667,151.1333
-993808441,Goodenia_bellidifolia,-35.15,150.6833
 1451707793,Goodenia_bellidifolia,-31.865078,152.367778
 1451707761,Goodenia_bellidifolia,-29.848423,151.117778
 996159367,Goodenia_bellidifolia,-31.87,152.37
@@ -444,9 +436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937191914,Goodenia_bellidifolia,-33.5,150.383333
 993661625,Goodenia_bellidifolia,-33.9833,150.1333
 993663195,Goodenia_bellidifolia,-34.8167,149.1333
-994771853,Goodenia_bellidifolia,-29.9333,153.2
-1651964631,Goodenia_bellidifolia,-23.748564,149.08416
-1652044059,Goodenia_bellidifolia,-23.806897,149.142493
 1451707854,Goodenia_bellidifolia,-33.665096,150.551164
 996159986,Goodenia_bellidifolia,-33.67,150.55
 993676374,Goodenia_bellidifolia,-35.0667,150.15
@@ -520,8 +509,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996160121,Goodenia_bellidifolia,-33.72,150.32
 1451707942,Goodenia_bellidifolia,-33.7151,150.317835
 1651964703,Goodenia_bellidifolia,-27.581872,153.084125
-995864285,Goodenia_bellidifolia,-27.42,153.25
-1652059278,Goodenia_bellidifolia,-27.498537,153.500785
 1451707860,Goodenia_bellidifolia,-33.715099,150.367835
 996160042,Goodenia_bellidifolia,-33.72,150.37
 996159664,Goodenia_bellidifolia,-34.9,150.57
@@ -581,8 +568,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451707706,Goodenia_bellidifolia,-29.948423,151.051113
 1451707731,Goodenia_bellidifolia,-29.248425,150.901111
 996159357,Goodenia_bellidifolia,-29.25,150.9
-1651964682,Goodenia_bellidifolia,-27.748537,153.417454
-992178832,Goodenia_bellidifolia,-33.981962,151.242605
 1651964654,Goodenia_bellidifolia,-27.581873,152.917461
 996159449,Goodenia_bellidifolia,-29.269,151.636
 994647929,Goodenia_bellidifolia,-30.3667,150.6
@@ -607,13 +592,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937136038,Goodenia_bellidifolia,-31.9,152.55
 1451707906,Goodenia_bellidifolia,-33.598427,150.751159
 996159829,Goodenia_bellidifolia,-33.6,150.75
-992326204,Goodenia_bellidifolia,-33.946128,116.388158
 1451707912,Goodenia_bellidifolia,-28.615083,152.534412
 996159380,Goodenia_bellidifolia,-28.62,152.53
 995546314,Goodenia_bellidifolia,-29.52,150.57
 1451440433,Goodenia_bellidifolia,-29.515094,150.567785
-1451581471,Goodenia_bellidifolia,-33.965088,151.251156
-995864305,Goodenia_bellidifolia,-33.97,151.25
 1451581459,Goodenia_bellidifolia,-32.698432,150.017827
 995864301,Goodenia_bellidifolia,-32.7,150.02
 996159792,Goodenia_bellidifolia,-34.07,151.07
