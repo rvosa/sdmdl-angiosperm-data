@@ -10,9 +10,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1837900702,Chrysosplenium_oppositifolium,50.241112,8.439722
 2289484202,Chrysosplenium_oppositifolium,53.07925,6.648917
 2290791693,Chrysosplenium_oppositifolium,50.766033,5.866767
-1060322063,Chrysosplenium_oppositifolium,51.6,10.8
 1702243933,Chrysosplenium_oppositifolium,59.2052,6.0237
-1987575456,Chrysosplenium_oppositifolium,50.45,6.1
 1702224238,Chrysosplenium_oppositifolium,62.9292,7.1395
 1702244275,Chrysosplenium_oppositifolium,62.2593,5.4842
 876157298,Chrysosplenium_oppositifolium,42.814,0.817
@@ -56,11 +54,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702241156,Chrysosplenium_oppositifolium,62.356,5.5874
 1702241027,Chrysosplenium_oppositifolium,62.2925,5.5888
 1701858196,Chrysosplenium_oppositifolium,62.3303,5.7292
-211623066,Chrysosplenium_oppositifolium,42.779999,-2.6
 1936670264,Chrysosplenium_oppositifolium,42.7739,-2.5979
 895181407,Chrysosplenium_oppositifolium,42.78,-2.59
 1342339352,Chrysosplenium_oppositifolium,55.08537,8.928243
-1060293204,Chrysosplenium_oppositifolium,52,-9.5
 1701849742,Chrysosplenium_oppositifolium,59.7027,6.047
 1702207118,Chrysosplenium_oppositifolium,62.9165,6.9435
 1701632800,Chrysosplenium_oppositifolium,62.9389,7.1121
@@ -78,7 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851369437,Chrysosplenium_oppositifolium,42.9246,-5.4979
 1936205164,Chrysosplenium_oppositifolium,42.1874,-6.8701
 1702003580,Chrysosplenium_oppositifolium,61.4949,5.1273
-786110317,Chrysosplenium_oppositifolium,51.8,10.7
 2309398104,Chrysosplenium_oppositifolium,51.56,-3.24
 932704669,Chrysosplenium_oppositifolium,42.27773,-8.40717
 932704998,Chrysosplenium_oppositifolium,42.79176,-6.92281
@@ -149,7 +144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851409591,Chrysosplenium_oppositifolium,41.78,2.428
 211623108,Chrysosplenium_oppositifolium,43.09,-5.89
 1851398079,Chrysosplenium_oppositifolium,42.406,-6.636
-860316791,Chrysosplenium_oppositifolium,42.5,2.94
 1702320465,Chrysosplenium_oppositifolium,59.98286,5.53824
 1851339041,Chrysosplenium_oppositifolium,42.331,-6.53
 1851370208,Chrysosplenium_oppositifolium,43.114,-5.071
@@ -157,7 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851402931,Chrysosplenium_oppositifolium,42.312,-6.458
 1851382274,Chrysosplenium_oppositifolium,42.697,-6.784
 1851374355,Chrysosplenium_oppositifolium,42.492,-6.463
-211622663,Chrysosplenium_oppositifolium,42.790001,-6.8
 1851367519,Chrysosplenium_oppositifolium,42.66,-6.74
 1946966052,Chrysosplenium_oppositifolium,50.22,10.05
 1701873574,Chrysosplenium_oppositifolium,62.1932,5.176
@@ -168,7 +161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318221584,Chrysosplenium_oppositifolium,59.0701,5.764
 1144074583,Chrysosplenium_oppositifolium,61.54414,5.76869
 1851392182,Chrysosplenium_oppositifolium,42.92,-5.39
-1851387128,Chrysosplenium_oppositifolium,43,-5.76
 1851345193,Chrysosplenium_oppositifolium,42.834,-6.889
 1053985881,Chrysosplenium_oppositifolium,43.27,-1.77
 318221598,Chrysosplenium_oppositifolium,59.4334,5.9234
@@ -185,13 +177,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144203205,Chrysosplenium_oppositifolium,62.4524,6.3736
 1144203177,Chrysosplenium_oppositifolium,62.6844,6.2944
 1851355842,Chrysosplenium_oppositifolium,42.92,-6.37
-1851390023,Chrysosplenium_oppositifolium,42.74,-6.5
 1805098764,Chrysosplenium_oppositifolium,42.241,-2.788
 127205931,Chrysosplenium_oppositifolium,42.720001,-8.51
 1851398426,Chrysosplenium_oppositifolium,42.29,-6.63
 211622847,Chrysosplenium_oppositifolium,43.310001,-6.07
 1946964422,Chrysosplenium_oppositifolium,50.22,9.96
-1851330338,Chrysosplenium_oppositifolium,43.02,-4.9
 1851384596,Chrysosplenium_oppositifolium,43.02,-4.78
 1806555032,Chrysosplenium_oppositifolium,43.134,-1.666
 1701338620,Chrysosplenium_oppositifolium,62.9796,7.3921
@@ -223,7 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187134927,Chrysosplenium_oppositifolium,62.1538,5.1319
 1144074463,Chrysosplenium_oppositifolium,60.3299,5.3723
 1701958195,Chrysosplenium_oppositifolium,62.3299,5.8144
-211622572,Chrysosplenium_oppositifolium,43.049999,-6
 1702185099,Chrysosplenium_oppositifolium,62.746,6.9251
 1144074603,Chrysosplenium_oppositifolium,62.1043,5.2917
 1702355909,Chrysosplenium_oppositifolium,60.1874,5.4739
@@ -306,7 +295,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 997427632,Chrysosplenium_oppositifolium,51.20017,-0.38666
 1702185159,Chrysosplenium_oppositifolium,62.9726,7.1853
 1913343796,Chrysosplenium_oppositifolium,55.931944,12.304444
-1705498423,Chrysosplenium_oppositifolium,55.21667,9.4
 1144074474,Chrysosplenium_oppositifolium,59.962,5.3552
 1702356047,Chrysosplenium_oppositifolium,59.9642,5.3633
 1144074466,Chrysosplenium_oppositifolium,60.285,5.3333
@@ -317,7 +305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935673298,Chrysosplenium_oppositifolium,47.91194,7.89861
 1935673296,Chrysosplenium_oppositifolium,47.99667,7.91861
 1913345855,Chrysosplenium_oppositifolium,56.862222,9.8575
-786110328,Chrysosplenium_oppositifolium,47.9,8
 1144074462,Chrysosplenium_oppositifolium,60.2974,5.3336
 1701331606,Chrysosplenium_oppositifolium,59.9263,5.7192
 1702355957,Chrysosplenium_oppositifolium,59.8133,5.9516
@@ -340,7 +327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913344400,Chrysosplenium_oppositifolium,59.932222,5.724444
 2286112053,Chrysosplenium_oppositifolium,58.854891,-3.291684
 1701902917,Chrysosplenium_oppositifolium,59.8817,5.5207
-20740940,Chrysosplenium_oppositifolium,59.7,5.3671
 1702356073,Chrysosplenium_oppositifolium,59.7026,5.3464
 1701903011,Chrysosplenium_oppositifolium,59.6929,5.3714
 1702355954,Chrysosplenium_oppositifolium,59.6991,5.3654
@@ -386,8 +372,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913344946,Chrysosplenium_oppositifolium,55.860556,9.849722
 2313063661,Chrysosplenium_oppositifolium,49.37,11.21
 1913344412,Chrysosplenium_oppositifolium,56.140833,9.527222
-1988212834,Chrysosplenium_oppositifolium,56,-3.2
-2286111231,Chrysosplenium_oppositifolium,54.6,-3.116667
 1913342692,Chrysosplenium_oppositifolium,57.333889,10.478889
 1144074506,Chrysosplenium_oppositifolium,60.3247,5.3414
 812023100,Chrysosplenium_oppositifolium,50.4979,10.039983
