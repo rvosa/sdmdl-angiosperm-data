@@ -1,16 +1,11 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270221949,Cynara_cardunculus,35.176222,-120.713412
-2305256956,Cynara_cardunculus,38.89,-77.01
-1318954314,Cynara_cardunculus,38.8872,-77.0129
-1988079506,Cynara_cardunculus,48.411,-123.33
-1675915725,Cynara_cardunculus,28.0909,-17.2518
 1144974232,Cynara_cardunculus,-40.04771,175.21526
 1671643586,Cynara_cardunculus,37.660824,13.671429
 1849139769,Cynara_cardunculus,34.008,-81.0831
 1090162386,Cynara_cardunculus,-25.383667,-49.117833
 992079908,Cynara_cardunculus,-35.008444,139.098874
 992080238,Cynara_cardunculus,-34.534279,138.714705
-1988147541,Cynara_cardunculus,49.253318,-123.246517
 1257748945,Cynara_cardunculus,-8.116667,-79.016667
 1934701807,Cynara_cardunculus,4.772543,-74.259638
 1838991931,Cynara_cardunculus,37.709438,21.86722
@@ -28,8 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270489233,Cynara_cardunculus,35.137114,-120.488611
 788553783,Cynara_cardunculus,57.12644,12.29549
 1897838169,Cynara_cardunculus,-40.045778,175.21375
-993694821,Cynara_cardunculus,-35.2944,149.0473
-2270291084,Cynara_cardunculus,34.016528,-119.771088
 1936689748,Cynara_cardunculus,37.1457,-3.5789
 992054418,Cynara_cardunculus,-35.526507,138.67305
 995456046,Cynara_cardunculus,-35.526507,138.673051
@@ -38,7 +31,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257502093,Cynara_cardunculus,22.307222,103.246667
 932707286,Cynara_cardunculus,42.42385,-6.99578
 2291490151,Cynara_cardunculus,19.71,103.59
-1098688125,Cynara_cardunculus,4.631227,-74.159101
 992031101,Cynara_cardunculus,-34.949444,138.511944
 1260125616,Cynara_cardunculus,-2.25333,-78.66416
 85235724,Cynara_cardunculus,42.33465,2.452617
@@ -67,7 +59,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992005648,Cynara_cardunculus,-34.738998,139.209702
 2270186988,Cynara_cardunculus,35.1762,-120.71699
 992014899,Cynara_cardunculus,-34.804722,138.604722
-1671664994,Cynara_cardunculus,40.957897,8.203476
 1894640679,Cynara_cardunculus,20.343333,-101.021667
 996132526,Cynara_cardunculus,-34.43,145.82
 1893980751,Cynara_cardunculus,20.579972,-100.454694
@@ -79,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30664484,Cynara_cardunculus,37.16,-1.92
 995119102,Cynara_cardunculus,-37.8167,144.9667
 1897726116,Cynara_cardunculus,-37.783333,174.9
-895144426,Cynara_cardunculus,38.782,0.139
 992617316,Cynara_cardunculus,-32.631667,138.579722
 1085275434,Cynara_cardunculus,-32.6303,138.58099
 995125548,Cynara_cardunculus,-37.7564,144.7967
@@ -91,7 +81,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085283123,Cynara_cardunculus,-34.51682,138.48954
 1085266523,Cynara_cardunculus,-33.76457,138.44404
 992622101,Cynara_cardunculus,-34.145833,138.280278
-895287743,Cynara_cardunculus,38.68,0.07
 1085177771,Cynara_cardunculus,-33.33874,137.89845
 992590377,Cynara_cardunculus,-33.340278,137.897222
 1085182831,Cynara_cardunculus,-34.23148,138.83918
@@ -103,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671664981,Cynara_cardunculus,40.442835,8.538762
 1893676403,Cynara_cardunculus,19.576667,-101.51
 1893933366,Cynara_cardunculus,20.3218786635542,-101.560614032721
-1144623223,Cynara_cardunculus,41.6,9.35
 1085161515,Cynara_cardunculus,-33.58011,138.67613
 992547509,Cynara_cardunculus,-33.581667,138.674722
 992045566,Cynara_cardunculus,-31.724267,138.499122
@@ -111,7 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992536810,Cynara_cardunculus,-32.8,139.8
 1897723074,Cynara_cardunculus,-37.933333,175.3
 1897762909,Cynara_cardunculus,-36.3,174.5
-85797664,Cynara_cardunculus,39.66,3.35
 1144623211,Cynara_cardunculus,42,9
 78871110,Cynara_cardunculus,37.26,-4.52
 1144623237,Cynara_cardunculus,42.1,9.51667
@@ -135,12 +122,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895509425,Cynara_cardunculus,20.233333,-101.016667
 995262257,Cynara_cardunculus,-37.8,144.8167
 85797787,Cynara_cardunculus,37.220001,-4.58
-1144623212,Cynara_cardunculus,41.36667,9.21667
 85797780,Cynara_cardunculus,37.580002,-4.36
 1144623229,Cynara_cardunculus,42.1,9.53333
-1144623220,Cynara_cardunculus,41.6,9.33333
 85797783,Cynara_cardunculus,37.759998,-4.7
-995061045,Cynara_cardunculus,-38.1333,144.5833
 994892070,Cynara_cardunculus,-37.0167,144.5167
 992474117,Cynara_cardunculus,-35.35,138.87
 2239095002,Cynara_cardunculus,-30.680833,-63.923611
@@ -158,16 +142,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995127815,Cynara_cardunculus,-37.7333,144.8333
 994797438,Cynara_cardunculus,-35.1667,138.55
 992321628,Cynara_cardunculus,-35.17,138.55
-1897762163,Cynara_cardunculus,-36.683333,175.116667
 992336065,Cynara_cardunculus,-34.766667,138.733333
 1451636768,Cynara_cardunculus,-30.948438,148.401169
 996001168,Cynara_cardunculus,-30.95,148.4
 992518616,Cynara_cardunculus,-34.982059,138.617767
 993639963,Cynara_cardunculus,-37.7167,144.8
-992474146,Cynara_cardunculus,-35.27,136.89
 996558645,Cynara_cardunculus,-33.573056,115.816389
 992474171,Cynara_cardunculus,-33.938998,138.696365
-2270486876,Cynara_cardunculus,17.733333,-33.533333
 1426382144,Cynara_cardunculus,33.533333,-117.733333
 1260874631,Cynara_cardunculus,33.53333,-117.73333
 992261710,Cynara_cardunculus,-34.930669,138.671377
@@ -188,7 +169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451701882,Cynara_cardunculus,-32.598434,149.567833
 996038683,Cynara_cardunculus,-32.6,149.57
 992194315,Cynara_cardunculus,-34.995,138.596
-1098980679,Cynara_cardunculus,44.5,26.083334
 992171847,Cynara_cardunculus,-33.864281,138.00776
 995154644,Cynara_cardunculus,-33.8667,138
 992474195,Cynara_cardunculus,-35.049005,138.584712
@@ -196,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270184669,Cynara_cardunculus,35.282791,-120.660294
 1501861414,Cynara_cardunculus,38.33,-0.54
 992132594,Cynara_cardunculus,-34.822614,138.674709
-31970546,Cynara_cardunculus,39.310001,3.04
 1451583113,Cynara_cardunculus,-34.548457,146.401241
 995867561,Cynara_cardunculus,-34.55,146.4
 1426382118,Cynara_cardunculus,37.45,-122.108333
@@ -214,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994111643,Cynara_cardunculus,-35.6833,139.3333
 992474241,Cynara_cardunculus,-34.960948,138.647489
 992474219,Cynara_cardunculus,-34.910947,138.674988
-1144623214,Cynara_cardunculus,42.08333,9.53333
 995387231,Cynara_cardunculus,-37.7167,144.9667
 1842858446,Cynara_cardunculus,35.19,-3.93
 1842850715,Cynara_cardunculus,35.02,-3.38
@@ -229,7 +207,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992502291,Cynara_cardunculus,-34.6,138.8
 992502306,Cynara_cardunculus,-34.93206,138.517768
 992302121,Cynara_cardunculus,-34.95,138.4
-1144560950,Cynara_cardunculus,41.38333,9.16667
 1144560972,Cynara_cardunculus,41.4,9.2
 996038596,Cynara_cardunculus,-32.8,149.98
 1451656013,Cynara_cardunculus,-32.798432,149.984495
