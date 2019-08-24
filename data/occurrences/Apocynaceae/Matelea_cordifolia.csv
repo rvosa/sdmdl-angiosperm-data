@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894822195,Matelea_cordifolia,27.308333,-112.841667
 1894822151,Matelea_cordifolia,25.425,-111.008333
 1894822245,Matelea_cordifolia,24.075,-110.141667
-2270478928,Matelea_cordifolia,26.5833,-112.9
 1894822067,Matelea_cordifolia,25.841667,-111.258333
 1894822210,Matelea_cordifolia,26.591667,-112.908333
 1894822077,Matelea_cordifolia,27.608333,-113.075
@@ -24,8 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260562666,Matelea_cordifolia,27.916389,-110.693611
 1895503985,Matelea_cordifolia,26.911039,-108.845039
 2270477021,Matelea_cordifolia,27.9167,-110.667
-1259243227,Matelea_cordifolia,26.9,-108.85
-1259204291,Matelea_cordifolia,23.5,-110.033333
 1895936979,Matelea_cordifolia,23.966667,-109.895833
 1895936966,Matelea_cordifolia,23.391389,-110.05
 1895936968,Matelea_cordifolia,28.099444,-110.956944
@@ -35,11 +32,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500198432,Matelea_cordifolia,30.366667,-112.366667
 2270479046,Matelea_cordifolia,27.949482,-110.899724
 1500197347,Matelea_cordifolia,23.833333,-110.183333
-1259242983,Matelea_cordifolia,30,-111.116667
 1895503974,Matelea_cordifolia,30.237139,-111.028986
 1846527193,Matelea_cordifolia,30.36862,-112.320813
 1895503995,Matelea_cordifolia,27.1624753616172,-107.559776586211
-1259243032,Matelea_cordifolia,27.45,-107.6
 1258424943,Matelea_cordifolia,28.325,-111.331111
 1893432115,Matelea_cordifolia,28.725,-113.541667
 1895936965,Matelea_cordifolia,29.479167,-110.995833
