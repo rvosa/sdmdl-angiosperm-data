@@ -65,7 +65,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 728981068,Alchemilla_arvensis,51.790835,5.785205
 1838959548,Alchemilla_arvensis,38.014999,21.96944
 1838959545,Alchemilla_arvensis,38.02639,22.076111
-1095897897,Alchemilla_arvensis,56.17,10.2
 317817705,Alchemilla_arvensis,41.85859,1.45955
 1342799372,Alchemilla_arvensis,55.411628,11.850088
 1838959600,Alchemilla_arvensis,38.084438,21.91028
@@ -344,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2306264785,Alchemilla_arvensis,52.06,-3.83
 1342794842,Alchemilla_arvensis,55.363678,8.738432
 1342796225,Alchemilla_arvensis,55.16527,9.4932
-2313473662,Alchemilla_arvensis,48.17,11.5
 1342799261,Alchemilla_arvensis,55.439284,11.820456
 1342796790,Alchemilla_arvensis,55.064861,9.789471
 728980273,Alchemilla_arvensis,51.771631,5.988467
@@ -540,7 +538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 611970,Alchemilla_arvensis,55.93753,13.82331
 111302779,Alchemilla_arvensis,43.252998,-0.69
 728980283,Alchemilla_arvensis,51.546192,6.11523
-788747531,Alchemilla_arvensis,41.2,25.433333
 1342793523,Alchemilla_arvensis,55.653567,12.114051
 728980286,Alchemilla_arvensis,51.693379,5.998274
 1342790141,Alchemilla_arvensis,55.604635,9.689165
@@ -605,10 +602,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788747182,Alchemilla_arvensis,38.683333,22.216667
 1342792641,Alchemilla_arvensis,55.600368,11.435097
 788816530,Alchemilla_arvensis,40.783333,21.35
-1657161829,Alchemilla_arvensis,46.8,15.98333
 1851388208,Alchemilla_arvensis,42.852,-5.099
 1342793489,Alchemilla_arvensis,55.644965,12.13058
-30951220,Alchemilla_arvensis,42.8,-2.27
 611814,Alchemilla_arvensis,55.87109,13.15717
 1342790077,Alchemilla_arvensis,56.476533,9.623706
 611820,Alchemilla_arvensis,56.23037,13.06951
@@ -650,7 +645,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111302719,Alchemilla_arvensis,42.863998,-1.745
 728980298,Alchemilla_arvensis,51.654224,6.088065
 204420656,Alchemilla_arvensis,42.717999,-1.553
-1050620309,Alchemilla_arvensis,43,-3.2
 1342789892,Alchemilla_arvensis,56.171659,9.489912
 1342790285,Alchemilla_arvensis,55.711878,9.786548
 728980297,Alchemilla_arvensis,51.654137,6.102514
@@ -682,7 +676,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342791748,Alchemilla_arvensis,56.343878,10.44666
 611942,Alchemilla_arvensis,55.65942,13.63398
 1705338885,Alchemilla_arvensis,57.359242,15.642387
-1657162000,Alchemilla_arvensis,46.8,15.7
 611498,Alchemilla_arvensis,55.60847,13.50031
 1342793682,Alchemilla_arvensis,55.439651,12.192945
 1851359569,Alchemilla_arvensis,42.781,-5.06
@@ -707,14 +700,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342790957,Alchemilla_arvensis,57.022663,9.929315
 1342790940,Alchemilla_arvensis,57.013681,9.929091
 1699355577,Alchemilla_arvensis,35.15,25.466667
-1657162097,Alchemilla_arvensis,47.90611,16.7
 1050656847,Alchemilla_arvensis,42.98,-3.22
 1657161767,Alchemilla_arvensis,46.82778,15.91389
 204420624,Alchemilla_arvensis,42.803001,-1.905
 1342793377,Alchemilla_arvensis,55.481556,12.063326
 1342789870,Alchemilla_arvensis,56.198611,9.490255
 204420626,Alchemilla_arvensis,42.661999,-2.225
-1050591613,Alchemilla_arvensis,40.6,-1.77
 1342790031,Alchemilla_arvensis,56.036397,9.600542
 1705347100,Alchemilla_arvensis,57.314248,15.579526
 1332514668,Alchemilla_arvensis,51.05696,10.111907
@@ -747,13 +738,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705346668,Alchemilla_arvensis,57.293787,15.86161
 1838959895,Alchemilla_arvensis,38.69556,20.965561
 1342793483,Alchemilla_arvensis,55.373869,12.071315
-1050581277,Alchemilla_arvensis,42.5,-1.66
 1342796628,Alchemilla_arvensis,56.61974,9.72384
 611668,Alchemilla_arvensis,55.70346,13.63472
 1342795094,Alchemilla_arvensis,55.426858,8.990827
 1342788638,Alchemilla_arvensis,55.10242,8.520725
 1342791455,Alchemilla_arvensis,56.418331,10.206319
-1836958794,Alchemilla_arvensis,55.1,8.516667
 1342793252,Alchemilla_arvensis,55.462076,11.996128
 1657161703,Alchemilla_arvensis,48.20833,15.73333
 1342798930,Alchemilla_arvensis,55.842431,11.466188
@@ -860,12 +849,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094188738,Alchemilla_arvensis,31.74,35.03
 111302480,Alchemilla_arvensis,42.665001,-1.639
 611876,Alchemilla_arvensis,55.68279,13.44027
-29581911,Alchemilla_arvensis,40.14,-1.3
 111302748,Alchemilla_arvensis,42.257999,-1.515
 611884,Alchemilla_arvensis,55.69372,13.44757
 611800,Alchemilla_arvensis,56.39977,15.93723
 1936453587,Alchemilla_arvensis,41.1689,-3.7642
-1050584777,Alchemilla_arvensis,42.6,-2.43
 1936378485,Alchemilla_arvensis,42.494,-3.5854
 1705341221,Alchemilla_arvensis,57.91986,16.598255
 1936453748,Alchemilla_arvensis,41.2654,-4.0877
@@ -875,15 +862,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936378439,Alchemilla_arvensis,42.7198,-2.5616
 1050584713,Alchemilla_arvensis,42.47,-2.28
 1050584778,Alchemilla_arvensis,42.63,-2.05
-1050584758,Alchemilla_arvensis,42.5,-2.33
 1936362542,Alchemilla_arvensis,42.5472,-3.7199
 1050584681,Alchemilla_arvensis,42.68,-2.26
 1936377018,Alchemilla_arvensis,42.6823,-2.269
 111302498,Alchemilla_arvensis,42.974998,-2.013
 611470,Alchemilla_arvensis,56.45352,16.02986
-1050584763,Alchemilla_arvensis,42.8,-2.26
 111302478,Alchemilla_arvensis,42.984001,-2.025
-1094204467,Alchemilla_arvensis,33.2,35.74
 1050584891,Alchemilla_arvensis,43.34,-3.06
 1936453589,Alchemilla_arvensis,41.1143,-3.847
 1936453719,Alchemilla_arvensis,41.1144,-3.835
@@ -896,7 +880,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111302485,Alchemilla_arvensis,42.710999,-1.077
 111302497,Alchemilla_arvensis,42.966999,-1.326
 111302750,Alchemilla_arvensis,42.675999,-1.859
-111302487,Alchemilla_arvensis,42.941002,-1.4
 111302499,Alchemilla_arvensis,43.125,-1.654
 111302486,Alchemilla_arvensis,42.653999,-1.444
 1099895798,Alchemilla_arvensis,56.17794,15.1186
@@ -913,7 +896,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111302477,Alchemilla_arvensis,42.966,-1.277
 111302476,Alchemilla_arvensis,42.897999,-0.973
 111302493,Alchemilla_arvensis,42.958,-1.302
-1851401101,Alchemilla_arvensis,42.56,-6.5
 1851357579,Alchemilla_arvensis,42.48,-6.75
 1935651604,Alchemilla_arvensis,46.67694,16.02889
 111302479,Alchemilla_arvensis,42.800999,-1.086
@@ -943,16 +925,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111302484,Alchemilla_arvensis,42.780998,-1.515
 111302483,Alchemilla_arvensis,42.863998,-1.733
 1050656835,Alchemilla_arvensis,42.67,-2.33
-187882512,Alchemilla_arvensis,42.92,-1.8
 1936108713,Alchemilla_arvensis,42.6923,-2.4642
 1831053815,Alchemilla_arvensis,53.7485,11.7486
-1050584824,Alchemilla_arvensis,42.9,-3.15
 111302481,Alchemilla_arvensis,42.928001,-1.805
 1936083808,Alchemilla_arvensis,41.4128,-3.6594
 1936514855,Alchemilla_arvensis,41.8285,-2.6641
 1019565583,Alchemilla_arvensis,41.82778,-2.66361
 1705324071,Alchemilla_arvensis,57.589673,15.054466
-1050656849,Alchemilla_arvensis,42.69,-2.5
 1705325089,Alchemilla_arvensis,56.080545,12.717797
 1705325074,Alchemilla_arvensis,56.083396,12.723997
 1936547243,Alchemilla_arvensis,42.4411,-4.4604
@@ -999,7 +978,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936082024,Alchemilla_arvensis,41.6889,-4.0707
 111302747,Alchemilla_arvensis,42.997002,-2.982
 611826,Alchemilla_arvensis,56.44828,15.92767
-1946771098,Alchemilla_arvensis,50.26,10.3
 1050584974,Alchemilla_arvensis,42.94,-2.58
 111301899,Alchemilla_arvensis,42.993999,-2.184
 1050584967,Alchemilla_arvensis,42.93,-2.58
@@ -1033,12 +1011,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111301902,Alchemilla_arvensis,43.132,-2.65
 1705395993,Alchemilla_arvensis,57.938837,16.412963
 204420552,Alchemilla_arvensis,42.66,-1.23
-1946771114,Alchemilla_arvensis,49.97,10.8
-1946771115,Alchemilla_arvensis,49.98,10.8
 204420556,Alchemilla_arvensis,42.68,-2.33
 1050584890,Alchemilla_arvensis,42.94,-3.21
 111301901,Alchemilla_arvensis,42.799,-2.982
-1050585047,Alchemilla_arvensis,42.6,-2.54
 1434677799,Alchemilla_arvensis,55.53307,13.91099
 1050584909,Alchemilla_arvensis,42.79,-2.98
 611793,Alchemilla_arvensis,57.022185,15.853058
@@ -1091,7 +1066,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845007777,Alchemilla_arvensis,49.16,7.935556
 1935651617,Alchemilla_arvensis,47.1625,15.76028
 1845007766,Alchemilla_arvensis,49.152222,7.948056
-788812318,Alchemilla_arvensis,38.5,22.566667
 1851400375,Alchemilla_arvensis,42.29,-5.49
 1332514671,Alchemilla_arvensis,50.51001,9.762217
 30950943,Alchemilla_arvensis,42.48,-0.28
@@ -1112,7 +1086,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094200474,Alchemilla_arvensis,33.23,35.73
 788581853,Alchemilla_arvensis,55.512305,13.225203
 788582031,Alchemilla_arvensis,55.77092,12.95671
-786092200,Alchemilla_arvensis,50.6,6.9
 1098952333,Alchemilla_arvensis,48.478333,10.4825
 1935651619,Alchemilla_arvensis,47.19083,15.63472
 1098952335,Alchemilla_arvensis,48.362778,10.406111
@@ -1170,7 +1143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891598024,Alchemilla_arvensis,49.51,6.24
 611783,Alchemilla_arvensis,55.479027,13.597732
 812020839,Alchemilla_arvensis,50.65325,9.138533
-85499039,Alchemilla_arvensis,41.78,2.7
 1056237552,Alchemilla_arvensis,51.548322,-0.271231
 611555,Alchemilla_arvensis,55.84253,12.9377
 612111,Alchemilla_arvensis,55.52165,13.93676
@@ -1178,8 +1150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812020840,Alchemilla_arvensis,50.655083,9.185867
 611964,Alchemilla_arvensis,55.672901,13.552304
 2313364560,Alchemilla_arvensis,48.29,11.63
-1144598524,Alchemilla_arvensis,42.28333,9.3
-1144598514,Alchemilla_arvensis,42.3,9.3
 1705422789,Alchemilla_arvensis,56.172814,14.287982
 1056231140,Alchemilla_arvensis,51.208542,0.91371
 1705427008,Alchemilla_arvensis,55.540331,13.27169
@@ -1214,7 +1184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 611635,Alchemilla_arvensis,55.41597,12.94944
 611930,Alchemilla_arvensis,55.688214,13.644397
 1935648286,Alchemilla_arvensis,47.40278,15.02667
-1144598506,Alchemilla_arvensis,42.1,9.51667
 611509,Alchemilla_arvensis,55.688171,13.07933
 1935648289,Alchemilla_arvensis,47.17,14.075
 296416328,Alchemilla_arvensis,47.165167,14.091556
@@ -1250,7 +1219,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 611911,Alchemilla_arvensis,55.662906,14.217573
 611526,Alchemilla_arvensis,55.500891,13.797206
 611948,Alchemilla_arvensis,57.830922,16.247576
-1988207626,Alchemilla_arvensis,55.6,-122.27
 2290416487,Alchemilla_arvensis,51.19132,5.987772
 611874,Alchemilla_arvensis,55.774288,13.109104
 1288052158,Alchemilla_arvensis,50.616667,10.07
