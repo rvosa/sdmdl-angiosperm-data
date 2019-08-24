@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2236678726,Spermacoce_capitata,-15.65325,-57.212694
 1935009223,Spermacoce_capitata,-20.194444,-43.539167
 1889173800,Spermacoce_capitata,-11.680472,-41.014
-1944856172,Spermacoce_capitata,-15.739722,-47.906666
 1913601096,Spermacoce_capitata,-11.56,-41.148889
 1949966983,Spermacoce_capitata,-19.990989,-40.609514
 1570743596,Spermacoce_capitata,-21.137081,-44.302994
@@ -30,9 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1571706691,Spermacoce_capitata,-21.495555,-44.331944
 2350123498,Spermacoce_capitata,-5.458889,-37.520833
 1455401348,Spermacoce_capitata,-20.129444,-43.388333
-1587329516,Spermacoce_capitata,-15.730277,-47.925555
-1420313151,Spermacoce_capitata,-27.683611,-48.543056
-1658342452,Spermacoce_capitata,-15.730278,-47.925556
 1801096049,Spermacoce_capitata,-18.212222,-43.955
 1632856273,Spermacoce_capitata,-14.684167,-42.545556
 1978388640,Spermacoce_capitata,-10.5253,-37.031
@@ -117,7 +113,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087688190,Spermacoce_capitata,-11.385528,-37.425861
 1930892278,Spermacoce_capitata,-11.369981,-37.431295
 1087689653,Spermacoce_capitata,-10.758056,-37.315
-1077366483,Spermacoce_capitata,-27.694444,-48.545833
 1087705041,Spermacoce_capitata,-13.214722,-40.200694
 1077419783,Spermacoce_capitata,-30.980833,-53.052222
 1077419794,Spermacoce_capitata,-30.769722,-52.911111
@@ -138,12 +133,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042691683,Spermacoce_capitata,-2.920667,-59.99
 1042691702,Spermacoce_capitata,-3.066639,-59.89
 1094897690,Spermacoce_capitata,-17.6725,-39.259722
-1587317273,Spermacoce_capitata,-11.216725,-36.176119
 1702653716,Spermacoce_capitata,-10.662508,-40.3725
 1042691108,Spermacoce_capitata,1.347806,-60.85
 1702653750,Spermacoce_capitata,-10.67,-40.368694
 1707687856,Spermacoce_capitata,5.708056,-73.511667
-1213651612,Spermacoce_capitata,-15.775222,-47.976611
 1087680498,Spermacoce_capitata,-11.014722,-37.206389
 1087648263,Spermacoce_capitata,-20.411667,-41.834722
 1213610046,Spermacoce_capitata,-15.536667,-47.973611
@@ -274,12 +267,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703243754,Spermacoce_capitata,3.455556,-67.968222
 188381488,Spermacoce_capitata,-25.8953,-50.432
 1094815873,Spermacoce_capitata,-13,-41.383333
-1087382300,Spermacoce_capitata,-15.766667,-47.916667
 1089241840,Spermacoce_capitata,-15.618056,-47.712222
 1094814376,Spermacoce_capitata,-12.418056,-41.841944
-1042694438,Spermacoce_capitata,-15.766667,-47.92
-1094815028,Spermacoce_capitata,-15.731667,-47.926389
-1213647506,Spermacoce_capitata,-15.731667,-47.926444
 1260076267,Spermacoce_capitata,-10.558333,-75.455833
 1077221351,Spermacoce_capitata,-11.483333,-41.316667
 1094829211,Spermacoce_capitata,-12.584722,-41.393056
@@ -337,14 +326,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1098942068,Spermacoce_capitata,-16.215556,-47.325556
 1087252744,Spermacoce_capitata,-15.848311,-48.765833
 1089093121,Spermacoce_capitata,-20.434444,-46.653333
-1087235877,Spermacoce_capitata,-15.744444,-47.887778
 1095225041,Spermacoce_capitata,-16.20472,-47.35611
 1095236246,Spermacoce_capitata,-8.73056,-35.17667
 1089193481,Spermacoce_capitata,-8.730556,-35.176667
 1259108303,Spermacoce_capitata,-14.516583,-68.261083
 1123801678,Spermacoce_capitata,-19.9075,-40.553056
 1259124835,Spermacoce_capitata,-14.511389,-68.254722
-1087237515,Spermacoce_capitata,-15.746111,-47.887778
 1927864565,Spermacoce_capitata,9.8867,-84.4672
 1094775836,Spermacoce_capitata,-11.206667,-40.481944
 1094775988,Spermacoce_capitata,-11.388333,-40.535556
@@ -463,7 +450,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270544757,Spermacoce_capitata,-15.783333,-47.740886
 912079684,Spermacoce_capitata,-13.28,-41.88
 1853950619,Spermacoce_capitata,-13.283333,-41.883333
-1258568857,Spermacoce_capitata,17.91666,-87.98333
 2013800795,Spermacoce_capitata,10.083333,-73.150002
 1456165574,Spermacoce_capitata,5.54,-55.19
 2290090009,Spermacoce_capitata,2.5,-59.283333
@@ -481,7 +467,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1802567660,Spermacoce_capitata,-16.4,-56.38
 1258402628,Spermacoce_capitata,-17.89333,-63.085
 1260644734,Spermacoce_capitata,6.56666,-67.08333
-1928094263,Spermacoce_capitata,-15.78,-47.88
 1090558660,Spermacoce_capitata,-20.7511,-51.6783
 1099625799,Spermacoce_capitata,1.04492,-77.41364
 2291505547,Spermacoce_capitata,5.333333,-58.166667
@@ -625,7 +610,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928085595,Spermacoce_capitata,-15.53,-47.85
 1252637503,Spermacoce_capitata,-15.7,-48.2
 1802574620,Spermacoce_capitata,-15.55,-48.17
-1456429880,Spermacoce_capitata,4.93,-52.28
 1087267317,Spermacoce_capitata,-15.55,-48.166667
 1259792618,Spermacoce_capitata,5.08333,-61.11666
 1261254384,Spermacoce_capitata,8.86666,-70.73333
@@ -636,14 +620,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261221134,Spermacoce_capitata,5.7,-62.5
 1252649465,Spermacoce_capitata,-15.72,-47.37
 1087316441,Spermacoce_capitata,-23.766667,-46.35
-1090559005,Spermacoce_capitata,-20.658,-40.511
 1890969299,Spermacoce_capitata,6.31335,-75.015007
 1315028958,Spermacoce_capitata,6.31335,-75.015
 1061297170,Spermacoce_capitata,3.2667,-76.5667
 1258156058,Spermacoce_capitata,10.033333,-64.283333
 1260644103,Spermacoce_capitata,9.06666,-67.86666
 1087267335,Spermacoce_capitata,-16.7686,-47.6136
-1930910354,Spermacoce_capitata,-15.7834208090807,-47.9298726661488
 1927860809,Spermacoce_capitata,-15.12,-47
 1042544071,Spermacoce_capitata,-15.116667,-47
 912090645,Spermacoce_capitata,-11.58,-41.2
@@ -758,7 +740,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290091546,Spermacoce_capitata,-12.816667,-51.766667
 667332592,Spermacoce_capitata,-12.81667,-51.76667
 1930144013,Spermacoce_capitata,-12.82,-51.77
-1928965251,Spermacoce_capitata,-15.72,-47.87
 1928162117,Spermacoce_capitata,-15.30964,-47.1025
 1928102084,Spermacoce_capitata,-22.6569559555097,-43.0407567361808
 1931015083,Spermacoce_capitata,-15.7833,-47.68338
@@ -850,4 +831,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929557699,Spermacoce_capitata,20.566791,-75.715252
 1930693450,Spermacoce_capitata,21.494872,-77.562334
 1090571143,Spermacoce_capitata,-23.5475,-46.6361
-1057588829,Spermacoce_capitata,-23.236211,-58.391024
