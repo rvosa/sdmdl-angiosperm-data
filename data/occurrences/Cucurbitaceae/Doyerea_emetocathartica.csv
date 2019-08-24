@@ -57,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929584999,Doyerea_emetocathartica,-11.5536317602945,-41.1561252262513
 1893803113,Doyerea_emetocathartica,19.571111,-96.79
 1893370588,Doyerea_emetocathartica,23.658333,-99.086667
-1893370434,Doyerea_emetocathartica,23.6,-98.625
 1893370442,Doyerea_emetocathartica,22.040278,-100.274722
 1928919436,Doyerea_emetocathartica,40.663931,-73.93828
 1893370471,Doyerea_emetocathartica,19.451111,-105.032222
@@ -99,7 +98,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893370536,Doyerea_emetocathartica,19.566389,-90.709167
 1894694464,Doyerea_emetocathartica,19.558333,-90.708333
 1258713771,Doyerea_emetocathartica,20.37,-90.06
-1421368284,Doyerea_emetocathartica,20.9,-88.9
 1893444010,Doyerea_emetocathartica,20.458333,-88.908333
 1893370628,Doyerea_emetocathartica,20.726389,-88.377778
 1893370548,Doyerea_emetocathartica,20.258333,-89.475
@@ -109,7 +107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421376948,Doyerea_emetocathartica,21.058333,-89.531944
 1893370457,Doyerea_emetocathartica,21.028889,-89.5025
 1893370466,Doyerea_emetocathartica,21.052778,-89.533333
-1260822100,Doyerea_emetocathartica,-12.2,-43.5
 1261261895,Doyerea_emetocathartica,12.18333,-85.35
 1893443991,Doyerea_emetocathartica,20.991667,-89.625
 1895777732,Doyerea_emetocathartica,20.725,-88.391667
@@ -128,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893370509,Doyerea_emetocathartica,21.041667,-86.891667
 1261918405,Doyerea_emetocathartica,21.13,-86.83
 1258666830,Doyerea_emetocathartica,13.21666,-86.38333
-1258668651,Doyerea_emetocathartica,12,-85.2
 1893370477,Doyerea_emetocathartica,20.248611,-89.648611
 371176577,Doyerea_emetocathartica,20.241667,-89.658333
 1895450555,Doyerea_emetocathartica,18.210364478457,-97.1626890019966
