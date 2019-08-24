@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2270245106,Atriplex_semibaccata,34.468166,-120.467331
 1801080512,Atriplex_semibaccata,-26.641263,15.159113
 1937343195,Atriplex_semibaccata,-32.9867,144.7956
 1915925262,Atriplex_semibaccata,-35.609596,150.262117
@@ -12,7 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1835229098,Atriplex_semibaccata,-28.500278,148.420833
 2270176683,Atriplex_semibaccata,35.97324,-119.45878
 2305005114,Atriplex_semibaccata,0.29,36.9
-1949959334,Atriplex_semibaccata,41.67,2.786944
 1697854283,Atriplex_semibaccata,32.731944,35.569444
 1897528454,Atriplex_semibaccata,22.225028,-102.054805
 1652378136,Atriplex_semibaccata,-25.580833,151.301944
@@ -33,9 +31,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652390620,Atriplex_semibaccata,-22.436389,145.491944
 1132255932,Atriplex_semibaccata,-32.82,151.72
 1061528650,Atriplex_semibaccata,-34.209167,136.293056
-1454383036,Atriplex_semibaccata,-35.76713,137.47742
 1652342504,Atriplex_semibaccata,-27.658996,151.525009
-1851579629,Atriplex_semibaccata,28.85,-13.86
 992079733,Atriplex_semibaccata,-34.777337,138.48471
 993720189,Atriplex_semibaccata,-33.2158,141.1675
 996960696,Atriplex_semibaccata,-33.691111,121.809444
@@ -75,23 +71,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895927482,Atriplex_semibaccata,31.313611,-109.561111
 996910509,Atriplex_semibaccata,-30.43175,120.86469
 2332535966,Atriplex_semibaccata,38.037844,-122.272786
-1936694946,Atriplex_semibaccata,38.0247,-0.1842
-1697710058,Atriplex_semibaccata,28.011111,-16.65
 1611941090,Atriplex_semibaccata,31.498611,-106.155278
 2270685949,Atriplex_semibaccata,31.4986,-106.155
 1257402644,Atriplex_semibaccata,-38.5,145.172222
-1936197788,Atriplex_semibaccata,29.3642,-10.1872
-317817914,Atriplex_semibaccata,29.3585,-10.1857
 2270685594,Atriplex_semibaccata,33.565,-111.513
 318104144,Atriplex_semibaccata,38.06,-1.18
 996927837,Atriplex_semibaccata,-33.540717,120.122833
-996196425,Atriplex_semibaccata,-35.2786,149.149
-993667817,Atriplex_semibaccata,-35.2786,149.1486
-1227968865,Atriplex_semibaccata,-35.2758,149.148
-993717257,Atriplex_semibaccata,-35.2758,149.1483
 2270690755,Atriplex_semibaccata,31.2205,-105.792
 1611941461,Atriplex_semibaccata,31.220528,-105.791722
-461654826,Atriplex_semibaccata,-30.125,17.125
 461654827,Atriplex_semibaccata,-29.875,17.125
 996892566,Atriplex_semibaccata,-30.689167,116.243056
 996179950,Atriplex_semibaccata,-29.815,116.142
@@ -102,10 +89,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996909121,Atriplex_semibaccata,-30.433056,120.864722
 1074134964,Atriplex_semibaccata,-32.091176,150.141173
 1074134130,Atriplex_semibaccata,-32.105988,150.127152
-2005454327,Atriplex_semibaccata,-30.481667,17.400833
-2005479044,Atriplex_semibaccata,-30.579167,17.4475
 993735271,Atriplex_semibaccata,-34.2361,140.5361
-1050642335,Atriplex_semibaccata,29.03,-13.55
 461654824,Atriplex_semibaccata,-30.125,17.375
 461654825,Atriplex_semibaccata,-30.125,17.625
 996868971,Atriplex_semibaccata,-29.71542,116.161169
@@ -113,16 +97,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090300283,Atriplex_semibaccata,21.545,-158.089
 992054664,Atriplex_semibaccata,-31.921111,133.018333
 1701351712,Atriplex_semibaccata,31.83278,36.82944
-993656195,Atriplex_semibaccata,-35.2667,149.1167
 1895927561,Atriplex_semibaccata,31.323889,-109.268611
 1843898219,Atriplex_semibaccata,32.24953,-106.82061
 1846499893,Atriplex_semibaccata,32.615377,-117.089817
 1090175632,Atriplex_semibaccata,21.3771,-158.006
-1322153124,Atriplex_semibaccata,21.2262,-158.038
 992031090,Atriplex_semibaccata,-34.951389,138.511944
 1805860374,Atriplex_semibaccata,-35.5358,138.6808
 1073395691,Atriplex_semibaccata,-31.656883,149.349039
-996825125,Atriplex_semibaccata,-29.3,114.9
 996172629,Atriplex_semibaccata,-30.948,149.886
 996172221,Atriplex_semibaccata,-31.026,150.058
 35315436,Atriplex_semibaccata,21.3667,-158.077
@@ -131,7 +112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996177447,Atriplex_semibaccata,-36.8881,148.437
 996831882,Atriplex_semibaccata,-29.146256,115.345051
 1451710484,Atriplex_semibaccata,-36.886512,148.438191
-993589931,Atriplex_semibaccata,-35.275,149.1194
 30659654,Atriplex_semibaccata,36.833,-2.4
 1053986596,Atriplex_semibaccata,36.83,-2.4
 1936649774,Atriplex_semibaccata,36.8266,-2.4069
@@ -153,7 +133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461654585,Atriplex_semibaccata,-33.125,19.625
 2270616110,Atriplex_semibaccata,31.8614,-110.209
 461654822,Atriplex_semibaccata,-33.375,23.375
-318104087,Atriplex_semibaccata,28.7,-13.93
 1073386496,Atriplex_semibaccata,-31.168917,149.648287
 1846534098,Atriplex_semibaccata,33.66912,-111.1285
 2270176093,Atriplex_semibaccata,35.664722,-120.484167
@@ -225,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1073887117,Atriplex_semibaccata,-32.793915,147.702228
 996694572,Atriplex_semibaccata,-27.845972,114.765311
 1073887411,Atriplex_semibaccata,-32.703228,147.856866
-1230495509,Atriplex_semibaccata,0.15028,8.29028
 1893980682,Atriplex_semibaccata,20.200972,-98.892167
 683960209,Atriplex_semibaccata,37.088317,-113.56005
 1073893311,Atriplex_semibaccata,-32.241864,147.653877
@@ -329,7 +307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451591925,Atriplex_semibaccata,-35.365108,149.234538
 1652154834,Atriplex_semibaccata,-26.073547,151.825801
 996620260,Atriplex_semibaccata,-32.243056,118.116667
-461654848,Atriplex_semibaccata,-33.375,27.125
 995129767,Atriplex_semibaccata,-34.2556,142.2375
 318103904,Atriplex_semibaccata,38.37,-0.44
 1936626564,Atriplex_semibaccata,36.9623,-2.5182
@@ -431,10 +408,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992556816,Atriplex_semibaccata,-34.8,139.366667
 995685954,Atriplex_semibaccata,-33.795833,150.9375
 995106402,Atriplex_semibaccata,-36.9422,148.3944
-2270176105,Atriplex_semibaccata,34.0234999991246,-119.8745
 2290592873,Atriplex_semibaccata,31.973611,-106.620833
 461654808,Atriplex_semibaccata,-33.375,20.625
-1893935828,Atriplex_semibaccata,19.374721,-99.058657
 992568321,Atriplex_semibaccata,-36.4,140.9
 461654846,Atriplex_semibaccata,-33.625,20.875
 461654811,Atriplex_semibaccata,-28.625,16.375
@@ -442,9 +417,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461654804,Atriplex_semibaccata,-34.125,21.625
 1084029317,Atriplex_semibaccata,-34.93959,138.62418
 992612000,Atriplex_semibaccata,-34.941111,138.622778
-574960621,Atriplex_semibaccata,-32.5,-71.5
 992560297,Atriplex_semibaccata,-34.700556,139.483611
-318103790,Atriplex_semibaccata,28.33,-16.89
 1085303364,Atriplex_semibaccata,-34.63912,139.64708
 1085300600,Atriplex_semibaccata,-34.699,139.48503
 2248047502,Atriplex_semibaccata,-32.184444,-64.616944
@@ -487,9 +460,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893935839,Atriplex_semibaccata,25.4336806391948,-101.000171677012
 994720302,Atriplex_semibaccata,-37.6833,144.5833
 2269392301,Atriplex_semibaccata,-25.00832,-70.46484
-1261454757,Atriplex_semibaccata,-29.00277,167.93055
-993943374,Atriplex_semibaccata,-29.0028,167.9306
-1897746787,Atriplex_semibaccata,-29.0025,167.934167
 1261454512,Atriplex_semibaccata,31.15,-105.66666
 2270176891,Atriplex_semibaccata,34.7709999991157,-120.4674
 461654845,Atriplex_semibaccata,-31.125,19.125
@@ -498,18 +468,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461654840,Atriplex_semibaccata,-28.375,24.375
 992524381,Atriplex_semibaccata,-35.266667,138.9
 461654844,Atriplex_semibaccata,-33.375,26.625
-993356706,Atriplex_semibaccata,-35.3,149.0833
 461654843,Atriplex_semibaccata,-33.375,25.875
 2270280508,Atriplex_semibaccata,34.187251,-118.958247
-995946644,Atriplex_semibaccata,-40.17,147.97
 461654838,Atriplex_semibaccata,-28.375,24.625
 993348715,Atriplex_semibaccata,-30.8667,145.3333
-1897829735,Atriplex_semibaccata,21.566667,-158.283333
-1937036566,Atriplex_semibaccata,-35.33,149.15
-993349563,Atriplex_semibaccata,-35.3333,149.15
-1451536129,Atriplex_semibaccata,-35.331775,149.151205
 993349236,Atriplex_semibaccata,-35.3333,149.2333
-461654802,Atriplex_semibaccata,-34.125,24.875
 1937287973,Atriplex_semibaccata,-35.33,149.23
 1451536109,Atriplex_semibaccata,-35.331774,149.234537
 992511864,Atriplex_semibaccata,-34.05,140.833333
@@ -532,8 +495,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461654800,Atriplex_semibaccata,-26.625,25.875
 461654835,Atriplex_semibaccata,-28.875,16.875
 461654820,Atriplex_semibaccata,-25.375,16.875
-1652083716,Atriplex_semibaccata,-23.356891,150.942467
-1652083732,Atriplex_semibaccata,-23.306891,150.9258
 995055655,Atriplex_semibaccata,-34.05,150.75
 1451480174,Atriplex_semibaccata,-34.048427,150.751166
 993634345,Atriplex_semibaccata,-31.0833,150.95
@@ -573,16 +534,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994924304,Atriplex_semibaccata,-36.5167,142.05
 994924288,Atriplex_semibaccata,-36.7083,141.775
 2270583744,Atriplex_semibaccata,33.5171,-111.743
-1893415025,Atriplex_semibaccata,28.325,-115.258333
-1896078752,Atriplex_semibaccata,28.150556,-115.233611
 992481152,Atriplex_semibaccata,-34.85,138.633333
-1893935906,Atriplex_semibaccata,28.0352742764407,-115.18071932448
 993916725,Atriplex_semibaccata,-34.85,138.6333
 2270481989,Atriplex_semibaccata,33.494419,-111.911445
 1061549951,Atriplex_semibaccata,-23.7,133.8333
 996385715,Atriplex_semibaccata,-31.954722,115.861389
-1893935865,Atriplex_semibaccata,30.491667,-116.108333
-993453802,Atriplex_semibaccata,-29,167.9333
 461654796,Atriplex_semibaccata,-28.875,26.125
 1652048719,Atriplex_semibaccata,-27.356882,151.109152
 1893935893,Atriplex_semibaccata,19.4228899104929,-98.9128573689448
@@ -600,7 +556,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461654794,Atriplex_semibaccata,-31.625,18.375
 994924350,Atriplex_semibaccata,-36.1333,144.2167
 993319801,Atriplex_semibaccata,-31.6167,143.0333
-995205563,Atriplex_semibaccata,-40.1667,147.9667
 994924188,Atriplex_semibaccata,-35.8833,145.25
 994924371,Atriplex_semibaccata,-36,145.7833
 995615975,Atriplex_semibaccata,-33.95,118.62
@@ -631,10 +586,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2248048737,Atriplex_semibaccata,-30.229722,-61.400833
 994888104,Atriplex_semibaccata,-37.8333,144.9
 2270512302,Atriplex_semibaccata,19.516667,-98.883333
-994265901,Atriplex_semibaccata,-36.89855,139.801369
 1895291494,Atriplex_semibaccata,19.435833,-98.902778
-992422296,Atriplex_semibaccata,-36.9,139.8
-461654832,Atriplex_semibaccata,-34.375,21.875
 994745221,Atriplex_semibaccata,-37.8,144.8167
 996385706,Atriplex_semibaccata,-31.491111,116.646944
 2248048951,Atriplex_semibaccata,-31.390833,-64.190833
@@ -647,11 +599,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461654799,Atriplex_semibaccata,-29.125,26.125
 1261454581,Atriplex_semibaccata,-33.78333,20.06666
 1261454562,Atriplex_semibaccata,-33.78333,20.13333
-1451488891,Atriplex_semibaccata,-35.298442,149.101206
 1895291550,Atriplex_semibaccata,19.466667,-98.869444
 461654765,Atriplex_semibaccata,-27.875,28.375
 1896147362,Atriplex_semibaccata,19.465,-98.881667
-995650306,Atriplex_semibaccata,-35.3,149.1
 1895483110,Atriplex_semibaccata,19.4683889019468,-98.8747556243759
 993306301,Atriplex_semibaccata,-34.7333,149.7167
 994867031,Atriplex_semibaccata,-35.7833,141.9833
@@ -683,10 +633,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893636240,Atriplex_semibaccata,19.438333,-98.883333
 995759741,Atriplex_semibaccata,-32.1,150.22
 1451536306,Atriplex_semibaccata,-32.098429,150.217818
-2270176440,Atriplex_semibaccata,35.27425,-120.88844
 1846533808,Atriplex_semibaccata,31.248105,34.80141
-1261454646,Atriplex_semibaccata,-16.53333,-68.08333
-2288672036,Atriplex_semibaccata,-16.533333,-68.083333
 1451535622,Atriplex_semibaccata,-34.198479,144.101274
 995759633,Atriplex_semibaccata,-34.2,144.1
 994924536,Atriplex_semibaccata,-38.0667,144.4167
@@ -704,7 +651,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992566564,Atriplex_semibaccata,-34.85,137.68
 1896078754,Atriplex_semibaccata,25.370833,-101.151667
 993314490,Atriplex_semibaccata,-30.85,145.2667
-1257400557,Atriplex_semibaccata,-19.3272,146.7608
 1893636243,Atriplex_semibaccata,19.513333,-98.881667
 996926680,Atriplex_semibaccata,-29.07,117.75
 1893935877,Atriplex_semibaccata,19.4233029183926,-98.9040471621198
@@ -722,8 +668,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893935849,Atriplex_semibaccata,19.5337299785582,-98.8338358810767
 1895291459,Atriplex_semibaccata,19.556667,-98.809444
 994725484,Atriplex_semibaccata,-36.4667,143.05
-2270176124,Atriplex_semibaccata,35.708335,-121.304
-461654769,Atriplex_semibaccata,-33.625,26.375
 995759841,Atriplex_semibaccata,-23.4,150.62
 1893636242,Atriplex_semibaccata,19.971667,-98.86
 1893935838,Atriplex_semibaccata,25.5224793165899,-100.943791707237
@@ -734,7 +678,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994924410,Atriplex_semibaccata,-36.8833,148.4167
 996385682,Atriplex_semibaccata,-35.266667,141.183333
 461654766,Atriplex_semibaccata,-34.125,21.375
-1261454665,Atriplex_semibaccata,-16.5,-68.133333
 993263624,Atriplex_semibaccata,-35.2667,141.1833
 1937159318,Atriplex_semibaccata,-30.9333,147.55
 996385696,Atriplex_semibaccata,-32.98,121.64
@@ -743,23 +686,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893935831,Atriplex_semibaccata,25.6150640208299,-100.842108656177
 993847444,Atriplex_semibaccata,-31.6167,148.75
 1895483094,Atriplex_semibaccata,20.0599072130165,-98.628829841805
-993845570,Atriplex_semibaccata,-35.2833,149.1167
 996259200,Atriplex_semibaccata,-30.894722,116.711667
 1896147366,Atriplex_semibaccata,25.425,-101.008333
 1893935919,Atriplex_semibaccata,26.39306,-100.80139
 1896078742,Atriplex_semibaccata,25.44,-100.97
-1846533877,Atriplex_semibaccata,28.05,-115.2
 2270266000,Atriplex_semibaccata,34.4221999991198,-119.8511
 993243098,Atriplex_semibaccata,-30.9167,145.1833
 1930117781,Atriplex_semibaccata,36.7188,-114.6993
-992378551,Atriplex_semibaccata,-34.533333,136.283333
 1893935760,Atriplex_semibaccata,22.6279649367865,-101.714616787365
 1896078758,Atriplex_semibaccata,22.698056,-99.849167
 1896147358,Atriplex_semibaccata,19.785,-98.551667
 1895483098,Atriplex_semibaccata,20.7530562792215,-99.3334460155355
 1895291538,Atriplex_semibaccata,21.145833,-98.833889
 1893935946,Atriplex_semibaccata,20.7530562792311,-99.3334430154643
-1846533730,Atriplex_semibaccata,33.46102,-111.944479
 996385584,Atriplex_semibaccata,-29.21,116.01
 996385711,Atriplex_semibaccata,-34.016667,118.266667
 461654789,Atriplex_semibaccata,-23.625,15.375
@@ -772,7 +711,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270269467,Atriplex_semibaccata,34.423,-119.2903
 995759855,Atriplex_semibaccata,-34.33,142.42
 1937044196,Atriplex_semibaccata,-35.17,145.83
-2270265471,Atriplex_semibaccata,34.0585999991242,-119.9242
 1652030734,Atriplex_semibaccata,-26.081913,145.084225
 1451536367,Atriplex_semibaccata,-34.331829,142.417966
 1451536392,Atriplex_semibaccata,-35.165133,145.834593
@@ -794,8 +732,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994725684,Atriplex_semibaccata,-38.1,143.35
 461654746,Atriplex_semibaccata,-33.125,25.625
 461654754,Atriplex_semibaccata,-31.375,22.875
-993442914,Atriplex_semibaccata,-40.1333,147.8833
-993442894,Atriplex_semibaccata,-40.1167,147.9
 461654750,Atriplex_semibaccata,-27.625,25.875
 994813358,Atriplex_semibaccata,-37.7333,144.65
 993243053,Atriplex_semibaccata,-31.3333,146.4333
@@ -814,7 +750,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994924218,Atriplex_semibaccata,-37.4833,142.8667
 993271665,Atriplex_semibaccata,-30.8333,116.5833
 996259187,Atriplex_semibaccata,-30.8525,116.5456
-2270291320,Atriplex_semibaccata,34.016528,-119.771088
 992342695,Atriplex_semibaccata,-23.75,133.88
 461654744,Atriplex_semibaccata,-29.375,27.625
 461654756,Atriplex_semibaccata,-31.875,26.875
@@ -863,7 +798,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895291475,Atriplex_semibaccata,19.4883936814631,-98.9673218814837
 1259339504,Atriplex_semibaccata,19.486667,-98.89
 461654731,Atriplex_semibaccata,-33.125,26.125
-461654743,Atriplex_semibaccata,-33.125,18.125
 993807581,Atriplex_semibaccata,-33.7667,146.3333
 993807603,Atriplex_semibaccata,-34.2333,146.2333
 992302947,Atriplex_semibaccata,-34.231998,146.234339
@@ -910,7 +844,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993282532,Atriplex_semibaccata,-34.3833,139.6214
 992349914,Atriplex_semibaccata,-35.05,137.733333
 461654829,Atriplex_semibaccata,-23.125,14.625
-992250570,Atriplex_semibaccata,-34.483333,136.266667
 461654729,Atriplex_semibaccata,-28.375,27.125
 461654711,Atriplex_semibaccata,-30.625,25.625
 995472696,Atriplex_semibaccata,-32.5,150.9
@@ -935,7 +868,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895651315,Atriplex_semibaccata,24.156944,-110.352859
 995759814,Atriplex_semibaccata,-35.58,139.32
 992226210,Atriplex_semibaccata,-35.645113,139.337768
-992535753,Atriplex_semibaccata,-35.083333,137.75
 994603170,Atriplex_semibaccata,-33.71531,138.4177
 1846489420,Atriplex_semibaccata,-33.845833,138.281389
 995002794,Atriplex_semibaccata,-37.1833,147.7
@@ -1002,7 +934,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451536096,Atriplex_semibaccata,-30.06512,145.917869
 992249876,Atriplex_semibaccata,-34.848333,138.498611
 1092710609,Atriplex_semibaccata,32.921819,-112.887719
-994851237,Atriplex_semibaccata,-35.3167,149.1833
 992225284,Atriplex_semibaccata,-34.014167,139.688611
 992198755,Atriplex_semibaccata,-31.629431,117.043408
 1937123602,Atriplex_semibaccata,-31.62,117
@@ -1014,7 +945,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992205670,Atriplex_semibaccata,-34.906782,138.595266
 1936935753,Atriplex_semibaccata,-29.87,149.72
 992202558,Atriplex_semibaccata,-34.116667,136.35
-2291866487,Atriplex_semibaccata,28.366667,-16.783333
 992232837,Atriplex_semibaccata,-34.966667,138.516667
 1451535684,Atriplex_semibaccata,-29.865098,149.717804
 992232819,Atriplex_semibaccata,-34.966667,138.533333
@@ -1042,7 +972,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992173159,Atriplex_semibaccata,-34.583333,138.516667
 992179926,Atriplex_semibaccata,-35.05,139.35
 994240971,Atriplex_semibaccata,-34.748519,141.767981
-35318149,Atriplex_semibaccata,21.5,-158
 995002811,Atriplex_semibaccata,-34.3333,142.2833
 1092710586,Atriplex_semibaccata,33.348834,-112.397849
 992222494,Atriplex_semibaccata,-34.933333,138.583333
@@ -1052,7 +981,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936989285,Atriplex_semibaccata,-29.92,148.158333
 992222899,Atriplex_semibaccata,-34.933333,138.533333
 992175364,Atriplex_semibaccata,-35.044444,137.730833
-2288763985,Atriplex_semibaccata,28.166667,-15.416667
 992175200,Atriplex_semibaccata,-34.688611,138.6225
 1937186743,Atriplex_semibaccata,-33.82,148.67
 993169324,Atriplex_semibaccata,-34.5,145.05
@@ -1063,7 +991,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992165188,Atriplex_semibaccata,-33.866667,138
 616238986,Atriplex_semibaccata,-28.875,30.625
 992170650,Atriplex_semibaccata,-34,138
-1895291506,Atriplex_semibaccata,19.4631165287677,-99.0748243349856
 1893935889,Atriplex_semibaccata,20.0869136351734,-98.7362064822068
 1895291560,Atriplex_semibaccata,20.0986440645105,-98.7459297536428
 993172067,Atriplex_semibaccata,-24.0667,150.9167
@@ -1083,9 +1010,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993294053,Atriplex_semibaccata,-34.5667,145.7333
 2270586589,Atriplex_semibaccata,33.4581,-111.949
 992155472,Atriplex_semibaccata,-34.748333,138.583611
-2288738303,Atriplex_semibaccata,28.116667,-15.5
 461654652,Atriplex_semibaccata,-30.625,26.625
-992354976,Atriplex_semibaccata,-36,139
 992138451,Atriplex_semibaccata,-34.1,138.1
 992138624,Atriplex_semibaccata,-35.064167,138.508611
 992138090,Atriplex_semibaccata,-34.0762,138.2464
@@ -1094,7 +1019,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992174332,Atriplex_semibaccata,-34.333333,138.783333
 1451535847,Atriplex_semibaccata,-34.065093,150.817831
 995759717,Atriplex_semibaccata,-34.07,150.82
-2270266783,Atriplex_semibaccata,34.017295804231,-119.876036777655
 1651976272,Atriplex_semibaccata,-24.915224,150.084153
 461654636,Atriplex_semibaccata,-29.125,27.625
 2248048919,Atriplex_semibaccata,-30.274167,-62.081111
@@ -1111,7 +1035,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270176222,Atriplex_semibaccata,35.369088,-120.867626
 992159237,Atriplex_semibaccata,-35.594722,138.679722
 992114619,Atriplex_semibaccata,-34.933333,138.6
-461654644,Atriplex_semibaccata,-32.875,17.875
 994851309,Atriplex_semibaccata,-34.9833,138.5333
 995589285,Atriplex_semibaccata,-34.52,150.72
 1451464073,Atriplex_semibaccata,-34.515094,150.717838
@@ -1126,10 +1049,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896078756,Atriplex_semibaccata,32.461111,-117.013611
 1893935827,Atriplex_semibaccata,32.432942,-117.022129
 993134292,Atriplex_semibaccata,-28.2167,152.0333
-461654635,Atriplex_semibaccata,-29.875,31.125
 992138047,Atriplex_semibaccata,-23.7,133.9
-461654755,Atriplex_semibaccata,-22.625,17.125
-1895291589,Atriplex_semibaccata,19.433889,-99.076111
 461654767,Atriplex_semibaccata,-23.125,16.625
 995589368,Atriplex_semibaccata,-32.42,149.62
 992111950,Atriplex_semibaccata,-34.967222,138.541111
@@ -1137,7 +1057,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993290992,Atriplex_semibaccata,-34.35,138.9167
 992446413,Atriplex_semibaccata,-34.35,138.916667
 995759821,Atriplex_semibaccata,-23.65,133.87
-1896078743,Atriplex_semibaccata,33.439167,-118.490833
 1651976267,Atriplex_semibaccata,-27.581936,141.084282
 1451536293,Atriplex_semibaccata,-31.998484,142.451271
 995759850,Atriplex_semibaccata,-32,142.45
@@ -1150,8 +1069,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896078739,Atriplex_semibaccata,35.293333,-120.609444
 1092710655,Atriplex_semibaccata,35.162066,-119.633716
 1651976307,Atriplex_semibaccata,-28.248542,152.250808
-993219614,Atriplex_semibaccata,-35.3,149.1667
-996226805,Atriplex_semibaccata,-35.3,149.17
 994948522,Atriplex_semibaccata,-32.7667,138.5833
 994851188,Atriplex_semibaccata,-35.3167,145.6333
 992397641,Atriplex_semibaccata,-32.733333,138.6
@@ -1233,7 +1150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993188828,Atriplex_semibaccata,-31.6833,147.4333
 2248049488,Atriplex_semibaccata,-32.408056,-69.250278
 1937288953,Atriplex_semibaccata,-28.066667,145.683333
-1896078745,Atriplex_semibaccata,26.108333,-111.343333
 1451463916,Atriplex_semibaccata,-32.465154,142.367944
 995588710,Atriplex_semibaccata,-32.47,142.37
 995002873,Atriplex_semibaccata,-36.45,141.95
@@ -1283,7 +1199,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651976271,Atriplex_semibaccata,-27.415213,151.584146
 1651976262,Atriplex_semibaccata,-27.248554,150.084166
 1259340572,Atriplex_semibaccata,25.41666,-101
-993310596,Atriplex_semibaccata,-35.2667,149.1
 2270588148,Atriplex_semibaccata,33.3942,-111.933
 1937137517,Atriplex_semibaccata,-34.55,146.4
 1451463901,Atriplex_semibaccata,-34.548457,146.401241
@@ -1353,7 +1268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228176005,Atriplex_semibaccata,-28.58,-70.67
 995589329,Atriplex_semibaccata,-31.07,150.92
 1451464085,Atriplex_semibaccata,-31.065088,150.917791
-35318277,Atriplex_semibaccata,21.3,-157.65
 461654641,Atriplex_semibaccata,-34.125,19.375
 992383619,Atriplex_semibaccata,-34.183333,139.983333
 1651976248,Atriplex_semibaccata,-26.915216,151.08415
@@ -1369,18 +1283,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996385751,Atriplex_semibaccata,-32.545,117.081
 992311768,Atriplex_semibaccata,-34.916667,139.3
 992150320,Atriplex_semibaccata,-35.078333,138.495
-994850403,Atriplex_semibaccata,-38.4667,144.1
 992330000,Atriplex_semibaccata,-34.183333,138.15
 992284840,Atriplex_semibaccata,-32.566667,137.95
 992329982,Atriplex_semibaccata,-33.885103,139.355802
-995759815,Atriplex_semibaccata,-35.27,136.07
 992150534,Atriplex_semibaccata,-34.883333,138.583333
 995759770,Atriplex_semibaccata,-29.27,147.72
 1451535877,Atriplex_semibaccata,-29.265111,147.717833
 992150004,Atriplex_semibaccata,-34.833333,138.483333
 995759639,Atriplex_semibaccata,-32.9,144.3
 1451535746,Atriplex_semibaccata,-32.898471,144.301254
-994924315,Atriplex_semibaccata,-38.1167,144.65
 1451536403,Atriplex_semibaccata,-34.04845,147.017894
 992446414,Atriplex_semibaccata,-29.95782,146.311799
 995759745,Atriplex_semibaccata,-34.05,147.02
@@ -1389,7 +1300,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992284910,Atriplex_semibaccata,-26.283333,134.883333
 1451535538,Atriplex_semibaccata,-34.915113,148.16788
 995759753,Atriplex_semibaccata,-34.92,148.17
-461654639,Atriplex_semibaccata,-34.125,22.125
 1651976260,Atriplex_semibaccata,-23.581898,148.917495
 461654685,Atriplex_semibaccata,-29.625,22.625
 992284881,Atriplex_semibaccata,-34.783333,138.5
@@ -1437,7 +1347,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995759719,Atriplex_semibaccata,-33.6,150.72
 994605171,Atriplex_semibaccata,-42.5,147.9
 995759831,Atriplex_semibaccata,-38.17,144.35
-995759830,Atriplex_semibaccata,-38.12,144.47
 995759746,Atriplex_semibaccata,-32.02,149.4
 1451536427,Atriplex_semibaccata,-32.015099,149.401164
 1451535483,Atriplex_semibaccata,-32.665099,149.851163
