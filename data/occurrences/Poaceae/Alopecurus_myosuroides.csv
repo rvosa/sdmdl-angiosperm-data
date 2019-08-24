@@ -110,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838955969,Alopecurus_myosuroides,39.056389,21.606939
 1838955934,Alopecurus_myosuroides,38.666939,21.621941
 1838955582,Alopecurus_myosuroides,38.629719,21.26556
-1697763100,Alopecurus_myosuroides,40.1,49.366667
 1838955954,Alopecurus_myosuroides,38.680828,21.35611
 1838955874,Alopecurus_myosuroides,38.622501,21.273609
 1838955708,Alopecurus_myosuroides,38.429722,21.73111
@@ -140,7 +139,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705438678,Alopecurus_myosuroides,58.139148,15.681924
 1838955896,Alopecurus_myosuroides,39.671669,21.71056
 1838955541,Alopecurus_myosuroides,40.496109,21.664721
-1838955815,Alopecurus_myosuroides,40,21
 1838955529,Alopecurus_myosuroides,39.930561,21.576389
 1838955570,Alopecurus_myosuroides,40.293892,21.34667
 1705438694,Alopecurus_myosuroides,58.364052,14.690599
@@ -165,7 +163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830969288,Alopecurus_myosuroides,43.10639,11.78222
 1838955602,Alopecurus_myosuroides,38.3825,23.101669
 1056483708,Alopecurus_myosuroides,51.71544,-0.315064
-1050652834,Alopecurus_myosuroides,42.81,-2.6
 1804582520,Alopecurus_myosuroides,40.28,28.589
 1318819286,Alopecurus_myosuroides,40.28,28.5893
 1935648014,Alopecurus_myosuroides,45.12306,13.8025
@@ -181,7 +178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804425841,Alopecurus_myosuroides,37.799,30.98
 1804436226,Alopecurus_myosuroides,39.548,27.072
 1322233810,Alopecurus_myosuroides,36.9542,29.5272
-1804578879,Alopecurus_myosuroides,41.148,29.3
 1697720910,Alopecurus_myosuroides,44.608333,33.597222
 894158318,Alopecurus_myosuroides,42.168,-4.531
 1838956514,Alopecurus_myosuroides,38.53167,22.807779
@@ -283,7 +279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838955344,Alopecurus_myosuroides,39.298328,22.36861
 1838955184,Alopecurus_myosuroides,39.500278,22.011669
 1838955305,Alopecurus_myosuroides,39.371109,21.98889
-860329255,Alopecurus_myosuroides,41.32,2.1
 1838956621,Alopecurus_myosuroides,39.55611,21.801109
 1838955228,Alopecurus_myosuroides,39.322498,22.01333
 1838955197,Alopecurus_myosuroides,39.58778,22.07778
@@ -325,7 +320,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838952347,Alopecurus_myosuroides,39.564171,21.969721
 1697762824,Alopecurus_myosuroides,44.249481,42.061867
 1212030829,Alopecurus_myosuroides,39.9425,21.578333
-895220907,Alopecurus_myosuroides,40.6,-2.11
 1838955254,Alopecurus_myosuroides,40.093609,21.4025
 1838955229,Alopecurus_myosuroides,39.50806,21.637501
 1838955311,Alopecurus_myosuroides,39.942501,21.578329
@@ -492,7 +486,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697376648,Alopecurus_myosuroides,57.301773,39.842188
 1230506139,Alopecurus_myosuroides,46.57889,11.44167
 1697376607,Alopecurus_myosuroides,57.304526,39.840899
-899739649,Alopecurus_myosuroides,47.8,8.8
 1342549071,Alopecurus_myosuroides,55.768325,12.02584
 1342547735,Alopecurus_myosuroides,54.923502,8.819312
 441958428,Alopecurus_myosuroides,51.688534,12.950199
@@ -532,7 +525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 597307,Alopecurus_myosuroides,55.68828,13.22204
 1600682537,Alopecurus_myosuroides,60.940185,24.476111
 1600682556,Alopecurus_myosuroides,60.93894,24.476763
-788749383,Alopecurus_myosuroides,40.9,24.233333
 860314626,Alopecurus_myosuroides,41.616,-0.798
 860314612,Alopecurus_myosuroides,41.662,-0.856
 230816871,Alopecurus_myosuroides,51.860246,5.874967
@@ -541,7 +533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 597441,Alopecurus_myosuroides,56.10235,12.97089
 597415,Alopecurus_myosuroides,55.86328,13.0874
 895172509,Alopecurus_myosuroides,39.97,-2.36
-296405426,Alopecurus_myosuroides,47.2,14.587
 1638377207,Alopecurus_myosuroides,47.175,14.625
 230816870,Alopecurus_myosuroides,51.828471,5.945706
 441958131,Alopecurus_myosuroides,51.815468,12.700549
@@ -554,7 +545,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895173225,Alopecurus_myosuroides,39.97,-2.47
 2290480047,Alopecurus_myosuroides,52.070498,4.3007
 1880989823,Alopecurus_myosuroides,48.77,10.57
-895173202,Alopecurus_myosuroides,39.7,-2.01
 597421,Alopecurus_myosuroides,56.31775,12.8078
 597371,Alopecurus_myosuroides,56.28908,12.92476
 597430,Alopecurus_myosuroides,56.241,12.86706
@@ -579,11 +569,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860318113,Alopecurus_myosuroides,41.76,0.89
 788852832,Alopecurus_myosuroides,40.733333,23.066667
 597323,Alopecurus_myosuroides,55.6929,13.2281
-788852871,Alopecurus_myosuroides,40.8,22.816667
 788852911,Alopecurus_myosuroides,40.633333,22.85
-788752429,Alopecurus_myosuroides,38.35,21.6
 788852991,Alopecurus_myosuroides,41.083333,23.266667
-1880990448,Alopecurus_myosuroides,48.77,10.7
 1050579584,Alopecurus_myosuroides,42.55,-2.56
 1936443954,Alopecurus_myosuroides,42.065281,-4.746556
 1322263105,Alopecurus_myosuroides,40.735,29.9547
@@ -599,7 +586,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936447830,Alopecurus_myosuroides,41.106,-3.7397
 1697376643,Alopecurus_myosuroides,56.934646,40.712518
 1288092977,Alopecurus_myosuroides,50.729926,9.794139
-894162287,Alopecurus_myosuroides,42.56,-5.5
 1946739399,Alopecurus_myosuroides,50.03,9.95
 85494638,Alopecurus_myosuroides,42.6017,-5.5425
 1936444078,Alopecurus_myosuroides,39.9603,-2.0412
@@ -608,7 +594,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697376658,Alopecurus_myosuroides,56.988696,40.91819
 1697376646,Alopecurus_myosuroides,56.99831,40.890633
 1697376627,Alopecurus_myosuroides,57.448908,42.150265
-894161260,Alopecurus_myosuroides,42.3,-5.24
 895153981,Alopecurus_myosuroides,42.31,-4.27
 1936524734,Alopecurus_myosuroides,43.5459,-6.3772
 2268216180,Alopecurus_myosuroides,55.827999,37.500747
@@ -637,7 +622,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894160999,Alopecurus_myosuroides,42.806,-4.596
 2268216123,Alopecurus_myosuroides,55.615272,37.658755
 2268216307,Alopecurus_myosuroides,55.826816,37.498473
-895260634,Alopecurus_myosuroides,40.05,-1.3
 894160977,Alopecurus_myosuroides,42.816,-4.547
 1230498563,Alopecurus_myosuroides,48.075,16.45806
 1697720938,Alopecurus_myosuroides,44.823065,34.839406
@@ -652,7 +636,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2028547156,Alopecurus_myosuroides,42.15,2.76
 1936635685,Alopecurus_myosuroides,42.6014,-1.4044
 1936635678,Alopecurus_myosuroides,42.6391,-1.5254
-187882666,Alopecurus_myosuroides,42.62,-1.3
 1936195465,Alopecurus_myosuroides,41.1321,-3.8829
 187882804,Alopecurus_myosuroides,42.63,-1.17
 1936635699,Alopecurus_myosuroides,42.6224,-1.6356
@@ -665,7 +648,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936195421,Alopecurus_myosuroides,41.1053,-3.8468
 1697720886,Alopecurus_myosuroides,44.84156,34.826773
 894160294,Alopecurus_myosuroides,42.55,-5.86
-187882661,Alopecurus_myosuroides,42.8,-1.13
 1831053686,Alopecurus_myosuroides,53.3485,11.082
 85493840,Alopecurus_myosuroides,41.578,1.854
 187882297,Alopecurus_myosuroides,42.05,-1.88
@@ -687,7 +669,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978788968,Alopecurus_myosuroides,56.17066,13.11257
 894161358,Alopecurus_myosuroides,42.47,-5.49
 1094189816,Alopecurus_myosuroides,33.13,35.64
-1050576112,Alopecurus_myosuroides,42.9,-2.7
 1050656150,Alopecurus_myosuroides,42.99,-2.98
 1094198216,Alopecurus_myosuroides,31.88,34.81
 1050576070,Alopecurus_myosuroides,42.91,-2.65
@@ -698,7 +679,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788796064,Alopecurus_myosuroides,37.366667,22.783333
 894160193,Alopecurus_myosuroides,42.47,-5.37
 1702290540,Alopecurus_myosuroides,59.1911,9.6214
-1050576074,Alopecurus_myosuroides,42.83,-2.7
 1697376650,Alopecurus_myosuroides,57.010039,41.025358
 991750431,Alopecurus_myosuroides,53.3485,11.582
 1701778797,Alopecurus_myosuroides,63.3085,10.1673
@@ -710,7 +690,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050576153,Alopecurus_myosuroides,42.96,-2.72
 1697720893,Alopecurus_myosuroides,44.86974,35.005875
 1999560848,Alopecurus_myosuroides,60.449243,22.297779
-1094190984,Alopecurus_myosuroides,32.77,35.4
 1806130181,Alopecurus_myosuroides,42.802812,-1.654957
 1806130205,Alopecurus_myosuroides,42.814327,-1.675611
 1806130165,Alopecurus_myosuroides,42.839348,-1.642968
@@ -731,7 +710,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806130108,Alopecurus_myosuroides,42.810533,-1.661394
 1806130213,Alopecurus_myosuroides,42.81189,-1.662747
 1455431941,Alopecurus_myosuroides,50.468551,4.671763
-1050576196,Alopecurus_myosuroides,42.76,-2.7
 1455432418,Alopecurus_myosuroides,50.788006,4.510739
 187882291,Alopecurus_myosuroides,42.39,-1.46
 1260856853,Alopecurus_myosuroides,50.68166,4.79527
@@ -749,7 +727,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1995318271,Alopecurus_myosuroides,58.9788,5.7437
 833455342,Alopecurus_myosuroides,49.65,8.366666
 1845007635,Alopecurus_myosuroides,49.681944,8.386944
-833455349,Alopecurus_myosuroides,49.983333,8.3
 1845007804,Alopecurus_myosuroides,49.993611,8.300278
 1600682512,Alopecurus_myosuroides,61.070051,25.051918
 1702194358,Alopecurus_myosuroides,59.0649,5.9215
@@ -766,28 +743,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615263158,Alopecurus_myosuroides,36.75,66.88
 615263171,Alopecurus_myosuroides,34.48,70.32
 615263173,Alopecurus_myosuroides,35.92,64.78
-615263174,Alopecurus_myosuroides,36.75,66.9
-615263176,Alopecurus_myosuroides,35.9,64.7
-615263175,Alopecurus_myosuroides,35.9,64.75
-615263161,Alopecurus_myosuroides,36.72,69.2
 597469,Alopecurus_myosuroides,55.839958,12.960649
 615263177,Alopecurus_myosuroides,34.53,70.55
-615263148,Alopecurus_myosuroides,34.62,70.6
-615263170,Alopecurus_myosuroides,34.87,70.1
 1842844745,Alopecurus_myosuroides,42.13,1.85
 1094194712,Alopecurus_myosuroides,33.24,35.65
 1600682540,Alopecurus_myosuroides,61.403531,23.720038
 1094196625,Alopecurus_myosuroides,33.14,35.77
 597477,Alopecurus_myosuroides,55.60694,13.002764
 85492818,Alopecurus_myosuroides,41.86,2.22
-1094187944,Alopecurus_myosuroides,32.59,35
 1697762819,Alopecurus_myosuroides,44.700178,37.600534
-876154922,Alopecurus_myosuroides,41.5,1.86
 1697762852,Alopecurus_myosuroides,44.651925,37.940598
 1702194219,Alopecurus_myosuroides,59.0493,10.8882
-786087879,Alopecurus_myosuroides,54.4,10.2
 2313349132,Alopecurus_myosuroides,48.11,11.59
-1094191862,Alopecurus_myosuroides,32.68,35.4
 1094192177,Alopecurus_myosuroides,33.15,35.62
 1094189887,Alopecurus_myosuroides,33.12,35.64
 788796124,Alopecurus_myosuroides,35.183333,26.116667
@@ -818,9 +785,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85495200,Alopecurus_myosuroides,42.3688,-0.1197
 597425,Alopecurus_myosuroides,55.76591,13.20051
 1600682509,Alopecurus_myosuroides,61.877298,28.992982
-1094188796,Alopecurus_myosuroides,32.1,34.79
 1094190876,Alopecurus_myosuroides,32.68,35.56
-1094190940,Alopecurus_myosuroides,33.06,35.6
 1094193067,Alopecurus_myosuroides,33.22,35.66
 1094187977,Alopecurus_myosuroides,33.14,35.65
 597338,Alopecurus_myosuroides,55.58285,12.92779
@@ -838,18 +803,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094194730,Alopecurus_myosuroides,33.19,35.65
 1891603768,Alopecurus_myosuroides,49.78,5.93
 1891606065,Alopecurus_myosuroides,49.82,6.42
-85491321,Alopecurus_myosuroides,41.69,2.7
-85495148,Alopecurus_myosuroides,41.78,2.7
 85491062,Alopecurus_myosuroides,41.78,2.46
 995397765,Alopecurus_myosuroides,50.4167,4.4333
 1600682517,Alopecurus_myosuroides,62.313356,21.303044
 1697762781,Alopecurus_myosuroides,42.493365,44.188728
 1094195655,Alopecurus_myosuroides,32.58,35.07
-1144595313,Alopecurus_myosuroides,42.7,9.33333
 1057042637,Alopecurus_myosuroides,56.4907,-4.2026
 1600682533,Alopecurus_myosuroides,65.036919,25.436072
 1600682487,Alopecurus_myosuroides,62.224071,21.319938
-860323858,Alopecurus_myosuroides,41.6,2.58
 860323875,Alopecurus_myosuroides,41.51,2.46
 1600682500,Alopecurus_myosuroides,63.132517,21.540172
 1600682455,Alopecurus_myosuroides,65.0231,25.405223
@@ -882,7 +843,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999560827,Alopecurus_myosuroides,60.446986,22.234412
 597330,Alopecurus_myosuroides,55.44154,12.98245
 597417,Alopecurus_myosuroides,55.425172,12.967648
-1094187989,Alopecurus_myosuroides,31.97,34.8
 1094190476,Alopecurus_myosuroides,32.53,35.43
 1697762902,Alopecurus_myosuroides,38.787703,48.835738
 1697762828,Alopecurus_myosuroides,38.788881,48.433485
@@ -895,9 +855,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094192169,Alopecurus_myosuroides,32.47,34.98
 1094199175,Alopecurus_myosuroides,32.56,35.39
 597289,Alopecurus_myosuroides,59.3871,17.78954
-1094196584,Alopecurus_myosuroides,32.5,34.89
 1144595318,Alopecurus_myosuroides,42.65,9.45
-85493025,Alopecurus_myosuroides,41.5,2.34
 1697720868,Alopecurus_myosuroides,44.938405,35.156379
 597440,Alopecurus_myosuroides,55.924459,13.10503
 1094198615,Alopecurus_myosuroides,32.08,34.88
@@ -905,7 +863,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705301850,Alopecurus_myosuroides,57.716093,11.986186
 1094190930,Alopecurus_myosuroides,32.79,34.98
 1094193032,Alopecurus_myosuroides,32.07,34.79
-1094187946,Alopecurus_myosuroides,32.6,35.31
 1094188750,Alopecurus_myosuroides,32.12,34.87
 1094189976,Alopecurus_myosuroides,33.24,35.57
 1094196087,Alopecurus_myosuroides,33.14,35.61
@@ -914,13 +871,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 597177,Alopecurus_myosuroides,56.031862,14.152378
 1094200189,Alopecurus_myosuroides,32.69,35.19
 1094194980,Alopecurus_myosuroides,32.71,35.56
-1094194663,Alopecurus_myosuroides,32.53,35.4
 1094191082,Alopecurus_myosuroides,32.04,34.78
 1094194597,Alopecurus_myosuroides,32.07,34.77
-1094196029,Alopecurus_myosuroides,32.7,35.57
-1094194590,Alopecurus_myosuroides,32.52,35.4
 1094190982,Alopecurus_myosuroides,32.63,35.29
-1094190492,Alopecurus_myosuroides,32.8,35.03
 1094198542,Alopecurus_myosuroides,32.79,35.53
 735649230,Alopecurus_myosuroides,50.196111,4.543333
 597182,Alopecurus_myosuroides,55.774288,13.109104
@@ -929,9 +882,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094191567,Alopecurus_myosuroides,32.04,34.76
 85489977,Alopecurus_myosuroides,40.4533,-1.284
 85490010,Alopecurus_myosuroides,41.96,2.58
-165390144,Alopecurus_myosuroides,41.41,2.1
 296405482,Alopecurus_myosuroides,46.63,10.779
-85489974,Alopecurus_myosuroides,41.5,2.22
 296405484,Alopecurus_myosuroides,46.456944,11.259167
 296405486,Alopecurus_myosuroides,46.500278,11.344722
 296405507,Alopecurus_myosuroides,46.466667,11.266667
@@ -939,7 +890,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85490047,Alopecurus_myosuroides,42.3255,-3.6538
 1600682564,Alopecurus_myosuroides,61.146985,24.304145
 735648472,Alopecurus_myosuroides,49.167222,-0.786667
-1094189621,Alopecurus_myosuroides,32.46,35.3
 85490020,Alopecurus_myosuroides,42.32,2.94
 296405510,Alopecurus_myosuroides,46.238611,11.215
 1842898543,Alopecurus_myosuroides,41.66,0.66
