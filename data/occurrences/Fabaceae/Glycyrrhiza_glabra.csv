@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988122028,Glycyrrhiza_glabra,50.39828,-119.261102
 1799020478,Glycyrrhiza_glabra,41.544167,72.184444
-2307829794,Glycyrrhiza_glabra,30.03,31.2
 1842889728,Glycyrrhiza_glabra,41.364,2.145
 1697697195,Glycyrrhiza_glabra,55.792222,37.442778
 1799020499,Glycyrrhiza_glabra,49.955556,50.209167
@@ -14,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992077575,Glycyrrhiza_glabra,-34.515667,138.753315
 1697351048,Glycyrrhiza_glabra,49.083333,44.15
 1697564358,Glycyrrhiza_glabra,51.843962,43.299512
-1142097868,Glycyrrhiza_glabra,44.97271,14.7422
 1094181844,Glycyrrhiza_glabra,32.9,35.15
 992067566,Glycyrrhiza_glabra,-34.857058,138.699431
 1697351011,Glycyrrhiza_glabra,49.116667,44.116667
@@ -79,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30932664,Glycyrrhiza_glabra,41.779999,0.12
 30962035,Glycyrrhiza_glabra,42.06,-1.19
 30962057,Glycyrrhiza_glabra,38.39,-0.44
-1697564249,Glycyrrhiza_glabra,55.755651,37.532715
 30869089,Glycyrrhiza_glabra,38.369999,-5.4
 30961531,Glycyrrhiza_glabra,38.06,-0.92
 1050602738,Glycyrrhiza_glabra,42.39,-2.53
@@ -116,7 +113,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050586208,Glycyrrhiza_glabra,42.3,-1.91
 1050658582,Glycyrrhiza_glabra,42.04,-1.64
 1050658554,Glycyrrhiza_glabra,42.05,-1.71
-1563859920,Glycyrrhiza_glabra,37.833333,20.8
 111307396,Glycyrrhiza_glabra,42.042999,-1.544
 30869091,Glycyrrhiza_glabra,37.580002,-4.59
 30869092,Glycyrrhiza_glabra,37.490002,-4.47
@@ -124,13 +120,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30869139,Glycyrrhiza_glabra,37.759998,-4.7
 30869142,Glycyrrhiza_glabra,37.669998,-4.7
 992044838,Glycyrrhiza_glabra,-34.45761,138.927202
-1697804004,Glycyrrhiza_glabra,40.505968,46.821842
 30869140,Glycyrrhiza_glabra,37.669998,-4.59
 1936452700,Glycyrrhiza_glabra,41.2637,-4.9113
-1563860167,Glycyrrhiza_glabra,36.05,27.766667
 1697564385,Glycyrrhiza_glabra,46.611833,41.691055
 1697564312,Glycyrrhiza_glabra,46.606437,41.744549
-1563859940,Glycyrrhiza_glabra,36.066667,27.8
 1697257697,Glycyrrhiza_glabra,53.287385,83.614883
 1936112022,Glycyrrhiza_glabra,40.4047,-3.4962
 992587382,Glycyrrhiza_glabra,-34.85,138.716667
@@ -154,7 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451590375,Glycyrrhiza_glabra,-35.115119,147.367899
 995883232,Glycyrrhiza_glabra,-35.12,147.37
 615329261,Glycyrrhiza_glabra,35.6,68.72
-1990858180,Glycyrrhiza_glabra,30.076389,31.208889
 615329252,Glycyrrhiza_glabra,34.73,66.97
 615329248,Glycyrrhiza_glabra,34.7,69.1
 615329233,Glycyrrhiza_glabra,34.93,68.48
@@ -179,8 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992138136,Glycyrrhiza_glabra,-34.934837,138.607767
 993711500,Glycyrrhiza_glabra,-34.95,138.6333
 574824005,Glycyrrhiza_glabra,34.333333,48.083333
-1563859911,Glycyrrhiza_glabra,37.7,26.616667
-1563859913,Glycyrrhiza_glabra,37.7,26.633333
 461922407,Glycyrrhiza_glabra,-31.375,25.625
 992444422,Glycyrrhiza_glabra,-34.899559,138.641377
 992444374,Glycyrrhiza_glabra,-34.53539,138.745538
@@ -199,7 +189,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697564286,Glycyrrhiza_glabra,48.17823,44.661051
 461922409,Glycyrrhiza_glabra,-33.625,20.125
 1937019567,Glycyrrhiza_glabra,-36.6167,142.4667
-1936112537,Glycyrrhiza_glabra,40.4303,-3.7558
 461922408,Glycyrrhiza_glabra,-33.625,22.375
 1697564221,Glycyrrhiza_glabra,49.061788,43.50903
 1990858922,Glycyrrhiza_glabra,35.185278,33.903056
@@ -210,7 +199,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438387849,Glycyrrhiza_glabra,33.48557,35.8506
 439053968,Glycyrrhiza_glabra,33.53465,35.87161
 1799020532,Glycyrrhiza_glabra,47.403694,60.944252
-1705487818,Glycyrrhiza_glabra,49.5955,17.2573
 1303749618,Glycyrrhiza_glabra,42.85669,90.215703
 1303749586,Glycyrrhiza_glabra,42.942326,89.185928
 1697564335,Glycyrrhiza_glabra,52.373366,52.338277
@@ -222,13 +210,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451698631,Glycyrrhiza_glabra,-33.481796,145.534576
 996127426,Glycyrrhiza_glabra,-33.48,145.53
 1697803995,Glycyrrhiza_glabra,43.52302,43.70955
-1999666497,Glycyrrhiza_glabra,60.175312,24.951853
 1990858863,Glycyrrhiza_glabra,31.861111,35.461667
 1990858890,Glycyrrhiza_glabra,32.461944,35.3025
 1990858136,Glycyrrhiza_glabra,37.5025,15.087778
 995429399,Glycyrrhiza_glabra,45.8,3.1333
 1935927468,Glycyrrhiza_glabra,41.3619,-1.6622
-1848903212,Glycyrrhiza_glabra,40,60
 1990859022,Glycyrrhiza_glabra,38.530556,56.417778
 1990859387,Glycyrrhiza_glabra,37.795278,58.724722
 1990859335,Glycyrrhiza_glabra,37.9875,58.182222
