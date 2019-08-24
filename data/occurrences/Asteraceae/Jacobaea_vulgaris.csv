@@ -36,7 +36,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839086946,Jacobaea_vulgaris,52.45528,11.50528
 2242727668,Jacobaea_vulgaris,61.310159,23.757697
 1839087014,Jacobaea_vulgaris,52.32,11.34806
-2313367656,Jacobaea_vulgaris,48.09,11.4
 1265008174,Jacobaea_vulgaris,62.38342,17.31872
 2248478244,Jacobaea_vulgaris,63.4199,10.7388
 1563137174,Jacobaea_vulgaris,55.43906,12.95948
@@ -58,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287445525,Jacobaea_vulgaris,52.1931,4.389483
 2287429661,Jacobaea_vulgaris,52.160114,4.49701
 1413722355,Jacobaea_vulgaris,48.669167,23.55
-1095920413,Jacobaea_vulgaris,62,17
 1424475382,Jacobaea_vulgaris,48.669167,2.3925
 1702379457,Jacobaea_vulgaris,59.7168,10.2177
 1676106892,Jacobaea_vulgaris,50.164367,8.641867
@@ -87,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1057045199,Jacobaea_vulgaris,51.548322,-0.271231
 1599249011,Jacobaea_vulgaris,60.460325,26.214506
 1848997704,Jacobaea_vulgaris,39.39972,46.02083
-2310799875,Jacobaea_vulgaris,51.52,-3.2
 1055543476,Jacobaea_vulgaris,51.45843,0.201157
 1936250463,Jacobaea_vulgaris,44.4706,2.5619
 932709033,Jacobaea_vulgaris,42.30147,-7.51126
@@ -97,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701275748,Jacobaea_vulgaris,63.1927,10.3286
 932709031,Jacobaea_vulgaris,42.6135,-8.98002
 932709056,Jacobaea_vulgaris,42.27984,-7.48513
-1050653025,Jacobaea_vulgaris,42.8,-2.57
 932709059,Jacobaea_vulgaris,42.75055,-7.94131
 2291832473,Jacobaea_vulgaris,51.937869,4.557928
 2287443460,Jacobaea_vulgaris,52.374667,4.551333
@@ -163,7 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1576193631,Jacobaea_vulgaris,41.064615,-3.11151
 214569884,Jacobaea_vulgaris,52.517776,13.140278
 1936202955,Jacobaea_vulgaris,41.777197,-4.738714
-860312948,Jacobaea_vulgaris,41.41,2.1
 1701968017,Jacobaea_vulgaris,62.8701,7.6329
 728978948,Jacobaea_vulgaris,51.808079,5.883102
 1935724525,Jacobaea_vulgaris,47.18307,14.73875
@@ -209,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701272826,Jacobaea_vulgaris,63.5722,9.005
 473446495,Jacobaea_vulgaris,46.3629,-62.204
 1882645593,Jacobaea_vulgaris,53.1025,12.847777
-1060490037,Jacobaea_vulgaris,53.5,11.4
 1253404607,Jacobaea_vulgaris,51.936039,11.786434
 1701247728,Jacobaea_vulgaris,63.4353,10.7287
 1851346560,Jacobaea_vulgaris,42.4518,-5.3306
@@ -269,7 +263,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701632838,Jacobaea_vulgaris,59.4754,11.6557
 932705249,Jacobaea_vulgaris,41.99602,-8.0355
 1851407854,Jacobaea_vulgaris,42.223,-6.522
-465859854,Jacobaea_vulgaris,45,-63
 932704647,Jacobaea_vulgaris,42.10698,-8.48133
 1701264974,Jacobaea_vulgaris,63.4993,9.7623
 932705441,Jacobaea_vulgaris,42.68792,-7.1704
@@ -316,7 +309,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851407161,Jacobaea_vulgaris,43.0196,-5.5974
 774391079,Jacobaea_vulgaris,47.591667,11.115278
 1702166196,Jacobaea_vulgaris,59.3904,10.2122
-1844870160,Jacobaea_vulgaris,43,-4.19
 1842867157,Jacobaea_vulgaris,39.85,-6.25
 20952342,Jacobaea_vulgaris,48.9792,2.53549
 152954276,Jacobaea_vulgaris,46.299655,14.411936
@@ -351,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318122306,Jacobaea_vulgaris,40.39,-5.25
 1702033153,Jacobaea_vulgaris,59.7804,10.131
 1701566637,Jacobaea_vulgaris,62.872,7.2799
-1050624681,Jacobaea_vulgaris,41.7,-1.74
 415912155,Jacobaea_vulgaris,46.80916,-64.08305
 1701829229,Jacobaea_vulgaris,59.4425,11.177
 1851360478,Jacobaea_vulgaris,42.812,-6.279
@@ -360,7 +351,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702193785,Jacobaea_vulgaris,59.2946,11.6453
 1342968506,Jacobaea_vulgaris,55.744051,12.139243
 1702020861,Jacobaea_vulgaris,59.6814,10.1632
-1830999965,Jacobaea_vulgaris,48.2,16.7
 1701828157,Jacobaea_vulgaris,59.2704,11.1555
 1830999794,Jacobaea_vulgaris,47.925,16.29167
 1701828803,Jacobaea_vulgaris,59.2416,11.129
@@ -438,7 +428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050614148,Jacobaea_vulgaris,43.23,-2.88
 1701722998,Jacobaea_vulgaris,59.7693,10.2196
 1702435365,Jacobaea_vulgaris,59.7874,10.2024
-1050581438,Jacobaea_vulgaris,42.9,-2.18
 2244177294,Jacobaea_vulgaris,52.75,13.09167
 1342967787,Jacobaea_vulgaris,56.169748,9.844195
 1851379475,Jacobaea_vulgaris,42.816,-5.098
@@ -449,7 +438,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599248990,Jacobaea_vulgaris,61.072379,28.250505
 1332806302,Jacobaea_vulgaris,50.5323,9.83338
 1702433717,Jacobaea_vulgaris,61.1037,9.1206
-1851380794,Jacobaea_vulgaris,43,-6.12
 1701722393,Jacobaea_vulgaris,61.1348,5.3317
 1701723539,Jacobaea_vulgaris,59.7234,10.3246
 1702255451,Jacobaea_vulgaris,59.84212,10.21987
@@ -464,9 +452,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342967261,Jacobaea_vulgaris,55.211104,8.849441
 85846512,Jacobaea_vulgaris,42.610001,-0.93
 1701985765,Jacobaea_vulgaris,59.649,11.2622
-895246255,Jacobaea_vulgaris,40.66,0.1
 858383451,Jacobaea_vulgaris,54.0485,13.415
-895197874,Jacobaea_vulgaris,39.7,-2.01
 1050580264,Jacobaea_vulgaris,42.55,-2.56
 187256732,Jacobaea_vulgaris,63.3843,10.4054
 1702426068,Jacobaea_vulgaris,60.3621,10.5073
@@ -505,7 +491,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702285328,Jacobaea_vulgaris,60.1335,10.3051
 1702207537,Jacobaea_vulgaris,60.1202,10.1426
 1701844849,Jacobaea_vulgaris,60.0935,10.1057
-1502023033,Jacobaea_vulgaris,40.4,-0.35
 1502023978,Jacobaea_vulgaris,40.49,-0.35
 1936542429,Jacobaea_vulgaris,39.0185,-4.422
 1705418612,Jacobaea_vulgaris,55.999414,13.683075
@@ -550,7 +535,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050651352,Jacobaea_vulgaris,42.52,-1.41
 1050651318,Jacobaea_vulgaris,42.92,-1.83
 1053983715,Jacobaea_vulgaris,42.66,-1.18
-1053984077,Jacobaea_vulgaris,42.62,-1
 204435977,Jacobaea_vulgaris,42.824001,-2.248
 1705340553,Jacobaea_vulgaris,57.257794,15.954345
 1701933702,Jacobaea_vulgaris,60.0922,10.1101
@@ -568,14 +552,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053984034,Jacobaea_vulgaris,42.66,-1.21
 1050651395,Jacobaea_vulgaris,42.23,-1.75
 1050613951,Jacobaea_vulgaris,42.22,-1.75
-1050613965,Jacobaea_vulgaris,42.3,-1.91
 1050651368,Jacobaea_vulgaris,42.94,-1.67
 85846582,Jacobaea_vulgaris,37.049999,-3.11
 204435973,Jacobaea_vulgaris,42.588001,-1.288
 1050651326,Jacobaea_vulgaris,42.76,-2.11
 1455413906,Jacobaea_vulgaris,50.463216,4.904126
 204435972,Jacobaea_vulgaris,42.827,-1.66
-1851408854,Jacobaea_vulgaris,42.39,-5
 1705316544,Jacobaea_vulgaris,57.723801,16.308667
 1851402328,Jacobaea_vulgaris,42.988,-4.478
 1705264492,Jacobaea_vulgaris,58.435029,11.691922
@@ -583,7 +565,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705316545,Jacobaea_vulgaris,57.714822,16.308542
 1705397218,Jacobaea_vulgaris,57.347542,15.622507
 1599248977,Jacobaea_vulgaris,60.421413,22.493632
-1851325641,Jacobaea_vulgaris,42.65,-5.5
 204435978,Jacobaea_vulgaris,42.882999,-1.12
 1701634564,Jacobaea_vulgaris,59.4237,8.4802
 1851375684,Jacobaea_vulgaris,42.794,-4.779
@@ -592,7 +573,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705442202,Jacobaea_vulgaris,56.425789,14.910655
 1936616138,Jacobaea_vulgaris,40.6416,-4.3022
 1851382267,Jacobaea_vulgaris,42.894,-4.745
-1053984094,Jacobaea_vulgaris,42.67,-1
 1936657915,Jacobaea_vulgaris,40.9233,-4.0702
 318683706,Jacobaea_vulgaris,59.73195,10.15707
 318684245,Jacobaea_vulgaris,59.213777,10.924464
@@ -601,7 +581,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936214033,Jacobaea_vulgaris,38.3762,-6.8263
 78873471,Jacobaea_vulgaris,38.51,-5.47
 1288123545,Jacobaea_vulgaris,50.5932,9.8299
-1050614008,Jacobaea_vulgaris,42.7,-2.55
 1434673782,Jacobaea_vulgaris,57.97474,14.09382
 78873452,Jacobaea_vulgaris,38.51,-5.24
 1936633527,Jacobaea_vulgaris,42.7992,-2.2431
@@ -636,9 +615,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895289212,Jacobaea_vulgaris,39.96,-0.83
 1712604375,Jacobaea_vulgaris,42.329552,-1.735689
 1599248982,Jacobaea_vulgaris,61.297697,26.074238
-1804468386,Jacobaea_vulgaris,45.8,-60.666667
 1599249077,Jacobaea_vulgaris,61.545831,23.149546
-1851362956,Jacobaea_vulgaris,43,-6.24
 1935724019,Jacobaea_vulgaris,48.70222,16.46306
 1599248983,Jacobaea_vulgaris,61.350122,25.282082
 1848997478,Jacobaea_vulgaris,48.86111,21.22667
@@ -653,25 +630,20 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851358243,Jacobaea_vulgaris,42.47,-5.49
 1701498073,Jacobaea_vulgaris,60.32528,10.13214
 199503981,Jacobaea_vulgaris,36.527,-5.597
-85846373,Jacobaea_vulgaris,38.189999,-5.4
 1936634000,Jacobaea_vulgaris,38.3732,-4.1002
 1712605545,Jacobaea_vulgaris,42.291923,-1.804419
 186836679,Jacobaea_vulgaris,58.461,7.2253
-1050613941,Jacobaea_vulgaris,43.08,-3.1
 85846474,Jacobaea_vulgaris,38.02,-4.94
 85848060,Jacobaea_vulgaris,40.549999,-4.18
 1851583281,Jacobaea_vulgaris,38.08,-2.83
 85846468,Jacobaea_vulgaris,37.93,-4.93
 1806557057,Jacobaea_vulgaris,42.83079,-1.776087
-1050613950,Jacobaea_vulgaris,43.09,-3.1
 1050613978,Jacobaea_vulgaris,42.86,-2.69
 1039629,Jacobaea_vulgaris,55.71043,13.19551
 85846470,Jacobaea_vulgaris,38.02,-5.05
 1050613979,Jacobaea_vulgaris,42.99,-2.98
 1050651366,Jacobaea_vulgaris,43.13,-2.92
 1050613928,Jacobaea_vulgaris,42.97,-2.76
-1050613960,Jacobaea_vulgaris,42.8,-2.35
-2028546398,Jacobaea_vulgaris,50.8,-3.97
 1851342963,Jacobaea_vulgaris,42.57,-6.87
 1050613985,Jacobaea_vulgaris,42.71,-2.96
 1851349530,Jacobaea_vulgaris,42.83,-6.49
@@ -683,7 +655,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050613949,Jacobaea_vulgaris,42.72,-2.98
 1050613948,Jacobaea_vulgaris,42.72,-2.59
 1050613994,Jacobaea_vulgaris,42.55,-2.66
-1050613922,Jacobaea_vulgaris,42.8,-2.32
 2235670323,Jacobaea_vulgaris,37.481,-4.69
 1050651319,Jacobaea_vulgaris,43.28,-3.24
 1050613929,Jacobaea_vulgaris,42.67,-2.59
@@ -695,7 +666,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199503995,Jacobaea_vulgaris,41.04,-4.84
 1701925300,Jacobaea_vulgaris,58.9103,5.6138
 204436284,Jacobaea_vulgaris,42.976002,-2.123
-1050613972,Jacobaea_vulgaris,42.5,-2.65
 1099905698,Jacobaea_vulgaris,57.059167,9.935833
 1050613946,Jacobaea_vulgaris,42.76,-3.12
 204436285,Jacobaea_vulgaris,43.155998,-2.084
@@ -707,13 +677,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050613953,Jacobaea_vulgaris,42.99,-3.01
 2304810892,Jacobaea_vulgaris,51.48,-3.61
 1806557187,Jacobaea_vulgaris,42.852578,-1.661392
-1851319101,Jacobaea_vulgaris,42.74,-6.5
 2327297080,Jacobaea_vulgaris,62.99872,8.91215
 204436279,Jacobaea_vulgaris,42.997002,-2.994
 204436280,Jacobaea_vulgaris,43.006001,-3.006
-1050613976,Jacobaea_vulgaris,43,-3
 85846382,Jacobaea_vulgaris,38.209999,-4.71
-85846384,Jacobaea_vulgaris,38.029999,-4.6
 1144184589,Jacobaea_vulgaris,60.2521,5.2678
 2313350979,Jacobaea_vulgaris,48.27,11.62
 1701777658,Jacobaea_vulgaris,63.3519,10.22
@@ -742,7 +709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 78873724,Jacobaea_vulgaris,37.35,-4.64
 1599248960,Jacobaea_vulgaris,60.943494,26.459074
 204436442,Jacobaea_vulgaris,42.669998,-2.21
-1050613982,Jacobaea_vulgaris,42.6,-2.49
 1050613961,Jacobaea_vulgaris,42.93,-2.29
 1455446897,Jacobaea_vulgaris,50.513718,4.573357
 1851355287,Jacobaea_vulgaris,42.83,-6.61
@@ -751,7 +717,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936632898,Jacobaea_vulgaris,42.5395,-2.5142
 1050613954,Jacobaea_vulgaris,42.73,-3.09
 1599248976,Jacobaea_vulgaris,60.435759,22.172382
-204436447,Jacobaea_vulgaris,42.5,-2.33
 1702418331,Jacobaea_vulgaris,60.1379,10.3233
 1657204545,Jacobaea_vulgaris,47.675,14.875
 2290260498,Jacobaea_vulgaris,50.452,6.102
@@ -782,7 +747,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851344443,Jacobaea_vulgaris,43.01,-5.39
 1806129678,Jacobaea_vulgaris,42.813533,-1.670075
 1668934349,Jacobaea_vulgaris,54.855,37.603
-2028547120,Jacobaea_vulgaris,42.1,2.7
 1806129675,Jacobaea_vulgaris,42.813333,-1.667596
 1806129712,Jacobaea_vulgaris,42.803636,-1.655391
 1702217522,Jacobaea_vulgaris,59.5522,10.371
@@ -796,12 +760,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900226790,Jacobaea_vulgaris,58.991,5.64
 1851382209,Jacobaea_vulgaris,42.92,-5.39
 1702011635,Jacobaea_vulgaris,60.315,10.4209
-1050613931,Jacobaea_vulgaris,42.8,-2.39
 465930066,Jacobaea_vulgaris,46.526242,-63.6862
 1050613969,Jacobaea_vulgaris,42.83,-2.67
 1851408601,Jacobaea_vulgaris,42.83,-5.39
-1050613963,Jacobaea_vulgaris,42.61,-2.7
-1050613980,Jacobaea_vulgaris,42.6,-2.57
 1851397718,Jacobaea_vulgaris,42.38,-6.39
 1851401311,Jacobaea_vulgaris,42.46,-6.26
 2289160294,Jacobaea_vulgaris,52.266075,6.155217
@@ -823,7 +784,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144127296,Jacobaea_vulgaris,59.2028,10.9445
 1705397239,Jacobaea_vulgaris,57.935033,11.586672
 318122335,Jacobaea_vulgaris,40.39,-5.77
-211637837,Jacobaea_vulgaris,43.049999,-6
 1260854083,Jacobaea_vulgaris,50.56666,3.45
 1701833810,Jacobaea_vulgaris,59.0907,9.6719
 1702220869,Jacobaea_vulgaris,59.2272,10.8969
@@ -878,7 +838,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702418232,Jacobaea_vulgaris,59.6211,10.2231
 1599249085,Jacobaea_vulgaris,60.987206,25.611348
 1999582678,Jacobaea_vulgaris,60.452326,22.133511
-2291310483,Jacobaea_vulgaris,47.766667,16.8
 788711211,Jacobaea_vulgaris,62.44424,17.32567
 2305578063,Jacobaea_vulgaris,52.08,-4.54
 21457315,Jacobaea_vulgaris,59.6719,10.6334
@@ -930,10 +889,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702416027,Jacobaea_vulgaris,59.4732,10.3325
 1699940740,Jacobaea_vulgaris,59.4541,10.4376
 211638025,Jacobaea_vulgaris,43.099998,-5.11
-2291310064,Jacobaea_vulgaris,50.8,1.616667
 812031942,Jacobaea_vulgaris,50.65325,9.138533
 1038203261,Jacobaea_vulgaris,53.9485,13.7483
-616356269,Jacobaea_vulgaris,50.83,5.9
 1701660023,Jacobaea_vulgaris,59.1796,11.5548
 1599248943,Jacobaea_vulgaris,64.756276,28.362055
 1699936060,Jacobaea_vulgaris,60.32605,6.17715
@@ -979,7 +936,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788726602,Jacobaea_vulgaris,58.58901,11.27879
 1705312949,Jacobaea_vulgaris,55.684949,14.215356
 788725412,Jacobaea_vulgaris,55.99167,14.087088
-2290288429,Jacobaea_vulgaris,53.5,6.15
 788728365,Jacobaea_vulgaris,56.33792,14.18788
 1599249057,Jacobaea_vulgaris,61.425961,24.842365
 1599248949,Jacobaea_vulgaris,60.522295,27.497659
@@ -1013,7 +969,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702100664,Jacobaea_vulgaris,59.4344,11.2832
 1701769421,Jacobaea_vulgaris,59.347,5.8255
 57723434,Jacobaea_vulgaris,62.266998,21.3792
-876152579,Jacobaea_vulgaris,42.23,2.7
 788728546,Jacobaea_vulgaris,57.89177,11.61518
 1599249062,Jacobaea_vulgaris,63.043208,21.55694
 465930058,Jacobaea_vulgaris,44.65887,-63.59057
@@ -1062,7 +1017,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788722717,Jacobaea_vulgaris,56.31613,14.30016
 1702418388,Jacobaea_vulgaris,59.3851,10.461
 1702157131,Jacobaea_vulgaris,59.1681,11.093
-684166153,Jacobaea_vulgaris,46.383,11.4
 788728451,Jacobaea_vulgaris,55.984255,14.269795
 1705382665,Jacobaea_vulgaris,56.156776,13.769886
 788722720,Jacobaea_vulgaris,58.01421,11.62897
@@ -1097,7 +1051,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788728568,Jacobaea_vulgaris,55.79551,13.09639
 1705331753,Jacobaea_vulgaris,56.420198,13.006585
 788722658,Jacobaea_vulgaris,56.05596,13.41788
-1988173921,Jacobaea_vulgaris,46,-60.32
 1705297723,Jacobaea_vulgaris,56.386024,12.662482
 1705442530,Jacobaea_vulgaris,59.827727,17.664181
 1701614999,Jacobaea_vulgaris,59.1876,11.0575
@@ -1109,7 +1062,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599249049,Jacobaea_vulgaris,60.545354,27.270362
 1701998457,Jacobaea_vulgaris,59.6656,10.7662
 1701925281,Jacobaea_vulgaris,60.3638,5.3505
-2289177824,Jacobaea_vulgaris,51.95,5.6
 788727746,Jacobaea_vulgaris,55.697935,13.293398
 1702416151,Jacobaea_vulgaris,58.7745,5.6272
 1701296416,Jacobaea_vulgaris,59.2832,11.115
@@ -1223,7 +1175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1288096838,Jacobaea_vulgaris,50.619583,10.051233
 1999497469,Jacobaea_vulgaris,60.458421,22.178232
 1705340555,Jacobaea_vulgaris,57.31825,15.854145
-1842871664,Jacobaea_vulgaris,41.5,2.22
 1099908630,Jacobaea_vulgaris,62.179167,27.825833
 2028615048,Jacobaea_vulgaris,62.180662,27.793547
 788731603,Jacobaea_vulgaris,56.82939,12.6175
