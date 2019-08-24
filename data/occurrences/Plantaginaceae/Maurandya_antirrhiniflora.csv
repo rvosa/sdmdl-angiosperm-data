@@ -94,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270687995,Maurandya_antirrhiniflora,33.8884,-111.365
 1843901089,Maurandya_antirrhiniflora,34.9891554815445,-106.498075955319
 1894417028,Maurandya_antirrhiniflora,18.379583,-97.584139
-1265808024,Maurandya_antirrhiniflora,30.583333,-102
 2270687997,Maurandya_antirrhiniflora,33.9674,-111.386
 1846479965,Maurandya_antirrhiniflora,35.83904,-113.33372
 1260143001,Maurandya_antirrhiniflora,33.361111,-110.811111
@@ -194,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895376938,Maurandya_antirrhiniflora,25.088322,-100.267031
 1261043598,Maurandya_antirrhiniflora,28.083,-100.35
 1894632187,Maurandya_antirrhiniflora,20.763086,-99.751261
-1699345399,Maurandya_antirrhiniflora,29.5,-103.783333
 1896149227,Maurandya_antirrhiniflora,23.786944,-97.776389
 2270613674,Maurandya_antirrhiniflora,34.9774,-112.413
 1842926935,Maurandya_antirrhiniflora,36.221137,-108.111265
@@ -212,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895376968,Maurandya_antirrhiniflora,26.465,-101.572219
 2270614859,Maurandya_antirrhiniflora,31.92,-109.978
 1895377020,Maurandya_antirrhiniflora,26.498611,-102.35
-1895376972,Maurandya_antirrhiniflora,28.783333,-102.5
 1894632211,Maurandya_antirrhiniflora,20.68675,-99.804444
 1419233691,Maurandya_antirrhiniflora,20.693333,-99.813333
 2270616164,Maurandya_antirrhiniflora,34.8687,-112.068
@@ -270,7 +267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894632343,Maurandya_antirrhiniflora,20.752778,-99.933333
 1846555667,Maurandya_antirrhiniflora,35.105778,-114.377222
 2270561447,Maurandya_antirrhiniflora,33.67,-111.35
-2270554419,Maurandya_antirrhiniflora,26.15,-101.5
 1846525325,Maurandya_antirrhiniflora,29.258333,-102.925
 1930148676,Maurandya_antirrhiniflora,36.93944,-113.34194
 2270613755,Maurandya_antirrhiniflora,36.9394,-113.351
@@ -300,7 +296,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893730833,Maurandya_antirrhiniflora,20.833333,-99.718333
 1895474342,Maurandya_antirrhiniflora,19.908697,-99.2105
 1895474295,Maurandya_antirrhiniflora,20.097125,-99.168008
-1258834510,Maurandya_antirrhiniflora,24.9,-100.19
 1259436132,Maurandya_antirrhiniflora,19.895,-99.208611
 1896048436,Maurandya_antirrhiniflora,23.771944,-98.214444
 1895798963,Maurandya_antirrhiniflora,23.808333,-97.825
@@ -327,7 +322,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270614719,Maurandya_antirrhiniflora,32.3612,-110.225
 1896048465,Maurandya_antirrhiniflora,32.380556,-110.244444
 2270615181,Maurandya_antirrhiniflora,33.96,-111.84
-1261180655,Maurandya_antirrhiniflora,24.01,-100.4
 1897526072,Maurandya_antirrhiniflora,22.178906,-102.351186
 1913940157,Maurandya_antirrhiniflora,25.25,-105.658333
 1896048473,Maurandya_antirrhiniflora,24.2175,-99.3925
@@ -423,8 +417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894632298,Maurandya_antirrhiniflora,20.80375,-99.723722
 2270614211,Maurandya_antirrhiniflora,32.9268,-110.543
 1846524423,Maurandya_antirrhiniflora,33.136121,-111.203227
-1611941794,Maurandya_antirrhiniflora,31.85,-106.5
-1699347179,Maurandya_antirrhiniflora,32,-106.5
 1896048457,Maurandya_antirrhiniflora,36.353889,-114.0025
 1611941784,Maurandya_antirrhiniflora,30.533333,-104.05
 1611941791,Maurandya_antirrhiniflora,31.95,-106.483333
@@ -435,10 +427,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270553622,Maurandya_antirrhiniflora,28.58333,-105.8833
 1895960126,Maurandya_antirrhiniflora,18.479167,-97.494444
 1896048451,Maurandya_antirrhiniflora,18.450833,-97.345
-1611941812,Maurandya_antirrhiniflora,31.783333,-106.5
 1896149232,Maurandya_antirrhiniflora,18.461111,-97.391944
 1563372519,Maurandya_antirrhiniflora,31.905278,-106.469167
-1611941792,Maurandya_antirrhiniflora,31.8,-106.483333
 1895474300,Maurandya_antirrhiniflora,24.569428,-100.269031
 1563372511,Maurandya_antirrhiniflora,31.783333,-106.033333
 1893730850,Maurandya_antirrhiniflora,18.461667,-97.393333
@@ -461,7 +451,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846524273,Maurandya_antirrhiniflora,33.79678,-110.96818
 1843885094,Maurandya_antirrhiniflora,32.677166,-106.555722
 1843885676,Maurandya_antirrhiniflora,32.175707,-104.376613
-2270553610,Maurandya_antirrhiniflora,20.116667,-98.7
 1895298769,Maurandya_antirrhiniflora,20.1064208962085,-98.6848173313438
 1843885682,Maurandya_antirrhiniflora,32.657449,-106.461269
 1896048453,Maurandya_antirrhiniflora,21.155833,-100.495833
@@ -478,23 +467,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896048439,Maurandya_antirrhiniflora,19.891667,-98.829167
 2270613705,Maurandya_antirrhiniflora,33.095,-111.224
 2270615044,Maurandya_antirrhiniflora,31.66465,-110.69511
-1895412715,Maurandya_antirrhiniflora,26.5,-100.808333
-1895376959,Maurandya_antirrhiniflora,24,-101.666667
-2270553133,Maurandya_antirrhiniflora,26.5,-101.833333
 1895298897,Maurandya_antirrhiniflora,19.600278,-98.968611
 2270614128,Maurandya_antirrhiniflora,34.65,-111.833
 1895474372,Maurandya_antirrhiniflora,24.641667,-101.533333
 1896048446,Maurandya_antirrhiniflora,21.316389,-102.571389
 1895376911,Maurandya_antirrhiniflora,24.5938910613512,-102.217794234024
 1846523975,Maurandya_antirrhiniflora,32.897492,-110.443509
-1611941783,Maurandya_antirrhiniflora,30.9,-105.066667
 1895377035,Maurandya_antirrhiniflora,24.6798801724115,-102.048896572053
-1896048434,Maurandya_antirrhiniflora,36.5,-111.8
 1895376878,Maurandya_antirrhiniflora,27.766667,-102.833333
 2270615167,Maurandya_antirrhiniflora,32.333,-109.069
 1895798958,Maurandya_antirrhiniflora,22.808333,-99.925
 1895474277,Maurandya_antirrhiniflora,27.35,-104.666667
-1895474290,Maurandya_antirrhiniflora,31.4,-106.416667
 1896048427,Maurandya_antirrhiniflora,25.601944,-100.869444
 1896048450,Maurandya_antirrhiniflora,27.695833,-105.465833
 2270616448,Maurandya_antirrhiniflora,33.5542,-111.442
@@ -504,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896048483,Maurandya_antirrhiniflora,20.472222,-99.2025
 1895376934,Maurandya_antirrhiniflora,26.22778,-102.795
 1895377048,Maurandya_antirrhiniflora,24.6649,-101.768081
-1895376879,Maurandya_antirrhiniflora,25.416667,-101.2
 1895412720,Maurandya_antirrhiniflora,26.30218,-100.777136
 1843885711,Maurandya_antirrhiniflora,33.160082,-105.85557
 1895377012,Maurandya_antirrhiniflora,27.15,-101.251667
@@ -520,11 +502,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895474360,Maurandya_antirrhiniflora,27.011803,-102.080458
 1896048469,Maurandya_antirrhiniflora,20.895833,-99.704167
 1896048454,Maurandya_antirrhiniflora,20.738056,-99.915
-1895377019,Maurandya_antirrhiniflora,29.516667,-112.4
 2270614798,Maurandya_antirrhiniflora,33.9077,-111.467
 2270553896,Maurandya_antirrhiniflora,27.022641,-102.091184
 2270551719,Maurandya_antirrhiniflora,27.005092,-101.86693
-2270555652,Maurandya_antirrhiniflora,27,-101.866667
 2270553763,Maurandya_antirrhiniflora,26.912924,-102.128992
 2270616577,Maurandya_antirrhiniflora,33.62,-111.29
 1896048431,Maurandya_antirrhiniflora,32.211944,-111.132222
@@ -609,7 +589,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843885325,Maurandya_antirrhiniflora,32.622169,-106.536551
 1846525296,Maurandya_antirrhiniflora,32.658066,-110.694245
 1259438376,Maurandya_antirrhiniflora,25.000533,-103.000633
-1259437337,Maurandya_antirrhiniflora,23.9,-101.75
 1895376991,Maurandya_antirrhiniflora,24.2790193998917,-97.7906501119224
 1895474245,Maurandya_antirrhiniflora,26.9011231397994,-101.41824955756
 1895376971,Maurandya_antirrhiniflora,26.2964265082761,-101.348515029421
