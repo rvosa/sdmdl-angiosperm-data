@@ -8,7 +8,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094187509,Salvia_dominica,32.8,35.64
 1094187558,Salvia_dominica,33,35.55
 1094186156,Salvia_dominica,31.52,34.78
-1094185921,Salvia_dominica,31.8,35.32
 1094181775,Salvia_dominica,32.5,35.4
 1094186210,Salvia_dominica,31.67,35.02
 1094186202,Salvia_dominica,31.83,35
@@ -21,7 +20,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094187148,Salvia_dominica,31.58,35
 1094187157,Salvia_dominica,31.53,34.98
 1094187163,Salvia_dominica,31.49,35.18
-1697864368,Salvia_dominica,34.663889,32.888889
 1094185583,Salvia_dominica,31.7,34.91
 1094185591,Salvia_dominica,31.68,34.96
 1094186063,Salvia_dominica,31.69,34.93
@@ -29,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094185481,Salvia_dominica,32.82,35.64
 1094185469,Salvia_dominica,32.77,35.66
 1094185417,Salvia_dominica,32.68,35.64
-1094186880,Salvia_dominica,31.78,35.24
 1094200992,Salvia_dominica,31.83,34.9
 1094196450,Salvia_dominica,31.65,35.21
 575056678,Salvia_dominica,31.666667,35.25
@@ -68,11 +65,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094189013,Salvia_dominica,31.04,34.7
 1094189278,Salvia_dominica,30.87,34.76
 1094191238,Salvia_dominica,32.68,35.66
-1094197456,Salvia_dominica,31.76,35.27
 1094199921,Salvia_dominica,31.95,34.92
 1094188291,Salvia_dominica,31.81,35.34
 1094197949,Salvia_dominica,31.66,35.24
-1094199891,Salvia_dominica,31.79,35.25
 1094197907,Salvia_dominica,32.53,35.38
 1094190491,Salvia_dominica,32.5,35.45
 1094199985,Salvia_dominica,32.7,35.4
@@ -82,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094188814,Salvia_dominica,31.35,34.94
 474868642,Salvia_dominica,32.77471,35.7015
 474653652,Salvia_dominica,32.77943,35.703
-1094193617,Salvia_dominica,31.79,35.24
 1094189457,Salvia_dominica,32.51,35.42
 1094194685,Salvia_dominica,31.8,35.33
 1094190525,Salvia_dominica,31.9,34.8
@@ -91,10 +85,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094188647,Salvia_dominica,31.66,34.54
 1094188639,Salvia_dominica,31.21,35.02
 1094192000,Salvia_dominica,32.56,35.39
-1094191283,Salvia_dominica,31.73,35.29
 1094196501,Salvia_dominica,32.55,35.18
-1094197621,Salvia_dominica,31.76,35.22
-1094199901,Salvia_dominica,31.77,35.22
 1094199106,Salvia_dominica,31.46,35.38
 1094193558,Salvia_dominica,31.51,35.15
 1094197092,Salvia_dominica,32.48,35.38
