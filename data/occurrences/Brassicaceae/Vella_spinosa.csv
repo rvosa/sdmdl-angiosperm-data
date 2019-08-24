@@ -43,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936433322,Vella_spinosa,36.8867,-4.0224
 30980108,Vella_spinosa,37.72,-2.26
 1936428899,Vella_spinosa,37.954,-2.5687
-29752861,Vella_spinosa,38.68,-0.3
 30899648,Vella_spinosa,36.860001,-4.01
 30900033,Vella_spinosa,36.860001,-4.12
 860318648,Vella_spinosa,37.09,-3.39
@@ -53,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936428426,Vella_spinosa,38.6438,-0.2666
 1936405098,Vella_spinosa,37.1247,-3.4403
 1936376541,Vella_spinosa,37.043,-3.5635
-895217081,Vella_spinosa,37.99,-2.6
 1936093990,Vella_spinosa,36.864,-2.889
 1936100799,Vella_spinosa,37.3104,-4.0169
 1936106953,Vella_spinosa,37.1156,-3.4515
@@ -74,5 +72,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936058025,Vella_spinosa,37.1067,-3.4176
 1936571352,Vella_spinosa,37.1157,-3.4402
 1936571350,Vella_spinosa,36.8911,-2.8778
-860320377,Vella_spinosa,36.8,-5.41
 1935908077,Vella_spinosa,36.9091,-2.8328
