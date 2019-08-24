@@ -4,10 +4,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1291803292,Lysionotus_pauciflorus,23.094722,105.028333
 1265816802,Lysionotus_pauciflorus,38.541667,-121.772222
 919594944,Lysionotus_pauciflorus,23.012914,104.394161
-203611954,Lysionotus_pauciflorus,23,120
 891589249,Lysionotus_pauciflorus,24.505556,121.141667
-203611953,Lysionotus_pauciflorus,24,121
-203611958,Lysionotus_pauciflorus,24,120
 574826382,Lysionotus_pauciflorus,23.240556,105.565278
 891591444,Lysionotus_pauciflorus,24.566667,121.283333
 919598151,Lysionotus_pauciflorus,23.125462,104.702829
@@ -16,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788854515,Lysionotus_pauciflorus,26.293056,110.789167
 891594694,Lysionotus_pauciflorus,24.57,121.393611
 1030915376,Lysionotus_pauciflorus,25.107246,108.315175
-203611983,Lysionotus_pauciflorus,23,121
 891596531,Lysionotus_pauciflorus,23.685278,120.798333
 919578069,Lysionotus_pauciflorus,23.363,104.250727
 919578032,Lysionotus_pauciflorus,23.437468,104.672252
@@ -152,7 +148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303611448,Lysionotus_pauciflorus,28.890891,108.658379
 891658069,Lysionotus_pauciflorus,23.9075,121.435556
 891658043,Lysionotus_pauciflorus,24.550556,121.799722
-891658035,Lysionotus_pauciflorus,24.1,121.181944
 891658060,Lysionotus_pauciflorus,24.231667,121.643333
 1303977538,Lysionotus_pauciflorus,23.605727,104.337169
 1031001193,Lysionotus_pauciflorus,24.905949,108.842336
