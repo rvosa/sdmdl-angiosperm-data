@@ -11,16 +11,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260096111,Begonia_meyeri-johannis,-7.11166,36.64111
 574931171,Begonia_meyeri-johannis,-6.95,37.65
 2290663415,Begonia_meyeri-johannis,-6.948367,37.6447
-574772205,Begonia_meyeri-johannis,-7.108333,37.6
-1260350640,Begonia_meyeri-johannis,-7.683333,36.9
 1936684958,Begonia_meyeri-johannis,-6.0669,37.4981
 1260058816,Begonia_meyeri-johannis,-6.06694,37.49805
 1936628524,Begonia_meyeri-johannis,-3.2333,37.5167
 2290184771,Begonia_meyeri-johannis,-7.111944,36.640556
 1258952713,Begonia_meyeri-johannis,-7.11194,36.64055
 1258776995,Begonia_meyeri-johannis,-7.75,36.45
-1259260868,Begonia_meyeri-johannis,-0.3,30.48333
-1096839480,Begonia_meyeri-johannis,-0.3,30.48
 1258495851,Begonia_meyeri-johannis,1.71666,31.53333
 2291772873,Begonia_meyeri-johannis,-0.35,37.483333
 2291772461,Begonia_meyeri-johannis,-8.35,35.966667
@@ -31,10 +27,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260209017,Begonia_meyeri-johannis,-9.01666,33.55
 1260196370,Begonia_meyeri-johannis,-9.06666,33.61666
 2291773062,Begonia_meyeri-johannis,-9.066667,33.616667
-1260206205,Begonia_meyeri-johannis,-9,33.55
 1260206350,Begonia_meyeri-johannis,-8.41666,35.75
-2289375108,Begonia_meyeri-johannis,-8.5,35.85
-2289324338,Begonia_meyeri-johannis,-0.3,30.483333
 2291773380,Begonia_meyeri-johannis,-0.25,37.583333
 1260214121,Begonia_meyeri-johannis,-8.66666,35.25
 2288883544,Begonia_meyeri-johannis,-8.666667,35.25
@@ -52,7 +45,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1098572755,Begonia_meyeri-johannis,-2.29,29.12
 1098573272,Begonia_meyeri-johannis,-2.11,28.37
 2288849515,Begonia_meyeri-johannis,-2.116667,28.916667
-1098573327,Begonia_meyeri-johannis,-2.23,28.3
 2290669226,Begonia_meyeri-johannis,-2.416667,29.133333
 2288695009,Begonia_meyeri-johannis,-0.133333,29.416667
 1098572922,Begonia_meyeri-johannis,-1.47,28.53
