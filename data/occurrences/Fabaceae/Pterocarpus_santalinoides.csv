@@ -99,7 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455952772,Pterocarpus_santalinoides,1.384,-58.7746
 1455965158,Pterocarpus_santalinoides,1.4245,-58.8612
 1257530435,Pterocarpus_santalinoides,1.420278,-58.880278
-1260608657,Pterocarpus_santalinoides,4.2,-51.66666
 1423924654,Pterocarpus_santalinoides,-1.152222,-57.189722
 1424795518,Pterocarpus_santalinoides,9.093333,1.89
 1087376613,Pterocarpus_santalinoides,-1.618889,-48.8125
@@ -161,7 +160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47838017,Pterocarpus_santalinoides,13.05,-13.316
 1261884414,Pterocarpus_santalinoides,5.695,-0.28666
 2291734412,Pterocarpus_santalinoides,5.695,-0.286667
-621084970,Pterocarpus_santalinoides,5.417,-0.172
 2252235735,Pterocarpus_santalinoides,7.42,0.1
 1261882633,Pterocarpus_santalinoides,7.11166,0.60277
 1944985433,Pterocarpus_santalinoides,-6.233333,-48.433333
@@ -182,9 +180,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927994622,Pterocarpus_santalinoides,-7.63,-72.73
 1042712031,Pterocarpus_santalinoides,-7.6,-72.7
 1089051523,Pterocarpus_santalinoides,-19.2,-57.452778
-2252234751,Pterocarpus_santalinoides,5.12,0.42
 2289189306,Pterocarpus_santalinoides,5.553333,-0.311667
-621084817,Pterocarpus_santalinoides,5.332,-0.187
 1261874734,Pterocarpus_santalinoides,5.55333,-0.31166
 47837996,Pterocarpus_santalinoides,13.016,-13.216
 47837998,Pterocarpus_santalinoides,12.716,-12.766
@@ -293,7 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424778082,Pterocarpus_santalinoides,-23.2025,-58.1689
 2291734257,Pterocarpus_santalinoides,7.416667,3.366667
 1261503779,Pterocarpus_santalinoides,7.416667,3.533333
-1828917741,Pterocarpus_santalinoides,70.42,3.37
 1261546992,Pterocarpus_santalinoides,-11.133333,-66.166667
 1258014021,Pterocarpus_santalinoides,6,-57.833333
 1424778015,Pterocarpus_santalinoides,4.7364,-58.7017
@@ -302,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258013492,Pterocarpus_santalinoides,-4.066667,-49.916667
 2289765708,Pterocarpus_santalinoides,13.6,-8.533333
 1087319685,Pterocarpus_santalinoides,4,-57.5
-1931200705,Pterocarpus_santalinoides,-0.875396,-48.512315
 1258499715,Pterocarpus_santalinoides,-4.16666,-72.83333
 1828937008,Pterocarpus_santalinoides,-1.42,-61.08
 1928184197,Pterocarpus_santalinoides,-1.417,-61.208
@@ -372,7 +366,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291733957,Pterocarpus_santalinoides,5.333333,-4.15
 437149998,Pterocarpus_santalinoides,-14.63333,-52.23333
 1423994987,Pterocarpus_santalinoides,-14.633333,-52.233333
-2289837151,Pterocarpus_santalinoides,6.483333,2.6
 621119221,Pterocarpus_santalinoides,9.32,-1.23
 2291734483,Pterocarpus_santalinoides,7.55,-8.566667
 621091126,Pterocarpus_santalinoides,6.27,-8.39
@@ -395,7 +388,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703342294,Pterocarpus_santalinoides,9.26667,-3
 2288767347,Pterocarpus_santalinoides,6.683333,-8.783333
 621119215,Pterocarpus_santalinoides,8.28,-13.13
-2289004954,Pterocarpus_santalinoides,8.466667,-13.216667
 2289020851,Pterocarpus_santalinoides,8.2,-12.066667
 2291733724,Pterocarpus_santalinoides,8.425,9.041667
 1844891366,Pterocarpus_santalinoides,6.212789,-7.49329
@@ -440,7 +432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 621160696,Pterocarpus_santalinoides,5.07,-2.56
 1456086839,Pterocarpus_santalinoides,9.35,-60.92
 2290325933,Pterocarpus_santalinoides,5.333333,-4.1
-621119232,Pterocarpus_santalinoides,4.52,-2.14
 2289646463,Pterocarpus_santalinoides,4.866667,-2.233333
 1828947262,Pterocarpus_santalinoides,0.5,-70.17
 1928991402,Pterocarpus_santalinoides,-1.552018,-47.113774
@@ -454,8 +445,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289914456,Pterocarpus_santalinoides,6.45,3.433333
 1090544920,Pterocarpus_santalinoides,-3.3542,-64.7114
 1090543735,Pterocarpus_santalinoides,-2.5139,-66.0917
-621119238,Pterocarpus_santalinoides,5.31,-0.19
-2252233876,Pterocarpus_santalinoides,5.31,0.19
 2252233748,Pterocarpus_santalinoides,6.1,0.33
 621119240,Pterocarpus_santalinoides,6.1,-0.33
 2288736615,Pterocarpus_santalinoides,6.133333,-10.383333
@@ -467,8 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2013766420,Pterocarpus_santalinoides,-1.443009,-72.793385
 1424778027,Pterocarpus_santalinoides,3.8811,-72.8667
 1929785874,Pterocarpus_santalinoides,-1.438098,-48.44475
-2252233770,Pterocarpus_santalinoides,1.23,0.22
-621119239,Pterocarpus_santalinoides,1.23,-0.22
 1456099972,Pterocarpus_santalinoides,8.13,-59.81
 1928920542,Pterocarpus_santalinoides,-1.534215,-52.636156
 621160700,Pterocarpus_santalinoides,7.37,0.19
@@ -479,7 +466,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929405756,Pterocarpus_santalinoides,-9.12,-62.17
 1929257844,Pterocarpus_santalinoides,-1.12,-48.4
 1456013627,Pterocarpus_santalinoides,7.65,-58.93
-2252234885,Pterocarpus_santalinoides,5.34,0.18
 1456245663,Pterocarpus_santalinoides,5.61,-58.35
 1456366075,Pterocarpus_santalinoides,8.3,-59.7
 621160705,Pterocarpus_santalinoides,10.5,-2.42
@@ -487,7 +473,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456245904,Pterocarpus_santalinoides,7.61,-58.86
 1456266181,Pterocarpus_santalinoides,6,-58.31
 1455956264,Pterocarpus_santalinoides,7.65,-58.95
-621160703,Pterocarpus_santalinoides,4.53,-2.17
 621160704,Pterocarpus_santalinoides,6.44,-1.12
 1988326036,Pterocarpus_santalinoides,5.95,6.833333
 1988326057,Pterocarpus_santalinoides,7.55,-12.7
