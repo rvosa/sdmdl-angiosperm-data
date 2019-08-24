@@ -117,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56632447,Platanus_occidentalis,34.00139,-86.36833
 415950406,Platanus_occidentalis,41.905,-72.70194
 1228582651,Platanus_occidentalis,41.8333,-88.0833
-1258500735,Platanus_occidentalis,38.6,-90.25
 415948891,Platanus_occidentalis,41.90027,-72.67916
 177006291,Platanus_occidentalis,38.135123,-94.873492
 177006077,Platanus_occidentalis,38.192854,-94.686015
@@ -150,7 +149,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177005976,Platanus_occidentalis,37.268597,-95.205974
 177006102,Platanus_occidentalis,37.71369,-95.33582
 177005977,Platanus_occidentalis,37.268836,-95.185543
-1050581354,Platanus_occidentalis,42.9,-2.62
 1261371605,Platanus_occidentalis,38.610833,-90.258611
 1989417693,Platanus_occidentalis,42.31601,-85.32127
 1260979115,Platanus_occidentalis,36.52694,-91.82722
@@ -162,20 +160,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1319829064,Platanus_occidentalis,38.8994,-77.0575
 1228383058,Platanus_occidentalis,41.5833,-88.4333
 415927706,Platanus_occidentalis,41.79555,-72.71555
-1930461258,Platanus_occidentalis,40,-74.97
 415900353,Platanus_occidentalis,40.775,-74.48333
 1261371552,Platanus_occidentalis,38.618056,-90.368056
 1261371533,Platanus_occidentalis,38.85833,-90.14444
 1258088412,Platanus_occidentalis,37.90056,-84.268333
 1261371483,Platanus_occidentalis,38.86111,-90.15277
-1269693963,Platanus_occidentalis,39.5,-84.75
 1261039515,Platanus_occidentalis,25.55,-100.36
 1260938262,Platanus_occidentalis,38.20472,-91.09611
 1261371612,Platanus_occidentalis,38.875,-90.19444
 177006264,Platanus_occidentalis,38.807847,-95.191136
 415927464,Platanus_occidentalis,41.67583,-73.50944
 1269693983,Platanus_occidentalis,37.049999,-79.883003
-1261371510,Platanus_occidentalis,39.06666,-77
 1275087883,Platanus_occidentalis,41.422222,-74.026944
 415932250,Platanus_occidentalis,41.90305,-72.29166
 233101108,Platanus_occidentalis,38.024369,-91.203215
@@ -227,8 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893410412,Platanus_occidentalis,30.375,-107.958333
 1259906041,Platanus_occidentalis,27.95,-101.58333
 1899348244,Platanus_occidentalis,43.816667,-79.166667
-883391330,Platanus_occidentalis,38.55,-91
-883391381,Platanus_occidentalis,37.433333,-90.2
 177006286,Platanus_occidentalis,38.06879,-97.57765
 177006158,Platanus_occidentalis,37.91104,-96.74
 177005943,Platanus_occidentalis,38.41469,-95.69519
@@ -251,7 +244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899312750,Platanus_occidentalis,42.25,-81.85
 1260947141,Platanus_occidentalis,39.66638,-91.89388
 415923748,Platanus_occidentalis,41.92111,-73.06055
-415923749,Platanus_occidentalis,32.36666,-86.3
 415940184,Platanus_occidentalis,25.77388,-80.19388
 177005909,Platanus_occidentalis,39.85239,-95.37533
 177005934,Platanus_occidentalis,37.18073,-95.69011
@@ -414,7 +406,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1576179476,Platanus_occidentalis,5.055659,-75.495525
 1576179464,Platanus_occidentalis,5.152818,-75.491488
 1657195629,Platanus_occidentalis,47.07861,15.46056
-1322530302,Platanus_occidentalis,38.8667,-77.1
 465912445,Platanus_occidentalis,45.09271,-64.36132
 1321382810,Platanus_occidentalis,38.8242,-77.7111
 1899360884,Platanus_occidentalis,42.845417,-79.09588
