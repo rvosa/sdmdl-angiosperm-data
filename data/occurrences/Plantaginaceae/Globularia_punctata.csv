@@ -16,9 +16,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1837901494,Globularia_punctata,48.932777,11.793056
 1837901588,Globularia_punctata,50.502224,6.601944
 1839017150,Globularia_punctata,41.29361,24.040279
-1839017048,Globularia_punctata,41.297779,24
 1839017153,Globularia_punctata,41.315281,23.994169
-1947167904,Globularia_punctata,50.23,10.2
 1978870094,Globularia_punctata,48.295,16.74556
 1933400000,Globularia_punctata,46.35833,11.22611
 1584381303,Globularia_punctata,47.92083,16.68417
@@ -45,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935692329,Globularia_punctata,47.77861,16.58194
 31961146,Globularia_punctata,42.057,0.746
 1657184166,Globularia_punctata,46.38417,12.66972
-1936623966,Globularia_punctata,42.5714,1.6
 12233008,Globularia_punctata,46.5671,4.90051
 1936615985,Globularia_punctata,42.3378,13.5914
 895187568,Globularia_punctata,42.3333,13.5833
@@ -86,7 +83,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701523452,Globularia_punctata,48.0325,16.25583
 2288343731,Globularia_punctata,47.066667,7.066667
 860322509,Globularia_punctata,42.246,-0.339
-2289136084,Globularia_punctata,46.2,14.616667
 1936362664,Globularia_punctata,40.1046,-2.0626
 1260851912,Globularia_punctata,49.28305,4.68305
 2289011178,Globularia_punctata,50.452,6.102
@@ -94,7 +90,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937489842,Globularia_punctata,45.045833,6.304722
 1935692409,Globularia_punctata,47.50583,14.44639
 1845009211,Globularia_punctata,49.985278,8.039167
-1230798128,Globularia_punctata,47.96667,16.2
 1935692432,Globularia_punctata,47.16556,15.30944
 1935692413,Globularia_punctata,47.11833,15.37917
 911973826,Globularia_punctata,50.581767,6.77025
@@ -102,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935692480,Globularia_punctata,47.65306,14.76389
 165390673,Globularia_punctata,41.87,2.82
 2291977454,Globularia_punctata,43.516667,3.516667
-786157206,Globularia_punctata,48.1,7.3
 1697664029,Globularia_punctata,52.478458,48.098907
 2313345862,Globularia_punctata,48.22,11.62
 2313347039,Globularia_punctata,48.27,11.54
