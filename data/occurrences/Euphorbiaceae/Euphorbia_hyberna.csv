@@ -22,7 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 11267031,Euphorbia_hyberna,47.4998,4.61984
 204427973,Euphorbia_hyberna,42.925999,-4.342
 198469206,Euphorbia_hyberna,42.93,-4.34
-1060327812,Euphorbia_hyberna,52,-9.5
 2291966484,Euphorbia_hyberna,42.683333,2.033333
 1851348242,Euphorbia_hyberna,42.99621,-5.52837
 1851373639,Euphorbia_hyberna,42.7161,-6.2822
@@ -130,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204427441,Euphorbia_hyberna,42.964001,-1.142
 1050583792,Euphorbia_hyberna,43,-2.02
 1851410390,Euphorbia_hyberna,42.92,-6.37
-1851401508,Euphorbia_hyberna,43.63,-5.91
 204427746,Euphorbia_hyberna,43.033001,-2.65
 204427747,Euphorbia_hyberna,43.048,-3.927
 204427748,Euphorbia_hyberna,43.176998,-3.203
@@ -180,12 +178,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144676478,Euphorbia_hyberna,42.60333,2.44889
 1144676438,Euphorbia_hyberna,45.71889,3.18694
 1936006849,Euphorbia_hyberna,42.967,-5.3311
-211627084,Euphorbia_hyberna,43.59,-5.94
 211627129,Euphorbia_hyberna,43.18,-5.93
 30866794,Euphorbia_hyberna,43.16,-4.97
 1260847518,Euphorbia_hyberna,46.49388,5.38333
 2288558201,Euphorbia_hyberna,45.583333,2.833333
-30866792,Euphorbia_hyberna,39.48,3.23
 30866793,Euphorbia_hyberna,42.790001,-6.92
 1144676460,Euphorbia_hyberna,46.07889,1.99222
 1851394852,Euphorbia_hyberna,43.13,-8.69
