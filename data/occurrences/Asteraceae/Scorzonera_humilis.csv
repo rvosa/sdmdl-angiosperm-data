@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844870066,Scorzonera_humilis,43.31,-1.75
 1882284675,Scorzonera_humilis,48.86,10.81
 1882283454,Scorzonera_humilis,48.89,10.82
-1060599401,Scorzonera_humilis,53.3,9.7
 1702374151,Scorzonera_humilis,59.2453,11.4461
 1702508813,Scorzonera_humilis,43.04,-1.62
 1842850840,Scorzonera_humilis,42.975,-3.95
@@ -50,7 +49,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 436716303,Scorzonera_humilis,48.65333,6.24083
 788576065,Scorzonera_humilis,51.07989,16.38088
 1701850246,Scorzonera_humilis,59.1437,11.2196
-1697699486,Scorzonera_humilis,57.1,30.566667
 1701853747,Scorzonera_humilis,59.3785,11.7379
 1701855026,Scorzonera_humilis,59.3227,11.4165
 1702233532,Scorzonera_humilis,59.3291,11.3861
@@ -59,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697699552,Scorzonera_humilis,54.711667,35.866667
 1148497122,Scorzonera_humilis,58.98806,24.64417
 932706667,Scorzonera_humilis,41.82511,-8.06216
-1697699449,Scorzonera_humilis,54.5,36.366667
 1148497128,Scorzonera_humilis,58.99083,24.63361
 1702228817,Scorzonera_humilis,59.123,11.4607
 1702214163,Scorzonera_humilis,58.8943,11.5192
@@ -73,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701853615,Scorzonera_humilis,59.2608,11.1952
 1935723139,Scorzonera_humilis,47.75,15.35556
 1701595667,Scorzonera_humilis,59.1174,11.4254
-786271758,Scorzonera_humilis,48.1,9
 1701839551,Scorzonera_humilis,58.9289,11.6468
 1697699625,Scorzonera_humilis,54.538258,36.135997
 1947595530,Scorzonera_humilis,50.27,9.87
@@ -84,7 +80,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701842264,Scorzonera_humilis,59.3199,11.5743
 895164239,Scorzonera_humilis,40.1991,-1.969
 1702184918,Scorzonera_humilis,59.1392,11.752
-1882284622,Scorzonera_humilis,48.86,10.8
 1936642520,Scorzonera_humilis,42.8697,-3.9562
 1882287085,Scorzonera_humilis,48.69,10.84
 1701402189,Scorzonera_humilis,59.2413,11.478
@@ -130,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702172836,Scorzonera_humilis,59.2495,11.4225
 1439646943,Scorzonera_humilis,42.41,2.82
 1848994678,Scorzonera_humilis,48.19528,16.21917
-1439646945,Scorzonera_humilis,42.4,1.85
 1701986955,Scorzonera_humilis,59.061,11.5789
 1705356973,Scorzonera_humilis,57.691011,14.898107
 1600532932,Scorzonera_humilis,60.294138,24.546461
@@ -149,7 +143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842861593,Scorzonera_humilis,40.732,-1.94
 1936430030,Scorzonera_humilis,43.5151,-6.2177
 1342956805,Scorzonera_humilis,57.435578,9.97307
-318121085,Scorzonera_humilis,40.5,-1.57
 895280330,Scorzonera_humilis,40.503,-1.578
 1697699418,Scorzonera_humilis,52.542933,38.051869
 318121045,Scorzonera_humilis,42.86,-6.81
@@ -170,12 +163,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935723820,Scorzonera_humilis,47.48528,16.50806
 895275570,Scorzonera_humilis,40.246,-2.03
 57723019,Scorzonera_humilis,62.2495,25.755501
-1668935572,Scorzonera_humilis,54.888,37.6
 1600532938,Scorzonera_humilis,60.579712,23.373955
 1851330971,Scorzonera_humilis,42.84,-6.86
 1999553450,Scorzonera_humilis,60.131642,23.326082
 895272751,Scorzonera_humilis,40.235,-1.795
-1099083430,Scorzonera_humilis,47.5,11.15
 1702251834,Scorzonera_humilis,58.9664,11.4905
 1697699571,Scorzonera_humilis,54.723881,35.828268
 1924395742,Scorzonera_humilis,47.674129,11.623632
@@ -249,12 +240,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204435264,Scorzonera_humilis,43.334,-1.884
 1050613097,Scorzonera_humilis,43.07,-2.63
 1712606137,Scorzonera_humilis,42.30835,-1.806135
-1050613098,Scorzonera_humilis,42.6,-2.48
 1600533104,Scorzonera_humilis,60.126905,23.856893
 1600532913,Scorzonera_humilis,60.078162,23.699738
 1600532912,Scorzonera_humilis,60.664366,27.810772
 1705334681,Scorzonera_humilis,57.411379,15.317695
-1439646937,Scorzonera_humilis,42.4,1.72
 204435495,Scorzonera_humilis,43.150002,-3.437
 1050649097,Scorzonera_humilis,43.09,-2.63
 204435499,Scorzonera_humilis,42.969002,-2.503
@@ -316,7 +305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842868007,Scorzonera_humilis,42.32,2.33
 1697699507,Scorzonera_humilis,54.791646,40.253736
 1697699488,Scorzonera_humilis,54.921568,40.343428
-1038235804,Scorzonera_humilis,54.5,9.683056
 1701829091,Scorzonera_humilis,59.3212,10.7316
 1702164435,Scorzonera_humilis,59.3181,10.738
 1600533100,Scorzonera_humilis,60.149068,23.845886
@@ -358,7 +346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788789808,Scorzonera_humilis,57.34137,12.10633
 788767013,Scorzonera_humilis,56.307414,13.089862
 1999553352,Scorzonera_humilis,60.169736,23.591391
-786271801,Scorzonera_humilis,54.4,10.1
 1999584606,Scorzonera_humilis,60.493645,23.439036
 1600533022,Scorzonera_humilis,60.238686,23.837267
 1705320173,Scorzonera_humilis,56.596794,12.995891
