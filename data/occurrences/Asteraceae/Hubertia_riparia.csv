@@ -17,7 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1148465853,Hubertia_riparia,58.339444,27.268333
 1148465876,Hubertia_riparia,58.096944,26.071667
 1697439500,Hubertia_riparia,56.154167,42.95
-1697439470,Hubertia_riparia,60.6,45.6
 1148465838,Hubertia_riparia,58.407222,26.060556
 1936231601,Hubertia_riparia,55.875,26.485
 1148465860,Hubertia_riparia,57.889722,27.736389
@@ -43,7 +42,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1148497148,Hubertia_riparia,58.40556,26.05556
 1697439543,Hubertia_riparia,51.818802,42.400044
 1697439509,Hubertia_riparia,55.364674,40.198288
-2309942902,Hubertia_riparia,51.5,5.53
 230819329,Hubertia_riparia,51.870977,5.888152
 1831336859,Hubertia_riparia,53.3485,10.7488
 1697439545,Hubertia_riparia,60.319491,38.682279
@@ -90,7 +88,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638428942,Hubertia_riparia,47.51694,14.40278
 1935724240,Hubertia_riparia,47.51611,14.39944
 1935724501,Hubertia_riparia,47.51944,14.39167
-1099093186,Hubertia_riparia,47.75,23
 1144768052,Hubertia_riparia,47.38028,14.86639
 1935724202,Hubertia_riparia,47.51944,14.39139
 1697439542,Hubertia_riparia,54.3966,40.8921
@@ -103,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848996673,Hubertia_riparia,48.27889,16.90944
 1697439593,Hubertia_riparia,54.6198,40.8774
 1935724220,Hubertia_riparia,47.50583,14.44639
-684166447,Hubertia_riparia,45.8,11.433333
 1697439590,Hubertia_riparia,53.45862,49.806519
 1099093181,Hubertia_riparia,48.363888,9.716666
 2288883159,Hubertia_riparia,52.011521,4.710463
