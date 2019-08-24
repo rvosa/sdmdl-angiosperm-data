@@ -167,7 +167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996618703,Lechenaultia_biloba,-31.983056,116.671944
 996640743,Lechenaultia_biloba,-32.159058,116.033707
 996642493,Lechenaultia_biloba,-32.151836,116.039263
-994020778,Lechenaultia_biloba,-35.2667,149.1167
 995127152,Lechenaultia_biloba,-31.0922,115.7636
 996689291,Lechenaultia_biloba,-31.85,116.75
 996596560,Lechenaultia_biloba,-31.440436,116.330084
@@ -198,19 +197,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936830121,Lechenaultia_biloba,-32.0167,116.1
 1936867203,Lechenaultia_biloba,-32.3667,117
 996508628,Lechenaultia_biloba,-31.178056,116.176944
-993987459,Lechenaultia_biloba,-35.2833,149.1167
 996573580,Lechenaultia_biloba,-29.415833,115.181111
 996554300,Lechenaultia_biloba,-30.094167,115.159167
 883396036,Lechenaultia_biloba,-32.4124,116.0187
 996670447,Lechenaultia_biloba,-33.6,116.6
 996670610,Lechenaultia_biloba,-33.566667,116.583333
 996588576,Lechenaultia_biloba,-34.066667,115.616667
-1936964580,Lechenaultia_biloba,-37.8,145.2167
 996620223,Lechenaultia_biloba,-32.485278,116.003333
 996542268,Lechenaultia_biloba,-33.365,116.175
 996745249,Lechenaultia_biloba,-32.285364,116.145104
 996536815,Lechenaultia_biloba,-30.066667,115.316667
-992588642,Lechenaultia_biloba,-34.7,138.7
 992562465,Lechenaultia_biloba,-33.478889,115.779444
 996590504,Lechenaultia_biloba,-34.472778,117.190278
 996748579,Lechenaultia_biloba,-31.1,116.2
@@ -227,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996459807,Lechenaultia_biloba,-31.62,116.47
 995113266,Lechenaultia_biloba,-30.15,115.3833
 995105811,Lechenaultia_biloba,-33.1917,122.1333
-996443645,Lechenaultia_biloba,-34.28,115.25
 996534003,Lechenaultia_biloba,-31.651667,116.483889
 992539988,Lechenaultia_biloba,-31.646935,116.489798
 996359802,Lechenaultia_biloba,-30.7,115.7
@@ -388,7 +383,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995697108,Lechenaultia_biloba,-29.88,115.23
 993661392,Lechenaultia_biloba,-30.0667,115.3
 996359812,Lechenaultia_biloba,-31.8783,116.1075
-992238111,Lechenaultia_biloba,-28.779142,114.614493
 993488731,Lechenaultia_biloba,-32.2833,116.1833
 996323691,Lechenaultia_biloba,-30.077778,115.099722
 993487324,Lechenaultia_biloba,-33.6167,115.9333
@@ -483,7 +477,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996157493,Lechenaultia_biloba,-31.9,116.12
 992451040,Lechenaultia_biloba,-31.9064,116.1351
 996157624,Lechenaultia_biloba,-33.32,117.32
-996157565,Lechenaultia_biloba,-31.97,115.75
 996157599,Lechenaultia_biloba,-32.62,115.87
 992450816,Lechenaultia_biloba,-32.071944,115.994525
 992450915,Lechenaultia_biloba,-32.135,116.066
@@ -506,7 +499,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996157167,Lechenaultia_biloba,-32.37,115.97
 996157486,Lechenaultia_biloba,-31.17,115.83
 994861453,Lechenaultia_biloba,-31.8833,116.05
-996157704,Lechenaultia_biloba,-33.52,115
 996157712,Lechenaultia_biloba,-32,115.92
 996157432,Lechenaultia_biloba,-31.95,116.05
 994590039,Lechenaultia_biloba,-33.68,117.55
