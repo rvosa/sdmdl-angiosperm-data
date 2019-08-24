@@ -52,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929415808,Cercocarpus_ledifolius,37.851967,-118.841483
 1930448455,Cercocarpus_ledifolius,37.835217,-118.776817
 1930933315,Cercocarpus_ledifolius,41.02,-109.59
-1086570241,Cercocarpus_ledifolius,44.5,-120.3169
 441721115,Cercocarpus_ledifolius,44.707367,-120.171067
 441721112,Cercocarpus_ledifolius,44.504683,-120.33105
 441721113,Cercocarpus_ledifolius,44.698333,-120.166667
@@ -69,7 +68,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441721085,Cercocarpus_ledifolius,46.166944,-117.521944
 176911164,Cercocarpus_ledifolius,42.696246,-116.408508
 1929732690,Cercocarpus_ledifolius,41.53,-113.76
-1928354502,Cercocarpus_ledifolius,39.2,-114.7
 1928524836,Cercocarpus_ledifolius,41.91,-113.42
 1024486295,Cercocarpus_ledifolius,40.666667,-121.45
 1426246505,Cercocarpus_ledifolius,38.597,-119.5728
@@ -83,14 +81,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426246457,Cercocarpus_ledifolius,38.5976,-119.5735
 1928857948,Cercocarpus_ledifolius,40.62,-115.37
 1261383465,Cercocarpus_ledifolius,34.78333,-119.28333
-1261395471,Cercocarpus_ledifolius,40.68333,-121.4
-1929700420,Cercocarpus_ledifolius,41.8,-111.71667
-1986942247,Cercocarpus_ledifolius,40.383333,-111.3
-1988076487,Cercocarpus_ledifolius,41.8,-111.7
-1986942513,Cercocarpus_ledifolius,41.8,-111.716667
 1931139289,Cercocarpus_ledifolius,38.33,-119.55
 1929051784,Cercocarpus_ledifolius,41.79,-117.29
-1986971121,Cercocarpus_ledifolius,42.666667,-116.5
 1426127112,Cercocarpus_ledifolius,41.4221,-120.262901
 2270610985,Cercocarpus_ledifolius,36.1528,-112.03
 1986973785,Cercocarpus_ledifolius,39.3125,-114.25
@@ -119,17 +111,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51795342,Cercocarpus_ledifolius,43.3144,-117.2175
 1928403444,Cercocarpus_ledifolius,43.31,-117.22
 2270609269,Cercocarpus_ledifolius,36.5803,-109.048
-1426246483,Cercocarpus_ledifolius,35.783333,-118
 1426205556,Cercocarpus_ledifolius,41.4795,-120.301598
-1928973874,Cercocarpus_ledifolius,37.9,-118.31
 1986956880,Cercocarpus_ledifolius,41.255278,-114.014722
-1927897062,Cercocarpus_ledifolius,40.5,-112.58
 1930427109,Cercocarpus_ledifolius,39.88,-114.01
 1930698185,Cercocarpus_ledifolius,41.79,-111.71
 1893340284,Cercocarpus_ledifolius,31.058333,-115.508333
 1928087571,Cercocarpus_ledifolius,38.95,-117.36
 1893340205,Cercocarpus_ledifolius,31.041667,-115.458333
-1426283566,Cercocarpus_ledifolius,35.575,-118.3
 1929593542,Cercocarpus_ledifolius,39.99,-112.07
 1930961519,Cercocarpus_ledifolius,42.51,-111.65
 2270181385,Cercocarpus_ledifolius,36.593879,-118.211285
@@ -176,7 +164,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270608095,Cercocarpus_ledifolius,36.7746,-111.542
 1258924436,Cercocarpus_ledifolius,34.21666,-116.73333
 1024486266,Cercocarpus_ledifolius,38.67556,-119.61944
-1258924526,Cercocarpus_ledifolius,34.3,-116.86666
 2270610005,Cercocarpus_ledifolius,36.8671,-112.027
 2270608972,Cercocarpus_ledifolius,36.0572,-112.217
 1024486358,Cercocarpus_ledifolius,38.738744,-119.882205
@@ -186,7 +173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270180779,Cercocarpus_ledifolius,38.26891,-119.73742
 1426240256,Cercocarpus_ledifolius,36.5887,-118.2278
 1426124894,Cercocarpus_ledifolius,41.2789,-120.284698
-1090549494,Cercocarpus_ledifolius,45.6667,-114
 51794490,Cercocarpus_ledifolius,44.5311,-121.2804
 1828872502,Cercocarpus_ledifolius,39.103308,-119.901778
 2270608363,Cercocarpus_ledifolius,36.0556,-112.139
