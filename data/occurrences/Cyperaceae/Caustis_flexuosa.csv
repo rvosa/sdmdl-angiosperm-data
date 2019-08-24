@@ -23,7 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937146710,Caustis_flexuosa,-33.7464,150.6114
 1936858245,Caustis_flexuosa,-34.135278,151.009167
 1652344479,Caustis_flexuosa,-25.883906,150.976713
-1937106819,Caustis_flexuosa,-38.386944,144.143611
 1937302197,Caustis_flexuosa,-37.423889,142.484167
 996174768,Caustis_flexuosa,-33.337,151.277
 1652293732,Caustis_flexuosa,-27.101389,152.680278
@@ -38,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937172049,Caustis_flexuosa,-36.9761,149.8233
 995536091,Caustis_flexuosa,-36.976111,149.823333
 996181170,Caustis_flexuosa,-36.9761,149.823
-993597825,Caustis_flexuosa,-35.2833,149.1167
 993656557,Caustis_flexuosa,-35.125,150.033
 996201216,Caustis_flexuosa,-30.045,153.071
 993579795,Caustis_flexuosa,-37.5722,149.5661
@@ -105,7 +103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936869779,Caustis_flexuosa,-28.55,153.42
 1451502775,Caustis_flexuosa,-28.548411,153.417731
 1061590755,Caustis_flexuosa,-34.445366,150.441116
-994915819,Caustis_flexuosa,-38.4167,144.1667
 995103737,Caustis_flexuosa,-37.4,149.6667
 995932266,Caustis_flexuosa,-37.4,149.67
 993944271,Caustis_flexuosa,-29.4833,152.25
@@ -120,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652110631,Caustis_flexuosa,-27.323544,152.109138
 1937307445,Caustis_flexuosa,-29.233333,151.6
 1937049640,Caustis_flexuosa,-33.6,151.25
-993934654,Caustis_flexuosa,-35.15,150.7
 995800026,Caustis_flexuosa,-37.53,144.57
 995069609,Caustis_flexuosa,-37.5167,144.5833
 1451480558,Caustis_flexuosa,-30.319253,151.439997
@@ -152,7 +148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993365535,Caustis_flexuosa,-28.8833,153.4667
 995621394,Caustis_flexuosa,-33.68,151.12
 1451477897,Caustis_flexuosa,-33.681756,151.117821
-995206302,Caustis_flexuosa,-25.5333,153.05
 994904852,Caustis_flexuosa,-37.6917,149.1583
 994706475,Caustis_flexuosa,-37.1308,142.4089
 992429801,Caustis_flexuosa,-37.13204,142.517752
@@ -200,14 +195,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937133169,Caustis_flexuosa,-30.08,153.02
 995285866,Caustis_flexuosa,-38.4167,144.0833
 1652035741,Caustis_flexuosa,-25.056899,148.225845
-995500588,Caustis_flexuosa,-29.983333,153.25
 994722014,Caustis_flexuosa,-37.9833,145.625
 994721996,Caustis_flexuosa,-37.9667,145.6667
 995800061,Caustis_flexuosa,-35.15,150.67
 1451550952,Caustis_flexuosa,-35.148429,150.667845
 1451550815,Caustis_flexuosa,-29.84841,153.151077
 995799818,Caustis_flexuosa,-29.85,153.15
-1937181382,Caustis_flexuosa,-29.983333,153.233333
 993502290,Caustis_flexuosa,-35.1333,150.6667
 1936841928,Caustis_flexuosa,-33.47,150.55
 1451550835,Caustis_flexuosa,-33.465096,150.551161
@@ -393,8 +386,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451550844,Caustis_flexuosa,-34.01509,151.067827
 995800029,Caustis_flexuosa,-34.02,151.07
 993806151,Caustis_flexuosa,-37.2,149.9333
-1451550849,Caustis_flexuosa,-37.265107,150.051226
-995800060,Caustis_flexuosa,-37.27,150.05
 995286360,Caustis_flexuosa,-37.5167,149.5167
 995286378,Caustis_flexuosa,-38.3667,144.1
 993124500,Caustis_flexuosa,-35.1167,150.3333
@@ -412,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451550953,Caustis_flexuosa,-30.065087,151.401107
 995799923,Caustis_flexuosa,-30.07,151.4
 995285050,Caustis_flexuosa,-37.2,149.8333
-1937019388,Caustis_flexuosa,-30.02,153.17
 1451719280,Caustis_flexuosa,-30.015076,153.167744
 995523618,Caustis_flexuosa,-34.2,150.783333
 995800041,Caustis_flexuosa,-34.62,150.72
@@ -459,7 +449,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993709011,Caustis_flexuosa,-34.9333,150.55
 994000235,Caustis_flexuosa,-34.5833,150.5833
 995083585,Caustis_flexuosa,-33.7167,150.3167
-993532289,Caustis_flexuosa,-27.4833,153.4167
 995799980,Caustis_flexuosa,-33.72,150.32
 994247738,Caustis_flexuosa,-33.715104,150.317824
 995799958,Caustis_flexuosa,-33.82,151.2
@@ -469,7 +458,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994809266,Caustis_flexuosa,-37.5667,149.25
 994805527,Caustis_flexuosa,-37.2667,149.3667
 993111980,Caustis_flexuosa,-33.75,151.15
-1652012210,Caustis_flexuosa,-27.581871,153.417453
 995800034,Caustis_flexuosa,-34.65,150.2
 1451550971,Caustis_flexuosa,-34.648431,150.201181
 994743246,Caustis_flexuosa,-33.75,151.2167
