@@ -17,7 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234361184,Asclepias_syriaca,38.585111,-76.127917
 2234361210,Asclepias_syriaca,39.044639,-76.766833
 2234361610,Asclepias_syriaca,35.8915,-79.055333
-2306268784,Asclepias_syriaca,40.4,-17.4
 1930893044,Asclepias_syriaca,41.18425,-73.59022
 1503276993,Asclepias_syriaca,38.6917,-75.5999
 1320090206,Asclepias_syriaca,38.9037,-76.9444
@@ -38,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258053181,Asclepias_syriaca,38.474445,-90.811944
 1258052533,Asclepias_syriaca,38.617222,-90.263889
 1258092771,Asclepias_syriaca,42.3725,-97.351111
-1503274869,Asclepias_syriaca,40.5,-84.9358
 1586164049,Asclepias_syriaca,48.099417,-77.783786
 1456045695,Asclepias_syriaca,38.6472,-77.2322
 1258101555,Asclepias_syriaca,45.173056,-90.637778
@@ -166,7 +164,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929651828,Asclepias_syriaca,38.707575,-75.903113
 1989014627,Asclepias_syriaca,43.26515,-86.15988
 728978945,Asclepias_syriaca,51.808293,5.829454
-2309142908,Asclepias_syriaca,42.77,-80.3
 233097071,Asclepias_syriaca,42.956,-92.53633
 176883266,Asclepias_syriaca,42.29792,-91.92623
 465894513,Asclepias_syriaca,44.65887,-63.59057
@@ -205,7 +202,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260999293,Asclepias_syriaca,40.33944,-92.08944
 2234467038,Asclepias_syriaca,35.922726,-79.235769
 1697822809,Asclepias_syriaca,44.592423,40.105076
-465859878,Asclepias_syriaca,45,-62
 1259192278,Asclepias_syriaca,35.49,-82.623056
 176883811,Asclepias_syriaca,39.098611,-96.830278
 176884213,Asclepias_syriaca,39.078889,-96.836111
@@ -217,18 +213,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291930034,Asclepias_syriaca,52.011,5.913833
 176883807,Asclepias_syriaca,41.5446,-81.4729
 2265482111,Asclepias_syriaca,45.196755,-96.289996
-668745238,Asclepias_syriaca,46.1,-72.25
 1258790457,Asclepias_syriaca,36.275,-81.8375
 2265532787,Asclepias_syriaca,45.515,-93.71028
 1258814047,Asclepias_syriaca,38.8125,-90.391667
 1258687638,Asclepias_syriaca,37.524167,-94.553333
-1258772080,Asclepias_syriaca,38.166667,-90.7
 2265579055,Asclepias_syriaca,45.933896,-94.251564
 1503247382,Asclepias_syriaca,42.2656,-88.2861
 176883799,Asclepias_syriaca,38.416668,-97.133331
 2265393489,Asclepias_syriaca,43.506845,-93.65853
 2265435813,Asclepias_syriaca,44.51999,-92.339224
-1823456709,Asclepias_syriaca,43,-75
 176884339,Asclepias_syriaca,38.3667,-96.5917
 2268941492,Asclepias_syriaca,41.582333,-74.621167
 176884170,Asclepias_syriaca,38.979866,-99.251586
@@ -242,12 +235,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415957400,Asclepias_syriaca,41.75472,-73.47833
 415957398,Asclepias_syriaca,41.45583,-73.39722
 1030483959,Asclepias_syriaca,41.94806,-83.94389
-1258568755,Asclepias_syriaca,38.16666,-90.7
 473301414,Asclepias_syriaca,45.295458,-73.893093
 2268941819,Asclepias_syriaca,43.314,-86.081333
 415934401,Asclepias_syriaca,41.82555,-72.24805
 442112933,Asclepias_syriaca,46.400002,6.25
-1261006546,Asclepias_syriaca,38.77,-92
 176884224,Asclepias_syriaca,38.82939,-94.637368
 1820374500,Asclepias_syriaca,45.35,-69.433333
 2268942580,Asclepias_syriaca,41.828,-88.0515
@@ -262,7 +253,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176884151,Asclepias_syriaca,39.072097,-95.437544
 176883192,Asclepias_syriaca,38.905934,-95.450737
 1260988152,Asclepias_syriaca,39.25833,-94.22166
-2288868006,Asclepias_syriaca,52.4,4.556667
 415963459,Asclepias_syriaca,41.47611,-73.23694
 176883816,Asclepias_syriaca,39.270168,-98.18192
 1989102118,Asclepias_syriaca,43.689459,-83.496847
@@ -323,16 +313,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473299186,Asclepias_syriaca,45.709722,-74.061111
 473452867,Asclepias_syriaca,45.6591,-73.9087
 2265477972,Asclepias_syriaca,46.439813,-93.525896
-1261127349,Asclepias_syriaca,37.83333,-91.2
 415957406,Asclepias_syriaca,41.6325,-72.24055
-1261131864,Asclepias_syriaca,37.2,-89.55
 1586165167,Asclepias_syriaca,45.5229,-73.4427
 473400177,Asclepias_syriaca,45.5334,-74.0063
 1261131973,Asclepias_syriaca,38.125,-90.675
 1988626174,Asclepias_syriaca,46.078649,-83.665531
-1929953360,Asclepias_syriaca,44.25,-75.5
 668745235,Asclepias_syriaca,46.85,-71.133333
-1823456727,Asclepias_syriaca,44,-85
 1989297918,Asclepias_syriaca,43.41151,-84.44457
 1586165159,Asclepias_syriaca,45.515,-74.1067
 2265478747,Asclepias_syriaca,43.555833,-92.386944
@@ -368,7 +354,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 296417560,Asclepias_syriaca,46.76,14.537
 1038963737,Asclepias_syriaca,41.244728,-72.757496
 1586165321,Asclepias_syriaca,45.460843,-75.767862
-2268931934,Asclepias_syriaca,44.5,-72.5
 176882874,Asclepias_syriaca,42.923,-85.711
 1899275093,Asclepias_syriaca,47.066667,-79.783333
 1260934170,Asclepias_syriaca,40.32861,-91.50388
@@ -379,7 +364,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668745248,Asclepias_syriaca,46.785278,-71.278611
 176883279,Asclepias_syriaca,37.42692,-95.66427
 1586165179,Asclepias_syriaca,45.559236,-73.209931
-1804427043,Asclepias_syriaca,45.9,-77.25
 2265479353,Asclepias_syriaca,43.898979,-92.628245
 1586165200,Asclepias_syriaca,45.5139,-73.8197
 1322166440,Asclepias_syriaca,38.8994,-77.0575
@@ -410,10 +394,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262032984,Asclepias_syriaca,45.92802,-73.427248
 1262015673,Asclepias_syriaca,45.937231,-73.551224
 1262015778,Asclepias_syriaca,45.966667,-73.716667
-1262015832,Asclepias_syriaca,45.85,-73.6
 1586165241,Asclepias_syriaca,45.5754,-73.312
 1262015200,Asclepias_syriaca,45.466667,-74.083333
-1262016219,Asclepias_syriaca,46.65,-70.8
 1989040429,Asclepias_syriaca,44.76937,-86.042974
 1030483811,Asclepias_syriaca,42.73694,-84.48389
 415957431,Asclepias_syriaca,44.48,-72.24666
@@ -424,7 +406,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697623438,Asclepias_syriaca,53.988004,35.835867
 1262015264,Asclepias_syriaca,46.183333,-73.133333
 1262033025,Asclepias_syriaca,45.612622,-73.911498
-1262014447,Asclepias_syriaca,45.816667,-73.9
 1262014442,Asclepias_syriaca,45.533333,-73.816667
 1262014456,Asclepias_syriaca,45.766667,-73.983333
 1262014228,Asclepias_syriaca,45.633333,-73.983333
@@ -445,7 +426,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265478299,Asclepias_syriaca,43.927816,-95.713386
 2265478296,Asclepias_syriaca,44.272608,-91.938983
 1935653639,Asclepias_syriaca,47.05917,15.46833
-1823456680,Asclepias_syriaca,45,-90
 1586165243,Asclepias_syriaca,45.904772,-72.493899
 2265477849,Asclepias_syriaca,44.261094,-95.704576
 1262017660,Asclepias_syriaca,46.131847,-73.471699
@@ -455,7 +435,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176883169,Asclepias_syriaca,40.11928,-98.43867
 1936036253,Asclepias_syriaca,41.1037,-5.7045
 1262008899,Asclepias_syriaca,45.65,-72.766667
-211619436,Asclepias_syriaca,41.110001,-5.7
 1258931723,Asclepias_syriaca,36.7569,-90.3928
 2265477787,Asclepias_syriaca,44.233108,-91.917245
 2265478344,Asclepias_syriaca,43.623103,-91.382423
@@ -476,12 +455,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265478400,Asclepias_syriaca,46.434856,-96.354219
 1262007594,Asclepias_syriaca,46.773333,-71.254167
 1030483818,Asclepias_syriaca,41.766667,-86.25
-1823456754,Asclepias_syriaca,45,-100
 1262008809,Asclepias_syriaca,45.394722,-72.226111
 1417514223,Asclepias_syriaca,45.4824,-74.0298
 176883303,Asclepias_syriaca,38.26018,-94.69489
 176883148,Asclepias_syriaca,39.10971,-95.0317
-1262008563,Asclepias_syriaca,46.8,-71.35
 2265477512,Asclepias_syriaca,46.869327,-96.473428
 1586165260,Asclepias_syriaca,45.705,-73.4518
 473469208,Asclepias_syriaca,45.6974,-73.4735
@@ -503,8 +480,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473472555,Asclepias_syriaca,45.7013,-73.4661
 1262008665,Asclepias_syriaca,45.383333,-71.983333
 176883297,Asclepias_syriaca,38.4707,-96.3175
-1262008007,Asclepias_syriaca,46.5,-71.9
-1262032967,Asclepias_syriaca,46.6,-71.9
 1586164025,Asclepias_syriaca,45.9031,-73.6613
 1262007344,Asclepias_syriaca,45.833333,-73.416667
 1846527289,Asclepias_syriaca,41.153428,-74.043
@@ -522,7 +497,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265479086,Asclepias_syriaca,47.51564,-96.31032
 2287439059,Asclepias_syriaca,46.983333,7.05
 2265479176,Asclepias_syriaca,46.420332,-96.333183
-1030484009,Asclepias_syriaca,43.6,-83.716667
 2265476655,Asclepias_syriaca,47.72417,-96.813965
 2265479131,Asclepias_syriaca,44.274575,-93.998474
 1258632289,Asclepias_syriaca,38.6713,-90.1456
@@ -607,7 +581,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176883081,Asclepias_syriaca,39.90222,-95.80082
 176883107,Asclepias_syriaca,39.08184,-94.87029
 2265478264,Asclepias_syriaca,45.377702,-93.173879
-1261999178,Asclepias_syriaca,48.25,-72.2
 176883226,Asclepias_syriaca,38.769625,-95.66996
 473489420,Asclepias_syriaca,45.6185,-73.2617
 1899335028,Asclepias_syriaca,43.783333,-79.416667
@@ -631,7 +604,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261997246,Asclepias_syriaca,48.433333,-72.066667
 473537930,Asclepias_syriaca,45.690505,-65.34117
 2289771819,Asclepias_syriaca,52.09,5.12
-1030483929,Asclepias_syriaca,46,-83.66667
 1417511282,Asclepias_syriaca,45.7082,-73.6537
 176883076,Asclepias_syriaca,38.61409,-95.03487
 176883092,Asclepias_syriaca,39.20432,-96.32347
@@ -701,10 +673,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176883341,Asclepias_syriaca,40.748095,-98.542683
 176883301,Asclepias_syriaca,39.00121,-97.02251
 2265444435,Asclepias_syriaca,45.47981,-93.76881
-668745239,Asclepias_syriaca,46.8,-71.216667
 176883213,Asclepias_syriaca,38.11269,-98.7943
 176882825,Asclepias_syriaca,40.61823,-97.17067
-1804509590,Asclepias_syriaca,45.4,-76.733333
 176883175,Asclepias_syriaca,43.07914,-99.13876
 668745247,Asclepias_syriaca,46.781667,-71.268333
 1586165326,Asclepias_syriaca,45.2689,-74.0488
@@ -713,7 +683,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291542961,Asclepias_syriaca,39.466667,-76.65
 176883114,Asclepias_syriaca,37.62368,-94.73685
 1261979004,Asclepias_syriaca,45.25,-74.133333
-2289145033,Asclepias_syriaca,43.883333,-1.3
 176883015,Asclepias_syriaca,37.79713,-95.07291
 1586165284,Asclepias_syriaca,43.49315,-80.557003
 176882844,Asclepias_syriaca,45.433214,-97.338259
@@ -769,7 +738,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899382178,Asclepias_syriaca,44.283333,-79.666667
 176883409,Asclepias_syriaca,39.50764,-95.92676
 1261970953,Asclepias_syriaca,45.433333,-73.166667
-1804564845,Asclepias_syriaca,45,-78.7
 1586165343,Asclepias_syriaca,45.5738,-73.5599
 176883187,Asclepias_syriaca,38.32421,-96.98205
 176883096,Asclepias_syriaca,39.44505,-96.76001
@@ -820,7 +788,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989497769,Asclepias_syriaca,43.6905,-84.39824
 176882861,Asclepias_syriaca,42.845781,-98.85432
 1989213659,Asclepias_syriaca,42.300243,-83.662835
-2291543447,Asclepias_syriaca,36.233333,-81.7
 1586165379,Asclepias_syriaca,45.412931,-75.682791
 1844410117,Asclepias_syriaca,36.212692,-81.682886
 1586165190,Asclepias_syriaca,45.717,-73.4622
@@ -869,7 +836,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 859259165,Asclepias_syriaca,39.70395,-95.67674
 176883035,Asclepias_syriaca,39.90623,-95.20954
 1899305807,Asclepias_syriaca,44.327133,-79.321804
-1261964269,Asclepias_syriaca,45.4,-71.9
 1586165230,Asclepias_syriaca,46.7828,-71.3676
 415957438,Asclepias_syriaca,38.62722,-90.19777
 1261963844,Asclepias_syriaca,46.866667,-71.016667
@@ -879,12 +845,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1586165253,Asclepias_syriaca,45.460679,-73.546764
 1586165387,Asclepias_syriaca,45.335606,-75.123339
 2290395261,Asclepias_syriaca,-27.522887,153.462524
-1988065214,Asclepias_syriaca,43.1,-82
 859259160,Asclepias_syriaca,38.57931,-95.58517
-1261961852,Asclepias_syriaca,46.8,-71.233333
 2265479142,Asclepias_syriaca,47.19557,-95.233216
 2291542882,Asclepias_syriaca,47.333333,-95.816667
-2287438025,Asclepias_syriaca,47.75,16.8
 1261966965,Asclepias_syriaca,46.882222,-72.365833
 2265478416,Asclepias_syriaca,47.158904,-96.00743
 2234469549,Asclepias_syriaca,39.668142,-78.915023
@@ -892,7 +855,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030484003,Asclepias_syriaca,46.52389,-87.98417
 2290266961,Asclepias_syriaca,41.416667,-74.316667
 1211189912,Asclepias_syriaca,45.990926,-74.882285
-1823456726,Asclepias_syriaca,42,-93
 2265479483,Asclepias_syriaca,45.084979,-92.817348
 1261967674,Asclepias_syriaca,46.774722,-71.282778
 2252419239,Asclepias_syriaca,42.4457,-84.01614
@@ -918,7 +880,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265477012,Asclepias_syriaca,44.007465,-93.958564
 176883974,Asclepias_syriaca,39.02933,-95.3908
 1030483936,Asclepias_syriaca,44.64167,-84.77028
-1261960030,Asclepias_syriaca,46.85,-71.2
 1586165268,Asclepias_syriaca,46.327169,-74.500138
 176883117,Asclepias_syriaca,39.00758,-95.34433
 1228415509,Asclepias_syriaca,41.850033,-87.650052
@@ -954,7 +915,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030483830,Asclepias_syriaca,42.89583,-85.48667
 1261994016,Asclepias_syriaca,46.76,-71.280278
 2265477623,Asclepias_syriaca,43.979723,-96.367859
-2291101809,Asclepias_syriaca,44.7,-1.183333
 1586165352,Asclepias_syriaca,42.451605,-84.00034
 1703293922,Asclepias_syriaca,49.181667,-97.940278
 1703293945,Asclepias_syriaca,49.2035419990671,-96.944997
@@ -963,11 +923,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1586165125,Asclepias_syriaca,46.182107,-62.53571
 176883014,Asclepias_syriaca,39.83254,-97.09805
 176883386,Asclepias_syriaca,39.87055,-96.73584
-668745234,Asclepias_syriaca,47,-70.816667
 1586165291,Asclepias_syriaca,49.474623,-97.009337
 1586165219,Asclepias_syriaca,44.9894,-73.1691
 1586165281,Asclepias_syriaca,45.6021,-73.6315
-1261979925,Asclepias_syriaca,46.8,-71.183333
 1989340433,Asclepias_syriaca,44.057781,-86.514253
 1988996912,Asclepias_syriaca,41.90185,-85.7988
 1319560079,Asclepias_syriaca,38.8119,-77.6367
@@ -979,7 +937,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176883976,Asclepias_syriaca,38.80956,-95.5572
 1586165294,Asclepias_syriaca,49.809349,-97.134188
 1989486418,Asclepias_syriaca,44.6161,-84.24126
-1823456684,Asclepias_syriaca,38.5,-92.5
 1030483805,Asclepias_syriaca,43.23417,-86.24833
 176883354,Asclepias_syriaca,38.344684,-97.924442
 1586165322,Asclepias_syriaca,46.3151,-72.4357
@@ -988,13 +945,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1586165334,Asclepias_syriaca,45.730508,-81.708084
 2265478076,Asclepias_syriaca,47.068506,-91.984614
 1703293925,Asclepias_syriaca,49.766389,-97.147222
-1823456732,Asclepias_syriaca,40,-80.8333
 176883028,Asclepias_syriaca,39.15797,-95.66537
 176883977,Asclepias_syriaca,38.74033,-100.50692
 1030484030,Asclepias_syriaca,44.65917,-86.15639
 1989458197,Asclepias_syriaca,47.478326,-87.951748
 415957436,Asclepias_syriaca,45.68027,-84.88416
-1030483836,Asclepias_syriaca,45.71667,-85
 1030484015,Asclepias_syriaca,43.38556,-84.83556
 2265478598,Asclepias_syriaca,45.87627,-95.34021
 1030484078,Asclepias_syriaca,43.33167,-86.22167
@@ -1011,7 +966,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265479388,Asclepias_syriaca,44.458298,-93.161604
 1320774512,Asclepias_syriaca,38.8461,-77.3067
 176883108,Asclepias_syriaca,39.528552,-95.516602
-1823456821,Asclepias_syriaca,41.5,-100
 2265477820,Asclepias_syriaca,45.603343,-94.07039
 1586165257,Asclepias_syriaca,45.403028,-72.734016
 415957410,Asclepias_syriaca,41.91666,-72.45833
@@ -1035,7 +989,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176883094,Asclepias_syriaca,38.957,-95.32443
 1318197260,Asclepias_syriaca,38.8242,-77.7111
 1586165311,Asclepias_syriaca,38.956008,-95.406688
-1823456750,Asclepias_syriaca,38.6667,-98
 2265478127,Asclepias_syriaca,45.926316,-95.491987
 2265477769,Asclepias_syriaca,46.868524,-95.699359
 1321792282,Asclepias_syriaca,38.8664,-77.7064
@@ -1074,11 +1027,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1586165274,Asclepias_syriaca,45.8255,-73.3593
 415957407,Asclepias_syriaca,41.33,-72.045
 2265478188,Asclepias_syriaca,46.719052,-92.161748
-2290232451,Asclepias_syriaca,44.816667,-79.4
 1586165255,Asclepias_syriaca,45.5666,-73.2008
-1260927346,Asclepias_syriaca,38.85,-92.8
 1586165162,Asclepias_syriaca,45.5406,-73.5648
-1261947083,Asclepias_syriaca,47.1,-70.35
 1586165186,Asclepias_syriaca,47.0019,-70.8137
 473489424,Asclepias_syriaca,45.969389,-73.185922
 2265478593,Asclepias_syriaca,45.080985,-93.255535
@@ -1105,7 +1055,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030484013,Asclepias_syriaca,45.66472,-85.55722
 1586165275,Asclepias_syriaca,46.399,-75.0255
 1586165096,Asclepias_syriaca,45.66955,-73.515413
-1989382658,Asclepias_syriaca,42.2,-83.15
 1586165267,Asclepias_syriaca,46.7566,-71.2377
 1586165163,Asclepias_syriaca,45.4164,-73.4893
 1586165249,Asclepias_syriaca,45.3064,-73.2663
@@ -1129,7 +1078,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176883352,Asclepias_syriaca,38.675881,-96.645003
 1261946217,Asclepias_syriaca,45.853056,-73.756667
 176883078,Asclepias_syriaca,37.88667,-95.740168
-465935132,Asclepias_syriaca,46.4,-75.033333
 2288502186,Asclepias_syriaca,46.383333,-75.016667
 1262006049,Asclepias_syriaca,46.041667,-71.920833
 2290701018,Asclepias_syriaca,43.85,-1.383333
@@ -1142,7 +1090,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415982714,Asclepias_syriaca,41.75223,-72.72181
 1586165347,Asclepias_syriaca,46.0448,-73.7296
 415957416,Asclepias_syriaca,41.35,-72.07833
-1262005827,Asclepias_syriaca,47.35,-70
 1586165216,Asclepias_syriaca,46.095,-73.0188
 1586165234,Asclepias_syriaca,45.5228,-73.7099
 415957424,Asclepias_syriaca,41.4075,-72.1325
@@ -1164,7 +1111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176883401,Asclepias_syriaca,42.260788,-71.138596
 1930554327,Asclepias_syriaca,40.751642,-73.39474
 1988865077,Asclepias_syriaca,42.251314,-83.608735
-1823456695,Asclepias_syriaca,44,-71.6667
 176883368,Asclepias_syriaca,42.250449,-71.061977
 1988881491,Asclepias_syriaca,42.687655,-83.119058
 1321692395,Asclepias_syriaca,39.2672,-76.7986
@@ -1177,15 +1123,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176883239,Asclepias_syriaca,39.825845,-95.141389
 2268886698,Asclepias_syriaca,38.583333,-90.406667
 1030483905,Asclepias_syriaca,45.58111,-84.69694
-1823456747,Asclepias_syriaca,50,-86
 1586165288,Asclepias_syriaca,43.359739,-80.306325
 2289335967,Asclepias_syriaca,37.212832,-75.893555
 1928481507,Asclepias_syriaca,40.862289,-73.877023
 1928392453,Asclepias_syriaca,40.351234,-74.439379
 2291101585,Asclepias_syriaca,24.126702,-102.5683
-1823456806,Asclepias_syriaca,39,-80
 1228429365,Asclepias_syriaca,41.842147,-87.790235
-2288612376,Asclepias_syriaca,38,-98
 415957420,Asclepias_syriaca,41.78222,-72.61194
 1823456692,Asclepias_syriaca,42.25,-71.8333
 1039015763,Asclepias_syriaca,41.367,-72.717
@@ -1199,11 +1142,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930476590,Asclepias_syriaca,40.856459,-73.877114
 2265477479,Asclepias_syriaca,43.543923,-91.6707
 1586165139,Asclepias_syriaca,45.6532,-74.0936
-2268932988,Asclepias_syriaca,45,-72.233333
 1038994726,Asclepias_syriaca,41.3504,-72.8598
-1823456698,Asclepias_syriaca,40.8333,-76
 1038928240,Asclepias_syriaca,41.605,-72.88
-415957432,Asclepias_syriaca,46.8,-67.71666
 1228591764,Asclepias_syriaca,41.752257,-87.552824
 1228216139,Asclepias_syriaca,41.679758,-87.494487
 1586165367,Asclepias_syriaca,38.401363,-87.783758
