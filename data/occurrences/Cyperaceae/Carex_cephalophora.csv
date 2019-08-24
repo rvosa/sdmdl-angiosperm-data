@@ -27,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258074165,Carex_cephalophora,37.42577,-90.33672
 1927811427,Carex_cephalophora,38.757369,-76.061117
 2310849438,Carex_cephalophora,38.89,-78.15
-1929702626,Carex_cephalophora,41.073889,-71.906667
 1929504447,Carex_cephalophora,41.90059,-73.85578
 1248708453,Carex_cephalophora,45.015556,-73.081667
 1928652501,Carex_cephalophora,41.18056,-73.58575
@@ -156,7 +155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989453711,Carex_cephalophora,38.795833,-94.691667
 1319420327,Carex_cephalophora,39.6608,-77.0056
 1038938749,Carex_cephalophora,41.4697,-71.8753
-1321005022,Carex_cephalophora,38.9181,-77.1006
 1988829612,Carex_cephalophora,43.60208,-85.48804
 176902804,Carex_cephalophora,38.604168,-94.75
 1318693942,Carex_cephalophora,38.985,-77.2436
@@ -508,7 +506,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465860622,Carex_cephalophora,45.187055,-73.401653
 1228593355,Carex_cephalophora,43.0589,-85.6136
 1318423746,Carex_cephalophora,38.3419,-78.0292
-1317502682,Carex_cephalophora,38.8806,-77.0906
 1928438686,Carex_cephalophora,40.486421,-86.095493
 415977987,Carex_cephalophora,41.86805,-72.77888
 1988986980,Carex_cephalophora,42.31806,-83.79417
@@ -609,7 +606,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415977983,Carex_cephalophora,41.43972,-72.01555
 1928792656,Carex_cephalophora,38.816949,-85.518573
 1928525858,Carex_cephalophora,40.502675,-85.210034
-1928369112,Carex_cephalophora,41.035935,-71.954515
 1929840975,Carex_cephalophora,40.753988,-73.360398
 1320972700,Carex_cephalophora,39.2644,-77.5539
 1929083406,Carex_cephalophora,40.773681,-87.167763
@@ -620,7 +616,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928526149,Carex_cephalophora,40.602775,-86.771794
 1931171690,Carex_cephalophora,41.245299,-87.481958
 1930435378,Carex_cephalophora,41.572877,-72.640648
-1322726956,Carex_cephalophora,38.9103,-76.9664
 1928186327,Carex_cephalophora,40.799823,-73.650962
 1928088299,Carex_cephalophora,42.448991,-83.678876
 1931216572,Carex_cephalophora,38.583481,-87.057562
@@ -652,7 +647,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038971877,Carex_cephalophora,41.8895,-72.2594
 1260956883,Carex_cephalophora,37.256944,-94.444167
 1928973744,Carex_cephalophora,39.19317,-74.825167
-1248708497,Carex_cephalophora,45.4,-75.816667
 1989432169,Carex_cephalophora,42.24115,-83.612994
 473292420,Carex_cephalophora,45.3952,-75.8441
 1038980541,Carex_cephalophora,41.2858,-72.7986
@@ -667,7 +661,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929632898,Carex_cephalophora,41.313256,-85.532915
 1928456621,Carex_cephalophora,40.964346,-74.662954
 1321718677,Carex_cephalophora,38.9919,-77.0708
-1929329085,Carex_cephalophora,38.935113,-74.906005
 1989278935,Carex_cephalophora,42.60704,-83.36707
 1928671178,Carex_cephalophora,41.204262,-73.727076
 1928783716,Carex_cephalophora,40.8576,-74.202368
@@ -678,7 +671,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317789015,Carex_cephalophora,38.9867,-77.005
 1318789590,Carex_cephalophora,38.9778,-77.0078
 1320781933,Carex_cephalophora,38.9786,-76.9169
-473292429,Carex_cephalophora,45.418414,-75.713586
 1928100308,Carex_cephalophora,41.871987,-86.628912
 2265493659,Carex_cephalophora,43.67,-91.49
 1928545001,Carex_cephalophora,41.596806,-85.219963
@@ -695,17 +687,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1039003091,Carex_cephalophora,41.5115,-72.904
 1927824356,Carex_cephalophora,39.616082,-85.94276
 1038936567,Carex_cephalophora,41.0692,-73.6387
-1930110015,Carex_cephalophora,41.375118,-70.47447
 1989184682,Carex_cephalophora,42.686412,-83.117047
 1930698494,Carex_cephalophora,42.348421,-73.015101
 415977953,Carex_cephalophora,41.77527,-72.52472
 1927930311,Carex_cephalophora,42.363633,-87.844794
-1930867610,Carex_cephalophora,41.283456,-70.082794
 786104984,Carex_cephalophora,43,-81.2
 1929473356,Carex_cephalophora,42.562595,-70.86616
-415977995,Carex_cephalophora,42.56666,-70.78333
 1228603577,Carex_cephalophora,37.106718,-92.598906
-415977999,Carex_cephalophora,42.57777,-70.76888
 1929491183,Carex_cephalophora,39.822497,-86.937169
 1038936029,Carex_cephalophora,41.1932,-73.196
 1930321923,Carex_cephalophora,39.675231,-86.904663
