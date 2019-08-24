@@ -66,7 +66,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268827057,Drymonia_serrulata,-3.663333,-79.74
 1702778068,Drymonia_serrulata,-3.6633,-79.74
 2268818944,Drymonia_serrulata,0.356389,-79.708056
-1828915433,Drymonia_serrulata,21.38,-79.7081
 1930815768,Drymonia_serrulata,0.3564,-79.7081
 1930710696,Drymonia_serrulata,14.85127,-91.8829
 1928533373,Drymonia_serrulata,8.626972,-77.736139
@@ -121,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 930993510,Drymonia_serrulata,6.466667,-74.8
 1419171178,Drymonia_serrulata,15.774639,-93.011944
 1257620438,Drymonia_serrulata,-10.323611,-75.263889
-1257906458,Drymonia_serrulata,9.998056,-84.0675
 1253854834,Drymonia_serrulata,9.619167,-83.274444
 1260904809,Drymonia_serrulata,-10.17277,-75.23166
 1257620613,Drymonia_serrulata,-10.6325,-75.292222
@@ -186,7 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438826691,Drymonia_serrulata,3.99167,-52.59611
 1322154669,Drymonia_serrulata,0.89,-78.5122
 1321432027,Drymonia_serrulata,1.0253,-78.6128
-930992087,Drymonia_serrulata,6.23733,-77.41909
 1321530399,Drymonia_serrulata,-8.1522,-74.2581
 1318732696,Drymonia_serrulata,-0.63,-76.5
 1320667522,Drymonia_serrulata,-3.6508,-79.74
@@ -359,7 +356,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585299413,Drymonia_serrulata,13.81667,-89.93333
 1320617729,Drymonia_serrulata,-1.07,-77.6
 930980914,Drymonia_serrulata,5.711838,-77.245259
-930981093,Drymonia_serrulata,6.15998,-77.40348
 1259686169,Drymonia_serrulata,0.21666,-78.91666
 1322919392,Drymonia_serrulata,0.22,-78.92
 1144261510,Drymonia_serrulata,9.15,-82.63333
@@ -372,7 +368,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261550413,Drymonia_serrulata,-0.91666,-76.21666
 1319417723,Drymonia_serrulata,-0.92,-76.22
 1318424849,Drymonia_serrulata,9.8394,-85.34
-45086873,Drymonia_serrulata,9.83,-85.34
 1261552159,Drymonia_serrulata,-0.93333,-76.21666
 1253612171,Drymonia_serrulata,9.839444,-85.34
 1319302567,Drymonia_serrulata,5.57,-75.05
@@ -410,10 +405,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894997998,Drymonia_serrulata,16.761389,-91.129444
 1261201252,Drymonia_serrulata,0.71666,-78.88333
 1322759554,Drymonia_serrulata,0.72,-78.88
-1253647986,Drymonia_serrulata,8.466667,-83.583338
 1259529618,Drymonia_serrulata,9.2,-79.66666
 1322180461,Drymonia_serrulata,9.2,-79.67
-45087371,Drymonia_serrulata,8.46,-83.58
 1253621159,Drymonia_serrulata,9.675,-83.005556
 2288972258,Drymonia_serrulata,5.016667,-58.616667
 1253621888,Drymonia_serrulata,10.913889,-84.768056
@@ -455,7 +448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261201697,Drymonia_serrulata,-0.48333,-75.53333
 1261198486,Drymonia_serrulata,-12.48333,-69.05
 1095198090,Drymonia_serrulata,-13.83333,-48.3
-1318542546,Drymonia_serrulata,3.7,-77.85
 1261201596,Drymonia_serrulata,-3.46666,-72.83333
 1322456016,Drymonia_serrulata,-3.47,-72.83
 1707505456,Drymonia_serrulata,6.35,-76.433333
@@ -465,8 +457,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1322587237,Drymonia_serrulata,0.92,-78.58
 930988305,Drymonia_serrulata,5.88172,-77.26205
 1322311066,Drymonia_serrulata,7.95,-71.7
-1261196814,Drymonia_serrulata,8.483333,-83.583333
-1253697273,Drymonia_serrulata,8.466667,-83.583335
 1259457262,Drymonia_serrulata,21.96666,-104.95
 1261202841,Drymonia_serrulata,-3.5,-72.83333
 1320397651,Drymonia_serrulata,-3.5,-72.83
@@ -549,16 +539,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1322859396,Drymonia_serrulata,6.02,-75.02
 1315005100,Drymonia_serrulata,8.04749,-76.5823
 1261196804,Drymonia_serrulata,-1.06666,-77.6
-1707504839,Drymonia_serrulata,2.949969,-78.218919
 931006395,Drymonia_serrulata,6.666667,-76.433333
 1261197215,Drymonia_serrulata,-0.41666,-76.91666
 45084349,Drymonia_serrulata,9.8,-84.6
 1322128615,Drymonia_serrulata,-0.98,-49.92
 1042613893,Drymonia_serrulata,-0.983056,-49.58
-1260794127,Drymonia_serrulata,0.98333,-49.91666
 1261208043,Drymonia_serrulata,3.508056,-77.119444
 1253607613,Drymonia_serrulata,10.383333,-84.866667
-1260440417,Drymonia_serrulata,2.932778,-78.210556
 1261203869,Drymonia_serrulata,4.333333,-76.233333
 1087668587,Drymonia_serrulata,-11.068889,-37.724722
 1893724787,Drymonia_serrulata,14.988333,-92.165
@@ -609,17 +596,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320828547,Drymonia_serrulata,7.02,-75.58
 1261203842,Drymonia_serrulata,11.466667,-85.516667
 1261199387,Drymonia_serrulata,11.816667,-85.95
-1891000167,Drymonia_serrulata,5.680927,-76.64673
 1261192207,Drymonia_serrulata,8.68333,-79.91666
 1894997934,Drymonia_serrulata,17.255,-92.108333
 931003782,Drymonia_serrulata,5.79637,-75.908
 1896050606,Drymonia_serrulata,17.25,-92.116667
-1585298680,Drymonia_serrulata,13.66667,-89.25
 1261203873,Drymonia_serrulata,11.55,-85.6
 1894997984,Drymonia_serrulata,14.894722,-92.242222
 1896050592,Drymonia_serrulata,16.933611,-94.683611
 1259530539,Drymonia_serrulata,16.93333,-94.68333
-1257631159,Drymonia_serrulata,13.672222,-89.25
 1893724831,Drymonia_serrulata,18.231667,-96.406667
 1894997969,Drymonia_serrulata,16.766944,-91.033611
 1261201024,Drymonia_serrulata,13.75,-84.5
@@ -712,9 +696,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261200419,Drymonia_serrulata,-1.45,-76.78333
 47760407,Drymonia_serrulata,-1.45,-76.783
 1261199588,Drymonia_serrulata,-1.266667,-79.7
-1929294250,Drymonia_serrulata,-0.98,-46.25
-1259097642,Drymonia_serrulata,-0.98333,-46.25
-1042505294,Drymonia_serrulata,-0.983333,-46.25
 1259458987,Drymonia_serrulata,7.41666,-78.05
 1322056696,Drymonia_serrulata,10.92,-72.45
 1258151504,Drymonia_serrulata,10.916667,-72.45
@@ -809,7 +790,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896050610,Drymonia_serrulata,19.1425,-103.388611
 1896050607,Drymonia_serrulata,11.883333,-85.95
 1259098953,Drymonia_serrulata,5.26638,-76.56611
-1259095716,Drymonia_serrulata,6.219167,-77.407778
 1259044392,Drymonia_serrulata,11.833333,-85.966667
 1261197018,Drymonia_serrulata,-3.827222,-73.376111
 1259045068,Drymonia_serrulata,11.833333,-86
@@ -838,7 +818,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896134676,Drymonia_serrulata,17.268611,-94.502222
 1260437784,Drymonia_serrulata,7.21666,-75.05
 1260827151,Drymonia_serrulata,-0.45,-76.88333
-1259016406,Drymonia_serrulata,6.21916,-77.40777
 1259578357,Drymonia_serrulata,-0.38333,-77
 1260827114,Drymonia_serrulata,-0.53333,-77.08333
 1259631908,Drymonia_serrulata,-0.95,-77.7
@@ -865,7 +844,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318241338,Drymonia_serrulata,-3.75,-73.25
 1894998082,Drymonia_serrulata,17.448056,-93.042778
 1260012775,Drymonia_serrulata,9.225,-79.40111
-1258992622,Drymonia_serrulata,9.371389,-79.878611
 1260012690,Drymonia_serrulata,9.2175,-78.9575
 1259457431,Drymonia_serrulata,9.28555,-79.9075
 1260497145,Drymonia_serrulata,16.565556,-93.401667
@@ -915,10 +893,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258674779,Drymonia_serrulata,7.53333,-80.5
 1259459473,Drymonia_serrulata,7.561389,-80.513333
 1258688362,Drymonia_serrulata,8,-77.4
-1258686320,Drymonia_serrulata,8.258056,-79.121667
 2289667529,Drymonia_serrulata,5.5,-67.583333
 1260012768,Drymonia_serrulata,9.433333,-79.75
-1259460790,Drymonia_serrulata,9.37138,-79.87861
 1259459612,Drymonia_serrulata,9.16611,-79.4125
 1260012641,Drymonia_serrulata,9.198611,-79.613056
 1258734849,Drymonia_serrulata,8.95,-78.21666
@@ -935,9 +911,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931279440,Drymonia_serrulata,-7.624573,-72.701961
 1259459451,Drymonia_serrulata,9.89,-83.65
 1896050614,Drymonia_serrulata,18.110556,-96.149444
-1260012648,Drymonia_serrulata,8.975,-79.56388
-1259458238,Drymonia_serrulata,9.30166,-80.00138
-1259457519,Drymonia_serrulata,9.301667,-80.001389
 1844918490,Drymonia_serrulata,7.916667,-76.75
 1261499131,Drymonia_serrulata,-7.18333,-76.75
 1259459941,Drymonia_serrulata,7.583333,-78.183333
@@ -946,7 +919,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259458989,Drymonia_serrulata,9.15,-79.85
 1319454067,Drymonia_serrulata,6.08,-62
 1895424882,Drymonia_serrulata,19.204119,-104.682981
-1259460033,Drymonia_serrulata,8.76722,-78.71722
 1258705343,Drymonia_serrulata,16.5125,-89.41583
 1896084419,Drymonia_serrulata,17.313889,-99.464722
 1259458824,Drymonia_serrulata,9.17388,-79.83444
@@ -964,7 +936,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1315005147,Drymonia_serrulata,7.41083,-76.6842
 1315005137,Drymonia_serrulata,7.28504,-76.451
 1260288601,Drymonia_serrulata,11.46666,-84.6
-1890933996,Drymonia_serrulata,6.225417,-77.403788
 2288345275,Drymonia_serrulata,11.033333,-84.733333
 1894998011,Drymonia_serrulata,15.415556,-92.498889
 1928854352,Drymonia_serrulata,-18.9729787114355,-49.4655833228074
@@ -976,14 +947,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844909278,Drymonia_serrulata,7.016667,-74.76667
 1315005098,Drymonia_serrulata,8.20437,-76.6303
 1844909221,Drymonia_serrulata,8.20437,-76.63027
-1260012680,Drymonia_serrulata,8.25805,-79.11166
-1259459243,Drymonia_serrulata,9.31666,-82.15
 1259458578,Drymonia_serrulata,9.242775,-82.257334
 1259457326,Drymonia_serrulata,9.233333,-82.333333
 1894997988,Drymonia_serrulata,15.446111,-92.580833
 1259458985,Drymonia_serrulata,8.625,-80.13333
 1259457861,Drymonia_serrulata,9.15694,-79.85833
-1259457387,Drymonia_serrulata,9.05,-82
 1259460357,Drymonia_serrulata,9.245,-82.383333
 1895502098,Drymonia_serrulata,18.431669,-103.135831
 1321561932,Drymonia_serrulata,17.02,-88.5
@@ -1002,7 +970,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259457518,Drymonia_serrulata,9.15861,-79.86805
 1260439677,Drymonia_serrulata,0.9,-76.16666
 1318392172,Drymonia_serrulata,0.9,-76.17
-1318588452,Drymonia_serrulata,17.25,-88.78
 1258577795,Drymonia_serrulata,12.00833,-86.28333
 1259425460,Drymonia_serrulata,-14.466667,-67.566667
 1930151390,Drymonia_serrulata,-14.445455,-67.517966
