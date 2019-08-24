@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989893038,Saxifraga_bronchialis,58.356061,-134.4225
 2235898836,Saxifraga_bronchialis,48.3644,142.659
 2242359362,Saxifraga_bronchialis,39.30875,-105.0443
-1949918382,Saxifraga_bronchialis,54.67941,167.7737
 1949918514,Saxifraga_bronchialis,50.63246,143.36418
 1949918349,Saxifraga_bronchialis,67.70339,67.82169
 2242357586,Saxifraga_bronchialis,44.741573,-109.38124
@@ -36,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697315590,Saxifraga_bronchialis,72.72715,101.0887
 1697245100,Saxifraga_bronchialis,54.15445,126.8205
 1697247323,Saxifraga_bronchialis,53.954722,157.747222
-1146321357,Saxifraga_bronchialis,63.5839299992491,-170.14291
 1697245075,Saxifraga_bronchialis,54.2571,126.936
 1658237224,Saxifraga_bronchialis,62.26064,-138.14616
 2295213019,Saxifraga_bronchialis,44.09,-116
@@ -73,7 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949651992,Saxifraga_bronchialis,59.805556,-134.423889
 1949651871,Saxifraga_bronchialis,59.993889,-134.461111
 1949651890,Saxifraga_bronchialis,59.041111,-132.505
-1146261031,Saxifraga_bronchialis,52.4423423445097,173.583521169051
 883386103,Saxifraga_bronchialis,52.9515,-117.350998
 1146261495,Saxifraga_bronchialis,57.14415,-154.257633
 1949651013,Saxifraga_bronchialis,59.833889,-136.573889
@@ -86,10 +83,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697247281,Saxifraga_bronchialis,71.96619,110.5018
 2305185239,Saxifraga_bronchialis,69.21,-140.46
 1697247344,Saxifraga_bronchialis,72.27419,110.6218
-1146262559,Saxifraga_bronchialis,58.361117,-152.728617
 1804571074,Saxifraga_bronchialis,69.20985,-140.46008
 1658237205,Saxifraga_bronchialis,69.02364,-140.62009
-1146262355,Saxifraga_bronchialis,58.381767,-152.688733
 2309594903,Saxifraga_bronchialis,69.16,-140.21
 1949651085,Saxifraga_bronchialis,59.838333,-136.565833
 1658237255,Saxifraga_bronchialis,69.48007,-140.03851
@@ -102,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949652316,Saxifraga_bronchialis,59.3975,-132.807222
 441834348,Saxifraga_bronchialis,48.95349,-120.25975
 441834353,Saxifraga_bronchialis,48.9363,-120.20861
-1146262859,Saxifraga_bronchialis,57.8327038614458,-152.418639352845
 1697247290,Saxifraga_bronchialis,72.5229,109.8508
 441834226,Saxifraga_bronchialis,47.151667,-120.948333
 1843911922,Saxifraga_bronchialis,36.964667,-105.242389
@@ -131,15 +125,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146239302,Saxifraga_bronchialis,64.78,-173.141667
 441833636,Saxifraga_bronchialis,48.375,-120.573333
 1697247169,Saxifraga_bronchialis,71.19669,102.5812
-1146247878,Saxifraga_bronchialis,55.325,-160.4015
 1843915113,Saxifraga_bronchialis,36.0009,-105.6369
 1697247206,Saxifraga_bronchialis,71.1293,102.5352
 1146229187,Saxifraga_bronchialis,64.83,-173.086667
 1949643375,Saxifraga_bronchialis,56.945,-128.596944
-1146249044,Saxifraga_bronchialis,57.328333,-154.6325
 1146242957,Saxifraga_bronchialis,60.1563329991864,-153.119983
 441833641,Saxifraga_bronchialis,46.756117,-121.735783
-1146314753,Saxifraga_bronchialis,58.966667,164.233333
 1146229536,Saxifraga_bronchialis,65.696667,-171.316667
 1638340045,Saxifraga_bronchialis,53.616933,-114.072617
 1146229673,Saxifraga_bronchialis,70.933333,-179.616667
@@ -151,9 +142,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146394141,Saxifraga_bronchialis,59.13,-161.56
 2242357233,Saxifraga_bronchialis,37.8829,-107.4844
 441834069,Saxifraga_bronchialis,48.943611,-121.791111
-1697246745,Saxifraga_bronchialis,54.764204,167.65911
 1949640083,Saxifraga_bronchialis,59.259722,-130.509167
-1988167205,Saxifraga_bronchialis,42.24,-133.357
 1323766991,Saxifraga_bronchialis,68.8408,65.5
 1889160720,Saxifraga_bronchialis,36.605,-105.412667
 1146242569,Saxifraga_bronchialis,59.6742,-139.3769
@@ -180,11 +169,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988123327,Saxifraga_bronchialis,50.7566,143.29
 1146245387,Saxifraga_bronchialis,60.0712767455205,-139.339003270406
 574717278,Saxifraga_bronchialis,55.716667,160.183333
-441834397,Saxifraga_bronchialis,54.0613,143.724067
 1988080489,Saxifraga_bronchialis,52.4,-126.8
 441833574,Saxifraga_bronchialis,48.551667,-120.838333
-1988105187,Saxifraga_bronchialis,54.0613,143.7241
-1146393587,Saxifraga_bronchialis,52.35,173.67
 1949638935,Saxifraga_bronchialis,54.88,-120.949722
 1658237281,Saxifraga_bronchialis,65.00389,-142.81917
 1949633776,Saxifraga_bronchialis,49.055556,-124.341667
@@ -227,19 +213,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988148436,Saxifraga_bronchialis,59.4,-133.8
 1658237211,Saxifraga_bronchialis,61.19445,-138.325
 1697247283,Saxifraga_bronchialis,72.79442,105.0249
-441835371,Saxifraga_bronchialis,54.393733,142.662233
 1146343204,Saxifraga_bronchialis,61.12,-159.88
-441835372,Saxifraga_bronchialis,54.274967,142.81065
 1146342581,Saxifraga_bronchialis,61.18,-159.74
 177026154,Saxifraga_bronchialis,40.091111,-105.585833
-441835369,Saxifraga_bronchialis,54.2803,142.811067
 1146349753,Saxifraga_bronchialis,60.3,-143.01
-441835368,Saxifraga_bronchialis,54.274833,142.81855
 1843897115,Saxifraga_bronchialis,34.7583,-106.375
 1146340518,Saxifraga_bronchialis,59.61,-135.16
 1146337728,Saxifraga_bronchialis,60.53,-137.26
 1146333682,Saxifraga_bronchialis,59.38,-136.31
-1146337649,Saxifraga_bronchialis,52.81,173.15
 1388866,Saxifraga_bronchialis,55,-129
 1146331211,Saxifraga_bronchialis,61.11,-155.6
 1146331559,Saxifraga_bronchialis,61.28,-155.63
@@ -248,7 +229,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270651015,Saxifraga_bronchialis,57.63,-152.42
 1146338243,Saxifraga_bronchialis,69.41,-139.63
 1988153053,Saxifraga_bronchialis,49.04,-121.75
-1146332127,Saxifraga_bronchialis,52.8,173.3
 1843911935,Saxifraga_bronchialis,38.1081,-105.3285
 1658237155,Saxifraga_bronchialis,60.245236,-124.13062
 2242375653,Saxifraga_bronchialis,39.005602,-106.601355
@@ -272,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988148262,Saxifraga_bronchialis,49.04,-121.87
 1146241192,Saxifraga_bronchialis,65.5,174.33
 1146240842,Saxifraga_bronchialis,65.48,173.21
-1146230109,Saxifraga_bronchialis,64.75,-172.166667
 2242386816,Saxifraga_bronchialis,39.021632,-106.097422
 1697247212,Saxifraga_bronchialis,62.11458,91.47398
 1146259929,Saxifraga_bronchialis,61.26,-149.52
@@ -295,7 +274,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146229285,Saxifraga_bronchialis,64.983333,-164.716667
 2242371293,Saxifraga_bronchialis,39.876942,-105.435782
 1949608141,Saxifraga_bronchialis,59.966667,-136.583333
-1146361866,Saxifraga_bronchialis,57.83,-152.41
 1261341638,Saxifraga_bronchialis,33.75,-107.25
 1638341426,Saxifraga_bronchialis,46.233333,-110.483333
 1949625247,Saxifraga_bronchialis,59.983333,-137.1
@@ -309,9 +287,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949610210,Saxifraga_bronchialis,52.602778,-125.978333
 1804546251,Saxifraga_bronchialis,65.55,-163.866667
 1988205027,Saxifraga_bronchialis,57.17,-157.5
-1146357794,Saxifraga_bronchialis,58.15,-152.5
 1146369436,Saxifraga_bronchialis,59.76,-161.83
-441833524,Saxifraga_bronchialis,48.675,-122.825
 1697246737,Saxifraga_bronchialis,75.29913,112.1754
 1697247138,Saxifraga_bronchialis,52.133333,135.016667
 1949609844,Saxifraga_bronchialis,52.775,-126.093333
@@ -326,7 +302,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697246764,Saxifraga_bronchialis,74.31168,98.09881
 1261354400,Saxifraga_bronchialis,39.7,-105.63333
 1697246717,Saxifraga_bronchialis,54.328387,159.969349
-1697246948,Saxifraga_bronchialis,59.059671,150.628285
 1986964663,Saxifraga_bronchialis,39.7,-105.633333
 177026173,Saxifraga_bronchialis,39.806795,-105.792677
 1697247214,Saxifraga_bronchialis,62.12293,91.4678
@@ -386,7 +361,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949618314,Saxifraga_bronchialis,49.15,-117.908333
 1146328606,Saxifraga_bronchialis,65.86,-164.43
 1949631214,Saxifraga_bronchialis,51.033333,-122.466667
-1146349313,Saxifraga_bronchialis,58.73,-160.86
 1949607039,Saxifraga_bronchialis,54.766667,-127.283333
 883386541,Saxifraga_bronchialis,52.933333,-117.3
 1146328562,Saxifraga_bronchialis,68.18,-149.41
@@ -406,7 +380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146360034,Saxifraga_bronchialis,60.98,-149.43
 1146241688,Saxifraga_bronchialis,70.0163972263291,-147.686340588941
 1146363586,Saxifraga_bronchialis,61.11,-145.7
-1697246687,Saxifraga_bronchialis,54.85049,166.644191
 1697246254,Saxifraga_bronchialis,65.166237,147.076893
 1146328566,Saxifraga_bronchialis,64.95,-165.16
 1804374878,Saxifraga_bronchialis,35.983333,-105.616667
@@ -431,7 +404,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441833523,Saxifraga_bronchialis,48.66972,-119.93083
 441833815,Saxifraga_bronchialis,69,-144
 1146328582,Saxifraga_bronchialis,62.43,-158
-1146328581,Saxifraga_bronchialis,58.6,-159.96
 1146328592,Saxifraga_bronchialis,56.33,-158.5
 1146328585,Saxifraga_bronchialis,68.61,-149.31
 1949607354,Saxifraga_bronchialis,49.233333,-125.433333
@@ -481,12 +453,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146383632,Saxifraga_bronchialis,64.75,-166.16
 1697716403,Saxifraga_bronchialis,68.3,-135.5
 1697246744,Saxifraga_bronchialis,54.912308,160.92254
-1697246644,Saxifraga_bronchialis,54.772573,162.089024
 2242380570,Saxifraga_bronchialis,37.918,-107.515518
-1146356425,Saxifraga_bronchialis,60.3,-172.21
 1146338678,Saxifraga_bronchialis,68.15,-149.43
 1658237256,Saxifraga_bronchialis,51.8,-125.0833
-1146397966,Saxifraga_bronchialis,65.56,-168
 1638341408,Saxifraga_bronchialis,63.1,-145.633333
 1638341272,Saxifraga_bronchialis,49.103333,-114.96
 1846538561,Saxifraga_bronchialis,39.047846,-108.162875
@@ -510,7 +479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242420237,Saxifraga_bronchialis,38.748606,-107.249221
 2242379236,Saxifraga_bronchialis,39.885786,-105.469054
 1697245059,Saxifraga_bronchialis,67.49465,173.36045
-1697246684,Saxifraga_bronchialis,54.755291,162.129793
 1988108189,Saxifraga_bronchialis,49.3,-121.7
 1697246641,Saxifraga_bronchialis,54.657549,161.350708
 2242381195,Saxifraga_bronchialis,39.269545,-105.102154
@@ -522,7 +490,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697245121,Saxifraga_bronchialis,61.905339,155.984058
 1320830337,Saxifraga_bronchialis,50.5902,-114.986
 1146341191,Saxifraga_bronchialis,69.05,-140.4
-1146349349,Saxifraga_bronchialis,58.91,-152
 1697716357,Saxifraga_bronchialis,69.116667,-140.25
 1933905298,Saxifraga_bronchialis,36.899,137.9627
 1988072436,Saxifraga_bronchialis,60.8,-138
@@ -561,7 +528,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697246209,Saxifraga_bronchialis,65.459323,157.802127
 1804379543,Saxifraga_bronchialis,69.158333,-139.323333
 1146382837,Saxifraga_bronchialis,68.73,-149.05
-1988197626,Saxifraga_bronchialis,50.4,156.09
 1146369765,Saxifraga_bronchialis,62.43,-149.18
 1638340097,Saxifraga_bronchialis,50.958333,-115.191667
 1804613552,Saxifraga_bronchialis,69.455,-139.703333
@@ -583,7 +549,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988117392,Saxifraga_bronchialis,63.09,-145.61
 1988217229,Saxifraga_bronchialis,50.6,-121.7
 1146349311,Saxifraga_bronchialis,58.55,-155.48
-1988216145,Saxifraga_bronchialis,51.2,-131.8
 441833814,Saxifraga_bronchialis,47.99472,-123.43889
 1146347604,Saxifraga_bronchialis,57.2,-153.08
 1697247245,Saxifraga_bronchialis,58.660314,137.295439
@@ -599,7 +564,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988066638,Saxifraga_bronchialis,45.55,-110.86
 894998909,Saxifraga_bronchialis,49.7,-114.333333
 1988173496,Saxifraga_bronchialis,47.6,-112.76
-1146347622,Saxifraga_bronchialis,56.78,-156.68
 2289652801,Saxifraga_bronchialis,38.958333,-107.016667
 1988133508,Saxifraga_bronchialis,51.1,-123
 1697246675,Saxifraga_bronchialis,64.663135,175.160835
@@ -631,14 +595,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988122729,Saxifraga_bronchialis,49.9497106743997,-123.071013213816
 1846538569,Saxifraga_bronchialis,70.478157,-157.415929
 1146362971,Saxifraga_bronchialis,61.5,-142.85
-1146238558,Saxifraga_bronchialis,68.3326568763332,-166.853107792266
 1638340083,Saxifraga_bronchialis,50.975,-115.216667
-1697246706,Saxifraga_bronchialis,58.915283,164.211273
 1988216075,Saxifraga_bronchialis,49.46,-120.51
 1146375556,Saxifraga_bronchialis,63.3,-148.13
-388864730,Saxifraga_bronchialis,45.141667,141.304167
 1697246689,Saxifraga_bronchialis,59.244117,162.919006
-1986995272,Saxifraga_bronchialis,58.166667,-153.066667
 1988119561,Saxifraga_bronchialis,51,-122.5
 1146234967,Saxifraga_bronchialis,70.4662345576156,-157.403309793971
 1988190439,Saxifraga_bronchialis,49.89,-117.42
@@ -660,12 +620,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248748855,Saxifraga_bronchialis,51.75,-115.833333
 1638340515,Saxifraga_bronchialis,50.66667,-115.08333
 2242364229,Saxifraga_bronchialis,39.61666,-105.41666
-1697247343,Saxifraga_bronchialis,43.342097,134.787346
 1697246927,Saxifraga_bronchialis,60.433171,166.063156
 1146328632,Saxifraga_bronchialis,59.86,-160.08
 1697246633,Saxifraga_bronchialis,60.43454,166.059392
 1988072780,Saxifraga_bronchialis,51,-121.8
-1146328560,Saxifraga_bronchialis,52.43,173.6
 1146328622,Saxifraga_bronchialis,62.95,-143.25
 1146368338,Saxifraga_bronchialis,62.5,-154
 1697246628,Saxifraga_bronchialis,62.959438,179.204865
@@ -713,12 +671,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697247363,Saxifraga_bronchialis,44.345218,135.103848
 1988084449,Saxifraga_bronchialis,50,-117.2
 2289864944,Saxifraga_bronchialis,69,-138
-441833673,Saxifraga_bronchialis,48.57417,-122.7075
 1986995651,Saxifraga_bronchialis,46.6854,-123.9054
 51952971,Saxifraga_bronchialis,45.8196,-123.8941
 1638340109,Saxifraga_bronchialis,49.3919,-114.5848
 1804478607,Saxifraga_bronchialis,60.166667,-140
-1697247370,Saxifraga_bronchialis,43.755315,135.291426
 1801060866,Saxifraga_bronchialis,64.773142,146.045239
 51952988,Saxifraga_bronchialis,45.9597,-123.68
 441833780,Saxifraga_bronchialis,48.162675,-120.368088
@@ -732,12 +688,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804523936,Saxifraga_bronchialis,59.9,-136.683333
 1804442602,Saxifraga_bronchialis,59.7,-133.366667
 1146328558,Saxifraga_bronchialis,60.48,-149.75
-1146349336,Saxifraga_bronchialis,58.55,-161.76
 894998922,Saxifraga_bronchialis,49.05,-113.883333
 894998869,Saxifraga_bronchialis,49.033333,-114
 894998876,Saxifraga_bronchialis,49.033333,-113.95
 894998808,Saxifraga_bronchialis,49.016667,-113.9
-1146387141,Saxifraga_bronchialis,71,178.5
 1146387131,Saxifraga_bronchialis,71.16,179.33
 1146383591,Saxifraga_bronchialis,64.63,-165.66
 1146357359,Saxifraga_bronchialis,60.38,-158.91
@@ -796,7 +750,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988113889,Saxifraga_bronchialis,47.97,-123.5
 1638340137,Saxifraga_bronchialis,51.5,-115.75
 1830166614,Saxifraga_bronchialis,36.816667,137.716667
-1828515300,Saxifraga_bronchialis,43.455411,43.455411
 1988088435,Saxifraga_bronchialis,60.1,-134.7
 1988228334,Saxifraga_bronchialis,61.4,-139.6
 1146397481,Saxifraga_bronchialis,65.53,-154.66
@@ -808,7 +761,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2273828192,Saxifraga_bronchialis,64.933333,-164.9
 729328837,Saxifraga_bronchialis,35.468899,134.634
 1988144540,Saxifraga_bronchialis,49.4,-119.9
-1697315664,Saxifraga_bronchialis,54.028495,142.95669
 1988118983,Saxifraga_bronchialis,53.03,-121.72
 1146363140,Saxifraga_bronchialis,61.61,-141.08
 1988096727,Saxifraga_bronchialis,49.8,-118.9
@@ -841,19 +793,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988192717,Saxifraga_bronchialis,49.1,-114.1
 1988074580,Saxifraga_bronchialis,50.9,-118.9
 1988196209,Saxifraga_bronchialis,49.1,-120.8
-1697246766,Saxifraga_bronchialis,70.085708,170.926666
 1988225780,Saxifraga_bronchialis,63.64,-123.48
 51952945,Saxifraga_bronchialis,44.3995,-122.1531
 1988144542,Saxifraga_bronchialis,49.07,-120.78
 51952960,Saxifraga_bronchialis,45.3601,-117.3644
 1146352970,Saxifraga_bronchialis,59.5,-155
 1146243842,Saxifraga_bronchialis,65.45,-145.43
-1146356537,Saxifraga_bronchialis,60.06,-167.26
 1804365596,Saxifraga_bronchialis,59.816667,-136.916667
 1829900618,Saxifraga_bronchialis,36.780833,137.906667
 51952985,Saxifraga_bronchialis,45.2311,-117.2581
 1146347603,Saxifraga_bronchialis,57.21,-153.3
-388864612,Saxifraga_bronchialis,45.305793,141.02371
 1697246688,Saxifraga_bronchialis,64.734816,177.514745
 1697246727,Saxifraga_bronchialis,64.893171,177.831589
 51952946,Saxifraga_bronchialis,45.2898,-117.3846
@@ -915,7 +864,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697247233,Saxifraga_bronchialis,70.616667,147.916667
 1829897493,Saxifraga_bronchialis,36.082778,138.073889
 1146234432,Saxifraga_bronchialis,70.5162361531917,-157.40331822222
-1146240193,Saxifraga_bronchialis,68.1410024229933,-165.975295641448
 1988221303,Saxifraga_bronchialis,49.7,-121.4
 1146377524,Saxifraga_bronchialis,63.51,-150.9
 1146232862,Saxifraga_bronchialis,68.1326743564344,-165.65306957048
@@ -962,7 +910,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146238882,Saxifraga_bronchialis,68.0497148643104,-145.002666812181
 1829820885,Saxifraga_bronchialis,35.445262,138.087429
 1988171969,Saxifraga_bronchialis,60.84,-137.89
-1146356366,Saxifraga_bronchialis,60.5,-173
 1804464087,Saxifraga_bronchialis,60.087222,-136.087222
 1988173185,Saxifraga_bronchialis,49.2,-120.7
 1988187137,Saxifraga_bronchialis,51.35,-117.44
@@ -983,7 +930,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988222367,Saxifraga_bronchialis,50,-123
 441833789,Saxifraga_bronchialis,47.83111,-123.68972
 1988093594,Saxifraga_bronchialis,49.939999999071,-122.94
-388864627,Saxifraga_bronchialis,45.245251,141.20981
 1988142481,Saxifraga_bronchialis,49.9999999990714,-122.8
 1988128555,Saxifraga_bronchialis,49,-120.2
 1988108716,Saxifraga_bronchialis,49.1,-120.2
@@ -994,7 +940,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51953478,Saxifraga_bronchialis,45.1588,-117.3175
 441833520,Saxifraga_bronchialis,47.38607,-120.76867
 441833812,Saxifraga_bronchialis,48.866609,-116.537156
-1146383829,Saxifraga_bronchialis,64.5,-165.5
 51952532,Saxifraga_bronchialis,45.5981,-122.0118
 1988224849,Saxifraga_bronchialis,54.32,-130.32
 1146377298,Saxifraga_bronchialis,63.46,-150.16
@@ -1006,7 +951,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438729277,Saxifraga_bronchialis,50.82633,-118.98396
 1988237199,Saxifraga_bronchialis,49.5,-117.29
 437065037,Saxifraga_bronchialis,50.421,-116.327
-441833854,Saxifraga_bronchialis,68.883333,-166.283333
 1988229486,Saxifraga_bronchialis,61.22,-149.79
 1988140216,Saxifraga_bronchialis,52.1,-118.5
 1988170936,Saxifraga_bronchialis,51.3,-118.4
@@ -1100,10 +1044,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988224540,Saxifraga_bronchialis,50.9,-121.7
 1988165491,Saxifraga_bronchialis,53.3,-120.17
 441833708,Saxifraga_bronchialis,47.905592,-121.085697
-1697247314,Saxifraga_bronchialis,42.994091,134.123931
-1988199456,Saxifraga_bronchialis,58.07,-153.07
 2242365324,Saxifraga_bronchialis,40.518806,-105.891599
-1146345759,Saxifraga_bronchialis,52.83,173.05
 1638340027,Saxifraga_bronchialis,52.516667,-116.083333
 2242365299,Saxifraga_bronchialis,39.17883,-107.238653
 1988162307,Saxifraga_bronchialis,53.64,-132.46
@@ -1111,7 +1052,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804520239,Saxifraga_bronchialis,59.916667,-136.85
 1846538656,Saxifraga_bronchialis,48.61326,-116.707987
 1638340501,Saxifraga_bronchialis,49.4705559990685,-114.3125
-1146229191,Saxifraga_bronchialis,60.4,-172.7
 51953349,Saxifraga_bronchialis,43.1647,-122.4715
 441833739,Saxifraga_bronchialis,44.03972,-114.585
 1988224967,Saxifraga_bronchialis,49.7,-116
@@ -1123,7 +1063,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988130151,Saxifraga_bronchialis,49.2,-124.6
 1638340020,Saxifraga_bronchialis,51.1764,-115.5547
 1146367914,Saxifraga_bronchialis,62.98,-156.06
-441833666,Saxifraga_bronchialis,48.26667,-124.675
 1988147695,Saxifraga_bronchialis,50.67,-116.63
 2242370675,Saxifraga_bronchialis,38.838555,-105.043186
 1988233752,Saxifraga_bronchialis,53.93,-120.17
@@ -1133,7 +1072,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638340013,Saxifraga_bronchialis,53.134447,-117.771214
 441834063,Saxifraga_bronchialis,47.2525,-120.593056
 1988080251,Saxifraga_bronchialis,49,-124.2
-1697246741,Saxifraga_bronchialis,72.36395,78.956064
 1986995328,Saxifraga_bronchialis,57.161925,-154.230824
 1697247282,Saxifraga_bronchialis,69.32025,88.14243
 1697246767,Saxifraga_bronchialis,64.745138,177.557602
@@ -1147,8 +1085,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146380168,Saxifraga_bronchialis,67.41,-150.1
 1988072383,Saxifraga_bronchialis,57.13,-154.26
 1697246656,Saxifraga_bronchialis,69.003515,162.59777
-1697245081,Saxifraga_bronchialis,69.502183,166.323717
-1697246681,Saxifraga_bronchialis,69.576923,165.222376
 51952535,Saxifraga_bronchialis,44.1209,-122.091
 1697247262,Saxifraga_bronchialis,70.686846,127.354681
 1988094990,Saxifraga_bronchialis,49.9799999990713,-123.04
@@ -1184,7 +1120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441833691,Saxifraga_bronchialis,48.13222,-120.78694
 441833804,Saxifraga_bronchialis,47.81833,-123.13222
 441833525,Saxifraga_bronchialis,48.31385,-121.77163
-1146383299,Saxifraga_bronchialis,63.33,-171.6
 1933886537,Saxifraga_bronchialis,35.5377,138.1531
 441833706,Saxifraga_bronchialis,46.735961,-120.789188
 441833817,Saxifraga_bronchialis,48.5575,-119.74861
@@ -1218,7 +1153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441833515,Saxifraga_bronchialis,46.900833,-121.711667
 1988232368,Saxifraga_bronchialis,51.2997692370499,-117.500889241842
 441833514,Saxifraga_bronchialis,48.836016,-117.22173
-1146367182,Saxifraga_bronchialis,61.81,-166.1
 441833690,Saxifraga_bronchialis,47.90556,-123.77611
 51952386,Saxifraga_bronchialis,45.7011,-121.6156
 1988136740,Saxifraga_bronchialis,49.2,-119.8
@@ -1260,11 +1194,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441833713,Saxifraga_bronchialis,47.99538,-123.46784
 1697246664,Saxifraga_bronchialis,56.315013,160.84259
 1697246712,Saxifraga_bronchialis,52.918004,158.172128
-441833700,Saxifraga_bronchialis,48.672778,-122.841111
 1988086223,Saxifraga_bronchialis,49.8,-116.9
 2288601300,Saxifraga_bronchialis,51.75,-118.333333
 1988108823,Saxifraga_bronchialis,50.3999999990738,-119.2
-441833698,Saxifraga_bronchialis,48.674722,-123.210556
 2290357798,Saxifraga_bronchialis,51.5,-117.833333
 1259936742,Saxifraga_bronchialis,51.5,-118.5
 1988177728,Saxifraga_bronchialis,49.1,-118.7
