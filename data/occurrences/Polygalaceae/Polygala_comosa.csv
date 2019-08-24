@@ -32,7 +32,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947423701,Polygala_comosa,50.23,10.13
 1697351067,Polygala_comosa,54.258086,46.616518
 1838166284,Polygala_comosa,48.73389,5.88861
-1947415911,Polygala_comosa,50,9.76
 1697351103,Polygala_comosa,55.68736,41.758797
 1142099245,Polygala_comosa,48.2675,15.58167
 2288466350,Polygala_comosa,50.768655,5.861346
@@ -87,10 +86,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503360490,Polygala_comosa,52.400694,13.166667
 1697577156,Polygala_comosa,51.116667,40.366667
 1697576809,Polygala_comosa,56.558333,40.544444
-1638414939,Polygala_comosa,50.43333,20
-883386744,Polygala_comosa,50.433333,20
 1935713602,Polygala_comosa,46.70385,15.44254
-1697577206,Polygala_comosa,53.5,39
 1096602429,Polygala_comosa,58.69,23.58
 1096606161,Polygala_comosa,58.58,23.56
 1697577099,Polygala_comosa,51.121361,40.24668
@@ -108,14 +104,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697576838,Polygala_comosa,55.258491,41.87228
 1638419791,Polygala_comosa,48.10833,16.16278
 788681112,Polygala_comosa,41.25,23.683333
-1697576900,Polygala_comosa,55.5,31.916667
 1697576883,Polygala_comosa,55.45,31.583333
 1935711602,Polygala_comosa,46.81,15.98667
 1697577132,Polygala_comosa,53.333333,35.416667
 1697576840,Polygala_comosa,55.35,31.95
 1935711594,Polygala_comosa,47.13861,15.22472
 2292011968,Polygala_comosa,50.83,5.918333
-615376425,Polygala_comosa,38.9,75.2
 788674193,Polygala_comosa,41.016667,22.283333
 615376339,Polygala_comosa,38.95,75.17
 1697577902,Polygala_comosa,53.455003,57.769382
@@ -147,14 +141,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839058664,Polygala_comosa,41.387501,23.95417
 1697577059,Polygala_comosa,58.781724,46.61584
 2291809174,Polygala_comosa,46.65,9.55
-2289159318,Polygala_comosa,42.783333,0.4
 2292012199,Polygala_comosa,43.283333,0.666667
-2291809410,Polygala_comosa,43.3,0.65
 2291808856,Polygala_comosa,43.261667,0.641667
 1332796400,Polygala_comosa,51.09548,9.505082
 1882017617,Polygala_comosa,48.79,10.72
 1947423674,Polygala_comosa,50.06,9.97
-1882017620,Polygala_comosa,48.78,10.7
 1697577243,Polygala_comosa,53.136404,47.406945
 1697577112,Polygala_comosa,52.438243,38.519977
 1288114557,Polygala_comosa,50.869766,9.866011
@@ -235,7 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697576864,Polygala_comosa,54.747726,40.47469
 1935711589,Polygala_comosa,46.73611,15.86972
 1697807212,Polygala_comosa,43.226767,46.414153
-1697576904,Polygala_comosa,54.7,35.6
 1697576987,Polygala_comosa,55.854572,38.555713
 1697807268,Polygala_comosa,42.09074,48.13012
 2313362084,Polygala_comosa,48.07,11.37
@@ -305,10 +295,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891605539,Polygala_comosa,49.69,6.08
 1891592421,Polygala_comosa,49.89,6.22
 1705477519,Polygala_comosa,48.65,16.03
-1891595065,Polygala_comosa,49.72,6.4
 969920,Polygala_comosa,56.06672,14.22969
 1891607119,Polygala_comosa,49.74,6.28
-1891592265,Polygala_comosa,49.7,6.27
 1899073388,Polygala_comosa,49.74,6.21
 1697577041,Polygala_comosa,55.732918,36.903406
 1891602400,Polygala_comosa,49.84,6.27
@@ -348,7 +336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697577355,Polygala_comosa,54.724517,55.917882
 1697577082,Polygala_comosa,53.719973,41.473793
 1697577113,Polygala_comosa,53.724082,41.452403
-1697270252,Polygala_comosa,51.75,103.7
 1697576844,Polygala_comosa,53.866992,40.677507
 1705430339,Polygala_comosa,58.484618,14.997262
 1697577192,Polygala_comosa,54.476374,45.879558
@@ -356,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697577239,Polygala_comosa,54.724729,46.44891
 1697807295,Polygala_comosa,40.509492,44.929447
 1697577224,Polygala_comosa,57.195067,45.412707
-616368179,Polygala_comosa,50.83,5.9
 1697576954,Polygala_comosa,54.081194,39.21563
 2313361625,Polygala_comosa,48.17,11.37
 1697577265,Polygala_comosa,49.289306,41.487465
