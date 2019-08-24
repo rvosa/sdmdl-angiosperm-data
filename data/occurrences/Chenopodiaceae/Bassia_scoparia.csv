@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242360847,Bassia_scoparia,39.40805,-104.733521
 1797621461,Bassia_scoparia,-35.195,-67.581389
 1843219792,Bassia_scoparia,43.828333,-98.022
-1830970960,Bassia_scoparia,48.24861,16.39333
 2242361419,Bassia_scoparia,39.60818,-104.97197
 1830971009,Bassia_scoparia,48.43583,16.20639
 2242356034,Bassia_scoparia,38.471,-102.76673
@@ -18,8 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1837900163,Bassia_scoparia,51.2925,11.474166
 1501760355,Bassia_scoparia,39.42,-0.41
 1829922134,Bassia_scoparia,35.432428,139.290564
-1705478748,Bassia_scoparia,48.2016,16.2491
-1705478797,Bassia_scoparia,48.20079,16.25193
 1987019970,Bassia_scoparia,41.75322,-111.80393
 1234285271,Bassia_scoparia,39.02604,-99.86978
 1270655503,Bassia_scoparia,31.182167,35.701783
@@ -37,11 +34,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1209659377,Bassia_scoparia,51.0258,-114.102
 1929305144,Bassia_scoparia,44.67503,-103.861084
 1257977204,Bassia_scoparia,38.7061,-90.4894
-1705478019,Bassia_scoparia,48.1874,16.3796
 1846553442,Bassia_scoparia,35.2340639991105,-112.180692
 1987006705,Bassia_scoparia,44.91217,-117.81902
-1705478068,Bassia_scoparia,48.187,16.3797
-1705478055,Bassia_scoparia,48.2403,16.2768
 2270490715,Bassia_scoparia,34.906483,-112.238403
 1829912643,Bassia_scoparia,35.40743,139.278066
 1257915614,Bassia_scoparia,43.983333,-99.316667
@@ -85,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929033890,Bassia_scoparia,37.9539,-112.4172
 2270460107,Bassia_scoparia,34.6332,-111.897
 2270579732,Bassia_scoparia,34.5249,-111.832
-1948569379,Bassia_scoparia,60.175312,24.951853
 233099475,Bassia_scoparia,37.28183,-98.74884
 240493096,Bassia_scoparia,40.64318,-105.12845
 728980916,Bassia_scoparia,51.562838,6.004505
@@ -131,16 +124,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2304313978,Bassia_scoparia,62.52,-114.86
 1936697799,Bassia_scoparia,41.3134,-6.409
 436709545,Bassia_scoparia,48.61917,6.19333
-1230515047,Bassia_scoparia,48.22417,16.39361
 2212888895,Bassia_scoparia,41.5646,-88.0799
 2270579487,Bassia_scoparia,33.8744,-111.35
 2270685249,Bassia_scoparia,31.4584,-106.179
 788772231,Bassia_scoparia,56.02748,14.13473
 788780193,Bassia_scoparia,55.99135,14.12026
-1702034907,Bassia_scoparia,59.97258,10.72237
 2270685979,Bassia_scoparia,31.3974,-106.004
 860312672,Bassia_scoparia,41.426,1.965
-1697781018,Bassia_scoparia,45.217795,36.710579
 473455808,Bassia_scoparia,45.358067,-73.519783
 1986956055,Bassia_scoparia,40.525278,-105.0375
 1230514027,Bassia_scoparia,40.82111,43.83306
@@ -209,10 +199,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697727224,Bassia_scoparia,45.380556,33.113889
 465917059,Bassia_scoparia,45.9325,-66.744722
 995453366,Bassia_scoparia,59.341667,16.540278
-1340036015,Bassia_scoparia,38.866667,24.566667
 2242376529,Bassia_scoparia,39.824768,-105.097444
 2270579481,Bassia_scoparia,31.7237,-110.188
-1702086400,Bassia_scoparia,59.3075,10.2909
 1830689144,Bassia_scoparia,33.566667,134.033333
 176967966,Bassia_scoparia,38.754167,-97.788333
 1702246580,Bassia_scoparia,59.84212,10.21987
@@ -290,7 +278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176967963,Bassia_scoparia,38.815833,-102.353611
 858317201,Bassia_scoparia,53.1485,11.2487
 1288109379,Bassia_scoparia,50.9144,10.9109
-1999614958,Bassia_scoparia,60.457924,22.041635
 30850847,Bassia_scoparia,39.360001,-0.45
 176967962,Bassia_scoparia,39.119999,-100.847221
 2265445359,Bassia_scoparia,44.536177,-94.260407
@@ -321,7 +308,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270579924,Bassia_scoparia,34.55167,-112.2453
 1989293146,Bassia_scoparia,41.727923,-83.920982
 1881040495,Bassia_scoparia,48.72,10.74
-1144607089,Bassia_scoparia,41.75,9.4
 441965793,Bassia_scoparia,51.56567,12.9958
 1697780936,Bassia_scoparia,44.733504,37.784171
 1931295010,Bassia_scoparia,42.498333,-110.105278
@@ -344,7 +330,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615342153,Bassia_scoparia,36.27,72.25
 2235418503,Bassia_scoparia,40.57,-104.75
 176967576,Bassia_scoparia,39.529514,-98.639091
-1702196028,Bassia_scoparia,59.0446,10.0544
 895172564,Bassia_scoparia,39.43,-2.36
 1843819693,Bassia_scoparia,34.929,-104.66
 699269051,Bassia_scoparia,41.08666,-73.3925
@@ -355,7 +340,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 864887999,Bassia_scoparia,42.2362,-122.7476
 1342612758,Bassia_scoparia,56.139716,10.213674
 1988825748,Bassia_scoparia,42.212515,-83.323129
-1099859542,Bassia_scoparia,56.25478,12.55606
 51862336,Bassia_scoparia,44.0861,-123.1503
 1638379666,Bassia_scoparia,47.225,15.375
 1502019808,Bassia_scoparia,39.76,-0.15
@@ -365,7 +349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895248268,Bassia_scoparia,39.765,-0.157
 1501069457,Bassia_scoparia,38.36,-0.51
 1501069114,Bassia_scoparia,38.39,-0.52
-1701835432,Bassia_scoparia,59.08795,10.01615
 318104015,Bassia_scoparia,38.34,-0.53
 1851342699,Bassia_scoparia,38.341,-0.534
 318104030,Bassia_scoparia,38.12,-0.75
@@ -380,7 +363,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501070879,Bassia_scoparia,38.34,-0.59
 1501070299,Bassia_scoparia,38.36,-0.57
 1697478980,Bassia_scoparia,59.223646,39.882184
-1936512166,Bassia_scoparia,38.6934,0.0784
 318103803,Bassia_scoparia,38.36,-0.53
 1988653337,Bassia_scoparia,44.03791,-77.73318
 1638379765,Bassia_scoparia,48.225,14.29167
@@ -492,7 +474,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050574002,Bassia_scoparia,42.5,-2.43
 2265429568,Bassia_scoparia,43.92,-94.702222
 1986966736,Bassia_scoparia,40.430389,-111.927444
-1500200845,Bassia_scoparia,44.833333,14.166667
 1896336856,Bassia_scoparia,25.668889,-97.8125
 1050574181,Bassia_scoparia,42.7,-2.96
 993443001,Bassia_scoparia,-28.35,114.6167
@@ -503,14 +484,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2307466668,Bassia_scoparia,50.41,-121.36
 1988145515,Bassia_scoparia,53.92,-122.69
 895276687,Bassia_scoparia,38.77,0.07
-1638379680,Bassia_scoparia,48.175,16.375
 30848845,Bassia_scoparia,40.380001,-3.82
 1697479114,Bassia_scoparia,56.951921,41.139004
 1697479031,Bassia_scoparia,57.01119,41.026555
 1697479099,Bassia_scoparia,57.017898,40.979993
 1697479029,Bassia_scoparia,54.772637,35.911476
 1949621913,Bassia_scoparia,49.066667,-119.5
-788566093,Bassia_scoparia,56.61143,16.62232
 1261454317,Bassia_scoparia,39.11666,-102.3
 1929469046,Bassia_scoparia,40.0573,-113.26
 1986906575,Bassia_scoparia,40.0988,-108.2077
@@ -522,14 +501,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988859860,Bassia_scoparia,43.03687,-80.8932
 1563371379,Bassia_scoparia,31.892222,-106.096389
 2242372486,Bassia_scoparia,39.718322,-104.813848
-1340036089,Bassia_scoparia,37,26.933333
 415885177,Bassia_scoparia,41.17277,-73.11
 2289423310,Bassia_scoparia,41.3,-0.316667
 992030318,Bassia_scoparia,-35,140
 1501070010,Bassia_scoparia,38.65,-0.25
-1705446689,Bassia_scoparia,56.60067,16.636646
 1851401155,Bassia_scoparia,38.16,-1.34
-2270277067,Bassia_scoparia,34.13905,-119.18302
 2270579773,Bassia_scoparia,34.66,-113.58
 2270577734,Bassia_scoparia,34.77908491306,-112.44351011012
 1893727165,Bassia_scoparia,19.491667,-98.888333
@@ -540,15 +516,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703297126,Bassia_scoparia,49.699896738238,-97.2668953927394
 1988217876,Bassia_scoparia,49.01,-119.67
 1949628033,Bassia_scoparia,49.011667,-119.67
-895196207,Bassia_scoparia,40.21,0.24
 996363778,Bassia_scoparia,61.116665,24.316667
 1948495556,Bassia_scoparia,61.118082,24.31669
 992507769,Bassia_scoparia,-32.5,138.3
 992521964,Bassia_scoparia,-32.876526,134.261393
 1501071214,Bassia_scoparia,38.65,-0.27
-895195821,Bassia_scoparia,40.03,0.13
 1930430862,Bassia_scoparia,41.36842,-114.1665
-1703297151,Bassia_scoparia,49.8843418882009,-97.1466152260655
 1949655327,Bassia_scoparia,50.765,-121.635
 2307575607,Bassia_scoparia,50.79,-121.61
 1949641977,Bassia_scoparia,50.786667,-121.608333
@@ -581,7 +554,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261003292,Bassia_scoparia,38.55416,-90.53888
 1248692010,Bassia_scoparia,46.783333,-71.283333
 1949628580,Bassia_scoparia,50.133333,-120.583333
-1340029291,Bassia_scoparia,39.533333,24.983333
 1989132618,Bassia_scoparia,41.89727,-84.01902
 1697479022,Bassia_scoparia,54.030001,35.752981
 1949630605,Bassia_scoparia,50.208333,-119.2
@@ -590,8 +562,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697479046,Bassia_scoparia,53.689475,38.646071
 2265600720,Bassia_scoparia,47.33269,-96.24767
 1050657938,Bassia_scoparia,42.38,-1.45
-1261454793,Bassia_scoparia,0.35,32.58333
-2291826973,Bassia_scoparia,0.35,32.583333
 1989152790,Bassia_scoparia,45.947004,-86.271894
 2265602314,Bassia_scoparia,45.607514,-96.60438
 1842925714,Bassia_scoparia,35.085,-108.788
@@ -618,7 +588,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415951775,Bassia_scoparia,43.00027,-75.5
 1804513787,Bassia_scoparia,48.416667,-89.6
 1949630786,Bassia_scoparia,49.033333,-118.433333
-895259061,Bassia_scoparia,39.31,-0.27
 1697216743,Bassia_scoparia,55.416667,76.916667
 1828886881,Bassia_scoparia,34.84619,134.70422
 1050657910,Bassia_scoparia,42.21,-1.67
@@ -647,7 +616,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948495400,Bassia_scoparia,60.984549,24.493385
 1989137143,Bassia_scoparia,46.585121,-89.56314
 615342149,Bassia_scoparia,39.5,76
-30848872,Bassia_scoparia,39.48,2.65
 1703297943,Bassia_scoparia,49.1273,-98.0933
 2242387931,Bassia_scoparia,39.827316,-104.840976
 2242367079,Bassia_scoparia,39.805595,-105.173817
@@ -689,10 +657,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860327393,Bassia_scoparia,41.596,1.854
 1948495553,Bassia_scoparia,61.542151,23.984737
 1144607119,Bassia_scoparia,42.68333,9.3
-1948495608,Bassia_scoparia,60.456886,22.049985
 1936249574,Bassia_scoparia,41.8549,0.4569
 234423450,Bassia_scoparia,35.457431,139.640536
-1948495563,Bassia_scoparia,60.457713,22.048038
 1936342954,Bassia_scoparia,38.9211,-1.7208
 234423451,Bassia_scoparia,35.365776,139.528047
 895257938,Bassia_scoparia,38.96,-0.52
@@ -734,7 +700,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099864041,Bassia_scoparia,58.54933,12.34541
 1829781603,Bassia_scoparia,35.60065,139.44171
 1050657917,Bassia_scoparia,42.15,0.22
-1804374492,Bassia_scoparia,45.4,-75.783333
 1091201685,Bassia_scoparia,-45.259,169.389
 176967804,Bassia_scoparia,37.60197,-95.31662
 176968064,Bassia_scoparia,37.45499,-94.65508
@@ -825,7 +790,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176967844,Bassia_scoparia,37.22559,-99.98429
 176967845,Bassia_scoparia,37.13866,-100.80678
 2248048569,Bassia_scoparia,-30.680833,-63.923611
-1701977538,Bassia_scoparia,59.8981,10.7427
 211629575,Bassia_scoparia,37.23,-3.23
 1936114689,Bassia_scoparia,37.2245,-3.2267
 1851380728,Bassia_scoparia,37.27,-3.17
@@ -900,15 +864,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176968191,Bassia_scoparia,38.98032,-95.24316
 606652704,Bassia_scoparia,41.34583,-72.02972
 176967852,Bassia_scoparia,38.95009,-95.23946
-1701815454,Bassia_scoparia,59.904,10.7431
 1030827950,Bassia_scoparia,27.928607,101.279419
 1030828004,Bassia_scoparia,30.023401,108.185012
 995768361,Bassia_scoparia,-22.63,118.12
 1843866382,Bassia_scoparia,35.700033,-108.194478
-1701977638,Bassia_scoparia,59.9356,10.7269
 994924703,Bassia_scoparia,-22.6,118.1167
 2242362525,Bassia_scoparia,40.583368,-105.083896
-1701783232,Bassia_scoparia,59.0433,10.0543
 2265603484,Bassia_scoparia,47.404599,-93.956013
 1927785867,Bassia_scoparia,38.12454,-110.484
 1846533811,Bassia_scoparia,38.124743,-110.484997
@@ -925,7 +886,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1611935577,Bassia_scoparia,31.783333,-106.5
 176968117,Bassia_scoparia,37.11618,-98.36644
 1948495397,Bassia_scoparia,61.498304,23.738115
-1702031669,Bassia_scoparia,59.0433,10.0518
 2242362340,Bassia_scoparia,39.730448,-104.960803
 473535190,Bassia_scoparia,49.1,-110.566667
 1843866412,Bassia_scoparia,34.250475,-107.932933
@@ -971,7 +931,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176968091,Bassia_scoparia,39.18889,-94.82033
 176968200,Bassia_scoparia,39.0286,-96.86872
 176967787,Bassia_scoparia,39.04082,-98.10711
-1701505905,Bassia_scoparia,48.21611,16.35861
 176967732,Bassia_scoparia,38.07107,-97.40447
 2270581497,Bassia_scoparia,34.06,-109.19
 176968102,Bassia_scoparia,39.633552,-95.178198
@@ -982,9 +941,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1092710660,Bassia_scoparia,35.28832,-103.31595
 1092710692,Bassia_scoparia,34.62233,-103.21353
 1697479075,Bassia_scoparia,54.673776,40.860518
-1829475528,Bassia_scoparia,39.9805,139.7268
 2270580315,Bassia_scoparia,33.59,-109.13
-1599627712,Bassia_scoparia,60.173077,25.105287
 176967801,Bassia_scoparia,37.08866,-96.14016
 1099863587,Bassia_scoparia,55.59028,13.02351
 176967831,Bassia_scoparia,37.70864,-96.22603
@@ -999,7 +956,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176967832,Bassia_scoparia,38.96424,-95.25016
 176968171,Bassia_scoparia,38.48591,-94.95295
 176967710,Bassia_scoparia,38.40837,-95.69555
-1702286517,Bassia_scoparia,59.9082,10.7612
 176967800,Bassia_scoparia,38.32221,-96.99261
 1933815531,Bassia_scoparia,35.67855,140.09714
 176968040,Bassia_scoparia,38.73971,-96.48816
@@ -1109,7 +1065,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318103756,Bassia_scoparia,38.42,-0.54
 176967981,Bassia_scoparia,35.981305,-98.054218
 176968122,Bassia_scoparia,43.79654,-99.42482
-1702341892,Bassia_scoparia,59.9115,10.7524
 176968007,Bassia_scoparia,37.51175,-98.87851
 1846533790,Bassia_scoparia,36.376389,-105.551667
 465917057,Bassia_scoparia,45.508889,-73.554167
@@ -1172,7 +1127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999511908,Bassia_scoparia,60.446012,22.207256
 1896089607,Bassia_scoparia,40.705833,-89.616944
 1999511857,Bassia_scoparia,60.437719,22.226673
-2244467315,Bassia_scoparia,39.91229,139.7733
 859262253,Bassia_scoparia,38.99388,-105.05693
 1999511909,Bassia_scoparia,60.477314,22.20263
 57680535,Bassia_scoparia,60.446602,22.2253
@@ -1313,12 +1267,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415966607,Bassia_scoparia,-32,-64
 1928893400,Bassia_scoparia,38.142648,-112.270482
 859262268,Bassia_scoparia,46.87719,-96.7898
-1099859565,Bassia_scoparia,56.03147,12.70846
 1303715621,Bassia_scoparia,30.710589,104.088668
-1303715602,Bassia_scoparia,23.005897,120.182022
 1304088410,Bassia_scoparia,34.15745,107.843975
 1303715585,Bassia_scoparia,33.15355,106.67304
-639076,Bassia_scoparia,56.15837,14.86326
 1030968504,Bassia_scoparia,24.399244,109.379926
 1304121852,Bassia_scoparia,31.099523,112.112314
 465764463,Bassia_scoparia,45.07662,-64.49592
@@ -1328,7 +1279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303715630,Bassia_scoparia,33.392394,104.926525
 1228548794,Bassia_scoparia,-35.3869,-64.9208
 465917054,Bassia_scoparia,43.653524,-79.383907
-1099859555,Bassia_scoparia,56.11815,12.60669
 2265603410,Bassia_scoparia,44.24108,-96.26172
 1303715697,Bassia_scoparia,32.144677,110.712211
 2265601199,Bassia_scoparia,44.905226,-93.045075
@@ -1352,7 +1302,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303715623,Bassia_scoparia,33.981028,108.20147
 1303715647,Bassia_scoparia,39.71615,115.838889
 1303715636,Bassia_scoparia,37.954325,114.053235
-1099859715,Bassia_scoparia,55.675833,12.569444
 2242363062,Bassia_scoparia,38.832009,-104.820845
 1303715639,Bassia_scoparia,37.463695,121.447946
 1303715628,Bassia_scoparia,38.285524,109.735211
@@ -1361,7 +1310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 919538488,Bassia_scoparia,25.227208,100.307171
 1303715644,Bassia_scoparia,37.269647,121.544774
 1701284051,Bassia_scoparia,63.3085,10.1673
-1948495605,Bassia_scoparia,60.170379,24.92525
 1697216737,Bassia_scoparia,51.266667,106.316667
 2265602154,Bassia_scoparia,44.753605,-93.344349
 1843866466,Bassia_scoparia,35.084607,-106.651018
@@ -1372,25 +1320,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843866521,Bassia_scoparia,35.087387,-106.670458
 1804440580,Bassia_scoparia,52.116667,-106.633333
 1258060661,Bassia_scoparia,39.0997,-94.5783
-1705283443,Bassia_scoparia,56.66443,16.365267
 1258060670,Bassia_scoparia,36.54555,-94.485
 1303715601,Bassia_scoparia,42.942326,89.185928
 1303715705,Bassia_scoparia,43.683756,127.383846
 1303715593,Bassia_scoparia,40.642867,109.930036
 1843866501,Bassia_scoparia,35.322535,-106.559099
-1705280408,Bassia_scoparia,56.654999,16.359583
-638777,Bassia_scoparia,56.66715,16.36147
-1099864084,Bassia_scoparia,59.28841,18.19561
-1705487296,Bassia_scoparia,49.5955,17.2573
 1703297153,Bassia_scoparia,51.3018348896099,-100.332847248385
 1303715616,Bassia_scoparia,36.107933,120.415961
 1303715632,Bassia_scoparia,32.435432,105.843358
 1303715688,Bassia_scoparia,40.140967,117.904919
 176967829,Bassia_scoparia,37.97482,-100.8655
 51862404,Bassia_scoparia,45.5014,-119.9292
-639008,Bassia_scoparia,56.66443,16.365269
 176967802,Bassia_scoparia,39.35023,-99.325054
-639074,Bassia_scoparia,56.171419,14.862092
 1304100403,Bassia_scoparia,31.237023,120.406916
 1303715666,Bassia_scoparia,34.780377,113.658221
 1303715619,Bassia_scoparia,39.066897,112.960256
@@ -1407,12 +1348,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099863260,Bassia_scoparia,56.031862,14.152378
 1701574914,Bassia_scoparia,63.27552,10.06049
 1304127538,Bassia_scoparia,32.059064,119.418318
-1701505764,Bassia_scoparia,48.18333,16.28333
 1260928875,Bassia_scoparia,39.106111,-94.510556
 1258060856,Bassia_scoparia,39.1061,-94.5106
 1099861607,Bassia_scoparia,55.923564,14.292627
 1099859473,Bassia_scoparia,55.704215,13.193147
-1099859320,Bassia_scoparia,55.671944,12.613889
 1304120145,Bassia_scoparia,31.375019,119.823343
 2313061873,Bassia_scoparia,48.87,12.54
 1930967512,Bassia_scoparia,40.586125,-98.388393
@@ -1430,7 +1369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313342480,Bassia_scoparia,48.17,11.36
 1038922167,Bassia_scoparia,41.3264,-73.083
 415885180,Bassia_scoparia,41.76583,-72.68388
-2005765920,Bassia_scoparia,33.345815,126.536759
 20523615,Bassia_scoparia,59.1911,9.6214
 1899355769,Bassia_scoparia,43.732195,-79.368602
 1099864188,Bassia_scoparia,59.86839,17.63442
