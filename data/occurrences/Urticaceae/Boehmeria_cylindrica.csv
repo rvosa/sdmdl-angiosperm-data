@@ -7,7 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1837380641,Boehmeria_cylindrica,-27.54,-49.770556
 1837438719,Boehmeria_cylindrica,-25.9425,-49.063333
 1840927235,Boehmeria_cylindrica,-25.237667,-53.822139
-1840922343,Boehmeria_cylindrica,-28.013056,-49.491944
 1853940263,Boehmeria_cylindrica,-27.722222,-49.409167
 1848115717,Boehmeria_cylindrica,-25.949833,-51.8395
 1889173565,Boehmeria_cylindrica,-24.077056,-53.038333
@@ -34,12 +33,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989541899,Boehmeria_cylindrica,42.490192,-85.83563
 1978007978,Boehmeria_cylindrica,37.7733,-83.56182
 1849096412,Boehmeria_cylindrica,33.550136,-80.437185
-1931784291,Boehmeria_cylindrica,-28.570278,-49.453611
 1978382426,Boehmeria_cylindrica,-24.12,-50.94
 1423895328,Boehmeria_cylindrica,-26.82,-52.016944
 1077425881,Boehmeria_cylindrica,-26.370556,-49.320278
-1099619729,Boehmeria_cylindrica,-29.966222,-50.226889
-1077382750,Boehmeria_cylindrica,-29.966111,-50.226944
 1143431090,Boehmeria_cylindrica,-27.421806,-50.157611
 1929583686,Boehmeria_cylindrica,40.779508,-73.967303
 1899880803,Boehmeria_cylindrica,32.96505,-87.40878
@@ -47,18 +43,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1319081482,Boehmeria_cylindrica,36.8506,-76.8424
 1324592346,Boehmeria_cylindrica,-7.138056,-34.86
 2308346678,Boehmeria_cylindrica,36.85,-76.84
-1929729699,Boehmeria_cylindrica,41.07718,-71.91592
 1928402562,Boehmeria_cylindrica,38.670689,-75.186858
 1990674498,Boehmeria_cylindrica,39.615498,-92.512919
 1990674516,Boehmeria_cylindrica,39.269054,-93.271901
-1928815932,Boehmeria_cylindrica,41.07058,-71.89206
 1849187252,Boehmeria_cylindrica,34.326008,-79.723502
 1981530143,Boehmeria_cylindrica,40.074387,-95.232866
 1849127557,Boehmeria_cylindrica,33.947462,-80.624393
 2234527561,Boehmeria_cylindrica,34.9798,-84.6389
 1275058480,Boehmeria_cylindrica,-26.873056,-52.3875
 1077426034,Boehmeria_cylindrica,-26.233056,-49.360278
-1077377216,Boehmeria_cylindrica,-28.286389,-50.4475
 1978879984,Boehmeria_cylindrica,42.08905,-84.45867
 1503273185,Boehmeria_cylindrica,28.7217,-81.305
 1258054375,Boehmeria_cylindrica,37.47982,-90.16352
@@ -79,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946699999,Boehmeria_cylindrica,33.1776,-79.5234
 1840932954,Boehmeria_cylindrica,-22.758333,-44.619167
 1077419188,Boehmeria_cylindrica,-26.831944,-48.642222
-1234560047,Boehmeria_cylindrica,-29.798611,-48.642222
 1077419262,Boehmeria_cylindrica,-27.064444,-49.098333
 1840930050,Boehmeria_cylindrica,-26.899444,-48.655278
 1095638686,Boehmeria_cylindrica,-26.939139,-50.695069
@@ -141,7 +133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077414391,Boehmeria_cylindrica,-26.46,-50.4
 1927768346,Boehmeria_cylindrica,38.776203,-75.3127
 1988724574,Boehmeria_cylindrica,43.1238,-85.3843
-1849148546,Boehmeria_cylindrica,32.81302,-79.73016
 1257775751,Boehmeria_cylindrica,37.542778,-88.977778
 1258145576,Boehmeria_cylindrica,32.491111,-95.256389
 1269728274,Boehmeria_cylindrica,29.82543,-90.3107
@@ -161,8 +152,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257749812,Boehmeria_cylindrica,38.381945,-91.742778
 1929956272,Boehmeria_cylindrica,34.853569,-76.777744
 1930127584,Boehmeria_cylindrica,37.266339,-75.975339
-895217780,Boehmeria_cylindrica,39.482,-0.39
-1095366817,Boehmeria_cylindrica,-30.067778,-51.019444
 1424271269,Boehmeria_cylindrica,-22.499167,-43.001111
 1928321073,Boehmeria_cylindrica,41.451231,-73.611867
 1030477977,Boehmeria_cylindrica,42.701556,-84.475583
@@ -218,11 +207,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265456217,Boehmeria_cylindrica,43.512351,-94.463443
 122225322,Boehmeria_cylindrica,33.26639,-87.035
 1090575699,Boehmeria_cylindrica,-22.8164,-45.1925
-1849165643,Boehmeria_cylindrica,35.017,-178.7546
 1849167183,Boehmeria_cylindrica,34.4712,-79.7982
 1840932768,Boehmeria_cylindrica,-26.250556,-49.378611
 1086957867,Boehmeria_cylindrica,-24.33325,-50.560333
-1090606077,Boehmeria_cylindrica,-29.480833,-50.174444
 1260924130,Boehmeria_cylindrica,37.820556,-94.286667
 1261003764,Boehmeria_cylindrica,37.182222,-90.4875
 176894141,Boehmeria_cylindrica,42.2766,-96.3319
@@ -261,7 +248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503247336,Boehmeria_cylindrica,28.5872,-80.875
 415944344,Boehmeria_cylindrica,41.72611,-72.44055
 415944433,Boehmeria_cylindrica,41.81472,-72.22527
-1929572177,Boehmeria_cylindrica,-29.4522266775245,-50.5840138701795
 2270543371,Boehmeria_cylindrica,10.428045,-84.009945
 1253815678,Boehmeria_cylindrica,10.433333,-84.033333
 176894144,Boehmeria_cylindrica,39.073611,-96.804722
@@ -282,9 +268,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176894132,Boehmeria_cylindrica,39.158889,-94.791667
 1269667638,Boehmeria_cylindrica,30.372222,-91.104722
 1260569487,Boehmeria_cylindrica,-26.43333,-53.83333
-188381151,Boehmeria_cylindrica,-29.115,-51.0903
 1893942462,Boehmeria_cylindrica,23.111975,-99.142472
-1929400328,Boehmeria_cylindrica,-29.108528,-51.094927
 1260567725,Boehmeria_cylindrica,-26.85,-54.21666
 56526905,Boehmeria_cylindrica,30.42361,-87.34389
 176894138,Boehmeria_cylindrica,41.5446,-81.4729
@@ -292,14 +276,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849147236,Boehmeria_cylindrica,34.5617,-81.7553
 1989386910,Boehmeria_cylindrica,43.77772,-85.29513
 1503274189,Boehmeria_cylindrica,27.8278,-81.3606
-2270577250,Boehmeria_cylindrica,31.514172,-81.233464
 176894140,Boehmeria_cylindrica,42.499737,-100.566585
-415964818,Boehmeria_cylindrica,31.4775,-81.24166
 176894143,Boehmeria_cylindrica,34.159412,-91.682343
 176894151,Boehmeria_cylindrica,37.5494,-99.63573
 1978890449,Boehmeria_cylindrica,27.693083,-81.39285
 1258770565,Boehmeria_cylindrica,-27.406944,-56.779722
-1090602599,Boehmeria_cylindrica,-29.420556,-50.575556
 1978067436,Boehmeria_cylindrica,38.337528,-83.548111
 1455184301,Boehmeria_cylindrica,45.383333,-73.966667
 415923791,Boehmeria_cylindrica,42.81944,-72.545
@@ -336,7 +317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668804658,Boehmeria_cylindrica,46.566667,-72.2
 176894153,Boehmeria_cylindrica,38.704333,-98.034449
 1090568117,Boehmeria_cylindrica,-23.5475,-46.6361
-1930029510,Boehmeria_cylindrica,-29.433343,-50.395632
 1840931272,Boehmeria_cylindrica,-23.224444,-45.048056
 1894626935,Boehmeria_cylindrica,21.346667,-99.550278
 1261007371,Boehmeria_cylindrica,37.5,-94.533333
@@ -415,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804551632,Boehmeria_cylindrica,45.2666669990568,-75.6
 1846539461,Boehmeria_cylindrica,33.868816,-110.925636
 1455184239,Boehmeria_cylindrica,45.55,-73.15
-1319005727,Boehmeria_cylindrica,38.8653,-76.9867
 1258659577,Boehmeria_cylindrica,-25.33333,-57.46666
 1258646399,Boehmeria_cylindrica,-25.333333,-57.466667
 1261436426,Boehmeria_cylindrica,-25.25,-57.5
@@ -441,7 +420,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804468666,Boehmeria_cylindrica,44.783333,-76.5
 176894230,Boehmeria_cylindrica,38.174096,-94.7289
 1804593119,Boehmeria_cylindrica,45.283333,-75.166667
-1318686560,Boehmeria_cylindrica,38.9058,-76.9406
 1804556034,Boehmeria_cylindrica,45.3,-75.616667
 176894231,Boehmeria_cylindrica,37.783187,-94.750515
 1929474940,Boehmeria_cylindrica,18.174444,-66.592222
@@ -472,7 +450,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176894195,Boehmeria_cylindrica,38.75955,-95.1664
 1989319530,Boehmeria_cylindrica,41.867459,-84.052539
 1261007353,Boehmeria_cylindrica,37.960556,-92.786389
-1319596570,Boehmeria_cylindrica,38.8994,-77.0575
 2288342138,Boehmeria_cylindrica,17.966667,-71.216667
 1928191642,Boehmeria_cylindrica,17.97,-71.22
 1260935221,Boehmeria_cylindrica,39.50916,-92.67194
@@ -561,7 +538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56526412,Boehmeria_cylindrica,31.5175,-87.94389
 1260936022,Boehmeria_cylindrica,39.494167,-92.672778
 1260936023,Boehmeria_cylindrica,39.49416,-92.67277
-1804461673,Boehmeria_cylindrica,45.466667,-75.65
 56526401,Boehmeria_cylindrica,31.02083,-87.53889
 1030465657,Boehmeria_cylindrica,42.9,-86.2
 1978067863,Boehmeria_cylindrica,38.245833,-85.530556
@@ -570,7 +546,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260936053,Boehmeria_cylindrica,39.494722,-92.691667
 415899931,Boehmeria_cylindrica,41.80833,-72.24944
 1258889761,Boehmeria_cylindrica,37.04,-91.16
-1804385854,Boehmeria_cylindrica,45.366667,-75.683333
 1260944322,Boehmeria_cylindrica,37.355,-90.91305
 415899939,Boehmeria_cylindrica,41.13472,-73.55
 415899915,Boehmeria_cylindrica,41.45305,-72.46166
@@ -602,7 +577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260478606,Boehmeria_cylindrica,9.08333,-61.1
 1260480448,Boehmeria_cylindrica,9.58333,-61.91666
 731408410,Boehmeria_cylindrica,9.66667,-61.75
-1260476959,Boehmeria_cylindrica,9.5,-60.96666
 1259743704,Boehmeria_cylindrica,-26.35,-53.75
 1259059496,Boehmeria_cylindrica,-24.9737,-53.3918
 1260872292,Boehmeria_cylindrica,15.533333,-89.391111
@@ -635,10 +609,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176894206,Boehmeria_cylindrica,39.177673,-97.334996
 1038936161,Boehmeria_cylindrica,41.9861,-73.4258
 473521380,Boehmeria_cylindrica,45.595833,-75.083333
-415899954,Boehmeria_cylindrica,40.66861,-73.055
 606660829,Boehmeria_cylindrica,41.73611,-72.65
 415899902,Boehmeria_cylindrica,41.92277,-73.43305
-415899956,Boehmeria_cylindrica,41.31416,-71.84666
 473262526,Boehmeria_cylindrica,45.683333,-73.666667
 473262523,Boehmeria_cylindrica,45.7,-73.533333
 176894156,Boehmeria_cylindrica,39.04833,-95.65937
@@ -659,7 +631,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258585275,Boehmeria_cylindrica,40.811,-90.233
 1989476941,Boehmeria_cylindrica,41.978827,-86.561536
 176894222,Boehmeria_cylindrica,37.79438,-95.07331
-1503176949,Boehmeria_cylindrica,32.6833,92.85
 56526403,Boehmeria_cylindrica,33.34139,-87.30417
 1896311282,Boehmeria_cylindrica,18.000833,-94.1
 1896311289,Boehmeria_cylindrica,19.565278,-96.874722
@@ -727,14 +698,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176894191,Boehmeria_cylindrica,37.54151,-95.24319
 1899305938,Boehmeria_cylindrica,44.327133,-79.321804
 1928516120,Boehmeria_cylindrica,37.284436,-110.919744
-1930276228,Boehmeria_cylindrica,-15.7834208090807,-47.9298726661488
 1930571340,Boehmeria_cylindrica,-23.016442,-43.482796
 473262509,Boehmeria_cylindrica,45.357778,-73.789722
 473262507,Boehmeria_cylindrica,45.3664,-73.807
 415899950,Boehmeria_cylindrica,38.30555,-90.27638
 176894159,Boehmeria_cylindrica,38.75569,-95.161523
 176894218,Boehmeria_cylindrica,38.650356,-98.005354
-415899945,Boehmeria_cylindrica,41.41666,-70.61666
 176894186,Boehmeria_cylindrica,39.63535,-95.17775
 1322287317,Boehmeria_cylindrica,38.7922,-77.8392
 1895371306,Boehmeria_cylindrica,27.877755562156,-101.514634630552
@@ -755,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176894207,Boehmeria_cylindrica,37.041808,-94.64297
 176894188,Boehmeria_cylindrica,37.27007,-99.10738
 1228594412,Boehmeria_cylindrica,42.0333,-87.7667
-1930842337,Boehmeria_cylindrica,-27.619513999278,-48.6277627857468
 176894225,Boehmeria_cylindrica,37.27007,-99.19758
 176894178,Boehmeria_cylindrica,37.37138,-98.91593
 176894226,Boehmeria_cylindrica,37.28102,-98.7258
@@ -824,7 +792,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261950612,Boehmeria_cylindrica,45.100883,-73.726279
 1988882825,Boehmeria_cylindrica,42.4188,-84.0701
 1322459032,Boehmeria_cylindrica,37.9694,-76.5414
-1928131430,Boehmeria_cylindrica,-29.3395297847929,-49.7273513839374
 176894131,Boehmeria_cylindrica,37.41202,-100.19435
 1317940673,Boehmeria_cylindrica,38.6267,-76.6853
 2235828566,Boehmeria_cylindrica,-23,-43.3469
@@ -840,7 +807,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415899946,Boehmeria_cylindrica,42.225,-70.88972
 1894422019,Boehmeria_cylindrica,25.373889,-100.16
 1319530783,Boehmeria_cylindrica,39.2625,-77.3908
-1929381480,Boehmeria_cylindrica,-28.558459,-50.388347
 1320788225,Boehmeria_cylindrica,38.8014,-77.7208
 415899906,Boehmeria_cylindrica,41.69166,-72.08694
 1989418056,Boehmeria_cylindrica,42.31436,-84.07915
@@ -849,7 +815,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895371327,Boehmeria_cylindrica,24.3878976290728,-99.6826353688589
 465882190,Boehmeria_cylindrica,45.062957,-73.196754
 415899910,Boehmeria_cylindrica,41.31638,-72.90611
-1090593820,Boehmeria_cylindrica,-30.019139,-51.237222
 1893675940,Boehmeria_cylindrica,25.673333,-100.463333
 1419228356,Boehmeria_cylindrica,25.675278,-100.461944
 1260972454,Boehmeria_cylindrica,40.01138,-92.68944
@@ -860,7 +825,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928665772,Boehmeria_cylindrica,40.862717,-73.875936
 1261948654,Boehmeria_cylindrica,45.478629,-73.869701
 415899918,Boehmeria_cylindrica,41.41166,-72.41611
-1928534129,Boehmeria_cylindrica,-29.75136,-51.143791
 1259454862,Boehmeria_cylindrica,17.565278,-91.245555
 1989014162,Boehmeria_cylindrica,42.453039,-84.451628
 1321686830,Boehmeria_cylindrica,38.8664,-77.7064
@@ -869,10 +833,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1319130861,Boehmeria_cylindrica,38.8561,-77.7144
 415899903,Boehmeria_cylindrica,41.34583,-72.03027
 1260973303,Boehmeria_cylindrica,37.00777,-90.39611
-1321461082,Boehmeria_cylindrica,38.9292,-77.1167
 1090535259,Boehmeria_cylindrica,-21.218542,-48.902742
 1038955489,Boehmeria_cylindrica,41.3219,-72.3017
-415899947,Boehmeria_cylindrica,41.27305,-71.98222
 1989334870,Boehmeria_cylindrica,42.32307,-83.80077
 1090532337,Boehmeria_cylindrica,42.4333,-76.4833
 1899279269,Boehmeria_cylindrica,43.945249,-79.588823
@@ -886,7 +848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988686479,Boehmeria_cylindrica,45.21667,-87.71667
 1038998029,Boehmeria_cylindrica,41.9945,-72.6788
 1038931303,Boehmeria_cylindrica,41.406,-72.4831
-1930020149,Boehmeria_cylindrica,40.862412,-73.878143
 1259453473,Boehmeria_cylindrica,9.15,-79.85
 415899948,Boehmeria_cylindrica,43.60166,-84.2925
 1930082850,Boehmeria_cylindrica,22.130781,-80.339315
@@ -897,15 +858,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415942202,Boehmeria_cylindrica,41.875,-72.66666
 1930027934,Boehmeria_cylindrica,20.016407,-76.064722
 1320850260,Boehmeria_cylindrica,39.0703,-76.5456
-1320078322,Boehmeria_cylindrica,38.9103,-76.9664
 415899911,Boehmeria_cylindrica,41.43972,-72.01555
-1321669131,Boehmeria_cylindrica,38.9125,-76.955
 1038930064,Boehmeria_cylindrica,41.4797,-72.3942
 415899944,Boehmeria_cylindrica,43.67444,-94.55111
 1988972943,Boehmeria_cylindrica,45.23306,-84.60806
 1038967685,Boehmeria_cylindrica,41.7829,-72.3394
-473271228,Boehmeria_cylindrica,23.1127,-82.3658
-1261973931,Boehmeria_cylindrica,45.374444,-75.740278
 415899960,Boehmeria_cylindrica,40.01166,-75.015
 1989221754,Boehmeria_cylindrica,41.834217,-86.623722
 1322283666,Boehmeria_cylindrica,38.9981,-77.2886
@@ -924,7 +881,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176894129,Boehmeria_cylindrica,39.825845,-95.141389
 1228354975,Boehmeria_cylindrica,41.15,-87.8667
 1929686814,Boehmeria_cylindrica,-25.4319824288048,-49.2736972819373
-1055983721,Boehmeria_cylindrica,-23.236211,-58.391024
 1989353669,Boehmeria_cylindrica,42.686412,-83.117047
 1038996247,Boehmeria_cylindrica,41.5853,-71.9228
 1930255279,Boehmeria_cylindrica,-25.394435,-51.483771
@@ -946,7 +902,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317361114,Boehmeria_cylindrica,23.0161,-82.3733
 415899930,Boehmeria_cylindrica,41.22416,-73.06027
 415899908,Boehmeria_cylindrica,41.17583,-73.2725
-1928488748,Boehmeria_cylindrica,32.302792,-64.757796
 1929615185,Boehmeria_cylindrica,22.646262,-79.895868
 1038919943,Boehmeria_cylindrica,41.3347,-72.7006
 415899921,Boehmeria_cylindrica,41.985,-73.42277
