@@ -16,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2237779378,Humiria_balsamifera,-13.283333,-39.886667
 1587292639,Humiria_balsamifera,-19.4175,-43.271667
 1806876282,Humiria_balsamifera,-10.9675,-55.543889
-1702660060,Humiria_balsamifera,-0.626292,-47.636319
 1889178470,Humiria_balsamifera,-10.352361,-56.81375
 1889178504,Humiria_balsamifera,-10.348011,-56.813336
 1913582753,Humiria_balsamifera,-9.54,-49.14
@@ -36,12 +35,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2284130834,Humiria_balsamifera,-11.013056,-55.415833
 1455752803,Humiria_balsamifera,-13.716667,-39.133333
 1423936579,Humiria_balsamifera,-22.923056,-42.404444
-1423838014,Humiria_balsamifera,-12.92,-38.318333
 1427600782,Humiria_balsamifera,-17.810833,-43.742778
 1420313867,Humiria_balsamifera,-13.207222,-38.906389
 1901019144,Humiria_balsamifera,-1.930278,-59.419167
 1658212210,Humiria_balsamifera,-13.318472,-41.1555
-1837840748,Humiria_balsamifera,-20.386667,-40.350278
 1423892834,Humiria_balsamifera,-10.547222,-46.417778
 1423892833,Humiria_balsamifera,-10.555556,-46.76
 1638350014,Humiria_balsamifera,-1.579167,-49.644167
@@ -65,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931778927,Humiria_balsamifera,-18.141667,-43.375
 1587329161,Humiria_balsamifera,-7.073611,-47.095833
 1234550058,Humiria_balsamifera,-13.206389,-38.905556
-1657212326,Humiria_balsamifera,-13.1223,-38.542
 1837840333,Humiria_balsamifera,-19.385278,-40.059722
 1837840303,Humiria_balsamifera,-17.325278,-39.229444
 1423939970,Humiria_balsamifera,-10.250556,-41.120278
@@ -75,7 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424496175,Humiria_balsamifera,0.151667,-63.178056
 1090888740,Humiria_balsamifera,-18.403333,-39.701944
 1090155576,Humiria_balsamifera,-2.241489,-49.498481
-1455753317,Humiria_balsamifera,-12.583333,-38.016667
 1424486411,Humiria_balsamifera,-0.874722,-63.340833
 1087708866,Humiria_balsamifera,-11.780833,-37.983333
 1424503819,Humiria_balsamifera,0.863056,-63.333056
@@ -94,9 +89,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077249607,Humiria_balsamifera,-16.616667,-39.966667
 1424515541,Humiria_balsamifera,-13.973889,-47.498611
 1587324782,Humiria_balsamifera,-13.973888,-47.498611
-1077249349,Humiria_balsamifera,-13.95,-38.933333
 1094944020,Humiria_balsamifera,-12.983333,-41.316667
-1077242961,Humiria_balsamifera,-12.576667,-38.0125
 1087693881,Humiria_balsamifera,-10.53302,-37.1919
 1095638223,Humiria_balsamifera,-12.983333,-38.5
 1213517920,Humiria_balsamifera,-11.507778,-41.162222
@@ -125,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671705855,Humiria_balsamifera,-13.002222,-41.388889
 1424470660,Humiria_balsamifera,-18.368611,-39.700556
 1912807471,Humiria_balsamifera,-11.966944,-60.696389
-1077245403,Humiria_balsamifera,-12.936111,-38.336111
 1087693111,Humiria_balsamifera,-10.685278,-36.810556
 1090887473,Humiria_balsamifera,-18.652222,-39.780833
 1090152251,Humiria_balsamifera,-0.772725,-47.45135
@@ -157,7 +149,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087690015,Humiria_balsamifera,-11.186056,-37.196417
 1087692047,Humiria_balsamifera,-10.640833,-36.804444
 1077242927,Humiria_balsamifera,-12.966667,-38.5
-1090894088,Humiria_balsamifera,-2.400278,-44.4
 1143428767,Humiria_balsamifera,-12.983333,-41.333333
 1096934449,Humiria_balsamifera,-19.209417,-39.962778
 1257713424,Humiria_balsamifera,5.175695,-59.482194
@@ -208,7 +199,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077235764,Humiria_balsamifera,-12.801667,-41.344444
 1042684080,Humiria_balsamifera,-1.420417,-60.99
 1087685234,Humiria_balsamifera,-10.593333,-36.94
-1090862610,Humiria_balsamifera,-20.535833,-40.386944
 1042684043,Humiria_balsamifera,1.986921,-60.99
 1042685421,Humiria_balsamifera,1.416333,-60.99
 1042708189,Humiria_balsamifera,-5.023611,-61.45
@@ -223,19 +213,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424318972,Humiria_balsamifera,-19.048611,-43.737222
 1042702353,Humiria_balsamifera,0.120278,-66.81
 1042702527,Humiria_balsamifera,0.106667,-66.81
-1077230994,Humiria_balsamifera,-13.948056,-38.945278
 1257777476,Humiria_balsamifera,5.618222,-60.682806
 1077231867,Humiria_balsamifera,-13.08,-41.894167
 2248070349,Humiria_balsamifera,-12.999071,-41.382249
 1656070486,Humiria_balsamifera,-23.000833,-43.398333
 1042677792,Humiria_balsamifera,-2.583333,-60.23
 1090893634,Humiria_balsamifera,-2.746944,-42.826389
-1424288559,Humiria_balsamifera,-23.139722,-42.428889
 1913579929,Humiria_balsamifera,-6.702778,-47.708611
-1424293577,Humiria_balsamifera,-23.146389,-42.443056
 1042707920,Humiria_balsamifera,1.010816,-61.13
 1094874694,Humiria_balsamifera,-10.564444,-46.661667
-1424288727,Humiria_balsamifera,-13.983333,-38.933333
 1424291617,Humiria_balsamifera,-1.141111,-48.127778
 1424366698,Humiria_balsamifera,-13.616111,-47.522778
 1042697385,Humiria_balsamifera,1.143941,-61.62
@@ -299,7 +285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265929695,Humiria_balsamifera,-9.486111,-58.922222
 1042682241,Humiria_balsamifera,-0.161111,-66.99
 1424372176,Humiria_balsamifera,-16.878333,-42.991667
-1676468708,Humiria_balsamifera,-17,-39
 1077221863,Humiria_balsamifera,-11.628056,-41.000833
 1087678858,Humiria_balsamifera,-12.530556,-38.299167
 1077234722,Humiria_balsamifera,-12.516667,-38.283333
@@ -365,10 +350,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094819363,Humiria_balsamifera,-12.474444,-37.961944
 1094822373,Humiria_balsamifera,-14.243056,-39.014167
 1424245727,Humiria_balsamifera,-22.931389,-42.216944
-1094821863,Humiria_balsamifera,-16.163611,-38.968889
 1094796017,Humiria_balsamifera,-12.46,-37.936944
 1455752334,Humiria_balsamifera,-16.225833,-38.9975
-1123804795,Humiria_balsamifera,-17.5225,-39.198056
 1094840421,Humiria_balsamifera,-13.193889,-41.1975
 1094840464,Humiria_balsamifera,-12.9725,-41.271389
 1424435196,Humiria_balsamifera,6.500556,-58.218333
@@ -389,7 +372,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094806003,Humiria_balsamifera,-16.333611,-41.091944
 1077608549,Humiria_balsamifera,-17.679347,-39.610514
 1094808195,Humiria_balsamifera,-12.309722,-40.484167
-1077220392,Humiria_balsamifera,-15.85,-38.866667
 1042524202,Humiria_balsamifera,-12.911111,-41.31
 1077566750,Humiria_balsamifera,-8.714444,-35.095
 1094788238,Humiria_balsamifera,-12.901111,-41.31
@@ -405,7 +387,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042641466,Humiria_balsamifera,-9,-55
 1424372219,Humiria_balsamifera,-9.487222,-55.03
 1094797169,Humiria_balsamifera,-13.002778,-38.656667
-1094791803,Humiria_balsamifera,-13.053611,-37.693889
 1095229696,Humiria_balsamifera,-11.6025,-46.51722
 1424173722,Humiria_balsamifera,-18.169167,-43.7025
 1424173710,Humiria_balsamifera,-18.371389,-43.551111
@@ -431,10 +412,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1270113830,Humiria_balsamifera,-15.315278,-39.033333
 1042521804,Humiria_balsamifera,1.416667,-61
 1042521674,Humiria_balsamifera,2.501111,-60.64
-1077592018,Humiria_balsamifera,-9,-35
 1456298974,Humiria_balsamifera,5.5,-54.03
 1676472258,Humiria_balsamifera,-18.16,-43.603611
-1123799150,Humiria_balsamifera,-20.605278,-40.422222
 1094775956,Humiria_balsamifera,-10.943333,-40.407778
 1077213452,Humiria_balsamifera,-11.388333,-40.555556
 1094775552,Humiria_balsamifera,-11.388333,-40.535556
@@ -480,13 +459,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042668007,Humiria_balsamifera,-13.0075,-41.39
 1090479882,Humiria_balsamifera,-16.040556,-38.964167
 1424443276,Humiria_balsamifera,-16.040555,-38.964167
-1094178036,Humiria_balsamifera,-17.620833,-39.224722
 1042691092,Humiria_balsamifera,-13,-48
 1077209701,Humiria_balsamifera,-12.756389,-41.326944
 1707558984,Humiria_balsamifera,0.065833,-72.460556
 1707568384,Humiria_balsamifera,0.4987,-72.619722
 1707568157,Humiria_balsamifera,0.529167,-72.630556
-1424151236,Humiria_balsamifera,-22.266667,-40.633333
 1094754492,Humiria_balsamifera,-12.31,-40.346944
 1260668580,Humiria_balsamifera,1.6625,-60.934444
 1042613270,Humiria_balsamifera,-10.366667,-41.32
@@ -554,7 +531,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289842531,Humiria_balsamifera,3.933333,-58.866667
 1089160403,Humiria_balsamifera,-12.930556,-38.3525
 1077201499,Humiria_balsamifera,-17.266667,-39.183333
-1090871613,Humiria_balsamifera,-20.266667,-40.266389
 1077201509,Humiria_balsamifera,-16.45,-39.188056
 1456311695,Humiria_balsamifera,5.83333,-58.5
 1087670655,Humiria_balsamifera,-10.758056,-37.315
@@ -679,7 +655,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094770123,Humiria_balsamifera,-13.216667,-41.833333
 1094733788,Humiria_balsamifera,-14.9,-39.033333
 1260145926,Humiria_balsamifera,1.966667,-65.1
-1423946521,Humiria_balsamifera,7.25,-58.416667
 1260146294,Humiria_balsamifera,2.65,-66.75
 1260145199,Humiria_balsamifera,-13.65,-60.8
 1456391417,Humiria_balsamifera,5.45,-60.65
@@ -737,7 +712,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260145809,Humiria_balsamifera,3.95,-67.1
 122957425,Humiria_balsamifera,5.7,-60.275
 1456469845,Humiria_balsamifera,6.4,-58.2167
-1936420303,Humiria_balsamifera,7.4,-58.2167
 1260141614,Humiria_balsamifera,6.56666,-66.38333
 1456254707,Humiria_balsamifera,5.95,-61.76
 1260146516,Humiria_balsamifera,3.95,-67.583333
@@ -794,7 +768,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1423947307,Humiria_balsamifera,0.916667,-67.333333
 1077193861,Humiria_balsamifera,-12.8,-41.316667
 1260144772,Humiria_balsamifera,0.95,-67.166667
-1090855494,Humiria_balsamifera,-20.600278,-40.466667
 1423946477,Humiria_balsamifera,0.966667,-67.166667
 1260870764,Humiria_balsamifera,0.91666,-67.33333
 1260147855,Humiria_balsamifera,6.301667,-66.502778
@@ -825,7 +798,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260146970,Humiria_balsamifera,5.91666,-62.63333
 1456406015,Humiria_balsamifera,5.91,-62.63
 1456462225,Humiria_balsamifera,5.5,-66.58
-1090500063,Humiria_balsamifera,-20.621111,-40.4325
 2236155765,Humiria_balsamifera,-1.5,-59.5
 1456302799,Humiria_balsamifera,5.35,-62.66
 1258359485,Humiria_balsamifera,5.91666,-62.26666
@@ -849,7 +821,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2236093131,Humiria_balsamifera,-1.08,-57.12
 1455977574,Humiria_balsamifera,6.46667,-58.2
 1258327266,Humiria_balsamifera,3.91666,-77
-1265830353,Humiria_balsamifera,-12.95,-38.333333
 1456142487,Humiria_balsamifera,5.3,-60.96
 1930592832,Humiria_balsamifera,-22.9232604657635,-42.8184416861596
 1456389985,Humiria_balsamifera,5.6,-57.5833
@@ -1011,7 +982,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456276542,Humiria_balsamifera,5.73,-62.53
 1456419882,Humiria_balsamifera,5.63,-62.53
 1260147168,Humiria_balsamifera,4.75,-61.08333
-1123783184,Humiria_balsamifera,-20.658056,-40.510833
 1260146969,Humiria_balsamifera,3.783333,-63.05
 1456367125,Humiria_balsamifera,2.76,-65.48
 1456284619,Humiria_balsamifera,2.08,-66.41
@@ -1022,14 +992,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456162747,Humiria_balsamifera,4.48,-65.76
 1260145782,Humiria_balsamifera,0.916667,-54.433333
 1042661164,Humiria_balsamifera,-0.916667,-54.43
-1456375232,Humiria_balsamifera,-0.92,-24.43
 1042661285,Humiria_balsamifera,-1.583333,-55.53
 1087665408,Humiria_balsamifera,-10.733333,-37.493056
 1087665820,Humiria_balsamifera,-10.436667,-36.54
 1042502494,Humiria_balsamifera,-3.5,-49.53
 1260145607,Humiria_balsamifera,5.916667,-61
 1928682756,Humiria_balsamifera,-3.764177,-49.559238
-1123787598,Humiria_balsamifera,-20.547222,-40.392361
 1258498953,Humiria_balsamifera,3.933333,-77.133333
 1456085187,Humiria_balsamifera,1.88,-67.01
 1258582538,Humiria_balsamifera,1.88333,-67.01666
@@ -1107,7 +1075,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042538678,Humiria_balsamifera,4.1767,-67.33
 2248067184,Humiria_balsamifera,-12.998411,-41.385338
 1929145251,Humiria_balsamifera,-0.579948,-60.618739
-1928675092,Humiria_balsamifera,-17.568634,-39.20939
 1423946603,Humiria_balsamifera,-10.933333,-46.533333
 1260146343,Humiria_balsamifera,5.66666,-63.43333
 1042538934,Humiria_balsamifera,4.1734,-66.82
@@ -1143,7 +1110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260144935,Humiria_balsamifera,5.5,-66.25
 2288912072,Humiria_balsamifera,4.083333,-66.833333
 1260146082,Humiria_balsamifera,4.08333,-66.83333
-1259648193,Humiria_balsamifera,-44.2,-70.333333
 2289952387,Humiria_balsamifera,3.166667,-65.527778
 1077193228,Humiria_balsamifera,-12.25,-38.033333
 1077532514,Humiria_balsamifera,-13.583333,-41.3
@@ -1231,7 +1197,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291497615,Humiria_balsamifera,-0.083333,-70.5
 1318618224,Humiria_balsamifera,5.41477,-61.0458
 1930387070,Humiria_balsamifera,-23.003611,-43.346944
-2236176297,Humiria_balsamifera,-23.0036,-42.3469
 2284140377,Humiria_balsamifera,-0.08,-70.5
 2290184270,Humiria_balsamifera,0.083333,-70.5
 2284182379,Humiria_balsamifera,1,-70.25
@@ -1268,7 +1233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456275780,Humiria_balsamifera,6.35,-63.46
 1456462294,Humiria_balsamifera,2.92,-67.43
 1456212262,Humiria_balsamifera,3.5,-66.73
-1928016715,Humiria_balsamifera,-2.53307331003505,-44.3030252274193
 1930120605,Humiria_balsamifera,-3.082861,-60.003971
 1456165980,Humiria_balsamifera,4.66,-58.66
 1456312878,Humiria_balsamifera,2.31,-59.36
