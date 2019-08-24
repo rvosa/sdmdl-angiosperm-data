@@ -36,15 +36,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895511218,Hunnemannia_fumariifolia,20.7941120530086,-99.4465988500424
 1896073606,Hunnemannia_fumariifolia,20.714722,-99.439722
 1419190244,Hunnemannia_fumariifolia,20.708333,-99.441667
-1895511198,Hunnemannia_fumariifolia,20.7,-99.433333
 1895511187,Hunnemannia_fumariifolia,25.333333,-100.65
 1893699345,Hunnemannia_fumariifolia,25.326667,-100.431667
 1896073585,Hunnemannia_fumariifolia,25.449722,-100.633056
 1895511186,Hunnemannia_fumariifolia,25.4456317235395,-100.846837020022
-1893699392,Hunnemannia_fumariifolia,17.8,-97.338333
 1893368814,Hunnemannia_fumariifolia,17.808333,-96.958333
 1893368830,Hunnemannia_fumariifolia,17.975,-97.358333
-1896170576,Hunnemannia_fumariifolia,25.421667,-101
 1896073581,Hunnemannia_fumariifolia,25.418056,-103.082222
 1419224376,Hunnemannia_fumariifolia,25.942222,-99.990556
 1893699417,Hunnemannia_fumariifolia,18.186667,-97.428333
@@ -57,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896073577,Hunnemannia_fumariifolia,25.396667,-100.1725
 1896170577,Hunnemannia_fumariifolia,25.391667,-100.175
 1896073596,Hunnemannia_fumariifolia,25.386944,-100.6425
-1895511195,Hunnemannia_fumariifolia,25.4,-100.633333
 1895511083,Hunnemannia_fumariifolia,25.2284219525426,-100.414595607647
 1896073592,Hunnemannia_fumariifolia,25.256667,-100.52
 1419234190,Hunnemannia_fumariifolia,25.236389,-100.512778
@@ -66,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895511178,Hunnemannia_fumariifolia,25.6743452568791,-100.683604076873
 2242415361,Hunnemannia_fumariifolia,39.732207,-104.961468
 1896073599,Hunnemannia_fumariifolia,24.726389,-99.915556
-1896170594,Hunnemannia_fumariifolia,24.725,-99.9
 1896073570,Hunnemannia_fumariifolia,25.212778,-100.826667
 1896073567,Hunnemannia_fumariifolia,17.7325,-97.3325
 1896170573,Hunnemannia_fumariifolia,25.445833,-101.006111
@@ -133,8 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896073586,Hunnemannia_fumariifolia,22.468611,-99.569444
 1895511222,Hunnemannia_fumariifolia,26.34,-101.37
 1895511228,Hunnemannia_fumariifolia,20.7374958303734,-99.3820531129454
-1261033346,Hunnemannia_fumariifolia,25.43,-101
-1893699343,Hunnemannia_fumariifolia,25.433333,-101
 1896073574,Hunnemannia_fumariifolia,25.558333,-100.392778
 1895511158,Hunnemannia_fumariifolia,24.594719,-99.993889
 1705383820,Hunnemannia_fumariifolia,57.184036,14.048284
