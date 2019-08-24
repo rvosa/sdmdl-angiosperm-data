@@ -15,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993876371,Lordhowea_insularis,-31.5833,159.0833
 993856710,Lordhowea_insularis,-35.2833,149.1167
 994860340,Lordhowea_insularis,-31.55,159.0833
-996025003,Lordhowea_insularis,-31.5,159.05
 996020072,Lordhowea_insularis,-31.57,159.07
 1451646942,Lordhowea_insularis,-31.565024,159.067661
 996019955,Lordhowea_insularis,-31.58,159.08
@@ -31,6 +30,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996020091,Lordhowea_insularis,-31.55,159.05
 993166624,Lordhowea_insularis,-31.5172,159.0517
 1937233729,Lordhowea_insularis,-31.5608,159.0808
-993157240,Lordhowea_insularis,-31.5667,159.1
 1451646944,Lordhowea_insularis,-31.498358,159.06766
-996019251,Lordhowea_insularis,-31.5,159.07
