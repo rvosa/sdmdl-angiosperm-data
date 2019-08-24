@@ -61,7 +61,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929119258,Grayia_spinosa,36.818889,-113.188056
 1846494421,Grayia_spinosa,35.699967,-115.407128
 1846494507,Grayia_spinosa,37.07418,-110.9118
-1846504290,Grayia_spinosa,34.541667,-117.4
 2270669886,Grayia_spinosa,36.1723,-113.241
 1929059253,Grayia_spinosa,37.8418,-110.6564
 1930759369,Grayia_spinosa,37.7184,-118.624733
@@ -79,8 +78,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928077637,Grayia_spinosa,39.02,-119.67
 1930965868,Grayia_spinosa,41.73449,-113.5899
 2270671582,Grayia_spinosa,36.2108,-113.081
-441701288,Grayia_spinosa,42.5,-119.833333
-441701290,Grayia_spinosa,42.5,-119.816667
 1928548042,Grayia_spinosa,35.07,-117.13
 441758401,Grayia_spinosa,42.833333,-116.116667
 1846534053,Grayia_spinosa,34.87,-117.237
@@ -94,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928546742,Grayia_spinosa,40.57573,-119.7939
 1265826277,Grayia_spinosa,38.083333,-118.966667
 1928058524,Grayia_spinosa,38.56647,-112.2623
-1899734596,Grayia_spinosa,34,-117.416667
 623671787,Grayia_spinosa,34.616667,-118.216667
 1929930734,Grayia_spinosa,40.20875,-112.7518
 1988163281,Grayia_spinosa,47.21,-119.45
@@ -124,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51848458,Grayia_spinosa,42.0568,-118.9618
 1930673083,Grayia_spinosa,38.67314,-109.4611
 51847788,Grayia_spinosa,43.13,-118.9643
-1929190857,Grayia_spinosa,41.5,-113.65
 1929756353,Grayia_spinosa,39.4971,-118.3969
 1986982163,Grayia_spinosa,41.5021,-113.6478
 1930611822,Grayia_spinosa,40.02841,-112.8093
@@ -132,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986982209,Grayia_spinosa,40.2325,-115.4236
 1931056087,Grayia_spinosa,40.2325,-115.42361
 1426307933,Grayia_spinosa,35.672222,-118.325
-1426307928,Grayia_spinosa,35.516667,-118.2
 1931120585,Grayia_spinosa,40.2858,-109.1277
 1928305389,Grayia_spinosa,40.0344,-109.2406
 1986948853,Grayia_spinosa,41.7315,-110.6455
@@ -166,7 +160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426225679,Grayia_spinosa,36.1312,-117.9767
 623671795,Grayia_spinosa,38.67556,-119.61944
 1230779286,Grayia_spinosa,40.43333,-112.39472
-441701054,Grayia_spinosa,46.5,-119.716667
 51848291,Grayia_spinosa,43.6917,-118.5389
 1426225756,Grayia_spinosa,36.975678,-118.122597
 1846495707,Grayia_spinosa,35.09508,-114.32743
