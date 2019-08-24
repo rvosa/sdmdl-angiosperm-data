@@ -116,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503234665,Stenaria_nigricans,25.5908,-80.3336
 176954984,Stenaria_nigricans,39.114763,-99.024493
 1258480888,Stenaria_nigricans,38.089444,-90.686944
-1261045288,Stenaria_nigricans,25.1,-100.46
 1260948099,Stenaria_nigricans,37.0075,-90.74
 176954840,Stenaria_nigricans,37.751646,-94.85518
 176954941,Stenaria_nigricans,36.558582,-93.836947
@@ -150,8 +149,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176954906,Stenaria_nigricans,39.270101,-98.205008
 1261898857,Stenaria_nigricans,37.9888,-91.3761
 1419199003,Stenaria_nigricans,28.730556,-100.911389
-1699345364,Stenaria_nigricans,29.483333,-104.1
-1261239258,Stenaria_nigricans,38.166667,-90.7
 176954791,Stenaria_nigricans,38.583318,-95.688223
 1894424054,Stenaria_nigricans,25.383333,-100.233333
 1893628951,Stenaria_nigricans,25.38,-100.223
@@ -165,7 +162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895427843,Stenaria_nigricans,24.001939,-99.575
 1895503080,Stenaria_nigricans,25.059439,-100.502781
 1946528067,Stenaria_nigricans,34.796186,-97.101771
-1261247961,Stenaria_nigricans,37.983333,-90.3
 1895503058,Stenaria_nigricans,24.79195,-100.049111
 1260949121,Stenaria_nigricans,37.098056,-90.453056
 1260948057,Stenaria_nigricans,36.831945,-90.617778
@@ -182,7 +178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261003702,Stenaria_nigricans,37.041111,-91.610278
 1895427854,Stenaria_nigricans,28.6492361029747,-102.230678115455
 1946528092,Stenaria_nigricans,30.365505,-93.579999
-56580288,Stenaria_nigricans,33.1,-87
 1946528045,Stenaria_nigricans,29.328514,-103.132778
 176955062,Stenaria_nigricans,37.304988,-98.577662
 1503247446,Stenaria_nigricans,25.4353,-80.5064
@@ -194,7 +189,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894638797,Stenaria_nigricans,21.245,-99.241667
 176954789,Stenaria_nigricans,39.1978,-96.924417
 1895427802,Stenaria_nigricans,28.666667,-102.25
-1269661799,Stenaria_nigricans,31,-93.208333
 1946528082,Stenaria_nigricans,29.633001,-98.224389
 1893601666,Stenaria_nigricans,21.396111,-99.156111
 1894638705,Stenaria_nigricans,21.276814,-99.2795
@@ -207,15 +201,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894638766,Stenaria_nigricans,21.177222,-99.126389
 176954778,Stenaria_nigricans,39.064234,-96.460593
 1893771580,Stenaria_nigricans,29.68778,-108.2725
-1096818237,Stenaria_nigricans,30.25,-97.8
 1699344759,Stenaria_nigricans,30.248611,-97.796389
 176954767,Stenaria_nigricans,37.622213,-94.830267
 1260956315,Stenaria_nigricans,37.761389,-92.1825
 1946528107,Stenaria_nigricans,40.286995,-95.602696
 1946528146,Stenaria_nigricans,32.126126,-93.022813
 1946528114,Stenaria_nigricans,34.9322,-98.096089
-1895502987,Stenaria_nigricans,24,-100.233333
-1895502978,Stenaria_nigricans,24.8,-99.85
 1261003240,Stenaria_nigricans,37.041389,-91.628611
 1895502973,Stenaria_nigricans,24.783333,-99.883333
 1261217450,Stenaria_nigricans,36.683333,-91.05
@@ -264,7 +255,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897529625,Stenaria_nigricans,22.227972,-102.622722
 1261035465,Stenaria_nigricans,22.05,-101.16
 2270548962,Stenaria_nigricans,24.82108,-100.077931
-1899732784,Stenaria_nigricans,31.266667,-106
 1895427801,Stenaria_nigricans,25.35,-102.983333
 1846522283,Stenaria_nigricans,35.009611,-101.901149
 1261001124,Stenaria_nigricans,39.011111,-90.945555
@@ -302,7 +292,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895503092,Stenaria_nigricans,23.751208,-99.9604
 1843884216,Stenaria_nigricans,35.545534,-105.870568
 1928004567,Stenaria_nigricans,32.3464,-104.7583
-122232780,Stenaria_nigricans,34.1,-94.02
 1946527948,Stenaria_nigricans,40.651701,-95.749773
 1946528086,Stenaria_nigricans,40.12744,-95.19167
 1895503051,Stenaria_nigricans,24.733333,-100.033333
@@ -313,14 +302,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260946761,Stenaria_nigricans,36.690278,-92.776111
 176955076,Stenaria_nigricans,36.22576,-91.142634
 1895503083,Stenaria_nigricans,23.8036431262652,-99.8997022194353
-1611941684,Stenaria_nigricans,30.6,-104.1
 1895503004,Stenaria_nigricans,23.7795472368015,-99.8701764116081
 1611941676,Stenaria_nigricans,30.583333,-104.066667
 1895503091,Stenaria_nigricans,25.05,-100.433333
 1946527990,Stenaria_nigricans,40.060034,-97.164456
 176955091,Stenaria_nigricans,38.899674,-96.853371
 1929367891,Stenaria_nigricans,32.2464,-104.6901
-1895427750,Stenaria_nigricans,28.166667,-103
 1895427784,Stenaria_nigricans,27.147319,-102.456542
 1895427821,Stenaria_nigricans,26.796685428631,-101.32990491139
 1843884131,Stenaria_nigricans,32.243204,-104.696343
@@ -359,11 +346,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946528213,Stenaria_nigricans,35.81125,-100.39956
 1260933624,Stenaria_nigricans,37.925,-92.883333
 1895503072,Stenaria_nigricans,26.691667,-101.816667
-1895427789,Stenaria_nigricans,27.1,-102.416667
 1946528093,Stenaria_nigricans,30.110494,-97.298488
 1895427757,Stenaria_nigricans,26.333333,-101.375
 1895427880,Stenaria_nigricans,28.225,-103.033333
-1702833109,Stenaria_nigricans,27.1,-102.42
 1895503008,Stenaria_nigricans,24.675,-100.15
 1319950434,Stenaria_nigricans,29.87,-104.83
 176954557,Stenaria_nigricans,38.767757,-97.868377
@@ -377,7 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317273333,Stenaria_nigricans,30.7917,-105.58
 1930149515,Stenaria_nigricans,34.72582,-100.403049
 1895427875,Stenaria_nigricans,29.191667,-102.75
-1702827478,Stenaria_nigricans,26.0917,-101.6
 1895503100,Stenaria_nigricans,24.566667,-101.066667
 1702849796,Stenaria_nigricans,24.575,-101.092
 176954548,Stenaria_nigricans,37.00996,-94.62849
@@ -394,7 +378,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895427740,Stenaria_nigricans,25.872677727008,-100.333926461351
 176954966,Stenaria_nigricans,38.048851,-99.830339
 176955057,Stenaria_nigricans,38.43936,-100.30047
-1611941710,Stenaria_nigricans,30.9,-105.066667
 176955002,Stenaria_nigricans,38.676608,-100.917295
 176954590,Stenaria_nigricans,39.95904,-99.32399
 176954990,Stenaria_nigricans,39.362863,-100.231081
@@ -594,7 +577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1266946949,Stenaria_nigricans,38.74538,-100.16985
 176954912,Stenaria_nigricans,39.505613,-98.3017
 176954487,Stenaria_nigricans,37.44223,-95.50776
-1895427780,Stenaria_nigricans,27.6,-102.408333
 1946527989,Stenaria_nigricans,34.12093,-93.05378
 176954486,Stenaria_nigricans,38.92604,-98.89932
 176954485,Stenaria_nigricans,39.10805,-100.11791
@@ -671,7 +653,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261033260,Stenaria_nigricans,25.63333,-102.15
 1946528044,Stenaria_nigricans,36.11951,-92.13599
 1895427820,Stenaria_nigricans,27.9773211263569,-103.697341442491
-1259581824,Stenaria_nigricans,25.05,-101.3
 1895427787,Stenaria_nigricans,29.2324747315861,-102.735040617391
 1895427819,Stenaria_nigricans,27.3119986903434,-103.687945721842
 1895798132,Stenaria_nigricans,23.591667,-99.625
