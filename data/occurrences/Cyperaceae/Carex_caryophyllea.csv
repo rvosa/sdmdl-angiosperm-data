@@ -42,20 +42,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838996717,Carex_caryophyllea,41.051941,24.60722
 1838996897,Carex_caryophyllea,41.350281,24.469721
 1881891286,Carex_caryophyllea,58.67526,24.60073
-1702507925,Carex_caryophyllea,42.7,-1.14
 1697349709,Carex_caryophyllea,56.432222,40.5225
 2268214131,Carex_caryophyllea,55.495,37.862
 1697349717,Carex_caryophyllea,56.428333,40.526111
 2273633390,Carex_caryophyllea,58.67635,16.17552
 1801063040,Carex_caryophyllea,56.346389,41.741944
 1701700806,Carex_caryophyllea,59.3294,11.5538
-1095923710,Carex_caryophyllea,59.48,17
 1989729552,Carex_caryophyllea,48.28361,16.83222
 1658402959,Carex_caryophyllea,58.99528,24.90809
 1144637512,Carex_caryophyllea,41.86667,9.15
 1658402896,Carex_caryophyllea,57.54583,26.57845
 1135439324,Carex_caryophyllea,48.00444,16.2775
-1842866816,Carex_caryophyllea,42.3,1
 1935668053,Carex_caryophyllea,47.12954,15.40884
 1935668008,Carex_caryophyllea,47.12967,15.40883
 1584379429,Carex_caryophyllea,48.26861,15.44725
@@ -104,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860326512,Carex_caryophyllea,42.1175,2.0353
 1230540819,Carex_caryophyllea,49.65772,88.22633
 1230540849,Carex_caryophyllea,49.26915,87.98382
-1697415610,Carex_caryophyllea,56.130556,40.3
 2268220815,Carex_caryophyllea,54.849167,37.5825
 1701510684,Carex_caryophyllea,41.9775,20.11528
 1342279423,Carex_caryophyllea,56.720019,8.598373
@@ -167,7 +163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697770011,Carex_caryophyllea,43.427243,42.154627
 1230535304,Carex_caryophyllea,48.615,20.98417
 1697769941,Carex_caryophyllea,44.043304,42.033176
-1144637486,Carex_caryophyllea,42.81667,9.4
 1342279433,Carex_caryophyllea,55.965579,8.686324
 788605392,Carex_caryophyllea,56.286389,10.548611
 1342279494,Carex_caryophyllea,56.729651,9.006848
@@ -221,7 +216,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342279409,Carex_caryophyllea,55.911538,8.638769
 1342279692,Carex_caryophyllea,56.832569,10.10488
 1342279406,Carex_caryophyllea,55.73158,8.560814
-899746699,Carex_caryophyllea,48.4,9.5
 1342279590,Carex_caryophyllea,56.916956,9.581754
 1342279685,Carex_caryophyllea,56.237189,10.345829
 1342279425,Carex_caryophyllea,56.486153,8.519656
@@ -259,9 +253,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788525730,Carex_caryophyllea,39.766667,21.15
 1342279544,Carex_caryophyllea,56.61167,9.544469
 1342279718,Carex_caryophyllea,56.606634,10.244897
-788537354,Carex_caryophyllea,39.8,21.133333
 1936656745,Carex_caryophyllea,40.5347,44.6667
-1851351013,Carex_caryophyllea,42,-6.8
 1697415556,Carex_caryophyllea,56.286111,39.927778
 1851361542,Carex_caryophyllea,42.30217,-6.73927
 8505701,Carex_caryophyllea,47.5684,2.42362
@@ -297,9 +289,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851381071,Carex_caryophyllea,42.453,-6.768
 1342279506,Carex_caryophyllea,56.675583,9.202674
 1144637500,Carex_caryophyllea,42.36667,9.33333
-895189406,Carex_caryophyllea,40.0167,9.3
 1697415564,Carex_caryophyllea,53.916667,35.733333
-237337167,Carex_caryophyllea,41.77,2.1
 1342279617,Carex_caryophyllea,57.419099,9.756186
 1936626067,Carex_caryophyllea,40.0239,9.305
 1148362885,Carex_caryophyllea,59.388433,27.578417
@@ -328,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230526352,Carex_caryophyllea,40.44389,44.95028
 1851363274,Carex_caryophyllea,43.0078,-6.1344
 1851385275,Carex_caryophyllea,42.877,-6.374
-786104972,Carex_caryophyllea,47.2,13
 1851377181,Carex_caryophyllea,42.8831,-6.2981
 1837462619,Carex_caryophyllea,44.095082,7.871543
 1936622467,Carex_caryophyllea,40.8611,-2.0283
@@ -340,11 +329,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697415583,Carex_caryophyllea,56.300926,40.52656
 1702026776,Carex_caryophyllea,60.03967,10.29662
 1936621734,Carex_caryophyllea,40.8319,-2.2221
-786104976,Carex_caryophyllea,49.2,18.7
 1999649093,Carex_caryophyllea,60.464666,22.263678
 1702201782,Carex_caryophyllea,59.4528,10.4331
 788549930,Carex_caryophyllea,40.883333,23.066667
-788549870,Carex_caryophyllea,40.983333,23.2
 1342279799,Carex_caryophyllea,55.835643,11.353958
 1050628169,Carex_caryophyllea,41.81,-1.77
 1050626585,Carex_caryophyllea,41.79,-1.85
@@ -354,7 +341,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441983214,Carex_caryophyllea,47.25,11.333333
 788558928,Carex_caryophyllea,41.15,24.616667
 1701839323,Carex_caryophyllea,59.617,11.5375
-1936569919,Carex_caryophyllea,37.933333,14.7
 1702191612,Carex_caryophyllea,59.3233,11.5823
 1851346416,Carex_caryophyllea,42.759,-6.305
 1342279691,Carex_caryophyllea,56.392576,10.075908
@@ -393,7 +379,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 296435399,Carex_caryophyllea,47.0276,9.95989
 1701511224,Carex_caryophyllea,48.1875,16.21
 788537296,Carex_caryophyllea,40.633333,21.45
-1881113347,Carex_caryophyllea,48.77,10.7
 1881107812,Carex_caryophyllea,48.81,10.76
 1881110652,Carex_caryophyllea,48.79,10.51
 1881107572,Carex_caryophyllea,48.81,10.72
@@ -440,7 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701987002,Carex_caryophyllea,59.3585,11.3316
 1701511282,Carex_caryophyllea,48.1675,16.20667
 1701511317,Carex_caryophyllea,48.15278,16.22667
-1881113472,Carex_caryophyllea,48.76,10.7
 1881111414,Carex_caryophyllea,48.79,10.63
 8490817,Carex_caryophyllea,46.5671,4.90051
 1657175419,Carex_caryophyllea,46.86667,15.89167
@@ -459,7 +443,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638390846,Carex_caryophyllea,46.79333,14.94972
 1638390853,Carex_caryophyllea,47.33472,15.55694
 1342279825,Carex_caryophyllea,55.35778,11.846215
-1831518975,Carex_caryophyllea,42.6,9.35972
 1702010450,Carex_caryophyllea,58.9821,10.9538
 1701862327,Carex_caryophyllea,59.4253,10.595
 1638384439,Carex_caryophyllea,47.53611,14.15833
@@ -490,16 +473,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701921117,Carex_caryophyllea,59.8223,10.3107
 788539892,Carex_caryophyllea,40.45,23.516667
 1701932553,Carex_caryophyllea,59.4366,10.6228
-1050647052,Carex_caryophyllea,42.92,-0.7
 1657172598,Carex_caryophyllea,47.30111,14.89583
 1702405971,Carex_caryophyllea,59.8555,10.5619
-1050647065,Carex_caryophyllea,42.72,-0.3
 1702430495,Carex_caryophyllea,59.0561,10.9309
-1050579687,Carex_caryophyllea,43.2,-1.09
 1702412398,Carex_caryophyllea,59.8841,10.5356
-788529444,Carex_caryophyllea,40.8,23.383333
 865514196,Carex_caryophyllea,59.0775,10.8519
-788524244,Carex_caryophyllea,40.566667,23.1
 1050580344,Carex_caryophyllea,42.84,-0.74
 1702386553,Carex_caryophyllea,58.9793,10.9614
 2313355856,Carex_caryophyllea,48.27,11.62
@@ -509,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851326352,Carex_caryophyllea,42.257,-6.436
 1144637491,Carex_caryophyllea,42.33333,9.33333
 1342279916,Carex_caryophyllea,56.008283,12.29622
-786104934,Carex_caryophyllea,42.8,12.8
 1922121604,Carex_caryophyllea,47.574139,11.540314
 1288098650,Carex_caryophyllea,50.476679,10.076716
 1668935183,Carex_caryophyllea,54.853,37.668
@@ -526,7 +503,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600486989,Carex_caryophyllea,60.422654,22.666179
 39629684,Carex_caryophyllea,63.8519,-21.7634
 1705442248,Carex_caryophyllea,56.459209,14.817408
-895283809,Carex_caryophyllea,40.4,-0.35
 1936547890,Carex_caryophyllea,43.0493,-4.7571
 1231330130,Carex_caryophyllea,53.5485,13.2484
 1936454238,Carex_caryophyllea,42.2809,-5.533
@@ -556,7 +532,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895303853,Carex_caryophyllea,40.028,-0.65
 1831081616,Carex_caryophyllea,53.6485,11.4153
 1705292748,Carex_caryophyllea,57.588522,16.44056
-1702507882,Carex_caryophyllea,42.64,-1.1
 296435256,Carex_caryophyllea,47.584385,12.183457
 678311,Carex_caryophyllea,56.65046,16.14861
 1946872663,Carex_caryophyllea,50.17,9.99
@@ -565,7 +540,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895177014,Carex_caryophyllea,40.48,-0.23
 1999551739,Carex_caryophyllea,60.368839,23.105242
 1705343348,Carex_caryophyllea,55.934179,13.773852
-1851321839,Carex_caryophyllea,43.45,-6.1
 1999551797,Carex_caryophyllea,60.456902,22.260261
 204423043,Carex_caryophyllea,42.713001,-1.187
 1999551812,Carex_caryophyllea,60.367102,23.107264
@@ -580,7 +554,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935662432,Carex_caryophyllea,47.31583,15.40167
 1936361326,Carex_caryophyllea,41.8194,-3.3625
 1851323967,Carex_caryophyllea,42.87,-4.524
-895261820,Carex_caryophyllea,40.23,-1.3
 1697415577,Carex_caryophyllea,54.191269,35.979195
 1697415566,Carex_caryophyllea,53.438908,37.14372
 1697415615,Carex_caryophyllea,54.144556,35.842512
@@ -589,7 +562,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 296435422,Carex_caryophyllea,46.836777,12.781148
 30662036,Carex_caryophyllea,37.375,-2.848
 1230532004,Carex_caryophyllea,48.125,16.125
-1144637476,Carex_caryophyllea,42.35,9.2
 1231330118,Carex_caryophyllea,53.7485,13.5816
 1851323169,Carex_caryophyllea,42.82,-6.25
 1935669549,Carex_caryophyllea,46.66775,15.46813
@@ -615,12 +587,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705343414,Carex_caryophyllea,57.408524,15.575617
 1936415504,Carex_caryophyllea,42.4847,-6.8722
 1936386117,Carex_caryophyllea,42.4994,-0.7012
-204422802,Carex_caryophyllea,42.941002,-1.4
 1851377880,Carex_caryophyllea,42.66,-5.26
 1999485962,Carex_caryophyllea,60.658807,21.872369
 1999584913,Carex_caryophyllea,60.658877,21.874189
 1050646844,Carex_caryophyllea,42.95,-2.08
-899760627,Carex_caryophyllea,42.1667,24.5
 1936386459,Carex_caryophyllea,40.2062,-5.1163
 1936386471,Carex_caryophyllea,42.2433,-2.9407
 204401239,Carex_caryophyllea,37.934,-2.812
@@ -644,7 +614,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705446242,Carex_caryophyllea,56.734512,13.453351
 1697415750,Carex_caryophyllea,49.91793,24.008934
 1999551766,Carex_caryophyllea,60.407857,22.667243
-1851383046,Carex_caryophyllea,43.1,-5.4
 1600486988,Carex_caryophyllea,60.389189,22.57801
 1600487009,Carex_caryophyllea,60.381969,22.577175
 1600486991,Carex_caryophyllea,60.421413,22.493632
@@ -686,7 +655,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936411192,Carex_caryophyllea,41.3063,-3.2522
 1705439086,Carex_caryophyllea,57.361574,15.138531
 1697415714,Carex_caryophyllea,51.561639,37.646761
-211621601,Carex_caryophyllea,43.209999,-4.7
 1332526415,Carex_caryophyllea,50.711523,9.553622
 1042989431,Carex_caryophyllea,57.513,11.9792
 895164493,Carex_caryophyllea,39.86,-0.72
@@ -707,7 +675,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211621608,Carex_caryophyllea,43.209999,-4.86
 1936088691,Carex_caryophyllea,43.148,-4.7845
 1936411038,Carex_caryophyllea,42.6636,0.0094
-1851345474,Carex_caryophyllea,43,-6.24
 211621612,Carex_caryophyllea,43.200001,-4.71
 1936386556,Carex_caryophyllea,43.066,-4.8436
 1936410381,Carex_caryophyllea,42.5901,-0.048
@@ -731,7 +698,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999551691,Carex_caryophyllea,60.425165,22.646755
 1999551768,Carex_caryophyllea,60.397724,22.632261
 1999551778,Carex_caryophyllea,60.463023,22.705388
-1230532689,Carex_caryophyllea,47.85,15.2
 1936090122,Carex_caryophyllea,42.4231,-6.4975
 1851387124,Carex_caryophyllea,43.01,-6.36
 211621599,Carex_caryophyllea,43.16,-4.96
@@ -752,7 +718,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050640196,Carex_caryophyllea,42.94,-2.84
 1705359330,Carex_caryophyllea,57.651052,14.626087
 1946864788,Carex_caryophyllea,50.23,10.18
-1050646841,Carex_caryophyllea,43.2,-3.24
 1946864888,Carex_caryophyllea,49.97,9.62
 1050640131,Carex_caryophyllea,42.87,-2.94
 1705343374,Carex_caryophyllea,57.519903,16.015483
@@ -782,7 +747,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050640123,Carex_caryophyllea,43.03,-2.79
 1705343403,Carex_caryophyllea,57.466813,16.07517
 1600486974,Carex_caryophyllea,60.415622,22.629856
-1050640040,Carex_caryophyllea,43.1,-2.74
 1050640170,Carex_caryophyllea,42.79,-3.12
 1705343386,Carex_caryophyllea,57.520801,16.015488
 1600486985,Carex_caryophyllea,60.534914,22.704969
@@ -793,7 +757,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806554633,Carex_caryophyllea,43.161,-1.715
 1842894017,Carex_caryophyllea,42.415,0.648
 788881158,Carex_caryophyllea,55.72167,13.04091
-1851410205,Carex_caryophyllea,42.82,-6
 1657177388,Carex_caryophyllea,47.025,16.125
 1842894039,Carex_caryophyllea,42.415,0.673
 296435276,Carex_caryophyllea,46.747941,12.491874
@@ -814,7 +777,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999551741,Carex_caryophyllea,60.649805,21.883879
 1042989500,Carex_caryophyllea,57.8854,14.021
 788524232,Carex_caryophyllea,38.833333,22.25
-1697192091,Carex_caryophyllea,50.5,95.333333
 1831080542,Carex_caryophyllea,53.4485,12.7484
 1851318979,Carex_caryophyllea,43.02,-5.27
 1851366999,Carex_caryophyllea,42.37,-6.15
@@ -832,7 +794,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851370507,Carex_caryophyllea,42.47,-5.62
 1851353003,Carex_caryophyllea,42.92,-5.63
 1050640047,Carex_caryophyllea,42.86,-2.82
-211622383,Carex_caryophyllea,42.959999,-6.3
 1050640044,Carex_caryophyllea,42.95,-2.82
 1936031792,Carex_caryophyllea,40.4045,-6.0672
 211622381,Carex_caryophyllea,43.049999,-6.18
@@ -845,10 +806,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 833455503,Carex_caryophyllea,49.95,8.016666
 1845008422,Carex_caryophyllea,49.948889,8.024444
 1845008272,Carex_caryophyllea,50.008333,8.196389
-833455498,Carex_caryophyllea,49.033333,8.3
 1845008314,Carex_caryophyllea,49.04,8.285
-833455500,Carex_caryophyllea,50,8.183333
-211622385,Carex_caryophyllea,43.049999,-6.3
 1851356291,Carex_caryophyllea,42.37,-6.27
 1657175409,Carex_caryophyllea,47.375,14.875
 1845008515,Carex_caryophyllea,49.273333,7.768333
@@ -859,7 +817,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845008222,Carex_caryophyllea,49.215,7.435556
 833455486,Carex_caryophyllea,49.25,7.35
 2313355477,Carex_caryophyllea,48.09,11.55
-786105009,Carex_caryophyllea,45.6,10.7
 1042989424,Carex_caryophyllea,57.181,12.4743
 1230532579,Carex_caryophyllea,46.50889,14.36528
 788495816,Carex_caryophyllea,38.783333,21.933333
@@ -869,7 +826,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788496107,Carex_caryophyllea,38.65,22.266667
 788495932,Carex_caryophyllea,38.816667,22.25
 1842893458,Carex_caryophyllea,42.653,0.017
-211622851,Carex_caryophyllea,43.560001,-7.7
 1935662358,Carex_caryophyllea,47.41167,15.72583
 1701500670,Carex_caryophyllea,60.1292,11.4571
 211621475,Carex_caryophyllea,43.549999,-7.01
@@ -890,7 +846,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702310092,Carex_caryophyllea,59.197,10.8172
 1702214750,Carex_caryophyllea,59.3136,10.733
 788527068,Carex_caryophyllea,38.95,21.75
-788528852,Carex_caryophyllea,39.4,21.2
 788496048,Carex_caryophyllea,38.683333,22.116667
 788499035,Carex_caryophyllea,38.95,21.833333
 1671659149,Carex_caryophyllea,40.242709,9.360124
@@ -907,16 +862,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705394925,Carex_caryophyllea,57.419376,15.622147
 1702428667,Carex_caryophyllea,60.0262,10.6688
 1851411081,Carex_caryophyllea,42.93,-5.27
-788527807,Carex_caryophyllea,39.566667,21.5
 1697415548,Carex_caryophyllea,54.926582,41.400045
 788524879,Carex_caryophyllea,38.816667,22.283333
 1697415588,Carex_caryophyllea,55.172811,41.305991
 1697415558,Carex_caryophyllea,54.810476,41.752841
 1845008780,Carex_caryophyllea,49.175833,7.748611
-211623371,Carex_caryophyllea,43.049999,-6
 1701500672,Carex_caryophyllea,60.0172,10.6683
 1042989448,Carex_caryophyllea,57.7083,11.6448
-788538613,Carex_caryophyllea,39.8,21.183333
 788538670,Carex_caryophyllea,39.783333,21.183333
 1042989422,Carex_caryophyllea,57.2363,12.36
 1701930224,Carex_caryophyllea,60.0253,10.6238
@@ -939,7 +891,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290406522,Carex_caryophyllea,50.864,5.95
 788852621,Carex_caryophyllea,59.119722,11.396667
 1230532696,Carex_caryophyllea,47.1375,13.86083
-788495989,Carex_caryophyllea,41.3,24.083333
 1671659037,Carex_caryophyllea,40.852078,9.190967
 1671656365,Carex_caryophyllea,39.978731,9.309126
 1671658952,Carex_caryophyllea,39.640644,9.015546
@@ -975,7 +926,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999551771,Carex_caryophyllea,60.452987,22.151615
 788862055,Carex_caryophyllea,60.449167,22.259167
 788870690,Carex_caryophyllea,56.0408,14.03939
-1144637490,Carex_caryophyllea,41.96667,9
 1671656329,Carex_caryophyllea,40.851757,9.177311
 1671659104,Carex_caryophyllea,40.849879,9.148728
 1935662487,Carex_caryophyllea,47.68861,15.88111
@@ -1010,14 +960,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701920625,Carex_caryophyllea,60.0628,10.1856
 1999551694,Carex_caryophyllea,60.408931,22.430842
 1702404327,Carex_caryophyllea,60.066,10.3204
-788528504,Carex_caryophyllea,40.1,22.25
 1935662405,Carex_caryophyllea,47.39556,15.13306
 1989604711,Carex_caryophyllea,55.620278,8.479444
 1999551784,Carex_caryophyllea,60.507479,22.69038
 788862017,Carex_caryophyllea,60.456944,22.686944
 1935662307,Carex_caryophyllea,47.58833,14.79194
 1705460265,Carex_caryophyllea,57.912032,15.768239
-786104878,Carex_caryophyllea,46.5,24.6
 57684337,Carex_caryophyllea,60.458401,22.178101
 1038048165,Carex_caryophyllea,53.6485,13.9149
 1702310059,Carex_caryophyllea,59.3327,11.2938
@@ -1118,8 +1066,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042989483,Carex_caryophyllea,58.8745,11.1536
 1891598901,Carex_caryophyllea,49.68,6.22
 1144200565,Carex_caryophyllea,59.314,10.7339
-1701884147,Carex_caryophyllea,59.3,10.6664
-1891600439,Carex_caryophyllea,50.08,5.9
 1702310100,Carex_caryophyllea,59.3143,10.7391
 1702310106,Carex_caryophyllea,59.314,10.7654
 1697769982,Carex_caryophyllea,42.508552,44.266491
@@ -1137,11 +1083,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186797002,Carex_caryophyllea,59.56058,10.73151
 1705350807,Carex_caryophyllea,57.120782,15.029322
 1042989502,Carex_caryophyllea,57.6497,12.4891
-860315364,Carex_caryophyllea,41.78,2.7
 1891596864,Carex_caryophyllea,49.83,6.31
 1056079908,Carex_caryophyllea,51.548322,-0.271231
 788862633,Carex_caryophyllea,56.08124,12.7821
-2313355408,Carex_caryophyllea,48.18,11.4
 2313356556,Carex_caryophyllea,48.14,11.51
 1600486947,Carex_caryophyllea,60.418498,22.447678
 788842578,Carex_caryophyllea,59.95389,17.67527
@@ -1461,7 +1405,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842897817,Carex_caryophyllea,41.78,2.46
 1842897735,Carex_caryophyllea,41.41,2.22
 1936419001,Carex_caryophyllea,40.4615,-1.7039
-1842897752,Carex_caryophyllea,42.4,2.21
 788836852,Carex_caryophyllea,59.32803,14.08883
 1702310108,Carex_caryophyllea,59.3017,10.6673
 1600484521,Carex_caryophyllea,60.421768,22.28357
