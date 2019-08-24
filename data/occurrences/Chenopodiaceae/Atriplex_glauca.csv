@@ -23,7 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 198469162,Atriplex_glauca,37.34,-1.68
 30849878,Atriplex_glauca,37.369999,-1.77
 1936659692,Atriplex_glauca,37.2992,-1.7488
-1050648422,Atriplex_glauca,37.3,-1.74
 1426516383,Atriplex_glauca,33.753333,-117.036944
 318104138,Atriplex_glauca,34.39,7.61
 204401399,Atriplex_glauca,36.976,-2.174
@@ -42,7 +41,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501068619,Atriplex_glauca,38.16,-0.62
 1501068635,Atriplex_glauca,38.15,-0.63
 318104037,Atriplex_glauca,37.91,-0.74
-1501058388,Atriplex_glauca,38.35,-0.4
 211643828,Atriplex_glauca,37.551,-1.172
 318103975,Atriplex_glauca,38.16,-0.47
 318103965,Atriplex_glauca,28.03,-16.54
@@ -53,10 +51,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860317789,Atriplex_glauca,37.09,-2.38
 318103983,Atriplex_glauca,38.37,-0.57
 318103970,Atriplex_glauca,38.35,-0.43
-318103912,Atriplex_glauca,38.36,-0.4
 1501068462,Atriplex_glauca,38.36,-0.44
 1501059398,Atriplex_glauca,38.37,-0.52
-1501055806,Atriplex_glauca,38.34,-0.5
 1501055765,Atriplex_glauca,38.34,-0.53
 1501063192,Atriplex_glauca,38.36,-1.03
 860316836,Atriplex_glauca,37.67,-1.0585
@@ -68,11 +64,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318103805,Atriplex_glauca,38.35,-0.53
 318103847,Atriplex_glauca,38.32,-0.52
 1501066936,Atriplex_glauca,38.49,-0.89
-318103843,Atriplex_glauca,38.3,-0.51
 31955895,Atriplex_glauca,35.104344,-2.750252
 1050657690,Atriplex_glauca,36.78,-2.24
-30848717,Atriplex_glauca,36.77,-2.1
-318103642,Atriplex_glauca,38.49,-0.8
 211643830,Atriplex_glauca,37.376,-1.628
 31955914,Atriplex_glauca,34.251958,-3.728296
 1434675262,Atriplex_glauca,28.341944,-16.924722
@@ -81,7 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30848727,Atriplex_glauca,36.77,-2.22
 31955911,Atriplex_glauca,34.3723,-3.0243
 31955897,Atriplex_glauca,35.1692,-3.0432
-318104267,Atriplex_glauca,38.24,-0.8
 1501069186,Atriplex_glauca,38.28,-0.52
 1426272175,Atriplex_glauca,32.799722,-117.257222
 1501071522,Atriplex_glauca,38.33,-0.54
@@ -133,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30848334,Atriplex_glauca,36.68,-3.56
 1936394236,Atriplex_glauca,37.8258,-0.7856
 2287246931,Atriplex_glauca,38.649333,-0.143667
-895290590,Atriplex_glauca,38.6,-0.88
 1936087620,Atriplex_glauca,37.3913,-1.9506
 1936251020,Atriplex_glauca,37.1129,-2.0783
 895311762,Atriplex_glauca,35.796,-2.319
@@ -141,7 +132,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 31955743,Atriplex_glauca,31.41,-9.68
 1851581028,Atriplex_glauca,37.53,-1.47
 1701379591,Atriplex_glauca,33.0756,-16.3231
-1851357199,Atriplex_glauca,37.54,-2.6
 1936021971,Atriplex_glauca,37.4946,-2.6619
 1936081573,Atriplex_glauca,36.826,-2.306
 1851329256,Atriplex_glauca,40.06,-3.64
@@ -165,13 +155,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289337614,Atriplex_glauca,28.733333,-13.866667
 1936074653,Atriplex_glauca,36.7624,-2.2281
 318103860,Atriplex_glauca,36.73,-2.16
-2289326004,Atriplex_glauca,28.1,-15.483333
 2291866994,Atriplex_glauca,27.983333,-15.366667
 2290393824,Atriplex_glauca,28.166667,-15.416667
 2289253407,Atriplex_glauca,28.033333,-15.416667
 1705472976,Atriplex_glauca,28.3003,-16.5242
-2290086853,Atriplex_glauca,28,-15.416667
-1891591970,Atriplex_glauca,34,9
 1936345402,Atriplex_glauca,38.3693,-0.483
 2287119762,Atriplex_glauca,32.233333,-9.25
 1936145349,Atriplex_glauca,38.3762,-0.8262
@@ -182,16 +169,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935891454,Atriplex_glauca,36.7731,-2.553
 1935891456,Atriplex_glauca,37.2245,-3.2267
 1935980862,Atriplex_glauca,37.6259,-0.7009
-31955707,Atriplex_glauca,35.2,-3.71
 31955706,Atriplex_glauca,35.47,-2.94
 31955705,Atriplex_glauca,35.02,-3.16
-31955708,Atriplex_glauca,35.2,-2.84
 31955711,Atriplex_glauca,34.93,-2.73
 31955588,Atriplex_glauca,34.75,-3.49
 1935981060,Atriplex_glauca,38.1081,-0.9482
 31955463,Atriplex_glauca,30.42,-9.57
-31955575,Atriplex_glauca,35.2,-2.95
-2289707411,Atriplex_glauca,28.5,-16.216667
 2288091812,Atriplex_glauca,28.3385,-16.920667
 1842891809,Atriplex_glauca,37.6032,-0.9835
-1935980824,Atriplex_glauca,37.6,-0.9833
