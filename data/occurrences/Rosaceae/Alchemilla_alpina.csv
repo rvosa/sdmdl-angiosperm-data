@@ -22,20 +22,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144055870,Alchemilla_alpina,60.9971,6.5457
 1702379971,Alchemilla_alpina,70.5322,30.0444
 1701963092,Alchemilla_alpina,62.3044,9.6084
-1050654165,Alchemilla_alpina,40.3,-5.75
 2313332328,Alchemilla_alpina,47.76,12.37
 1701325635,Alchemilla_alpina,63.2879,10.9567
 2316395007,Alchemilla_alpina,63.287891,10.956671
 1599493624,Alchemilla_alpina,69.043625,21.325837
 1999613237,Alchemilla_alpina,69.042563,21.325145
 1999613144,Alchemilla_alpina,69.004201,21.307974
-2313366757,Alchemilla_alpina,47.4,11.02
-1095918253,Alchemilla_alpina,65,14
 1323863717,Alchemilla_alpina,69.635,18.9949
 1701278876,Alchemilla_alpina,64.2226,14.1388
 1324015509,Alchemilla_alpina,58.686,6.4925
 1702317610,Alchemilla_alpina,59.4459,8.4536
-2309217065,Alchemilla_alpina,56.96,-4.9
 1638373988,Alchemilla_alpina,43.09833,19.05056
 2309026488,Alchemilla_alpina,56.89,-3.42
 2307851902,Alchemilla_alpina,56.87,-3.34
@@ -132,7 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186788538,Alchemilla_alpina,58.869,6.8002
 111301839,Alchemilla_alpina,42.437,2.264
 1701773607,Alchemilla_alpina,63.4223,10.2531
-1323737640,Alchemilla_alpina,69.7349,19.7
 1701318427,Alchemilla_alpina,62.7941,10.0106
 1701636178,Alchemilla_alpina,61.6643,11.8343
 1949941307,Alchemilla_alpina,56.261111,-4.761111
@@ -167,7 +162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701567228,Alchemilla_alpina,61.8799,9.3585
 1323737017,Alchemilla_alpina,70.9744,25.9926
 1701584960,Alchemilla_alpina,61.6649,12.006
-895187990,Alchemilla_alpina,42.45,13.7
 1702001915,Alchemilla_alpina,61.7283,12.0509
 1599493602,Alchemilla_alpina,69.263145,21.242708
 1999613149,Alchemilla_alpina,69.262303,21.217541
@@ -242,7 +236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042983358,Alchemilla_alpina,57.7045,11.9652
 1851390903,Alchemilla_alpina,43.029,-4.737
 1851401291,Alchemilla_alpina,43.074,-4.763
-30844493,Alchemilla_alpina,42.419998,0.2
 30950550,Alchemilla_alpina,42.67,0.15
 187081585,Alchemilla_alpina,62.1807,9.2593
 1563903118,Alchemilla_alpina,58.3015,6.7391
@@ -255,7 +248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851392388,Alchemilla_alpina,43.038,-4.737
 1701910196,Alchemilla_alpina,62.53672,9.51846
 1057292038,Alchemilla_alpina,54.726036,-3.036706
-2288461691,Alchemilla_alpina,42.583333,2.5
 1095062558,Alchemilla_alpina,62.3969,5.628
 1702372655,Alchemilla_alpina,62.4347,9.7457
 1323799774,Alchemilla_alpina,70.3836,29.3089
@@ -291,7 +283,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323798780,Alchemilla_alpina,70.1364,22.5032
 1701986295,Alchemilla_alpina,60.0509,10.7642
 2288780695,Alchemilla_alpina,43.023056,0.015556
-1701917792,Alchemilla_alpina,60.1,10.3757
 2305376346,Alchemilla_alpina,54.51,-3.21
 2291905063,Alchemilla_alpina,42.633333,2.033333
 1323727462,Alchemilla_alpina,70.4778,28.9173
@@ -344,7 +335,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323781431,Alchemilla_alpina,66.8094,14.2832
 1323781426,Alchemilla_alpina,66.8181,14.2374
 186788815,Alchemilla_alpina,58.4173,7.2463
-1702509321,Alchemilla_alpina,42.9,-0.86
 186788816,Alchemilla_alpina,58.3974,7.237
 186788814,Alchemilla_alpina,58.4788,7.2775
 2028546668,Alchemilla_alpina,42.34,2.16
@@ -363,7 +353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705431378,Alchemilla_alpina,65.898814,15.184262
 1323781357,Alchemilla_alpina,68.9917,17.3873
 1702257297,Alchemilla_alpina,58.8266,6.0466
-1936103904,Alchemilla_alpina,42,-2.8564
 1702019865,Alchemilla_alpina,62.0101,9.2578
 1828864928,Alchemilla_alpina,62.94634,6.98913
 1323781373,Alchemilla_alpina,68.858,17.3232
@@ -541,7 +530,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701977225,Alchemilla_alpina,58.5896,6.101
 1705462323,Alchemilla_alpina,67.852012,20.232967
 187082038,Alchemilla_alpina,63.5514,11.9891
-1851341027,Alchemilla_alpina,42.74,-0.5
 59971489,Alchemilla_alpina,42.739376,-0.495659
 186788190,Alchemilla_alpina,59.3488,7.5397
 1260845471,Alchemilla_alpina,46.46666,9.71666
@@ -554,14 +542,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702001732,Alchemilla_alpina,60.1013,10.3848
 1989602127,Alchemilla_alpina,46.21163,7.61127
 187081983,Alchemilla_alpina,58.696,5.9024
-2005648020,Alchemilla_alpina,60.6,7.5
-1988078110,Alchemilla_alpina,68.2,-31.4
 1699915200,Alchemilla_alpina,58.8509,5.9926
 1828865109,Alchemilla_alpina,66.43901,14.34921
 39200419,Alchemilla_alpina,65.443,-22.642
 1702282736,Alchemilla_alpina,62.7803,7.2462
 20402047,Alchemilla_alpina,62.44288,7.70992
-1988119018,Alchemilla_alpina,65.7,-38.4
 1434664800,Alchemilla_alpina,47.306389,11.379722
 296403693,Alchemilla_alpina,47.145788,12.499254
 186788829,Alchemilla_alpina,58.4336,7.2275
@@ -570,15 +555,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701915545,Alchemilla_alpina,60.2241,9.5596
 1701829466,Alchemilla_alpina,60.70697,6.41003
 1999505878,Alchemilla_alpina,68.639865,25.951794
-1988106959,Alchemilla_alpina,66,-37.4
 1989602308,Alchemilla_alpina,47.22927,9.26877
-1988168153,Alchemilla_alpina,66.1,-37
 1702301775,Alchemilla_alpina,61.6756,7.2147
 1095062587,Alchemilla_alpina,62.406,5.6217
-1988131707,Alchemilla_alpina,63.5,-41.9
 1701670119,Alchemilla_alpina,61.1851,6.8332
 1323781403,Alchemilla_alpina,68.1235,17.2248
-1988107450,Alchemilla_alpina,63.4,-41.4
 1144077977,Alchemilla_alpina,59.9683,5.3338
 1701995542,Alchemilla_alpina,61.3338,10.8313
 1701853686,Alchemilla_alpina,60.3938,5.3308
@@ -586,7 +567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701342812,Alchemilla_alpina,63.1046,9.4656
 1699916444,Alchemilla_alpina,62.5234,11.7494
 1981551109,Alchemilla_alpina,61.367,10.5778
-1988069849,Alchemilla_alpina,66.1,-37.2
 1042983446,Alchemilla_alpina,65.7102,15.2624
 1828863860,Alchemilla_alpina,66.4307,13.14814
 39200429,Alchemilla_alpina,66.115,-23.56
@@ -595,22 +575,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702390285,Alchemilla_alpina,66.4304,13.1509
 1702257269,Alchemilla_alpina,61.0535,8.8639
 1701997079,Alchemilla_alpina,62.4998,6.0489
-2289573166,Alchemilla_alpina,66.1,-37.216667
 1144078128,Alchemilla_alpina,60.13253,9.49842
-1988228050,Alchemilla_alpina,65.9,-37.6
 2289620358,Alchemilla_alpina,70.466667,28.883333
 1324015881,Alchemilla_alpina,59.796,8.6151
 39612065,Alchemilla_alpina,65.657,-20.267
-699270472,Alchemilla_alpina,66.1,-37.21666
 1324013763,Alchemilla_alpina,59.7725,8.5789
-699270474,Alchemilla_alpina,65.9,-37.58333
 1701336803,Alchemilla_alpina,62.5253,7.7469
 39199872,Alchemilla_alpina,64.58,-21.02
 187081971,Alchemilla_alpina,62.9199,6.9424
 1701996220,Alchemilla_alpina,62.2521,5.447
 1978790108,Alchemilla_alpina,57.58847,-4.75994
 1701996425,Alchemilla_alpina,62.6143,6.1546
-1249261993,Alchemilla_alpina,46.5,7.6
 1323734138,Alchemilla_alpina,60.0594,10.7692
 1702276366,Alchemilla_alpina,59.5192,9.5567
 1702276330,Alchemilla_alpina,59.5146,9.5743
@@ -649,7 +624,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701280449,Alchemilla_alpina,65.0981,13.7123
 1323781430,Alchemilla_alpina,69.1839,20.3696
 1065680810,Alchemilla_alpina,65.82079,15.170337
-1059620286,Alchemilla_alpina,46.5,7.5
 1701966765,Alchemilla_alpina,64.5081,13.2299
 1701574818,Alchemilla_alpina,58.4528,6.2753
 1701308841,Alchemilla_alpina,62.4928,11.3776
@@ -658,7 +632,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144597963,Alchemilla_alpina,42.21667,9.05
 1702390218,Alchemilla_alpina,59.46966,7.93891
 1705337991,Alchemilla_alpina,63.102356,13.798058
-1988146150,Alchemilla_alpina,60.4,-44.1
 1599493675,Alchemilla_alpina,68.162807,28.561447
 1144597955,Alchemilla_alpina,42.38333,8.95
 39612026,Alchemilla_alpina,66.059,-18.738
@@ -675,7 +648,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702257361,Alchemilla_alpina,60.95088,9.95958
 1701873217,Alchemilla_alpina,62.1887,6.6944
 39612044,Alchemilla_alpina,65.456,-18.283
-1988107514,Alchemilla_alpina,62.1,-49.3
 465897555,Alchemilla_alpina,62.066667,-49.333333
 1144077992,Alchemilla_alpina,58.66381,6.23753
 187082068,Alchemilla_alpina,62.8516,9.8348
@@ -687,10 +659,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702282672,Alchemilla_alpina,62.3752,6.8445
 1701237454,Alchemilla_alpina,64.2973,10.4983
 1701995256,Alchemilla_alpina,62.352,6.7978
-1988174555,Alchemilla_alpina,62.1,-48.5
 1701865586,Alchemilla_alpina,62.2743,9.8092
 1701761220,Alchemilla_alpina,64.4445,10.5894
-1988214627,Alchemilla_alpina,60.2,-44.3
 39612028,Alchemilla_alpina,65.87,-18.319
 1701245373,Alchemilla_alpina,62.3784,9.6476
 1323781401,Alchemilla_alpina,69.7527,19.2263
@@ -711,7 +681,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701569945,Alchemilla_alpina,63.189,11.1762
 1702257283,Alchemilla_alpina,61.3536,10.0779
 1599493632,Alchemilla_alpina,69.081181,20.702145
-1988152097,Alchemilla_alpina,61.9,-49.3
 1701662099,Alchemilla_alpina,62.4625,7.1969
 39200279,Alchemilla_alpina,65.838,-23.172
 1999505997,Alchemilla_alpina,69.046036,20.850864
@@ -731,7 +700,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144077959,Alchemilla_alpina,60.2607,5.2536
 1702301728,Alchemilla_alpina,61.8435,6.4734
 1144152161,Alchemilla_alpina,67.32895,14.29557
-1988197069,Alchemilla_alpina,60.3,-44.3
 1701863032,Alchemilla_alpina,61.5198,8.8365
 1828863636,Alchemilla_alpina,69.24917,20.39393
 1697947416,Alchemilla_alpina,63.125,11.2507
@@ -766,7 +734,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828861284,Alchemilla_alpina,63.2606,12.43347
 1701774562,Alchemilla_alpina,62.8799,9.5603
 1828863498,Alchemilla_alpina,64.016111,-16.971667
-465897551,Alchemilla_alpina,61.1,-46.2
 1701251715,Alchemilla_alpina,63.0197,10.3533
 1702257318,Alchemilla_alpina,62.2214,8.123
 1323781410,Alchemilla_alpina,69.7151,22.1243
@@ -887,7 +854,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702559938,Alchemilla_alpina,63.0212,10.1756
 1323781454,Alchemilla_alpina,68.062,16.4632
 1701342020,Alchemilla_alpina,63.0427,10.2852
-85487439,Alchemilla_alpina,42.4,2.21
 39612036,Alchemilla_alpina,65.648,-18.023
 1065675367,Alchemilla_alpina,58.22504,11.41989
 1144169129,Alchemilla_alpina,61.54414,5.76869
@@ -958,7 +924,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701620284,Alchemilla_alpina,59.8833,8.5444
 1701618295,Alchemilla_alpina,62.4757,6.1872
 1065670565,Alchemilla_alpina,64.855593,14.137175
-786084857,Alchemilla_alpina,47.4,10.3
 1701964583,Alchemilla_alpina,63.0333,8.2786
 318217574,Alchemilla_alpina,59.3735,5.7888
 1701333324,Alchemilla_alpina,63.5267,9.764
@@ -970,7 +935,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1273867631,Alchemilla_alpina,63.33644,12.09452
 20403502,Alchemilla_alpina,61.9283,5.1033
 39199503,Alchemilla_alpina,64.181,-21.697
-296403648,Alchemilla_alpina,47.1,10.878
 1702257360,Alchemilla_alpina,58.901,5.962
 1065670529,Alchemilla_alpina,63.26783,13.13513
 1705465993,Alchemilla_alpina,63.03356,12.27727
@@ -980,7 +944,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900306150,Alchemilla_alpina,59.7249,7.693
 1701224497,Alchemilla_alpina,63.0469,11.0667
 1144078101,Alchemilla_alpina,60.2706,5.6466
-296403647,Alchemilla_alpina,47.2,11.45
 1701972459,Alchemilla_alpina,58.1591,7.0941
 1144077972,Alchemilla_alpina,60.3147,5.2727
 1043000570,Alchemilla_alpina,63.3929,12.9287
@@ -1038,7 +1001,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999613244,Alchemilla_alpina,59.960838,23.505513
 1701873189,Alchemilla_alpina,62.3706,7.5311
 1065669525,Alchemilla_alpina,66.89429,18.68517
-876155547,Alchemilla_alpina,42.4,1.97
 1701569924,Alchemilla_alpina,62.88824,10.50693
 1828861204,Alchemilla_alpina,63.19443,12.93918
 1144078096,Alchemilla_alpina,60.363,5.5634
@@ -1225,7 +1187,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701661993,Alchemilla_alpina,62.7659,7.1687
 1702263420,Alchemilla_alpina,62.1439,10.669
 1702276360,Alchemilla_alpina,69.5661,21.1668
-786084918,Alchemilla_alpina,47.5,10.6
 1702301796,Alchemilla_alpina,61.088,7.9988
 1701880906,Alchemilla_alpina,61.1107,8.0352
 1702282779,Alchemilla_alpina,62.4002,6.0103
@@ -1291,7 +1252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701880786,Alchemilla_alpina,61.2017,5.3146
 1065680785,Alchemilla_alpina,65.641857,15.484346
 1701873111,Alchemilla_alpina,65.3986,12.0919
-1702282696,Alchemilla_alpina,66.7,13.7425
 1701870674,Alchemilla_alpina,69.5777,20.1783
 1702257301,Alchemilla_alpina,61.4191,8.7461
 1702257294,Alchemilla_alpina,61.1707,9.0995
@@ -1455,7 +1415,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701863002,Alchemilla_alpina,59.6489,6.8089
 1702301797,Alchemilla_alpina,60.0647,6.5476
 1702263485,Alchemilla_alpina,62.1722,10.6802
-699270475,Alchemilla_alpina,54.5,-2.58333
 20401155,Alchemilla_alpina,61.0306,9.0398
 1702276345,Alchemilla_alpina,69.593,21.167
 1702257323,Alchemilla_alpina,61.0154,8.9806
