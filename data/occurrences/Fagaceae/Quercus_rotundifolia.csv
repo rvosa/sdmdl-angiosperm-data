@@ -28,7 +28,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 232592224,Quercus_rotundifolia,37.954,-1.697
 932708524,Quercus_rotundifolia,42.49801,-6.87617
 1936207228,Quercus_rotundifolia,37.6189,-1.1567
-623686671,Quercus_rotundifolia,38.5293269990804,-121.763702
 1501119293,Quercus_rotundifolia,39.61,-0.92
 415622900,Quercus_rotundifolia,36.81934,-4.37187
 415622892,Quercus_rotundifolia,36.909,-4.936
@@ -56,7 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860312764,Quercus_rotundifolia,41.85,1.25
 30671916,Quercus_rotundifolia,37.41,-2.06
 895178231,Quercus_rotundifolia,39.473,-0.39
-30888196,Quercus_rotundifolia,39.57,2.42
 1050641411,Quercus_rotundifolia,42.81,-2.72
 1050641272,Quercus_rotundifolia,42.81,-2.71
 1050641533,Quercus_rotundifolia,42.81,-2.57
@@ -64,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199498451,Quercus_rotundifolia,36.96,-4.556
 31964536,Quercus_rotundifolia,37.053,-4.243
 199498421,Quercus_rotundifolia,36.894,-3.993
-1259568396,Quercus_rotundifolia,32.244444,-5.681111
 1851351450,Quercus_rotundifolia,42.445,-6.805
 318119944,Quercus_rotundifolia,38.5,-1.02
 199498424,Quercus_rotundifolia,36.877,-3.814
@@ -82,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 932704513,Quercus_rotundifolia,41.85279,-8.14608
 932705214,Quercus_rotundifolia,43.27393,-7.21455
 932704757,Quercus_rotundifolia,42.55405,-7.2474
-318119951,Quercus_rotundifolia,38.55,-0.06
 895219741,Quercus_rotundifolia,39.539,-0.516
 415622854,Quercus_rotundifolia,36.732,-5.245
 1851319335,Quercus_rotundifolia,42.246,-6.327
@@ -125,10 +121,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318119868,Quercus_rotundifolia,38.35,-0.49
 30672069,Quercus_rotundifolia,37.706,-2.212
 30887606,Quercus_rotundifolia,37.380001,-6.29
-1842879611,Quercus_rotundifolia,32.8013,-5.2852
 1842867116,Quercus_rotundifolia,39.85,-6.25
 1050624710,Quercus_rotundifolia,41.7,-1.74
-895168601,Quercus_rotundifolia,32.8,-5.2833
 1050624927,Quercus_rotundifolia,42.87,-2.81
 199498210,Quercus_rotundifolia,36.646,-5.042
 1936642841,Quercus_rotundifolia,42.8541,-3.6011
@@ -145,9 +139,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 143005637,Quercus_rotundifolia,37.75,-4.93
 318119822,Quercus_rotundifolia,38.3,-0.52
 30887455,Quercus_rotundifolia,36.849998,-4.79
-1501105415,Quercus_rotundifolia,38.78,0.13
 175450899,Quercus_rotundifolia,37.768,-6.304
-895144679,Quercus_rotundifolia,38.782,0.139
 318119756,Quercus_rotundifolia,36.82,-3.69
 1936522267,Quercus_rotundifolia,38.5323,-4.3895
 1851331960,Quercus_rotundifolia,41.86,-4.14
@@ -164,12 +156,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415622860,Quercus_rotundifolia,36.596,-4.805
 318119741,Quercus_rotundifolia,38.59,-0.3
 318119537,Quercus_rotundifolia,39.04,-1.01
-1831526568,Quercus_rotundifolia,33.22194,-6.87583
-1831526463,Quercus_rotundifolia,31.06111,-6.535
 318119730,Quercus_rotundifolia,38.36,-0.9
 1936573874,Quercus_rotundifolia,41.7902,-5.9859
 204434489,Quercus_rotundifolia,43.022999,-2.466
-1851336319,Quercus_rotundifolia,39.7,2.59
 1842902977,Quercus_rotundifolia,34.792769,-2.452229
 1842902988,Quercus_rotundifolia,35.27,-5.13
 1842903041,Quercus_rotundifolia,35.15,-4.98
@@ -182,7 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842902968,Quercus_rotundifolia,35.28,-5.12
 1842902991,Quercus_rotundifolia,35.1,-5.13
 232591535,Quercus_rotundifolia,38.209,-1.989
-318119748,Quercus_rotundifolia,33.55,-5.17
 318119747,Quercus_rotundifolia,34.97,-4.75
 1050596922,Quercus_rotundifolia,42.84,-2.68
 1936244349,Quercus_rotundifolia,40.7762,-2.6079
@@ -208,8 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851380742,Quercus_rotundifolia,42.816,-5.11
 1842902864,Quercus_rotundifolia,35.372,-5.2925
 1936244328,Quercus_rotundifolia,36.6367,-4.6231
-1842902978,Quercus_rotundifolia,35.9,-4.62
-860325016,Quercus_rotundifolia,41.78,2.94
 1842902922,Quercus_rotundifolia,34.834924,-2.168716
 318119482,Quercus_rotundifolia,38.61,-0.92
 1851400734,Quercus_rotundifolia,42.2406,-5.4816
@@ -368,7 +354,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1502036612,Quercus_rotundifolia,40.39,0.11
 1050646465,Quercus_rotundifolia,42.78,-3.41
 895263079,Quercus_rotundifolia,40.3,0.12
-318119737,Quercus_rotundifolia,38.74,0.14
 1501966062,Quercus_rotundifolia,39.5,-0.85
 1502004799,Quercus_rotundifolia,39.04,-0.28
 895262528,Quercus_rotundifolia,38.51,-0.53
@@ -468,7 +453,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895214412,Quercus_rotundifolia,40.4,0.35
 1936395697,Quercus_rotundifolia,37.1319,-2.2132
 1501962275,Quercus_rotundifolia,39.33,-0.97
-1842902803,Quercus_rotundifolia,33.56,-5.1
 1501962042,Quercus_rotundifolia,39.24,-0.97
 1936086743,Quercus_rotundifolia,38.7872,-1.1476
 1936135274,Quercus_rotundifolia,37.7806,-3.8302
@@ -485,7 +469,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895214007,Quercus_rotundifolia,40.84,0.21
 1712606257,Quercus_rotundifolia,42.653721,-1.918709
 1050612064,Quercus_rotundifolia,42.49,-2.5
-30887216,Quercus_rotundifolia,40.02,3
 204434577,Quercus_rotundifolia,42.492001,-2.507
 204434570,Quercus_rotundifolia,42.528,-2.616
 1936365043,Quercus_rotundifolia,40.7647,-3.57
