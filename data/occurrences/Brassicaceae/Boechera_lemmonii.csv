@@ -17,9 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883402321,Boechera_lemmonii,52.0468359990855,-116.384939
 2308345940,Boechera_lemmonii,43.15,-122.07
 883412770,Boechera_lemmonii,53.959498999103,-119.735001
-1146243132,Boechera_lemmonii,60.7119329991958,-152.659883
-2305205675,Boechera_lemmonii,60,-152.8
-1146243206,Boechera_lemmonii,59.9999999991838,-152.8
 1949643478,Boechera_lemmonii,56.959167,-128.580833
 1949639099,Boechera_lemmonii,55.019167,-121.530556
 441690638,Boechera_lemmonii,45.193333,-117.185
@@ -27,10 +24,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928805170,Boechera_lemmonii,38.44,-119.3242
 2242377342,Boechera_lemmonii,39.208735,-106.176678
 883414795,Boechera_lemmonii,49.0210989990663,-114.007004
-1658229114,Boechera_lemmonii,60.6833,-137.55
 51753507,Boechera_lemmonii,44.41,-122.1081
 51753506,Boechera_lemmonii,44.4162,-122.1058
-2305781534,Boechera_lemmonii,60.68,-137.55
 1986944486,Boechera_lemmonii,44.434,-116.1497
 1426108069,Boechera_lemmonii,36.851667,-118.751667
 1988141849,Boechera_lemmonii,49.16,-121.22
@@ -42,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986994646,Boechera_lemmonii,44.6164,-109.739
 1988080746,Boechera_lemmonii,50.5,-115.7
 732469011,Boechera_lemmonii,50.65,-115.683333
-1146331884,Boechera_lemmonii,60.72,-142.52
 1988126428,Boechera_lemmonii,51.11,-122.46
 1930755165,Boechera_lemmonii,40.75,-109.95
 1929848799,Boechera_lemmonii,40.8,-110.02
@@ -78,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883416775,Boechera_lemmonii,50.8120009990764,-115.097868
 1949552974,Boechera_lemmonii,50.516667,-116.016667
 1929300568,Boechera_lemmonii,40.82,-110.3
-1146341313,Boechera_lemmonii,59.16,-134.33
 1949648883,Boechera_lemmonii,50.066667,-114.713889
 1930098188,Boechera_lemmonii,40.4,-111.65
 1931159754,Boechera_lemmonii,38.92,-117.3
@@ -95,14 +88,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51753069,Boechera_lemmonii,43.5204,-122.1497
 1949540302,Boechera_lemmonii,49.071667,-114.151389
 1426172479,Boechera_lemmonii,38.417505,-119.289615
-1949526136,Boechera_lemmonii,59.616667,-134.233333
 1949540755,Boechera_lemmonii,49.013889,-114.194444
 1024484013,Boechera_lemmonii,38.672724,-120.000108
 51752758,Boechera_lemmonii,45.2357,-117.3802
-1949583956,Boechera_lemmonii,60.423611,-137.805556
 883387157,Boechera_lemmonii,50.516667,-114.833333
 1988167493,Boechera_lemmonii,54.1,-127.5
-1949511315,Boechera_lemmonii,59.65,-133.816667
 894983919,Boechera_lemmonii,49.15,-114.05
 1931070364,Boechera_lemmonii,43.2,-111.22
 51753061,Boechera_lemmonii,45.273,-117.4294
@@ -144,7 +134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732469013,Boechera_lemmonii,49.716667,-115.6
 732469012,Boechera_lemmonii,49.133333,-114.166667
 732469015,Boechera_lemmonii,49.016667,-114.083333
-1988189714,Boechera_lemmonii,60.78,-137.87
 51753144,Boechera_lemmonii,44.1792,-121.7967
 1988224119,Boechera_lemmonii,49.358,-114.574
 732469007,Boechera_lemmonii,49.066667,-120.216667
