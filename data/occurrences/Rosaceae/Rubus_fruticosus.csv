@@ -10,14 +10,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831527723,Rubus_fruticosus,47.56833,13.62083
 1801099503,Rubus_fruticosus,-26.276389,-49.3825
 2313446084,Rubus_fruticosus,48.08,11.59
-1849339105,Rubus_fruticosus,-43.940286,168.857378
 1897834403,Rubus_fruticosus,-36.793194,174.710361
 1947543934,Rubus_fruticosus,48.21,11.23
 1946680543,Rubus_fruticosus,49.5,8.8
 1882106854,Rubus_fruticosus,49.5,8.1
 2313436368,Rubus_fruticosus,48.09,11.47
 1947543831,Rubus_fruticosus,48.28,11.27
-1123000436,Rubus_fruticosus,54.3,13.5
 1882262323,Rubus_fruticosus,48.62,10.41
 1882256025,Rubus_fruticosus,48.81,10.72
 1265684232,Rubus_fruticosus,51.548322,-0.271231
@@ -28,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897819549,Rubus_fruticosus,-36.606389,174.896972
 2005484153,Rubus_fruticosus,-32.706667,26.885556
 2313331214,Rubus_fruticosus,48.07,11.66
-899803227,Rubus_fruticosus,54.2,7.9
 899803260,Rubus_fruticosus,49.5,7.2
 2313332833,Rubus_fruticosus,48.08,11.48
 1882265081,Rubus_fruticosus,48.49,10.55
@@ -48,11 +45,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1270042548,Rubus_fruticosus,51.206375,14.634377
 685241587,Rubus_fruticosus,-33.875,22.875
 2313329709,Rubus_fruticosus,48.18,11.4
-685241588,Rubus_fruticosus,-33.875,22.625
 1882256330,Rubus_fruticosus,48.61,10.38
 685241590,Rubus_fruticosus,-33.875,18.375
-685241589,Rubus_fruticosus,-34.125,23.125
-685241586,Rubus_fruticosus,-34.125,23.375
 685241585,Rubus_fruticosus,-33.875,18.875
 1056242154,Rubus_fruticosus,51.591207,-0.127659
 1325699445,Rubus_fruticosus,-29.729167,30.538889
@@ -80,7 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988099287,Rubus_fruticosus,49.21,-122.86
 1949654615,Rubus_fruticosus,49.212639,-122.862778
 1949655137,Rubus_fruticosus,49.211389,-122.863333
-1091168088,Rubus_fruticosus,-44.3,176.216666
 1988135518,Rubus_fruticosus,49.213,-122.86
 1988079981,Rubus_fruticosus,49.2,-122.97
 623687634,Rubus_fruticosus,40.021483,-124.006433
@@ -169,7 +162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 991911049,Rubus_fruticosus,48.3,11.5
 1882645546,Rubus_fruticosus,50.462223,12.091118
 1949284824,Rubus_fruticosus,52.658054,12.448889
-1882645538,Rubus_fruticosus,54.325455,13.535872
 1949284817,Rubus_fruticosus,53.719444,10.926389
 1933853816,Rubus_fruticosus,35.9578,139.9068
 19816315,Rubus_fruticosus,49.1296,2.29165
@@ -179,7 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1882645537,Rubus_fruticosus,51.134331,12.450699
 786263101,Rubus_fruticosus,49.5,8.6
 786263112,Rubus_fruticosus,48,7.8
-1701480741,Rubus_fruticosus,58.86514,9.50442
 441929638,Rubus_fruticosus,51.765778,12.623822
 441929599,Rubus_fruticosus,52.403332,13.045555
 441929635,Rubus_fruticosus,51.620152,12.579844
@@ -191,7 +182,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462229645,Rubus_fruticosus,-33.625,24.375
 462229642,Rubus_fruticosus,-32.375,26.875
 1701546667,Rubus_fruticosus,48.85528,15.85333
-1882645521,Rubus_fruticosus,54.46706,13.557761
 684326699,Rubus_fruticosus,51,7
 1091266715,Rubus_fruticosus,-43.5,172.586666
 43220033,Rubus_fruticosus,34.12535,134.55386
@@ -204,11 +194,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091125135,Rubus_fruticosus,-35.4,173.5
 1091281895,Rubus_fruticosus,-35.95,173.866666
 453344009,Rubus_fruticosus,-33.375,22.125
-1897689469,Rubus_fruticosus,-29.020278,167.922222
-786262782,Rubus_fruticosus,54.5,13.6
-786262785,Rubus_fruticosus,54,13.9
 462229641,Rubus_fruticosus,-34.125,20.375
-453344006,Rubus_fruticosus,-34.125,24.625
 453344005,Rubus_fruticosus,-33.875,23.125
 1828889260,Rubus_fruticosus,34.84409,134.70667
 786263087,Rubus_fruticosus,49.7,8.2
@@ -217,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 786262744,Rubus_fruticosus,42.6,12.6
 1090603275,Rubus_fruticosus,-27.234444,-52.027778
 1090603302,Rubus_fruticosus,-27.001944,-51.405833
-453344004,Rubus_fruticosus,-33.875,25.375
 453344001,Rubus_fruticosus,-28.125,29.125
 453344002,Rubus_fruticosus,-28.875,29.375
 1325700145,Rubus_fruticosus,-28.730595,29.351978
@@ -241,7 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897689740,Rubus_fruticosus,-37.033333,174.5
 1091329765,Rubus_fruticosus,-41.466666,172.05
 1897626029,Rubus_fruticosus,-38.066667,175.266667
-1829420802,Rubus_fruticosus,42.333333,142.366667
 1897697287,Rubus_fruticosus,-36.783333,174.85
 1897651220,Rubus_fruticosus,-36.883333,174.933333
 453343993,Rubus_fruticosus,-34.125,18.375
@@ -256,8 +240,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897657590,Rubus_fruticosus,-36.9,174.65
 1834902252,Rubus_fruticosus,35.320833,139.29375
 1897663214,Rubus_fruticosus,-38.066667,176.683333
-1897728010,Rubus_fruticosus,-37.316667,176.25
-993491358,Rubus_fruticosus,-42.0167,145.2667
 441929584,Rubus_fruticosus,49.75,15
 453343986,Rubus_fruticosus,-34.375,18.875
 453343987,Rubus_fruticosus,-33.375,19.625
@@ -287,13 +269,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 786263363,Rubus_fruticosus,49.7,7.5
 1897639682,Rubus_fruticosus,-36.916667,174.583333
 786263328,Rubus_fruticosus,50.6,7.3
-1897616234,Rubus_fruticosus,-36.916667,173.916667
 1897625242,Rubus_fruticosus,-35.583333,173.583333
 1893207934,Rubus_fruticosus,49.46,6.01
 1055619691,Rubus_fruticosus,57.11568,-2.896484
 1893207914,Rubus_fruticosus,49.8,5.93
 1893207938,Rubus_fruticosus,49.92,6.03
-900313039,Rubus_fruticosus,58.46885,8.83427
 1897748464,Rubus_fruticosus,-38.083333,175.583333
 616356057,Rubus_fruticosus,50.815054,5.687205
 994449510,Rubus_fruticosus,-41.53,146.55
@@ -302,10 +282,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 786262991,Rubus_fruticosus,47.6,7.8
 786262973,Rubus_fruticosus,47.7,9.3
 19808292,Rubus_fruticosus,46.8546,0.928775
-1701265786,Rubus_fruticosus,59.0574,10.142
 1099089667,Rubus_fruticosus,52.375557,9.740278
 2236814035,Rubus_fruticosus,53.043509,-0.461856
-1701963187,Rubus_fruticosus,58.6178,9.0947
 786262888,Rubus_fruticosus,49.8,9.5
 2288307345,Rubus_fruticosus,50.452,6.102
-1324015168,Rubus_fruticosus,58.6286,8.9383
