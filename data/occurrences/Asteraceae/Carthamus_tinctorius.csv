@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1061551988,Carthamus_tinctorius,-15.6439,128.7222
 1132255275,Carthamus_tinctorius,-33.6144,148.44
 993733323,Carthamus_tinctorius,-33.6144,148.4403
-1600846643,Carthamus_tinctorius,62.602408,29.722103
 1702026494,Carthamus_tinctorius,59.18,10.966
 1702028118,Carthamus_tinctorius,59.4394,10.7099
 1269727547,Carthamus_tinctorius,30.342056,-91.053235
@@ -13,11 +12,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937187497,Carthamus_tinctorius,-33.6167,148.4333
 895220747,Carthamus_tinctorius,40.382,-2.193
 911932204,Carthamus_tinctorius,50.515617,8.441283
-1701910490,Carthamus_tinctorius,59.9322,10.7175
 1988144035,Carthamus_tinctorius,49.177,-122.79
 1095917853,Carthamus_tinctorius,59.23,17.9
 1600846686,Carthamus_tinctorius,60.224312,25.139208
-1702223886,Carthamus_tinctorius,58.5395,5.7502
 1257379854,Carthamus_tinctorius,-23.756944,133.772222
 788622135,Carthamus_tinctorius,56.20133,13.87005
 1702373781,Carthamus_tinctorius,59.22,10.9643
@@ -26,7 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 728980510,Carthamus_tinctorius,51.739813,5.875996
 1652359433,Carthamus_tinctorius,-17.081931,145.584179
 994558247,Carthamus_tinctorius,-41.23195,145.9677
-788526344,Carthamus_tinctorius,56.18944,14.72369
 1342309140,Carthamus_tinctorius,56.935733,9.368413
 1702034519,Carthamus_tinctorius,59.441,10.7117
 1702034610,Carthamus_tinctorius,59.4398,10.7085
@@ -36,13 +32,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930769371,Carthamus_tinctorius,36.8968,-113.931
 1846527583,Carthamus_tinctorius,33.3925,-111.920833
 381794821,Carthamus_tinctorius,36.11813,137.95769
-1701840147,Carthamus_tinctorius,59.303,10.2907
 1702188772,Carthamus_tinctorius,59.4399,10.7097
 687095,Carthamus_tinctorius,55.99135,14.12026
 1988209808,Carthamus_tinctorius,49.19,-122.95
 1342309179,Carthamus_tinctorius,55.703473,12.333238
 1930216404,Carthamus_tinctorius,41.863056,-111.960833
-1702031949,Carthamus_tinctorius,59.3075,10.2909
 1600846722,Carthamus_tinctorius,61.548726,23.977513
 1999665855,Carthamus_tinctorius,60.486935,22.346973
 1701847182,Carthamus_tinctorius,59.4418,10.7104
@@ -52,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849176632,Carthamus_tinctorius,34.3401,-94.4222
 1342309190,Carthamus_tinctorius,57.502571,10.47551
 1701817933,Carthamus_tinctorius,59.4927,10.3147
-788835180,Carthamus_tinctorius,56.06644,14.6308
 1988768558,Carthamus_tinctorius,43.69132,-85.47371
 788644217,Carthamus_tinctorius,56.14872,14.506
 1702237211,Carthamus_tinctorius,59.1834,10.9652
@@ -61,13 +54,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701607087,Carthamus_tinctorius,59.4282,10.4638
 1697949518,Carthamus_tinctorius,60.2771,10.314
 1702256290,Carthamus_tinctorius,60.28641,10.38658
-1095919000,Carthamus_tinctorius,60,19
 788501811,Carthamus_tinctorius,55.86452,13.70083
 1600846699,Carthamus_tinctorius,61.171239,26.160775
-1652273793,Carthamus_tinctorius,-20.288576,148.727317
 2288575478,Carthamus_tinctorius,52.011,5.913833
-1342309187,Carthamus_tinctorius,55.607428,12.466797
-1705293661,Carthamus_tinctorius,57.754164,16.671893
 1342309160,Carthamus_tinctorius,56.455454,10.077684
 1701861957,Carthamus_tinctorius,59.4429,10.709
 1342309201,Carthamus_tinctorius,55.877705,12.497182
@@ -78,7 +67,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830617393,Carthamus_tinctorius,34.05231,134.58168
 1258735216,Carthamus_tinctorius,25.13638,102.74055
 1600846697,Carthamus_tinctorius,61.02953,28.190079
-1705276574,Carthamus_tinctorius,57.378644,16.559955
 788641589,Carthamus_tinctorius,55.79192,13.11152
 1652107107,Carthamus_tinctorius,-17.35693,145.609179
 1451585236,Carthamus_tinctorius,-33.295435,142.408231
@@ -88,7 +76,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1457820720,Carthamus_tinctorius,34.383333,-119.521667
 388806819,Carthamus_tinctorius,35.465763,139.615538
 1258591209,Carthamus_tinctorius,47.60639,-122.33083
-1702164178,Carthamus_tinctorius,59.9363,10.6732
 788675022,Carthamus_tinctorius,56.31569,13.9977
 788458220,Carthamus_tinctorius,56.18331,15.31006
 1258601703,Carthamus_tinctorius,37.87167,-122.27167
@@ -110,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705460286,Carthamus_tinctorius,59.604982,17.862063
 1701789439,Carthamus_tinctorius,59.1867,10.969
 1705339089,Carthamus_tinctorius,57.367374,15.687222
-1705282723,Carthamus_tinctorius,57.587593,16.604398
 1702196141,Carthamus_tinctorius,59.1869,10.9515
 1702201029,Carthamus_tinctorius,59.1881,10.9647
 1652163672,Carthamus_tinctorius,-26.190213,152.075798
@@ -127,12 +113,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994932349,Carthamus_tinctorius,-42.3333,147.9333
 995967124,Carthamus_tinctorius,-42.33,147.93
 994447033,Carthamus_tinctorius,-42.33194,147.93435
-574951714,Carthamus_tinctorius,17.016667,54.283333
 1986971637,Carthamus_tinctorius,40.43,-111.91
 1949610300,Carthamus_tinctorius,49.466667,-120.466667
 1946864684,Carthamus_tinctorius,50.03,10.2
 686714,Carthamus_tinctorius,58.03458,14.94375
-1342309173,Carthamus_tinctorius,56.302821,10.833019
 1988114657,Carthamus_tinctorius,49.27,-122.95
 1946864557,Carthamus_tinctorius,50.02,10.49
 1988077416,Carthamus_tinctorius,49.28,-122.75
@@ -163,7 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893938505,Carthamus_tinctorius,22.425,-98.441667
 1896239110,Carthamus_tinctorius,21.880833,-98.274167
 1893606516,Carthamus_tinctorius,22.063333,-98.183333
-992461841,Carthamus_tinctorius,-33.932061,137.634431
 1893938480,Carthamus_tinctorius,20.4972222520593,-103.954390725984
 1893938453,Carthamus_tinctorius,20.6769361814197,-103.346317269497
 1893938419,Carthamus_tinctorius,20.4305576195697,-103.309645427854
@@ -178,7 +161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893938500,Carthamus_tinctorius,28.4605530994249,-113.998627622461
 1895391923,Carthamus_tinctorius,28.4583171912196,-113.996912567443
 1990674447,Carthamus_tinctorius,38.895289,-98.859806
-2242398799,Carthamus_tinctorius,39.732207,-104.961468
 1851583336,Carthamus_tinctorius,37.9,-3.06
 1652049786,Carthamus_tinctorius,-23.556914,145.292541
 788674790,Carthamus_tinctorius,56.06116,12.86374
@@ -233,12 +215,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651978696,Carthamus_tinctorius,-26.415208,152.917454
 381795158,Carthamus_tinctorius,36.38505,140.44691
 2270584148,Carthamus_tinctorius,33.5965,-112.557
-615292873,Carthamus_tinctorius,34.57,69.1
 1638385613,Carthamus_tinctorius,46.725,15.45833
 381795344,Carthamus_tinctorius,36.37193,140.4539
 1829420428,Carthamus_tinctorius,42.874722,143.158611
 1031018105,Carthamus_tinctorius,25.175621,110.351669
-615292883,Carthamus_tinctorius,34.48,69.2
 1893938493,Carthamus_tinctorius,31.308333,-116.225
 1893938420,Carthamus_tinctorius,21.6506624182498,-99.8046635292249
 1893938476,Carthamus_tinctorius,21.977031,-100.105238
@@ -272,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897837411,Carthamus_tinctorius,-41.479139,173.967833
 1091096920,Carthamus_tinctorius,-41.53,173.97
 2270588334,Carthamus_tinctorius,33.422,-111.943
-891653414,Carthamus_tinctorius,25.015833,121.535833
 1933933698,Carthamus_tinctorius,34.95208,136.65778
 176907924,Carthamus_tinctorius,37.073636,-101.773219
 1099889192,Carthamus_tinctorius,55.94031,13.10182
@@ -296,9 +275,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030810100,Carthamus_tinctorius,30.601932,109.726617
 1030810074,Carthamus_tinctorius,29.539775,114.04948
 51788144,Carthamus_tinctorius,45.2897,-122.3325
-1891593360,Carthamus_tinctorius,49.58,6.13
 1322940148,Carthamus_tinctorius,39.2683,-76.5661
-2290258398,Carthamus_tinctorius,41.916667,12.45
 381795347,Carthamus_tinctorius,38.73178,139.83395
 788638670,Carthamus_tinctorius,57.890552,12.059346
 1990674357,Carthamus_tinctorius,38.08723,-102.62075
@@ -318,12 +295,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303633268,Carthamus_tinctorius,35.677884,102.475158
 1303633259,Carthamus_tinctorius,32.775621,96.67737
 788671579,Carthamus_tinctorius,55.704215,13.193147
-465175582,Carthamus_tinctorius,35.56033,35.79503
 891653405,Carthamus_tinctorius,25.128611,121.735833
-1705487292,Carthamus_tinctorius,49.5955,17.2573
 1303633306,Carthamus_tinctorius,36.509886,102.43824
 35804444,Carthamus_tinctorius,21.3,-157.85
-1705280538,Carthamus_tinctorius,56.766209,16.559087
 2290455446,Carthamus_tinctorius,52.266075,6.155217
 1057271731,Carthamus_tinctorius,51.548322,-0.271231
 1600846679,Carthamus_tinctorius,65.0231,25.405223
@@ -331,7 +305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303633276,Carthamus_tinctorius,29.868336,121.54399
 686812,Carthamus_tinctorius,56.877485,14.811873
 1303633242,Carthamus_tinctorius,28.451836,119.916426
-1651978675,Carthamus_tinctorius,-27.498537,153.500785
 788641703,Carthamus_tinctorius,57.105999,12.250391
 1257706602,Carthamus_tinctorius,12.616667,-87.15
 415904188,Carthamus_tinctorius,40.71916,-74.83694
