@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2270525652,Geoffroea_decorticans,33.400731,-111.950273
 2251615053,Geoffroea_decorticans,-40.448333,-65.185
 2251613151,Geoffroea_decorticans,-32.084167,-65.101389
 2251614118,Geoffroea_decorticans,-31.4325,-65.427222
@@ -9,12 +8,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2251612443,Geoffroea_decorticans,-28.9,-63.966667
 1831521799,Geoffroea_decorticans,-30.27139,-67.71472
 2251612510,Geoffroea_decorticans,-30.271389,-67.714722
-2270690402,Geoffroea_decorticans,33.4608,-111.9442
 2251614389,Geoffroea_decorticans,-24.441667,-65.151389
 574919191,Geoffroea_decorticans,-22.832778,-68.1975
 1260744482,Geoffroea_decorticans,-13.525,-72.51861
 1260804089,Geoffroea_decorticans,-20.69611,-63.90777
-1087072035,Geoffroea_decorticans,-9.635139,-37.727583
 2269393078,Geoffroea_decorticans,-22.64974,-68.166568
 1260436013,Geoffroea_decorticans,-20.63,-64.144722
 2270508758,Geoffroea_decorticans,-24.782932,-65.412155
@@ -27,10 +24,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2251612227,Geoffroea_decorticans,-25.150278,-61.322778
 575172135,Geoffroea_decorticans,-27.314444,-70.521389
 1259737729,Geoffroea_decorticans,-31.38333,-58.95
-1061293707,Geoffroea_decorticans,3.633344,-76.4836
 1259936585,Geoffroea_decorticans,-21.46333,-64.75472
 912259786,Geoffroea_decorticans,-21.46,-64.75
-2270589608,Geoffroea_decorticans,33.4261,-111.926
 1259737742,Geoffroea_decorticans,-24.88333,-66.13333
 1259742412,Geoffroea_decorticans,-22.53333,-63.81666
 1259737734,Geoffroea_decorticans,-22.2,-63.66666
@@ -75,13 +70,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144687689,Geoffroea_decorticans,-25.53333,-65.56667
 1144688966,Geoffroea_decorticans,-23.65,-60.1
 2251614388,Geoffroea_decorticans,-28.689167,-64.776111
-1846509135,Geoffroea_decorticans,-30,-71
 1823459540,Geoffroea_decorticans,-23.2025,-58.1689
 1144688971,Geoffroea_decorticans,-22.18333,-60.08333
 1144689003,Geoffroea_decorticans,-23.21667,-59.21667
 1936640978,Geoffroea_decorticans,-20.157556,-60.300692
 1261923201,Geoffroea_decorticans,-31.91666,-64.25
-1846509122,Geoffroea_decorticans,33.460882,-111.944077
 2251614482,Geoffroea_decorticans,-33.680556,-61.364167
 1144687677,Geoffroea_decorticans,-30.85,-64.51667
 2251614107,Geoffroea_decorticans,-28.397222,-65.725833
@@ -102,7 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2273847908,Geoffroea_decorticans,-27.56347,-70.00063
 2273846516,Geoffroea_decorticans,-29.95332,-71.33947
 2273848215,Geoffroea_decorticans,-29.73588,-70.64455
-1929947875,Geoffroea_decorticans,18.39744,-66.04988
 1228380922,Geoffroea_decorticans,-27.37,-70.33
 1144687669,Geoffroea_decorticans,-21.83333,-64.13333
 1144687674,Geoffroea_decorticans,-26.5,-64.75
