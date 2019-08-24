@@ -21,13 +21,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2269012754,Gilbertiodendron_ogoouense,-0.719167,12.9762
 2013883173,Gilbertiodendron_ogoouense,-1.12086,11.13573
 2289710744,Gilbertiodendron_ogoouense,-1.918333,9.831667
-912093818,Gilbertiodendron_ogoouense,5.02,8.8
-2289153724,Gilbertiodendron_ogoouense,5.016667,8.8
 1259936469,Gilbertiodendron_ogoouense,0.61722,10.39916
 1259613438,Gilbertiodendron_ogoouense,0.618889,10.409722
 2013874030,Gilbertiodendron_ogoouense,0.617222,10.399167
 2013872821,Gilbertiodendron_ogoouense,-1.888,9.575
-2289679778,Gilbertiodendron_ogoouense,5.016667,8.783333
 218788153,Gilbertiodendron_ogoouense,1.590977,10.069932
 218788152,Gilbertiodendron_ogoouense,1.592265,10.062066
 218786721,Gilbertiodendron_ogoouense,1.61887,10.07814
@@ -38,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2013865597,Gilbertiodendron_ogoouense,0.966667,10.166667
 2013865693,Gilbertiodendron_ogoouense,0.666667,10.533333
 2292024736,Gilbertiodendron_ogoouense,0.466667,10.316667
-437983553,Gilbertiodendron_ogoouense,5.03139,8.80611
 2013865303,Gilbertiodendron_ogoouense,0.583333,10.433333
 2290693336,Gilbertiodendron_ogoouense,0.616667,10.416667
 2289179902,Gilbertiodendron_ogoouense,0.633333,10.4
@@ -55,13 +51,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289381564,Gilbertiodendron_ogoouense,-2.766667,10.05
 2288847533,Gilbertiodendron_ogoouense,-1.916667,9.916667
 2013867691,Gilbertiodendron_ogoouense,-1.95,9.883333
-1144687660,Gilbertiodendron_ogoouense,-0.08333,104.75
 2292026240,Gilbertiodendron_ogoouense,-1.941667,9.881667
 437540085,Gilbertiodendron_ogoouense,0.43139,12.37278
 1258418012,Gilbertiodendron_ogoouense,0.41666,12.36666
 2292027300,Gilbertiodendron_ogoouense,0.416667,12.366667
 2013861275,Gilbertiodendron_ogoouense,0.833333,12.083333
-1261921735,Gilbertiodendron_ogoouense,5.383333,9
 1936369626,Gilbertiodendron_ogoouense,-2.55,10.5333
 2013855080,Gilbertiodendron_ogoouense,-1.533333,10.916667
 2013857747,Gilbertiodendron_ogoouense,-2.533333,10.5
@@ -71,9 +65,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437983551,Gilbertiodendron_ogoouense,2.81667,11.13333
 2269007997,Gilbertiodendron_ogoouense,-4.88806,12.03222
 2269008375,Gilbertiodendron_ogoouense,2.4,10.4
-2269008467,Gilbertiodendron_ogoouense,-5.63333,13.0667
-1835597355,Gilbertiodendron_ogoouense,-2.01,28.31
-2013857655,Gilbertiodendron_ogoouense,0.566667,9.333333
 2269007213,Gilbertiodendron_ogoouense,0.833333,11.4167
 2288873173,Gilbertiodendron_ogoouense,0.833333,11.416667
 2288346665,Gilbertiodendron_ogoouense,-1.916667,11.916667
