@@ -35,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829921103,Sicyos_angulatus,35.332438,139.215571
 1258094484,Sicyos_angulatus,38.460278,-90.816111
 1829918420,Sicyos_angulatus,35.3741,139.253068
-2244510563,Sicyos_angulatus,34.8,134.916667
 1829930075,Sicyos_angulatus,35.315772,139.140579
 1829918421,Sicyos_angulatus,35.382431,139.178074
 1829905319,Sicyos_angulatus,35.86175,139.592306
@@ -93,17 +92,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563150093,Sicyos_angulatus,29.94,-89.9945
 381843234,Sicyos_angulatus,36.26287,139.83847
 699273566,Sicyos_angulatus,42.525,-71.75972
-1829609804,Sicyos_angulatus,36.3,139.1
 1930723004,Sicyos_angulatus,40.8614,-73.8725
 1929430528,Sicyos_angulatus,40.8575,-73.8772
 395803360,Sicyos_angulatus,35.050278,134.126667
 1260249652,Sicyos_angulatus,38.33333,-90.25
 204392115,Sicyos_angulatus,34.67428,135.74953
-1829609524,Sicyos_angulatus,36.3,139.3
-1829603759,Sicyos_angulatus,36.4,139.1
-1829609692,Sicyos_angulatus,36.7,139
 2244423619,Sicyos_angulatus,34.835146,136.573195
-1830202198,Sicyos_angulatus,36.666667,137.3
 381843296,Sicyos_angulatus,35.68256,139.55823
 1830200641,Sicyos_angulatus,36.733333,136.95
 177030081,Sicyos_angulatus,38.403333,-96.549444
@@ -114,7 +108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830393671,Sicyos_angulatus,35.007872,137.15
 177030227,Sicyos_angulatus,39.366111,-94.894167
 381843130,Sicyos_angulatus,36.21525,140.02039
-1829456592,Sicyos_angulatus,39.5,140.49
 177030077,Sicyos_angulatus,39.0891,-96.7529
 381843133,Sicyos_angulatus,36.09571,139.99788
 1260570294,Sicyos_angulatus,38.6525,-90.7375
@@ -123,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177029820,Sicyos_angulatus,39.054722,-96.778333
 1260980694,Sicyos_angulatus,36.7025,-91.72166
 415928095,Sicyos_angulatus,40.91,-73.93
-1829609319,Sicyos_angulatus,36.3,138.9
 395803343,Sicyos_angulatus,35.064722,133.5475
 211638244,Sicyos_angulatus,43.459999,-6.23
 388868223,Sicyos_angulatus,35.590737,139.140574
@@ -155,11 +147,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388868113,Sicyos_angulatus,35.599072,139.290561
 415937884,Sicyos_angulatus,41.905,-72.70194
 1258820099,Sicyos_angulatus,38.65277,-90.73694
-1258501330,Sicyos_angulatus,37.21666,-90.2
 1258820344,Sicyos_angulatus,38.431389,-90.815833
 1258820153,Sicyos_angulatus,38.02694,-90.11527
-1050627876,Sicyos_angulatus,43.4,-3.8
-1851363985,Sicyos_angulatus,43.4,-3.809
 388868156,Sicyos_angulatus,35.549081,139.31556
 388868158,Sicyos_angulatus,35.615735,139.190569
 1702510181,Sicyos_angulatus,43.39,-3.81
@@ -192,7 +181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177030061,Sicyos_angulatus,39.365317,-94.894232
 177030216,Sicyos_angulatus,39.070765,-95.432223
 388868312,Sicyos_angulatus,36.240665,139.653143
-1830221832,Sicyos_angulatus,36.733333,137.3
 1260978945,Sicyos_angulatus,37.75722,-92.01583
 2265429422,Sicyos_angulatus,44.524167,-93.885556
 2265363060,Sicyos_angulatus,44.311389,-92.121389
@@ -235,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381842938,Sicyos_angulatus,36.0259,139.90704
 624042584,Sicyos_angulatus,35.453269,140.04675
 1830195978,Sicyos_angulatus,36.683333,137.133333
-1261260531,Sicyos_angulatus,38.166667,-90.7
 415976522,Sicyos_angulatus,41.60305,-72.63638
 177030045,Sicyos_angulatus,39.064234,-96.460593
 729311518,Sicyos_angulatus,35.233299,134.967
@@ -317,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2243089543,Sicyos_angulatus,38.195973,140.380162
 393110955,Sicyos_angulatus,36.0085,139.08423
 234434094,Sicyos_angulatus,35.515753,139.328062
-473445612,Sicyos_angulatus,45.5,-73.6
 234434104,Sicyos_angulatus,35.449095,139.378057
 234434103,Sicyos_angulatus,35.449097,139.465551
 234434124,Sicyos_angulatus,35.374108,139.540546
@@ -394,7 +380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177029974,Sicyos_angulatus,37.18073,-95.69011
 177029961,Sicyos_angulatus,38.29338,-96.99261
 177030179,Sicyos_angulatus,37.10599,-96.48173
-1829611155,Sicyos_angulatus,36.2,139.5
 1829641452,Sicyos_angulatus,36.200556,139.549444
 177029973,Sicyos_angulatus,37.36439,-96.46691
 177030206,Sicyos_angulatus,38.19573,-95.72619
@@ -418,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177030251,Sicyos_angulatus,39.44477,-95.70982
 177029975,Sicyos_angulatus,37.34077,-95.29588
 177029969,Sicyos_angulatus,38.22424,-96.89642
-1829603824,Sicyos_angulatus,36.3,139.2
 295942553,Sicyos_angulatus,35.340778,139.490549
 1933886392,Sicyos_angulatus,35.77681,139.724
 177029929,Sicyos_angulatus,38.68837,-94.89223
@@ -480,7 +464,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177029962,Sicyos_angulatus,38.53362,-95.95901
 1260975377,Sicyos_angulatus,38.17361,-93.28722
 177029970,Sicyos_angulatus,37.97572,-95.335
-1988241931,Sicyos_angulatus,42.5,-81.67
 177030277,Sicyos_angulatus,39.35004,-94.93104
 1260975468,Sicyos_angulatus,38.90972,-91.0425
 177030139,Sicyos_angulatus,38.00559,-95.55721
@@ -524,7 +507,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260971169,Sicyos_angulatus,38.56555,-92.46333
 1260966728,Sicyos_angulatus,37.02333,-90.43138
 177029936,Sicyos_angulatus,38.00933,-94.68321
-2290083236,Sicyos_angulatus,47,-120
 1038923338,Sicyos_angulatus,41.406,-72.4831
 1260930923,Sicyos_angulatus,40.47694,-95.62027
 2289928941,Sicyos_angulatus,42.65,-73.75
@@ -532,9 +514,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177029949,Sicyos_angulatus,37.887543,-96.232636
 177029947,Sicyos_angulatus,38.452151,-96.15
 177029948,Sicyos_angulatus,38.675881,-96.645003
-1988231501,Sicyos_angulatus,43.7,-79.42
 177030246,Sicyos_angulatus,38.214028,-95.292256
-1899323491,Sicyos_angulatus,44.1,-78.95
 415976526,Sicyos_angulatus,41.66611,-72.62777
 415976542,Sicyos_angulatus,41.82277,-71.41861
 1322008794,Sicyos_angulatus,38.7894,-77.0508
