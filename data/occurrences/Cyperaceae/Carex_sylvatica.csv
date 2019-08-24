@@ -62,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702391222,Carex_sylvatica,47.4226,8.0593
 1701915883,Carex_sylvatica,59.8692,10.2412
 1702391613,Carex_sylvatica,59.8244,10.2395
-1038104830,Carex_sylvatica,48.056389,11.1
 1702391681,Carex_sylvatica,59.8413,10.3472
 1935668459,Carex_sylvatica,44.91375,13.98069
 1062494779,Carex_sylvatica,47.389725,10.218333
@@ -89,7 +88,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 911747413,Carex_sylvatica,49.811111,6.508333
 1851411594,Carex_sylvatica,42.6665,-2.5784
 1701859113,Carex_sylvatica,59.94976,6.01605
-1096852842,Carex_sylvatica,47,7
 1702506849,Carex_sylvatica,42.66,-2.58
 1697428833,Carex_sylvatica,58.03,34.8461
 1229656316,Carex_sylvatica,42.66,-2.57
@@ -196,11 +194,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342306279,Carex_sylvatica,56.953784,8.661626
 1230531482,Carex_sylvatica,41.11417,44.83556
 1936655879,Carex_sylvatica,40.804722,44.893056
-1050640963,Carex_sylvatica,42.82,-2.7
 788531171,Carex_sylvatica,39.833333,21.216667
 1342306599,Carex_sylvatica,56.103627,10.228616
 1697428896,Carex_sylvatica,55.554036,37.524504
-788531940,Carex_sylvatica,39.8,21.183333
 1701840171,Carex_sylvatica,59.4409,10.676
 2268222021,Carex_sylvatica,55.623712,37.537398
 1702231164,Carex_sylvatica,59.8322,10.4762
@@ -230,7 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 230817692,Carex_sylvatica,51.654048,6.116964
 1935666973,Carex_sylvatica,45.53233,13.8725
 1050633277,Carex_sylvatica,42.86,-2.63
-1144638773,Carex_sylvatica,42.8,9.38333
 1701617706,Carex_sylvatica,59.7295,9.9239
 895169330,Carex_sylvatica,40.534,-1.967
 1701858343,Carex_sylvatica,61.1993,5.2895
@@ -238,7 +233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342306275,Carex_sylvatica,55.310031,9.053872
 1936659774,Carex_sylvatica,41.0867,44.4547
 1701858246,Carex_sylvatica,61.1958,5.2912
-1230526732,Carex_sylvatica,39.33889,46.4
 1230527766,Carex_sylvatica,40.92056,44.44
 1702175575,Carex_sylvatica,59.57248,10.5063
 1230528007,Carex_sylvatica,39.36528,46.24583
@@ -262,7 +256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 8871905,Carex_sylvatica,47.7263,3.76638
 1701706792,Carex_sylvatica,61.2189,6.5148
 1702214532,Carex_sylvatica,59.7243,10.2331
-351790445,Carex_sylvatica,47.55,24.8
 1702206522,Carex_sylvatica,59.5469,10.5654
 1936209629,Carex_sylvatica,42.0732,-7.031
 1701916902,Carex_sylvatica,59.5722,10.1674
@@ -277,7 +270,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1135436741,Carex_sylvatica,38.68472,48.74972
 1935666707,Carex_sylvatica,47.03278,15.36972
 152914580,Carex_sylvatica,46.399636,14.245283
-788529860,Carex_sylvatica,41.116667,26
 1702024242,Carex_sylvatica,59.8559,10.4057
 1342306612,Carex_sylvatica,56.490501,10.176125
 1342307011,Carex_sylvatica,55.958291,11.922203
@@ -285,7 +277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701842689,Carex_sylvatica,59.4234,10.4936
 1144045779,Carex_sylvatica,60.1331,6.3004
 1935660723,Carex_sylvatica,47.64972,14.69972
-1935666698,Carex_sylvatica,47.64944,14.7
 1144045770,Carex_sylvatica,60.1339,6.2517
 1936623123,Carex_sylvatica,43.039,-6.669
 1342306253,Carex_sylvatica,56.468707,8.682186
@@ -303,11 +294,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844870680,Carex_sylvatica,43.22,-4.16
 1701844305,Carex_sylvatica,62.5645,8.0147
 1844870688,Carex_sylvatica,43.16,-4.21
-1050626356,Carex_sylvatica,42.7,-2.44
 1702184285,Carex_sylvatica,59.73195,10.15707
 1144177973,Carex_sylvatica,60.3649,5.443
 296438589,Carex_sylvatica,47.193889,11.224444
-1844870623,Carex_sylvatica,43.1,-4.27
 1144177923,Carex_sylvatica,60.3559,5.3732
 1702214480,Carex_sylvatica,59.8596,10.2596
 1702184477,Carex_sylvatica,61.8115,5.9926
@@ -345,7 +334,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318106915,Carex_sylvatica,42.79,-2.28
 1050619510,Carex_sylvatica,42.92,-2.32
 788549334,Carex_sylvatica,39.116667,21.816667
-788532058,Carex_sylvatica,40.65,21.9
 668822469,Carex_sylvatica,48.716667,16.966667
 1701344166,Carex_sylvatica,63.669,10.266
 1702161084,Carex_sylvatica,62.4441,6.4042
@@ -368,7 +356,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851401750,Carex_sylvatica,43.06,-5.057
 296438567,Carex_sylvatica,46.682,12.676
 1701987819,Carex_sylvatica,59.6569,9.826
-1881107339,Carex_sylvatica,48.81,10.7
 1702005919,Carex_sylvatica,59.7355,10.1295
 1881106861,Carex_sylvatica,48.84,10.74
 1701984338,Carex_sylvatica,59.5249,10.452
@@ -382,7 +369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042868334,Carex_sylvatica,55.87565,14.00544
 1702239820,Carex_sylvatica,59.7447,10.1075
 1702434825,Carex_sylvatica,59.7777,10.2733
-1050647006,Carex_sylvatica,43.22,-3.1
 1702434872,Carex_sylvatica,59.9663,10.2806
 1702433110,Carex_sylvatica,60.372,6.1074
 1701932546,Carex_sylvatica,59.9119,10.3321
@@ -477,8 +463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701227344,Carex_sylvatica,63.799,10.2088
 1697771406,Carex_sylvatica,38.933241,48.166122
 1701512594,Carex_sylvatica,48.175,16.20806
-1946872747,Carex_sylvatica,50.41,9.8
-1851399755,Carex_sylvatica,43.2,-5.03
 1697841097,Carex_sylvatica,44.050306,39.12769
 1801081876,Carex_sylvatica,44.672179,37.940359
 1936387028,Carex_sylvatica,42.6427,-7.1595
@@ -487,9 +471,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935661318,Carex_sylvatica,47.08194,15.51806
 1851388781,Carex_sylvatica,43.11,-4.91
 1050646891,Carex_sylvatica,42.79,-2.13
-1851323795,Carex_sylvatica,42.93,-4.9
 684793,Carex_sylvatica,41.466667,24.316667
-1050646888,Carex_sylvatica,42.6,-2.45
 318218959,Carex_sylvatica,59.1766,6.0866
 1050646872,Carex_sylvatica,42.65,-1.46
 204423298,Carex_sylvatica,43.266998,-1.552
@@ -533,9 +515,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204423482,Carex_sylvatica,42.861,-0.925
 1701994602,Carex_sylvatica,59.2074,6.4869
 1050646828,Carex_sylvatica,42.92,-0.81
-1050646875,Carex_sylvatica,42.91,-0.8
 1050646864,Carex_sylvatica,42.95,-1.75
-895211136,Carex_sylvatica,41.41,2.1
 1050646869,Carex_sylvatica,42.61,-2.71
 1851366236,Carex_sylvatica,43.11,-5.03
 1702074840,Carex_sylvatica,59.3401,6.1076
@@ -552,7 +532,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29682108,Carex_sylvatica,41.24,-3.42
 1230540573,Carex_sylvatica,48.82833,22.10139
 204423494,Carex_sylvatica,42.700001,-1.541
-1144638791,Carex_sylvatica,42.1,9.26667
 1936131362,Carex_sylvatica,43.2419,-3.4694
 1053980578,Carex_sylvatica,42.69,-1.54
 204423495,Carex_sylvatica,42.796001,-2.138
@@ -593,13 +572,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936366360,Carex_sylvatica,42.9727,-2.9032
 1657175749,Carex_sylvatica,46.65,15.08333
 204423503,Carex_sylvatica,43.234001,-1.787
-1050646837,Carex_sylvatica,43.1,-2.63
 1936523736,Carex_sylvatica,43.4194,-5.2248
 204423504,Carex_sylvatica,43.341999,-1.822
 204423506,Carex_sylvatica,43.224998,-1.787
 1806557428,Carex_sylvatica,42.681878,-1.609576
 1701801312,Carex_sylvatica,59.8651,10.5088
-204423500,Carex_sylvatica,43.188999,-1.8
 204423944,Carex_sylvatica,43.308998,-2.069
 1697428851,Carex_sylvatica,55.56965,37.578523
 204423946,Carex_sylvatica,43.155998,-2.108
@@ -609,7 +586,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050646858,Carex_sylvatica,43.28,-3.21
 204423501,Carex_sylvatica,43.18,-1.788
 1701994517,Carex_sylvatica,59.6682,10.4467
-204423499,Carex_sylvatica,43.18,-1.8
 1144027013,Carex_sylvatica,60.19208,5.74177
 1851340763,Carex_sylvatica,42.92,-6.37
 1936349492,Carex_sylvatica,42.6027,-2.5625
@@ -618,8 +594,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204423943,Carex_sylvatica,43.244999,-2.033
 1050646883,Carex_sylvatica,43.22,-3.26
 1050646865,Carex_sylvatica,42.87,-2.72
-204423502,Carex_sylvatica,43.216,-1.8
-1050646980,Carex_sylvatica,43,-2.67
 1936355605,Carex_sylvatica,42.6946,-1.0236
 1705327315,Carex_sylvatica,57.74913,14.994058
 204423947,Carex_sylvatica,43.150002,-2.662
@@ -635,7 +609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936390071,Carex_sylvatica,42.5941,-2.6966
 1513290263,Carex_sylvatica,57.49394,-2.94341
 1050646879,Carex_sylvatica,43.13,-3.43
-1144638764,Carex_sylvatica,42.45,9
 1851384049,Carex_sylvatica,42.94,-4.16
 1144144609,Carex_sylvatica,59.9579,6.0719
 1050646982,Carex_sylvatica,43.14,-3.41
@@ -647,9 +620,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144638741,Carex_sylvatica,42.41667,9.41667
 1144638787,Carex_sylvatica,42.35,9.28333
 2268222432,Carex_sylvatica,55.59522,37.582625
-1144638770,Carex_sylvatica,42.23333,9.1
-1050646928,Carex_sylvatica,43.1,-2.74
-1144638758,Carex_sylvatica,42.36667,9.5
 1697428860,Carex_sylvatica,55.580265,37.551501
 1701332682,Carex_sylvatica,63.6502,9.8582
 204423945,Carex_sylvatica,42.958,-2.111
@@ -657,7 +627,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050647090,Carex_sylvatica,42.92,-2.29
 1705395076,Carex_sylvatica,58.011521,16.194276
 1831080632,Carex_sylvatica,53.8485,11.7486
-1050647079,Carex_sylvatica,42.9,-2.24
 187129288,Carex_sylvatica,63.2697,9.1624
 1050646957,Carex_sylvatica,42.91,-2.62
 1050646987,Carex_sylvatica,42.59,-2.57
@@ -722,7 +691,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050647039,Carex_sylvatica,42.85,-1.96
 1697428887,Carex_sylvatica,55.939194,37.597972
 1701303744,Carex_sylvatica,63.5595,10.2178
-211623429,Carex_sylvatica,43.049999,-6.3
 2313356087,Carex_sylvatica,48.02,11.54
 1701930722,Carex_sylvatica,60.428,9.7901
 1936368662,Carex_sylvatica,43.0489,-6.3003
@@ -775,10 +743,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211623362,Carex_sylvatica,43.130001,-6.07
 900307587,Carex_sylvatica,58.2534,8.0033
 1701994580,Carex_sylvatica,59.9155,10.538
-211623363,Carex_sylvatica,43.049999,-6
 1701994531,Carex_sylvatica,60.2888,11.0529
 2242391680,Carex_sylvatica,55.258639,11.92048
-211623365,Carex_sylvatica,43.310001,-6
 1701789752,Carex_sylvatica,60.2953,11.0172
 1697428853,Carex_sylvatica,56.219267,42.165743
 1701847536,Carex_sylvatica,59.5378,10.4588
@@ -786,7 +752,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697428884,Carex_sylvatica,54.844904,37.65703
 1697428821,Carex_sylvatica,54.835619,37.644885
 1144638772,Carex_sylvatica,42.35,9.43333
-1144638746,Carex_sylvatica,42.81667,9.4
 1845008741,Carex_sylvatica,49.171667,7.720556
 1701994524,Carex_sylvatica,60.4127,11.1697
 1803766433,Carex_sylvatica,46.521944,13.7525
@@ -833,11 +798,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935667270,Carex_sylvatica,47.5775,14.70694
 1701994716,Carex_sylvatica,61.7204,5.7451
 1701994559,Carex_sylvatica,59.8303,10.4002
-2287788505,Carex_sylvatica,37,49.666667
-575319732,Carex_sylvatica,36,49.666667
 1705377238,Carex_sylvatica,58.612507,13.385426
 1701994508,Carex_sylvatica,60.0602,10.8142
-574980329,Carex_sylvatica,41.2,37.116667
 1697428919,Carex_sylvatica,55.417518,37.134562
 1935666688,Carex_sylvatica,47.72333,15.44583
 1697723993,Carex_sylvatica,44.465702,33.699017
@@ -872,7 +834,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701994511,Carex_sylvatica,59.8754,10.5094
 1701994541,Carex_sylvatica,59.8663,10.5179
 1701994558,Carex_sylvatica,59.867,10.4554
-211623360,Carex_sylvatica,43.5,-5.6
 1701994570,Carex_sylvatica,59.9267,10.3328
 1042869975,Carex_sylvatica,55.57788,13.19888
 1697428902,Carex_sylvatica,56.225417,37.229583
@@ -929,7 +890,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042871391,Carex_sylvatica,58.59791,13.40756
 788701088,Carex_sylvatica,55.71711,13.95879
 1144144535,Carex_sylvatica,60.2592,5.9212
-1893209286,Carex_sylvatica,49.8,6.43
 812022594,Carex_sylvatica,50.629167,9.191933
 1697771392,Carex_sylvatica,42.493365,44.188728
 1701994544,Carex_sylvatica,59.5031,9.8037
@@ -955,8 +915,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042869158,Carex_sylvatica,55.713333,9.6375
 1144144500,Carex_sylvatica,60.2475,5.6123
 1144144538,Carex_sylvatica,60.2691,5.6435
-876153007,Carex_sylvatica,41.6,2.46
-876153031,Carex_sylvatica,41.5,2.34
 1701994547,Carex_sylvatica,59.8627,10.4463
 1701789727,Carex_sylvatica,59.8672,10.4375
 1042871419,Carex_sylvatica,58.3821,12.40832
@@ -965,7 +923,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144144536,Carex_sylvatica,60.3327,5.3614
 187129698,Carex_sylvatica,59.9018,10.439
 1042867949,Carex_sylvatica,56.307414,13.089862
-788696354,Carex_sylvatica,55.216667,9.4
 1891598849,Carex_sylvatica,49.78,6.22
 2289793985,Carex_sylvatica,52.079829,4.862724
 1701791668,Carex_sylvatica,60.2164,5.5367
@@ -1016,7 +973,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935666701,Carex_sylvatica,48.07472,16.18972
 1144144490,Carex_sylvatica,60.2801,5.3325
 1702260516,Carex_sylvatica,59.8397,10.4899
-995406648,Carex_sylvatica,51.2333,0.2
 1042871829,Carex_sylvatica,55.664343,13.344033
 1701994612,Carex_sylvatica,59.4716,10.35
 1697428913,Carex_sylvatica,55.959972,35.958583
@@ -1025,7 +981,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697771324,Carex_sylvatica,44.099174,43.023319
 1042871325,Carex_sylvatica,58.2839,12.8733
 1269972017,Carex_sylvatica,51.879927,-1.944422
-995406611,Carex_sylvatica,51.6,-2.4
 1042871231,Carex_sylvatica,58.32903,12.41207
 1701994623,Carex_sylvatica,60.3256,6.1839
 1701842728,Carex_sylvatica,59.7921,5.9107
@@ -1155,11 +1110,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042867869,Carex_sylvatica,58.494294,14.40645
 1042871119,Carex_sylvatica,58.32648,11.93145
 1042871583,Carex_sylvatica,58.61158,14.5266
-735648668,Carex_sylvatica,48.8,2.195556
-735648667,Carex_sylvatica,48.4,-2.683333
 1701789818,Carex_sylvatica,60.1382,5.3693
 1701789832,Carex_sylvatica,60.3942,5.2318
-616365927,Carex_sylvatica,50.81,5.9
 2313356163,Carex_sylvatica,48.12,11.71
 1042868338,Carex_sylvatica,58.79806,12.1988
 1705276963,Carex_sylvatica,58.398063,12.448214
@@ -1169,7 +1121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042869348,Carex_sylvatica,55.46739,13.46205
 1701994509,Carex_sylvatica,60.1559,5.4386
 1697428969,Carex_sylvatica,55.665695,37.322134
-1701994607,Carex_sylvatica,60.197,5.5
 1701789849,Carex_sylvatica,60.1777,5.4479
 1042869774,Carex_sylvatica,56.04131,14.11899
 1842898032,Carex_sylvatica,41.41,2.22
@@ -1180,11 +1131,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187129302,Carex_sylvatica,63.4232,10.3924
 1701994549,Carex_sylvatica,59.9247,10.5205
 1042873040,Carex_sylvatica,55.45139,13.77838
-1936088964,Carex_sylvatica,41.6,1.8
 1671649278,Carex_sylvatica,44.327513,9.172261
 1702015576,Carex_sylvatica,58.2529,8.0024
 2313342499,Carex_sylvatica,48.22,11.46
-994461499,Carex_sylvatica,46.7,6.9
 296438615,Carex_sylvatica,47.358512,11.539674
 1842898006,Carex_sylvatica,41.59,1.86
 1701362780,Carex_sylvatica,60.5227,6.7153
