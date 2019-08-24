@@ -14,7 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265808111,Keckiella_breviflora,38.763333,-120.852778
 2270194308,Keckiella_breviflora,35.11792,-119.98748
 45455193,Keckiella_breviflora,38.856111,-122.403889
-1988239684,Keckiella_breviflora,39.6,-121.6
 1930922943,Keckiella_breviflora,38.80187,-119.4643
 2291443626,Keckiella_breviflora,34.688694,-118.574528
 1930336030,Keckiella_breviflora,38.8453,-119.4274
@@ -39,7 +38,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270278178,Keckiella_breviflora,34.625757,-119.160179
 1930923796,Keckiella_breviflora,39.543133,-120.862232
 2270280976,Keckiella_breviflora,35.828039,-118.45874
-1930851930,Keckiella_breviflora,36.55,-121.5
 768795184,Keckiella_breviflora,36.05194,-121.49638
 1928729611,Keckiella_breviflora,38.68,-119.75
 768795183,Keckiella_breviflora,38.695,-119.78027
@@ -57,5 +55,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896087140,Keckiella_breviflora,36.737222,-117.398056
 1426330546,Keckiella_breviflora,36.566667,-120.683333
 1928283305,Keckiella_breviflora,35.2953,-120.3906
-2270282021,Keckiella_breviflora,37.7495,-119.6
 1929566512,Keckiella_breviflora,39.1617,-119.7972
