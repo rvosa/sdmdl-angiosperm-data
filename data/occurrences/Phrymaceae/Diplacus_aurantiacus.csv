@@ -48,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 119981301,Diplacus_aurantiacus,38.518333,-122.150556
 2270539962,Diplacus_aurantiacus,32.872222,-116.763889
 1846495328,Diplacus_aurantiacus,32.8725,-116.7639
-45460920,Diplacus_aurantiacus,38.9,-122.233889
 119981302,Diplacus_aurantiacus,38.4975,-122.153611
 119981300,Diplacus_aurantiacus,38.499167,-122.149167
 1899736405,Diplacus_aurantiacus,33.541667,-117.733333
@@ -66,15 +65,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500202129,Diplacus_aurantiacus,33.575,-117.016667
 1843834370,Diplacus_aurantiacus,34.04488,-118.69063
 2270186846,Diplacus_aurantiacus,38.05728,-122.815
-1930703426,Diplacus_aurantiacus,37,-122.05
 119981306,Diplacus_aurantiacus,38.5025,-122.099444
-1265807355,Diplacus_aurantiacus,38.5,-122
-1265807304,Diplacus_aurantiacus,38.516667,-122.1
 2270200997,Diplacus_aurantiacus,34.7794999991157,-120.4273
-1265807365,Diplacus_aurantiacus,38.5,-122.116667
 2270202281,Diplacus_aurantiacus,35.416667,-120.533333
 1265820783,Diplacus_aurantiacus,39.016667,-120.783333
-1265807391,Diplacus_aurantiacus,39.3,-121.1
 2270201638,Diplacus_aurantiacus,35.31344,-120.65194
 1986860285,Diplacus_aurantiacus,34.16,-117.63667
 1894066031,Diplacus_aurantiacus,32.000028,-116.599917
@@ -83,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270203553,Diplacus_aurantiacus,34.091899,-118.589013
 2270252862,Diplacus_aurantiacus,34.80384,-120.58226
 2270202753,Diplacus_aurantiacus,34.23859,-117.967032
-1265824717,Diplacus_aurantiacus,36.7,-121.433333
 2270202527,Diplacus_aurantiacus,36.0706130443477,-121.323388070607
 2270203017,Diplacus_aurantiacus,34.7740999991157,-120.4587
 2270203492,Diplacus_aurantiacus,35.59749,-121.10976
@@ -111,7 +104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270280175,Diplacus_aurantiacus,34.4120999991199,-119.8795
 2270279066,Diplacus_aurantiacus,34.7022999991165,-120.438
 2270203333,Diplacus_aurantiacus,35.358968,-120.563958
-1988185006,Diplacus_aurantiacus,36.2,-121.5
 2270280274,Diplacus_aurantiacus,34.5164999991187,-120.073
 2270203298,Diplacus_aurantiacus,35.21151,-120.46041
 2270201702,Diplacus_aurantiacus,35.30625,-120.8601
@@ -215,14 +207,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986860179,Diplacus_aurantiacus,38.492352,-122.126091
 2270277445,Diplacus_aurantiacus,35.836195,-121.392019
 2270275639,Diplacus_aurantiacus,39.14324,-123.73271
-1895374545,Diplacus_aurantiacus,31.2,-116.333333
 2270278958,Diplacus_aurantiacus,34.5174999991187,-120.3084
 2270280019,Diplacus_aurantiacus,34.295854,-118.011442
 2270281270,Diplacus_aurantiacus,36.4495,-118.7926
 2270281614,Diplacus_aurantiacus,36.4588,-118.829
 2270186171,Diplacus_aurantiacus,34.4685999991193,-119.6886
 2270281395,Diplacus_aurantiacus,34.264686,-118.612724
-1426251443,Diplacus_aurantiacus,37.666667,-122.4
 2270277574,Diplacus_aurantiacus,34.7274999991162,-120.4395
 1426251170,Diplacus_aurantiacus,32.670833,-116.1875
 2270273876,Diplacus_aurantiacus,34.489299999119,-120.2261
@@ -241,7 +231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426251481,Diplacus_aurantiacus,37.421667,-122.208333
 2270284073,Diplacus_aurantiacus,33.1188,-117.0846
 2270280034,Diplacus_aurantiacus,33.1192,-117.0187
-1426251588,Diplacus_aurantiacus,36.916667,-121.6
 2270185569,Diplacus_aurantiacus,34.6815999991168,-120.4535
 1896063317,Diplacus_aurantiacus,37.798611,-122.480556
 1986860296,Diplacus_aurantiacus,38.488796,-122.020525
