@@ -75,7 +75,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1987022626,Cortaderia_selloana,-26.365,-49.235555
 1090605381,Cortaderia_selloana,-29.369444,-49.849722
 1801081804,Cortaderia_selloana,43.49596,39.901
-1702508018,Cortaderia_selloana,42.8,-1.62
 199471419,Cortaderia_selloana,36.681,-4.461
 1503255183,Cortaderia_selloana,30.3514,-87.1767
 1849151207,Cortaderia_selloana,30.35136,-87.176688
@@ -87,7 +86,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441729468,Cortaderia_selloana,47.655,-122.361667
 1936689395,Cortaderia_selloana,43.4024,-4.3561
 1324964821,Cortaderia_selloana,-23.912,-66.289417
-1324964802,Cortaderia_selloana,-26.1,-67.458694
 1830630573,Cortaderia_selloana,34.147636,134.578342
 122929994,Cortaderia_selloana,26.1366,-81.55568
 1563147374,Cortaderia_selloana,30.3681,-87.1247
@@ -113,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897819470,Cortaderia_selloana,-36.943333,174.655278
 1986948279,Cortaderia_selloana,39.083333,-123.354167
 994535868,Cortaderia_selloana,-43.03,147.25
-1897774068,Cortaderia_selloana,-37.05,174.5
 994539787,Cortaderia_selloana,-42.73194,147.5177
 860313885,Cortaderia_selloana,41.69,2.46
 1457762578,Cortaderia_selloana,29.61193,-82.41066
@@ -135,12 +132,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094715067,Cortaderia_selloana,-28.638333,-49.129444
 1098975214,Cortaderia_selloana,-41.236946,-72.824165
 188380888,Cortaderia_selloana,-29.1769,-51.16
-1258757925,Cortaderia_selloana,-18.2,-63.716667
 1928679051,Cortaderia_selloana,-18.13,-63.68
 1258756841,Cortaderia_selloana,-18.133333,-63.683333
-1929669497,Cortaderia_selloana,-18.2,-63.72
-1258761455,Cortaderia_selloana,-18.1,-63.516667
-1928584694,Cortaderia_selloana,-18.1,-63.52
 1291820275,Cortaderia_selloana,-14.226111,-47.901667
 1090602004,Cortaderia_selloana,-29.420556,-50.575556
 318108830,Cortaderia_selloana,38.37,-0.51
@@ -151,7 +144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258963211,Cortaderia_selloana,-18.518056,-64.085278
 1897694835,Cortaderia_selloana,-36.383333,174.25
 1091186542,Cortaderia_selloana,-36.366666,174.241666
-996615980,Cortaderia_selloana,-34.94,117.9
 1260284441,Cortaderia_selloana,14.62,-90.686111
 1936643473,Cortaderia_selloana,43.3756,-3.742
 51808505,Cortaderia_selloana,43.4028,-124.1881
@@ -164,8 +156,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318108691,Cortaderia_selloana,38.37,-0.53
 2252120073,Cortaderia_selloana,-31.198611,-64.583611
 1260522300,Cortaderia_selloana,-23.65,-64.933333
-993442829,Cortaderia_selloana,-31.95,115.9
-996551064,Cortaderia_selloana,-31.9,115.9
 2291471914,Cortaderia_selloana,52.070498,4.3007
 1846545946,Cortaderia_selloana,-16.395889,-71.414972
 2252120453,Cortaderia_selloana,-31.231944,-62.561944
@@ -181,7 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270184193,Cortaderia_selloana,35.0299999991128,-120.6175
 992546358,Cortaderia_selloana,-33.166667,138.25
 1050574239,Cortaderia_selloana,43.14,-2.94
-1259554983,Cortaderia_selloana,33.1,-117.33333
 995265955,Cortaderia_selloana,-38.1167,144.4167
 996683210,Cortaderia_selloana,-32.94,117.18
 996681847,Cortaderia_selloana,-34.243056,116.144722
@@ -191,7 +180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996682868,Cortaderia_selloana,-35.031389,117.879722
 996682740,Cortaderia_selloana,-32.715,116.065
 996681628,Cortaderia_selloana,-33.938056,118.006389
-996682719,Cortaderia_selloana,-33.7,116
 996682871,Cortaderia_selloana,-35.003056,117.888333
 996682847,Cortaderia_selloana,-34.683333,117.683333
 996681626,Cortaderia_selloana,-31.911389,115.898056
@@ -199,10 +187,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996681618,Cortaderia_selloana,-32.011389,116.041667
 996681580,Cortaderia_selloana,-32.581389,115.766389
 996682755,Cortaderia_selloana,-33.958,116.135
-996682789,Cortaderia_selloana,-32,116
 996683318,Cortaderia_selloana,-33.951667,115.071667
 996681587,Cortaderia_selloana,-33.651389,115.336667
-996683289,Cortaderia_selloana,-34.2,115.1
 996681589,Cortaderia_selloana,-33.316667,115.698333
 996681603,Cortaderia_selloana,-33.335,116.098
 996682784,Cortaderia_selloana,-31.868,115.805
@@ -228,14 +214,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144659538,Cortaderia_selloana,41.96667,8.83333
 1419189194,Cortaderia_selloana,19.470833,-98.895278
 996683199,Cortaderia_selloana,-32.866667,115.916667
-995067407,Cortaderia_selloana,-37.6333,145.1
 158837264,Cortaderia_selloana,33.628333,-117.891667
 1895337631,Cortaderia_selloana,19.328333,-98.218611
 2252120940,Cortaderia_selloana,-25.065833,-66.173611
-994468899,Cortaderia_selloana,-41.4,147.1
 1897663605,Cortaderia_selloana,-36.783333,174.833333
 994914504,Cortaderia_selloana,-38.55,145.4667
-1844870418,Cortaderia_selloana,43.3,-8.5
 1851405855,Cortaderia_selloana,43.302,-8.501
 1897940858,Cortaderia_selloana,22.383056,-102.655555
 1896004700,Cortaderia_selloana,22.954167,-102.703798
@@ -251,10 +234,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1418345965,Cortaderia_selloana,19.511667,-96.9175
 912552760,Cortaderia_selloana,-18.57,-64.05
 1897630207,Cortaderia_selloana,-39.283333,174.633333
-2252123700,Cortaderia_selloana,-27,-66.366667
 1451563071,Cortaderia_selloana,-33.865088,151.217821
-994910576,Cortaderia_selloana,-38.2,146.0667
-994910627,Cortaderia_selloana,-38,147.7
 994910601,Cortaderia_selloana,-37.9833,147.7167
 992520742,Cortaderia_selloana,-37.982002,147.717698
 996932774,Cortaderia_selloana,-31.954722,115.861389
@@ -284,8 +264,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259391809,Cortaderia_selloana,15.45,-92.28
 1897655351,Cortaderia_selloana,-35.633333,173.45
 1895763082,Cortaderia_selloana,24.641667,-99.541667
-996476115,Cortaderia_selloana,-35,118
-992361681,Cortaderia_selloana,-35,138.7
 2252120100,Cortaderia_selloana,-26.125,-65.832778
 1090594999,Cortaderia_selloana,-29.216889,-51.350083
 47750619,Cortaderia_selloana,-39.083,-68.583
@@ -300,11 +278,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451525248,Cortaderia_selloana,-33.915088,151.234489
 1897833960,Cortaderia_selloana,-36.843167,174.735417
 1897689309,Cortaderia_selloana,-37.25,175.25
-1897720895,Cortaderia_selloana,-37,175.083333
 453186987,Cortaderia_selloana,-25.625,28.125
 996476502,Cortaderia_selloana,-35.016667,117.883333
 1897653032,Cortaderia_selloana,-36.866667,174.866667
-1897651868,Cortaderia_selloana,-36.85,174.8
 1897771229,Cortaderia_selloana,-36.75,174.75
 2252120313,Cortaderia_selloana,-28.204444,-66.349167
 992189071,Cortaderia_selloana,-34.989722,138.712222
@@ -321,10 +297,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091302968,Cortaderia_selloana,-37.2707,175.178
 1257821457,Cortaderia_selloana,-36.135555,-69.365833
 2252120509,Cortaderia_selloana,-33.362222,-64.541667
-1897677783,Cortaderia_selloana,-36.816667,174.8
 1897656177,Cortaderia_selloana,-36.916667,174.416667
 2270476728,Cortaderia_selloana,33.412621,-111.94007
-1937115777,Cortaderia_selloana,-30.5,151.65
 1897708950,Cortaderia_selloana,-37.416667,174.75
 2252119807,Cortaderia_selloana,-27.511944,-67.883056
 1457370000,Cortaderia_selloana,37.953322,-122.272067
@@ -338,15 +312,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929278207,Cortaderia_selloana,-27.6495142122017,-48.6683658289098
 995493790,Cortaderia_selloana,-33.916667,150.916667
 2252119823,Cortaderia_selloana,-29.979167,-63.263611
-36169558,Cortaderia_selloana,21.3,-157.85
-995741528,Cortaderia_selloana,-33.88,151.2
 1426286181,Cortaderia_selloana,37.156667,-122.161667
 2252119887,Cortaderia_selloana,-32.184444,-64.616944
-1897755005,Cortaderia_selloana,-36.866667,174.8
 1897677496,Cortaderia_selloana,-37.233333,175.483333
 1928849248,Cortaderia_selloana,-41.08,-72.62
 1260197009,Cortaderia_selloana,-41.08333,-72.61666
-699261886,Cortaderia_selloana,-32.43333,-66
 1451525260,Cortaderia_selloana,-33.765089,151.117822
 995740682,Cortaderia_selloana,-33.77,151.12
 2270183899,Cortaderia_selloana,35.155569,-120.610334
@@ -357,7 +327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090534197,Cortaderia_selloana,-22.9056,-47.0608
 1090534155,Cortaderia_selloana,-22.9056,-47.065751
 1090542758,Cortaderia_selloana,33.7333,-116.05
-995741543,Cortaderia_selloana,-33.82,151
 912552625,Cortaderia_selloana,-24.02,-46.28
 1091174849,Cortaderia_selloana,-40.349,175.635
 1259824384,Cortaderia_selloana,34.50333,-82.65028
