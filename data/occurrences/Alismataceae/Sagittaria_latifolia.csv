@@ -17,7 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1981530420,Sagittaria_latifolia,40.074387,-95.232866
 1563151025,Sagittaria_latifolia,30.88836,-89.98743
 1981530075,Sagittaria_latifolia,40.176984,-95.444341
-1320647797,Sagittaria_latifolia,38.8872,-77.013
 1821692849,Sagittaria_latifolia,27.2891,-81.4123
 1503275080,Sagittaria_latifolia,27.6214,-81.9611
 1978880293,Sagittaria_latifolia,42.07975,-84.46119
@@ -40,7 +39,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899333742,Sagittaria_latifolia,44.90608,-77.54383
 1024637648,Sagittaria_latifolia,45.636389,-73.612778
 1988071923,Sagittaria_latifolia,49.265,-123.2515
-1831000698,Sagittaria_latifolia,47.55134,15.32861
 1978879221,Sagittaria_latifolia,43.08505,-84.755667
 2234535128,Sagittaria_latifolia,34.55553,-85.0827
 1978878763,Sagittaria_latifolia,43.051,-84.4534
@@ -62,8 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978879068,Sagittaria_latifolia,42.53422,-83.86884
 1978879636,Sagittaria_latifolia,42.78678,-83.20055
 1257891674,Sagittaria_latifolia,38.9017,-90.4189
-1258036827,Sagittaria_latifolia,15.766861,-86.818561
-1838163709,Sagittaria_latifolia,48.88611,5.88972
 1986726285,Sagittaria_latifolia,48.381389,-79.859167
 1248691560,Sagittaria_latifolia,45.440208,-72.889986
 2265455715,Sagittaria_latifolia,47.810867,-91.267517
@@ -146,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978882374,Sagittaria_latifolia,43.820067,-83.393633
 1457776675,Sagittaria_latifolia,27.338889,-82.440972
 1258123991,Sagittaria_latifolia,27.3389,-82.441
-1098697831,Sagittaria_latifolia,5.030459,-74.326919
 1897341984,Sagittaria_latifolia,19.029167,-102.051667
 1913945581,Sagittaria_latifolia,31.475278,-86.771389
 2265456765,Sagittaria_latifolia,44.199698,-96.327104
@@ -187,10 +182,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265458924,Sagittaria_latifolia,44.792524,-93.40242
 1563149075,Sagittaria_latifolia,29.7921,-90.1267
 1990836581,Sagittaria_latifolia,40.3309,-74.375
-1803145565,Sagittaria_latifolia,46.886111,-70.855278
 1849143734,Sagittaria_latifolia,33.509,-79.1755
 1265815880,Sagittaria_latifolia,38.693611,-120.817778
-1090268232,Sagittaria_latifolia,21.4331,-157.812
 1978883291,Sagittaria_latifolia,27.3991,-81.88275
 1260051395,Sagittaria_latifolia,14.38333,-85.16666
 56654397,Sagittaria_latifolia,33.73757,-90.36857
@@ -199,14 +192,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2309629636,Sagittaria_latifolia,49.19,-122.93
 2265964873,Sagittaria_latifolia,47.150556,-95.455278
 1988231500,Sagittaria_latifolia,49.3435,-122.628
-1705352759,Sagittaria_latifolia,57.929793,16.201833
 441830641,Sagittaria_latifolia,46.311667,-123.713333
 1260271789,Sagittaria_latifolia,45.086667,-87.5875
 1318405482,Sagittaria_latifolia,39.036667,-76.9375
 122246590,Sagittaria_latifolia,31.44778,-86.75639
-1421378936,Sagittaria_latifolia,21.028333,-89.638056
 2265428902,Sagittaria_latifolia,46.883224,-95.656583
-668742426,Sagittaria_latifolia,48.34895,-68.76649
 1978757474,Sagittaria_latifolia,50.308333,-63.623611
 56654372,Sagittaria_latifolia,31.725,-86.27889
 883397676,Sagittaria_latifolia,57.6452509991478,-110.933074
@@ -214,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265434800,Sagittaria_latifolia,46.230558,-94.905272
 56654327,Sagittaria_latifolia,32.97028,-87.39694
 56654365,Sagittaria_latifolia,34.3,-81.62
-1947569063,Sagittaria_latifolia,50.28,10.32
 883396404,Sagittaria_latifolia,57.2646779991425,-111.271554
 2265962827,Sagittaria_latifolia,47.665278,-90.993889
 2242378019,Sagittaria_latifolia,39.791765,-105.167254
@@ -223,8 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095607035,Sagittaria_latifolia,41.616667,-78.55
 415944444,Sagittaria_latifolia,41.80833,-72.43
 415944350,Sagittaria_latifolia,41.72611,-72.44055
-2291116243,Sagittaria_latifolia,51.966667,5.666667
-2291115935,Sagittaria_latifolia,51.966667,5.733333
 56654214,Sagittaria_latifolia,34.02,-80.92
 1849107636,Sagittaria_latifolia,34.071779,-81.070922
 1849110634,Sagittaria_latifolia,34.055425,-81.059749
@@ -235,9 +222,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415948404,Sagittaria_latifolia,41.70472,-73.22166
 1269677091,Sagittaria_latifolia,29.871,-93.079
 1260963616,Sagittaria_latifolia,37.95333,-91.53361
-668742440,Sagittaria_latifolia,47.983333,-69.183333
 51949664,Sagittaria_latifolia,45.212,-123.0288
-1455442674,Sagittaria_latifolia,50.136296,4.403873
 1930670533,Sagittaria_latifolia,42.175,-73.8575
 56654222,Sagittaria_latifolia,40.98,-87.59778
 1990836675,Sagittaria_latifolia,40.923383,-74.808793
@@ -254,7 +239,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894634104,Sagittaria_latifolia,20.343333,-101.021667
 1893701896,Sagittaria_latifolia,20.344167,-101.022167
 415923868,Sagittaria_latifolia,41.40194,-72.40666
-1223129696,Sagittaria_latifolia,6.533333,-75.333333
 2273385277,Sagittaria_latifolia,35.273509,-83.728751
 1260952497,Sagittaria_latifolia,39.71055,-93.33555
 1893701881,Sagittaria_latifolia,19.4535,-101.739056
@@ -266,7 +250,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899282565,Sagittaria_latifolia,44.7,-78.333333
 1455165061,Sagittaria_latifolia,45.383333,-73.966667
 1259866827,Sagittaria_latifolia,19.8225,-101.788055
-1947569152,Sagittaria_latifolia,49.94,10.9
 1893918950,Sagittaria_latifolia,18.858111,-99.619167
 1248691559,Sagittaria_latifolia,46.783333,-71.383333
 1978882986,Sagittaria_latifolia,27.697633,-81.39285
@@ -276,7 +259,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895888998,Sagittaria_latifolia,17.741667,-91.783333
 1893312899,Sagittaria_latifolia,17.751389,-91.810833
 56653958,Sagittaria_latifolia,30.85833,-81.9625
-38527983,Sagittaria_latifolia,20.0833,-155.6
 1929926524,Sagittaria_latifolia,39.04152,-76.935219
 1322685474,Sagittaria_latifolia,39.0347,-76.9078
 668742424,Sagittaria_latifolia,47.4,-70.390556
@@ -328,7 +310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893815119,Sagittaria_latifolia,18.188528,-92.684611
 1893815118,Sagittaria_latifolia,18.036389,-92.266361
 1259607573,Sagittaria_latifolia,18.03638,-92.26611
-1259108897,Sagittaria_latifolia,-13.033333,-68.85
 1894634123,Sagittaria_latifolia,25.834306,-97.511667
 1259607469,Sagittaria_latifolia,18.24722,-92.84833
 1259610839,Sagittaria_latifolia,18.33972,-92.97777
@@ -353,7 +334,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895541558,Sagittaria_latifolia,18.738194,-99.274028
 1895541552,Sagittaria_latifolia,18.635667,-99.316694
 1989043576,Sagittaria_latifolia,43.82028,-83.43167
-204435681,Sagittaria_latifolia,43.060001,-2.724
 1260988253,Sagittaria_latifolia,38.77888,-92.40583
 2265428550,Sagittaria_latifolia,48.546944,-92.912781
 2265445243,Sagittaria_latifolia,46.127266,-93.704513
@@ -363,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257769772,Sagittaria_latifolia,20.294444,-102.695833
 177023158,Sagittaria_latifolia,39.675305,-97.54647
 1843829349,Sagittaria_latifolia,36.680128,-107.216797
-1050610190,Sagittaria_latifolia,43.06,-2.72
 2265393914,Sagittaria_latifolia,46.845996,-93.17745
 56653717,Sagittaria_latifolia,32.85556,-87.23666
 2265393271,Sagittaria_latifolia,46.077297,-92.436151
@@ -418,7 +397,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415883167,Sagittaria_latifolia,41.45416,-73.16222
 1262026572,Sagittaria_latifolia,47.766667,-73.5
 415883168,Sagittaria_latifolia,41.88527,-72.26194
-1332805999,Sagittaria_latifolia,50.6227,9.59049
 2273384221,Sagittaria_latifolia,35.079609,-83.206966
 2265391757,Sagittaria_latifolia,46.402339,-92.510732
 415883127,Sagittaria_latifolia,41.785,-72.28166
@@ -440,7 +418,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978075635,Sagittaria_latifolia,37.0725,-83.974444
 217083681,Sagittaria_latifolia,33.58,-83.17
 1248691445,Sagittaria_latifolia,46.875,-71.3
-1262025478,Sagittaria_latifolia,51.516667,-79.2
 415883171,Sagittaria_latifolia,41.82833,-72.94333
 473372481,Sagittaria_latifolia,48.216667,-79.3
 1949621500,Sagittaria_latifolia,49.033333,-119.45
@@ -449,7 +426,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265394975,Sagittaria_latifolia,46.688685,-93.516311
 1260964723,Sagittaria_latifolia,37.05111,-92.98527
 1262025499,Sagittaria_latifolia,51.483333,-78.75
-1936517420,Sagittaria_latifolia,43.0535,-2.7312
 415883117,Sagittaria_latifolia,41.48,-72.50805
 1895533749,Sagittaria_latifolia,20.0358593132201,-101.724721805055
 1893317238,Sagittaria_latifolia,19.5728233726434,-101.572941517391
@@ -480,27 +456,20 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988718714,Sagittaria_latifolia,44.99138,-83.46317
 2265392110,Sagittaria_latifolia,45.93111,-93.386391
 1895110441,Sagittaria_latifolia,18.852222,-99.885
-1248691544,Sagittaria_latifolia,46.977778,-70.776389
 1455165122,Sagittaria_latifolia,45.75,-71.25
 1321117618,Sagittaria_latifolia,38.7611,-77.0011
 1895110456,Sagittaria_latifolia,19.291667,-98.35
-668742419,Sagittaria_latifolia,46.976389,-70.777778
-668742420,Sagittaria_latifolia,46.980556,-70.781944
 668742423,Sagittaria_latifolia,46.770833,-71.344444
 620528883,Sagittaria_latifolia,44.082163,-65.237701
 1260956307,Sagittaria_latifolia,37.64166,-92.20388
-1320814798,Sagittaria_latifolia,38.9058,-76.9406
 1894472408,Sagittaria_latifolia,18.85,-99.866944
 1893701885,Sagittaria_latifolia,18.856667,-99.868333
 1455165073,Sagittaria_latifolia,45.416667,-74.05
 1893701904,Sagittaria_latifolia,19.893333,-100.443333
 1896273807,Sagittaria_latifolia,19.891667,-100.441667
-1321676289,Sagittaria_latifolia,38.8653,-76.9867
 1893701882,Sagittaria_latifolia,19.404722,-101.638333
 123003199,Sagittaria_latifolia,29.805556,-84.983333
 1895110466,Sagittaria_latifolia,21.223333,-104.198056
-1223133691,Sagittaria_latifolia,6.666667,-75.2
-1258944903,Sagittaria_latifolia,6.66666,-75.2
 1895110494,Sagittaria_latifolia,21.223333,-104.905278
 1259610488,Sagittaria_latifolia,21.216667,-104.9
 1260951996,Sagittaria_latifolia,37.08055,-91.06361
@@ -545,7 +514,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415883155,Sagittaria_latifolia,41.49944,-72.97583
 217083689,Sagittaria_latifolia,31.36667,-89.98333
 2265391530,Sagittaria_latifolia,45.479168,-93.6875
-1248691421,Sagittaria_latifolia,48.295833,-68.779167
 56652158,Sagittaria_latifolia,32.26361,-87.29806
 2234557995,Sagittaria_latifolia,45.479167,-93.6875
 1893701912,Sagittaria_latifolia,19.894444,-101.170833
@@ -554,7 +522,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896273821,Sagittaria_latifolia,19.546667,-101.6
 1259871729,Sagittaria_latifolia,19.906389,-101.160833
 1895110459,Sagittaria_latifolia,18.3675,-91.6675
-217083848,Sagittaria_latifolia,21.47,-157.97
 1893701888,Sagittaria_latifolia,19.891667,-100.883056
 1807225462,Sagittaria_latifolia,46.386823,-62.973183
 1895534382,Sagittaria_latifolia,19.883333,-100.883056
@@ -659,7 +626,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846539631,Sagittaria_latifolia,38.644619,-109.343784
 1949619609,Sagittaria_latifolia,54.469444,-126.752778
 1262007477,Sagittaria_latifolia,45.733056,-72.875
-1949619409,Sagittaria_latifolia,48.472222,-123.477778
 1893763041,Sagittaria_latifolia,24.625,-107.441667
 56652159,Sagittaria_latifolia,32.3975,-86.77195
 1895110446,Sagittaria_latifolia,23.875,-104.2675
@@ -688,7 +654,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265393515,Sagittaria_latifolia,46.092169,-92.839231
 1703288137,Sagittaria_latifolia,51.6660014278278,-100.914815353889
 1804452562,Sagittaria_latifolia,43.666667,-79.65
-1262007872,Sagittaria_latifolia,47.371389,-70.403333
 1248691536,Sagittaria_latifolia,45.033333,-74.5
 473464998,Sagittaria_latifolia,45.7044,-73.4589
 1989544676,Sagittaria_latifolia,44.91663,-85.22976
@@ -721,7 +686,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844409388,Sagittaria_latifolia,37.15444,-86.39111
 56652910,Sagittaria_latifolia,31.34722,-85.86388
 56652935,Sagittaria_latifolia,31.80722,-85.94361
-1262004356,Sagittaria_latifolia,46.876389,-70.908333
 56652925,Sagittaria_latifolia,31.73722,-85.14972
 1804561115,Sagittaria_latifolia,50.6,-81.416667
 1988195098,Sagittaria_latifolia,49.2,-122.8
@@ -744,19 +708,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883367540,Sagittaria_latifolia,50.713889,-99.633333
 1248691485,Sagittaria_latifolia,48.842778,-78.499722
 465877242,Sagittaria_latifolia,43.432922,-80.097349
-1804550202,Sagittaria_latifolia,45.466667,-75.65
 1262006718,Sagittaria_latifolia,45.133333,-72.266667
 2265393680,Sagittaria_latifolia,47.533209,-94.810311
 415952411,Sagittaria_latifolia,44.69805,-70.44861
 1804439935,Sagittaria_latifolia,45.366667,-75.9
-1949619222,Sagittaria_latifolia,49.101389,-123.924722
-1258813140,Sagittaria_latifolia,-1,-75.46666
 1949619244,Sagittaria_latifolia,49.168889,-122.185833
 1248691422,Sagittaria_latifolia,45.4,-72.683333
 415883148,Sagittaria_latifolia,41.875,-72.66666
 1703288804,Sagittaria_latifolia,50.8358868936197,-100.583349769816
 1260947726,Sagittaria_latifolia,36.57611,-93.82305
-47841459,Sagittaria_latifolia,-1,-75.466
 2265392731,Sagittaria_latifolia,49.20044,-95.125821
 1260878764,Sagittaria_latifolia,15.36,-89.28388
 415952365,Sagittaria_latifolia,44.69833,-70.44972
@@ -771,7 +731,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894472447,Sagittaria_latifolia,19.646199,-101.272742
 1259871169,Sagittaria_latifolia,22.477222,-104.768889
 465877238,Sagittaria_latifolia,43.617407,-80.216472
-38523256,Sagittaria_latifolia,22.2167,-159.567
 1949611778,Sagittaria_latifolia,49.166667,-121.95
 1703287650,Sagittaria_latifolia,49.0332156030171,-100.066979026885
 1986728117,Sagittaria_latifolia,48.416667,-78.683333
@@ -822,7 +781,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949619380,Sagittaria_latifolia,50.545833,-116.079722
 2265392859,Sagittaria_latifolia,45.694846,-94.148946
 2265392289,Sagittaria_latifolia,47.358449,-93.676284
-415916044,Sagittaria_latifolia,40.65888,-73.08944
 1899376235,Sagittaria_latifolia,43.733333,-79.383333
 1807227951,Sagittaria_latifolia,45.633611,-65.740694
 2270698217,Sagittaria_latifolia,45.78057,-89.48768
@@ -862,7 +820,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930289887,Sagittaria_latifolia,43.1444387092475,-111.462176086833
 1248691404,Sagittaria_latifolia,47.663889,-68.670833
 415922462,Sagittaria_latifolia,41.87138,-72.29138
-1248691474,Sagittaria_latifolia,48.577778,-68.126389
 1804563972,Sagittaria_latifolia,50.116667,-83.216667
 1895110464,Sagittaria_latifolia,18.284444,-92.837222
 1804401390,Sagittaria_latifolia,48.466667,-83.3
@@ -877,10 +834,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262002182,Sagittaria_latifolia,45.405,-71.891111
 177023202,Sagittaria_latifolia,38.94015,-98.53646
 415922460,Sagittaria_latifolia,41.88638,-72.17361
-1248691436,Sagittaria_latifolia,48.551389,-68.198611
 415922470,Sagittaria_latifolia,41.79666,-72.17111
 1804434327,Sagittaria_latifolia,48.45,-83.4
-1248691355,Sagittaria_latifolia,48.577778,-68.129167
 1804497124,Sagittaria_latifolia,45.316667,-75.1
 2265394972,Sagittaria_latifolia,47.209883,-95.244328
 1804422251,Sagittaria_latifolia,48.6,-83.35
@@ -890,7 +845,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177023192,Sagittaria_latifolia,39.23053,-95.52565
 1899337478,Sagittaria_latifolia,46.0068443015503,-81.8931646048908
 177023203,Sagittaria_latifolia,38.21371,-99.52678
-415916042,Sagittaria_latifolia,40.655,-73.11361
 1899337484,Sagittaria_latifolia,45.8910467059199,-82.2563968541737
 1899337464,Sagittaria_latifolia,45.9280855224394,-82.4322453296479
 177023193,Sagittaria_latifolia,39.14179,-96.576286
@@ -909,7 +863,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668742429,Sagittaria_latifolia,46.769444,-71.308333
 473266436,Sagittaria_latifolia,45.608333,-73.824167
 1261998224,Sagittaria_latifolia,46.75,-71.466667
-1261998223,Sagittaria_latifolia,47.418611,-70.331667
 56653975,Sagittaria_latifolia,44.2875,-84.17361
 1248691291,Sagittaria_latifolia,47.7,-68.993056
 1248691378,Sagittaria_latifolia,47.65,-68.945833
@@ -926,7 +879,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846539707,Sagittaria_latifolia,37.326861,-92.002608
 1846539666,Sagittaria_latifolia,32.184764,-93.040473
 415922454,Sagittaria_latifolia,41.73833,-72.77944
-1897745626,Sagittaria_latifolia,1.362028,103.809889
 1899328711,Sagittaria_latifolia,44.166667,-78.883333
 1248691299,Sagittaria_latifolia,45.083333,-74.4
 1248691379,Sagittaria_latifolia,44.678333,-77.41
@@ -946,8 +898,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455165038,Sagittaria_latifolia,46.15,-74.483333
 217083748,Sagittaria_latifolia,39.37,-91.17
 1896273835,Sagittaria_latifolia,18.623889,-95.514167
-1228421705,Sagittaria_latifolia,-1.75,-76.8333
-1260800989,Sagittaria_latifolia,-1.63333,-77.6
 1896273810,Sagittaria_latifolia,18.075,-94.508333
 1038949193,Sagittaria_latifolia,41.3114,-72.9247
 2242382900,Sagittaria_latifolia,40.419817,-105.097213
@@ -975,7 +925,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2273385105,Sagittaria_latifolia,35.098146,-83.549265
 415934151,Sagittaria_latifolia,41.725,-72.65833
 177023195,Sagittaria_latifolia,38.844263,-94.842401
-1259131375,Sagittaria_latifolia,4.43333,-70.45
 1895110485,Sagittaria_latifolia,17.983333,-93.366667
 2270699553,Sagittaria_latifolia,48.070456,-95.005415
 1988094222,Sagittaria_latifolia,48.7,-89.1
@@ -998,7 +947,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248691294,Sagittaria_latifolia,47.05,-70.9
 1258894234,Sagittaria_latifolia,12.79166,-86.125
 1258894286,Sagittaria_latifolia,14.79138,-87.98166
-668742417,Sagittaria_latifolia,47.0275,-70.6675
 1248691411,Sagittaria_latifolia,60,-111.75
 1261991725,Sagittaria_latifolia,46.742222,-71.279167
 1248691313,Sagittaria_latifolia,46.95,-71.05
@@ -1015,7 +963,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668742414,Sagittaria_latifolia,46.883333,-71.066667
 441829857,Sagittaria_latifolia,48.34389,-117.29944
 1899380549,Sagittaria_latifolia,45.016667,-79.633333
-1248691342,Sagittaria_latifolia,47.491667,-70.241667
 668742439,Sagittaria_latifolia,46.816667,-72.983333
 177023168,Sagittaria_latifolia,39.7712,-101.80932
 1260932363,Sagittaria_latifolia,36.83861,-89.88805
@@ -1026,9 +973,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248691325,Sagittaria_latifolia,45.15,-78.85
 2270697795,Sagittaria_latifolia,34.886448,-102.11964
 217083742,Sagittaria_latifolia,29.75,-91.5
-1248691387,Sagittaria_latifolia,47.076111,-70.538056
 1260983806,Sagittaria_latifolia,37.11527,-93.25444
-1261996084,Sagittaria_latifolia,47.059444,-70.543056
 1261996180,Sagittaria_latifolia,47.3875,-68.895278
 56652908,Sagittaria_latifolia,31.88806,-86.60528
 1248691581,Sagittaria_latifolia,48.138611,-78.106389
@@ -1073,8 +1018,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234556204,Sagittaria_latifolia,37.059443,-91.048506
 1258885615,Sagittaria_latifolia,32.28333,-92.45
 1258885182,Sagittaria_latifolia,32.31666,-92.45
-47841428,Sagittaria_latifolia,-1.333,-79.9
-217083755,Sagittaria_latifolia,-1.33333,-79.9
 2234557733,Sagittaria_latifolia,45.55,-79.95
 1248691127,Sagittaria_latifolia,44.633333,-79.1
 1899376583,Sagittaria_latifolia,43.966667,-79.516667
@@ -1082,7 +1025,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261971121,Sagittaria_latifolia,45.682778,-71.445278
 1899376548,Sagittaria_latifolia,45.183333,-81.333333
 2270697863,Sagittaria_latifolia,45.22957,-75.69014
-1988102578,Sagittaria_latifolia,45.45,-75.7
 1248691345,Sagittaria_latifolia,48.197778,-78.100278
 2265393735,Sagittaria_latifolia,46.949658,-91.77879
 1248691212,Sagittaria_latifolia,48.233333,-77.366667
@@ -1099,7 +1041,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261969512,Sagittaria_latifolia,45.911667,-71.370833
 2248474956,Sagittaria_latifolia,42.400317,-85.097214
 465871950,Sagittaria_latifolia,45.814875,-71.37403
-2287625815,Sagittaria_latifolia,42.704641,23.321228
 1261968749,Sagittaria_latifolia,46.701111,-71.400278
 1261970128,Sagittaria_latifolia,46.733333,-76.316667
 2265392607,Sagittaria_latifolia,44.819726,-93.224495
@@ -1174,11 +1115,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989194877,Sagittaria_latifolia,19.966667,-102.266667
 1988189153,Sagittaria_latifolia,46,-77.47
 1248691548,Sagittaria_latifolia,46.35,-74.516667
-415916050,Sagittaria_latifolia,41.29833,-70.01333
 1899305720,Sagittaria_latifolia,44.316356,-79.475613
 1804554728,Sagittaria_latifolia,41.966667,-82.516667
 1261962934,Sagittaria_latifolia,48.416667,-67.35
-2234557526,Sagittaria_latifolia,41.298455,-70.012792
 1248691725,Sagittaria_latifolia,48.266667,-69.95
 217083683,Sagittaria_latifolia,44.33,-90.87
 1989095111,Sagittaria_latifolia,42.275954,-83.806323
@@ -1245,7 +1184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265394651,Sagittaria_latifolia,44.114329,-94.222787
 2270700482,Sagittaria_latifolia,39.036639,-79.444821
 1248691092,Sagittaria_latifolia,48.329167,-78.114444
-1261955436,Sagittaria_latifolia,48.366667,-68.7
 2290000352,Sagittaria_latifolia,45.95,-66.066667
 2234558481,Sagittaria_latifolia,44.356646,-68.899257
 1248691267,Sagittaria_latifolia,49.166667,-93.816667
@@ -1292,7 +1230,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465871760,Sagittaria_latifolia,44.113248,-64.848986
 465871521,Sagittaria_latifolia,45.80987,-63.51348
 2265390998,Sagittaria_latifolia,44.015848,-96.317669
-2291115792,Sagittaria_latifolia,52.083333,4.266667
 1988134110,Sagittaria_latifolia,49.59,-97.14
 465871527,Sagittaria_latifolia,45.40657,-64.32954
 177023198,Sagittaria_latifolia,39.91615,-101.70601
@@ -1303,7 +1240,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415949148,Sagittaria_latifolia,42.54583,-71.91055
 2265392997,Sagittaria_latifolia,48.343611,-92.122778
 415949142,Sagittaria_latifolia,42.36666,-72.05
-439131333,Sagittaria_latifolia,45.40619,-75.75511
 415949141,Sagittaria_latifolia,42.23194,-72.05777
 415949154,Sagittaria_latifolia,42.31666,-71.93333
 415949087,Sagittaria_latifolia,42.38333,-71.96666
@@ -1321,13 +1257,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415949124,Sagittaria_latifolia,42.06944,-71.78138
 415949157,Sagittaria_latifolia,42.24722,-71.99444
 51949392,Sagittaria_latifolia,44.6196,-123.2419
-2290631341,Sagittaria_latifolia,52.118312,4.355392
 2288483438,Sagittaria_latifolia,44.516667,-87.633333
 1929468834,Sagittaria_latifolia,42.8442412325551,-111.553074670633
 415883191,Sagittaria_latifolia,41.6175,-72.08472
 415949140,Sagittaria_latifolia,42.10583,-71.55222
 465861162,Sagittaria_latifolia,46.06928,-61.34521
-1261981769,Sagittaria_latifolia,46.866667,-71.016667
 1248691237,Sagittaria_latifolia,51.8,-88.016667
 465861167,Sagittaria_latifolia,44.61697,-64.88234
 668742431,Sagittaria_latifolia,46.820833,-71.217222
@@ -1341,24 +1275,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265393487,Sagittaria_latifolia,47.873804,-92.359325
 1897840485,Sagittaria_latifolia,42.378917,-72.518667
 2270698489,Sagittaria_latifolia,44.995324,-71.531196
-2287626288,Sagittaria_latifolia,38.933108,-77.113552
 56653048,Sagittaria_latifolia,32.87555,-87.44611
 1989105043,Sagittaria_latifolia,46.49,-86.15778
 1322079719,Sagittaria_latifolia,38.5222,-77.2939
 1261981800,Sagittaria_latifolia,46.183333,-70.366667
 437798572,Sagittaria_latifolia,48.21055,-90.15622
-465861142,Sagittaria_latifolia,46.498307,-61.074204
 2248474899,Sagittaria_latifolia,35.631972,-95.156283
 1261950797,Sagittaria_latifolia,46.766667,-71.25
 473492064,Sagittaria_latifolia,45.5422,-73.6939
 465871508,Sagittaria_latifolia,45.71051,-63.29417
 1261981744,Sagittaria_latifolia,45.966667,-70.65
 1988243823,Sagittaria_latifolia,49.38,-121.44
-465861154,Sagittaria_latifolia,46.26031,-60.26672
 2234557878,Sagittaria_latifolia,37.509228,-89.439226
 1321077004,Sagittaria_latifolia,38.8236,-77.7133
-465861151,Sagittaria_latifolia,46.186389,-61.273056
-465861128,Sagittaria_latifolia,46.624974,-61.034745
 177023178,Sagittaria_latifolia,37.41202,-100.19435
 1262000419,Sagittaria_latifolia,46.766667,-70.95
 2265393873,Sagittaria_latifolia,47.32143,-91.675186
@@ -1391,7 +1320,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988076561,Sagittaria_latifolia,51.83,-121.56
 1988806633,Sagittaria_latifolia,45.74611,-84.82889
 1988081603,Sagittaria_latifolia,50.67,-120.32
-465861105,Sagittaria_latifolia,46.43204,-61.11591
 465861108,Sagittaria_latifolia,45.396408,-62.294526
 1319119431,Sagittaria_latifolia,38.8158,-76.75
 1260942607,Sagittaria_latifolia,39.37055,-90.905
@@ -1446,7 +1374,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989378341,Sagittaria_latifolia,44.18088,-85.39062
 1988088961,Sagittaria_latifolia,49.09,-123.08
 2265392854,Sagittaria_latifolia,46.547376,-93.745854
-1988068349,Sagittaria_latifolia,45.48,-75.7
 1703292486,Sagittaria_latifolia,49.1838917731988,-98.1012504702256
 1989086697,Sagittaria_latifolia,45.191851,-84.76422
 1228570241,Sagittaria_latifolia,41.8333,-87.85
@@ -1472,7 +1399,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261949056,Sagittaria_latifolia,45.416667,-73.95
 415883129,Sagittaria_latifolia,41.39472,-72.41555
 415949147,Sagittaria_latifolia,42.05,-71.88
-1990226054,Sagittaria_latifolia,35.250479,-75.528883
 415949110,Sagittaria_latifolia,42.38333,-71.63333
 620528931,Sagittaria_latifolia,45.04205,-64.84418
 1988811680,Sagittaria_latifolia,45.454044,-84.216357
@@ -1550,10 +1476,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51950109,Sagittaria_latifolia,45.5947,-121.1775
 1899366956,Sagittaria_latifolia,47,-84.75
 465861070,Sagittaria_latifolia,45.4926,-61.93488
-1261947078,Sagittaria_latifolia,47.1,-70.35
 2291535727,Sagittaria_latifolia,42.483333,-71.583333
 2290259148,Sagittaria_latifolia,45.716667,-73.483333
-1988069248,Sagittaria_latifolia,45.41,-75.7
 1261960853,Sagittaria_latifolia,46.8225,-71.176111
 2287625054,Sagittaria_latifolia,44.816667,-79.4
 2265392206,Sagittaria_latifolia,48.061946,-92.905816
@@ -1587,7 +1511,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415949138,Sagittaria_latifolia,42.13333,-71.98333
 415916033,Sagittaria_latifolia,42.53333,-70.96666
 415949130,Sagittaria_latifolia,42.45777,-71.36611
-38527140,Sagittaria_latifolia,21.3833,-157.717
 465861059,Sagittaria_latifolia,45.06294,-64.635438
 1989131632,Sagittaria_latifolia,44.309167,-85.997599
 1804504674,Sagittaria_latifolia,45.7,-81.666667
@@ -1651,13 +1574,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269626119,Sagittaria_latifolia,30.414625,-91.176222
 1988734993,Sagittaria_latifolia,47.224952,-88.597329
 415883141,Sagittaria_latifolia,41.4825,-73.48916
-2287624995,Sagittaria_latifolia,-16.816667,-151.4
-1261946357,Sagittaria_latifolia,48.433333,-68.55
 1261976174,Sagittaria_latifolia,45.525,-75.494167
 465871866,Sagittaria_latifolia,46.770599,-70.944893
 620528955,Sagittaria_latifolia,45.934262,-63.869348
 465888497,Sagittaria_latifolia,45.933333,-63.865833
-1318244044,Sagittaria_latifolia,38.9103,-76.9664
 1989424409,Sagittaria_latifolia,42.29561,-83.75109
 415883186,Sagittaria_latifolia,41.43972,-72.01555
 1261976993,Sagittaria_latifolia,45.374167,-75.838333
@@ -1684,7 +1604,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038983268,Sagittaria_latifolia,41.5583,-73.036
 465888511,Sagittaria_latifolia,44.87167,-65.21249
 1038985418,Sagittaria_latifolia,41.7406,-73.345
-1319556859,Sagittaria_latifolia,38.9414,-76.9653
 1989510213,Sagittaria_latifolia,46.19936,-89.39461
 1038977773,Sagittaria_latifolia,41.6523,-73.3145
 1321462088,Sagittaria_latifolia,38.9981,-77.2886
@@ -1706,7 +1625,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038931054,Sagittaria_latifolia,41.6992,-71.8987
 415883154,Sagittaria_latifolia,41.83222,-72.57027
 415916006,Sagittaria_latifolia,42.56666,-73.15
-1320341209,Sagittaria_latifolia,38.9047,-77.0628
 1039001454,Sagittaria_latifolia,41.6153,-72.1432
 2234556642,Sagittaria_latifolia,43.615582,-84.247212
 1321065170,Sagittaria_latifolia,39.0992,-76.5361
@@ -1762,7 +1680,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260927539,Sagittaria_latifolia,39.15555,-94.39333
 1038967388,Sagittaria_latifolia,41.7636,-72.6153
 1039017595,Sagittaria_latifolia,41.905,-72.5672
-1322157610,Sagittaria_latifolia,38.8664,-76.9842
 1989551593,Sagittaria_latifolia,42.270872,-83.726329
 2270644655,Sagittaria_latifolia,32.26,-110.87
 415883187,Sagittaria_latifolia,41.66694,-72.66638
