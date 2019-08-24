@@ -41,7 +41,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996023615,Maireana_sedifolia,-31.6892,142.78
 1451648353,Maireana_sedifolia,-31.687646,142.780984
 996751692,Maireana_sedifolia,-32.025298,123.797368
-996790928,Maireana_sedifolia,-26.669397,115.495239
 992015834,Maireana_sedifolia,-32.034,122.801
 1085380285,Maireana_sedifolia,-33.63157,136.94536
 992036527,Maireana_sedifolia,-33.631389,136.945278
@@ -264,7 +263,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993838540,Maireana_sedifolia,-33.1167,136.65
 993838693,Maireana_sedifolia,-33.3167,142.2833
 1451539055,Maireana_sedifolia,-34.031834,141.867967
-992382448,Maireana_sedifolia,-33.85,137.65
 995002065,Maireana_sedifolia,-35.2167,142.95
 995002075,Maireana_sedifolia,-35.4167,142.8667
 992331814,Maireana_sedifolia,-32.063333,139.885556
@@ -330,10 +328,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992247611,Maireana_sedifolia,-31.827778,135.721944
 992368697,Maireana_sedifolia,-32.268056,135.970556
 992016680,Maireana_sedifolia,-34.104271,139.426915
-993287216,Maireana_sedifolia,-32.5667,133.2833
-993287290,Maireana_sedifolia,-32.5833,133.2833
 993819450,Maireana_sedifolia,-32.1167,139.3333
-992364254,Maireana_sedifolia,-33.883333,137.6
 1451539020,Maireana_sedifolia,-32.498481,143.001269
 992229208,Maireana_sedifolia,-29.633333,132.616667
 1937041970,Maireana_sedifolia,-32.5,143
@@ -441,7 +436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995769345,Maireana_sedifolia,-32.5,142.15
 1451538954,Maireana_sedifolia,-32.498489,142.151281
 995210893,Maireana_sedifolia,-34.2667,141.1
-994650247,Maireana_sedifolia,-31.5333,130.9667
 993142167,Maireana_sedifolia,-30.4833,133.9833
 992127965,Maireana_sedifolia,-32.064,139.383
 1451475321,Maireana_sedifolia,-33.68183,141.784631
