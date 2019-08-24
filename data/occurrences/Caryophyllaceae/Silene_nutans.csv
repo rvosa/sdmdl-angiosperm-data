@@ -76,7 +76,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848999824,Silene_nutans,46.525,14.54167
 1438585154,Silene_nutans,58.60511,26.11965
 1705428822,Silene_nutans,57.270245,16.473419
-1095917510,Silene_nutans,59.2,17.93
 1935725024,Silene_nutans,47.54581,14.05683
 1148475662,Silene_nutans,57.846667,27.639722
 2287442333,Silene_nutans,52.139217,4.376667
@@ -123,14 +122,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848999255,Silene_nutans,50.30556,20.55833
 1848999580,Silene_nutans,48.76083,21.23806
 317826415,Silene_nutans,42.745,-3.031
-1050646645,Silene_nutans,42.83,-2.7
 1702269347,Silene_nutans,59.3243,11.5747
 1050646634,Silene_nutans,42.74,-3.03
 1948568029,Silene_nutans,60.189006,23.147348
 1342979524,Silene_nutans,55.460914,11.205027
-317826416,Silene_nutans,42.835,-2.7
 1342979691,Silene_nutans,55.806497,12.118699
-786274114,Silene_nutans,51.8,12.6
 2288364710,Silene_nutans,45.688667,7.313833
 1935724925,Silene_nutans,47.49333,13.95806
 1851387180,Silene_nutans,42.4576,-6.46619
@@ -144,7 +140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986960069,Silene_nutans,56.98835,23.86079
 1936204152,Silene_nutans,41.7887,-4.7463
 1671675145,Silene_nutans,43.938874,7.758873
-1697491297,Silene_nutans,51.166667,40.3
 1050643639,Silene_nutans,41.66,-1.79
 441936925,Silene_nutans,51.760658,12.40365
 1935724933,Silene_nutans,47.50222,13.98056
@@ -175,7 +170,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999613379,Silene_nutans,60.432925,22.180988
 1702316809,Silene_nutans,58.7507,9.0905
 1702316830,Silene_nutans,58.7506,9.0905
-1050642372,Silene_nutans,42.5,-2.49
 211639244,Silene_nutans,43.380001,-5.85
 198471151,Silene_nutans,43.16,-4.67
 1702229358,Silene_nutans,59.095,10.9419
@@ -185,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895221151,Silene_nutans,40.78,-1.64
 1671675102,Silene_nutans,44.273579,9.811961
 1671675180,Silene_nutans,44.278526,9.808796
-1697491303,Silene_nutans,53.5,39
 1671675150,Silene_nutans,44.277362,9.816775
 1948503644,Silene_nutans,61.422151,23.746074
 1050640974,Silene_nutans,42.81,-2.71
@@ -196,7 +189,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697491333,Silene_nutans,55.572045,37.583697
 895222417,Silene_nutans,40.811,-1.097
 1935725147,Silene_nutans,47.13099,14.73589
-198471469,Silene_nutans,43.220001,-4.9
 1851367600,Silene_nutans,42.425,-6.709
 1697491197,Silene_nutans,53.892809,23.577557
 1851402837,Silene_nutans,42.70457,-5.59441
@@ -220,8 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1135461184,Silene_nutans,47.96667,16.25
 932706184,Silene_nutans,42.63704,-7.37923
 932706103,Silene_nutans,42.66111,-7.18339
-1135461188,Silene_nutans,47.8,16.33333
-895176726,Silene_nutans,40.292,-2.1
 1323857136,Silene_nutans,59.7864,10.7681
 1851394709,Silene_nutans,42.27,-6.605
 1323860189,Silene_nutans,59.3023,10.6954
@@ -258,7 +248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851392978,Silene_nutans,42.356,-6.432
 1657207230,Silene_nutans,46.70333,13.83306
 1935724891,Silene_nutans,47.15889,15.40444
-1393888,Silene_nutans,42,-7
 1671673299,Silene_nutans,44.134956,9.689
 1999506376,Silene_nutans,60.463521,22.282053
 21469531,Silene_nutans,60.7866,10.8597
@@ -290,8 +279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1270042616,Silene_nutans,50.584072,12.161572
 1701841565,Silene_nutans,59.4451,10.4372
 1701627121,Silene_nutans,60.7717,10.8313
-1697491201,Silene_nutans,55.5,31.783333
-1699939242,Silene_nutans,59.5454,10.3
 1702176683,Silene_nutans,60.2173,10.3582
 1936577549,Silene_nutans,40.7792,-4.0678
 1999506430,Silene_nutans,60.475664,22.047118
@@ -311,7 +298,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050623781,Silene_nutans,41.79,-1.79
 199506611,Silene_nutans,36.52051,-5.59448
 895298359,Silene_nutans,40.039,-2.021
-1851413552,Silene_nutans,40.4,-5.3
 1851320223,Silene_nutans,42.795,-6.34
 318123242,Silene_nutans,40.39,-5.25
 1050624027,Silene_nutans,41.79,-1.82
@@ -332,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697491369,Silene_nutans,52.578804,38.360838
 1702161629,Silene_nutans,60.0992,9.8281
 1702090687,Silene_nutans,59.4814,10.4035
-895300036,Silene_nutans,39.7,-2.01
 1936667172,Silene_nutans,42.0439,-3.533
 1697491286,Silene_nutans,57.617686,41.112468
 1702163975,Silene_nutans,59.4104,11.7158
@@ -346,7 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848999975,Silene_nutans,48.85528,15.84944
 1936688419,Silene_nutans,41.3409,-6.4318
 318123185,Silene_nutans,41.34,-6.42
-1501065532,Silene_nutans,39.84,-1.2
 165135591,Silene_nutans,46.799652,15.745045
 1936599452,Silene_nutans,43.3894,-4.2237
 1936535388,Silene_nutans,42.7392,-5.8478
@@ -368,14 +352,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599504217,Silene_nutans,62.633548,31.278104
 1936218113,Silene_nutans,41.38159,-7.81158
 895174463,Silene_nutans,39.61,-2.71
-30892230,Silene_nutans,36.869999,-3
 1936217527,Silene_nutans,41.36859,-7.86228
 1697491397,Silene_nutans,56.435507,44.86393
 1851338941,Silene_nutans,43.016,-5.019
 1599504218,Silene_nutans,62.657474,29.611999
-1947621136,Silene_nutans,50.23,10.4
-318123172,Silene_nutans,42.4,-7.72
-895246225,Silene_nutans,40.66,0.1
 1050615567,Silene_nutans,43.09,-4.67
 1851374278,Silene_nutans,42.3511,-5.1848
 1697491319,Silene_nutans,51.999974,36.066095
@@ -419,7 +399,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199506687,Silene_nutans,36.11304,-5.54211
 1502029519,Silene_nutans,40.39,-0.11
 860310936,Silene_nutans,40.7197,-0.0017
-1050580976,Silene_nutans,40.3,-0.12
 1851339383,Silene_nutans,43.076,-5.144
 1936432649,Silene_nutans,42.3111,-6.7446
 318122704,Silene_nutans,42.86,-6.81
@@ -447,7 +426,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701721122,Silene_nutans,60.7718,10.8533
 1702430595,Silene_nutans,60.7635,11.1383
 1050579684,Silene_nutans,43.11,-0.85
-1502023366,Silene_nutans,40.4,-0.35
 1702429911,Silene_nutans,60.9022,10.871
 1702412018,Silene_nutans,60.0505,10.2542
 1702006467,Silene_nutans,59.3213,11.8089
@@ -516,7 +494,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895219642,Silene_nutans,40.01,-0.627
 204436688,Silene_nutans,43.264999,-1.38
 1500982036,Silene_nutans,40.06,-0.61
-1851391462,Silene_nutans,42.2,-6.52
 895219573,Silene_nutans,40.063,-0.614
 1599504195,Silene_nutans,60.457486,22.550508
 1047267,Silene_nutans,57.15346,15.69558
@@ -526,17 +503,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204436687,Silene_nutans,43.105,-1.544
 1599504180,Silene_nutans,61.488579,25.128942
 1053985477,Silene_nutans,42.64,-1.17
-1050615303,Silene_nutans,42.5,-2.6
 199506436,Silene_nutans,36.68,-5.143
 1936361949,Silene_nutans,42.1622,-2.9529
-1053985444,Silene_nutans,42.64,-1.1
 1947621060,Silene_nutans,49.93,10.34
 1936361001,Silene_nutans,42.268,-2.2738
 1936551437,Silene_nutans,42.064,-4.3671
 1599504167,Silene_nutans,60.294396,22.619819
 1050615264,Silene_nutans,42.63,-2.05
 204436770,Silene_nutans,42.951,-1.498
-1050615260,Silene_nutans,42.7,-2.31
 895183481,Silene_nutans,40.636,-0.05
 1936416972,Silene_nutans,40.1792,-6.8872
 1050615493,Silene_nutans,42.69,-1.57
@@ -552,14 +526,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313364115,Silene_nutans,48.21,11.47
 1999506375,Silene_nutans,60.771603,21.55178
 1936556121,Silene_nutans,42.8091,-4.5546
-1050615284,Silene_nutans,42.6,-2.45
 204436684,Silene_nutans,43.247002,-1.392
 1599504244,Silene_nutans,60.549461,25.592664
 1599504175,Silene_nutans,60.967628,24.525196
-1050615305,Silene_nutans,42.92,-0.8
 1599504138,Silene_nutans,60.986134,24.411008
 1332806808,Silene_nutans,50.5648,9.87851
-895265561,Silene_nutans,40.3,-0.23
 1502020724,Silene_nutans,40.31,-0.35
 1053985492,Silene_nutans,42.62,-1.15
 1053985488,Silene_nutans,42.63,-1.21
@@ -589,7 +560,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053985435,Silene_nutans,42.63,-1.22
 1851400861,Silene_nutans,43.11,-5.27
 1599504131,Silene_nutans,60.637936,23.459696
-1848999930,Silene_nutans,46.7,14.3
 30891673,Silene_nutans,43.240002,-5.09
 1599504193,Silene_nutans,61.020411,24.490555
 1599504137,Silene_nutans,61.171676,23.604551
@@ -597,7 +567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599504136,Silene_nutans,61.015144,22.547514
 1053985404,Silene_nutans,42.63,-1.14
 1599504171,Silene_nutans,60.142076,22.915881
-30891656,Silene_nutans,42.790001,-6.8
 1599504174,Silene_nutans,60.96329,24.484899
 1050615464,Silene_nutans,42.86,-0.82
 1705340776,Silene_nutans,57.262269,15.646132
@@ -611,7 +580,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936089495,Silene_nutans,42.0539,2.733
 1697491444,Silene_nutans,49.91793,24.008934
 1936126441,Silene_nutans,42.6306,-3.0257
-1851327453,Silene_nutans,42.861,-4.5
 1936088174,Silene_nutans,39.5115,-4.6181
 1599507345,Silene_nutans,61.017943,24.361235
 1936155659,Silene_nutans,40.264,-5.2533
@@ -632,7 +600,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936564584,Silene_nutans,42.7993,-3.735
 1599504166,Silene_nutans,61.572656,23.45995
 1050615253,Silene_nutans,43.33,-3.05
-1050615291,Silene_nutans,43,-4.76
 1599504188,Silene_nutans,60.979657,24.594479
 1599504176,Silene_nutans,61.32545,25.31892
 1701485970,Silene_nutans,59.2882,10.7466
@@ -640,7 +607,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053985928,Silene_nutans,43.29,-1.72
 204436788,Silene_nutans,42.625999,-2.36
 204436781,Silene_nutans,42.655998,-1.615
-895257312,Silene_nutans,40.23,-1.3
 204436783,Silene_nutans,42.391998,-1.415
 1599504142,Silene_nutans,60.353571,22.656319
 1701918445,Silene_nutans,59.5076,10.6285
@@ -656,12 +622,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599504116,Silene_nutans,61.340799,25.056476
 1599504146,Silene_nutans,61.598931,29.540436
 1851346747,Silene_nutans,42.83,-6.37
-237340007,Silene_nutans,42.39,1
 1599504213,Silene_nutans,60.446663,22.225358
 1599507260,Silene_nutans,60.47925,22.384507
 1599504160,Silene_nutans,61.774519,24.486155
 1599504169,Silene_nutans,61.10976,22.16262
-1050615263,Silene_nutans,42.74,-3.8
 1050615254,Silene_nutans,41.95,-3.44
 895255677,Silene_nutans,39.95,-0.72
 1705439511,Silene_nutans,57.419775,15.05637
@@ -669,7 +633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936139538,Silene_nutans,42.7927,-3.0013
 1936564604,Silene_nutans,42.8264,-3.7231
 1936083839,Silene_nutans,41.4307,-3.6715
-1050615245,Silene_nutans,42.79,-3
 1936149270,Silene_nutans,41.9063,-8.073
 1332806810,Silene_nutans,50.5823,9.84912
 1936563636,Silene_nutans,42.5024,-3.695
@@ -688,11 +651,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599507312,Silene_nutans,60.176502,24.570567
 1599504144,Silene_nutans,60.981213,24.435433
 1050615497,Silene_nutans,43.27,-2.77
-1502011159,Silene_nutans,40.04,-0.6
 774391118,Silene_nutans,50.400002,8.133333
 1050615249,Silene_nutans,42.76,-3.14
 1050615277,Silene_nutans,42.77,-3.06
-1050615466,Silene_nutans,43,-3.01
 1050615300,Silene_nutans,42.76,-3.11
 1050615217,Silene_nutans,42.93,-2.58
 1712604850,Silene_nutans,42.500495,-1.701399
@@ -722,17 +683,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211638692,Silene_nutans,43.189999,-4.96
 694582658,Silene_nutans,45.6975,6.73417
 1806555379,Silene_nutans,42.880916,-1.820121
-1851319090,Silene_nutans,42.74,-6.5
 30891528,Silene_nutans,41.189999,-3.48
 211638691,Silene_nutans,43.200001,-4.66
 1702420594,Silene_nutans,59.6116,10.4089
-211638693,Silene_nutans,43.169998,-4.8
 1702310657,Silene_nutans,59.3224,11.8204
 1936542267,Silene_nutans,42.4411,-4.4604
 211638695,Silene_nutans,43.16,-4.81
 204437012,Silene_nutans,43.257999,-3.08
 1050615279,Silene_nutans,42.62,-2.75
-204437004,Silene_nutans,43.365002,-2.5
 1050615270,Silene_nutans,42.74,-2.27
 1936599642,Silene_nutans,43.3507,-3.2481
 204437011,Silene_nutans,43.34,-3.056
@@ -790,7 +748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936091798,Silene_nutans,42.2469,-6.2742
 1438585101,Silene_nutans,58.0006,24.5638
 1851393192,Silene_nutans,43.02,-5.02
-1050615262,Silene_nutans,42.9,-2.24
 1806554512,Silene_nutans,43.152,-1.678
 204436994,Silene_nutans,43.300999,-2.254
 1502019445,Silene_nutans,40.22,-0.59
@@ -803,7 +760,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050615261,Silene_nutans,42.67,-2.43
 1050615236,Silene_nutans,42.66,-2.83
 1050615269,Silene_nutans,42.79,-2.93
-1050615282,Silene_nutans,43.19,-3
 30891642,Silene_nutans,41.009998,-3.59
 1851374557,Silene_nutans,42.92,-5.63
 860322169,Silene_nutans,42.247,-0.024
@@ -832,15 +788,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050615274,Silene_nutans,42.67,-2.57
 1989602740,Silene_nutans,56.16349,15.68325
 1323773881,Silene_nutans,59.4862,10.5007
-1988148671,Silene_nutans,61.4,25.2
 1264994954,Silene_nutans,46.77217,13.90538
 1936072088,Silene_nutans,43.175,-4.7853
 1701319284,Silene_nutans,61.5392,10.1003
 1265010559,Silene_nutans,61.433333,25.183333
-1050615216,Silene_nutans,42.6,-2.66
 1851395077,Silene_nutans,43.02,-4.78
 1050615268,Silene_nutans,42.82,-2.81
-1050615227,Silene_nutans,43,-2.49
 1676221357,Silene_nutans,59.3977,10.6346
 1050615256,Silene_nutans,42.87,-3.25
 1599504087,Silene_nutans,61.249783,22.309034
@@ -849,8 +802,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599504091,Silene_nutans,60.989515,22.588118
 694581768,Silene_nutans,48.4374,2.3808
 57724185,Silene_nutans,61.572399,23.4524
-442115660,Silene_nutans,54,56
-2028546684,Silene_nutans,42.1,2.7
 1936092256,Silene_nutans,42.3399,-6.4037
 1701876523,Silene_nutans,59.297,9.9393
 1702420581,Silene_nutans,59.7729,9.9527
@@ -907,7 +858,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053982043,Silene_nutans,42.86,-1.66
 1999506399,Silene_nutans,60.48958,22.69276
 1265010831,Silene_nutans,60.456944,22.686944
-1988138877,Silene_nutans,60.2,22.5
 1265009283,Silene_nutans,61.176111,22.698056
 1999506442,Silene_nutans,60.67251,22.008583
 812032118,Silene_nutans,50.721817,9.232
@@ -923,7 +873,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701884435,Silene_nutans,59.3145,10.7303
 1599507259,Silene_nutans,61.573108,23.325308
 1701884365,Silene_nutans,59.3246,10.643
-694582328,Silene_nutans,48.5,2.473
 1701884419,Silene_nutans,59.3099,10.7389
 812032119,Silene_nutans,50.5022,9.12365
 694582045,Silene_nutans,48.441,2.2668
@@ -950,7 +899,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999506312,Silene_nutans,60.496374,22.108666
 1697491212,Silene_nutans,54.835722,40.834351
 1599507276,Silene_nutans,61.259684,25.972062
-1705477507,Silene_nutans,47.27,11.7
 1668935117,Silene_nutans,54.867,37.633
 1697491404,Silene_nutans,55.130206,38.786535
 1702235923,Silene_nutans,59.1733,11.0478
@@ -1143,7 +1091,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999506285,Silene_nutans,60.425918,22.273879
 1893207457,Silene_nutans,49.95,6.02
 1265007636,Silene_nutans,56.12086,13.87286
-1701884451,Silene_nutans,59.3,10.6664
 186837663,Silene_nutans,59.3805,10.4696
 1599504069,Silene_nutans,60.603945,27.115559
 1599504173,Silene_nutans,60.576928,26.80539
@@ -1168,7 +1115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705424352,Silene_nutans,57.212435,16.177579
 1697491471,Silene_nutans,49.727024,45.230145
 1638430831,Silene_nutans,47.06056,15.48611
-786274126,Silene_nutans,50.6,9.2
 1697491258,Silene_nutans,55.740259,36.892407
 1891606067,Silene_nutans,49.77,6.22
 1265003948,Silene_nutans,59.76238,17.64373
@@ -1184,7 +1130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999635239,Silene_nutans,59.960838,23.505513
 694583888,Silene_nutans,48.40468,2.70162
 694583885,Silene_nutans,48.4744,2.2488
-860323459,Silene_nutans,41.6,2.46
 1668935543,Silene_nutans,54.855,37.623
 1047320,Silene_nutans,57.67801,14.08041
 694582702,Silene_nutans,45.66263,2.45213
@@ -1313,7 +1258,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 694582048,Silene_nutans,45.035,6.4052
 1599507221,Silene_nutans,61.497517,23.898058
 1599507238,Silene_nutans,61.228695,23.924583
-786274323,Silene_nutans,49.1,12.2
 694582229,Silene_nutans,48.51651,2.2209
 1701704334,Silene_nutans,59.2344,10.7637
 1055345779,Silene_nutans,53.995072,-1.798562
@@ -1332,7 +1276,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599504042,Silene_nutans,61.27625,22.426603
 1599507180,Silene_nutans,61.550814,22.574584
 667499278,Silene_nutans,49.088,-0.388
-786274320,Silene_nutans,49.8,11.4
 1701586196,Silene_nutans,59.6904,10.5899
 1701249195,Silene_nutans,59.1022,9.3928
 667499409,Silene_nutans,48.846,2.1887
@@ -1382,7 +1325,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055912910,Silene_nutans,51.204609,-1.171048
 1705370023,Silene_nutans,58.036227,14.958779
 1697491194,Silene_nutans,53.866992,40.677507
-786274169,Silene_nutans,48.1,8
 1705430368,Silene_nutans,58.484618,14.997262
 1697491452,Silene_nutans,54.14963,48.842651
 1705423100,Silene_nutans,56.161144,15.587637
@@ -1445,7 +1387,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999506447,Silene_nutans,60.468408,22.331421
 1599507137,Silene_nutans,60.865952,23.77537
 1265006473,Silene_nutans,62.476066,17.315787
-786274328,Silene_nutans,49.2,11.9
 1047334,Silene_nutans,57.69524,14.80645
 1144036915,Silene_nutans,59.51354,10.22705
 1599504076,Silene_nutans,61.383449,22.97301
@@ -1565,7 +1506,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999506226,Silene_nutans,60.458506,22.30554
 2290518475,Silene_nutans,49.633333,5.35
 1047242,Silene_nutans,56.777242,14.43
-1891605294,Silene_nutans,49.8,6.4
 1265014051,Silene_nutans,58.663165,16.391163
 57724216,Silene_nutans,61.35075,22.930319
 1265008296,Silene_nutans,56.27568,12.83471
@@ -1576,7 +1516,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701880129,Silene_nutans,60.4229,10.5011
 694582481,Silene_nutans,44.3556,2.81314
 1702420550,Silene_nutans,60.0799,10.276
-1705477516,Silene_nutans,47.55,15.6
 1056995631,Silene_nutans,51.047989,-3.136122
 1047333,Silene_nutans,57.80916,15.01387
 1702310559,Silene_nutans,59.465,10.6587
