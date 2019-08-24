@@ -143,7 +143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843897102,Penstemon_barbatus,35.22,-107.73
 1843896895,Penstemon_barbatus,34.8017,-106.3756
 1843897161,Penstemon_barbatus,35.061,-106.382
-1928759488,Penstemon_barbatus,36.33,-109
 1893603681,Penstemon_barbatus,25.334444,-100.958333
 2270462968,Penstemon_barbatus,35.021944,-111.837778
 1929512065,Penstemon_barbatus,23.740278,-105.455
@@ -197,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846525435,Penstemon_barbatus,31.932133,-109.271715
 2270462811,Penstemon_barbatus,31.8688,-109.373
 1929802045,Penstemon_barbatus,36.328,-105.5282
-1843810203,Penstemon_barbatus,36.33,-105.6
 1893712785,Penstemon_barbatus,25.627968,-100.793384
 1895394813,Penstemon_barbatus,25.627967,-100.793383
 1895680585,Penstemon_barbatus,23.905556,-105.031944
@@ -205,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843821367,Penstemon_barbatus,32.985429,-108.981505
 1261043338,Penstemon_barbatus,25.03,-100.92
 1843829325,Penstemon_barbatus,36.642068,-107.247191
-1986977628,Penstemon_barbatus,35.95,-106.7
 2270682603,Penstemon_barbatus,34.9841,-112.422
 1895394914,Penstemon_barbatus,25.362219,-100.463889
 1894425516,Penstemon_barbatus,25.361944,-100.464167
@@ -221,7 +218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846525094,Penstemon_barbatus,36.416111,-112.073889
 415925249,Penstemon_barbatus,36.38333,-105.46666
 2270462879,Penstemon_barbatus,33.8482,-110.904
-1261040668,Penstemon_barbatus,25.4,-100.26
 1893712775,Penstemon_barbatus,24.703333,-104.981667
 1895394870,Penstemon_barbatus,24.1056894509238,-99.9245790489786
 2270462761,Penstemon_barbatus,34.2683,-111.578
@@ -272,7 +268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261178667,Penstemon_barbatus,35.2702,-111.6531
 2270462912,Penstemon_barbatus,33.2822,-110.821
 1842928078,Penstemon_barbatus,33.886158,-106.232279
-1419195215,Penstemon_barbatus,25.1,-106.181389
 1893712798,Penstemon_barbatus,21.305,-100.278333
 1894526755,Penstemon_barbatus,25.108333,-106.408333
 1419198204,Penstemon_barbatus,25.120833,-106.525
@@ -285,7 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896114827,Penstemon_barbatus,19.648611,-97.133889
 1419233833,Penstemon_barbatus,25.613889,-106.126389
 1894648560,Penstemon_barbatus,20.9275,-100.192778
-1893712754,Penstemon_barbatus,19.636667,-97.1
 1896114832,Penstemon_barbatus,19.625,-97.108333
 1893712797,Penstemon_barbatus,20.806389,-100.118333
 1894648686,Penstemon_barbatus,21.208611,-99.114722
@@ -330,7 +324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895394819,Penstemon_barbatus,25.962148,-101.524053
 1893712763,Penstemon_barbatus,20.158611,-100.2925
 1986963323,Penstemon_barbatus,36.583333,-112.166667
-1927959137,Penstemon_barbatus,31.4,-110.31
 1896050436,Penstemon_barbatus,20.168611,-100.210556
 1259442704,Penstemon_barbatus,19.598056,-98.912778
 1930737231,Penstemon_barbatus,37.0123,-106.1944
@@ -410,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929047367,Penstemon_barbatus,25.07,-105.82
 1986961693,Penstemon_barbatus,34.145,-107.843056
 1261182231,Penstemon_barbatus,35.75,-105.66666
-1895927330,Penstemon_barbatus,31,-110
 2270464654,Penstemon_barbatus,32.66,-109.91
 1896050429,Penstemon_barbatus,19.571944,-98.8725
 1897531610,Penstemon_barbatus,22.135286,-102.677972
@@ -557,7 +549,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846524288,Penstemon_barbatus,34.051795,-109.73216
 1843888750,Penstemon_barbatus,36.081815,-107.957932
 1895394797,Penstemon_barbatus,29.025,-102.125
-1842928047,Penstemon_barbatus,35.2,-107.7
 1843888639,Penstemon_barbatus,35.151099,-107.455001
 1896050451,Penstemon_barbatus,19.493889,-97.115833
 1896114830,Penstemon_barbatus,18.383056,-96.288056
@@ -580,7 +571,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270554651,Penstemon_barbatus,19.751752,-98.642088
 2270462947,Penstemon_barbatus,31.85,-109.283
 1893712804,Penstemon_barbatus,19.915,-98.67
-1895394749,Penstemon_barbatus,28.166667,-103
 2270461362,Penstemon_barbatus,32.948404,-105.843066
 233100213,Penstemon_barbatus,35.81629,-105.25278
 1843888697,Penstemon_barbatus,34.186293,-107.888549
@@ -657,12 +647,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928257261,Penstemon_barbatus,36.915144,-104.196845
 2270464826,Penstemon_barbatus,33.9597,-109.506
 1895394769,Penstemon_barbatus,29.228679,-102.73944
-1259439978,Penstemon_barbatus,19.36,-99
 2270464269,Penstemon_barbatus,33.3619,-109.317
 2270461011,Penstemon_barbatus,36.915566,-104.195257
 2270462971,Penstemon_barbatus,34.996157,-111.763478
 2270465192,Penstemon_barbatus,33.2103,-109.377
-1895394886,Penstemon_barbatus,29.1,-102.616667
 2270556318,Penstemon_barbatus,27.792404,-107.610108
 1889162895,Penstemon_barbatus,32.866667,-107.866667
 1893772422,Penstemon_barbatus,27.75306,-107.635
@@ -680,7 +668,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986918823,Penstemon_barbatus,32.564167,-108.135833
 1896050370,Penstemon_barbatus,19.931111,-98.678611
 1893772439,Penstemon_barbatus,27.60361,-107.53972
-1611941757,Penstemon_barbatus,30.9,-105.066667
 2270684158,Penstemon_barbatus,34.5932,-110.787
 2270465632,Penstemon_barbatus,36.2806,-109.192
 2270464756,Penstemon_barbatus,36.4519,-109.17
@@ -723,7 +710,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270462707,Penstemon_barbatus,32.66,-109.86
 1261033792,Penstemon_barbatus,24.866667,-100.216667
 1896050423,Penstemon_barbatus,24.828333,-100.340556
-1895412269,Penstemon_barbatus,23.8,-105.333333
 2270464265,Penstemon_barbatus,35.07,-111.54
 1843888166,Penstemon_barbatus,35.190941,-106.397484
 1896050404,Penstemon_barbatus,20.799722,-98.724722
@@ -793,7 +779,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927933777,Penstemon_barbatus,28.4094,-107.6339
 1846525330,Penstemon_barbatus,32.94806,-108.22639
 2270464600,Penstemon_barbatus,36.0544,-112.139
-2270465019,Penstemon_barbatus,36.06,-112
 1843888568,Penstemon_barbatus,34.394072,-106.991854
 1843888362,Penstemon_barbatus,35.174706,-106.367725
 1843887878,Penstemon_barbatus,31.612948,-108.780482
@@ -905,17 +890,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846524047,Penstemon_barbatus,36.711316,-111.7832
 1843888062,Penstemon_barbatus,34.330463,-107.104907
 2242412624,Penstemon_barbatus,36.761961,-103.835847
-1259441387,Penstemon_barbatus,25.05,-101.3
 1895394890,Penstemon_barbatus,29.2357228319427,-106.317423129294
-2270464593,Penstemon_barbatus,34.08,-109.8
-1930665933,Penstemon_barbatus,23.7,-99.75
 1843887798,Penstemon_barbatus,33.52951,-108.941194
 1843888262,Penstemon_barbatus,33.288503,-108.881535
 1843888828,Penstemon_barbatus,36.72415,-103.863367
 1843888246,Penstemon_barbatus,33.889469,-106.337584
 1929066176,Penstemon_barbatus,39.064,-106.2479
 1986900859,Penstemon_barbatus,39.053889,-106.269167
-1895394812,Penstemon_barbatus,27.966667,-103.7
 1895394807,Penstemon_barbatus,28.361111,-103.117222
 1928635082,Penstemon_barbatus,36.9892,-104.4822
 1931309020,Penstemon_barbatus,33.848097,-109.195542
@@ -943,7 +924,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895394704,Penstemon_barbatus,24.594719,-99.993889
 2270462678,Penstemon_barbatus,35.1866,-111.618
 1986877394,Penstemon_barbatus,32.640833,-109.843056
-1986877603,Penstemon_barbatus,33.511944,-110.4
 1986877555,Penstemon_barbatus,33.046111,-108.529167
 1986877633,Penstemon_barbatus,33.111389,-109.365556
 1986877715,Penstemon_barbatus,35.984722,-111.967222
@@ -959,7 +939,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986931777,Penstemon_barbatus,35.284444,-112.161667
 1928687492,Penstemon_barbatus,35.747631,-105.413092
 1895394804,Penstemon_barbatus,25.6714547262678,-100.308486960276
-1259442641,Penstemon_barbatus,19.5,-98.88
 2270465322,Penstemon_barbatus,31.8258,-110.774
 1928214183,Penstemon_barbatus,35.593932,-105.223897
 1930413949,Penstemon_barbatus,37.225559,-107.598112
@@ -967,7 +946,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928553567,Penstemon_barbatus,37.6842,-109.6475
 1895957558,Penstemon_barbatus,19.062222,-98.218611
 1259440226,Penstemon_barbatus,18.18,-97.45
-2270464824,Penstemon_barbatus,32.5,-110.921
 1893369869,Penstemon_barbatus,17.475,-97.241667
 1259443295,Penstemon_barbatus,18.85,-97.36666
 1259439505,Penstemon_barbatus,22.05,-100.61
