@@ -53,7 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702379432,Luzula_luzuloides,59.6647,10.5628
 2313366869,Luzula_luzuloides,48.07,11.47
 1135451267,Luzula_luzuloides,46.67667,14.88194
-1881846480,Luzula_luzuloides,48.51,10.7
 1702380269,Luzula_luzuloides,59.7288,10.2351
 2313274920,Luzula_luzuloides,47.57,12.96
 1705434507,Luzula_luzuloides,57.271051,16.460255
@@ -104,7 +103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702516421,Luzula_luzuloides,63.0986,7.8971
 1230931361,Luzula_luzuloides,47.925,16.70806
 2291924528,Luzula_luzuloides,48.475,8.22
-1213675040,Luzula_luzuloides,47.933333,16.7
 1600562202,Luzula_luzuloides,61.170825,28.770601
 1935701591,Luzula_luzuloides,47.26361,14.36417
 1702035906,Luzula_luzuloides,62.5817,11.3303
@@ -131,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936645264,Luzula_luzuloides,41.6536,24.5656
 865469,Luzula_luzuloides,58.66941,16.25843
 1936644509,Luzula_luzuloides,41.645556,24.643333
-895179078,Luzula_luzuloides,41.6,24.5833
 1936644687,Luzula_luzuloides,42.2669,23.6044
 1705326928,Luzula_luzuloides,57.783491,16.580138
 788456351,Luzula_luzuloides,45.883333,11.433333
@@ -158,7 +155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1135451109,Luzula_luzuloides,48.025,16.19167
 1935701556,Luzula_luzuloides,47.66944,14.55056
 1705353763,Luzula_luzuloides,57.761702,14.864413
-1095900703,Luzula_luzuloides,41,23
 1135449982,Luzula_luzuloides,46.825,14.95833
 1342662356,Luzula_luzuloides,55.887005,12.512576
 1135450013,Luzula_luzuloides,47.925,15.79167
@@ -170,9 +166,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702174062,Luzula_luzuloides,59.4487,10.6993
 1701432090,Luzula_luzuloides,59.288,11.1282
 1702185581,Luzula_luzuloides,59.4461,10.6939
-788470931,Luzula_luzuloides,40.883333,21.8
 1947287193,Luzula_luzuloides,50.28,9.68
-1947287307,Luzula_luzuloides,50.41,9.8
 1947287316,Luzula_luzuloides,50.19,10.03
 900313909,Luzula_luzuloides,59.9944,6.0327
 1947287308,Luzula_luzuloides,50.34,9.74
@@ -200,8 +194,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1288110377,Luzula_luzuloides,50.375918,9.981268
 1288110857,Luzula_luzuloides,50.5457,10.0681
 788798649,Luzula_luzuloides,55.93076,13.5356
-788471947,Luzula_luzuloides,40.9,21.8
-788536073,Luzula_luzuloides,40.9,21.816667
 1563902898,Luzula_luzuloides,58.7091,7.834
 788815466,Luzula_luzuloides,55.88974,12.83292
 788536055,Luzula_luzuloides,40.866667,21.733333
@@ -231,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702436526,Luzula_luzuloides,59.8316,10.4868
 1099895664,Luzula_luzuloides,56.23276,15.66585
 1054010211,Luzula_luzuloides,69.679642,18.900696
-1947286273,Luzula_luzuloides,50.01,10.8
 1702435677,Luzula_luzuloides,63.6523,9.3938
 1230931355,Luzula_luzuloides,48.67667,20.70556
 1050592712,Luzula_luzuloides,42.94,-0.65
@@ -260,7 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042847232,Luzula_luzuloides,57.15818,12.7203
 1099885656,Luzula_luzuloides,56.17845,15.45351
 1935701570,Luzula_luzuloides,47.09361,15.43139
-788472366,Luzula_luzuloides,41.516667,24.5
 788473630,Luzula_luzuloides,41.466667,24.316667
 774384892,Luzula_luzuloides,51.184444,10.080833
 788815172,Luzula_luzuloides,57.20013,12.80942
@@ -269,11 +259,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947286357,Luzula_luzuloides,50.08,10.24
 865421,Luzula_luzuloides,57.538154,14.141219
 1947286288,Luzula_luzuloides,49.93,10.63
-788529613,Luzula_luzuloides,41.25,23.6
 788525864,Luzula_luzuloides,41.266667,23.583333
 1323729182,Luzula_luzuloides,63.6341,16.765
 1600562213,Luzula_luzuloides,63.088769,21.582989
-788539314,Luzula_luzuloides,40.916667,24.1
 1323742819,Luzula_luzuloides,69.6773,18.8971
 296491750,Luzula_luzuloides,47.01,12.616
 1600562224,Luzula_luzuloides,60.88647,27.023483
@@ -291,7 +279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 865526,Luzula_luzuloides,57.009644,15.106962
 1600562200,Luzula_luzuloides,65.820968,24.464136
 1144184679,Luzula_luzuloides,60.3396,5.3552
-786185452,Luzula_luzuloides,48,20.5
 1144140313,Luzula_luzuloides,60.6357,6.509
 788818756,Luzula_luzuloides,64.616667,16.65
 1705316301,Luzula_luzuloides,57.698593,16.325088
@@ -321,13 +308,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187195482,Luzula_luzuloides,63.4215,10.4122
 1600562269,Luzula_luzuloides,61.476246,23.571398
 1563133622,Luzula_luzuloides,68.35856,18.78463
-788542454,Luzula_luzuloides,40.9,24.116667
 1701288104,Luzula_luzuloides,63.1327,7.8101
 57704886,Luzula_luzuloides,62.231602,25.756201
 1935701645,Luzula_luzuloides,47.01167,13.02417
 57704883,Luzula_luzuloides,62.2314,25.737
 1657187473,Luzula_luzuloides,47.075,15.375
-1988065540,Luzula_luzuloides,61.3,27.7
 788555939,Luzula_luzuloides,41.366667,24.816667
 1999554284,Luzula_luzuloides,60.427472,22.191802
 1657187917,Luzula_luzuloides,47.12806,15.48333
@@ -336,7 +321,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600562279,Luzula_luzuloides,61.070051,25.051918
 1144215499,Luzula_luzuloides,60.3293,5.3318
 1697434979,Luzula_luzuloides,57.782217,34.448255
-1230916334,Luzula_luzuloides,48.08333,15.9
 1600562282,Luzula_luzuloides,61.162379,28.761899
 1332785268,Luzula_luzuloides,50.624968,9.858097
 1702274880,Luzula_luzuloides,61.13415,10.39176
@@ -348,8 +332,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260855672,Luzula_luzuloides,49.61666,5.65
 899804808,Luzula_luzuloides,47.4167,13.25
 812027369,Luzula_luzuloides,50.519433,9.257667
-786185442,Luzula_luzuloides,47.3,13.2
-1230916288,Luzula_luzuloides,47.53333,15.9
 1803766346,Luzula_luzuloides,47.256944,11.530278
 788537977,Luzula_luzuloides,40.916667,24.166667
 788526041,Luzula_luzuloides,40.916667,24.116667
@@ -392,7 +374,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812027356,Luzula_luzuloides,50.4395,9.7341
 812027367,Luzula_luzuloides,50.5279,9.236533
 1622369919,Luzula_luzuloides,63.043208,21.55694
-1705472431,Luzula_luzuloides,48.3,14.29
 1935701720,Luzula_luzuloides,46.50988,14.39284
 1701870045,Luzula_luzuloides,63.68036,9.53916
 1701262411,Luzula_luzuloides,63.7157,9.6578
@@ -442,7 +423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187194983,Luzula_luzuloides,63.4404,10.4734
 1144140280,Luzula_luzuloides,59.92224,10.50728
 812027332,Luzula_luzuloides,50.648533,9.18165
-616356388,Luzula_luzuloides,50.48,6
 788625279,Luzula_luzuloides,56.243503,12.859815
 1935701721,Luzula_luzuloides,47.03921,15.37686
 1144140311,Luzula_luzuloides,60.3917,5.3521
@@ -452,7 +432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788821118,Luzula_luzuloides,58.111823,12.519952
 1702271118,Luzula_luzuloides,59.4356,10.637
 1893209155,Luzula_luzuloides,49.82,6.36
-1893209138,Luzula_luzuloides,49.8,6.43
 788798708,Luzula_luzuloides,55.645444,13.70142
 1893207694,Luzula_luzuloides,49.99,6.03
 1702273915,Luzula_luzuloides,59.97276,8.53529
