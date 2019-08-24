@@ -108,13 +108,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 685245139,Sutherlandia_frutescens,-32.125,21.625
 462311126,Sutherlandia_frutescens,-25.125,30.375
 1894677999,Sutherlandia_frutescens,17.7450178490285,-97.5013675298881
-1259474894,Sutherlandia_frutescens,17.7,-97.55
 1893657995,Sutherlandia_frutescens,17.723333,-97.535
 1896170875,Sutherlandia_frutescens,17.715,-97.541667
 1893437012,Sutherlandia_frutescens,17.775,-97.525
 462311127,Sutherlandia_frutescens,-31.875,23.125
 1259474239,Sutherlandia_frutescens,18.679167,-97.4025
-1895951190,Sutherlandia_frutescens,18.5,-97.426111
 685245217,Sutherlandia_frutescens,-32.125,20.625
 1893437082,Sutherlandia_frutescens,18.691667,-97.408333
 462311128,Sutherlandia_frutescens,-31.625,18.875
@@ -126,11 +124,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462311223,Sutherlandia_frutescens,-29.875,17.875
 462311215,Sutherlandia_frutescens,-34.125,19.875
 462311116,Sutherlandia_frutescens,-32.125,22.375
-1846511600,Sutherlandia_frutescens,-30,26
 462311132,Sutherlandia_frutescens,-33.625,19.875
 685245157,Sutherlandia_frutescens,-33.625,19.625
 462311123,Sutherlandia_frutescens,-28.875,22.375
-1261559979,Sutherlandia_frutescens,-17.5,-65.78333
 685245233,Sutherlandia_frutescens,-33.875,18.625
 462311231,Sutherlandia_frutescens,-33.125,26.375
 462311114,Sutherlandia_frutescens,-30.625,25.625
@@ -267,7 +263,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462311212,Sutherlandia_frutescens,-26.125,27.875
 685245125,Sutherlandia_frutescens,-33.125,22.125
 685245169,Sutherlandia_frutescens,-29.625,18.125
-2289887786,Sutherlandia_frutescens,-29.133333,26.2
 462311043,Sutherlandia_frutescens,-31.375,23.125
 462311049,Sutherlandia_frutescens,-33.875,20.125
 462311201,Sutherlandia_frutescens,-26.125,28.125
@@ -291,7 +286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 685245218,Sutherlandia_frutescens,-29.375,17.625
 462311089,Sutherlandia_frutescens,-34.125,19.625
 462311228,Sutherlandia_frutescens,-33.875,22.625
-2287157164,Sutherlandia_frutescens,-27.9,15.95
 685245269,Sutherlandia_frutescens,-29.875,17.375
 685245268,Sutherlandia_frutescens,-33.875,20.625
 685245140,Sutherlandia_frutescens,-33.875,22.375
