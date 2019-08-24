@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1675758719,Achillea_nobilis,52.833333,60.466667
 1935644869,Achillea_nobilis,47.0425,17.80278
 1913225240,Achillea_nobilis,47.96139,17.01306
-1697690670,Achillea_nobilis,51.233333,40.2
 1230503820,Achillea_nobilis,48.35778,21.7925
 1230503723,Achillea_nobilis,48.36417,21.78917
 1230504056,Achillea_nobilis,48.35722,21.79556
@@ -34,13 +33,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697748021,Achillea_nobilis,44.563889,33.666667
 1697690753,Achillea_nobilis,53.466667,38.966667
 1697844363,Achillea_nobilis,44.69864,37.48086
-1697866917,Achillea_nobilis,39.5,30.416667
 1697689751,Achillea_nobilis,52.57349,59.17031
 1697844370,Achillea_nobilis,43.86003,41.584969
 1697689742,Achillea_nobilis,52.20501,59.3422
 1697689773,Achillea_nobilis,52.21412,59.82484
 1697844391,Achillea_nobilis,43.605008,41.288681
-1697690703,Achillea_nobilis,51.166667,40.3
 1230508128,Achillea_nobilis,48.40111,20.38111
 1697690709,Achillea_nobilis,49.083333,44.15
 1697690606,Achillea_nobilis,54.233333,36.233333
@@ -48,7 +45,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895179657,Achillea_nobilis,41.95,24.9333
 1936645506,Achillea_nobilis,41.9608,24.9386
 1697690691,Achillea_nobilis,50.689697,37.819801
-1697690628,Achillea_nobilis,56.291667,41.3
 1838952290,Achillea_nobilis,40.75,44.966671
 1697663019,Achillea_nobilis,45.999623,44.599761
 1697690693,Achillea_nobilis,53.515068,36.176487
@@ -90,11 +86,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946703743,Achillea_nobilis,49.77,9.96
 1946703726,Achillea_nobilis,49.92,9.79
 1831515750,Achillea_nobilis,47.35667,16.50833
-1946703724,Achillea_nobilis,50.22,10.2
 1697690834,Achillea_nobilis,46.606437,41.744549
 1701926774,Achillea_nobilis,59.1821,9.6387
 1697690649,Achillea_nobilis,55.724664,37.7909
-1638535600,Achillea_nobilis,38.8,21.766667
 1638535182,Achillea_nobilis,40.666667,21.983333
 1697690776,Achillea_nobilis,54.040867,44.024722
 1697747993,Achillea_nobilis,44.972753,35.285425
@@ -105,7 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697690598,Achillea_nobilis,54.3764,40.7724
 1697690627,Achillea_nobilis,55.572487,39.303315
 1697844427,Achillea_nobilis,42.794645,44.007368
-1638535165,Achillea_nobilis,38.8,21.75
 1638535027,Achillea_nobilis,38.95,21.816667
 1638535168,Achillea_nobilis,38.783333,21.933333
 1697844418,Achillea_nobilis,45.140847,42.017263
@@ -116,18 +109,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638535525,Achillea_nobilis,39.483333,21.233333
 1638535065,Achillea_nobilis,39.716667,21.283333
 1697690697,Achillea_nobilis,55.311222,38.710478
-1638533722,Achillea_nobilis,39.5,21.383333
 1697844438,Achillea_nobilis,44.73137,37.822838
-1638534948,Achillea_nobilis,38.833333,21.7
-1638533991,Achillea_nobilis,38.7,22.15
 1697690692,Achillea_nobilis,55.292844,38.72715
 1697690680,Achillea_nobilis,55.233604,38.765548
 1697690781,Achillea_nobilis,49.389636,40.579376
 1697690666,Achillea_nobilis,54.3966,40.8921
 1697690607,Achillea_nobilis,46.610329,41.71762
-1638533741,Achillea_nobilis,39.566667,21.5
 1697690743,Achillea_nobilis,52.619155,45.811941
-1638535536,Achillea_nobilis,39.633333,21.4
 1697690705,Achillea_nobilis,51.602838,36.136721
 296386723,Achillea_nobilis,47.732,7.413
 1697690642,Achillea_nobilis,55.199648,38.776654
@@ -141,9 +129,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1668933960,Achillea_nobilis,54.785,37.61
 1668933936,Achillea_nobilis,54.913,37.568
 1697690752,Achillea_nobilis,49.302498,40.093932
-2291092057,Achillea_nobilis,44.316667,9.2
 1697690838,Achillea_nobilis,49.301069,39.849787
-833455302,Achillea_nobilis,50.033333,7.8
 1845007615,Achillea_nobilis,50.050833,7.795278
 1845008039,Achillea_nobilis,44.25,4.633333
 1697844419,Achillea_nobilis,46.018155,38.190085
@@ -183,7 +169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697844430,Achillea_nobilis,45.130701,39.409274
 1338946179,Achillea_nobilis,49.84,9.85
 1697690655,Achillea_nobilis,54.853996,37.549459
-876152851,Achillea_nobilis,41.6,2.46
 876152829,Achillea_nobilis,41.51,2.46
 1697690821,Achillea_nobilis,51.692888,54.313265
 1697690725,Achillea_nobilis,49.061788,43.50903
@@ -191,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1338946366,Achillea_nobilis,49.42,11.04
 1701291588,Achillea_nobilis,63.3085,10.1673
 1697690744,Achillea_nobilis,50.360754,44.118357
-1099910230,Achillea_nobilis,60.2,29.7
 1697690678,Achillea_nobilis,52.324451,40.230557
 1697844400,Achillea_nobilis,42.75477,47.20319
 1697844432,Achillea_nobilis,39.74257,46.755495
@@ -235,7 +219,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1338946408,Achillea_nobilis,49.79,9.89
 788732383,Achillea_nobilis,55.429296,13.818618
 788661290,Achillea_nobilis,55.92692,14.30819
-1638535518,Achillea_nobilis,40.6,23.1
 1338946310,Achillea_nobilis,49.02,11.62
 1697690654,Achillea_nobilis,54.883519,38.201405
 788665238,Achillea_nobilis,59.858145,17.634069
