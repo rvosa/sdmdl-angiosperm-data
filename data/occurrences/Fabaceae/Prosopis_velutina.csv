@@ -136,7 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894637024,Prosopis_velutina,27.290833,-112.943055
 1652182327,Prosopis_velutina,-26.45698,147.042599
 1895928115,Prosopis_velutina,30.687222,-109.505556
-1897608324,Prosopis_velutina,32.33,-110.7
 1846476172,Prosopis_velutina,34.22725,-112.0809
 2270512183,Prosopis_velutina,34.2272,-112.081
 1259158590,Prosopis_velutina,32.32888,-110.69944
@@ -156,7 +155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270635940,Prosopis_velutina,31.5187,-110.128
 2270646135,Prosopis_velutina,32.6098,-110.732
 1652305037,Prosopis_velutina,-28.223576,145.80923
-1228552527,Prosopis_velutina,34,-112
 2270481176,Prosopis_velutina,35.9604589100297,-111.39699127899
 1846488645,Prosopis_velutina,33.5859,-111.1418
 2270648481,Prosopis_velutina,32.6112,-110.721
@@ -167,7 +165,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270612562,Prosopis_velutina,32.8551,-110.154
 2270691298,Prosopis_velutina,33.9714,-111.866
 2270585502,Prosopis_velutina,32.8529,-110.15
-2270614826,Prosopis_velutina,34.25,-113.1
 1846511199,Prosopis_velutina,34.167556,-113.031833
 1846480629,Prosopis_velutina,32.821383,-113.466267
 1846480590,Prosopis_velutina,34.331617,-113.193017
@@ -190,14 +187,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893588963,Prosopis_velutina,30.702778,-110.805556
 2270614968,Prosopis_velutina,32.8611,-110.718
 995129306,Prosopis_velutina,-35.8333,146.2167
-1928471391,Prosopis_velutina,31.85,-110.7
-1897608341,Prosopis_velutina,31.9,-110.7
 1895818878,Prosopis_velutina,28.583333,-109.746667
 462188706,Prosopis_velutina,-30.875,21.375
 1652147623,Prosopis_velutina,-26.406907,146.259212
 462188707,Prosopis_velutina,-30.625,20.625
 2270688360,Prosopis_velutina,31.6103,-110.404
-2270616493,Prosopis_velutina,32.25,-111
 1846480650,Prosopis_velutina,31.8102,-110.394
 1269711615,Prosopis_velutina,33.171001,-111.445999
 811872943,Prosopis_velutina,33.169272,-111.443834
@@ -246,7 +240,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270615035,Prosopis_velutina,34.007,-112.745
 1652200560,Prosopis_velutina,-26.506917,144.392569
 1451573183,Prosopis_velutina,-32.398487,142.417942
-995923423,Prosopis_velutina,-32.4,142.42
 2270563483,Prosopis_velutina,33.59,-111.44
 462188693,Prosopis_velutina,-28.625,22.375
 462188692,Prosopis_velutina,-28.375,21.375
@@ -299,13 +292,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995611032,Prosopis_velutina,-33.62,146.92
 1652064766,Prosopis_velutina,-26.506917,144.325903
 1652064750,Prosopis_velutina,-26.415236,147.084201
-994928485,Prosopis_velutina,-26.5,144.3167
 462188668,Prosopis_velutina,-27.125,22.875
 2270615876,Prosopis_velutina,32.7614,-113.669
 2270614714,Prosopis_velutina,31.88,-111.22
 2270616772,Prosopis_velutina,33.4145,-112.017
 2270615777,Prosopis_velutina,34.1503,-112.646
-994822046,Prosopis_velutina,-35.3,143.55
 1846511322,Prosopis_velutina,33.567525,-112.073725
 2270614950,Prosopis_velutina,33.8833,-111.817
 1893588966,Prosopis_velutina,28.758889,-110.136667
@@ -317,7 +308,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652040037,Prosopis_velutina,-26.748584,144.250906
 992517517,Prosopis_velutina,-26.665329,144.167633
 2270613378,Prosopis_velutina,33.2252,-112.583
-996639193,Prosopis_velutina,-23.7,133.9
 994252917,Prosopis_velutina,-23.698572,133.884594
 462188679,Prosopis_velutina,-28.875,19.875
 462188674,Prosopis_velutina,-29.125,21.375
@@ -356,7 +346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270614421,Prosopis_velutina,32.8347,-109.639
 1651970392,Prosopis_velutina,-26.581916,144.417569
 1652039434,Prosopis_velutina,-26.506916,144.34257
-992431767,Prosopis_velutina,-26.5,144.3
 462188666,Prosopis_velutina,-26.875,24.125
 995610790,Prosopis_velutina,-35.33,146.27
 1451474914,Prosopis_velutina,-35.331798,146.267921
@@ -386,15 +375,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270616729,Prosopis_velutina,31.66465,-110.69511
 462188717,Prosopis_velutina,-32.125,19.375
 1451578920,Prosopis_velutina,-29.798422,151.251108
-995858596,Prosopis_velutina,-29.8,151.25
 995942423,Prosopis_velutina,-29.25,141.92
 1451614279,Prosopis_velutina,-29.248493,141.917913
 993588425,Prosopis_velutina,-29.25,141.9167
 2270639131,Prosopis_velutina,31.8837,-110.229
 2270614474,Prosopis_velutina,34.5636,-111.854
-995610921,Prosopis_velutina,-32.02,141.1
 1451474825,Prosopis_velutina,-32.015164,141.10129
-2270615832,Prosopis_velutina,33.4111,-111.4
 1846511258,Prosopis_velutina,34.83198,-111.76658
 995942392,Prosopis_velutina,-31.97,141.45
 1451614263,Prosopis_velutina,-31.965161,141.451284
@@ -417,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451474864,Prosopis_velutina,-30.915154,141.901263
 1451474728,Prosopis_velutina,-32.065165,141.051291
 993206008,Prosopis_velutina,-31.9667,141.45
-995610693,Prosopis_velutina,-30.92,141.9
 993205984,Prosopis_velutina,-32.1333,141.8167
 1936852156,Prosopis_velutina,-30.0333,142.0167
 1846503159,Prosopis_velutina,35.09815,-114.64238
@@ -444,7 +429,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270614975,Prosopis_velutina,33.4193,-112.073
 2270614319,Prosopis_velutina,33.5092,-111.898
 2270614964,Prosopis_velutina,33.5064,-111.989
-2270613933,Prosopis_velutina,33.1083,-114.7
 2270614578,Prosopis_velutina,33.5037,-112.076
 2270614592,Prosopis_velutina,33.0313,-111.266
 2270614166,Prosopis_velutina,32.7253,-114.624
