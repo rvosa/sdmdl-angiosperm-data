@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005453769,Pelargonium_alchemilloides,-29.912483,30.0675
 2308223843,Pelargonium_alchemilloides,0.481,36.874
 2307900511,Pelargonium_alchemilloides,0.48,36.87
-899793502,Pelargonium_alchemilloides,-28.5,28.6
 1212013825,Pelargonium_alchemilloides,-31.38192,19.0429
 1212015259,Pelargonium_alchemilloides,-33.23492,19.33451
 1212015370,Pelargonium_alchemilloides,-29.68053,17.67997
@@ -42,7 +41,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462142140,Pelargonium_alchemilloides,-34.125,21.625
 2005502986,Pelargonium_alchemilloides,-27.546389,30.485278
 462142141,Pelargonium_alchemilloides,-29.875,30.875
-2005500939,Pelargonium_alchemilloides,-29.783333,30.8
 462141950,Pelargonium_alchemilloides,-31.375,26.875
 462141954,Pelargonium_alchemilloides,-31.875,26.875
 2290376344,Pelargonium_alchemilloides,-31.5595,27.415983
@@ -52,9 +50,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 911794650,Pelargonium_alchemilloides,15.066667,43.75
 1848987368,Pelargonium_alchemilloides,15.06667,43.75
 2005474158,Pelargonium_alchemilloides,-28.375,30.625
-1258725928,Pelargonium_alchemilloides,-3.2,36.9
 616304036,Pelargonium_alchemilloides,-29.625,30.125
-1897764567,Pelargonium_alchemilloides,-37.783333,174.9
 1258776358,Pelargonium_alchemilloides,-29.33472,28.40944
 616304038,Pelargonium_alchemilloides,-29.125,29.625
 616304033,Pelargonium_alchemilloides,-29.625,29.375
@@ -76,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 616304001,Pelargonium_alchemilloides,-30.875,29.875
 462141932,Pelargonium_alchemilloides,-32.375,19.125
 462141935,Pelargonium_alchemilloides,-29.125,30.625
-996469100,Pelargonium_alchemilloides,-34.2,115.1
 462141914,Pelargonium_alchemilloides,-29.125,30.125
 2005510483,Pelargonium_alchemilloides,-30.875,30.125
 462141939,Pelargonium_alchemilloides,-24.875,30.875
