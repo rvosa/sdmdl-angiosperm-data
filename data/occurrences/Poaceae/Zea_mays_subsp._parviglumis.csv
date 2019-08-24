@@ -249,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1418517617,Zea_mays_subsp._parviglumis,18.383333,-100.016667
 1259290205,Zea_mays_subsp._parviglumis,20.379167,-102.191389
 1896112470,Zea_mays_subsp._parviglumis,20.375,-102.191667
-2289096596,Zea_mays_subsp._parviglumis,10.379167,-102.191389
 1893697647,Zea_mays_subsp._parviglumis,19.558333,-104.375
 1318929685,Zea_mays_subsp._parviglumis,19.5583,-104.375
 1259292439,Zea_mays_subsp._parviglumis,19.55833,-104.375
@@ -268,7 +267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259291916,Zea_mays_subsp._parviglumis,19.579445,-100.922778
 1999166357,Zea_mays_subsp._parviglumis,18.333333,-100.08333
 1318876396,Zea_mays_subsp._parviglumis,18.3333,-99.8167
-1228350474,Zea_mays_subsp._parviglumis,23,-102
 1896112450,Zea_mays_subsp._parviglumis,19.575,-100.925
 912501260,Zea_mays_subsp._parviglumis,18.33,-100
 1890932338,Zea_mays_subsp._parviglumis,18.333334,-100.083336
@@ -285,7 +283,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259290595,Zea_mays_subsp._parviglumis,18.4,-99.93333
 1259829998,Zea_mays_subsp._parviglumis,18.33,-100.08
 1259292771,Zea_mays_subsp._parviglumis,19.578333,-100.923611
-1417783079,Zea_mays_subsp._parviglumis,15.675,-91.758333
 1893697659,Zea_mays_subsp._parviglumis,18.425,-99.925
 1259289572,Zea_mays_subsp._parviglumis,18.41666,-99.91666
 2268855790,Zea_mays_subsp._parviglumis,17.567778,-99.519167
