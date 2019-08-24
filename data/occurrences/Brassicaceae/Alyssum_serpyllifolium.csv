@@ -70,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 59971935,Alyssum_serpyllifolium,42.85708,-8.014701
 895181872,Alyssum_serpyllifolium,40.202,-2.16
 1851358148,Alyssum_serpyllifolium,42.858,-8.015
-198469198,Alyssum_serpyllifolium,42.860001,-9.24
 1936667658,Alyssum_serpyllifolium,42.9676,-7.9224
 237337524,Alyssum_serpyllifolium,42.54,1.07
 317817228,Alyssum_serpyllifolium,42.54037,1.06729
@@ -341,7 +340,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85496739,Alyssum_serpyllifolium,42.4,1.97
 85495834,Alyssum_serpyllifolium,37.72,-3.51
 85495960,Alyssum_serpyllifolium,42.6395,-2.9072
-85495831,Alyssum_serpyllifolium,40.38,-3.6702
 85499230,Alyssum_serpyllifolium,40.0053,-3.5918
 30844604,Alyssum_serpyllifolium,40.02,-3.7
 85496617,Alyssum_serpyllifolium,40,-3.57
