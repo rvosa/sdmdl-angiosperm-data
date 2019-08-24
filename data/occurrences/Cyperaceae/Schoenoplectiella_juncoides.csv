@@ -100,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828481052,Schoenoplectiella_juncoides,43.149,140.961
 1830200633,Schoenoplectiella_juncoides,36.75,137.216667
 1830669822,Schoenoplectiella_juncoides,33.766667,133.783333
-1830669847,Schoenoplectiella_juncoides,33.4,134.033333
 1830679356,Schoenoplectiella_juncoides,33.166667,133.216667
 1830679364,Schoenoplectiella_juncoides,33.65,133.783333
 1829851768,Schoenoplectiella_juncoides,39.767462,140.690387
@@ -137,7 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395801673,Schoenoplectiella_juncoides,34.995556,134.184167
 381841314,Schoenoplectiella_juncoides,36.77835,140.36012
 1829861623,Schoenoplectiella_juncoides,36.223916,136.201424
-1830201022,Schoenoplectiella_juncoides,36.65,137.1
 1830687835,Schoenoplectiella_juncoides,33.516667,133.216667
 1829853315,Schoenoplectiella_juncoides,36.00186,136.032259
 1829696170,Schoenoplectiella_juncoides,35.9781,139.10017
@@ -147,7 +145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1835652570,Schoenoplectiella_juncoides,38.0465,140.0066
 381841322,Schoenoplectiella_juncoides,36.3973,140.57394
 1830687072,Schoenoplectiella_juncoides,32.816667,132.883333
-1830687067,Schoenoplectiella_juncoides,33.533333,133.9
 1829861643,Schoenoplectiella_juncoides,35.920842,136.074646
 381841316,Schoenoplectiella_juncoides,36.77136,140.35258
 1830625124,Schoenoplectiella_juncoides,34.085671,134.600342
@@ -157,7 +154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830687049,Schoenoplectiella_juncoides,32.883333,132.933333
 1830195880,Schoenoplectiella_juncoides,36.65,137.25
 395801675,Schoenoplectiella_juncoides,35.241667,133.686111
-1830687026,Schoenoplectiella_juncoides,33.433333,134
 1830687834,Schoenoplectiella_juncoides,33.733333,133.733333
 1835652598,Schoenoplectiella_juncoides,38.1247,140.2329
 1829861437,Schoenoplectiella_juncoides,35.885576,136.077228
@@ -175,32 +171,23 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830536972,Schoenoplectiella_juncoides,34.8625,134.86875
 1830536682,Schoenoplectiella_juncoides,34.8875,134.83125
 1830536657,Schoenoplectiella_juncoides,34.8375,134.88125
-1830689528,Schoenoplectiella_juncoides,33.616667,133.2
 1830690023,Schoenoplectiella_juncoides,32.866667,132.716667
-1830689781,Schoenoplectiella_juncoides,33.533333,133.6
 2244521581,Schoenoplectiella_juncoides,33.566667,133.733333
 2244522949,Schoenoplectiella_juncoides,33.533333,133.483333
-2244522127,Schoenoplectiella_juncoides,33.2,133.133333
 2244523317,Schoenoplectiella_juncoides,33.583333,133.75
 2244522335,Schoenoplectiella_juncoides,33.25,133.133333
-2244522674,Schoenoplectiella_juncoides,33.533333,133.5
 2244523339,Schoenoplectiella_juncoides,33.583333,133.516667
 2244522836,Schoenoplectiella_juncoides,32.966667,132.933333
 1829625012,Schoenoplectiella_juncoides,36.309722,138.594444
 2244522829,Schoenoplectiella_juncoides,33.533333,133.766667
 381841244,Schoenoplectiella_juncoides,36.52562,140.54092
-2244523137,Schoenoplectiella_juncoides,33.65,133.8
 2244523488,Schoenoplectiella_juncoides,33.133333,133.083333
 1933839182,Schoenoplectiella_juncoides,35.3907,134.9417
-2244522915,Schoenoplectiella_juncoides,33.6,133.75
 2244522091,Schoenoplectiella_juncoides,33.216667,133.133333
-1830200079,Schoenoplectiella_juncoides,35.433333,137.5
 1829469772,Schoenoplectiella_juncoides,39.648372,140.344
 381841254,Schoenoplectiella_juncoides,36.85362,140.77678
-1829603732,Schoenoplectiella_juncoides,36.3,138.8
 1829621057,Schoenoplectiella_juncoides,36.479722,138.782778
 395801609,Schoenoplectiella_juncoides,34.922778,134.1525
-1829603243,Schoenoplectiella_juncoides,36.3,138.9
 395801604,Schoenoplectiella_juncoides,34.922778,134.195833
 395801639,Schoenoplectiella_juncoides,35.115833,134.143333
 1828735265,Schoenoplectiella_juncoides,39.4533,140.47559
@@ -211,7 +198,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830664449,Schoenoplectiella_juncoides,33.379167,133.30625
 1830663174,Schoenoplectiella_juncoides,33.379167,133.31875
 395801575,Schoenoplectiella_juncoides,35.178056,134.011944
-1830191352,Schoenoplectiella_juncoides,36.8,136.966667
 381841143,Schoenoplectiella_juncoides,36.01066,139.95856
 1830191324,Schoenoplectiella_juncoides,36.416667,137.033333
 381841138,Schoenoplectiella_juncoides,36.27732,140.09322
@@ -224,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395801555,Schoenoplectiella_juncoides,35.183333,133.579444
 395801553,Schoenoplectiella_juncoides,35.089361,134.101306
 395801535,Schoenoplectiella_juncoides,35.183889,133.585
-1830189222,Schoenoplectiella_juncoides,36.566667,137.2
 729314553,Schoenoplectiella_juncoides,35.599998,134.467
 1830230487,Schoenoplectiella_juncoides,36.866667,137.533333
 388865682,Schoenoplectiella_juncoides,35.332443,139.403054
@@ -245,7 +230,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830649632,Schoenoplectiella_juncoides,33.445833,133.46875
 1829937935,Schoenoplectiella_juncoides,35.707417,140.465449
 381841165,Schoenoplectiella_juncoides,36.31751,140.11288
-1258015486,Schoenoplectiella_juncoides,38.7,141.1
 395801559,Schoenoplectiella_juncoides,34.941722,134.012639
 395801484,Schoenoplectiella_juncoides,35.114167,134.352222
 729281382,Schoenoplectiella_juncoides,35.016701,135.25
@@ -261,7 +245,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395801425,Schoenoplectiella_juncoides,35.333056,133.728889
 1829937344,Schoenoplectiella_juncoides,35.674089,140.527945
 1829470126,Schoenoplectiella_juncoides,40.1727,140.3088
-1830185923,Schoenoplectiella_juncoides,36.8,137
 1830206479,Schoenoplectiella_juncoides,36.683333,137.083333
 729288797,Schoenoplectiella_juncoides,35.483299,135.017
 2244508565,Schoenoplectiella_juncoides,34.820556,134.389722
@@ -295,10 +278,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295940850,Schoenoplectiella_juncoides,35.507421,139.365557
 1829694054,Schoenoplectiella_juncoides,35.84174,139.88594
 1829694060,Schoenoplectiella_juncoides,36.0603,139.08736
-1830190364,Schoenoplectiella_juncoides,36.7,136.983333
 1829693355,Schoenoplectiella_juncoides,36.04427,139.60222
 736070018,Schoenoplectiella_juncoides,36.02198,139.33031
-729288939,Schoenoplectiella_juncoides,34.883301,135
 736070395,Schoenoplectiella_juncoides,36.24943,139.35352
 1829693364,Schoenoplectiella_juncoides,36.03949,139.17435
 1830190611,Schoenoplectiella_juncoides,36.766667,137.45
@@ -316,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729282298,Schoenoplectiella_juncoides,34.9333,135.233
 1829693340,Schoenoplectiella_juncoides,36.10308,139.49794
 736070022,Schoenoplectiella_juncoides,36.14801,139.38013
-729281516,Schoenoplectiella_juncoides,34.950001,135.2
 1829693323,Schoenoplectiella_juncoides,36.10554,139.53067
 736070010,Schoenoplectiella_juncoides,36.02502,139.75052
 1829694337,Schoenoplectiella_juncoides,36.12851,139.30469
@@ -343,7 +323,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829908058,Schoenoplectiella_juncoides,35.15,134.684722
 1830525216,Schoenoplectiella_juncoides,34.455556,136.4875
 1829849333,Schoenoplectiella_juncoides,35.882277,136.595649
-729284297,Schoenoplectiella_juncoides,35,135.2
 1829694079,Schoenoplectiella_juncoides,35.95455,139.0381
 1829693374,Schoenoplectiella_juncoides,36.10571,139.1021
 736070013,Schoenoplectiella_juncoides,35.9927,139.73961
@@ -444,7 +423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830661012,Schoenoplectiella_juncoides,33.570833,133.75625
 1830658227,Schoenoplectiella_juncoides,33.5125,133.36875
 624042622,Schoenoplectiella_juncoides,35.528261,140.134239
-729310452,Schoenoplectiella_juncoides,34.883301,135.3
 624042318,Schoenoplectiella_juncoides,35.353286,140.159242
 624042621,Schoenoplectiella_juncoides,35.528261,140.121742
 381841045,Schoenoplectiella_juncoides,36.03609,139.89902
@@ -470,7 +448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729311196,Schoenoplectiella_juncoides,34.700001,134.95
 624042315,Schoenoplectiella_juncoides,35.319956,140.146744
 729316264,Schoenoplectiella_juncoides,34.866699,135.317
-1830162903,Schoenoplectiella_juncoides,36.7,136.916667
 624042540,Schoenoplectiella_juncoides,35.453269,140.03425
 624042617,Schoenoplectiella_juncoides,35.453269,140.04675
 1829694048,Schoenoplectiella_juncoides,36.03683,139.02785
@@ -496,7 +473,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395801397,Schoenoplectiella_juncoides,35.091778,133.965417
 395801399,Schoenoplectiella_juncoides,35.051111,133.923333
 1829693900,Schoenoplectiella_juncoides,35.89143,139.3606
-729315966,Schoenoplectiella_juncoides,34.9333,134.5
 295940715,Schoenoplectiella_juncoides,35.440763,139.378057
 1829693407,Schoenoplectiella_juncoides,35.9159,139.38144
 1829648043,Schoenoplectiella_juncoides,36.218611,139.652222
@@ -508,11 +484,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828726537,Schoenoplectiella_juncoides,39.71988,140.10292
 1933828588,Schoenoplectiella_juncoides,36.39536,139.6638
 1828726531,Schoenoplectiella_juncoides,40.22612,140.37067
-1830186104,Schoenoplectiella_juncoides,36.5,137.15
 1830188521,Schoenoplectiella_juncoides,36.616667,137.116667
 1829648498,Schoenoplectiella_juncoides,36.320833,139.516389
 1934097845,Schoenoplectiella_juncoides,36.6456,139.9056
-1830177799,Schoenoplectiella_juncoides,36.683333,137.1
 1828725471,Schoenoplectiella_juncoides,39.31153,140.55292
 1934155569,Schoenoplectiella_juncoides,36.7337,140.5203
 295940197,Schoenoplectiella_juncoides,35.499089,139.365557
@@ -533,7 +507,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 736070359,Schoenoplectiella_juncoides,36.08655,139.32277
 736070362,Schoenoplectiella_juncoides,36.08553,139.31248
 295940275,Schoenoplectiella_juncoides,35.490756,139.328061
-1830167716,Schoenoplectiella_juncoides,36.733333,137.3
 393110671,Schoenoplectiella_juncoides,36.02926,138.98224
 736070367,Schoenoplectiella_juncoides,36.10034,139.30257
 388865859,Schoenoplectiella_juncoides,36.392591,139.682025
@@ -550,7 +523,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830159246,Schoenoplectiella_juncoides,36.716667,137.233333
 295940205,Schoenoplectiella_juncoides,35.482423,139.328061
 295940264,Schoenoplectiella_juncoides,35.607403,139.278062
-1830165740,Schoenoplectiella_juncoides,36.916667,136.9
 295940222,Schoenoplectiella_juncoides,35.357443,139.515548
 295940212,Schoenoplectiella_juncoides,35.474094,139.490549
 295940279,Schoenoplectiella_juncoides,35.465759,139.34056
@@ -658,7 +630,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830610967,Schoenoplectiella_juncoides,34.107497,134.094113
 729318147,Schoenoplectiella_juncoides,35.383301,134.533
 381841451,Schoenoplectiella_juncoides,35.88616,140.65295
-1830207692,Schoenoplectiella_juncoides,36.6,137.366667
 891636055,Schoenoplectiella_juncoides,24.993333,121.666389
 729318737,Schoenoplectiella_juncoides,35.400002,134.75
 891637022,Schoenoplectiella_juncoides,23.844722,120.897778
@@ -733,7 +704,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303803271,Schoenoplectiella_juncoides,31.420469,119.380789
 1303803256,Schoenoplectiella_juncoides,26.397146,117.792739
 1303803277,Schoenoplectiella_juncoides,36.192287,120.563074
-1830198661,Schoenoplectiella_juncoides,36.516667,136.9
 1303975216,Schoenoplectiella_juncoides,29.291218,120.048423
 1830198303,Schoenoplectiella_juncoides,36.566667,136.983333
 1835648556,Schoenoplectiella_juncoides,38.48478,140.39718
