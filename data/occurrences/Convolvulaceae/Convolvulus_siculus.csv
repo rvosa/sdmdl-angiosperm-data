@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1676001043,Convolvulus_siculus,38.03625,14.025417
 1838999122,Convolvulus_siculus,35.291672,25.73
-1501780500,Convolvulus_siculus,38.13,-0.9
 1851017100,Convolvulus_siculus,36.75361,-5.23806
 2235670564,Convolvulus_siculus,37.956,-4.804
 1265270684,Convolvulus_siculus,36.839,-4.811
@@ -16,11 +15,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 781075398,Convolvulus_siculus,36.69928,-4.58214
 781075413,Convolvulus_siculus,36.934,-5.027
 781075380,Convolvulus_siculus,36.746,-4.361
-1144635933,Convolvulus_siculus,42.7,9.33333
 232589483,Convolvulus_siculus,37.867,-1.982
 415617116,Convolvulus_siculus,36.688,-4.629
 1701513436,Convolvulus_siculus,36.88492,-2.96
-211645381,Convolvulus_siculus,37.6,-1.454
 415617124,Convolvulus_siculus,36.909,-4.936
 1936698544,Convolvulus_siculus,34.1477,-4.0356
 1936699057,Convolvulus_siculus,35.3688,-5.3736
@@ -31,10 +28,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317818856,Convolvulus_siculus,36.846,-4.228
 1936655168,Convolvulus_siculus,38.1203,-0.8839
 895199147,Convolvulus_siculus,39.802,-0.202
-30663680,Convolvulus_siculus,37.200001,-1.9
-30859570,Convolvulus_siculus,37.060001,-1.9
 199471259,Convolvulus_siculus,36.525,-5.262
-211644878,Convolvulus_siculus,38.25,-1
 211644880,Convolvulus_siculus,37.9767,-1.86105
 199471239,Convolvulus_siculus,36.719,-4.316
 199471269,Convolvulus_siculus,36.805,-3.768
@@ -50,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204401645,Convolvulus_siculus,36.851,-2.467
 318108230,Convolvulus_siculus,38.36,-0.59
 318108254,Convolvulus_siculus,38.83,-0.18
-1050648309,Convolvulus_siculus,36.75,-2.1
 204401839,Convolvulus_siculus,36.979,-2.916
 1936537753,Convolvulus_siculus,37.5439,-1.1675
 211644883,Convolvulus_siculus,37.602,-1.035
@@ -64,14 +57,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851336804,Convolvulus_siculus,36.72622,-2.16741
 1936516413,Convolvulus_siculus,38.7755,-0.1235
 1851340486,Convolvulus_siculus,36.723,-2.166
-144905899,Convolvulus_siculus,37.924,-6.4
 144905898,Convolvulus_siculus,37.877,-6.322
 318107921,Convolvulus_siculus,38.09,-0.94
 318107920,Convolvulus_siculus,38.08,-0.97
 204401838,Convolvulus_siculus,36.807,-2.882
 204401836,Convolvulus_siculus,36.807,-2.849
 204401835,Convolvulus_siculus,36.825,-2.602
-318108129,Convolvulus_siculus,38.1,-0.96
 1851572328,Convolvulus_siculus,38.68,0.005
 1842857474,Convolvulus_siculus,34.076053,-5.446444
 1842857511,Convolvulus_siculus,29.69,-9.57
@@ -81,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144635940,Convolvulus_siculus,42.25,8.65
 144905873,Convolvulus_siculus,37.98,-4.76
 199470960,Convolvulus_siculus,36.954,-4.264
-318107914,Convolvulus_siculus,37.7,-0.79
 30859757,Convolvulus_siculus,36.68,-2.22
 1838989652,Convolvulus_siculus,38.533329,21.02306
 318107874,Convolvulus_siculus,38.56,-0.18
@@ -95,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144635948,Convolvulus_siculus,42.55,8.76667
 1936436810,Convolvulus_siculus,38.7186,0.0084
 318108464,Convolvulus_siculus,38.55,-0.18
-318107880,Convolvulus_siculus,38.5,-0.62
 318108432,Convolvulus_siculus,36.73,-2.16
 1144635943,Convolvulus_siculus,42.46667,8.81667
 895221388,Convolvulus_siculus,37.53,-1.13
@@ -105,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199470368,Convolvulus_siculus,37.08,-4.63
 318108072,Convolvulus_siculus,39.62,-0.37
 1230537385,Convolvulus_siculus,32.73333,-5.58333
-895258364,Convolvulus_siculus,39.05,-0.4
 1936143641,Convolvulus_siculus,38.9995,-0.4608
 1936162858,Convolvulus_siculus,37.0569,-1.854
 217683909,Convolvulus_siculus,38.69,-5.13
@@ -130,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936131199,Convolvulus_siculus,37.4145,-1.5887
 199470547,Convolvulus_siculus,36.728,-4.293
 1936163007,Convolvulus_siculus,38.8143,-0.2371
-241458347,Convolvulus_siculus,38.61,-4.9
 788719465,Convolvulus_siculus,37.503056,27.524722
 199471006,Convolvulus_siculus,36.90291,-4.0725
 199470589,Convolvulus_siculus,36.620768,-4.62922
@@ -146,7 +133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318108087,Convolvulus_siculus,41.21,-6.67
 788663041,Convolvulus_siculus,35.35,24.35
 788663098,Convolvulus_siculus,38.483333,22.483333
-1851348272,Convolvulus_siculus,36.82,-2.5
 788729577,Convolvulus_siculus,36.728333,27.686944
 788719405,Convolvulus_siculus,36.300833,30.144444
 199471137,Convolvulus_siculus,36.54072,-5.00706
@@ -165,7 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935952616,Convolvulus_siculus,36.7167,-4.4167
 1842861361,Convolvulus_siculus,29.15,-10.08
 1935952567,Convolvulus_siculus,36.8449,-2.4629
-1842860881,Convolvulus_siculus,35.2,-2.95
 1842865074,Convolvulus_siculus,35.19,-4.15
 1842843629,Convolvulus_siculus,30.42,-9.57
 1842912225,Convolvulus_siculus,35.18,-5.25
