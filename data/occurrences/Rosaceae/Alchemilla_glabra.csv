@@ -7,7 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1977818525,Alchemilla_glabra,59.9612,10.9379
 1946750535,Alchemilla_glabra,47.61,10.35
 1946750529,Alchemilla_glabra,47.69,10.71
-1946750539,Alchemilla_glabra,47.85,13
 2251611299,Alchemilla_glabra,59.7204,10.6188
 1948518379,Alchemilla_glabra,62.797004,24.111648
 1809436003,Alchemilla_glabra,59.0446,7.887
@@ -50,7 +49,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600086247,Alchemilla_glabra,62.825026,23.952427
 1702175721,Alchemilla_glabra,60.8487,9.73
 1805100176,Alchemilla_glabra,61.2039,8.2361
-1059620414,Alchemilla_glabra,51.2,9.9
 1702379252,Alchemilla_glabra,62.653,11.2587
 2290791948,Alchemilla_glabra,52.971033,6.540867
 1095062076,Alchemilla_glabra,59.325,7.6495
@@ -58,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313275891,Alchemilla_glabra,47.57,12.96
 1095062234,Alchemilla_glabra,59.3184,7.6048
 1701963421,Alchemilla_glabra,63.0841,11.333
-1095920583,Alchemilla_glabra,63,12
 1702208001,Alchemilla_glabra,59.3637,10.6827
 1342412291,Alchemilla_glabra,55.337593,11.939401
 1702208463,Alchemilla_glabra,59.7166,11.2505
@@ -81,7 +78,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701901563,Alchemilla_glabra,59.0945,10.8511
 1702230138,Alchemilla_glabra,60.8859,9.628
 2325955120,Alchemilla_glabra,60.898332,9.591124
-1019565153,Alchemilla_glabra,45.70583,6.9
 2320797796,Alchemilla_glabra,60.885869,9.628018
 900313453,Alchemilla_glabra,59.366,7.2092
 900312101,Alchemilla_glabra,58.3462,7.9618
@@ -161,7 +157,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323767519,Alchemilla_glabra,67.3307,15.7707
 1342408888,Alchemilla_glabra,54.939721,9.67775
 1323864490,Alchemilla_glabra,67.5555,15.4604
-1323767306,Alchemilla_glabra,67.7,15.7959
 900315543,Alchemilla_glabra,59.2873,6.9308
 1342408273,Alchemilla_glabra,55.426035,9.449042
 1342410612,Alchemilla_glabra,57.478467,10.207692
@@ -726,7 +721,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144207056,Alchemilla_glabra,61.35276,5.91639
 1065680813,Alchemilla_glabra,65.507706,15.102615
 1323824825,Alchemilla_glabra,61.0744,11.3446
-296403836,Alchemilla_glabra,47.4,11.683
 1042871422,Alchemilla_glabra,55.67108,13.34321
 1705316966,Alchemilla_glabra,57.714462,16.392427
 1701921105,Alchemilla_glabra,59.8785,10.5496
@@ -811,7 +805,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600082683,Alchemilla_glabra,61.034683,28.165291
 1600082673,Alchemilla_glabra,61.049544,28.210266
 318217580,Alchemilla_glabra,59.1206,5.7199
-1657166497,Alchemilla_glabra,47.4,16.1
 1705324119,Alchemilla_glabra,57.59704,15.08609
 2313365081,Alchemilla_glabra,48.02,11.54
 1323764110,Alchemilla_glabra,69.6415,18.9007
@@ -827,7 +820,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701303201,Alchemilla_glabra,62.6865,11.8494
 1323787223,Alchemilla_glabra,68.6926,17.5898
 186788901,Alchemilla_glabra,58.9594,6.7058
-1935648380,Alchemilla_glabra,47.2,16.08333
 1144165923,Alchemilla_glabra,60.3076,5.6604
 2313366500,Alchemilla_glabra,48.07,11.54
 1144165929,Alchemilla_glabra,60.32605,6.17715
@@ -927,7 +919,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845007598,Alchemilla_glabra,49.233333,7.911111
 1845007985,Alchemilla_glabra,49.105,7.701389
 1845007579,Alchemilla_glabra,49.209444,7.878611
-833455309,Alchemilla_glabra,49.2,7.866666
 833455322,Alchemilla_glabra,49.216666,7.916666
 2313282685,Alchemilla_glabra,48.17,11.51
 2313366075,Alchemilla_glabra,48.17,11.54
@@ -1073,7 +1064,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600086387,Alchemilla_glabra,61.483556,23.335881
 1701226461,Alchemilla_glabra,62.8118,11.6192
 1702290872,Alchemilla_glabra,61.1312,8.508
-187082899,Alchemilla_glabra,62.8166,11.6
 1702290914,Alchemilla_glabra,61.1207,8.4896
 1701331539,Alchemilla_glabra,62.8454,11.74
 1702290871,Alchemilla_glabra,61.05606,8.90577
@@ -1288,7 +1278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891596331,Alchemilla_glabra,49.85,5.86
 1891591188,Alchemilla_glabra,49.68,6.23
 1893206876,Alchemilla_glabra,49.62,5.91
-1893206974,Alchemilla_glabra,49.7,6.05
 1891603769,Alchemilla_glabra,49.81,6.04
 1600086316,Alchemilla_glabra,63.132517,21.540172
 1705463612,Alchemilla_glabra,57.345847,16.467929
@@ -1305,7 +1294,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701262072,Alchemilla_glabra,62.6516,11.8492
 1701282063,Alchemilla_glabra,62.6679,11.9289
 1701343837,Alchemilla_glabra,62.7046,11.8934
-1891594064,Alchemilla_glabra,49.6,5.96
 1702167298,Alchemilla_glabra,61.8179,5.6301
 900317687,Alchemilla_glabra,60.384,7.1443
 1701618068,Alchemilla_glabra,61.8462,5.6841
@@ -2087,7 +2075,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701876644,Alchemilla_glabra,61.0821,6.5807
 1702279539,Alchemilla_glabra,60.7202,6.661
 1702296738,Alchemilla_glabra,59.8357,10.4451
-1657166362,Alchemilla_glabra,47.4,15.53333
 1702279449,Alchemilla_glabra,61.2923,10.4024
 1828865145,Alchemilla_glabra,58.65221,14.49554
 1600082649,Alchemilla_glabra,61.383449,22.97301
@@ -2102,7 +2089,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701871873,Alchemilla_glabra,62.1722,10.6802
 1702290804,Alchemilla_glabra,60.2965,9.407
 1144165689,Alchemilla_glabra,60.1098,6.7642
-1638369405,Alchemilla_glabra,47.5,14.93333
 1701871888,Alchemilla_glabra,61.8313,8.4684
 1702311978,Alchemilla_glabra,62.0706,9.1158
 1144165810,Alchemilla_glabra,60.1341,6.6156
@@ -2147,7 +2133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702291490,Alchemilla_glabra,61.1036,5.5117
 1828858980,Alchemilla_glabra,58.38504,14.73134
 1828863188,Alchemilla_glabra,61.466944,23.641667
-1144165753,Alchemilla_glabra,60.8,5.3011
 1702220684,Alchemilla_glabra,59.26671,9.48765
 1701876388,Alchemilla_glabra,60.43395,10.53107
 1042983741,Alchemilla_glabra,56.9071,14.7404
