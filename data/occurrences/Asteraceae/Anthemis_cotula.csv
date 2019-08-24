@@ -93,7 +93,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936204567,Anthemis_cotula,41.6464,2.4214
 1936204524,Anthemis_cotula,42.2442,2.8324
 1342708017,Anthemis_cotula,54.903319,9.755117
-1988080718,Anthemis_cotula,47.8,-117.26
 1342708554,Anthemis_cotula,55.522563,11.715495
 1828481003,Anthemis_cotula,43.168,140.993
 1828479749,Anthemis_cotula,43.167,141.048
@@ -152,10 +151,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342709048,Anthemis_cotula,54.835391,12.110464
 1697747796,Anthemis_cotula,45.043085,35.04055
 1697747846,Anthemis_cotula,44.447222,33.747222
-56514007,Anthemis_cotula,31.30528,-86.5
 1500202977,Anthemis_cotula,33.089722,-116.9025
 318102112,Anthemis_cotula,39.81,-1.24
-1830196526,Anthemis_cotula,36.683333,137.2
 176876896,Anthemis_cotula,39.498611,-96.168056
 1851392405,Anthemis_cotula,42.4431,-5.2257
 2270173814,Anthemis_cotula,35.3055144674297,-120.696509150858
@@ -174,8 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212027166,Anthemis_cotula,38.421389,22.522222
 441689616,Anthemis_cotula,46.986233,-120.47125
 1936652946,Anthemis_cotula,40.8635,-4.5675
-198468292,Anthemis_cotula,43.16,-4.7
-198468290,Anthemis_cotula,43.220001,-4.9
 1269682078,Anthemis_cotula,30.289,-91.155
 895233038,Anthemis_cotula,39.85,-0.773
 1261007412,Anthemis_cotula,36.70944,-91.99722
@@ -201,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269671654,Anthemis_cotula,30.285717,-91.14755
 1024482403,Anthemis_cotula,38.3775,-121.304444
 1849096241,Anthemis_cotula,37.465319,-76.448158
-317817274,Anthemis_cotula,39.93,44.7
 176877010,Anthemis_cotula,41.5446,-81.4729
 199458965,Anthemis_cotula,37.48867,-4.68364
 893416279,Anthemis_cotula,40.283329,44.183331
@@ -227,7 +221,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 45433770,Anthemis_cotula,38.495,-121.691667
 211642736,Anthemis_cotula,38.187,-0.973
 1426186286,Anthemis_cotula,39.116667,-122.866667
-788458535,Anthemis_cotula,41.7,26.083333
 1697689302,Anthemis_cotula,53.316667,35.333333
 1697689327,Anthemis_cotula,53.266667,35.266667
 1929294855,Anthemis_cotula,40.8798,-110.6666
@@ -238,7 +231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270252626,Anthemis_cotula,34.40485,-119.107367
 176877247,Anthemis_cotula,33.899702,-94.353544
 1936643425,Anthemis_cotula,42.8774,-4.1033
-1988123619,Anthemis_cotula,49.19,-122.9
 1936647452,Anthemis_cotula,38.7432,-3.9379
 1342708922,Anthemis_cotula,54.869413,12.030085
 415920307,Anthemis_cotula,41.81111,-72.31194
@@ -296,8 +288,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600668724,Anthemis_cotula,62.619523,29.45175
 1600668702,Anthemis_cotula,62.479621,29.954428
 1258325881,Anthemis_cotula,-33.13333,-66.15
-1024482242,Anthemis_cotula,38.5,-121.833333
-1050654147,Anthemis_cotula,43.28,-3
 1260980953,Anthemis_cotula,36.125,-89.6725
 388790680,Anthemis_cotula,35.507425,139.740526
 1851337421,Anthemis_cotula,42.56,-5.62
@@ -312,7 +302,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050654229,Anthemis_cotula,42.58,-2.84
 204419990,Anthemis_cotula,43.271999,-2.02
 1050654161,Anthemis_cotula,43.34,-3.04
-895173283,Anthemis_cotula,39.7,-2.01
 1050654227,Anthemis_cotula,42.67,-2.08
 1050654197,Anthemis_cotula,43.31,-3.04
 1697689305,Anthemis_cotula,50.427815,37.08005
@@ -326,14 +315,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702317687,Anthemis_cotula,59.5325,10.5256
 190732687,Anthemis_cotula,59.5339,10.5294
 1702240857,Anthemis_cotula,59.5326,10.5267
-1988233574,Anthemis_cotula,49.2,-121.7
 2312423279,Anthemis_cotula,48.87,13.71
 1936576072,Anthemis_cotula,38.0847,-4.1073
 1838960919,Anthemis_cotula,38.659439,21.09194
 2270252831,Anthemis_cotula,34.79373,-120.5694
 1050654209,Anthemis_cotula,43.25,-2.96
 1851321422,Anthemis_cotula,42.798,-5.122
-1050581443,Anthemis_cotula,42.86,-2.2
 1851391023,Anthemis_cotula,43.024,-5.044
 1989015925,Anthemis_cotula,44.5085,-83.46629
 1988921699,Anthemis_cotula,44.655044,-83.300655
@@ -343,11 +330,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851410814,Anthemis_cotula,42.819,-4.951
 119969918,Anthemis_cotula,38.372222,-121.458889
 729275568,Anthemis_cotula,34.833302,135.183
-1050579160,Anthemis_cotula,42.57,-2.9
 1260949068,Anthemis_cotula,36.58194,-90.34777
 1050579788,Anthemis_cotula,41.86,-1.61
 1050579784,Anthemis_cotula,41.98,-1.65
-1050654191,Anthemis_cotula,43.29,-3
 2265569168,Anthemis_cotula,43.663889,-94.189722
 245517474,Anthemis_cotula,35.56575,139.553042
 2270173925,Anthemis_cotula,34.6795999991168,-120.5468
@@ -421,12 +406,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050582126,Anthemis_cotula,42.75,-0.86
 2265472317,Anthemis_cotula,47.173414,-96.098778
 1050656685,Anthemis_cotula,42.92,-1.87
-1851334022,Anthemis_cotula,42.3,-5.24
 1053984176,Anthemis_cotula,42.66,-1.12
 1946756234,Anthemis_cotula,50.13,10.28
 1830213409,Anthemis_cotula,34.60401,133.9623
 234408257,Anthemis_cotula,35.465763,139.678033
-1426142692,Anthemis_cotula,38.566667,-122.7
 1851328675,Anthemis_cotula,42.85,-4.53
 859262785,Anthemis_cotula,37.83867,-95.80001
 204419869,Anthemis_cotula,42.870998,-1.574
@@ -441,7 +424,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050656694,Anthemis_cotula,42.07,-1.59
 1986906373,Anthemis_cotula,43.8575,-110.58917
 204419866,Anthemis_cotula,42.421001,-1.572
-473537643,Anthemis_cotula,45.5,-74.066667
 204419867,Anthemis_cotula,42.734001,-1.381
 1050656662,Anthemis_cotula,42.89,-1.76
 1933825133,Anthemis_cotula,35.5607,140.47261
@@ -456,14 +438,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270257217,Anthemis_cotula,34.837799,-120.531776
 1701607659,Anthemis_cotula,59.188,9.6257
 1946756211,Anthemis_cotula,50.21,10.49
-1050656720,Anthemis_cotula,42.9,-2.08
 1946756101,Anthemis_cotula,49.91,10.53
 1946756092,Anthemis_cotula,49.94,10.82
 204419912,Anthemis_cotula,43.245998,-2.169
 1050582122,Anthemis_cotula,42.29,-1.78
 1050656661,Anthemis_cotula,42.23,-1.75
 1050656663,Anthemis_cotula,42.84,-1.79
-1946756097,Anthemis_cotula,49.92,10.7
 2239098741,Anthemis_cotula,-24.554444,-65.886389
 1851372122,Anthemis_cotula,42.47,-5.37
 393091015,Anthemis_cotula,36.02119,139.00264
@@ -472,8 +452,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851354681,Anthemis_cotula,42.47,-6.63
 1851361304,Anthemis_cotula,42.56,-6.62
 218757958,Anthemis_cotula,38.52,-4.89
-1851371502,Anthemis_cotula,42.3,-5.12
-1851331967,Anthemis_cotula,42.65,-5.5
 196092184,Anthemis_cotula,37.53,-4.41
 204419870,Anthemis_cotula,41.980999,-1.654
 1851341764,Anthemis_cotula,42.82,-5.87
@@ -503,7 +481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261307047,Anthemis_cotula,-16.516667,-68.033333
 461618056,Anthemis_cotula,-25.375,30.125
 1846492019,Anthemis_cotula,33.385825,-112.254289
-1842859219,Anthemis_cotula,35.53,-5.7
 1893934750,Anthemis_cotula,32.008333,-116.758333
 1988695136,Anthemis_cotula,42.07374,-83.78098
 234408262,Anthemis_cotula,35.324115,139.615539
@@ -523,7 +500,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230506390,Anthemis_cotula,48.87333,21.10583
 1050582130,Anthemis_cotula,43.31,-3.06
 895257347,Anthemis_cotula,40.14,-1.42
-1936640093,Anthemis_cotula,-38.65,-71.1
 2270471627,Anthemis_cotula,28.735478,-114.07653
 1928014043,Anthemis_cotula,31.1011,-116.1722
 1262033248,Anthemis_cotula,45.643066,-73.657816
@@ -550,7 +526,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050582157,Anthemis_cotula,42.49,-2.41
 204419910,Anthemis_cotula,42.492001,-2.41
 1050582095,Anthemis_cotula,43.01,-3.03
-1144572521,Anthemis_cotula,41.4,9.2
 204419914,Anthemis_cotula,43.203999,-3.178
 1261006726,Anthemis_cotula,37.83166,-92.92138
 204419909,Anthemis_cotula,43.249001,-3.376
@@ -558,14 +533,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 234408253,Anthemis_cotula,35.582409,139.328058
 85771830,Anthemis_cotula,37.310001,-4.24
 1712605585,Anthemis_cotula,42.291923,-1.804419
-218757938,Anthemis_cotula,38.6,-5.12
 1262013175,Anthemis_cotula,45.062778,-73.249167
 1262016074,Anthemis_cotula,45.166667,-72.95
 1262018383,Anthemis_cotula,46.083333,-73.35
 1999560383,Anthemis_cotula,60.449243,22.297779
-473445651,Anthemis_cotula,45.5,-73.6
 1262018790,Anthemis_cotula,45.733333,-76.683333
-1262012635,Anthemis_cotula,45.533333,-74.2
 1262018271,Anthemis_cotula,46.15,-73.233333
 1600671265,Anthemis_cotula,61.503826,23.578697
 176876894,Anthemis_cotula,44.826604,-123.216476
@@ -573,14 +545,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262018294,Anthemis_cotula,45.85,-73.483333
 1262018384,Anthemis_cotula,45.883333,-73.283333
 1262016044,Anthemis_cotula,45.122778,-75.916667
-1262018176,Anthemis_cotula,45.566667,-74.1
 1262013189,Anthemis_cotula,45.033333,-73.05
-1262016108,Anthemis_cotula,45.066667,-73.3
 1262018319,Anthemis_cotula,45.759722,-73.816944
 1050654194,Anthemis_cotula,42.95,-2.57
 1262011931,Anthemis_cotula,45.116667,-73.15
 51751633,Anthemis_cotula,44.8323,-123.2249
-1262018188,Anthemis_cotula,45.566667,-73.9
 1262018160,Anthemis_cotula,46.016667,-73.35
 1262013216,Anthemis_cotula,45.116667,-73.033333
 1261000701,Anthemis_cotula,39.06805,-90.945
@@ -595,19 +564,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262017815,Anthemis_cotula,46.166667,-73.316667
 1986906240,Anthemis_cotula,43.133016,-111.507016
 1600668721,Anthemis_cotula,61.587121,23.889099
-1262019315,Anthemis_cotula,45.55,-76.1
 1262010796,Anthemis_cotula,45.69,-75.989722
 1262017242,Anthemis_cotula,46.394722,-72.881111
 2270173812,Anthemis_cotula,35.39549,-120.80961
 1050582159,Anthemis_cotula,42.92,-2.57
-1262013658,Anthemis_cotula,45.533333,-73
 1702073978,Anthemis_cotula,59.1911,9.6214
 1050582077,Anthemis_cotula,42.66,-2.88
 204419911,Anthemis_cotula,42.500999,-2.41
-1050582046,Anthemis_cotula,42.5,-2.41
 1262013441,Anthemis_cotula,46.130556,-72.604167
 204419913,Anthemis_cotula,42.991001,-4.208
-1050656666,Anthemis_cotula,42.97,-3
 2270173880,Anthemis_cotula,35.661892,-120.21436
 2270257949,Anthemis_cotula,34.41766,-119.84375
 1851583154,Anthemis_cotula,37.79,-6.67
@@ -622,13 +587,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705870100,Anthemis_cotula,54.05,23.17
 1702509302,Anthemis_cotula,42.75,-1.83
 860321719,Anthemis_cotula,42.355,-0.007
-1851399762,Anthemis_cotula,43.28,-5.4
 1050582163,Anthemis_cotula,42.91,-2.55
 1262010468,Anthemis_cotula,45.283333,-73.416667
 2270252511,Anthemis_cotula,34.67821,-120.42949
-1262010417,Anthemis_cotula,45.5,-73.416667
 1697689235,Anthemis_cotula,55.013213,41.148286
-1262009733,Anthemis_cotula,45.6,-72.966667
 1262008951,Anthemis_cotula,45.083333,-73.416667
 1936524904,Anthemis_cotula,42.8587,-4.1764
 1050656648,Anthemis_cotula,43.28,-2.94
@@ -645,8 +607,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986905985,Anthemis_cotula,39.047928,-119.779735
 1600668676,Anthemis_cotula,60.840456,23.07001
 1262010490,Anthemis_cotula,45.233333,-73.566667
-1262007481,Anthemis_cotula,45.8,-72.866667
-1262009750,Anthemis_cotula,45.5,-72.9
 1262009134,Anthemis_cotula,45.733056,-72.875
 1262009791,Anthemis_cotula,45.782778,-73.160556
 1988815027,Anthemis_cotula,44.712185,-86.104858
@@ -670,7 +630,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262008252,Anthemis_cotula,45.25,-74.133333
 1260935400,Anthemis_cotula,40.3875,-91.57833
 1262033245,Anthemis_cotula,45.272587,-74.092553
-1262008235,Anthemis_cotula,45.2,-73.983333
 1260979673,Anthemis_cotula,36.70222,-91.70361
 176877334,Anthemis_cotula,43.119634,-92.016259
 1050582168,Anthemis_cotula,42.48,-2.59
@@ -684,8 +643,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262008512,Anthemis_cotula,45.366667,-71.866667
 1262007418,Anthemis_cotula,45.35,-74.216667
 1262007469,Anthemis_cotula,45.028333,-73.924722
-1262008217,Anthemis_cotula,45.3,-74.3
-1262009460,Anthemis_cotula,45.016667,-72.1
 1834901168,Anthemis_cotula,35.354167,139.40625
 1332508948,Anthemis_cotula,50.5905,9.65436
 860321674,Anthemis_cotula,42.103,0.019
@@ -697,12 +654,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830609713,Anthemis_cotula,34.135662,134.420552
 176877331,Anthemis_cotula,39.981595,-95.299239
 2270259210,Anthemis_cotula,33.6199813146053,-117.720624843903
-51751616,Anthemis_cotula,44.6,-123.2411
 1600668744,Anthemis_cotula,61.349492,24.590439
 1262008441,Anthemis_cotula,46.566667,-72.466667
 1600668773,Anthemis_cotula,61.350905,24.51928
 991752160,Anthemis_cotula,54.1484,12.5818
-1804553845,Anthemis_cotula,46.1,-72.95
 1804485556,Anthemis_cotula,43.666667,-79.633333
 1050582058,Anthemis_cotula,42.74,-2.44
 1248696149,Anthemis_cotula,48.558611,-78.116944
@@ -721,12 +676,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85771809,Anthemis_cotula,37.490002,-4.47
 2265472531,Anthemis_cotula,45.201291,-93.899596
 1834901253,Anthemis_cotula,35.420833,139.33125
-1804560219,Anthemis_cotula,42.366667,-82.4
 415903494,Anthemis_cotula,41.80833,-72.25
 1851379238,Anthemis_cotula,43.02,-5.27
-1946756261,Anthemis_cotula,50.11,10.4
-31911626,Anthemis_cotula,37.43,-5.2
-31911630,Anthemis_cotula,37.35,-4.3
 2270257950,Anthemis_cotula,34.410042,-119.870132
 1806129848,Anthemis_cotula,42.809429,-1.623735
 1988648089,Anthemis_cotula,45.76456,-86.62257
@@ -745,7 +696,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986905537,Anthemis_cotula,32.894291,-93.818391
 176876909,Anthemis_cotula,37.453688,-96.244087
 1851322944,Anthemis_cotula,42.47,-5.49
-1144572522,Anthemis_cotula,41.88333,9.4
 1851321450,Anthemis_cotula,42.29,-5.49
 1930011564,Anthemis_cotula,39.3378,-119.1641
 1702399315,Anthemis_cotula,59.1807,9.6386
@@ -753,7 +703,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806129822,Anthemis_cotula,42.839348,-1.642968
 2270173750,Anthemis_cotula,35.3008,-120.67331
 1986905343,Anthemis_cotula,39.585755,-119.446874
-1851372925,Anthemis_cotula,43,-5.76
 1899368722,Anthemis_cotula,43.633333,-79.325
 2269391586,Anthemis_cotula,-34.05,-70.65
 1806129635,Anthemis_cotula,42.797308,-1.638091
@@ -764,7 +713,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176877276,Anthemis_cotula,42.740365,-92.462292
 1933825082,Anthemis_cotula,35.73592,140.19756
 1899332896,Anthemis_cotula,43.645833,-79.4625
-1804543046,Anthemis_cotula,45.316667,-75.1
 1144119603,Anthemis_cotula,60.415,5.3041
 2265471215,Anthemis_cotula,43.543897,-91.312564
 1697843797,Anthemis_cotula,42.83343,44.038696
@@ -772,7 +720,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265825504,Anthemis_cotula,38.649073,-120.828474
 2270173792,Anthemis_cotula,35.18531,-120.48239
 1209658397,Anthemis_cotula,45.843913,-82.125426
-1209658332,Anthemis_cotula,45.73333,-81.8
 1144215662,Anthemis_cotula,60.3691,5.3465
 2239094233,Anthemis_cotula,-31.699722,-63.531111
 1259544655,Anthemis_cotula,-30.72,-64.26
@@ -792,12 +739,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176876727,Anthemis_cotula,35.84454,-79.181735
 211618667,Anthemis_cotula,43.549999,-7.01
 176877179,Anthemis_cotula,40.06081,-95.60015
-211618891,Anthemis_cotula,43.560001,-7.7
 176876907,Anthemis_cotula,39.78303,-95.15599
-1144572518,Anthemis_cotula,42.31667,9
-1830229950,Anthemis_cotula,36.766667,137.1
-1899307858,Anthemis_cotula,44,-78.85
-1144572411,Anthemis_cotula,41.91667,8.8
 1144119535,Anthemis_cotula,58.9441,5.7584
 1705870140,Anthemis_cotula,54.627,23.363
 1261997161,Anthemis_cotula,48.433333,-72.066667
@@ -809,7 +751,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176877290,Anthemis_cotula,34.2324,-94.73911
 2234547856,Anthemis_cotula,37.11714,-76.588555
 729317072,Anthemis_cotula,35.516701,134.817
-1829604835,Anthemis_cotula,36.2,139.3
 2289786098,Anthemis_cotula,50.452,6.102
 1600668697,Anthemis_cotula,62.340072,27.286353
 1600668643,Anthemis_cotula,63.411031,25.6956
@@ -817,11 +758,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600668645,Anthemis_cotula,64.219976,28.12961
 415903492,Anthemis_cotula,41.98361,-73.19694
 187088355,Anthemis_cotula,63.4308,10.3726
-1851399926,Anthemis_cotula,42.82,-6
 1600671205,Anthemis_cotula,63.321343,25.699661
 1701292753,Anthemis_cotula,63.3085,10.1673
 1600668648,Anthemis_cotula,62.224094,30.333483
-1899331624,Anthemis_cotula,43.9,-79.166667
 1600668737,Anthemis_cotula,63.508191,28.85456
 1999560327,Anthemis_cotula,68.796606,27.615106
 1702278002,Anthemis_cotula,59.441,10.6662
@@ -835,7 +774,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705870092,Anthemis_cotula,53.92,23.22
 1986918017,Anthemis_cotula,41.192778,-112.170556
 1701918615,Anthemis_cotula,59.2078,9.6041
-51751569,Anthemis_cotula,44.4,-123.3
 2239094143,Anthemis_cotula,-36.533333,-64.016667
 1144119540,Anthemis_cotula,59.4728,10.6824
 1259484079,Anthemis_cotula,-36.53333,-64.01666
@@ -850,15 +788,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261991720,Anthemis_cotula,45.683333,-73.183333
 51751117,Anthemis_cotula,44.0468,-123.046
 1144119550,Anthemis_cotula,59.0649,5.9215
-1988199672,Anthemis_cotula,49.1,-123.1
 2239093816,Anthemis_cotula,-34.760278,-63.64
 1840909865,Anthemis_cotula,35.628056,-5.286111
 2270173796,Anthemis_cotula,35.31947,-120.65598
 176876924,Anthemis_cotula,37.041,-94.620214
 1703297470,Anthemis_cotula,51.1207,-100.5061
-1899296891,Anthemis_cotula,44.2,-79.166667
 1702399323,Anthemis_cotula,58.2654,6.8097
-1261978130,Anthemis_cotula,45.4,-71.9
 1260993769,Anthemis_cotula,37.2724,-89.5757
 217040178,Anthemis_cotula,32.57861,-87.58305
 176877121,Anthemis_cotula,34.076651,-85.623578
@@ -868,7 +803,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999560386,Anthemis_cotula,68.389384,27.397094
 1899302207,Anthemis_cotula,43.65,-79.383333
 1144119563,Anthemis_cotula,60.4451,5.4704
-1988143609,Anthemis_cotula,49.2,-122
 1893934650,Anthemis_cotula,31.991667,-116.725
 1456249534,Anthemis_cotula,31.98,-116.72
 1999560415,Anthemis_cotula,61.497517,23.898058
@@ -927,7 +861,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270173849,Anthemis_cotula,35.29361,-120.72004
 1144119635,Anthemis_cotula,60.66099,5.76755
 1099878497,Anthemis_cotula,57.51338,13.18456
-1935651060,Anthemis_cotula,47.59167,15.7
 473267463,Anthemis_cotula,45.274444,-72.198611
 1930991220,Anthemis_cotula,16.7292,-92.6333
 1144119681,Anthemis_cotula,60.4749,5.3263
@@ -995,9 +928,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265474622,Anthemis_cotula,44.244213,-94.323803
 2239093567,Anthemis_cotula,-31.390833,-64.190833
 1999560319,Anthemis_cotula,60.801302,21.399423
-1988200369,Anthemis_cotula,49.1,-122.1
 1989408077,Anthemis_cotula,43.97534,-83.95161
-1829604399,Anthemis_cotula,36.4,139.1
 1323829778,Anthemis_cotula,63.27552,10.06049
 1426187813,Anthemis_cotula,37.156667,-122.161667
 51751424,Anthemis_cotula,45.0732,-117.3176
@@ -1022,15 +953,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935293980,Anthemis_cotula,53.9485,13.415
 1600668729,Anthemis_cotula,60.442185,25.089635
 606124,Anthemis_cotula,58.58217,16.316903
-1988113562,Anthemis_cotula,49.24,-124.8
 1988166968,Anthemis_cotula,44.23,-76.51
 1600668780,Anthemis_cotula,61.152375,21.514117
 415903496,Anthemis_cotula,41.98333,-72.69166
 2239094100,Anthemis_cotula,-32.934444,-63.246667
-1988233370,Anthemis_cotula,49.1,-122.66
 51751480,Anthemis_cotula,42.6895,-118.4856
 465762218,Anthemis_cotula,44.27444,-65.13639
-1261953107,Anthemis_cotula,46.85,-71.2
 1988161495,Anthemis_cotula,49.09,-123.08
 1705365133,Anthemis_cotula,56.805334,14.037221
 441688904,Anthemis_cotula,47.52862,-117.425
@@ -1052,7 +980,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600668741,Anthemis_cotula,64.022375,24.439513
 1999560401,Anthemis_cotula,60.439657,22.280973
 1144572410,Anthemis_cotula,42.11667,9.51667
-1144572517,Anthemis_cotula,42.5,9.43333
 43191911,Anthemis_cotula,33.55642,133.53574
 176877195,Anthemis_cotula,37.54371,-95.089359
 1600668640,Anthemis_cotula,62.224071,21.319938
@@ -1083,7 +1010,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265473656,Anthemis_cotula,43.592731,-96.429419
 1426174332,Anthemis_cotula,37.105556,-122.270833
 2239093793,Anthemis_cotula,-31.358333,-64.378611
-1144579326,Anthemis_cotula,-25.9,-54.61667
 461618043,Anthemis_cotula,-33.625,23.125
 461618051,Anthemis_cotula,-34.125,18.875
 1988345290,Anthemis_cotula,53.361017,-0.236269
@@ -1110,7 +1036,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606122,Anthemis_cotula,58.043229,12.813196
 1697689271,Anthemis_cotula,54.855587,37.555831
 1701227560,Anthemis_cotula,63.3161,10.1476
-1988102993,Anthemis_cotula,50.32,-122.8
 57677791,Anthemis_cotula,62.266998,21.3792
 2265473344,Anthemis_cotula,43.977049,-92.019166
 2239097919,Anthemis_cotula,-43.091944,-65.136111
@@ -1119,7 +1044,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600668699,Anthemis_cotula,62.313356,21.303044
 2239098126,Anthemis_cotula,-37.722222,-58.253056
 1090537282,Anthemis_cotula,-22.870251,-47.077171
-1988200066,Anthemis_cotula,56,-122
 606049,Anthemis_cotula,58.347861,11.940152
 859262783,Anthemis_cotula,46.87719,-96.7898
 176876870,Anthemis_cotula,46.87722,-96.78944
@@ -1131,7 +1055,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701238161,Anthemis_cotula,63.2996,10.1669
 1986903016,Anthemis_cotula,40.725871,-115.462942
 1986902543,Anthemis_cotula,42.111375,-115.039299
-1988139026,Anthemis_cotula,49.1,-122.4
 1600668746,Anthemis_cotula,60.262781,25.100103
 1259714934,Anthemis_cotula,-31.66666,-64.43333
 2239094053,Anthemis_cotula,-31.654722,-64.426111
@@ -1147,7 +1070,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2239099360,Anthemis_cotula,-38.529444,-67.466944
 1090534475,Anthemis_cotula,-22.7253,-47.6492
 1260930215,Anthemis_cotula,38.16027,-90.82805
-1988075299,Anthemis_cotula,49.1,-116.5
 1261948075,Anthemis_cotula,48.433333,-71.066667
 606113,Anthemis_cotula,58.037328,11.577217
 442611553,Anthemis_cotula,45.51899,-73.5342
@@ -1190,7 +1112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606053,Anthemis_cotula,58.161357,13.550428
 1929497771,Anthemis_cotula,40.642048,-74.441201
 441689421,Anthemis_cotula,42.193029,-111.777765
-1988208154,Anthemis_cotula,47,-84.8
 1144119658,Anthemis_cotula,60.288,5.9299
 2265472191,Anthemis_cotula,46.81008,-92.07839
 1899285712,Anthemis_cotula,43.788445,-79.613457
@@ -1204,7 +1125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999560365,Anthemis_cotula,60.429423,22.246082
 1842910966,Anthemis_cotula,34.92,-4.26
 442626559,Anthemis_cotula,33.81351,35.76737
-1144572515,Anthemis_cotula,41.85,9.4
 442626560,Anthemis_cotula,34.09542,35.82114
 606116,Anthemis_cotula,57.84138,11.779957
 442667075,Anthemis_cotula,34.09491,35.82856
@@ -1215,13 +1135,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57677792,Anthemis_cotula,61.712009,27.280375
 1703297486,Anthemis_cotula,49.8358976925853,-97.1502258789675
 1986901644,Anthemis_cotula,33.62806,-117.95778
-1989135921,Anthemis_cotula,42.2,-83.15
 441688895,Anthemis_cotula,47.42361,-120.30917
 1039020771,Anthemis_cotula,41.406,-72.4831
 187089191,Anthemis_cotula,59.0054,11.0718
 176876888,Anthemis_cotula,36.621101,-88.272201
 187089190,Anthemis_cotula,59.4384,10.6627
-1144572412,Anthemis_cotula,42.25,8.8
 441688901,Anthemis_cotula,46.75,-121.81139
 1262005854,Anthemis_cotula,46.65,-71.927778
 1899299384,Anthemis_cotula,43.89759,-79.52193
@@ -1234,7 +1152,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606069,Anthemis_cotula,55.923564,14.292627
 2239097773,Anthemis_cotula,-31.420278,-64.188611
 1259544552,Anthemis_cotula,-31.398,-64.181
-2239098477,Anthemis_cotula,-31.35,-64.4
 1039013945,Anthemis_cotula,41.9945,-72.6788
 606138,Anthemis_cotula,57.775841,12.282752
 176876912,Anthemis_cotula,37.88667,-95.740168
@@ -1289,7 +1206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265474180,Anthemis_cotula,44.753605,-93.344349
 1697689257,Anthemis_cotula,54.341799,37.294979
 415903501,Anthemis_cotula,41.43972,-72.01555
-1988197843,Anthemis_cotula,49.3,-123.1
 1928071046,Anthemis_cotula,39.529754,-75.810184
 1988178330,Anthemis_cotula,49.29,-123.04
 1039011443,Anthemis_cotula,41.995,-72.4531
@@ -1331,7 +1247,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606076,Anthemis_cotula,59.38013,17.79798
 1988718646,Anthemis_cotula,42.24417,-83.62111
 1950902332,Anthemis_cotula,64.0599999992587,-139.410833
-415903533,Anthemis_cotula,41.9,-71.63333
 1258080219,Anthemis_cotula,39.704167,-91.3775
 1260938465,Anthemis_cotula,38.99722,-90.73833
 1317287643,Anthemis_cotula,38.9633,-76.9319
@@ -1375,7 +1290,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461618040,Anthemis_cotula,-25.625,30.125
 415903508,Anthemis_cotula,41.22416,-73.06027
 2239098083,Anthemis_cotula,-33.123056,-64.349167
-1842874327,Anthemis_cotula,41.67,0.9
 1257726764,Anthemis_cotula,36.9869,-91.5753
 1039012072,Anthemis_cotula,41.5583,-73.036
 415903509,Anthemis_cotula,41.45305,-72.46166
@@ -1410,4 +1324,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1288061647,Anthemis_cotula,50.9676,10.138083
 812020756,Anthemis_cotula,50.711,9.8415
 415903505,Anthemis_cotula,41.875,-72.66666
-2239098558,Anthemis_cotula,-31.4,-64.4
