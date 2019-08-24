@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702392384,Saussurea_alpina,69.5217,27.2215
 1144053700,Saussurea_alpina,60.4063,6.5422
 1099925508,Saussurea_alpina,64.38138,16.19862
-1095920533,Saussurea_alpina,63,12
 1702379886,Saussurea_alpina,69.4595,29.6528
 1701301119,Saussurea_alpina,62.2989,9.6065
 1702387311,Saussurea_alpina,60.2835,10.6364
@@ -196,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702231814,Saussurea_alpina,61.8889,7.8491
 1600047898,Saussurea_alpina,68.604238,23.617092
 1323768061,Saussurea_alpina,67.6541,33.766
-1701984768,Saussurea_alpina,61.4,8.8
 1702163606,Saussurea_alpina,61.9876,7.3137
 1323789526,Saussurea_alpina,60.2677,10.6358
 1600047868,Saussurea_alpina,66.114526,25.329041
@@ -480,7 +478,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701773296,Saussurea_alpina,64.261,12.492
 1701902193,Saussurea_alpina,62.41526,11.40967
 1099908260,Saussurea_alpina,62.56504,11.68681
-2291564015,Saussurea_alpina,62.633333,9.3
 1600047782,Saussurea_alpina,69.082099,20.72708
 2289331118,Saussurea_alpina,69.166667,19.683333
 1144176289,Saussurea_alpina,60.13253,9.49842
@@ -787,7 +784,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187249515,Saussurea_alpina,62.7215,11.944
 1697495927,Saussurea_alpina,67.650286,33.68266
 1705382950,Saussurea_alpina,63.472234,13.231379
-1456248719,Saussurea_alpina,68.283,25
 788711866,Saussurea_alpina,63.408672,16.550774
 1701251985,Saussurea_alpina,69.5167,21.2689
 1701682581,Saussurea_alpina,61.7582,9.0644
@@ -1268,7 +1264,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702381441,Saussurea_alpina,61.5611,9.8075
 1701702442,Saussurea_alpina,61.59946,9.46214
 1701912439,Saussurea_alpina,61.5805,9.6997
-296541275,Saussurea_alpina,46.933,11.5
 1144176314,Saussurea_alpina,60.1454,7.4402
 1144176291,Saussurea_alpina,60.4271,7.257
 1144176363,Saussurea_alpina,60.1839,7.4818
