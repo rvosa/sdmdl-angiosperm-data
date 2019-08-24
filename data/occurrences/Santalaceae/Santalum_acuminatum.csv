@@ -14,8 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937196109,Santalum_acuminatum,-35.24037,142.463
 1937076496,Santalum_acuminatum,-30.476227,137.282064
 1937183764,Santalum_acuminatum,-30.742692,136.477791
-1132248613,Santalum_acuminatum,-35.2772,149.1103
-1805872498,Santalum_acuminatum,-20.97737,115.86502
 1257383496,Santalum_acuminatum,-27.481944,133.758333
 1451031229,Santalum_acuminatum,-30.0625,138.2747
 1452542085,Santalum_acuminatum,-33.567234,145.784008
@@ -61,7 +59,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992082144,Santalum_acuminatum,-31.451,129.855
 992082547,Santalum_acuminatum,-32.539167,135.296389
 992082152,Santalum_acuminatum,-31.45,129.85
-992082269,Santalum_acuminatum,-31.568889,130.087778
 996965894,Santalum_acuminatum,-31.07145,121.04318
 992082077,Santalum_acuminatum,-32.964444,135.298333
 992082117,Santalum_acuminatum,-31.463333,129.943056
@@ -129,7 +126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996919542,Santalum_acuminatum,-31.222222,117.963333
 996939194,Santalum_acuminatum,-28.228861,125.899111
 996935063,Santalum_acuminatum,-28.27,126.06
-992064736,Santalum_acuminatum,-34.8075,135.78
 1257376361,Santalum_acuminatum,-23.7642,132.0092
 1257376373,Santalum_acuminatum,-24.53,132.4061
 1257376355,Santalum_acuminatum,-24.5319,132.4019
@@ -181,7 +177,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996869963,Santalum_acuminatum,-29.5928,117.1828
 996854226,Santalum_acuminatum,-30.034722,116.983056
 996869789,Santalum_acuminatum,-29.254944,116.250244
-992048790,Santalum_acuminatum,-35.184444,136.894722
 996874568,Santalum_acuminatum,-28.691964,116.902385
 996863266,Santalum_acuminatum,-34.252944,117.452222
 996867059,Santalum_acuminatum,-29.586667,116.964444
@@ -266,9 +261,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995268604,Santalum_acuminatum,-34.1828,117.9619
 1085380530,Santalum_acuminatum,-33.41559,136.57499
 1073881449,Santalum_acuminatum,-32.323633,147.096864
-996720348,Santalum_acuminatum,-33.6,115.1
 996736210,Santalum_acuminatum,-32.945998,117.159829
-996711148,Santalum_acuminatum,-34.075,115.003
 996723617,Santalum_acuminatum,-31.363638,115.567501
 996780993,Santalum_acuminatum,-30.911137,121.211767
 1257369393,Santalum_acuminatum,-30.13,116.65
@@ -305,7 +298,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085366994,Santalum_acuminatum,-33.82464,135.95214
 992007379,Santalum_acuminatum,-33.761,136.065
 992007287,Santalum_acuminatum,-33.850833,135.881667
-996750366,Santalum_acuminatum,-32.635556,115.615833
 996739029,Santalum_acuminatum,-29.25,114.92
 1085368569,Santalum_acuminatum,-33.85105,135.88161
 996750921,Santalum_acuminatum,-32.2,117
@@ -316,9 +308,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085350793,Santalum_acuminatum,-34.66694,138.86562
 2303143038,Santalum_acuminatum,-35.387778,138.927778
 992023185,Santalum_acuminatum,-34.668333,138.864167
-992000593,Santalum_acuminatum,-34.655139,135.424737
 996709953,Santalum_acuminatum,-32.205361,116.438167
-991994538,Santalum_acuminatum,-27,133
 1073909127,Santalum_acuminatum,-32.907929,146.999337
 995868717,Santalum_acuminatum,-33.22,146.37
 995156896,Santalum_acuminatum,-33.2167,146.3667
@@ -349,7 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996709512,Santalum_acuminatum,-33.272778,118.731389
 996713528,Santalum_acuminatum,-31.178485,116.616468
 996715979,Santalum_acuminatum,-31.225702,117.090356
-991995365,Santalum_acuminatum,-32.032086,133.017783
 996716444,Santalum_acuminatum,-31.689308,117.982028
 996716007,Santalum_acuminatum,-31.603477,117.659527
 996728997,Santalum_acuminatum,-31.255702,117.135357
@@ -384,10 +373,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257359639,Santalum_acuminatum,-24.7661,132.3142
 996724488,Santalum_acuminatum,-33.25,117.17
 992020808,Santalum_acuminatum,-32.905278,135.001667
-992020701,Santalum_acuminatum,-32.7225,134.1467
 996768119,Santalum_acuminatum,-31.309586,117.569245
 1085340699,Santalum_acuminatum,-33.09583,134.50561
-1085332020,Santalum_acuminatum,-32.72118,134.14802
 1085339464,Santalum_acuminatum,-32.90665,134.19749
 992019698,Santalum_acuminatum,-33.097222,134.504167
 1085334621,Santalum_acuminatum,-32.90382,135.00297
@@ -492,7 +479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996719706,Santalum_acuminatum,-30.875381,120.565061
 1937186416,Santalum_acuminatum,-26.4106,114.3778
 996615294,Santalum_acuminatum,-33.651017,116.254566
-996659123,Santalum_acuminatum,-26.123056,113.385278
 996719691,Santalum_acuminatum,-26.409295,114.379182
 996671014,Santalum_acuminatum,-28.862222,114.684167
 996677649,Santalum_acuminatum,-31.541111,121.551944
@@ -505,8 +491,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1084066635,Santalum_acuminatum,-27.45123,133.25347
 992617981,Santalum_acuminatum,-27.452778,133.252222
 996689121,Santalum_acuminatum,-25.83,113.55
-996580672,Santalum_acuminatum,-31.344056,115.49064
-992586015,Santalum_acuminatum,-34.520278,136.275556
 996580517,Santalum_acuminatum,-32.948498,117.162329
 992623189,Santalum_acuminatum,-33.25,135.916667
 996594213,Santalum_acuminatum,-29.882,116.015
@@ -563,17 +547,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992605017,Santalum_acuminatum,-34.125,136.346
 1085211853,Santalum_acuminatum,-34.0682,135.41586
 1085214540,Santalum_acuminatum,-34.12348,136.34778
-1085216828,Santalum_acuminatum,-34.66932,135.34775
 992605453,Santalum_acuminatum,-34.069722,135.414444
 1085207018,Santalum_acuminatum,-34.00755,136.13961
-992604761,Santalum_acuminatum,-34.670833,135.346389
 992607068,Santalum_acuminatum,-34.008889,136.138333
 992606957,Santalum_acuminatum,-34.457778,135.390278
 996665515,Santalum_acuminatum,-29.962605,119.62644
 993369945,Santalum_acuminatum,-34.0583,147.1083
 992591987,Santalum_acuminatum,-34.861111,137.761389
-1085168405,Santalum_acuminatum,-35.27195,136.87774
-992592921,Santalum_acuminatum,-35.273333,136.876389
 1085176636,Santalum_acuminatum,-34.85971,137.76283
 1085169382,Santalum_acuminatum,-33.64116,137.96354
 1085173943,Santalum_acuminatum,-34.3809,137.72029
@@ -583,7 +563,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085172916,Santalum_acuminatum,-33.84639,138.07091
 1085174886,Santalum_acuminatum,-34.12444,137.60964
 992590901,Santalum_acuminatum,-34.830833,137.579167
-996520336,Santalum_acuminatum,-29.956389,114.976944
 996764300,Santalum_acuminatum,-30.975,116.611
 1085169500,Santalum_acuminatum,-33.73117,137.83409
 1085177266,Santalum_acuminatum,-34.21208,138.18452
@@ -591,17 +570,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992591740,Santalum_acuminatum,-33.847778,138.069444
 1085175367,Santalum_acuminatum,-35.12039,136.99716
 992591016,Santalum_acuminatum,-33.7325,137.8328
-992594413,Santalum_acuminatum,-34.99,137.04
 1085169588,Santalum_acuminatum,-33.70569,137.93808
 992593646,Santalum_acuminatum,-34.382222,137.718889
 1085168033,Santalum_acuminatum,-33.84529,137.98742
-1085170142,Santalum_acuminatum,-34.95341,137.05618
 996624831,Santalum_acuminatum,-24.466122,124.873845
 992592656,Santalum_acuminatum,-34.125833,137.608333
 992594248,Santalum_acuminatum,-35.121944,136.995833
 1085174356,Santalum_acuminatum,-34.82936,137.58045
-1085170355,Santalum_acuminatum,-34.9893,137.04139
-992593775,Santalum_acuminatum,-34.954722,137.054722
 996660847,Santalum_acuminatum,-31.673178,119.545077
 996552884,Santalum_acuminatum,-32.198056,118.093333
 992557180,Santalum_acuminatum,-34.816667,139.366667
@@ -660,7 +635,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992565533,Santalum_acuminatum,-33.122778,140.199167
 1085567500,Santalum_acuminatum,-33.30906,140.24946
 993373655,Santalum_acuminatum,-34.5667,147.7167
-996455994,Santalum_acuminatum,-30.633056,115.121667
 1451614793,Santalum_acuminatum,-34.565114,147.717886
 995944389,Santalum_acuminatum,-34.57,147.72
 1085585928,Santalum_acuminatum,-33.76159,140.25407
@@ -709,7 +683,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992504034,Santalum_acuminatum,-28.870956,133.321362
 994272960,Santalum_acuminatum,-24.33192,131.70129
 1085543525,Santalum_acuminatum,-28.94659,133.32162
-992513500,Santalum_acuminatum,-34.5613,135.297
 992483083,Santalum_acuminatum,-34.929004,138.586933
 992487706,Santalum_acuminatum,-35.45,138.32
 996025708,Santalum_acuminatum,-35.17,144.7
@@ -785,7 +758,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085541413,Santalum_acuminatum,-32.55873,136.06146
 1142236729,Santalum_acuminatum,-32.11863,135.59632
 995615386,Santalum_acuminatum,-32,126.55
-992463065,Santalum_acuminatum,-34.85,135.78
 992482972,Santalum_acuminatum,-32.518182,135.34277
 992482944,Santalum_acuminatum,-32.120678,135.587485
 992482974,Santalum_acuminatum,-32.554566,136.057208
@@ -798,12 +770,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996384051,Santalum_acuminatum,-33.0914,120.4725
 996336591,Santalum_acuminatum,-34.7,117.7
 996388616,Santalum_acuminatum,-31.632,116.905
-992461024,Santalum_acuminatum,-34.865415,135.817792
 992432624,Santalum_acuminatum,-35.121518,136.99945
 992420039,Santalum_acuminatum,-33.187062,136.949152
 1424109324,Santalum_acuminatum,-33.2,136.833333
 992415349,Santalum_acuminatum,-27.9,135.8
-996384264,Santalum_acuminatum,-31.569444,130.386111
 992483208,Santalum_acuminatum,-30.832085,132.217777
 996384287,Santalum_acuminatum,-30.833333,132.216667
 1085535116,Santalum_acuminatum,-30.83605,132.21744
@@ -811,15 +781,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996384061,Santalum_acuminatum,-33.3,119.5
 996384002,Santalum_acuminatum,-32.2,126.3
 996384456,Santalum_acuminatum,-31.029444,126.066667
-1085535758,Santalum_acuminatum,-31.56876,130.38524
-992416356,Santalum_acuminatum,-31.568214,130.387241
 992432853,Santalum_acuminatum,-24.66541,128.734415
 994264255,Santalum_acuminatum,-24.665288,128.734651
 996384239,Santalum_acuminatum,-29.6,117.4
 992419879,Santalum_acuminatum,-28.915382,136.184394
 996383976,Santalum_acuminatum,-32.948056,121.134167
-996384417,Santalum_acuminatum,-32.244167,126.298056
-993324293,Santalum_acuminatum,-32.25,126.3
 1652039767,Santalum_acuminatum,-27.240246,145.159231
 996383998,Santalum_acuminatum,-30.85,116.72
 993324143,Santalum_acuminatum,-30.85,116.7167
@@ -873,7 +839,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992390556,Santalum_acuminatum,-29.090402,133.292197
 992398538,Santalum_acuminatum,-34.424285,137.915267
 992386517,Santalum_acuminatum,-32.465394,136.734423
-996384535,Santalum_acuminatum,-29.949722,114.973056
 996384042,Santalum_acuminatum,-27.35,114.63
 992388150,Santalum_acuminatum,-33.065397,136.767763
 992389420,Santalum_acuminatum,-32.9,135.9
@@ -934,18 +899,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995195994,Santalum_acuminatum,-36.7667,143.6667
 993836404,Santalum_acuminatum,-29.7667,125.4
 992392533,Santalum_acuminatum,-33.12,136.65
-994255391,Santalum_acuminatum,-33.015262,134.234706
 992362190,Santalum_acuminatum,-34.504,135.4836
 993838645,Santalum_acuminatum,-32.4167,142.35
 992470123,Santalum_acuminatum,-34.204,135.489
-992367496,Santalum_acuminatum,-33.016805,134.23445
 993838402,Santalum_acuminatum,-33.1167,136.65
-993260376,Santalum_acuminatum,-34.7167,135.5
-992367386,Santalum_acuminatum,-34.92,135.85
-992366976,Santalum_acuminatum,-34.7,135.5
-993255720,Santalum_acuminatum,-34.8333,135.7833
 993258300,Santalum_acuminatum,-32.795,134.1303
-992367204,Santalum_acuminatum,-32.8,134.1
 992338798,Santalum_acuminatum,-28,134
 996028555,Santalum_acuminatum,-32.52,121.63
 993822733,Santalum_acuminatum,-32.5167,121.6333
@@ -968,9 +926,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996025688,Santalum_acuminatum,-31.15,145.68
 1451649410,Santalum_acuminatum,-31.148455,145.684549
 993828174,Santalum_acuminatum,-31.15,145.6833
-996383933,Santalum_acuminatum,-32.895,115.678
 996384311,Santalum_acuminatum,-31.429722,123.538056
-992356115,Santalum_acuminatum,-34.9385,136.9886
 992069174,Santalum_acuminatum,-31.28,118.05
 992353962,Santalum_acuminatum,-35.05,139.12
 993253796,Santalum_acuminatum,-28.1,124.5333
@@ -984,7 +940,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992325138,Santalum_acuminatum,-31.4,135.4
 992325358,Santalum_acuminatum,-32.032065,135.834426
 992337334,Santalum_acuminatum,-30.14,131.65
-992469952,Santalum_acuminatum,-35.163182,137.347504
 992338966,Santalum_acuminatum,-35.1,139.1
 993322340,Santalum_acuminatum,-33.9667,148.0333
 1451649271,Santalum_acuminatum,-33.965111,148.034542
@@ -1001,14 +956,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992414193,Santalum_acuminatum,-34.287895,137.941377
 992309944,Santalum_acuminatum,-29.026087,114.81394
 992331890,Santalum_acuminatum,-32.062035,139.886612
-996383995,Santalum_acuminatum,-30.073333,114.958056
-993268212,Santalum_acuminatum,-30.0667,114.9667
 996384510,Santalum_acuminatum,-32.63,119.37
 992307757,Santalum_acuminatum,-30.5,132.5
 992354063,Santalum_acuminatum,-35.055667,139.109429
-996384564,Santalum_acuminatum,-29.9,115
 1937334294,Santalum_acuminatum,-30.95,145.15
-993266049,Santalum_acuminatum,-29.9,114.9833
 996025801,Santalum_acuminatum,-29.08,141.92
 1451649355,Santalum_acuminatum,-29.081826,141.917911
 992287381,Santalum_acuminatum,-28.87,121.45
@@ -1017,7 +968,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992285812,Santalum_acuminatum,-30.132085,131.617775
 992288273,Santalum_acuminatum,-32.922899,136.423876
 992309719,Santalum_acuminatum,-34.489268,140.037191
-992293145,Santalum_acuminatum,-34.048451,137.545822
 992300372,Santalum_acuminatum,-35.115389,139.184429
 996384494,Santalum_acuminatum,-33.84,117.64
 992536444,Santalum_acuminatum,-34.325398,137.494436
@@ -1034,8 +984,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996266119,Santalum_acuminatum,-30.82,116.62
 992269596,Santalum_acuminatum,-34.737623,137.480552
 992348926,Santalum_acuminatum,-34.65,138.83
-992269412,Santalum_acuminatum,-35.21402,136.855287
-992269584,Santalum_acuminatum,-35.1526,136.9136
 992283315,Santalum_acuminatum,-35.079556,139.099152
 992365221,Santalum_acuminatum,-34.75,137.75
 992251554,Santalum_acuminatum,-31.373473,132.660001
@@ -1083,7 +1031,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992227209,Santalum_acuminatum,-32.072039,139.398005
 993823574,Santalum_acuminatum,-32.05,139.3667
 992229195,Santalum_acuminatum,-32.2862,133.5781
-996384548,Santalum_acuminatum,-24.879722,113.658056
 996384433,Santalum_acuminatum,-33.829722,119.939722
 993461102,Santalum_acuminatum,-30.9,117.0833
 992245157,Santalum_acuminatum,-31.072347,134.569705
@@ -1105,7 +1052,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288866608,Santalum_acuminatum,-32.833333,146
 1451453805,Santalum_acuminatum,-32.798458,145.951225
 993180104,Santalum_acuminatum,-32.8,145.95
-992199757,Santalum_acuminatum,-35.157078,136.465845
 1450983671,Santalum_acuminatum,-31.45,146.6167
 993775876,Santalum_acuminatum,-29.2833,146.4833
 992205554,Santalum_acuminatum,-32.827057,137.438865
@@ -1149,7 +1095,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996384532,Santalum_acuminatum,-33.466667,122.133333
 992201935,Santalum_acuminatum,-33.8435,136.1186
 993272599,Santalum_acuminatum,-33.4667,122.1333
-992219877,Santalum_acuminatum,-32.444,125.736
 992224954,Santalum_acuminatum,-34.85,138.48
 994812077,Santalum_acuminatum,-36.75,141.8167
 993362936,Santalum_acuminatum,-25.35,131.0333
@@ -1158,7 +1103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992172037,Santalum_acuminatum,-33.885947,137.959427
 992349490,Santalum_acuminatum,-34.509832,138.976369
 992171831,Santalum_acuminatum,-33.809,137.9286
-993171977,Santalum_acuminatum,-31.5833,129.8667
 992410566,Santalum_acuminatum,-31.453217,129.854743
 992174965,Santalum_acuminatum,-34.573163,139.294978
 992410588,Santalum_acuminatum,-31.332105,129.839464
@@ -1178,7 +1122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993161421,Santalum_acuminatum,-28.1167,145.9667
 992177895,Santalum_acuminatum,-34.03,136.35
 1450982395,Santalum_acuminatum,-34.2333,142.15
-992178810,Santalum_acuminatum,-33.649859,134.888897
 992183438,Santalum_acuminatum,-32.675959,135.531936
 992182584,Santalum_acuminatum,-33.654299,135.552224
 992188398,Santalum_acuminatum,-33.7512,135.4114
@@ -1187,7 +1130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996384464,Santalum_acuminatum,-31.644722,117.481667
 992187564,Santalum_acuminatum,-31.879622,128.217258
 992188291,Santalum_acuminatum,-31.807399,128.217257
-996758142,Santalum_acuminatum,-30.233333,114.983333
 992410636,Santalum_acuminatum,-30.518146,139.099105
 993156625,Santalum_acuminatum,-30.95,145.1667
 992353610,Santalum_acuminatum,-34.15,138.42
@@ -1216,7 +1158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992162654,Santalum_acuminatum,-33.140116,137.188315
 993785339,Santalum_acuminatum,-33.9,147.1167
 993793497,Santalum_acuminatum,-34.1333,137.6333
-996384281,Santalum_acuminatum,-28.733333,114.633333
 992470051,Santalum_acuminatum,-33.993151,140.374682
 992499349,Santalum_acuminatum,-33.415396,137.134429
 992172301,Santalum_acuminatum,-34.517889,138.776649
@@ -1268,7 +1209,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995316147,Santalum_acuminatum,-34.8333,138.5
 992125157,Santalum_acuminatum,-31.972638,133.458056
 992134553,Santalum_acuminatum,-34.837893,138.484711
-992410578,Santalum_acuminatum,-34.9712,137.0825
 996384075,Santalum_acuminatum,-30.540278,116.006389
 992125463,Santalum_acuminatum,-26.083455,131.463297
 992470026,Santalum_acuminatum,-25.832081,128.667758
@@ -1355,7 +1295,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995316376,Santalum_acuminatum,-24.3167,131.6667
 993728464,Santalum_acuminatum,-24.3333,131.6333
 994215166,Santalum_acuminatum,-24.331915,131.751287
-992090019,Santalum_acuminatum,-34.961516,137.083337
 996384137,Santalum_acuminatum,-31.629722,117.713333
 993488486,Santalum_acuminatum,-24.6167,132.2833
 994215382,Santalum_acuminatum,-24.698587,132.21796
