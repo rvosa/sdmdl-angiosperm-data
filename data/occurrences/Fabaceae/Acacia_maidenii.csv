@@ -12,7 +12,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995439762,Acacia_maidenii,-27.469722,151.656389
 1652342300,Acacia_maidenii,-27.670338,151.636559
 1652369741,Acacia_maidenii,-27.953056,152.649444
-1652324057,Acacia_maidenii,-25.256878,152.909115
 1652326300,Acacia_maidenii,-24.000278,151.05
 1652344578,Acacia_maidenii,-26.247773,152.270358
 993635463,Acacia_maidenii,-26.2478,152.2703
@@ -44,14 +43,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451052773,Acacia_maidenii,-34.4128,150.821
 1451655595,Acacia_maidenii,-34.411204,150.822001
 1652142030,Acacia_maidenii,-28.273947,152.738239
-1843457901,Acacia_maidenii,-39.915556,175.029722
 1937331882,Acacia_maidenii,-28.35,153.016667
 993571907,Acacia_maidenii,-36.8131,149.5894
 993572077,Acacia_maidenii,-36.8,149.5833
 1061588953,Acacia_maidenii,-34.603762,150.847309
 995929979,Acacia_maidenii,-34.799,150.577
-993573891,Acacia_maidenii,-35.2667,149.1
-1897621451,Acacia_maidenii,-39.916667,175.016667
 1937288254,Acacia_maidenii,-26.676111,152.916667
 995194297,Acacia_maidenii,-27.6353,151.9439
 995171704,Acacia_maidenii,-27.5667,152.9
@@ -76,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652162806,Acacia_maidenii,-26.991265,151.655918
 1652202014,Acacia_maidenii,-27.640208,152.475801
 1652169604,Acacia_maidenii,-27.556872,153.059125
-1652203238,Acacia_maidenii,-20.540241,148.925815
 1652197747,Acacia_maidenii,-27.793762,151.860339
 995149572,Acacia_maidenii,-37.7317,148.4339
 1652200374,Acacia_maidenii,-27.010045,151.637553
@@ -88,9 +83,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995098385,Acacia_maidenii,-21.6,149.1833
 991997215,Acacia_maidenii,-31.581951,152.534231
 994527974,Acacia_maidenii,-31.58187,152.53416
-1652199688,Acacia_maidenii,-20.290242,148.75915
 994924235,Acacia_maidenii,-25.6833,152
-1261852404,Acacia_maidenii,28.5,-81.45
 1652134552,Acacia_maidenii,-23.206892,150.69247
 1652087261,Acacia_maidenii,-28.256874,152.575803
 993350254,Acacia_maidenii,-30.3333,149.7833
@@ -102,7 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451480901,Acacia_maidenii,-29.348411,153.284406
 1652089388,Acacia_maidenii,-24.190221,151.092469
 1652089275,Acacia_maidenii,-24.19022,151.442464
-993644822,Acacia_maidenii,-35.3,150.9833
 1652071288,Acacia_maidenii,-24.08189,150.584142
 1652080268,Acacia_maidenii,-24.473555,150.892473
 994739699,Acacia_maidenii,-33.0167,151.7167
@@ -126,13 +118,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995941846,Acacia_maidenii,-34.225,150.98
 1451613821,Acacia_maidenii,-34.223425,150.984497
 996847982,Acacia_maidenii,-34.223416,150.984511
-995881101,Acacia_maidenii,-36.58,150.07
-992584024,Acacia_maidenii,-36.58,150.05
-993879679,Acacia_maidenii,-36.5833,150.05
-1451588772,Acacia_maidenii,-36.581771,150.067879
 995131327,Acacia_maidenii,-31.1,152.5667
 995835607,Acacia_maidenii,-31.1,152.57
-1652066740,Acacia_maidenii,-25.915209,153.084116
 1652032093,Acacia_maidenii,-25.408271,151.774687
 1451567287,Acacia_maidenii,-31.098411,152.567766
 1451620298,Acacia_maidenii,-33.298419,151.551143
@@ -164,9 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937104056,Acacia_maidenii,-27.05,152.08
 1061586885,Acacia_maidenii,-34.773594,150.6233
 1937261124,Acacia_maidenii,-27.5167,152.75
-1451613999,Acacia_maidenii,-30.365076,153.101081
-995941657,Acacia_maidenii,-30.37,153.1
-993256317,Acacia_maidenii,-30.3833,153.0833
 1652094109,Acacia_maidenii,-27.506873,153.025792
 995863484,Acacia_maidenii,-32.07,150.97
 1451581102,Acacia_maidenii,-32.065089,150.967807
@@ -215,7 +199,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993283774,Acacia_maidenii,-24.8833,151.8667
 1651886642,Acacia_maidenii,-28.306874,152.625803
 995941734,Acacia_maidenii,-36.28,150
-993340065,Acacia_maidenii,-36.25,150.1333
 993339826,Acacia_maidenii,-36.2833,150
 1451614040,Acacia_maidenii,-36.281771,150.001208
 995660859,Acacia_maidenii,-27.97,152.42
@@ -264,7 +247,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996020637,Acacia_maidenii,-33.55,150.67
 1451440910,Acacia_maidenii,-33.548428,150.667827
 993189633,Acacia_maidenii,-27.5333,152.9
-1937018306,Acacia_maidenii,-29.4,153.366667
 1651953013,Acacia_maidenii,-27.52354,152.959127
 995481215,Acacia_maidenii,-30.416667,153.033333
 1651952995,Acacia_maidenii,-27.306879,151.859141
@@ -282,7 +264,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651952947,Acacia_maidenii,-27.561944,151.5175
 993396472,Acacia_maidenii,-34.55,150.6333
 1651952990,Acacia_maidenii,-27.056879,151.775808
-1061557927,Acacia_maidenii,-17.233333,142.75
 1936859181,Acacia_maidenii,-30.516667,152.433333
 1061557906,Acacia_maidenii,-37.816667,144.983333
 1451594328,Acacia_maidenii,-32.265084,151.501136
@@ -371,8 +352,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652034989,Acacia_maidenii,-25.915211,152.584123
 1651953126,Acacia_maidenii,-23.606892,150.475808
 1651952963,Acacia_maidenii,-27.581878,151.917475
-1651952932,Acacia_maidenii,-27.748537,153.417454
-995062804,Acacia_maidenii,-27.7167,153.3667
 995937128,Acacia_maidenii,-27.57,151.95
 1651952967,Acacia_maidenii,-28.081871,153.250792
 1451594484,Acacia_maidenii,-32.415081,152.201125
@@ -389,7 +368,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995789088,Acacia_maidenii,-28.87,153.05
 1651953109,Acacia_maidenii,-25.581878,152.750785
 1651952975,Acacia_maidenii,-26.581875,152.917455
-995939002,Acacia_maidenii,-25.37,155.13
 1451594152,Acacia_maidenii,-31.448409,152.917764
 995893358,Acacia_maidenii,-31.45,152.92
 1651953102,Acacia_maidenii,-26.248544,152.584125
@@ -423,7 +401,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651953066,Acacia_maidenii,-26.248543,152.750789
 1936877055,Acacia_maidenii,-27.83,153.03
 1451613846,Acacia_maidenii,-33.998422,151.217824
-995941883,Acacia_maidenii,-34,151.22
 1061556049,Acacia_maidenii,-29.4,150.516667
 995893445,Acacia_maidenii,-31.98,151.17
 1451594344,Acacia_maidenii,-31.981754,151.167803
