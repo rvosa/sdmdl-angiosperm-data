@@ -7,7 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461740792,Corallocarpus_bainesii,-23.875,31.125
 1096738013,Corallocarpus_bainesii,-16.45,28.67
 1258375107,Corallocarpus_bainesii,-16.45,28.66666
-1258374984,Corallocarpus_bainesii,-17.3,27.6
 461740789,Corallocarpus_bainesii,-22.875,27.625
 461740790,Corallocarpus_bainesii,-24.375,30.875
 2291953377,Corallocarpus_bainesii,-24.908333,30.802778
@@ -25,8 +24,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461740776,Corallocarpus_bainesii,-25.375,31.125
 461740774,Corallocarpus_bainesii,-18.625,20.375
 461740772,Corallocarpus_bainesii,-26.125,31.125
-2289035706,Corallocarpus_bainesii,-26.2,32.016667
-1802586797,Corallocarpus_bainesii,-26.2,32.02
 461740773,Corallocarpus_bainesii,-17.375,24.375
 461740768,Corallocarpus_bainesii,-21.375,25.375
 461740775,Corallocarpus_bainesii,-17.875,24.375
