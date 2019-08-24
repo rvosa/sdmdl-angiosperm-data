@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2269056729,Lotus_corniculatus,43.665735,11.426881
 2270245989,Lotus_corniculatus,34.527272,-120.392835
-2244185240,Lotus_corniculatus,38.016941,22.6
 2244183824,Lotus_corniculatus,37.283058,22.673059
 2244184041,Lotus_corniculatus,37.390282,22.602779
 2244185428,Lotus_corniculatus,37.278332,22.519171
@@ -205,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702250837,Lotus_corniculatus,59.7973,10.2563
 1438587068,Lotus_corniculatus,57.97982,26.17194
 2243132930,Lotus_corniculatus,36.436667,138.423056
-1265892033,Lotus_corniculatus,42.6,0.02
 1229578602,Lotus_corniculatus,60.8111,6.4853
 1990674473,Lotus_corniculatus,40.26244,-94.01415
 1599037107,Lotus_corniculatus,60.902902,26.673502
@@ -404,7 +402,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839032874,Lotus_corniculatus,38.76833,21.855829
 1144053192,Lotus_corniculatus,60.1412,5.7536
 1839032965,Lotus_corniculatus,38.976669,21.56444
-1095920726,Lotus_corniculatus,59,17
 1839033167,Lotus_corniculatus,38.83194,21.779169
 1599037114,Lotus_corniculatus,61.446315,25.976109
 1829934616,Lotus_corniculatus,35.265774,139.003097
@@ -435,7 +432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265467325,Lotus_corniculatus,44.883318,-93.376772
 2270491193,Lotus_corniculatus,31.453608,-110.399333
 1702380123,Lotus_corniculatus,59.7372,10.1473
-1095920578,Lotus_corniculatus,63,12
 2265460529,Lotus_corniculatus,48.191667,-92.758611
 1598635715,Lotus_corniculatus,62.620657,29.563925
 1705478046,Lotus_corniculatus,48.3234,15.3949
@@ -456,7 +452,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702380604,Lotus_corniculatus,59.7634,10.1776
 1697559565,Lotus_corniculatus,67.15635,32.40202
 1913583570,Lotus_corniculatus,-31.585,-54.018055
-2251613797,Lotus_corniculatus,-31.908611,-58.4
 1701619006,Lotus_corniculatus,59.5963,11.1252
 1851346134,Lotus_corniculatus,42.736,-5.51
 1839033028,Lotus_corniculatus,39.901939,21.308889
@@ -502,7 +497,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989539371,Lotus_corniculatus,42.32254,-85.13094
 1839033365,Lotus_corniculatus,40.423611,21.49667
 2242147845,Lotus_corniculatus,60.456902,22.260261
-1839033278,Lotus_corniculatus,40.639999,21.5
 1839033107,Lotus_corniculatus,39.770828,21.788891
 1839033320,Lotus_corniculatus,39.816109,21.50528
 1988227785,Lotus_corniculatus,48.91214,-124.43708
@@ -516,7 +510,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 781076719,Lotus_corniculatus,36.894,-3.903
 2310001536,Lotus_corniculatus,43.55,-80.25
 1839033596,Lotus_corniculatus,40.72472,21.82583
-1050654154,Lotus_corniculatus,40.3,-5.75
 1839033230,Lotus_corniculatus,40.49889,21.774719
 1839033547,Lotus_corniculatus,40.466942,21.583891
 2265458972,Lotus_corniculatus,43.536614,-95.164336
@@ -607,8 +600,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806522621,Lotus_corniculatus,49.883333,24.05
 1931051621,Lotus_corniculatus,40.055722,-76.265803
 620536762,Lotus_corniculatus,45.07395,-64.46917
-1806522609,Lotus_corniculatus,49.4,24.816667
-2305642919,Lotus_corniculatus,49.4,24.82
 1934138983,Lotus_corniculatus,40.647778,140.460278
 668769645,Lotus_corniculatus,47.736139,-69.28425
 2290491208,Lotus_corniculatus,52.791417,6.221417
@@ -695,7 +686,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701301107,Lotus_corniculatus,61.9827,11.9917
 1948553869,Lotus_corniculatus,60.535544,25.726266
 1258135640,Lotus_corniculatus,38.968333,-76.117778
-1697559578,Lotus_corniculatus,60.6,45.6
 1828479460,Lotus_corniculatus,43.167,141.048
 1702208361,Lotus_corniculatus,59.1556,11.7397
 1829861384,Lotus_corniculatus,42.956677,141.354018
@@ -740,7 +730,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563903370,Lotus_corniculatus,59.075,7.324
 1935701400,Lotus_corniculatus,47.1225,15.49167
 1342653435,Lotus_corniculatus,55.624351,8.784338
-1697350933,Lotus_corniculatus,51.166667,40.3
 1935701444,Lotus_corniculatus,48.73306,21.26278
 1230920391,Lotus_corniculatus,40.95417,43.79083
 1230920599,Lotus_corniculatus,40.87417,43.99417
@@ -757,14 +746,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2244425116,Lotus_corniculatus,35.590738,139.378053
 1230920397,Lotus_corniculatus,39.59667,45.52222
 237344158,Lotus_corniculatus,52.449444,13.643611
-1095899053,Lotus_corniculatus,61.6,16.33
 1230920228,Lotus_corniculatus,48.73333,21.26361
 388840457,Lotus_corniculatus,35.574076,139.240567
 1701835894,Lotus_corniculatus,58.6241,8.2459
 1230920469,Lotus_corniculatus,40.39361,45.54556
 1342653478,Lotus_corniculatus,56.693682,8.908877
-1806522494,Lotus_corniculatus,48.566667,27
-2304541957,Lotus_corniculatus,48.58,27
 1323728231,Lotus_corniculatus,67.4418,15.3207
 900315185,Lotus_corniculatus,59.4742,7.0846
 1806522420,Lotus_corniculatus,48.783333,26.65
@@ -772,7 +758,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806522596,Lotus_corniculatus,48.566667,26.65
 2322821550,Lotus_corniculatus,68.058962,16.278785
 723946419,Lotus_corniculatus,29.367222,81.110833
-1806522717,Lotus_corniculatus,48.6,26.766667
 2306573966,Lotus_corniculatus,48.81,26.56
 2307646088,Lotus_corniculatus,54.33,48.34
 2335049960,Lotus_corniculatus,60.903426,9.553736
@@ -794,7 +779,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2322516731,Lotus_corniculatus,67.974585,16.546105
 2305534332,Lotus_corniculatus,48.57,26.65
 2321790488,Lotus_corniculatus,68.067942,16.289115
-2304572401,Lotus_corniculatus,48.6,26.78
 442028043,Lotus_corniculatus,51.0925,14.655556
 1576193438,Lotus_corniculatus,40.815981,-3.961196
 1099031982,Lotus_corniculatus,47.767853,12.342312
@@ -908,7 +892,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441779534,Lotus_corniculatus,46.26966,-123.46208
 2288697329,Lotus_corniculatus,52.956281,4.760797
 1702253622,Lotus_corniculatus,59.97892,11.24854
-1095889611,Lotus_corniculatus,31,-9
 932707673,Lotus_corniculatus,41.8358,-7.39962
 932707701,Lotus_corniculatus,42.14687,-7.12556
 932707718,Lotus_corniculatus,42.61016,-8.26991
@@ -932,7 +915,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212128559,Lotus_corniculatus,39.120278,22.158333
 1212128517,Lotus_corniculatus,40.159722,21.259444
 1212128549,Lotus_corniculatus,39.055833,21.88
-1212128520,Lotus_corniculatus,39.9,21.266111
 1839033430,Lotus_corniculatus,39.640282,21.003059
 1839033457,Lotus_corniculatus,40.143608,21.336109
 1212128500,Lotus_corniculatus,40.104444,21.343056
@@ -1046,7 +1028,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212128541,Lotus_corniculatus,39.038056,21.443611
 1212128795,Lotus_corniculatus,38.9625,21.608056
 1701275033,Lotus_corniculatus,63.0542,8.2395
-190762616,Lotus_corniculatus,59.3,10.0375
 1599037074,Lotus_corniculatus,61.327516,24.129676
 1342655123,Lotus_corniculatus,55.263374,9.651775
 1843911903,Lotus_corniculatus,36.511083,-104.885389
@@ -1059,7 +1040,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438265805,Lotus_corniculatus,48.86333,2.01639
 1702267619,Lotus_corniculatus,61.7725,11.9396
 1342655105,Lotus_corniculatus,56.360897,8.683084
-668769640,Lotus_corniculatus,53,-78.65
 1702267627,Lotus_corniculatus,61.8449,11.8358
 437600118,Lotus_corniculatus,48.62833,1.66528
 1829023497,Lotus_corniculatus,40.154167,141.46875
@@ -1073,7 +1053,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204382432,Lotus_corniculatus,34.68138,135.82219
 1342653185,Lotus_corniculatus,55.801493,8.177167
 1949645525,Lotus_corniculatus,49.2675,-124.783056
-786185167,Lotus_corniculatus,53,9
 1701568912,Lotus_corniculatus,66.3103,14.1535
 900310747,Lotus_corniculatus,59.4463,7.1511
 1598702548,Lotus_corniculatus,61.749828,26.116535
@@ -1115,9 +1094,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230920412,Lotus_corniculatus,40.66028,44.35111
 143034861,Lotus_corniculatus,43.049999,-0.18
 1930549841,Lotus_corniculatus,41.6544,45.8033
-1830201726,Lotus_corniculatus,36.683333,137.2
 1599037092,Lotus_corniculatus,60.330123,24.624347
-1697559745,Lotus_corniculatus,53.5,39
 186818981,Lotus_corniculatus,59.1998,7.5424
 2310006473,Lotus_corniculatus,44.03,-79.53
 1230920671,Lotus_corniculatus,40.66306,44.38528
@@ -1128,7 +1105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701306161,Lotus_corniculatus,63.405,10.3765
 1229657415,Lotus_corniculatus,42.84,-2.43
 1230920645,Lotus_corniculatus,40.36556,44.70417
-391294557,Lotus_corniculatus,37.4,140.1
 395776287,Lotus_corniculatus,35.180556,133.874167
 1230930997,Lotus_corniculatus,40.055,46.53139
 1701964517,Lotus_corniculatus,65.0948,13.3367
@@ -1197,7 +1173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253403697,Lotus_corniculatus,51.936039,11.786434
 919462802,Lotus_corniculatus,27.82308,99.706013
 994547221,Lotus_corniculatus,-41.13193,147.71768
-994549068,Lotus_corniculatus,-41,147
 1260040714,Lotus_corniculatus,33.01666,-116.45
 1986996239,Lotus_corniculatus,34.53333,-120.03333
 1144709767,Lotus_corniculatus,42.33333,9.21667
@@ -1206,7 +1181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204382440,Lotus_corniculatus,34.69103,135.77025
 1230920574,Lotus_corniculatus,45.62194,14.30583
 1705353812,Lotus_corniculatus,57.679622,14.938621
-1096211134,Lotus_corniculatus,58,13
 895221162,Lotus_corniculatus,40.784,-1.086
 1830677349,Lotus_corniculatus,33.566667,133.583333
 1899736689,Lotus_corniculatus,35.999444,-121.178889
@@ -1214,7 +1188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144047570,Lotus_corniculatus,61.1904,5.3131
 1323855064,Lotus_corniculatus,70.0484,20.7787
 1697559835,Lotus_corniculatus,49.15,44.05
-1050640868,Lotus_corniculatus,42.82,-2.7
 1050640980,Lotus_corniculatus,42.81,-2.71
 996173890,Lotus_corniculatus,34.735,32.5218
 1148201137,Lotus_corniculatus,58.55694,23.54722
@@ -1305,11 +1278,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395776258,Lotus_corniculatus,34.936111,133.913889
 395776266,Lotus_corniculatus,35.115556,134.151389
 1990832239,Lotus_corniculatus,40.9317,-74.6145
-1830681901,Lotus_corniculatus,33.55,133.4
 1230920392,Lotus_corniculatus,45.70028,13.80472
 395776261,Lotus_corniculatus,35.299139,133.738306
 912261219,Lotus_corniculatus,39.22,46.34
-912261161,Lotus_corniculatus,39.5,46.32
 1830624659,Lotus_corniculatus,33.98432,134.438606
 381820171,Lotus_corniculatus,36.3624,140.60793
 788483980,Lotus_corniculatus,55.47885,13.01427
@@ -1325,7 +1296,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441778805,Lotus_corniculatus,48.324444,-122.373333
 30968585,Lotus_corniculatus,42.73,-5.75
 1323859278,Lotus_corniculatus,68.3339,16.6057
-1830195355,Lotus_corniculatus,36.6,137.183333
 895231386,Lotus_corniculatus,39.86,-0.796
 1230915810,Lotus_corniculatus,40.88528,43.98139
 1342654301,Lotus_corniculatus,57.475631,10.474424
@@ -1377,7 +1347,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1655919668,Lotus_corniculatus,-35.5755,149.0266
 1701802054,Lotus_corniculatus,61.655,9.7421
 1702033161,Lotus_corniculatus,62.673,11.4312
-994542086,Lotus_corniculatus,-41.7,145.6
 442026797,Lotus_corniculatus,52.123055,11.636666
 442026804,Lotus_corniculatus,50.864231,10.573249
 442026542,Lotus_corniculatus,51.083252,14.974722
@@ -1390,7 +1359,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 932705588,Lotus_corniculatus,42.26111,-8.81955
 317822348,Lotus_corniculatus,41.32,2.22
 2244425131,Lotus_corniculatus,35.482425,139.415553
-1830691471,Lotus_corniculatus,33.1,133.133333
 317822349,Lotus_corniculatus,41.283,2.11
 1851397931,Lotus_corniculatus,42.418,-6.818
 932705778,Lotus_corniculatus,42.27613,-8.15251
@@ -1398,11 +1366,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851326613,Lotus_corniculatus,42.76147,-5.55144
 1936207913,Lotus_corniculatus,41.5898,-5.7127
 60011390,Lotus_corniculatus,41.920915,-8.065412
-1144709752,Lotus_corniculatus,42.56667,9.1
-2270509343,Lotus_corniculatus,34.4711,-111.8
 2270526343,Lotus_corniculatus,34.1801,-111.2126
 1257686936,Lotus_corniculatus,40.3247,-92.0708
-1830691302,Lotus_corniculatus,33.3,134.1
 1851369944,Lotus_corniculatus,42.6161,-5.5221
 60011449,Lotus_corniculatus,41.866883,-8.0662
 862233,Lotus_corniculatus,55.46108,12.9839
@@ -1507,7 +1472,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702218309,Lotus_corniculatus,59.1482,11.5517
 893477294,Lotus_corniculatus,40.566669,44.98333
 1701317766,Lotus_corniculatus,63.3957,10.316
-30878562,Lotus_corniculatus,41.73,-1.8
 1701846441,Lotus_corniculatus,59.4817,11.6544
 441778802,Lotus_corniculatus,47.394,-121.909833
 1342653637,Lotus_corniculatus,56.10059,9.199646
@@ -1546,7 +1510,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697559644,Lotus_corniculatus,55.654445,40.196314
 1340038487,Lotus_corniculatus,55.47969,12.97981
 1702001990,Lotus_corniculatus,61.7328,11.7544
-786185172,Lotus_corniculatus,53.9,10.7
 1342653999,Lotus_corniculatus,54.920563,9.864656
 1701241855,Lotus_corniculatus,63.9613,10.1914
 1340038637,Lotus_corniculatus,55.44853,12.98163
@@ -1597,7 +1560,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441778768,Lotus_corniculatus,47.683333,-122.25
 1702256348,Lotus_corniculatus,60.28641,10.38658
 1701776899,Lotus_corniculatus,63.9175,9.9945
-899784249,Lotus_corniculatus,46.7,9.6
 1599037079,Lotus_corniculatus,60.729635,25.448231
 187194075,Lotus_corniculatus,65.4031,13.076
 186818830,Lotus_corniculatus,60.37037,5.41776
@@ -1614,7 +1576,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395776197,Lotus_corniculatus,34.993611,134.134444
 1671665934,Lotus_corniculatus,44.069019,9.798158
 1851328950,Lotus_corniculatus,42.219,-6.328
-439776769,Lotus_corniculatus,45.9167,9
 45458588,Lotus_corniculatus,38.688056,-121.871944
 1851375105,Lotus_corniculatus,42.7299,-6.4941
 152935807,Lotus_corniculatus,46.399636,14.245283
@@ -1624,11 +1585,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936684694,Lotus_corniculatus,43.3634,-5.3215
 1929669189,Lotus_corniculatus,37.3665,-113.5038
 1851342632,Lotus_corniculatus,42.263,-6.302
-1099907303,Lotus_corniculatus,41.3,23.683333
 186818773,Lotus_corniculatus,59.6092,7.3675
 186818774,Lotus_corniculatus,59.2927,7.3892
 1999490699,Lotus_corniculatus,60.37578,23.0663
-1099903251,Lotus_corniculatus,41.1,26.1
 1999539483,Lotus_corniculatus,60.47725,22.04141
 1702002392,Lotus_corniculatus,60.3281,12.0477
 1099903306,Lotus_corniculatus,40.083333,21.95
@@ -1651,8 +1610,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701232011,Lotus_corniculatus,64.1326,11.6608
 1148200958,Lotus_corniculatus,58.93333,23.38639
 1342653232,Lotus_corniculatus,55.505873,8.325841
-899784247,Lotus_corniculatus,48.1,11.5
-2307048555,Lotus_corniculatus,40.63,140.7
 1933851821,Lotus_corniculatus,35.6366,139.4638
 1342654993,Lotus_corniculatus,55.869052,12.513725
 1851335205,Lotus_corniculatus,43.0233,-5.5964
@@ -1667,7 +1624,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395776203,Lotus_corniculatus,35.260556,133.800556
 1702032895,Lotus_corniculatus,60.896,10.8016
 186818778,Lotus_corniculatus,59.1801,7.2166
-1806522849,Lotus_corniculatus,40.636111,140.7
 788538340,Lotus_corniculatus,55.44418,12.99143
 1830200509,Lotus_corniculatus,36.466667,137.016667
 1342654610,Lotus_corniculatus,55.835643,11.353958
@@ -1675,7 +1631,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933851651,Lotus_corniculatus,35.6453,139.4557
 1701849658,Lotus_corniculatus,60.7868,11.2529
 1851331887,Lotus_corniculatus,43.0322,-5.6397
-1095900658,Lotus_corniculatus,41,23
 1705289587,Lotus_corniculatus,57.249102,16.439689
 1883359304,Lotus_corniculatus,55.5089,13.77479
 2242376729,Lotus_corniculatus,39.960091,-105.50951
@@ -1744,13 +1699,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702197796,Lotus_corniculatus,61.4092,12.7155
 668769623,Lotus_corniculatus,52.783333,-67.083333
 1050627205,Lotus_corniculatus,41.66,-1.67
-899784256,Lotus_corniculatus,48.3,11.5
 187194496,Lotus_corniculatus,63.3971,10.311
 1253785784,Lotus_corniculatus,10.017778,-83.941944
 1050627141,Lotus_corniculatus,41.73,-1.79
 1340036896,Lotus_corniculatus,56.4022,14.34568
 395776163,Lotus_corniculatus,35.306111,133.671667
-786185178,Lotus_corniculatus,47.7,9.2
 1701302993,Lotus_corniculatus,63.9929,11.4604
 1989379205,Lotus_corniculatus,44.779285,-83.383713
 1936579028,Lotus_corniculatus,14.2869,45.6244
@@ -1762,7 +1715,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705276334,Lotus_corniculatus,57.269694,16.451645
 60011359,Lotus_corniculatus,43.294943,-4.664163
 1323842895,Lotus_corniculatus,66.7567,15.8289
-1851327285,Lotus_corniculatus,43.3,-4.66
 1701344692,Lotus_corniculatus,63.3546,9.3467
 395776178,Lotus_corniculatus,35.172222,133.436111
 1828666931,Lotus_corniculatus,36.506683,136.692
@@ -1771,7 +1723,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600733980,Lotus_corniculatus,61.584678,23.597109
 1323753180,Lotus_corniculatus,69.6444,18.9505
 1323754951,Lotus_corniculatus,69.6278,18.9135
-899784254,Lotus_corniculatus,46.7,9.7
 865490312,Lotus_corniculatus,59.57248,10.5063
 1600734006,Lotus_corniculatus,60.194831,24.590854
 30878429,Lotus_corniculatus,36.580002,-4.68
@@ -1817,7 +1768,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1340038633,Lotus_corniculatus,56.09955,13.13175
 1702198950,Lotus_corniculatus,60.7475,11.2428
 1563902192,Lotus_corniculatus,59.1416,7.1743
-615354569,Lotus_corniculatus,35.2,74.7
 1697559732,Lotus_corniculatus,57.765503,42.178956
 395776123,Lotus_corniculatus,35.078056,133.541667
 186818696,Lotus_corniculatus,59.1266,7.1926
@@ -1867,14 +1817,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176978066,Lotus_corniculatus,42.716578,-92.334372
 1262028021,Lotus_corniculatus,46.783333,-71.283333
 2265441745,Lotus_corniculatus,44.66592,-93.694402
-29697076,Lotus_corniculatus,39.7,-1.89
 1099914572,Lotus_corniculatus,41.066667,22.283333
 729284926,Lotus_corniculatus,34.966702,135.14999
 1936671936,Lotus_corniculatus,41.3094,-4.1959
 1099902359,Lotus_corniculatus,40.75,22.166667
 1671665834,Lotus_corniculatus,44.102015,9.767954
 1999490782,Lotus_corniculatus,60.38979,22.3972
-1099916938,Lotus_corniculatus,40.9,22.033333
 1999490743,Lotus_corniculatus,60.66498,23.221729
 1988774813,Lotus_corniculatus,41.99385,-83.81794
 1099914958,Lotus_corniculatus,40.783333,21.316667
@@ -1915,7 +1863,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701345654,Lotus_corniculatus,63.3862,10.3505
 1342653453,Lotus_corniculatus,54.923562,8.866121
 395776108,Lotus_corniculatus,35.194722,134.372222
-1988706543,Lotus_corniculatus,46,-83.66667
 1701256513,Lotus_corniculatus,63.4406,10.4534
 186818616,Lotus_corniculatus,59.5709,7.3034
 388840350,Lotus_corniculatus,35.34078,139.653036
@@ -1929,7 +1876,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701308618,Lotus_corniculatus,62.5824,7.102
 388840338,Lotus_corniculatus,35.60741,139.628032
 1671665819,Lotus_corniculatus,44.132653,9.707824
-1930015075,Lotus_corniculatus,41.68,-74.1
 381819880,Lotus_corniculatus,35.87504,140.69453
 1795864035,Lotus_corniculatus,42.640757,-2.278535
 1830645698,Lotus_corniculatus,32.929167,132.96875
@@ -1956,7 +1902,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29697051,Lotus_corniculatus,39.88,-2.24
 729311788,Lotus_corniculatus,35.116699,135.067
 30967886,Lotus_corniculatus,38.39,-0.96
-2306651530,Lotus_corniculatus,41.81,140.1
 30670377,Lotus_corniculatus,36.879,-2.792
 1999490784,Lotus_corniculatus,60.819165,21.396292
 388840314,Lotus_corniculatus,35.234949,139.107115
@@ -1987,7 +1932,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851322522,Lotus_corniculatus,42.6206,-5.521
 29697083,Lotus_corniculatus,39.97,-2.36
 1340036928,Lotus_corniculatus,55.56817,13.42643
-615354480,Lotus_corniculatus,36.3,72.25
 1340037101,Lotus_corniculatus,56.24171,14.12485
 176978065,Lotus_corniculatus,42.45051,-93.383177
 51875285,Lotus_corniculatus,44.3067,-118.6681
@@ -2005,7 +1949,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442024796,Lotus_corniculatus,51.776024,12.730667
 729299604,Lotus_corniculatus,35.25,134.867
 1828816438,Lotus_corniculatus,36.400668,136.488587
-2268896148,Lotus_corniculatus,-38.666667,-72
 1851402272,Lotus_corniculatus,41.5771,-5.5544
 30670371,Lotus_corniculatus,36.888,-2.804
 1893639788,Lotus_corniculatus,19.513333,-98.881667
@@ -2022,7 +1965,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 21114277,Lotus_corniculatus,60.1482,11.4044
 1936512862,Lotus_corniculatus,38.7883,-0.2841
 1701786731,Lotus_corniculatus,60.0605,11.3622
-1050643914,Lotus_corniculatus,40.14,-4.7
 1701993251,Lotus_corniculatus,59.72,10.8287
 1936199727,Lotus_corniculatus,40.1408,-4.7151
 1697559788,Lotus_corniculatus,52.600507,38.900924
@@ -2042,7 +1984,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701989438,Lotus_corniculatus,60.0794,11.2296
 295918912,Lotus_corniculatus,35.357445,139.640538
 1701986543,Lotus_corniculatus,59.8068,8.6284
-30967549,Lotus_corniculatus,38.61,-0.9
 1697559812,Lotus_corniculatus,52.122826,38.589828
 30967327,Lotus_corniculatus,42.67,0.26
 186818176,Lotus_corniculatus,59.6655,7.1903
@@ -2051,7 +1992,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697559612,Lotus_corniculatus,64.697539,43.391557
 1701986444,Lotus_corniculatus,60.1243,12.1173
 1599037089,Lotus_corniculatus,60.254384,24.069676
-1881829029,Lotus_corniculatus,48.83,10.7
 176978070,Lotus_corniculatus,39.892355,-105.193973
 1599340355,Lotus_corniculatus,63.083804,21.559112
 388840303,Lotus_corniculatus,35.590746,139.503045
@@ -2073,7 +2013,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701583084,Lotus_corniculatus,62.5584,8.4846
 1701790936,Lotus_corniculatus,62.5437,8.5101
 729303097,Lotus_corniculatus,36.799999,137.433
-1099899028,Lotus_corniculatus,39.5,20.616667
 1701986087,Lotus_corniculatus,60.8028,11.1216
 1701997400,Lotus_corniculatus,62.5121,8.1747
 233099672,Lotus_corniculatus,45.876701,-97.98176
@@ -2088,9 +2027,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29696431,Lotus_corniculatus,40.12,-0.24
 895246980,Lotus_corniculatus,40.58,0.34
 1842885038,Lotus_corniculatus,35.13,-4.98
-994484822,Lotus_corniculatus,-41.214,145.8
 992601148,Lotus_corniculatus,-41.215,145.798889
-995131491,Lotus_corniculatus,-41.2,145.7833
 1851384451,Lotus_corniculatus,43.024,-5.044
 30670372,Lotus_corniculatus,36.879,-2.77
 2270601644,Lotus_corniculatus,34.8603,-112.096
@@ -2135,7 +2072,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701983286,Lotus_corniculatus,60.6885,11.7735
 1701983415,Lotus_corniculatus,62.1031,10.6658
 1701785212,Lotus_corniculatus,60.1651,12.4673
-615354479,Lotus_corniculatus,35.9,74.35
 1936444703,Lotus_corniculatus,43.5499,-7.0207
 1701983343,Lotus_corniculatus,61.7332,10.8379
 1701785199,Lotus_corniculatus,60.1638,12.4683
@@ -2155,7 +2091,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30967751,Lotus_corniculatus,33.09,-5.01
 30967757,Lotus_corniculatus,34.06,-5.55
 2291194177,Lotus_corniculatus,53.174638,5.425152
-993983480,Lotus_corniculatus,-35.6333,148.9
 1050592462,Lotus_corniculatus,43.23,-3.58
 60011154,Lotus_corniculatus,42.906272,-9.12862
 1936634995,Lotus_corniculatus,39.33183,-7.42343
@@ -2168,7 +2103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936553827,Lotus_corniculatus,39.9842,-5.812
 1144709732,Lotus_corniculatus,42.33333,9.23333
 1936430279,Lotus_corniculatus,43.2689,-6.919
-729281503,Lotus_corniculatus,34.883301,135.2
 30878595,Lotus_corniculatus,36.869999,-2.66
 1842885076,Lotus_corniculatus,34.8843,-3.1705
 1842885041,Lotus_corniculatus,34.03,-6.63
@@ -2226,7 +2160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701426625,Lotus_corniculatus,59.7903,11.3251
 1342653400,Lotus_corniculatus,55.201782,8.676649
 1701575990,Lotus_corniculatus,67.9937,15.5237
-895246669,Lotus_corniculatus,40.4,0.35
 1702433579,Lotus_corniculatus,61.2368,7.7147
 1701502856,Lotus_corniculatus,61.2413,7.7145
 1702433559,Lotus_corniculatus,61.2406,7.6493
@@ -2261,7 +2194,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 858350908,Lotus_corniculatus,54.0485,13.415
 729281565,Lotus_corniculatus,34.9333,135.14999
 388840302,Lotus_corniculatus,35.839887,139.91036
-1947276707,Lotus_corniculatus,50.07,10.8
 1260938036,Lotus_corniculatus,39.306944,-91.110278
 1502027505,Lotus_corniculatus,40.48,-0.23
 2265411110,Lotus_corniculatus,44.871667,-93.664444
@@ -2278,13 +2210,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265355346,Lotus_corniculatus,46.0916,-92.415029
 729314228,Lotus_corniculatus,35.516701,134.367
 1668934626,Lotus_corniculatus,54.876,37.615
-1851341998,Lotus_corniculatus,42.65,-5.5
 1851405586,Lotus_corniculatus,42.83,-5.63
 1323792600,Lotus_corniculatus,68.4216,16.3767
 2265352944,Lotus_corniculatus,47.593858,-96.312283
 415972094,Lotus_corniculatus,41.87138,-72.36861
 1702255482,Lotus_corniculatus,59.84258,10.45045
-615354451,Lotus_corniculatus,35.2,74.68
 415972096,Lotus_corniculatus,41.76194,-72.74194
 437907613,Lotus_corniculatus,43.70278,-1.45
 1936437587,Lotus_corniculatus,43.7028,-1.45
@@ -2314,11 +2244,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415972095,Lotus_corniculatus,41.45666,-72.82388
 187194483,Lotus_corniculatus,62.9896,10.5098
 1851382757,Lotus_corniculatus,43.065,-4.762
-1830178789,Lotus_corniculatus,36.7,137.033333
 1340036359,Lotus_corniculatus,60.883333,24.833333
 381819825,Lotus_corniculatus,36.17397,140.09618
 1705346150,Lotus_corniculatus,57.284766,15.689147
-895302173,Lotus_corniculatus,39.7,-2.01
 1702430590,Lotus_corniculatus,60.9918,9.2227
 1844869802,Lotus_corniculatus,43.06,-4.76
 1599037060,Lotus_corniculatus,60.890459,24.840739
@@ -2326,11 +2254,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702432362,Lotus_corniculatus,58.877,9.3234
 2270200254,Lotus_corniculatus,35.591915,-121.116247
 1701929944,Lotus_corniculatus,59.7928,10.5011
-1340039551,Lotus_corniculatus,61,24.416667
 1599037068,Lotus_corniculatus,61.0131,24.41251
-1323846200,Lotus_corniculatus,61,24.4167
 30968780,Lotus_corniculatus,38.65,-0.92
-1929239275,Lotus_corniculatus,-24.5,-50.4
 1077313825,Lotus_corniculatus,-25.333333,-49.233333
 1829857641,Lotus_corniculatus,33.057136,133.098226
 2288733278,Lotus_corniculatus,30.666667,-7.266667
@@ -2344,7 +2269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936413090,Lotus_corniculatus,40.3151,-4.4842
 624041630,Lotus_corniculatus,35.294958,140.121744
 895246581,Lotus_corniculatus,40.39,0.11
-1844869627,Lotus_corniculatus,42.5,-2.43
 2265353675,Lotus_corniculatus,46.928921,-94.522859
 1829766583,Lotus_corniculatus,35.328289,140.196742
 1144179025,Lotus_corniculatus,61.0167,24.5833
@@ -2362,7 +2286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829766934,Lotus_corniculatus,35.403281,140.109244
 624041632,Lotus_corniculatus,35.528261,140.134239
 624041627,Lotus_corniculatus,35.503264,140.084244
-1701533483,Lotus_corniculatus,36.6,29.61667
 30966923,Lotus_corniculatus,38.68,-0.28
 2265599236,Lotus_corniculatus,44.573891,-92.619446
 1851353352,Lotus_corniculatus,42.6416,-5.2511
@@ -2380,14 +2303,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265353603,Lotus_corniculatus,48.163889,-96.240556
 1830218434,Lotus_corniculatus,37.47908,140.0051
 29697246,Lotus_corniculatus,39.95,-0.48
-1340038645,Lotus_corniculatus,60.966667,24.5
 895246524,Lotus_corniculatus,40.48,0.23
 1701984693,Lotus_corniculatus,60.1833,10.7167
 1701909282,Lotus_corniculatus,59.0661,5.9153
-862205,Lotus_corniculatus,59.3,13.483333
 1261881994,Lotus_corniculatus,38.872222,-90.194444
 1502036527,Lotus_corniculatus,40.21,0.12
-1340040837,Lotus_corniculatus,60,12.116667
 442025210,Lotus_corniculatus,47.25,11.333333
 1851402802,Lotus_corniculatus,43.143,-4.937
 862218,Lotus_corniculatus,59.883333,12.933333
@@ -2400,17 +2320,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323810553,Lotus_corniculatus,69.0675,19.475
 1701984819,Lotus_corniculatus,62.5253,7.7469
 2265354272,Lotus_corniculatus,43.926388,-92.495834
-1701984787,Lotus_corniculatus,60,12.1167
 1599037065,Lotus_corniculatus,60.979806,24.50392
-1502029044,Lotus_corniculatus,40.3,-0.12
 2289542673,Lotus_corniculatus,43.341667,0.719444
 1502027218,Lotus_corniculatus,40.39,-0.23
-30967306,Lotus_corniculatus,38.47,-0.7
 27385672,Lotus_corniculatus,46.8094,4.42361
 2291731174,Lotus_corniculatus,43.366667,0.85
 2265426204,Lotus_corniculatus,43.978611,-94.525556
 1829766846,Lotus_corniculatus,35.394947,140.121744
-615354448,Lotus_corniculatus,35.3,74.77
 1099887859,Lotus_corniculatus,57.26573,16.47546
 729277921,Lotus_corniculatus,34.716702,135.117
 1937138194,Lotus_corniculatus,-31.983333,151.116667
@@ -2420,7 +2336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 624041626,Lotus_corniculatus,35.386614,140.146744
 1701789135,Lotus_corniculatus,61.2692,12.3359
 1839034538,Lotus_corniculatus,38.583611,21.964439
-30967119,Lotus_corniculatus,38.6,-0.19
 1261003524,Lotus_corniculatus,38.58333,-90.26388
 895228995,Lotus_corniculatus,41.512,-1.64
 2265353925,Lotus_corniculatus,46.444443,-93.576942
@@ -2437,7 +2352,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729316517,Lotus_corniculatus,34.883301,135.317
 1144712155,Lotus_corniculatus,42.68333,9.38333
 186818030,Lotus_corniculatus,59.5917,7.0296
-473416460,Lotus_corniculatus,48.216667,-79.3
 1701789063,Lotus_corniculatus,62.2172,11.0009
 1842926341,Lotus_corniculatus,36.527477,-104.875554
 1323733511,Lotus_corniculatus,68.6284,17.65
@@ -2453,10 +2367,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30877834,Lotus_corniculatus,43.080002,-2.75
 1703290710,Lotus_corniculatus,49.6829040633412,-95.3171643064849
 1702178561,Lotus_corniculatus,68.1272,17.5862
-1947277837,Lotus_corniculatus,50.06,9.8
 1697261214,Lotus_corniculatus,60.266204,72.139728
 1999490775,Lotus_corniculatus,60.721677,21.652083
-1830162651,Lotus_corniculatus,36.7,136.916667
 1830223076,Lotus_corniculatus,36.466667,137.433333
 1830204180,Lotus_corniculatus,36.45,137.433333
 1829696090,Lotus_corniculatus,36.16806,139.1375
@@ -2468,7 +2380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30968450,Lotus_corniculatus,38.66,-0.05
 1599037050,Lotus_corniculatus,60.580489,24.772047
 615354457,Lotus_corniculatus,34.78,73.53
-29698339,Lotus_corniculatus,39.59,-0.5
 381820411,Lotus_corniculatus,36.46749,140.57668
 2265353093,Lotus_corniculatus,47.675835,-93.797226
 1831265156,Lotus_corniculatus,53.3485,12.0819
@@ -2479,7 +2390,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265353849,Lotus_corniculatus,43.553333,-94.704719
 2313366972,Lotus_corniculatus,48.07,11.54
 1831265135,Lotus_corniculatus,53.3485,11.582
-29697304,Lotus_corniculatus,40.04,-0.6
 2265353926,Lotus_corniculatus,44.037778,-92.878056
 2242372388,Lotus_corniculatus,39.731734,-104.997153
 1261828367,Lotus_corniculatus,39.75,-77.366667
@@ -2503,7 +2413,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500867362,Lotus_corniculatus,40.02,-0.61
 729284182,Lotus_corniculatus,35.016701,135.233
 1851382409,Lotus_corniculatus,43.02,-5.15
-615354458,Lotus_corniculatus,34.9,73.68
 1500867741,Lotus_corniculatus,40.01,-0.65
 29697241,Lotus_corniculatus,40.019,-0.651
 1599037055,Lotus_corniculatus,61.005208,24.4224
@@ -2517,12 +2426,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913344703,Lotus_corniculatus,69.167222,18.092778
 1703290614,Lotus_corniculatus,50.0165664538222,-96.8835518421182
 1999490787,Lotus_corniculatus,60.793894,21.437539
-2292005240,Lotus_corniculatus,52,5.65
 1599037063,Lotus_corniculatus,60.96756,24.521506
 415972100,Lotus_corniculatus,41.78833,-72.22888
 1323782610,Lotus_corniculatus,68.0855,15.5642
 1947276704,Lotus_corniculatus,50.34,10.49
-615354567,Lotus_corniculatus,28.1,83.9
 1702089125,Lotus_corniculatus,60.4317,9.7929
 668769627,Lotus_corniculatus,46.741667,-71.286111
 2270199088,Lotus_corniculatus,34.9656999991135,-120.6185
@@ -2551,9 +2458,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697559703,Lotus_corniculatus,54.484481,40.972944
 1500983406,Lotus_corniculatus,40.06,-0.61
 1701531529,Lotus_corniculatus,38.08333,29.58333
-1501559643,Lotus_corniculatus,39.68,-0.2
 1806522800,Lotus_corniculatus,53.438639,49.655972
-2290747978,Lotus_corniculatus,61,24.383333
 1599037030,Lotus_corniculatus,61.062403,24.339007
 30968817,Lotus_corniculatus,38.64,-0.58
 2243084270,Lotus_corniculatus,38.374835,140.403223
@@ -2577,21 +2482,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318229758,Lotus_corniculatus,59.0649,5.9215
 1563332619,Lotus_corniculatus,31.18,-7.85
 1697559589,Lotus_corniculatus,56.199256,21.156235
-1830160560,Lotus_corniculatus,36.433333,136.8
 2265452732,Lotus_corniculatus,45.931111,-93.386389
 1288110555,Lotus_corniculatus,50.322885,10.215276
 1697559842,Lotus_corniculatus,49.921112,38.899775
 1599037041,Lotus_corniculatus,60.383471,24.521602
 1144145631,Lotus_corniculatus,61.23189,6.76174
 2265452358,Lotus_corniculatus,44.984523,-93.177092
-1144709756,Lotus_corniculatus,42.4,9.33333
 1426105165,Lotus_corniculatus,41.2317,-121.3992
 1978365990,Lotus_corniculatus,49.88175,23.757583
 2304715948,Lotus_corniculatus,49.88,23.76
 1701336654,Lotus_corniculatus,62.9212,10.1518
 295918571,Lotus_corniculatus,35.449098,139.60304
 615354456,Lotus_corniculatus,36.25,74.33
-1988119098,Lotus_corniculatus,48.49,-121.6
 2265453120,Lotus_corniculatus,43.658889,-95.691944
 465765414,Lotus_corniculatus,45.26423,-62.04081
 29697222,Lotus_corniculatus,40.02,-0.686
@@ -2602,7 +2504,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1934062098,Lotus_corniculatus,35.592,139.5039
 1936404915,Lotus_corniculatus,40.8233,-3.9618
 1500981187,Lotus_corniculatus,40.02,-0.68
-729312601,Lotus_corniculatus,34.766701,134.7
 1828890237,Lotus_corniculatus,34.91662,134.59914
 1094713307,Lotus_corniculatus,-31.578889,-53.381389
 993922472,Lotus_corniculatus,-30.0667,151.6667
@@ -2614,7 +2515,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935701297,Lotus_corniculatus,47.11639,15.49083
 2270198791,Lotus_corniculatus,36.19857,-119.82136
 318039060,Lotus_corniculatus,42.57,-1.63
-1050592519,Lotus_corniculatus,42.7,-2.31
 1050592506,Lotus_corniculatus,42.98,-3.77
 1599037024,Lotus_corniculatus,61.119123,24.023301
 2288806743,Lotus_corniculatus,60.966667,23.233333
@@ -2637,16 +2537,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265354348,Lotus_corniculatus,45.377147,-96.148127
 1936367638,Lotus_corniculatus,40.4187,-5.3115
 895201562,Lotus_corniculatus,40.663,-0.072
-1144709765,Lotus_corniculatus,42.2,9.11667
-883363579,Lotus_corniculatus,53.2,-114.183333
 2265353728,Lotus_corniculatus,45.130662,-96.297762
 1050592606,Lotus_corniculatus,42.68,-2.26
 895294967,Lotus_corniculatus,37.18,-2.49
 1050592584,Lotus_corniculatus,42.48,-1.96
 1830157831,Lotus_corniculatus,36.916667,137.016667
-1500696908,Lotus_corniculatus,40,-0.25
 1702238536,Lotus_corniculatus,59.1014,9.0611
-1262018558,Lotus_corniculatus,45.1,-73.866667
 381820390,Lotus_corniculatus,36.37887,140.48746
 1701638319,Lotus_corniculatus,59.1106,10.7646
 1851392777,Lotus_corniculatus,42.829,-4.841
@@ -2655,7 +2551,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599037027,Lotus_corniculatus,60.967185,24.501216
 1697801810,Lotus_corniculatus,43.147529,40.343857
 1332788009,Lotus_corniculatus,50.559906,9.88267
-1936385593,Lotus_corniculatus,60.9833,24.4
 1599037026,Lotus_corniculatus,61.620391,24.26762
 1898256007,Lotus_corniculatus,56.40734,12.91661
 2265353630,Lotus_corniculatus,47.492464,-96.184947
@@ -2687,7 +2582,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599037001,Lotus_corniculatus,63.089738,21.584793
 1806522921,Lotus_corniculatus,52.717,38.907222
 1050592490,Lotus_corniculatus,43.17,-2.02
-1830178169,Lotus_corniculatus,36.7,137.866667
 395776031,Lotus_corniculatus,35.245,133.793056
 29698200,Lotus_corniculatus,38.69,-0.64
 1936428180,Lotus_corniculatus,42.0286,-4.318
@@ -2697,19 +2591,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947276628,Lotus_corniculatus,50.16,10.68
 1986996424,Lotus_corniculatus,38.874784,-91.744606
 1599037272,Lotus_corniculatus,61.169958,25.974984
-1804585329,Lotus_corniculatus,45.3,-75.55
 1260934176,Lotus_corniculatus,40.146944,-92.260278
 1936117130,Lotus_corniculatus,42.2756,-6.7701
 187194431,Lotus_corniculatus,62.9515,10.7049
 862321,Lotus_corniculatus,56.877485,14.811873
 1050592452,Lotus_corniculatus,42.74,-2.05
 1144061390,Lotus_corniculatus,62.5243,6.9114
-1702508514,Lotus_corniculatus,42.64,-1.1
 1701280923,Lotus_corniculatus,62.9524,10.6261
-1050592578,Lotus_corniculatus,42.05,-1.9
 296491631,Lotus_corniculatus,46.833,12.783
 2243083591,Lotus_corniculatus,38.583517,140.522765
-1050592582,Lotus_corniculatus,42.6,-2.36
 1288110534,Lotus_corniculatus,50.624968,9.858097
 1701240010,Lotus_corniculatus,62.9674,10.8637
 1262016978,Lotus_corniculatus,49.785,-74.532
@@ -2719,7 +2609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415953216,Lotus_corniculatus,41.88111,-72.3025
 1702508523,Lotus_corniculatus,42.65,-1.05
 1099914438,Lotus_corniculatus,39.783333,21.183333
-1936146370,Lotus_corniculatus,31.2,-7.8667
 187194441,Lotus_corniculatus,63.0177,10.3927
 1936399762,Lotus_corniculatus,43.0728,-4.3525
 1599037012,Lotus_corniculatus,63.068081,21.725666
@@ -2743,7 +2632,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599037006,Lotus_corniculatus,60.788623,28.015881
 1599037113,Lotus_corniculatus,61.262408,23.296273
 473456528,Lotus_corniculatus,45.466667,-73.933333
-318039275,Lotus_corniculatus,42.2,-1.48
 1050592572,Lotus_corniculatus,42.48,-2.05
 1050592596,Lotus_corniculatus,42.22,-1.75
 1050592592,Lotus_corniculatus,42.54,-1.87
@@ -2752,12 +2640,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702408017,Lotus_corniculatus,59.5119,10.6388
 994902786,Lotus_corniculatus,-35.8667,145.2667
 199487826,Lotus_corniculatus,36.449,-5.46
-1502001171,Lotus_corniculatus,39.14,-0.4
 29698075,Lotus_corniculatus,39.77,-0.72
 1830172297,Lotus_corniculatus,36.983333,136.766667
 1936558609,Lotus_corniculatus,41.1053,-3.8468
-1851350289,Lotus_corniculatus,42.65,-6.5
-29698210,Lotus_corniculatus,40.3,-0.23
 1260940072,Lotus_corniculatus,40.466667,-92.658889
 729274630,Lotus_corniculatus,34.900002,134.85001
 381820393,Lotus_corniculatus,36.36039,140.45677
@@ -2781,7 +2666,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599037002,Lotus_corniculatus,60.699425,27.939825
 234425341,Lotus_corniculatus,35.232449,139.090588
 1936558430,Lotus_corniculatus,41.0061,-3.8575
-1144709763,Lotus_corniculatus,41.6,9.13333
 1934155100,Lotus_corniculatus,36.7475,140.4992
 1599037000,Lotus_corniculatus,61.002135,24.473506
 1599037004,Lotus_corniculatus,61.063106,24.306521
@@ -2817,9 +2701,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936409766,Lotus_corniculatus,42.1134,-6.7637
 1702230980,Lotus_corniculatus,59.2836,8.6183
 1936111386,Lotus_corniculatus,41.8194,-3.3625
-993896216,Lotus_corniculatus,-35.4,149
 1451670521,Lotus_corniculatus,-35.398443,149.001209
-993896621,Lotus_corniculatus,-35.6,148.9833
 1090596237,Lotus_corniculatus,-28.464444,-49.007222
 1998754082,Lotus_corniculatus,25.55,102.4333
 1936087805,Lotus_corniculatus,42.3526,-7.6658
@@ -2829,9 +2711,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 736065764,Lotus_corniculatus,36.04792,139.24867
 1830155578,Lotus_corniculatus,36.633333,137.183333
 234425337,Lotus_corniculatus,35.299105,139.078087
-318038930,Lotus_corniculatus,42.12,-1.7
 1947276711,Lotus_corniculatus,50.39,10.26
-1144709753,Lotus_corniculatus,41.73333,9.2
 1936111284,Lotus_corniculatus,40.398,-4.9691
 1936114815,Lotus_corniculatus,40.1647,-5.3968
 1262020221,Lotus_corniculatus,48.605,-79.4075
@@ -2897,7 +2777,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600733993,Lotus_corniculatus,60.071161,24.392468
 1050592448,Lotus_corniculatus,42.61,-2.43
 1935701468,Lotus_corniculatus,46.44306,14.32778
-1896218006,Lotus_corniculatus,27.968333,-107.6
 1599036984,Lotus_corniculatus,61.514864,23.679968
 29698275,Lotus_corniculatus,40.13,-0.59
 1340040883,Lotus_corniculatus,55.54374,12.91644
@@ -2932,7 +2811,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262015555,Lotus_corniculatus,45.629773,-74.122002
 234425349,Lotus_corniculatus,35.199121,139.128088
 234425327,Lotus_corniculatus,35.440761,139.328061
-1563315203,Lotus_corniculatus,25.7,100.12
 1697559799,Lotus_corniculatus,52.572727,38.349123
 1697559819,Lotus_corniculatus,50.625792,38.699015
 1936111666,Lotus_corniculatus,40.954,-2.4666
@@ -2945,7 +2823,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563202181,Lotus_corniculatus,25.63,100.17
 1936113897,Lotus_corniculatus,37.0708,-3.3725
 1323782555,Lotus_corniculatus,66.8364,14.3052
-991903604,Lotus_corniculatus,48.1,11.4
 1936102681,Lotus_corniculatus,40.7207,-4.4695
 1563274829,Lotus_corniculatus,25.35,100.87
 1697559614,Lotus_corniculatus,58.776416,23.461994
@@ -2956,7 +2833,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899374907,Lotus_corniculatus,44.316667,-79.316667
 1323782536,Lotus_corniculatus,66.8367,14.3735
 1455437384,Lotus_corniculatus,50.028412,4.389834
-1851395126,Lotus_corniculatus,42.93,-4.9
 234425343,Lotus_corniculatus,35.28244,139.053091
 234425359,Lotus_corniculatus,35.507421,139.365557
 29697991,Lotus_corniculatus,39.51,-0.96
@@ -2964,16 +2840,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415990072,Lotus_corniculatus,42.51055,-76.19444
 1050592478,Lotus_corniculatus,43.31,-2.94
 29697987,Lotus_corniculatus,39.68,-0.61
-993887593,Lotus_corniculatus,-35.7333,149
 1998639320,Lotus_corniculatus,25.633333,100.166666
-1998829050,Lotus_corniculatus,25.7,100.116666
 995495551,Lotus_corniculatus,-37.05,149.266667
 1893639775,Lotus_corniculatus,19.58,-98.93
 1144709743,Lotus_corniculatus,42.21667,9.26667
 1829782151,Lotus_corniculatus,35.3915,139.2648
 1806555739,Lotus_corniculatus,42.81168,-1.641078
 234425326,Lotus_corniculatus,35.4241,139.465551
-1144709768,Lotus_corniculatus,42.3,9.2
 2243083618,Lotus_corniculatus,38.3618,140.37712
 234425350,Lotus_corniculatus,35.524084,139.365556
 234425318,Lotus_corniculatus,35.140798,139.653037
@@ -2991,15 +2864,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851318471,Lotus_corniculatus,42.92,-6.37
 234425320,Lotus_corniculatus,35.390772,139.565544
 1936386825,Lotus_corniculatus,40.2967,-3.4602
-1830209592,Lotus_corniculatus,36.683333,137
 2028546358,Lotus_corniculatus,42.09,2.74
-1050592441,Lotus_corniculatus,42.9,-2.33
 1830185986,Lotus_corniculatus,36.616667,137.183333
 1050592586,Lotus_corniculatus,42.49,-2.41
 1599036969,Lotus_corniculatus,60.646566,27.125763
 1830208668,Lotus_corniculatus,36.55,137.166667
 234425325,Lotus_corniculatus,35.415765,139.378056
-473445388,Lotus_corniculatus,45.5,-73.6
 1262011154,Lotus_corniculatus,46.21,-70.95
 1830209732,Lotus_corniculatus,36.55,137.216667
 1829850195,Lotus_corniculatus,35.926364,138.217283
@@ -3017,8 +2887,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851412923,Lotus_corniculatus,42.83,-6.37
 1600734014,Lotus_corniculatus,66.712043,27.596534
 1851406077,Lotus_corniculatus,43.02,-5.27
-1050592581,Lotus_corniculatus,43.09,-3.1
-1988131858,Lotus_corniculatus,60.6,27.2
 1050592600,Lotus_corniculatus,42.84,-2.67
 234425330,Lotus_corniculatus,35.432431,139.403055
 1804584457,Lotus_corniculatus,45.15,-77.425
@@ -3027,7 +2895,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050592585,Lotus_corniculatus,42.99,-2.88
 1702343322,Lotus_corniculatus,59.6116,10.4089
 1936558432,Lotus_corniculatus,41.0151,-3.8695
-1050592484,Lotus_corniculatus,42.6,-2.57
 1050592610,Lotus_corniculatus,42.86,-2.63
 1851413015,Lotus_corniculatus,42.92,-6.49
 1936380124,Lotus_corniculatus,42.7295,-9.0991
@@ -3036,7 +2903,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050592445,Lotus_corniculatus,42.91,-2.62
 1829601304,Lotus_corniculatus,36.542222,138.476389
 1262010851,Lotus_corniculatus,48.39,-77.23
-1050592576,Lotus_corniculatus,42.95,-2.6
 1050592449,Lotus_corniculatus,42.79,-2.72
 1936111144,Lotus_corniculatus,42.6028,-2.5868
 1705263759,Lotus_corniculatus,63.309722,13.633854
@@ -3065,8 +2931,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829781112,Lotus_corniculatus,35.6359,139.44583
 1829782111,Lotus_corniculatus,35.64457,139.44714
 234425340,Lotus_corniculatus,35.415767,139.453052
-1144709758,Lotus_corniculatus,42.03333,9.2
-1050592431,Lotus_corniculatus,42.6,-2.55
 2270251476,Lotus_corniculatus,34.422,-119.795
 1806555882,Lotus_corniculatus,42.846142,-1.752532
 1501969965,Lotus_corniculatus,39.87,-0.84
@@ -3077,7 +2941,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262009938,Lotus_corniculatus,45.058824,-73.299165
 860321690,Lotus_corniculatus,42.207,-0.208
 1828815829,Lotus_corniculatus,36.165081,136.35848
-1050592419,Lotus_corniculatus,42.6,-2.48
 1851358602,Lotus_corniculatus,42.28,-5.97
 234425313,Lotus_corniculatus,35.590737,139.165571
 2242364992,Lotus_corniculatus,39.651891,-105.052278
@@ -3103,7 +2966,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936111047,Lotus_corniculatus,40.2573,-5.2707
 234425323,Lotus_corniculatus,35.532414,139.390554
 860321745,Lotus_corniculatus,42.306,-0.191
-1851394936,Lotus_corniculatus,43,-6.24
 1701965287,Lotus_corniculatus,62.9402,10.0146
 1144061181,Lotus_corniculatus,61.7343,7.3523
 234425309,Lotus_corniculatus,35.490756,139.328061
@@ -3112,7 +2974,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050592603,Lotus_corniculatus,42.94,-2.84
 1851362218,Lotus_corniculatus,43.01,-6.48
 1262010388,Lotus_corniculatus,45.028978,-73.042434
-1851388393,Lotus_corniculatus,42.39,-5
 1851391705,Lotus_corniculatus,42.92,-5.63
 1050592476,Lotus_corniculatus,43.07,-2.58
 1030786353,Lotus_corniculatus,31.331599,110.783718
@@ -3121,7 +2982,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829872725,Lotus_corniculatus,35.615738,139.465545
 199487858,Lotus_corniculatus,36.73,-3.84
 729326220,Lotus_corniculatus,34.883301,134.64999
-1050592472,Lotus_corniculatus,43.1,-2.74
 234425357,Lotus_corniculatus,35.45743,139.590541
 234425328,Lotus_corniculatus,35.449097,139.503049
 1830642065,Lotus_corniculatus,33.462291,133.462595
@@ -3138,7 +2998,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 234425324,Lotus_corniculatus,35.499088,139.390555
 1697734368,Lotus_corniculatus,44.464761,33.991013
 1697559672,Lotus_corniculatus,55.580458,37.555059
-1262007182,Lotus_corniculatus,45.4,-72.733333
 1806555665,Lotus_corniculatus,42.842835,-1.716523
 1935701482,Lotus_corniculatus,47.52917,15.04667
 1050592473,Lotus_corniculatus,42.93,-2.33
@@ -3177,7 +3036,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030786345,Lotus_corniculatus,29.887732,110.032936
 1030819194,Lotus_corniculatus,28.932073,99.79929
 1450982016,Lotus_corniculatus,-41.8333,146.85
-876155134,Lotus_corniculatus,41.41,2.1
 1851585262,Lotus_corniculatus,36.82,-2.16
 176978052,Lotus_corniculatus,38.97579,-95.00391
 234425361,Lotus_corniculatus,35.540744,139.128077
@@ -3186,10 +3044,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900316559,Lotus_corniculatus,58.4022,8.0914
 1834903169,Lotus_corniculatus,35.379167,139.30625
 736065766,Lotus_corniculatus,36.00533,139.56329
-1144709790,Lotus_corniculatus,42.68333,9.4
 2265352669,Lotus_corniculatus,47.115026,-96.14142
 165387597,Lotus_corniculatus,36.765,-5.403
-1804596699,Lotus_corniculatus,42.366667,-82.4
 2265353421,Lotus_corniculatus,46.840194,-96.452227
 2270599383,Lotus_corniculatus,34.2945,-112.714
 1829872750,Lotus_corniculatus,35.590741,139.228067
@@ -3231,7 +3087,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804469348,Lotus_corniculatus,45.533333,-78.266667
 1599036958,Lotus_corniculatus,61.432202,23.624062
 1930893702,Lotus_corniculatus,31.7417,-116.5917
-1988153904,Lotus_corniculatus,52.8,-120
 1895439203,Lotus_corniculatus,31.733333,-116.583333
 1893430300,Lotus_corniculatus,31.741667,-116.591667
 1451612202,Lotus_corniculatus,-35.415145,144.767948
@@ -3298,7 +3153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30877454,Lotus_corniculatus,41.009998,-3.59
 29696591,Lotus_corniculatus,37.402,-2.836
 1261870569,Lotus_corniculatus,39.261997,-119.794714
-1262006609,Lotus_corniculatus,45.6,-75.1
 2265355068,Lotus_corniculatus,47.274461,-96.353666
 2265352180,Lotus_corniculatus,48.923418,-94.970989
 2265353670,Lotus_corniculatus,44.862156,-93.612512
@@ -3309,7 +3163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265355430,Lotus_corniculatus,45.390467,-94.00344
 1323782489,Lotus_corniculatus,68.779,17.1911
 1323782485,Lotus_corniculatus,68.7617,17.1399
-2288921898,Lotus_corniculatus,38.583333,35.5
 2265354518,Lotus_corniculatus,47.405143,-95.922513
 1323782486,Lotus_corniculatus,68.8251,17.0964
 1323782468,Lotus_corniculatus,68.745,17.0394
@@ -3327,19 +3180,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806128736,Lotus_corniculatus,42.81745,-1.649991
 1806128738,Lotus_corniculatus,42.802168,-1.672324
 1701981959,Lotus_corniculatus,59.7207,9.8258
-1701784807,Lotus_corniculatus,60.1,11.0366
 1702011415,Lotus_corniculatus,66.2698,13.1883
 1697801722,Lotus_corniculatus,44.054408,43.090954
 1806128709,Lotus_corniculatus,42.829758,-1.64226
 1701504919,Lotus_corniculatus,61.7605,6.2442
 1702406475,Lotus_corniculatus,59.2745,11.0091
 1697801746,Lotus_corniculatus,44.053544,43.090611
-1899381791,Lotus_corniculatus,44.9,-79.5
 1701981506,Lotus_corniculatus,63.9426,11.4252
 1701796515,Lotus_corniculatus,62.4118,5.8649
 51874431,Lotus_corniculatus,43.475,-123.5431
 1804394557,Lotus_corniculatus,47.983333,-66.683333
-1340036798,Lotus_corniculatus,61.2,26
 1702011253,Lotus_corniculatus,64.7913,11.0486
 1702439398,Lotus_corniculatus,63.76,11.2818
 1804563783,Lotus_corniculatus,47.283333,-68.433333
@@ -3355,7 +3205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701981010,Lotus_corniculatus,63.8827,11.2978
 1806128697,Lotus_corniculatus,42.818969,-1.62104
 1697801711,Lotus_corniculatus,44.0574,43.089237
-1804384120,Lotus_corniculatus,45.733333,-65.5
 1701981381,Lotus_corniculatus,67.2958,15.0313
 1702011311,Lotus_corniculatus,60.2209,11.1182
 1702011307,Lotus_corniculatus,60.7243,9.164
@@ -3386,8 +3235,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936107750,Lotus_corniculatus,41.2612,-3.2639
 1030819273,Lotus_corniculatus,26.655322,102.244617
 1030819291,Lotus_corniculatus,27.897245,102.265266
-993819214,Lotus_corniculatus,-35.6833,148.8
-2289544673,Lotus_corniculatus,-35.683333,148.8
 2288744354,Lotus_corniculatus,41.118883,1.244491
 1050592466,Lotus_corniculatus,42.73,-2.42
 1828816000,Lotus_corniculatus,36.319652,136.466347
@@ -3437,12 +3284,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701796260,Lotus_corniculatus,67.1191,15.0219
 1050592583,Lotus_corniculatus,42.83,-3.22
 1851405441,Lotus_corniculatus,43.11,-5.03
-1804467946,Lotus_corniculatus,45.45,-74.3
 1701504162,Lotus_corniculatus,59.3259,9.0966
 1702011245,Lotus_corniculatus,59.9217,10.9765
 860307847,Lotus_corniculatus,42.279,-0.229
 2265352211,Lotus_corniculatus,48.084242,-90.825443
-2028546869,Lotus_corniculatus,42.1,2.7
 1936110332,Lotus_corniculatus,42.7579,-7.0461
 1701981370,Lotus_corniculatus,62.6534,6.753
 21114409,Lotus_corniculatus,60.5521,6.1068
@@ -3458,7 +3303,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702394395,Lotus_corniculatus,63.932,11.506
 1260846217,Lotus_corniculatus,43.72,6.97861
 2313367336,Lotus_corniculatus,48.02,11.54
-1050592475,Lotus_corniculatus,42.8,-2.77
 1050592482,Lotus_corniculatus,42.61,-2.62
 1600734017,Lotus_corniculatus,60.61204,27.499039
 1701934322,Lotus_corniculatus,61.916,5.952
@@ -3474,7 +3318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804611617,Lotus_corniculatus,45.266667,-75.533333
 1600733927,Lotus_corniculatus,60.521102,27.752564
 1599037273,Lotus_corniculatus,61.259684,25.972062
-1804425367,Lotus_corniculatus,44.3,-80.483333
 176978048,Lotus_corniculatus,37.91587,-95.10712
 2243083593,Lotus_corniculatus,38.588326,140.493917
 415972093,Lotus_corniculatus,41.41916,-72.26083
@@ -3482,7 +3325,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050628311,Lotus_corniculatus,38.82,-1.55
 1702021262,Lotus_corniculatus,64.6069,12.3349
 1702439535,Lotus_corniculatus,59.3163,11.2303
-1050592571,Lotus_corniculatus,42.88,-2.3
 1936151262,Lotus_corniculatus,38.9091,-1.4789
 1701796435,Lotus_corniculatus,59.4259,10.6241
 1701784664,Lotus_corniculatus,60.6398,6.4868
@@ -3501,7 +3343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257769324,Lotus_corniculatus,47.563504,-92.545096
 1702438887,Lotus_corniculatus,60.297,11.7239
 1144059711,Lotus_corniculatus,60.4036,5.3403
-1829422320,Lotus_corniculatus,44.3,142.633333
 1702439139,Lotus_corniculatus,67.2864,15.1276
 1050592460,Lotus_corniculatus,42.93,-2.32
 1702011356,Lotus_corniculatus,60.0646,6.5404
@@ -3511,13 +3352,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989117632,Lotus_corniculatus,45.93673,-86.64248
 1702437524,Lotus_corniculatus,59.2999,9.9086
 1701899154,Lotus_corniculatus,60.5683,6.8937
-1936114699,Lotus_corniculatus,41.1,-4.5333
 1701261200,Lotus_corniculatus,66.5925,13.9962
 1701796405,Lotus_corniculatus,59.3515,10.814
 1702011349,Lotus_corniculatus,61.6669,7.2341
 1701724793,Lotus_corniculatus,63.9643,11.3066
 1599037278,Lotus_corniculatus,61.494631,23.588166
-1988090567,Lotus_corniculatus,50.9,-119.4
 1701899097,Lotus_corniculatus,59.4108,10.9089
 1600733983,Lotus_corniculatus,61.355162,24.632078
 1702439548,Lotus_corniculatus,59.6472,10.6649
@@ -3538,8 +3377,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270512851,Lotus_corniculatus,23.583969,-105.862327
 1830642978,Lotus_corniculatus,33.359037,134.201851
 668769631,Lotus_corniculatus,46.786111,-71.277778
-1099897242,Lotus_corniculatus,38.8,21.75
-1099899405,Lotus_corniculatus,38.833333,21.7
 574851158,Lotus_corniculatus,37.416667,55.75
 1563901530,Lotus_corniculatus,59.1691,7.9593
 2265352937,Lotus_corniculatus,47.240306,-95.211923
@@ -3547,16 +3384,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51875089,Lotus_corniculatus,43.3125,-123.2194
 1099899530,Lotus_corniculatus,38.783333,21.933333
 1999490738,Lotus_corniculatus,60.208652,23.533193
-1099899487,Lotus_corniculatus,38.7,21.566667
-1099899580,Lotus_corniculatus,38.5,22.316667
 1936387762,Lotus_corniculatus,37.8917,-2.9785
 1697559736,Lotus_corniculatus,56.070828,37.068638
-1086681337,Lotus_corniculatus,44.218333,-72.4
 1697559721,Lotus_corniculatus,54.854087,38.559824
 862392,Lotus_corniculatus,55.694767,14.16887
 1705402881,Lotus_corniculatus,57.538154,14.141217
 1599037280,Lotus_corniculatus,61.412035,24.093936
-2289644369,Lotus_corniculatus,9.4,42.016667
 176978050,Lotus_corniculatus,39.204163,-96.588363
 1099899361,Lotus_corniculatus,38.816667,22.266667
 2313366009,Lotus_corniculatus,48.29,11.47
@@ -3573,7 +3406,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 393104063,Lotus_corniculatus,37.392,139.5619
 668769630,Lotus_corniculatus,46.785278,-71.278611
 1701254434,Lotus_corniculatus,62.7432,11.4368
-1099916867,Lotus_corniculatus,40.1,22.416667
 1599036964,Lotus_corniculatus,60.672755,27.902458
 1050592613,Lotus_corniculatus,42.77,-2.57
 1933933688,Lotus_corniculatus,34.95208,136.65778
@@ -3603,13 +3435,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381820392,Lotus_corniculatus,36.47987,140.37804
 1936114066,Lotus_corniculatus,40.1926,-1.8265
 1697857626,Lotus_corniculatus,34.808166,67.489185
-30967394,Lotus_corniculatus,38.68,-0.3
 1936111390,Lotus_corniculatus,40.1046,-2.0626
 2243083800,Lotus_corniculatus,38.1936,140.2719
 1099913763,Lotus_corniculatus,39.283333,21.633333
 1697559679,Lotus_corniculatus,55.00896,41.181069
 2265605197,Lotus_corniculatus,42.66667,19.95333
-1899317697,Lotus_corniculatus,44.083333,-79.9
 1703286999,Lotus_corniculatus,49.7008889048611,-99.0972880473427
 1099915317,Lotus_corniculatus,39.716667,21.283333
 318055429,Lotus_corniculatus,40.76393,-95.81
@@ -3619,39 +3449,30 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099914271,Lotus_corniculatus,39.883333,21.183333
 1936114096,Lotus_corniculatus,40.1827,-1.7444
 187193990,Lotus_corniculatus,62.9526,10.6064
-1099913594,Lotus_corniculatus,39.6,21.183333
 668769642,Lotus_corniculatus,46.816667,-71.216667
 1099914357,Lotus_corniculatus,39.866667,21.166667
 1936113768,Lotus_corniculatus,40.0112,-1.7124
 668769632,Lotus_corniculatus,46.776667,-71.280278
-995283605,Lotus_corniculatus,-37.3,146.7639
-994798556,Lotus_corniculatus,-37.2,146.6667
-1851383556,Lotus_corniculatus,42.82,-6
 1851325029,Lotus_corniculatus,42.64,-5.87
 615354550,Lotus_corniculatus,35.38,69.65
 1851375879,Lotus_corniculatus,42.92,-5.39
 2243133774,Lotus_corniculatus,36.216111,139.595556
 1099913970,Lotus_corniculatus,39.416667,21.166667
 615354549,Lotus_corniculatus,34.68,68.95
-1899315253,Lotus_corniculatus,60.8,21.4
 1999490654,Lotus_corniculatus,60.791604,21.382714
 1697559683,Lotus_corniculatus,54.81982,41.648369
 1701290837,Lotus_corniculatus,67.1409,16.0842
-1099912110,Lotus_corniculatus,39.5,21.383333
 1851321159,Lotus_corniculatus,42.82,-5.87
 1697559710,Lotus_corniculatus,54.807627,41.753412
-1936046180,Lotus_corniculatus,68.8,21.4
 415972121,Lotus_corniculatus,41.86833,-73.16694
 1599036970,Lotus_corniculatus,60.543131,27.816975
 1804413123,Lotus_corniculatus,44.683333,-79.016667
 1701296144,Lotus_corniculatus,59.9197,10.565
 1599037274,Lotus_corniculatus,61.326265,24.288746
-1099897526,Lotus_corniculatus,39.533333,21.2
 381820571,Lotus_corniculatus,40.20629,140.23277
 1099915175,Lotus_corniculatus,39.666667,21.183333
 1701254612,Lotus_corniculatus,63.1022,10.8525
 1099914421,Lotus_corniculatus,39.616667,21.183333
-1099913827,Lotus_corniculatus,39.4,21.2
 2243083904,Lotus_corniculatus,38.761626,139.731228
 1323864232,Lotus_corniculatus,67.1339,14.9423
 1804607664,Lotus_corniculatus,45.416667,-75.566667
@@ -3673,9 +3494,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701221907,Lotus_corniculatus,64.0717,10.8551
 1323727520,Lotus_corniculatus,69.6319,18.8501
 1030786395,Lotus_corniculatus,33.016635,110.064082
-1937189840,Lotus_corniculatus,-30.45,152.3
 2290786188,Lotus_corniculatus,36.466667,7.433333
-860310899,Lotus_corniculatus,42.4,1.97
 1599033899,Lotus_corniculatus,60.906655,23.429903
 1697559728,Lotus_corniculatus,54.845729,37.60869
 1705364851,Lotus_corniculatus,57.929282,14.375187
@@ -3683,16 +3502,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697559686,Lotus_corniculatus,56.0323,40.8045
 1697801729,Lotus_corniculatus,43.27883,41.65153
 1705429894,Lotus_corniculatus,57.26756,14.928626
-1929719743,Lotus_corniculatus,43.9,-116.67
 1697559627,Lotus_corniculatus,55.785233,40.432258
 1697559647,Lotus_corniculatus,55.706379,40.620381
 1697559604,Lotus_corniculatus,55.766171,40.678601
 1697559691,Lotus_corniculatus,54.366748,37.663826
-1099905625,Lotus_corniculatus,38.933333,21.8
 1099897498,Lotus_corniculatus,38.95,21.85
 1697801801,Lotus_corniculatus,43.324283,41.651944
 1099911998,Lotus_corniculatus,39.55,21.25
-1804415389,Lotus_corniculatus,44.95,-77.5
 1697801779,Lotus_corniculatus,40.402386,44.231901
 1099913690,Lotus_corniculatus,39.15,21.533333
 1340037562,Lotus_corniculatus,68.43925,17.41232
@@ -3703,7 +3519,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099911904,Lotus_corniculatus,39.483333,21.433333
 1697801813,Lotus_corniculatus,40.50884,44.979916
 1099914784,Lotus_corniculatus,39.65,21.383333
-1099903480,Lotus_corniculatus,38.7,22.15
 1697559714,Lotus_corniculatus,54.891981,41.9153
 233099682,Lotus_corniculatus,40.90447,-97.09685
 1260846211,Lotus_corniculatus,50.5675,3.45
@@ -3729,7 +3544,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701687464,Lotus_corniculatus,61.26467,9.83971
 1323782574,Lotus_corniculatus,68.4196,16.5959
 465917281,Lotus_corniculatus,48.016667,-84.666667
-1099902454,Lotus_corniculatus,39.633333,21.4
 1697559624,Lotus_corniculatus,56.235162,41.085525
 2265354107,Lotus_corniculatus,47.168358,-93.643312
 1697560005,Lotus_corniculatus,56.211738,40.862115
@@ -3741,11 +3555,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099902536,Lotus_corniculatus,39.366667,21.583333
 1099914727,Lotus_corniculatus,39.35,21.566667
 1099914981,Lotus_corniculatus,39.633333,21.416667
-1144709734,Lotus_corniculatus,42.8,9.4
 473539355,Lotus_corniculatus,45.566667,-66.583333
 1697559599,Lotus_corniculatus,56.233666,42.002323
 415972109,Lotus_corniculatus,41.56444,-72.79527
-1804381783,Lotus_corniculatus,48.1,-84.55
 1702339326,Lotus_corniculatus,62.7818,7.246
 1701963867,Lotus_corniculatus,62.7923,11.4507
 1340037180,Lotus_corniculatus,66.43901,14.34921
@@ -3766,9 +3578,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701339921,Lotus_corniculatus,63.1177,7.7413
 1830610873,Lotus_corniculatus,34.058172,134.446579
 1599033912,Lotus_corniculatus,60.619496,27.809646
-993704868,Lotus_corniculatus,-36.3,149.5167
 994798500,Lotus_corniculatus,-36.95,148.2167
-1937168393,Lotus_corniculatus,-35.6,148.9
 1451714501,Lotus_corniculatus,-35.598444,148.901213
 996187340,Lotus_corniculatus,-35.65,149.42
 1830645735,Lotus_corniculatus,33.5375,133.58125
@@ -3793,7 +3603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270602630,Lotus_corniculatus,34.3152,-111.016
 1099897270,Lotus_corniculatus,38.95,21.816667
 1989605950,Lotus_corniculatus,47.22927,9.26877
-1099905655,Lotus_corniculatus,38.533333,22.6
 415972114,Lotus_corniculatus,41.80833,-72.25
 233099700,Lotus_corniculatus,41.97013,-102.34389
 1261979248,Lotus_corniculatus,48.575916,-71.307033
@@ -3804,11 +3613,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615354560,Lotus_corniculatus,35.67,71.38
 1599033890,Lotus_corniculatus,60.718097,27.830445
 1599037260,Lotus_corniculatus,60.545354,27.270362
-788434569,Lotus_corniculatus,38.2,21.816667
 788432042,Lotus_corniculatus,36.95,22.35
 233099711,Lotus_corniculatus,40.167836,-96.29282
 788431988,Lotus_corniculatus,37.283333,22.616667
-995936798,Lotus_corniculatus,-36.5,149.5
 995073343,Lotus_corniculatus,-37.0833,148.25
 1451612007,Lotus_corniculatus,-36.498444,149.501222
 995179295,Lotus_corniculatus,-37.2167,148.2667
@@ -3816,7 +3623,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1134924753,Lotus_corniculatus,-46.123,169.958
 30878626,Lotus_corniculatus,40.380001,-3.82
 1830232653,Lotus_corniculatus,36.683333,137.183333
-788434127,Lotus_corniculatus,37.9,22.416667
 1599037308,Lotus_corniculatus,61.578037,23.513172
 318229721,Lotus_corniculatus,59.94976,6.01605
 186818396,Lotus_corniculatus,58.2535,8.0203
@@ -3827,10 +3633,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788434624,Lotus_corniculatus,37.966667,22.233333
 1701275284,Lotus_corniculatus,63.3983,10.171
 788432205,Lotus_corniculatus,37.95,21.766667
-788432260,Lotus_corniculatus,38.2,21.833333
 1981550894,Lotus_corniculatus,61.32771,10.51106
 2243083752,Lotus_corniculatus,38.60116,140.40578
-788432150,Lotus_corniculatus,38,22.016667
 1144709733,Lotus_corniculatus,41.83333,9.21667
 318055367,Lotus_corniculatus,46.51356,-97.34423
 1701264522,Lotus_corniculatus,63.6398,11.5134
@@ -3846,16 +3650,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697801768,Lotus_corniculatus,42.09074,48.13012
 465917285,Lotus_corniculatus,45.265055,-72.146745
 57704789,Lotus_corniculatus,60.453384,26.179245
-1804380533,Lotus_corniculatus,46,-81.833333
 1999490712,Lotus_corniculatus,60.428449,22.218943
 1999490798,Lotus_corniculatus,60.412501,22.275827
 1804408617,Lotus_corniculatus,46.966667,-84.733333
 1828815913,Lotus_corniculatus,36.476851,136.473931
 1804559541,Lotus_corniculatus,48.366667,-89.433333
-1249267654,Lotus_corniculatus,46.5,7.5
 1451670504,Lotus_corniculatus,-34.065093,150.817831
 996063750,Lotus_corniculatus,-34.07,150.82
-1937034431,Lotus_corniculatus,-30.466667,152.3
 992215374,Lotus_corniculatus,-37.182059,140.234444
 995562593,Lotus_corniculatus,-35.6867,148.7319
 996063762,Lotus_corniculatus,-32.05,151.45
@@ -3890,19 +3691,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144059521,Lotus_corniculatus,58.88222,5.85054
 1340038705,Lotus_corniculatus,55.46739,13.46205
 1701896186,Lotus_corniculatus,64.4144,13.60975
-1842900687,Lotus_corniculatus,41.5,1.74
 1340037609,Lotus_corniculatus,62.65769,8.70421
 1705402080,Lotus_corniculatus,57.274257,15.17529
 788434459,Lotus_corniculatus,37.95,22.283333
-786185236,Lotus_corniculatus,50.5,7
 2270600404,Lotus_corniculatus,35.3306,-111.705
 1248720817,Lotus_corniculatus,48.216667,-77.683333
 1702343264,Lotus_corniculatus,61.4534,8.487
-786185232,Lotus_corniculatus,50.6,6.9
 187194004,Lotus_corniculatus,62.7638,11.2818
 1340039593,Lotus_corniculatus,62.5554,9.55815
 2289720708,Lotus_corniculatus,9.383333,41.783333
-995073334,Lotus_corniculatus,-37.3,147.3333
 2309333550,Lotus_corniculatus,51.48,-3.28
 295918838,Lotus_corniculatus,35.440752,139.053085
 1057481222,Lotus_corniculatus,56.407173,-5.696023
@@ -3939,8 +3736,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599037253,Lotus_corniculatus,61.352125,25.753955
 1599033893,Lotus_corniculatus,61.18919,25.611635
 187194415,Lotus_corniculatus,62.8262,9.5201
-786185222,Lotus_corniculatus,47.5,10.8
-786185228,Lotus_corniculatus,47.4,10.7
 2270198376,Lotus_corniculatus,35.2671,-120.6886
 575036824,Lotus_corniculatus,35.916667,68.75
 1937228183,Lotus_corniculatus,-35.5333,148.8833
@@ -3979,9 +3774,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144709742,Lotus_corniculatus,41.86667,9.16667
 1599033894,Lotus_corniculatus,62.877035,27.684615
 1701466414,Lotus_corniculatus,62.94634,6.98913
-1144709791,Lotus_corniculatus,42.11667,9.1
 186818975,Lotus_corniculatus,58.2999,6.6539
-1144709739,Lotus_corniculatus,42.2,9.05
 1261967632,Lotus_corniculatus,46.818405,-71.160809
 1056826977,Lotus_corniculatus,56.677605,-5.880963
 473539357,Lotus_corniculatus,45.966667,-66.65
@@ -3990,7 +3783,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697801713,Lotus_corniculatus,44.10021,43.01696
 1701768075,Lotus_corniculatus,63.1489,11.4313
 1702339406,Lotus_corniculatus,62.68122,6.33356
-1144709747,Lotus_corniculatus,42.13333,9.1
 187193955,Lotus_corniculatus,63.0439,11.1652
 1599033889,Lotus_corniculatus,64.687961,28.473717
 1702351273,Lotus_corniculatus,60.4857,7.6644
@@ -4004,7 +3796,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599037252,Lotus_corniculatus,60.611971,27.517298
 1701787593,Lotus_corniculatus,59.0615,8.5118
 176978053,Lotus_corniculatus,37.53734,-95.20451
-1937244678,Lotus_corniculatus,-30.5,152.216667
 2291730599,Lotus_corniculatus,8.983333,37.816667
 1144061360,Lotus_corniculatus,62.24268,7.4387
 1323782539,Lotus_corniculatus,67.3217,14.57
@@ -4044,7 +3835,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030786334,Lotus_corniculatus,25.869611,102.593464
 60011265,Lotus_corniculatus,38.686863,-0.528224
 1699945300,Lotus_corniculatus,40.833606,8.40195
-1099907240,Lotus_corniculatus,40.1,22.25
 2313366583,Lotus_corniculatus,48.27,11.62
 2313366432,Lotus_corniculatus,48.22,11.71
 295918836,Lotus_corniculatus,35.224125,139.653035
@@ -4071,7 +3861,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701328400,Lotus_corniculatus,63.125,11.2507
 1599033878,Lotus_corniculatus,66.692591,27.913041
 1261987465,Lotus_corniculatus,45.613,-71.353
-1829611292,Lotus_corniculatus,36.8,139.1
 1701339932,Lotus_corniculatus,62.9544,11.2475
 187193960,Lotus_corniculatus,63.1701,11.2344
 1323782429,Lotus_corniculatus,70.1528,28.874
@@ -4090,7 +3879,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318229722,Lotus_corniculatus,58.8966,6.0234
 995936780,Lotus_corniculatus,-35.82,148.37
 1451611975,Lotus_corniculatus,-35.815118,148.367894
-2289706911,Lotus_corniculatus,36.916667,21.7
 1705401943,Lotus_corniculatus,57.377597,14.866135
 1999490720,Lotus_corniculatus,60.43007,22.264176
 1999563472,Lotus_corniculatus,60.442207,22.353384
@@ -4109,7 +3897,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056559054,Lotus_corniculatus,53.223555,-1.087797
 1701959831,Lotus_corniculatus,63.1105,10.2386
 381820406,Lotus_corniculatus,36.77835,140.36012
-1261987471,Lotus_corniculatus,46.7,-71.4
 1701281751,Lotus_corniculatus,62.88824,10.50693
 1323782467,Lotus_corniculatus,69.9051,21.8215
 1340036924,Lotus_corniculatus,60.492222,26.543056
@@ -4121,8 +3908,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 21114924,Lotus_corniculatus,59.3922,11.7029
 1599033874,Lotus_corniculatus,61.119515,25.83734
 1599037305,Lotus_corniculatus,60.705517,24.707646
-995431745,Lotus_corniculatus,42,23
-2248102716,Lotus_corniculatus,44.333333,143.5
 1099042129,Lotus_corniculatus,44.299999,23.783333
 1257395011,Lotus_corniculatus,-33.9708,150.8875
 1030819326,Lotus_corniculatus,30.058341,105.770434
@@ -4165,13 +3950,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187193924,Lotus_corniculatus,64.9549,13.7615
 1701617129,Lotus_corniculatus,64.06094,10.02285
 1701775647,Lotus_corniculatus,63.4286,10.3024
-1261961499,Lotus_corniculatus,46.5,-71.6
 993134666,Lotus_corniculatus,-35.1833,149.0667
-994485911,Lotus_corniculatus,-42.9,147.7
 1323727644,Lotus_corniculatus,67.301,14.4206
 993742272,Lotus_corniculatus,-35.65,148.7667
 995179389,Lotus_corniculatus,-35.9167,148.3667
-993745932,Lotus_corniculatus,-35.9,148.4
 996063791,Lotus_corniculatus,-35.65,148.77
 1451670515,Lotus_corniculatus,-35.648446,148.767883
 992134692,Lotus_corniculatus,-36.015322,148.48433
@@ -4181,7 +3963,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270600353,Lotus_corniculatus,34.8552,-111.76
 2288331509,Lotus_corniculatus,44.733333,-0.683333
 1600733936,Lotus_corniculatus,60.557199,27.716943
-1829607668,Lotus_corniculatus,36.5,138.5
 1057048093,Lotus_corniculatus,52.27572,1.516648
 1340038529,Lotus_corniculatus,55.645444,13.70142
 2242404231,Lotus_corniculatus,39.329238,-82.119995
@@ -4198,14 +3979,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600733956,Lotus_corniculatus,61.153872,24.675181
 415972123,Lotus_corniculatus,43.62027,-73.4175
 441778672,Lotus_corniculatus,48.47806,-120.185
-1144709750,Lotus_corniculatus,41.8,9.23333
 1248720804,Lotus_corniculatus,47.377222,-79.511389
 415972111,Lotus_corniculatus,41.27388,-72.96833
 1999490725,Lotus_corniculatus,60.46888,22.094601
 1701897705,Lotus_corniculatus,60.70708,8.32154
 812027278,Lotus_corniculatus,50.63235,9.19385
-786185211,Lotus_corniculatus,50.7,7.2
-1563343924,Lotus_corniculatus,9.4,42.02
 993110470,Lotus_corniculatus,-35.6667,148.8333
 995179314,Lotus_corniculatus,-36.8667,147.9667
 57704768,Lotus_corniculatus,60.458401,22.178101
@@ -4226,7 +4004,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935395415,Lotus_corniculatus,54.3484,12.4151
 1697559674,Lotus_corniculatus,55.681696,36.717964
 862276,Lotus_corniculatus,62.80962,17.94108
-995432630,Lotus_corniculatus,46,8
 1702343337,Lotus_corniculatus,62.2458,8.1598
 1323765953,Lotus_corniculatus,70.461,27.1072
 1899071454,Lotus_corniculatus,49.91,5.91
@@ -4250,14 +4027,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701989018,Lotus_corniculatus,59.78,7.397
 862009,Lotus_corniculatus,57.377869,12.135442
 1828670612,Lotus_corniculatus,36.52965,138.33328
-1829605515,Lotus_corniculatus,36.3,139
 1323846803,Lotus_corniculatus,67.3683,14.5692
 1701416755,Lotus_corniculatus,59.1596,9.647
 2006377757,Lotus_corniculatus,60.274003,22.983559
 1999563438,Lotus_corniculatus,60.447958,22.261567
 2243069628,Lotus_corniculatus,40.63317,141.22771
 1563207435,Lotus_corniculatus,37.4533,-122.13
-30967392,Lotus_corniculatus,38.6,-0.88
 1697734356,Lotus_corniculatus,44.549689,34.216983
 1702351283,Lotus_corniculatus,60.6237,6.4623
 177285207,Lotus_corniculatus,60.3503,25.267
@@ -4343,7 +4118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599037220,Lotus_corniculatus,60.458421,22.178232
 1599037213,Lotus_corniculatus,63.811151,23.036307
 1701897743,Lotus_corniculatus,62.135,8.4333
-415990074,Lotus_corniculatus,40.66666,27
 187193995,Lotus_corniculatus,63.0559,10.7309
 1999490735,Lotus_corniculatus,60.300804,23.622985
 1702309645,Lotus_corniculatus,59.4061,10.6998
@@ -4442,11 +4216,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988913524,Lotus_corniculatus,45.555308,-84.673023
 187194122,Lotus_corniculatus,59.5526,11.6186
 876152590,Lotus_corniculatus,42.8168,-2.0902
-876152634,Lotus_corniculatus,42.39,1
 1340036986,Lotus_corniculatus,57.79691,13.39156
 1055650324,Lotus_corniculatus,51.852106,0.888026
 187193606,Lotus_corniculatus,63.3085,10.1673
-993753430,Lotus_corniculatus,-35.6833,149
 1038972908,Lotus_corniculatus,41.9219,-73.1028
 1651972569,Lotus_corniculatus,-27.248541,152.750795
 1999490628,Lotus_corniculatus,60.455607,22.224043
@@ -4464,7 +4236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899073269,Lotus_corniculatus,49.64,6.25
 318229725,Lotus_corniculatus,63.40577,10.35582
 1057131792,Lotus_corniculatus,51.323794,-0.106994
-1891599692,Lotus_corniculatus,49.51,6
 1323782576,Lotus_corniculatus,66.8484,14.7721
 1891589883,Lotus_corniculatus,49.94,6.07
 1705322999,Lotus_corniculatus,55.403448,12.982956
@@ -4498,7 +4269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948565095,Lotus_corniculatus,60.729601,26.896096
 1599033864,Lotus_corniculatus,60.652406,23.329999
 57704823,Lotus_corniculatus,60.5499,27.224701
-1829605740,Lotus_corniculatus,36.5,139.2
 1701243225,Lotus_corniculatus,63.1506,10.6969
 1600733934,Lotus_corniculatus,60.819292,26.840672
 1598702562,Lotus_corniculatus,60.795191,24.701237
@@ -4538,7 +4308,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697734374,Lotus_corniculatus,44.773549,34.376221
 1055542843,Lotus_corniculatus,52.215599,-3.1043
 1698012534,Lotus_corniculatus,59.9222,5.6992
-993658816,Lotus_corniculatus,-35.8833,148.5
 186818790,Lotus_corniculatus,58.6884,9.0086
 1030786361,Lotus_corniculatus,30.601932,109.726617
 1829831316,Lotus_corniculatus,34.880031,139.093959
@@ -4570,13 +4339,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948565082,Lotus_corniculatus,60.657378,27.353458
 1702339385,Lotus_corniculatus,62.7087,9.4222
 186818398,Lotus_corniculatus,58.6085,7.5629
-1893207834,Lotus_corniculatus,49.8,5.93
 1705424245,Lotus_corniculatus,57.212435,16.177579
 1705350116,Lotus_corniculatus,57.102925,15.046197
 1340039412,Lotus_corniculatus,59.325746,14.521533
 995942432,Lotus_corniculatus,-37.17,146.62
-994506875,Lotus_corniculatus,-41.2,147.6
-994428117,Lotus_corniculatus,-41.4,147.3
 993173272,Lotus_corniculatus,-41.4167,147.4167
 995009109,Lotus_corniculatus,-36.9667,148.1667
 993216971,Lotus_corniculatus,-31.8833,152.5667
@@ -4615,7 +4381,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 862362,Lotus_corniculatus,63.33644,12.09452
 1701776333,Lotus_corniculatus,63.0562,8.3868
 388840203,Lotus_corniculatus,35.159421,139.837328
-995486175,Lotus_corniculatus,-35.45,149.2
 1701294811,Lotus_corniculatus,63.4813,9.8531
 1638405632,Lotus_corniculatus,47.00222,15.39167
 1340041014,Lotus_corniculatus,55.84253,12.9377
@@ -4665,7 +4430,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056781689,Lotus_corniculatus,57.11568,-2.896484
 1273863961,Lotus_corniculatus,56.225492,15.117232
 1697947912,Lotus_corniculatus,66.8615,13.7343
-786185139,Lotus_corniculatus,51,8
 1701767799,Lotus_corniculatus,63.4725,9.8328
 1340038385,Lotus_corniculatus,58.22504,11.41989
 1599033857,Lotus_corniculatus,65.0231,25.405223
@@ -4673,7 +4437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 862088,Lotus_corniculatus,57.164701,16.024119
 51875684,Lotus_corniculatus,46.1653,-123.9225
 1701263504,Lotus_corniculatus,62.7252,8.7555
-995432492,Lotus_corniculatus,42,-76
 1261949183,Lotus_corniculatus,45.407949,-73.935342
 45454135,Lotus_corniculatus,9.83,-84.14
 1702343305,Lotus_corniculatus,60.7922,11.6925
@@ -4697,7 +4460,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599033854,Lotus_corniculatus,64.697135,28.45325
 1340039506,Lotus_corniculatus,55.923564,14.292627
 1340039375,Lotus_corniculatus,55.68596,14.22632
-995179612,Lotus_corniculatus,-38.25,141.5
 1056146573,Lotus_corniculatus,54.185809,-2.8443
 186818800,Lotus_corniculatus,58.4288,7.9238
 1705338607,Lotus_corniculatus,59.645654,15.22141
@@ -4729,7 +4491,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1340040847,Lotus_corniculatus,56.04406,14.49669
 1705430986,Lotus_corniculatus,56.842714,14.851317
 415972122,Lotus_corniculatus,41.435,-71.86583
-876152486,Lotus_corniculatus,42.4,2.21
 861980,Lotus_corniculatus,59.030864,12.323567
 862239,Lotus_corniculatus,57.691615,12.308359
 1702017820,Lotus_corniculatus,62.1453,6.0643
@@ -4927,7 +4688,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144061338,Lotus_corniculatus,63.09759,7.4611
 1651972614,Lotus_corniculatus,-26.915209,152.584129
 992495103,Lotus_corniculatus,-37.78202,145.317726
-1998948753,Lotus_corniculatus,25.7,100.1833
 1340036959,Lotus_corniculatus,56.031862,14.152378
 1701316722,Lotus_corniculatus,63.4475,10.193
 1340040725,Lotus_corniculatus,59.35042,13.96456
@@ -4943,18 +4703,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1934061119,Lotus_corniculatus,35.4334,136.7814
 1702339371,Lotus_corniculatus,68.97382,19.26147
 1323782535,Lotus_corniculatus,69.0593,19.4079
-994118668,Lotus_corniculatus,-38.1,145.7167
-1999016425,Lotus_corniculatus,26.8,100.2667
 1998363288,Lotus_corniculatus,27.2167,99.2667
 1451611958,Lotus_corniculatus,-32.065085,151.551131
-995574091,Lotus_corniculatus,-32.08,151.5
 995936775,Lotus_corniculatus,-32.07,151.55
 1451455267,Lotus_corniculatus,-32.031752,151.401133
 1705326114,Lotus_corniculatus,56.540009,13.724447
 1600733999,Lotus_corniculatus,61.053533,24.126848
 1702273531,Lotus_corniculatus,59.9495,11.0141
 1701221936,Lotus_corniculatus,63.4228,10.4324
-1830171020,Lotus_corniculatus,36.7,137.183333
 1701690817,Lotus_corniculatus,59.82582,5.48698
 1705274249,Lotus_corniculatus,57.57387,14.451412
 1099923784,Lotus_corniculatus,58.020311,13.151875
@@ -5023,14 +4779,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323782538,Lotus_corniculatus,68.6072,16.6829
 1701869583,Lotus_corniculatus,59.7149,10.5643
 1701768002,Lotus_corniculatus,63.5744,10.6113
-1144709804,Lotus_corniculatus,41.85,9.4
 1697801789,Lotus_corniculatus,40.985341,47.852325
 1702351356,Lotus_corniculatus,60.2921,7.0083
 1701900935,Lotus_corniculatus,60.7454,7.1565
 788858900,Lotus_corniculatus,55.71148,13.32469
 862070,Lotus_corniculatus,58.197215,13.877223
 1057095953,Lotus_corniculatus,51.175598,-4.2135
-786185183,Lotus_corniculatus,48.6,9.7
 1304092779,Lotus_corniculatus,28.230591,103.636769
 1304092788,Lotus_corniculatus,27.625416,104.048284
 1056010318,Lotus_corniculatus,50.617554,-2.708109
@@ -5115,7 +4869,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51874533,Lotus_corniculatus,42.3646,-122.8549
 1340036756,Lotus_corniculatus,55.628938,13.142639
 994428015,Lotus_corniculatus,-42.08195,146.76771
-994427976,Lotus_corniculatus,-42.1,146.8
 1701897797,Lotus_corniculatus,61.1605,10.378
 1705444715,Lotus_corniculatus,57.080683,16.178257
 1702351236,Lotus_corniculatus,61.11844,5.90272
@@ -5188,7 +4941,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1340041256,Lotus_corniculatus,55.57488,12.94447
 1701319695,Lotus_corniculatus,63.4232,10.3924
 862312,Lotus_corniculatus,57.025816,14.88974
-899784215,Lotus_corniculatus,49,8.3
 1705268342,Lotus_corniculatus,59.838957,17.579091
 1701896185,Lotus_corniculatus,68.29731,17.60818
 27379082,Lotus_corniculatus,46.8546,0.928775
@@ -5247,7 +4999,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995573947,Lotus_corniculatus,-41.37,147.42
 1340038926,Lotus_corniculatus,58.24695,11.45769
 1848332596,Lotus_corniculatus,-41.45,147.333333
-995179495,Lotus_corniculatus,-38.25,145.1
 1705382058,Lotus_corniculatus,56.885646,14.000612
 1340038528,Lotus_corniculatus,55.5264,13.90106
 1701787513,Lotus_corniculatus,59.722,9.3556
@@ -5258,7 +5009,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055818442,Lotus_corniculatus,56.861198,-3.2365
 1340038444,Lotus_corniculatus,55.72881,13.15488
 1340039218,Lotus_corniculatus,55.868218,12.826692
-995385514,Lotus_corniculatus,-41.9167,147.5
 1928878248,Lotus_corniculatus,10.408256,-67.285333
 1340039296,Lotus_corniculatus,56.07576,13.22491
 1697560067,Lotus_corniculatus,56.981166,40.942179
@@ -5314,7 +5064,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701959762,Lotus_corniculatus,59.7258,10.2181
 1057613483,Lotus_corniculatus,51.203098,-3.6256
 1055505122,Lotus_corniculatus,51.229698,-3.8401
-1848332595,Lotus_corniculatus,-42.316667,146.7
 1340036791,Lotus_corniculatus,55.941924,12.808718
 1056627373,Lotus_corniculatus,51.352989,-2.977877
 1705338558,Lotus_corniculatus,57.665715,15.857517
@@ -5358,7 +5107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056244531,Lotus_corniculatus,52.696701,-4.0543
 862314,Lotus_corniculatus,57.615855,15.557858
 1056200237,Lotus_corniculatus,51.219219,-0.326084
-616366778,Lotus_corniculatus,52.1,4.28
 1055825701,Lotus_corniculatus,51.228411,-0.340073
 1056140325,Lotus_corniculatus,52.7229,-4.0561
 1056114471,Lotus_corniculatus,51.225429,-0.320131
@@ -5458,7 +5206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701897749,Lotus_corniculatus,62.1082,10.6574
 1701896227,Lotus_corniculatus,62.53672,9.51846
 1701896256,Lotus_corniculatus,69.84757,21.9192
-995432877,Lotus_corniculatus,46,9
 1340038652,Lotus_corniculatus,55.42792,12.96681
 1057644418,Lotus_corniculatus,53.645699,-3.0101
 788712090,Lotus_corniculatus,59.633349,16.988915
@@ -5473,8 +5220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415972126,Lotus_corniculatus,41.76361,-72.685
 862373,Lotus_corniculatus,67.85209,20.23286
 1702343284,Lotus_corniculatus,61.0557,8.8611
-995432454,Lotus_corniculatus,33,75
-995573289,Lotus_corniculatus,-30.4,152.37
 1451454745,Lotus_corniculatus,-30.398414,152.367761
 1702420297,Lotus_corniculatus,59.4301,11.3709
 1705336263,Lotus_corniculatus,58.270577,15.739245
@@ -5492,8 +5237,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701900891,Lotus_corniculatus,59.756,5.475
 21117010,Lotus_corniculatus,60.8755,7.149
 1702351243,Lotus_corniculatus,60.8439,7.1324
-786185143,Lotus_corniculatus,51.8,15
-995432328,Lotus_corniculatus,33,10
 1697801760,Lotus_corniculatus,43.95597,39.271917
 1705356694,Lotus_corniculatus,60.594801,15.05358
 862106,Lotus_corniculatus,59.654072,12.569092
@@ -5503,7 +5246,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705268382,Lotus_corniculatus,57.282898,16.50162
 1340032263,Lotus_corniculatus,58.975386,12.621337
 1702343342,Lotus_corniculatus,60.9743,8.5659
-994767638,Lotus_corniculatus,-35.8167,142
 995179456,Lotus_corniculatus,-32.4667,146.3167
 1702273491,Lotus_corniculatus,59.8694,10.5261
 1701454096,Lotus_corniculatus,59.2833,11.108
@@ -5571,8 +5313,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055767044,Lotus_corniculatus,50.803791,-2.335713
 1056500867,Lotus_corniculatus,51.3759,-2.9711
 995179765,Lotus_corniculatus,-36.6167,145.25
-994767632,Lotus_corniculatus,-38.2,145.5167
-994823012,Lotus_corniculatus,-38.2,145.4667
 1056031417,Lotus_corniculatus,51.208542,0.91371
 1705371904,Lotus_corniculatus,57.781999,14.159527
 1057173302,Lotus_corniculatus,51.316799,-0.56
@@ -5593,7 +5333,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 862115,Lotus_corniculatus,57.263261,16.450772
 1340039582,Lotus_corniculatus,55.4005,13.52617
 1451455210,Lotus_corniculatus,-32.015087,151.201136
-995573322,Lotus_corniculatus,-32.02,151.2
 1705346119,Lotus_corniculatus,57.326094,15.894859
 1056311162,Lotus_corniculatus,51.731499,-3.4602
 1056893928,Lotus_corniculatus,50.77661,-0.923463
@@ -5627,7 +5366,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1057413089,Lotus_corniculatus,51.7178,0.8247
 862317,Lotus_corniculatus,57.420833,15.250198
 1144059705,Lotus_corniculatus,60.3955,5.326
-995574000,Lotus_corniculatus,-28.32,152.3
 995574749,Lotus_corniculatus,-38.12,142.32
 862382,Lotus_corniculatus,60.890777,15.096183
 1090555881,Lotus_corniculatus,39.20448,140.54517
@@ -5644,4 +5382,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187194544,Lotus_corniculatus,59.2292,10.8225
 995573991,Lotus_corniculatus,-35.73,147.32
 1451454842,Lotus_corniculatus,-35.731791,147.317912
-1848332727,Lotus_corniculatus,-37.7,148.45
