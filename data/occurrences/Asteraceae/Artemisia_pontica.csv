@@ -63,7 +63,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230505760,Artemisia_pontica,48.61333,20.86583
 1697695583,Artemisia_pontica,55.149829,46.02549
 1230498855,Artemisia_pontica,48.61667,15.93333
-774371920,Artemisia_pontica,51.450001,12
 1657162421,Artemisia_pontica,48.06361,16.29139
 668747750,Artemisia_pontica,46.766667,-71.283333
 1897637489,Artemisia_pontica,-36.683333,175.116667
@@ -98,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415903868,Artemisia_pontica,41.3825,-72.10861
 1935652953,Artemisia_pontica,47.92722,16.86944
 1697695598,Artemisia_pontica,50.360754,44.118357
-1935653027,Artemisia_pontica,47.8,16.60833
 1230506788,Artemisia_pontica,48.06056,16.29194
 1697695687,Artemisia_pontica,47.238715,40.073404
 1697695662,Artemisia_pontica,47.677035,42.299663
