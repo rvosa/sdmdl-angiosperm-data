@@ -52,13 +52,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144668369,Dioscorea_praehensilis,6.25,-5.05
 1261335931,Dioscorea_praehensilis,2.35,16.18333
 1261334900,Dioscorea_praehensilis,5.16666,9.25
-2291963366,Dioscorea_praehensilis,0.383333,32.6
-1252666075,Dioscorea_praehensilis,0.38,32.6
 1252665155,Dioscorea_praehensilis,2.37,16.02
 1252628382,Dioscorea_praehensilis,2.37,16.18
 1261335930,Dioscorea_praehensilis,2.7,16.11666
 1144668335,Dioscorea_praehensilis,9.64732,2.34313
-2291964036,Dioscorea_praehensilis,3.833333,11.466667
 1144668372,Dioscorea_praehensilis,5.68595,12.74359
 2291963397,Dioscorea_praehensilis,5.85,-7.416667
 1914121755,Dioscorea_praehensilis,7.979683,1.67781
@@ -72,7 +69,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290496951,Dioscorea_praehensilis,7.428333,3.895
 2289360128,Dioscorea_praehensilis,-3.15,29.366667
 621138750,Dioscorea_praehensilis,5.51,-0.11
-2252219701,Dioscorea_praehensilis,5.51,0.11
 2290248062,Dioscorea_praehensilis,-3.133333,29.266667
 2291963641,Dioscorea_praehensilis,3.783333,10.966667
 1844885917,Dioscorea_praehensilis,7.281369,-7.793119
@@ -81,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1288592793,Dioscorea_praehensilis,-15.599806,32.781774
 2288924594,Dioscorea_praehensilis,4.9,9.983333
 1288592802,Dioscorea_praehensilis,-15.62732,32.840665
-1144668350,Dioscorea_praehensilis,4.78333,-5.33333
 2289558132,Dioscorea_praehensilis,6.666667,-3.266667
 1288592809,Dioscorea_praehensilis,-15.220228,39.054944
 2291963839,Dioscorea_praehensilis,-3.983333,29.433333
@@ -95,14 +90,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288364616,Dioscorea_praehensilis,8.741833,-12.51675
 2290433990,Dioscorea_praehensilis,10.083333,9
 813399299,Dioscorea_praehensilis,-9.073,16.004
-2289313155,Dioscorea_praehensilis,3.866667,11.45
 1252664666,Dioscorea_praehensilis,10.03,4.42
-2288314116,Dioscorea_praehensilis,8.466667,-13.25
 1288592814,Dioscorea_praehensilis,-14.888333,38.308889
-1144668355,Dioscorea_praehensilis,8.56028,-11.79192
 621138737,Dioscorea_praehensilis,6.4,-1.2
 2291963865,Dioscorea_praehensilis,10.75,13.716667
-2288865072,Dioscorea_praehensilis,3.916667,11.483333
 1844885875,Dioscorea_praehensilis,6.738168,-5.827975
 1144668378,Dioscorea_praehensilis,14.36697,-14.46765
 1844885914,Dioscorea_praehensilis,6.7411,-7.06108
@@ -129,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1288592818,Dioscorea_praehensilis,-19.586715,33.29485
 866261444,Dioscorea_praehensilis,-19.045989,33.811736
 437207567,Dioscorea_praehensilis,-16.43333,36.75
-1839836343,Dioscorea_praehensilis,-4.366667,15.233333
 1839836387,Dioscorea_praehensilis,-2,18.25
 1839836447,Dioscorea_praehensilis,-4.383333,15.2
 2289063367,Dioscorea_praehensilis,3.35,20.3
@@ -137,6 +127,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 621138736,Dioscorea_praehensilis,6.4,-0.45
 2252220105,Dioscorea_praehensilis,6.4,0.45
 2013885219,Dioscorea_praehensilis,-0.833333,12.7
-1825752993,Dioscorea_praehensilis,-12.295286,17.544676
 1057487435,Dioscorea_praehensilis,5.434044,8.381239
 1839527470,Dioscorea_praehensilis,-5.133333,15.1
