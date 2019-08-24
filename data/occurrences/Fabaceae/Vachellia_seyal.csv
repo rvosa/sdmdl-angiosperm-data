@@ -31,15 +31,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258802456,Vachellia_seyal,-2.58027,33.46166
 317855516,Vachellia_seyal,14.766667,0.133333
 2289782987,Vachellia_seyal,10.666667,1.25
-1427425095,Vachellia_seyal,9.509167,-13.712222
 317855514,Vachellia_seyal,14.65,-0.35
 317855515,Vachellia_seyal,14.45,-0.233333
 1258662823,Vachellia_seyal,-3.36611,36.14722
 2288532138,Vachellia_seyal,10.816667,1.116667
 2288542081,Vachellia_seyal,10.805556,1.444444
 47717562,Vachellia_seyal,14.583,-16.966
-1928209070,Vachellia_seyal,21.463617,-157.8528
-34590671,Vachellia_seyal,21.4667,-157.85
 2291919333,Vachellia_seyal,5.05,37.4
 2290446692,Vachellia_seyal,5.2,36.533333
 47717435,Vachellia_seyal,11.633,-0.333
@@ -63,7 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260916036,Vachellia_seyal,-3.2,35.2
 461584861,Vachellia_seyal,-17.875,31.125
 1261850297,Vachellia_seyal,-5.08333,39.03333
-47717393,Vachellia_seyal,14.083,-17.916
 1019296738,Vachellia_seyal,16.14653,-13.504739
 1019296740,Vachellia_seyal,16.691207,-14.031377
 2291919393,Vachellia_seyal,12.983333,-1.55
@@ -102,7 +98,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260900393,Vachellia_seyal,1.75,37.31666
 2291919514,Vachellia_seyal,1.75,37.316667
 2289590190,Vachellia_seyal,13.883333,-9.05
-438806428,Vachellia_seyal,13.54653,2.09594
 1260895706,Vachellia_seyal,-9.9,38.26666
 2291919047,Vachellia_seyal,13.533333,-8.016667
 2290249512,Vachellia_seyal,8.25,34.583333
@@ -246,7 +241,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439480724,Vachellia_seyal,16.03263,-16.48182
 437483849,Vachellia_seyal,16.66006,-14.95933
 866264802,Vachellia_seyal,-12.924046,40.288019
-1928094644,Vachellia_seyal,22.16,-80.439383
 866264454,Vachellia_seyal,-13.07308,40.36316
 866264541,Vachellia_seyal,-12.270796,40.271625
 866264420,Vachellia_seyal,-12.476144,40.446984
@@ -260,7 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437806732,Vachellia_seyal,5.86667,13.58333
 437141855,Vachellia_seyal,13.0095,7.61691
 439139579,Vachellia_seyal,9.92568,13.9434
-437141804,Vachellia_seyal,12.08708,15.01483
 1260895677,Vachellia_seyal,3,34.45
 439139661,Vachellia_seyal,-1.58333,30.38333
 438139838,Vachellia_seyal,11.86,42.79
@@ -272,7 +265,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437474792,Vachellia_seyal,-3.36949,34.1532
 438806408,Vachellia_seyal,14.7371,-16.99225
 437141830,Vachellia_seyal,14.92082,-16.99047
-438139834,Vachellia_seyal,12.37143,-1.51966
 1260900278,Vachellia_seyal,0.116667,37.416667
 437482755,Vachellia_seyal,16.26398,-0.02799
 437141781,Vachellia_seyal,16.257,-0.018
@@ -287,7 +279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439472825,Vachellia_seyal,13.75131,-15.77369
 438806402,Vachellia_seyal,14.33852,-16.92701
 438473264,Vachellia_seyal,13.85223,-15.876
-1260900725,Vachellia_seyal,-1.3,36.73333
 1260895712,Vachellia_seyal,-0.38333,34.46666
 437141858,Vachellia_seyal,12.20815,-2.9206
 438820703,Vachellia_seyal,9.31256,42.12268
