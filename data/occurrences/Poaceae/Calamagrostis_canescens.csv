@@ -18,7 +18,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978364273,Calamagrostis_canescens,56.885083,39.058045
 1697380710,Calamagrostis_canescens,57.116721,30.36523
 1949959611,Calamagrostis_canescens,52.494444,8.351389
-1095920416,Calamagrostis_canescens,61,16
 1701831176,Calamagrostis_canescens,59.5867,11.134
 1697380965,Calamagrostis_canescens,56.608822,41.248906
 1697349387,Calamagrostis_canescens,57.219105,30.438563
@@ -29,7 +28,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268216236,Calamagrostis_canescens,55.668333,37.7015
 1702169001,Calamagrostis_canescens,59.3423,11.5438
 2268215890,Calamagrostis_canescens,55.6825,37.830833
-2290543647,Calamagrostis_canescens,52.516667,6.1
 2270292658,Calamagrostis_canescens,45.35694,2.65611
 1701328278,Calamagrostis_canescens,60.987,13.3273
 1881105557,Calamagrostis_canescens,48.84,10.64
@@ -48,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 237341559,Calamagrostis_canescens,52.505833,13.001667
 1702102912,Calamagrostis_canescens,59.5944,10.8856
 2312345632,Calamagrostis_canescens,49.99,11.52
-1881100183,Calamagrostis_canescens,49,10.46
 1881100748,Calamagrostis_canescens,49.01,10.45
 1342248847,Calamagrostis_canescens,56.151996,10.697032
 1098969056,Calamagrostis_canescens,47.955353,12.196537
@@ -65,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342248703,Calamagrostis_canescens,56.939597,10.190223
 1702232943,Calamagrostis_canescens,59.6584,11.8533
 2310432661,Calamagrostis_canescens,49.62,15.95
-2309309321,Calamagrostis_canescens,64.7,16.2
 694846042,Calamagrostis_canescens,51.681221,12.603807
 1342248037,Calamagrostis_canescens,56.314377,8.295497
 1342249100,Calamagrostis_canescens,55.821776,11.991796
@@ -114,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342248283,Calamagrostis_canescens,57.115748,9.221582
 1702217015,Calamagrostis_canescens,59.3603,11.3196
 1702228382,Calamagrostis_canescens,59.8008,10.8366
-1657178026,Calamagrostis_canescens,47.5,14.43333
 1705316207,Calamagrostis_canescens,57.7665,16.161402
 1697381024,Calamagrostis_canescens,51.69608,35.065573
 1342249212,Calamagrostis_canescens,56.035558,12.310367
@@ -166,7 +161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697380974,Calamagrostis_canescens,58.398586,43.004796
 1701411160,Calamagrostis_canescens,61.3134,12.7598
 1697381003,Calamagrostis_canescens,58.119888,44.384488
-786102193,Calamagrostis_canescens,47.7,9
 1702198053,Calamagrostis_canescens,61.2936,12.7883
 1697380651,Calamagrostis_canescens,54.569293,20.16911
 1702197827,Calamagrostis_canescens,61.4626,12.5614
@@ -206,7 +200,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701779064,Calamagrostis_canescens,60.1925,12.0509
 441986896,Calamagrostis_canescens,51.054443,13.739166
 1701291235,Calamagrostis_canescens,61.197,12.4042
-187102258,Calamagrostis_canescens,60.2,11.5888
 1455432658,Calamagrostis_canescens,50.468251,4.770364
 1697381093,Calamagrostis_canescens,56.428467,45.062332
 1702253283,Calamagrostis_canescens,61.3991,12.6497
@@ -391,7 +384,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599950849,Calamagrostis_canescens,62.686951,25.141689
 1946864447,Calamagrostis_canescens,50.21,10.45
 1946864344,Calamagrostis_canescens,50.13,10.32
-1946864976,Calamagrostis_canescens,49.98,10.3
 1701851000,Calamagrostis_canescens,59.1618,9.8132
 1599950842,Calamagrostis_canescens,60.652316,24.999353
 655777,Calamagrostis_canescens,56.78395,14.69931
@@ -414,7 +406,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599950826,Calamagrostis_canescens,60.98904,28.197934
 318219929,Calamagrostis_canescens,59.69475,8.69225
 57681870,Calamagrostis_canescens,62.6078,26.315001
-1946865080,Calamagrostis_canescens,49.97,10.3
 1946865051,Calamagrostis_canescens,49.99,10.22
 1702231658,Calamagrostis_canescens,61.099,11.4763
 1701829744,Calamagrostis_canescens,59.6377,10.0198
@@ -491,7 +482,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701398968,Calamagrostis_canescens,59.5624,10.7298
 1697380953,Calamagrostis_canescens,54.936002,39.370646
 1697380807,Calamagrostis_canescens,54.626206,40.652256
-1701880855,Calamagrostis_canescens,59.4184,11
 1599950868,Calamagrostis_canescens,61.582024,23.861216
 318219931,Calamagrostis_canescens,59.4308,6.6643
 1881896305,Calamagrostis_canescens,58.029722,27.255278
@@ -588,7 +578,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065673831,Calamagrostis_canescens,65.633344,17.596381
 1065673816,Calamagrostis_canescens,64.389498,19.381553
 1599950914,Calamagrostis_canescens,60.959854,23.950592
-786102254,Calamagrostis_canescens,54.4,9.7
 1697380783,Calamagrostis_canescens,54.550982,40.461232
 1697380742,Calamagrostis_canescens,54.856952,40.73765
 1697380757,Calamagrostis_canescens,54.569352,40.363054
@@ -600,7 +589,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599950852,Calamagrostis_canescens,61.230197,25.274663
 1599950950,Calamagrostis_canescens,62.652709,23.387358
 1702301830,Calamagrostis_canescens,60.1051,10.4479
-786102244,Calamagrostis_canescens,54.3,9.3
 1697380746,Calamagrostis_canescens,54.792429,40.587913
 1599950972,Calamagrostis_canescens,60.724351,27.455098
 1599950791,Calamagrostis_canescens,60.612942,26.914732
@@ -616,7 +604,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697380749,Calamagrostis_canescens,54.802865,40.973308
 1697380734,Calamagrostis_canescens,54.741614,40.625657
 177283477,Calamagrostis_canescens,64.676102,24.6187
-899748037,Calamagrostis_canescens,54.2,10.4
 1701870753,Calamagrostis_canescens,61.1609,10.3845
 1701967444,Calamagrostis_canescens,64.4072,11.8639
 1701287611,Calamagrostis_canescens,64.4768,11.7463
