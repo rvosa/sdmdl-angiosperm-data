@@ -25,7 +25,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1836740137,Ficus_insipida,7.071069,-73.070231
 1836740101,Ficus_insipida,7.071224,-73.070954
 1424487545,Ficus_insipida,-9.970278,-70.063611
-2268928208,Ficus_insipida,14.670833,-61.095
 1897557803,Ficus_insipida,18.550306,-99.362
 1897533009,Ficus_insipida,14.89485,-92.3055
 1897557907,Ficus_insipida,18.487406,-99.277533
@@ -74,7 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1086983940,Ficus_insipida,8.831944,-75.59
 1061296852,Ficus_insipida,4.027447,-76.161333
 1707493007,Ficus_insipida,8.106512,-72.593313
-1314768839,Ficus_insipida,4.38333,-51.68333
 1257794273,Ficus_insipida,21.071389,-103.433611
 1257934452,Ficus_insipida,19.021389,-102.059167
 1424354010,Ficus_insipida,-6.977222,-71.468611
@@ -104,7 +102,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1061293826,Ficus_insipida,4.531281,-76.092347
 1978003000,Ficus_insipida,8.404833,-83.122667
 768778187,Ficus_insipida,1.46,-75.86
-1895646329,Ficus_insipida,21.576667,-97.365625
 1257778186,Ficus_insipida,12.369722,-85.452778
 1061295064,Ficus_insipida,3.755136,-75.548497
 930999338,Ficus_insipida,7.932594,-75.511947
@@ -173,7 +170,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1707488685,Ficus_insipida,4.828944,-71.665806
 2310425292,Ficus_insipida,-8.83,-75.06
 2306597894,Ficus_insipida,-12.8,-71.37
-1895646316,Ficus_insipida,22.196111,-97.79338
 1895646343,Ficus_insipida,22.196111,-97.797417
 1257696151,Ficus_insipida,-15.649116,-68.370187
 2307655341,Ficus_insipida,10.79,-85.55
@@ -199,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094888960,Ficus_insipida,-26.988889,-49.114167
 1257758062,Ficus_insipida,19.143889,-104.025
 1257604570,Ficus_insipida,-14.744111,-68.941583
-1094888939,Ficus_insipida,-26.904722,-49.078611
 1061294805,Ficus_insipida,9.517194,-73.272711
 1676462816,Ficus_insipida,-17.301944,-53.2175
 930998140,Ficus_insipida,7.02353,-75.50329
@@ -225,7 +220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897606830,Ficus_insipida,16.761389,-91.008333
 1895049529,Ficus_insipida,20.746917,-98.899417
 1897606793,Ficus_insipida,19.577222,-100.923611
-1897365852,Ficus_insipida,21.325278,-105.591667
 1257728854,Ficus_insipida,18.680278,-103.410278
 1086907791,Ficus_insipida,-23.538333,-48.755278
 1090576046,Ficus_insipida,-23.380994,-45.079504
@@ -267,7 +261,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1062309216,Ficus_insipida,8.0848,-72.48458
 1897365696,Ficus_insipida,17.535683,-98.645267
 787198588,Ficus_insipida,7.142556,-73.054278
-1418345921,Ficus_insipida,19.858333,-96.461111
 1260487595,Ficus_insipida,-14.542222,-67.68
 1257736699,Ficus_insipida,15.9025,-91.191111
 2310886303,Ficus_insipida,-13.1,-69.59
@@ -333,7 +326,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 930993280,Ficus_insipida,5.098056,-75.653083
 1260090208,Ficus_insipida,-12.48194,-68.98222
 2291371536,Ficus_insipida,-12.481944,-68.982222
-1894614962,Ficus_insipida,15.707833,-96.244861
 1094879545,Ficus_insipida,-21.4,-56.766667
 787196791,Ficus_insipida,7.150294,-73.013256
 1260863987,Ficus_insipida,15.51583,-89.3825
@@ -402,7 +394,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257769315,Ficus_insipida,16.781111,-91.0625
 1419170252,Ficus_insipida,16.904167,-93.233056
 1260841824,Ficus_insipida,16.983889,-91.285278
-1936620965,Ficus_insipida,7.75,-81.5667
 1062309269,Ficus_insipida,8.23602,-73.25018
 1419170466,Ficus_insipida,16.295833,-93.543611
 1897606734,Ficus_insipida,16.005556,-93.410556
@@ -412,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260129081,Ficus_insipida,13.883333,-88.95
 1894105785,Ficus_insipida,16.176389,-93.773056
 2265577386,Ficus_insipida,4,-52
-1057532147,Ficus_insipida,17.217668,-88.684767
 1894105720,Ficus_insipida,16.116667,-93.655833
 768762052,Ficus_insipida,2.25,-73.76
 768760468,Ficus_insipida,2.37,-72.64
@@ -424,7 +414,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893942126,Ficus_insipida,22.853778,-99.120917
 1893942086,Ficus_insipida,22.813833,-98.419917
 1893942098,Ficus_insipida,22.253556,-97.890778
-1056514592,Ficus_insipida,23.950465,-102.532886
 47768910,Ficus_insipida,-15.708,-62.81
 1258793088,Ficus_insipida,13.05,-86.333333
 930988603,Ficus_insipida,5.567389,-74.901722
@@ -440,8 +429,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265576555,Ficus_insipida,9.766667,-83.75
 768759707,Ficus_insipida,-0.13,-74.85
 1259395032,Ficus_insipida,10.84166,-84.78888
-1259618506,Ficus_insipida,8.96666,-79.51666
-2265576868,Ficus_insipida,8.966667,-79.516667
 2265573862,Ficus_insipida,-7.983333,-74.683333
 930987535,Ficus_insipida,6.3975,-74.358056
 47768883,Ficus_insipida,-4.08,-78.948
@@ -567,7 +554,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893668803,Ficus_insipida,20.56806,-103.70139
 1258756009,Ficus_insipida,-17.166667,-62.783333
 1258379924,Ficus_insipida,14.28333,-84.61666
-1228550651,Ficus_insipida,17.25,-88.1667
 1258394920,Ficus_insipida,-5.31666,-78.71666
 1895433309,Ficus_insipida,17.8871025799137,-90.8471209895128
 1893312945,Ficus_insipida,17.888889,-90.845
@@ -628,7 +614,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260753887,Ficus_insipida,9.24388,-70.22
 1259867993,Ficus_insipida,16.667222,-95.009722
 1894767209,Ficus_insipida,16.6679841721,-95.0097194659701
-45196311,Ficus_insipida,9.76,-84.9
 1893558101,Ficus_insipida,18.369722,-99.051389
 1896237867,Ficus_insipida,20.576111,-104.380556
 1585301352,Ficus_insipida,13.81667,-89.93333
@@ -663,11 +648,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253707729,Ficus_insipida,10.166667,-85.366667
 45196255,Ficus_insipida,9.85,-85.35
 1261857098,Ficus_insipida,10.95,-83.733333
-1253701778,Ficus_insipida,8.480556,-83.591667
 1419194396,Ficus_insipida,23.159722,-106.355556
 1253708784,Ficus_insipida,9.859167,-85.351389
-45196371,Ficus_insipida,8.48,-83.59
-1258470511,Ficus_insipida,8.46,-83.58
 1707521840,Ficus_insipida,5.333333,-72.5
 1253623042,Ficus_insipida,10.791667,-85.354167
 1261840239,Ficus_insipida,-4.85,-78.3
@@ -712,20 +694,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090778901,Ficus_insipida,-18.9125,-48.041667
 1707517875,Ficus_insipida,1.583333,-76
 1259397371,Ficus_insipida,21.833333,-104.716667
-1261567403,Ficus_insipida,8.61,-83.73
 1258330011,Ficus_insipida,-13.6625,-60.83111
 1896237914,Ficus_insipida,19.254167,-96.258333
 1893903101,Ficus_insipida,17.703611,-99.591667
-1253643075,Ficus_insipida,8.616667,-83.733334
 1260465899,Ficus_insipida,-16.768611,-61.813333
 1261856441,Ficus_insipida,12.98333,-86.56666
 1257742736,Ficus_insipida,-12.25,-69.283333
 1259120448,Ficus_insipida,-14.36666,-68.48333
 1213515126,Ficus_insipida,-23.663056,-46.789167
-1261732328,Ficus_insipida,8.48,-83.56
-1418345320,Ficus_insipida,19.108333,-96.116667
 931017409,Ficus_insipida,7.133333,-75.8
-1253690011,Ficus_insipida,8.483333,-83.566667
 1261426853,Ficus_insipida,-4.16666,-73.5
 1258282054,Ficus_insipida,-3.46666,-72.86666
 1895136279,Ficus_insipida,16.605278,-93.560555
@@ -736,7 +713,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261855141,Ficus_insipida,17.81666,-89.03333
 1896237877,Ficus_insipida,21.258333,-104.341667
 1893668802,Ficus_insipida,21.26,-104.343333
-1999005598,Ficus_insipida,15.4,-61.4
 931013978,Ficus_insipida,6.033333,-75.133333
 1896237972,Ficus_insipida,16.101667,-90.96
 1896237865,Ficus_insipida,20.093333,-103.376667
@@ -775,7 +751,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896237969,Ficus_insipida,16.12,-90.926667
 1258752371,Ficus_insipida,-17.583333,-63.75
 1896237930,Ficus_insipida,21.425,-99.491667
-1253708496,Ficus_insipida,8.466667,-83.583335
 1419190563,Ficus_insipida,21.627778,-99.235278
 1893735514,Ficus_insipida,21.516667,-99.75
 1707550740,Ficus_insipida,6.516667,-76.316667
@@ -793,7 +768,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896237850,Ficus_insipida,19.363889,-96.755556
 1087027489,Ficus_insipida,-13.833333,-48.3
 1253701059,Ficus_insipida,9.816667,-84.566667
-1260463102,Ficus_insipida,0.333333,-80.166667
 1261433170,Ficus_insipida,9.81,-84.56
 1260463011,Ficus_insipida,-0.366667,-80.216667
 1258534169,Ficus_insipida,16.66,-93
@@ -806,7 +780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893668848,Ficus_insipida,21.236667,-104.9
 1897606812,Ficus_insipida,17.484167,-101.330389
 1893668852,Ficus_insipida,21.443333,-104.901667
-1421792691,Ficus_insipida,17.449722,-101.3325
 1259395773,Ficus_insipida,21.233333,-104.916667
 1261421242,Ficus_insipida,-12.58333,-69.05
 1896237816,Ficus_insipida,19.43,-96.4275
@@ -830,9 +803,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893668844,Ficus_insipida,18.601667,-95.07
 1259138693,Ficus_insipida,14.033056,-87.126389
 1897606839,Ficus_insipida,20.966667,-105.25
-1896237890,Ficus_insipida,20.783333,-105.5
 1897606836,Ficus_insipida,18.6,-95.15
-1895136203,Ficus_insipida,18.625,-95.075
 1042551010,Ficus_insipida,9.583333,-72.9
 1896237977,Ficus_insipida,20.806389,-105.248056
 1893967544,Ficus_insipida,19.475,-104.191667
@@ -880,7 +851,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893942060,Ficus_insipida,23.135,-99.15
 1893962726,Ficus_insipida,19.625833,-104.416667
 1893703629,Ficus_insipida,19.601667,-104.436667
-1585301231,Ficus_insipida,13.66667,-89.25
 1261425027,Ficus_insipida,-12.08333,-69.05
 1929479330,Ficus_insipida,-4.92,-73.75
 1261426030,Ficus_insipida,-2.516667,-76.8
@@ -895,7 +865,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893967479,Ficus_insipida,19.618889,-104.419167
 1259394398,Ficus_insipida,22.366667,-104.433333
 1419178481,Ficus_insipida,16.75,-91.129444
-1261423043,Ficus_insipida,9.416667,-79.908333
 1077312211,Ficus_insipida,-19.85,-55.966667
 1261430645,Ficus_insipida,-15.03333,-66.93333
 1893942105,Ficus_insipida,23.036667,-98.845
@@ -965,7 +934,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897606904,Ficus_insipida,21.451667,-99.638889
 1893668885,Ficus_insipida,21.005,-103.423333
 1895507275,Ficus_insipida,18.229906,-96.408269
-1259138067,Ficus_insipida,13.67222,-89.25
 1893962763,Ficus_insipida,19.508333,-104.291667
 1893703634,Ficus_insipida,21.563333,-104.881667
 1894552479,Ficus_insipida,17.928056,-92.990556
@@ -983,7 +951,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893967503,Ficus_insipida,19.622222,-104.3875
 1259368913,Ficus_insipida,7.433333,-74.833333
 1895957504,Ficus_insipida,18.303056,-98.966667
-1099624509,Ficus_insipida,1.8184,-78.74165
 1931183397,Ficus_insipida,3.63,-53.2
 731318583,Ficus_insipida,3.61667,-53.2
 1253690414,Ficus_insipida,10.766667,-85.311111
@@ -1111,7 +1078,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895251114,Ficus_insipida,16.355556,-95.374444
 1261421304,Ficus_insipida,13.69166,-84.8375
 1421359443,Ficus_insipida,14.759444,-92.363889
-1261422765,Ficus_insipida,8.5,-83.58333
 1893942152,Ficus_insipida,23.09,-98.571667
 1261421358,Ficus_insipida,13.75,-84.41666
 1421791186,Ficus_insipida,16.85,-99.833333
@@ -1138,17 +1104,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260462876,Ficus_insipida,10.88166,-72.475
 1896237889,Ficus_insipida,19.275,-96.708333
 1261429885,Ficus_insipida,10.866667,-72.483333
-1896237891,Ficus_insipida,19.59,-96.380833
 1260462992,Ficus_insipida,10.866667,-72.466667
 1896237860,Ficus_insipida,21.746667,-105.035278
 1314992794,Ficus_insipida,11.095,-73.8825
 1896237921,Ficus_insipida,21.358333,-105.241667
 1261425677,Ficus_insipida,-3.46666,-72.83333
-1896237979,Ficus_insipida,19.687778,-96.410833
-1890974506,Ficus_insipida,11.301817,-74.018018
 1261433531,Ficus_insipida,11.65,-86.333333
-1060488040,Ficus_insipida,11.3342,-74.0312
-1060488116,Ficus_insipida,11.31372,-74.06401
 1893735520,Ficus_insipida,17.558333,-93.625
 1261421735,Ficus_insipida,7.25,-71.833333
 1261425758,Ficus_insipida,12.5,-86.05
@@ -1240,15 +1201,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259136787,Ficus_insipida,11.55,-84.033333
 1988997934,Ficus_insipida,27.5,-107.76667
 930987649,Ficus_insipida,6.532383,-75.901473
-1060488078,Ficus_insipida,11.31211,-73.94009
 1261553683,Ficus_insipida,-3.83333,-77.66666
 1261423533,Ficus_insipida,-3.33333,-72.66666
 1258621633,Ficus_insipida,13.85,-85.383333
 1261492971,Ficus_insipida,-3.916667,-77.7
-911785577,Ficus_insipida,11.29902,-73.89968
 1258561201,Ficus_insipida,7.68333,-71.46666
 1259396145,Ficus_insipida,18.4975,-100.764444
-1259169136,Ficus_insipida,9.555,-79.64333
 1897606857,Ficus_insipida,23.031111,-99.093056
 1259396212,Ficus_insipida,19.538333,-105.026944
 1895797603,Ficus_insipida,23.208333,-99.108333
@@ -1291,7 +1249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259089726,Ficus_insipida,8.383333,-62.383333
 1896237919,Ficus_insipida,19.326944,-96.483333
 1260462614,Ficus_insipida,-14.842222,-64.892222
-1928388209,Ficus_insipida,16.02511,-61.67036
 1261425782,Ficus_insipida,-3.45,-72.85
 1259161222,Ficus_insipida,7.983333,-78.35
 931015001,Ficus_insipida,6.52065,-74.13221
@@ -1343,15 +1300,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895507300,Ficus_insipida,19.253889,-96.578889
 1260465955,Ficus_insipida,10.1,-66.05
 1259136475,Ficus_insipida,12.43333,-86.58333
-2310463564,Ficus_insipida,17.27,-88.8
 768751603,Ficus_insipida,-0.6,-72.38
-1896237958,Ficus_insipida,19.6,-96.398611
-1258286509,Ficus_insipida,19.6,-96.39
 1893774425,Ficus_insipida,27.112778,-107.585833
 1259142156,Ficus_insipida,11.566667,-86.15
 1099641335,Ficus_insipida,1.29951,-77.39935
 1258389578,Ficus_insipida,12.6,-86.46666
-1258388629,Ficus_insipida,11.13333,-85.78333
 1896237882,Ficus_insipida,15.680833,-92.304167
 1261430464,Ficus_insipida,-3.666667,-73.25
 1261430492,Ficus_insipida,-3.68416,-73.26694
@@ -1376,10 +1329,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893668841,Ficus_insipida,20.195,-103.289167
 1259169091,Ficus_insipida,9.27055,-79.92333
 1259169086,Ficus_insipida,9.09611,-79.68111
-1259169083,Ficus_insipida,8.99305,-79.58944
 1896237901,Ficus_insipida,17.221667,-94.678611
 1259169054,Ficus_insipida,9.38583,-79.7825
-1259169049,Ficus_insipida,8.79222,-79.55527
 1896237885,Ficus_insipida,17.238889,-94.601111
 1418339468,Ficus_insipida,17.275,-94.641667
 1896237847,Ficus_insipida,17.251667,-94.599167
@@ -1396,13 +1347,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896237835,Ficus_insipida,18.858333,-100.275
 1893774427,Ficus_insipida,27.130833,-107.65
 1893774428,Ficus_insipida,27.135833,-107.644722
-1259136564,Ficus_insipida,8.10833,-82.89333
 1893432601,Ficus_insipida,27.108333,-107.575
 1261872741,Ficus_insipida,-4.46666,-78.16666
 1897606865,Ficus_insipida,16.901389,-90.970833
 1259138016,Ficus_insipida,16.89,-90.96
-1258534259,Ficus_insipida,9.53333,-79.66666
-1259169156,Ficus_insipida,9.28333,-80.05
 1895507316,Ficus_insipida,17.79,-94.1
 1893434191,Ficus_insipida,17.741667,-95.875
 1897606790,Ficus_insipida,17.733889,-95.868333
@@ -1424,17 +1372,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893774439,Ficus_insipida,27.122778,-107.629722
 45193416,Ficus_insipida,9.93,-84.18
 1258987549,Ficus_insipida,7.916667,-77.5
-1895507329,Ficus_insipida,19.77,-96.431944
 1895957552,Ficus_insipida,18.683611,-98.476944
-1896207498,Ficus_insipida,19.770556,-96.431389
 1259137967,Ficus_insipida,16.28,-93.57
 1259136995,Ficus_insipida,16.277222,-89.0175
 1261423296,Ficus_insipida,-3.666667,-71.783333
 1261423255,Ficus_insipida,-3.733333,-73.283333
-1259169143,Ficus_insipida,8.95,-79.56666
 1259169134,Ficus_insipida,9.1625,-79.115833
 1259169074,Ficus_insipida,9.16666,-79.1
-1260464597,Ficus_insipida,11.31666,-73.96666
 1261423914,Ficus_insipida,-9.3,-76
 1259137991,Ficus_insipida,16.285278,-93.88
 1895507321,Ficus_insipida,16.29,-93.89
@@ -1464,7 +1408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259169087,Ficus_insipida,9.11944,-79.70055
 1228416804,Ficus_insipida,1,-74
 1844930535,Ficus_insipida,-3.530016,-70.04514
-1259144038,Ficus_insipida,8.98305,-79.51583
 1228359367,Ficus_insipida,-1,-72
 1259169072,Ficus_insipida,9.162778,-79.833056
 1259169027,Ficus_insipida,9.15833,-79.82222
@@ -1494,13 +1437,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259169067,Ficus_insipida,8.78333,-81.335
 1893432585,Ficus_insipida,19.541667,-103.441667
 1259169170,Ficus_insipida,9.16833,-79.75305
-1259169031,Ficus_insipida,8.99166,-79.58472
-1259169172,Ficus_insipida,8.97722,-79.56222
 1259169157,Ficus_insipida,7.916667,-77.733333
 1259169080,Ficus_insipida,9.213889,-78.888889
 2308770647,Ficus_insipida,16.56,-92.78
 45193401,Ficus_insipida,15.25,-89
-1929970756,Ficus_insipida,-15.72,-47.87
 1259169113,Ficus_insipida,9.222778,-80.019167
 1258286530,Ficus_insipida,10.01,-84.71
 1896237941,Ficus_insipida,20.006667,-96.9175
@@ -1509,7 +1449,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895507278,Ficus_insipida,18.883611,-99.063061
 1895507284,Ficus_insipida,18.823053,-97.151161
 768745564,Ficus_insipida,-4.02,-70.01
-1259169137,Ficus_insipida,9,-79.56666
 1844909152,Ficus_insipida,4.791801,-71.336281
 1896237840,Ficus_insipida,20.051944,-96.990556
 1893432631,Ficus_insipida,24.125,-106.725
@@ -1521,7 +1460,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087018744,Ficus_insipida,-27.166667,-53.75
 1893434262,Ficus_insipida,17.958333,-96.175
 731340291,Ficus_insipida,-27.16667,-53.75
-1319105726,Ficus_insipida,15.4136,-61.3837
 1896237895,Ficus_insipida,18.458333,-95.091667
 1314992795,Ficus_insipida,5.81678,-75.6055
 1844902182,Ficus_insipida,5.81678,-75.60548
@@ -1530,7 +1468,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897606826,Ficus_insipida,19.237222,-102.763056
 1259169133,Ficus_insipida,9.08333,-79.38333
 1895507338,Ficus_insipida,20.649169,-105.19
-1896237957,Ficus_insipida,20.225,-96.791667
 1896237924,Ficus_insipida,18.355278,-96.259167
 1259169026,Ficus_insipida,9.083333,-79.383333
 1259169094,Ficus_insipida,9.21333,-79.04694
@@ -1573,7 +1510,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1576170735,Ficus_insipida,3.388328,-76.525441
 1259169047,Ficus_insipida,8.166667,-77.666667
 1897606807,Ficus_insipida,18.061111,-96.357222
-1259169144,Ficus_insipida,8.25805,-79.11166
 1228272029,Ficus_insipida,8,-73
 1890959844,Ficus_insipida,5.334798,-74.411949
 1314992800,Ficus_insipida,5.3348,-74.4119
@@ -1617,7 +1553,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897606858,Ficus_insipida,18.843528,-100.233972
 1895507317,Ficus_insipida,18.8467528868725,-100.237627585402
 1259397586,Ficus_insipida,18.85,-100.233056
-1930373028,Ficus_insipida,16.035085,-61.669902
 1930746956,Ficus_insipida,-4.696879,-69.504833
 1258534157,Ficus_insipida,14.58333,-87.85
 1259396682,Ficus_insipida,27.466667,-108.766667
@@ -1627,7 +1562,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1998326602,Ficus_insipida,-9.333333,-69
 1259169175,Ficus_insipida,9.15888,-79.83555
 1261047324,Ficus_insipida,18.85,-100.23305
-1897606874,Ficus_insipida,21.610556,-106.557778
 1259138687,Ficus_insipida,14.8,-90.85
 1897606755,Ficus_insipida,15.730833,-96.691944
 1897606815,Ficus_insipida,27.016667,-108.933333
