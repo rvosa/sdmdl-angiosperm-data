@@ -14,15 +14,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948248012,Helichrysum_arenarium,61.202164,28.810501
 1702391443,Helichrysum_arenarium,55.7046,14.1964
 1038225756,Helichrysum_arenarium,49.805,11.400833
-1122998831,Helichrysum_arenarium,54.3,13.7
 1947178282,Helichrysum_arenarium,50.16,9.84
 1697685928,Helichrysum_arenarium,48.674701,40.434045
 1258022120,Helichrysum_arenarium,54.82495,26.8239
-1697352013,Helichrysum_arenarium,51.2,40.2
 2290469275,Helichrysum_arenarium,53.08165,6.849517
 1697685546,Helichrysum_arenarium,55.918056,41.511111
 899796486,Helichrysum_arenarium,51.572777,12.390833
-1249267499,Helichrysum_arenarium,51.6,12.3
 1848984939,Helichrysum_arenarium,51.629959,12.383822
 1702377202,Helichrysum_arenarium,55.9372,14.3181
 1697685565,Helichrysum_arenarium,55.4875,40.351389
@@ -40,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 286837454,Helichrysum_arenarium,52.521946,13.141944
 1697685588,Helichrysum_arenarium,55.406944,41.105556
 286837455,Helichrysum_arenarium,52.824722,14.086389
-1697685717,Helichrysum_arenarium,51.2,40.233333
 1230847198,Helichrysum_arenarium,48.35917,21.78972
 1702236321,Helichrysum_arenarium,55.953,14.332
 1342548915,Helichrysum_arenarium,56.341674,10.624546
@@ -48,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697747439,Helichrysum_arenarium,45.391667,32.497222
 1839025279,Helichrysum_arenarium,51.922779,12.22333
 1697685793,Helichrysum_arenarium,52.4921,59.74388
-1697685765,Helichrysum_arenarium,51.166667,40.3
 442007928,Helichrysum_arenarium,51.399586,14.395348
 1697747463,Helichrysum_arenarium,44.425,33.911111
 2291784326,Helichrysum_arenarium,42.541667,3.048333
@@ -79,7 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503351635,Helichrysum_arenarium,52.470833,13.223611
 1697685756,Helichrysum_arenarium,49.050778,43.96981
 1986951318,Helichrysum_arenarium,39.716667,45.35
-1986951129,Helichrysum_arenarium,39.7,45.55
 85247040,Helichrysum_arenarium,40.275833,44.702778
 1230831416,Helichrysum_arenarium,40.27583,44.70278
 85247025,Helichrysum_arenarium,39.859722,44.965278
@@ -87,19 +81,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697685948,Helichrysum_arenarium,46.568524,43.61804
 788726106,Helichrysum_arenarium,56.01896,14.03887
 788580334,Helichrysum_arenarium,51.07989,16.38088
-85247457,Helichrysum_arenarium,39.8,44.966667
 85247459,Helichrysum_arenarium,40.283333,44.183333
-317820619,Helichrysum_arenarium,39.93,44.7
 1230831226,Helichrysum_arenarium,40.28333,44.18333
 893472550,Helichrysum_arenarium,40.116669,44.700001
-85247460,Helichrysum_arenarium,40.116667,44.7
-85247464,Helichrysum_arenarium,39.933333,44.7
 893472549,Helichrysum_arenarium,40.283329,44.183331
 893472557,Helichrysum_arenarium,39.799999,44.966671
-1230831352,Helichrysum_arenarium,40.11667,44.7
-317820625,Helichrysum_arenarium,40.12,44.7
 1697685767,Helichrysum_arenarium,48.988987,44.091934
-317820636,Helichrysum_arenarium,39.8,44.97
 893472583,Helichrysum_arenarium,39.933331,44.700001
 1831249592,Helichrysum_arenarium,54.4484,13.5816
 85242663,Helichrysum_arenarium,40.516667,41.55
@@ -181,7 +168,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 804623,Helichrysum_arenarium,56.01478,14.70398
 788670567,Helichrysum_arenarium,55.761785,13.071513
 1697685593,Helichrysum_arenarium,55.195411,41.416298
-2291335898,Helichrysum_arenarium,35.266667,67.5
 1697685876,Helichrysum_arenarium,49.389636,40.579376
 1831249948,Helichrysum_arenarium,53.9484,12.2485
 1260868603,Helichrysum_arenarium,39.79583,2.68666
@@ -247,7 +233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697685651,Helichrysum_arenarium,55.021499,39.405011
 1705332574,Helichrysum_arenarium,56.103842,14.411579
 2273632746,Helichrysum_arenarium,55.79848,14.16002
-1705472418,Helichrysum_arenarium,46.5,0.5
 1705332610,Helichrysum_arenarium,56.450067,12.939507
 1705419508,Helichrysum_arenarium,55.605424,13.564282
 1697747509,Helichrysum_arenarium,44.857451,34.934721
@@ -362,7 +347,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705258263,Helichrysum_arenarium,56.107845,13.916269
 1705366398,Helichrysum_arenarium,56.004641,14.699204
 788667591,Helichrysum_arenarium,55.42898,14.18739
-1340732644,Helichrysum_arenarium,49.03,11.9
 788727141,Helichrysum_arenarium,55.677719,13.420326
 788667648,Helichrysum_arenarium,55.59706,13.60363
 788554207,Helichrysum_arenarium,55.773014,14.153144
@@ -505,7 +489,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788670538,Helichrysum_arenarium,56.28471,12.49568
 1099906875,Helichrysum_arenarium,54.965833,12.548056
 788494071,Helichrysum_arenarium,56.880224,16.655975
-2313062570,Helichrysum_arenarium,49.26,12.1
 1340732313,Helichrysum_arenarium,49.37,11.04
 1705323239,Helichrysum_arenarium,56.107946,14.167968
 1099895805,Helichrysum_arenarium,55.43266,13.84072
