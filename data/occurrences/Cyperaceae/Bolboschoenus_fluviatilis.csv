@@ -25,7 +25,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652388111,Bolboschoenus_fluviatilis,-24.139167,150.298889
 2265457734,Bolboschoenus_fluviatilis,47.907778,-91.566111
 1829908361,Bolboschoenus_fluviatilis,35.382439,139.453053
-2307060255,Bolboschoenus_fluviatilis,45.68,-73.5
 1074743948,Bolboschoenus_fluviatilis,-32.996011,151.57056
 1897810740,Bolboschoenus_fluviatilis,-36.973889,174.840278
 1929611431,Bolboschoenus_fluviatilis,40.7019,-74.6997
@@ -38,10 +37,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1070414569,Bolboschoenus_fluviatilis,-33.501462,151.313481
 1932899307,Bolboschoenus_fluviatilis,40.847222,-74.321667
 1986993949,Bolboschoenus_fluviatilis,38.50531,-107.56123
-1830205280,Bolboschoenus_fluviatilis,36.5,136.833333
 1257862099,Bolboschoenus_fluviatilis,39.79213,-94.88828
 1257844329,Bolboschoenus_fluviatilis,39.7922,-94.8883
-1986494300,Bolboschoenus_fluviatilis,42,-88
 473415828,Bolboschoenus_fluviatilis,45.383972,-73.616222
 736077932,Bolboschoenus_fluviatilis,35.920833,139.61875
 2265452450,Bolboschoenus_fluviatilis,47.444722,-92.109444
@@ -100,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176894455,Bolboschoenus_fluviatilis,39.6118,-93.203
 176894466,Bolboschoenus_fluviatilis,41.7419,-96.0311
 176894375,Bolboschoenus_fluviatilis,41.49416,-96.00577
-1260847675,Bolboschoenus_fluviatilis,40,-93
 1988983530,Bolboschoenus_fluviatilis,41.900875,-86.598427
 176894457,Bolboschoenus_fluviatilis,41.6103,-96.112
 1843401983,Bolboschoenus_fluviatilis,-37.016667,174.483333
@@ -111,7 +107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937296103,Bolboschoenus_fluviatilis,-32.040724,115.955095
 1843406134,Bolboschoenus_fluviatilis,-41.231111,175.171389
 1843406111,Bolboschoenus_fluviatilis,-41.248889,175.273611
-1843399986,Bolboschoenus_fluviatilis,-37.2,174.633333
 381841207,Bolboschoenus_fluviatilis,36.30371,139.94347
 63858339,Bolboschoenus_fluviatilis,42.7918,-117.5717
 176894439,Bolboschoenus_fluviatilis,39.266015,-96.835837
@@ -127,7 +122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176894438,Bolboschoenus_fluviatilis,39.089722,-96.849167
 1675837184,Bolboschoenus_fluviatilis,40.9569,141.374
 441703318,Bolboschoenus_fluviatilis,47.3975,-121.886944
-1843379756,Bolboschoenus_fluviatilis,-36.916667,174.8
 1652179371,Bolboschoenus_fluviatilis,-17.64054,145.459459
 1937229244,Bolboschoenus_fluviatilis,-34.7547,149.8139
 1451615668,Bolboschoenus_fluviatilis,-34.753157,149.815077
@@ -191,7 +185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652166847,Bolboschoenus_fluviatilis,-25.50689,150.059156
 1652167044,Bolboschoenus_fluviatilis,-27.581873,152.917461
 2306637718,Bolboschoenus_fluviatilis,45.52,-76.17
-729303086,Bolboschoenus_fluviatilis,36.8167,137
 1899288484,Bolboschoenus_fluviatilis,45.516667,-76.166667
 318049203,Bolboschoenus_fluviatilis,45.925763,-97.952291
 1988207471,Bolboschoenus_fluviatilis,49.09,-119.54
@@ -206,7 +199,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381841194,Bolboschoenus_fluviatilis,36.03561,139.98724
 381841086,Bolboschoenus_fluviatilis,36.0728,140.20802
 381841191,Bolboschoenus_fluviatilis,36.02122,139.90376
-1830185008,Bolboschoenus_fluviatilis,36.8,137
 2265397944,Bolboschoenus_fluviatilis,46.660343,-93.729627
 736070078,Bolboschoenus_fluviatilis,35.97009,139.55791
 2265400339,Bolboschoenus_fluviatilis,44.256849,-91.968096
@@ -218,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989504101,Bolboschoenus_fluviatilis,44.275,-77.366667
 2265413550,Bolboschoenus_fluviatilis,45.680502,-93.09363
 736070073,Bolboschoenus_fluviatilis,35.84174,139.88594
-1830186712,Bolboschoenus_fluviatilis,36.816667,137
 736070077,Bolboschoenus_fluviatilis,35.97132,139.62799
 995283684,Bolboschoenus_fluviatilis,-36.8486,145.0656
 995116136,Bolboschoenus_fluviatilis,-37.7325,145.2389
@@ -235,11 +226,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261005970,Bolboschoenus_fluviatilis,38.864444,-90.633056
 729278341,Bolboschoenus_fluviatilis,34.75,135.117
 606660356,Bolboschoenus_fluviatilis,43.85694,-70.10305
-1897673594,Bolboschoenus_fluviatilis,-35.6,173.433333
 995681976,Bolboschoenus_fluviatilis,-29.35,149.28
 1451503282,Bolboschoenus_fluviatilis,-29.348434,149.284474
 1091313378,Bolboschoenus_fluviatilis,-40.033333,175.21
-729301506,Bolboschoenus_fluviatilis,34.916698,135
 736070080,Bolboschoenus_fluviatilis,35.81737,139.67809
 2265399208,Bolboschoenus_fluviatilis,45.853563,-93.031512
 736070076,Bolboschoenus_fluviatilis,35.99565,139.54846
@@ -247,12 +236,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265407469,Bolboschoenus_fluviatilis,45.636277,-96.05714
 729329739,Bolboschoenus_fluviatilis,34.7514,135.533
 1260984687,Bolboschoenus_fluviatilis,40.08111,-95.36333
-1262035840,Bolboschoenus_fluviatilis,45.3,-74.05
 381841077,Bolboschoenus_fluviatilis,35.93523,140.11235
 2265398203,Bolboschoenus_fluviatilis,47.261716,-93.955861
 2265412451,Bolboschoenus_fluviatilis,44.613056,-93.968611
 736070072,Bolboschoenus_fluviatilis,35.96668,139.81273
-996124035,Bolboschoenus_fluviatilis,-26.7,152.82
 1652217050,Bolboschoenus_fluviatilis,-27.248543,152.417466
 1652191145,Bolboschoenus_fluviatilis,-26.390209,152.709124
 1091280961,Bolboschoenus_fluviatilis,-40.766666,175.116666
@@ -281,7 +268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989302515,Bolboschoenus_fluviatilis,46.333333,-80.033333
 1897628917,Bolboschoenus_fluviatilis,-36.816667,174.433333
 1091289092,Bolboschoenus_fluviatilis,-37.916666,175.216666
-1091238590,Bolboschoenus_fluviatilis,-38.1,175.05
 1091188907,Bolboschoenus_fluviatilis,-37.416666,175.133333
 1091237621,Bolboschoenus_fluviatilis,-37.516666,175.183333
 1091243526,Bolboschoenus_fluviatilis,-37.466666,175.05
@@ -300,7 +286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415883321,Bolboschoenus_fluviatilis,41.41166,-72.41611
 1897784724,Bolboschoenus_fluviatilis,-36.885278,174.449722
 2265398879,Bolboschoenus_fluviatilis,43.622385,-93.318703
-2265398759,Bolboschoenus_fluviatilis,43.528056,-95.6
 2265435237,Bolboschoenus_fluviatilis,45.897248,-93.173466
 1703290300,Bolboschoenus_fluviatilis,50.2829051587905,-95.6831815786415
 1828812147,Bolboschoenus_fluviatilis,36.366893,136.451018
@@ -310,7 +295,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897762936,Bolboschoenus_fluviatilis,-37.583333,175.766667
 2265399529,Bolboschoenus_fluviatilis,45.059265,-96.341101
 1988870719,Bolboschoenus_fluviatilis,42.072787,-83.918425
-415930890,Bolboschoenus_fluviatilis,42.8,-70.96666
 415976617,Bolboschoenus_fluviatilis,42.80138,-70.99027
 1091174804,Bolboschoenus_fluviatilis,-41.083333,176.08
 736070082,Bolboschoenus_fluviatilis,36.08141,139.20355
@@ -329,7 +313,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703289550,Bolboschoenus_fluviatilis,51.2668905821981,-100.350347395484
 1703289495,Bolboschoenus_fluviatilis,51.1328923298942,-99.817328004799
 1703289074,Bolboschoenus_fluviatilis,51.7329023093684,-98.5172914044122
-995796915,Bolboschoenus_fluviatilis,-30.97,153
 1451549132,Bolboschoenus_fluviatilis,-30.965074,153.001091
 995030879,Bolboschoenus_fluviatilis,-37.7667,146.6833
 176894399,Bolboschoenus_fluviatilis,37.655227,-98.260428
@@ -339,7 +322,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265397705,Bolboschoenus_fluviatilis,44.378119,-95.968102
 415976615,Bolboschoenus_fluviatilis,44.00611,-69.9675
 1899286906,Bolboschoenus_fluviatilis,50.883333,-94.466667
-1897716196,Bolboschoenus_fluviatilis,-36.816667,175.4
 992423049,Bolboschoenus_fluviatilis,-35.2212,139.3308
 2270696910,Bolboschoenus_fluviatilis,34.77947,-111.51587
 1846543682,Bolboschoenus_fluviatilis,34.77944,-111.51806
@@ -349,7 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830166497,Bolboschoenus_fluviatilis,36.833333,136.966667
 1451679743,Bolboschoenus_fluviatilis,-30.881777,147.534515
 996078444,Bolboschoenus_fluviatilis,-30.88,147.53
-1936848044,Bolboschoenus_fluviatilis,-32.62,152.2
 1451549157,Bolboschoenus_fluviatilis,-32.615081,152.201126
 736070066,Bolboschoenus_fluviatilis,35.99437,139.33553
 1675983178,Bolboschoenus_fluviatilis,41.4386,-72.4447
@@ -375,29 +356,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606652788,Bolboschoenus_fluviatilis,41.57305,-72.65138
 295940183,Bolboschoenus_fluviatilis,35.382441,139.640537
 1652161804,Bolboschoenus_fluviatilis,-25.691667,150.908333
-995132016,Bolboschoenus_fluviatilis,-36.9,148.4167
-995132007,Bolboschoenus_fluviatilis,-36,147.7167
-1978807108,Bolboschoenus_fluviatilis,45.033333,-74.5
 473467488,Bolboschoenus_fluviatilis,45.6974,-73.4735
 473466711,Bolboschoenus_fluviatilis,45.7044,-73.4589
 176894442,Bolboschoenus_fluviatilis,38.467528,-98.652313
 1897685548,Bolboschoenus_fluviatilis,-36.866667,174.783333
-995796901,Bolboschoenus_fluviatilis,-32.92,151.3
-996078491,Bolboschoenus_fluviatilis,-37.1,149.87
 1451679762,Bolboschoenus_fluviatilis,-37.098441,149.867892
 1451549172,Bolboschoenus_fluviatilis,-32.915087,151.301144
 295940181,Bolboschoenus_fluviatilis,35.52409,139.653034
 1977967603,Bolboschoenus_fluviatilis,45.816667,-73.35
 1703289331,Bolboschoenus_fluviatilis,50.2829002029911,-96.9832246920239
-1977967463,Bolboschoenus_fluviatilis,45.6,-73.466667
-1262006844,Bolboschoenus_fluviatilis,45.6,-75.1
-1804455064,Bolboschoenus_fluviatilis,45.566667,-73.5
 295940179,Bolboschoenus_fluviatilis,35.557415,139.503045
 473525550,Bolboschoenus_fluviatilis,45.3662,-73.8532
 1830222278,Bolboschoenus_fluviatilis,36.55,137.833333
 1989004913,Bolboschoenus_fluviatilis,45.212145,-85.008808
-1804371182,Bolboschoenus_fluviatilis,45.266667,-75.7
-1830234600,Bolboschoenus_fluviatilis,37.166667,138.3
 1988739687,Bolboschoenus_fluviatilis,45.888957,-86.385801
 2265399771,Bolboschoenus_fluviatilis,45.266091,-94.08483
 1426098141,Bolboschoenus_fluviatilis,38.006667,-121.396944
@@ -408,18 +379,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651955752,Bolboschoenus_fluviatilis,-27.573539,153.042459
 1897754124,Bolboschoenus_fluviatilis,-35.65,173.466667
 1451679757,Bolboschoenus_fluviatilis,-33.898422,151.217822
-996078461,Bolboschoenus_fluviatilis,-33.9,151.22
 996196548,Bolboschoenus_fluviatilis,-33.57,150.75
 1899317789,Bolboschoenus_fluviatilis,43.816667,-79.033333
 1899296379,Bolboschoenus_fluviatilis,42.116667,-83.083333
-1899348291,Bolboschoenus_fluviatilis,42.625,-82.5
 2305867597,Bolboschoenus_fluviatilis,42.12,-83.08
-2307326837,Bolboschoenus_fluviatilis,42.62,-82.5
 318049097,Bolboschoenus_fluviatilis,44.292026,-97.129003
 2265399244,Bolboschoenus_fluviatilis,45.889822,-95.448171
 1977966985,Bolboschoenus_fluviatilis,46.308333,-72.475
-1262000573,Bolboschoenus_fluviatilis,45.483333,-74
-1899379658,Bolboschoenus_fluviatilis,44.85,-79.4
 1897739274,Bolboschoenus_fluviatilis,-36.433333,174.75
 996124040,Bolboschoenus_fluviatilis,-35.95,147.63
 727721512,Bolboschoenus_fluviatilis,38.34246,-96.01484
@@ -428,8 +394,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318049117,Bolboschoenus_fluviatilis,47.18149,-102.354254
 473258723,Bolboschoenus_fluviatilis,45.598056,-73.830833
 2265397359,Bolboschoenus_fluviatilis,43.771295,-91.250286
-1899379663,Bolboschoenus_fluviatilis,44.8,-79.4
-1949537140,Bolboschoenus_fluviatilis,49.4,-126.466667
 318049187,Bolboschoenus_fluviatilis,47.31614,-101.68628
 318049207,Bolboschoenus_fluviatilis,46.8703468767359,-101.276766596683
 473519689,Bolboschoenus_fluviatilis,45.609788,-73.4783
@@ -459,7 +423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318049230,Bolboschoenus_fluviatilis,46.1375733806195,-98.0992223831921
 1651886277,Bolboschoenus_fluviatilis,-27.540206,152.975793
 1897664031,Bolboschoenus_fluviatilis,-36.883333,174.45
-996078469,Bolboschoenus_fluviatilis,-34.6,150.85
 1829835147,Bolboschoenus_fluviatilis,33.926479,130.709196
 1949509040,Bolboschoenus_fluviatilis,49.033333,-119.45
 1988092308,Bolboschoenus_fluviatilis,43.55,-79.59
@@ -474,8 +437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318049146,Bolboschoenus_fluviatilis,46.0089426074789,-98.3954103247979
 1937259448,Bolboschoenus_fluviatilis,-33.55,150.816667
 295940894,Bolboschoenus_fluviatilis,35.274119,139.590541
-993528343,Bolboschoenus_fluviatilis,-34.2833,140.6
-1830153283,Bolboschoenus_fluviatilis,36.683333,137.2
 1828811816,Bolboschoenus_fluviatilis,36.349165,136.37408
 318049255,Bolboschoenus_fluviatilis,41.7575,-102.43667
 318049094,Bolboschoenus_fluviatilis,42.5685,-100.66859
@@ -489,7 +450,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936949787,Bolboschoenus_fluviatilis,-26.616667,153.083333
 1651940116,Bolboschoenus_fluviatilis,-26.623541,153.092453
 995281399,Bolboschoenus_fluviatilis,-26.6167,153.0833
-1675922289,Bolboschoenus_fluviatilis,-26.6,153.08
 996124037,Bolboschoenus_fluviatilis,-26.62,153.08
 415976616,Bolboschoenus_fluviatilis,-26.61666,153.08333
 727738652,Bolboschoenus_fluviatilis,38.40504,-96.11406
@@ -501,7 +461,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 727721510,Bolboschoenus_fluviatilis,38.52583,-96.41333
 318049144,Bolboschoenus_fluviatilis,41.89977,-98.55194
 318049202,Bolboschoenus_fluviatilis,41.31688,-102.13415
-1899376634,Bolboschoenus_fluviatilis,43.85,-79
 993288599,Bolboschoenus_fluviatilis,-32.6719,151.6433
 473486459,Bolboschoenus_fluviatilis,45.460203,-73.548712
 318049125,Bolboschoenus_fluviatilis,45.76939,-99.52615
@@ -510,8 +469,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318049091,Bolboschoenus_fluviatilis,45.034958,-99.185474
 473258719,Bolboschoenus_fluviatilis,45.446944,-73.798056
 473258716,Bolboschoenus_fluviatilis,45.4259,-73.8251
-993652656,Bolboschoenus_fluviatilis,-28.7833,153.3
-1937251145,Bolboschoenus_fluviatilis,-35.4,149
 1426150237,Bolboschoenus_fluviatilis,38.464254,-122.838259
 318049141,Bolboschoenus_fluviatilis,42.36766,-102.46027
 415883332,Bolboschoenus_fluviatilis,41.58583,-72.65861
@@ -567,7 +524,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265398451,Bolboschoenus_fluviatilis,44.848495,-94.564273
 2265399478,Bolboschoenus_fluviatilis,48.545336,-93.155756
 1426134881,Bolboschoenus_fluviatilis,38.505298,-123.001008
-1937126282,Bolboschoenus_fluviatilis,-31.9,115.92
 1228208784,Bolboschoenus_fluviatilis,42.3333,-88.4667
 441703322,Bolboschoenus_fluviatilis,47.46722,-116.74806
 2265399756,Bolboschoenus_fluviatilis,43.979723,-96.367859
@@ -577,8 +533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295941035,Bolboschoenus_fluviatilis,35.565744,139.478046
 318049170,Bolboschoenus_fluviatilis,40.71551,-94.690468
 1899302088,Bolboschoenus_fluviatilis,42.583333,-90.366667
-1988114305,Bolboschoenus_fluviatilis,44.5,-77.7
-1977966975,Bolboschoenus_fluviatilis,44.5,-77.683333
 295940953,Bolboschoenus_fluviatilis,35.624074,139.565537
 1899306804,Bolboschoenus_fluviatilis,42.557058,-80.24897
 2265398240,Bolboschoenus_fluviatilis,44.131005,-91.791254
@@ -613,7 +567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988789381,Bolboschoenus_fluviatilis,42.91333,-85.70528
 2265399327,Bolboschoenus_fluviatilis,47.89977,-92.2419
 2265398679,Bolboschoenus_fluviatilis,47.523489,-92.337086
-1988685650,Bolboschoenus_fluviatilis,46.5,-89.583333
 51956886,Bolboschoenus_fluviatilis,42.3634,-121.8841
 2265397963,Bolboschoenus_fluviatilis,44.992077,-93.166387
 2265398416,Bolboschoenus_fluviatilis,45.69025,-96.745148
@@ -626,11 +579,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988701127,Bolboschoenus_fluviatilis,46.333333,-80.166667
 465888947,Bolboschoenus_fluviatilis,45.479211,-74.30225
 51956038,Bolboschoenus_fluviatilis,44.1708,-123.5778
-415976613,Bolboschoenus_fluviatilis,45.48333,-74.3
-318049092,Bolboschoenus_fluviatilis,45.46667,-74.3
 1261951697,Bolboschoenus_fluviatilis,45.666667,-72.15
 2242402099,Bolboschoenus_fluviatilis,40.501236,-98.949919
-1988708110,Bolboschoenus_fluviatilis,42.2,-83.15
 415976620,Bolboschoenus_fluviatilis,37.28444,-5.92416
 465888946,Bolboschoenus_fluviatilis,48.666667,-78.983333
 1989128196,Bolboschoenus_fluviatilis,43.674526,-83.910323
@@ -638,7 +588,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651939893,Bolboschoenus_fluviatilis,-28.08187,153.417456
 415883329,Bolboschoenus_fluviatilis,41.52444,-72.55333
 2265397644,Bolboschoenus_fluviatilis,44.7038,-96.35628
-441702968,Bolboschoenus_fluviatilis,47.6,-122.084722
 2265398765,Bolboschoenus_fluviatilis,45.254503,-93.203833
 2265400117,Bolboschoenus_fluviatilis,45.409244,-96.610864
 2265396283,Bolboschoenus_fluviatilis,47.246264,-95.222996
@@ -653,7 +602,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996139386,Bolboschoenus_fluviatilis,-27.32,153.07
 1451702991,Bolboschoenus_fluviatilis,-29.665078,152.917747
 996139229,Bolboschoenus_fluviatilis,-29.67,152.92
-786271042,Bolboschoenus_fluviatilis,43.1,-89.4
 2265398491,Bolboschoenus_fluviatilis,47.844631,-91.340688
 1651940001,Bolboschoenus_fluviatilis,-27.415206,153.084124
 415976618,Bolboschoenus_fluviatilis,43.92444,-73.39416
