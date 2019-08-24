@@ -28,14 +28,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838966753,Alyssum_montanum,41.15694,24.879999
 1838966684,Alyssum_montanum,41.128891,24.753059
 1838966737,Alyssum_montanum,41.209171,24.728609
-1946735877,Alyssum_montanum,49.97,9.8
 1838967925,Alyssum_montanum,51.665001,11.75333
 1838967972,Alyssum_montanum,51.58083,11.82944
 1099343635,Alyssum_montanum,36.538,-4.994
 1569810879,Alyssum_montanum,42.880304,-2.008164
 1944754169,Alyssum_montanum,42.8803039990592,-2.008164
 1230507603,Alyssum_montanum,47.92361,16.12028
-1701352147,Alyssum_montanum,47.3,14.93333
 899994366,Alyssum_montanum,36.893,-4.779
 1848348222,Alyssum_montanum,48.39811,15.52181
 1230508152,Alyssum_montanum,48.275,15.45833
@@ -112,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848348095,Alyssum_montanum,48.36444,15.39722
 1230503535,Alyssum_montanum,50.28333,20.55
 1342566298,Alyssum_montanum,55.165157,11.157269
-1935647837,Alyssum_montanum,47.21667,18.2
 1230506653,Alyssum_montanum,47.925,16.70806
 1638371723,Alyssum_montanum,44.95389,14.74167
 1838955596,Alyssum_montanum,39.066109,21.980829
@@ -125,7 +122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212031586,Alyssum_montanum,39.260556,21.775833
 1838955753,Alyssum_montanum,40.114719,21.381941
 1838955891,Alyssum_montanum,39.078331,21.964439
-1212031296,Alyssum_montanum,39.9,21.266111
 1838956087,Alyssum_montanum,40.112782,21.385
 1838955507,Alyssum_montanum,39.260559,21.775829
 1212031142,Alyssum_montanum,40.114722,21.381944
@@ -240,7 +236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342566332,Alyssum_montanum,56.298781,10.461116
 211643320,Alyssum_montanum,38.068,-2.447
 29577233,Alyssum_montanum,40.08,-1.024
-1838955766,Alyssum_montanum,39.747501,20.6
 1212029482,Alyssum_montanum,39.973333,20.4025
 1212029542,Alyssum_montanum,39.938056,20.431667
 1838955648,Alyssum_montanum,39.788609,20.56806
@@ -248,16 +243,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838955915,Alyssum_montanum,39.722221,20.584721
 1212029494,Alyssum_montanum,39.788611,20.568056
 1838955909,Alyssum_montanum,39.973331,20.4025
-1212029465,Alyssum_montanum,39.7475,20.6
 1212029587,Alyssum_montanum,39.722222,20.584722
-788803849,Alyssum_montanum,38.633333,23.8
 1946737004,Alyssum_montanum,49.82,10.21
 1342566303,Alyssum_montanum,56.474147,10.79256
 30844565,Alyssum_montanum,37.310001,-4.02
 788785078,Alyssum_montanum,40.816667,21.066667
 1936566963,Alyssum_montanum,41.7209,-2.9773
 788785196,Alyssum_montanum,40.05,20.85
-788785020,Alyssum_montanum,40.033333,21
 1050623134,Alyssum_montanum,41.72,-1.76
 1935647797,Alyssum_montanum,47.20944,14.49833
 788785137,Alyssum_montanum,40.05,21.25
@@ -271,7 +263,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211643327,Alyssum_montanum,38.246,-2.057
 1880986995,Alyssum_montanum,48.81,10.61
 788803668,Alyssum_montanum,40.783333,21.283333
-788803608,Alyssum_montanum,40.95,21.9
 1212029556,Alyssum_montanum,40.039722,20.916111
 1838955725,Alyssum_montanum,39.834171,20.878889
 1212029529,Alyssum_montanum,40.025833,20.4375
@@ -293,8 +284,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30844116,Alyssum_montanum,36.869999,-2.89
 1050619075,Alyssum_montanum,43.02,-3.23
 2242396972,Alyssum_montanum,39.73193,-104.9619
-2291340613,Alyssum_montanum,46.2,14.616667
-895247033,Alyssum_montanum,40.75,0.1
 1501071801,Alyssum_montanum,38.65,-0.24
 1838955631,Alyssum_montanum,39.605831,20.50083
 199457866,Alyssum_montanum,36.691,-5.054
@@ -351,15 +340,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050581495,Alyssum_montanum,42.45,-0.95
 1842844988,Alyssum_montanum,35.1383,-5.1508
 1842879945,Alyssum_montanum,35.217,-5.1258
-30951501,Alyssum_montanum,36.8,-5.41
 1212029418,Alyssum_montanum,39.944722,21.889722
 788785375,Alyssum_montanum,40.616667,22.05
 1212029444,Alyssum_montanum,39.8425,22.238889
-788785315,Alyssum_montanum,40.8,22.816667
 1838955323,Alyssum_montanum,39.333889,22.566389
 1212029467,Alyssum_montanum,40.060833,22.02
 1838955812,Alyssum_montanum,39.97139,21.936939
-1851324908,Alyssum_montanum,41.41,-1.5
 1936432223,Alyssum_montanum,41.3607,-1.5666
 1838955633,Alyssum_montanum,40.060829,22.02
 1212029472,Alyssum_montanum,39.971389,21.936944
@@ -376,7 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29578424,Alyssum_montanum,40.48,-0.11
 1230506712,Alyssum_montanum,49.00667,20.71861
 895236538,Alyssum_montanum,40.22,-0.36
-30843814,Alyssum_montanum,37.860001,-3
 1050656035,Alyssum_montanum,38.43,-1.16
 1050656591,Alyssum_montanum,38.21,-2.04
 1212029507,Alyssum_montanum,41.127778,23.906667
@@ -397,7 +382,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838955492,Alyssum_montanum,39.945831,21.72583
 1050659009,Alyssum_montanum,42.74,-3.03
 1838956019,Alyssum_montanum,41.115002,23.68
-1702509159,Alyssum_montanum,42.86,-2
 1838956118,Alyssum_montanum,39.674999,20.308331
 1838955885,Alyssum_montanum,39.683331,20.29167
 1212029470,Alyssum_montanum,41.193611,23.790278
@@ -452,7 +436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30843195,Alyssum_montanum,37.130001,-4.24
 1668935528,Alyssum_montanum,54.908,37.539
 111301437,Alyssum_montanum,42.734001,-2.236
-1500696691,Alyssum_montanum,40.4,-0.35
 111301432,Alyssum_montanum,42.894001,-1.99
 860316133,Alyssum_montanum,36.72,-4.74
 1851394713,Alyssum_montanum,37.626,-2.36
@@ -474,8 +457,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050577758,Alyssum_montanum,42.73,-2.23
 1050577775,Alyssum_montanum,42.62,-2.32
 1050577809,Alyssum_montanum,42.73,-2.24
-895183675,Alyssum_montanum,40.66,0.1
-1050577784,Alyssum_montanum,42.6,-2.45
 895308825,Alyssum_montanum,36.91,-4.07
 1936421427,Alyssum_montanum,42.0742,-4.2706
 1936397666,Alyssum_montanum,41.55,-0.9749
@@ -487,9 +468,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697524868,Alyssum_montanum,52.714662,38.902532
 1936168248,Alyssum_montanum,42.8105,-3.1725
 1050656241,Alyssum_montanum,42.88,-1.96
-30659547,Alyssum_montanum,37.9,-2.83
 1050578095,Alyssum_montanum,40.38,-0.66
-788808934,Alyssum_montanum,40.1,22.366667
 1936603922,Alyssum_montanum,43.156,-4.8463
 30843272,Alyssum_montanum,37.049999,-3.45
 1936127018,Alyssum_montanum,42.7386,-3.038
@@ -519,7 +498,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936370200,Alyssum_montanum,38.2517,-2.6698
 111301106,Alyssum_montanum,42.956001,-1.216
 1050577748,Alyssum_montanum,43.49,-3.43
-1842905646,Alyssum_montanum,33.37,-5.2
 1135336300,Alyssum_montanum,48.04,16.16
 1936563963,Alyssum_montanum,42.5024,-3.695
 1935648072,Alyssum_montanum,45.83333,13.55417
@@ -541,7 +519,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936153766,Alyssum_montanum,42.6842,-3.2943
 1806555362,Alyssum_montanum,42.847613,-1.841083
 1936390364,Alyssum_montanum,40.0458,-5.0175
-1050578097,Alyssum_montanum,42.61,-2.5
 1050577991,Alyssum_montanum,42.87,-3.25
 1050578044,Alyssum_montanum,42.76,-2.57
 111301354,Alyssum_montanum,42.618,-2.506
@@ -551,7 +528,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211617495,Alyssum_montanum,43.18,-4.97
 1050578065,Alyssum_montanum,42.93,-0.73
 1050656218,Alyssum_montanum,43.15,-2.67
-211617500,Alyssum_montanum,43.200001,-4.7
 1050577875,Alyssum_montanum,42.74,-3.04
 1936079266,Alyssum_montanum,42.6213,-2.7818
 1936078551,Alyssum_montanum,42.5653,-3.7079
@@ -578,7 +554,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936409800,Alyssum_montanum,38.2337,-2.6699
 1050577902,Alyssum_montanum,42.64,-2.83
 199457457,Alyssum_montanum,36.947,-4.039
-1019819364,Alyssum_montanum,31.2,-7.86667
 1935647903,Alyssum_montanum,47.17611,14.62306
 1019819360,Alyssum_montanum,33.43333,-5.11667
 1050577926,Alyssum_montanum,42.76,-2.43
@@ -590,8 +565,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788796753,Alyssum_montanum,37.966667,23.816667
 788796693,Alyssum_montanum,38.133333,23.716667
 1936024174,Alyssum_montanum,42.863,-5.9392
-788795326,Alyssum_montanum,40.4,21.55
-29572132,Alyssum_montanum,38.5,-2.45
 1936078357,Alyssum_montanum,37.2233,-3.5648
 788804204,Alyssum_montanum,40.633333,21.933333
 1936078930,Alyssum_montanum,40.3787,-3.1191
@@ -602,11 +575,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701352103,Alyssum_montanum,47.9575,16.76667
 85497980,Alyssum_montanum,42.035,1.025
 85497977,Alyssum_montanum,41.882,0.584
-85497996,Alyssum_montanum,42.043,1
 1936079159,Alyssum_montanum,43.175,-4.7853
 1831515375,Alyssum_montanum,48.72444,16.58083
-1668935093,Alyssum_montanum,54.9,37.55
-1050577980,Alyssum_montanum,42.6,-2.6
 111301355,Alyssum_montanum,42.599998,-2.604
 1050577921,Alyssum_montanum,42.61,-2.48
 1936079459,Alyssum_montanum,37.972,-2.58
@@ -620,7 +590,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936370196,Alyssum_montanum,38.0086,-2.7848
 1936079248,Alyssum_montanum,37.3688,-2.8431
 1144575787,Alyssum_montanum,45.73786,7.37535
-1050577974,Alyssum_montanum,42.77,-2.6
 1050577958,Alyssum_montanum,42.86,-2.85
 1936370506,Alyssum_montanum,38.0809,-2.9784
 788803788,Alyssum_montanum,38.516667,22.583333
@@ -635,7 +604,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697524829,Alyssum_montanum,52.593194,38.921127
 1697524823,Alyssum_montanum,52.763553,39.082006
 2265604909,Alyssum_montanum,44.98333,21.01667
-788804323,Alyssum_montanum,38.5,22.6
 1851331437,Alyssum_montanum,42.92,-5.39
 30843802,Alyssum_montanum,43.16,-4.97
 30843266,Alyssum_montanum,42.240002,-0.33
@@ -660,11 +628,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851384210,Alyssum_montanum,42.74,-5.38
 1668934241,Alyssum_montanum,54.855,37.603
 1697524856,Alyssum_montanum,52.600256,38.922087
-788796574,Alyssum_montanum,40.2,22.3
 788796633,Alyssum_montanum,36.883333,22.383333
-788803968,Alyssum_montanum,36.9,22.383333
-788785255,Alyssum_montanum,40.4,22.116667
-788803909,Alyssum_montanum,40.1,22.25
 1845007896,Alyssum_montanum,50.021389,8.206944
 2288236147,Alyssum_montanum,44.205,10.338333
 2289194884,Alyssum_montanum,33.241667,-5.35
@@ -677,7 +641,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317817179,Alyssum_montanum,40.226,-0.3395
 1697524763,Alyssum_montanum,54.851734,37.881776
 788803488,Alyssum_montanum,40.25,21.666667
-788795207,Alyssum_montanum,39.8,21.2
 345759632,Alyssum_montanum,50.002778,9.753889
 1697524870,Alyssum_montanum,50.082169,45.380155
 1697524752,Alyssum_montanum,56.967439,23.764114
@@ -696,10 +659,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935910995,Alyssum_montanum,41.784,-3.0494
 788803548,Alyssum_montanum,37.95,23.816667
 1935911198,Alyssum_montanum,40.5732,-2.0798
-788795445,Alyssum_montanum,38.483333,22.5
 1935911300,Alyssum_montanum,36.904,-4.1125
 1338946372,Alyssum_montanum,49.02,11.54
-1842858086,Alyssum_montanum,35.23,-5.1
 1697524862,Alyssum_montanum,52.978087,55.770665
 1935648220,Alyssum_montanum,48.09444,16.71667
 788804027,Alyssum_montanum,38.15,23.716667
@@ -716,10 +677,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1880986604,Alyssum_montanum,49.77,10.12
 1338946332,Alyssum_montanum,49.89,10.14
 1338946231,Alyssum_montanum,49.72,10.04
-1842845545,Alyssum_montanum,42.4,1.72
 85495821,Alyssum_montanum,42.6863,-2.9403
 1848348519,Alyssum_montanum,39.71611,19.775
-2290590674,Alyssum_montanum,44,3.1
 1338946182,Alyssum_montanum,49.52,10.37
 1935647855,Alyssum_montanum,47.2875,14.925
 1935647896,Alyssum_montanum,47.28556,14.92778
