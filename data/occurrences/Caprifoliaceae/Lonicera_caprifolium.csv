@@ -91,13 +91,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638406170,Lonicera_caprifolium,42.00833,19.15528
 1702516917,Lonicera_caprifolium,59.7497,10.2035
 1702253617,Lonicera_caprifolium,59.8461,10.6898
-2313284295,Lonicera_caprifolium,48.15,11.5
 1702253702,Lonicera_caprifolium,59.8634,10.6575
 1342650146,Lonicera_caprifolium,55.176809,12.101504
 788636829,Lonicera_caprifolium,56.70835,16.62161
 1702037124,Lonicera_caprifolium,59.893,10.5459
 788633760,Lonicera_caprifolium,56.54144,16.44571
-1697672461,Lonicera_caprifolium,54.141667,35.8
 1705402364,Lonicera_caprifolium,56.739479,16.58617
 1697836787,Lonicera_caprifolium,44.34259,38.73922
 1701867799,Lonicera_caprifolium,59.5631,11.0856
@@ -192,11 +190,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705340763,Lonicera_caprifolium,57.377171,15.620697
 2028546490,Lonicera_caprifolium,42.09,2.72
 1705340793,Lonicera_caprifolium,57.378043,15.604068
-1842888969,Lonicera_caprifolium,41.87,2.7
 1948338595,Lonicera_caprifolium,60.170379,24.92525
 1701127904,Lonicera_caprifolium,43.992685,10.174198
-1230916404,Lonicera_caprifolium,48,14.85
-876155369,Lonicera_caprifolium,41.41,2.1
 1705431660,Lonicera_caprifolium,57.269447,16.401617
 1701127907,Lonicera_caprifolium,43.788363,10.271331
 57704631,Lonicera_caprifolium,63.053902,25.9091
@@ -275,7 +270,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705420859,Lonicera_caprifolium,56.880223,16.655973
 1705260786,Lonicera_caprifolium,59.324669,18.004114
 2273846701,Lonicera_caprifolium,-38.67306,-72.66326
-1842886389,Lonicera_caprifolium,35.9,-5.38
 1999485256,Lonicera_caprifolium,60.453486,22.688452
 1622359312,Lonicera_caprifolium,60.545594,26.905924
 1697672475,Lonicera_caprifolium,54.735147,55.958727
@@ -308,5 +302,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671666452,Lonicera_caprifolium,44.350175,9.231747
 1705312164,Lonicera_caprifolium,56.842549,16.378487
 788619832,Lonicera_caprifolium,55.59662,12.96376
-1099042093,Lonicera_caprifolium,46.816666,13.5
 900317438,Lonicera_caprifolium,59.3521,8.534
