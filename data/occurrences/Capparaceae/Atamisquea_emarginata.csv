@@ -14,13 +14,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831517867,Atamisquea_emarginata,-31.025,-68.74694
 1895672227,Atamisquea_emarginata,24.650528,-111.664139
 1257577693,Atamisquea_emarginata,-23.5375,-60.525833
-1144627923,Atamisquea_emarginata,-23,-61
-1930041610,Atamisquea_emarginata,-17.9,-64.48
 1260649561,Atamisquea_emarginata,-18.10111,-64.65833
 1260649435,Atamisquea_emarginata,-18.10138,-64.51805
 1895643520,Atamisquea_emarginata,27.945833,-110.680278
-1257502867,Atamisquea_emarginata,-21.7,-64.669167
-912259782,Atamisquea_emarginata,-21.7,-64.67
 1895643555,Atamisquea_emarginata,25.073056,-110.849444
 1894812125,Atamisquea_emarginata,23.641667,-110.475
 1419228675,Atamisquea_emarginata,27.647778,-113.4425
@@ -59,8 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500197584,Atamisquea_emarginata,27.966667,-111.116667
 1895643469,Atamisquea_emarginata,29.158333,-112.189444
 1893587919,Atamisquea_emarginata,29.158333,-112.188889
-1893389629,Atamisquea_emarginata,25.8,-111.333333
-1895417830,Atamisquea_emarginata,30.6,-112.2
 1893389563,Atamisquea_emarginata,26.708333,-113.025
 1895417843,Atamisquea_emarginata,27.9547876034817,-111.047949272861
 1895643495,Atamisquea_emarginata,27.824722,-112.732354
