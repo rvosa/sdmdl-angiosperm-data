@@ -168,7 +168,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896207193,Mimosa_polyantha,18.258333,-97.158333
 1893435334,Mimosa_polyantha,18.058333,-97.125
 1893764114,Mimosa_polyantha,24.811111,-107.386111
-1894974088,Mimosa_polyantha,26.7375,-108.3125
 1893435124,Mimosa_polyantha,18.325,-97.241667
 1228388966,Mimosa_polyantha,18.8333,-98
 1895402611,Mimosa_polyantha,18.283333,-97.166667
@@ -185,7 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893623117,Mimosa_polyantha,24.638333,-106.796667
 1896207217,Mimosa_polyantha,18.424722,-97.441667
 1893435328,Mimosa_polyantha,17.941667,-97.025
-1261546050,Mimosa_polyantha,5.938056,-74.975833
 1896207220,Mimosa_polyantha,17.558333,-99.508333
 1417697954,Mimosa_polyantha,18.668611,-98.800278
 1895965461,Mimosa_polyantha,18.736944,-98.025556
@@ -348,5 +346,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928112372,Mimosa_polyantha,18.88358,-99.0631
 1258610590,Mimosa_polyantha,18.34,-99.53
 1928676445,Mimosa_polyantha,18.4,-99.535278
-1228327357,Mimosa_polyantha,23,-102
-1056514603,Mimosa_polyantha,23.950465,-102.532886
