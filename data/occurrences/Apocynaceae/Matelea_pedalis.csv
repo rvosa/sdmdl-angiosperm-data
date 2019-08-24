@@ -5,7 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094883626,Matelea_pedalis,-13.493889,-41.870556
 1094868750,Matelea_pedalis,-15.386389,-55.838611
 1090624921,Matelea_pedalis,-20.341111,-46.803889
-1089090895,Matelea_pedalis,-20,-46.8
 1094873851,Matelea_pedalis,-20.080278,-44.028056
 1913579877,Matelea_pedalis,-6.702778,-47.708611
 1424155592,Matelea_pedalis,-19.384444,-43.579444
@@ -16,9 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094766714,Matelea_pedalis,-13.55,-41.383333
 1095214360,Matelea_pedalis,-13.89722,-48.12222
 1252646934,Matelea_pedalis,-19.26,-43.55
-1090620780,Matelea_pedalis,-20.083333,-43.5
-1230968744,Matelea_pedalis,-20.08333,-43.5
-1252624370,Matelea_pedalis,-20.08,-43.5
 1090621941,Matelea_pedalis,-20.145556,-44.216667
 1090619033,Matelea_pedalis,-12.450278,-41.453333
 1252624399,Matelea_pedalis,-16.25,-46.75
@@ -28,4 +24,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930371322,Matelea_pedalis,-15.5997895735814,-56.0977014111779
 1701731033,Matelea_pedalis,-10.8339,-52.8731
 1928561333,Matelea_pedalis,-16.01719,-48.0638
-1260913841,Matelea_pedalis,-14.16666,-56.2
