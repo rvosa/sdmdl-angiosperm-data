@@ -2,15 +2,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1884022315,Romneya_coulteri,37.769167,-122.465833
 2270224935,Romneya_coulteri,35.591035,-120.909436
 1426323008,Romneya_coulteri,33.757333,-117.459583
-1988076186,Romneya_coulteri,49.3,-123.2
-1930484740,Romneya_coulteri,34.45,-119.7
 623687727,Romneya_coulteri,38.533333,-121.716667
-1897663218,Romneya_coulteri,-36.883333,174.8
 992570196,Romneya_coulteri,-34.814557,138.72693
 1261288067,Romneya_coulteri,30.961944,-115.698333
 992522908,Romneya_coulteri,-33.832053,138.63442
 1426158636,Romneya_coulteri,34.2323,-117.4205
-1946167696,Romneya_coulteri,33.683333,-117.4
 994418983,Romneya_coulteri,-42.92,147.25
 1894068609,Romneya_coulteri,32.316583,-116.666444
 996465603,Romneya_coulteri,-32.86,115.92
@@ -21,7 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896041667,Romneya_coulteri,31.576944,-116.489444
 1897626059,Romneya_coulteri,-40.65,175.266667
 1426072061,Romneya_coulteri,33.75,-117.583333
-993153660,Romneya_coulteri,-35.3,149.1333
 996464966,Romneya_coulteri,-35.048056,117.591667
 1451045893,Romneya_coulteri,34.116667,-117.716667
 996465630,Romneya_coulteri,-31.916667,115.833056
