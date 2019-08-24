@@ -77,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897941606,Artemisia_ludoviciana,22.757222,-103.075555
 2270492245,Artemisia_ludoviciana,34.906483,-112.238403
 1846555079,Artemisia_ludoviciana,30.636944,-104.176111
-1257915429,Artemisia_ludoviciana,43.966667,-99.2
 1257912161,Artemisia_ludoviciana,44.066667,-99.433333
 1986990004,Artemisia_ludoviciana,41.99913,-111.51908
 2242389571,Artemisia_ludoviciana,37.980521,-105.767231
@@ -181,7 +180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843911179,Artemisia_ludoviciana,36.804417,-104.900436
 441695464,Artemisia_ludoviciana,47.39241,-121.38376
 2242383249,Artemisia_ludoviciana,37.672626,-104.028681
-1988124680,Artemisia_ludoviciana,49.4,-121.43
 441695460,Artemisia_ludoviciana,46.90818,-119.2288
 1895217529,Artemisia_ludoviciana,19.313056,-99.193611
 1846552300,Artemisia_ludoviciana,33.89065,-111.953017
@@ -336,7 +334,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895141150,Artemisia_ludoviciana,17.132778,-93.218055
 1456297197,Artemisia_ludoviciana,46.0137,-116.836
 1077496905,Artemisia_ludoviciana,43.389722,-113.722778
-1928171050,Artemisia_ludoviciana,43,-113
 1986948845,Artemisia_ludoviciana,45.1438,-120.7605
 51759116,Artemisia_ludoviciana,45.6975,-120.728
 2270578000,Artemisia_ludoviciana,34.560923,-111.648585
@@ -387,7 +384,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176881199,Artemisia_ludoviciana,35.570833,-99.700833
 1930442969,Artemisia_ludoviciana,40.8431,-105.5014
 2265370510,Artemisia_ludoviciana,45.2325,-96.236536
-1258975892,Artemisia_ludoviciana,40.83333,-105.5
 1846485782,Artemisia_ludoviciana,34.431783,-110.843583
 1897345423,Artemisia_ludoviciana,29.073889,-100.677778
 1846476836,Artemisia_ludoviciana,36.22832,-112.0649
@@ -407,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846493529,Artemisia_ludoviciana,33.95028,-111.8336
 1895217696,Artemisia_ludoviciana,19.969722,-100.151111
 1986946881,Artemisia_ludoviciana,32.040556,-110.091111
-1258975744,Artemisia_ludoviciana,40.11666,-105.3
 1843850564,Artemisia_ludoviciana,35.86886,-106.60186
 1843850897,Artemisia_ludoviciana,35.911555,-106.621111
 1928714098,Artemisia_ludoviciana,40.1203,-105.3064
@@ -447,10 +442,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51759130,Artemisia_ludoviciana,44.1122,-120.796
 51759107,Artemisia_ludoviciana,44.6037,-121.9619
 1986947298,Artemisia_ludoviciana,44.229722,-115.225833
-1988080885,Artemisia_ludoviciana,38.3,-119.7
 441695271,Artemisia_ludoviciana,44.375433,-114.723374
 176881316,Artemisia_ludoviciana,44.383587,-114.725002
-1988124710,Artemisia_ludoviciana,49.1,-119.5
 51759128,Artemisia_ludoviciana,44.1374,-120.6952
 176881036,Artemisia_ludoviciana,38.980835,-102.995834
 176880973,Artemisia_ludoviciana,39.262779,-103.68
@@ -513,7 +506,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895141251,Artemisia_ludoviciana,17.200833,-93.011667
 1930353797,Artemisia_ludoviciana,41.7059,-115.545
 1703301113,Artemisia_ludoviciana,49.979278,-97.258333
-1928104614,Artemisia_ludoviciana,45.0931,-116.2
 1895217614,Artemisia_ludoviciana,21.880556,-101.535278
 623641925,Artemisia_ludoviciana,43.0212,-122.7024
 1986945298,Artemisia_ludoviciana,41.691944,-116.028611
@@ -522,20 +514,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217452,Artemisia_ludoviciana,22.420278,-101.86
 623645341,Artemisia_ludoviciana,37.7775,-105.0194
 1897941680,Artemisia_ludoviciana,22.495,-102.454722
-1258970256,Artemisia_ludoviciana,40.4,-105.38333
 811857354,Artemisia_ludoviciana,38.4938,-105.9267
 1703302891,Artemisia_ludoviciana,50.871028,-99.274528
 1986942714,Artemisia_ludoviciana,42.038333,-111.638611
 1843911874,Artemisia_ludoviciana,37.7696,-105.0206
 176881010,Artemisia_ludoviciana,38.095833,-98.416664
 1895217612,Artemisia_ludoviciana,23.533333,-102.956944
-2311130130,Artemisia_ludoviciana,49.7,-109.5
 1895217525,Artemisia_ludoviciana,24.033333,-101.586111
 1895217535,Artemisia_ludoviciana,24.136667,-103.295833
 1986946666,Artemisia_ludoviciana,40.558611,-112.454167
-1658228015,Artemisia_ludoviciana,49.6983,-109.5
 2265433202,Artemisia_ludoviciana,45.948517,-94.251125
-1895217449,Artemisia_ludoviciana,23.7,-102.946944
 1895217674,Artemisia_ludoviciana,23.758333,-101.808056
 1897941595,Artemisia_ludoviciana,23.758333,-101.808055
 1929685163,Artemisia_ludoviciana,39.2305,-110.0481
@@ -557,7 +545,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894819133,Artemisia_ludoviciana,30.391667,-110.558333
 1897941651,Artemisia_ludoviciana,21.924722,-101.388055
 1895217358,Artemisia_ludoviciana,19.886389,-101.305556
-1846489408,Artemisia_ludoviciana,21.938889,-100.5
 1895217602,Artemisia_ludoviciana,23.906944,-105.033333
 1895217433,Artemisia_ludoviciana,21.916667,-100.515833
 1895217723,Artemisia_ludoviciana,20.477778,-100.314444
@@ -591,17 +578,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56513593,Artemisia_ludoviciana,31.20583,-86.05695
 1846476540,Artemisia_ludoviciana,36.52398,-112.5698
 1895354746,Artemisia_ludoviciana,30.376944,-108.376944
-2270469717,Artemisia_ludoviciana,28.7,-107.183333
 2270627121,Artemisia_ludoviciana,36.524,-112.57
 1893778580,Artemisia_ludoviciana,30.225,-108.525
 1893340560,Artemisia_ludoviciana,31.050833,-115.500556
 1258500802,Artemisia_ludoviciana,31.94416,-109.95722
 1895217392,Artemisia_ludoviciana,23.935556,-104.874167
-2270470438,Artemisia_ludoviciana,31.5,-115
 1895354665,Artemisia_ludoviciana,30.193333,-108.111667
 1895217374,Artemisia_ludoviciana,22.146389,-100.730556
 1843838642,Artemisia_ludoviciana,35.611145,-106.122514
-1928134423,Artemisia_ludoviciana,40.8903,-111.9
 1897941643,Artemisia_ludoviciana,21.476944,-102.815555
 2265575192,Artemisia_ludoviciana,44.51999,-92.339224
 1894823836,Artemisia_ludoviciana,31.508333,-115.008333
@@ -684,7 +668,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986976540,Artemisia_ludoviciana,31.282944,-85.40856
 1949617090,Artemisia_ludoviciana,49.35,-114.666667
 176881270,Artemisia_ludoviciana,42.027813,-111.593789
-1260982068,Artemisia_ludoviciana,37.5,-94.53333
 1986999656,Artemisia_ludoviciana,42.7121,-112.231819
 1986943699,Artemisia_ludoviciana,40.393611,-111.638611
 1949617799,Artemisia_ludoviciana,49.783333,-115.783333
@@ -708,7 +691,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949617345,Artemisia_ludoviciana,49.066667,-118.333333
 1895217653,Artemisia_ludoviciana,24.066111,-104.524167
 1895217415,Artemisia_ludoviciana,20.854444,-102.62
-1846492427,Artemisia_ludoviciana,32.65,-116.1
 1895217375,Artemisia_ludoviciana,16.302222,-96.301111
 1895354744,Artemisia_ludoviciana,29.15,-104.116667
 1896250506,Artemisia_ludoviciana,27.275,-101.225
@@ -729,23 +711,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242416021,Artemisia_ludoviciana,39.073036,-104.524456
 1949623986,Artemisia_ludoviciana,49.05,-117.083333
 1426077807,Artemisia_ludoviciana,38.6082,-119.5664
-1988236386,Artemisia_ludoviciana,49.1,-117.1
 176881155,Artemisia_ludoviciana,39.270101,-98.205008
 1986897195,Artemisia_ludoviciana,43.201667,-114.318056
-1988123375,Artemisia_ludoviciana,49,-115.1
 1893628114,Artemisia_ludoviciana,25.445278,-100.846667
 1988115413,Artemisia_ludoviciana,56.1997906329594,-120.101105089074
-1988116987,Artemisia_ludoviciana,56.2,-120.1
 1986970336,Artemisia_ludoviciana,43.942778,-110.629722
 1988191353,Artemisia_ludoviciana,49.05,-119.45
-1418339377,Artemisia_ludoviciana,19.5,-96.908333
 176881208,Artemisia_ludoviciana,39.208477,-98.149122
 1949609916,Artemisia_ludoviciana,49.766667,-115.716667
 1895821848,Artemisia_ludoviciana,28.611944,-109.756944
 1703302902,Artemisia_ludoviciana,49.1999999990671,-98.916667
 1949609414,Artemisia_ludoviciana,49.048611,-119.452778
 1703303021,Artemisia_ludoviciana,49.7666669990701,-97.166667
-1949633261,Artemisia_ludoviciana,49,-115.066667
 1895354701,Artemisia_ludoviciana,25.379311,-100.517958
 176881137,Artemisia_ludoviciana,38.931395,-95.432738
 176881963,Artemisia_ludoviciana,37.5967,-95.47161
@@ -781,10 +758,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217540,Artemisia_ludoviciana,21.0725,-101.196667
 1893606630,Artemisia_ludoviciana,20.34972,-98.50028
 1930105283,Artemisia_ludoviciana,39.332,-116.4013
-1261277316,Artemisia_ludoviciana,38.6,-90.25
 1931024794,Artemisia_ludoviciana,40.7999,-115.2107
 1893606667,Artemisia_ludoviciana,20.36472,-98.52222
-1895217599,Artemisia_ludoviciana,20.346667,-98.5
 1895217730,Artemisia_ludoviciana,19.031944,-98.113889
 1893606496,Artemisia_ludoviciana,21.14,-101.188333
 1500201054,Artemisia_ludoviciana,31.704861,-104.760417
@@ -867,7 +842,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265476368,Artemisia_ludoviciana,46.438889,-95.126389
 2265475916,Artemisia_ludoviciana,46.33322,-94.38002
 1260980481,Artemisia_ludoviciana,36.55444,-90.53027
-1804521562,Artemisia_ludoviciana,46.4,-75.033333
 1426145599,Artemisia_ludoviciana,41.271389,-120.895
 1986966588,Artemisia_ludoviciana,42.106389,-113.734722
 176881371,Artemisia_ludoviciana,45.622778,-122.698457
@@ -893,10 +867,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894532871,Artemisia_ludoviciana,23.908333,-104.708333
 1893606608,Artemisia_ludoviciana,22.496667,-103.636667
 1949643268,Artemisia_ludoviciana,49.033333,-119.45
-1949621572,Artemisia_ludoviciana,49.066667,-119.5
 1895141194,Artemisia_ludoviciana,15.091667,-92.175
 2270626264,Artemisia_ludoviciana,31.3439,-110.23
-1988134977,Artemisia_ludoviciana,49.1,-116.5
 1893592156,Artemisia_ludoviciana,30.806944,-110.029444
 51759030,Artemisia_ludoviciana,42.782,-118.8596
 51759001,Artemisia_ludoviciana,44.5436,-121.4404
@@ -924,7 +896,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217472,Artemisia_ludoviciana,19.108333,-99.508333
 1893606651,Artemisia_ludoviciana,21.501667,-100.440278
 1849153780,Artemisia_ludoviciana,50.07,-120.47
-1988186674,Artemisia_ludoviciana,50.1,-120.8
 1895354679,Artemisia_ludoviciana,29.616667,-108.983333
 1895217572,Artemisia_ludoviciana,29.621667,-108.958889
 1897941577,Artemisia_ludoviciana,23.18,-102.473333
@@ -959,24 +930,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988205891,Artemisia_ludoviciana,46.38,-120.31
 51758944,Artemisia_ludoviciana,44.2693,-121.2609
 1988234147,Artemisia_ludoviciana,46.75,-123.89
-1988125325,Artemisia_ludoviciana,49,-119.5
 1895217660,Artemisia_ludoviciana,19.098889,-99.506389
 1895217534,Artemisia_ludoviciana,29.787222,-108.334167
-1988214912,Artemisia_ludoviciana,49.3,-115.8
-1988223453,Artemisia_ludoviciana,51.7,-112.3
 2265476084,Artemisia_ludoviciana,47.793335,-96.22583
 1893628279,Artemisia_ludoviciana,21.995,-103.651667
 1703302952,Artemisia_ludoviciana,50.016667,-96.883333
 1895217689,Artemisia_ludoviciana,21.993889,-103.654444
 1426151831,Artemisia_ludoviciana,41.3791,-120.2271
 176881684,Artemisia_ludoviciana,37.154978,-97.18962
-1261309135,Artemisia_ludoviciana,39.06666,-77
 2270628341,Artemisia_ludoviciana,31.3439,-110.264
 1895217690,Artemisia_ludoviciana,19.350833,-98.229444
 176882212,Artemisia_ludoviciana,43.295405,-116.432987
 2270628061,Artemisia_ludoviciana,31.3439,-110.247
 1893606613,Artemisia_ludoviciana,21.111667,-100.351667
-1842918015,Artemisia_ludoviciana,35.18,-108.1
 2265477290,Artemisia_ludoviciana,43.993611,-93.069167
 1986965141,Artemisia_ludoviciana,33.301111,-106.523889
 2265476938,Artemisia_ludoviciana,43.553333,-94.704722
@@ -1018,7 +984,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217584,Artemisia_ludoviciana,24.825,-100.091667
 1895217585,Artemisia_ludoviciana,19.686111,-97.117778
 51758942,Artemisia_ludoviciana,45.466,-116.7034
-1988090208,Artemisia_ludoviciana,49.2,-122.9
 2265452765,Artemisia_ludoviciana,45.576389,-93.665556
 1893606649,Artemisia_ludoviciana,21.295,-98.183333
 2265478081,Artemisia_ludoviciana,45.44889,-93.072508
@@ -1178,7 +1143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703302873,Artemisia_ludoviciana,49.77295,-99.631233
 1893628112,Artemisia_ludoviciana,19.375,-97.623333
 1986939173,Artemisia_ludoviciana,41.7675,-111.781111
-1895354677,Artemisia_ludoviciana,19.6,-97.25
 1703302951,Artemisia_ludoviciana,51.1332220177539,-100.500350715146
 1209656710,Artemisia_ludoviciana,40.6266079990675,-114.305779
 1895949072,Artemisia_ludoviciana,19.383333,-97.616667
@@ -1194,7 +1158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176880987,Artemisia_ludoviciana,40.221788,-97.345365
 1895217515,Artemisia_ludoviciana,19.544444,-101.436111
 176882291,Artemisia_ludoviciana,41.412646,-97.093707
-1893606637,Artemisia_ludoviciana,22.913333,-104.6
 1894529632,Artemisia_ludoviciana,22.875,-104.608333
 2265476906,Artemisia_ludoviciana,44.927188,-92.791852
 1842918136,Artemisia_ludoviciana,35.080745,-107.774892
@@ -1239,9 +1202,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986937314,Artemisia_ludoviciana,37.554722,-113.835833
 1895217610,Artemisia_ludoviciana,22.097222,-100.708611
 1986936540,Artemisia_ludoviciana,37.541389,-110.572222
-1209656209,Artemisia_ludoviciana,52.2,-106.283333
 1895217465,Artemisia_ludoviciana,25.321389,-105.781944
-2270627039,Artemisia_ludoviciana,36.27,-109.2
 1986961482,Artemisia_ludoviciana,44.755278,-96.671667
 1893778576,Artemisia_ludoviciana,27.133889,-107.567778
 1895217424,Artemisia_ludoviciana,25.733333,-105.599444
@@ -1284,7 +1245,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927955859,Artemisia_ludoviciana,40.5445,-118.1647
 1930497627,Artemisia_ludoviciana,44.1932,-104.3457
 1986935454,Artemisia_ludoviciana,39.780278,-111.769444
-1988144314,Artemisia_ludoviciana,52.2,-113.24
 1986960844,Artemisia_ludoviciana,41.625556,-116.134167
 1929094170,Artemisia_ludoviciana,38.6156,-109.5524
 1930614248,Artemisia_ludoviciana,39.7478,-105.399
@@ -1331,8 +1291,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986932828,Artemisia_ludoviciana,41.910556,-111.634444
 1895217691,Artemisia_ludoviciana,24.900833,-100.266944
 2265477505,Artemisia_ludoviciana,48.695736,-96.57277
-1261295919,Artemisia_ludoviciana,46.43333,-97.4
-1927843336,Artemisia_ludoviciana,24.9,-100.2833
 1930056515,Artemisia_ludoviciana,40.9378,-109.7299
 1261035309,Artemisia_ludoviciana,24.42,-100.26
 1986932798,Artemisia_ludoviciana,41.954167,-111.395278
@@ -1399,7 +1357,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265476312,Artemisia_ludoviciana,43.767742,-91.42281
 2265476630,Artemisia_ludoviciana,46.159244,-96.235363
 1804402739,Artemisia_ludoviciana,50.633333,-102.833333
-1804430143,Artemisia_ludoviciana,51.7,-98.75
 1209658912,Artemisia_ludoviciana,49.7081,-113.6519
 2265477332,Artemisia_ludoviciana,44.233108,-91.917245
 2265478629,Artemisia_ludoviciana,45.434262,-95.245018
@@ -1435,7 +1392,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217629,Artemisia_ludoviciana,19.054167,-99.241667
 1895217388,Artemisia_ludoviciana,22.170556,-102.507222
 1893426023,Artemisia_ludoviciana,21.575,-103.125
-1949649287,Artemisia_ludoviciana,56.133333,-120
 1949635815,Artemisia_ludoviciana,49.066667,-119.466667
 1895217530,Artemisia_ludoviciana,19.64,-101.191944
 2270627112,Artemisia_ludoviciana,32.457448,-112.633
@@ -1466,7 +1422,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217605,Artemisia_ludoviciana,19.300556,-98.448889
 176882245,Artemisia_ludoviciana,38.87441,-94.87069
 1931056234,Artemisia_ludoviciana,33.2448,-105.932
-1988082589,Artemisia_ludoviciana,48.6,-90.6
 2242364520,Artemisia_ludoviciana,39.550369,-105.100972
 1949635655,Artemisia_ludoviciana,49.333333,-115.833333
 1895953147,Artemisia_ludoviciana,19.3075,-98.4375
@@ -1499,7 +1454,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927973731,Artemisia_ludoviciana,37.3231,-114.0018
 1895354799,Artemisia_ludoviciana,25.25,-100.566667
 1895217444,Artemisia_ludoviciana,25.238889,-100.458889
-1929844096,Artemisia_ludoviciana,19.5,-97.25
 1895217436,Artemisia_ludoviciana,19.866944,-99.332222
 1846492289,Artemisia_ludoviciana,34.08877,-111.449
 1893912490,Artemisia_ludoviciana,17.654167,-99.66875
@@ -1545,7 +1499,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930437995,Artemisia_ludoviciana,39.3077,-112.2122
 1846492268,Artemisia_ludoviciana,33.7345,-109.1248
 1895217399,Artemisia_ludoviciana,20.131667,-98.786111
-51758878,Artemisia_ludoviciana,44.3,-120.7313
 2265476753,Artemisia_ludoviciana,46.308709,-94.220169
 1895217394,Artemisia_ludoviciana,22.127222,-99.601944
 1894532880,Artemisia_ludoviciana,24.041667,-104.258333
@@ -1570,7 +1523,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931185042,Artemisia_ludoviciana,43.237822,-111.249334
 1842918165,Artemisia_ludoviciana,36.823376,-104.887802
 2265476637,Artemisia_ludoviciana,45.816134,-95.746813
-1209659526,Artemisia_ludoviciana,50.786667,-100.6
 1986926628,Artemisia_ludoviciana,39.63,-111.312222
 1318737616,Artemisia_ludoviciana,32.9456,-105.861
 1804478146,Artemisia_ludoviciana,48.366667,-89.316667
@@ -1579,7 +1531,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176881014,Artemisia_ludoviciana,44.426568,-106.669184
 2265477308,Artemisia_ludoviciana,47.716767,-96.416687
 1986926713,Artemisia_ludoviciana,40.648056,-106.55
-1988215552,Artemisia_ludoviciana,50.8,-100.24
 1703302960,Artemisia_ludoviciana,49.7665539005306,-99.5836375509351
 2265476121,Artemisia_ludoviciana,47.187516,-96.353808
 2265477217,Artemisia_ludoviciana,47.72417,-96.813965
@@ -1606,7 +1557,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842918105,Artemisia_ludoviciana,33.204522,-107.769828
 2265477001,Artemisia_ludoviciana,45.446339,-94.043783
 1846492288,Artemisia_ludoviciana,34.8987,-113.7836
-2270626576,Artemisia_ludoviciana,35.0833,-112
 415959810,Artemisia_ludoviciana,19.28333,-98.43333
 2270625843,Artemisia_ludoviciana,34.8987,-113.784
 2265478222,Artemisia_ludoviciana,45.377702,-93.173879
@@ -1692,7 +1642,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265475624,Artemisia_ludoviciana,45.698563,-94.143452
 2265475897,Artemisia_ludoviciana,47.217554,-93.480441
 176881344,Artemisia_ludoviciana,39.35189,-100.26467
-217042856,Artemisia_ludoviciana,44.5,-122.53
 1846492381,Artemisia_ludoviciana,38.129139,-110.506194
 2265476735,Artemisia_ludoviciana,47.768499,-95.633532
 176881118,Artemisia_ludoviciana,39.78263,-99.95825
@@ -1710,18 +1659,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842918119,Artemisia_ludoviciana,35.15,-107.46
 1893426079,Artemisia_ludoviciana,19.475,-98.775
 1895298246,Artemisia_ludoviciana,19.448611,-98.764722
-1563369678,Artemisia_ludoviciana,31.9,-106.483333
 1895354741,Artemisia_ludoviciana,29.113611,-106.807072
 1893421838,Artemisia_ludoviciana,31.508333,-115.791667
 2265478762,Artemisia_ludoviciana,45.86753,-94.198919
-1563369673,Artemisia_ludoviciana,31.933333,-106.5
 1611934532,Artemisia_ludoviciana,31.866667,-106.483333
 1893776479,Artemisia_ludoviciana,27.605278,-107.548889
-1611934269,Artemisia_ludoviciana,31.8,-106.483333
 1846492304,Artemisia_ludoviciana,34.98814,-111.74641
 1563369676,Artemisia_ludoviciana,31.905278,-106.469167
 1893396952,Artemisia_ludoviciana,29.575,-108.425
-1611934245,Artemisia_ludoviciana,31.8,-106.466667
 1895217617,Artemisia_ludoviciana,20.014722,-98.495278
 1895217621,Artemisia_ludoviciana,28.772222,-113.763889
 1259750768,Artemisia_ludoviciana,19.675,-100.5225
@@ -1733,7 +1678,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931184473,Artemisia_ludoviciana,19.0931,-98.92589
 1895217442,Artemisia_ludoviciana,19.093333,-98.926111
 1895298190,Artemisia_ludoviciana,19.0937053139365,-98.925997555111
-2270471136,Artemisia_ludoviciana,19.1,-98.883333
 1895298277,Artemisia_ludoviciana,19.093056,-98.923611
 1895217435,Artemisia_ludoviciana,19.095556,-98.913333
 1843810553,Artemisia_ludoviciana,31.593826,-108.769414
@@ -1765,7 +1709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949534189,Artemisia_ludoviciana,56.116667,-120.033333
 2270627343,Artemisia_ludoviciana,32.2083,-109.575
 1949534331,Artemisia_ludoviciana,56.266667,-121.166667
-1804589307,Artemisia_ludoviciana,48.6,-83.35
 1842918171,Artemisia_ludoviciana,35.655663,-108.323227
 1842918113,Artemisia_ludoviciana,35.656281,-108.537076
 668747746,Artemisia_ludoviciana,46.780556,-71.283333
@@ -1786,9 +1729,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986921260,Artemisia_ludoviciana,37.981257,-109.688209
 1842918138,Artemisia_ludoviciana,36.713748,-103.878757
 1843838571,Artemisia_ludoviciana,35.297182,-105.934568
-1456152830,Artemisia_ludoviciana,28.03,-102.9
 441695561,Artemisia_ludoviciana,46.261509,-120.323484
-1258582990,Artemisia_ludoviciana,16.9,-92.57
 1949538034,Artemisia_ludoviciana,50.233333,-121.566667
 2270582997,Artemisia_ludoviciana,33.69,-111.779
 2270626138,Artemisia_ludoviciana,36.0544,-112.139
@@ -1851,7 +1792,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893396898,Artemisia_ludoviciana,22.525,-101.675
 176881281,Artemisia_ludoviciana,38.60784,-95.26609
 1842917995,Artemisia_ludoviciana,31.593868,-108.769447
-2270470474,Artemisia_ludoviciana,19.7,-98.75
 1842918062,Artemisia_ludoviciana,32.535511,-106.5135
 1899382772,Artemisia_ludoviciana,45.016667,-79.616667
 1842918085,Artemisia_ludoviciana,32.657449,-106.461269
@@ -1871,9 +1811,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895298293,Artemisia_ludoviciana,19.6358854405314,-99.4042777184449
 1928443524,Artemisia_ludoviciana,19.6758,-98.6872
 1895217361,Artemisia_ludoviciana,22.228889,-102.125278
-1949519167,Artemisia_ludoviciana,56.1,-120
-1209659332,Artemisia_ludoviciana,50.3,-114.216667
-1209658667,Artemisia_ludoviciana,51.183333,-112.9
 1895217590,Artemisia_ludoviciana,20.081389,-98.368611
 1986919114,Artemisia_ludoviciana,41.788056,-115.683333
 1986929509,Artemisia_ludoviciana,42.539853,-110.696267
@@ -1902,7 +1839,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986917847,Artemisia_ludoviciana,43.540833,-118.178333
 176881019,Artemisia_ludoviciana,46.027194378916,-107.493472303948
 176881992,Artemisia_ludoviciana,48.7631070845432,-106.408877490978
-2289025491,Artemisia_ludoviciana,49.9,-116.916667
 1949560566,Artemisia_ludoviciana,50.76,-119.203333
 176881308,Artemisia_ludoviciana,47.06238,-109.57699
 176881589,Artemisia_ludoviciana,48.5328203375188,-108.916570274709
@@ -1923,14 +1859,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176882014,Artemisia_ludoviciana,42.691527,-106.413108
 176880979,Artemisia_ludoviciana,36.835291,-99.376333
 176882079,Artemisia_ludoviciana,36.96923,-97.05306
-1988244238,Artemisia_ludoviciana,51,-110
 176881187,Artemisia_ludoviciana,35.15538,-100.88778
 1893776490,Artemisia_ludoviciana,27.753333,-107.62
 176882059,Artemisia_ludoviciana,44.4726267385361,-105.24703840312
 176882154,Artemisia_ludoviciana,41.707578,-105.491505
 176881680,Artemisia_ludoviciana,36.04468,-100.80222
 176881673,Artemisia_ludoviciana,44.1544022073684,-104.695019017311
-1949516869,Artemisia_ludoviciana,49.6,-117.133333
 176881641,Artemisia_ludoviciana,34.57669,-101.428607
 176881181,Artemisia_ludoviciana,32.770261,-101.375967
 1893778582,Artemisia_ludoviciana,27.60361,-107.53972
@@ -1987,7 +1921,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176882268,Artemisia_ludoviciana,41.1007,-96.64474
 1703302881,Artemisia_ludoviciana,50.984778,-97.767111
 1703302945,Artemisia_ludoviciana,51.147778,-100.496472
-1988083787,Artemisia_ludoviciana,48.4,-89.5
 176882328,Artemisia_ludoviciana,41.05388,-96.27787
 176881104,Artemisia_ludoviciana,39.10658,-97.5749
 176881123,Artemisia_ludoviciana,38.82501,-98.45674
@@ -2061,7 +1994,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893776475,Artemisia_ludoviciana,29.147928,-105.347091
 176881805,Artemisia_ludoviciana,37.651557,-98.267981
 176881108,Artemisia_ludoviciana,37.48276,-98.89671
-1895354681,Artemisia_ludoviciana,31.4,-106.416667
 176881740,Artemisia_ludoviciana,38.4184,-96.21867
 176881705,Artemisia_ludoviciana,37.347,-95.44924
 176881743,Artemisia_ludoviciana,37.7989,-95.87576
@@ -2077,8 +2009,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176882318,Artemisia_ludoviciana,37.8342,-96.05274
 176881803,Artemisia_ludoviciana,38.22996,-96.92808
 176881778,Artemisia_ludoviciana,37.03751,-101.85575
-1930909235,Artemisia_ludoviciana,31.4,-106.42
-1928938422,Artemisia_ludoviciana,24.32,-104.5
 176881739,Artemisia_ludoviciana,37.18298,-95.71694
 1895217668,Artemisia_ludoviciana,19.045278,-98.150278
 176882279,Artemisia_ludoviciana,37.26948,-95.753
@@ -2096,7 +2026,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176881001,Artemisia_ludoviciana,46.55704,-100.39535
 176881283,Artemisia_ludoviciana,45.96428,-100.21276
 2291818949,Artemisia_ludoviciana,51.05,-114.083333
-1988201777,Artemisia_ludoviciana,51,-122.4
 176882076,Artemisia_ludoviciana,44.38667,-97.71189
 51758210,Artemisia_ludoviciana,45.3263,-117.3022
 176882256,Artemisia_ludoviciana,44.98744,-96.6305
@@ -2108,7 +2037,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176881586,Artemisia_ludoviciana,46.26665,-100.16967
 176882304,Artemisia_ludoviciana,37.35898,-97.89155
 176881683,Artemisia_ludoviciana,42.66953,-96.66307
-1500089630,Artemisia_ludoviciana,53.2,-117.9
 1703302926,Artemisia_ludoviciana,50.708778,-96.5555
 1846491976,Artemisia_ludoviciana,33.72174,-111.40454
 1897342625,Artemisia_ludoviciana,28.708333,-104.425
@@ -2260,7 +2188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176881686,Artemisia_ludoviciana,36.9754,-102.76311
 176881984,Artemisia_ludoviciana,44.21411,-103.98384
 176882153,Artemisia_ludoviciana,42.58299,-100.66862
-1843810855,Artemisia_ludoviciana,36.5819,-105.5
 176881265,Artemisia_ludoviciana,40.308473,-115.518157
 176881716,Artemisia_ludoviciana,37.550346,-96.684687
 176882293,Artemisia_ludoviciana,43.33181,-103.78325
@@ -2304,10 +2231,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270627516,Artemisia_ludoviciana,32.5696,-109.822
 2270626147,Artemisia_ludoviciana,32.6355,-109.819
 1893421822,Artemisia_ludoviciana,28.408333,-113.591667
-1931067197,Artemisia_ludoviciana,19.23,-99.2
 1895217490,Artemisia_ludoviciana,19.341667,-99.175
 176882313,Artemisia_ludoviciana,43.40581,-103.59381
-2270625672,Artemisia_ludoviciana,32.7,-109.77
 1846492407,Artemisia_ludoviciana,33.506944,-106.150556
 176881649,Artemisia_ludoviciana,44.274984,-103.849924
 924816390,Artemisia_ludoviciana,38.6343,-100.91784
@@ -2315,7 +2240,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176882041,Artemisia_ludoviciana,41.23576,-103.77862
 176881318,Artemisia_ludoviciana,41.30064,-102.10239
 2270627873,Artemisia_ludoviciana,31.9297,-109.382
-1804509235,Artemisia_ludoviciana,54.133333,-108.4
 2270627347,Artemisia_ludoviciana,31.5942,-109.068
 2270627475,Artemisia_ludoviciana,31.9985,-109.128
 176881777,Artemisia_ludoviciana,39.45954,-96.76001
@@ -2363,19 +2287,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893396961,Artemisia_ludoviciana,28.408333,-113.458333
 1893421839,Artemisia_ludoviciana,27.508333,-112.608333
 441695269,Artemisia_ludoviciana,43.306794,-113.944022
-1658227870,Artemisia_ludoviciana,53.8,-114.5167
 1209656179,Artemisia_ludoviciana,50.6746,-120.3273
 1930546518,Artemisia_ludoviciana,40.298242,-110.425184
 1804600185,Artemisia_ludoviciana,49.8833329990707,-121.45
-1228269579,Artemisia_ludoviciana,40,-110
 1209656772,Artemisia_ludoviciana,52.26811,-113.811239
 1209659339,Artemisia_ludoviciana,50.928737,-116.061193
-2308626290,Artemisia_ludoviciana,53.8,-114.52
 1931172957,Artemisia_ludoviciana,41.6217,-118.7148
 2270175279,Artemisia_ludoviciana,33.61667,-116.61667
 1804537240,Artemisia_ludoviciana,51.283333,-80.116667
 176882027,Artemisia_ludoviciana,45.50409,-98.54317
-1209656703,Artemisia_ludoviciana,49.7,-112.833333
 1986907880,Artemisia_ludoviciana,41.621667,-118.714722
 51758777,Artemisia_ludoviciana,45.3143,-117.2219
 1842918067,Artemisia_ludoviciana,35.139336,-106.562125
@@ -2427,7 +2347,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51758790,Artemisia_ludoviciana,45.2311,-117.2581
 464741815,Artemisia_ludoviciana,45.47492,-76.68772
 176881802,Artemisia_ludoviciana,39.689871,-97.527642
-1988152630,Artemisia_ludoviciana,60.8,-123.6
 2265477163,Artemisia_ludoviciana,45.592739,-95.933603
 1988085832,Artemisia_ludoviciana,45.47,-76.68
 441695282,Artemisia_ludoviciana,45.426674,-114.090375
@@ -2444,7 +2363,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703302990,Artemisia_ludoviciana,50.120694,-96.89825
 924816417,Artemisia_ludoviciana,38.498008,-96.32941
 1703302978,Artemisia_ludoviciana,49.6481,-98.431
-1988231744,Artemisia_ludoviciana,49.8,-118.2
 441695229,Artemisia_ludoviciana,43.646232,-115.750935
 176881776,Artemisia_ludoviciana,39.911091,-97.862338
 1843811044,Artemisia_ludoviciana,33.000888,-105.742851
@@ -2455,10 +2373,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176881772,Artemisia_ludoviciana,38.208974,-98.51846
 2265475844,Artemisia_ludoviciana,45.428063,-93.203997
 176882129,Artemisia_ludoviciana,37.07004,-98.37284
-1988188382,Artemisia_ludoviciana,50.28,-107.8
 176881766,Artemisia_ludoviciana,37.03316,-98.96288
 2242386306,Artemisia_ludoviciana,39.714117,-105.215354
-1988207866,Artemisia_ludoviciana,50.27,-108.4
 51758673,Artemisia_ludoviciana,45.1942,-117.2903
 2265477481,Artemisia_ludoviciana,48.817841,-96.946447
 1988063569,Artemisia_ludoviciana,49.73,-117.67
@@ -2470,9 +2386,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270627210,Artemisia_ludoviciana,34.6492,-111.752
 51758195,Artemisia_ludoviciana,42.801,-117.6068
 51758573,Artemisia_ludoviciana,42.841,-117.623
-1703302954,Artemisia_ludoviciana,50.2,-98.25
 176881760,Artemisia_ludoviciana,38.194509,-98.536932
-1988165233,Artemisia_ludoviciana,53.2,-105.77
 1703302889,Artemisia_ludoviciana,53.8249999991016,-101.253333
 2265474742,Artemisia_ludoviciana,48.766224,-96.709369
 176882343,Artemisia_ludoviciana,38.65323,-96.41463
@@ -2513,7 +2427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217383,Artemisia_ludoviciana,22.120833,-100.766111
 2265475827,Artemisia_ludoviciana,44.102615,-96.154645
 176881759,Artemisia_ludoviciana,39.48304,-96.40294
-1988171753,Artemisia_ludoviciana,46.9,-117.52
 176881761,Artemisia_ludoviciana,39.11399,-96.58108
 1842918098,Artemisia_ludoviciana,34.112951,-107.252579
 1038974690,Artemisia_ludoviciana,41.5614,-73.2072
@@ -2527,7 +2440,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51758649,Artemisia_ludoviciana,44.399,-122.135
 176881794,Artemisia_ludoviciana,38.74167,-97.98515
 176881793,Artemisia_ludoviciana,38.74166,-97.97509
-176881709,Artemisia_ludoviciana,37,-94.6956
 1895217618,Artemisia_ludoviciana,23.290833,-101.154167
 176881745,Artemisia_ludoviciana,37.41839,-95.71677
 1209658996,Artemisia_ludoviciana,50.950556,-112.188889
@@ -2539,7 +2451,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51759414,Artemisia_ludoviciana,42.7037,-118.6488
 1703302878,Artemisia_ludoviciana,49.861833,-97.230111
 441695256,Artemisia_ludoviciana,44.097221,-116.005102
-1988091299,Artemisia_ludoviciana,55.92,-118.6
 2265476912,Artemisia_ludoviciana,44.306759,-96.210724
 1895217553,Artemisia_ludoviciana,22.056944,-101.177778
 2265477694,Artemisia_ludoviciana,43.892202,-96.124459
@@ -2548,7 +2459,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265476743,Artemisia_ludoviciana,44.015848,-96.317669
 176881613,Artemisia_ludoviciana,45.8131386624163,-111.426682031336
 1949500502,Artemisia_ludoviciana,50.833333,-118.983333
-1426111350,Artemisia_ludoviciana,37.433333,-118.8
 2265477452,Artemisia_ludoviciana,45.508736,-93.582943
 176881720,Artemisia_ludoviciana,37.82987,-95.79827
 1895217675,Artemisia_ludoviciana,22.098611,-100.687222
@@ -2570,7 +2480,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441695272,Artemisia_ludoviciana,42.983545,-114.394315
 2265476646,Artemisia_ludoviciana,48.027718,-91.81082
 1703303037,Artemisia_ludoviciana,49.6697219990695,-96.649444
-1988188425,Artemisia_ludoviciana,49.2,-119.6
 441695242,Artemisia_ludoviciana,44.222206,-116.963206
 1209656419,Artemisia_ludoviciana,52.217341,-111.908158
 441695236,Artemisia_ludoviciana,44.705101,-116.876307
@@ -2606,7 +2515,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217654,Artemisia_ludoviciana,19.005556,-99.160833
 176882262,Artemisia_ludoviciana,39.64318,-98.00769
 51759436,Artemisia_ludoviciana,42.8269,-118.7953
-1209658697,Artemisia_ludoviciana,53.716667,-113.2
 2270625639,Artemisia_ludoviciana,33.6891,-111.241
 1895217745,Artemisia_ludoviciana,19.589722,-103.540833
 1895217509,Artemisia_ludoviciana,19.374722,-100.1475
@@ -2620,7 +2528,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843810743,Artemisia_ludoviciana,36.554762,-105.263617
 2265476898,Artemisia_ludoviciana,46.62379,-96.291777
 1843810681,Artemisia_ludoviciana,36.946095,-104.324926
-1209658846,Artemisia_ludoviciana,50.45,-101.3
 441695210,Artemisia_ludoviciana,42.249904,-115.54885
 441695283,Artemisia_ludoviciana,42.18556,-113.66028
 2265476890,Artemisia_ludoviciana,45.783925,-96.528607
@@ -2634,7 +2541,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426145232,Artemisia_ludoviciana,37.2198,-118.599
 1895217598,Artemisia_ludoviciana,19.266667,-99.204722
 1928399505,Artemisia_ludoviciana,20.1361,-98.6719
-1988175696,Artemisia_ludoviciana,50.32,-118.8
 441695247,Artemisia_ludoviciana,43.863489,-113.541414
 1426058399,Artemisia_ludoviciana,37.1763,-118.6296
 1929755183,Artemisia_ludoviciana,36.903054,-102.890723
@@ -2643,7 +2549,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217466,Artemisia_ludoviciana,20.136667,-98.670278
 1842918147,Artemisia_ludoviciana,32.598283,-106.518525
 2265476662,Artemisia_ludoviciana,45.41807,-96.421961
-1988178348,Artemisia_ludoviciana,49.5,-115.77
 1988115921,Artemisia_ludoviciana,49.42,-115.42
 1988152615,Artemisia_ludoviciana,48.45,-89.18
 1895217603,Artemisia_ludoviciana,19.791667,-98.525
@@ -2659,10 +2564,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895217511,Artemisia_ludoviciana,19.342778,-98.788611
 1988140567,Artemisia_ludoviciana,53.72,-113.22
 1703302908,Artemisia_ludoviciana,50.0829554845099,-96.9446654899897
-1988238400,Artemisia_ludoviciana,49.9,-119.5
 1843810794,Artemisia_ludoviciana,32.712038,-105.685937
 441696140,Artemisia_ludoviciana,42.782663,-112.401417
-1988157817,Artemisia_ludoviciana,50.4,-121.6
 1986893907,Artemisia_ludoviciana,41.69,-111.918889
 1322675160,Artemisia_ludoviciana,39.0347,-76.9078
 176882093,Artemisia_ludoviciana,39.012987,-95.502709
@@ -2684,15 +2587,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426124877,Artemisia_ludoviciana,37.130727,-118.509393
 2265477715,Artemisia_ludoviciana,47.543099,-96.259086
 2265478317,Artemisia_ludoviciana,46.869327,-96.473428
-1456397310,Artemisia_ludoviciana,26.1,-111.6
 441695565,Artemisia_ludoviciana,47.042914,-117.987034
 1986892992,Artemisia_ludoviciana,41.31637,-120.047194
-1988199015,Artemisia_ludoviciana,55.6,-122.27
 1426111091,Artemisia_ludoviciana,41.3192,-120.0385
-1988235775,Artemisia_ludoviciana,50.8,-110.67
 1209656693,Artemisia_ludoviciana,49.133333,-112.083333
-1988171096,Artemisia_ludoviciana,54.12,-123
-176882084,Artemisia_ludoviciana,49.183333,-98.1
 1261951385,Artemisia_ludoviciana,45.584673,-73.542259
 2242385641,Artemisia_ludoviciana,38.854443,-104.889488
 1895217518,Artemisia_ludoviciana,19.499722,-98.887778
@@ -2732,7 +2630,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265476736,Artemisia_ludoviciana,46.897738,-92.592778
 1895953236,Artemisia_ludoviciana,18.941667,-97.344167
 1931281409,Artemisia_ludoviciana,18.984,-97.3805
-1209656683,Artemisia_ludoviciana,53.687748,-113.2
 1895949058,Artemisia_ludoviciana,19.344722,-98.5675
 1986887764,Artemisia_ludoviciana,41.891667,-113.339722
 441695203,Artemisia_ludoviciana,48.200171,-116.90305
@@ -2741,8 +2638,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1209658659,Artemisia_ludoviciana,51.0445,-114.036363
 1846492353,Artemisia_ludoviciana,35.19023,-111.65876
 1209656687,Artemisia_ludoviciana,51.014042,-114.079279
-1988161064,Artemisia_ludoviciana,55.1,-121.19
-1988090420,Artemisia_ludoviciana,52.37,-114.9
 1209659359,Artemisia_ludoviciana,51.029391,-114.071704
 1846491977,Artemisia_ludoviciana,35.54,-110.38
 2270626771,Artemisia_ludoviciana,34.9124,-111.727
@@ -2788,8 +2683,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988190026,Artemisia_ludoviciana,49.71,-116.88
 1426104239,Artemisia_ludoviciana,41.5292,-120.1722
 441694718,Artemisia_ludoviciana,47.9335,-118.92503
-1988158521,Artemisia_ludoviciana,50.25,-117.8
-668747742,Artemisia_ludoviciana,47.4,-70.390556
 1426146160,Artemisia_ludoviciana,38.195,-119.3275
 1988065409,Artemisia_ludoviciana,49.21,-122.91
 1988086523,Artemisia_ludoviciana,49.62,-117.08
@@ -2804,7 +2697,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265478940,Artemisia_ludoviciana,45.131443,-93.153414
 1986882958,Artemisia_ludoviciana,48.572778,-118.1075
 1988155792,Artemisia_ludoviciana,49.25,-123.12
-1988177068,Artemisia_ludoviciana,48.8,-86.3
 1988200837,Artemisia_ludoviciana,49.45,-116.77
 1988142244,Artemisia_ludoviciana,49.48,-119.59
 1986882848,Artemisia_ludoviciana,48.674444,-118.117778
@@ -2827,13 +2719,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1209656806,Artemisia_ludoviciana,43.021814,-89.471343
 1895354730,Artemisia_ludoviciana,29.0974833168685,-108.063864275696
 1426153936,Artemisia_ludoviciana,37.9358,-119.2316
-1988150613,Artemisia_ludoviciana,49.3,-115.84
 51758596,Artemisia_ludoviciana,44.1209,-122.091
 51759295,Artemisia_ludoviciana,42.1889,-120.3447
 441694715,Artemisia_ludoviciana,48.143056,-121.372778
 1986882639,Artemisia_ludoviciana,41.877042,-111.560232
 1843810879,Artemisia_ludoviciana,33.170227,-105.749174
-1986892923,Artemisia_ludoviciana,48,-85
 1846492322,Artemisia_ludoviciana,34.286153,-109.355369
 1426176838,Artemisia_ludoviciana,37.427229,-118.026638
 1846498226,Artemisia_ludoviciana,33.411639,-114.019472
@@ -2869,7 +2759,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1209656566,Artemisia_ludoviciana,52.330829,-113.030822
 1209656698,Artemisia_ludoviciana,52.327667,-113.03108
 1209658663,Artemisia_ludoviciana,49.867743,-111.376479
-1988147095,Artemisia_ludoviciana,49.18,-117.4
 1930577777,Artemisia_ludoviciana,24.5939,-99.9939
 1986885645,Artemisia_ludoviciana,42.887414,-112.477013
 1895354672,Artemisia_ludoviciana,29.614052830173,-108.382311217357
@@ -2877,10 +2766,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988073942,Artemisia_ludoviciana,48.22,-82.75
 1259746717,Artemisia_ludoviciana,24.59,-99.99
 1895217395,Artemisia_ludoviciana,24.594722,-99.994444
-1209658861,Artemisia_ludoviciana,48.4,-89.233333
 1895354756,Artemisia_ludoviciana,28.6354899724554,-106.089200037765
 1895217401,Artemisia_ludoviciana,27.828056,-108.508889
-1988202349,Artemisia_ludoviciana,45.17,-78.5
 2265477482,Artemisia_ludoviciana,46.783273,-92.106579
 1260951354,Artemisia_ludoviciana,36.92083,-89.35055
 1258086091,Artemisia_ludoviciana,36.5481,-93.7542
@@ -2892,9 +2779,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426156094,Artemisia_ludoviciana,41.9854,-120.2813
 1929436523,Artemisia_ludoviciana,38.833882,-104.821363
 1426155173,Artemisia_ludoviciana,41.9767,-120.2089
-1929598131,Artemisia_ludoviciana,20.1,-98.71
 1804379577,Artemisia_ludoviciana,56.7332122725188,-111.384162567177
-1988171630,Artemisia_ludoviciana,47,-84.8
 1986893725,Artemisia_ludoviciana,32.017085,-109.350238
 1426105860,Artemisia_ludoviciana,37.2321,-118.6471
 2265476229,Artemisia_ludoviciana,46.922181,-95.058632
@@ -2905,9 +2790,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265476498,Artemisia_ludoviciana,46.847559,-95.858616
 1260927002,Artemisia_ludoviciana,39.11027,-94.255
 1426075645,Artemisia_ludoviciana,37.9584,-119.2996
-441694716,Artemisia_ludoviciana,47.6,-119.364306
 2265477342,Artemisia_ludoviciana,47.216997,-95.265701
-1988094411,Artemisia_ludoviciana,50.3,-119.3
 1248696507,Artemisia_ludoviciana,47.283333,-79.45
 2265476728,Artemisia_ludoviciana,44.328066,-96.140025
 441695185,Artemisia_ludoviciana,48.359784,-119.582208
@@ -2924,7 +2807,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176881757,Artemisia_ludoviciana,38.82759,-97.61234
 1260930942,Artemisia_ludoviciana,40.47694,-95.62027
 176882165,Artemisia_ludoviciana,38.82759,-97.79766
-1261035697,Artemisia_ludoviciana,19.05,-100
 441694719,Artemisia_ludoviciana,47.65889,-117.425
 176881747,Artemisia_ludoviciana,38.77485,-97.55117
 176881748,Artemisia_ludoviciana,38.75583,-97.52061
@@ -2948,7 +2830,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51758576,Artemisia_ludoviciana,44.5667,-119.7844
 1426153194,Artemisia_ludoviciana,38.4111,-120.0784
 51759227,Artemisia_ludoviciana,42.3225,-120.8144
-1895354653,Artemisia_ludoviciana,30.916667,-115.4
 1260950911,Artemisia_ludoviciana,38.81027,-90.80611
 1927793284,Artemisia_ludoviciana,32.4433,-116.8614
 1258086118,Artemisia_ludoviciana,39.1556,-94.3933
@@ -2961,7 +2842,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51759348,Artemisia_ludoviciana,42.9928,-118.2817
 1260983840,Artemisia_ludoviciana,37.495,-94.27638
 51758601,Artemisia_ludoviciana,43.5744,-122.6558
-1209656464,Artemisia_ludoviciana,52.216667,-111.9
 1209656532,Artemisia_ludoviciana,52.738018,-112.713326
 1024639970,Artemisia_ludoviciana,45.519444,-73.668889
 1209658810,Artemisia_ludoviciana,52.578372,-112.757972
@@ -2978,7 +2858,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415903818,Artemisia_ludoviciana,41.37416,-73.39555
 1038950164,Artemisia_ludoviciana,41.3748,-73.3927
 1931127801,Artemisia_ludoviciana,19.35,-99.303
-1209658438,Artemisia_ludoviciana,49.216667,-109.8
 1928182726,Artemisia_ludoviciana,43.154783,-77.615558
 51759342,Artemisia_ludoviciana,44.8808,-117.1136
 51759345,Artemisia_ludoviciana,44.4161,-118.9519
@@ -2989,17 +2868,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51758953,Artemisia_ludoviciana,45.1978,-120.1839
 441696145,Artemisia_ludoviciana,45.71056,-121.66037
 441695560,Artemisia_ludoviciana,45.70978,-121.66323
-51758603,Artemisia_ludoviciana,44.3,-120.8333
 51759346,Artemisia_ludoviciana,43.2393,-121.0495
 51759321,Artemisia_ludoviciana,43.8639,-117.6111
 51759333,Artemisia_ludoviciana,43.3961,-121.0514
 1426117533,Artemisia_ludoviciana,33.7285,-116.809303
 1928514467,Artemisia_ludoviciana,39.939382,-105.56668
-1209658518,Artemisia_ludoviciana,53.55,-113.5
 1928852840,Artemisia_ludoviciana,39.548038,-107.322554
 1426196740,Artemisia_ludoviciana,41.523,-120.3016
 1209656451,Artemisia_ludoviciana,53.6075,-113.299722
-1988081104,Artemisia_ludoviciana,49.4999999990686,-115.8
 1895217458,Artemisia_ludoviciana,19.695,-98.845
 1305249515,Artemisia_ludoviciana,45.14,-89.152
 441695572,Artemisia_ludoviciana,47.28167,-117.15444
@@ -3008,7 +2884,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988123023,Artemisia_ludoviciana,49.63,-121.42
 441694720,Artemisia_ludoviciana,46.73139,-117.17861
 1258086053,Artemisia_ludoviciana,38.975,-94.552778
-1949492080,Artemisia_ludoviciana,50.783333,-119.7
 51758625,Artemisia_ludoviciana,45.5649,-122.4093
 1258086192,Artemisia_ludoviciana,38.851667,-94.343611
 1209657268,Artemisia_ludoviciana,48.288888,-99.437635
@@ -3041,14 +2916,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258086095,Artemisia_ludoviciana,37.144444,-94.469167
 1259747724,Artemisia_ludoviciana,18.85,-97.36666
 1988144620,Artemisia_ludoviciana,50.67,-120.32
-1988212301,Artemisia_ludoviciana,50.75,-120.8
 1804373757,Artemisia_ludoviciana,53.55,-113.466667
 1842918024,Artemisia_ludoviciana,32.190521,-106.604051
 1931083834,Artemisia_ludoviciana,19.043328,-98.197219
 1259747094,Artemisia_ludoviciana,18.937778,-99.699167
 1899356791,Artemisia_ludoviciana,43.732195,-79.368602
 2270627988,Artemisia_ludoviciana,32.6108,-110.77
-1988183631,Artemisia_ludoviciana,50.45,-119.2
 51758628,Artemisia_ludoviciana,45.7056,-121.5203
 51758599,Artemisia_ludoviciana,44.3895,-122.0217
 1929580428,Artemisia_ludoviciana,41.298306,-106.141677
