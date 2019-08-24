@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099343246,Glandora_prostrata,36.556,-5.017
 1099344024,Glandora_prostrata,36.601,-5.029
 932709169,Glandora_prostrata,42.25081,-8.87011
-1099345380,Glandora_prostrata,36.6,-4.797779
 781076090,Glandora_prostrata,36.47906,-5.20042
 781076089,Glandora_prostrata,36.48155,-5.18223
 781076099,Glandora_prostrata,36.371,-5.28
@@ -16,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936218327,Glandora_prostrata,37.3389,-8.5878
 415620643,Glandora_prostrata,36.552,-5.24
 1936233811,Glandora_prostrata,42.04,-8.2053
-1851579492,Glandora_prostrata,42.03,-8.2
 1936235972,Glandora_prostrata,41.7489,-8.8758
 1851578912,Glandora_prostrata,41.74,-8.87
 932709182,Glandora_prostrata,42.24572,-8.86477
@@ -59,14 +57,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 932704495,Glandora_prostrata,41.83459,-8.12223
 932704326,Glandora_prostrata,42.07716,-8.04636
 932704503,Glandora_prostrata,42.83751,-8.84235
-781076061,Glandora_prostrata,36.6,-5.555
 1936618038,Glandora_prostrata,36.474,-5.2112
 235572163,Glandora_prostrata,36.16,-5.61
 1936647687,Glandora_prostrata,42.8064,-8.023
 199488242,Glandora_prostrata,36.563,-5.598
 199488243,Glandora_prostrata,36.083,-5.715
 1050625516,Glandora_prostrata,36.61,-5.42
-1053983140,Glandora_prostrata,36.7,-5.42
 1851331631,Glandora_prostrata,36.6085,-5.419
 1936557591,Glandora_prostrata,36.7041,-5.4305
 204432195,Glandora_prostrata,36.612,-5.421
@@ -81,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415620567,Glandora_prostrata,36.573,-5.062
 1851352465,Glandora_prostrata,42.907,-9.129
 1936520648,Glandora_prostrata,42.9006,-9.1362
-318115808,Glandora_prostrata,42.9,-9.12
 1851364749,Glandora_prostrata,42.86,-8.69
 1936437523,Glandora_prostrata,42.8552,-8.6832
 317822008,Glandora_prostrata,43.131,-2.379
@@ -132,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204431743,Glandora_prostrata,43.266998,-1.552
 1936403520,Glandora_prostrata,39.0962,-6.6873
 781076034,Glandora_prostrata,36.62403,-4.7875
-781076044,Glandora_prostrata,39.24,-7.2
 1936383305,Glandora_prostrata,43.3763,-8.3966
 143005173,Glandora_prostrata,37.93,-6.72
 204431828,Glandora_prostrata,43.27,-1.762
@@ -147,7 +141,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 781076026,Glandora_prostrata,36.518,-5.608
 1936601212,Glandora_prostrata,43.4393,-3.6192
 781076025,Glandora_prostrata,36.519,-5.53
-1050592069,Glandora_prostrata,43.31,-2.2
 30877607,Glandora_prostrata,42.09,-8.03
 30877583,Glandora_prostrata,38.580002,-3.57
 781076027,Glandora_prostrata,36.53,-5.18
@@ -169,18 +162,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050592083,Glandora_prostrata,43.03,-2.58
 1050592070,Glandora_prostrata,43.08,-2.85
 204431821,Glandora_prostrata,43.234001,-1.799
-1050631841,Glandora_prostrata,43.2,-2.98
 204431818,Glandora_prostrata,43.352001,-1.846
 1050592112,Glandora_prostrata,43.06,-2.78
 1050592079,Glandora_prostrata,43.14,-3.04
-1050631839,Glandora_prostrata,43.23,-2.6
 1050631864,Glandora_prostrata,43.21,-3.25
 204431817,Glandora_prostrata,43.377998,-1.821
-1050592071,Glandora_prostrata,43.18,-3
 1050592076,Glandora_prostrata,43.06,-2.55
 1936020647,Glandora_prostrata,37.8667,-2.55
 1260850351,Glandora_prostrata,36.6125,-5.15
-1851382127,Glandora_prostrata,37.36,-8.6
 1050592089,Glandora_prostrata,42.96,-2.57
 781076120,Glandora_prostrata,36.35,-5.28
 1936172247,Glandora_prostrata,36.6583,-5.4626
@@ -192,6 +181,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30877601,Glandora_prostrata,43.16,-4.97
 2239689567,Glandora_prostrata,35.551944,-5.567778
 1212583290,Glandora_prostrata,43.31861,-1.6575
-1842842173,Glandora_prostrata,34.84,-2.4
 1842847453,Glandora_prostrata,34.84,-3.05
 1842866109,Glandora_prostrata,35.68,-5.32
