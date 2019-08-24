@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005452299,Crassula_sarcocaulis_subsp._rupicola,-29.798333,29.515833
-1988164935,Crassula_sarcocaulis_subsp._rupicola,49.3,-123.2
 2291910054,Crassula_sarcocaulis_subsp._rupicola,-24.029028,28.431111
 685196797,Crassula_sarcocaulis_subsp._rupicola,-22.875,30.375
 685196796,Crassula_sarcocaulis_subsp._rupicola,-32.625,25.625
@@ -50,7 +49,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461750118,Crassula_sarcocaulis_subsp._rupicola,-28.625,28.625
 461750112,Crassula_sarcocaulis_subsp._rupicola,-31.125,27.875
 453189168,Crassula_sarcocaulis_subsp._rupicola,-26.875,30.125
-1261339831,Crassula_sarcocaulis_subsp._rupicola,-16.1,35.46666
 461750105,Crassula_sarcocaulis_subsp._rupicola,-27.875,28.375
 461750109,Crassula_sarcocaulis_subsp._rupicola,-28.125,29.625
 461750110,Crassula_sarcocaulis_subsp._rupicola,-29.375,27.875
@@ -58,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461750108,Crassula_sarcocaulis_subsp._rupicola,-28.625,29.125
 461750124,Crassula_sarcocaulis_subsp._rupicola,-27.875,23.625
 461750104,Crassula_sarcocaulis_subsp._rupicola,-30.625,25.625
-912107927,Crassula_sarcocaulis_subsp._rupicola,-15.9,35.67
 453189145,Crassula_sarcocaulis_subsp._rupicola,-28.875,27.875
 453189152,Crassula_sarcocaulis_subsp._rupicola,-24.375,27.625
 453189149,Crassula_sarcocaulis_subsp._rupicola,-24.875,30.625
@@ -82,12 +79,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461750082,Crassula_sarcocaulis_subsp._rupicola,-29.625,29.375
 461750069,Crassula_sarcocaulis_subsp._rupicola,-28.375,28.625
 461750166,Crassula_sarcocaulis_subsp._rupicola,-31.625,26.875
-912107928,Crassula_sarcocaulis_subsp._rupicola,-15.9,35.7
 453189163,Crassula_sarcocaulis_subsp._rupicola,-25.875,31.375
 461750146,Crassula_sarcocaulis_subsp._rupicola,-23.125,29.125
 461750168,Crassula_sarcocaulis_subsp._rupicola,-23.625,30.125
 461750093,Crassula_sarcocaulis_subsp._rupicola,-29.375,28.125
-912107930,Crassula_sarcocaulis_subsp._rupicola,-15.9,35.52
 912107963,Crassula_sarcocaulis_subsp._rupicola,-15.88,35.63
 461750092,Crassula_sarcocaulis_subsp._rupicola,-29.125,28.125
 461750160,Crassula_sarcocaulis_subsp._rupicola,-32.375,27.125
