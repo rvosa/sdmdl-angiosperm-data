@@ -8,17 +8,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844878566,Cyperus_esculentus,40.774719,23.952221
 2027488507,Cyperus_esculentus,-11.582206,-55.641836
 2268892480,Cyperus_esculentus,12.616861,-86.396167
-2245574940,Cyperus_esculentus,32.882967,-79.654337
 1851395427,Cyperus_esculentus,42.1233,-5.575
 2244430488,Cyperus_esculentus,35.332433,139.078085
 1851390945,Cyperus_esculentus,42.04,-5.604
 2270531425,Cyperus_esculentus,30.288377,-109.55984
 1881606490,Cyperus_esculentus,47.98,12.52
 1935680753,Cyperus_esculentus,46.77322,15.60324
-2238662353,Cyperus_esculentus,43.400022,39.975417
 1563169122,Cyperus_esculentus,-15.556389,-54.273056
 1978384829,Cyperus_esculentus,-6.372411,-39.622514
-1913585214,Cyperus_esculentus,-11.213019,-36.661803
 1849095207,Cyperus_esculentus,34.499778,-82.007694
 1849093560,Cyperus_esculentus,33.950863,-81.014893
 2268969616,Cyperus_esculentus,30.61892,-104.18906
@@ -35,7 +32,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1853945886,Cyperus_esculentus,-11.539444,-55.3925
 1930554826,Cyperus_esculentus,44.77394,-73.39828
 1931195802,Cyperus_esculentus,41.77939,-72.65217
-2268854352,Cyperus_esculentus,-14.745833,47.437778
 2027488425,Cyperus_esculentus,-11.671944,-55.713333
 1934860532,Cyperus_esculentus,-2.19056,11.22806
 2268859801,Cyperus_esculentus,-2.190472,11.227944
@@ -48,8 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1264694511,Cyperus_esculentus,-7.158889,-39.331389
 1264694539,Cyperus_esculentus,-7.139167,-39.326111
 1264694526,Cyperus_esculentus,-7.223056,-39.144444
-1320428126,Cyperus_esculentus,38.9164,-76.9581
-1319015955,Cyperus_esculentus,38.8269,-77.041
 1258178391,Cyperus_esculentus,12.160806,-85.409333
 2306838905,Cyperus_esculentus,43.38,-80.37
 1981529887,Cyperus_esculentus,40.074387,-95.232866
@@ -58,9 +52,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1981529987,Cyperus_esculentus,39.72277,-93.34221
 1585951402,Cyperus_esculentus,42.46798,-124.34262
 1981530005,Cyperus_esculentus,40.176984,-95.444341
-1928697590,Cyperus_esculentus,40.5089,-74.2114
 1702529508,Cyperus_esculentus,4.7725,-74.098889
-1848243970,Cyperus_esculentus,-25.443611,-49.2375
 1563169109,Cyperus_esculentus,-26.566667,-48.695278
 1091268781,Cyperus_esculentus,-39.91471,175.10092
 1563169032,Cyperus_esculentus,-10.768472,-40.291389
@@ -68,7 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1086733448,Cyperus_esculentus,-10.784722,-40.291389
 2243108396,Cyperus_esculentus,36.23954,140.35304
 1426470054,Cyperus_esculentus,37.96941,-122.64456
-1897829402,Cyperus_esculentus,-13.916667,-171.583333
 1935680597,Cyperus_esculentus,46.80778,15.47056
 1899281935,Cyperus_esculentus,44.5505899990569,-78.53486
 1842915642,Cyperus_esculentus,34.3922949991202,-103.382485
@@ -190,7 +181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503261087,Cyperus_esculentus,27.0556,-82.0125
 1258112872,Cyperus_esculentus,41.764444,-8.643889
 1833967385,Cyperus_esculentus,27.6919,-82.5053
-1269726658,Cyperus_esculentus,29.118611,-89.206944
 2308228938,Cyperus_esculentus,10.88,-85.47
 2234662788,Cyperus_esculentus,36.554978,-81.200614
 2234662201,Cyperus_esculentus,35.73378,-80.90812
@@ -228,7 +218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936257627,Cyperus_esculentus,42.4028,-6.8263
 1090527936,Cyperus_esculentus,-7.343611,-47.486667
 1988204292,Cyperus_esculentus,49.03,-122.344
-1949652469,Cyperus_esculentus,48.45,-123.3
 736074947,Cyperus_esculentus,35.595833,139.23125
 1895670899,Cyperus_esculentus,24.548667,-111.748889
 1895670913,Cyperus_esculentus,25.809583,-112.087472
@@ -274,7 +263,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1450982910,Cyperus_esculentus,-38.6536,146.5908
 1077469997,Cyperus_esculentus,-24.107694,-52.312389
 1090155823,Cyperus_esculentus,-25.482417,-49.250694
-1269622583,Cyperus_esculentus,30.2375,-88.888
 1269723035,Cyperus_esculentus,30.3899,-88.7921
 1457828620,Cyperus_esculentus,29.2079,-82.0444
 1257683265,Cyperus_esculentus,37.0944,-89.5042
@@ -296,7 +284,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503252561,Cyperus_esculentus,26.5039,-81.8042
 233098146,Cyperus_esculentus,38.03905,-97.93192
 388815603,Cyperus_esculentus,36.655063,139.715902
-1829633349,Cyperus_esculentus,36.023,139.2938
 1988134339,Cyperus_esculentus,49.26,-122.75
 217050889,Cyperus_esculentus,34.14611,-85.59834
 217050891,Cyperus_esculentus,34.1775,-85.50972
@@ -311,7 +298,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895049078,Cyperus_esculentus,19.904411,-98.352039
 912174305,Cyperus_esculentus,-8.55,35.35
 1563147747,Cyperus_esculentus,30.3654,-87.1223
-1269620863,Cyperus_esculentus,30.2368,-88.8902
 1457797937,Cyperus_esculentus,29.61339,-82.41042
 2265456858,Cyperus_esculentus,43.845368,-94.47537
 2265963963,Cyperus_esculentus,45.048611,-95.834444
@@ -323,7 +309,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563150551,Cyperus_esculentus,29.8056,-90.1192
 362414591,Cyperus_esculentus,14.41055,-3.509717
 240490267,Cyperus_esculentus,33.03043,-108.16466
-1269720016,Cyperus_esculentus,29.021,-89.205
 1260677152,Cyperus_esculentus,29.65833,-109.61027
 1889161791,Cyperus_esculentus,32.0075,-105.967167
 388815574,Cyperus_esculentus,35.396944,139.550833
@@ -331,7 +316,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 122228923,Cyperus_esculentus,31.535,-86.73028
 240490265,Cyperus_esculentus,33.03598,-108.15874
 176922716,Cyperus_esculentus,38.9036,-95.4477
-1269723587,Cyperus_esculentus,30.2119,-88.9718
 1889161840,Cyperus_esculentus,32.532833,-105.583
 1830672639,Cyperus_esculentus,32.866667,132.716667
 1269720000,Cyperus_esculentus,29.999001,-92.878998
@@ -345,7 +329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095330010,Cyperus_esculentus,-31.356111,-51.960833
 1095341601,Cyperus_esculentus,-27.655556,-48.675278
 1086661213,Cyperus_esculentus,-29.911944,-54.859444
-1095330031,Cyperus_esculentus,-28.038611,-48.623056
 1095330020,Cyperus_esculentus,-30.239722,-54.961389
 1095331299,Cyperus_esculentus,-28.407778,-54.680278
 1424234513,Cyperus_esculentus,-26.237222,-48.629444
@@ -361,7 +344,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095330076,Cyperus_esculentus,-26.826389,-48.684722
 1095330000,Cyperus_esculentus,-30.157222,-54.840833
 1095330024,Cyperus_esculentus,-32.114444,-52.223056
-1095330126,Cyperus_esculentus,-27.780556,-48.509167
 1095330154,Cyperus_esculentus,-27.160556,-48.578056
 1095329994,Cyperus_esculentus,-29.002222,-56.177778
 1095331845,Cyperus_esculentus,-28.619167,-55.739722
@@ -371,7 +353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830681763,Cyperus_esculentus,33.533333,133.483333
 176923179,Cyperus_esculentus,41.49416,-96.00577
 1260692252,Cyperus_esculentus,36.76583,-94.36805
-1253831079,Cyperus_esculentus,9.971667,-84.083333
 2265443633,Cyperus_esculentus,45.000209,-93.431054
 1986960019,Cyperus_esculentus,39.537222,-119.8075
 473450880,Cyperus_esculentus,45.537222,-73.6
@@ -402,18 +383,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838993138,Cyperus_esculentus,38.757221,22.69944
 1212063505,Cyperus_esculentus,38.9,22.724722
 1212063524,Cyperus_esculentus,38.884167,22.699444
-1095331837,Cyperus_esculentus,-26.191667,-48.528056
 1212063589,Cyperus_esculentus,38.757222,22.699444
 233098153,Cyperus_esculentus,38.7077,-91.4325
 1838992914,Cyperus_esculentus,38.880001,23.03306
 1838993140,Cyperus_esculentus,38.900002,22.72472
-1838992814,Cyperus_esculentus,38.95694,23.17222
 1563149607,Cyperus_esculentus,30.3985,-86.5825
 1838993166,Cyperus_esculentus,38.785278,22.82667
 1838992842,Cyperus_esculentus,38.884171,22.69944
 1212063537,Cyperus_esculentus,38.785278,22.826667
 1212063506,Cyperus_esculentus,38.88,23.033056
-1212063548,Cyperus_esculentus,38.956944,23.172222
 1095315725,Cyperus_esculentus,-26.183333,-49.171389
 1095314776,Cyperus_esculentus,-23.990278,-49.818333
 1095331315,Cyperus_esculentus,-29.873333,-50.117778
@@ -422,7 +400,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095329896,Cyperus_esculentus,-26.185833,-49.171389
 1095329887,Cyperus_esculentus,-26.1825,-49.253889
 1260295154,Cyperus_esculentus,-27.415,-56.76611
-1077382469,Cyperus_esculentus,-26.905556,-49.079167
 461769903,Cyperus_esculentus,-26.125,29.125
 2005445357,Cyperus_esculentus,-26.3175,30.200833
 1269682931,Cyperus_esculentus,29.309,-90.656
@@ -443,7 +420,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503247602,Cyperus_esculentus,29.3514,-81.0867
 1894419081,Cyperus_esculentus,18.7815,-91.4805
 176922731,Cyperus_esculentus,38.6174979606643,-90.2643935309786
-1259650137,Cyperus_esculentus,10.858333,-85.916667
 1423839326,Cyperus_esculentus,-17.991111,-57.658333
 995532367,Cyperus_esculentus,24.278056,-107.077222
 996182378,Cyperus_esculentus,24.2781,-107.077
@@ -467,7 +443,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829896951,Cyperus_esculentus,35.938056,136.124167
 1087179812,Cyperus_esculentus,-20.482222,-43.336944
 1260570391,Cyperus_esculentus,38.64972,-90.75222
-176923288,Cyperus_esculentus,27.818056,-97.066389
 1829860642,Cyperus_esculentus,35.020401,134.864412
 1095366495,Cyperus_esculentus,-31.559167,-52.249722
 317819266,Cyperus_esculentus,41.41,2.1
@@ -481,7 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1061566739,Cyperus_esculentus,-37.81157,144.98319
 1843376865,Cyperus_esculentus,-36.783333,174.533333
 1259587850,Cyperus_esculentus,-27.15,-53.88333
-56557099,Cyperus_esculentus,30.24611,-88.07639
 1894617792,Cyperus_esculentus,19.440833,-88.456944
 1419156836,Cyperus_esculentus,16.001111,-93.407222
 1260581061,Cyperus_esculentus,16.00111,-93.40722
@@ -494,7 +468,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260981142,Cyperus_esculentus,38.66083,-90.4225
 388815561,Cyperus_esculentus,35.133855,139.619012
 1897940222,Cyperus_esculentus,22.8325,-102.615278
-668761174,Cyperus_esculentus,47,-70.833333
 2270598375,Cyperus_esculentus,32.7622,-110.664
 1895929835,Cyperus_esculentus,30.868611,-110.655833
 1269677155,Cyperus_esculentus,30.41,-90.04
@@ -515,7 +488,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988212881,Cyperus_esculentus,49.26,-122.695
 1419157469,Cyperus_esculentus,15.944444,-93.395278
 1988627491,Cyperus_esculentus,29.83675,-94.578
-1503256289,Cyperus_esculentus,27.2469,-80.194
 1260258697,Cyperus_esculentus,-27.56666,-56.6
 2291610782,Cyperus_esculentus,-27.566667,-56.6
 685197686,Cyperus_esculentus,-29.625,31.125
@@ -525,7 +497,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995900198,Cyperus_esculentus,-34.0369,151.159
 1451596781,Cyperus_esculentus,-29.981758,150.817784
 1451597117,Cyperus_esculentus,-34.035367,151.160603
-2268956769,Cyperus_esculentus,10.45,-66.85
 1933852035,Cyperus_esculentus,35.6525,139.4482
 1894617821,Cyperus_esculentus,19.239833,-88.310972
 1894617811,Cyperus_esculentus,19.496944,-88.034139
@@ -562,7 +533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894617778,Cyperus_esculentus,19.239667,-88.317917
 1894618472,Cyperus_esculentus,19.391028,-88.62375
 995188817,Cyperus_esculentus,-37.7808,144.9708
-1142092112,Cyperus_esculentus,-37.07268,-12.30663
 1258777925,Cyperus_esculentus,-2.55444,33.39888
 1258778235,Cyperus_esculentus,-2.576944,33.455833
 1895139275,Cyperus_esculentus,16.633889,-93.133333
@@ -657,7 +627,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1934699272,Cyperus_esculentus,6.933333,-71.166667
 1894818549,Cyperus_esculentus,26.891667,-112.391667
 2270597890,Cyperus_esculentus,35.7104,-109.559
-1894818611,Cyperus_esculentus,24.508333,-110.675
 176923287,Cyperus_esculentus,38.144494,-94.828223
 2270599213,Cyperus_esculentus,33.1786,-109.863
 1988147552,Cyperus_esculentus,49.25,-122.64
@@ -727,10 +696,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638384420,Cyperus_esculentus,46.725,14.875
 1228275117,Cyperus_esculentus,41.8333,-88.0833
 47753154,Cyperus_esculentus,14.4,-0.3
-1894818518,Cyperus_esculentus,24.425,-110.358333
 176923056,Cyperus_esculentus,42.702519,-92.476767
 47753155,Cyperus_esculentus,14.366,-0.283
-1895308188,Cyperus_esculentus,24.42,-110.352778
 2270575141,Cyperus_esculentus,31.9333,-109.967
 1893938978,Cyperus_esculentus,19.8922596799452,-101.213484265372
 2270469633,Cyperus_esculentus,32.8833,-115.617
@@ -758,7 +725,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269633372,Cyperus_esculentus,30.36981,-91.16992
 176923053,Cyperus_esculentus,38.931395,-95.430806
 1896173817,Cyperus_esculentus,19.320556,-96.718056
-1896173827,Cyperus_esculentus,19.216667,-96.165556
 1260963941,Cyperus_esculentus,38.901389,-91.591667
 473570144,Cyperus_esculentus,46.649,-71.6189
 47753116,Cyperus_esculentus,14.916,-17.066
@@ -774,7 +740,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077317117,Cyperus_esculentus,-19.2,-57.233333
 1893314905,Cyperus_esculentus,20.0056264611407,-103.540539127582
 453196417,Cyperus_esculentus,-33.625,18.875
-1831518963,Cyperus_esculentus,41.70083,9.4
 1503242684,Cyperus_esculentus,25.6578,-80.2817
 176923126,Cyperus_esculentus,38.396086,-94.650717
 995790963,Cyperus_esculentus,-33.68,151.3
@@ -790,7 +755,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893754349,Cyperus_esculentus,19.9,-101.04
 1989144955,Cyperus_esculentus,39.116667,-86.966667
 1262026179,Cyperus_esculentus,46.683333,-71.25
-1829935514,Cyperus_esculentus,34.940839,139.828028
 1893314803,Cyperus_esculentus,19.3446154785856,-99.5857289830643
 1893587616,Cyperus_esculentus,27.000556,-109.065278
 1260979175,Cyperus_esculentus,36.6875,-91.703889
@@ -821,7 +785,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 453196412,Cyperus_esculentus,-26.125,31.125
 245518794,Cyperus_esculentus,35.52409,139.603039
 2265527030,Cyperus_esculentus,44.657778,-94.051944
-1986968228,Cyperus_esculentus,43.40288,-124.29182
 1930845076,Cyperus_esculentus,40.85,-73.88
 51814224,Cyperus_esculentus,43.4326,-124.2526
 2270702666,Cyperus_esculentus,32.8386,-117.005
@@ -829,7 +792,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473542962,Cyperus_esculentus,45.866667,-73.583333
 176923034,Cyperus_esculentus,38.505431,-98.733424
 1893754339,Cyperus_esculentus,20.085556,-101.155556
-1893938984,Cyperus_esculentus,19.476453,-99.159884
 245518780,Cyperus_esculentus,35.465763,139.628037
 317861816,Cyperus_esculentus,12.0375,13.921667
 1258088151,Cyperus_esculentus,37.90056,-84.268333
@@ -875,8 +837,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455172687,Cyperus_esculentus,45.416667,-74.044444
 1260018181,Cyperus_esculentus,38.872222,-90.191667
 1260018502,Cyperus_esculentus,38.858333,-90.155556
-415979738,Cyperus_esculentus,41.27305,-71.98222
-199471859,Cyperus_esculentus,36.71687,-4.47154
 1262022340,Cyperus_esculentus,46.468444,-72.268294
 1262022199,Cyperus_esculentus,45.168658,-73.681063
 2270463979,Cyperus_esculentus,34.42171,-110.53971
@@ -901,13 +861,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 616255207,Cyperus_esculentus,-29.875,30.875
 2005499167,Cyperus_esculentus,-29.8,30.933333
 1585294197,Cyperus_esculentus,13.7,-90
-1893445545,Cyperus_esculentus,21.508333,-88.575
 2291957001,Cyperus_esculentus,1.83104,9.74935
 1894076549,Cyperus_esculentus,21.473333,-88.5225
 1894076516,Cyperus_esculentus,16.752778,-93.125
 1893314805,Cyperus_esculentus,22.500833,-98.613889
 668761161,Cyperus_esculentus,46.255556,-72.648611
-1419193478,Cyperus_esculentus,19.492222,-98.889444
 1894692616,Cyperus_esculentus,22.7718578858568,-99.0290032462133
 1897344204,Cyperus_esculentus,23.383611,-103.116667
 1894468494,Cyperus_esculentus,19.4929447099643,-98.8894280556186
@@ -931,7 +889,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897940181,Cyperus_esculentus,22.726667,-102.691667
 1899288021,Cyperus_esculentus,45.341667,-75.825
 1893754263,Cyperus_esculentus,19.858333,-100.826944
-2289673713,Cyperus_esculentus,12.18,-69
 2289155611,Cyperus_esculentus,-8.833333,33.333333
 1260047498,Cyperus_esculentus,-8.83333,33.33333
 1260010299,Cyperus_esculentus,-25.25,-57.5
@@ -1037,7 +994,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260029806,Cyperus_esculentus,-0.75,-80.5
 1260004246,Cyperus_esculentus,-1.91666,-80.08333
 453196394,Cyperus_esculentus,-29.125,26.375
-1321770404,Cyperus_esculentus,38.8994,-77.0575
 1893939032,Cyperus_esculentus,22.679167,-105.8375
 415979708,Cyperus_esculentus,41.3025,-73.38333
 1230543126,Cyperus_esculentus,46.63,14.48028
@@ -1099,9 +1055,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 453196383,Cyperus_esculentus,-26.625,25.375
 453196382,Cyperus_esculentus,-27.625,29.125
 453196403,Cyperus_esculentus,-27.125,29.875
-47753172,Cyperus_esculentus,-2.75,-79.916
-1260053984,Cyperus_esculentus,-2.75,-79.91666
-47753187,Cyperus_esculentus,-2.783,-80.216
 245518449,Cyperus_esculentus,35.449098,139.665534
 51814174,Cyperus_esculentus,45.6032,-122.6501
 1893314851,Cyperus_esculentus,18.418056,-99.490278
@@ -1172,7 +1125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895533467,Cyperus_esculentus,20.258333,-101.125
 2290080054,Cyperus_esculentus,52.8667,5.5
 1144639320,Cyperus_esculentus,-25.5,-57.5
-1321210280,Cyperus_esculentus,38.8894,-76.9317
 1895533881,Cyperus_esculentus,20.277,-101.1215
 461769885,Cyperus_esculentus,-29.625,29.375
 453196426,Cyperus_esculentus,-18.125,21.625
@@ -1190,11 +1142,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270185255,Cyperus_esculentus,34.923799999114,-120.3648
 1893754347,Cyperus_esculentus,20.186667,-100.143333
 415979706,Cyperus_esculentus,41.35888,-72.29777
-1056109423,Cyperus_esculentus,39.466667,-39.133333
 1893754355,Cyperus_esculentus,19.685,-101.313333
 245518456,Cyperus_esculentus,35.324107,139.240569
 2288303349,Cyperus_esculentus,52.8667,5.55
-1260409025,Cyperus_esculentus,11.8,-66.15
 2270186914,Cyperus_esculentus,34.9336999991139,-120.519
 415979736,Cyperus_esculentus,40.75833,-74.97944
 2270599295,Cyperus_esculentus,31.7078,-111.052
@@ -1204,7 +1154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894875475,Cyperus_esculentus,18.258333,-92.8375
 1144639333,Cyperus_esculentus,42.55,9.41667
 1989205699,Cyperus_esculentus,41.90795,-84.02454
-1894549126,Cyperus_esculentus,18.646389,-92.534444
 1893754306,Cyperus_esculentus,18.69,-100.938333
 2270472855,Cyperus_esculentus,27.737539,-110.527028
 1077307623,Cyperus_esculentus,-17.516667,-56.916667
@@ -1303,7 +1252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896173803,Cyperus_esculentus,16.191667,-95.208333
 1893939008,Cyperus_esculentus,16.7688268954541,-99.7057661536235
 2270703522,Cyperus_esculentus,31.806189,-107.103232
-1893939067,Cyperus_esculentus,25.233333,-97.341667
 1893587620,Cyperus_esculentus,28.841667,-111.472778
 2291606614,Cyperus_esculentus,32.466667,-91.75
 1893314856,Cyperus_esculentus,17.2831156262357,-97.7083739560372
@@ -1314,7 +1262,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259974664,Cyperus_esculentus,-5.221667,-81.004444
 1259311031,Cyperus_esculentus,15.91888,-85.93777
 453196368,Cyperus_esculentus,-26.375,27.375
-1421404971,Cyperus_esculentus,19.9125,-87.433333
 1894076560,Cyperus_esculentus,16.372778,-93.475278
 176922929,Cyperus_esculentus,39.49812,-98.34334
 1262018407,Cyperus_esculentus,46.046314,-73.305683
@@ -1350,7 +1297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262017752,Cyperus_esculentus,45.536043,-73.79843
 1262013737,Cyperus_esculentus,46.216667,-72.616667
 668761164,Cyperus_esculentus,45.383333,-73.75
-1259309538,Cyperus_esculentus,14.11555,-87.19472
 1260383152,Cyperus_esculentus,-9.15,-74.85
 1260964691,Cyperus_esculentus,38.07416,-92.59805
 415979735,Cyperus_esculentus,39.14333,-77.20138
@@ -1385,21 +1331,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843850700,Cyperus_esculentus,33.437999,-107.913384
 1455172668,Cyperus_esculentus,45.366667,-71.833333
 1893754332,Cyperus_esculentus,19.476667,-98.821667
-1893314802,Cyperus_esculentus,18.885556,-95.927222
 1893314835,Cyperus_esculentus,30.168056,-108.300833
 1893939019,Cyperus_esculentus,21.23167,-97.52861
-1895643552,Cyperus_esculentus,18.879167,-95.933333
 1893314753,Cyperus_esculentus,18.489722,-95.069444
 1893939015,Cyperus_esculentus,24.7521942650954,-99.8191891760036
-1893939087,Cyperus_esculentus,19.1014722770437,-96.1072507846371
-1896173810,Cyperus_esculentus,19.103333,-96.106667
 1896173816,Cyperus_esculentus,22.183333,-97.836111
 1896173836,Cyperus_esculentus,18.402778,-95.395
 1896173798,Cyperus_esculentus,18.416389,-95.108889
 1259313276,Cyperus_esculentus,14.61194,-86.21972
 1893939018,Cyperus_esculentus,18.3916187248794,-95.0647738277363
 1893938956,Cyperus_esculentus,18.6201078585422,-95.071944683509
-1893938931,Cyperus_esculentus,19.10083,-96.10722
 1896173849,Cyperus_esculentus,21.802778,-97.896667
 199471541,Cyperus_esculentus,36.74196,-4.09374
 176922878,Cyperus_esculentus,37.276734,-95.828443
@@ -1435,7 +1376,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265515709,Cyperus_esculentus,44.912738,-92.771768
 1893314793,Cyperus_esculentus,19.511111,-98.879167
 1258391464,Cyperus_esculentus,13.13333,-85.9
-1042842459,Cyperus_esculentus,59.34267,18.06129
 1988622313,Cyperus_esculentus,45.990519,-86.2925
 1262008264,Cyperus_esculentus,45.278064,-74.271766
 1895275936,Cyperus_esculentus,19.82198771833,-99.4273339166908
@@ -1445,14 +1385,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893939020,Cyperus_esculentus,20.1980757431082,-101.149593900549
 1893938929,Cyperus_esculentus,25.5397866158632,-100.947670878081
 1829782643,Cyperus_esculentus,35.61018,139.44041
-1259313810,Cyperus_esculentus,14.021111,-87.206667
 1652026330,Cyperus_esculentus,-26.748541,152.917456
 1090553052,Cyperus_esculentus,-22.0431,-45.6992
 2252124413,Cyperus_esculentus,-33.362222,-64.541667
 453196347,Cyperus_esculentus,-24.875,28.375
 453196348,Cyperus_esculentus,-24.625,28.875
 1896173846,Cyperus_esculentus,20.603611,-98.468889
-1259312610,Cyperus_esculentus,14.12972,-87.16444
 1261852851,Cyperus_esculentus,11.98333,-86.6
 1893939010,Cyperus_esculentus,19.92222,-103.34306
 1258719608,Cyperus_esculentus,13.75,-86.08333
@@ -1489,11 +1427,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895275960,Cyperus_esculentus,19.7694910113626,-99.1545492829319
 1893938960,Cyperus_esculentus,20.169740004803,-103.211312101507
 1895642171,Cyperus_esculentus,31.810278,-116.61004
-346755669,Cyperus_esculentus,12.133333,14.983333
-1893938958,Cyperus_esculentus,20.47972,-97.01
 1896173830,Cyperus_esculentus,17.948333,-94.913333
 2289977292,Cyperus_esculentus,-15.166667,34.55
-1896173820,Cyperus_esculentus,20.479722,-97.01
 2288402067,Cyperus_esculentus,-3.2,30.8
 1893754350,Cyperus_esculentus,20.801667,-103.495
 453196346,Cyperus_esculentus,-25.875,30.125
@@ -1536,7 +1471,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895275938,Cyperus_esculentus,19.863056,-98.564167
 1893754337,Cyperus_esculentus,19.516667,-99.243056
 1989852960,Cyperus_esculentus,-4.066023,29.546614
-1259208861,Cyperus_esculentus,7.966667,-80.35
 453196376,Cyperus_esculentus,-25.625,28.375
 453196342,Cyperus_esculentus,-27.625,25.875
 453196343,Cyperus_esculentus,-27.625,25.625
@@ -1547,7 +1481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989852419,Cyperus_esculentus,7.480578,5.85121
 1258374853,Cyperus_esculentus,13.216667,-86.383333
 464902516,Cyperus_esculentus,13.21667,-86.38333
-2291592391,Cyperus_esculentus,10.933333,-68.266667
 1893391389,Cyperus_esculentus,16.091667,-93.758333
 1894076519,Cyperus_esculentus,16.08201929024,-93.7690815025302
 1258902609,Cyperus_esculentus,16.16,-93.82
@@ -1557,28 +1490,23 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259155267,Cyperus_esculentus,12.15,-86.73333
 1893314855,Cyperus_esculentus,20.7282202304887,-103.515780434446
 1262006156,Cyperus_esculentus,46.195833,-72.278611
-1259311377,Cyperus_esculentus,14.085,-87.16694
 1895275942,Cyperus_esculentus,19.7725,-98.581944
 1893939021,Cyperus_esculentus,19.603532938443,-104.475951247635
-1259310253,Cyperus_esculentus,14.11194,-87.22138
 1258313269,Cyperus_esculentus,12.366667,-86.083333
 1896173811,Cyperus_esculentus,19.708333,-98.975
 1893754310,Cyperus_esculentus,19.773333,-98.573333
 1895275882,Cyperus_esculentus,19.6986618430929,-98.9809339297769
-2291959500,Cyperus_esculentus,-4.383333,15.333333
 1424226156,Cyperus_esculentus,-17.433333,-57.033333
 453196350,Cyperus_esculentus,-33.875,18.875
 1893938977,Cyperus_esculentus,25.0493107603116,-101.076467822835
 1258902446,Cyperus_esculentus,29.75,-107.67
 1652011097,Cyperus_esculentus,-26.673541,153.009121
 996070594,Cyperus_esculentus,-26.67,153
-1259312479,Cyperus_esculentus,14.085,-87.166944
 1259151981,Cyperus_esculentus,10.83,-85.61
 1259152401,Cyperus_esculentus,10.83,-85.6
 176922921,Cyperus_esculentus,38.8614,-94.66664
 1259307943,Cyperus_esculentus,9.198333,-79.620556
 1893314759,Cyperus_esculentus,21.053333,-99.813333
-1258300262,Cyperus_esculentus,11.641667,-86.338889
 1899297814,Cyperus_esculentus,42.583333,-82.225
 1893938944,Cyperus_esculentus,20.69508,-103.45412
 1843850611,Cyperus_esculentus,33.099937,-108.999918
@@ -1610,8 +1538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989852183,Cyperus_esculentus,12.47488,2.42489
 1989852625,Cyperus_esculentus,11.213343,7.557223
 2265514673,Cyperus_esculentus,43.777327,-91.304027
-2289508154,Cyperus_esculentus,38.583333,-28.7
-2291959787,Cyperus_esculentus,-33.483333,26.833333
 1986900830,Cyperus_esculentus,32.468237,-91.266568
 2265515601,Cyperus_esculentus,43.543897,-91.312564
 1804606687,Cyperus_esculentus,45.316667,-75.1
@@ -1627,9 +1553,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651990133,Cyperus_esculentus,-26.915208,152.917457
 453196344,Cyperus_esculentus,-32.875,26.875
 1259997176,Cyperus_esculentus,-18.833333,47.45
-2290577112,Cyperus_esculentus,-0.5,-91.066667
 1897653945,Cyperus_esculentus,-36.816667,174.75
-1257569676,Cyperus_esculentus,-0.41715,-91.12174
 176922924,Cyperus_esculentus,37.07367,-95.97725
 176922926,Cyperus_esculentus,37.24048,-96.89663
 176922892,Cyperus_esculentus,38.76243,-95.67286
@@ -1670,7 +1594,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473258905,Cyperus_esculentus,45.4142,-73.968
 453196329,Cyperus_esculentus,-29.625,30.625
 1986926406,Cyperus_esculentus,41.986111,-82.934444
-453196328,Cyperus_esculentus,-29.875,31.125
 1930477288,Cyperus_esculentus,-26.904801,-48.694047
 461769870,Cyperus_esculentus,-29.375,27.625
 2291959909,Cyperus_esculentus,5.71,39.535
@@ -1791,7 +1714,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930529761,Cyperus_esculentus,-25.419851,-49.157618
 1929236827,Cyperus_esculentus,-23.565521,-46.724373
 1652011228,Cyperus_esculentus,-26.473544,152.459128
-1055953793,Cyperus_esculentus,38.725461,-27.213939
 1258810366,Cyperus_esculentus,13.23333,-86.38333
 1258811091,Cyperus_esculentus,14.265,-86.70722
 1846542656,Cyperus_esculentus,32.511534,-92.114651
@@ -1812,9 +1734,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895275920,Cyperus_esculentus,19.3417339682503,-98.8284290956453
 2290580254,Cyperus_esculentus,-11.583333,27.416667
 2287793331,Cyperus_esculentus,-18.733333,26.933333
-461769877,Cyperus_esculentus,-33.875,23.625
 1652011160,Cyperus_esculentus,-16.923599,145.425847
-453196238,Cyperus_esculentus,-28.875,32.125
 1893938991,Cyperus_esculentus,20.2821935064597,-103.579281125533
 176922884,Cyperus_esculentus,37.3939,-97.31766
 2234660656,Cyperus_esculentus,36.354859,-79.664475
@@ -1828,12 +1748,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 786129596,Cyperus_esculentus,30.6,-103.9
 1895275944,Cyperus_esculentus,19.496111,-99.237222
 1989317321,Cyperus_esculentus,20.337,-103.575
-1895275933,Cyperus_esculentus,19.4533946825775,-99.1714935851198
 1260962510,Cyperus_esculentus,37.18,-91.17
 995550283,Cyperus_esculentus,-30.72,152.92
 1895275893,Cyperus_esculentus,19.2572929797789,-99.1351030499159
 1451442093,Cyperus_esculentus,-30.715076,152.917755
-453196240,Cyperus_esculentus,-30.875,30.375
 453196341,Cyperus_esculentus,-25.875,31.625
 453196279,Cyperus_esculentus,-25.375,29.375
 1929558441,Cyperus_esculentus,-22.960856,-43.251886
@@ -1859,7 +1777,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291960304,Cyperus_esculentus,-10.95,26.966667
 1090548153,Cyperus_esculentus,-22.870251,-47.077171
 461769879,Cyperus_esculentus,-27.625,27.125
-2288319880,Cyperus_esculentus,8.466667,-13.216667
 1897833942,Cyperus_esculentus,-40.3655,175.616028
 1259478054,Cyperus_esculentus,-25.45,-57.56666
 176922893,Cyperus_esculentus,39.45602,-97.95597
@@ -1896,7 +1813,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288508518,Cyperus_esculentus,35.1,-77.033333
 2291960177,Cyperus_esculentus,7.133333,38.5
 2234662471,Cyperus_esculentus,36.474034,-78.227772
-1896173792,Cyperus_esculentus,21.468611,-97.226667
 56556316,Cyperus_esculentus,32.61195,-87.65417
 2288400100,Cyperus_esculentus,43.6,3.883333
 2234661649,Cyperus_esculentus,35.108493,-77.044114
@@ -1905,7 +1821,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844907265,Cyperus_esculentus,10.970604,-74.549911
 453196295,Cyperus_esculentus,-18.625,21.375
 1987005108,Cyperus_esculentus,40.149404,-88.157617
-1340032799,Cyperus_esculentus,32.648333,-16.975833
 176922899,Cyperus_esculentus,37.51268,-95.24319
 1893314747,Cyperus_esculentus,18.086111,-96.123889
 176923215,Cyperus_esculentus,39.03041,-97.40759
@@ -1919,18 +1834,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176923129,Cyperus_esculentus,38.8329,-95.3811
 1896173806,Cyperus_esculentus,18.726667,-95.661944
 2234662529,Cyperus_esculentus,36.094592,-78.812827
-1989040539,Cyperus_esculentus,18.916667,-95.833333
 2235371361,Cyperus_esculentus,39.000563,-95.624003
 473258269,Cyperus_esculentus,45.379722,-73.996667
-1676042528,Cyperus_esculentus,18.92,-95.83
 1893314717,Cyperus_esculentus,18.9125,-96.825
 2235371689,Cyperus_esculentus,39.094733,-95.640915
 1895485652,Cyperus_esculentus,25.883333,-111.558333
 1259312853,Cyperus_esculentus,25.883333,-111.55
 176922904,Cyperus_esculentus,37.488176,-95.134527
 1930249254,Cyperus_esculentus,25.88,-111.5583
-1893938987,Cyperus_esculentus,19.6389613261183,-90.6876827488017
-415979744,Cyperus_esculentus,41.38333,-70.53333
 1989452586,Cyperus_esculentus,19.7288,-98.4896
 1893314836,Cyperus_esculentus,25.883611,-111.558333
 1652011113,Cyperus_esculentus,-17.081931,145.750843
@@ -1942,22 +1853,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51813992,Cyperus_esculentus,45.7597,-122.7903
 1895275901,Cyperus_esculentus,19.304167,-98.873611
 1895275885,Cyperus_esculentus,19.2250680203732,-98.9642689062816
-2242403206,Cyperus_esculentus,35.89434,-75.589615
 1846543883,Cyperus_esculentus,34.40503,-111.282636
 2270598176,Cyperus_esculentus,34.41,-111.28
 176922918,Cyperus_esculentus,38.75569,-95.161523
 1895275910,Cyperus_esculentus,19.2184082594174,-98.9881594476479
-415979743,Cyperus_esculentus,41.28333,-70.16666
-2234661957,Cyperus_esculentus,34.717662,-76.672152
 1320149138,Cyperus_esculentus,39.0667,-76.8
-2005495846,Cyperus_esculentus,-26.375,31.125
 2291959666,Cyperus_esculentus,-9.416667,28.35
 2290023338,Cyperus_esculentus,-28.666667,30.666667
 2287795376,Cyperus_esculentus,13.09,80.153611
 1989851122,Cyperus_esculentus,9.079679,6.009702
 1895275998,Cyperus_esculentus,19.511389,-98.866667
 1988629620,Cyperus_esculentus,19.1897,-99.4644
-1895275816,Cyperus_esculentus,19.442778,-99.213611
 1322764816,Cyperus_esculentus,38.6861,-76.535
 1895275834,Cyperus_esculentus,19.5510062507706,-98.8086253440846
 1895275925,Cyperus_esculentus,19.188889,-98.800278
@@ -1975,7 +1881,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289405676,Cyperus_esculentus,-4.933333,35.85
 461769873,Cyperus_esculentus,-34.125,18.375
 1893314800,Cyperus_esculentus,22.238889,-100.260278
-1989397645,Cyperus_esculentus,19.75,-90.683333
 1893391332,Cyperus_esculentus,22.241667,-100.258333
 2234662160,Cyperus_esculentus,35.484862,-80.28839
 616255210,Cyperus_esculentus,-28.625,31.875
@@ -1984,7 +1889,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265515585,Cyperus_esculentus,45.084979,-92.817348
 2265515782,Cyperus_esculentus,45.428063,-93.203997
 2270598542,Cyperus_esculentus,34.3386,-110.801
-1319903928,Cyperus_esculentus,38.9347,-76.9994
 1090547794,Cyperus_esculentus,-22.7392,-47.3314
 453196386,Cyperus_esculentus,-26.625,31.125
 1652011147,Cyperus_esculentus,-17.081932,145.250849
@@ -2046,7 +1950,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090341824,Cyperus_esculentus,-16.9167,145.417
 1989850912,Cyperus_esculentus,11.085541,7.719945
 453196289,Cyperus_esculentus,-20.375,17.125
-2289042358,Cyperus_esculentus,-12.05,-77.05
 1988189170,Cyperus_esculentus,49.15,-122.25
 1893938955,Cyperus_esculentus,27.535044,-109.926286
 2234665796,Cyperus_esculentus,33.018504,-80.175648
@@ -2064,7 +1967,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234661791,Cyperus_esculentus,35.306829,-77.788034
 2291960207,Cyperus_esculentus,-6.933333,23.616667
 1652011132,Cyperus_esculentus,-16.915266,145.417513
-1056257462,Cyperus_esculentus,-19.000098,29.871838
 2252115068,Cyperus_esculentus,-31.573333,-64.668056
 2234666327,Cyperus_esculentus,32.556575,-80.689828
 2234665417,Cyperus_esculentus,32.781025,-80.638046
@@ -2105,7 +2007,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320400086,Cyperus_esculentus,38.7819,-76.5386
 1895275881,Cyperus_esculentus,19.524444,-99.122222
 2290284455,Cyperus_esculentus,39.25,-9.166667
-2290355511,Cyperus_esculentus,37.833333,-25.683333
 1988952707,Cyperus_esculentus,19.3189,-97.9401
 1989336643,Cyperus_esculentus,19.3105,-97.9173
 51814651,Cyperus_esculentus,42.3267,-122.8744
@@ -2123,7 +2024,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893314891,Cyperus_esculentus,19.344444,-99.068611
 2252114922,Cyperus_esculentus,-31.338333,-64.488889
 176922919,Cyperus_esculentus,39.04313,-95.28169
-1259311451,Cyperus_esculentus,13.70861,-89.20305
 1988904014,Cyperus_esculentus,18.9575,-98.8566
 1893314960,Cyperus_esculentus,19.508333,-98.875
 1989161701,Cyperus_esculentus,18.9593,-98.8578
@@ -2157,7 +2057,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912327991,Cyperus_esculentus,13.08,-9.52
 51814868,Cyperus_esculentus,45.9175,-119.3414
 1989355220,Cyperus_esculentus,19.3525,-98.1519
-1989032647,Cyperus_esculentus,19.319,-99.1939
 1895486054,Cyperus_esculentus,19.348889,-98.167781
 860317140,Cyperus_esculentus,41.78,2.58
 1322035521,Cyperus_esculentus,38.8667,-77.1708
@@ -2175,7 +2074,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894076514,Cyperus_esculentus,15.3823479696305,-92.2215500613508
 1259311679,Cyperus_esculentus,15.38,-92.22
 1988960450,Cyperus_esculentus,29.059,-111.076
-415979715,Cyperus_esculentus,41.21055,-72.38305
 1259312321,Cyperus_esculentus,29.033333,-111.116667
 1988152539,Cyperus_esculentus,45.21,-74.31
 1259309511,Cyperus_esculentus,28.75,-104.216667
@@ -2207,14 +2105,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265515793,Cyperus_esculentus,48.51885,-93.540946
 1988660695,Cyperus_esculentus,27.6775,-105.175
 2265514451,Cyperus_esculentus,48.512778,-93.671436
-1804596295,Cyperus_esculentus,45.416667,-75.7
 1988598530,Cyperus_esculentus,30.1248,-109.098
 876156989,Cyperus_esculentus,41.78,2.7
 1317467991,Cyperus_esculentus,38.9806,-76.9372
-2289151725,Cyperus_esculentus,-29.983333,30.916667
 616255180,Cyperus_esculentus,-29.125,29.625
 616255178,Cyperus_esculentus,-29.875,29.375
-1257649090,Cyperus_esculentus,-18.916667,47.516667
 1895486112,Cyperus_esculentus,20.4953175527203,-87.7351148258848
 1421358869,Cyperus_esculentus,20.511111,-87.719444
 1988664031,Cyperus_esculentus,20.5075,-87.7362
@@ -2238,7 +2133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090532388,Cyperus_esculentus,42.4333,-76.4833
 1986856286,Cyperus_esculentus,33.822553,-108.942293
 1260971469,Cyperus_esculentus,37.879722,-92.29
-1320276261,Cyperus_esculentus,38.9328,-76.9844
 1260971198,Cyperus_esculentus,38.565556,-92.463333
 2265514620,Cyperus_esculentus,44.2395,-93.585754
 1320050175,Cyperus_esculentus,38.4978,-76.5036
@@ -2271,10 +2165,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260929661,Cyperus_esculentus,39.15555,-94.39333
 1258933748,Cyperus_esculentus,39.15556,-94.39333
 786129592,Cyperus_esculentus,40.5,-86.9
-1320418908,Cyperus_esculentus,38.9103,-76.9664
 2242403008,Cyperus_esculentus,40.501236,-98.949919
 1261052462,Cyperus_esculentus,18.84,-99.67
-415979749,Cyperus_esculentus,41.27305,-71.98166
 1228146986,Cyperus_esculentus,41.8333,-87.85
 176922877,Cyperus_esculentus,39.532271,-95.269788
 465886384,Cyperus_esculentus,45.441413,-73.287193
@@ -2290,7 +2182,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038955685,Cyperus_esculentus,39.704,-80.516
 1929410712,Cyperus_esculentus,38.032079,-75.392696
 1056570537,Cyperus_esculentus,-20.583333,28.666667
-1228501165,Cyperus_esculentus,-0.5,-90.5
 176922913,Cyperus_esculentus,37.192343,-95.742943
 1261992055,Cyperus_esculentus,46.286111,-72.690556
 2290792736,Cyperus_esculentus,51,2.4167
@@ -2313,7 +2204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287794561,Cyperus_esculentus,38.75,-76.8833
 1319345907,Cyperus_esculentus,38.765,-76.8986
 1259690340,Cyperus_esculentus,19.288333,-99.176111
-1931168315,Cyperus_esculentus,40.651619,-73.128955
 1893314970,Cyperus_esculentus,19.365278,-99.240833
 1989207508,Cyperus_esculentus,42.61763,-82.54275
 461769882,Cyperus_esculentus,-26.625,27.875
@@ -2321,7 +2211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291959420,Cyperus_esculentus,-5.716667,13.566667
 465055404,Cyperus_esculentus,-5.72087,13.57696
 51814168,Cyperus_esculentus,44.9261,-123.0617
-1929850667,Cyperus_esculentus,38.942396,-74.936862
 51814751,Cyperus_esculentus,44.8216,-123.1174
 461769872,Cyperus_esculentus,-26.875,24.625
 1928094952,Cyperus_esculentus,40.703545,-73.618912
@@ -2329,19 +2218,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265516693,Cyperus_esculentus,43.890397,-92.019238
 2265516223,Cyperus_esculentus,43.984426,-92.049756
 453196229,Cyperus_esculentus,-29.625,30.125
-1928944775,Cyperus_esculentus,18.512915,-72.289529
 415979747,Cyperus_esculentus,42.11027,-73.35555
 461769865,Cyperus_esculentus,-23.875,30.125
 453196302,Cyperus_esculentus,-24.125,30.125
 453196307,Cyperus_esculentus,-26.875,28.875
 2265516828,Cyperus_esculentus,43.674679,-91.593199
-1322867272,Cyperus_esculentus,38.8047,-77.0472
-415979748,Cyperus_esculentus,41.19166,-71.575
 1322425851,Cyperus_esculentus,38.9986,-77.2542
 1038957486,Cyperus_esculentus,41.3219,-72.3017
 465127190,Cyperus_esculentus,45.49204,-73.50417
 461769875,Cyperus_esculentus,-28.125,24.875
-1929418318,Cyperus_esculentus,38.899446,-77.0283
 1260939734,Cyperus_esculentus,39.708333,-91.358333
 1930435616,Cyperus_esculentus,38.6869,-76.542489
 1988689698,Cyperus_esculentus,42.31109,-83.215453
@@ -2354,7 +2239,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415979731,Cyperus_esculentus,41.78222,-72.61194
 1931005041,Cyperus_esculentus,41.03093,-73.83569
 453196320,Cyperus_esculentus,-27.375,30.125
-1261977204,Cyperus_esculentus,45.450331,-75.727344
 51815040,Cyperus_esculentus,44.9431,-123.0339
 465886395,Cyperus_esculentus,46.854893,-76.135769
 176922903,Cyperus_esculentus,38.935265,-95.232761
@@ -2377,7 +2261,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461769899,Cyperus_esculentus,-26.375,29.625
 1893314923,Cyperus_esculentus,18.575,-98.48
 1259310326,Cyperus_esculentus,19.6925,-101.143055
-1705470581,Cyperus_esculentus,29.2287,-94.8948
 1259310493,Cyperus_esculentus,19.693611,-101.136944
 1259311782,Cyperus_esculentus,19.7025,-101.206944
 1929566805,Cyperus_esculentus,40.097051,-75.469636
@@ -2389,20 +2272,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038995179,Cyperus_esculentus,41.7661,-72.6833
 1259313424,Cyperus_esculentus,19.681667,-101.213333
 1039007582,Cyperus_esculentus,41.8352,-72.5734
-1057176061,Cyperus_esculentus,38.64152,-28.032373
 1039024407,Cyperus_esculentus,41.5583,-73.036
-1928727614,Cyperus_esculentus,39.924942,-74.077081
 1039022268,Cyperus_esculentus,41.2961,-72.3678
 122228946,Cyperus_esculentus,41.1,-89.8
 1843850906,Cyperus_esculentus,32.270238,-106.800727
 1842896842,Cyperus_esculentus,41.96,2.58
-2287792483,Cyperus_esculentus,-18.8667,47.5
 1259314139,Cyperus_esculentus,18.8125,-96.56666
 1259311773,Cyperus_esculentus,24.05,-105
 1039021942,Cyperus_esculentus,41.3348,-72.7005
 415979726,Cyperus_esculentus,41.92916,-72.61861
 1228287292,Cyperus_esculentus,41.972532,-87.69339
-2287794560,Cyperus_esculentus,-15.716667,46.316667
 1259313907,Cyperus_esculentus,18.916667,-98.183333
 1259836825,Cyperus_esculentus,-32.083333,-57.916667
 1896173801,Cyperus_esculentus,19.2,-96.833333
@@ -2416,7 +2295,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928906644,Cyperus_esculentus,22.97392,-82.386275
 1843850481,Cyperus_esculentus,32.283567,-106.753226
 2252127752,Cyperus_esculentus,-31.390833,-64.190833
-464822341,Cyperus_esculentus,-8.85153,13.2049
 2287793390,Cyperus_esculentus,10.133333,19.333333
 1989384572,Cyperus_esculentus,42.353157,-83.001787
 2270599519,Cyperus_esculentus,32.2601,-110.8745
@@ -2430,12 +2308,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426217832,Cyperus_esculentus,34.095757,-118.237427
 2289216639,Cyperus_esculentus,42.45,-76.5
 2290793925,Cyperus_esculentus,43.783333,7.65
-1930605345,Cyperus_esculentus,17.967088,-66.167585
 415979725,Cyperus_esculentus,41.73833,-72.66444
 2265515925,Cyperus_esculentus,43.543923,-91.6707
 1929513093,Cyperus_esculentus,40.873422,-73.890222
 415979746,Cyperus_esculentus,41.4875,-71.29166
-1318811171,Cyperus_esculentus,38.8814,-77.0369
 415931254,Cyperus_esculentus,41.50833,-71.31666
 1340032365,Cyperus_esculentus,40.20443,-8.33576
 1038993833,Cyperus_esculentus,41.7012,-72.6704
