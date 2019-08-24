@@ -5,7 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094929647,Parkia_multijuga,-1.727222,-51.455278
 1413715433,Parkia_multijuga,-7.677419,-62.596147
 1042709171,Parkia_multijuga,-2.92862,-59.98
-1424511730,Parkia_multijuga,-22.905833,-47.060833
 1095258352,Parkia_multijuga,-8.965555,-63.984722
 1042698279,Parkia_multijuga,-9.257778,-64.38
 1930152638,Parkia_multijuga,-9.2578,-64.3828
@@ -110,18 +109,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258263319,Parkia_multijuga,-3.5,-73.03333
 1258304157,Parkia_multijuga,-3.5,-72.83333
 1324646880,Parkia_multijuga,-0.61,-72.32
-1929082291,Parkia_multijuga,-3.5,-45.25
 1258232592,Parkia_multijuga,-4.75,-77.33333
 1928129004,Parkia_multijuga,-8.7517,-63.4547
 1261493315,Parkia_multijuga,-3.5,-73.01666
 1261488281,Parkia_multijuga,-3.41666,-72.83333
 1929897477,Parkia_multijuga,-2.776984,-66.752843
-1929859252,Parkia_multijuga,-2.72,-46.43
 1261854475,Parkia_multijuga,-0.41666,-77
 1261538549,Parkia_multijuga,-1,-69.816667
 1260286476,Parkia_multijuga,-0.4166,-76.75
 1929246357,Parkia_multijuga,-2.78,-77.6
-1930737030,Parkia_multijuga,-1.2,-46.1167
 1042516504,Parkia_multijuga,-10.116667,-57.5
 1928943741,Parkia_multijuga,-3.45665,-78.551909
 1260287266,Parkia_multijuga,-10.11666,-57.5
@@ -151,7 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928651241,Parkia_multijuga,-2.913682,-59.127645
 1258344078,Parkia_multijuga,-0.31666,-76.93333
 1228162024,Parkia_multijuga,-5,-78
-1928408323,Parkia_multijuga,-1.438098,-48.44475
 1228563355,Parkia_multijuga,-5,-63
 1930913444,Parkia_multijuga,-9.195709,-63.185415
 1228247691,Parkia_multijuga,-11,-63
