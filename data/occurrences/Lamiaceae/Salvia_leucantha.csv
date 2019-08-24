@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123892285,Salvia_leucantha,6.213333,-75.492278
 1830542683,Salvia_leucantha,34.716667,135.216667
 1094778864,Salvia_leucantha,-22.7075,-45.948889
-2289407771,Salvia_leucantha,-4.4,15.166667
 2013819610,Salvia_leucantha,4.852935,-74.09256
 1830540909,Salvia_leucantha,35.013333,135.573333
 1835598427,Salvia_leucantha,-2.15,28.48
@@ -34,14 +33,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893694454,Salvia_leucantha,21.206667,-100.286667
 1258705273,Salvia_leucantha,-3.25,35.51666
 1258777824,Salvia_leucantha,-3.26666,35.58333
-1897706130,Salvia_leucantha,-37.783333,174.9
 995122712,Salvia_leucantha,-37.8167,144.9667
 1893694443,Salvia_leucantha,17.653333,-99.22
 1123880876,Salvia_leucantha,6.237278,-75.502162
 1253620279,Salvia_leucantha,9.598658,-83.832005
 1895455239,Salvia_leucantha,20.22389509773,-104.169113614698
 2291933335,Salvia_leucantha,6.230278,10.52
-1931196796,Salvia_leucantha,33.1,-116.97
 1897635324,Salvia_leucantha,-36.866667,174.766667
 1707505096,Salvia_leucantha,4.702139,-74.075539
 1897622364,Salvia_leucantha,-36.983333,174.85
@@ -51,10 +48,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501055126,Salvia_leucantha,38.42,-0.54
 1261153984,Salvia_leucantha,-2.15,-78.81666
 1258935121,Salvia_leucantha,-2.71666,-78.83333
-1258954174,Salvia_leucantha,-1.51666,-78.5
 1893963414,Salvia_leucantha,19.687778,-104.034722
 1893963449,Salvia_leucantha,19.358333,-103.858333
-1895967606,Salvia_leucantha,18.5,-97.293611
 1896162143,Salvia_leucantha,19.84,-103.798333
 1895455262,Salvia_leucantha,19.848068899719,-103.795947446791
 1929007611,Salvia_leucantha,40.85,-73.88
@@ -72,7 +67,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259364895,Salvia_leucantha,17.55,-96.51666
 1896162162,Salvia_leucantha,19.875,-103.825
 1893694441,Salvia_leucantha,19.745,-103.768333
-1893694456,Salvia_leucantha,18.986667,-99.1
 1262236223,Salvia_leucantha,8.86666,-82.58333
 1061296521,Salvia_leucantha,3.6333,-76.15
 1417699781,Salvia_leucantha,18.976294,-99.252886
@@ -91,18 +85,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1417699490,Salvia_leucantha,18.613494,-99.23128
 1893694447,Salvia_leucantha,19.433333,-101.515
 1259367285,Salvia_leucantha,15.48194,-86.57055
-1929911836,Salvia_leucantha,19.07,-70.6
 1259364572,Salvia_leucantha,14.15805,-87.04638
 1123904615,Salvia_leucantha,4.69636,-75.541204
 1259366521,Salvia_leucantha,14.330278,-88.176944
 1893694439,Salvia_leucantha,19.513333,-98.81
-1259364372,Salvia_leucantha,14.3,-88.18333
 1259367238,Salvia_leucantha,13.92333,-87.29638
 1893438925,Salvia_leucantha,18.208333,-97.475
 1259365439,Salvia_leucantha,14.33027,-88.17694
 1893694446,Salvia_leucantha,18.418333,-100.07
-1259368125,Salvia_leucantha,19.45,-98.9
-1897643949,Salvia_leucantha,-36.933333,174.6
 1123891634,Salvia_leucantha,6.297134,-75.500553
 1259366665,Salvia_leucantha,14.113333,-87.113889
 1123895510,Salvia_leucantha,6.278787,-75.635219
@@ -131,10 +121,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123891519,Salvia_leucantha,6.257693,-75.609695
 995045555,Salvia_leucantha,-27.45,152.9333
 1438028246,Salvia_leucantha,-27.45,152.933333
-1258692573,Salvia_leucantha,8.85,-82.6
 437307759,Salvia_leucantha,-20.55833,164.2875
 1451671110,Salvia_leucantha,-31.915077,152.401112
-996064686,Salvia_leucantha,-31.92,152.4
 606647769,Salvia_leucantha,41.81027,-72.25583
 1123897755,Salvia_leucantha,6.4658,-75.37789
 1844889319,Salvia_leucantha,7.453822,-7.599114
@@ -157,4 +145,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259366565,Salvia_leucantha,19.066945,-98.312778
 1259368588,Salvia_leucantha,19.843056,-100.090278
 1895455181,Salvia_leucantha,18.9859198593158,-99.0998202895353
-1228429970,Salvia_leucantha,18.75,-99
