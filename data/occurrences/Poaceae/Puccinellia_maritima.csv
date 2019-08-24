@@ -33,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697396643,Puccinellia_maritima,66.79072,33.67857
 1702247354,Puccinellia_maritima,70.2994,25.1631
 1323865054,Puccinellia_maritima,67.1993,14.461
-2305806065,Puccinellia_maritima,51.5,-3.13
 1702104618,Puccinellia_maritima,59.116,10.8434
 1323728888,Puccinellia_maritima,67.9766,16.5392
 2325811930,Puccinellia_maritima,67.976734,16.517566
@@ -115,14 +114,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342844552,Puccinellia_maritima,56.217755,10.474159
 894166897,Puccinellia_maritima,41.824,-5.607
 211635297,Puccinellia_maritima,43.529999,-6.09
-2305862795,Puccinellia_maritima,51.6,-2.71
 1342844410,Puccinellia_maritima,56.621514,8.713495
 1697396678,Puccinellia_maritima,66.715844,32.728323
 1697396674,Puccinellia_maritima,66.494284,33.389835
 1342844727,Puccinellia_maritima,55.664379,11.804827
 1702397214,Puccinellia_maritima,59.8826,10.5453
 1702251457,Puccinellia_maritima,59.1703,5.9497
-1989245510,Puccinellia_maritima,45.4,-64.066667
 1702437918,Puccinellia_maritima,59.0101,11.0852
 1705265035,Puccinellia_maritima,55.868218,12.826688
 1701933577,Puccinellia_maritima,59.3887,10.5404
@@ -148,10 +145,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323723706,Puccinellia_maritima,65.3416,11.9865
 1323723771,Puccinellia_maritima,70.189,24.9244
 1323723686,Puccinellia_maritima,67.096,15.4582
-860321146,Puccinellia_maritima,35.17,-6.2
 1144742808,Puccinellia_maritima,43.25361,-2.93111
 199497867,Puccinellia_maritima,43.403,-2.944
-1050605585,Puccinellia_maritima,43.4,-2.94
 211634879,Puccinellia_maritima,43.400002,-2.95
 1701304644,Puccinellia_maritima,63.4283,8.7696
 900225881,Puccinellia_maritima,59.0997,5.6903
@@ -169,7 +164,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323838315,Puccinellia_maritima,69.6988,29.5185
 1323723787,Puccinellia_maritima,69.6981,29.5701
 465885002,Puccinellia_maritima,45.633333,-64.833333
-465885005,Puccinellia_maritima,45.483333,-65.2
 1050605584,Puccinellia_maritima,43.29,-2.15
 1144164847,Puccinellia_maritima,59.2704,5.5168
 1323723802,Puccinellia_maritima,70.9176,27.3974
@@ -298,8 +292,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701760708,Puccinellia_maritima,59.8557,10.5441
 465884952,Puccinellia_maritima,45.119265,-64.213652
 1701339567,Puccinellia_maritima,59.3423,5.8701
-2308446841,Puccinellia_maritima,45.9,-64.37
-2310474716,Puccinellia_maritima,45.63,-62
 1144164890,Puccinellia_maritima,60.32605,6.17715
 1144164775,Puccinellia_maritima,59.84258,10.45045
 1701222331,Puccinellia_maritima,63.613,10.926
@@ -366,7 +358,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144164908,Puccinellia_maritima,59.6925,5.4798
 1697396744,Puccinellia_maritima,72.649353,52.919769
 983909,Puccinellia_maritima,56.18953,15.56383
-1262196326,Puccinellia_maritima,45.366667,-63.3
 1705374939,Puccinellia_maritima,58.329629,11.902062
 1144164901,Puccinellia_maritima,59.8576,5.2912
 1144164909,Puccinellia_maritima,60.56901,5.51371
