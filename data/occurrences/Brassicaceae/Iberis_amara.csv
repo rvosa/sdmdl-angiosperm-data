@@ -19,7 +19,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895201915,Iberis_amara,39.536,-0.807
 895202000,Iberis_amara,39.517,-0.772
 1501109502,Iberis_amara,39.51,-0.77
-1501110481,Iberis_amara,39.53,-0.8
 1342585900,Iberis_amara,54.860355,9.30253
 895198928,Iberis_amara,39.526,-0.795
 1501111095,Iberis_amara,39.52,-0.79
@@ -30,8 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111308833,Iberis_amara,42.556,1.532
 1701632807,Iberis_amara,59.0916,9.6885
 995454033,Iberis_amara,59.34,16.54
-1260126557,Iberis_amara,-1.6,-78.71666
-111308734,Iberis_amara,42.860001,2.2
 317820977,Iberis_amara,41.377,0.136
 29677917,Iberis_amara,40.086,0.038
 895229453,Iberis_amara,41.384,0.088
@@ -57,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30963939,Iberis_amara,38.98,-2.83
 317820979,Iberis_amara,42.32,0.7408
 860317661,Iberis_amara,42.49,1.48
-860311156,Iberis_amara,42.58,1.6
 199483044,Iberis_amara,37.317,-5.285
 1851566895,Iberis_amara,36.15,-5.95
 1091189367,Iberis_amara,-45.05,169.13
@@ -67,8 +63,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1502027462,Iberis_amara,40.48,-0.23
 30965498,Iberis_amara,38.56,-0.38
 1501072142,Iberis_amara,38.55,-0.07
-1502023736,Iberis_amara,40.4,-0.35
-30964187,Iberis_amara,38.56,-0.4
 30963928,Iberis_amara,39.06,-1.32
 1936428566,Iberis_amara,38.5493,-0.0867
 1936409806,Iberis_amara,42.7528,0.7627
@@ -89,18 +83,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30965192,Iberis_amara,41.38,-0.07
 29677991,Iberis_amara,40.24,-3.41
 111308236,Iberis_amara,40.240002,-3.41
-1050588376,Iberis_amara,42.6,-2.43
-895191084,Iberis_amara,40.66,-0.1
 2235671321,Iberis_amara,37.44,-4.87
-29677456,Iberis_amara,38.71,-2.6
 29677469,Iberis_amara,38.71,-2.48
 1500662770,Iberis_amara,39.78,-0.96
 1053983230,Iberis_amara,42.64,-1.03
-29677476,Iberis_amara,39.07,-2.6
 1500662750,Iberis_amara,40.13,-0.36
 199483553,Iberis_amara,37.17,-4.63
 1500699488,Iberis_amara,40.57,-0.11
-1500662760,Iberis_amara,39.86,-0.6
 895236951,Iberis_amara,40.276,-0.465
 895253918,Iberis_amara,40.67,-0.57
 60004295,Iberis_amara,39.846232,-0.609843
@@ -129,14 +118,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29677434,Iberis_amara,51.485,-1.077
 860307919,Iberis_amara,41.04,-1.04
 60004617,Iberis_amara,39.589489,-3.692884
-218744950,Iberis_amara,37.44,-4.3
 1936444575,Iberis_amara,39.5838,-3.6999
 1936433844,Iberis_amara,46.7869,-3.7875
 60003796,Iberis_amara,37.269343,-3.620308
 1936698145,Iberis_amara,42.1787,2.3934
 142314143,Iberis_amara,37.79,-5.33
 2309662561,Iberis_amara,51.65,-0.97
-2235670595,Iberis_amara,37.35,-4.3
 317821007,Iberis_amara,42.23,2.45
 29677449,Iberis_amara,37.27,-3.62
 111308591,Iberis_amara,42.669998,-1.96
@@ -219,8 +206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1057500932,Iberis_amara,51.268943,-0.371775
 1988153589,Iberis_amara,46.68,-80.87
 1056280809,Iberis_amara,51.82899,-0.216681
-1988101631,Iberis_amara,49.3,-123.2
-2310839488,Iberis_amara,49.27,-123.2
 1702226820,Iberis_amara,59.7499,9.85407
 1701780903,Iberis_amara,60.0647,6.5476
 1099881251,Iberis_amara,58.09133,13.04894
@@ -257,7 +242,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931297510,Iberis_amara,40.642048,-74.441201
 1705273884,Iberis_amara,56.877485,14.81187
 1705397822,Iberis_amara,56.860298,14.745502
-1705471230,Iberis_amara,47.5,4.8333
 1323708699,Iberis_amara,59.92224,10.50728
 1930312807,Iberis_amara,40.864591,-73.877952
 825002,Iberis_amara,57.77184,14.17784
@@ -265,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065680021,Iberis_amara,63.838418,20.131774
 1622371163,Iberis_amara,63.132517,21.540172
 1701301861,Iberis_amara,59.6539,10.6325
-732478886,Iberis_amara,59.1,-135.366667
 1099896534,Iberis_amara,55.60694,13.002764
 732478887,Iberis_amara,43.833333,-66.116667
 1705401330,Iberis_amara,56.650459,16.148612
@@ -286,7 +269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099890082,Iberis_amara,55.9105,12.67422
 1705469019,Iberis_amara,57.781999,14.159527
 1099896458,Iberis_amara,55.57488,12.94447
-732478888,Iberis_amara,45.416667,-75.7
 1705346570,Iberis_amara,57.31825,15.854145
 1705430800,Iberis_amara,59.602018,13.727683
 1600731135,Iberis_amara,60.071161,24.392468
