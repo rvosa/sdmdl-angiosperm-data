@@ -14,7 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324015811,Rhynchospora_alba,58.5176,7.7839
 1999639656,Rhynchospora_alba,60.305103,23.295735
 1988790836,Rhynchospora_alba,43.91245,-86.14145
-1701301251,Rhynchospora_alba,63,10.2604
 1291550056,Rhynchospora_alba,41.4261,-72.9928
 1801062987,Rhynchospora_alba,56.286329,35.587829
 1837903542,Rhynchospora_alba,47.69389,11.153889
@@ -27,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702250693,Rhynchospora_alba,59.9055,10.2068
 1702250610,Rhynchospora_alba,59.7804,10.131
 1701290360,Rhynchospora_alba,61.6484,5.4814
-1697349598,Rhynchospora_alba,53.533333,47.6
 1702508774,Rhynchospora_alba,43.14,-1.49
 1702508769,Rhynchospora_alba,43.23,-1.59
 1701328789,Rhynchospora_alba,63.3728,8.9238
@@ -198,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999605249,Rhynchospora_alba,60.509605,23.710562
 1702243001,Rhynchospora_alba,59.0347,8.7029
 1804552487,Rhynchospora_alba,43.972,-74.146
-2308448687,Rhynchospora_alba,45.27,-81.7
 1701867313,Rhynchospora_alba,59.6994,11.071
 1829620682,Rhynchospora_alba,36.895278,139.264444
 1986960025,Rhynchospora_alba,60.502,22.26
@@ -214,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697412376,Rhynchospora_alba,60.158641,38.803756
 1598881668,Rhynchospora_alba,62.179951,22.434497
 186831852,Rhynchospora_alba,58.7928,8.2256
-1248712686,Rhynchospora_alba,46.65,-64.9
 1342871017,Rhynchospora_alba,56.05575,8.862219
 1697186469,Rhynchospora_alba,60.94262,76.82003
 1702218775,Rhynchospora_alba,59.4992,10.6975
@@ -226,7 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1148374944,Rhynchospora_alba,59.059683,23.80635
 1851371732,Rhynchospora_alba,42.696,-3.995
 1697412455,Rhynchospora_alba,53.7894,24.188333
-1248712621,Rhynchospora_alba,47.3,-64.983333
 1928543694,Rhynchospora_alba,39.03114,-76.58269
 1342871030,Rhynchospora_alba,55.768295,9.054499
 186831866,Rhynchospora_alba,58.4048,7.8724
@@ -291,10 +286,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598878321,Rhynchospora_alba,60.797572,22.426053
 1701422945,Rhynchospora_alba,60.3638,11.1457
 1933839183,Rhynchospora_alba,35.36853,137.19936
-1934099369,Rhynchospora_alba,35.383333,137.2
 1999605258,Rhynchospora_alba,60.743106,22.218024
 1702167133,Rhynchospora_alba,60.2209,10.2355
-1988160870,Rhynchospora_alba,51.3,-121.3
 204434984,Rhynchospora_alba,43.342999,-1.883
 204434983,Rhynchospora_alba,43.209999,-1.95
 1702033349,Rhynchospora_alba,59.26671,9.48765
@@ -333,8 +326,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851390892,Rhynchospora_alba,42.11,-6.732
 1702025110,Rhynchospora_alba,62.5339,6.8222
 2265967189,Rhynchospora_alba,47.44,-91.476667
-668761945,Rhynchospora_alba,51.216667,-61.7
-1988908052,Rhynchospora_alba,45.35,-80
 1899312382,Rhynchospora_alba,45.35,-80.01
 1829619244,Rhynchospora_alba,36.868333,139.154167
 1701317359,Rhynchospora_alba,63.1694,10.1944
@@ -345,7 +336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947503753,Rhynchospora_alba,50.31,9.74
 204434980,Rhynchospora_alba,43.241001,-1.59
 1936611806,Rhynchospora_alba,39.0865,-4.724
-1830200023,Rhynchospora_alba,35.433333,137.5
 2334123443,Rhynchospora_alba,62.460688,7.802892
 1455173393,Rhynchospora_alba,45.666667,-74.766667
 204434979,Rhynchospora_alba,43.231998,-1.602
@@ -359,13 +349,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1820375085,Rhynchospora_alba,45.58154,-60.71197
 668761965,Rhynchospora_alba,47.733333,-69.216667
 204434981,Rhynchospora_alba,43.099998,-1.937
-238098089,Rhynchospora_alba,37,140
 1697412541,Rhynchospora_alba,55.883333,36.166667
 1830201469,Rhynchospora_alba,36.433333,137.033333
 21355225,Rhynchospora_alba,59.5548,5.3821
 204434982,Rhynchospora_alba,43.105,-1.556
 1702024493,Rhynchospora_alba,60.8769,11.5886
-1820374502,Rhynchospora_alba,45.583333,-60.7
 2265965335,Rhynchospora_alba,47.578611,-93.621111
 1342871097,Rhynchospora_alba,55.89353,9.374473
 1146247381,Rhynchospora_alba,58.9123,-137.980033
@@ -374,14 +362,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936203332,Rhynchospora_alba,41.1984,-3.1802
 1702191425,Rhynchospora_alba,59.6306,11.2122
 1701629503,Rhynchospora_alba,59.691,10.0925
-1050625689,Rhynchospora_alba,42.7,-2.5
 1702191752,Rhynchospora_alba,60.9311,10.7334
 2265436824,Rhynchospora_alba,47.436496,-91.225047
 465863142,Rhynchospora_alba,44.383056,-65.181667
 1342871080,Rhynchospora_alba,55.85759,9.374127
 1899282740,Rhynchospora_alba,44.65,-78.166667
 1702216541,Rhynchospora_alba,59.9834,9.818
-1697412575,Rhynchospora_alba,56.333333,35.5
 1702025014,Rhynchospora_alba,60.2406,11.6941
 1702166096,Rhynchospora_alba,60.1215,11.6285
 1702166035,Rhynchospora_alba,60.0435,11.3071
@@ -405,7 +391,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702021601,Rhynchospora_alba,59.6824,10.0389
 2265479007,Rhynchospora_alba,46.106434,-93.755805
 1702021671,Rhynchospora_alba,59.7001,10.075
-1262029095,Rhynchospora_alba,49.95,-74.8
 1701800544,Rhynchospora_alba,59.6722,10.1806
 2265399619,Rhynchospora_alba,47.510477,-91.666435
 1701800429,Rhynchospora_alba,59.6463,10.0555
@@ -423,14 +408,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702021813,Rhynchospora_alba,59.673,10.0919
 204434977,Rhynchospora_alba,43.139999,-1.469
 1936551747,Rhynchospora_alba,43.2385,-3.9989
-895168641,Rhynchospora_alba,60.48,23.7
 1598878320,Rhynchospora_alba,60.487316,23.699167
 2265479882,Rhynchospora_alba,47.465115,-91.139684
 1702219679,Rhynchospora_alba,60.5282,11.501
 1042875674,Rhynchospora_alba,62.894722,26.973333
 1702021923,Rhynchospora_alba,59.6728,10.1096
 1989086361,Rhynchospora_alba,43.73117,-85.37922
-1829455153,Rhynchospora_alba,39.68,140.7
 465863020,Rhynchospora_alba,44.313738,-65.235023
 1702024145,Rhynchospora_alba,60.0332,10.7131
 1702165667,Rhynchospora_alba,59.9517,9.5219
@@ -454,16 +437,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895168660,Rhynchospora_alba,43.516,-1.286
 1050629012,Rhynchospora_alba,43.51,-1.28
 2265389912,Rhynchospora_alba,46.817285,-93.221722
-1000570,Rhynchospora_alba,41.033333,21.9
 1703301649,Rhynchospora_alba,49.9833329990713,-96.136111
 2265432708,Rhynchospora_alba,46.238733,-94.454743
 204434971,Rhynchospora_alba,43.515999,-1.286
 1701836789,Rhynchospora_alba,60.8875,9.4634
 620530205,Rhynchospora_alba,43.822757,-65.374086
-1988197161,Rhynchospora_alba,49.1,-124.1
 2270253955,Rhynchospora_alba,40.011944,-120.993333
 729311067,Rhynchospora_alba,34.700001,134.967
-391298053,Rhynchospora_alba,40.683333,140.9
 177018298,Rhynchospora_alba,44.650716,-90.795842
 1099078598,Rhynchospora_alba,47.880001,12.326389
 415903437,Rhynchospora_alba,41.53944,-72.39694
@@ -493,7 +473,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804587236,Rhynchospora_alba,48.6124999990645,-53.919722
 441824278,Rhynchospora_alba,47.661944,-121.621389
 1701997142,Rhynchospora_alba,59.7086,10.1286
-1949616673,Rhynchospora_alba,49,-114.483333
 1701831721,Rhynchospora_alba,60.1899,11.2299
 1332800756,Rhynchospora_alba,50.946997,8.809492
 1701782325,Rhynchospora_alba,58.1965,6.7995
@@ -528,7 +507,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265387222,Rhynchospora_alba,47.013827,-94.039913
 1705351846,Rhynchospora_alba,57.095276,16.300136
 1702005692,Rhynchospora_alba,59.7081,10.1819
-1978048289,Rhynchospora_alba,46,-61
 1988157047,Rhynchospora_alba,49.11,-122.96
 415981461,Rhynchospora_alba,41.44638,-72.99611
 1701984786,Rhynchospora_alba,62.4851,6.5192
@@ -538,8 +516,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291961667,Rhynchospora_alba,51.516667,6.173333
 1988626719,Rhynchospora_alba,49.111111,-122.955556
 186830920,Rhynchospora_alba,58.2718,8.007
-1988143007,Rhynchospora_alba,49.2,-122.98
-729275283,Rhynchospora_alba,34.900002,135
 1702010893,Rhynchospora_alba,59.4345,11.6349
 1701983634,Rhynchospora_alba,60.0451,12.1352
 1936449384,Rhynchospora_alba,43.1339,-3.4562
@@ -561,7 +537,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702023166,Rhynchospora_alba,60.4457,10.244
 1829628902,Rhynchospora_alba,36.960833,139.184167
 1851359287,Rhynchospora_alba,42.549,-5.795
-729282638,Rhynchospora_alba,34.950001,135.2
 1702436517,Rhynchospora_alba,59.8041,10.3278
 1829618492,Rhynchospora_alba,36.915833,139.196111
 57719196,Rhynchospora_alba,63.3088,25.8097
@@ -578,11 +553,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042873640,Rhynchospora_alba,55.7435,13.88094
 1262026898,Rhynchospora_alba,48.316667,-73.933333
 1702230715,Rhynchospora_alba,60.7623,10.6159
-1262026882,Rhynchospora_alba,48.4,-74.033333
 1262026891,Rhynchospora_alba,47.866667,-73.333333
-1455173396,Rhynchospora_alba,51.4,-77.4
 1703291672,Rhynchospora_alba,50.7839090108997,-95.3171737842841
-1146207715,Rhynchospora_alba,55.5,-131.06
 1146208309,Rhynchospora_alba,55.39,-130.99
 1702430602,Rhynchospora_alba,58.5081,8.5967
 1262026807,Rhynchospora_alba,48.183333,-73.583333
@@ -590,7 +562,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988658491,Rhynchospora_alba,45.683333,-79.633333
 1146402094,Rhynchospora_alba,55.24,-131.15
 1144178910,Rhynchospora_alba,60.21298,5.44478
-1262026892,Rhynchospora_alba,47.8,-73.5
 1262026798,Rhynchospora_alba,47.966667,-73.916667
 2265387730,Rhynchospora_alba,46.062886,-92.45679
 1702230844,Rhynchospora_alba,59.6858,11.7807
@@ -604,7 +575,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701642055,Rhynchospora_alba,60.7341,10.6778
 1989204338,Rhynchospora_alba,45.35,-80.183333
 1949630407,Rhynchospora_alba,48.866667,-124.266667
-51940446,Rhynchospora_alba,42.9,-122.6
 2265388530,Rhynchospora_alba,46.309418,-92.541551
 1702426134,Rhynchospora_alba,59.928,11.9621
 2265450109,Rhynchospora_alba,47.873611,-90.699167
@@ -663,7 +633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318211932,Rhynchospora_alba,39.0703,-76.5456
 1702364516,Rhynchospora_alba,59.9315,10.154
 1702364523,Rhynchospora_alba,59.9312,10.1897
-729272970,Rhynchospora_alba,34.766701,135.3
 1701906747,Rhynchospora_alba,59.8871,10.0988
 1701907085,Rhynchospora_alba,59.9047,10.1352
 1598878323,Rhynchospora_alba,60.887838,24.7359
@@ -700,7 +669,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415981465,Rhynchospora_alba,41.33111,-73.43722
 1598878325,Rhynchospora_alba,61.004854,24.403934
 1697186464,Rhynchospora_alba,60.19023,72.8182
-1248712796,Rhynchospora_alba,51.8,-77.788889
 1702206228,Rhynchospora_alba,60.2126,11.3189
 1248712688,Rhynchospora_alba,51.983333,-75.233333
 1702276555,Rhynchospora_alba,59.4936,5.4452
@@ -709,7 +677,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248712665,Rhynchospora_alba,51.095833,-79.202778
 2265389313,Rhynchospora_alba,47.915833,-90.905556
 1262023951,Rhynchospora_alba,51.233333,-77.116667
-1262023941,Rhynchospora_alba,50.2,-76.8
 1702206597,Rhynchospora_alba,60.221,11.4279
 1262023927,Rhynchospora_alba,50.15,-77.483333
 1248712735,Rhynchospora_alba,51.763889,-78.833333
@@ -732,7 +699,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949626890,Rhynchospora_alba,48.793333,-125.178333
 1598881621,Rhynchospora_alba,62.339853,28.1837
 1988081878,Rhynchospora_alba,48.79,-125.18
-1262025593,Rhynchospora_alba,52.116667,-75.7
 204434811,Rhynchospora_alba,43.118,-1.924
 1262021782,Rhynchospora_alba,50.266667,-63.483333
 465888342,Rhynchospora_alba,43.640355,-65.399656
@@ -745,18 +711,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415981463,Rhynchospora_alba,41.92277,-73.43305
 2265387586,Rhynchospora_alba,48.266741,-94.55417
 1999485940,Rhynchospora_alba,60.791692,21.603573
-465888284,Rhynchospora_alba,44.283333,-65.2
 1262025623,Rhynchospora_alba,52.083333,-75.566667
 415981467,Rhynchospora_alba,42.0225,-72.31527
 1936436149,Rhynchospora_alba,42.6926,-2.5252
 1262023953,Rhynchospora_alba,49.333333,-75.15
 1598878316,Rhynchospora_alba,60.917133,24.326236
-51940406,Rhynchospora_alba,44.5,-122.1
 1050609013,Rhynchospora_alba,42.69,-2.51
 1598878317,Rhynchospora_alba,60.957391,24.505678
 1598878318,Rhynchospora_alba,60.859697,24.283172
 1262023991,Rhynchospora_alba,50.883333,-72.716667
-1262025604,Rhynchospora_alba,51.7,-76.016667
 1598878319,Rhynchospora_alba,60.93363,24.556436
 1829841997,Rhynchospora_alba,34.664602,137.341109
 1598878296,Rhynchospora_alba,63.366141,22.061592
@@ -775,10 +738,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701803556,Rhynchospora_alba,59.0803,10.8756
 1829418861,Rhynchospora_alba,43.725211,142.816814
 21354444,Rhynchospora_alba,61.3556,11.1786
-1830206646,Rhynchospora_alba,36.4,136.866667
 1144125234,Rhynchospora_alba,59.5847,6.2843
 1829629824,Rhynchospora_alba,36.786111,139.062778
-51940509,Rhynchospora_alba,43.9,-124.1
 1702435437,Rhynchospora_alba,59.6639,11.8136
 2265386828,Rhynchospora_alba,46.128613,-93.093056
 1988826488,Rhynchospora_alba,45.342653,-83.592355
@@ -792,11 +753,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701843742,Rhynchospora_alba,61.0747,11.3261
 1697412421,Rhynchospora_alba,56.314252,21.156921
 1675921202,Rhynchospora_alba,46.7792,-71.0569
-1804508309,Rhynchospora_alba,45.3,-75.616667
 186831911,Rhynchospora_alba,58.3179,7.7309
-1099078670,Rhynchospora_alba,61.583332,28.7
 1598878311,Rhynchospora_alba,60.94694,24.404041
-1830180232,Rhynchospora_alba,36.483333,137.4
 729298957,Rhynchospora_alba,34.783298,135.183
 1598878304,Rhynchospora_alba,60.990019,24.807184
 1933839105,Rhynchospora_alba,35.43269,137.28859
@@ -821,7 +779,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598878288,Rhynchospora_alba,60.967975,24.447584
 1899287665,Rhynchospora_alba,44.496667,-79.993333
 1702264789,Rhynchospora_alba,60.7488,10.2933
-1899287587,Rhynchospora_alba,45.341667,-76.5
 57719201,Rhynchospora_alba,63.2686,25.3731
 1144760843,Rhynchospora_alba,46.53932,6.07054
 668761977,Rhynchospora_alba,48.880556,-68.794722
@@ -832,7 +789,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936391073,Rhynchospora_alba,43.3651,-4.7168
 1705316943,Rhynchospora_alba,57.750598,16.342628
 1262029796,Rhynchospora_alba,53.700333,-78.533667
-1988171892,Rhynchospora_alba,50.5,-128.2
 1949624354,Rhynchospora_alba,54.283333,-130.266667
 1598878285,Rhynchospora_alba,60.762756,24.827312
 1701917397,Rhynchospora_alba,59.0513,11.0659
@@ -861,9 +817,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598878294,Rhynchospora_alba,60.647067,24.227032
 900226320,Rhynchospora_alba,58.9452,5.5903
 1949612436,Rhynchospora_alba,50.083333,-119.666667
-1804603014,Rhynchospora_alba,45.6,-75.666667
 1988143178,Rhynchospora_alba,49.25,-123.12
-1936375812,Rhynchospora_alba,53.6,-9.35
 1999485997,Rhynchospora_alba,65.424995,28.321101
 1598878287,Rhynchospora_alba,63.541486,29.07698
 2317574821,Rhynchospora_alba,61.073598,10.529926
@@ -876,7 +830,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598881614,Rhynchospora_alba,62.372143,23.140572
 1988961781,Rhynchospora_alba,43.7344,-84.477377
 204434742,Rhynchospora_alba,43.029999,-3.92
-1899374816,Rhynchospora_alba,44.116667,-79.5
 1989410279,Rhynchospora_alba,44.822652,-83.31372
 1598878289,Rhynchospora_alba,60.749896,23.997957
 1829630059,Rhynchospora_alba,36.831667,139.169722
@@ -907,8 +860,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936401513,Rhynchospora_alba,42.6836,-2.5131
 187236861,Rhynchospora_alba,64.0648,10.6907
 57719209,Rhynchospora_alba,61.740799,26.116699
-1050609032,Rhynchospora_alba,42.69,-2.5
-1988184897,Rhynchospora_alba,48.5,-124.1
 1851318913,Rhynchospora_alba,42.69,-2.506
 1989048562,Rhynchospora_alba,46.39875,-86.24744
 204434796,Rhynchospora_alba,42.689999,-2.506
@@ -926,14 +877,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900225601,Rhynchospora_alba,58.7204,5.7973
 1598878284,Rhynchospora_alba,61.899889,25.788801
 415981472,Rhynchospora_alba,42.02,-71.81805
-1804421003,Rhynchospora_alba,53.216667,-106.4
 1424212874,Rhynchospora_alba,0.865833,-63.356111
 211636164,Rhynchospora_alba,43.34,-4.73
 1262011633,Rhynchospora_alba,45.66,-76.066
 2265388541,Rhynchospora_alba,48.157985,-94.242044
-1146340529,Rhynchospora_alba,61.21,-149.9
 606661127,Rhynchospora_alba,41.46388,-72.15555
-1262011586,Rhynchospora_alba,48.9,-79
 2265388561,Rhynchospora_alba,48.076585,-93.496516
 2265388311,Rhynchospora_alba,48.985399,-95.80143
 2265387838,Rhynchospora_alba,47.796844,-95.311915
@@ -945,7 +893,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265387782,Rhynchospora_alba,48.022554,-93.47838
 2265388858,Rhynchospora_alba,48.663272,-95.418898
 2265388368,Rhynchospora_alba,48.051032,-93.52254
-919051555,Rhynchospora_alba,65,27
 1999485946,Rhynchospora_alba,60.705112,22.975642
 1830518682,Rhynchospora_alba,44.463056,142.338333
 1804521341,Rhynchospora_alba,45.733333,-60.25
@@ -957,7 +904,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701482516,Rhynchospora_alba,61.2242,11.5048
 204434944,Rhynchospora_alba,43.119999,-1.96
 895167290,Rhynchospora_alba,43.12,-1.96
-1899380930,Rhynchospora_alba,44.9,-78.066667
 1828725774,Rhynchospora_alba,34.89811,137.49928
 1828726066,Rhynchospora_alba,35.74907,136.96434
 1598878281,Rhynchospora_alba,60.248968,24.531779
@@ -967,7 +913,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598878278,Rhynchospora_alba,62.1948,21.373469
 1949617118,Rhynchospora_alba,48.783333,-125.166667
 883406302,Rhynchospora_alba,54.45,-130.433333
-1988108107,Rhynchospora_alba,52.2,-131.4
 1705316298,Rhynchospora_alba,57.693035,16.365252
 1990857568,Rhynchospora_alba,64.02697,20.44231
 2265387571,Rhynchospora_alba,48.013141,-94.343678
@@ -997,7 +942,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702378961,Rhynchospora_alba,61.3553,11.1972
 1804575158,Rhynchospora_alba,49.833333,-91.116667
 204434798,Rhynchospora_alba,43.096001,-2.638
-1262010792,Rhynchospora_alba,47.6,-77.18
 991879257,Rhynchospora_alba,54.0484,11.9152
 1936092017,Rhynchospora_alba,43.0893,-2.645
 204434734,Rhynchospora_alba,42.460999,-1.887
@@ -1016,14 +960,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701912195,Rhynchospora_alba,60.4804,11.4108
 1899359487,Rhynchospora_alba,45.383333,-78.733333
 1999573401,Rhynchospora_alba,60.273466,23.60772
-1804588780,Rhynchospora_alba,52.9,-99.316667
 1829454376,Rhynchospora_alba,39.23,140.13
 1701582026,Rhynchospora_alba,60.3641,11.3841
 1702378720,Rhynchospora_alba,60.3528,11.5101
 1702378696,Rhynchospora_alba,60.3698,11.7835
 1144147234,Rhynchospora_alba,61.6184,5.6143
 2268219971,Rhynchospora_alba,56.72952,38.319282
-1804421853,Rhynchospora_alba,47.4,-83.483333
 1701912236,Rhynchospora_alba,60.1041,12.1849
 1702378790,Rhynchospora_alba,60.5146,11.5044
 1899359428,Rhynchospora_alba,45.333333,-78.833333
@@ -1055,7 +997,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204434738,Rhynchospora_alba,43.314999,-1.761
 1146343285,Rhynchospora_alba,57.28,-133.25
 1701885940,Rhynchospora_alba,59.3781,8.1024
-774389318,Rhynchospora_alba,53.633335,10.5
 1144147099,Rhynchospora_alba,59.19818,5.48955
 1705327238,Rhynchospora_alba,57.698978,15.174631
 1323849796,Rhynchospora_alba,65.2412,12.164
@@ -1072,7 +1013,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804579852,Rhynchospora_alba,45.4908329990569,-74.835
 1705340135,Rhynchospora_alba,57.535181,16.007223
 1144147119,Rhynchospora_alba,59.2793,5.5159
-1899372323,Rhynchospora_alba,44.2,-79.508333
 187236393,Rhynchospora_alba,63.3598,10.2893
 2265388342,Rhynchospora_alba,46.629293,-92.989598
 1899352367,Rhynchospora_alba,46.444444,-78.927778
@@ -1085,7 +1025,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204434801,Rhynchospora_alba,43.130001,-3.43
 1144113172,Rhynchospora_alba,60.8351,5.863
 1899352356,Rhynchospora_alba,48.866667,-88.291667
-668761982,Rhynchospora_alba,50.3,-63.516667
 699261739,Rhynchospora_alba,41.66694,-72.66638
 1989011914,Rhynchospora_alba,45.14164,-84.812417
 1042872551,Rhynchospora_alba,66.776111,23.966111
@@ -1093,13 +1032,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265388525,Rhynchospora_alba,48.985821,-95.912445
 1323849728,Rhynchospora_alba,65.3874,12.299
 2265389026,Rhynchospora_alba,46.934554,-92.690305
-415981517,Rhynchospora_alba,48.5,-58.43333
 1830182696,Rhynchospora_alba,36.483333,137.383333
 1701291677,Rhynchospora_alba,64.1986,11.2036
 1701962359,Rhynchospora_alba,64.4016,11.0226
 187236411,Rhynchospora_alba,64.6819,11.4838
-1949609699,Rhynchospora_alba,49.233333,-124.8
-1899352199,Rhynchospora_alba,54.375,-84.5
 1701308098,Rhynchospora_alba,64.6311,11.2908
 1598881616,Rhynchospora_alba,61.680892,24.068679
 1701307675,Rhynchospora_alba,64.6875,12.3269
@@ -1108,7 +1044,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701333229,Rhynchospora_alba,64.5161,11.1769
 1598881622,Rhynchospora_alba,61.787523,25.00665
 2265389161,Rhynchospora_alba,46.920171,-92.690321
-1829455055,Rhynchospora_alba,40.3,140.76
 1701337345,Rhynchospora_alba,64.385,11.5191
 187236412,Rhynchospora_alba,64.578,11.2445
 1598878268,Rhynchospora_alba,60.808056,27.79603
@@ -1122,13 +1057,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899351932,Rhynchospora_alba,51.083333,-85.333333
 1899352163,Rhynchospora_alba,51.583333,-82.416667
 1989198488,Rhynchospora_alba,45.24128,-85.129137
-1804391439,Rhynchospora_alba,50.1,-80.3
 1804544170,Rhynchospora_alba,50.583333,-80.083333
-1455173413,Rhynchospora_alba,50.2,-66.583333
 1701648031,Rhynchospora_alba,58.84309,6.82981
 1702395826,Rhynchospora_alba,59.1707,10.8019
-1899351733,Rhynchospora_alba,50.3,-82.116667
-668761971,Rhynchospora_alba,51.2,-60.866667
 1702036091,Rhynchospora_alba,59.1877,10.8071
 187236587,Rhynchospora_alba,60.4866,11.9938
 1804381015,Rhynchospora_alba,50.983333,-80.416667
@@ -1149,7 +1080,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804597192,Rhynchospora_alba,46.133333,-80.15
 1899380765,Rhynchospora_alba,45.05,-80.016667
 2265387225,Rhynchospora_alba,47.004984,-92.565638
-1804527346,Rhynchospora_alba,58.966667,-108.5
 1598881624,Rhynchospora_alba,60.959854,23.950592
 1804455537,Rhynchospora_alba,44.691667,-75.733333
 2265387322,Rhynchospora_alba,47.362785,-93.587218
@@ -1165,14 +1095,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989442795,Rhynchospora_alba,48.616667,-90.45
 2265387738,Rhynchospora_alba,48.332043,-94.742064
 2265387753,Rhynchospora_alba,48.259416,-94.871126
-1899351415,Rhynchospora_alba,54.183333,-85.4
-1899351537,Rhynchospora_alba,54.8,-85.383333
-1829603654,Rhynchospora_alba,36.9,139.2
 1701312385,Rhynchospora_alba,59.2374,6.4145
 1697186460,Rhynchospora_alba,60.73311,89.35593
 2265387563,Rhynchospora_alba,47.088469,-94.502629
 1701973392,Rhynchospora_alba,58.8797,8.4181
-1899351447,Rhynchospora_alba,52.783333,-84.3
 1701973430,Rhynchospora_alba,58.4353,7.0655
 187236402,Rhynchospora_alba,63.4035,10.9149
 1697186449,Rhynchospora_alba,60.73054,89.384
@@ -1189,7 +1115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701865983,Rhynchospora_alba,59.73,9.6135
 473488032,Rhynchospora_alba,48.183333,-79.233333
 1701973433,Rhynchospora_alba,58.571,7.1268
-1829610087,Rhynchospora_alba,36.9,139
 415952352,Rhynchospora_alba,41.5275,-73.12388
 1701330493,Rhynchospora_alba,63.4006,11.2952
 1701995113,Rhynchospora_alba,60.0468,11.0199
@@ -1219,8 +1144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697186494,Rhynchospora_alba,60.04151,90.52592
 1804529036,Rhynchospora_alba,45.066667,-80.033333
 465888291,Rhynchospora_alba,47.018161,-66.698044
-465888274,Rhynchospora_alba,49.833333,-56.3
-1829609772,Rhynchospora_alba,36.8,139.2
 318119715,Rhynchospora_alba,40.57,-6.22
 186831622,Rhynchospora_alba,58.6006,7.6665
 620530187,Rhynchospora_alba,46.7025,-64.790278
@@ -1237,7 +1160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697412469,Rhynchospora_alba,55.195411,41.416298
 1598878245,Rhynchospora_alba,64.480125,25.384757
 1989013794,Rhynchospora_alba,48.583333,-89.866667
-1804429723,Rhynchospora_alba,45.5,-77.833333
 1702034319,Rhynchospora_alba,59.1543,5.8434
 415981462,Rhynchospora_alba,41.57055,-71.87027
 1144147109,Rhynchospora_alba,59.19546,5.85371
@@ -1248,7 +1170,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697412459,Rhynchospora_alba,55.337612,41.564422
 1828722527,Rhynchospora_alba,40.82296,140.74733
 415952351,Rhynchospora_alba,41.41666,-71.54944
-1899350343,Rhynchospora_alba,50.5,-81.833333
 1598881612,Rhynchospora_alba,61.59517,24.265264
 186831623,Rhynchospora_alba,58.5616,8.493
 1988600330,Rhynchospora_alba,46.22401,-86.667379
@@ -1257,7 +1178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042875144,Rhynchospora_alba,56.28718,12.94232
 1988184873,Rhynchospora_alba,49.12,-123.19
 1144147060,Rhynchospora_alba,59.2529,10.9535
-1804447398,Rhynchospora_alba,48.6,-83.35
 668761973,Rhynchospora_alba,48.901389,-68.758611
 1262000020,Rhynchospora_alba,48.87767,-68.793258
 1701995106,Rhynchospora_alba,59.6093,11.4723
@@ -1272,7 +1192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248712732,Rhynchospora_alba,49.166667,-76.483333
 2265386714,Rhynchospora_alba,47.65706,-91.81832
 1248712628,Rhynchospora_alba,49.587778,-78.065278
-1248712640,Rhynchospora_alba,50.066667,-78.6
 1248712828,Rhynchospora_alba,49.483333,-79.266667
 1701973407,Rhynchospora_alba,58.1957,7.5966
 1829454149,Rhynchospora_alba,39.15,140.46
@@ -1287,20 +1206,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606653849,Rhynchospora_alba,41.99027,-73.17472
 1899369883,Rhynchospora_alba,46.016667,-81.383333
 1702314420,Rhynchospora_alba,59.4077,9.3435
-1261998106,Rhynchospora_alba,48.7,-71.666667
 668761975,Rhynchospora_alba,52.366667,-64.016667
 1598881605,Rhynchospora_alba,60.870237,23.95915
 2234669463,Rhynchospora_alba,37.768197,-75.68693
-1899328705,Rhynchospora_alba,44.64,-81
 1701995008,Rhynchospora_alba,59.8003,10.6663
 1701995129,Rhynchospora_alba,59.7782,10.968
 1598881670,Rhynchospora_alba,62.03511,23.843402
-1829610057,Rhynchospora_alba,36.7,138.9
 1701436033,Rhynchospora_alba,60.143,9.081
 1830182487,Rhynchospora_alba,36.566667,137.533333
-1988242857,Rhynchospora_alba,50.2,-127.8
 1598881669,Rhynchospora_alba,62.030614,23.652659
-1804456670,Rhynchospora_alba,59.016667,-109
 1701790033,Rhynchospora_alba,59.3511,10.6794
 1701293329,Rhynchospora_alba,63.1666,9.6651
 1702314387,Rhynchospora_alba,59.4707,9.2735
@@ -1329,7 +1243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248712676,Rhynchospora_alba,51.55,-73.05
 1702314425,Rhynchospora_alba,59.1703,7.9417
 1701885975,Rhynchospora_alba,59.3695,8.1642
-2306890820,Rhynchospora_alba,45.5,-78.03
 1144147268,Rhynchospora_alba,63.7318,9.7189
 1261997434,Rhynchospora_alba,45.559722,-74.886389
 1248712673,Rhynchospora_alba,51.85,-73.216667
@@ -1346,19 +1259,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899380675,Rhynchospora_alba,47.833333,-83.816667
 1829454153,Rhynchospora_alba,39.15,140.49
 388860624,Rhynchospora_alba,45.193904,142.238884
-1988092045,Rhynchospora_alba,49.2,-122.7
 1701866084,Rhynchospora_alba,59.1644,9.5859
 1701238849,Rhynchospora_alba,63.0152,8.6543
 1598878247,Rhynchospora_alba,61.272812,24.545032
 1248712703,Rhynchospora_alba,53.783333,-75.75
 1598881604,Rhynchospora_alba,62.010001,22.89038
-1988113540,Rhynchospora_alba,49.1,-125.4
 668761972,Rhynchospora_alba,48.888056,-68.792222
 1989155213,Rhynchospora_alba,44.403494,-85.469453
 1598881665,Rhynchospora_alba,60.834985,22.674038
 1701305116,Rhynchospora_alba,64.8274,11.3707
 1701354451,Rhynchospora_alba,58.5095,6.8975
-1261995900,Rhynchospora_alba,46.3,-74.05
 1598878250,Rhynchospora_alba,62.755893,22.224928
 1701995080,Rhynchospora_alba,59.0242,11.0207
 1989410644,Rhynchospora_alba,46.647045,-86.195582
@@ -1407,7 +1317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829836521,Rhynchospora_alba,34.810485,137.667213
 729275110,Rhynchospora_alba,34.9333,134.983
 1701233823,Rhynchospora_alba,63.3773,11.0903
-473581130,Rhynchospora_alba,49.7,-57.933333
 1702634951,Rhynchospora_alba,59.1907,10.7921
 1697412411,Rhynchospora_alba,55.785233,40.432258
 1598881587,Rhynchospora_alba,62.105067,23.069273
@@ -1416,12 +1325,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187236408,Rhynchospora_alba,63.5917,11.6907
 473581133,Rhynchospora_alba,49.633333,-57.933333
 1598878252,Rhynchospora_alba,62.183139,22.674559
-1899307562,Rhynchospora_alba,45.566667,-80.5
 1701958806,Rhynchospora_alba,63.1757,9.6455
 1702264800,Rhynchospora_alba,59.0123,8.5734
-883406672,Rhynchospora_alba,60.9,-116.883333
 1606512415,Rhynchospora_alba,62.262652,27.641617
-1248712620,Rhynchospora_alba,49,-78.35
 1697412501,Rhynchospora_alba,55.237056,41.393612
 1830232435,Rhynchospora_alba,36.383333,137.083333
 1598881589,Rhynchospora_alba,60.924472,22.661887
@@ -1459,7 +1365,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701252386,Rhynchospora_alba,58.6466,6.5273
 1701574400,Rhynchospora_alba,58.4519,6.4467
 187236685,Rhynchospora_alba,58.6785,5.9212
-1988237253,Rhynchospora_alba,49.1,-125.8
 1701573258,Rhynchospora_alba,58.5083,7.4469
 1701337110,Rhynchospora_alba,58.9479,6.3145
 1144147271,Rhynchospora_alba,62.5417,6.8713
@@ -1530,7 +1435,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701252591,Rhynchospora_alba,64.4587,12.0163
 1701342745,Rhynchospora_alba,64.5025,11.1863
 1598881599,Rhynchospora_alba,61.613185,28.598959
-1899310263,Rhynchospora_alba,48.4,-89.283333
 1323849983,Rhynchospora_alba,64.48726,10.54099
 1701314031,Rhynchospora_alba,64.6308,11.3117
 187236427,Rhynchospora_alba,58.9845,11.6535
@@ -1560,7 +1464,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701335377,Rhynchospora_alba,63.0153,8.7136
 187236477,Rhynchospora_alba,62.9165,8.6752
 1598881580,Rhynchospora_alba,60.725094,27.088634
-1455173412,Rhynchospora_alba,46.5,-84.5
 1988178226,Rhynchospora_alba,49.17,-65.92
 1701226915,Rhynchospora_alba,64.6423,12.3105
 1702020507,Rhynchospora_alba,61.8157,11.1353
@@ -1570,7 +1473,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187236544,Rhynchospora_alba,63.9263,11.5595
 1699427519,Rhynchospora_alba,63.6223,11.3102
 1042867285,Rhynchospora_alba,60.570833,22.101389
-1899314920,Rhynchospora_alba,50.4,-85.333333
 1701336308,Rhynchospora_alba,63.1674,9.4865
 1701238063,Rhynchospora_alba,63.0515,8.8715
 1701566516,Rhynchospora_alba,64.1081,11.4324
@@ -1644,7 +1546,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598878243,Rhynchospora_alba,61.467282,22.77433
 1248712683,Rhynchospora_alba,48.841944,-78.496111
 1598878236,Rhynchospora_alba,61.142462,26.987562
-1989186856,Rhynchospora_alba,49,-88.166667
 186831055,Rhynchospora_alba,58.4357,7.838
 2265388242,Rhynchospora_alba,47.31072,-95.509785
 187236859,Rhynchospora_alba,63.9798,10.1492
@@ -1653,7 +1554,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598881573,Rhynchospora_alba,60.724351,27.455098
 1042875306,Rhynchospora_alba,60.203611,23.125278
 1042869763,Rhynchospora_alba,65.128056,25.775556
-1936000825,Rhynchospora_alba,60.4667,22.7
 1042869359,Rhynchospora_alba,56.82939,12.6175
 1701829893,Rhynchospora_alba,59.8434,10.9006
 1701336391,Rhynchospora_alba,63.1006,7.8411
@@ -1698,7 +1598,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701566517,Rhynchospora_alba,64.4896,11.7788
 187236525,Rhynchospora_alba,64.2395,11.4544
 187236517,Rhynchospora_alba,63.3503,10.3488
-1146318283,Rhynchospora_alba,58.3,-134.4
 1702264793,Rhynchospora_alba,60.13253,9.49842
 1829834107,Rhynchospora_alba,36.547776,137.854045
 1804411847,Rhynchospora_alba,44.5972219990568,-75.685556
@@ -1710,15 +1609,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829470280,Rhynchospora_alba,39.011,140.6312
 1697186510,Rhynchospora_alba,59.42826,78.73594
 1598881658,Rhynchospora_alba,62.29452,23.430432
-2234612914,Rhynchospora_alba,46.1,-77.5
-860329375,Rhynchospora_alba,41.17,-3.1
-1988177940,Rhynchospora_alba,49.17,-123.1
 1701278428,Rhynchospora_alba,63.4909,8.6687
 473498430,Rhynchospora_alba,45.99,-73.9979
 1701789952,Rhynchospora_alba,60.3353,11.3186
 883406660,Rhynchospora_alba,47.483333,-68.95
-1804527123,Rhynchospora_alba,51.433333,-79
-2308687493,Rhynchospora_alba,46.7,-71.88
 1988196676,Rhynchospora_alba,52.85,-132.18
 1697412445,Rhynchospora_alba,55.232186,26.074769
 1598881649,Rhynchospora_alba,60.903836,27.457652
@@ -1754,9 +1648,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144147141,Rhynchospora_alba,59.55753,5.7797
 1340029094,Rhynchospora_alba,56.2216,15.68999
 1042827072,Rhynchospora_alba,56.40734,12.91661
-2287818682,Rhynchospora_alba,46.2,14.616667
 1598878234,Rhynchospora_alba,61.610765,25.206528
-1988108932,Rhynchospora_alba,48.9,-125.5
 1701995212,Rhynchospora_alba,59.6371,11.5895
 1598881639,Rhynchospora_alba,60.615841,24.714014
 381837306,Rhynchospora_alba,37.20166,139.77882
@@ -1767,7 +1659,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701849378,Rhynchospora_alba,59.9723,10.5495
 473498426,Rhynchospora_alba,45.988435,-74.005809
 2234669450,Rhynchospora_alba,39.553143,-79.494767
-1804372831,Rhynchospora_alba,53.2,-70.9
 1598878233,Rhynchospora_alba,60.610945,27.736394
 1598881562,Rhynchospora_alba,63.317146,25.300745
 1701995017,Rhynchospora_alba,59.7029,10.6615
@@ -1793,11 +1684,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388860509,Rhynchospora_alba,43.099491,144.450482
 1598881557,Rhynchospora_alba,61.806372,22.157803
 1598881556,Rhynchospora_alba,64.312273,27.720002
-1899279934,Rhynchospora_alba,49.45,-91.8
 1702314361,Rhynchospora_alba,59.2028,8.072
 1701995120,Rhynchospora_alba,60.0242,10.8212
 1701995150,Rhynchospora_alba,60.024,10.8302
-1099078597,Rhynchospora_alba,47.916668,12.3
 1705333242,Rhynchospora_alba,56.423048,13.248757
 1999639671,Rhynchospora_alba,61.879919,28.802997
 1042872169,Rhynchospora_alba,57.38567,12.18723
@@ -1823,7 +1712,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465888256,Rhynchospora_alba,45.33549,-61.00746
 1701995164,Rhynchospora_alba,60.2978,11.0535
 1701789994,Rhynchospora_alba,60.3258,10.9828
-786260112,Rhynchospora_alba,50.7,7.1
 57719237,Rhynchospora_alba,61.3647,24.668699
 1701252288,Rhynchospora_alba,62.5459,6.5793
 1701789953,Rhynchospora_alba,59.6936,10.9186
@@ -1836,8 +1724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434671570,Rhynchospora_alba,56.24636,14.19197
 1042871669,Rhynchospora_alba,56.134164,13.965605
 239018432,Rhynchospora_alba,61.07,25.051701
-21355397,Rhynchospora_alba,60.7833,11.8
-1146343032,Rhynchospora_alba,56.77,-132.6
 1705285072,Rhynchospora_alba,57.319402,16.386125
 187236470,Rhynchospora_alba,62.6155,7.0025
 1828514648,Rhynchospora_alba,43.562295,144.433801
@@ -1860,7 +1746,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702264813,Rhynchospora_alba,58.9679,9.2521
 1455173370,Rhynchospora_alba,49.183333,-77.95
 1248712637,Rhynchospora_alba,49.183056,-77.955556
-1988068592,Rhynchospora_alba,49.22,-122.6
 1701790028,Rhynchospora_alba,60.4327,11.0438
 1042868426,Rhynchospora_alba,56.36581,13.90195
 1598878339,Rhynchospora_alba,60.908738,26.674365
@@ -1900,9 +1785,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57719215,Rhynchospora_alba,61.159698,25.0462
 1701455986,Rhynchospora_alba,59.69406,9.09258
 1829454121,Rhynchospora_alba,40.24,140.85
-1988190669,Rhynchospora_alba,49.3,-123.1
 1705350815,Rhynchospora_alba,56.777242,14.429998
-1829606104,Rhynchospora_alba,36.5,139.2
 1705298978,Rhynchospora_alba,56.410947,12.884103
 1144147252,Rhynchospora_alba,61.81088,6.85799
 1144147121,Rhynchospora_alba,58.66381,6.23753
@@ -1949,7 +1832,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701654487,Rhynchospora_alba,59.9325,9.501
 1701278471,Rhynchospora_alba,63.3107,8.4513
 187236454,Rhynchospora_alba,63.2038,8.6919
-1830154219,Rhynchospora_alba,36.4,137.133333
 1598881540,Rhynchospora_alba,63.323023,25.899164
 187236455,Rhynchospora_alba,63.3379,8.5107
 1598878227,Rhynchospora_alba,66.103068,28.212689
@@ -1973,7 +1855,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598881531,Rhynchospora_alba,64.668379,28.14823
 1598881553,Rhynchospora_alba,61.657452,23.126328
 1988691696,Rhynchospora_alba,44.65997,-85.51105
-1988180460,Rhynchospora_alba,54.52,-128.6
 1999573414,Rhynchospora_alba,60.702288,21.398352
 465888325,Rhynchospora_alba,45.685363,-60.886916
 1598881535,Rhynchospora_alba,60.784637,24.150974
@@ -2069,25 +1950,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187236433,Rhynchospora_alba,59.2097,10.8389
 620530196,Rhynchospora_alba,45.913887,-60.35521
 1887148553,Rhynchospora_alba,54.37638,-3.16381
-1228370148,Rhynchospora_alba,41.7,-86.6667
 1702378792,Rhynchospora_alba,60.249,12.4617
 1702264794,Rhynchospora_alba,59.5637,9.6459
 1248712601,Rhynchospora_alba,53.363889,-60.456667
 1701252478,Rhynchospora_alba,63.5294,11.1215
-786260046,Rhynchospora_alba,47.4,10.3
 1598878210,Rhynchospora_alba,61.517163,21.638099
 1701362982,Rhynchospora_alba,60.0157,10.6771
-465888252,Rhynchospora_alba,53.3,-60.516667
-1988204427,Rhynchospora_alba,53.3,-60.5
 1622359484,Rhynchospora_alba,63.721658,23.048854
 1598881529,Rhynchospora_alba,63.234765,27.89202
 441824279,Rhynchospora_alba,47.13348,-123.33929
 1701995036,Rhynchospora_alba,60.0196,10.8299
-1675975538,Rhynchospora_alba,53.3,-60.22
-1988094358,Rhynchospora_alba,49.1,-124.3
 1248712597,Rhynchospora_alba,53.281944,-60.417222
 1988853710,Rhynchospora_alba,47.42277,-87.870986
-2290425600,Rhynchospora_alba,53.3,-60.416667
 1042868397,Rhynchospora_alba,56.41782,14.22782
 1701973409,Rhynchospora_alba,58.8314,8.593
 1701995070,Rhynchospora_alba,60.0769,10.806
@@ -2095,7 +1969,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042868342,Rhynchospora_alba,56.39249,14.19371
 1701762795,Rhynchospora_alba,62.9059,8.2424
 1701237764,Rhynchospora_alba,63.6354,11.0387
-1146368151,Rhynchospora_alba,62.95,-155.6
 1598878212,Rhynchospora_alba,63.233379,28.090928
 465888322,Rhynchospora_alba,43.68807,-65.79474
 620530195,Rhynchospora_alba,45.64752,-61.27907
@@ -2120,7 +1993,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702165515,Rhynchospora_alba,58.4828,6.007
 187236481,Rhynchospora_alba,63.4804,9.7326
 1702304655,Rhynchospora_alba,59.6354,10.2769
-1891595169,Rhynchospora_alba,50.5,4.75
 239018431,Rhynchospora_alba,60.725101,27.088499
 1701789955,Rhynchospora_alba,59.7016,11.7991
 1701790018,Rhynchospora_alba,59.9203,11.6475
@@ -2190,7 +2062,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465888237,Rhynchospora_alba,44.56714,-64.30933
 1702314441,Rhynchospora_alba,60.2063,5.2624
 1702378951,Rhynchospora_alba,60.8153,11.7478
-1804553493,Rhynchospora_alba,56.033333,-104
 1144147171,Rhynchospora_alba,60.3092,5.2582
 1999605319,Rhynchospora_alba,60.169984,23.780665
 620530192,Rhynchospora_alba,44.80232,-65.05779
@@ -2259,7 +2130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702378854,Rhynchospora_alba,60.4955,11.9946
 1042867491,Rhynchospora_alba,58.48207,15.21234
 1042875688,Rhynchospora_alba,58.37994,12.46022
-51939694,Rhynchospora_alba,44,-124.1
 1042848505,Rhynchospora_alba,56.3562,13.621
 1144147101,Rhynchospora_alba,59.84212,10.21987
 1701995177,Rhynchospora_alba,59.354,11.5943
@@ -2285,7 +2155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598878200,Rhynchospora_alba,61.711962,26.713321
 1042870399,Rhynchospora_alba,56.35051,13.67748
 441824402,Rhynchospora_alba,47.23698,-124.21318
-1988119867,Rhynchospora_alba,48.8,-86.3
 1598881519,Rhynchospora_alba,61.232788,24.1105
 1598878199,Rhynchospora_alba,60.693675,27.134186
 1598881523,Rhynchospora_alba,61.610853,28.787329
@@ -2300,7 +2169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042871529,Rhynchospora_alba,59.08126,16.86937
 1899285315,Rhynchospora_alba,44.6307399990568,-81.28072
 1598878202,Rhynchospora_alba,65.37019,29.468953
-1988998322,Rhynchospora_alba,48,-85
 1042870638,Rhynchospora_alba,56.4022,14.34568
 1702314406,Rhynchospora_alba,59.6531,6.7909
 1701675271,Rhynchospora_alba,59.641,6.7915
@@ -2360,9 +2228,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702264746,Rhynchospora_alba,59.5561,10.5481
 57719235,Rhynchospora_alba,62.564301,25.8396
 1144147073,Rhynchospora_alba,59.0498,10.9306
-1899367100,Rhynchospora_alba,47,-84.75
 1701973434,Rhynchospora_alba,58.5163,7.7641
-1988203747,Rhynchospora_alba,47,-84.8
 1598881501,Rhynchospora_alba,62.719921,22.596129
 1929657629,Rhynchospora_alba,40.822666,-73.210682
 1989450989,Rhynchospora_alba,44.15636,-84.361455
@@ -2417,7 +2283,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701866080,Rhynchospora_alba,59.9681,9.5821
 1699837543,Rhynchospora_alba,59.0129,11.0809
 1702314511,Rhynchospora_alba,63.30586,9.07608
-1989113411,Rhynchospora_alba,46.1,-81.9
 1042872825,Rhynchospora_alba,55.95329,13.07376
 1042871407,Rhynchospora_alba,56.725004,13.137231
 1144147089,Rhynchospora_alba,59.97892,11.24854
@@ -2426,10 +2291,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701790010,Rhynchospora_alba,59.996,10.9093
 1701995094,Rhynchospora_alba,60.0482,11.2985
 1598881494,Rhynchospora_alba,61.269847,22.240801
-1988758686,Rhynchospora_alba,45.9,-83.316667
 1701995043,Rhynchospora_alba,60.0233,11.4314
 1930559591,Rhynchospora_alba,39.881784,-74.449595
-1989291700,Rhynchospora_alba,45.933333,-80.9
 1988643508,Rhynchospora_alba,45.933333,-80.916667
 1929029567,Rhynchospora_alba,39.817618,-74.534875
 1999485901,Rhynchospora_alba,62.958443,25.321597
@@ -2452,7 +2315,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187236415,Rhynchospora_alba,59.9521,11.0499
 1701866015,Rhynchospora_alba,60.5458,9.7811
 699271318,Rhynchospora_alba,42.99555,-71.45472
-1988699916,Rhynchospora_alba,48.1,-86.05
 1701455965,Rhynchospora_alba,59.7736,5.4785
 21353294,Rhynchospora_alba,60.0813,10.7937
 1598881493,Rhynchospora_alba,61.30932,23.543084
@@ -2471,7 +2333,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988935403,Rhynchospora_alba,48.162712,-88.451793
 1144147212,Rhynchospora_alba,59.8448,5.4833
 1042873752,Rhynchospora_alba,55.95367,13.06893
-415981515,Rhynchospora_alba,49.5,-57.93333
 1000653,Rhynchospora_alba,56.19895,15.22813
 415981496,Rhynchospora_alba,41.43805,-71.57638
 1697186484,Rhynchospora_alba,48.730056,133.149719
@@ -2494,7 +2355,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598878195,Rhynchospora_alba,61.874509,21.575548
 1705394336,Rhynchospora_alba,59.365416,14.79696
 1697412525,Rhynchospora_alba,56.999264,45.306687
-1697412534,Rhynchospora_alba,58.2,46.383333
 1042851197,Rhynchospora_alba,59.32146,14.91513
 1434679899,Rhynchospora_alba,56.95053,14.9132
 1598881484,Rhynchospora_alba,64.131732,27.920672
@@ -2665,7 +2525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038928957,Rhynchospora_alba,41.3404,-72.6283
 1701164128,Rhynchospora_alba,43.782514,10.629107
 57719226,Rhynchospora_alba,61.293953,22.984388
-786260092,Rhynchospora_alba,43,-81.2
 1702314453,Rhynchospora_alba,63.94532,10.87728
 1702314477,Rhynchospora_alba,63.58554,10.68569
 1705263337,Rhynchospora_alba,57.346099,16.436375
@@ -2815,7 +2674,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038977264,Rhynchospora_alba,41.993,-72.1603
 1426160909,Rhynchospora_alba,39.4857,-123.792
 1930313788,Rhynchospora_alba,42.836184,-74.853484
-786260090,Rhynchospora_alba,40.8,-81.9
 1705278365,Rhynchospora_alba,58.389095,13.846897
 1705319243,Rhynchospora_alba,56.740941,14.928928
 1999486063,Rhynchospora_alba,60.628698,24.000103
