@@ -10,7 +10,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844878801,Campanula_rapunculoides,41.33889,24.20389
 1935669711,Campanula_rapunculoides,47.11161,15.39801
 1844878953,Campanula_rapunculoides,41.263611,24.181669
-1949919036,Campanula_rapunculoides,54.983333,83
 1844879057,Campanula_rapunculoides,41.369171,24.028061
 1844878959,Campanula_rapunculoides,41.286671,23.914721
 2251611148,Campanula_rapunculoides,59.55753,5.7797
@@ -55,17 +54,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702183830,Campanula_rapunculoides,59.4197,10.9017
 1598643432,Campanula_rapunculoides,61.456098,26.649913
 1324016807,Campanula_rapunculoides,55.3909,11.3624
-899748083,Campanula_rapunculoides,51.4,10.9
 1701324765,Campanula_rapunculoides,63.4566,10.9527
 1701282556,Campanula_rapunculoides,64.1115,11.38
-991879404,Campanula_rapunculoides,51.9,13.7
 1989031156,Campanula_rapunculoides,42.923472,-86.216139
 1675998525,Campanula_rapunculoides,50.1278,8.677867
 1702379329,Campanula_rapunculoides,59.7349,10.2006
 1211529403,Campanula_rapunculoides,42.002499,1.007222
 1701773161,Campanula_rapunculoides,60.8831,10.9268
 911747458,Campanula_rapunculoides,48.778889,8.866667
-991879383,Campanula_rapunculoides,51.8,13.7
 1697351929,Campanula_rapunculoides,56.4854,32.9842
 1211529390,Campanula_rapunculoides,42.003613,0.007778
 1211529540,Campanula_rapunculoides,42.003613,1.01
@@ -89,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1801084295,Campanula_rapunculoides,42.600278,42.294722
 1801084188,Campanula_rapunculoides,42.633611,42.344722
 694846056,Campanula_rapunculoides,51.268181,14.095331
-899748040,Campanula_rapunculoides,49,9.8
 1701279236,Campanula_rapunculoides,63.7965,11.4961
 2305531161,Campanula_rapunculoides,43.54,-80.25
 1935667910,Campanula_rapunculoides,47.54581,14.05683
@@ -107,7 +102,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935667881,Campanula_rapunculoides,47.03558,15.3739
 1135438777,Campanula_rapunculoides,48.02444,16.24944
 2287440936,Campanula_rapunculoides,51.975,5.683333
-899748056,Campanula_rapunculoides,51.8,10.8
 574910878,Campanula_rapunculoides,41.573611,41.647778
 1230540661,Campanula_rapunculoides,38.49944,-84.58083
 1697678760,Campanula_rapunculoides,57.905556,34.7175
@@ -144,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230533427,Campanula_rapunculoides,48.72389,21.26694
 1849178975,Campanula_rapunculoides,32.930875,-79.829123
 1230532334,Campanula_rapunculoides,38.95306,46.16944
-860313271,Campanula_rapunculoides,41.78,2.7
 1230532265,Campanula_rapunculoides,38.98806,46.17972
 362409152,Campanula_rapunculoides,51.253883,10.049167
 1701242757,Campanula_rapunculoides,60.986,9.2338
@@ -170,7 +163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671649328,Campanula_rapunculoides,43.926895,7.60623
 1702268087,Campanula_rapunculoides,59.319,10.7938
 1705379975,Campanula_rapunculoides,57.258877,16.459741
-2310145807,Campanula_rapunculoides,43.3,-79.87
 2289679890,Campanula_rapunculoides,51.969722,5.663889
 1702267837,Campanula_rapunculoides,59.6073,10.92
 900306636,Campanula_rapunculoides,59.0938,7.5378
@@ -295,7 +287,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441986568,Campanula_rapunculoides,52.132675,11.643101
 8262548,Campanula_rapunculoides,47.8468,1.65314
 8262553,Campanula_rapunculoides,47.9325,1.75799
-1936607021,Campanula_rapunculoides,40.8,40.5167
 1701624233,Campanula_rapunculoides,59.6618,11.003
 20578903,Campanula_rapunculoides,60.8978,10.8008
 187105762,Campanula_rapunculoides,62.7368,8.5236
@@ -307,7 +298,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176900182,Campanula_rapunculoides,40.171111,-105.441111
 1935660739,Campanula_rapunculoides,47.155,15.40472
 152913585,Campanula_rapunculoides,46.399636,14.245283
-786103584,Campanula_rapunculoides,47.9,8.8
 1702202646,Campanula_rapunculoides,60.2011,12.0131
 1323844676,Campanula_rapunculoides,69.936,21.192
 1698019274,Campanula_rapunculoides,63.4139,10.432
@@ -348,7 +338,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258564177,Campanula_rapunculoides,42.73111,44.62611
 2265448745,Campanula_rapunculoides,44.535072,-92.339158
 187105399,Campanula_rapunculoides,63.8135,11.4274
-786103591,Campanula_rapunculoides,48,8.9
 1702219525,Campanula_rapunculoides,60.671,11.1423
 441983146,Campanula_rapunculoides,51.096249,13.7117
 187105412,Campanula_rapunculoides,63.4702,10.9767
@@ -357,7 +346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697839945,Campanula_rapunculoides,43.801394,39.679098
 1701511522,Campanula_rapunculoides,48.17833,16.21028
 1702161699,Campanula_rapunculoides,58.805,8.8797
-786103575,Campanula_rapunculoides,49.6,9.6
 187105390,Campanula_rapunculoides,60.8921,11.571
 1701801458,Campanula_rapunculoides,60.4325,10.4806
 1988747836,Campanula_rapunculoides,41.79791,-84.24351
@@ -389,7 +377,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831517287,Campanula_rapunculoides,40.38889,-5.0025
 441986871,Campanula_rapunculoides,51.054443,13.739166
 1701827790,Campanula_rapunculoides,59.568,11.2984
-2289073337,Campanula_rapunculoides,57.416667,61.5
 1702031334,Campanula_rapunculoides,60.8098,11.1415
 1702031309,Campanula_rapunculoides,60.8363,11.0834
 1148189130,Campanula_rapunculoides,59.32667,23.99972
@@ -428,7 +415,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265458003,Campanula_rapunculoides,44.579109,-92.662048
 2242381461,Campanula_rapunculoides,39.75,-105.53333
 1701983622,Campanula_rapunculoides,59.9513,12.2006
-2242420450,Campanula_rapunculoides,39.733333,-105
 1842877386,Campanula_rapunculoides,34.1187,-4.9702
 1989418372,Campanula_rapunculoides,48.23361,-88.35083
 1701239794,Campanula_rapunculoides,63.5505,10.9017
@@ -462,9 +448,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265492496,Campanula_rapunculoides,47.029635,-94.375317
 1999478316,Campanula_rapunculoides,60.436415,22.190478
 1500200055,Campanula_rapunculoides,50.05,13.683333
-1703294786,Campanula_rapunculoides,50.083333,-96.7
 187105719,Campanula_rapunculoides,63.4124,10.3788
-1899275984,Campanula_rapunculoides,43.85,-80
 1598643438,Campanula_rapunculoides,60.972599,24.502638
 1599340100,Campanula_rapunculoides,65.807985,24.548533
 30854761,Campanula_rapunculoides,37.84,-4.82
@@ -502,7 +486,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999478373,Campanula_rapunculoides,60.805093,21.490832
 1697840019,Campanula_rapunculoides,41.320321,47.801972
 1701227678,Campanula_rapunculoides,63.9445,10.1324
-441987968,Campanula_rapunculoides,50.25,19
 1598643425,Campanula_rapunculoides,60.965084,24.484758
 1598643458,Campanula_rapunculoides,64.583443,26.769949
 204422004,Campanula_rapunculoides,42.450001,-1.109
@@ -535,8 +518,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415933777,Campanula_rapunculoides,41.32777,-71.99111
 204422005,Campanula_rapunculoides,42.931999,-1.388
 1053983490,Campanula_rapunculoides,42.66,-1.15
-1053984822,Campanula_rapunculoides,42.64,-1.1
-1804547925,Campanula_rapunculoides,45.3,-75.55
 1697840025,Campanula_rapunculoides,42.822729,47.10989
 1598643336,Campanula_rapunculoides,63.068081,21.725666
 1705343705,Campanula_rapunculoides,57.257644,15.561648
@@ -629,7 +610,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144117400,Campanula_rapunculoides,58.9701,5.7212
 1262007062,Campanula_rapunculoides,46.846667,-71.366389
 1806556715,Campanula_rapunculoides,42.845513,-1.66874
-1842882511,Campanula_rapunculoides,42.3,1
 668754079,Campanula_rapunculoides,46.779444,-71.268056
 1705419595,Campanula_rapunculoides,57.436038,15.205809
 1598643333,Campanula_rapunculoides,60.993415,25.786513
@@ -657,7 +637,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248703954,Campanula_rapunculoides,48.565,-78.166667
 1701277312,Campanula_rapunculoides,63.8053,9.6802
 465764101,Campanula_rapunculoides,45.09271,-64.36132
-2265434321,Campanula_rapunculoides,45,-93.47
 1936028218,Campanula_rapunculoides,39.9949,-0.2603
 1697839962,Campanula_rapunculoides,44.053544,43.090611
 1262004774,Campanula_rapunculoides,46.787776,-71.284424
@@ -683,7 +662,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242387773,Campanula_rapunculoides,39.74204,-105.51991
 1697678826,Campanula_rapunculoides,57.085118,24.813558
 900226892,Campanula_rapunculoides,58.7787,5.7391
-1988069135,Campanula_rapunculoides,49.4,-123.3
 1697840051,Campanula_rapunculoides,40.884059,48.952675
 1697840053,Campanula_rapunculoides,38.671975,48.371515
 2265491387,Campanula_rapunculoides,44.377898,-95.927589
@@ -742,7 +720,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598646694,Campanula_rapunculoides,61.345835,24.146695
 1598643451,Campanula_rapunculoides,62.244977,25.746254
 668754057,Campanula_rapunculoides,46.781944,-71.270833
-1899353497,Campanula_rapunculoides,44.1,-78.883333
 1261999347,Campanula_rapunculoides,46.783333,-71.275
 1598646698,Campanula_rapunculoides,60.352484,25.094886
 668754075,Campanula_rapunculoides,46.783333,-71.265
@@ -756,11 +733,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388800857,Campanula_rapunculoides,44.080472,143.939376
 1899328950,Campanula_rapunculoides,43.65,-79.383333
 1899349576,Campanula_rapunculoides,43.783333,-79.116667
-465920738,Campanula_rapunculoides,46.783333,-71.3
 1701285807,Campanula_rapunculoides,63.9714,10.1335
 415960632,Campanula_rapunculoides,41.82722,-73.25166
 1598643317,Campanula_rapunculoides,60.897504,26.66803
-1949517675,Campanula_rapunculoides,49.266667,-120.2
 1988082486,Campanula_rapunculoides,49.63,-120.79
 1260956019,Campanula_rapunculoides,38.76861,-94.22555
 1801084266,Campanula_rapunculoides,44.18842,39.324274
@@ -790,7 +765,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701292786,Campanula_rapunculoides,62.8326,9.9913
 1988621839,Campanula_rapunculoides,46.06892,-86.25646
 1598646765,Campanula_rapunculoides,60.262781,25.100103
-1899382479,Campanula_rapunculoides,43.7,-79.516667
 1842847824,Campanula_rapunculoides,42.13,1.85
 788615274,Campanula_rapunculoides,55.59662,12.96376
 465764110,Campanula_rapunculoides,45.0525,-64.73752
@@ -829,7 +803,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999478336,Campanula_rapunculoides,60.428449,22.218943
 465920741,Campanula_rapunculoides,45.528373,-71.591757
 1598643385,Campanula_rapunculoides,61.564898,29.67872
-1988243449,Campanula_rapunculoides,48.5,-89.2
 1598646878,Campanula_rapunculoides,60.526164,24.72034
 1598643392,Campanula_rapunculoides,60.903053,26.352096
 1999478304,Campanula_rapunculoides,60.452987,22.151615
@@ -860,7 +833,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261968983,Campanula_rapunculoides,48.351944,-69.408889
 216097312,Campanula_rapunculoides,62.323299,26.003201
 176899728,Campanula_rapunculoides,43.93027,-103.56508
-786103616,Campanula_rapunculoides,50.5,6.8
 473267075,Campanula_rapunculoides,45.446944,-73.798056
 1248703890,Campanula_rapunculoides,45.516667,-73.65
 1697839924,Campanula_rapunculoides,44.15617,43.035
@@ -963,10 +935,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598646707,Campanula_rapunculoides,61.349408,25.969121
 1999602289,Campanula_rapunculoides,60.464862,22.359362
 2265491455,Campanula_rapunculoides,46.845648,-96.728846
-786103602,Campanula_rapunculoides,50.7,7.1
 788630306,Campanula_rapunculoides,58.683779,13.812689
 1144117415,Campanula_rapunculoides,61.91214,5.97147
-1146318447,Campanula_rapunculoides,60.41,-145
 788629309,Campanula_rapunculoides,56.307414,13.089862
 1606511218,Campanula_rapunculoides,62.340335,27.093353
 465764088,Campanula_rapunculoides,43.79688,-65.02141
@@ -991,8 +961,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701650188,Campanula_rapunculoides,60.95088,9.95958
 788627229,Campanula_rapunculoides,58.647693,16.133967
 1703294861,Campanula_rapunculoides,49.533056,-98.557778
-1261959448,Campanula_rapunculoides,46.75,-71.4
-1891598284,Campanula_rapunculoides,49.92,5.9
 1702271063,Campanula_rapunculoides,59.1245,11.3847
 296433916,Campanula_rapunculoides,46.272,18.378
 1702192787,Campanula_rapunculoides,60.23556,10.67316
@@ -1004,7 +972,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57683519,Campanula_rapunculoides,64.297897,24.827101
 1705368894,Campanula_rapunculoides,58.036448,14.992632
 1705331498,Campanula_rapunculoides,56.38284,13.123194
-786103598,Campanula_rapunculoides,47.7,11.4
 51779144,Campanula_rapunculoides,44.2194,-123.2044
 1598643349,Campanula_rapunculoides,62.958443,25.321597
 1323835146,Campanula_rapunculoides,59.1179,11.4001
@@ -1064,7 +1031,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999478398,Campanula_rapunculoides,60.471057,22.540574
 465764084,Campanula_rapunculoides,45.63956,-63.22611
 186796173,Campanula_rapunculoides,59.6643,10.7661
-1261953295,Campanula_rapunculoides,46.85,-71.2
 1989331346,Campanula_rapunculoides,42.00646,-85.45485
 1598643599,Campanula_rapunculoides,60.354954,25.275944
 216097297,Campanula_rapunculoides,62.3866,26.078501
@@ -1133,8 +1099,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701563380,Campanula_rapunculoides,63.4985,10.8782
 1705350135,Campanula_rapunculoides,57.102925,15.046197
 670174,Campanula_rapunculoides,56.74633,14.89977
-883395472,Campanula_rapunculoides,53.55,-113.5
-473546814,Campanula_rapunculoides,45.5,-73.6
 1705465265,Campanula_rapunculoides,56.744638,14.914524
 788613492,Campanula_rapunculoides,56.138916,13.050269
 1598643570,Campanula_rapunculoides,63.143681,28.087559
@@ -1182,7 +1146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313345443,Campanula_rapunculoides,48.22,11.54
 1705465099,Campanula_rapunculoides,56.300736,12.799438
 1705368920,Campanula_rapunculoides,57.99134,14.959839
-786103640,Campanula_rapunculoides,49.6,8.1
 1701431729,Campanula_rapunculoides,60.62736,10.91732
 670162,Campanula_rapunculoides,57.69422,14.98373
 900333173,Campanula_rapunculoides,62.53672,9.51846
@@ -1264,7 +1227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788543739,Campanula_rapunculoides,58.67178,12.30471
 1701979795,Campanula_rapunculoides,60.8279,11.3173
 788627110,Campanula_rapunculoides,58.377318,14.774737
-1697840071,Campanula_rapunculoides,43.01,41
 1598643251,Campanula_rapunculoides,60.693583,27.207408
 1705380551,Campanula_rapunculoides,55.55559,14.171521
 1701958622,Campanula_rapunculoides,59.5637,9.6548
@@ -1314,7 +1276,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697840039,Campanula_rapunculoides,39.765798,46.73687
 1702254154,Campanula_rapunculoides,59.69402,10.6449
 1261965222,Campanula_rapunculoides,46.82079,-71.165522
-1846529521,Campanula_rapunculoides,46.8,-71.166667
 1323762929,Campanula_rapunculoides,60.1903,12.0152
 1705263120,Campanula_rapunculoides,57.262477,16.458148
 415960636,Campanula_rapunculoides,42.71194,-73.20361
@@ -1360,7 +1321,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598643520,Campanula_rapunculoides,60.515724,24.174637
 1228329432,Campanula_rapunculoides,42.3833,-88.2833
 465764076,Campanula_rapunculoides,45.19964,-64.61754
-1261946233,Campanula_rapunculoides,45.5,-73.966667
 1598643578,Campanula_rapunculoides,62.430059,27.093632
 1705330746,Campanula_rapunculoides,56.428162,13.310137
 1701861733,Campanula_rapunculoides,60.32528,10.13214
@@ -1413,9 +1373,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318051616,Campanula_rapunculoides,42.38037,-72.52314
 788630128,Campanula_rapunculoides,58.658764,14.398662
 1697678878,Campanula_rapunculoides,52.571927,33.768337
-786103534,Campanula_rapunculoides,47.7,10.1
 296433954,Campanula_rapunculoides,46.756667,12.104444
-786103559,Campanula_rapunculoides,48.3,11
 1705397555,Campanula_rapunculoides,56.646843,14.915187
 1701336450,Campanula_rapunculoides,59.1911,9.6214
 187105690,Campanula_rapunculoides,59.7439,10.2009
