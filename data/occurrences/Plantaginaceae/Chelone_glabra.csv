@@ -63,7 +63,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415947397,Chelone_glabra,41.77972,-72.2018
 465915419,Chelone_glabra,45.63021,-60.97812
 668786898,Chelone_glabra,46.746944,-71.341389
-2308220270,Chelone_glabra,45.2,-81.57
 1260757220,Chelone_glabra,37.06888,-90.14166
 2265459543,Chelone_glabra,46.824167,-94.666389
 1932898260,Chelone_glabra,41.01186,-74.75361
@@ -85,7 +84,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415944447,Chelone_glabra,41.80833,-72.43
 1849105797,Chelone_glabra,35.058,-82.7883
 1989455720,Chelone_glabra,46.00328,-86.0674
-1258047981,Chelone_glabra,37,-90
 56543627,Chelone_glabra,33.96056,-85.40778
 176913978,Chelone_glabra,35.174444,-83.606944
 176913845,Chelone_glabra,41.5446,-81.4729
@@ -117,9 +115,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606660394,Chelone_glabra,41.82638,-72.73
 1260978646,Chelone_glabra,36.68666,-90.58305
 668786889,Chelone_glabra,46.913889,-71.644167
-1262021556,Chelone_glabra,46.816667,-71
 2265526507,Chelone_glabra,43.99361,-91.8125
-1899275866,Chelone_glabra,43.85,-80
 1989114693,Chelone_glabra,44.70654,-84.5964
 1807230082,Chelone_glabra,46.2369,-63.188705
 2265450210,Chelone_glabra,43.746111,-91.885556
@@ -148,7 +144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265453575,Chelone_glabra,45.931111,-93.386389
 1804404690,Chelone_glabra,44.833333,-76.35
 1804549847,Chelone_glabra,45.283333,-75.166667
-1804388496,Chelone_glabra,45.3,-75.616667
 1989076042,Chelone_glabra,44.18254,-85.65405
 768794943,Chelone_glabra,41.81472,-72.22527
 465896101,Chelone_glabra,46.09964,-60.75111
@@ -169,9 +164,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317874400,Chelone_glabra,38.9711,-77.0442
 1804463646,Chelone_glabra,45.033333,-75.983333
 2265966538,Chelone_glabra,45.5075,-93.793889
-1804440272,Chelone_glabra,44.8,-75.416667
 620531063,Chelone_glabra,45.30702,-64.39322
-1804598518,Chelone_glabra,45.3,-76.333333
 1988813728,Chelone_glabra,44.712893,-86.123119
 1988841769,Chelone_glabra,46.048897,-87.503384
 1804398375,Chelone_glabra,45.266667,-67.483333
@@ -179,15 +172,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265507478,Chelone_glabra,43.894722,-92.625557
 1899373068,Chelone_glabra,42.666667,-80.491667
 1262011693,Chelone_glabra,45.42,-71.125833
-1820374278,Chelone_glabra,45.8,-60.666667
 1804476743,Chelone_glabra,45.166667,-67.333333
-1804578162,Chelone_glabra,45.483333,-67.5
 1820374116,Chelone_glabra,45.94301,-60.76165
 1262014405,Chelone_glabra,45.767495,-73.925395
 1988659707,Chelone_glabra,41.97706,-83.94441
 1988860951,Chelone_glabra,44.85093,-83.63731
 620531062,Chelone_glabra,45.329405,-64.843238
-473445540,Chelone_glabra,45.5,-73.6
 606654044,Chelone_glabra,41.24277,-73.20055
 1989162000,Chelone_glabra,46.39875,-86.24744
 668786888,Chelone_glabra,45.916667,-72.483333
@@ -198,9 +188,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804597210,Chelone_glabra,45.175,-77.008333
 1989477182,Chelone_glabra,44.910123,-85.221279
 1804367346,Chelone_glabra,46.166667,-62.55
-1899372377,Chelone_glabra,44.2,-79.508333
 1988623015,Chelone_glabra,41.96464,-86.31558
-606657872,Chelone_glabra,43.3,-71.68277
 1988765608,Chelone_glabra,45.9059,-87.21169
 1248733356,Chelone_glabra,47.683333,-68.883333
 699268963,Chelone_glabra,41.595,-72.64527
@@ -210,7 +198,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262008062,Chelone_glabra,46.526,-72.827
 1262007939,Chelone_glabra,46.456,-70.801
 473475126,Chelone_glabra,45.866667,-74.583333
-1899382215,Chelone_glabra,44.8,-79.766667
 473458590,Chelone_glabra,45.291734,-72.995521
 1248733373,Chelone_glabra,48.666389,-79.328333
 1899372116,Chelone_glabra,43.769444,-79.381944
@@ -226,8 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768794921,Chelone_glabra,41.35416,-71.96638
 668786887,Chelone_glabra,46.774722,-71.282778
 1986728395,Chelone_glabra,48.474444,-78.732222
-1899338183,Chelone_glabra,43.783333,-79.3
-56542933,Chelone_glabra,33.45,-85.9
 1038994113,Chelone_glabra,41.3114,-72.9247
 1899359646,Chelone_glabra,44.826389,-78.561111
 1899376263,Chelone_glabra,43.733333,-79.383333
@@ -248,7 +233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668786897,Chelone_glabra,46.779167,-71.266111
 1248733316,Chelone_glabra,46.777778,-71.271111
 56542935,Chelone_glabra,32.84806,-86.39472
-473262084,Chelone_glabra,45.7,-73.533333
 1261998135,Chelone_glabra,48.202689,-72.242564
 415953249,Chelone_glabra,41.80833,-72.24944
 768794957,Chelone_glabra,41.8146,-72.222
@@ -267,7 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768794972,Chelone_glabra,42.325,-72.64111
 768794956,Chelone_glabra,41.88861,-72.23222
 1989374480,Chelone_glabra,44.703194,-84.08111
-668786881,Chelone_glabra,45.083333,-74.4
 473499323,Chelone_glabra,46.0013,-73.9784
 620531060,Chelone_glabra,45.65777,-60.88439
 1262027812,Chelone_glabra,48.55,-71.65
@@ -280,14 +263,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768794954,Chelone_glabra,41.76861,-72.17388
 768794959,Chelone_glabra,41.67166,-72.94916
 1038938371,Chelone_glabra,41.3403,-72.6283
-1899349986,Chelone_glabra,50.6,-81.45
 1260932489,Chelone_glabra,36.98694,-90.23194
 1038937398,Chelone_glabra,41.96,-73.31
 620531061,Chelone_glabra,45.06961,-64.46366
 1899307901,Chelone_glabra,43.883333,-80.116667
 668786871,Chelone_glabra,46.866667,-71.133333
 668786875,Chelone_glabra,46.883333,-71.116667
-668786876,Chelone_glabra,47,-70.95
 668786872,Chelone_glabra,46.866667,-71.15
 668786873,Chelone_glabra,46.883333,-71.066667
 2270539119,Chelone_glabra,33.725767,-85.79052
@@ -297,7 +278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804438596,Chelone_glabra,44.866667,-79.85
 465896165,Chelone_glabra,46.737021,-71.45937
 768794975,Chelone_glabra,44.12194,-72.54138
-1248733342,Chelone_glabra,47.883333,-71.8
 1261973560,Chelone_glabra,48.646349,-71.200595
 1899296890,Chelone_glabra,43.716667,-79.35
 56542936,Chelone_glabra,34.6475,-85.94222
@@ -309,7 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261971817,Chelone_glabra,45.233333,-71.816667
 473541166,Chelone_glabra,46.808982,-66.282655
 473262081,Chelone_glabra,45.335556,-73.970833
-1899318330,Chelone_glabra,45.383333,-80.1
 1899382321,Chelone_glabra,44.833333,-79.316667
 1899304427,Chelone_glabra,43.65,-79.883333
 768794952,Chelone_glabra,41.58277,-73.20416
@@ -329,11 +308,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473541175,Chelone_glabra,47.383333,-65.933333
 473541171,Chelone_glabra,47.883333,-66.95
 473541203,Chelone_glabra,46.516667,-67.15
-1804406022,Chelone_glabra,51,-79.75
 1804574678,Chelone_glabra,51.25,-80.583333
 473541205,Chelone_glabra,45.95,-67.766667
 473541199,Chelone_glabra,45.366667,-67.35
-473541179,Chelone_glabra,47.016667,-67.3
 465896099,Chelone_glabra,46.06928,-61.34521
 473262067,Chelone_glabra,45.182778,-72.306944
 1261965930,Chelone_glabra,48.267103,-69.946115
@@ -359,8 +336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317672764,Chelone_glabra,39.1367,-77.715
 668786902,Chelone_glabra,49.120833,-68.379444
 1261957869,Chelone_glabra,48.441667,-70.84143
-1261958265,Chelone_glabra,48.233333,-70.2
-1261975146,Chelone_glabra,46.333333,-74.5
 1988819549,Chelone_glabra,47.913041,-89.154709
 620531059,Chelone_glabra,45.79506,-63.556051
 723290934,Chelone_glabra,48.116667,-75.366667
@@ -369,7 +344,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 620531058,Chelone_glabra,45.40198,-63.54523
 465896136,Chelone_glabra,45.37725,-61.977424
 465896094,Chelone_glabra,45.5529,-62.93367
-1261955904,Chelone_glabra,46.75,-71.7
 465896092,Chelone_glabra,45.40172,-61.9877
 465896090,Chelone_glabra,45.666667,-62.415833
 465896159,Chelone_glabra,45.366792,-71.852088
@@ -393,7 +367,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 620531056,Chelone_glabra,45.319499,-63.366168
 1261953142,Chelone_glabra,47.11632,-70.862914
 1261989798,Chelone_glabra,46.846,-72.481
-1261989739,Chelone_glabra,46.4,-70.36
 1899302273,Chelone_glabra,42.833333,-80.166667
 465896127,Chelone_glabra,46.262002,-63.036255
 465896131,Chelone_glabra,45.521505,-65.820638
@@ -416,11 +389,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261989743,Chelone_glabra,46.179,-70.36
 620531053,Chelone_glabra,45.76551,-60.56557
 465896085,Chelone_glabra,45.95258,-60.79094
-1228314068,Chelone_glabra,41.7,-86.6667
 1321519911,Chelone_glabra,38.2911,-76.6361
 1248733295,Chelone_glabra,48.358611,-79.123056
 1988811634,Chelone_glabra,46.84624,-88.382209
-1261989746,Chelone_glabra,46.943,-71.5
 1989229065,Chelone_glabra,47.430939,-87.983481
 1989534366,Chelone_glabra,42.02301,-84.95667
 1807229829,Chelone_glabra,46.037401,-62.556728
@@ -469,7 +440,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465896079,Chelone_glabra,45.75714,-63.576
 768794962,Chelone_glabra,41.95611,-72.8425
 1261966564,Chelone_glabra,45.533333,-73.516667
-1260973711,Chelone_glabra,38.1,-92.35777
 1090532480,Chelone_glabra,42.4333,-76.4833
 768794961,Chelone_glabra,41.95388,-72.78861
 465896078,Chelone_glabra,45.8327,-64.21444
@@ -481,7 +451,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988726958,Chelone_glabra,43.665583,-84.341941
 1988680212,Chelone_glabra,43.80374,-84.38584
 1899324248,Chelone_glabra,44.9853299990568,-81.38094
-1989016483,Chelone_glabra,46.4,-88.33333
 2234339472,Chelone_glabra,35.899,-79.099472
 1988684598,Chelone_glabra,45.216197,-87.522341
 2242395558,Chelone_glabra,44.593845,-68.22973
@@ -506,7 +475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228495376,Chelone_glabra,41.850033,-87.650052
 465896076,Chelone_glabra,44.98878,-64.94871
 465896110,Chelone_glabra,45.3699,-63.12799
-1228170171,Chelone_glabra,38,-98
 1928111388,Chelone_glabra,35.855118,-82.197899
 1989165423,Chelone_glabra,41.563954,-84.53186
 474627332,Chelone_glabra,45.53145,-73.70668
@@ -522,7 +490,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038971574,Chelone_glabra,41.98,-73.1961
 465896114,Chelone_glabra,44.87167,-65.21249
 1988682631,Chelone_glabra,45.975853,-84.194464
-1228537722,Chelone_glabra,43,-75
 1927776713,Chelone_glabra,40.887766,-73.243776
 1929734473,Chelone_glabra,40.909715,-73.880103
 1319356045,Chelone_glabra,39.0347,-76.9078
@@ -546,7 +513,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928126855,Chelone_glabra,40.891216,-73.890045
 620531052,Chelone_glabra,45.19964,-64.61754
 1927847465,Chelone_glabra,41.203164,-73.730166
-1228488614,Chelone_glabra,42.2,-88.2333
 1930783257,Chelone_glabra,40.624826,-74.148476
 1931001768,Chelone_glabra,40.959691,-73.921807
 1038939608,Chelone_glabra,44.097736,-71.580055
@@ -592,7 +558,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928185779,Chelone_glabra,42.938482,-75.463068
 1317857542,Chelone_glabra,39.5492,-76.0919
 1928387957,Chelone_glabra,40.924894,-73.752613
-1228436787,Chelone_glabra,40,-86
 1928297396,Chelone_glabra,39.518407,-76.131502
 1320585803,Chelone_glabra,39.4411,-76.2378
 465896140,Chelone_glabra,45.33549,-61.00746
