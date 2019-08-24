@@ -1,7 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615277352,Astragalus_filicaulis,37.03,68.8
-45434038,Astragalus_filicaulis,42.15,-71.6
-1697561931,Astragalus_filicaulis,57.007902,41.037486
 1838280434,Astragalus_filicaulis,37.795278,58.724722
 615277425,Astragalus_filicaulis,36.35,66.88
 615277426,Astragalus_filicaulis,36.27,66.9
@@ -54,4 +52,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1799017211,Astragalus_filicaulis,37.723479,58.388042
 1837910390,Astragalus_filicaulis,38.983333,56.283333
 1144584088,Astragalus_filicaulis,39.21889,58.39139
-628974,Astragalus_filicaulis,37.950278,58.380278
