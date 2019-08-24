@@ -15,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848247242,Souroubea_guianensis,-10.980556,-55.7375
 2284131509,Souroubea_guianensis,-11.000833,-55.675
 1707691087,Souroubea_guianensis,8.238333,-77.179806
-1077249444,Souroubea_guianensis,-13.95,-38.933333
 1135077512,Souroubea_guianensis,-12.166667,-37.966667
 1147294868,Souroubea_guianensis,-0.03,-70.18
 1949916368,Souroubea_guianensis,1.44,-75.89
@@ -65,7 +64,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768771823,Souroubea_guianensis,1.19,-70.24
 768772357,Souroubea_guianensis,0.62,-69.74
 1931319875,Souroubea_guianensis,1.194444,-70.24
-1419155251,Souroubea_guianensis,16.134722,-92.059611
 1257536797,Souroubea_guianensis,4.091667,-52.673056
 768774927,Souroubea_guianensis,-4,-69.89
 1087078237,Souroubea_guianensis,-7.703333,-34.969722
@@ -205,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090452117,Souroubea_guianensis,-13.6,-39.716667
 1456165323,Souroubea_guianensis,7.23333,-58.7333
 1456020986,Souroubea_guianensis,7.33333,-58.7833
-1928932882,Souroubea_guianensis,6.6,-57.75
 438866079,Souroubea_guianensis,4.7,-52.96667
 1260231829,Souroubea_guianensis,6.5,-58.38333
 1456446058,Souroubea_guianensis,6.53333,-58.6167
@@ -272,9 +269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089291183,Souroubea_guianensis,-0.983333,-49.933333
 1089245974,Souroubea_guianensis,-0.95,-49.933333
 1042479233,Souroubea_guianensis,-0.75,-49.68
-1260732908,Souroubea_guianensis,0.95,-49.8
-1260623233,Souroubea_guianensis,0.6,-49.61666
-1260642551,Souroubea_guianensis,0.75,-49.68333
 1089245937,Souroubea_guianensis,-0.75,-49.683333
 1929606114,Souroubea_guianensis,-5.6333,-63.1667
 768724871,Souroubea_guianensis,-0.58,-72.39
@@ -320,7 +314,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259250049,Souroubea_guianensis,5.633333,-62.533333
 1258286296,Souroubea_guianensis,4.75,-61.05
 1930922751,Souroubea_guianensis,-1.83,-55.08
-1260230521,Souroubea_guianensis,6,-57
 1258286297,Souroubea_guianensis,1.966667,-67.05
 1260851861,Souroubea_guianensis,-3.82805,-73.35777
 1456290639,Souroubea_guianensis,5.36,-67.55
@@ -330,7 +323,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928534620,Souroubea_guianensis,-1.003867,-57.12882
 1424014352,Souroubea_guianensis,4,-57.5
 2288419776,Souroubea_guianensis,4.5,-57.733333
-1077186546,Souroubea_guianensis,-13.366667,-38.233333
 1258286244,Souroubea_guianensis,1.91666,-67.06666
 1065428893,Souroubea_guianensis,4.99755,-76.59042
 1258286284,Souroubea_guianensis,1.91666,-67.05
