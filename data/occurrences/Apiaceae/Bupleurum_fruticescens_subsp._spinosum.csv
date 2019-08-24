@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1882652787,Bupleurum_fruticescens_subsp._spinosum,41.6825,-1.75889
 1844870583,Bupleurum_fruticescens_subsp._spinosum,42.6,-2.76
 1882652791,Bupleurum_fruticescens_subsp._spinosum,41.63806,-1.725
-1928474961,Bupleurum_fruticescens_subsp._spinosum,40.865014,-73.877885
 1569811182,Bupleurum_fruticescens_subsp._spinosum,43.231252,-1.990607
 1944754325,Bupleurum_fruticescens_subsp._spinosum,43.2312519990585,-1.990607
 1099344069,Bupleurum_fruticescens_subsp._spinosum,36.829,-4.856
@@ -18,7 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 781075065,Bupleurum_fruticescens_subsp._spinosum,36.637681,-5.075286
 1936251076,Bupleurum_fruticescens_subsp._spinosum,37.2506,-3.5417
 1265474045,Bupleurum_fruticescens_subsp._spinosum,37.69,-2.0643
-1988243297,Bupleurum_fruticescens_subsp._spinosum,49.3,-123.2
 895217594,Bupleurum_fruticescens_subsp._spinosum,39.482,-0.39
 1265474041,Bupleurum_fruticescens_subsp._spinosum,38.9302,-2.536864
 1265474047,Bupleurum_fruticescens_subsp._spinosum,38.9164,-1.7196
@@ -71,7 +69,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895232358,Bupleurum_fruticescens_subsp._spinosum,39.812,-1.125
 1936198988,Bupleurum_fruticescens_subsp._spinosum,40.4165,0.182
 895166835,Bupleurum_fruticescens_subsp._spinosum,38.698,-0.832
-1936608523,Bupleurum_fruticescens_subsp._spinosum,37.04428,-8.88887
 895227988,Bupleurum_fruticescens_subsp._spinosum,39.548,-0.515
 1050629636,Bupleurum_fruticescens_subsp._spinosum,41.68,-1.75
 895228057,Bupleurum_fruticescens_subsp._spinosum,39.548,-0.527
@@ -110,8 +107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30931075,Bupleurum_fruticescens_subsp._spinosum,41.93,0.3
 211643863,Bupleurum_fruticescens_subsp._spinosum,37.604,-1.148
 895248261,Bupleurum_fruticescens_subsp._spinosum,39.757,-0.193
-1851569928,Bupleurum_fruticescens_subsp._spinosum,38.63,0.007
-1936512374,Bupleurum_fruticescens_subsp._spinosum,38.6283,0.0007
 1851569740,Bupleurum_fruticescens_subsp._spinosum,36.71,-4.96
 1936244725,Bupleurum_fruticescens_subsp._spinosum,40.7843,-2.6007
 143023805,Bupleurum_fruticescens_subsp._spinosum,37.77,-3.45
@@ -121,10 +116,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30661062,Bupleurum_fruticescens_subsp._spinosum,36.979,-2.848
 1050645996,Bupleurum_fruticescens_subsp._spinosum,42.15,-1.55
 1502063635,Bupleurum_fruticescens_subsp._spinosum,38.35,-0.46
-895194370,Bupleurum_fruticescens_subsp._spinosum,39.058,1.376
 1502044236,Bupleurum_fruticescens_subsp._spinosum,38.45,-0.58
 1851571331,Bupleurum_fruticescens_subsp._spinosum,38.49,-1.02
-895234073,Bupleurum_fruticescens_subsp._spinosum,38.635,0.007
 1936512607,Bupleurum_fruticescens_subsp._spinosum,38.8151,-0.2716
 1936446049,Bupleurum_fruticescens_subsp._spinosum,41.5304,-3.5647
 1936445753,Bupleurum_fruticescens_subsp._spinosum,41.548,-3.6368
@@ -160,21 +153,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30661529,Bupleurum_fruticescens_subsp._spinosum,37.375,-2.667
 143023797,Bupleurum_fruticescens_subsp._spinosum,36.869999,-2.78
 30661526,Bupleurum_fruticescens_subsp._spinosum,37.429,-2.712
-143023793,Bupleurum_fruticescens_subsp._spinosum,37.48,-1.19
 895238668,Bupleurum_fruticescens_subsp._spinosum,36.792,-5.415
 143023787,Bupleurum_fruticescens_subsp._spinosum,37.490002,-1.64
 1050574135,Bupleurum_fruticescens_subsp._spinosum,36.91,-2.83
 1842856220,Bupleurum_fruticescens_subsp._spinosum,35,-4.81
 1851566609,Bupleurum_fruticescens_subsp._spinosum,38.47,-0.7
 895285952,Bupleurum_fruticescens_subsp._spinosum,39.51,-0.96
-1936428106,Bupleurum_fruticescens_subsp._spinosum,38.7398,0.1341
-1851565899,Bupleurum_fruticescens_subsp._spinosum,38.74,0.14
 1936414990,Bupleurum_fruticescens_subsp._spinosum,40.4414,-3.2961
 30661505,Bupleurum_fruticescens_subsp._spinosum,37.32,-2.441
 143023820,Bupleurum_fruticescens_subsp._spinosum,36.669998,-5.13
 30661536,Bupleurum_fruticescens_subsp._spinosum,37.212,-2.521
 439277876,Bupleurum_fruticescens_subsp._spinosum,38.67583,-0.20083
-2242390996,Bupleurum_fruticescens_subsp._spinosum,39.73193,-104.9619
 143023822,Bupleurum_fruticescens_subsp._spinosum,37.049999,-3.45
 1851567148,Bupleurum_fruticescens_subsp._spinosum,38.66,-0.06
 895204188,Bupleurum_fruticescens_subsp._spinosum,39.721,-0.4642
@@ -189,10 +178,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895274764,Bupleurum_fruticescens_subsp._spinosum,38.87,-0.75
 1050649963,Bupleurum_fruticescens_subsp._spinosum,37.13,-3.44
 574920558,Bupleurum_fruticescens_subsp._spinosum,36.9,-2.8
-895266913,Bupleurum_fruticescens_subsp._spinosum,40.12,0.12
 1851571713,Bupleurum_fruticescens_subsp._spinosum,42.49,-1.3
-895218023,Bupleurum_fruticescens_subsp._spinosum,40.31,0.35
-895218089,Bupleurum_fruticescens_subsp._spinosum,40.03,0.13
 895235447,Bupleurum_fruticescens_subsp._spinosum,40.071,-0.567
 1500896846,Bupleurum_fruticescens_subsp._spinosum,40.07,-0.56
 895218091,Bupleurum_fruticescens_subsp._spinosum,40.03,0.01
@@ -212,7 +198,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936402568,Bupleurum_fruticescens_subsp._spinosum,41.3619,-1.6622
 1053985700,Bupleurum_fruticescens_subsp._spinosum,42.64,-1.29
 895259592,Bupleurum_fruticescens_subsp._spinosum,39.78,-0.96
-1936169079,Bupleurum_fruticescens_subsp._spinosum,37.9114,0.1552
 199464731,Bupleurum_fruticescens_subsp._spinosum,36.672,-5.076
 143023823,Bupleurum_fruticescens_subsp._spinosum,37.310001,-4.24
 895171236,Bupleurum_fruticescens_subsp._spinosum,39.866,-1.159
@@ -245,8 +230,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936086859,Bupleurum_fruticescens_subsp._spinosum,42.0002,0.1252
 1936101664,Bupleurum_fruticescens_subsp._spinosum,42.5762,-2.7211
 895249716,Bupleurum_fruticescens_subsp._spinosum,38.15,-0.89
-895250261,Bupleurum_fruticescens_subsp._spinosum,38.59,0.07
-895248837,Bupleurum_fruticescens_subsp._spinosum,38.77,0.18
 895254424,Bupleurum_fruticescens_subsp._spinosum,38.68,-0.07
 895250183,Bupleurum_fruticescens_subsp._spinosum,38.33,-0.54
 895147974,Bupleurum_fruticescens_subsp._spinosum,39.04,-0.17
@@ -321,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199465374,Bupleurum_fruticescens_subsp._spinosum,36.71,-5.07
 1842894019,Bupleurum_fruticescens_subsp._spinosum,41.95,1.85
 199464969,Bupleurum_fruticescens_subsp._spinosum,36.7001,-5.02732
-1936162704,Bupleurum_fruticescens_subsp._spinosum,41.0874,1.332
 2290267721,Bupleurum_fruticescens_subsp._spinosum,31.084317,-8.27415
 30930755,Bupleurum_fruticescens_subsp._spinosum,42.369999,-0.75
 1936113578,Bupleurum_fruticescens_subsp._spinosum,42.3654,-0.7547
@@ -336,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851569513,Bupleurum_fruticescens_subsp._spinosum,40.94,0.56
 1936385115,Bupleurum_fruticescens_subsp._spinosum,40.8923,0.5061
 1935986240,Bupleurum_fruticescens_subsp._spinosum,40.954,-2.4666
-1936138103,Bupleurum_fruticescens_subsp._spinosum,36.8358,-2.4629
 1935945506,Bupleurum_fruticescens_subsp._spinosum,38.874,-3.0935
 1936380764,Bupleurum_fruticescens_subsp._spinosum,42.618611,-2.8475
 1842905768,Bupleurum_fruticescens_subsp._spinosum,34.92,-4.26
