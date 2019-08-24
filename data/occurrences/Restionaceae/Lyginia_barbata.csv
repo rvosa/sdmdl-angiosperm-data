@@ -47,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996705366,Lyginia_barbata,-34.999722,117.841111
 996907986,Lyginia_barbata,-31.836111,115.866111
 1099034310,Lyginia_barbata,-30.5575,115.472221
-1099034307,Lyginia_barbata,-33.916668,115.01667
 996579224,Lyginia_barbata,-33.745194,115.505125
 993482084,Lyginia_barbata,-31.9333,115.8667
 995831421,Lyginia_barbata,-30.68,115.48
@@ -57,8 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995816057,Lyginia_barbata,-31.02,115.72
 996748131,Lyginia_barbata,-31.016667,115.716667
 996520177,Lyginia_barbata,-31.063889,115.734167
-995788699,Lyginia_barbata,-34.9147,118.42
-1936894263,Lyginia_barbata,-34.914722,118.420278
 1936873438,Lyginia_barbata,-32.92,115.758056
 995697727,Lyginia_barbata,-32.92,115.758
 996603115,Lyginia_barbata,-34.936944,118.198056
@@ -67,7 +64,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995679084,Lyginia_barbata,-30.03,115.33
 995671629,Lyginia_barbata,-31.03,115.72
 996213624,Lyginia_barbata,-30.75,115.5
-993426768,Lyginia_barbata,-33.8567,114.9906
 996767708,Lyginia_barbata,-34.33567,118.253451
 996357166,Lyginia_barbata,-30.893333,115.569722
 995626082,Lyginia_barbata,-34.13,115.53
@@ -77,9 +73,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993339466,Lyginia_barbata,-33.9167,120.0167
 995613794,Lyginia_barbata,-33.92,120.02
 993333050,Lyginia_barbata,-33.6333,123.7833
-993968969,Lyginia_barbata,-34.8333,116
 993326438,Lyginia_barbata,-33.55,122.4667
-993328652,Lyginia_barbata,-34.0056,122.1722
 995718158,Lyginia_barbata,-34.33,118.4
 996690375,Lyginia_barbata,-34.391667,119.366667
 995837063,Lyginia_barbata,-34.3917,119.37
@@ -128,7 +122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936829552,Lyginia_barbata,-30.0667,115.5833
 995547715,Lyginia_barbata,-29.9,115.17
 993285018,Lyginia_barbata,-33.8833,117.75
-996234463,Lyginia_barbata,-34.02,122.22
 996236280,Lyginia_barbata,-33.65,121.82
 996234438,Lyginia_barbata,-33.97,122.22
 995863097,Lyginia_barbata,-33.95,120.12
