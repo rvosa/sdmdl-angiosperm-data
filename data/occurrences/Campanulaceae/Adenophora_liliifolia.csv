@@ -4,10 +4,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 890166492,Adenophora_liliifolia,51.146667,87.732222
 890169656,Adenophora_liliifolia,50.156667,88.295
 1697680383,Adenophora_liliifolia,56.177778,42.858333
-1988227112,Adenophora_liliifolia,49.3,-123.2
 991779197,Adenophora_liliifolia,48.7497,20.0353
 286836020,Adenophora_liliifolia,48.749722,20.035276
-1697680379,Adenophora_liliifolia,55.744444,42
 1697680306,Adenophora_liliifolia,55.733333,42.013889
 1697680584,Adenophora_liliifolia,52.58836,59.05328
 1697292292,Adenophora_liliifolia,59.44496,60.0254
@@ -26,7 +24,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697680412,Adenophora_liliifolia,54.731414,41.011244
 1144576834,Adenophora_liliifolia,46.72432,8.28997
 1697680435,Adenophora_liliifolia,53.886321,38.524496
-1230496180,Adenophora_liliifolia,47.9,16.23333
 1988239705,Adenophora_liliifolia,49.25,-123.25
 1697680380,Adenophora_liliifolia,53.200932,38.543353
 1697680428,Adenophora_liliifolia,49.98897,41.017666
@@ -65,12 +62,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697680529,Adenophora_liliifolia,49.954141,45.188566
 1668934204,Adenophora_liliifolia,54.855,37.603
 1697680386,Adenophora_liliifolia,54.853996,37.549459
-1657163667,Adenophora_liliifolia,47.1,15.37972
 1697680473,Adenophora_liliifolia,50.360754,44.118357
 1657160772,Adenophora_liliifolia,47.09472,15.38806
-1697292232,Adenophora_liliifolia,51.3,88.2
 1697680512,Adenophora_liliifolia,52.324451,40.230557
-1697292215,Adenophora_liliifolia,51.1,114.533333
 1935644909,Adenophora_liliifolia,47.09694,15.38806
 1657163708,Adenophora_liliifolia,47.09639,15.38806
 1657163654,Adenophora_liliifolia,47.095,15.38833
@@ -103,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830967661,Adenophora_liliifolia,47.09111,15.37556
 1657163679,Adenophora_liliifolia,47.09444,15.38806
 1144576830,Adenophora_liliifolia,51.10667,10.39361
-1657163670,Adenophora_liliifolia,47.1,15.37944
 2005770985,Adenophora_liliifolia,38.753456,125.353391
 1338946526,Adenophora_liliifolia,48.77,12.96
 1697680502,Adenophora_liliifolia,51.751474,55.082391
