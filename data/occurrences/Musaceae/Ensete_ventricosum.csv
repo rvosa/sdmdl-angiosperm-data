@@ -8,7 +8,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843419725,Ensete_ventricosum,-36.863056,174.720833
 1843414199,Ensete_ventricosum,-36.85,174.766667
 2288900258,Ensete_ventricosum,-18.930556,47.5275
-1843378966,Ensete_ventricosum,-35,173.716667
 2242393695,Ensete_ventricosum,39.73193,-104.9619
 994405129,Ensete_ventricosum,-8.833333,125.416667
 1258789626,Ensete_ventricosum,-4.16666,37.93333
@@ -18,11 +17,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897651987,Ensete_ventricosum,-36.85,174.733333
 1261340726,Ensete_ventricosum,32.66666,-117.16666
 1261338807,Ensete_ventricosum,-8.35,38.93333
-1261338706,Ensete_ventricosum,-8.6,35.61666
 1261339359,Ensete_ventricosum,-8.83333,33.33333
 2290584971,Ensete_ventricosum,-8.833333,33.333333
 415618074,Ensete_ventricosum,36.72085,-4.41485
-1894546851,Ensete_ventricosum,17.9,-92.420833
 1896297202,Ensete_ventricosum,19.513056,-96.944167
 1900970780,Ensete_ventricosum,-18.125,32.625
 2291754579,Ensete_ventricosum,7.2667,36.25
@@ -30,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1900970716,Ensete_ventricosum,-19.875,32.875
 2288794906,Ensete_ventricosum,7.25,36.25
 351942041,Ensete_ventricosum,-1.03333,36.63333
-439180587,Ensete_ventricosum,6.6,11.6
 438513845,Ensete_ventricosum,6.56363,11.57787
 437515415,Ensete_ventricosum,6.52819,11.55539
 2005478663,Ensete_ventricosum,-28.375,32.375
@@ -43,5 +39,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461827083,Ensete_ventricosum,-23.875,30.125
 437375228,Ensete_ventricosum,-23.89617,29.44863
 461827085,Ensete_ventricosum,-23.125,30.375
-1839522659,Ensete_ventricosum,-5.133333,15.1
 1839522776,Ensete_ventricosum,0.516667,25.183333
