@@ -42,10 +42,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51914074,Koenigia_polystachya,44.1718,-122.3371
 1054080472,Koenigia_polystachya,58.288571,6.649234
 1702005719,Koenigia_polystachya,58.2891,6.6512
-615258315,Koenigia_polystachya,29,93.95
-615258330,Koenigia_polystachya,29.9,94.87
 615258344,Koenigia_polystachya,31.35,97.93
-615258322,Koenigia_polystachya,28.55,85.3
 51913952,Koenigia_polystachya,45.9598,-123.9244
 51913954,Koenigia_polystachya,45.9608,-123.9298
 1248740631,Koenigia_polystachya,46.847222,-71.130556
@@ -58,7 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988154016,Koenigia_polystachya,54.77,-128.25
 685750614,Koenigia_polystachya,31.014091,78.411398
 2288071655,Koenigia_polystachya,50.452,6.102
-1988192799,Koenigia_polystachya,49.4,-122.9
 1144184444,Koenigia_polystachya,58.2913,6.6468
 51913727,Koenigia_polystachya,44.6309,-123.9958
 1030677526,Koenigia_polystachya,31.622937,99.992666
@@ -78,5 +74,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288633869,Koenigia_polystachya,51.750139,5.75
 912626309,Koenigia_polystachya,28.25,96.58
 1702000709,Koenigia_polystachya,58.9578,5.7135
-317825286,Koenigia_polystachya,41.41,2.1
-1988063342,Koenigia_polystachya,49.2999999990676,-123.1
