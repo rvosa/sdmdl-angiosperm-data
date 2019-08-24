@@ -22,7 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768774914,Gynerium_sagittatum,0.3,-70.33
 1253887093,Gynerium_sagittatum,9.671694,-83.026611
 1257749161,Gynerium_sagittatum,-10.385,-75.548333
-1077231018,Gynerium_sagittatum,-13.944167,-29.648889
 1089272253,Gynerium_sagittatum,-22.855833,-53.542386
 1324648945,Gynerium_sagittatum,0.21,-70.15
 790003454,Gynerium_sagittatum,16.555833,-88.710833
@@ -72,9 +71,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259015102,Gynerium_sagittatum,-17.09472,-64.28722
 1260004052,Gynerium_sagittatum,-1.95,-77.08333
 47778886,Gynerium_sagittatum,-1.95,-77.866
-1894552967,Gynerium_sagittatum,18.936944,-92.426111
 1894552979,Gynerium_sagittatum,18.634444,-92.279444
-1894553051,Gynerium_sagittatum,18.629444,-92.374167
 1895951630,Gynerium_sagittatum,20.241667,-97.898333
 1800541648,Gynerium_sagittatum,4.64237,-75.630913
 1259111919,Gynerium_sagittatum,-15.4,-67.56666
@@ -99,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258325764,Gynerium_sagittatum,16.86666,-89.03333
 1800541694,Gynerium_sagittatum,4.69204,-75.66941
 1894874063,Gynerium_sagittatum,18.4948501836934,-92.6438364715955
-1894553049,Gynerium_sagittatum,19.643889,-92.494167
 1265833134,Gynerium_sagittatum,0.133333,-78.658333
 1258539745,Gynerium_sagittatum,-13.98333,-67.98333
 1261891323,Gynerium_sagittatum,-5.01,-78.34
@@ -118,8 +114,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929884425,Gynerium_sagittatum,18.23,-65.75
 415921868,Gynerium_sagittatum,12.16666,-83.66666
 1258813000,Gynerium_sagittatum,16.33,-91.21
-1253645964,Gynerium_sagittatum,8.616667,-83.733334
-45258954,Gynerium_sagittatum,8.61,-83.73
 1259745369,Gynerium_sagittatum,0.06666,-77.33333
 47778858,Gynerium_sagittatum,-0.033,-77.35
 47778854,Gynerium_sagittatum,-0.083,-77.583
@@ -129,9 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259745165,Gynerium_sagittatum,-0.08333,-77.58333
 1418340296,Gynerium_sagittatum,21.026111,-97.338056
 1259012444,Gynerium_sagittatum,-1.06666,-77.61666
-1258666228,Gynerium_sagittatum,15.316667,-61.333333
-1455703200,Gynerium_sagittatum,17.166667,-88.766667
-1259615842,Gynerium_sagittatum,15.31666,-61.33333
 1499622767,Gynerium_sagittatum,-14.3,-48.383333
 1258665573,Gynerium_sagittatum,-14.3,-48.38333
 1928411592,Gynerium_sagittatum,18.92,-70.17
@@ -144,8 +135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893445136,Gynerium_sagittatum,20.375,-90.058333
 1259636119,Gynerium_sagittatum,-0.016667,-77.6
 1259632883,Gynerium_sagittatum,0.43333,-78.01666
-47778990,Gynerium_sagittatum,0.433,-80.05
-1259744611,Gynerium_sagittatum,0.43333,-80.05
 1928629449,Gynerium_sagittatum,-15.12,-48.17
 1265920324,Gynerium_sagittatum,-15.11667,-48.16667
 1896123956,Gynerium_sagittatum,16.905,-92.155
@@ -153,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259671990,Gynerium_sagittatum,-14.5,-67.5
 1930188351,Gynerium_sagittatum,-12.53,-68.75
 2290375739,Gynerium_sagittatum,-13.033333,-69.283333
-1259695801,Gynerium_sagittatum,9.36833,-82.26
 1258665834,Gynerium_sagittatum,4.98333,-64.81666
 1417931418,Gynerium_sagittatum,20.016944,-97.520833
 1417917664,Gynerium_sagittatum,20.075,-97.558333
@@ -167,12 +155,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258666261,Gynerium_sagittatum,-1.06666,-77.6
 1258665819,Gynerium_sagittatum,4.886157,-75.869492
 1042568019,Gynerium_sagittatum,-1.75,-61.25
-1894552972,Gynerium_sagittatum,18.783333,-92.160556
 1894874065,Gynerium_sagittatum,18.151389,-92.769167
-1291003538,Gynerium_sagittatum,-20.666667,-40.5
 1259744472,Gynerium_sagittatum,-3.33333,-79.41666
 47778974,Gynerium_sagittatum,-3.666,-79.616
-1929037328,Gynerium_sagittatum,-20.67,-40.5
 47778972,Gynerium_sagittatum,-3.333,-79.416
 1258813002,Gynerium_sagittatum,-3.66666,-79.61666
 1258812998,Gynerium_sagittatum,0.25,-78.56666
@@ -216,8 +201,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47778963,Gynerium_sagittatum,-2.216,-79.133
 1260002047,Gynerium_sagittatum,-2.21666,-79.13333
 47778961,Gynerium_sagittatum,-2.283,-79
-47778917,Gynerium_sagittatum,-0.216,-78.466
-1258813010,Gynerium_sagittatum,-0.21666,-78.46666
 45257703,Gynerium_sagittatum,10.43,-84.03
 1258814729,Gynerium_sagittatum,-0.28333,-79.08333
 47778936,Gynerium_sagittatum,-0.283,-79.083
@@ -299,13 +282,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258665892,Gynerium_sagittatum,15.76583,-86.99916
 1456287220,Gynerium_sagittatum,8.03,-59.81
 1258666069,Gynerium_sagittatum,9.16944,-79.87083
-1455979371,Gynerium_sagittatum,6.8,-58.13
 1258665909,Gynerium_sagittatum,9.16,-79.86
 1456194929,Gynerium_sagittatum,7.75,-60.25
 1456473320,Gynerium_sagittatum,8.25,-59.75
-1455976295,Gynerium_sagittatum,6.86,-58.41
 1258914916,Gynerium_sagittatum,18.433333,-77.2
 1929126403,Gynerium_sagittatum,18.438029,-66.392925
-1056239323,Gynerium_sagittatum,-23.236211,-58.391024
 1260382373,Gynerium_sagittatum,11.96666,-86.1
-473283797,Gynerium_sagittatum,23.0558,-82.3314
