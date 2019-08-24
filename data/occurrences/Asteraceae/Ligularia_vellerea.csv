@@ -2,7 +2,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228159422,Ligularia_vellerea,27.4758,99.8842
 1228308890,Ligularia_vellerea,29.2136,101.5386
 1228422810,Ligularia_vellerea,29.2767,101.4714
-1998417429,Ligularia_vellerea,27.8333,99.6
 1998803811,Ligularia_vellerea,28.618889,99.821389
 919455698,Ligularia_vellerea,27.82308,99.706013
 615350922,Ligularia_vellerea,27.63,99.75
@@ -21,5 +20,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 919537971,Ligularia_vellerea,26.56023,100.17643
 1303991674,Ligularia_vellerea,26.537043,99.905548
 1999282978,Ligularia_vellerea,28.46,100.68
-1998842984,Ligularia_vellerea,26.8,100.2667
 1998796796,Ligularia_vellerea,27.03,100.21
