@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935669921,Calluna_vulgaris,46.89889,15.02583
 1919927514,Calluna_vulgaris,47.57333,13.62472
 1830975619,Calluna_vulgaris,48.42472,16.34167
-1844870709,Calluna_vulgaris,42.6,-2.76
 1658231681,Calluna_vulgaris,65.68586,-18.12038
 1702175971,Calluna_vulgaris,59.615,11.2237
 2244175348,Calluna_vulgaris,51.820831,11.067778
@@ -31,7 +30,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313368232,Calluna_vulgaris,48.03,11.38
 1702250728,Calluna_vulgaris,59.9055,10.2068
 1949959710,Calluna_vulgaris,42.368056,2.153056
-1668750894,Calluna_vulgaris,48.6,8.2
 1935668578,Calluna_vulgaris,47.10306,15.49306
 1099343760,Calluna_vulgaris,36.22511,-5.58233
 1099343961,Calluna_vulgaris,36.57318,-5.02343
@@ -55,8 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1837900645,Calluna_vulgaris,50.503334,6.330278
 1701969877,Calluna_vulgaris,62.297,9.6072
 1948538364,Calluna_vulgaris,61.116041,24.398248
-1095920553,Calluna_vulgaris,63,12
-1949947949,Calluna_vulgaris,52.244444,7.7
 781075099,Calluna_vulgaris,36.362,-5.268
 1936275735,Calluna_vulgaris,39.069444,-8.4475
 1936276318,Calluna_vulgaris,39.313056,-7.359722
@@ -98,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313858035,Calluna_vulgaris,68.067942,16.289115
 2335397165,Calluna_vulgaris,67.971506,16.55666
 1697696113,Calluna_vulgaris,57.997986,41.134374
-986393385,Calluna_vulgaris,50.116667,20.7
 1851342893,Calluna_vulgaris,43.0429,-5.3971
 1697696083,Calluna_vulgaris,58.377159,45.464122
 1701081237,Calluna_vulgaris,43.477685,11.966334
@@ -133,7 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291778842,Calluna_vulgaris,52.055633,5.837933
 900308058,Calluna_vulgaris,59.3281,6.9835
 900313323,Calluna_vulgaris,59.3664,7.0469
-786102615,Calluna_vulgaris,48.8,13
 895308870,Calluna_vulgaris,39.834,-1.428
 1323856959,Calluna_vulgaris,69.7058,19.1634
 895234401,Calluna_vulgaris,39.78,-1.07
@@ -158,7 +152,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 59980313,Calluna_vulgaris,42.84797,-8.002608
 1323856420,Calluna_vulgaris,70.0835,22.3681
 1936661829,Calluna_vulgaris,42.8481,0.7356
-1096211119,Calluna_vulgaris,58,13
 1936656407,Calluna_vulgaris,65.8333,21.6167
 1701302600,Calluna_vulgaris,63.8157,10.6646
 1697617002,Calluna_vulgaris,53.071608,40.365792
@@ -189,7 +182,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701779573,Calluna_vulgaris,65.7055,14.3215
 994553117,Calluna_vulgaris,49.53513,20.2164
 1999604559,Calluna_vulgaris,60.180051,23.148399
-59980222,Calluna_vulgaris,62.142424,10.7
 895232942,Calluna_vulgaris,39.84,-1.206
 59980227,Calluna_vulgaris,41.911084,-7.969098
 1323737735,Calluna_vulgaris,59.7222,11.3694
@@ -220,7 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851390978,Calluna_vulgaris,42.73,-5.75
 1323790628,Calluna_vulgaris,69.225,17.9691
 165386796,Calluna_vulgaris,38.383,-3.681
-415616143,Calluna_vulgaris,37.1,-3.5
 1323737241,Calluna_vulgaris,69.695,18.9844
 1936640439,Calluna_vulgaris,67.6333,33.6833
 1701769795,Calluna_vulgaris,62.466,7.0231
@@ -235,8 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999604515,Calluna_vulgaris,60.736051,22.414628
 1701849174,Calluna_vulgaris,59.2159,11.6076
 895299464,Calluna_vulgaris,40.2271,-1.9709
-199466306,Calluna_vulgaris,36.07,-5.5
-24701712,Calluna_vulgaris,42,-6
 860335127,Calluna_vulgaris,40.224,-4.969
 1936685297,Calluna_vulgaris,43.2722,-5.3796
 895234533,Calluna_vulgaris,37.293,-8.566
@@ -259,7 +248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290547679,Calluna_vulgaris,52.011,5.913833
 1851402914,Calluna_vulgaris,42.6912,-6.4126
 152912602,Calluna_vulgaris,46.399636,14.245283
-860337637,Calluna_vulgaris,43.4,-4.649
 1851381805,Calluna_vulgaris,42.366,-6.456
 186796073,Calluna_vulgaris,59.5791,7.3223
 1936646281,Calluna_vulgaris,42.8429,-4.7145
@@ -297,7 +285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 230816820,Calluna_vulgaris,51.808449,5.785955
 30931201,Calluna_vulgaris,40.860001,-3.77
 1936556565,Calluna_vulgaris,40.4444,-1.7867
-895168115,Calluna_vulgaris,60.28,23.8
 1851384134,Calluna_vulgaris,42.804,-6.328
 895205200,Calluna_vulgaris,39.029,-0.279
 1702164522,Calluna_vulgaris,59.6341,11.1857
@@ -317,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936625067,Calluna_vulgaris,39.0043,-5.3109
 199465952,Calluna_vulgaris,36.486,-5.395
 1936671346,Calluna_vulgaris,41.3005,-4.1838
-895174183,Calluna_vulgaris,39.7,-2.01
 1702163169,Calluna_vulgaris,59.7267,11.8199
 1936671380,Calluna_vulgaris,41.3094,-4.1959
 1702163102,Calluna_vulgaris,59.719,11.8441
@@ -357,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318105668,Calluna_vulgaris,42.74,0.19
 57682371,Calluna_vulgaris,61.9758,25.757099
 1936519304,Calluna_vulgaris,43.5453,-6.3525
-318105637,Calluna_vulgaris,42.7,-0.08
 1702089656,Calluna_vulgaris,58.5473,6.4311
 1144179754,Calluna_vulgaris,59.8836,5.525
 1638388296,Calluna_vulgaris,46.80694,14.96944
@@ -398,7 +383,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 59979995,Calluna_vulgaris,42.888248,-9.140828
 1288099733,Calluna_vulgaris,50.449042,10.044408
 59979996,Calluna_vulgaris,42.906285,-9.11637
-2309940966,Calluna_vulgaris,51.63,-3.9
 318105536,Calluna_vulgaris,42.23,-3.18
 30851424,Calluna_vulgaris,36.389999,-5.45
 1851389934,Calluna_vulgaris,43.068,-5.082
@@ -416,7 +400,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39257475,Calluna_vulgaris,64.382,-21.311
 199465823,Calluna_vulgaris,43.337,-5.597
 1851388279,Calluna_vulgaris,41.438,-8.396
-211620795,Calluna_vulgaris,43.330002,-5.6
 1851376316,Calluna_vulgaris,43.34,-5.486
 1936435853,Calluna_vulgaris,43.3303,-5.6039
 59979811,Calluna_vulgaris,43.336094,-5.596583
@@ -429,7 +412,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895139802,Calluna_vulgaris,39.78,-1.31
 59980246,Calluna_vulgaris,41.830663,-8.042642
 1936575470,Calluna_vulgaris,38.3844,-3.8371
-30851420,Calluna_vulgaris,42.880001,-0.8
 1598822813,Calluna_vulgaris,60.966183,24.447727
 1936410569,Calluna_vulgaris,42.2846,-6.7698
 1500200218,Calluna_vulgaris,50.366667,12.916667
@@ -468,7 +450,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701081497,Calluna_vulgaris,43.679444,11.612742
 1230542782,Calluna_vulgaris,47.08333,13.33333
 1323745177,Calluna_vulgaris,70.7958,25.5154
-1851324011,Calluna_vulgaris,39.6,-1.08
 1936403444,Calluna_vulgaris,42.726667,-7.021667
 1323772408,Calluna_vulgaris,70.8935,25.3986
 2244178873,Calluna_vulgaris,48.503059,8.36194
@@ -502,9 +483,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895171078,Calluna_vulgaris,40.256,-0.348
 1705872056,Calluna_vulgaris,53.1197,23.0805
 1705345699,Calluna_vulgaris,57.230942,15.788662
-895261198,Calluna_vulgaris,40.04,-0.6
 1936442590,Calluna_vulgaris,41.4876,-1.6357
-786102496,Calluna_vulgaris,49.5,8
 2336653793,Calluna_vulgaris,61.379704,9.640917
 187104804,Calluna_vulgaris,62.7371,9.2837
 1697616837,Calluna_vulgaris,56.814176,21.453896
@@ -523,7 +502,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199465724,Calluna_vulgaris,36.63549,-4.90721
 199465861,Calluna_vulgaris,36.606,-5.231
 1936147202,Calluna_vulgaris,40.19699,-8.41394
-1053985211,Calluna_vulgaris,42.63,-1.1
 1053985239,Calluna_vulgaris,42.65,-1.16
 2028547188,Calluna_vulgaris,42.15,2.76
 1053985253,Calluna_vulgaris,42.65,-1.07
@@ -533,11 +511,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230545171,Calluna_vulgaris,48.125,16.20806
 1705345705,Calluna_vulgaris,57.239845,15.666103
 1598822994,Calluna_vulgaris,62.563165,23.398237
-895260646,Calluna_vulgaris,40.3,-0.23
 1697617033,Calluna_vulgaris,58.116355,44.395431
 1144641087,Calluna_vulgaris,43.95083,-1.35444
 1053983376,Calluna_vulgaris,42.65,-1.09
-30851429,Calluna_vulgaris,42.790001,-6.8
 30851430,Calluna_vulgaris,43.16,-4.85
 1851408670,Calluna_vulgaris,42.83,-5.51
 204422084,Calluna_vulgaris,42.950001,-0.824
@@ -553,10 +529,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053985721,Calluna_vulgaris,42.64,-1.17
 1701079935,Calluna_vulgaris,44.25488,10.25461
 1050631356,Calluna_vulgaris,42.79,-2.96
-165386734,Calluna_vulgaris,38.61,-4.9
 1705872124,Calluna_vulgaris,53.1335,23.1513
 1705872085,Calluna_vulgaris,53.1412,23.1264
-1851395267,Calluna_vulgaris,42.65,-5.5
 1705871930,Calluna_vulgaris,53.1378,23.168
 1705872137,Calluna_vulgaris,53.1366,23.1547
 1936138096,Calluna_vulgaris,39.3937,-5.2076
@@ -628,7 +602,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053986011,Calluna_vulgaris,43.27,-1.78
 1936377806,Calluna_vulgaris,42.5027,-3.6464
 1936165840,Calluna_vulgaris,42.4409,-8.661
-895214075,Calluna_vulgaris,40.14,-1.3
 1936090471,Calluna_vulgaris,40.1869,-1.3567
 895154906,Calluna_vulgaris,42.55,-6.02
 1851395218,Calluna_vulgaris,42.56,-6.62
@@ -644,16 +617,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323772410,Calluna_vulgaris,70.0193,20.7889
 30851438,Calluna_vulgaris,41.009998,-3.48
 1323772454,Calluna_vulgaris,65.3663,12.129
-30851436,Calluna_vulgaris,41.189999,-3.6
 1948538474,Calluna_vulgaris,60.624172,27.067225
 1851385905,Calluna_vulgaris,42.92,-6.37
 296433255,Calluna_vulgaris,47.274,10.793
-211620571,Calluna_vulgaris,43.220001,-4.7
 296433256,Calluna_vulgaris,47.509,12.11
 204422260,Calluna_vulgaris,43.230999,-3.265
 2028546417,Calluna_vulgaris,50.57,-3.89
 296433258,Calluna_vulgaris,46.506,1.775
-1050631391,Calluna_vulgaris,42.95,-2.6
 1050631452,Calluna_vulgaris,43.01,-2.72
 296433257,Calluna_vulgaris,47.170833,11.566389
 318106235,Calluna_vulgaris,42.75,0.86
@@ -661,7 +631,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204422265,Calluna_vulgaris,43.299999,-2.082
 204422261,Calluna_vulgaris,42.903999,-2.075
 204422262,Calluna_vulgaris,42.735001,-2.579
-1851334109,Calluna_vulgaris,43,-6.24
 1851334580,Calluna_vulgaris,43.01,-6.48
 1701079851,Calluna_vulgaris,42.446132,11.227309
 1935668229,Calluna_vulgaris,47.03111,15.15139
@@ -682,11 +651,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851388019,Calluna_vulgaris,42.74,-5.38
 1323772406,Calluna_vulgaris,68.8939,17.327
 1936524608,Calluna_vulgaris,42.9779,-4.7183
-2006374072,Calluna_vulgaris,58,-4
 39626166,Calluna_vulgaris,65.62,-18.097
-211620572,Calluna_vulgaris,43.169998,-4.8
 1806556118,Calluna_vulgaris,42.896696,-1.780896
-1851399588,Calluna_vulgaris,43,-5.76
 1323772433,Calluna_vulgaris,68.1807,17.2123
 1999585334,Calluna_vulgaris,68.819903,27.30561
 1851320948,Calluna_vulgaris,42.66,-5.01
@@ -707,7 +673,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455434287,Calluna_vulgaris,49.754855,5.305618
 1053980909,Calluna_vulgaris,42.95,-0.83
 1936391191,Calluna_vulgaris,41.0084,-1.4911
-1851359506,Calluna_vulgaris,42.2,-6.52
 1144088252,Calluna_vulgaris,60.894,6.1524
 1332527838,Calluna_vulgaris,50.624968,9.858097
 1702240984,Calluna_vulgaris,59.6569,10.8145
@@ -715,7 +680,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851384501,Calluna_vulgaris,42.84,-6.86
 1705872063,Calluna_vulgaris,53.1144,22.827
 204422237,Calluna_vulgaris,42.66,-1.23
-1702509452,Calluna_vulgaris,43.17,-1.5
 1050631430,Calluna_vulgaris,42.61,-2.53
 204422263,Calluna_vulgaris,42.618,-2.531
 204422258,Calluna_vulgaris,43.222,-3.179
@@ -750,7 +714,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936041681,Calluna_vulgaris,41.9359,-3.52
 1897829931,Calluna_vulgaris,52.866667,0.716667
 1697282017,Calluna_vulgaris,56.243083,66.857294
-296433210,Calluna_vulgaris,47.1,12.55
 1999583031,Calluna_vulgaris,68.972566,26.933287
 1842896830,Calluna_vulgaris,42.66,0.86
 1806554648,Calluna_vulgaris,43.161,-1.715
@@ -760,7 +723,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318219840,Calluna_vulgaris,58.9311,5.5867
 1701079888,Calluna_vulgaris,43.747481,10.46016
 2287489003,Calluna_vulgaris,52.068889,4.222222
-199466175,Calluna_vulgaris,36.7,-5.85
 1598822785,Calluna_vulgaris,61.517998,23.811267
 1598822824,Calluna_vulgaris,68.386062,23.796932
 1697616830,Calluna_vulgaris,56.862209,26.120418
@@ -811,7 +773,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1273866402,Calluna_vulgaris,60.666667,21.516667
 1702439061,Calluna_vulgaris,60.297,11.7239
 1999583160,Calluna_vulgaris,68.802035,27.26821
-1988208174,Calluna_vulgaris,60.7,21.5
 1701663331,Calluna_vulgaris,61.5747,11.0433
 1598823002,Calluna_vulgaris,60.724847,27.271868
 1598822716,Calluna_vulgaris,60.720631,27.097656
@@ -828,7 +789,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050631499,Calluna_vulgaris,42.78,-2.57
 199465821,Calluna_vulgaris,36.53,-5.18
 1936090472,Calluna_vulgaris,40.1926,-1.8265
-199465574,Calluna_vulgaris,41.5,2.1
 186795426,Calluna_vulgaris,58.4337,7.8226
 1668934255,Calluna_vulgaris,54.855,37.603
 1701879378,Calluna_vulgaris,63.4087,11.82983
@@ -869,13 +829,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39253559,Calluna_vulgaris,65.944,-18.422
 1697617022,Calluna_vulgaris,50.2647,28.671682
 1697616877,Calluna_vulgaris,55.050831,41.23812
-211620532,Calluna_vulgaris,43.560001,-7.7
 1622359072,Calluna_vulgaris,60.260074,24.919573
 1144641075,Calluna_vulgaris,42.41667,9.36667
 211620898,Calluna_vulgaris,43.459999,-6.55
 211621416,Calluna_vulgaris,43.540001,-6.74
 211620634,Calluna_vulgaris,43.560001,-6.73
-211620915,Calluna_vulgaris,43.5,-6.55
 30851428,Calluna_vulgaris,42.43,-0.81
 788505338,Calluna_vulgaris,57.67189,11.89686
 1851400156,Calluna_vulgaris,42.66,-5.14
@@ -883,7 +841,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702298360,Calluna_vulgaris,65.86246,12.43757
 1065679798,Calluna_vulgaris,64.7608,20.883935
 1702298283,Calluna_vulgaris,62.9089,7.012
-39252765,Calluna_vulgaris,66,-18.385
 1598820016,Calluna_vulgaris,61.383449,22.97301
 1948538439,Calluna_vulgaris,62.412275,24.771673
 1705872114,Calluna_vulgaris,53.1202,23.2122
@@ -895,7 +852,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260848665,Calluna_vulgaris,48.08138,6.92611
 1144088192,Calluna_vulgaris,66.01021,13.97008
 1705872119,Calluna_vulgaris,53.1249,23.1498
-211621199,Calluna_vulgaris,43.049999,-6
 1842893359,Calluna_vulgaris,42.05,2.34
 1705872049,Calluna_vulgaris,53.0923,23.6021
 1705872028,Calluna_vulgaris,53.0871,23.1084
@@ -985,7 +941,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2308986299,Calluna_vulgaris,52.41,-3.66
 1701227287,Calluna_vulgaris,62.8799,9.5603
 57682366,Calluna_vulgaris,62.696499,26.117701
-1323864665,Calluna_vulgaris,67.1177,15
 1323864444,Calluna_vulgaris,67.3005,14.4195
 860319564,Calluna_vulgaris,42.03,0.89
 39626176,Calluna_vulgaris,66.118,-18.647
@@ -1040,7 +995,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598819921,Calluna_vulgaris,61.179305,24.347749
 39626168,Calluna_vulgaris,65.437,-17.348
 812021799,Calluna_vulgaris,50.7283,9.36395
-39626167,Calluna_vulgaris,65.612,-17.5
 1701081392,Calluna_vulgaris,43.963051,10.659989
 1701081442,Calluna_vulgaris,43.985517,10.670847
 39626175,Calluna_vulgaris,65.74,-18.22
@@ -1133,7 +1087,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598822941,Calluna_vulgaris,61.615189,25.5833
 1324015738,Calluna_vulgaris,58.4233,7.8675
 1598822927,Calluna_vulgaris,63.132517,21.540172
-1935667434,Calluna_vulgaris,47.12306,15.6
 788513158,Calluna_vulgaris,56.3807,14.000812
 1065679797,Calluna_vulgaris,64.006079,20.055327
 57682500,Calluna_vulgaris,63.685799,26.6933
@@ -1262,7 +1215,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1606511247,Calluna_vulgaris,62.230672,26.028458
 788534874,Calluna_vulgaris,61.51457,16.8624
 1702298357,Calluna_vulgaris,62.3226,7.6685
-2236060076,Calluna_vulgaris,68.833,26
 1598822966,Calluna_vulgaris,60.503056,23.629384
 1701853093,Calluna_vulgaris,59.4375,11.6899
 2273633377,Calluna_vulgaris,55.79848,14.16002
@@ -1338,7 +1290,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788518150,Calluna_vulgaris,56.031862,14.152378
 187104840,Calluna_vulgaris,63.6079,8.9698
 1598822856,Calluna_vulgaris,62.224071,21.319938
-1705489003,Calluna_vulgaris,62,24.6
 1622359116,Calluna_vulgaris,62.759719,21.21684
 1999484287,Calluna_vulgaris,69.382299,26.04173
 1701335431,Calluna_vulgaris,64.637,12.6981
@@ -1456,7 +1407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1340036990,Calluna_vulgaris,58.06894,15.019
 1701654974,Calluna_vulgaris,61.8154,7.6962
 187104846,Calluna_vulgaris,59.9222,5.6992
-1893207625,Calluna_vulgaris,49.9,6.11
 1705382992,Calluna_vulgaris,56.747793,15.898397
 1701081491,Calluna_vulgaris,43.713625,10.767027
 1701081543,Calluna_vulgaris,43.783147,10.715882
@@ -1512,7 +1462,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701234140,Calluna_vulgaris,62.8125,10.4223
 1702265938,Calluna_vulgaris,59.0949,8.99701
 187104450,Calluna_vulgaris,63.0607,8.3867
-1891602427,Calluna_vulgaris,49.8,6.18
 1705298344,Calluna_vulgaris,57.631649,14.884523
 1705369034,Calluna_vulgaris,57.96394,14.892906
 788519756,Calluna_vulgaris,56.81261,13.05008
@@ -1530,7 +1479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812021801,Calluna_vulgaris,50.76605,9.081933
 1697616832,Calluna_vulgaris,56.967439,23.764114
 812021818,Calluna_vulgaris,50.67815,9.156783
-1273867688,Calluna_vulgaris,64.033333,-22
 1935986294,Calluna_vulgaris,40.954,-2.4666
 57682478,Calluna_vulgaris,61.343853,24.502089
 1999583065,Calluna_vulgaris,60.508063,22.70854
@@ -1626,7 +1574,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702298363,Calluna_vulgaris,62.3051,7.2932
 1702298282,Calluna_vulgaris,62.3264,7.5912
 1705417309,Calluna_vulgaris,57.683244,11.998121
-860315675,Calluna_vulgaris,41.78,2.7
 1702298266,Calluna_vulgaris,62.3706,7.5311
 39252948,Calluna_vulgaris,66.117,-16.34
 1702298364,Calluna_vulgaris,62.4574,7.6819
@@ -2053,7 +2000,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 616368009,Calluna_vulgaris,50.962788,5.98031
 616368024,Calluna_vulgaris,51.46,5.47
 1701874427,Calluna_vulgaris,59.7521,11.0022
-616368006,Calluna_vulgaris,50.58,6
 616368093,Calluna_vulgaris,51.45,5.56
 39252939,Calluna_vulgaris,65.995,-18.373
 1323806327,Calluna_vulgaris,65.8515,13.2255
@@ -2316,7 +2262,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788520648,Calluna_vulgaris,58.535309,15.038314
 1702265985,Calluna_vulgaris,59.9379,10.0916
 788507704,Calluna_vulgaris,65.34164,21.41092
-788605068,Calluna_vulgaris,63,23.815833
 788538245,Calluna_vulgaris,56.20219,15.56228
 1701879387,Calluna_vulgaris,67.85777,14.95711
 1701663411,Calluna_vulgaris,61.7602,8.3228
@@ -2466,7 +2411,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 296433248,Calluna_vulgaris,47.164858,11.453703
 1598819906,Calluna_vulgaris,64.197958,29.77593
 788529943,Calluna_vulgaris,58.75595,12.26188
-296433247,Calluna_vulgaris,47.2,11.45
 1705421466,Calluna_vulgaris,57.758542,14.125296
 788511990,Calluna_vulgaris,59.93385,16.56293
 2313351037,Calluna_vulgaris,48.17,11.46
