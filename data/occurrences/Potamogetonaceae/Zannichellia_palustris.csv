@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1947774887,Zannichellia_palustris,48.59,10.9
 2242358089,Zannichellia_palustris,38.17276,-102.53285
 2269046133,Zannichellia_palustris,43.606268,10.437921
 1986913431,Zannichellia_palustris,41.4801579990637,-112.050306
@@ -48,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1211935106,Zannichellia_palustris,47.85806,13.78417
 1211935105,Zannichellia_palustris,47.55856,13.35044
 1676115870,Zannichellia_palustris,47.700517,12.324767
-1935733210,Zannichellia_palustris,45.13333,13.7
 2270467098,Zannichellia_palustris,32.244695,-110.688166
 2270643576,Zannichellia_palustris,31.482409,-110.118195
 1233568734,Zannichellia_palustris,41.8552,19.47145
@@ -99,13 +97,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270577570,Zannichellia_palustris,31.4776,-110.63
 2290791334,Zannichellia_palustris,51.49535,4.2306
 2289981328,Zannichellia_palustris,51.587167,4.202467
-1988176974,Zannichellia_palustris,49.21,-123.2
 2312416529,Zannichellia_palustris,48.72,11.66
 1340037527,Zannichellia_palustris,55.82772,13.47711
 2242409633,Zannichellia_palustris,37.8057,-105.81873
 2290093656,Zannichellia_palustris,52.394567,5.222433
 1702026408,Zannichellia_palustris,59.1802,10.9688
-1095920681,Zannichellia_palustris,59,17
 1144053619,Zannichellia_palustris,58.6455,5.7949
 1882442843,Zannichellia_palustris,48.54,10.34
 1882442848,Zannichellia_palustris,48.55,10.35
@@ -114,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846551984,Zannichellia_palustris,36.5609600344807,-112.176945353678
 2291902488,Zannichellia_palustris,51.938,5.618
 1803773136,Zannichellia_palustris,55.87701,12.82951
-1095918319,Zannichellia_palustris,61,17
 1343151411,Zannichellia_palustris,55.345512,8.659709
 1135466038,Zannichellia_palustris,48.11889,16.61
 895221083,Zannichellia_palustris,39.951,-0.84
@@ -167,7 +162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697366436,Zannichellia_palustris,52.401667,36.528333
 1807248573,Zannichellia_palustris,46.407222,-63.063889
 1843912202,Zannichellia_palustris,36.884773,-104.78862
-1697366379,Zannichellia_palustris,52.183333,37.8
 1697366428,Zannichellia_palustris,52.668333,37.033333
 1697366450,Zannichellia_palustris,53.035,37.733333
 1807248754,Zannichellia_palustris,46.413056,-63.060556
@@ -182,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343151550,Zannichellia_palustris,55.973771,12.362747
 1260999593,Zannichellia_palustris,36.66305,-91.19611
 1846481134,Zannichellia_palustris,31.4398,-110.108
-217095849,Zannichellia_palustris,34.8,-87
 1936207295,Zannichellia_palustris,42.9543,-2.6826
 1851400655,Zannichellia_palustris,42.3062,-5.4041
 1936208360,Zannichellia_palustris,42.263,-1.704
@@ -191,8 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851404360,Zannichellia_palustris,42.5069,-5.2767
 1936248169,Zannichellia_palustris,42.5043,-5.2785
 465894315,Zannichellia_palustris,45.674559,-63.900703
-1050646549,Zannichellia_palustris,42.5,-5.28
-1851578438,Zannichellia_palustris,42.5,-5.27
 1851369523,Zannichellia_palustris,42.4458,-5.4033
 1343151541,Zannichellia_palustris,55.245012,12.332566
 465894470,Zannichellia_palustris,45.79506,-63.556051
@@ -214,7 +205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894646744,Zannichellia_palustris,20.513719,-100.439708
 1231247872,Zannichellia_palustris,40.9725,-118.15944
 1897383169,Zannichellia_palustris,20.508333,-100.425
-202127726,Zannichellia_palustris,38.5,-122.05
 1928590747,Zannichellia_palustris,37.1445276372666,-112.548835398088
 1831356764,Zannichellia_palustris,54.1484,13.415
 1343151425,Zannichellia_palustris,57.53356,10.075892
@@ -223,7 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343151555,Zannichellia_palustris,56.060478,10.034523
 1343151561,Zannichellia_palustris,55.946459,8.382253
 1701854521,Zannichellia_palustris,59.1874,10.9728
-1146227845,Zannichellia_palustris,57.433333,-152.5
 1343151527,Zannichellia_palustris,55.573449,12.564176
 1343151545,Zannichellia_palustris,55.591486,11.847244
 1343151539,Zannichellia_palustris,55.121834,11.939209
@@ -256,7 +245,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936238686,Zannichellia_palustris,37.2318,-7.4006
 1343151386,Zannichellia_palustris,55.669112,11.12131
 1697760707,Zannichellia_palustris,45.149661,37.217474
-1060516455,Zannichellia_palustris,52,-9.5
 1658237663,Zannichellia_palustris,60.8088,-136.7881
 2307641779,Zannichellia_palustris,60.86,-135.72
 1658237647,Zannichellia_palustris,60.8564,-135.7153
@@ -309,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851575294,Zannichellia_palustris,40.37,-1.52
 1701317661,Zannichellia_palustris,65.8202,13.2052
 1947774857,Zannichellia_palustris,48.16,12.83
-1949638650,Zannichellia_palustris,52,-121.85
 910450824,Zannichellia_palustris,36.9204,-5.8867
 230820208,Zannichellia_palustris,51.710827,6.09256
 893490436,Zannichellia_palustris,39.816669,44.716671
@@ -364,7 +351,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897383201,Zannichellia_palustris,28.165556,-105.625278
 1343151516,Zannichellia_palustris,55.802542,11.655166
 177058757,Zannichellia_palustris,38.262778,-103.68
-415915799,Zannichellia_palustris,41.5,-73.45
 1343151449,Zannichellia_palustris,56.47619,9.688638
 1702193743,Zannichellia_palustris,59.0713,10.8724
 1343151391,Zannichellia_palustris,55.147222,8.488807
@@ -408,7 +394,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415903444,Zannichellia_palustris,41.27944,-73.02583
 1343151436,Zannichellia_palustris,55.290494,9.620726
 1600858074,Zannichellia_palustris,61.041478,24.278081
-895174357,Zannichellia_palustris,39.7,-2.01
 230820210,Zannichellia_palustris,51.862276,5.815467
 230820215,Zannichellia_palustris,51.862166,5.844501
 1343151578,Zannichellia_palustris,55.576773,12.294236
@@ -443,12 +428,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788658324,Zannichellia_palustris,55.49171,14.04357
 2270644411,Zannichellia_palustris,34.8886,-112.329
 1258775521,Zannichellia_palustris,-3.25,36.75
-1697366540,Zannichellia_palustris,67,32.333333
 1702328000,Zannichellia_palustris,58.9771,5.6412
 1323692827,Zannichellia_palustris,69.7197,30.091
 1343151424,Zannichellia_palustris,56.296605,9.669247
 1895542622,Zannichellia_palustris,18.793667,-98.953222
-1228189170,Zannichellia_palustris,-13.4,-76
 1893738553,Zannichellia_palustris,21.914444,-99.509167
 1894646784,Zannichellia_palustris,21.342667,-100.373333
 1894813399,Zannichellia_palustris,26.491667,-112.525
@@ -464,7 +447,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893738548,Zannichellia_palustris,20.876667,-99.995
 2270643117,Zannichellia_palustris,32.8571,-110.728
 2270643878,Zannichellia_palustris,32.857118,-110.727893
-1851571003,Zannichellia_palustris,38.68,-0.5
 1893941652,Zannichellia_palustris,23.417778,-99.329444
 1895542662,Zannichellia_palustris,18.578472,-99.299139
 1895108099,Zannichellia_palustris,23.415833,-99.265278
@@ -481,7 +463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895108052,Zannichellia_palustris,20.886389,-100.041111
 1929219048,Zannichellia_palustris,42.33,-104.93
 1343151373,Zannichellia_palustris,56.954208,8.908241
-2265424309,Zannichellia_palustris,44.8,-92.983333
 1343151435,Zannichellia_palustris,56.765466,8.826909
 1894646675,Zannichellia_palustris,20.798333,-100.221667
 1936575139,Zannichellia_palustris,41.0591,-2.0135
@@ -498,7 +479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948541200,Zannichellia_palustris,62.41011,21.194254
 1948541416,Zannichellia_palustris,62.226317,21.297206
 2313446420,Zannichellia_palustris,48.26,11.49
-56691024,Zannichellia_palustris,44.53,-68.4
 1702172929,Zannichellia_palustris,59.4317,11.1816
 1948541410,Zannichellia_palustris,62.301289,21.304232
 1701555412,Zannichellia_palustris,48.18417,16.20556
@@ -507,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177058774,Zannichellia_palustris,38.919295,-100.963072
 1343151537,Zannichellia_palustris,55.289541,11.6838
 1893979263,Zannichellia_palustris,20.068641364064,-100.035683168115
-1936641482,Zannichellia_palustris,-22.4,-70.2
 1936617344,Zannichellia_palustris,-22.3333,-69.5667
 1893918645,Zannichellia_palustris,18.556111,-99.24125
 1895542799,Zannichellia_palustris,18.55,-99.233333
@@ -541,12 +520,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473572853,Zannichellia_palustris,46.6846999990585,-71.648417
 1343151500,Zannichellia_palustris,55.681597,11.837881
 473569396,Zannichellia_palustris,46.6462,-71.8941
-574879439,Zannichellia_palustris,27,99
 441863890,Zannichellia_palustris,46.5475,-119.30111
 1894148791,Zannichellia_palustris,24.575,-98.958333
 1851330400,Zannichellia_palustris,42.074,-4.747
 1936548621,Zannichellia_palustris,42.0678,-4.754
-2270475848,Zannichellia_palustris,32,-116.767
 1894066213,Zannichellia_palustris,32.000028,-116.599917
 895314247,Zannichellia_palustris,40.732,-1.94
 1851326765,Zannichellia_palustris,39.07,-3.52
@@ -559,13 +536,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343151521,Zannichellia_palustris,55.344767,11.624439
 1936435437,Zannichellia_palustris,38.1577,-0.7071
 1054010862,Zannichellia_palustris,69.357482,18.301172
-1146248292,Zannichellia_palustris,60.26,-144.7
 415952920,Zannichellia_palustris,41.29,-72.3625
-1146261888,Zannichellia_palustris,61.31,-149.7
 415952919,Zannichellia_palustris,41.27666,-72.36361
 728979725,Zannichellia_palustris,51.654859,5.972464
 187280413,Zannichellia_palustris,63.4536,10.9124
-1851395452,Zannichellia_palustris,38.164,-0.7
 1260981132,Zannichellia_palustris,37.46444,-92.03944
 1701796527,Zannichellia_palustris,59.2146,10.7051
 1697366423,Zannichellia_palustris,53.690338,38.203477
@@ -598,12 +572,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 728979724,Zannichellia_palustris,51.690883,5.958468
 1936512887,Zannichellia_palustris,39.9882,-2.1462
 2270644376,Zannichellia_palustris,31.5134,-110.329
-1146382894,Zannichellia_palustris,59.4,-161.87
 1701239268,Zannichellia_palustris,63.4538,10.9143
 788649787,Zannichellia_palustris,55.68475,13.22546
 1948541222,Zannichellia_palustris,62.349701,21.256307
 895314078,Zannichellia_palustris,40.48,-0.11
-883412238,Zannichellia_palustris,49,-111.7
 1697366354,Zannichellia_palustris,59.962684,29.071848
 1893738545,Zannichellia_palustris,21.211667,-100.215
 1895108054,Zannichellia_palustris,21.2264009557991,-100.236180181814
@@ -626,7 +598,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936435434,Zannichellia_palustris,40.4312,-0.0541
 2313342476,Zannichellia_palustris,48.24,11.49
 1343151556,Zannichellia_palustris,56.600835,9.870071
-1986998909,Zannichellia_palustris,40.433333,-78
 1948541243,Zannichellia_palustris,64.66524,24.423901
 1343151526,Zannichellia_palustris,56.592075,9.837301
 1323723861,Zannichellia_palustris,69.6946,30.119
@@ -638,7 +609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936439123,Zannichellia_palustris,39.1152,-3.6953
 1343151551,Zannichellia_palustris,55.815513,12.533105
 1924397264,Zannichellia_palustris,47.574135,11.290347
-1949621575,Zannichellia_palustris,49.066667,-119.5
 1895108184,Zannichellia_palustris,26.334167,-111.767778
 441863895,Zannichellia_palustris,48.2827,-122.3706
 788658267,Zannichellia_palustris,55.73,12.99477
@@ -658,17 +628,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2312426542,Zannichellia_palustris,47.92,11.46
 895209937,Zannichellia_palustris,40.66,0.22
 2270644194,Zannichellia_palustris,32.89386,-109.47936
-1947774793,Zannichellia_palustris,49.99,10.7
 860309507,Zannichellia_palustris,39.7885,-6.388
 1702368621,Zannichellia_palustris,59.1577,9.6513
 2265424675,Zannichellia_palustris,45.068333,-93.12278
 415882960,Zannichellia_palustris,41.3425,-72.35361
 1697366422,Zannichellia_palustris,53.290561,37.742403
 415882961,Zannichellia_palustris,41.32333,-72.33138
-1697178238,Zannichellia_palustris,54.5,90
 788650077,Zannichellia_palustris,56.1626,14.37998
 1936544596,Zannichellia_palustris,42.6654,-3.5138
-1949655385,Zannichellia_palustris,50.7,-119.266667
 1894975373,Zannichellia_palustris,25.625,-108.3125
 1895108088,Zannichellia_palustris,25.643611,-108.328056
 1936444584,Zannichellia_palustris,39.4237,-2.978
@@ -677,10 +644,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895208857,Zannichellia_palustris,39.394,-3.168
 1936401179,Zannichellia_palustris,38.8943,-1.4469
 1936400995,Zannichellia_palustris,41.4268,-0.2488
-895189998,Zannichellia_palustris,40.66,-0.1
 2265425392,Zannichellia_palustris,45.568054,-93.55278
 895189849,Zannichellia_palustris,40.58,-0.34
-1949629960,Zannichellia_palustris,50.721667,-121.6
 1949629781,Zannichellia_palustris,50.683333,-121.25
 1948564418,Zannichellia_palustris,64.697398,24.466988
 1947774860,Zannichellia_palustris,50.13,10.55
@@ -696,7 +661,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936386167,Zannichellia_palustris,42.2611,-1.5464
 1936400863,Zannichellia_palustris,38.7225,-2.5273
 1936400067,Zannichellia_palustris,38.8427,-1.5667
-1050600979,Zannichellia_palustris,42.96,-2.9
 788649282,Zannichellia_palustris,56.43936,12.63926
 1948541229,Zannichellia_palustris,61.044473,24.340511
 1948541439,Zannichellia_palustris,60.399653,25.645404
@@ -712,9 +676,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986998427,Zannichellia_palustris,42.6981,-112.6435
 1948486624,Zannichellia_palustris,64.983125,25.439216
 1697366503,Zannichellia_palustris,53.571984,38.891417
-1050600986,Zannichellia_palustris,42.4,-1.6
 1949624527,Zannichellia_palustris,50.308333,-119.25
-1988090634,Zannichellia_palustris,49.1,-122.8
 788643137,Zannichellia_palustris,57.065,9.843056
 1050600990,Zannichellia_palustris,42.38,-1.45
 1949624304,Zannichellia_palustris,50.175,-120.525
@@ -755,7 +717,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702433050,Zannichellia_palustris,59.0464,11.0384
 1947774855,Zannichellia_palustris,50.13,10.47
 1699619221,Zannichellia_palustris,63.7843,11.4654
-1146398124,Zannichellia_palustris,65.2,-165.4
 699271198,Zannichellia_palustris,41.28055,-73.08277
 1947774856,Zannichellia_palustris,50.37,10.47
 1899287792,Zannichellia_palustris,45.35,-75.816667
@@ -798,7 +759,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893738555,Zannichellia_palustris,20.120833,-100.982222
 1893738561,Zannichellia_palustris,18.328056,-97.474722
 1893438120,Zannichellia_palustris,18.291667,-97.525
-1053980606,Zannichellia_palustris,42.05,-1.9
 1895108136,Zannichellia_palustris,31.583889,-116.500833
 1936402349,Zannichellia_palustris,39.1766,-3.939
 1144803405,Zannichellia_palustris,42.21667,9.26667
@@ -837,14 +797,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2247702674,Zannichellia_palustris,-31.699722,-63.531111
 1895108198,Zannichellia_palustris,19.88,-98.820833
 1417701637,Zannichellia_palustris,18.600833,-99.417778
-1426307180,Zannichellia_palustris,35.508333,-118.2
 1895542809,Zannichellia_palustris,18.6105,-99.429333
 1712606078,Zannichellia_palustris,42.487217,-2.400095
 1806556884,Zannichellia_palustris,42.689057,-1.584721
 1899375273,Zannichellia_palustris,44.333333,-79.25
 441863927,Zannichellia_palustris,48.23396,-118.90134
 1948541187,Zannichellia_palustris,63.271389,21.874189
-1899374812,Zannichellia_palustris,44.2,-79.516667
 1948541149,Zannichellia_palustris,61.547719,21.613838
 1948541224,Zannichellia_palustris,64.800916,24.565698
 2247703861,Zannichellia_palustris,-31.4325,-65.427222
@@ -860,7 +818,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2247702185,Zannichellia_palustris,-27.470833,-64.782222
 177058544,Zannichellia_palustris,44.83915,-103.389577
 177058705,Zannichellia_palustris,42.77012,-99.93687
-1050600974,Zannichellia_palustris,42.5,-2.57
 1851382309,Zannichellia_palustris,42.39,-5.25
 1949624444,Zannichellia_palustris,50.198611,-119.261111
 1949624594,Zannichellia_palustris,49.416667,-119.590278
@@ -868,11 +825,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927863953,Zannichellia_palustris,40.4291889747822,-109.069280025014
 177058543,Zannichellia_palustris,43.460978,-103.491293
 177058706,Zannichellia_palustris,44.806228,-104.126864
-1803147217,Zannichellia_palustris,43.533333,-79.6
 1804408747,Zannichellia_palustris,51.233333,-80.65
 1705317736,Zannichellia_palustris,57.2857,16.481774
 1947774794,Zannichellia_palustris,50.27,10.53
-1050600977,Zannichellia_palustris,43.18,-3.2
 1948541258,Zannichellia_palustris,61.03551,24.341262
 415882963,Zannichellia_palustris,41.14722,-73.36444
 1949624438,Zannichellia_palustris,49.234444,-121.956944
@@ -882,7 +837,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270289668,Zannichellia_palustris,34.333332,-117.25
 1930145604,Zannichellia_palustris,43.9822,-117.2381
 1843850375,Zannichellia_palustris,36.051874,-104.357236
-56691025,Zannichellia_palustris,34.3,-96.65
 1050600981,Zannichellia_palustris,42.85,-2.28
 788644114,Zannichellia_palustris,56.107946,14.167972
 39771243,Zannichellia_palustris,65.6545,-18.062
@@ -890,15 +844,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242363419,Zannichellia_palustris,39.547561,-105.093572
 1988180198,Zannichellia_palustris,49.14,-122.91
 991884893,Zannichellia_palustris,53.9484,11.4153
-1947774791,Zannichellia_palustris,50.26,10.2
 1947774796,Zannichellia_palustris,50.29,10.49
-237635989,Zannichellia_palustris,41.5,-1.74
 1949624720,Zannichellia_palustris,50.866667,-119.633333
 1948541212,Zannichellia_palustris,61.764455,21.533155
 39771244,Zannichellia_palustris,65.666,-18.084
 1949639371,Zannichellia_palustris,49.233333,-124.816667
 1030869429,Zannichellia_palustris,26.876096,100.229945
-1949624434,Zannichellia_palustris,50.2,-120.483333
 453391312,Zannichellia_palustris,-19.375,21.125
 1895108111,Zannichellia_palustris,23.004722,-103.461389
 1697760685,Zannichellia_palustris,41.698583,41.719337
@@ -915,29 +866,24 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949624414,Zannichellia_palustris,50.766667,-119.25
 1701631641,Zannichellia_palustris,59.164,9.6558
 1881898124,Zannichellia_palustris,59.44472,24.99528
-1949624592,Zannichellia_palustris,49.3,-116.65
 1895286932,Zannichellia_palustris,19.778889,-98.789444
-441864553,Zannichellia_palustris,49.4,-122.566667
 39771241,Zannichellia_palustris,65.652,-18.062
 177058658,Zannichellia_palustris,37.02666,-99.76784
 1929697412,Zannichellia_palustris,40.25342,-111.8622
 1895286955,Zannichellia_palustris,19.8230986624173,-99.4287229534357
 1039016410,Zannichellia_palustris,41.3219,-72.3017
 2247703866,Zannichellia_palustris,-31.390833,-64.190833
-1949624428,Zannichellia_palustris,49.433333,-121.8
 1949624585,Zannichellia_palustris,52.116667,-122.083333
 237636042,Zannichellia_palustris,39.75,-0.22
 1697760735,Zannichellia_palustris,45.083703,39.91951
 237636043,Zannichellia_palustris,40.67,0.69
 1895108123,Zannichellia_palustris,23.513611,-103.2675
-1949624441,Zannichellia_palustris,50.5,-118.733333
 2270647113,Zannichellia_palustris,36.858263,-112.014232
 177058655,Zannichellia_palustris,39.66973,-102.00654
 883361742,Zannichellia_palustris,49.0097689990662,-110.392272
 1948541174,Zannichellia_palustris,62.301761,21.315739
 1948242879,Zannichellia_palustris,61.606505,21.622616
 237636040,Zannichellia_palustris,39.4697,-0.3738
-1949624713,Zannichellia_palustris,49.3,-116.75
 2270475213,Zannichellia_palustris,30.923516,-109.810241
 1895108189,Zannichellia_palustris,20.583333,-99.648333
 1697178213,Zannichellia_palustris,43.301167,132.347907
@@ -948,7 +894,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270644830,Zannichellia_palustris,32.887514,-109.496915
 2270643634,Zannichellia_palustris,33.03,-109.303
 2270644797,Zannichellia_palustris,33.07135,-109.45507
-1949624410,Zannichellia_palustris,49.3,-121.716667
 2270645188,Zannichellia_palustris,31.367941,-110.579164
 1697720041,Zannichellia_palustris,44.96328,35.248175
 2270288829,Zannichellia_palustris,34.4245999991198,-119.835
@@ -968,7 +913,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270287270,Zannichellia_palustris,34.27422,-116.83222
 177058839,Zannichellia_palustris,38.86611,-101.33937
 615423842,Zannichellia_palustris,36.52,67.18
-1988064834,Zannichellia_palustris,49.1,-123.1
 1929936237,Zannichellia_palustris,42.6511,-120.2869
 1949624719,Zannichellia_palustris,49.858333,-119.611111
 51990872,Zannichellia_palustris,42.6506,-120.289
@@ -978,7 +922,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929488514,Zannichellia_palustris,41.8433967187655,-119.002353530746
 1948486395,Zannichellia_palustris,60.549925,27.242938
 615423844,Zannichellia_palustris,34.43,68.52
-1804401107,Zannichellia_palustris,48.8,-88.483333
 1949624413,Zannichellia_palustris,50.316667,-119.25
 860319439,Zannichellia_palustris,40.67,0.57
 1949638035,Zannichellia_palustris,49.416667,-122.55
@@ -986,8 +929,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949624723,Zannichellia_palustris,49.093611,-115.1125
 1949624598,Zannichellia_palustris,49.113611,-115.104444
 1949624560,Zannichellia_palustris,50.616111,-121.795833
-1949637836,Zannichellia_palustris,49.166667,-123.1
-1949624426,Zannichellia_palustris,49.133333,-123.1
 1949624537,Zannichellia_palustris,49.336667,-119.75
 1931134789,Zannichellia_palustris,36.8702,-117.6659
 2270643619,Zannichellia_palustris,32.9549,-109.531
@@ -1022,25 +963,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146269891,Zannichellia_palustris,61.08,-146.78
 1928133184,Zannichellia_palustris,39.048,-119.7775
 1928845454,Zannichellia_palustris,39.83276,-119.3672
-1988094008,Zannichellia_palustris,61.1,-146.8
 1929039917,Zannichellia_palustris,38.8885400386244,-119.704529544628
 1929833923,Zannichellia_palustris,39.5696290118328,-119.480833204319
-1988217755,Zannichellia_palustris,59.8,-150.9
 1948541259,Zannichellia_palustris,61.506811,21.614342
 177058659,Zannichellia_palustris,37.24623,-100.15821
 1948486502,Zannichellia_palustris,61.529967,21.585828
 1930710804,Zannichellia_palustris,41.6927059427612,-118.127029588127
 1948242897,Zannichellia_palustris,61.695843,21.607031
-1146326626,Zannichellia_palustris,64.83,-160.9
 1948486396,Zannichellia_palustris,61.540304,21.529363
 1929007522,Zannichellia_palustris,39.4681,-118.64
-1146269928,Zannichellia_palustris,59.78,-150.9
 1929146367,Zannichellia_palustris,39.38113157369,-119.592433357269
 1831356692,Zannichellia_palustris,53.6485,12.7484
-1146269874,Zannichellia_palustris,61.1,-149.91
 860319448,Zannichellia_palustris,39.1922,-5.125
 1928137808,Zannichellia_palustris,39.5405354705613,-118.734314885062
-1988194945,Zannichellia_palustris,61.1,-149.8
 453391311,Zannichellia_palustris,-25.625,27.875
 1895108080,Zannichellia_palustris,19.783611,-99.133333
 1895286935,Zannichellia_palustris,19.766111,-99.141944
@@ -1061,7 +996,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929723574,Zannichellia_palustris,38.9471,-115.6971
 1929816025,Zannichellia_palustris,40.5169093386064,-119.889856044216
 177058843,Zannichellia_palustris,38.938544,-98.57702
-883361650,Zannichellia_palustris,51,-110.016667
 1248741712,Zannichellia_palustris,51.650278,-79.070556
 883361719,Zannichellia_palustris,45.8149,-82.9464
 1948486327,Zannichellia_palustris,60.495302,27.515439
@@ -1073,10 +1007,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948486400,Zannichellia_palustris,60.486256,27.533485
 1948541219,Zannichellia_palustris,60.495501,27.46086
 1948541182,Zannichellia_palustris,60.583816,27.772265
-2287622033,Zannichellia_palustris,48.75,14
 1948486331,Zannichellia_palustris,60.495438,27.479053
 1948541251,Zannichellia_palustris,60.504412,27.479185
-1053981769,Zannichellia_palustris,43,-1.78
 1895395134,Zannichellia_palustris,32.333333,-116.933333
 1989140791,Zannichellia_palustris,19.7394,-97.2581
 2270475418,Zannichellia_palustris,32.3333,-116.933
@@ -1194,15 +1126,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1668929964,Zannichellia_palustris,56.21856,15.87188
 788643771,Zannichellia_palustris,57.377869,12.135442
 1893338755,Zannichellia_palustris,30.908333,-115.458333
-2270475754,Zannichellia_palustris,26.9,-101.416667
 1931100046,Zannichellia_palustris,36.581065,-103.308328
 2270473806,Zannichellia_palustris,27.024495,-102.097063
 1261981384,Zannichellia_palustris,48.18,-64.972222
 1893338781,Zannichellia_palustris,30.925,-115.408333
 1895395167,Zannichellia_palustris,27.024719,-102.098164
-2270476094,Zannichellia_palustris,30.9167,-115.4
 1895108194,Zannichellia_palustris,30.916667,-115.400833
-1895395125,Zannichellia_palustris,30.9,-115.45
 788651952,Zannichellia_palustris,55.941924,12.808718
 2270641756,Zannichellia_palustris,31.6303,-110.455
 2270645301,Zannichellia_palustris,33.54787,-111.64822
@@ -1233,9 +1162,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39608883,Zannichellia_palustris,63.999,-21.189
 1893423962,Zannichellia_palustris,16.741667,-92.608333
 1897842185,Zannichellia_palustris,41.77275,21.757361
-1988187122,Zannichellia_palustris,60,-112.4
 441863934,Zannichellia_palustris,44.255552,-112.980779
-883365926,Zannichellia_palustris,59.966667,-112.4
 441863933,Zannichellia_palustris,44.39364,-112.23
 441863892,Zannichellia_palustris,47.73556,-122.33556
 1948541188,Zannichellia_palustris,64.527013,24.298339
@@ -1248,7 +1175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323762506,Zannichellia_palustris,69.6485,29.4622
 441863897,Zannichellia_palustris,46.44778,-120.41917
 1989293899,Zannichellia_palustris,24.8233,-100.079
-912249536,Zannichellia_palustris,32,47
 177058675,Zannichellia_palustris,39.649453,-99.206744
 1845011173,Zannichellia_palustris,47.665833,9.135278
 1705420181,Zannichellia_palustris,60.257235,18.373806
@@ -1263,9 +1189,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701596867,Zannichellia_palustris,58.70682,5.7667
 1084960193,Zannichellia_palustris,54.0485,13.415
 788648758,Zannichellia_palustris,64.913056,25.503611
-2287623248,Zannichellia_palustris,65,25.333333
 1038222710,Zannichellia_palustris,54.0484,11.5819
-1261966267,Zannichellia_palustris,46.8,-71.35
 2247703878,Zannichellia_palustris,-31.023333,-63.455833
 883361648,Zannichellia_palustris,53.5466,-114.5904
 1701804272,Zannichellia_palustris,59.0374,11.0084
@@ -1291,8 +1215,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702261347,Zannichellia_palustris,59.7377,10.7522
 2247705309,Zannichellia_palustris,-29.736667,-64.1325
 1697720095,Zannichellia_palustris,44.854044,34.983215
-2288956116,Zannichellia_palustris,36.916667,34.9
-1261957522,Zannichellia_palustris,48.233333,-70.2
 39608543,Zannichellia_palustris,63.991,-21.165
 177058674,Zannichellia_palustris,37.25315,-98.58015
 453391303,Zannichellia_palustris,-24.875,16.875
@@ -1405,7 +1327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788658339,Zannichellia_palustris,55.709167,9.535833
 1052138189,Zannichellia_palustris,60.33,18.24056
 415882967,Zannichellia_palustris,41.33972,-71.8775
-317827061,Zannichellia_palustris,41.5,1.5
 2247703872,Zannichellia_palustris,-31.140278,-64.174167
 453391291,Zannichellia_palustris,-22.375,29.625
 1948541273,Zannichellia_palustris,60.452109,25.997688
@@ -1415,7 +1336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600858016,Zannichellia_palustris,60.556894,27.771623
 788659585,Zannichellia_palustris,56.052189,14.193676
 465869251,Zannichellia_palustris,45.15114,-64.47688
-876152777,Zannichellia_palustris,41.78,2.7
 788644059,Zannichellia_palustris,57.704499,11.965181
 2028614754,Zannichellia_palustris,63.906086,23.226868
 788644466,Zannichellia_palustris,55.71622,13.45651
@@ -1425,7 +1345,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948541271,Zannichellia_palustris,60.050427,23.496036
 2028614931,Zannichellia_palustris,63.965091,23.249415
 441863891,Zannichellia_palustris,47.94167,-119.00222
-1228355618,Zannichellia_palustris,-11.93,-76.7
 441863942,Zannichellia_palustris,44.660765,-114.226249
 1928973550,Zannichellia_palustris,41.843576,-104.821635
 788655074,Zannichellia_palustris,58.01181,11.623167
@@ -1451,7 +1370,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177301705,Zannichellia_palustris,35.30329,139.23306
 317827057,Zannichellia_palustris,41.41,1.98
 51990815,Zannichellia_palustris,44.5825,-117.83
-668793502,Zannichellia_palustris,47.4,-70.390556
 1261949061,Zannichellia_palustris,48.047778,-65.459167
 57733909,Zannichellia_palustris,62.341,21.210501
 1948551784,Zannichellia_palustris,60.265242,25.280666
@@ -1461,9 +1379,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39608610,Zannichellia_palustris,63.924,-21.989
 1948540930,Zannichellia_palustris,60.359155,25.638146
 177301706,Zannichellia_palustris,34.87226,137.8223
-1895395160,Zannichellia_palustris,17.79,-94.1
 2270644213,Zannichellia_palustris,33.5539,-111.626
-788614925,Zannichellia_palustris,38.033333,23.6
 1988597838,Zannichellia_palustris,31.583333,-116.516667
 1948540931,Zannichellia_palustris,64.466603,24.190072
 1600716859,Zannichellia_palustris,63.33961,22.301407
@@ -1494,7 +1410,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701341941,Zannichellia_palustris,59.1823,10.96
 177301700,Zannichellia_palustris,35.35639,136.92921
 2313342836,Zannichellia_palustris,48.11,11.55
-2287620865,Zannichellia_palustris,65.1,25.383333
 21661216,Zannichellia_palustris,59.0994,11.2782
 1426097855,Zannichellia_palustris,41.8006,-120.6351
 1999645310,Zannichellia_palustris,62.759719,21.21684
@@ -1526,10 +1441,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317827068,Zannichellia_palustris,41.76,1.26
 177301703,Zannichellia_palustris,37.57444,140.43803
 1600858101,Zannichellia_palustris,60.455092,26.542758
-1989322979,Zannichellia_palustris,42.2,-83.15
 788643945,Zannichellia_palustris,55.7211,13.02215
 1701328492,Zannichellia_palustris,59.0423,11.013
-354557574,Zannichellia_palustris,57,10
 1108592,Zannichellia_palustris,56.17269,15.28701
 1600857959,Zannichellia_palustris,60.201027,25.175701
 177301702,Zannichellia_palustris,36.46236,139.73375
@@ -1539,7 +1452,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788648408,Zannichellia_palustris,60.244137,18.343733
 788638572,Zannichellia_palustris,60.27691,18.42144
 1948540844,Zannichellia_palustris,62.241001,21.403413
-1260603354,Zannichellia_palustris,-20.9,-66.016667
 1705288727,Zannichellia_palustris,58.315184,11.465597
 788658795,Zannichellia_palustris,58.31518,11.4656
 1948540932,Zannichellia_palustris,64.649632,24.380536
@@ -1615,7 +1527,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187280638,Zannichellia_palustris,63.736,11.2181
 788657986,Zannichellia_palustris,55.86349,12.82167
 788648699,Zannichellia_palustris,59.52324,17.85532
-237636056,Zannichellia_palustris,41.5,2.22
 317827066,Zannichellia_palustris,42.03,0.77
 1288097754,Zannichellia_palustris,50.809283,10.26745
 788657185,Zannichellia_palustris,59.47073,18.24153
@@ -1670,7 +1581,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788673052,Zannichellia_palustris,55.46335,13.70961
 788657316,Zannichellia_palustris,56.902094,12.489298
 39608572,Zannichellia_palustris,64.175,-20.518
-354557544,Zannichellia_palustris,55,12
 1701199337,Zannichellia_palustris,42.411119,11.145667
 812034294,Zannichellia_palustris,50.7002,9.943917
 812034293,Zannichellia_palustris,50.782367,10.288767
