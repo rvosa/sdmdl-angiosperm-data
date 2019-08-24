@@ -18,7 +18,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426457516,Galium_stellatum,34.36378,-114.29517
 2270569334,Galium_stellatum,33.488888,-111.628891
 1846553918,Galium_stellatum,32.50213,-111.0512
-1258139704,Galium_stellatum,29.193667,-113.25025
 2270493294,Galium_stellatum,35.2624669991102,-114.687433
 2270559667,Galium_stellatum,33.772633,-111.4802
 1846555116,Galium_stellatum,33.144114,-111.137653
@@ -104,7 +103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930816754,Galium_stellatum,36.3602,-113.8166
 2270615260,Galium_stellatum,33.4943,-111.722
 2270613171,Galium_stellatum,31.865,-109.389
-2270547277,Galium_stellatum,28.28333,-115.25
 2270548411,Galium_stellatum,29.4,-114.2
 2270612462,Galium_stellatum,32.4822,-112.623
 2270614191,Galium_stellatum,32.2261,-113.668
@@ -220,12 +218,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270613498,Galium_stellatum,33.4992,-111.641
 2270613132,Galium_stellatum,33.3594,-114.106
 1893416595,Galium_stellatum,29.741667,-114.625
-1893425959,Galium_stellatum,28.258333,-115.208333
-1802575721,Galium_stellatum,29.52,-113.5
-1893416510,Galium_stellatum,29.541667,-113.558333
-1893416530,Galium_stellatum,29.491667,-113.558333
 2270612430,Galium_stellatum,33.4286,-111.418
-1893425975,Galium_stellatum,28.291667,-115.191667
 2270286613,Galium_stellatum,33.61462,-116.4156
 1802563395,Galium_stellatum,28.72,-113.53
 2270613192,Galium_stellatum,33.6485,-111.114
@@ -248,7 +241,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259570253,Galium_stellatum,31.6,-112.783333
 2270672841,Galium_stellatum,33.25,-112.25
 2270616471,Galium_stellatum,33.0011,-112.417
-2270676062,Galium_stellatum,33.46,-111.95
 1426311449,Galium_stellatum,32.67673,-116.08545
 1846488825,Galium_stellatum,33.644207,-111.112705
 2270613497,Galium_stellatum,32.1842,-111.06
