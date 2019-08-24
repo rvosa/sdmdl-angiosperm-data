@@ -21,7 +21,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1052818667,Lithospermum_officinale,42.086517,20.176333
 1697696093,Lithospermum_officinale,57.674843,61.772919
 1881815830,Lithospermum_officinale,48.79,10.68
-1881813337,Lithospermum_officinale,48.8,10.69
 1697632093,Lithospermum_officinale,47.568178,40.355137
 1697632147,Lithospermum_officinale,48.739862,40.422898
 1829497859,Lithospermum_officinale,36.540389,136.711692
@@ -100,7 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 198470349,Lithospermum_officinale,43.299999,-4.66
 1831523582,Lithospermum_officinale,42.24444,1.74028
 1697631983,Lithospermum_officinale,54.416667,36.133333
-1050640940,Lithospermum_officinale,42.82,-2.7
 1936659602,Lithospermum_officinale,39.364167,46.298333
 1697632007,Lithospermum_officinale,51.033333,40.733333
 895295025,Lithospermum_officinale,40.772,-0.944
@@ -159,7 +157,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702192498,Lithospermum_officinale,60.7733,10.8461
 1701411331,Lithospermum_officinale,59.7633,10.0236
 1702192444,Lithospermum_officinale,60.7714,10.8552
-1947269039,Lithospermum_officinale,48.31,13.3
 1230920646,Lithospermum_officinale,45.85556,-84.78194
 1929617390,Lithospermum_officinale,45.8556,-84.7819
 1144058614,Lithospermum_officinale,62.3298,7.3216
@@ -208,7 +205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668752502,Lithospermum_officinale,48.5925,-70.882222
 857372,Lithospermum_officinale,55.58366,12.92275
 857377,Lithospermum_officinale,55.64102,13.03293
-1881815006,Lithospermum_officinale,48.81,10.7
 1701785809,Lithospermum_officinale,59.5249,10.452
 1701785057,Lithospermum_officinale,60.9953,10.6176
 318115638,Lithospermum_officinale,40.66,-2.02
@@ -223,11 +219,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702255549,Lithospermum_officinale,59.84258,10.45045
 1323852422,Lithospermum_officinale,67.1978,15.4509
 1702382640,Lithospermum_officinale,60.7676,10.8631
-2313473654,Lithospermum_officinale,48.28,11.7
 1697632005,Lithospermum_officinale,49.844221,39.392113
 1936600435,Lithospermum_officinale,42.4339,-4.9465
 1668933922,Lithospermum_officinale,54.845,37.745
-1899276000,Lithospermum_officinale,43.85,-80
 2288446734,Lithospermum_officinale,43.325683,0.708467
 2313473489,Lithospermum_officinale,48.23,11.55
 1323833709,Lithospermum_officinale,68.8259,17.5321
@@ -244,9 +238,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702409229,Lithospermum_officinale,59.7638,9.9702
 1936429194,Lithospermum_officinale,43.2918,-1.9165
 1831264476,Lithospermum_officinale,53.7485,12.7484
-1851382305,Lithospermum_officinale,42.861,-4.5
 204431830,Lithospermum_officinale,42.034,-1.556
-1144708057,Lithospermum_officinale,42.4,9.33333
 1050631235,Lithospermum_officinale,42.79,-2.13
 187192831,Lithospermum_officinale,62.2362,7.4289
 1053984820,Lithospermum_officinale,42.66,-1.14
@@ -254,7 +246,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988223563,Lithospermum_officinale,49.25,-123.25
 1697631976,Lithospermum_officinale,53.430012,38.658818
 1988091213,Lithospermum_officinale,44.23,-76.51
-615352106,Lithospermum_officinale,33,77
 204431834,Lithospermum_officinale,42.57,-1.276
 1050631816,Lithospermum_officinale,42.67,-1.82
 204431833,Lithospermum_officinale,43.098,-1.704
@@ -279,12 +270,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 857483,Lithospermum_officinale,56.085024,14.469211
 1697632036,Lithospermum_officinale,49.884247,40.181319
 1843517756,Lithospermum_officinale,44.846255,34.875069
-1053984427,Lithospermum_officinale,42.64,-1.1
 1851361056,Lithospermum_officinale,42.74,-5.38
 1842901539,Lithospermum_officinale,42.199,-0.269
 895256927,Lithospermum_officinale,40.14,-1.42
 1936563768,Lithospermum_officinale,42.7086,-3.8317
-1697289757,Lithospermum_officinale,51.166667,86
 2324949368,Lithospermum_officinale,60.769505,10.860578
 204431836,Lithospermum_officinale,42.959999,-0.91
 1935701053,Lithospermum_officinale,46.59028,13.28333
@@ -305,7 +294,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050592103,Lithospermum_officinale,42.69,-2.43
 204431737,Lithospermum_officinale,42.699001,-2.432
 1697289769,Lithospermum_officinale,50.283333,85.633333
-895255306,Lithospermum_officinale,40.05,-1.3
 1050592072,Lithospermum_officinale,42.94,-2.58
 1050631794,Lithospermum_officinale,43.15,-2.67
 1050631824,Lithospermum_officinale,43.24,-3.09
@@ -317,7 +305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262034956,Lithospermum_officinale,45.625589,-73.581568
 1936251960,Lithospermum_officinale,43.1708,-3.0997
 1936600452,Lithospermum_officinale,43.4399,-3.4956
-473445510,Lithospermum_officinale,45.5,-73.6
 1323847043,Lithospermum_officinale,68.4512,17.041
 1323780263,Lithospermum_officinale,67.205,15.451
 1262034888,Lithospermum_officinale,45.656053,-74.157864
@@ -327,7 +314,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323698277,Lithospermum_officinale,68.4624,17.2129
 1323698282,Lithospermum_officinale,68.4632,17.2203
 1050592085,Lithospermum_officinale,42.57,-2.67
-1050631803,Lithospermum_officinale,43.15,-3.1
 1936172596,Lithospermum_officinale,42.5584,-2.8308
 204431741,Lithospermum_officinale,43.146999,-2.084
 1262009911,Lithospermum_officinale,45.048333,-74.308333
@@ -339,7 +325,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701238883,Lithospermum_officinale,65.216,12.0886
 1323794276,Lithospermum_officinale,66.8282,15.4896
 2028547182,Lithospermum_officinale,42.11,2.74
-1050631788,Lithospermum_officinale,43.18,-3.2
 204431736,Lithospermum_officinale,43.186001,-3.203
 1144708063,Lithospermum_officinale,42.35,9.43333
 1702509716,Lithospermum_officinale,42.81,-1.64
@@ -358,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050592096,Lithospermum_officinale,42.92,-2.72
 1050592109,Lithospermum_officinale,42.84,-2.59
 1050592105,Lithospermum_officinale,42.84,-2.71
-1804491564,Lithospermum_officinale,45.3,-75.55
 204431738,Lithospermum_officinale,42.844002,-2.712
 1050592090,Lithospermum_officinale,42.82,-2.29
 1702056662,Lithospermum_officinale,59.1178,9.6549
@@ -407,14 +391,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851355002,Lithospermum_officinale,40.15,-1.65
 2289928643,Lithospermum_officinale,47.15,-0.283333
 1701294377,Lithospermum_officinale,62.552,9.1021
-1144708089,Lithospermum_officinale,42.28333,9.3
 1323780342,Lithospermum_officinale,66.821,15.4553
 668752511,Lithospermum_officinale,46.781111,-71.266111
 668752510,Lithospermum_officinale,46.785,-71.267778
 1261999308,Lithospermum_officinale,46.783333,-71.275
 668752512,Lithospermum_officinale,46.7825,-71.2675
 668752509,Lithospermum_officinale,46.783333,-71.268889
-1042866461,Lithospermum_officinale,38.483333,22.5
 1899349387,Lithospermum_officinale,43.783333,-79.116667
 1697632057,Lithospermum_officinale,54.447007,58.725185
 1702003733,Lithospermum_officinale,59.526,10.4318
@@ -434,7 +416,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1981550993,Lithospermum_officinale,61.32771,10.51106
 1323780287,Lithospermum_officinale,67.3503,14.5695
 1702003722,Lithospermum_officinale,61.2944,10.3623
-1144708048,Lithospermum_officinale,42.36667,9.3
 1702010162,Lithospermum_officinale,60.066,10.1766
 1842870048,Lithospermum_officinale,42.13,1.85
 1702329491,Lithospermum_officinale,59.8594,10.5399
@@ -450,7 +431,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988984107,Lithospermum_officinale,45.58421,-86.65429
 1697632035,Lithospermum_officinale,52.600256,38.922087
 465923093,Lithospermum_officinale,44.301747,-76.768351
-2311066693,Lithospermum_officinale,45,-75
 1261991915,Lithospermum_officinale,45.374722,-73.952084
 1262004814,Lithospermum_officinale,47.303056,-70.569444
 1144098665,Lithospermum_officinale,60.86693,7.23398
@@ -461,7 +441,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701910048,Lithospermum_officinale,66.87726,15.63325
 615352122,Lithospermum_officinale,36.73,69.53
 857369,Lithospermum_officinale,58.38355,14.69562
-473538224,Lithospermum_officinale,48,-66.666667
 1701793339,Lithospermum_officinale,61.231,10.4202
 1701366217,Lithospermum_officinale,61.1705,8.4526
 473266637,Lithospermum_officinale,45.379722,-73.996667
@@ -493,7 +472,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697632060,Lithospermum_officinale,53.158681,56.92447
 1702003714,Lithospermum_officinale,60.0747,10.2129
 1261957748,Lithospermum_officinale,48.427114,-70.830744
-1262031802,Lithospermum_officinale,46.5,-72.25
 1261958246,Lithospermum_officinale,48.236389,-70.200278
 1988189609,Lithospermum_officinale,45.51,-73.59
 1988617874,Lithospermum_officinale,45.75839,-85.564238
@@ -503,9 +481,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261961158,Lithospermum_officinale,45.670428,-73.51057
 1697632020,Lithospermum_officinale,55.918305,58.561172
 1697632104,Lithospermum_officinale,55.595343,58.375211
-1261958568,Lithospermum_officinale,46.7,-71.583333
 1697632107,Lithospermum_officinale,55.552231,58.34968
-1261954489,Lithospermum_officinale,46.85,-71.2
 1702003711,Lithospermum_officinale,59.5291,10.4319
 1261955367,Lithospermum_officinale,47.758611,-69.950833
 317867603,Lithospermum_officinale,50.474717,9.009167
@@ -513,11 +489,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701585559,Lithospermum_officinale,60.7148,11.0123
 1701575760,Lithospermum_officinale,59.9063,10.5555
 1261955717,Lithospermum_officinale,47.43845,-70.463348
-2305833638,Lithospermum_officinale,53.29,-4.4
 1697825060,Lithospermum_officinale,42.546631,44.158001
 1099907006,Lithospermum_officinale,64.679167,28.484167
 1891597950,Lithospermum_officinale,49.82,6.38
-1261957611,Lithospermum_officinale,46.9,-71.15
 1702003787,Lithospermum_officinale,60.127,10.3678
 1701261211,Lithospermum_officinale,67.3459,14.5812
 21102936,Lithospermum_officinale,59.8931,10.537
@@ -572,7 +546,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465923089,Lithospermum_officinale,44.579262,-76.320656
 1056001422,Lithospermum_officinale,51.208542,0.91371
 860314474,Lithospermum_officinale,41.78,2.82
-876153798,Lithospermum_officinale,41.6,2.46
 857470,Lithospermum_officinale,56.052189,14.193676
 1600605637,Lithospermum_officinale,60.29355,25.052979
 857332,Lithospermum_officinale,58.31108,14.6354
@@ -580,14 +553,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701984021,Lithospermum_officinale,59.9096,10.5377
 1262005388,Lithospermum_officinale,46.816667,-71.233333
 1702003663,Lithospermum_officinale,59.762,10.0235
-668752515,Lithospermum_officinale,46.8,-71.216667
 1701793272,Lithospermum_officinale,61.5514,9.986
 1099906504,Lithospermum_officinale,59.5853,10.21369
 1702003728,Lithospermum_officinale,59.5255,10.3151
 616356746,Lithospermum_officinale,50.86,5.83
 2313347418,Lithospermum_officinale,48.27,11.71
 1042986772,Lithospermum_officinale,58.1974,13.5792
-1986891864,Lithospermum_officinale,45.233333,-76.2
 1261948829,Lithospermum_officinale,45.558954,-73.5674
 1303985875,Lithospermum_officinale,31.114073,109.87945
 1303817340,Lithospermum_officinale,34.568696,105.726028
@@ -601,10 +572,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303817338,Lithospermum_officinale,39.879848,114.630747
 1697631977,Lithospermum_officinale,51.527029,36.270357
 1697289716,Lithospermum_officinale,51.35,87.833333
-1697289705,Lithospermum_officinale,51.5,87.766667
 1697632069,Lithospermum_officinale,50.360754,44.118357
 1600605661,Lithospermum_officinale,64.133747,27.510022
-1988063952,Lithospermum_officinale,45.5,-75.81
 1144098622,Lithospermum_officinale,59.8694,10.5261
 1303817402,Lithospermum_officinale,34.054197,111.047906
 1701979673,Lithospermum_officinale,59.9019,10.5463
@@ -624,7 +593,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935954374,Lithospermum_officinale,40.5732,-2.0798
 857443,Lithospermum_officinale,56.031862,14.152378
 1038943628,Lithospermum_officinale,42.0223,-73.2936
-1261998407,Lithospermum_officinale,46.8,-71.183333
 857456,Lithospermum_officinale,56.10225,14.13132
 857383,Lithospermum_officinale,56.13037,14.24832
 1303817347,Lithospermum_officinale,43.810314,87.605163
@@ -666,7 +634,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989514287,Lithospermum_officinale,45.477669,-84.680241
 1144098621,Lithospermum_officinale,59.9091,5.3002
 1042986714,Lithospermum_officinale,55.9236,14.2926
-1701356884,Lithospermum_officinale,59.8665,10.5
 1701793340,Lithospermum_officinale,62.2393,7.422
 1701585536,Lithospermum_officinale,62.2439,7.4314
 1701783985,Lithospermum_officinale,59.664,10.7838
@@ -724,7 +691,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144098658,Lithospermum_officinale,60.4675,7.0719
 21102116,Lithospermum_officinale,60.4661,7.0905
 1144098637,Lithospermum_officinale,60.4214,7.1855
-993742509,Lithospermum_officinale,52.7,0.8
 1038991747,Lithospermum_officinale,41.96,-73.31
 1039007997,Lithospermum_officinale,41.8575,-73.4376
 857324,Lithospermum_officinale,58.69888,12.46078
