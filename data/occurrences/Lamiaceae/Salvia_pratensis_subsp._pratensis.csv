@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1837904279,Salvia_pratensis_subsp._pratensis,49.927223,7.975278
 1881892897,Salvia_pratensis_subsp._pratensis,57.84323,27.6173
 1831001721,Salvia_pratensis_subsp._pratensis,48.18667,16.40139
-1842840924,Salvia_pratensis_subsp._pratensis,52.3,7.4
 1701289715,Salvia_pratensis_subsp._pratensis,49.1661,18.5872
 1837904344,Salvia_pratensis_subsp._pratensis,51.228333,11.719444
 1701330397,Salvia_pratensis_subsp._pratensis,49.0058,20.7236
@@ -39,7 +38,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989081790,Salvia_pratensis_subsp._pratensis,45.984583,-84.852361
 1454491897,Salvia_pratensis_subsp._pratensis,42.8456228087553,-2.76894214762243
 895225143,Salvia_pratensis_subsp._pratensis,40.23059,-0.54368
-786269253,Salvia_pratensis_subsp._pratensis,49,8.4
 1839072761,Salvia_pratensis_subsp._pratensis,38.069721,22.03528
 1935722546,Salvia_pratensis_subsp._pratensis,47.18015,18.10991
 860329343,Salvia_pratensis_subsp._pratensis,40.76,-0.69
@@ -54,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318120955,Salvia_pratensis_subsp._pratensis,39.91,-0.44
 1935722919,Salvia_pratensis_subsp._pratensis,44.956,14.42056
 286838376,Salvia_pratensis_subsp._pratensis,44.508057,7.1475
-1836446279,Salvia_pratensis_subsp._pratensis,44.5,7.1
 286838374,Salvia_pratensis_subsp._pratensis,52.411392,14.536389
 1050642967,Salvia_pratensis_subsp._pratensis,42.85,-2.72
 233154299,Salvia_pratensis_subsp._pratensis,48.7423,20.0419
@@ -88,22 +85,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503365909,Salvia_pratensis_subsp._pratensis,52.480556,13.224306
 1697642783,Salvia_pratensis_subsp._pratensis,51.428208,38.564892
 438958391,Salvia_pratensis_subsp._pratensis,48.2325,2.71472
-1503365943,Salvia_pratensis_subsp._pratensis,52.5,13.220833
 1671674071,Salvia_pratensis_subsp._pratensis,44.408024,9.626312
-1697642796,Salvia_pratensis_subsp._pratensis,53.5,39
 1697642570,Salvia_pratensis_subsp._pratensis,54.083333,37.183333
 895230972,Salvia_pratensis_subsp._pratensis,41.3936,-1.71789
 788721247,Salvia_pratensis_subsp._pratensis,38.916667,20.85
-788721307,Salvia_pratensis_subsp._pratensis,39.816667,20.7
 1795579522,Salvia_pratensis_subsp._pratensis,42.84,-1.65
-1421200406,Salvia_pratensis_subsp._pratensis,48.3,8.8
 1697642654,Salvia_pratensis_subsp._pratensis,54.366667,36.183333
 1989474938,Salvia_pratensis_subsp._pratensis,46.266918,-85.771028
 1025875,Salvia_pratensis_subsp._pratensis,45.966667,11.466667
 895204971,Salvia_pratensis_subsp._pratensis,42.3478,1.7374
 30889736,Salvia_pratensis_subsp._pratensis,42.349998,1.66
 1705464445,Salvia_pratensis_subsp._pratensis,59.254612,14.426409
-895229284,Salvia_pratensis_subsp._pratensis,42.3,1
 1701839498,Salvia_pratensis_subsp._pratensis,60.7339,10.9667
 441933536,Salvia_pratensis_subsp._pratensis,51.178761,11.790438
 1697642679,Salvia_pratensis_subsp._pratensis,54.183333,35.966667
@@ -125,9 +117,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1837476649,Salvia_pratensis_subsp._pratensis,44.192642,8.146867
 1025781,Salvia_pratensis_subsp._pratensis,56.26773,12.97319
 30889363,Salvia_pratensis_subsp._pratensis,42.419998,0.45
-441933493,Salvia_pratensis_subsp._pratensis,48.5,11.5
 1936642211,Salvia_pratensis_subsp._pratensis,42.9936,-4.1912
-895181820,Salvia_pratensis_subsp._pratensis,43,-4.172
 388863597,Salvia_pratensis_subsp._pratensis,35.565749,139.540543
 441933494,Salvia_pratensis_subsp._pratensis,47.25,11.333333
 2237781252,Salvia_pratensis_subsp._pratensis,47.11167,15.39806
@@ -138,15 +128,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936667255,Salvia_pratensis_subsp._pratensis,42.0349,-3.545
 1697642713,Salvia_pratensis_subsp._pratensis,57.823526,40.915368
 1936667313,Salvia_pratensis_subsp._pratensis,42.0079,-3.5326
-1697642862,Salvia_pratensis_subsp._pratensis,53.4,35.45
 1936667488,Salvia_pratensis_subsp._pratensis,42.0439,-3.533
 230819428,Salvia_pratensis_subsp._pratensis,51.826416,5.789015
 1025680,Salvia_pratensis_subsp._pratensis,55.63344,13.0557
 1936519842,Salvia_pratensis_subsp._pratensis,40.6992,-2.0544
 2242416990,Salvia_pratensis_subsp._pratensis,39.73193,-104.9619
-1897693493,Salvia_pratensis_subsp._pratensis,-37.783333,174.9
 1638432220,Salvia_pratensis_subsp._pratensis,47.08333,15.58333
-1988194370,Salvia_pratensis_subsp._pratensis,49.06,-119
 1600869533,Salvia_pratensis_subsp._pratensis,60.189835,22.876551
 1697642818,Salvia_pratensis_subsp._pratensis,52.600507,38.900924
 1332807738,Salvia_pratensis_subsp._pratensis,50.327428,9.674242
@@ -173,7 +160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697642835,Salvia_pratensis_subsp._pratensis,55.37746,45.606429
 318120155,Salvia_pratensis_subsp._pratensis,40.28,-1.33
 895239622,Salvia_pratensis_subsp._pratensis,39.333,-0.569
-1502023702,Salvia_pratensis_subsp._pratensis,40.4,-0.35
 1697642753,Salvia_pratensis_subsp._pratensis,52.793555,39.040925
 1936511906,Salvia_pratensis_subsp._pratensis,39.7222,-0.5511
 1988225052,Salvia_pratensis_subsp._pratensis,49.25,-123.25
@@ -195,7 +181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318120371,Salvia_pratensis_subsp._pratensis,42.76,-3.29
 860316377,Salvia_pratensis_subsp._pratensis,42.57,1.11
 1935719525,Salvia_pratensis_subsp._pratensis,47.0775,15.43889
-895261682,Salvia_pratensis_subsp._pratensis,40.66,-0.1
 1502024822,Salvia_pratensis_subsp._pratensis,40.49,-0.35
 1697642613,Salvia_pratensis_subsp._pratensis,54.181953,36.339211
 1697642808,Salvia_pratensis_subsp._pratensis,52.714662,38.902532
@@ -215,9 +200,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1502015061,Salvia_pratensis_subsp._pratensis,40.05,-1.42
 1697642758,Salvia_pratensis_subsp._pratensis,52.529083,38.488357
 1851397480,Salvia_pratensis_subsp._pratensis,42.824,-4.609
-1501958735,Salvia_pratensis_subsp._pratensis,39.51,-1.2
 1502020578,Salvia_pratensis_subsp._pratensis,40.22,-0.36
-895256945,Salvia_pratensis_subsp._pratensis,40.14,-1.3
 895257032,Salvia_pratensis_subsp._pratensis,40.14,-1.42
 1600869532,Salvia_pratensis_subsp._pratensis,60.25922,24.94932
 30889677,Salvia_pratensis_subsp._pratensis,37.84,-4.82
@@ -239,9 +222,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2028546382,Salvia_pratensis_subsp._pratensis,42.11,2.85
 1936602497,Salvia_pratensis_subsp._pratensis,42.7174,-3.8562
 1050610749,Salvia_pratensis_subsp._pratensis,42.79,-3.04
-1050610776,Salvia_pratensis_subsp._pratensis,42.7,-2.93
 1050610752,Salvia_pratensis_subsp._pratensis,42.75,-2.59
-30888766,Salvia_pratensis_subsp._pratensis,40.549999,-4.3
 1936546741,Salvia_pratensis_subsp._pratensis,43.031747,-4.166119
 1697642692,Salvia_pratensis_subsp._pratensis,52.680919,38.593843
 1806556396,Salvia_pratensis_subsp._pratensis,42.689057,-1.584721
@@ -268,11 +249,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806128259,Salvia_pratensis_subsp._pratensis,42.814327,-1.675611
 1806129314,Salvia_pratensis_subsp._pratensis,42.813878,-1.648014
 1806129374,Salvia_pratensis_subsp._pratensis,42.813533,-1.670075
-2028546820,Salvia_pratensis_subsp._pratensis,42.1,2.7
 1050610743,Salvia_pratensis_subsp._pratensis,42.83,-2.67
 1705884793,Salvia_pratensis_subsp._pratensis,49.4266,20.478
 2308647686,Salvia_pratensis_subsp._pratensis,43.54,-80.17
-1050610789,Salvia_pratensis_subsp._pratensis,42.79,-2.5
 1697642572,Salvia_pratensis_subsp._pratensis,55.008434,41.745934
 1697642701,Salvia_pratensis_subsp._pratensis,55.426268,38.557767
 812031566,Salvia_pratensis_subsp._pratensis,50.708833,9.103233
@@ -305,7 +284,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288287934,Salvia_pratensis_subsp._pratensis,44.133333,8.083333
 1931325112,Salvia_pratensis_subsp._pratensis,40.408427,-75.788529
 1600869495,Salvia_pratensis_subsp._pratensis,60.56806,27.097197
-1705884799,Salvia_pratensis_subsp._pratensis,54.07,23.1
 1705884687,Salvia_pratensis_subsp._pratensis,54.1509,22.6299
 1585881276,Salvia_pratensis_subsp._pratensis,45.276667,6.345
 31966291,Salvia_pratensis_subsp._pratensis,42.553,-0.789
@@ -325,7 +303,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 296540642,Salvia_pratensis_subsp._pratensis,47.763889,11.553611
 1697642802,Salvia_pratensis_subsp._pratensis,53.436386,49.71382
 1099091224,Salvia_pratensis_subsp._pratensis,47.686668,9.835278
-2291023108,Salvia_pratensis_subsp._pratensis,37.2,45.35
 606646521,Salvia_pratensis_subsp._pratensis,41.28333,-70.08277
 1697642653,Salvia_pratensis_subsp._pratensis,53.788029,39.244269
 1705472429,Salvia_pratensis_subsp._pratensis,47.25,0.75
@@ -340,7 +317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697642880,Salvia_pratensis_subsp._pratensis,55.529105,53.202978
 788598607,Salvia_pratensis_subsp._pratensis,56.199442,12.558458
 177025074,Salvia_pratensis_subsp._pratensis,37.18838,-97.16877
-2291052141,Salvia_pratensis_subsp._pratensis,49.5,6.283333
 1099091222,Salvia_pratensis_subsp._pratensis,48.849445,10.490833
 1891594126,Salvia_pratensis_subsp._pratensis,49.78,6.49
 1025840,Salvia_pratensis_subsp._pratensis,58.45073,14.891131
@@ -363,12 +339,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 335242419,Salvia_pratensis_subsp._pratensis,48.627916,7.808011
 1999666819,Salvia_pratensis_subsp._pratensis,59.960838,23.505513
 1705298178,Salvia_pratensis_subsp._pratensis,57.6672,14.971459
-786269228,Salvia_pratensis_subsp._pratensis,47.8,9.1
 606646508,Salvia_pratensis_subsp._pratensis,41.34583,-72.02972
 1025762,Salvia_pratensis_subsp._pratensis,55.854994,14.145256
 1600869508,Salvia_pratensis_subsp._pratensis,62.231797,21.511309
 1099856341,Salvia_pratensis_subsp._pratensis,47.431389,11.868333
-2306110364,Salvia_pratensis_subsp._pratensis,43.54,-80.5
 1831337046,Salvia_pratensis_subsp._pratensis,53.4485,11.7486
 1025877,Salvia_pratensis_subsp._pratensis,56.20409,15.67172
 1893208601,Salvia_pratensis_subsp._pratensis,49.51,6.29
@@ -391,7 +365,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697642686,Salvia_pratensis_subsp._pratensis,54.850604,37.567311
 1697642700,Salvia_pratensis_subsp._pratensis,54.859171,37.554977
 1025832,Salvia_pratensis_subsp._pratensis,57.50112,18.15417
-1705471279,Salvia_pratensis_subsp._pratensis,46.71666,11.5
 1697642893,Salvia_pratensis_subsp._pratensis,50.135981,34.681463
 1697642881,Salvia_pratensis_subsp._pratensis,50.527796,34.357113
 1697642704,Salvia_pratensis_subsp._pratensis,55.730143,36.894283
@@ -424,7 +397,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1025764,Salvia_pratensis_subsp._pratensis,55.7211,13.02215
 812031559,Salvia_pratensis_subsp._pratensis,50.571733,10.40165
 1671673984,Salvia_pratensis_subsp._pratensis,44.467378,8.962433
-1891590570,Salvia_pratensis_subsp._pratensis,49.8,6.43
 1842889450,Salvia_pratensis_subsp._pratensis,41.59,1.86
 335242393,Salvia_pratensis_subsp._pratensis,48.594717,7.768564
 1697642719,Salvia_pratensis_subsp._pratensis,54.852709,37.62559
