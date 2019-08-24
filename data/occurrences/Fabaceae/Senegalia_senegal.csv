@@ -12,13 +12,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2292014559,Senegalia_senegal,7.446667,38.675
 1019295736,Senegalia_senegal,16.538477,-16.214909
 2289171293,Senegalia_senegal,11.53,35.165333
-1087525881,Senegalia_senegal,-26.984722,-52.193056
 1019295547,Senegalia_senegal,15.895,-11.534444
 730549770,Senegalia_senegal,-12.13,40.21444
 730549769,Senegalia_senegal,-12.56694,40.49611
 1019295461,Senegalia_senegal,19.575,-16.216389
 438831144,Senegalia_senegal,19.575,-16.21639
-2270463049,Senegalia_senegal,32.614506,-114.639664
 439047241,Senegalia_senegal,-10.72464,40.34636
 1260705707,Senegalia_senegal,-22.279444,43.757778
 1052111208,Senegalia_senegal,-22.27944,43.75778
@@ -54,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701381189,Senegalia_senegal,16.56667,52.8
 461584794,Senegalia_senegal,-21.375,25.625
 346758691,Senegalia_senegal,10.966667,13.916667
-1258591361,Senegalia_senegal,47.60639,-122.33083
 317855501,Senegalia_senegal,14.683333,-0.45
 1701381271,Senegalia_senegal,16.65,53.05
 1988295726,Senegalia_senegal,-26.3,32.348889
@@ -92,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260895626,Senegalia_senegal,-6.1,35.966667
 2289309628,Senegalia_senegal,12.033333,0.583333
 317855504,Senegalia_senegal,12.0375,13.921667
-575239360,Senegalia_senegal,17.1,55.083333
 1988295706,Senegalia_senegal,-13.134766,40.449113
 1260895622,Senegalia_senegal,-3.55,36.1
 461584782,Senegalia_senegal,-25.125,31.625
@@ -192,7 +188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461584619,Senegalia_senegal,-32.625,27.125
 438713985,Senegalia_senegal,12.91897,2.25726
 437714750,Senegalia_senegal,12.91918,2.25713
-1893406220,Senegalia_senegal,16.708333,-96.308333
 912408393,Senegalia_senegal,-21.98,28.58
 1260895651,Senegalia_senegal,3.06666,43.55
 461584738,Senegalia_senegal,-21.375,25.125
@@ -260,7 +255,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 575213050,Senegalia_senegal,5.5,45.25
 461584655,Senegalia_senegal,-23.125,29.375
 437382713,Senegalia_senegal,12.19861,14.78861
-439047240,Senegalia_senegal,13.51627,2.13981
 461584662,Senegalia_senegal,-23.125,27.875
 461584676,Senegalia_senegal,-21.125,25.875
 912408386,Senegalia_senegal,-21.28,25.2
@@ -321,7 +315,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461584745,Senegalia_senegal,-27.625,31.125
 616228123,Senegalia_senegal,-28.125,32.375
 461584767,Senegalia_senegal,-29.125,31.375
-1944994855,Senegalia_senegal,7.391266,3.862815
 2288811480,Senegalia_senegal,-2.283333,34.55
 1260895564,Senegalia_senegal,-2.16666,34.21666
 1898259895,Senegalia_senegal,-18.375,26.625
@@ -366,7 +359,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438381192,Senegalia_senegal,15.53639,3.71889
 1563203988,Senegalia_senegal,9.52,41.42
 1260895633,Senegalia_senegal,4.33333,32.65
-1260895653,Senegalia_senegal,4.85,31.61666
 1260895634,Senegalia_senegal,9.58333,41.83333
 437049933,Senegalia_senegal,15.38321,-15.23557
 1260895577,Senegalia_senegal,9.51666,41.41666
@@ -411,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1835598370,Senegalia_senegal,-1.03,30.27
 1260895618,Senegalia_senegal,-1.18333,37.55
 1260895642,Senegalia_senegal,1.5,32.5
-1260895621,Senegalia_senegal,-5.216667,39.058333
 1260895646,Senegalia_senegal,-1.36666,38
 461584721,Senegalia_senegal,-21.625,16.125
 1260895601,Senegalia_senegal,0.5,35.83333
@@ -434,7 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866264538,Senegalia_senegal,-24.413611,33.016667
 439380700,Senegalia_senegal,-24,32.5
 866264280,Senegalia_senegal,-24.4975,33.013333
-1303835248,Senegalia_senegal,25.091075,121.559835
 1838277735,Senegalia_senegal,-24.228889,29.496667
 438713993,Senegalia_senegal,11.05,14.9
 2005482917,Senegalia_senegal,-29.625,30.875
@@ -446,7 +436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260895592,Senegalia_senegal,4.26666,35.76666
 438713992,Senegalia_senegal,13.79467,5.25277
 1260895556,Senegalia_senegal,-1.8,38.43333
-438047972,Senegalia_senegal,12.08708,15.01483
 866264421,Senegalia_senegal,-26.028333,32.389999
 813402188,Senegalia_senegal,-26.518047,32.211384
 813402190,Senegalia_senegal,-26.836389,32.284444
@@ -458,7 +447,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439380721,Senegalia_senegal,-1.59937,30.72113
 1260895638,Senegalia_senegal,-6.06666,36.96666
 439047233,Senegalia_senegal,-1.47437,37.83597
-439380723,Senegalia_senegal,12.13485,15.05574
 438713988,Senegalia_senegal,14.23776,-5.96558
 439047234,Senegalia_senegal,14.25979,-5.95639
 439380708,Senegalia_senegal,13.43166,-6.24821
@@ -469,7 +457,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260895631,Senegalia_senegal,-3.4,37.58333
 438047977,Senegalia_senegal,-3.57237,33.4281
 438713989,Senegalia_senegal,16.26398,-0.02799
-439047246,Senegalia_senegal,12.37143,-1.51966
 438381200,Senegalia_senegal,13.09104,-1.08736
 437714754,Senegalia_senegal,16.76659,-3.00256
 437049931,Senegalia_senegal,15.20083,-2.63639
@@ -506,7 +493,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439047250,Senegalia_senegal,12.09035,0.98877
 439380707,Senegalia_senegal,14.34895,-3.60912
 439380710,Senegalia_senegal,18.03389,-12.38694
-438713990,Senegalia_senegal,18.07353,-15.95824
 685185105,Senegalia_senegal,-21.875,16.875
 438714003,Senegalia_senegal,-21.97188,16.90635
 437382723,Senegalia_senegal,8.99174,40.16319
