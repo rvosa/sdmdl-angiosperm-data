@@ -15,8 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257837380,Kohleria_tigridia,9.141286,-83.06981
 1253883053,Kohleria_tigridia,9.504167,-84
 1253833673,Kohleria_tigridia,9.4225,-83.198056
-1253884471,Kohleria_tigridia,9.87325,-84.142667
-1257870283,Kohleria_tigridia,9.87325,-84.14267
 1253845379,Kohleria_tigridia,9.38617,-83.21145
 1253848017,Kohleria_tigridia,9.34073,-83.23247
 1257906511,Kohleria_tigridia,9.386111,-83.211389
@@ -139,7 +137,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 44514310,Kohleria_tigridia,10.06,-83.85
 1253630924,Kohleria_tigridia,10.928611,-85.469446
 44515208,Kohleria_tigridia,10.92,-85.46
-44515426,Kohleria_tigridia,8.76,-83.78
 1253622721,Kohleria_tigridia,9.763889,-83.7875
 44515290,Kohleria_tigridia,10.36,-84.78
 1258599206,Kohleria_tigridia,10.33,-84.78
