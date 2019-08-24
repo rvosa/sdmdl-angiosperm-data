@@ -167,7 +167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989560370,Siparuna_guianensis,-10.9825,-55.7225
 1848246728,Siparuna_guianensis,-11.005556,-55.523333
 1848246705,Siparuna_guianensis,-10.9575,-55.760556
-1978410070,Siparuna_guianensis,-10,-55
 2243327713,Siparuna_guianensis,-10.967778,-55.776389
 1424500577,Siparuna_guianensis,-3.178056,-51.784167
 1707498152,Siparuna_guianensis,6.360172,-71.895175
@@ -332,7 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424472516,Siparuna_guianensis,-9.271111,-64.479722
 2027494429,Siparuna_guianensis,-9.329167,-56.782222
 1094912189,Siparuna_guianensis,-9.271389,-64.48
-1087657719,Siparuna_guianensis,-2.596389,-44.272778
 1424513658,Siparuna_guianensis,-22.532778,-42.3075
 1424451216,Siparuna_guianensis,-10.905278,-68.417222
 1806848284,Siparuna_guianensis,-2.930333,-59.974611
@@ -343,8 +341,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077608133,Siparuna_guianensis,-8.951556,-35.893411
 1913567683,Siparuna_guianensis,-6.329444,-50.457222
 1424371139,Siparuna_guianensis,-22.491389,-42.711667
-1077579735,Siparuna_guianensis,-7.970833,-34.122222
-1213607961,Siparuna_guianensis,-15.861794,-47.828544
 1123822667,Siparuna_guianensis,-18.573611,-40.993056
 1123896902,Siparuna_guianensis,6.975278,-75.113889
 1086912334,Siparuna_guianensis,-23.001667,-48.816944
@@ -433,7 +429,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123901938,Siparuna_guianensis,7.652,-74.766
 1077417991,Siparuna_guianensis,-22.661389,-42.807778
 1424434581,Siparuna_guianensis,-10.066667,-67.616667
-1096931996,Siparuna_guianensis,-20.788104,-40.590078
 1042686468,Siparuna_guianensis,-1.683333,-61.82
 1090665540,Siparuna_guianensis,-9.865,-56.082778
 1123829798,Siparuna_guianensis,-18.760722,-40.450222
@@ -461,8 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090527285,Siparuna_guianensis,-10.417222,-48.303611
 1123819809,Siparuna_guianensis,-18.572,-40.995472
 1840912392,Siparuna_guianensis,-18.571944,-40.995278
-1094860529,Siparuna_guianensis,-12.883333,-37.95
-1930396001,Siparuna_guianensis,-12.88,-37.95
 1837388413,Siparuna_guianensis,-9.309531,-35.942003
 1213563919,Siparuna_guianensis,-13.593194,-47.217611
 1989887947,Siparuna_guianensis,-21.001389,-49.973889
@@ -506,7 +499,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123811763,Siparuna_guianensis,-20.272778,-40.479167
 1090526992,Siparuna_guianensis,-10.419167,-48.172222
 1090526671,Siparuna_guianensis,-10.413611,-48.265278
-1889166881,Siparuna_guianensis,-7.785556,-34.608333
 1707685470,Siparuna_guianensis,4.609167,-67.864444
 1123822960,Siparuna_guianensis,-20.212889,-40.592417
 768775725,Siparuna_guianensis,1.08,-75.47
@@ -558,7 +550,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090576015,Siparuna_guianensis,-22.701056,-46.676583
 1213516290,Siparuna_guianensis,-19.396361,-43.402056
 1424436628,Siparuna_guianensis,-19.396111,-43.401944
-1587307370,Siparuna_guianensis,-9.235556,-35.085556
 1090525953,Siparuna_guianensis,-10.379444,-48.144167
 1416801570,Siparuna_guianensis,2.75,-73.78
 1424220519,Siparuna_guianensis,-20.150556,-40.448611
@@ -650,7 +641,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260744801,Siparuna_guianensis,-12.60638,-69.08166
 1840932579,Siparuna_guianensis,-18.939167,-54.906667
 1090573235,Siparuna_guianensis,-23.016998,-47.148781
-1090503800,Siparuna_guianensis,-13.926944,-38.426944
 1090578227,Siparuna_guianensis,-22.8583,-47.22
 2273362595,Siparuna_guianensis,-18.939167,-54.906806
 2288750729,Siparuna_guianensis,3.875,-51.816667
@@ -715,9 +705,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290382427,Siparuna_guianensis,4.8,-54.533333
 1089247581,Siparuna_guianensis,-4.297167,-38.933056
 1456299484,Siparuna_guianensis,4.8,-54.53
-1316553009,Siparuna_guianensis,-48.61333,-43.40167
 439284210,Siparuna_guianensis,-13,-38.53333
-1424373016,Siparuna_guianensis,-48.613333,-43.401667
 1658203886,Siparuna_guianensis,-20,-48
 1424247135,Siparuna_guianensis,-15.355833,-47.141111
 1423943549,Siparuna_guianensis,-23.075,-47.216667
@@ -860,7 +848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258672040,Siparuna_guianensis,1.21666,-78.56694
 2290281776,Siparuna_guianensis,3.802222,-51.885556
 1253731179,Siparuna_guianensis,9.040734,-83.244008
-1087680677,Siparuna_guianensis,-3.4302,-38.3235
 1253750098,Siparuna_guianensis,9.008843,-83.186461
 2288986242,Siparuna_guianensis,5.283333,-53.05
 768752246,Siparuna_guianensis,2.53,-72.72
@@ -907,7 +894,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065431046,Siparuna_guianensis,5.4811,-76.54687
 1077590229,Siparuna_guianensis,-9.583333,-35.75
 1260547909,Siparuna_guianensis,8.78,-83.523611
-1077207058,Siparuna_guianensis,-15.866667,-38.9
 1094756414,Siparuna_guianensis,-12.438056,-38.469722
 1258790249,Siparuna_guianensis,-14.55777,-60.74694
 1260523638,Siparuna_guianensis,1.56666,-59.23333
@@ -1304,7 +1290,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424018165,Siparuna_guianensis,6.5,-58.216667
 437285977,Siparuna_guianensis,6.5,-58.21667
 2236020580,Siparuna_guianensis,-14.98,-39.05
-1087722925,Siparuna_guianensis,-2.599917,-44.276111
 1455939626,Siparuna_guianensis,6.5,-58.2167
 1260512039,Siparuna_guianensis,-14.98333,-39.05
 1928191443,Siparuna_guianensis,-2.434182,-59.904816
@@ -1340,9 +1325,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260526231,Siparuna_guianensis,7.25,-58.71666
 438284295,Siparuna_guianensis,7.25,-58.71667
 1456107006,Siparuna_guianensis,7.25278,-58.725
-1456408720,Siparuna_guianensis,7,-58.25
-1929807686,Siparuna_guianensis,6.6,-57.75
-1259062096,Siparuna_guianensis,6.0005,-57.000905
 2291707485,Siparuna_guianensis,7.25,-58.716667
 439284221,Siparuna_guianensis,2,-59.25
 1260509050,Siparuna_guianensis,1.43333,-64.7
@@ -1364,10 +1346,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1707525134,Siparuna_guianensis,-3.783333,-70.25
 1987015928,Siparuna_guianensis,-3.333333,-72.916667
 1261152999,Siparuna_guianensis,-3.78333,-70.25
-437285974,Siparuna_guianensis,7.25,-58.41667
 1261147567,Siparuna_guianensis,-3.887778,-73.572778
 1261148454,Siparuna_guianensis,-3.33333,-72.91666
-1260512207,Siparuna_guianensis,7.25,-58.41666
 1456368401,Siparuna_guianensis,7.25,-58.5833
 1095203836,Siparuna_guianensis,-15.58333,-47.85
 1456005836,Siparuna_guianensis,7.36667,-60.4667
@@ -1492,12 +1472,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438284298,Siparuna_guianensis,4.70139,-59.8
 1260509906,Siparuna_guianensis,1.21666,-64.95
 1261152919,Siparuna_guianensis,6.35,-76.43333
-1065430897,Siparuna_guianensis,6.08413,-77.41019
-1123912801,Siparuna_guianensis,6.085813,-77.411187
 1456058482,Siparuna_guianensis,4.91,-52.35
 1260509974,Siparuna_guianensis,6.2,-67.53333
-1065430850,Siparuna_guianensis,6.10416,-77.42687
-1123913010,Siparuna_guianensis,6.092978,-77.387498
 2289298116,Siparuna_guianensis,4.916667,-52.35
 1260512040,Siparuna_guianensis,5.695,-67.23333
 1123825890,Siparuna_guianensis,-16.383333,-39.133333
@@ -1519,7 +1495,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456114303,Siparuna_guianensis,1.56,-58.68
 1260509778,Siparuna_guianensis,1.65,-58.63333
 1455956871,Siparuna_guianensis,1.65,-58.63
-1424018611,Siparuna_guianensis,-12.833333,-12.9
 1260509787,Siparuna_guianensis,1.56666,-58.68333
 437618661,Siparuna_guianensis,1.56667,-58.68333
 1042540065,Siparuna_guianensis,1.566667,-58.68
@@ -1543,8 +1518,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123908516,Siparuna_guianensis,2.286042,-74.648749
 1260508990,Siparuna_guianensis,-16.66666,-49.25
 1123908919,Siparuna_guianensis,7.80146,-75.28789
-438616976,Siparuna_guianensis,6.83333,-58.41667
-1260512037,Siparuna_guianensis,6.83333,-58.41666
 1095197717,Siparuna_guianensis,-12.08333,-49.03333
 1260508976,Siparuna_guianensis,4.45,-64.11666
 1261148674,Siparuna_guianensis,5.31666,-61.05
@@ -1575,8 +1548,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094278464,Siparuna_guianensis,-9.783333,-63.066667
 1261148910,Siparuna_guianensis,5.66666,-66.15
 438616993,Siparuna_guianensis,4.55,-52.13333
-2289925842,Siparuna_guianensis,6.833333,-58.416667
-1456114282,Siparuna_guianensis,6.83333,-58.4167
 1123910763,Siparuna_guianensis,5.730289,-76.604748
 1042568344,Siparuna_guianensis,3.366667,-61.43
 1123905772,Siparuna_guianensis,7.246209,-76.439543
@@ -1620,7 +1591,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929526252,Siparuna_guianensis,3.333333,-61.416667
 1042613399,Siparuna_guianensis,1.37076,-61.42
 1260511713,Siparuna_guianensis,5,-59.56666
-1260511686,Siparuna_guianensis,0.25,-50.5
 1262246125,Siparuna_guianensis,8.03333,-75.16666
 1456443266,Siparuna_guianensis,5,-59.5667
 2290235385,Siparuna_guianensis,3.35,-59.566667
@@ -1654,7 +1624,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260512213,Siparuna_guianensis,-2.83333,-60.66666
 1927854515,Siparuna_guianensis,2.83,-60.67
 1042642633,Siparuna_guianensis,-3.75,-61.75
-1228480467,Siparuna_guianensis,8.4833,-78.5
 1042642991,Siparuna_guianensis,2.833333,-60.67
 1928356643,Siparuna_guianensis,3.75,-61.75
 1258976316,Siparuna_guianensis,9.09194,-79.67527
@@ -1811,7 +1780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2235947362,Siparuna_guianensis,-15.97,-47.92
 1042544451,Siparuna_guianensis,-15.966667,-47.92
 1424018517,Siparuna_guianensis,-11.75,-66.033333
-1090825625,Siparuna_guianensis,-15.8,-47.916667
 1424018423,Siparuna_guianensis,-15.016667,-49.416667
 1424018074,Siparuna_guianensis,-5.85,-48.2
 1213612185,Siparuna_guianensis,-15.966667,-47.916667
@@ -1864,7 +1832,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931172124,Siparuna_guianensis,12,-83.77
 1262243415,Siparuna_guianensis,-3.66666,-73.28333
 1928399463,Siparuna_guianensis,-1.83,-55.08
-1260525972,Siparuna_guianensis,0.0001,-54.000267
+1260525972,Siparuna_guianensis,1e-04,-54.000267
 1257618243,Siparuna_guianensis,-1.833333,-55.083333
 1262243310,Siparuna_guianensis,-11.08333,-65.75
 1260509468,Siparuna_guianensis,4.05,-66.01666
@@ -1890,10 +1858,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090530086,Siparuna_guianensis,-15.9,-50.116667
 1258560715,Siparuna_guianensis,7.68333,-71.46666
 1042505304,Siparuna_guianensis,-0.866667,-47.58
-1042505198,Siparuna_guianensis,-0.983333,-46.25
 1259097547,Siparuna_guianensis,-0.866667,-47.583333
 1258976402,Siparuna_guianensis,7.416667,-78.05
-1259097795,Siparuna_guianensis,-0.98333,-46.25
 1261496198,Siparuna_guianensis,-12.81666,-69.28333
 1928515281,Siparuna_guianensis,-1.0919,-57.0369
 1261149864,Siparuna_guianensis,-3.83333,-73.33333
@@ -1950,7 +1916,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260509764,Siparuna_guianensis,7.56666,-72.08333
 768723367,Siparuna_guianensis,-1.29,-69.55
 1087256722,Siparuna_guianensis,-14.4878,-46.1131
-1929635698,Siparuna_guianensis,-15.7834208090807,-47.9298726661488
 1062304981,Siparuna_guianensis,6.51893,-74.10106
 1260512820,Siparuna_guianensis,-15.590555,-47.591389
 1261487687,Siparuna_guianensis,-3.91666,-77.7
@@ -1980,7 +1945,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455959872,Siparuna_guianensis,4.05,-66.81
 1261150402,Siparuna_guianensis,-0.116667,-75.25
 768722831,Siparuna_guianensis,-0.6,-73.17
-1258976720,Siparuna_guianensis,8.955,-79.61555
 1259209537,Siparuna_guianensis,7.13333,-63.16666
 1930847404,Siparuna_guianensis,-16.03,-59.5
 1259211444,Siparuna_guianensis,7.16666,-62.91666
@@ -2042,7 +2006,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262246588,Siparuna_guianensis,-3.65,-73.3
 1929479552,Siparuna_guianensis,-20.028499153208,-48.941151964069
 1931062000,Siparuna_guianensis,0.615266,-51.765218
-2288377247,Siparuna_guianensis,5.846517,-55.159049
 1260510899,Siparuna_guianensis,9.75,-70.25
 1123916182,Siparuna_guianensis,5.715423,-76.655524
 1258976277,Siparuna_guianensis,8,-77.7
@@ -2057,7 +2020,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929140079,Siparuna_guianensis,-2.95487,-59.928188
 1087256766,Siparuna_guianensis,-17.8,-48.75
 1123902771,Siparuna_guianensis,5.668,-76.63224
-1259016695,Siparuna_guianensis,6.220556,-77.4075
 1932878651,Siparuna_guianensis,3.28,-73.92
 1930664577,Siparuna_guianensis,-17.0566,-51.816667
 1930651410,Siparuna_guianensis,-3.449167,-64.879289
@@ -2083,7 +2045,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931176333,Siparuna_guianensis,-7.4667,-65.2833
 1927956260,Siparuna_guianensis,-8.89724,-65.710216
 1258976022,Siparuna_guianensis,9.20833,-80.125
-1258969868,Siparuna_guianensis,8.983056,-79.515833
 1928736050,Siparuna_guianensis,-3.022107,-59.995308
 1928625505,Siparuna_guianensis,-0.4142,-65.0192
 1928139576,Siparuna_guianensis,-0.1483,-66.9356
@@ -2093,7 +2054,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1840930523,Siparuna_guianensis,-7.5,-45.05
 1929954069,Siparuna_guianensis,-17.22555,-46.872778
 1929439146,Siparuna_guianensis,-15.74845,-47.71205
-1258976576,Siparuna_guianensis,8.98583,-79.59833
 1928365707,Siparuna_guianensis,-18.1705,-43.50525
 1456018657,Siparuna_guianensis,5.1,-67.8
 1930507096,Siparuna_guianensis,-17.57,-44.13
@@ -2138,8 +2098,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258681915,Siparuna_guianensis,7.783333,-80.7
 1258976519,Siparuna_guianensis,8.0525,-80.93416
 1258705415,Siparuna_guianensis,8.01666,-77.7
-1258976594,Siparuna_guianensis,9.37138,-79.87861
-1258976048,Siparuna_guianensis,8.25,-82.666667
 1258976123,Siparuna_guianensis,7.86666,-77.73333
 1928547829,Siparuna_guianensis,-14.63,-52.23
 1260507124,Siparuna_guianensis,-12.81666,-51.76666
@@ -2167,10 +2125,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260511766,Siparuna_guianensis,8.08333,-61.63333
 1090550182,Siparuna_guianensis,-22.801017,-47.042331
 1456042055,Siparuna_guianensis,4.86,-52.26
-1258976323,Siparuna_guianensis,8.97722,-79.56222
-1258976595,Siparuna_guianensis,9.23333,-78.01666
 2235858430,Siparuna_guianensis,-2.55,-50.63
-1258976243,Siparuna_guianensis,9.01388,-79.6
 1258976445,Siparuna_guianensis,8.212222,-80.965
 1258976347,Siparuna_guianensis,9.16,-79.74555
 1456117764,Siparuna_guianensis,5.03,-67.76
@@ -2190,9 +2145,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1840930447,Siparuna_guianensis,-7.533333,-46.333333
 1056370006,Siparuna_guianensis,8.507188,-80.102665
 2235789533,Siparuna_guianensis,2.42,-51.25
-1258976193,Siparuna_guianensis,9,-79.48333
 2289232312,Siparuna_guianensis,5.416667,-54.966667
-1258976370,Siparuna_guianensis,8.958056,-79.549722
 1258976457,Siparuna_guianensis,7.95,-80.78333
 1258976098,Siparuna_guianensis,9.166667,-79.416389
 1456014884,Siparuna_guianensis,8.45,-62.42
@@ -2224,7 +2177,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258972887,Siparuna_guianensis,9.34666,-83.6575
 1228620496,Siparuna_guianensis,9.6667,-84
 1213516410,Siparuna_guianensis,-22.896575,-46.971422
-1258976074,Siparuna_guianensis,9.00833,-79.59166
 1090533859,Siparuna_guianensis,-22.922308,-47.169767
 1456276470,Siparuna_guianensis,5.11,-58.81
 1456079947,Siparuna_guianensis,2.08,-59.25
@@ -2249,7 +2201,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456186123,Siparuna_guianensis,6.38,-58.68
 1260510461,Siparuna_guianensis,8.16666,-60
 1456127129,Siparuna_guianensis,8.16,-59.98
-1260513012,Siparuna_guianensis,8.33333,-59.66666
 1456035758,Siparuna_guianensis,8.3,-59.7
 1456441363,Siparuna_guianensis,5.16,-59.48
 1456478991,Siparuna_guianensis,6.41,-58.61
