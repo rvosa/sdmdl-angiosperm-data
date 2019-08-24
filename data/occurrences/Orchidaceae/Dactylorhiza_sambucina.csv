@@ -45,11 +45,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186804412,Dactylorhiza_sambucina,59.6093,7.3667
 2269049416,Dactylorhiza_sambucina,44.13416,11.29431
 1050626264,Dactylorhiza_sambucina,42.71,-2.55
-1936569378,Dactylorhiza_sambucina,37.933333,14.7
 1851324697,Dactylorhiza_sambucina,42.936,-4.305
 900317854,Dactylorhiza_sambucina,58.7774,7.8361
 1701829537,Dactylorhiza_sambucina,59.1193,8.8297
-1050626105,Dactylorhiza_sambucina,41.8,-1.81
 1702022970,Dactylorhiza_sambucina,59.1292,8.8227
 1701650107,Dactylorhiza_sambucina,58.8765,9.3382
 20800154,Dactylorhiza_sambucina,59.4494,8.0212
@@ -144,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851368406,Dactylorhiza_sambucina,43.01,-6.36
 1936147822,Dactylorhiza_sambucina,43.0152,-5.971
 1839001238,Dactylorhiza_sambucina,38.59222,21.99889
-1935681502,Dactylorhiza_sambucina,46.65833,15.3
 1936147963,Dactylorhiza_sambucina,42.8015,-0.5066
 1839001216,Dactylorhiza_sambucina,38.583611,21.95306
 1657179005,Dactylorhiza_sambucina,47.15,15.25
@@ -186,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 115869924,Dactylorhiza_sambucina,42.43,-0.57
 1936072129,Dactylorhiza_sambucina,43.0428,-6.055
 1144026118,Dactylorhiza_sambucina,59.242,7.9219
-788619823,Dactylorhiza_sambucina,41.3,24.083333
 730538428,Dactylorhiza_sambucina,42.84805,-0.48291
 438835356,Dactylorhiza_sambucina,46.31309,7.84358
 439501516,Dactylorhiza_sambucina,42.26797,8.83104
