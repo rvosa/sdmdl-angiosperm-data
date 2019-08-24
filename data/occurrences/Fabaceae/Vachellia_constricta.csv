@@ -24,7 +24,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270486433,Vachellia_constricta,31.851117,-110.69935
 2270491998,Vachellia_constricta,33.420535,-113.332827
 2270686593,Vachellia_constricta,33.5171,-113.903
-2270689444,Vachellia_constricta,33.5039,-113.8
 2270689174,Vachellia_constricta,33.3613,-111.734
 2270688974,Vachellia_constricta,33.3641,-111.733
 2270489816,Vachellia_constricta,32.714,-110.8945
@@ -68,14 +67,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270489331,Vachellia_constricta,33.9834,-111.719217
 2270488906,Vachellia_constricta,32.9041,-112.359
 2270488797,Vachellia_constricta,32.89,-112.36
-1897374871,Vachellia_constricta,24.740556,-104.1
 1931250524,Vachellia_constricta,31.60869,-110.16986
 2270487522,Vachellia_constricta,31.6087,-110.17
-1843858683,Vachellia_constricta,35.18,-105
 1846488653,Vachellia_constricta,32.4304,-110.45998
 2270486539,Vachellia_constricta,32.767222,-112.24925
 2270460833,Vachellia_constricta,31.246683,-109.590861
-2268947359,Vachellia_constricta,27.266667,-102.5
 1846475630,Vachellia_constricta,33.77536,-113.3478
 2270488420,Vachellia_constricta,34.31,-113.13
 2270647706,Vachellia_constricta,32.6079,-110.731
@@ -85,9 +81,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270646327,Vachellia_constricta,32.6149,-110.731
 2270490872,Vachellia_constricta,32.6165,-110.737
 2270493203,Vachellia_constricta,32.8673,-110.304
-2270491767,Vachellia_constricta,34.25,-113.1
 1846506837,Vachellia_constricta,34.167556,-113.031833
-1261045594,Vachellia_constricta,25.25,-102.3
 1418789494,Vachellia_constricta,26.750333,-103.760194
 2270491912,Vachellia_constricta,32.9411,-110.154
 1894643330,Vachellia_constricta,20.926389,-99.698055
@@ -113,13 +107,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270489623,Vachellia_constricta,33.805,-110.835
 1988878646,Vachellia_constricta,25.0588,-100.498
 1928068872,Vachellia_constricta,25.07,-100.45575
-1261039167,Vachellia_constricta,25.06,-100.5
 1843819757,Vachellia_constricta,32.828456,-108.947975
 1927840896,Vachellia_constricta,24.32303,-100.38142
 1928835278,Vachellia_constricta,25.72481,-99.21878
 1929058143,Vachellia_constricta,24.56608,-100.77192
 1843819482,Vachellia_constricta,31.847314,-107.217092
-1261540945,Vachellia_constricta,29.3,-103.55
 2270492460,Vachellia_constricta,33.7613,-110.835
 2270489957,Vachellia_constricta,33.0314,-111.387
 2270488979,Vachellia_constricta,31.3353,-109.948
@@ -132,10 +124,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846507259,Vachellia_constricta,29.183333,-102.933333
 1846555205,Vachellia_constricta,31.434332,-110.101671
 2270487064,Vachellia_constricta,32.83,-109.47
-1846507351,Vachellia_constricta,18.283333,-97.5
-1258260850,Vachellia_constricta,30.233333,-111.1
 1929022076,Vachellia_constricta,30.20811,-111.09783
-1258260862,Vachellia_constricta,18.2,-97.5
 1418789776,Vachellia_constricta,26.612056,-103.598028
 2270492745,Vachellia_constricta,32.831133,-110.044298
 1846508414,Vachellia_constricta,33.538303,-111.925228
@@ -162,7 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270487523,Vachellia_constricta,33.8475,-112.646
 1258260362,Vachellia_constricta,18.39,-97.44
 2270490010,Vachellia_constricta,33.1786,-109.863
-1258260609,Vachellia_constricta,18.2,-97.66
 1258260507,Vachellia_constricta,18.486389,-97.453611
 1930336650,Vachellia_constricta,23.70411,-100.61442
 1929619773,Vachellia_constricta,18.62753,-97.6133
@@ -174,7 +162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843819862,Vachellia_constricta,33.677793,-107.073541
 1843819733,Vachellia_constricta,32.248395,-107.133608
 1846507257,Vachellia_constricta,32.305894,-110.875258
-1988854485,Vachellia_constricta,30.2947,-106.5
 1988752773,Vachellia_constricta,22.3623,-101.285
 2270592309,Vachellia_constricta,32.9549,-109.531
 2270491153,Vachellia_constricta,33.1709,-109.475
@@ -190,7 +177,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270460425,Vachellia_constricta,27.888256,-105.197836
 2270489569,Vachellia_constricta,32.712,-111.913
 2270486723,Vachellia_constricta,32.8705,-109.633
-2270471082,Vachellia_constricta,21.9667,-100.8
 1843819471,Vachellia_constricta,32.609192,-106.951957
 2270489578,Vachellia_constricta,33.5986,-112.03
 1846507171,Vachellia_constricta,32.183,-112.93
@@ -202,7 +188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843819885,Vachellia_constricta,32.657449,-106.461269
 1258260703,Vachellia_constricta,24.35,-101.39
 2270460291,Vachellia_constricta,24.336046,-101.401056
-1258260832,Vachellia_constricta,18.51,-97.5
 1989242821,Vachellia_constricta,23.3818,-99.4443
 2270471074,Vachellia_constricta,24.683062,-100.297495
 2270686582,Vachellia_constricta,34.009,-111.358
@@ -210,10 +195,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846507135,Vachellia_constricta,31.7521,-110.1241
 1846507274,Vachellia_constricta,27.903333,-105.250833
 1930510774,Vachellia_constricta,27.38,-104.88
-1928631286,Vachellia_constricta,28.5917,-105.9
 1258260824,Vachellia_constricta,25.25,-101.25
-1258260859,Vachellia_constricta,28.59,-105.9
-1928589204,Vachellia_constricta,27.92,-105.2
 2270490720,Vachellia_constricta,32.0303,-113.186
 1846507203,Vachellia_constricta,32.235306,-111.027528
 1988776960,Vachellia_constricta,20.9237,-99.7072
@@ -227,7 +209,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846507247,Vachellia_constricta,33.9075,-113.593583
 1929104368,Vachellia_constricta,23.4942,-102.14842
 2270488304,Vachellia_constricta,33.5965,-112.557
-2270489478,Vachellia_constricta,32.9,-109.54
 2270488683,Vachellia_constricta,33.3942,-110.786
 2270488592,Vachellia_constricta,32.95,-110.35
 2270490291,Vachellia_constricta,31.9639,-111.503
@@ -241,7 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843819783,Vachellia_constricta,31.378631,-108.607053
 2270489625,Vachellia_constricta,31.9341,-109.117
 1989071179,Vachellia_constricta,26.0558,-111.498
-1318675052,Vachellia_constricta,25.38,-111.3
 2270491278,Vachellia_constricta,32.06,-110.67
 2270490248,Vachellia_constricta,32.39,-109.66
 1846507216,Vachellia_constricta,31.90366,-109.10216
@@ -270,8 +250,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928691709,Vachellia_constricta,25.97064,-101.57153
 2270486779,Vachellia_constricta,32.2217,-110.926
 1929917873,Vachellia_constricta,25.19,-103.28
-1258260597,Vachellia_constricta,25,-103
-1258260829,Vachellia_constricta,24.9,-101.75
 1928044131,Vachellia_constricta,25.45,-103.15
 1988713977,Vachellia_constricta,30.8136,-109.202
 1846499196,Vachellia_constricta,30.811944,-109.1975
