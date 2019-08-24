@@ -65,7 +65,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415728899,Grindelia_stricta_var._stricta,44.586944,-123.959722
 1024493309,Grindelia_stricta_var._stricta,39.028333,-120.800833
 441758708,Grindelia_stricta_var._stricta,48.506433,-122.482617
-119979899,Grindelia_stricta_var._stricta,38.539722,-121.1
 1999289234,Grindelia_stricta_var._stricta,39.036528,-122.426
 1843903002,Grindelia_stricta_var._stricta,36.914222,-104.223222
 441758486,Grindelia_stricta_var._stricta,46.840278,-120.951389
@@ -75,13 +74,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843893841,Grindelia_stricta_var._stricta,40.38,-105.5165
 1988242047,Grindelia_stricta_var._stricta,49.09,-122.89
 441758892,Grindelia_stricta_var._stricta,45.184167,-118.751111
-1988064486,Grindelia_stricta_var._stricta,46.04,-116.9
 63856730,Grindelia_stricta_var._stricta,42.4836,-122.6723
 441758425,Grindelia_stricta_var._stricta,47.126,-120.71365
 1806877375,Grindelia_stricta_var._stricta,37.6703,-121.3386
 2270261119,Grindelia_stricta_var._stricta,34.4097999991199,-119.8513
 45453242,Grindelia_stricta_var._stricta,38.45,-121.683333
-415728865,Grindelia_stricta_var._stricta,38.5,-121.05
 1259716285,Grindelia_stricta_var._stricta,38.44694,-105.19305
 45453065,Grindelia_stricta_var._stricta,38.861389,-122.379722
 1258992104,Grindelia_stricta_var._stricta,48.528889,-122.623056
@@ -94,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258967907,Grindelia_stricta_var._stricta,40.03333,-105.35
 1024493334,Grindelia_stricta_var._stricta,39.14164,-121.67367
 1258591017,Grindelia_stricta_var._stricta,47.60639,-122.33083
-1426396173,Grindelia_stricta_var._stricta,33,-116.55
 811858072,Grindelia_stricta_var._stricta,38.4938,-105.9267
 1986944766,Grindelia_stricta_var._stricta,34.316667,-118.566667
 2270193776,Grindelia_stricta_var._stricta,35.4614,-120.86304
@@ -112,10 +108,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270196538,Grindelia_stricta_var._stricta,39.18333,-121.866667
 1986991660,Grindelia_stricta_var._stricta,44.3931,-109.3076
 176953556,Grindelia_stricta_var._stricta,41.325561,-106.725937
-1024493318,Grindelia_stricta_var._stricta,38.333333,-122
 2242362035,Grindelia_stricta_var._stricta,38.028007,-107.315023
-1024493259,Grindelia_stricta_var._stricta,38.7,-121.633333
-993476977,Grindelia_stricta_var._stricta,38.7,-121.6333
 2270195464,Grindelia_stricta_var._stricta,34.8786999991145,-120.6326
 1024493286,Grindelia_stricta_var._stricta,39.75,-121.75
 1949609558,Grindelia_stricta_var._stricta,56.127778,-120.036111
@@ -126,13 +119,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242419263,Grindelia_stricta_var._stricta,38.75,-105.283333
 1930946706,Grindelia_stricta_var._stricta,39.77,-121.47
 2270195009,Grindelia_stricta_var._stricta,35.591915,-121.116247
-1988130252,Grindelia_stricta_var._stricta,50.4,-121.4
-2242419177,Grindelia_stricta_var._stricta,39,-105
 1261291456,Grindelia_stricta_var._stricta,37.87472,-122.59111
 119979984,Grindelia_stricta_var._stricta,38.372222,-121.458889
 2270227058,Grindelia_stricta_var._stricta,35.555,-121.095
 1703291484,Grindelia_stricta_var._stricta,50.5019041972889,-96.2242015705231
-1259852210,Grindelia_stricta_var._stricta,23.366667,-110.2
 1930170184,Grindelia_stricta_var._stricta,23.34,-110.17
 441758080,Grindelia_stricta_var._stricta,46.8875,-124.0875
 2270193128,Grindelia_stricta_var._stricta,41.25678,-122.02981
@@ -140,7 +130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270192569,Grindelia_stricta_var._stricta,41.043481,-121.631081
 1986973795,Grindelia_stricta_var._stricta,39.176667,-114.391667
 441758587,Grindelia_stricta_var._stricta,47.65889,-117.425
-1949621544,Grindelia_stricta_var._stricta,49.066667,-119.5
 1842922433,Grindelia_stricta_var._stricta,36.921757,-104.363195
 51848507,Grindelia_stricta_var._stricta,44.4102,-118.5426
 1930613889,Grindelia_stricta_var._stricta,37.382297,-102.79136
@@ -161,10 +150,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265836369,Grindelia_stricta_var._stricta,38.214222,-122.336459
 2270289229,Grindelia_stricta_var._stricta,34.8211999991152,-120.5286
 2270262318,Grindelia_stricta_var._stricta,34.5506999991183,-119.8756
-1259853284,Grindelia_stricta_var._stricta,31.9,-116.7
 1928143215,Grindelia_stricta_var._stricta,41.197,-113.9761
 2270277040,Grindelia_stricta_var._stricta,34.237844,-118.860369
-1988169760,Grindelia_stricta_var._stricta,39.2,-123.1
 1930308186,Grindelia_stricta_var._stricta,39.3814,-105.0251
 1929303934,Grindelia_stricta_var._stricta,36.8505,-103.9287
 1930246632,Grindelia_stricta_var._stricta,38.8479,-105.636
@@ -187,7 +174,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986936840,Grindelia_stricta_var._stricta,38.722,-109.3436
 1929710542,Grindelia_stricta_var._stricta,39.75,-109.25
 2270196094,Grindelia_stricta_var._stricta,35.2857,-120.6245
-1500198228,Grindelia_stricta_var._stricta,38.6,-121.566667
 176953575,Grindelia_stricta_var._stricta,44.745899,-104.244589
 1929955589,Grindelia_stricta_var._stricta,38.9063,-109.3793
 2270191014,Grindelia_stricta_var._stricta,38.095852,-122.829688
@@ -198,7 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270194896,Grindelia_stricta_var._stricta,39.210136,-122.911733
 2265576400,Grindelia_stricta_var._stricta,44.233108,-91.917245
 1846500019,Grindelia_stricta_var._stricta,39.226944,-108.910556
-1949567684,Grindelia_stricta_var._stricta,49.933333,-125.5
 2270260348,Grindelia_stricta_var._stricta,33.462778,-117.709722
 51848376,Grindelia_stricta_var._stricta,42.0474,-122.6113
 1988198304,Grindelia_stricta_var._stricta,49.14,-122.91
@@ -216,10 +201,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265576512,Grindelia_stricta_var._stricta,47.702107,-96.357761
 1929976912,Grindelia_stricta_var._stricta,43.4207,-106.3807
 2270260709,Grindelia_stricta_var._stricta,34.9056999991142,-120.6406
-1988216143,Grindelia_stricta_var._stricta,56.1,-120.1
 1265836310,Grindelia_stricta_var._stricta,38.374943,-122.245209
 2265581616,Grindelia_stricta_var._stricta,44.086452,-95.049966
-1988227048,Grindelia_stricta_var._stricta,50.8,-121.5
 2270290657,Grindelia_stricta_var._stricta,34.4197999991198,-119.8758
 2270262461,Grindelia_stricta_var._stricta,34.40989999912,-119.8698
 441758071,Grindelia_stricta_var._stricta,45.85533,-119.92296
@@ -234,7 +217,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270193777,Grindelia_stricta_var._stricta,35.3134,-120.6519
 1893415417,Grindelia_stricta_var._stricta,32.308333,-116.858333
 1949564611,Grindelia_stricta_var._stricta,50.55,-125.966667
-1895476216,Grindelia_stricta_var._stricta,32.3,-116.85
 51847898,Grindelia_stricta_var._stricta,43.9828,-124.0113
 1024493302,Grindelia_stricta_var._stricta,39.24896,-121.31264
 2270654017,Grindelia_stricta_var._stricta,34.1823,-111.694
@@ -245,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893415436,Grindelia_stricta_var._stricta,28.641667,-114.025
 2270191409,Grindelia_stricta_var._stricta,34.9047999991142,-120.6607
 2270192892,Grindelia_stricta_var._stricta,34.9032999991142,-120.667
-1988089891,Grindelia_stricta_var._stricta,49.2,-124.8
 1265826852,Grindelia_stricta_var._stricta,38.01895,-122.071547
 51847897,Grindelia_stricta_var._stricta,43.9828,-124.0986
 2270262109,Grindelia_stricta_var._stricta,40.99904,-122.41186
@@ -253,7 +234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269683264,Grindelia_stricta_var._stricta,32.849998,-116.466003
 1291052239,Grindelia_stricta_var._stricta,56.138664,-117.474621
 1949510957,Grindelia_stricta_var._stricta,49.116667,-125.883333
-1949527490,Grindelia_stricta_var._stricta,49,-125
 1949519364,Grindelia_stricta_var._stricta,49.001944,-123.983333
 176953676,Grindelia_stricta_var._stricta,44.4082200039482,-104.75222341913
 1703288477,Grindelia_stricta_var._stricta,49.9019040539782,-95.5441736458353
@@ -286,7 +266,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270194340,Grindelia_stricta_var._stricta,35.3111,-120.6532
 51848271,Grindelia_stricta_var._stricta,45.3143,-117.2219
 51848266,Grindelia_stricta_var._stricta,42.25,-123.6833
-1988154439,Grindelia_stricta_var._stricta,49.6,-115.8
 441758069,Grindelia_stricta_var._stricta,47.405,-119.4975
 1988221592,Grindelia_stricta_var._stricta,54.21,-130.33
 51848254,Grindelia_stricta_var._stricta,44.5728,-123.971
@@ -298,18 +277,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426395582,Grindelia_stricta_var._stricta,37.683333,-122.433333
 1426396637,Grindelia_stricta_var._stricta,34.083333,-118.65
 1426395632,Grindelia_stricta_var._stricta,37.158333,-121.683333
-1988135828,Grindelia_stricta_var._stricta,48.9,-124.3
-1988171469,Grindelia_stricta_var._stricta,49.9,-127.3
 2270260024,Grindelia_stricta_var._stricta,35.432381,-120.886309
-1988160134,Grindelia_stricta_var._stricta,49.5,-123.3
 2270261283,Grindelia_stricta_var._stricta,34.1269491897614,-118.543051705012
 1426395638,Grindelia_stricta_var._stricta,37.416667,-122.166667
 1426395639,Grindelia_stricta_var._stricta,37.425,-121.993333
 2265580022,Grindelia_stricta_var._stricta,46.97167,-96.259228
-1988150206,Grindelia_stricta_var._stricta,50.3,-125.4
 1456036178,Grindelia_stricta_var._stricta,37.4067,-122.158
 1426395710,Grindelia_stricta_var._stricta,37.406667,-122.158333
-1426395655,Grindelia_stricta_var._stricta,37.666667,-122.4
 1988144509,Grindelia_stricta_var._stricta,49.09,-123.08
 441758073,Grindelia_stricta_var._stricta,47.60769,-117.349021
 1426395681,Grindelia_stricta_var._stricta,37.411667,-122.156667
@@ -331,7 +305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842922440,Grindelia_stricta_var._stricta,36.94446,-104.227654
 1291052260,Grindelia_stricta_var._stricta,53.0654,-101.10642
 2265578543,Grindelia_stricta_var._stricta,47.659929,-93.01685
-1988243156,Grindelia_stricta_var._stricta,49.7,-116
 1426396167,Grindelia_stricta_var._stricta,36.858333,-121.813333
 51849117,Grindelia_stricta_var._stricta,45.2987,-121.08
 441758075,Grindelia_stricta_var._stricta,46.619221,-117.201952
@@ -348,7 +321,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988228521,Grindelia_stricta_var._stricta,49.25,-123.25
 1988217482,Grindelia_stricta_var._stricta,50.15,-115.82
 1291052238,Grindelia_stricta_var._stricta,50.933879,-114.088653
-1988096589,Grindelia_stricta_var._stricta,51.3,-116.97
 51848760,Grindelia_stricta_var._stricta,42.6133,-124.065
 51848799,Grindelia_stricta_var._stricta,42.6003,-124.0678
 2242362231,Grindelia_stricta_var._stricta,39.037251,-105.523961
@@ -359,7 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270192593,Grindelia_stricta_var._stricta,35.35903,-120.85279
 2270192869,Grindelia_stricta_var._stricta,35.389688,-120.604458
 883415160,Grindelia_stricta_var._stricta,60.0059,-111.8852
-1988177675,Grindelia_stricta_var._stricta,50.8,-121
 51849088,Grindelia_stricta_var._stricta,43.1772,-124.1864
 2265578270,Grindelia_stricta_var._stricta,48.840123,-97.007852
 1426065322,Grindelia_stricta_var._stricta,41.1939,-120.9442
@@ -370,11 +341,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265578547,Grindelia_stricta_var._stricta,46.81853,-92.04861
 1988065378,Grindelia_stricta_var._stricta,49.09,-116.47
 1291052203,Grindelia_stricta_var._stricta,49.090278,-116.466667
-1988153788,Grindelia_stricta_var._stricta,49.5,-115.8
 1988206803,Grindelia_stricta_var._stricta,49.05,-122.88
 1988191782,Grindelia_stricta_var._stricta,51.67,-112.25
 1291052265,Grindelia_stricta_var._stricta,51.7689699990833,-112.208059
-1988110529,Grindelia_stricta_var._stricta,50.8,-120.8
 441758673,Grindelia_stricta_var._stricta,47.470925,-117.37917
 1988144867,Grindelia_stricta_var._stricta,47.58,-118.42
 51848096,Grindelia_stricta_var._stricta,42.3818,-122.8262
@@ -385,7 +354,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51849033,Grindelia_stricta_var._stricta,42.7458,-124.4961
 2265575704,Grindelia_stricta_var._stricta,48.995724,-97.205109
 51848710,Grindelia_stricta_var._stricta,45.3544,-117.2286
-1988152613,Grindelia_stricta_var._stricta,49.1,-118.69
 51848755,Grindelia_stricta_var._stricta,45.6007,-121.2689
 1291052230,Grindelia_stricta_var._stricta,53.534156,-113.508667
 1988236118,Grindelia_stricta_var._stricta,51.97,-122.52
@@ -397,7 +365,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441758606,Grindelia_stricta_var._stricta,47.038011,-123.005646
 51848704,Grindelia_stricta_var._stricta,45.5003,-118.5003
 2265582468,Grindelia_stricta_var._stricta,46.7308,-92.06217
-1988240602,Grindelia_stricta_var._stricta,49.3,-123.2
 2270191897,Grindelia_stricta_var._stricta,40.849701,-124.083198
 51848067,Grindelia_stricta_var._stricta,44.0058,-122.9633
 441758617,Grindelia_stricta_var._stricta,47.34832,-123.05624
@@ -407,12 +374,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1291052242,Grindelia_stricta_var._stricta,50.234833,-113.404748
 441758613,Grindelia_stricta_var._stricta,47.61139,-119.29111
 51848611,Grindelia_stricta_var._stricta,45.5236,-122.675
-1988067252,Grindelia_stricta_var._stricta,50.9,-120.58
 51848697,Grindelia_stricta_var._stricta,45.6722,-118.7875
 1426145056,Grindelia_stricta_var._stricta,41.6431,-121.1558
 441758671,Grindelia_stricta_var._stricta,48.14389,-122.49111
 441758672,Grindelia_stricta_var._stricta,45.61715,-121.18372
-1228487825,Grindelia_stricta_var._stricta,37,-119
 1988091182,Grindelia_stricta_var._stricta,50.67,-120.32
 51848957,Grindelia_stricta_var._stricta,45.3829,-118.3196
 441758089,Grindelia_stricta_var._stricta,48.51278,-122.61139
@@ -470,7 +435,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51849150,Grindelia_stricta_var._stricta,45.5067,-118.4203
 51849153,Grindelia_stricta_var._stricta,45.9175,-119.3414
 51849147,Grindelia_stricta_var._stricta,45.6342,-120.9153
-1988121634,Grindelia_stricta_var._stricta,49.1,-122.87
 1988083351,Grindelia_stricta_var._stricta,49.05,-122.85
 2265575297,Grindelia_stricta_var._stricta,47.215547,-93.522987
 51848912,Grindelia_stricta_var._stricta,45.3247,-118.0867
