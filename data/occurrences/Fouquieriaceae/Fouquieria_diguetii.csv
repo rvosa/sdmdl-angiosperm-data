@@ -44,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270514173,Fouquieria_diguetii,28.7378,-114.041
 1846537146,Fouquieria_diguetii,28.658778,-113.989083
 1846511882,Fouquieria_diguetii,27.589722,-113.010944
-2270515903,Fouquieria_diguetii,26.7,-109.55
 1259835687,Fouquieria_diguetii,27.283333,-113.033333
 2270514392,Fouquieria_diguetii,27.3167,-113.133
 1846511995,Fouquieria_diguetii,27.316667,-113.133333
@@ -88,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895518418,Fouquieria_diguetii,23.777156,-110.127703
 1895518391,Fouquieria_diguetii,24.122011,-110.468333
 1895518553,Fouquieria_diguetii,24.331661,-110.990342
-1259504358,Fouquieria_diguetii,24.1,-110.633333
 1895518434,Fouquieria_diguetii,24.08645,-110.369
 2270514295,Fouquieria_diguetii,28.3083,-111.467
 1895646661,Fouquieria_diguetii,28.316944,-111.450555
@@ -97,7 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895518578,Fouquieria_diguetii,27.947990840421,-111.050985299077
 1895518509,Fouquieria_diguetii,28.0941268935477,-110.960204143001
 1893434872,Fouquieria_diguetii,28.891667,-113.558333
-2235862535,Fouquieria_diguetii,25.7,-111.275
 1895518537,Fouquieria_diguetii,27.9939,-111.139644
 1893434918,Fouquieria_diguetii,25.8116297481967,-111.62639414883
 2235909553,Fouquieria_diguetii,25.875,-111.57
@@ -105,13 +102,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895518570,Fouquieria_diguetii,23.2528747696636,-109.750114040467
 1895518563,Fouquieria_diguetii,24.3234301303234,-110.803140776016
 1846537170,Fouquieria_diguetii,28.904016,-114.147028
-2236073355,Fouquieria_diguetii,26.4,-111.65
 912130828,Fouquieria_diguetii,23.52,-109.78
 1895464421,Fouquieria_diguetii,23.542960095942,-109.777666180945
 1846537067,Fouquieria_diguetii,27.223611,-113.758333
-912130823,Fouquieria_diguetii,23.3,-109.76
-912130831,Fouquieria_diguetii,24.5,-111.61
 2270515446,Fouquieria_diguetii,29.070126,-114.155211
 1259507912,Fouquieria_diguetii,23.05,-109.683333
-912130817,Fouquieria_diguetii,27.69,-114.9
 912130842,Fouquieria_diguetii,29.74,-114.32
