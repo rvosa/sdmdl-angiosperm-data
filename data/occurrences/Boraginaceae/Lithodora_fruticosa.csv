@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844870798,Lithodora_fruticosa,42.59,-2.77
-1831524201,Lithodora_fruticosa,39.02444,0.29222
 1831524089,Lithodora_fruticosa,40.22139,-3.11333
 1831524208,Lithodora_fruticosa,41.62722,0.70083
 1831524206,Lithodora_fruticosa,37.81722,-2.96028
@@ -121,10 +120,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860309606,Lithodora_fruticosa,41.594,-1.05
 318115785,Lithodora_fruticosa,38.51,-1.04
 318115784,Lithodora_fruticosa,38.08,-1.03
-1501102152,Lithodora_fruticosa,38.75,0.18
 204403449,Lithodora_fruticosa,36.947,-1.905
-895144403,Lithodora_fruticosa,38.757,0.186
-895224840,Lithodora_fruticosa,40.21,0.24
 204432176,Lithodora_fruticosa,42.370998,-1.889
 1501072637,Lithodora_fruticosa,38.1,-0.96
 1851371835,Lithodora_fruticosa,41.95,-4.15
@@ -177,7 +173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895239258,Lithodora_fruticosa,40.48,0.11
 1262231029,Lithodora_fruticosa,38.58333,-0.2
 1936421685,Lithodora_fruticosa,40.5499,-2.9422
-318116000,Lithodora_fruticosa,37.59,-0.81
 895228855,Lithodora_fruticosa,41.296,-1.609
 895293994,Lithodora_fruticosa,38.15,-2.686
 1851333032,Lithodora_fruticosa,42.153,-4.229
@@ -200,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30670680,Lithodora_fruticosa,37.375,-2.667
 30877861,Lithodora_fruticosa,38.580002,-2.43
 30877870,Lithodora_fruticosa,38.310001,-2.54
-1501054178,Lithodora_fruticosa,38.7,0.14
 30877873,Lithodora_fruticosa,37.849998,-1.64
 30877881,Lithodora_fruticosa,37.139999,-3.56
 1851376003,Lithodora_fruticosa,41.752,-4.594
@@ -320,7 +314,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895214405,Lithodora_fruticosa,38.24,-0.89
 1501933631,Lithodora_fruticosa,38.15,-0.89
 204431789,Lithodora_fruticosa,42.115002,-0.139
-895201222,Lithodora_fruticosa,36.55,-4.06
 1936163584,Lithodora_fruticosa,41.8644,0.9264
 1842901476,Lithodora_fruticosa,42.209,-0.28
 1501937539,Lithodora_fruticosa,39.42,-1.43
@@ -389,7 +382,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 142314280,Lithodora_fruticosa,37.44,-4.3
 1936036299,Lithodora_fruticosa,41.8092,-2.3512
 1936100523,Lithodora_fruticosa,38.8508,-0.6735
-2287246349,Lithodora_fruticosa,40.416667,-3.7
 1936102817,Lithodora_fruticosa,41.7392,-4.0872
 1502037872,Lithodora_fruticosa,38.34,-1
 1936413027,Lithodora_fruticosa,41.5436,1.7999
@@ -420,7 +412,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30877889,Lithodora_fruticosa,40.560001,-2.41
 1842897813,Lithodora_fruticosa,41.31,1.03
 30877588,Lithodora_fruticosa,38.639999,-0.59
-1936669794,Lithodora_fruticosa,37.0354,-1.5395
 1936036314,Lithodora_fruticosa,37.2233,-3.5648
 30877591,Lithodora_fruticosa,40.560001,-2.17
 30877509,Lithodora_fruticosa,40.459999,-4.18
