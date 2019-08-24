@@ -109,15 +109,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829497941,Arabis_hirsuta,37.709722,140.498611
 1829563402,Arabis_hirsuta,36.24886,140.28448
 1438584573,Arabis_hirsuta,58.99986,24.62785
-899740999,Arabis_hirsuta,51.3,11
 1702378706,Arabis_hirsuta,59.8234,10.194
 1702405054,Arabis_hirsuta,59.2252,6.4302
 1946776399,Arabis_hirsuta,48.22,12.91
 1830126010,Arabis_hirsuta,35.55618,139.1898
 1829930842,Arabis_hirsuta,35.199121,139.115589
 1702378573,Arabis_hirsuta,59.7235,10.1184
-1421199752,Arabis_hirsuta,51.7,11.1
-899741004,Arabis_hirsuta,51.4,11.1
 1144053730,Arabis_hirsuta,60.2907,6.634
 2244423946,Arabis_hirsuta,35.165788,139.078092
 1697237920,Arabis_hirsuta,50.96134,107.27021
@@ -134,7 +131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671637475,Arabis_hirsuta,37.619598,13.607831
 1838164271,Arabis_hirsuta,48.06028,7.01778
 1697237904,Arabis_hirsuta,50.8978,107.4493
-2289180727,Arabis_hirsuta,46.1,7.638333
 1935652417,Arabis_hirsuta,47.15044,15.22858
 2288329849,Arabis_hirsuta,52.124883,4.316167
 1701773157,Arabis_hirsuta,63.2566,11.1003
@@ -196,11 +192,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388791478,Arabis_hirsuta,35.390772,139.553045
 1270039015,Arabis_hirsuta,51.328934,11.596017
 1699966250,Arabis_hirsuta,43.437168,10.612357
-786092290,Arabis_hirsuta,51.3,11.5
 2313312026,Arabis_hirsuta,47.72,12.13
 736073829,Arabis_hirsuta,35.529167,139.35625
 1270039185,Arabis_hirsuta,51.328991,11.596017
-2313308786,Arabis_hirsuta,48.1,11.55
 1701887011,Arabis_hirsuta,64.1058,11.6819
 1830396406,Arabis_hirsuta,35.228373,137.183361
 736073832,Arabis_hirsuta,35.5625,139.15625
@@ -210,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230501415,Arabis_hirsuta,41.15722,44.76556
 736073819,Arabis_hirsuta,35.5125,139.16875
 1829023879,Arabis_hirsuta,39.9625,141.55625
-1323728282,Arabis_hirsuta,67.3329,15.2
 1701323597,Arabis_hirsuta,63.2601,10.4624
 388791481,Arabis_hirsuta,35.40742,138.915602
 883402449,Arabis_hirsuta,52.0429509990855,-116.407709
@@ -224,8 +217,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702229895,Arabis_hirsuta,60.9034,9.5537
 2328134786,Arabis_hirsuta,60.903426,9.553736
 1323823062,Arabis_hirsuta,68.5275,17.1043
-1829622717,Arabis_hirsuta,36.6,139.309722
-786092300,Arabis_hirsuta,48.3,9.5
 1829023978,Arabis_hirsuta,39.9875,141.70625
 1838961729,Arabis_hirsuta,39.98056,22.42639
 1702239393,Arabis_hirsuta,60.0926,6.0059
@@ -234,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395737129,Arabis_hirsuta,34.811944,133.614444
 1702037248,Arabis_hirsuta,59.893,10.5459
 395737132,Arabis_hirsuta,35.0475,133.847778
-1946776086,Arabis_hirsuta,48.84,11.1
 1851367603,Arabis_hirsuta,42.896,-4.635
 1830200568,Arabis_hirsuta,36.416667,137.083333
 1323862977,Arabis_hirsuta,67.4166,14.6326
@@ -244,7 +234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 214505009,Arabis_hirsuta,52.403889,13.018055
 1323822873,Arabis_hirsuta,67.1403,14.3794
 1323822765,Arabis_hirsuta,67.3141,14.461
-237341080,Arabis_hirsuta,52.450001,13.3
 1702244987,Arabis_hirsuta,61.8682,9.0095
 1702171408,Arabis_hirsuta,60.9034,9.5558
 388791428,Arabis_hirsuta,35.657388,138.865603
@@ -263,10 +252,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829868633,Arabis_hirsuta,35.14079,139.053097
 391286482,Arabis_hirsuta,33.916667,134.266667
 388791458,Arabis_hirsuta,35.59074,139.290561
-1144576151,Arabis_hirsuta,42.81667,9.4
 1829423854,Arabis_hirsuta,42.872246,143.205329
 1931131430,Arabis_hirsuta,44.31889,-116.25844
-391286339,Arabis_hirsuta,37.4,140.083333
 395737093,Arabis_hirsuta,34.834444,133.834444
 1702037046,Arabis_hirsuta,59.7262,10.1194
 1829023417,Arabis_hirsuta,40.229167,141.49375
@@ -295,9 +282,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050642035,Arabis_hirsuta,42.82,-2.71
 1230501463,Arabis_hirsuta,40.65833,45.21694
 883373721,Arabis_hirsuta,53.391667,-113.751667
-1830199349,Arabis_hirsuta,36.65,137.4
 1342846417,Arabis_hirsuta,56.180145,9.602783
-1638371706,Arabis_hirsuta,49.7,18.73333
 895198150,Arabis_hirsuta,40.457,-1.555
 1230505059,Arabis_hirsuta,40.03361,46.57583
 1144046825,Arabis_hirsuta,61.3873,5.4492
@@ -340,14 +325,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242377247,Arabis_hirsuta,39.844515,-105.440662
 1701281270,Arabis_hirsuta,65.5978,13.6539
 1701327734,Arabis_hirsuta,65.5942,13.6476
-1830520784,Arabis_hirsuta,34.933333,135.6
 1701840701,Arabis_hirsuta,59.2111,6.1265
 1323727460,Arabis_hirsuta,66.9915,14.0938
 186792048,Arabis_hirsuta,59.4726,7.5446
 1323855881,Arabis_hirsuta,70.0471,20.7177
 1342844210,Arabis_hirsuta,56.735692,9.856837
 1945496022,Arabis_hirsuta,46.85556,15.85083
-198468878,Arabis_hirsuta,43.220001,-4.9
 198468868,Arabis_hirsuta,43.200001,-4.63
 1935651932,Arabis_hirsuta,47.08417,15.39917
 994553176,Arabis_hirsuta,49.51847,20.3164
@@ -360,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395737020,Arabis_hirsuta,34.994444,134.075556
 381784626,Arabis_hirsuta,36.77835,140.36012
 381784582,Arabis_hirsuta,36.55079,140.41856
-1849111050,Arabis_hirsuta,44.98,-115.8
 2242382182,Arabis_hirsuta,39.292988,-106.064875
 1230504227,Arabis_hirsuta,48.12806,16.25056
 1148497465,Arabis_hirsuta,58.99,24.63139
@@ -386,17 +368,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323859031,Arabis_hirsuta,70.03272,23.2623
 883429653,Arabis_hirsuta,53.566667,-113.833333
 111302843,Arabis_hirsuta,42.950001,2.57
-1144576093,Arabis_hirsuta,42.7,9.4
 2244448380,Arabis_hirsuta,36.733333,136.916667
 30951309,Arabis_hirsuta,39.11,-0.93
 388791436,Arabis_hirsuta,35.557412,139.265565
 187091795,Arabis_hirsuta,63.9117,9.9915
-1830691907,Arabis_hirsuta,33.45,133.2
 388791390,Arabis_hirsuta,35.50298,139.516518
 1342846719,Arabis_hirsuta,56.025066,9.969396
 381784423,Arabis_hirsuta,36.31779,139.99461
 388791439,Arabis_hirsuta,35.482423,139.328061
-1830692322,Arabis_hirsuta,33.7,133.7
 1323860483,Arabis_hirsuta,59.3023,10.6954
 1829621529,Arabis_hirsuta,36.456667,138.436111
 1851379928,Arabis_hirsuta,42.89806,-5.54587
@@ -425,7 +404,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935651899,Arabis_hirsuta,47.11139,14.37611
 1701300469,Arabis_hirsuta,65.6585,12.7199
 994541205,Arabis_hirsuta,50.16846,19.71638
-238088075,Arabis_hirsuta,37,140
 2292032416,Arabis_hirsuta,50.828,5.911167
 1701306808,Arabis_hirsuta,63.5503,10.2376
 1701896010,Arabis_hirsuta,59.2318,5.7968
@@ -443,7 +421,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323736022,Arabis_hirsuta,69.7151,19.6805
 1702032597,Arabis_hirsuta,60.3881,10.4423
 317817606,Arabis_hirsuta,40.52,45.23
-1146362685,Arabis_hirsuta,58.6,-153.76
 2318967502,Arabis_hirsuta,62.450099,7.851374
 1701339172,Arabis_hirsuta,63.7487,10.9992
 1702206581,Arabis_hirsuta,59.1043,7.5282
@@ -488,7 +465,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701292704,Arabis_hirsuta,62.3707,8.0423
 152908232,Arabis_hirsuta,45.599766,15.078573
 1342847028,Arabis_hirsuta,56.41647,10.384572
-786092341,Arabis_hirsuta,50.6,11.4
 1323766770,Arabis_hirsuta,66.8773,13.6879
 1935652167,Arabis_hirsuta,47.14917,15.21028
 1701232844,Arabis_hirsuta,63.9857,10.172
@@ -561,11 +537,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701829056,Arabis_hirsuta,60.95088,9.95958
 1702191853,Arabis_hirsuta,63.8528,11.1836
 1702191884,Arabis_hirsuta,63.8484,11.1802
-1146335870,Arabis_hirsuta,55.9,-159.49
 1843857289,Arabis_hirsuta,35.89766,-106.717547
 186791737,Arabis_hirsuta,59.6352,7.1458
 1701237084,Arabis_hirsuta,64.8142,11.159
-1146335860,Arabis_hirsuta,55.9,-159.48
 1702191822,Arabis_hirsuta,63.8498,11.1447
 186791738,Arabis_hirsuta,59.6312,7.2436
 1702191891,Arabis_hirsuta,63.8818,11.2836
@@ -574,7 +548,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395736867,Arabis_hirsuta,35.204167,133.805278
 1701839137,Arabis_hirsuta,63.8389,11.4103
 1342848209,Arabis_hirsuta,55.596449,12.372257
-1146349603,Arabis_hirsuta,60.2,-143.2
 1699915115,Arabis_hirsuta,63.044,8.911
 388791321,Arabis_hirsuta,35.382428,139.11558
 1260954133,Arabis_hirsuta,40.32888,-91.52305
@@ -586,7 +559,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388791347,Arabis_hirsuta,35.382425,139.053086
 395736831,Arabis_hirsuta,35.233611,133.582222
 2313362744,Arabis_hirsuta,48.12,11.71
-1050620963,Arabis_hirsuta,42.86,-3.7
 395736825,Arabis_hirsuta,35.231667,133.5175
 381784357,Arabis_hirsuta,36.47508,140.37106
 388791314,Arabis_hirsuta,35.239949,139.120169
@@ -615,7 +587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701770467,Arabis_hirsuta,63.8819,11.0667
 395736829,Arabis_hirsuta,35.136111,133.683611
 1701233897,Arabis_hirsuta,64.0154,11.4347
-29585132,Arabis_hirsuta,39.7,-2.01
 2318176949,Arabis_hirsuta,62.539904,7.478951
 1701344220,Arabis_hirsuta,64.0212,11.3533
 1881012609,Arabis_hirsuta,48.81,10.76
@@ -637,7 +608,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829850004,Arabis_hirsuta,36.048493,138.445688
 395736793,Arabis_hirsuta,35.312778,133.615
 1843821640,Arabis_hirsuta,36.763727,-104.886356
-1830205951,Arabis_hirsuta,36.75,137.5
 1851580086,Arabis_hirsuta,42.36,-0.23
 1702000322,Arabis_hirsuta,66.8281,15.5124
 1323692792,Arabis_hirsuta,70.3388,25.5619
@@ -647,13 +617,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342847157,Arabis_hirsuta,55.64711,11.342632
 245524176,Arabis_hirsuta,35.307441,139.190574
 1828809710,Arabis_hirsuta,36.365421,136.592749
-729316641,Arabis_hirsuta,34.849998,135.3
 29589110,Arabis_hirsuta,40.39,-0.11
 245524175,Arabis_hirsuta,35.315772,139.140579
 1851349644,Arabis_hirsuta,42.781,-5.06
 30950548,Arabis_hirsuta,42.67,0.15
 1323808536,Arabis_hirsuta,69.6867,19.6707
-1830225953,Arabis_hirsuta,36.8,137.583333
 1701986440,Arabis_hirsuta,59.8103,8.6212
 729275611,Arabis_hirsuta,34.700001,135.183
 1701989391,Arabis_hirsuta,61.0405,9.4767
@@ -665,7 +633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563901277,Arabis_hirsuta,59.6618,7.1834
 615267317,Arabis_hirsuta,27.03,100.23
 20466888,Arabis_hirsuta,63.6623,9.397
-1146251415,Arabis_hirsuta,65.23,-144.5
 1657161758,Arabis_hirsuta,47.06667,14.33333
 186791629,Arabis_hirsuta,59.4282,7.3088
 1323807748,Arabis_hirsuta,69.6668,19.6462
@@ -682,7 +649,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936603566,Arabis_hirsuta,43.4311,-3.4585
 2312420025,Arabis_hirsuta,47.71,12.81
 895246361,Arabis_hirsuta,40.66,0.22
-1881013879,Arabis_hirsuta,48.79,10.7
 1050655503,Arabis_hirsuta,37.81,-2.94
 1099889524,Arabis_hirsuta,55.90864,13.02664
 1701983944,Arabis_hirsuta,59.7728,9.9606
@@ -705,7 +671,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146226347,Arabis_hirsuta,65.01,-141.31
 395736795,Arabis_hirsuta,35.248056,134.116944
 1701984386,Arabis_hirsuta,60.1078,10.2726
-1929414116,Arabis_hirsuta,40.55,-109.7
 1701982279,Arabis_hirsuta,59.6128,8.6394
 186791559,Arabis_hirsuta,59.0132,7.5312
 1701785035,Arabis_hirsuta,59.5961,8.6015
@@ -733,7 +698,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146268235,Arabis_hirsuta,64.46,-148.08
 1928746836,Arabis_hirsuta,40.67,-109.45
 1701932738,Arabis_hirsuta,60.8144,11.0129
-1928071891,Arabis_hirsuta,40.73,-109.4
 1936429600,Arabis_hirsuta,43.2503,-6.8827
 1928027519,Arabis_hirsuta,40.65,-109.55
 1933836862,Arabis_hirsuta,33.7815,130.8675
@@ -741,7 +705,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729296462,Arabis_hirsuta,34.950001,134.39999
 1928654990,Arabis_hirsuta,40.65,-109.53
 1936443227,Arabis_hirsuta,41.0003,-3.0488
-1929604411,Arabis_hirsuta,40.7,-109.48
 895227173,Arabis_hirsuta,41.073,-1.149
 1323785198,Arabis_hirsuta,69.5262,19.0145
 1829648976,Arabis_hirsuta,36.638611,139.174167
@@ -749,14 +712,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050655491,Arabis_hirsuta,42.92,-0.61
 1842904681,Arabis_hirsuta,35.28,-5.17
 245524185,Arabis_hirsuta,35.483804,139.046837
-1946776138,Arabis_hirsuta,50.37,10.9
 2242371347,Arabis_hirsuta,39.858081,-105.421961
 1705360927,Arabis_hirsuta,55.549233,13.895997
 1701979929,Arabis_hirsuta,60.8519,8.6411
 1830190484,Arabis_hirsuta,36.716667,137.55
 1701783527,Arabis_hirsuta,59.8556,8.6153
 1702235198,Arabis_hirsuta,60.6202,11.1105
-1946776140,Arabis_hirsuta,49.97,10.3
 1323784055,Arabis_hirsuta,69.7118,19.6692
 20466782,Arabis_hirsuta,59.7729,8.5771
 1701979630,Arabis_hirsuta,60.5817,8.4069
@@ -767,7 +728,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050655526,Arabis_hirsuta,42.61,-2.83
 895221383,Arabis_hirsuta,41.409,-1.343
 2242377134,Arabis_hirsuta,39.768653,-105.216878
-1881012521,Arabis_hirsuta,48.81,10.7
 2289883601,Arabis_hirsuta,35.118333,134.534444
 1851406365,Arabis_hirsuta,42.6579,-5.5042
 1701498152,Arabis_hirsuta,59.7675,10.7368
@@ -780,13 +740,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 124822354,Arabis_hirsuta,48.6606,3.83819
 1702405340,Arabis_hirsuta,59.8496,10.2761
 1050579665,Arabis_hirsuta,43.11,-0.85
-729316681,Arabis_hirsuta,34.833302,135.3
 1936541364,Arabis_hirsuta,42.6833,-2.452
 1828888506,Arabis_hirsuta,35.15462,134.54205
 1323803568,Arabis_hirsuta,68.4198,16.3765
 2273633519,Arabis_hirsuta,59.19264,12.20055
 29587497,Arabis_hirsuta,40.49,-0.35
-29587499,Arabis_hirsuta,40.4,-0.35
 1702412048,Arabis_hirsuta,60.1182,10.3036
 1323792413,Arabis_hirsuta,68.4216,16.3767
 1050579432,Arabis_hirsuta,42.69,-2.44
@@ -843,7 +801,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323817671,Arabis_hirsuta,67.0412,14.0236
 1936511342,Arabis_hirsuta,39.7222,-0.5511
 2244421545,Arabis_hirsuta,35.65393,139.447908
-1830176756,Arabis_hirsuta,36.3,137.383333
 624039861,Arabis_hirsuta,35.411611,140.146742
 1829767297,Arabis_hirsuta,35.403281,140.109244
 1323817422,Arabis_hirsuta,67.0323,14.024
@@ -893,7 +850,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146337083,Arabis_hirsuta,59.55,-139.75
 1703290873,Arabis_hirsuta,50.0168994564849,-96.8832188343194
 1829631746,Arabis_hirsuta,36.658587,139.102882
-1146294261,Arabis_hirsuta,60.58,-150.8
 1702207863,Arabis_hirsuta,65.2115,12.0175
 895225574,Arabis_hirsuta,41.784,-1.779
 186791085,Arabis_hirsuta,59.5917,7.0296
@@ -937,12 +893,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500700354,Arabis_hirsuta,40.75,-0.22
 1933964004,Arabis_hirsuta,35.1087,140.0224
 29585322,Arabis_hirsuta,40.01,-0.627
-1146304470,Arabis_hirsuta,58.3,-134.4
 1500992320,Arabis_hirsuta,40.01,-0.62
 111302663,Arabis_hirsuta,42.713001,-1.211
 1828888509,Arabis_hirsuta,35.22919,134.52376
 883421042,Arabis_hirsuta,57.05,-117.533333
-1500697392,Arabis_hirsuta,40.66,0.1
 1936361020,Arabis_hirsuta,40.7915,-3.6176
 883421713,Arabis_hirsuta,56.35,-117.166667
 883421740,Arabis_hirsuta,56.116667,-117.466667
@@ -975,7 +929,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065671511,Arabis_hirsuta,65.329956,15.858561
 1701793407,Arabis_hirsuta,60.3763,8.7552
 1438027274,Arabis_hirsuta,38.366667,140.625
-1830177056,Arabis_hirsuta,36.5,137.25
 234408730,Arabis_hirsuta,35.307448,139.553044
 234408713,Arabis_hirsuta,35.56575,139.640533
 1697730781,Arabis_hirsuta,44.950282,35.12342
@@ -991,21 +944,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860312172,Arabis_hirsuta,40.76,0.33
 296416623,Arabis_hirsuta,47.25,11.266
 1053984959,Arabis_hirsuta,42.66,-1.14
-1146304458,Arabis_hirsuta,63.6,-157.08
 2242369507,Arabis_hirsuta,40.449525,-105.516301
 393090859,Arabis_hirsuta,36.0085,139.08423
 234408711,Arabis_hirsuta,35.507412,139.065584
 1600459515,Arabis_hirsuta,60.376859,22.505246
 395736747,Arabis_hirsuta,34.952222,133.681667
 111302329,Arabis_hirsuta,42.949001,-0.812
-30931041,Arabis_hirsuta,42.419998,-0.2
 1946776152,Arabis_hirsuta,49.87,9.87
 1146304459,Arabis_hirsuta,64.81,-141.16
 1701253109,Arabis_hirsuta,63.954,10.0716
 1600459512,Arabis_hirsuta,60.384323,22.513295
 1050587164,Arabis_hirsuta,42.46,-0.14
 234408712,Arabis_hirsuta,35.524082,139.228068
-1946776133,Arabis_hirsuta,50.27,10.2
 1144064122,Arabis_hirsuta,59.53317,6.54486
 1050587158,Arabis_hirsuta,42.77,-1.95
 1053985749,Arabis_hirsuta,42.64,-1.18
@@ -1041,11 +991,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729286919,Arabis_hirsuta,35.216702,134.483
 1600459502,Arabis_hirsuta,60.230434,23.885804
 1701326077,Arabis_hirsuta,64.0249,10.1766
-29586842,Arabis_hirsuta,40.3,-0.23
 1829418601,Arabis_hirsuta,43.716667,142.933333
 234408742,Arabis_hirsuta,35.449098,139.540546
 1065671523,Arabis_hirsuta,65.419643,15.85874
-1946776132,Arabis_hirsuta,49.94,10.3
 393090855,Arabis_hirsuta,36.02119,139.00264
 900226915,Arabis_hirsuta,58.7586,6.2253
 1697730790,Arabis_hirsuta,44.825728,34.807262
@@ -1088,7 +1036,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729291880,Arabis_hirsuta,35.116699,134.533
 234408756,Arabis_hirsuta,35.399088,138.915602
 895294049,Arabis_hirsuta,37.652,-3.777
-1144576106,Arabis_hirsuta,42.1,9.26667
 1701491051,Arabis_hirsuta,59.5076,10.6285
 1050587081,Arabis_hirsuta,42.65,-2.28
 1701915649,Arabis_hirsuta,59.0974,10.7779
@@ -1098,14 +1045,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144064081,Arabis_hirsuta,59.8821,5.5741
 1946776205,Arabis_hirsuta,50.12,9.96
 1230506936,Arabis_hirsuta,48.83583,21.22667
-29586185,Arabis_hirsuta,40.14,-1.3
 234408761,Arabis_hirsuta,35.282444,139.140581
 1705316409,Arabis_hirsuta,57.714822,16.308542
 395736728,Arabis_hirsuta,35.1575,133.485556
 1830220281,Arabis_hirsuta,36.79822,139.56209
 1144064103,Arabis_hirsuta,60.40982,5.78118
 1999550247,Arabis_hirsuta,60.480802,22.442575
-1829608114,Arabis_hirsuta,36.5,138.6
 1230506997,Arabis_hirsuta,48.8325,21.12083
 1050587220,Arabis_hirsuta,43.34,-3.05
 237338691,Arabis_hirsuta,42.31,1.73
@@ -1134,7 +1079,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323771010,Arabis_hirsuta,66.845,14.2366
 1705395754,Arabis_hirsuta,57.751245,16.157894
 1701254124,Arabis_hirsuta,62.5627,6.0524
-1927823937,Arabis_hirsuta,38.4,-112.33
 1144064056,Arabis_hirsuta,61.81088,6.85799
 1323770987,Arabis_hirsuta,66.8451,14.2594
 186791194,Arabis_hirsuta,59.6361,7.1467
@@ -1159,7 +1103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829779584,Arabis_hirsuta,35.63166,139.45085
 1936089372,Arabis_hirsuta,42.7566,-3.1357
 2325829535,Arabis_hirsuta,60.905108,7.205279
-1144576097,Arabis_hirsuta,42.71667,9.2
 1050587234,Arabis_hirsuta,42.66,-1.23
 234408750,Arabis_hirsuta,35.324102,139.090584
 1144063942,Arabis_hirsuta,60.2584,5.6024
@@ -1183,7 +1126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323770965,Arabis_hirsuta,65.4733,12.3106
 1323770830,Arabis_hirsuta,70.0869,23.3549
 1931118633,Arabis_hirsuta,40.75,-109.32
-1928745723,Arabis_hirsuta,40.5,-113.02
 1829601212,Arabis_hirsuta,36.54,138.451944
 1701252995,Arabis_hirsuta,68.3531,16.7855
 1701303627,Arabis_hirsuta,67.8139,15.7475
@@ -1219,7 +1161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050655497,Arabis_hirsuta,43.06,-2.81
 393091674,Arabis_hirsuta,36.00533,139.56329
 1829872332,Arabis_hirsuta,35.582406,139.190569
-1929637160,Arabis_hirsuta,41.92,-113.5
 111302538,Arabis_hirsuta,43.34,-3.068
 1146304487,Arabis_hirsuta,65.33,-142.25
 234408720,Arabis_hirsuta,35.43242,138.965596
@@ -1230,7 +1171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323770796,Arabis_hirsuta,68.9917,17.3873
 1929805046,Arabis_hirsuta,39.7896,-108.0395
 111302535,Arabis_hirsuta,43.174,-2.145
-1928404356,Arabis_hirsuta,39.17,-113.3
 883420800,Arabis_hirsuta,50.0711,-114.7746
 234408780,Arabis_hirsuta,35.482418,139.178073
 1323770853,Arabis_hirsuta,69.1723,17.8989
@@ -1243,19 +1183,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323801000,Arabis_hirsuta,68.449,17.0371
 1323771025,Arabis_hirsuta,68.5623,17.7428
 860307774,Arabis_hirsuta,41.59,1.86
-2028547171,Arabis_hirsuta,42.1,2.7
 1842881070,Arabis_hirsuta,40.895,0.335
 234408729,Arabis_hirsuta,35.474094,139.490549
 234408739,Arabis_hirsuta,35.540747,139.253066
 883416744,Arabis_hirsuta,52.5723519990899,-110.688901
 234408717,Arabis_hirsuta,35.615738,139.465545
-29586917,Arabis_hirsuta,40.66,-0.1
 1935652516,Arabis_hirsuta,46.585,13.49917
 234408715,Arabis_hirsuta,35.449097,139.490549
 1851406956,Arabis_hirsuta,42.92,-6.49
 234408785,Arabis_hirsuta,35.490751,139.178073
 234408733,Arabis_hirsuta,35.365775,139.60304
-1146222338,Arabis_hirsuta,59.3,-135.71
 234408731,Arabis_hirsuta,35.424101,139.590541
 883414878,Arabis_hirsuta,52.7124999990912,-116.2501
 1842881088,Arabis_hirsuta,40.868,0.324
@@ -1282,8 +1219,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030855593,Arabis_hirsuta,28.48611,98.911543
 1829872310,Arabis_hirsuta,35.565744,139.265565
 1702401359,Arabis_hirsuta,59.5128,10.6407
-1946776209,Arabis_hirsuta,50.19,10.2
-1946776214,Arabis_hirsuta,50.28,10.2
 860322064,Arabis_hirsuta,42.322,-0.118
 1829784431,Arabis_hirsuta,35.63577,139.34215
 860322079,Arabis_hirsuta,42.312,-0.106
@@ -1291,7 +1226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860322153,Arabis_hirsuta,42.306,-0.203
 1323846713,Arabis_hirsuta,68.6926,17.5898
 860322110,Arabis_hirsuta,42.297,-0.204
-1830205551,Arabis_hirsuta,35.533333,138.8
 1829872336,Arabis_hirsuta,35.590741,139.228067
 860308030,Arabis_hirsuta,41.04,-1.04
 860322123,Arabis_hirsuta,42.324,-0.215
@@ -1302,7 +1236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323770897,Arabis_hirsuta,69.215,18.5376
 1323805240,Arabis_hirsuta,68.4526,16.708
 1323770862,Arabis_hirsuta,68.71773,17.73805
-1050587257,Arabis_hirsuta,43.18,-3
 1323770904,Arabis_hirsuta,68.6701,17.8707
 1042051190,Arabis_hirsuta,59.5234,8.3725
 1697730773,Arabis_hirsuta,44.747372,34.30202
@@ -1342,7 +1275,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701308817,Arabis_hirsuta,63.069,9.3661
 1701275667,Arabis_hirsuta,63.0425,8.911
 1702390257,Arabis_hirsuta,59.1593,10.8126
-125538334,Arabis_hirsuta,39.2,-105.416667
 1144064112,Arabis_hirsuta,61.5363,6.376
 234408773,Arabis_hirsuta,35.515749,139.20307
 1702390311,Arabis_hirsuta,59.1594,10.8074
@@ -1355,7 +1287,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186791169,Arabis_hirsuta,58.9335,7.7232
 1697237838,Arabis_hirsuta,53.890152,127.390815
 1999550256,Arabis_hirsuta,60.412181,22.266782
-1830222236,Arabis_hirsuta,36.3,137.75
 1697237867,Arabis_hirsuta,53.893693,127.397854
 1638373962,Arabis_hirsuta,47.135,15.285
 1930607294,Arabis_hirsuta,42.23,-112.48
@@ -1376,7 +1307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829419566,Arabis_hirsuta,42.874722,143.158611
 1144064087,Arabis_hirsuta,59.21149,6.42862
 296416615,Arabis_hirsuta,45.75,10.833
-1701934028,Arabis_hirsuta,60.1,10.3757
 883421574,Arabis_hirsuta,57.1843739991414,-117.121878
 1697237828,Arabis_hirsuta,60.98826,89.62788
 187091257,Arabis_hirsuta,70.8424,28.2423
@@ -1388,8 +1318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701309793,Arabis_hirsuta,70.8954,28.3551
 1701913407,Arabis_hirsuta,61.00232,9.2814
 1701251744,Arabis_hirsuta,67.6304,16.3774
-211618423,Arabis_hirsuta,43.049999,-6.3
-1050587338,Arabis_hirsuta,42.56,-0.5
 1701899020,Arabis_hirsuta,60.5683,6.8937
 1676483854,Arabis_hirsuta,40.271878,9.40436
 30847081,Arabis_hirsuta,41.009998,-3.59
@@ -1407,13 +1335,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701969264,Arabis_hirsuta,66.7361,14.257
 1701703451,Arabis_hirsuta,60.3166,10.4029
 1701252966,Arabis_hirsuta,66.7642,14.2164
-883421143,Arabis_hirsuta,53.1,-116.8
 187090788,Arabis_hirsuta,66.5238,14.8313
 1323770993,Arabis_hirsuta,68.1996,16.8822
 1697946935,Arabis_hirsuta,63.1414,11.2519
 1030855662,Arabis_hirsuta,28.328636,103.132181
 1829419800,Arabis_hirsuta,42.668611,143.028056
-1830229036,Arabis_hirsuta,36.516667,136.8
 1701293537,Arabis_hirsuta,62.5489,9.1069
 1701304997,Arabis_hirsuta,63.5243,9.9147
 1701967448,Arabis_hirsuta,62.552,9.0962
@@ -1436,14 +1362,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702383801,Arabis_hirsuta,60.9779,9.2125
 1701469092,Arabis_hirsuta,60.6921,8.8627
 1144063885,Arabis_hirsuta,61.7813,6.5069
-1949528848,Arabis_hirsuta,52.883333,-118.5
 883421091,Arabis_hirsuta,52.45,-116.083333
 1701303474,Arabis_hirsuta,63.3794,10.0901
 1638376734,Arabis_hirsuta,47.025,15.95833
 388791444,Arabis_hirsuta,35.249115,139.128084
 1144063903,Arabis_hirsuta,68.83792,17.11835
 788549690,Arabis_hirsuta,56.107844,13.916273
-883421027,Arabis_hirsuta,52.383333,-112
 1843517118,Arabis_hirsuta,44.838161,34.929764
 187090888,Arabis_hirsuta,63.9008,9.9677
 883420996,Arabis_hirsuta,49.566667,-110.25
@@ -1457,7 +1381,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065671519,Arabis_hirsuta,65.833795,14.849647
 1701252927,Arabis_hirsuta,65.5061,14.0846
 1701570948,Arabis_hirsuta,62.4143,8.9323
-883421720,Arabis_hirsuta,53.3,-110.55
 1936093516,Arabis_hirsuta,40.0146,-2.0639
 1323771031,Arabis_hirsuta,67.4551,15.7362
 1701778472,Arabis_hirsuta,63.6127,10.099
@@ -1484,7 +1407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323770966,Arabis_hirsuta,69.5284,18.822
 1701963590,Arabis_hirsuta,62.8556,9.8496
 1837335241,Arabis_hirsuta,61.56336,10.29904
-1261995539,Arabis_hirsuta,47.9,-69.966667
 1258873718,Arabis_hirsuta,49.03333,-120.93333
 2244448792,Arabis_hirsuta,36.533333,137.033333
 1828809823,Arabis_hirsuta,36.445815,136.647855
@@ -1526,7 +1448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146304443,Arabis_hirsuta,60.48,-149.75
 1099888418,Arabis_hirsuta,66.43901,14.34921
 1701577679,Arabis_hirsuta,59.7756,8.5815
-1500089616,Arabis_hirsuta,53.2,-117.9
 186791190,Arabis_hirsuta,59.6378,7.2708
 186791189,Arabis_hirsuta,59.6468,7.2704
 1323864048,Arabis_hirsuta,67.1249,14.9424
@@ -1539,7 +1460,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1835662118,Arabis_hirsuta,39.0396,139.866
 1701779546,Arabis_hirsuta,61.5076,8.8779
 1323771032,Arabis_hirsuta,67.1356,14.9423
-894983903,Arabis_hirsuta,49.016667,-113.9
 883421041,Arabis_hirsuta,58.883333,-111.420833
 1323727354,Arabis_hirsuta,67.2988,14.4195
 1323864070,Arabis_hirsuta,67.1339,14.9423
@@ -1660,7 +1580,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701322371,Arabis_hirsuta,63.4541,11.4371
 187090855,Arabis_hirsuta,63.6863,10.9311
 186792042,Arabis_hirsuta,69.67,19.6498
-1829608864,Arabis_hirsuta,36.5,138.9
 1600459496,Arabis_hirsuta,60.455607,22.224043
 1323771029,Arabis_hirsuta,67.6232,16.3771
 1323771012,Arabis_hirsuta,67.613,16.5059
@@ -1679,13 +1598,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830604285,Arabis_hirsuta,33.920132,134.28654
 1702383779,Arabis_hirsuta,59.8513,10.5404
 1099897103,Arabis_hirsuta,56.286389,10.548611
-788784947,Arabis_hirsuta,40.2,22.3
 2313363042,Arabis_hirsuta,48.19,11.55
 187091733,Arabis_hirsuta,59.4354,10.5796
 1701707408,Arabis_hirsuta,60.7934,11.0393
 1999550245,Arabis_hirsuta,60.479153,22.129484
 1702390521,Arabis_hirsuta,67.51987,15.73862
-1927826923,Arabis_hirsuta,41.62,-118.6
 1323771022,Arabis_hirsuta,67.5827,15.6932
 1323771008,Arabis_hirsuta,67.7556,16.0652
 1705332017,Arabis_hirsuta,56.166339,14.324298
@@ -1746,7 +1663,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288222641,Arabis_hirsuta,44.208333,10.416667
 1829636803,Arabis_hirsuta,36.491111,139.36
 1323770961,Arabis_hirsuta,69.9115,20.9348
-1702371190,Arabis_hirsuta,68.6,17.6038
 1701233753,Arabis_hirsuta,63.0181,10.3532
 1701563991,Arabis_hirsuta,62.5831,11.8327
 187091328,Arabis_hirsuta,63.0195,10.3731
@@ -1758,7 +1674,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701920805,Arabis_hirsuta,59.8528,10.5262
 1702271795,Arabis_hirsuta,59.5202,10.6234
 1835662012,Arabis_hirsuta,38.1894,140.3505
-1829608042,Arabis_hirsuta,36.5,138.5
 1829818796,Arabis_hirsuta,35.896417,138.171889
 1323771076,Arabis_hirsuta,59.84212,10.21987
 1702346076,Arabis_hirsuta,59.9724,10.254
@@ -1827,7 +1742,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702338178,Arabis_hirsuta,61.5216,7.4773
 1829615645,Arabis_hirsuta,36.416389,139.048611
 1697730777,Arabis_hirsuta,44.947245,35.225773
-1829419665,Arabis_hirsuta,43.05,143.2
 381784744,Arabis_hirsuta,36.00192,140.01413
 1701898908,Arabis_hirsuta,59.954,10.2981
 1701957747,Arabis_hirsuta,63.5232,11.0407
@@ -1849,7 +1763,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323771056,Arabis_hirsuta,67.1222,14.9539
 1829629717,Arabis_hirsuta,36.405833,138.668333
 1323695997,Arabis_hirsuta,65.4758,12.2087
-1829610530,Arabis_hirsuta,36.2,139
 1702346148,Arabis_hirsuta,59.5772,9.6373
 1701688577,Arabis_hirsuta,59.7101,9.942
 1701688534,Arabis_hirsuta,59.7698,9.73
@@ -1859,7 +1772,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701913374,Arabis_hirsuta,59.8802,10.5274
 1804425600,Arabis_hirsuta,45.883333,-82.15
 1999550238,Arabis_hirsuta,60.384556,22.506909
-1829604590,Arabis_hirsuta,36.4,139.1
 1829629446,Arabis_hirsuta,36.591389,138.965833
 1323852665,Arabis_hirsuta,60.7318,10.9528
 1702013059,Arabis_hirsuta,59.815,10.676
@@ -1892,7 +1804,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788551263,Arabis_hirsuta,67.852012,20.232976
 1999550220,Arabis_hirsuta,60.534914,22.704969
 1701275611,Arabis_hirsuta,64.9398,13.5823
-1702357606,Arabis_hirsuta,68.5667,20.5
 1701569957,Arabis_hirsuta,69.0885,19.4559
 1323770985,Arabis_hirsuta,67.0543,14.5518
 1323793506,Arabis_hirsuta,67.0436,14.575
@@ -1950,7 +1861,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705284498,Arabis_hirsuta,57.265205,16.451567
 1701345025,Arabis_hirsuta,60.0247,5.8506
 883421594,Arabis_hirsuta,49.1302529990668,-110.607249
-1891607545,Arabis_hirsuta,49.5,6
 388791121,Arabis_hirsuta,35.625178,139.243481
 1701316345,Arabis_hirsuta,63.5549,10.2277
 1702333329,Arabis_hirsuta,59.858,10.4639
@@ -2258,7 +2168,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702310689,Arabis_hirsuta,59.4986,10.6555
 1702338154,Arabis_hirsuta,59.7749,5.5087
 1835662054,Arabis_hirsuta,38.39058,140.39732
-1830198998,Arabis_hirsuta,36.466667,136.9
 1099879848,Arabis_hirsuta,55.524772,13.906531
 1701902566,Arabis_hirsuta,66.9657,13.8102
 1935652128,Arabis_hirsuta,47.11306,14.18833
@@ -2276,7 +2185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230507021,Arabis_hirsuta,47.49778,13.61889
 1702338233,Arabis_hirsuta,60.8979,9.4552
 1303646725,Arabis_hirsuta,33.31033,108.314391
-473544622,Arabis_hirsuta,45.5,-73.6
 1099893921,Arabis_hirsuta,63.090311,14.819719
 1600459637,Arabis_hirsuta,60.238686,23.837267
 1705482411,Arabis_hirsuta,50.0821,17.2326
@@ -2300,7 +2208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830197531,Arabis_hirsuta,36.466667,136.95
 1702271625,Arabis_hirsuta,59.3241,10.65
 667458666,Arabis_hirsuta,33.993,35.74041
-1697237868,Arabis_hirsuta,51.266667,119.6
 1702333345,Arabis_hirsuta,60.4633,11.1823
 1099889418,Arabis_hirsuta,55.71679,13.27302
 187090878,Arabis_hirsuta,63.5634,10.7113
@@ -2309,10 +2216,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701225211,Arabis_hirsuta,68.3693,16.7018
 1323771003,Arabis_hirsuta,65.4641,12.7768
 1701692476,Arabis_hirsuta,68.3604,16.689
-1697237884,Arabis_hirsuta,51.05,119.5
 1323770907,Arabis_hirsuta,69.5869,20.2293
 1697237907,Arabis_hirsuta,43.179664,131.771388
-1697237935,Arabis_hirsuta,51.1,114.533333
 1702395582,Arabis_hirsuta,60.8827,10.9804
 1701683252,Arabis_hirsuta,60.5038,11.1759
 1323770883,Arabis_hirsuta,69.72228,20.09306
@@ -2326,7 +2231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144064090,Arabis_hirsuta,61.16472,5.20639
 441691041,Arabis_hirsuta,46.724745,-120.69722
 1702338176,Arabis_hirsuta,59.444,10.461
-883421087,Arabis_hirsuta,58.9,-113.933333
 1702338352,Arabis_hirsuta,61.25685,9.09393
 187091385,Arabis_hirsuta,59.704,5.3827
 1701909622,Arabis_hirsuta,68.6727,17.8219
@@ -2350,7 +2254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702355024,Arabis_hirsuta,68.5709,17.7109
 1701313919,Arabis_hirsuta,68.5713,17.7109
 1705442548,Arabis_hirsuta,59.854989,17.634378
-786092324,Arabis_hirsuta,47.7,8.6
 1705334851,Arabis_hirsuta,57.263261,16.45077
 1702333276,Arabis_hirsuta,59.9293,11.156
 1144064128,Arabis_hirsuta,60.32528,10.13214
@@ -2365,7 +2268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702338236,Arabis_hirsuta,59.8817,5.5207
 415962876,Arabis_hirsuta,41.31833,-73.52694
 415962875,Arabis_hirsuta,41.48138,-73.21305
-2290450572,Arabis_hirsuta,46.2,14.616667
 415962897,Arabis_hirsuta,42.48805,-72.5375
 1701998694,Arabis_hirsuta,59.8694,10.5261
 1144064216,Arabis_hirsuta,59.7017,5.3819
@@ -2451,7 +2353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701909630,Arabis_hirsuta,70.0887,22.5392
 1702383768,Arabis_hirsuta,70.399,23.6316
 1701688509,Arabis_hirsuta,59.60196,9.69407
-1144576095,Arabis_hirsuta,42.46667,9.2
 1099896107,Arabis_hirsuta,59.9503,16.56862
 1705374417,Arabis_hirsuta,58.347862,11.940151
 1099888300,Arabis_hirsuta,55.65862,14.26409
@@ -2503,7 +2404,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705379057,Arabis_hirsuta,57.282898,16.50162
 1701913432,Arabis_hirsuta,59.8353,10.4808
 1705265859,Arabis_hirsuta,60.714244,17.347704
-1702346047,Arabis_hirsuta,61.5,8.7905
 1701898840,Arabis_hirsuta,61.5144,8.8534
 1144063898,Arabis_hirsuta,60.288,5.9299
 20470120,Arabis_hirsuta,63.94532,10.87728
@@ -2517,7 +2417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144064278,Arabis_hirsuta,61.59946,9.46214
 1099883327,Arabis_hirsuta,55.697935,13.293398
 296416649,Arabis_hirsuta,46.865,11.486389
-1702310692,Arabis_hirsuta,59.3,10.6664
 1701884480,Arabis_hirsuta,59.3032,10.6644
 1999550574,Arabis_hirsuta,60.417295,22.28422
 1702271682,Arabis_hirsuta,59.2327,10.6965
@@ -2527,7 +2426,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701699416,Arabis_hirsuta,68.8737,17.8848
 1144063985,Arabis_hirsuta,60.8834,5.91677
 1701913436,Arabis_hirsuta,61.4907,8.631
-1998419798,Arabis_hirsuta,26.8,100.2667
 1701909602,Arabis_hirsuta,68.9052,17.8764
 612077,Arabis_hirsuta,56.211725,15.278155
 1323771041,Arabis_hirsuta,60.28641,10.38658
@@ -2698,7 +2596,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701913310,Arabis_hirsuta,59.8931,10.537
 1099889200,Arabis_hirsuta,55.952,12.90822
 20469831,Arabis_hirsuta,59.6689,10.3757
-1946776093,Arabis_hirsuta,50.21,10.2
 1701898815,Arabis_hirsuta,59.7574,10.2014
 1671641183,Arabis_hirsuta,44.458735,8.90111
 1701968919,Arabis_hirsuta,64.0097,11.5058
