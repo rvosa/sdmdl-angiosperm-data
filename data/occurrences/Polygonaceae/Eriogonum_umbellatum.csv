@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2242357812,Eriogonum_umbellatum,39.732207,-104.961468
 2242360380,Eriogonum_umbellatum,38.819035,-106.741224
 1852376188,Eriogonum_umbellatum,37.509444,-118.615389
 2268953553,Eriogonum_umbellatum,37.341762,-115.285365
@@ -58,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930311944,Eriogonum_umbellatum,44.4419,-113.4611
 2270461534,Eriogonum_umbellatum,39.284878,-117.140416
 2270640903,Eriogonum_umbellatum,37.6353329990874,-113.2786
-2242413127,Eriogonum_umbellatum,39.732042,-104.962197
 1928075331,Eriogonum_umbellatum,37.2542,-118.5772
 2284359545,Eriogonum_umbellatum,38.0889,-119.308
 1426494402,Eriogonum_umbellatum,35.61313,-118.08563
@@ -76,7 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846553147,Eriogonum_umbellatum,36.801006,-111.74565
 1846554874,Eriogonum_umbellatum,36.372127,-111.985568
 2242390799,Eriogonum_umbellatum,39.44645,-104.95866
-2242396312,Eriogonum_umbellatum,39.73193,-104.9619
 1986993614,Eriogonum_umbellatum,41.17146,-106.904303
 2242388683,Eriogonum_umbellatum,39.46236,-104.92622
 2270493085,Eriogonum_umbellatum,37.76897,-119.01875
@@ -987,7 +984,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928995567,Eriogonum_umbellatum,33.7746,-112.9231
 2242380242,Eriogonum_umbellatum,39.327706,-106.085299
 1563861053,Eriogonum_umbellatum,42.694126,-112.844407
-1988202629,Eriogonum_umbellatum,59.07,-129.52
 441748060,Eriogonum_umbellatum,43.23611,-111.27417
 2242380940,Eriogonum_umbellatum,39.330365,-106.085166
 623670118,Eriogonum_umbellatum,38.723411,-119.984845
@@ -1281,7 +1277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51831689,Eriogonum_umbellatum,44.2548,-121.5438
 51831777,Eriogonum_umbellatum,42.3792,-119.5586
 51834256,Eriogonum_umbellatum,43.0831,-121.9896
-1928748760,Eriogonum_umbellatum,40.864591,-73.877952
 51834257,Eriogonum_umbellatum,42.3994,-119.7794
 51834181,Eriogonum_umbellatum,43.5858,-122.6527
 1563860986,Eriogonum_umbellatum,38.785532,-120.534398
@@ -1293,7 +1288,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426163283,Eriogonum_umbellatum,41.494,-120.9767
 1426129549,Eriogonum_umbellatum,41.8022,-120.2058
 441747623,Eriogonum_umbellatum,46.96611,-120.94306
-1927901804,Eriogonum_umbellatum,40.862289,-73.877023
 441748409,Eriogonum_umbellatum,47.28528,-120.43972
 51834165,Eriogonum_umbellatum,43.4778,-119.7247
 51832196,Eriogonum_umbellatum,42.112,-123.7021
@@ -1330,7 +1324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51834126,Eriogonum_umbellatum,43.8111,-118.87
 1563860968,Eriogonum_umbellatum,44.492387,-109.593597
 441748149,Eriogonum_umbellatum,44.21139,-114.945
-1144680355,Eriogonum_umbellatum,39.43361,-117.02083
 441747625,Eriogonum_umbellatum,46.670658,-121.129699
 441748106,Eriogonum_umbellatum,44.62889,-116.44972
 2270191555,Eriogonum_umbellatum,38.55179,-120.34561
@@ -1499,7 +1492,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931073157,Eriogonum_umbellatum,43.0039,-115.2039
 699266830,Eriogonum_umbellatum,38.79083,-104.86555
 1563131358,Eriogonum_umbellatum,43.394826,-115.470751
-699266819,Eriogonum_umbellatum,37.28472,-4.64861
 1928187914,Eriogonum_umbellatum,37.909919,-109.602889
 1563861010,Eriogonum_umbellatum,43.680556,-114.363611
 1563131407,Eriogonum_umbellatum,43.987275,-115.71511
