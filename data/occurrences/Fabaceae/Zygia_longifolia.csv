@@ -48,9 +48,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253885029,Zygia_longifolia,9.635444,-82.653194
 1260850073,Zygia_longifolia,-2.077778,-77.764167
 1701555531,Zygia_longifolia,-0.67778,-76.39444
-1253821291,Zygia_longifolia,9.784722,-83.690278
 1932879023,Zygia_longifolia,1.06,-76.43
-1260688548,Zygia_longifolia,-9.86,-66.369722
 1260744620,Zygia_longifolia,-4.47083,-74.08861
 1260048623,Zygia_longifolia,14.26777,-85.14777
 1259896841,Zygia_longifolia,0.21666,-78.91666
@@ -80,7 +78,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259001428,Zygia_longifolia,-1.06666,-77.61666
 1123888214,Zygia_longifolia,10.964676,-73.979371
 1253798918,Zygia_longifolia,10.2125,-83.8875
-1936622927,Zygia_longifolia,7.8,-81.5833
 1147298224,Zygia_longifolia,-0.13,-74.85
 1123886527,Zygia_longifolia,6.468889,-74.334167
 1147298223,Zygia_longifolia,1.15,-76.62
@@ -90,8 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258672255,Zygia_longifolia,0.70694,-80.01638
 768751629,Zygia_longifolia,-3.81,-70.26
 1928899051,Zygia_longifolia,-0.63,-76.5
-1253876399,Zygia_longifolia,9.97362,-84.093477
-912652743,Zygia_longifolia,-14,-46
 1123883633,Zygia_longifolia,5.78351,-74.710158
 1258553267,Zygia_longifolia,11.366667,-84.016667
 1930019543,Zygia_longifolia,9.8669,-84.6494
@@ -99,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 46174429,Zygia_longifolia,9.86,-84.64
 1258139895,Zygia_longifolia,9.866945,-84.649444
 1123885279,Zygia_longifolia,4.65205,-75.653054
-1253685953,Zygia_longifolia,9.975,-84.091667
 1123884575,Zygia_longifolia,6.474444,-74.353056
 1123882872,Zygia_longifolia,5.565939,-74.909806
 1258149086,Zygia_longifolia,9.866667,-84.666667
@@ -122,8 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258387079,Zygia_longifolia,11.15,-84.183333
 1927843545,Zygia_longifolia,0.25,-79.8
 46174527,Zygia_longifolia,10.29,-84.88
-1258446965,Zygia_longifolia,-13.4,-69.96666
-1258515884,Zygia_longifolia,-13.483333,-69.366667
 1929356946,Zygia_longifolia,-4.866667,-78.316944
 1258449652,Zygia_longifolia,-4.86666,-78.31694
 1927775565,Zygia_longifolia,-5.0008,-79.0886
@@ -140,14 +132,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 46173751,Zygia_longifolia,10.58,-83.53
 1930950887,Zygia_longifolia,1.02,-78.3
 1932875056,Zygia_longifolia,2.46,-72.64
-1929413908,Zygia_longifolia,-10.6554313221141,-68.5059280778964
 1563329568,Zygia_longifolia,-4.85,-78.3
-1261861527,Zygia_longifolia,-11.73333,-67.98333
 1258273065,Zygia_longifolia,1.13333,-78.6
 1928854371,Zygia_longifolia,1.13,-78.6
 1931155247,Zygia_longifolia,9.87,-83.65
-1897368222,Zygia_longifolia,17.925,-96.308333
-1260528008,Zygia_longifolia,17.91666,-96.3
 1273760281,Zygia_longifolia,9,-74.083333
 1258553029,Zygia_longifolia,16.35,-91.21
 1260299867,Zygia_longifolia,0.3,-76.666667
@@ -197,7 +185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927799049,Zygia_longifolia,10.9292,-85.4708
 1253641568,Zygia_longifolia,11,-85.55
 1258233104,Zygia_longifolia,-0.48333,-75.53333
-1261904369,Zygia_longifolia,-11.916667,-71.3
 1258245360,Zygia_longifolia,-4.16666,-78.61666
 1931073790,Zygia_longifolia,-0.48,-75.53
 1931022269,Zygia_longifolia,-0.75,-76.75
@@ -223,14 +210,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261467363,Zygia_longifolia,10.77,-85.29
 1123916236,Zygia_longifolia,2.117954,-74.783241
 1253598231,Zygia_longifolia,10.775833,-85.297778
-1260103077,Zygia_longifolia,-12.83333,-69.33333
 1259608274,Zygia_longifolia,9.25833,-82.41666
 1123911030,Zygia_longifolia,8.35661,-77.108368
 46173130,Zygia_longifolia,10.95,-85.48
 1261927693,Zygia_longifolia,10.96,-85.49
 1253693301,Zygia_longifolia,10.96,-85.493333
 1123917326,Zygia_longifolia,2.216667,-72.55
-1273760307,Zygia_longifolia,10.376307,-75.573364
 1258277068,Zygia_longifolia,-3.46666,-72.83333
 768740369,Zygia_longifolia,-1.02,-69.58
 1701555526,Zygia_longifolia,1.11667,-78.61667
@@ -275,13 +260,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258287156,Zygia_longifolia,4.25,-77.2
 1929344715,Zygia_longifolia,-3.45,-78.6
 1258272501,Zygia_longifolia,-3.333333,-76.333333
-1265478722,Zygia_longifolia,17.2,-94.63
 1273760304,Zygia_longifolia,11.0125,-73.4025
 1261545378,Zygia_longifolia,11.487,-72.714
 1258047865,Zygia_longifolia,10.24,-84.63
 1261515650,Zygia_longifolia,10.683333,-83.65
-1228538139,Zygia_longifolia,-12,-70.25
-1928638998,Zygia_longifolia,-11.65,-71.67
 1929983379,Zygia_longifolia,-3.42,-78.58
 1261542833,Zygia_longifolia,-3.41666,-78.58333
 1258301140,Zygia_longifolia,-4.48333,-73.58333
@@ -296,10 +278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261868957,Zygia_longifolia,-1.36666,-76.91666
 1261914229,Zygia_longifolia,6,-65
 1928947013,Zygia_longifolia,-1.37,-76.92
-1260300514,Zygia_longifolia,-12.3,-55.53333
-1316163860,Zygia_longifolia,-12.3,-55.533333
-1316163881,Zygia_longifolia,-11.666667,-56.283333
-1989342377,Zygia_longifolia,-11.66667,-56.28333
 1931366669,Zygia_longifolia,-0.03,-76.7
 1261541635,Zygia_longifolia,-0.033333,-76.7
 1261561721,Zygia_longifolia,-2.916667,-76.25
@@ -318,7 +296,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261461819,Zygia_longifolia,12.133333,-84.233333
 1273760311,Zygia_longifolia,10.659589,-75.359792
 1273760274,Zygia_longifolia,9.883339,-75.199972
-1273760308,Zygia_longifolia,10.161358,-75.789223
 1929180470,Zygia_longifolia,12.18,-86.37
 1259608852,Zygia_longifolia,9.37333,-82.66333
 1261833463,Zygia_longifolia,12.183333,-85.35
@@ -333,7 +310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891006550,Zygia_longifolia,5.945556,-74.847222
 1261526895,Zygia_longifolia,-5.76666,-77.43333
 1123905076,Zygia_longifolia,5.93631,-74.849556
-1258260439,Zygia_longifolia,-11.86666,-71.36666
 1261519687,Zygia_longifolia,11.675,-84.227778
 1260298666,Zygia_longifolia,5.888952,-74.85507
 1261915752,Zygia_longifolia,0.66666,-78.88333
@@ -354,7 +330,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261544281,Zygia_longifolia,-10.21666,-76.26666
 1928662431,Zygia_longifolia,-10.22,-76.27
 1261457342,Zygia_longifolia,-4.001389,-73.151389
-1260295744,Zygia_longifolia,-10.91666,-66
 1123894462,Zygia_longifolia,6.010853,-74.937644
 1261542004,Zygia_longifolia,-9.3,-74.96666
 1259158551,Zygia_longifolia,11.683333,-84.433333
@@ -448,14 +423,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259611015,Zygia_longifolia,9.15,-80.06666
 1929625049,Zygia_longifolia,-4.5,-78.5
 1259609812,Zygia_longifolia,10.3,-83.48333
-1228245656,Zygia_longifolia,19.3333,-96.6667
 1123918683,Zygia_longifolia,7.301663,-75.082248
 2013794437,Zygia_longifolia,7.321941,-75.037048
 1259610305,Zygia_longifolia,9.34166,-79.60833
 1259611400,Zygia_longifolia,9.07694,-79.43694
 1259608870,Zygia_longifolia,9.28305,-79.65638
 1259607443,Zygia_longifolia,8.434167,-80.860556
-1259610068,Zygia_longifolia,18.05,-94.1
 1258987533,Zygia_longifolia,7.95,-77.5
 1261871431,Zygia_longifolia,-4.420833,-78.144167
 1228297825,Zygia_longifolia,-5,-78
@@ -478,7 +451,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259611519,Zygia_longifolia,9.20166,-79.78444
 1259610548,Zygia_longifolia,10.38,-84.13
 1259602792,Zygia_longifolia,7.708333,-77.838333
-1930948781,Zygia_longifolia,-9.08,-68.63
 1931193481,Zygia_longifolia,7.42,-77.12
 1259609443,Zygia_longifolia,9.84,-83.92
 1258661255,Zygia_longifolia,7.55,-78.2
@@ -492,7 +464,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228516384,Zygia_longifolia,3,-76
 1259610178,Zygia_longifolia,9.37,-83.69
 1930522509,Zygia_longifolia,1.08,-78.97
-1258312268,Zygia_longifolia,1.1,-79.983333
 1260300159,Zygia_longifolia,8.25,-70.75
 1259612339,Zygia_longifolia,7.45,-80.56666
 1259611516,Zygia_longifolia,9.41333,-82.51833
@@ -501,7 +472,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259611026,Zygia_longifolia,7.95,-77.71666
 1228506940,Zygia_longifolia,3.75,-76.5
 1890905546,Zygia_longifolia,5.516389,-76.650556
-1988883427,Zygia_longifolia,16.3258,-95.2385
 1228433742,Zygia_longifolia,10.0114,-83.9519
 1260290017,Zygia_longifolia,12.9,-83.6
 1259232139,Zygia_longifolia,6.55,-75.16666
