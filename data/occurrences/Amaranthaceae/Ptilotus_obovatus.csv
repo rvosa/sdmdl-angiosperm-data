@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1805868483,Ptilotus_obovatus,-24.869222,119.467556
 1805868765,Ptilotus_obovatus,-22.5446,118.0295
 1257343487,Ptilotus_obovatus,-21.086985,134.144904
-1805869310,Ptilotus_obovatus,-24.9652,113.7007
 1805868510,Ptilotus_obovatus,-22.597778,118.067944
 1937096832,Ptilotus_obovatus,-23.124583,128.761722
 1257385491,Ptilotus_obovatus,-23.304722,126.530833
@@ -96,16 +95,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1450987230,Ptilotus_obovatus,-24.7817,136.0114
 992085518,Ptilotus_obovatus,-32.163333,135.074167
 1454382524,Ptilotus_obovatus,-32.16332,135.07422
-992077677,Ptilotus_obovatus,-32.868193,134.110839
 994411431,Ptilotus_obovatus,-20.04935,136.68779
 996959453,Ptilotus_obovatus,-27.3575,122.776
 992082419,Ptilotus_obovatus,-27.593056,140.87
 1257380518,Ptilotus_obovatus,-25.822778,134.841944
 993715534,Ptilotus_obovatus,-25.3464,131.0636
 1652294561,Ptilotus_obovatus,-21.670556,139.326944
-1805864458,Ptilotus_obovatus,-22.027068,113.925991
 996976691,Ptilotus_obovatus,-29.9065,120.5308
-1805864438,Ptilotus_obovatus,-21.97,113.95
 996959377,Ptilotus_obovatus,-27.236667,114.602583
 1652353575,Ptilotus_obovatus,-25.038806,142.12221
 1937166118,Ptilotus_obovatus,-30.397111,120.773333
@@ -125,7 +121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996960140,Ptilotus_obovatus,-28.325833,127.048778
 996968061,Ptilotus_obovatus,-29.14548,117.0226
 996968026,Ptilotus_obovatus,-29.09285,117.13089
-996959368,Ptilotus_obovatus,-25.142917,113.789111
 996965881,Ptilotus_obovatus,-31.48225,121.54835
 996965866,Ptilotus_obovatus,-31.06583,121.32705
 1096791934,Ptilotus_obovatus,-34.489444,141.531667
@@ -189,7 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257376995,Ptilotus_obovatus,-25.1867,129.8925
 1652380150,Ptilotus_obovatus,-23.008858,142.411554
 1652379027,Ptilotus_obovatus,-21.914167,144.654722
-996973286,Ptilotus_obovatus,-20.637806,116.768639
 1257378166,Ptilotus_obovatus,-19.735278,130.582778
 994407740,Ptilotus_obovatus,-23.008889,142.411667
 1652380139,Ptilotus_obovatus,-23.008561,142.397199
@@ -289,7 +283,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996940890,Ptilotus_obovatus,-28.2975,126.1036
 996939253,Ptilotus_obovatus,-28.56,115.509
 996976928,Ptilotus_obovatus,-29.510278,120.166278
-996927029,Ptilotus_obovatus,-26.055449,113.553935
 996976962,Ptilotus_obovatus,-29.374583,120.142111
 994404478,Ptilotus_obovatus,-23.315278,139.453889
 1652283818,Ptilotus_obovatus,-23.481668,138.489032
@@ -363,7 +356,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996913288,Ptilotus_obovatus,-26.687676,119.962001
 996901913,Ptilotus_obovatus,-25.696111,119.033028
 1652286231,Ptilotus_obovatus,-19.962546,138.384357
-996877085,Ptilotus_obovatus,-22.19528,113.87205
 996901915,Ptilotus_obovatus,-25.605833,118.549917
 1805883083,Ptilotus_obovatus,-23.5352,120.3255
 992056586,Ptilotus_obovatus,-30.820556,132.196111
@@ -497,9 +489,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257370982,Ptilotus_obovatus,-23.6919,119.7733
 996822692,Ptilotus_obovatus,-22.685417,119.705528
 996827017,Ptilotus_obovatus,-30.07,117.24
-996828104,Ptilotus_obovatus,-24.4841,113.4625
 996903497,Ptilotus_obovatus,-22.732831,119.072462
-996828360,Ptilotus_obovatus,-22.161389,113.880611
 996828288,Ptilotus_obovatus,-27.188722,114.601575
 996854862,Ptilotus_obovatus,-31.076933,118.247733
 996903498,Ptilotus_obovatus,-22.704497,119.119684
@@ -702,7 +692,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085305139,Ptilotus_obovatus,-26.95348,133.67456
 1257341396,Ptilotus_obovatus,-23.528581,134.360579
 991996945,Ptilotus_obovatus,-26.955,133.673
-996658833,Ptilotus_obovatus,-24.928333,113.141667
 1085306025,Ptilotus_obovatus,-26.57022,132.82018
 991997322,Ptilotus_obovatus,-26.571667,132.818889
 1835231308,Ptilotus_obovatus,-24.065034,144.233338
@@ -711,7 +700,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085305770,Ptilotus_obovatus,-26.59602,132.88509
 996753660,Ptilotus_obovatus,-32.1475,121.7397
 991997475,Ptilotus_obovatus,-26.952778,133.660556
-996658505,Ptilotus_obovatus,-25.0575,113.1244
 996676885,Ptilotus_obovatus,-24.888889,124.539722
 996670970,Ptilotus_obovatus,-25.036218,115.220275
 1257326099,Ptilotus_obovatus,-23.6878,134.2172
@@ -725,7 +713,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992630433,Ptilotus_obovatus,-26.295833,131.492222
 992002800,Ptilotus_obovatus,-32.763889,137.127778
 1085313766,Ptilotus_obovatus,-32.82452,136.39107
-996758550,Ptilotus_obovatus,-26.069024,113.381123
 992001430,Ptilotus_obovatus,-32.982222,136.808333
 991998289,Ptilotus_obovatus,-32.825833,136.389722
 992002180,Ptilotus_obovatus,-33.069722,136.738333
@@ -742,11 +729,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995853704,Ptilotus_obovatus,-26.6431,140.472
 996675301,Ptilotus_obovatus,-29.994444,121.047222
 992009145,Ptilotus_obovatus,-30.353611,139.343611
-991999156,Ptilotus_obovatus,-33.684167,137.064444
 1085321745,Ptilotus_obovatus,-33.26509,137.2025
 1085324492,Ptilotus_obovatus,-30.45726,139.18116
 992008551,Ptilotus_obovatus,-30.46,139.18
-1085319401,Ptilotus_obovatus,-33.68268,137.06584
 991999031,Ptilotus_obovatus,-33.281667,137.271944
 1085325426,Ptilotus_obovatus,-30.34685,138.77932
 992008408,Ptilotus_obovatus,-30.348333,138.778056
@@ -764,12 +749,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996800508,Ptilotus_obovatus,-23.063043,118.856093
 996657425,Ptilotus_obovatus,-26.233056,113.402222
 996800526,Ptilotus_obovatus,-23.078881,118.818149
-996658713,Ptilotus_obovatus,-26.243,113.375
 996800545,Ptilotus_obovatus,-22.931093,118.738172
 996657917,Ptilotus_obovatus,-25.789444,113.686667
 991995900,Ptilotus_obovatus,-26.0925,132.4347
 1085302470,Ptilotus_obovatus,-26.09096,132.43615
-996658633,Ptilotus_obovatus,-25.642222,113.582222
 1652220900,Ptilotus_obovatus,-27.723591,143.125926
 995234933,Ptilotus_obovatus,-26.78,115.5947
 996645379,Ptilotus_obovatus,-28.756667,117.316944
@@ -905,8 +888,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996540563,Ptilotus_obovatus,-27.45,120.65
 992581398,Ptilotus_obovatus,-32.5,138
 996624872,Ptilotus_obovatus,-24.466122,124.873845
-992592075,Ptilotus_obovatus,-33.797778,137.688056
-1085177322,Ptilotus_obovatus,-33.79634,137.68946
 996663395,Ptilotus_obovatus,-32.417061,120.629252
 996508426,Ptilotus_obovatus,-28.527222,115.568889
 992588995,Ptilotus_obovatus,-26.95,133.63
@@ -923,7 +904,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996559818,Ptilotus_obovatus,-27.6,114.3
 1085180869,Ptilotus_obovatus,-33.0629,139.13673
 993477360,Ptilotus_obovatus,-26.95,133.6333
-993722931,Ptilotus_obovatus,-35.2667,149.1
 993425493,Ptilotus_obovatus,-31.3742,121.5339
 996559536,Ptilotus_obovatus,-26.360556,114.020556
 1085223088,Ptilotus_obovatus,-26.28655,131.80657
@@ -959,11 +939,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257351865,Ptilotus_obovatus,-23.679125,133.880434
 992563214,Ptilotus_obovatus,-26.650656,135.378828
 992563806,Ptilotus_obovatus,-27.885556,134.317222
-996545771,Ptilotus_obovatus,-25.921667,113.531389
 992585578,Ptilotus_obovatus,-23.9,135.8
 994001290,Ptilotus_obovatus,-31.55,146.7333
 994755812,Ptilotus_obovatus,-23.8808,135.7317
-996545799,Ptilotus_obovatus,-25.738056,113.653333
 1257352336,Ptilotus_obovatus,-23.931887,135.801241
 994001124,Ptilotus_obovatus,-30.6333,143.0333
 1257352851,Ptilotus_obovatus,-23.879392,135.73291
@@ -1066,7 +1044,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992540850,Ptilotus_obovatus,-33.0012,135.7269
 996453399,Ptilotus_obovatus,-28.088056,118.436667
 996453834,Ptilotus_obovatus,-25.796667,113.682222
-1061588707,Ptilotus_obovatus,-33.831748,151.751155
 1652089689,Ptilotus_obovatus,-21.656939,139.942591
 993931030,Ptilotus_obovatus,-23.8333,133.6667
 992375829,Ptilotus_obovatus,-23.2,117.7
@@ -1112,7 +1089,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992383446,Ptilotus_obovatus,-31.882025,141.234373
 992521151,Ptilotus_obovatus,-32.237637,133.827501
 992566386,Ptilotus_obovatus,-31.32,142.34
-996280199,Ptilotus_obovatus,-20.85,115.38
 992524787,Ptilotus_obovatus,-27.955,134.326
 995695743,Ptilotus_obovatus,-31.32,142.337
 992527352,Ptilotus_obovatus,-26.151775,133.828281
@@ -1162,7 +1138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994271753,Ptilotus_obovatus,-25.831897,134.601278
 1451567046,Ptilotus_obovatus,-32.048492,141.601283
 993629246,Ptilotus_obovatus,-32.05,141.6
-996298429,Ptilotus_obovatus,-25.614722,113.578056
 996326099,Ptilotus_obovatus,-26.433333,114.183333
 994272851,Ptilotus_obovatus,-23.665234,133.867933
 993344405,Ptilotus_obovatus,-25.3,130.7667
@@ -1180,7 +1155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992503229,Ptilotus_obovatus,-28.120951,133.478021
 1085542988,Ptilotus_obovatus,-28.12087,133.47819
 992503361,Ptilotus_obovatus,-28.196786,133.399411
-992506334,Ptilotus_obovatus,-32.303889,133.602222
 992548008,Ptilotus_obovatus,-31.282016,142.284356
 1451692843,Ptilotus_obovatus,-31.281817,142.284596
 993907860,Ptilotus_obovatus,-31.2833,142.2833
@@ -1204,7 +1178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992530661,Ptilotus_obovatus,-32,147
 996666687,Ptilotus_obovatus,-25.05,124.97
 992498597,Ptilotus_obovatus,-32.73,137.95
-992489124,Ptilotus_obovatus,-31.8,131.9
 995098805,Ptilotus_obovatus,-31.5,145.8333
 1451476858,Ptilotus_obovatus,-31.498454,145.834549
 994270437,Ptilotus_obovatus,-25.915226,135.817939
@@ -1293,7 +1266,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451692870,Ptilotus_obovatus,-33.115167,141.3013
 995307477,Ptilotus_obovatus,-32.7167,137.15
 996929056,Ptilotus_obovatus,-26.533333,116.833333
-996975998,Ptilotus_obovatus,-22.316667,113.816667
 994267514,Ptilotus_obovatus,-24.081903,132.751277
 994604799,Ptilotus_obovatus,-26.28197,134.71767
 992428010,Ptilotus_obovatus,-26.282048,134.71772
@@ -1316,7 +1288,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995098965,Ptilotus_obovatus,-28.4667,117.1667
 996922357,Ptilotus_obovatus,-27.597167,114.701167
 992507620,Ptilotus_obovatus,-26,131.1
-992507467,Ptilotus_obovatus,-27,133
 992507610,Ptilotus_obovatus,-26.65,130.82
 994905198,Ptilotus_obovatus,-29.9322,116.8942
 996951395,Ptilotus_obovatus,-28.7,115.7
@@ -1496,7 +1467,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992382139,Ptilotus_obovatus,-32.682056,137.367753
 996363720,Ptilotus_obovatus,-28.616944,121.133333
 992385662,Ptilotus_obovatus,-29.639019,132.730262
-996441015,Ptilotus_obovatus,-19.96,119.77
 1652035679,Ptilotus_obovatus,-26.506902,147.125868
 994358643,Ptilotus_obovatus,-22.048502,142.167819
 995714149,Ptilotus_obovatus,-21.92,139.58
@@ -1603,7 +1573,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652094260,Ptilotus_obovatus,-28.748604,141.250955
 993715147,Ptilotus_obovatus,-31.7333,141.2333
 991994426,Ptilotus_obovatus,-33.35,140.92
-996374649,Ptilotus_obovatus,-26.13,113.42
 1066914549,Ptilotus_obovatus,-32.631316,145.572738
 995487221,Ptilotus_obovatus,-31.1,146.133333
 1257347281,Ptilotus_obovatus,-20.398651,122.117988
@@ -1648,10 +1617,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992366433,Ptilotus_obovatus,-30.032128,125.617809
 992366235,Ptilotus_obovatus,-31.008248,125.331709
 992370215,Ptilotus_obovatus,-32.520951,136.491649
-993258543,Ptilotus_obovatus,-32.5358,133.8522
-992366973,Ptilotus_obovatus,-32.53,133.85
 991997490,Ptilotus_obovatus,-32.282039,139.434396
-992382471,Ptilotus_obovatus,-33.85,137.64
 993843297,Ptilotus_obovatus,-30.6167,142.3
 992413772,Ptilotus_obovatus,-30.365638,140.185204
 1451692527,Ptilotus_obovatus,-30.831821,141.917928
@@ -1763,7 +1729,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996100652,Ptilotus_obovatus,-31.73,141.63
 1451703181,Ptilotus_obovatus,-31.094323,141.705711
 993829160,Ptilotus_obovatus,-31.7333,141.6333
-993834488,Ptilotus_obovatus,-35.2833,149.1167
 996929455,Ptilotus_obovatus,-31.28,118.05
 996362166,Ptilotus_obovatus,-28.486111,123.673889
 993253823,Ptilotus_obovatus,-27.85,123.8167
@@ -1782,7 +1747,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996443125,Ptilotus_obovatus,-24.9,128.8
 993818769,Ptilotus_obovatus,-22.65,123.75
 996411706,Ptilotus_obovatus,-28.972222,121.436389
-996374127,Ptilotus_obovatus,-25.251,113.075
 992336079,Ptilotus_obovatus,-29.9,131.6
 996368430,Ptilotus_obovatus,-25.05,115.22
 992391831,Ptilotus_obovatus,-21.990471,114.117776
@@ -1791,7 +1755,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992330198,Ptilotus_obovatus,-22.479896,118.559718
 996361825,Ptilotus_obovatus,-24.633333,115.333333
 992330883,Ptilotus_obovatus,-32.101772,138.042463
-992331653,Ptilotus_obovatus,-22,114
 992329931,Ptilotus_obovatus,-23.75,119.72
 996735698,Ptilotus_obovatus,-22.4,121.2
 993818579,Ptilotus_obovatus,-21.7833,115.75
@@ -1822,7 +1785,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992331362,Ptilotus_obovatus,-32.065369,139.884389
 996306909,Ptilotus_obovatus,-22.506,118.595
 993249208,Ptilotus_obovatus,-25.4167,135.2833
-996764706,Ptilotus_obovatus,-25.466667,112.966667
 996474526,Ptilotus_obovatus,-28.32,115.16
 993219911,Ptilotus_obovatus,-31.5,145.1833
 1451692851,Ptilotus_obovatus,-29.081826,141.917911
@@ -1841,23 +1803,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996369608,Ptilotus_obovatus,-26.591667,119.359722
 992285258,Ptilotus_obovatus,-30.78,134.35
 993806691,Ptilotus_obovatus,-24.25,131.5667
-992382614,Ptilotus_obovatus,-33.78206,137.717762
-996360968,Ptilotus_obovatus,-25,113
 996101484,Ptilotus_obovatus,-31.08,141.67
 996459008,Ptilotus_obovatus,-22.166667,114.083333
 992285136,Ptilotus_obovatus,-30.965369,139.217719
 992287873,Ptilotus_obovatus,-22.165473,114.084443
-996757539,Ptilotus_obovatus,-20.883333,115.316667
 992309147,Ptilotus_obovatus,-31.082019,141.667695
 993807224,Ptilotus_obovatus,-32.1667,123.3167
-996373067,Ptilotus_obovatus,-22.05,113.95
-993251779,Ptilotus_obovatus,-25,113.1167
 1451692862,Ptilotus_obovatus,-31.081823,141.667934
 992287587,Ptilotus_obovatus,-22.127139,113.948054
 992288244,Ptilotus_obovatus,-31.882042,138.834397
 992336343,Ptilotus_obovatus,-32.290365,140.534384
 992017855,Ptilotus_obovatus,-32.28342,140.534384
-992288492,Ptilotus_obovatus,-32.715416,134.067782
 1450983777,Ptilotus_obovatus,-32.1,145.7167
 996187836,Ptilotus_obovatus,-19.28,135.42
 994241697,Ptilotus_obovatus,-19.281885,135.417882
@@ -1896,7 +1852,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994243864,Ptilotus_obovatus,-25.415227,135.217931
 996411947,Ptilotus_obovatus,-22.238056,118.329722
 994790171,Ptilotus_obovatus,-22.5,120.1167
-992018261,Ptilotus_obovatus,-32.532082,133.834448
 993234456,Ptilotus_obovatus,-26.6,118.4667
 996374592,Ptilotus_obovatus,-21.05,116.1
 993234379,Ptilotus_obovatus,-22.2667,118.25
@@ -1915,7 +1870,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992456600,Ptilotus_obovatus,-27.092,135.696
 995003345,Ptilotus_obovatus,-31.1667,139.2667
 992282447,Ptilotus_obovatus,-32.682058,137.134422
-996362368,Ptilotus_obovatus,-26.131667,113.221389
 992270185,Ptilotus_obovatus,-31.9,127
 992270043,Ptilotus_obovatus,-32.35,138.05
 995902121,Ptilotus_obovatus,-31.68,143.83
@@ -1943,7 +1897,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994248783,Ptilotus_obovatus,-24.498598,130.201304
 992257570,Ptilotus_obovatus,-32.186772,138.012186
 992254857,Ptilotus_obovatus,-25.91539,133.134395
-996362990,Ptilotus_obovatus,-20.883056,115.326667
 992533329,Ptilotus_obovatus,-28,145
 992519548,Ptilotus_obovatus,-32.515396,136.484426
 992254795,Ptilotus_obovatus,-28.965393,134.517743
@@ -1995,13 +1948,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993787245,Ptilotus_obovatus,-23.7167,133.7167
 992240184,Ptilotus_obovatus,-30.159308,131.57833
 992241162,Ptilotus_obovatus,-29.3013,130.5806
-992239854,Ptilotus_obovatus,-32.003616,115.132859
 992239865,Ptilotus_obovatus,-28.920685,132.200815
 1451695706,Ptilotus_obovatus,-31.034045,141.743766
 996114396,Ptilotus_obovatus,-31.036,141.742
 992243091,Ptilotus_obovatus,-30.45,131.83
 994555535,Ptilotus_obovatus,-33.51528,142.01766
-993233753,Ptilotus_obovatus,-25.8167,113.0333
 992291787,Ptilotus_obovatus,-32.17,135.086
 992242262,Ptilotus_obovatus,-31.554844,135.321371
 992293323,Ptilotus_obovatus,-32.684003,137.1247
@@ -2014,7 +1965,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992241773,Ptilotus_obovatus,-31.744,135.242
 992245439,Ptilotus_obovatus,-22.864,114.955
 992244184,Ptilotus_obovatus,-31.986517,134.851934
-996361727,Ptilotus_obovatus,-25.816667,113.033333
 992405560,Ptilotus_obovatus,-32.400959,135.397212
 992241498,Ptilotus_obovatus,-32.34,136.17
 996365085,Ptilotus_obovatus,-30.953333,120.833889
@@ -2030,7 +1980,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992247590,Ptilotus_obovatus,-31.699567,135.234428
 993794713,Ptilotus_obovatus,-31.75,142.3333
 996475041,Ptilotus_obovatus,-29,119
-996361537,Ptilotus_obovatus,-25.916667,113.533333
 993642126,Ptilotus_obovatus,-23.2,119.8833
 1937263137,Ptilotus_obovatus,-32.9167,145.8833
 993214918,Ptilotus_obovatus,-20.2667,140.15
@@ -2081,8 +2030,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651948366,Ptilotus_obovatus,-20.706938,140.509248
 1451692910,Ptilotus_obovatus,-29.415109,147.951164
 992219373,Ptilotus_obovatus,-25.551572,120.823344
-996374182,Ptilotus_obovatus,-26.016667,113.366667
-993302698,Ptilotus_obovatus,-26.0167,113.3667
 996727442,Ptilotus_obovatus,-27.5,120.5
 992205311,Ptilotus_obovatus,-30.454308,131.838887
 992222583,Ptilotus_obovatus,-30.924566,134.866369
@@ -2168,7 +2115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992192679,Ptilotus_obovatus,-27.542292,140.968228
 995466737,Ptilotus_obovatus,-31.916667,141.183333
 992192832,Ptilotus_obovatus,-29.700639,139.673814
-992371232,Ptilotus_obovatus,-33.88,137.6
 992193052,Ptilotus_obovatus,-30.411483,138.494387
 996361574,Ptilotus_obovatus,-26.608333,123.073333
 995466850,Ptilotus_obovatus,-31.666667,142.783333
@@ -2251,11 +2197,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993233070,Ptilotus_obovatus,-24.35,133.75
 992177574,Ptilotus_obovatus,-33.2262,137.1517
 992179032,Ptilotus_obovatus,-30.18,139.44
-993630753,Ptilotus_obovatus,-24.8781,113.6353
 995307631,Ptilotus_obovatus,-23.7167,133.8
 996727717,Ptilotus_obovatus,-28.5,122.5
 996727723,Ptilotus_obovatus,-25.5,128.5
-992199997,Ptilotus_obovatus,-33.787894,137.716373
 992179421,Ptilotus_obovatus,-30.376477,139.354656
 992273231,Ptilotus_obovatus,-30.562312,139.163827
 1937300737,Ptilotus_obovatus,-20.75,139.45
@@ -2304,7 +2248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993591791,Ptilotus_obovatus,-31.4333,145.85
 1257304919,Ptilotus_obovatus,-31.598559,137.151322
 992169789,Ptilotus_obovatus,-26.137636,129.198868
-992457021,Ptilotus_obovatus,-33.711509,137.040823
 992456996,Ptilotus_obovatus,-33.655676,136.925823
 993233117,Ptilotus_obovatus,-25.9,131.6667
 994214770,Ptilotus_obovatus,-21.965238,133.484578
@@ -2435,9 +2378,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996358013,Ptilotus_obovatus,-20.636667,117.721389
 993753595,Ptilotus_obovatus,-31.1333,141.6667
 1937307916,Ptilotus_obovatus,-24.25,131.566667
-996365019,Ptilotus_obovatus,-25.024444,113.658333
 992138987,Ptilotus_obovatus,-22.53,133.35
-996411821,Ptilotus_obovatus,-20.4,116.905
 1257300046,Ptilotus_obovatus,-25.84859,131.651302
 995307672,Ptilotus_obovatus,-22.5,133.35
 993152242,Ptilotus_obovatus,-22.5167,133.3333
@@ -2514,7 +2455,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996364224,Ptilotus_obovatus,-22.679722,114.299722
 996357478,Ptilotus_obovatus,-22.111389,114.086667
 996357585,Ptilotus_obovatus,-22.493056,118.614722
-996364434,Ptilotus_obovatus,-21.953,114.025
 996364548,Ptilotus_obovatus,-29.196389,127.924722
 992161402,Ptilotus_obovatus,-32.682058,137.117756
 996365519,Ptilotus_obovatus,-29.033056,128.671944
@@ -2527,8 +2467,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992133255,Ptilotus_obovatus,-33.053441,138.230249
 992400174,Ptilotus_obovatus,-32.924,138.07
 992103896,Ptilotus_obovatus,-31.6863,128.885
-992103857,Ptilotus_obovatus,-31.99,132.44
-992109129,Ptilotus_obovatus,-31.509041,131.170291
 993231909,Ptilotus_obovatus,-26.3,132.1333
 992398113,Ptilotus_obovatus,-31.722886,137.35691
 992209091,Ptilotus_obovatus,-24.332055,132.367724
