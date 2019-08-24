@@ -83,7 +83,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912087364,Baphia_laurifolia,4.45,9.07
 2288985403,Baphia_laurifolia,-0.183333,10.733333
 1563244111,Baphia_laurifolia,-0.18,10.73
-1144611463,Baphia_laurifolia,0.605,9.345
 1095917310,Baphia_laurifolia,-0.77,13.22
 2291880840,Baphia_laurifolia,-0.681667,10.225
 2291880721,Baphia_laurifolia,-0.883333,10.116667
@@ -103,9 +102,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2013879889,Baphia_laurifolia,-0.116667,10.75
 1563328946,Baphia_laurifolia,-0.12,10.75
 2290245934,Baphia_laurifolia,-2.133333,9.8
-2289038195,Baphia_laurifolia,0.616667,9.35
 1258297773,Baphia_laurifolia,0.5,9.383333
-1258288090,Baphia_laurifolia,0.61666,9.35
 2288854097,Baphia_laurifolia,-1.95,10
 2290303937,Baphia_laurifolia,-1.15,21.95
 2013877692,Baphia_laurifolia,-1.966667,9.866667
