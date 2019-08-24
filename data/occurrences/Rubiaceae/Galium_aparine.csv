@@ -95,7 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242354462,Galium_aparine,39.777409,-105.225912
 2268761634,Galium_aparine,28.51526,83.90691
 2242356758,Galium_aparine,39.893693,-105.273382
-1946679571,Galium_aparine,50.1,10.9
 2268762102,Galium_aparine,28.54298,84.29197
 2242353231,Galium_aparine,39.55079,-105.10019
 2270192227,Galium_aparine,35.159,-120.639
@@ -126,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839017173,Galium_aparine,41.139172,25.41917
 1839017160,Galium_aparine,41.164169,24.879169
 1839017117,Galium_aparine,41.163891,25.36833
-1839017140,Galium_aparine,41.146938,25.4
 1839017100,Galium_aparine,41.01083,25.09194
 1987021043,Galium_aparine,40.910778,-109.312667
 1839017202,Galium_aparine,41.086941,24.76889
@@ -239,9 +237,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2307481152,Galium_aparine,38.89,-78.15
 1839015070,Galium_aparine,38.80278,21.49917
 2270494047,Galium_aparine,34.904915,-112.223198
-1839014379,Galium_aparine,38.486111,22
 1935690205,Galium_aparine,46.99161,16.47086
-910446224,Galium_aparine,37.089,-4.3
 1839013876,Galium_aparine,38.840279,21.54472
 1839014456,Galium_aparine,38.399719,21.53278
 1839014422,Galium_aparine,38.568329,21.916941
@@ -278,7 +274,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899737550,Galium_aparine,38.767778,-120.288333
 1701969839,Galium_aparine,63.8958,11.0056
 1146319741,Galium_aparine,57.4639999991453,-154.033
-1060408325,Galium_aparine,51.3,7.9
 1265818573,Galium_aparine,39.0498699990767,-120.13577
 1701831214,Galium_aparine,59.5734,11.1588
 2270701697,Galium_aparine,33.6909,-109.45138
@@ -343,7 +338,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2308666099,Galium_aparine,45.54,-73.17
 1671650852,Galium_aparine,37.619598,13.607831
 1839014426,Galium_aparine,39.85194,21.57028
-1257915479,Galium_aparine,44.25,-99.7
 1839014329,Galium_aparine,40.369171,21.486389
 1839014484,Galium_aparine,40.522781,21.686939
 1893207129,Galium_aparine,49.77,5.89
@@ -507,7 +501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839014859,Galium_aparine,40.743328,22.85833
 1839014275,Galium_aparine,40.663891,22.20833
 1839014754,Galium_aparine,40.516392,22.583891
-1851391888,Galium_aparine,41.3,-6.43
 1839014958,Galium_aparine,40.73917,22.77528
 1257568116,Galium_aparine,-14.898055,-68.981667
 1839014851,Galium_aparine,40.311668,22.49444
@@ -586,7 +579,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930701655,Galium_aparine,41.451697,-73.621756
 2265457602,Galium_aparine,43.530668,-92.516461
 1927815206,Galium_aparine,43.62081,-115.16728
-1988073593,Galium_aparine,51.8,-120.0252
 1851578244,Galium_aparine,41.95,-5.78
 1851332478,Galium_aparine,42.644,-5.604
 1146312347,Galium_aparine,57.0701999991399,-154.3433
@@ -620,7 +612,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839013786,Galium_aparine,39.423061,22.09639
 1839013653,Galium_aparine,39.701939,22.64028
 1839014865,Galium_aparine,39.293892,22.36528
-1094180311,Galium_aparine,32.28,34.9
 1839014041,Galium_aparine,39.620281,22.406111
 1839014089,Galium_aparine,39.341671,21.917219
 1839013666,Galium_aparine,39.588612,22.37694
@@ -695,7 +686,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342506301,Galium_aparine,56.36797,10.674236
 1999520355,Galium_aparine,60.677726,21.677736
 1702224701,Galium_aparine,60.7173,11.2205
-1094181466,Galium_aparine,32.5,34.95
 1999574331,Galium_aparine,60.668419,21.636193
 1702269261,Galium_aparine,59.4401,11.1884
 1999617665,Galium_aparine,60.469081,22.286707
@@ -708,7 +698,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442007464,Galium_aparine,51.181019,14.935001
 442007455,Galium_aparine,51.232349,14.897916
 442007458,Galium_aparine,51.205093,14.923477
-786154043,Galium_aparine,48.8,9.9
 1024492364,Galium_aparine,38.824444,-121.056389
 158841295,Galium_aparine,39.010832999077,-122.408333
 2270253106,Galium_aparine,34.503683,-120.208533
@@ -732,7 +721,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936205877,Galium_aparine,41.7887,-4.7463
 1212106100,Galium_aparine,39.280278,21.798889
 1212106205,Galium_aparine,39.530556,21.705833
-1094187251,Galium_aparine,32.9,35.16
 1212106090,Galium_aparine,39.564167,21.969722
 1839014128,Galium_aparine,39.445831,21.83917
 442007542,Galium_aparine,51.32489,14.736691
@@ -777,7 +765,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442007585,Galium_aparine,50.920765,14.597561
 1261005328,Galium_aparine,36.70666,-91.88833
 1230789104,Galium_aparine,40.15667,44.79611
-1230789174,Galium_aparine,39.7,45.27861
 1702239591,Galium_aparine,59.0769,5.7311
 1212106235,Galium_aparine,39.003056,21.595833
 1839014146,Galium_aparine,38.873611,21.76083
@@ -800,7 +787,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212106329,Galium_aparine,39.161944,21.472222
 1839014017,Galium_aparine,39.161942,21.472219
 1839014126,Galium_aparine,38.860828,21.68972
-1807229683,Galium_aparine,46.6,-63.783333
 438598707,Galium_aparine,49.10639,2.48028
 1839014212,Galium_aparine,39.028061,21.72472
 1056086675,Galium_aparine,51.307793,0.287735
@@ -816,7 +802,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212106276,Galium_aparine,39.087778,21.821667
 1839013644,Galium_aparine,38.759171,21.668329
 1839013558,Galium_aparine,38.995281,21.86278
-1050643497,Galium_aparine,41.68,-1.8
 1839013787,Galium_aparine,39.08778,21.821671
 1839013812,Galium_aparine,39.003059,21.595831
 1882640384,Galium_aparine,51.057129,9.163488
@@ -983,7 +968,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846486440,Galium_aparine,32.337933,-110.688567
 2270252130,Galium_aparine,34.49861,-120.13944
 1895927233,Galium_aparine,30.749444,-110.734167
-786153956,Galium_aparine,49,8.4
 1846485987,Galium_aparine,33.330383,-111.1413
 1563147817,Galium_aparine,29.94,-89.9944
 199479518,Galium_aparine,37.758,-5.333
@@ -995,7 +979,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895927272,Galium_aparine,30.885278,-110.709722
 2270192054,Galium_aparine,34.983611,-119.635556
 176949958,Galium_aparine,39.179444,-96.549444
-441754046,Galium_aparine,46.4,-118.816667
 1846499307,Galium_aparine,36.33145,-112.35189
 1851342887,Galium_aparine,42.4127,-6.6951
 895217530,Galium_aparine,39.16223,-1.80045
@@ -1007,7 +990,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768790631,Galium_aparine,40.75888,-74.08805
 1094185938,Galium_aparine,32.55,35.35
 895231004,Galium_aparine,41.3936,-1.71789
-786153965,Galium_aparine,49.3,8.5
 1927784946,Galium_aparine,42.592317,-116.982383
 199479507,Galium_aparine,36.96,-4.556
 1146248907,Galium_aparine,57.466667,-154.65
@@ -1057,7 +1039,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323859332,Galium_aparine,68.4148,16.7625
 1230778819,Galium_aparine,39.11583,46.16111
 1936644984,Galium_aparine,41.9142,24.7053
-786153988,Galium_aparine,53.9,10.7
 1323738955,Galium_aparine,69.9949,21.6849
 1230779335,Galium_aparine,40.47556,44.67694
 1851342900,Galium_aparine,42.27,-6.593
@@ -1080,7 +1061,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1807254522,Galium_aparine,45.140082,-64.268455
 1702213378,Galium_aparine,59.6697,10.7691
 441754072,Galium_aparine,-33.003483,-69.03325
-1094184142,Galium_aparine,31.57,35.1
 1094180612,Galium_aparine,33.08,35.61
 1259595059,Galium_aparine,-50.48722,-72.95833
 2251618046,Galium_aparine,-50.487222,-72.958333
@@ -1111,7 +1091,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839013911,Galium_aparine,40.766109,22.05611
 1212105753,Galium_aparine,40.490278,23.820556
 1212105719,Galium_aparine,40.0525,23.984167
-56580623,Galium_aparine,34.3,-81.62
 1212105670,Galium_aparine,40.581389,21.603611
 1839013830,Galium_aparine,40.590279,23.78722
 1839014185,Galium_aparine,40.69083,22.115829
@@ -1265,7 +1244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936615385,Galium_aparine,42.3392,13.6203
 442004572,Galium_aparine,51.054443,13.739166
 1697666657,Galium_aparine,49.121832,44.06064
-1050630778,Galium_aparine,41.8,-1.79
 1702206278,Galium_aparine,60.7482,10.9676
 1851388281,Galium_aparine,42.271,-6.678
 1258991933,Galium_aparine,48.533333,-122.616667
@@ -1280,7 +1258,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270589067,Galium_aparine,33.9677,-111.862
 2270193314,Galium_aparine,35.80501,-120.22184
 1846488479,Galium_aparine,33.61855,-111.1244
-45453075,Galium_aparine,38.9,-122.233889
 2270590524,Galium_aparine,33.9401,-111.834
 2270661386,Galium_aparine,33.8125,-111.643
 2270660078,Galium_aparine,33.982,-111.71
@@ -1303,7 +1280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 119979961,Galium_aparine,38.495556,-122.150556
 176950619,Galium_aparine,35.569168,-99.719444
 1094184584,Galium_aparine,32.39,34.92
-1094181794,Galium_aparine,32.34,35
 1849185118,Galium_aparine,33.385,-80.423
 1936645492,Galium_aparine,40.2247,-3.4479
 2270589993,Galium_aparine,32.319,-110.391
@@ -1329,7 +1305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094183709,Galium_aparine,33.12,35.78
 176950510,Galium_aparine,37.71727,-100.07221
 1702219576,Galium_aparine,60.7008,11.3477
-1988090288,Galium_aparine,50.1,-123.1
 176950690,Galium_aparine,38.537224,-99.298332
 1851330503,Galium_aparine,42.5946,-6.441
 125880663,Galium_aparine,37.310001,-4.35
@@ -1367,14 +1342,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176950609,Galium_aparine,38.741665,-94.966667
 176950465,Galium_aparine,38.1042,-95.025
 176950505,Galium_aparine,38.095833,-98.416664
-1094181616,Galium_aparine,32.2,34.95
 1930901248,Galium_aparine,41.1174,-119.2351
 1946425135,Galium_aparine,47.07667,15.38528
 1851335571,Galium_aparine,42.91,-5.88
 1426284648,Galium_aparine,34.270556,-117.291389
-211646101,Galium_aparine,38.7,-1.33
 1599841356,Galium_aparine,60.153186,23.151547
-1094184121,Galium_aparine,33.04,35.7
 1599841338,Galium_aparine,60.255488,24.161746
 1999520276,Galium_aparine,60.727674,21.577613
 1599841315,Galium_aparine,61.524277,23.697772
@@ -1387,11 +1359,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702183971,Galium_aparine,59.73195,10.15707
 1094183779,Galium_aparine,32.89,35.62
 1851335420,Galium_aparine,42.848,-6.265
-1697666579,Galium_aparine,55.483333,31.8
 1599841341,Galium_aparine,61.010496,25.69341
 1094186134,Galium_aparine,31.77,35.07
 1146333681,Galium_aparine,59.21,-135.33
-296469598,Galium_aparine,47.033,10.6
 1846493212,Galium_aparine,31.66367,-110.8153
 1849181367,Galium_aparine,34.2238,-80.4502
 125880648,Galium_aparine,36.950001,-4.57
@@ -1456,7 +1426,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30666466,Galium_aparine,36.87,-2.815
 1988155707,Galium_aparine,42.34,-123.74
 415938478,Galium_aparine,41.905,-72.7025
-895174330,Galium_aparine,39.7,-1.89
 1701976080,Galium_aparine,58.2948,6.6654
 1702161589,Galium_aparine,59.74,10.7479
 1342506105,Galium_aparine,57.037582,10.275751
@@ -1472,7 +1441,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258501737,Galium_aparine,32.36138,-110.71333
 1260512471,Galium_aparine,10.48333,-67.08333
 2270612791,Galium_aparine,35.15,-114.333
-786154026,Galium_aparine,48,7.9
 895143598,Galium_aparine,38.946,-0.583
 51841297,Galium_aparine,43.4858,-117.1312
 1426231486,Galium_aparine,36.855,-119.011389
@@ -1521,11 +1489,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702160550,Galium_aparine,59.5681,11.2931
 1323831301,Galium_aparine,70.2258,22.2488
 895170336,Galium_aparine,39.585,-0.584
-895291266,Galium_aparine,39.5,-0.38
 1260979465,Galium_aparine,36.60055,-93.09055
 30666467,Galium_aparine,36.897,-2.624
 1426231113,Galium_aparine,36.813056,-118.8175
-895200020,Galium_aparine,39.7,-2.48
 1502044200,Galium_aparine,39.83,-0.44
 125880609,Galium_aparine,37.119999,-4.91
 1258263077,Galium_aparine,38.61666,-90.68333
@@ -1547,14 +1513,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851356631,Galium_aparine,43.005,-5.08
 2265432732,Galium_aparine,44.72459,-93.40903
 1599841305,Galium_aparine,60.286729,24.244325
-441753548,Galium_aparine,42.5,-119.816667
 1851408922,Galium_aparine,42.825,-5.086
 51841311,Galium_aparine,42.4798,-119.7868
 1831521860,Galium_aparine,33.41444,-5.17944
 1697666585,Galium_aparine,52.122826,38.589828
 441753540,Galium_aparine,42.416667,-119.716667
 1831521767,Galium_aparine,34.09028,-4.18333
-441753643,Galium_aparine,42.5,-119.833333
 1831521825,Galium_aparine,32.97611,-5.47639
 1697666563,Galium_aparine,60.883333,43.216667
 1851347987,Galium_aparine,43.058,-5.143
@@ -1574,7 +1538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930695431,Galium_aparine,31.53,-111.08
 2270613963,Galium_aparine,32.2021,-109.627
 1261880295,Galium_aparine,37.06666,-91.11666
-1024492534,Galium_aparine,35.316667,-120.6
 1936447174,Galium_aparine,38.7468,-0.0556
 1986974028,Galium_aparine,34.333333,-118.516667
 2270611159,Galium_aparine,32.8597,-110.718
@@ -1621,7 +1584,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050580988,Galium_aparine,43.22,-2.73
 176950618,Galium_aparine,38.716366,-94.639857
 176950449,Galium_aparine,38.590665,-95.687794
-1261239235,Galium_aparine,39.06666,-77
 1050581079,Galium_aparine,43.57,-1.45
 1936631123,Galium_aparine,37.683,-3.5683
 176950564,Galium_aparine,37.268597,-95.205974
@@ -1631,13 +1593,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265439973,Galium_aparine,44.735,-95.4425
 1261001846,Galium_aparine,38.90138,-91.59166
 2265508528,Galium_aparine,44.118889,-95.351667
-895143867,Galium_aparine,39.6,-1.19
-1050581417,Galium_aparine,42.86,-2.2
 1851348162,Galium_aparine,42.835,-5.037
-1502059902,Galium_aparine,38.24,-0.8
 2265435869,Galium_aparine,45.437222,-93.395833
 1702435447,Galium_aparine,60.9185,10.8931
-1986970802,Galium_aparine,48.2,-117.016667
 2265412441,Galium_aparine,47.5325,-96.311667
 1701723271,Galium_aparine,63.6432,9.434
 1146215431,Galium_aparine,56.53,-132.45
@@ -1654,7 +1612,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702437383,Galium_aparine,59.4208,10.5939
 1702168962,Galium_aparine,59.4393,11.3143
 2270613396,Galium_aparine,32.4822,-112.623
-1895459787,Galium_aparine,27.6,-108.9
 1269661601,Galium_aparine,30.060556,-91.274444
 895236610,Galium_aparine,39.85,-0.25
 1893593701,Galium_aparine,27.5875,-108.929167
@@ -1696,9 +1653,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1332533618,Galium_aparine,50.673391,9.803327
 1999520260,Galium_aparine,60.414815,22.227309
 1701925309,Galium_aparine,59.7871,10.2381
-2270550109,Galium_aparine,-45.08333,-71.5
 11712739,Galium_aparine,48.3163,2.56466
-1260509466,Galium_aparine,-45.25,-71.5
 1259595065,Galium_aparine,-53.75,-67.95
 895215493,Galium_aparine,38.95,-0.17
 11712735,Galium_aparine,48.5316,2.75126
@@ -1720,7 +1675,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415924716,Galium_aparine,40.81916,-74.49194
 415924713,Galium_aparine,32.61861,-93.27611
 895236628,Galium_aparine,40.12,-0.24
-895237599,Galium_aparine,41.2,-0.08
 2265455666,Galium_aparine,47.870278,-96.415
 1261243416,Galium_aparine,38.618056,-90.368056
 1836007180,Galium_aparine,35.6875,-118.15
@@ -1728,13 +1682,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988948762,Galium_aparine,42.120228,-86.108707
 1851358906,Galium_aparine,42.842,-5.576
 1839017162,Galium_aparine,40.28944,21.494169
-1851575073,Galium_aparine,42.59,-6.3
 1851342335,Galium_aparine,42.492,-6.463
 1936618140,Galium_aparine,40.3904,-4.9913
 2291688497,Galium_aparine,19.033333,-70.533333
 1988897313,Galium_aparine,41.94259,-85.63536
 1988764668,Galium_aparine,46.3118,-89.52221
-1851338352,Galium_aparine,42.596,-6.3
 1050630791,Galium_aparine,42.62,-6.83
 1050659327,Galium_aparine,42.83,-2.73
 1936410422,Galium_aparine,42.8331,0.7231
@@ -1752,14 +1704,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323799748,Galium_aparine,70.0835,22.0127
 1030804799,Galium_aparine,30.663372,113.166529
 1697714165,Galium_aparine,8.833333,37.916667
-895276907,Galium_aparine,39.5,-0.5
 1851324120,Galium_aparine,42.506,-6.694
 176950434,Galium_aparine,37.5629,-95.242434
 176950435,Galium_aparine,38.807847,-95.191136
 1989400015,Galium_aparine,42.909215,-83.5013
 176950431,Galium_aparine,38.979534,-94.785838
 2265459061,Galium_aparine,46.116667,-94.361389
-1988103323,Galium_aparine,49.2,-119.5
 2270610842,Galium_aparine,33.4877,-111.094
 1426125492,Galium_aparine,41.246799,-120.078903
 1988946282,Galium_aparine,45.38058,-87.86856
@@ -1780,17 +1730,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895239447,Galium_aparine,38.87,-0.52
 199478929,Galium_aparine,36.693,-4.908
 199478926,Galium_aparine,36.738,-4.921
-1261228815,Galium_aparine,38.46666,-90.7
-1144690805,Galium_aparine,42.38333,9.2
 2265426806,Galium_aparine,43.640278,-93.727219
 1261250596,Galium_aparine,38.641944,-90.448333
 1851320021,Galium_aparine,42.531,-5.38
-1988078279,Galium_aparine,49,-119.5
 199478931,Galium_aparine,36.773,-4.339
 199478930,Galium_aparine,36.584,-4.951
 996905317,Galium_aparine,48.13,46.85
 1261250594,Galium_aparine,38.4486,-90.7076
-1988089253,Galium_aparine,49.1,-119.5
 1843518165,Galium_aparine,44.932907,35.189982
 1697746364,Galium_aparine,44.9542,35.22161
 1705360992,Galium_aparine,55.54704,13.87075
@@ -1819,11 +1765,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599841256,Galium_aparine,63.076122,21.724206
 1705338402,Galium_aparine,56.775909,14.578449
 1949615094,Galium_aparine,50.066944,-124.983333
-1259830279,Galium_aparine,-16.95,-67.2
 1261247132,Galium_aparine,-13.35416,-72.06527
 895266984,Galium_aparine,39.04,-0.17
 895185127,Galium_aparine,40.001,-0.253
-1500701608,Galium_aparine,40,-0.25
 1426176373,Galium_aparine,41.857498,-120.065201
 2270561231,Galium_aparine,33.72,-111.44
 1260930567,Galium_aparine,37.74194,-94.33416
@@ -1847,7 +1791,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260956290,Galium_aparine,37.64138,-92.22222
 1426097917,Galium_aparine,41.3783,-120.938202
 1988823487,Galium_aparine,45.92202,-85.9171
-1144690795,Galium_aparine,42.4,9.33333
 1936392711,Galium_aparine,40.4471,-5.2417
 2265556967,Galium_aparine,45.336944,-93.2875
 1947453104,Galium_aparine,8.95,37.866667
@@ -1857,9 +1800,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843518152,Galium_aparine,44.854971,34.862795
 199479003,Galium_aparine,38.88,-6.98
 1936417977,Galium_aparine,39.1963,-7.263
-1988075342,Galium_aparine,41.8,-122.6
-1144690833,Galium_aparine,42.7,9.36667
-1949603094,Galium_aparine,49.3,-119.533333
 1843518011,Galium_aparine,44.893215,34.784131
 1843518172,Galium_aparine,44.875602,34.791976
 1500700179,Galium_aparine,39.97,-0.28
@@ -1902,14 +1842,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936351836,Galium_aparine,42.1219,-6.7392
 1843518161,Galium_aparine,44.950282,35.12342
 1843518167,Galium_aparine,44.927255,35.163975
-1929683032,Galium_aparine,41.82,-117.6
 1929233387,Galium_aparine,37.5258,-114.0386
 1843518155,Galium_aparine,44.903794,35.129428
 2265556907,Galium_aparine,44.727778,-93.336389
 1261238581,Galium_aparine,38.553333,-90.425556
 56579795,Galium_aparine,34.32472,-87.47028
 1930201685,Galium_aparine,43.0286,-112.5836
-1144690784,Galium_aparine,42.6,8.83333
 895272102,Galium_aparine,38.69,-0.53
 1697835713,Galium_aparine,44.143167,39.035282
 187882791,Galium_aparine,42.64,-1.15
@@ -1933,13 +1871,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705359970,Galium_aparine,57.071079,15.724442
 895215414,Galium_aparine,38.86,-0.06
 2270191977,Galium_aparine,35.20187,-120.22854
-1228205397,Galium_aparine,-16,-72.25
 1144690822,Galium_aparine,42.63333,8.95
 1261231384,Galium_aparine,-16.53333,-68.05
 1936124728,Galium_aparine,38.555,-2.0831
 235664687,Galium_aparine,37.44,-4.87
 1928161500,Galium_aparine,37.27,-113.45
-1988162123,Galium_aparine,42.9,-123.4
 1257687756,Galium_aparine,37.5528,-93.6989
 1261227664,Galium_aparine,-8.833333,-77.966667
 2270192423,Galium_aparine,35.3258159751886,-120.424903244625
@@ -1952,16 +1888,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989030387,Galium_aparine,42.06969,-84.14372
 1260940079,Galium_aparine,40.48083,-92.66277
 1804456580,Galium_aparine,49.05,-122.333333
-1988189727,Galium_aparine,35.3,-120.3
 1929419271,Galium_aparine,41.78,-111.77
 235664685,Galium_aparine,37.62,-4.53
-235664681,Galium_aparine,37.72,-4.3
-1144690800,Galium_aparine,42.7,9.33333
 176950276,Galium_aparine,38.45286,-98.62693
 1697746360,Galium_aparine,44.844125,34.803572
 218755859,Galium_aparine,38.52,-5.01
 1261253627,Galium_aparine,38.125,-90.675
-218755860,Galium_aparine,38.61,-4.9
 1851377836,Galium_aparine,42.48,-6.87
 1144690829,Galium_aparine,42.16667,9.46667
 1050585064,Galium_aparine,42.63,-2.21
@@ -1987,7 +1919,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265554170,Galium_aparine,44.076946,-92.653892
 1050585056,Galium_aparine,43.31,-3.06
 1323717331,Galium_aparine,65.2652,11.9886
-1050585041,Galium_aparine,42.6,-2.59
 1804455609,Galium_aparine,45.25,-75.55
 1936392084,Galium_aparine,42.4599,-0.1432
 1705345349,Galium_aparine,57.489977,16.150377
@@ -2014,7 +1945,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270614270,Galium_aparine,34.1458,-111.564
 199478699,Galium_aparine,36.63,-4.62
 1144690767,Galium_aparine,42.46667,8.68333
-1144690823,Galium_aparine,42.56667,8.8
 1986963876,Galium_aparine,41.587488,-111.993712
 895148489,Galium_aparine,38.87,-0.41
 1144690787,Galium_aparine,42.11667,9.46667
@@ -2024,7 +1954,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265553458,Galium_aparine,44.433334,-93.613892
 1899373167,Galium_aparine,42.658333,-80.483333
 1851409338,Galium_aparine,42.39,-6.75
-1261227212,Galium_aparine,-9.5,-77.4
 895148512,Galium_aparine,39.94,-0.13
 1936170711,Galium_aparine,39.4496,-0.4445
 1050585016,Galium_aparine,42.86,-2.69
@@ -2066,13 +1995,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928150410,Galium_aparine,40.17,-115.52
 2242365216,Galium_aparine,39.550164,-105.099111
 685749324,Galium_aparine,31.559229,77.441211
-1050585366,Galium_aparine,42.74,-3.8
 51841180,Galium_aparine,42.5768,-118.5427
 1927932793,Galium_aparine,37.54,-113.39
 317864614,Galium_aparine,51.20965,9.811483
 1930786900,Galium_aparine,38.43,-112.59
 1936152670,Galium_aparine,42.7358,-3.8076
-1899382605,Galium_aparine,44.833333,-79.4
 1936097513,Galium_aparine,38.4406,-2.5544
 783882,Galium_aparine,57.93791,14.60699
 1261035462,Galium_aparine,24.86,-100.21
@@ -2082,7 +2009,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851410891,Galium_aparine,42.46,-6.26
 1697666557,Galium_aparine,58.776416,23.461994
 1705439319,Galium_aparine,57.446412,15.044916
-1146352705,Galium_aparine,59.7,-150.13
 900225497,Galium_aparine,58.7541,5.6549
 900225218,Galium_aparine,58.7451,5.6558
 1705397103,Galium_aparine,57.697821,15.905826
@@ -2095,9 +2021,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806556342,Galium_aparine,42.81168,-1.641078
 1806556265,Galium_aparine,42.927648,-1.810162
 1936360160,Galium_aparine,38.3867,-3.3791
-1050584988,Galium_aparine,42.9,-2.7
 1936360348,Galium_aparine,36.944,-4.5622
-1949628780,Galium_aparine,50.2,-125.25
 1806556374,Galium_aparine,42.911451,-1.766247
 176950596,Galium_aparine,37.02997,-94.92113
 1936164495,Galium_aparine,41.8644,0.9264
@@ -2113,16 +2037,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988881447,Galium_aparine,44.1044,-85.30882
 783846,Galium_aparine,57.26573,16.47546
 1050585066,Galium_aparine,42.93,-2.58
-1146352893,Galium_aparine,59.6,-150.51
 1262035262,Galium_aparine,45.754691,-73.816709
 176950526,Galium_aparine,38.492444,-96.336045
 1851359968,Galium_aparine,42.92,-6.49
 1804469064,Galium_aparine,42.483333,-81.666667
-1899374654,Galium_aparine,44,-79.616667
 1050654375,Galium_aparine,42.77,-2.69
 51841166,Galium_aparine,44.8759,-123.2249
 1705345368,Galium_aparine,57.51992,16.00547
-1804439788,Galium_aparine,43.116667,-81.8
 1705356926,Galium_aparine,57.548856,14.988498
 176950683,Galium_aparine,38.03923,-97.1271
 1262035285,Galium_aparine,45.75467,-73.816669
@@ -2131,27 +2052,22 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931190222,Galium_aparine,41.88218,-111.6537
 1936634841,Galium_aparine,42.6667,-3.4167
 1936082480,Galium_aparine,41.7392,-4.0872
-1895459718,Galium_aparine,19.4,-96.966667
 2301715845,Galium_aparine,28.516253,84.238417
 1705397062,Galium_aparine,57.661856,15.955987
 2270614153,Galium_aparine,32.6408,-109.843
 1846522290,Galium_aparine,35.396813,-118.810631
 2270194068,Galium_aparine,35.36298,-120.70992
 1936365125,Galium_aparine,40.6924,-3.6167
-2289329406,Galium_aparine,18.816667,-70.7
 2270191839,Galium_aparine,35.056237,-120.564034
 2270192458,Galium_aparine,35.274862,-120.266285
 441753267,Galium_aparine,46.00861,-122.84333
 56579793,Galium_aparine,32.32167,-87.03194
 2270192821,Galium_aparine,35.288256,-120.266468
-1259911590,Galium_aparine,18.81666,-70.7
-1929291899,Galium_aparine,18.82,-70.7
 2270252196,Galium_aparine,34.416667,-119.791667
 199478769,Galium_aparine,36.956,-4.028
 199478625,Galium_aparine,36.76444,-3.83842
 2270190856,Galium_aparine,35.27018,-120.68737
 1050585040,Galium_aparine,42.87,-2.72
-1144690859,Galium_aparine,42.61667,8.9
 1260962232,Galium_aparine,37.11166,-93.12861
 2270191422,Galium_aparine,35.72694,-118.54583
 860311592,Galium_aparine,40.85,0.33
@@ -2161,9 +2077,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144690837,Galium_aparine,41.53333,9.26667
 1851375589,Galium_aparine,42.92,-6.37
 895285568,Galium_aparine,39.95,-0.72
-1259907910,Galium_aparine,19,-71.3
 1842842319,Galium_aparine,42.393,0.078
-1050585118,Galium_aparine,42.83,-2.7
 1806556304,Galium_aparine,42.846142,-1.752532
 1931348234,Galium_aparine,18.72,-70.62
 1050585031,Galium_aparine,42.89,-2.57
@@ -2181,7 +2095,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936569198,Galium_aparine,42.517811,-3.687825
 1930792531,Galium_aparine,39.7605,-108.0019
 1323793517,Galium_aparine,68.4694,16.8643
-1697296518,Galium_aparine,50,88.666667
 199478773,Galium_aparine,36.912,-3.949
 1705345363,Galium_aparine,57.526249,15.975461
 1851359182,Galium_aparine,42.19,-6.27
@@ -2223,22 +2136,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199479547,Galium_aparine,36.99,-4.52
 1846522079,Galium_aparine,33.530914,-111.31308
 2270611168,Galium_aparine,33.8341,-113.272
-1144690848,Galium_aparine,41.9,8.8
 2270589711,Galium_aparine,34.2506,-112.661
 1846522080,Galium_aparine,33.96222,-111.84833
-1305258601,Galium_aparine,41.95,-86.3
 2270613918,Galium_aparine,34.3394,-113.216
 2270613960,Galium_aparine,34.2801,-112.644
 1260944351,Galium_aparine,37.02027,-91.13777
 1144690769,Galium_aparine,42.38333,8.86667
 1260944356,Galium_aparine,37.355,-90.91305
-1144690814,Galium_aparine,42.66667,9.3
 2270613612,Galium_aparine,33.2806,-110.796
 1050585039,Galium_aparine,42.84,-2.71
 1050585070,Galium_aparine,42.91,-2.62
 1144690778,Galium_aparine,42.45,8.66667
 1144093775,Galium_aparine,61.5356,6.3385
-51841152,Galium_aparine,44.6,-123.2411
 1144690817,Galium_aparine,42.41667,8.65
 1144093714,Galium_aparine,60.32605,6.17715
 1323712735,Galium_aparine,68.4691,16.8435
@@ -2248,7 +2157,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936359763,Galium_aparine,41.8087,-2.2669
 1930830826,Galium_aparine,38.05159,-116.4076
 1323805235,Galium_aparine,68.4528,16.6958
-1842871107,Galium_aparine,41.41,2.1
 606656303,Galium_aparine,41.86194,-72.60361
 2301715060,Galium_aparine,26.911177,87.923675
 1144093759,Galium_aparine,60.758,5.7054
@@ -2265,9 +2173,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638399377,Galium_aparine,47.075,15.375
 2265555849,Galium_aparine,44.73907,-92.86266
 51840696,Galium_aparine,44.1411,-123.2976
-235665129,Galium_aparine,37.53,-4.3
 2242385095,Galium_aparine,40.525635,-105.207741
-1030494944,Galium_aparine,42.9,-86.2
 1929578156,Galium_aparine,41.33,-115.98
 2270612735,Galium_aparine,35.0583,-113.871
 1883795552,Galium_aparine,57.78762,14.27015
@@ -2276,10 +2182,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928516780,Galium_aparine,41.30307,-115.9389
 1697746404,Galium_aparine,44.859497,34.985398
 1806555088,Galium_aparine,43.134,-1.666
-1931200898,Galium_aparine,41.3,-118.43
-1030495026,Galium_aparine,43.6,-83.716667
 1936173494,Galium_aparine,41.9996,-3.3515
-883375894,Galium_aparine,50.71,-99.6
 1701304454,Galium_aparine,63.4478,10.4737
 1701846151,Galium_aparine,59.2615,10.7286
 1936359912,Galium_aparine,41.9905,-3.3756
@@ -2322,12 +2225,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257723720,Galium_aparine,37.6578,-92.5314
 1260983860,Galium_aparine,38.76277,-93.73583
 1697746344,Galium_aparine,44.949371,35.23663
-1050585045,Galium_aparine,42.97,-2.7
 1928221174,Galium_aparine,41.73,-119.15
 1928305047,Galium_aparine,41.76931,-119.00161
 51840680,Galium_aparine,44.36,-123.14
 1455758446,Galium_aparine,58.9345,7.7247
-1930125427,Galium_aparine,40.57,-118.2
 1928999467,Galium_aparine,37.9567,-118.4556
 1702067915,Galium_aparine,59.1911,9.6214
 865472235,Galium_aparine,59.26671,9.48765
@@ -2337,7 +2238,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701364296,Galium_aparine,61.4976,5.1291
 1702210713,Galium_aparine,59.1088,10.8309
 1257726148,Galium_aparine,40.19027,-92.61916
-1146347017,Galium_aparine,57.2,-153.18
 1050585019,Galium_aparine,42.83,-2.67
 900225267,Galium_aparine,59.1873,6.103
 2270189954,Galium_aparine,35.177307,-120.621071
@@ -2376,16 +2276,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851376140,Galium_aparine,42.83,-5.51
 1703287526,Galium_aparine,50.3669046317022,-95.9331906429367
 1323717137,Galium_aparine,67.2988,14.4195
-442114284,Galium_aparine,50.650002,5.6
 1806129093,Galium_aparine,42.81189,-1.662747
 1702439461,Galium_aparine,60.1644,6.2979
 211628029,Galium_aparine,43.130001,-5.36
 1702011722,Galium_aparine,63.8522,11.1834
 900226846,Galium_aparine,58.7337,5.7347
-1260513172,Galium_aparine,10.5,-66.75
 2012940739,Galium_aparine,34.037826,69.904273
 442114280,Galium_aparine,51.716946,10.973056
-1988234894,Galium_aparine,61.1,-146.8
 1146363401,Galium_aparine,61.08,-146.78
 2301714576,Galium_aparine,28.206287,85.622929
 1030804836,Galium_aparine,24.828524,103.989855
@@ -2413,7 +2310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176950273,Galium_aparine,39.46321,-101.00629
 768790617,Galium_aparine,41.47611,-72.34166
 1930445041,Galium_aparine,38.49293,-112.8178
-788816269,Galium_aparine,40.1,22.516667
 415924069,Galium_aparine,41.47333,-72.05888
 415924071,Galium_aparine,41.96166,-73.30888
 2012940657,Galium_aparine,34.863762,73.690383
@@ -2472,14 +2368,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176950285,Galium_aparine,38.41469,-95.75015
 1989301174,Galium_aparine,44.623752,-85.988341
 176950282,Galium_aparine,37.34989,-96.46691
-788832364,Galium_aparine,38.833333,21.7
 1701922367,Galium_aparine,61.9528,7.0268
 51841097,Galium_aparine,45.6552,-123.4941
 668798862,Galium_aparine,46.791389,-71.282778
-1248746071,Galium_aparine,49.3,-76.749722
 2012940694,Galium_aparine,34.905355,73.648996
 1599841386,Galium_aparine,60.243894,25.25909
-1563137366,Galium_aparine,40.1,21.016667
 1999520298,Galium_aparine,60.749989,21.463546
 1269661602,Galium_aparine,32.016,-92.916
 199478662,Galium_aparine,36.69227,-4.44538
@@ -2536,7 +2429,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258190769,Galium_aparine,38.04,-93.97
 176950288,Galium_aparine,39.49862,-98.32745
 176950319,Galium_aparine,38.46556,-96.20569
-51841090,Galium_aparine,44.4,-123.3
 176950278,Galium_aparine,39.02385,-100.23643
 176950318,Galium_aparine,37.98018,-96.16335
 176950320,Galium_aparine,39.022001,-96.28899
@@ -2551,10 +2443,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697835711,Galium_aparine,44.73137,37.822838
 176950314,Galium_aparine,38.34497,-98.29416
 176949954,Galium_aparine,39.892477,-105.2035
-1851340467,Galium_aparine,42.82,-6
 1989360632,Galium_aparine,45.773385,-84.47803
 176950315,Galium_aparine,38.43725,-100.19565
-2301715756,Galium_aparine,28.52,84.3
 1851382396,Galium_aparine,42.82,-6.13
 2313346541,Galium_aparine,48.16,11.49
 1323822433,Galium_aparine,67.1339,14.9423
@@ -2562,7 +2452,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187167808,Galium_aparine,62.9869,7.2535
 1266946621,Galium_aparine,38.40746,-96.17354
 1266946584,Galium_aparine,38.43154,-96.17672
-441753264,Galium_aparine,46.5,-119.716667
 176950560,Galium_aparine,39.85239,-95.37533
 176950266,Galium_aparine,39.930249,-97.120443
 2239688655,Galium_aparine,35.628056,-5.286111
@@ -2600,14 +2489,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788818027,Galium_aparine,40.933333,24.133333
 1701957849,Galium_aparine,63.4388,10.4732
 1701712449,Galium_aparine,62.70622,6.70967
-1228493902,Galium_aparine,-29.9,-71.22
 2270611692,Galium_aparine,33.5965,-112.557
 2270612314,Galium_aparine,33.8776,-112.277
 2270613459,Galium_aparine,33.1802,-109.861
 1837452319,Galium_aparine,32.65,-92.45
 1269628396,Galium_aparine,32.483,-92.45
 1846521994,Galium_aparine,33.87998,-111.47424
-1249267436,Galium_aparine,50.6,6.8
 176950540,Galium_aparine,39.09332,-95.10888
 51840823,Galium_aparine,42.2632,-123.443
 2239689008,Galium_aparine,34.875556,-4.619444
@@ -2621,9 +2508,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978895627,Galium_aparine,43.604485,-84.937994
 1842871178,Galium_aparine,42.13,1.85
 176950783,Galium_aparine,39.06668,-99.31846
-1928500273,Galium_aparine,41.39,-118.4
 1928704543,Galium_aparine,41.32,-118.42
-1249267429,Galium_aparine,50.6,6.9
 1989162889,Galium_aparine,45.56402,-86.64115
 186810670,Galium_aparine,58.2727,6.6386
 1702408672,Galium_aparine,61.32397,6.51018
@@ -2632,7 +2517,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259567062,Galium_aparine,20.794444,-103.860278
 1265821802,Galium_aparine,20.4505548341347,-103.833517722797
 2289505201,Galium_aparine,-9.103889,33.919444
-1060408022,Galium_aparine,50.5,7.1
 1266946521,Galium_aparine,38.413545,-96.170421
 176950736,Galium_aparine,37.92809,-95.4361
 2270610413,Galium_aparine,33.3179,-110.801
@@ -2657,7 +2541,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701923187,Galium_aparine,59.4717,6.6172
 1701923192,Galium_aparine,59.5615,6.6109
 1269661618,Galium_aparine,30.414625,-91.176222
-1144690825,Galium_aparine,41.6,9.3
 1266946565,Galium_aparine,38.19839,-95.57264
 176950334,Galium_aparine,38.920856,-95.2418
 2270612964,Galium_aparine,33.9077,-111.467
@@ -2678,7 +2561,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1266946559,Galium_aparine,38.39532,-95.95556
 1986495046,Galium_aparine,61.32771,10.51106
 1144690799,Galium_aparine,41.86667,9.15
-786154029,Galium_aparine,50.6,6.7
 812025274,Galium_aparine,50.648533,9.18165
 1702410692,Galium_aparine,59.4439,10.4283
 1702431596,Galium_aparine,62.6834,6.2456
@@ -2727,7 +2609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176950310,Galium_aparine,37.834196,-96.10781
 176950309,Galium_aparine,39.24366,-96.31174
 176950311,Galium_aparine,39.75943,-96.34385
-2270613430,Galium_aparine,32.53,-110.7
 176950289,Galium_aparine,37.59428,-96.60521
 1702309335,Galium_aparine,59.0487,10.8826
 1989398675,Galium_aparine,45.80472,-85.494534
@@ -2746,7 +2627,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2301714835,Galium_aparine,27.717358,85.504571
 360094836,Galium_aparine,62.244999,25.746099
 2301715600,Galium_aparine,27.571103,85.405551
-318112636,Galium_aparine,38.6,-0.76
 51841065,Galium_aparine,45.0415,-123.9106
 2270614039,Galium_aparine,34.3856,-112.016
 176950781,Galium_aparine,38.88029,-94.60785
@@ -2777,7 +2657,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176950237,Galium_aparine,37.57035,-95.14358
 1266946580,Galium_aparine,37.8731,-95.4913
 176950238,Galium_aparine,38.97163,-95.32848
-1931194377,Galium_aparine,37.5,-118.25
 1705391244,Galium_aparine,58.334678,16.731111
 1702410679,Galium_aparine,60.3186,11.245
 1144093805,Galium_aparine,61.44691,6.08196
@@ -2830,7 +2709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176950759,Galium_aparine,38.04657,-97.18486
 2265558071,Galium_aparine,45.08498,-92.81735
 788575069,Galium_aparine,56.3807,14.000812
-2291808121,Galium_aparine,44.066667,7.2
 1935386661,Galium_aparine,54.0485,13.415
 1599841433,Galium_aparine,60.884864,24.694786
 788584264,Galium_aparine,61.71607,17.09696
@@ -2885,7 +2763,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989378379,Galium_aparine,42.96155,-85.06839
 1266946612,Galium_aparine,37.69686,-96.98353
 876155869,Galium_aparine,41.67,0.78
-876155835,Galium_aparine,41.67,0.9
 1703292729,Galium_aparine,50.1848947036566,-98.2052640227428
 1988948596,Galium_aparine,41.83277,-84.79658
 1266946554,Galium_aparine,39.76768,-101.82803
@@ -2929,7 +2806,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39666008,Galium_aparine,65.648,-18.023
 1323717028,Galium_aparine,69.6296,18.912
 1146342855,Galium_aparine,56.89,-132.92
-56579802,Galium_aparine,33.3,-87.5
 1030804801,Galium_aparine,29.157849,107.099275
 1030975160,Galium_aparine,24.392902,106.633387
 1030716868,Galium_aparine,31.331599,110.783718
@@ -2943,7 +2819,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988326287,Galium_aparine,53.356,-0.2948
 1260960254,Galium_aparine,36.67694,-93.86861
 1266946546,Galium_aparine,46.87719,-96.7898
-1804554088,Galium_aparine,43.066667,-79.3
 788602523,Galium_aparine,55.688171,13.07933
 187167234,Galium_aparine,59.8668,10.592
 20945665,Galium_aparine,59.8694,10.5261
@@ -3096,9 +2971,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323716942,Galium_aparine,70.0074,20.9345
 1622366070,Galium_aparine,63.811151,23.036307
 216099470,Galium_aparine,61.521099,25.2115
-786154070,Galium_aparine,51.1,8.4
 1323716935,Galium_aparine,69.2369,20.1659
-2270190918,Galium_aparine,35.3,-120.69167
 51841548,Galium_aparine,44.5044,-123.55
 1701340536,Galium_aparine,63.4858,9.8533
 1144093796,Galium_aparine,63.09759,7.4611
@@ -3113,7 +2986,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318515414,Galium_aparine,38.8461,-77.3067
 441753266,Galium_aparine,47.58472,-120.67722
 1322060908,Galium_aparine,38.8014,-77.7208
-1842844133,Galium_aparine,41.6,2.58
 51841536,Galium_aparine,42.2458,-122.7875
 176950264,Galium_aparine,39.528552,-95.516602
 1426211345,Galium_aparine,41.959301,-120.1008
@@ -3124,8 +2996,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701228440,Galium_aparine,62.5936,9.6913
 1929971161,Galium_aparine,28.1375,-96.9853
 165390694,Galium_aparine,41.78,2.82
-1842844103,Galium_aparine,41.6,2.46
-165390691,Galium_aparine,41.78,2.7
 788574350,Galium_aparine,58.63231,11.24448
 788572244,Galium_aparine,55.94272,13.10632
 1599841352,Galium_aparine,60.971243,24.503796
@@ -3206,12 +3076,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701262633,Galium_aparine,63.8765,10.8016
 187168115,Galium_aparine,63.8847,10.8632
 1702410654,Galium_aparine,59.996,10.9093
-1146344584,Galium_aparine,58.3,-134.4
-1228343887,Galium_aparine,-25.4,-70.37
 1304022756,Galium_aparine,29.496119,103.398589
 1999617715,Galium_aparine,60.471057,22.540574
 1701250320,Galium_aparine,63.3156,10.3872
-1146341963,Galium_aparine,55.91,-130
 768790628,Galium_aparine,41.3075,-72.24277
 1144093659,Galium_aparine,60.2613,5.2378
 788598481,Galium_aparine,58.48928,15.50277
@@ -3271,12 +3138,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303695912,Galium_aparine,36.509886,102.43824
 919527384,Galium_aparine,23.763342,98.82524
 1030804842,Galium_aparine,32.055645,118.79774
-1144690790,Galium_aparine,41.85,9.4
-1144562942,Galium_aparine,41.86667,9.4
 1936171018,Galium_aparine,38.874,-3.0935
-1144690780,Galium_aparine,41.6,9.28333
 788597487,Galium_aparine,55.58285,12.92779
-1322484506,Galium_aparine,32,-112.717
 1144093791,Galium_aparine,61.03699,6.57199
 187168148,Galium_aparine,63.3084,10.1873
 1705345342,Galium_aparine,61.345642,16.389443
@@ -3342,7 +3205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187168146,Galium_aparine,63.4388,10.6137
 1701762348,Galium_aparine,58.9919,11.0432
 39369499,Galium_aparine,65.679,-18.104
-1144690812,Galium_aparine,42.25,8.8
 1701222165,Galium_aparine,59.4736,10.6856
 667334814,Galium_aparine,35.20972,38.4082
 1260931710,Galium_aparine,38.3625,-90.46555
@@ -3415,7 +3277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51840889,Galium_aparine,43.5864,-119.0531
 51841753,Galium_aparine,42.1889,-120.3447
 51840888,Galium_aparine,42.647,-118.5963
-51841447,Galium_aparine,45.3,-121.7342
 1842859017,Galium_aparine,34.83,-4.26
 1701713260,Galium_aparine,59.6403,10.6407
 51840886,Galium_aparine,45.5396,-122.244
@@ -3424,7 +3285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705273804,Galium_aparine,56.41477,15.994297
 1701492711,Galium_aparine,60.8572,7.1224
 1701228009,Galium_aparine,63.7063,9.7385
-51841521,Galium_aparine,42.6,-118.5925
 51841413,Galium_aparine,44.5656,-123.374
 51840715,Galium_aparine,43.5744,-122.6558
 1988769968,Galium_aparine,42.234883,-83.7259
@@ -3444,7 +3304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788597893,Galium_aparine,55.99661,12.74211
 51840904,Galium_aparine,44.9991,-120.2128
 1936173558,Galium_aparine,40.0145,-3.9387
-1228340708,Galium_aparine,-25.4,-70.48
 1303695864,Galium_aparine,30.368117,102.81464
 1928789351,Galium_aparine,42.360891,-73.598616
 788588427,Galium_aparine,55.7007,13.63185
@@ -3515,7 +3374,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701227993,Galium_aparine,63.3174,10.1876
 788596027,Galium_aparine,56.163189,14.082201
 2273633405,Galium_aparine,56.34255,13.96198
-1988235069,Galium_aparine,50,-119.9
 1697666526,Galium_aparine,56.859611,35.911896
 768790623,Galium_aparine,42.0225,-73.29083
 1930250411,Galium_aparine,40.738155,-74.944059
@@ -3603,7 +3461,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51840896,Galium_aparine,44.6469,-118.5706
 1144562961,Galium_aparine,41.56667,9.06667
 1701285541,Galium_aparine,63.5118,9.9947
-786154062,Galium_aparine,49.8,9.5
 788572073,Galium_aparine,56.031862,14.152378
 788598899,Galium_aparine,60.153748,16.919361
 51841722,Galium_aparine,44.2464,-117.5161
@@ -3645,7 +3502,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1039007217,Galium_aparine,41.2603,-73.2083
 788579379,Galium_aparine,58.380583,12.325668
 1599838746,Galium_aparine,60.421125,22.26548
-1144562921,Galium_aparine,42.43333,8.9
 788644531,Galium_aparine,55.52264,13.25034
 1038942688,Galium_aparine,41.6153,-72.1432
 1702410655,Galium_aparine,59.182,6.1299
@@ -3668,7 +3524,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1039010598,Galium_aparine,41.367,-72.717
 1090555895,Galium_aparine,39.20448,140.54517
 1144562932,Galium_aparine,42.01667,8.76667
-1988090539,Galium_aparine,50.4,-119.2
 768790627,Galium_aparine,41.77611,-72.62027
 768791008,Galium_aparine,41.98333,-73.42111
 768797376,Galium_aparine,41.29638,-73.14666
@@ -3699,7 +3554,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099001953,Galium_aparine,50.267632,11.362761
 1697666658,Galium_aparine,51.640545,44.800907
 783944,Galium_aparine,56.49791,15.12676
-2313346033,Galium_aparine,48.11,11.4
 788598305,Galium_aparine,57.974365,12.908796
 1928807713,Galium_aparine,37.453729,-105.072398
 176950263,Galium_aparine,37.83976,-94.68994
