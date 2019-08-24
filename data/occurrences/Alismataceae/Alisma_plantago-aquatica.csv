@@ -82,7 +82,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701819955,Alisma_plantago-aquatica,59.6451,10.9807
 1851402353,Alisma_plantago-aquatica,41.989283,-6.122613
 1426487112,Alisma_plantago-aquatica,33.826111,-118.342778
-2310580322,Alisma_plantago-aquatica,51.5,-3.1
 1828479677,Alisma_plantago-aquatica,43.167,141.048
 900311864,Alisma_plantago-aquatica,58.7036,8.314
 1701294668,Alisma_plantago-aquatica,63.7302,9.7176
@@ -102,9 +101,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994576059,Alisma_plantago-aquatica,50.16846,19.83304
 286836187,Alisma_plantago-aquatica,52.700001,12.716666
 286836188,Alisma_plantago-aquatica,51.85083,12.645833
-994561481,Alisma_plantago-aquatica,-41.1,146.9
 1042054177,Alisma_plantago-aquatica,63.4272,10.4756
-1988222423,Alisma_plantago-aquatica,49.19,-122.9
 1701335703,Alisma_plantago-aquatica,63.5265,11.0525
 1701252714,Alisma_plantago-aquatica,63.7963,11.563
 1828481030,Alisma_plantago-aquatica,43.168,140.993
@@ -126,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848348190,Alisma_plantago-aquatica,48.60528,15.53528
 1132252788,Alisma_plantago-aquatica,-37.76325,145.350125
 993662797,Alisma_plantago-aquatica,-35.18,149.1422
-1697367871,Alisma_plantago-aquatica,51.166667,40.3
 1697367913,Alisma_plantago-aquatica,51.116667,40.366667
 1702232989,Alisma_plantago-aquatica,59.6534,11.8564
 2268215382,Alisma_plantago-aquatica,55.598087,37.545889
@@ -163,7 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342438718,Alisma_plantago-aquatica,56.191377,10.424801
 1257531460,Alisma_plantago-aquatica,22.540556,103.534722
 994557340,Alisma_plantago-aquatica,-41.25619,146.93705
-994546778,Alisma_plantago-aquatica,-41.2,147.5
 1671641024,Alisma_plantago-aquatica,44.232359,9.831366
 1697367630,Alisma_plantago-aquatica,66.438983,32.319633
 1851357132,Alisma_plantago-aquatica,42.5587,-5.2055
@@ -175,7 +170,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702229240,Alisma_plantago-aquatica,59.478,11.1619
 1230493859,Alisma_plantago-aquatica,40.63167,44.2775
 1230493566,Alisma_plantago-aquatica,40.61,44.95972
-2291853662,Alisma_plantago-aquatica,14.1,38.326667
 296404382,Alisma_plantago-aquatica,47.55,11.908333
 1657162488,Alisma_plantago-aquatica,45.94972,12.90639
 1988143193,Alisma_plantago-aquatica,49.198,-122.975
@@ -210,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230492462,Alisma_plantago-aquatica,39.85972,44.96528
 1701775853,Alisma_plantago-aquatica,64.4648,11.6574
 6871876,Alisma_plantago-aquatica,47.8977,0.070543
-381783179,Alisma_plantago-aquatica,43.6,116.65
 1701779724,Alisma_plantago-aquatica,63.7864,11.4627
 296404380,Alisma_plantago-aquatica,46.971389,12.550556
 296404381,Alisma_plantago-aquatica,47.008864,12.538648
@@ -249,7 +242,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702200599,Alisma_plantago-aquatica,60.1219,12.1113
 1702200628,Alisma_plantago-aquatica,60.104,12.1128
 2269046515,Alisma_plantago-aquatica,44.150766,11.317978
-56505992,Alisma_plantago-aquatica,47.65,-122.3
 441684144,Alisma_plantago-aquatica,47.255967,142.811517
 1851368934,Alisma_plantago-aquatica,42.6283,-6.4604
 1702193713,Alisma_plantago-aquatica,59.6724,11.1262
@@ -260,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342444980,Alisma_plantago-aquatica,55.902307,12.383601
 1697367707,Alisma_plantago-aquatica,56.077736,40.119667
 1697367870,Alisma_plantago-aquatica,59.098729,42.267754
-56506047,Alisma_plantago-aquatica,47.9,-122.3
 1702343241,Alisma_plantago-aquatica,59.4641,10.6895
 1050629712,Alisma_plantago-aquatica,42.14,-1.31
 1258682045,Alisma_plantago-aquatica,23.136389,105.013333
@@ -276,7 +267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928170549,Alisma_plantago-aquatica,41.80706,-119.9558
 318217715,Alisma_plantago-aquatica,58.7063,5.7719
 1697367771,Alisma_plantago-aquatica,56.10285,40.309906
-1946737300,Alisma_plantago-aquatica,48.31,13.3
 1831514629,Alisma_plantago-aquatica,42.70972,27.72
 1701411558,Alisma_plantago-aquatica,60.8502,10.9609
 1701592649,Alisma_plantago-aquatica,59.7085,10.1463
@@ -307,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 296404305,Alisma_plantago-aquatica,47.399,9.88
 1936562243,Alisma_plantago-aquatica,40.7565,-2.634
 1702021059,Alisma_plantago-aquatica,59.6629,10.2158
-1851407084,Alisma_plantago-aquatica,42.8,-4.999
 1697367659,Alisma_plantago-aquatica,59.962702,38.437042
 1927820313,Alisma_plantago-aquatica,39.2508,-119.8148
 1701831580,Alisma_plantago-aquatica,60.0478,11.7835
@@ -364,7 +353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994507308,Alisma_plantago-aquatica,-42.96529,147.13437
 6862433,Alisma_plantago-aquatica,46.9002,5.20568
 994485577,Alisma_plantago-aquatica,-42.17,147.15
-1897737814,Alisma_plantago-aquatica,-36.9,174.833333
 895246096,Alisma_plantago-aquatica,40.48,0.23
 1697367864,Alisma_plantago-aquatica,52.166735,40.472221
 1050591687,Alisma_plantago-aquatica,40.51,-1.71
@@ -389,7 +377,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994016374,Alisma_plantago-aquatica,-35.1833,149.0333
 992574150,Alisma_plantago-aquatica,-33.087778,138.209167
 1701723119,Alisma_plantago-aquatica,59.7874,10.2024
-441683439,Alisma_plantago-aquatica,43.166667,-114.8
 1258813313,Alisma_plantago-aquatica,38.79861,-82.53638
 1262026305,Alisma_plantago-aquatica,46.683333,-71.25
 1426487102,Alisma_plantago-aquatica,34.2115,-117.076833
@@ -399,7 +386,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702438017,Alisma_plantago-aquatica,59.3545,11.0666
 1702438672,Alisma_plantago-aquatica,60.1184,12.118
 1701980404,Alisma_plantago-aquatica,60.2978,12.1022
-441684117,Alisma_plantago-aquatica,49.25,-122.7
 1702436026,Alisma_plantago-aquatica,60.8378,10.9776
 1701980808,Alisma_plantago-aquatica,60.1915,12.0484
 461605079,Alisma_plantago-aquatica,-26.875,27.875
@@ -418,7 +404,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702406488,Alisma_plantago-aquatica,59.7864,10.3093
 1671648094,Alisma_plantago-aquatica,40.723631,8.559397
 1342444232,Alisma_plantago-aquatica,55.520788,12.203013
-1258813080,Alisma_plantago-aquatica,41,-121.63333
 1702406271,Alisma_plantago-aquatica,59.7689,10.2552
 1842884762,Alisma_plantago-aquatica,35.0233,-5.205
 1050579895,Alisma_plantago-aquatica,43.57,-1.45
@@ -432,7 +417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702420131,Alisma_plantago-aquatica,59.8758,10.3485
 1702414898,Alisma_plantago-aquatica,59.867,10.3303
 461605078,Alisma_plantago-aquatica,-26.875,27.375
-1897621559,Alisma_plantago-aquatica,-37.1,174.95
 995667043,Alisma_plantago-aquatica,-32.42,150.12
 1451495801,Alisma_plantago-aquatica,-32.415097,150.117823
 6879423,Alisma_plantago-aquatica,48.5316,2.75126
@@ -472,9 +456,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703290793,Alisma_plantago-aquatica,49.8168975544738,-97.1672262538974
 1061589908,Alisma_plantago-aquatica,-34.58522,150.86959
 1936823159,Alisma_plantago-aquatica,-30.683333,151.583333
-994440330,Alisma_plantago-aquatica,-42.7,146.9
 1598497190,Alisma_plantago-aquatica,60.333801,24.435712
-1851405120,Alisma_plantago-aquatica,41.4,-4.73
 1701413775,Alisma_plantago-aquatica,60.8485,10.0213
 1262021282,Alisma_plantago-aquatica,45.516667,-74.316667
 1702207884,Alisma_plantago-aquatica,60.7484,10.1832
@@ -485,9 +467,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697367816,Alisma_plantago-aquatica,59.394794,46.697473
 1697177992,Alisma_plantago-aquatica,61.198349,72.496518
 895272769,Alisma_plantago-aquatica,39.85,-0.14
-1988229884,Alisma_plantago-aquatica,49.1,-122.7
 1701785775,Alisma_plantago-aquatica,60.279,12.5055
-2310545279,Alisma_plantago-aquatica,52.36,-3.9
 994445486,Alisma_plantago-aquatica,-41.18195,146.2677
 895267026,Alisma_plantago-aquatica,39.04,-0.17
 1949619077,Alisma_plantago-aquatica,51.25,-118.95
@@ -498,7 +478,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598497360,Alisma_plantago-aquatica,62.180492,24.12591
 1598497140,Alisma_plantago-aquatica,61.009338,24.380448
 668742342,Alisma_plantago-aquatica,46.770833,-71.344444
-1988219023,Alisma_plantago-aquatica,51.3,-119
 1598497185,Alisma_plantago-aquatica,61.002561,24.520626
 1936404818,Alisma_plantago-aquatica,41.3108,-4.1493
 1897617435,Alisma_plantago-aquatica,-35.066667,173.25
@@ -506,7 +485,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996116194,Alisma_plantago-aquatica,-35.65,145.57
 995069473,Alisma_plantago-aquatica,-35.8333,147.525
 995069488,Alisma_plantago-aquatica,-35.9583,147.75
-994503927,Alisma_plantago-aquatica,-41.2,146.4
 1451594074,Alisma_plantago-aquatica,-35.531812,144.934613
 995893061,Alisma_plantago-aquatica,-35.53,144.93
 993543562,Alisma_plantago-aquatica,-35.5333,144.9333
@@ -519,22 +497,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258812781,Alisma_plantago-aquatica,38.5049,-90.5905
 1598497165,Alisma_plantago-aquatica,66.703319,27.528373
 1697178013,Alisma_plantago-aquatica,43.538457,131.907188
-187883027,Alisma_plantago-aquatica,42.6,-1.03
-1949624046,Alisma_plantago-aquatica,50.208333,-119.2
 1804498625,Alisma_plantago-aquatica,46.891111,-67.028611
 1949624053,Alisma_plantago-aquatica,50.733333,-119.308333
 1804579062,Alisma_plantago-aquatica,46.983333,-65.847222
 296404306,Alisma_plantago-aquatica,46.966,12.549
 1697367717,Alisma_plantago-aquatica,54.819275,37.289717
-995067033,Alisma_plantago-aquatica,-36.6,146.2167
 994905392,Alisma_plantago-aquatica,-36.45,145.1167
 996116550,Alisma_plantago-aquatica,-36.55,145.27
 994905485,Alisma_plantago-aquatica,-36.55,145.2667
 994905372,Alisma_plantago-aquatica,-36.3167,145.1167
 994905250,Alisma_plantago-aquatica,-36.45,145.1833
-994905375,Alisma_plantago-aquatica,-36.4,145.1333
 996116544,Alisma_plantago-aquatica,-36.45,145.12
-1949598883,Alisma_plantago-aquatica,49.15,-119
 895170547,Alisma_plantago-aquatica,38.95,-0.17
 1949588825,Alisma_plantago-aquatica,50.216667,-120.083333
 995048022,Alisma_plantago-aquatica,-38.1342,147.0833
@@ -544,7 +517,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705339350,Alisma_plantago-aquatica,57.25962,15.685912
 1936408677,Alisma_plantago-aquatica,42.1127,-6.7274
 1697318684,Alisma_plantago-aquatica,47.583333,119.083333
-1697318656,Alisma_plantago-aquatica,47.083333,119.5
 1936250701,Alisma_plantago-aquatica,38.2839,-6.7147
 1705339397,Alisma_plantago-aquatica,57.250637,15.682628
 1598494338,Alisma_plantago-aquatica,65.180812,25.470284
@@ -552,8 +524,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936345286,Alisma_plantago-aquatica,40.8252,-3.95
 1697367829,Alisma_plantago-aquatica,58.129583,44.359761
 1598494316,Alisma_plantago-aquatica,65.173095,25.59877
-1804433181,Alisma_plantago-aquatica,44.8,-75.816667
-1697318674,Alisma_plantago-aquatica,47.5,119.166667
 1697367810,Alisma_plantago-aquatica,56.33635,35.973696
 1697367801,Alisma_plantago-aquatica,55.337339,35.97052
 1803135595,Alisma_plantago-aquatica,50.066667,-97.45
@@ -574,11 +544,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598494374,Alisma_plantago-aquatica,60.407556,25.021666
 1701228097,Alisma_plantago-aquatica,63.4666,11.1169
 995069458,Alisma_plantago-aquatica,-36.0333,147.925
-1949638046,Alisma_plantago-aquatica,54.4,-128.533333
-996116209,Alisma_plantago-aquatica,-34.8,145.87
 1451696014,Alisma_plantago-aquatica,-34.798464,145.86792
 994500926,Alisma_plantago-aquatica,-41.51528,146.8177
-1144560380,Alisma_plantago-aquatica,42.7,9.33333
 1144560365,Alisma_plantago-aquatica,42.26667,9.51667
 1144560366,Alisma_plantago-aquatica,41.71667,8.83333
 1936420441,Alisma_plantago-aquatica,41.0237,-3.9172
@@ -590,7 +557,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697178017,Alisma_plantago-aquatica,60.49242,72.20245
 895267923,Alisma_plantago-aquatica,38.87,-0.41
 895176680,Alisma_plantago-aquatica,39.701,-0.533
-1899374799,Alisma_plantago-aquatica,44.116667,-79.5
 895168810,Alisma_plantago-aquatica,39.658,-0.616
 1936394093,Alisma_plantago-aquatica,38.8195,-0.4672
 895177196,Alisma_plantago-aquatica,39.94,-0.25
@@ -604,8 +570,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996116237,Alisma_plantago-aquatica,-34.78,146.08
 1897621852,Alisma_plantago-aquatica,-36.883333,174.816667
 1451696053,Alisma_plantago-aquatica,-35.998472,146.017936
-996116538,Alisma_plantago-aquatica,-36,146.02
-996116268,Alisma_plantago-aquatica,-35.77,145.7
 1451695932,Alisma_plantago-aquatica,-35.76514,145.701271
 995031750,Alisma_plantago-aquatica,-37.9167,146.7667
 1144560368,Alisma_plantago-aquatica,41.66667,8.88333
@@ -617,7 +581,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1990860383,Alisma_plantago-aquatica,55.69791,13.42775
 1949608738,Alisma_plantago-aquatica,49.066667,-119.433333
 1803135520,Alisma_plantago-aquatica,45.566667,-67.416667
-1851398559,Alisma_plantago-aquatica,42.3,-5.24
 1804531285,Alisma_plantago-aquatica,45.616667,-67.416667
 1930648173,Alisma_plantago-aquatica,37.4388180623964,-113.043150714759
 57676449,Alisma_plantago-aquatica,61.265942,24.191259
@@ -635,24 +598,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993890899,Alisma_plantago-aquatica,-34.8333,150.5833
 994903475,Alisma_plantago-aquatica,-36.0167,145.9667
 1451695762,Alisma_plantago-aquatica,-34.748427,150.834505
-994903495,Alisma_plantago-aquatica,-35.9,145.65
 996115398,Alisma_plantago-aquatica,-34.75,150.83
 1451695830,Alisma_plantago-aquatica,-37.131774,149.884559
 2287624445,Alisma_plantago-aquatica,-33.766667,150.858333
 996115405,Alisma_plantago-aquatica,-37.13,149.88
-994891007,Alisma_plantago-aquatica,-34.2,149.75
 996115417,Alisma_plantago-aquatica,-33.77,150.8583
-996116179,Alisma_plantago-aquatica,-36.9,149.23
 1451695991,Alisma_plantago-aquatica,-36.898448,149.234567
 995067064,Alisma_plantago-aquatica,-33.7667,150.8583
-995067072,Alisma_plantago-aquatica,-36.9,149.2333
 1451695865,Alisma_plantago-aquatica,-33.765092,150.859493
 995067041,Alisma_plantago-aquatica,-37.1333,149.8833
 1451695970,Alisma_plantago-aquatica,-34.198435,149.751183
 616231216,Alisma_plantago-aquatica,-26.875,32.125
-1803135920,Alisma_plantago-aquatica,48.5,-72.116667
 1899374590,Alisma_plantago-aquatica,44.241667,-79.25
-1144560359,Alisma_plantago-aquatica,42.1,9.3
 204419271,Alisma_plantago-aquatica,43.278,-1.712
 1258812379,Alisma_plantago-aquatica,40.68333,-95.75
 1598494285,Alisma_plantago-aquatica,66.103068,28.212689
@@ -662,18 +619,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042980030,Alisma_plantago-aquatica,57.4131,12.0223
 1697720128,Alisma_plantago-aquatica,44.903794,35.129428
 1936348215,Alisma_plantago-aquatica,40.3888,-4.9806
-995346165,Alisma_plantago-aquatica,-37.8,144.8667
 1030889402,Alisma_plantago-aquatica,31.461477,104.743084
-994885703,Alisma_plantago-aquatica,-36.5167,146.5
-1091180183,Alisma_plantago-aquatica,-37.916666,176.8
 1897638745,Alisma_plantago-aquatica,-37.916667,176.816667
 994917032,Alisma_plantago-aquatica,-37.6667,144.5167
 204419184,Alisma_plantago-aquatica,43.237999,-2.267
-1988185096,Alisma_plantago-aquatica,51.8,-120.1
 1936340468,Alisma_plantago-aquatica,41.7392,-4.0872
 1936437876,Alisma_plantago-aquatica,41.838,-3.0254
 883413852,Alisma_plantago-aquatica,52.5978529990902,-110.634975
-1988132493,Alisma_plantago-aquatica,59.02,-121.3
 1851349784,Alisma_plantago-aquatica,42.56,-6.62
 1703288464,Alisma_plantago-aquatica,51.1328890157404,-100.500350710988
 1806556894,Alisma_plantago-aquatica,42.83079,-1.776087
@@ -703,7 +655,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701894664,Alisma_plantago-aquatica,60.4102,12.213
 296404345,Alisma_plantago-aquatica,45.331,13.756
 1936361839,Alisma_plantago-aquatica,40.6201,-5.9567
-1899380442,Alisma_plantago-aquatica,45,-79.766667
 1697318672,Alisma_plantago-aquatica,46.102638,91.154079
 1702335620,Alisma_plantago-aquatica,60.4221,11.6427
 1949630259,Alisma_plantago-aquatica,49.233333,-124.816667
@@ -711,9 +662,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899359690,Alisma_plantago-aquatica,45.116667,-78.766667
 1988230114,Alisma_plantago-aquatica,49.23,-124.82
 1598494367,Alisma_plantago-aquatica,63.685787,26.693549
-994893850,Alisma_plantago-aquatica,-37.5333,143.8
-994893902,Alisma_plantago-aquatica,-37.6583,145.1
-994893879,Alisma_plantago-aquatica,-37.9667,145.7
 1897833470,Alisma_plantago-aquatica,-36.159,174.442472
 994893922,Alisma_plantago-aquatica,-37.8833,146.4167
 994893166,Alisma_plantago-aquatica,-38.0333,145.9833
@@ -724,7 +672,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851409091,Alisma_plantago-aquatica,43.0483,-5.3126
 1697367785,Alisma_plantago-aquatica,55.580265,37.551501
 1936549239,Alisma_plantago-aquatica,43.3126,-5.9608
-1988192317,Alisma_plantago-aquatica,49.2,-123
 1831053953,Alisma_plantago-aquatica,53.6485,12.7484
 1030470226,Alisma_plantago-aquatica,41.76667,-86.25
 1095457495,Alisma_plantago-aquatica,53.083333,-2.483333
@@ -734,25 +681,20 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291853385,Alisma_plantago-aquatica,50.452,6.102
 1323798607,Alisma_plantago-aquatica,59.4583,10.7364
 1897711750,Alisma_plantago-aquatica,-37.316667,175.083333
-994858363,Alisma_plantago-aquatica,-37.1,148.3833
-994858394,Alisma_plantago-aquatica,-37.8,148.3667
 994858310,Alisma_plantago-aquatica,-35.9667,147.6167
 1701648058,Alisma_plantago-aquatica,58.70682,5.7667
 1598497388,Alisma_plantago-aquatica,61.790144,25.196081
 1455442691,Alisma_plantago-aquatica,49.754855,5.305618
 668742351,Alisma_plantago-aquatica,46.85,-72.95
-1803135495,Alisma_plantago-aquatica,45.033333,-74.5
 1928468382,Alisma_plantago-aquatica,42.1442,-119.9153
 1899360764,Alisma_plantago-aquatica,43.622501,-79.474454
 1697367658,Alisma_plantago-aquatica,56.083148,27.589245
-1899380409,Alisma_plantago-aquatica,44.8,-79.766667
 2235671462,Alisma_plantago-aquatica,38.231,-5.119
 1702280048,Alisma_plantago-aquatica,59.311,10.9761
 1598494357,Alisma_plantago-aquatica,61.425681,23.033084
 1899347322,Alisma_plantago-aquatica,43.45,-79.95
 1598497352,Alisma_plantago-aquatica,60.164253,24.565285
 994858230,Alisma_plantago-aquatica,-38.2667,143.2167
-1897780266,Alisma_plantago-aquatica,-37,174.6
 993303949,Alisma_plantago-aquatica,-38.2844,143.2294
 994857271,Alisma_plantago-aquatica,-36.35,145.3667
 1697367955,Alisma_plantago-aquatica,46.574911,41.781349
@@ -769,11 +711,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703287982,Alisma_plantago-aquatica,51.0858883673429,-100.574352578603
 1598497351,Alisma_plantago-aquatica,60.167438,24.745248
 883413874,Alisma_plantago-aquatica,53.3196,-114.5242
-1030450648,Alisma_plantago-aquatica,43.6,-83.71667
 465861310,Alisma_plantago-aquatica,43.416742,-80.268372
 992338176,Alisma_plantago-aquatica,-37.501441,148.15963
 1949611790,Alisma_plantago-aquatica,49.233333,-122.766667
-1949611791,Alisma_plantago-aquatica,49.233333,-122.8
 461605074,Alisma_plantago-aquatica,-25.875,28.375
 895146915,Alisma_plantago-aquatica,36.97,-6.36
 1899371679,Alisma_plantago-aquatica,43.631944,-79.351389
@@ -783,9 +723,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187085102,Alisma_plantago-aquatica,63.2161,10.3028
 1455164947,Alisma_plantago-aquatica,45.275,-72.175
 1949611825,Alisma_plantago-aquatica,50.616667,-122.433333
-788745507,Alisma_plantago-aquatica,61.4,25.416667
-1804494491,Alisma_plantago-aquatica,48.4,-89.166667
-1899380327,Alisma_plantago-aquatica,44.966667,-79.8
 30842934,Alisma_plantago-aquatica,40.650002,-3.95
 1931082915,Alisma_plantago-aquatica,43.9583,-117.08
 1899371707,Alisma_plantago-aquatica,43.618056,-79.386111
@@ -797,20 +734,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701661916,Alisma_plantago-aquatica,60.9683,10.6162
 1701235145,Alisma_plantago-aquatica,63.1179,10.2389
 1949611678,Alisma_plantago-aquatica,49.15,-122.166667
-1949611797,Alisma_plantago-aquatica,49.1,-122.65
 1899368675,Alisma_plantago-aquatica,43.633333,-79.325
 1949611913,Alisma_plantago-aquatica,49.55,-121.833333
 1697720130,Alisma_plantago-aquatica,44.840717,34.957938
 668742347,Alisma_plantago-aquatica,46.771667,-71.242222
 1701875549,Alisma_plantago-aquatica,59.86748,11.21437
 175449071,Alisma_plantago-aquatica,37.903,-4.791
-994466638,Alisma_plantago-aquatica,-42.7,146.4
 994858335,Alisma_plantago-aquatica,-38.0167,147.5667
 1030889354,Alisma_plantago-aquatica,27.897245,102.265266
 994790544,Alisma_plantago-aquatica,-37.6833,145.5167
 1897780317,Alisma_plantago-aquatica,-39.966667,175.55
 2287623726,Alisma_plantago-aquatica,-39.966667,175.533333
-1065944816,Alisma_plantago-aquatica,-37.816667,145
 1851358575,Alisma_plantago-aquatica,37.15,-6.47
 668742350,Alisma_plantago-aquatica,46.786111,-71.269444
 1936560018,Alisma_plantago-aquatica,40.5439,-1.8204
@@ -822,11 +756,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701224897,Alisma_plantago-aquatica,63.3004,9.8278
 1851341550,Alisma_plantago-aquatica,42.38,-5.49
 1697367695,Alisma_plantago-aquatica,54.802741,40.966538
-1988066617,Alisma_plantago-aquatica,49.1,-123.1
 1697178019,Alisma_plantago-aquatica,53.993821,127.078155
 1598497365,Alisma_plantago-aquatica,62.563165,23.398237
 1030889349,Alisma_plantago-aquatica,24.828524,103.989855
-992300424,Alisma_plantago-aquatica,-34.9,138.6
 1061587314,Alisma_plantago-aquatica,-34.53188,150.397077
 993814934,Alisma_plantago-aquatica,-35.05,149.7167
 1897737094,Alisma_plantago-aquatica,-41.083333,175.25
@@ -840,24 +772,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788602974,Alisma_plantago-aquatica,55.63411,13.05189
 1701464928,Alisma_plantago-aquatica,60.5591,12.036
 1702439442,Alisma_plantago-aquatica,59.3079,9.1142
-894979199,Alisma_plantago-aquatica,49.866667,-113
 1705325742,Alisma_plantago-aquatica,56.856766,12.652399
 668742346,Alisma_plantago-aquatica,46.791111,-71.283333
-1804566914,Alisma_plantago-aquatica,48.6,-83.35
 1804613341,Alisma_plantago-aquatica,48.483333,-83.333333
-1804532015,Alisma_plantago-aquatica,45.316667,-75.1
 1804527566,Alisma_plantago-aquatica,48.616667,-83.366667
 1323798576,Alisma_plantago-aquatica,60.37037,5.41776
 57676451,Alisma_plantago-aquatica,61.236652,24.296349
-1899350082,Alisma_plantago-aquatica,44,-77.666667
 1697367741,Alisma_plantago-aquatica,55.197925,36.348871
 1697367805,Alisma_plantago-aquatica,54.854087,38.559824
 1697367711,Alisma_plantago-aquatica,53.984709,37.181191
 1999473604,Alisma_plantago-aquatica,60.539101,22.558447
 788745625,Alisma_plantago-aquatica,63.557778,27.191667
 1936395517,Alisma_plantago-aquatica,60.55,22.5833
-1988115182,Alisma_plantago-aquatica,60.6,22.6
-1899369880,Alisma_plantago-aquatica,46.016667,-81.4
 668742345,Alisma_plantago-aquatica,46.769444,-71.308333
 177283130,Alisma_plantago-aquatica,60.539101,22.558399
 1697177973,Alisma_plantago-aquatica,55.48752,90.96478
@@ -867,17 +793,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999473584,Alisma_plantago-aquatica,60.452413,22.388323
 1846539706,Alisma_plantago-aquatica,38.404707,-94.646332
 1598497380,Alisma_plantago-aquatica,60.870237,23.95915
-993824446,Alisma_plantago-aquatica,52.1667,4.5
 1030953587,Alisma_plantago-aquatica,26.11116,99.951049
 1936361390,Alisma_plantago-aquatica,40.6148,0.5873
 199456733,Alisma_plantago-aquatica,40.621,0.594
 1144180971,Alisma_plantago-aquatica,60.2995,5.3534
 1676483888,Alisma_plantago-aquatica,40.986389,8.914167
 1899317745,Alisma_plantago-aquatica,43.633333,-79.383333
-1899307777,Alisma_plantago-aquatica,44,-78.85
 1803135471,Alisma_plantago-aquatica,44.841667,-77.483333
 187085105,Alisma_plantago-aquatica,63.2825,9.8273
-1899349627,Alisma_plantago-aquatica,49.5,-80.75
 1697367722,Alisma_plantago-aquatica,54.69844,40.604439
 1622356665,Alisma_plantago-aquatica,60.265242,25.280666
 186788617,Alisma_plantago-aquatica,58.7256,9.0432
@@ -901,11 +824,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598497328,Alisma_plantago-aquatica,62.875901,26.112474
 1598497361,Alisma_plantago-aquatica,62.412275,24.771673
 187085300,Alisma_plantago-aquatica,59.9199,10.5472
-1988182740,Alisma_plantago-aquatica,49.2,-122.7
 2289586081,Alisma_plantago-aquatica,14.183333,38.916667
 1705420201,Alisma_plantago-aquatica,57.866307,14.125329
 1598494313,Alisma_plantago-aquatica,65.210952,27.103343
-1899380416,Alisma_plantago-aquatica,44.8,-79.35
 1697367760,Alisma_plantago-aquatica,55.785116,36.095238
 1697367742,Alisma_plantago-aquatica,55.881201,40.722976
 1697367769,Alisma_plantago-aquatica,56.015435,40.804739
@@ -920,17 +841,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899305643,Alisma_plantago-aquatica,43.683333,-79.416667
 1598497371,Alisma_plantago-aquatica,61.890894,26.521481
 1899297358,Alisma_plantago-aquatica,43.616667,-79.383333
-1988166072,Alisma_plantago-aquatica,49.2,-124.8
 1899307613,Alisma_plantago-aquatica,43.883333,-80.116667
 1260854871,Alisma_plantago-aquatica,50.76694,4.4725
 2313343500,Alisma_plantago-aquatica,48.21,11.63
-1899380440,Alisma_plantago-aquatica,44.85,-79.3
 993792833,Alisma_plantago-aquatica,-36.3339,146.3439
 994801827,Alisma_plantago-aquatica,-37.6667,147.5167
 994801906,Alisma_plantago-aquatica,-37.7167,147.8667
-994801933,Alisma_plantago-aquatica,-37.7,147.8167
-615261799,Alisma_plantago-aquatica,36.8,68.5
-1988212796,Alisma_plantago-aquatica,54.7,-122.5
 186788932,Alisma_plantago-aquatica,59.4773,8.4264
 1598497382,Alisma_plantago-aquatica,61.236626,24.29647
 1598497349,Alisma_plantago-aquatica,61.515633,24.83615
@@ -942,11 +858,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 833455324,Alisma_plantago-aquatica,49.866666,8.35
 318217714,Alisma_plantago-aquatica,58.9612,5.722
 1934145800,Alisma_plantago-aquatica,34.8942,133.8091
-1937297533,Alisma_plantago-aquatica,-33.566667,150.8
-996217331,Alisma_plantago-aquatica,-33.5,150.97
 1451714478,Alisma_plantago-aquatica,-33.498424,150.967822
-995466873,Alisma_plantago-aquatica,-30.666667,151.5
-995470222,Alisma_plantago-aquatica,-30.683333,151.5
 2239688599,Alisma_plantago-aquatica,35.109444,-5.285556
 1702319309,Alisma_plantago-aquatica,59.51354,10.22705
 1598497400,Alisma_plantago-aquatica,61.322412,24.102246
@@ -956,7 +868,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598494307,Alisma_plantago-aquatica,60.543131,27.816975
 1999473546,Alisma_plantago-aquatica,60.470211,22.130828
 615261785,Alisma_plantago-aquatica,34.55,70.22
-615261787,Alisma_plantago-aquatica,35.6,68.7
 994801982,Alisma_plantago-aquatica,-37.7333,148.5833
 994801880,Alisma_plantago-aquatica,-37.6333,148.0833
 994801852,Alisma_plantago-aquatica,-37.3333,148.05
@@ -968,7 +879,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992392994,Alisma_plantago-aquatica,-37.550642,143.833297
 994851639,Alisma_plantago-aquatica,-37.6667,144.45
 994851687,Alisma_plantago-aquatica,-37.55,143.8167
-2290690012,Alisma_plantago-aquatica,9.183333,42.4
 1701569647,Alisma_plantago-aquatica,63.2935,9.7279
 1065670914,Alisma_plantago-aquatica,64.00049,19.899823
 1701303672,Alisma_plantago-aquatica,64.0986,11.4624
@@ -990,7 +900,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697178024,Alisma_plantago-aquatica,57.864,83.34046
 1258806619,Alisma_plantago-aquatica,42.06389,-94.290049
 1598494301,Alisma_plantago-aquatica,62.568033,23.592334
-615261786,Alisma_plantago-aquatica,35.58,68.9
 1831055583,Alisma_plantago-aquatica,53.6485,11.4153
 788747899,Alisma_plantago-aquatica,64.226944,27.728611
 1705394607,Alisma_plantago-aquatica,57.652648,16.089943
@@ -1022,7 +931,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788756071,Alisma_plantago-aquatica,56.158056,10.211944
 1897752331,Alisma_plantago-aquatica,56.163333,10.157056
 2307995471,Alisma_plantago-aquatica,51.58,-3.23
-1842901251,Alisma_plantago-aquatica,41.5,1.86
 1899304458,Alisma_plantago-aquatica,51.35,-80.466667
 1144181022,Alisma_plantago-aquatica,60.3264,5.3504
 2288863008,Alisma_plantago-aquatica,9.233333,42.25
@@ -1046,13 +954,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57676446,Alisma_plantago-aquatica,61.07008,25.051796
 1702263284,Alisma_plantago-aquatica,59.4472,10.9665
 1999572857,Alisma_plantago-aquatica,60.753284,22.64821
-1988210259,Alisma_plantago-aquatica,49.7,-116
 1144192882,Alisma_plantago-aquatica,60.3359,5.3674
 1999473573,Alisma_plantago-aquatica,60.461929,22.150279
 1697178058,Alisma_plantago-aquatica,64.0289,82.045
 57676438,Alisma_plantago-aquatica,60.810051,23.514256
 1701308353,Alisma_plantago-aquatica,63.3438,10.2487
-1804381398,Alisma_plantago-aquatica,44.8,-76.433333
 1999473561,Alisma_plantago-aquatica,60.372749,23.288958
 1697177985,Alisma_plantago-aquatica,63.79,82.78277
 1702232487,Alisma_plantago-aquatica,59.1699,11.0371
@@ -1067,7 +973,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615261790,Alisma_plantago-aquatica,35.62,69.47
 1701875553,Alisma_plantago-aquatica,60.3538,11.2837
 1999473465,Alisma_plantago-aquatica,60.289046,23.515625
-615261797,Alisma_plantago-aquatica,35.8,69.42
 441683284,Alisma_plantago-aquatica,48.90389,-122.48
 1999572823,Alisma_plantago-aquatica,60.464862,22.359362
 1697367687,Alisma_plantago-aquatica,54.480012,34.51355
@@ -1082,9 +987,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702288878,Alisma_plantago-aquatica,59.7288,10.7429
 441683282,Alisma_plantago-aquatica,47.038029,-122.814476
 994851608,Alisma_plantago-aquatica,-37.8167,145.05
-995419273,Alisma_plantago-aquatica,-37.8,147.6
 1880948781,Alisma_plantago-aquatica,-44.306,171.111
-994851741,Alisma_plantago-aquatica,-36.7,141.9833
 994851563,Alisma_plantago-aquatica,-38.5667,146.6667
 788762015,Alisma_plantago-aquatica,61.85365,16.639404
 1598494322,Alisma_plantago-aquatica,62.589028,21.445316
@@ -1108,7 +1011,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313343063,Alisma_plantago-aquatica,48.21,11.53
 1697367910,Alisma_plantago-aquatica,48.265844,44.29692
 1999473649,Alisma_plantago-aquatica,60.523201,22.104612
-1988204602,Alisma_plantago-aquatica,50.5,-119.55
 919598797,Alisma_plantago-aquatica,25.371037,102.5797
 995346225,Alisma_plantago-aquatica,-36.7667,145.1167
 995346198,Alisma_plantago-aquatica,-36.8167,145.1167
@@ -1125,7 +1027,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788745566,Alisma_plantago-aquatica,64.1825,27.005278
 1705393052,Alisma_plantago-aquatica,58.344296,16.704314
 1702263213,Alisma_plantago-aquatica,59.3829,11.7198
-2287624346,Alisma_plantago-aquatica,46.2,14.616667
 1598494269,Alisma_plantago-aquatica,60.156544,24.394593
 1999572870,Alisma_plantago-aquatica,60.021397,22.951453
 1065670936,Alisma_plantago-aquatica,64.013254,17.278668
@@ -1155,10 +1056,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697177988,Alisma_plantago-aquatica,57.71769,94.87161
 1598497306,Alisma_plantago-aquatica,61.971894,25.376072
 1988244183,Alisma_plantago-aquatica,50.36,-119.35
-1261981802,Alisma_plantago-aquatica,47.671944,-68.8
 1999473596,Alisma_plantago-aquatica,60.461269,22.132169
 57676465,Alisma_plantago-aquatica,61.920345,25.1978
-1257394131,Alisma_plantago-aquatica,-34.4,150.1
 1937260023,Alisma_plantago-aquatica,-41.5333,146.8167
 995205843,Alisma_plantago-aquatica,-38.15,146.4667
 992116885,Alisma_plantago-aquatica,-35.008611,138.708611
@@ -1175,7 +1074,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993123515,Alisma_plantago-aquatica,-35.0633,138.5819
 993654188,Alisma_plantago-aquatica,-35.0797,138.5831
 1451597496,Alisma_plantago-aquatica,-35.965139,146.001269
-995900951,Alisma_plantago-aquatica,-35.97,146
 1697178016,Alisma_plantago-aquatica,54.4827,61.69794
 1598494283,Alisma_plantago-aquatica,60.312703,24.12872
 1999473552,Alisma_plantago-aquatica,60.802445,21.426845
@@ -1200,7 +1098,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065670958,Alisma_plantago-aquatica,63.895737,19.859372
 1340039206,Alisma_plantago-aquatica,55.47886,13.36835
 177283114,Alisma_plantago-aquatica,62.334702,25.7423
-1804407296,Alisma_plantago-aquatica,44.5,-77.733333
 1701875536,Alisma_plantago-aquatica,59.8929,11.4397
 1598497357,Alisma_plantago-aquatica,62.336292,25.935448
 57676441,Alisma_plantago-aquatica,61.198814,22.810289
@@ -1210,7 +1107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992100472,Alisma_plantago-aquatica,-37.674,145.374
 1030889335,Alisma_plantago-aquatica,31.230463,105.464973
 1030953611,Alisma_plantago-aquatica,22.653799,108.310905
-1098572735,Alisma_plantago-aquatica,-0.1,29.14
 1144186733,Alisma_plantago-aquatica,59.67725,10.7732
 788756230,Alisma_plantago-aquatica,59.93048,16.95043
 2268215048,Alisma_plantago-aquatica,55.24848,39.995173
@@ -1222,7 +1118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144181013,Alisma_plantago-aquatica,60.2633,5.3486
 1703287458,Alisma_plantago-aquatica,49.4348970271716,-96.9842166625537
 216096580,Alisma_plantago-aquatica,60.253101,24.7663
-1988233615,Alisma_plantago-aquatica,50.9,-118.87
 1701994401,Alisma_plantago-aquatica,59.4974,8.6379
 1598497393,Alisma_plantago-aquatica,61.081547,27.830812
 1702181964,Alisma_plantago-aquatica,59.0418,11.0147
@@ -1249,7 +1144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030953574,Alisma_plantago-aquatica,24.68123,105.334672
 360094174,Alisma_plantago-aquatica,63.298,29.8883
 1598497334,Alisma_plantago-aquatica,60.262781,25.100103
-1988222869,Alisma_plantago-aquatica,55,-97
 318217720,Alisma_plantago-aquatica,60.87203,10.45449
 177283142,Alisma_plantago-aquatica,64.323097,24.4424
 1038931118,Alisma_plantago-aquatica,41.305111,-72.920823
@@ -1293,12 +1187,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598497296,Alisma_plantago-aquatica,62.059289,28.813617
 1999600778,Alisma_plantago-aquatica,60.458421,22.178232
 318679226,Alisma_plantago-aquatica,59.421651,11.316125
-993609641,Alisma_plantago-aquatica,-30.9333,151.1
 993293941,Alisma_plantago-aquatica,-30.8167,151.2275
 57676479,Alisma_plantago-aquatica,63.749802,24.261299
 1598497413,Alisma_plantago-aquatica,61.162379,28.761899
 1949608260,Alisma_plantago-aquatica,49.183333,-119.55
-1988154566,Alisma_plantago-aquatica,49.4,-110.7
 1434679364,Alisma_plantago-aquatica,60.915904,14.617291
 1701225073,Alisma_plantago-aquatica,64.6165,12.2815
 1702288792,Alisma_plantago-aquatica,59.7267,11.1874
@@ -1351,7 +1243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1057224592,Alisma_plantago-aquatica,51.548322,-0.271231
 1065670969,Alisma_plantago-aquatica,65.147422,21.085172
 1598497344,Alisma_plantago-aquatica,61.31394,23.729411
-1988163103,Alisma_plantago-aquatica,49,-115
 177283115,Alisma_plantago-aquatica,62.238499,25.169201
 1697367923,Alisma_plantago-aquatica,49.977005,45.34637
 1697367950,Alisma_plantago-aquatica,49.748019,44.961912
@@ -1365,7 +1256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999473529,Alisma_plantago-aquatica,60.429293,22.500724
 1144180906,Alisma_plantago-aquatica,59.1798,11.3799
 1697177959,Alisma_plantago-aquatica,58.28116,108.44552
-1988206021,Alisma_plantago-aquatica,49.2,-122.2
 1988068427,Alisma_plantago-aquatica,52.98,-122.49
 1697367934,Alisma_plantago-aquatica,49.958403,45.182381
 1042980033,Alisma_plantago-aquatica,57.6607,12.1067
@@ -1401,7 +1291,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230504871,Alisma_plantago-aquatica,48.18333,12.95
 788762489,Alisma_plantago-aquatica,57.790878,13.412775
 1705325867,Alisma_plantago-aquatica,62.493877,16.172537
-1936939606,Alisma_plantago-aquatica,-32.1,152.383333
 461605071,Alisma_plantago-aquatica,-26.125,27.875
 995010854,Alisma_plantago-aquatica,-37.5667,149.1167
 1304031272,Alisma_plantago-aquatica,23.125462,104.702829
@@ -1455,7 +1344,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702256953,Alisma_plantago-aquatica,59.7317,10.0493
 1701862910,Alisma_plantago-aquatica,59.7497,10.041
 1598494294,Alisma_plantago-aquatica,61.168425,25.789213
-1988095237,Alisma_plantago-aquatica,49.1,-122.66
 187085122,Alisma_plantago-aquatica,63.6768,10.9709
 1702257042,Alisma_plantago-aquatica,59.7017,9.8529
 1702295206,Alisma_plantago-aquatica,59.5928,10.0184
@@ -1467,7 +1355,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697177987,Alisma_plantago-aquatica,60.89966,63.52135
 1042980119,Alisma_plantago-aquatica,60.1526,16.3142
 1451708133,Alisma_plantago-aquatica,-30.598417,151.801105
-996162183,Alisma_plantago-aquatica,-30.6,151.8
 788734830,Alisma_plantago-aquatica,65.71094,20.64415
 1303983739,Alisma_plantago-aquatica,25.275367,103.003972
 1038961170,Alisma_plantago-aquatica,41.9944,-72.6789
@@ -1496,7 +1383,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 919598820,Alisma_plantago-aquatica,24.706769,102.928677
 1702436322,Alisma_plantago-aquatica,59.6771,11.4506
 1261946890,Alisma_plantago-aquatica,48.433333,-72.066667
-1988165920,Alisma_plantago-aquatica,49.1,-116.5
 1701830022,Alisma_plantago-aquatica,60.3125,11.0635
 1598497240,Alisma_plantago-aquatica,60.912105,22.294348
 1144180914,Alisma_plantago-aquatica,59.0684,11.0398
@@ -1522,8 +1408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598497194,Alisma_plantago-aquatica,60.814579,26.721387
 1598494350,Alisma_plantago-aquatica,62.249752,25.774783
 1899367991,Alisma_plantago-aquatica,48.75,-86.25
-1804563986,Alisma_plantago-aquatica,49.666667,-109.5
-1697760746,Alisma_plantago-aquatica,43.01,41
 1702256984,Alisma_plantago-aquatica,59.5959,10.0185
 187085107,Alisma_plantago-aquatica,63.1952,10.3019
 1702288755,Alisma_plantago-aquatica,60.3015,11.1895
@@ -1539,7 +1423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999600754,Alisma_plantago-aquatica,66.262326,29.778722
 788476493,Alisma_plantago-aquatica,56.156775,13.76989
 239014298,Alisma_plantago-aquatica,62.244999,25.746099
-1988074795,Alisma_plantago-aquatica,49.6,-119.67
 57676434,Alisma_plantago-aquatica,61.329887,24.475174
 788736039,Alisma_plantago-aquatica,59.08488,16.58072
 1090531925,Alisma_plantago-aquatica,42.4333,-76.4833
@@ -1564,7 +1447,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701875533,Alisma_plantago-aquatica,59.8739,10.3637
 1598494240,Alisma_plantago-aquatica,61.676722,23.880081
 788738959,Alisma_plantago-aquatica,55.6054,13.06798
-1988223330,Alisma_plantago-aquatica,49.17,-122.2
 1303806612,Alisma_plantago-aquatica,34.692659,103.353131
 919598822,Alisma_plantago-aquatica,23.473501,99.8277
 919598795,Alisma_plantago-aquatica,21.957355,100.452547
@@ -1651,7 +1533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705297432,Alisma_plantago-aquatica,56.386024,12.662482
 1899299500,Alisma_plantago-aquatica,43.89759,-79.52193
 1697177964,Alisma_plantago-aquatica,61.345396,128.938808
-1804498915,Alisma_plantago-aquatica,45.883333,-82.1
 1039013523,Alisma_plantago-aquatica,41.4061,-72.4831
 1705275461,Alisma_plantago-aquatica,56.850143,14.615307
 177287075,Alisma_plantago-aquatica,39.07345,141.71516
@@ -1685,8 +1566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303806675,Alisma_plantago-aquatica,40.210532,116.176482
 1303806642,Alisma_plantago-aquatica,43.444086,87.447342
 1303806637,Alisma_plantago-aquatica,43.683756,127.383846
-995346054,Alisma_plantago-aquatica,-37.8,147.55
-1842863032,Alisma_plantago-aquatica,35.17,-6.2
 1999572778,Alisma_plantago-aquatica,60.512952,23.163569
 788866624,Alisma_plantago-aquatica,56.30074,12.79944
 1697367862,Alisma_plantago-aquatica,56.726697,38.769966
@@ -1694,12 +1573,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261946338,Alisma_plantago-aquatica,45.853056,-73.756667
 788755842,Alisma_plantago-aquatica,59.3301,15.54414
 1598494266,Alisma_plantago-aquatica,61.532509,27.278894
-296404336,Alisma_plantago-aquatica,47.25,11.2
 1042980043,Alisma_plantago-aquatica,57.7397,12.1045
 296404353,Alisma_plantago-aquatica,46.817222,11.884722
 1598497292,Alisma_plantago-aquatica,62.965651,27.883811
 1702263319,Alisma_plantago-aquatica,59.3275,11.5747
-1261946320,Alisma_plantago-aquatica,45.5,-73.966667
 187085109,Alisma_plantago-aquatica,63.3085,10.1673
 1303806621,Alisma_plantago-aquatica,36.107933,120.415961
 1303983695,Alisma_plantago-aquatica,34.858847,105.669626
@@ -1714,7 +1591,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 591574,Alisma_plantago-aquatica,56.21399,15.25345
 1042980063,Alisma_plantago-aquatica,58.8745,11.1536
 2242390255,Alisma_plantago-aquatica,46.585248,-90.866745
-441683425,Alisma_plantago-aquatica,47.6,-122.084722
 1065670953,Alisma_plantago-aquatica,64.242632,19.651271
 1042980067,Alisma_plantago-aquatica,58.544,11.9922
 1598497213,Alisma_plantago-aquatica,61.493121,23.710602
@@ -1753,7 +1629,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701445658,Alisma_plantago-aquatica,59.7727,11.1192
 177287083,Alisma_plantago-aquatica,35.17036,135.91975
 177287076,Alisma_plantago-aquatica,39.37525,141.23145
-995346380,Alisma_plantago-aquatica,-38.5667,146.7
 1701435403,Alisma_plantago-aquatica,59.2595,10.903
 1065670935,Alisma_plantago-aquatica,64.52818,19.33946
 1698019555,Alisma_plantago-aquatica,60.1391,10.1883
@@ -1774,7 +1649,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598497311,Alisma_plantago-aquatica,61.333202,24.661896
 1042980118,Alisma_plantago-aquatica,60.1375,13.0136
 1705431471,Alisma_plantago-aquatica,57.347776,12.546719
-996161913,Alisma_plantago-aquatica,-32.6,151.62
 1451708075,Alisma_plantago-aquatica,-32.598418,151.617803
 788753436,Alisma_plantago-aquatica,59.272216,15.210918
 1999473507,Alisma_plantago-aquatica,60.453194,22.679391
@@ -1800,7 +1674,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042980062,Alisma_plantago-aquatica,58.6611,11.7736
 437925747,Alisma_plantago-aquatica,45.40047,-73.53758
 1705277334,Alisma_plantago-aquatica,63.005203,16.090958
-1061563365,Alisma_plantago-aquatica,-32.4,152.2
 1701251193,Alisma_plantago-aquatica,59.7663,10.2017
 239014297,Alisma_plantago-aquatica,61.527302,25.775101
 1701969762,Alisma_plantago-aquatica,59.752,10.2902
@@ -1824,7 +1697,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788749272,Alisma_plantago-aquatica,55.570288,13.928417
 1598494276,Alisma_plantago-aquatica,60.467771,22.313303
 1042980051,Alisma_plantago-aquatica,58.0118,11.6232
-1988187796,Alisma_plantago-aquatica,49.17,-123.1
 177287084,Alisma_plantago-aquatica,34.27117,134.13821
 788736255,Alisma_plantago-aquatica,55.71679,13.27302
 788693717,Alisma_plantago-aquatica,55.506663,13.88024
@@ -1840,7 +1712,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 591678,Alisma_plantago-aquatica,57.781999,14.159529
 788740157,Alisma_plantago-aquatica,58.24695,11.45769
 1451521909,Alisma_plantago-aquatica,-36.765108,149.701223
-995734780,Alisma_plantago-aquatica,-36.77,149.7
 1701994334,Alisma_plantago-aquatica,59.1014,9.0786
 1598497272,Alisma_plantago-aquatica,61.090982,22.267748
 1598497302,Alisma_plantago-aquatica,62.759719,21.21684
@@ -1883,7 +1754,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598497234,Alisma_plantago-aquatica,61.232788,24.1105
 1099898848,Alisma_plantago-aquatica,56.077023,12.926592
 1705282051,Alisma_plantago-aquatica,56.673882,16.082547
-994461070,Alisma_plantago-aquatica,-34.9,150.6
 996162319,Alisma_plantago-aquatica,-34.92,150.72
 1451708081,Alisma_plantago-aquatica,-34.915095,150.717842
 788750525,Alisma_plantago-aquatica,55.998539,13.295304
@@ -1908,9 +1778,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1622356641,Alisma_plantago-aquatica,63.364871,22.02429
 788735090,Alisma_plantago-aquatica,57.722234,12.939299
 1598494277,Alisma_plantago-aquatica,60.720653,27.061014
-786085522,Alisma_plantago-aquatica,50.8,20.6
 1323798554,Alisma_plantago-aquatica,63.45631,11.2006
-1061563358,Alisma_plantago-aquatica,-33.8,149.333333
 1061563349,Alisma_plantago-aquatica,-32.716667,145.883333
 995733796,Alisma_plantago-aquatica,-33.87,150.95
 1451521490,Alisma_plantago-aquatica,-33.865091,150.95116
@@ -1959,7 +1827,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988107937,Alisma_plantago-aquatica,49.12,-123.19
 1702288744,Alisma_plantago-aquatica,59.7975,10.6395
 1451521901,Alisma_plantago-aquatica,-35.915101,150.101198
-995734596,Alisma_plantago-aquatica,-35.92,150.1
 1598497215,Alisma_plantago-aquatica,60.071161,24.392468
 1701894621,Alisma_plantago-aquatica,60.8628,11.1081
 788749470,Alisma_plantago-aquatica,58.74889,15.45168
@@ -2036,7 +1903,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702335616,Alisma_plantago-aquatica,60.7374,10.9669
 1144181032,Alisma_plantago-aquatica,60.5145,5.4933
 788761908,Alisma_plantago-aquatica,59.78409,17.48446
-995733474,Alisma_plantago-aquatica,-33.6,150.72
 1451521323,Alisma_plantago-aquatica,-33.598427,150.717827
 1705421410,Alisma_plantago-aquatica,57.776492,14.124462
 57676419,Alisma_plantago-aquatica,60.895485,29.169188
@@ -2045,7 +1911,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1043000684,Alisma_plantago-aquatica,58.1512,11.593
 788753990,Alisma_plantago-aquatica,55.704215,13.193147
 1038929624,Alisma_plantago-aquatica,41.7414,-73.1931
-1842894030,Alisma_plantago-aquatica,41.5,2.1
 1702256990,Alisma_plantago-aquatica,60.0479,10.3377
 1598497208,Alisma_plantago-aquatica,62.967567,27.4896
 1701661893,Alisma_plantago-aquatica,60.8041,10.1302
@@ -2062,7 +1927,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702282374,Alisma_plantago-aquatica,60.3782,10.5561
 1701865478,Alisma_plantago-aquatica,59.1693,10.933
 1701875600,Alisma_plantago-aquatica,59.7319,10.8498
-1891604938,Alisma_plantago-aquatica,49.8,6.4
 788738213,Alisma_plantago-aquatica,55.429296,13.818618
 788746645,Alisma_plantago-aquatica,60.22687,17.70548
 1701651283,Alisma_plantago-aquatica,59.7542,10.0411
@@ -2097,7 +1961,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705295972,Alisma_plantago-aquatica,56.435774,12.72815
 1065670919,Alisma_plantago-aquatica,64.217683,19.71028
 1042980077,Alisma_plantago-aquatica,57.8052,12.3796
-995346347,Alisma_plantago-aquatica,-37.7,148.45
 1697367919,Alisma_plantago-aquatica,51.675934,44.854379
 788754046,Alisma_plantago-aquatica,55.50033,13.47877
 1948278060,Alisma_plantago-aquatica,63.093492,21.577146
