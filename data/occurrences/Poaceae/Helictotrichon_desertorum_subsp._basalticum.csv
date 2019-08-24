@@ -28,10 +28,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697384192,Helictotrichon_desertorum_subsp._basalticum,53.636154,37.332597
 1697384212,Helictotrichon_desertorum_subsp._basalticum,50.812206,39.686991
 1697176452,Helictotrichon_desertorum_subsp._basalticum,52.150133,92.301893
-1697176569,Helictotrichon_desertorum_subsp._basalticum,51.166667,86
 1697384273,Helictotrichon_desertorum_subsp._basalticum,51.477866,38.11735
 1697176559,Helictotrichon_desertorum_subsp._basalticum,50.166667,88.25
-1697176541,Helictotrichon_desertorum_subsp._basalticum,50.25,88.2
 1697176550,Helictotrichon_desertorum_subsp._basalticum,50.25,89.916667
 1697176524,Helictotrichon_desertorum_subsp._basalticum,52.058296,93.598623
 1935693619,Helictotrichon_desertorum_subsp._basalticum,48.12556,16.93056
@@ -58,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697176488,Helictotrichon_desertorum_subsp._basalticum,55.06555,60.17779
 1697176542,Helictotrichon_desertorum_subsp._basalticum,55.14462,60.21361
 1697176477,Helictotrichon_desertorum_subsp._basalticum,54.56755,76.04607
-1697176587,Helictotrichon_desertorum_subsp._basalticum,51.6,87.666667
 1697176508,Helictotrichon_desertorum_subsp._basalticum,56.11737,93.10365
 1697384282,Helictotrichon_desertorum_subsp._basalticum,52.734561,51.803639
 1697176470,Helictotrichon_desertorum_subsp._basalticum,55.78136,66.42825
