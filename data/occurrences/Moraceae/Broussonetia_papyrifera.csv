@@ -138,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257683825,Broussonetia_papyrifera,38.06,-91.2111
 1090296286,Broussonetia_papyrifera,21.1572,-156.843
 237341500,Broussonetia_papyrifera,41.038334,129.661942
-574878062,Broussonetia_papyrifera,26.491111,98.9
 575263518,Broussonetia_papyrifera,26.909722,98.863056
 1847759188,Broussonetia_papyrifera,35.060556,117.436944
 575090556,Broussonetia_papyrifera,27.443333,98.82
@@ -151,7 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287995333,Broussonetia_papyrifera,15.219334,98.491139
 2287995848,Broussonetia_papyrifera,20.312833,105.644667
 1934098363,Broussonetia_papyrifera,34.8487,134.7113
-1830688205,Broussonetia_papyrifera,33.7,133.866667
 296430428,Broussonetia_papyrifera,47.266389,15.326389
 1933836370,Broussonetia_papyrifera,35.0193,135.5867
 1426097590,Broussonetia_papyrifera,27.983056,98.654167
@@ -167,11 +165,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258987449,Broussonetia_papyrifera,20.91611,105.06416
 176897876,Broussonetia_papyrifera,31.019722,-97.528611
 2287995813,Broussonetia_papyrifera,-1.209567,120.1696
-1500202498,Broussonetia_papyrifera,33.933333,-117.4
-1830194440,Broussonetia_papyrifera,36.6,137.316667
 1843472434,Broussonetia_papyrifera,-38.683333,176.066667
 1258116710,Broussonetia_papyrifera,29.7733,-82.04
-651220,Broussonetia_papyrifera,41.3,23.333333
 574914159,Broussonetia_papyrifera,27.739722,98.659167
 574885457,Broussonetia_papyrifera,25.783333,98.866389
 1998541607,Broussonetia_papyrifera,27.936389,98.65
@@ -192,7 +187,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615284595,Broussonetia_papyrifera,33.42,73.05
 56527436,Broussonetia_papyrifera,34.75048,-86.2328
 1830631360,Broussonetia_papyrifera,33.976179,134.151135
-56527454,Broussonetia_papyrifera,34.77,-86
 1830662090,Broussonetia_papyrifera,33.054167,133.03125
 30851787,Broussonetia_papyrifera,37.939999,-4.48
 2287996267,Broussonetia_papyrifera,13.95924,105.91885
@@ -241,7 +235,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287997570,Broussonetia_papyrifera,8.777222,125.571944
 1829854991,Broussonetia_papyrifera,33.541306,133.515004
 1897831295,Broussonetia_papyrifera,-43.641222,172.473083
-2287994204,Broussonetia_papyrifera,19.266667,98.6
 1897828841,Broussonetia_papyrifera,-43.633333,172.466667
 891602412,Broussonetia_papyrifera,24.677778,121.37
 891602427,Broussonetia_papyrifera,24.679167,121.371667
@@ -272,7 +265,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891611780,Broussonetia_papyrifera,24.245278,121.095833
 891615484,Broussonetia_papyrifera,24.19,121.004444
 891608407,Broussonetia_papyrifera,24.989444,121.648611
-1999378926,Broussonetia_papyrifera,25.666667,100
 2289725098,Broussonetia_papyrifera,14.833333,100.916667
 1030828691,Broussonetia_papyrifera,31.893892,104.43684
 1835659732,Broussonetia_papyrifera,37.47947,140.27339
@@ -299,10 +291,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030845179,Broussonetia_papyrifera,28.262715,103.571742
 296430374,Broussonetia_papyrifera,46.066,11.133
 1122716108,Broussonetia_papyrifera,38.39306,-96.18611
-56526367,Broussonetia_papyrifera,33.3,-87.5
 1122715922,Broussonetia_papyrifera,37.819866,-96.860992
-1829605017,Broussonetia_papyrifera,36.3,139.1
-1228427453,Broussonetia_papyrifera,-29,-58
 2200582181,Broussonetia_papyrifera,37.280512,127.01011
 919516543,Broussonetia_papyrifera,22.99417,102.392353
 919535894,Broussonetia_papyrifera,22.792186,103.086573
@@ -311,9 +300,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176897712,Broussonetia_papyrifera,37.41832,-95.73477
 891628399,Broussonetia_papyrifera,24.384167,121.341944
 2287376856,Broussonetia_papyrifera,17.75,100.25
-1829604178,Broussonetia_papyrifera,36.3,139.2
 1122715948,Broussonetia_papyrifera,37.83867,-95.80001
-1090550587,Broussonetia_papyrifera,-28.0167,-57.6
 1933814702,Broussonetia_papyrifera,34.89917,137.68739
 2243083152,Broussonetia_papyrifera,38.194619,140.35411
 2287994236,Broussonetia_papyrifera,14.6833,99.0333
@@ -326,7 +313,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933872163,Broussonetia_papyrifera,32.33781,130.60925
 1835659733,Broussonetia_papyrifera,38.2523,140.3569
 2287995693,Broussonetia_papyrifera,-9.866667,124.283333
-2287996750,Broussonetia_papyrifera,-7.1,146.583333
 2287995127,Broussonetia_papyrifera,14.0167,99.5333
 1090553153,Broussonetia_papyrifera,-22.9028,-43.2075
 2287997009,Broussonetia_papyrifera,14.416667,99.033333
@@ -336,10 +322,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829600043,Broussonetia_papyrifera,36.537222,138.548056
 56526369,Broussonetia_papyrifera,33.19778,-87.53667
 1122715886,Broussonetia_papyrifera,37.42334,-95.68405
-2287994158,Broussonetia_papyrifera,-5.5,145.416667
 1122715908,Broussonetia_papyrifera,37.41414,-95.74302
 1457370576,Broussonetia_papyrifera,34.790038,-79.13095
-1805847528,Broussonetia_papyrifera,34.783333,-79.1
 1030740418,Broussonetia_papyrifera,25.681882,114.30827
 56526375,Broussonetia_papyrifera,33.2325,-87.51972
 2287997695,Broussonetia_papyrifera,-5.833333,146.083333
@@ -349,7 +333,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260993592,Broussonetia_papyrifera,37.31611,-89.54222
 1805847550,Broussonetia_papyrifera,14.15,99.366667
 2287995654,Broussonetia_papyrifera,14.016667,99.533333
-2287994187,Broussonetia_papyrifera,15,99.383333
 919516610,Broussonetia_papyrifera,22.01071,100.799775
 1030828665,Broussonetia_papyrifera,30.996299,103.612264
 2287995851,Broussonetia_papyrifera,41.118883,1.244491
@@ -359,7 +342,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2244476919,Broussonetia_papyrifera,36.61369,138.13173
 1030694973,Broussonetia_papyrifera,33.214195,119.43159
 1030828640,Broussonetia_papyrifera,28.672732,104.010884
-1829605468,Broussonetia_papyrifera,36.3,139
 1030982914,Broussonetia_papyrifera,26.355276,110.311897
 1030983087,Broussonetia_papyrifera,25.000411,107.045385
 1030828525,Broussonetia_papyrifera,31.084,103.267
@@ -396,7 +378,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030721094,Broussonetia_papyrifera,32.605886,111.195824
 1030982935,Broussonetia_papyrifera,25.175621,110.351669
 1030982838,Broussonetia_papyrifera,27.44164,104.873643
-1805842144,Broussonetia_papyrifera,35.9,-79.05
 2252393949,Broussonetia_papyrifera,-31.408056,-64.219722
 2244454958,Broussonetia_papyrifera,36.64853,138.19467
 1030982904,Broussonetia_papyrifera,24.959011,110.807773
@@ -416,7 +397,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030695031,Broussonetia_papyrifera,34.608663,119.506767
 1030694994,Broussonetia_papyrifera,32.359944,119.911834
 1030845191,Broussonetia_papyrifera,30.710589,104.088668
-2287995726,Broussonetia_papyrifera,14.133333,121.2
 1260975103,Broussonetia_papyrifera,36.855,-90.01361
 1030845222,Broussonetia_papyrifera,29.73797,103.231884
 1030982899,Broussonetia_papyrifera,20.444386,110.206057
@@ -444,9 +424,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303912918,Broussonetia_papyrifera,28.965815,116.104041
 1030694952,Broussonetia_papyrifera,31.029484,121.195754
 1830631692,Broussonetia_papyrifera,34.134829,134.392861
-2287501732,Broussonetia_papyrifera,15.133333,98.5
 1830631644,Broussonetia_papyrifera,34.017248,134.196
-2287994050,Broussonetia_papyrifera,14.566667,98.8
 1304007945,Broussonetia_papyrifera,25.584234,100.222124
 1318076260,Broussonetia_papyrifera,38.8667,-77.1708
 891689895,Broussonetia_papyrifera,24.883056,121.546111
@@ -501,7 +479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 919535862,Broussonetia_papyrifera,26.876096,100.229945
 1303677673,Broussonetia_papyrifera,34.566081,110.092299
 1928828872,Broussonetia_papyrifera,40.002585,-75.121217
-2287995061,Broussonetia_papyrifera,-5,122.5
 1304109246,Broussonetia_papyrifera,24.466672,112.626493
 1303710469,Broussonetia_papyrifera,24.045429,109.85442
 1304007811,Broussonetia_papyrifera,23.531078,99.411861
@@ -587,5 +564,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1805847540,Broussonetia_papyrifera,24.25,97.233333
 1038997880,Broussonetia_papyrifera,41.1185,-73.4227
 1931172207,Broussonetia_papyrifera,41.011208,-73.913469
-35619617,Broussonetia_papyrifera,21.3,-157.85
 1211529278,Broussonetia_papyrifera,36.001389,120.29583
