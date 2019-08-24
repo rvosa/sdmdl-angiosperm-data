@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005439789,Sesuvium_hydaspicum,-28.545556,17.257222
 685243703,Sesuvium_hydaspicum,-14.875,12.375
-2311060012,Sesuvium_hydaspicum,-15.9,12.37
 2305918509,Sesuvium_hydaspicum,-15.02,12.43
 685243699,Sesuvium_hydaspicum,-15.375,12.125
 685243701,Sesuvium_hydaspicum,-15.125,12.125
@@ -16,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462277699,Sesuvium_hydaspicum,-20.125,13.875
 1096610872,Sesuvium_hydaspicum,14.43,-0.23
 47846784,Sesuvium_hydaspicum,14.433,-0.233
-47846782,Sesuvium_hydaspicum,14.366,-0.3
 2290121308,Sesuvium_hydaspicum,14.433333,-0.233333
 1096610882,Sesuvium_hydaspicum,14.35,-0.28
 47846799,Sesuvium_hydaspicum,14.35,-0.283
@@ -24,7 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462277696,Sesuvium_hydaspicum,-24.625,16.875
 462277630,Sesuvium_hydaspicum,-17.375,14.125
 2289222123,Sesuvium_hydaspicum,-17.416667,14.116667
-47846740,Sesuvium_hydaspicum,15.883,-16.5
 1019295812,Sesuvium_hydaspicum,19.696944,-14.416389
 462277628,Sesuvium_hydaspicum,-21.125,24.875
 462277626,Sesuvium_hydaspicum,-21.625,15.625
@@ -40,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462277623,Sesuvium_hydaspicum,-27.625,25.375
 462277624,Sesuvium_hydaspicum,-23.375,19.625
 462277621,Sesuvium_hydaspicum,-24.875,17.375
-1702044339,Sesuvium_hydaspicum,16.867,-25
 287295232,Sesuvium_hydaspicum,-28.33583,17.38139
 1052097230,Sesuvium_hydaspicum,2.58333,36.71667
 462277627,Sesuvium_hydaspicum,-25.375,20.125
