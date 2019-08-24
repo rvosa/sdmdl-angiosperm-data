@@ -62,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986982390,Boechera_stricta,37.5913699990877,-112.83392
 1094858608,Boechera_stricta,35.9,-106.483333
 1928986148,Boechera_stricta,35.91581,-106.48511
-1248702749,Boechera_stricta,48.49355,-64.14487
 2242382207,Boechera_stricta,37.784042,-107.53405
 1846482396,Boechera_stricta,36.3305408138819,-112.101684251663
 1949649251,Boechera_stricta,59.288056,-129.849722
@@ -146,7 +145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1658229215,Boechera_stricta,60.7667,-137.7
 1146388806,Boechera_stricta,63.32,-150
 441690888,Boechera_stricta,43.69435,-114.67635
-1146315829,Boechera_stricta,57.0395,-134.5465
 883416605,Boechera_stricta,53.5756099990992,-118.830975
 1843912651,Boechera_stricta,38.2102,-105.1089
 1931022879,Boechera_stricta,41.7994,-115.4808
@@ -176,7 +174,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176893707,Boechera_stricta,43.877694,-110.490947
 176893799,Boechera_stricta,45.0907247275932,-111.153193932116
 176893682,Boechera_stricta,45.0470251513318,-111.132992752018
-1248702779,Boechera_stricta,47.4,-61.783333
 2242375757,Boechera_stricta,38.919842,-106.850931
 176893301,Boechera_stricta,43.861685,-110.526426
 415721296,Boechera_stricta,45.2066236381617,-111.204297002448
@@ -203,7 +200,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930649059,Boechera_stricta,40.8,-110.02
 1261292044,Boechera_stricta,39.83333,-105.83333
 1248702792,Boechera_stricta,51.433333,-57.133333
-1248702737,Boechera_stricta,46.965278,-70.794444
 2265967639,Boechera_stricta,44.5625,-93.942778
 2242360399,Boechera_stricta,40.136944,-106.1675
 1986953789,Boechera_stricta,38.4268,-109.1518
@@ -215,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262022008,Boechera_stricta,48.895,-66.632778
 473339181,Boechera_stricta,48.889722,-66.644167
 1949625496,Boechera_stricta,59.633333,-137.783333
-1248702784,Boechera_stricta,47.461111,-61.745833
 1801072923,Boechera_stricta,39.506257,-106.144943
 1949627689,Boechera_stricta,49.128333,-119.658333
 1928764163,Boechera_stricta,38.32,-112.42
@@ -295,7 +290,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883416656,Boechera_stricta,50.2119709990726,-114.553138
 1988769861,Boechera_stricta,45.022953,-86.123711
 883420782,Boechera_stricta,49.9792,-114.76
-2242396184,Boechera_stricta,39.73193,-104.9619
 415962817,Boechera_stricta,41.80972,-72.83055
 415962816,Boechera_stricta,41.96555,-73.02111
 1986929949,Boechera_stricta,41.890833,-111.681389
@@ -341,7 +335,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930573313,Boechera_stricta,41.52,-115.98
 1317307068,Boechera_stricta,48.7188,-113.686
 1930303598,Boechera_stricta,40.68,-110.37
-1949582406,Boechera_stricta,49.666667,-124.833333
 883416601,Boechera_stricta,52.8796839990926,-117.277651
 1929720004,Boechera_stricta,40.38,-111.6
 1949545643,Boechera_stricta,59.816667,-136.633333
@@ -355,7 +348,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732468248,Boechera_stricta,50.85,-100.35
 1804478040,Boechera_stricta,60.266667,-134.183333
 51753374,Boechera_stricta,42.647,-118.5963
-1248702809,Boechera_stricta,50.211111,-66.2125
 732468303,Boechera_stricta,60.316667,-134.266667
 1949581918,Boechera_stricta,49.5,-125.383333
 1986929611,Boechera_stricta,40.484444,-112.601667
@@ -429,14 +421,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949613891,Boechera_stricta,53.883333,-119.133333
 1949542964,Boechera_stricta,49.025,-114.170833
 1949543122,Boechera_stricta,49.031944,-114.158333
-1248702731,Boechera_stricta,47.736944,-69.711944
 1988236657,Boechera_stricta,51.82,-106.5
 415721266,Boechera_stricta,60.531543,-149.545524
 883421126,Boechera_stricta,52.933333,-117.3
 1899381440,Boechera_stricta,44.883333,-79.35
 1988162956,Boechera_stricta,57.6,-128.8
 1426139018,Boechera_stricta,38.422414,-119.262664
-415962834,Boechera_stricta,38.95916,-106.98972
 1949558118,Boechera_stricta,49.05,-120.2
 415721270,Boechera_stricta,47.56014,-102.74335
 1949540665,Boechera_stricta,49.03,-114.169444
@@ -490,7 +480,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928841641,Boechera_stricta,42.22,-114.37
 883407644,Boechera_stricta,65.683333,-129.483333
 732468197,Boechera_stricta,50.166667,-113.633333
-415962838,Boechera_stricta,40.655,-73.11361
 883421215,Boechera_stricta,49.049693,-113.805686
 1988216232,Boechera_stricta,49.78,-115.17
 415721240,Boechera_stricta,41.4074560929181,-107.254031488607
@@ -503,8 +492,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055071598,Boechera_stricta,39.91806,-105.785
 1930087638,Boechera_stricta,40.87,-109.52
 1929264210,Boechera_stricta,40.57,-110.52
-1248702817,Boechera_stricta,47.016667,-70.666667
-1248702755,Boechera_stricta,47.0275,-70.6675
 2242368221,Boechera_stricta,39.128613,-104.86296
 1989478879,Boechera_stricta,45.946978,-86.29263
 1949613124,Boechera_stricta,48.833333,-123.766667
@@ -551,7 +538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894983873,Boechera_stricta,49.5,-114.4
 1988162152,Boechera_stricta,49,-113.9
 176893328,Boechera_stricta,44.252646,-103.86937
-1988120802,Boechera_stricta,49.1,-144.1
 894983863,Boechera_stricta,49.466667,-114.416667
 894983865,Boechera_stricta,49.133333,-114.166667
 894983860,Boechera_stricta,49.05,-114.066667
@@ -591,7 +577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732468196,Boechera_stricta,50.933333,-105.683333
 732468293,Boechera_stricta,60.25,-136.966667
 883394555,Boechera_stricta,53.6721999991001,-118.3689
-1248702785,Boechera_stricta,48.366667,-68.75
 1988136147,Boechera_stricta,49.9,-123
 883420944,Boechera_stricta,53.516667,-118.666667
 1986908183,Boechera_stricta,37.980556,-111.722778
@@ -601,12 +586,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2028085720,Boechera_stricta,50.010556,-96.904167
 1949583611,Boechera_stricta,49.783333,-115.733333
 1949498701,Boechera_stricta,49.466667,-120.5
-1261986383,Boechera_stricta,47.321,-70.142
 1930822989,Boechera_stricta,38.77,-116.92
 883420970,Boechera_stricta,52.21886,-117.22459
 465926225,Boechera_stricta,46.016667,-66.966667
 1988095229,Boechera_stricta,50.7,-121.3
-1248702811,Boechera_stricta,48.366111,-68.751944
 732468330,Boechera_stricta,51.633333,-101.133333
 732468288,Boechera_stricta,50.933333,-115.133333
 1949524900,Boechera_stricta,50.599444,-114.987778
@@ -618,7 +601,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732468285,Boechera_stricta,51.766667,-116.566667
 732468289,Boechera_stricta,49.133333,-114.05
 1988160272,Boechera_stricta,47.58,-122.29
-1261972500,Boechera_stricta,47.003724,-70.757502
 1843861285,Boechera_stricta,36.41973,-105.329931
 1930071501,Boechera_stricta,38.47,-111.47
 441690653,Boechera_stricta,48.78111,-121.84639
@@ -670,7 +652,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732468199,Boechera_stricta,49.166667,-93.816667
 1988633077,Boechera_stricta,48.106173,-88.546442
 1988140826,Boechera_stricta,51.62,-121.29
-694796952,Boechera_stricta,47.35991,-70.03439
 1988237504,Boechera_stricta,49.07,-120.78
 441690884,Boechera_stricta,43.825676,-114.36278
 1988904256,Boechera_stricta,48.091912,-88.595581
@@ -718,7 +699,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732468211,Boechera_stricta,49.183333,-121.683333
 1949482982,Boechera_stricta,49.1,-120.666667
 732468308,Boechera_stricta,45.3,-64.333333
-732468256,Boechera_stricta,45.25,-65
 732468195,Boechera_stricta,59.616667,-132.816667
 732468284,Boechera_stricta,41.95,-82.516667
 732468297,Boechera_stricta,60.133333,-130.95
@@ -736,12 +716,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441691044,Boechera_stricta,42.18556,-113.66028
 1988789295,Boechera_stricta,44.561257,-85.042667
 732468203,Boechera_stricta,49.6,-110.433333
-732468318,Boechera_stricta,46.933333,-60.466667
 1988232308,Boechera_stricta,49.9,-122.8
 441690852,Boechera_stricta,60.533333,-149.533333
 732468209,Boechera_stricta,50.65,-104.866667
 2265473547,Boechera_stricta,45.253532,-92.958232
-732468279,Boechera_stricta,49.05,-66.833333
 732468306,Boechera_stricta,49.666667,-110.283333
 883425856,Boechera_stricta,49.068212,-113.98922
 1988193323,Boechera_stricta,60.5,-149.5
@@ -756,7 +734,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703293098,Boechera_stricta,51.6660014278278,-100.914815353889
 732468276,Boechera_stricta,48.783333,-66.883333
 2265472032,Boechera_stricta,46.754089,-92.152248
-732468266,Boechera_stricta,47.766667,-69.616667
 2265476411,Boechera_stricta,46.75817,-92.16362
 732468258,Boechera_stricta,53.066667,-106.7
 1949471267,Boechera_stricta,49.383333,-121.45
@@ -771,7 +748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988137789,Boechera_stricta,57.1,-122.6
 732468251,Boechera_stricta,45.666667,-75.833333
 415721251,Boechera_stricta,36.761628,-118.408921
-732468292,Boechera_stricta,47.366667,-70.033333
 441690998,Boechera_stricta,44.146747,-115.152812
 732468212,Boechera_stricta,50.25,-107.833333
 415962820,Boechera_stricta,41.98444,-72.77944
@@ -779,7 +755,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242365801,Boechera_stricta,39.004614,-107.037292
 732468305,Boechera_stricta,51.566667,-104.266667
 1426115383,Boechera_stricta,37.130727,-118.509393
-732468215,Boechera_stricta,47.1,-70.35
 415721277,Boechera_stricta,37.887361,-107.835311
 1988162439,Boechera_stricta,49.6,-116
 1426209872,Boechera_stricta,37.4149,-118.7708
@@ -794,11 +769,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426196402,Boechera_stricta,37.6388,-118.8534
 1426057026,Boechera_stricta,37.4272,-118.7508
 1949466439,Boechera_stricta,50.083333,-117.866667
-732468267,Boechera_stricta,47.033333,-70.666667
 1804445921,Boechera_stricta,53.916667,-122.75
 1988088818,Boechera_stricta,53.9,-122.8
 1988180974,Boechera_stricta,54.02,-124.02
-1248702837,Boechera_stricta,47.116667,-70.483333
 1949466986,Boechera_stricta,55.75,-126
 441691054,Boechera_stricta,44.071634,-115.750945
 441690982,Boechera_stricta,43.806137,-115.132064
@@ -816,7 +789,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949465111,Boechera_stricta,49.683333,-125.316667
 51752643,Boechera_stricta,44.8048,-118.2069
 2265473666,Boechera_stricta,47.410745,-91.110162
-732468302,Boechera_stricta,47,-60.466667
 732468301,Boechera_stricta,46.45,-60.933333
 2265474949,Boechera_stricta,44.759795,-95.299697
 732468213,Boechera_stricta,63.9,-136.016667
@@ -851,18 +823,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415962832,Boechera_stricta,41.72277,-71.90666
 2265473409,Boechera_stricta,46.741215,-92.062388
 2242366888,Boechera_stricta,39.69007,-105.436494
-465926227,Boechera_stricta,48.370034,-68.712959
 1949461906,Boechera_stricta,47,-84.75
 732468214,Boechera_stricta,42.833333,-79.1
 1988189299,Boechera_stricta,42.98,-79.25
 1949459756,Boechera_stricta,56.15,-120
-1248702688,Boechera_stricta,48.033333,-69.433333
-1949530175,Boechera_stricta,48.45,-123.416667
 1988662158,Boechera_stricta,43.621066,-85.309313
 1986878406,Boechera_stricta,39.318056,-111.471944
 2265474968,Boechera_stricta,46.862181,-94.766121
 441691022,Boechera_stricta,48.78444,-121.88528
-1248702746,Boechera_stricta,47.35,-70
 415962837,Boechera_stricta,41.84722,-71.52527
 441691026,Boechera_stricta,48.105535,-120.737582
 441691040,Boechera_stricta,47.81833,-123.13222
@@ -882,7 +850,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949457931,Boechera_stricta,50,-122.916667
 415962835,Boechera_stricta,44.26555,-71.27638
 1949457230,Boechera_stricta,49.933333,-123.033333
-732468281,Boechera_stricta,47.05,-70.633333
 1949457579,Boechera_stricta,49.95,-123.016667
 1426137961,Boechera_stricta,37.7493,-119.1577
 732468257,Boechera_stricta,51.6,-55.666667
@@ -895,7 +862,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038980553,Boechera_stricta,41.5989,-72.5892
 1988892545,Boechera_stricta,45.580949,-84.696261
 1039011490,Boechera_stricta,41.9425,-72.7411
-1927869459,Boechera_stricta,38.936868,-74.964836
 415962824,Boechera_stricta,41.96166,-73.30833
 883420622,Boechera_stricta,51.2014,-115.5782
 1949498993,Boechera_stricta,50.683333,-121.933333
@@ -912,7 +878,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929608525,Boechera_stricta,37.909919,-109.602889
 415962841,Boechera_stricta,40.57916,-105.02444
 1039017341,Boechera_stricta,41.6153,-72.1432
-415962836,Boechera_stricta,48.43333,-68.51666
 2265442041,Boechera_stricta,40.37722,-105.52111
 1038987080,Boechera_stricta,41.5614,-73.2072
 1988086145,Boechera_stricta,49.12,-123.19
