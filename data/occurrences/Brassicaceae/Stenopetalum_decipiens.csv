@@ -43,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257363734,Stenopetalum_decipiens,-24.915,129.0611
 1257358531,Stenopetalum_decipiens,-24.7522,131.8336
 1652155082,Stenopetalum_decipiens,-24.31191,146.047536
-1257359125,Stenopetalum_decipiens,-24.8,132.2667
 996676842,Stenopetalum_decipiens,-24.888889,124.539722
 993515824,Stenopetalum_decipiens,-23.088,118.5678
 1257356888,Stenopetalum_decipiens,-22.68333,131.26667
@@ -66,7 +65,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994354301,Stenopetalum_decipiens,-22.648594,131.001273
 996221120,Stenopetalum_decipiens,-26.22,127.47
 994271605,Stenopetalum_decipiens,-25.015276,129.384642
-993343566,Stenopetalum_decipiens,-25.3,130.8
 994271826,Stenopetalum_decipiens,-23.831922,130.851287
 992533486,Stenopetalum_decipiens,-25.35,131.15
 992500031,Stenopetalum_decipiens,-24.85,128.83
@@ -82,7 +80,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994260761,Stenopetalum_decipiens,-23.465225,134.967922
 994256907,Stenopetalum_decipiens,-24.348584,131.751283
 1652030714,Stenopetalum_decipiens,-26.081913,145.084225
-996478119,Stenopetalum_decipiens,-22.5,122.4
 992579825,Stenopetalum_decipiens,-28.46533,144.417643
 1652040023,Stenopetalum_decipiens,-28.581918,144.417583
 994260806,Stenopetalum_decipiens,-24.998607,129.134649
@@ -93,7 +90,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992285170,Stenopetalum_decipiens,-23.682046,133.71771
 995084935,Stenopetalum_decipiens,-23.0667,134.6167
 995084939,Stenopetalum_decipiens,-23.5667,132.5167
-995084945,Stenopetalum_decipiens,-25.5,131.9
 995084942,Stenopetalum_decipiens,-23.6167,132.7167
 994260825,Stenopetalum_decipiens,-25.215265,130.917971
 1257305459,Stenopetalum_decipiens,-24.665274,129.667983
@@ -101,8 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992263069,Stenopetalum_decipiens,-24.912631,128.997749
 994243078,Stenopetalum_decipiens,-24.931938,129.05132
 1257302859,Stenopetalum_decipiens,-25.031939,129.401317
-993244337,Stenopetalum_decipiens,-25.0333,129.4
-992336216,Stenopetalum_decipiens,-25,129.4
 993261121,Stenopetalum_decipiens,-24.6667,129.6667
 993220082,Stenopetalum_decipiens,-23.7667,136.4333
 1257302189,Stenopetalum_decipiens,-23.765217,136.43457
@@ -124,12 +118,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992282502,Stenopetalum_decipiens,-24.25,131.57
 992193572,Stenopetalum_decipiens,-24.882048,133.817717
 992282537,Stenopetalum_decipiens,-24.282059,131.584395
-992282548,Stenopetalum_decipiens,-24,134
 992282513,Stenopetalum_decipiens,-24.332058,131.684395
 992282561,Stenopetalum_decipiens,-24.288447,131.612173
 994224243,Stenopetalum_decipiens,-23.665239,133.917931
 993845002,Stenopetalum_decipiens,-25.5167,131.9167
-992282560,Stenopetalum_decipiens,-24.4,131.8
 992282534,Stenopetalum_decipiens,-23.95,132.89
 992282595,Stenopetalum_decipiens,-24.315392,131.634395
 994252577,Stenopetalum_decipiens,-22.998555,134.917917
@@ -137,15 +129,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994299259,Stenopetalum_decipiens,-24.081916,131.567952
 992206084,Stenopetalum_decipiens,-31.713226,128.944474
 1257345994,Stenopetalum_decipiens,-22.998564,134.267921
-993189079,Stenopetalum_decipiens,-24,133.85
 992157203,Stenopetalum_decipiens,-24.047046,133.867711
 994220001,Stenopetalum_decipiens,-24.015239,133.934597
 993159644,Stenopetalum_decipiens,-31.7167,128.8833
 994215325,Stenopetalum_decipiens,-22.998562,134.934574
-993660455,Stenopetalum_decipiens,-23,134.9333
-994621351,Stenopetalum_decipiens,-23.1,134.95
 992098716,Stenopetalum_decipiens,-23.14,134.95
-992153728,Stenopetalum_decipiens,-23.7,133.9
 994227583,Stenopetalum_decipiens,-23.698572,133.451262
 993679523,Stenopetalum_decipiens,-23.7167,133.4667
 993749221,Stenopetalum_decipiens,-24.2667,134.0333
@@ -155,15 +143,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993745049,Stenopetalum_decipiens,-22.75,134.2667
 994227618,Stenopetalum_decipiens,-22.665232,134.201247
 992095930,Stenopetalum_decipiens,-22.802875,134.314367
-994621292,Stenopetalum_decipiens,-23,134.35
 993343367,Stenopetalum_decipiens,-23.7333,134.0833
 994214349,Stenopetalum_decipiens,-23.7319,134.101259
-992347623,Stenopetalum_decipiens,-25.9,131.7
 996221429,Stenopetalum_decipiens,-22.27,137.97
 1257295247,Stenopetalum_decipiens,-22.365205,137.951205
-993745078,Stenopetalum_decipiens,-23.7,133.8667
-996221435,Stenopetalum_decipiens,-23.7,133.87
 992154086,Stenopetalum_decipiens,-22.35,131.67
-993159462,Stenopetalum_decipiens,-22.25,131.8
 1651995308,Stenopetalum_decipiens,-26.498588,143.500913
 992154124,Stenopetalum_decipiens,-23.568156,133.867709
