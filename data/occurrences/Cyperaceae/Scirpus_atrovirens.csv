@@ -25,7 +25,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988624912,Scirpus_atrovirens,43.641694,-84.335095
 1989206696,Scirpus_atrovirens,43.65213,-84.334039
 1258074205,Scirpus_atrovirens,37.63996,-91.35449
-1837904430,Scirpus_atrovirens,48.019444,7.591389
 1978879422,Scirpus_atrovirens,41.75914,-84.93892
 1258176333,Scirpus_atrovirens,39.0858,-92.5806
 1978880210,Scirpus_atrovirens,41.97094,-83.9444
@@ -34,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265592077,Scirpus_atrovirens,48.689667,-95.84215
 1899334042,Scirpus_atrovirens,44.904556,-77.530375
 1257980964,Scirpus_atrovirens,37.978778,-90.526111
-1988204090,Scirpus_atrovirens,51.26,-116.59
 2265589168,Scirpus_atrovirens,47.323739,-91.348175
 2265965720,Scirpus_atrovirens,47.323611,-91.348056
 2265593049,Scirpus_atrovirens,44.309883,-92.687983
@@ -142,7 +140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265593479,Scirpus_atrovirens,43.894385,-92.624496
 345675544,Scirpus_atrovirens,33.2965,-97.6146
 1990674215,Scirpus_atrovirens,44.055167,-98.087167
-1849179800,Scirpus_atrovirens,35.017,-178.7546
 177026799,Scirpus_atrovirens,38.418889,-96.566667
 1257691132,Scirpus_atrovirens,37.45,-91.1303
 1260543758,Scirpus_atrovirens,36.94666,-92.06472
@@ -282,7 +279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177027229,Scirpus_atrovirens,38.050184,-96.527289
 177027226,Scirpus_atrovirens,37.55821,-95.30644
 56660322,Scirpus_atrovirens,35.48333,-87.43333
-1989931796,Scirpus_atrovirens,54.131912,-115.673295
 1260964684,Scirpus_atrovirens,37.60805,-92.91416
 2265396757,Scirpus_atrovirens,43.637724,-92.219269
 1260043808,Scirpus_atrovirens,38.166667,-90.7
@@ -318,7 +314,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177027447,Scirpus_atrovirens,38.66008,-95.68496
 1989013096,Scirpus_atrovirens,44.41726,-83.333104
 2265397793,Scirpus_atrovirens,45.273759,-92.765475
-668762089,Scirpus_atrovirens,46.85,-71
 177026805,Scirpus_atrovirens,43.743,-85.537
 473453109,Scirpus_atrovirens,45.466667,-73.933333
 2265399851,Scirpus_atrovirens,45.081389,-92.806389
@@ -393,7 +388,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265398942,Scirpus_atrovirens,43.623411,-92.219152
 1804478300,Scirpus_atrovirens,45.443056,-76.372222
 1257787612,Scirpus_atrovirens,49.766667,-87.733333
-1804493574,Scirpus_atrovirens,45.433333,-75.6
 2265398486,Scirpus_atrovirens,45.216197,-93.775961
 177026857,Scirpus_atrovirens,38.7493,-95.1533
 1899280543,Scirpus_atrovirens,43.7,-79.3125
@@ -436,7 +430,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899352289,Scirpus_atrovirens,42.275,-82.441667
 2265399154,Scirpus_atrovirens,45.446339,-94.043783
 2265399020,Scirpus_atrovirens,45.090515,-92.777311
-1804580180,Scirpus_atrovirens,45.383333,-75.7
 1804560547,Scirpus_atrovirens,45.65,-64.733333
 1262006047,Scirpus_atrovirens,45.383333,-71.983333
 2265398963,Scirpus_atrovirens,48.287244,-94.564235
@@ -519,7 +512,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899380696,Scirpus_atrovirens,44.85,-79.316667
 1455173690,Scirpus_atrovirens,45.633333,-74.166667
 699273159,Scirpus_atrovirens,41.58333,-77.98305
-668762085,Scirpus_atrovirens,46.916667,-70.966667
 668762086,Scirpus_atrovirens,46.883333,-71.066667
 1899380714,Scirpus_atrovirens,44.783333,-79.333333
 473486110,Scirpus_atrovirens,45.5794,-73.6611
@@ -527,7 +519,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177026876,Scirpus_atrovirens,37.77624,-95.34376
 1697949872,Scirpus_atrovirens,50.033333,-97.45
 1261996098,Scirpus_atrovirens,46.8,-71.183333
-668762084,Scirpus_atrovirens,47.133889,-70.415
 415982282,Scirpus_atrovirens,41.88527,-72.26138
 1989083415,Scirpus_atrovirens,42.645692,-85.496234
 415952385,Scirpus_atrovirens,41.58277,-73.20416
@@ -588,7 +579,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894987347,Scirpus_atrovirens,45.5,-76.083333
 1261969282,Scirpus_atrovirens,48.813953,-66.103469
 177027457,Scirpus_atrovirens,38.452151,-96.15
-1988118026,Scirpus_atrovirens,45.41,-75.7
 177027532,Scirpus_atrovirens,39.55967,-95.26802
 1989057007,Scirpus_atrovirens,42.456686,-84.005246
 177026880,Scirpus_atrovirens,39.166114,-94.781072
@@ -657,7 +647,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261982735,Scirpus_atrovirens,46.759722,-71.108056
 1261982776,Scirpus_atrovirens,46.386,-70.925
 177027371,Scirpus_atrovirens,39.000784,-95.626093
-1989852191,Scirpus_atrovirens,9.600036,7.999972
 415982294,Scirpus_atrovirens,45.46166,-84.66472
 1319439563,Scirpus_atrovirens,38.9711,-77.0767
 177026875,Scirpus_atrovirens,38.88461,-95.54141
@@ -702,7 +691,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988986879,Scirpus_atrovirens,44.122687,-83.572584
 415982296,Scirpus_atrovirens,42.93,-87.92416
 2265398650,Scirpus_atrovirens,44.97439,-93.23796
-1322453152,Scirpus_atrovirens,38.8858,-77.0972
 177026878,Scirpus_atrovirens,37.87816,-94.70595
 1258102670,Scirpus_atrovirens,38.576667,-92.173333
 1260970434,Scirpus_atrovirens,36.946389,-92.046389
@@ -713,7 +701,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265397940,Scirpus_atrovirens,46.800337,-92.142643
 1988870618,Scirpus_atrovirens,42.45345,-84.02967
 1899285328,Scirpus_atrovirens,43.811738,-79.630279
-1320499235,Scirpus_atrovirens,38.9414,-76.9653
 2265398270,Scirpus_atrovirens,48.03819,-92.93876
 1929109804,Scirpus_atrovirens,40.792095,-77.852963
 1899366002,Scirpus_atrovirens,43.98339,-79.61643
@@ -736,7 +723,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989075259,Scirpus_atrovirens,45.9,-81.916667
 415930609,Scirpus_atrovirens,44.36611,-75.49666
 699271288,Scirpus_atrovirens,42.95055,-71.87222
-1319913638,Scirpus_atrovirens,38.9103,-76.9664
 415982276,Scirpus_atrovirens,41.76194,-72.74194
 415982256,Scirpus_atrovirens,41.75916,-72.67277
 415982278,Scirpus_atrovirens,41.51972,-72.54361
@@ -772,7 +758,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038926908,Scirpus_atrovirens,41.6522,-73.3144
 177026868,Scirpus_atrovirens,39.825845,-95.141389
 2265396187,Scirpus_atrovirens,44.93506,-93.461906
-1319721576,Scirpus_atrovirens,38.8486,-76.9242
 1321450102,Scirpus_atrovirens,38.9694,-77.1767
 1928352073,Scirpus_atrovirens,40.767743,-74.599684
 415982262,Scirpus_atrovirens,41.39138,-72.6975
@@ -783,12 +768,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930351942,Scirpus_atrovirens,39.947823,-75.97605
 1927821108,Scirpus_atrovirens,39.869556,-75.427417
 1988759226,Scirpus_atrovirens,44.365453,-86.260259
-1320815221,Scirpus_atrovirens,38.8169,-77.0067
-1322118367,Scirpus_atrovirens,38.8708,-77.0417
 1930266783,Scirpus_atrovirens,42.147866,-74.619877
 1928962105,Scirpus_atrovirens,39.680327,-74.560763
-1261991828,Scirpus_atrovirens,45.4,-75.816667
-1321758155,Scirpus_atrovirens,38.9353,-76.9886
 1260950241,Scirpus_atrovirens,37.926111,-91.9775
 1039012501,Scirpus_atrovirens,41.3644,-72.7767
 1228431239,Scirpus_atrovirens,41.722535,-87.575046
@@ -799,7 +780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1319128821,Scirpus_atrovirens,39.2153,-76.6961
 1260959003,Scirpus_atrovirens,37.116111,-94.165556
 1317540533,Scirpus_atrovirens,38.9689,-77.1428
-1228423680,Scirpus_atrovirens,41.19031,41.19031
 1038964364,Scirpus_atrovirens,41.5367,-72.7944
 1228372445,Scirpus_atrovirens,41.15,-87.8667
 1038979002,Scirpus_atrovirens,41.4878,-73.4883
@@ -808,9 +788,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415982289,Scirpus_atrovirens,41.46555,-73.48555
 1038933034,Scirpus_atrovirens,41.986,-73.4257
 1228342326,Scirpus_atrovirens,42.135027,-87.758119
-415982290,Scirpus_atrovirens,42.57777,-70.76888
 1038921844,Scirpus_atrovirens,41.3379,-73.2249
-1426166105,Scirpus_atrovirens,36.9681999972135,-118.637605784574
 1988625296,Scirpus_atrovirens,42.78629,-86.10389
 1929809826,Scirpus_atrovirens,40.032329,-75.556038
 1038927153,Scirpus_atrovirens,41.6153,-72.1432
@@ -831,7 +809,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415982253,Scirpus_atrovirens,41.98333,-73.42111
 1989266184,Scirpus_atrovirens,45.781021,-87.068509
 415982258,Scirpus_atrovirens,41.41388,-73.30333
-1929939539,Scirpus_atrovirens,40.862289,-73.877023
 1928702620,Scirpus_atrovirens,40.644197,-73.666013
 1929022930,Scirpus_atrovirens,40.744074,-74.324465
 1038928017,Scirpus_atrovirens,41.8575,-73.4376
