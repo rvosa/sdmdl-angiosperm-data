@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258208263,Calea_ternifolia,14.100833,-89.681389
 1585295225,Calea_ternifolia,14.07051,-89.69964
 1258210977,Calea_ternifolia,14.070278,-89.699444
-1585294370,Calea_ternifolia,13.10083,-89.68142
 1258205257,Calea_ternifolia,13.811389,-89.573889
 1585296938,Calea_ternifolia,13.81153,-89.57414
 1419165740,Calea_ternifolia,16.812944,-93.187139
@@ -59,8 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261027545,Calea_ternifolia,13.385278,-86.261667
 1585293137,Calea_ternifolia,14.15,-89.23333
 1585297611,Calea_ternifolia,13.84694,-89.94972
-1257670106,Calea_ternifolia,13.616667,-89.183333
-1585292922,Calea_ternifolia,13.61667,-89.18333
 1585293125,Calea_ternifolia,13.85,-88.93333
 1894415793,Calea_ternifolia,18.169833,-97.638111
 1417699389,Calea_ternifolia,18.461778,-99.283611
@@ -181,7 +178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896355544,Calea_ternifolia,18.258333,-94.889167
 1896355563,Calea_ternifolia,18.258333,-94.858333
 1585292914,Calea_ternifolia,13.56667,-89.2
-1585293184,Calea_ternifolia,13.68333,-89.25
 1929812791,Calea_ternifolia,17.23,-88.92
 1418339397,Calea_ternifolia,19.5,-96.908333
 1895141804,Calea_ternifolia,16.799167,-92.247778
@@ -445,7 +441,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929156487,Calea_ternifolia,17.4344,-99.5189
 1895199706,Calea_ternifolia,19.415278,-96.809722
 1893632649,Calea_ternifolia,17.396667,-99.528333
-1259851789,Calea_ternifolia,14.11555,-87.19472
 1895380490,Calea_ternifolia,19.433333,-96.8
 1895197611,Calea_ternifolia,17.436111,-99.520278
 1895197580,Calea_ternifolia,23.606944,-99.207222
@@ -510,7 +505,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261308341,Calea_ternifolia,14.765278,-87.645833
 1258722827,Calea_ternifolia,13.133333,-86.45
 1895197578,Calea_ternifolia,17.596944,-99.300833
-1259848789,Calea_ternifolia,14.0575,-87.207778
 1895199653,Calea_ternifolia,18.670556,-99.660278
 1895380508,Calea_ternifolia,17.711703,-97.648797
 1261313266,Calea_ternifolia,12.983333,-86.3
@@ -592,7 +586,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928476063,Calea_ternifolia,13.03,-86.28
 1896361760,Calea_ternifolia,19.341667,-96.775
 1895199617,Calea_ternifolia,16.924167,-93.473889
-1258576333,Calea_ternifolia,14.064167,-87.175
 1258502695,Calea_ternifolia,13.033333,-86.283333
 1260582881,Calea_ternifolia,16.785833,-93.333611
 1896211482,Calea_ternifolia,18.0275,-95.528333
@@ -603,7 +596,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927954784,Calea_ternifolia,13.38,-86.27
 1895380493,Calea_ternifolia,17,-92.15
 1896287366,Calea_ternifolia,17.008333,-92.158333
-1259851070,Calea_ternifolia,14.078611,-87.153889
 1895380510,Calea_ternifolia,19.588217,-96.981058
 1895380499,Calea_ternifolia,16.769806,-93.285225
 1929721496,Calea_ternifolia,16.7781,-93.2781
@@ -655,10 +647,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895380470,Calea_ternifolia,16.477358,-94.00935
 1895411182,Calea_ternifolia,17.110936,-96.636925
 1259020012,Calea_ternifolia,17.11,-96.63
-1259850363,Calea_ternifolia,14.12972,-87.16444
-1895380554,Calea_ternifolia,19.624983,-96.408011
-1895380519,Calea_ternifolia,19.724714,-96.410939
-1896287334,Calea_ternifolia,18.665556,-95.136111
 1259851048,Calea_ternifolia,17.66222,-88.37
 1259850445,Calea_ternifolia,17.01666,-88.96666
 1895380505,Calea_ternifolia,16.219103,-93.890533
@@ -680,9 +668,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258576325,Calea_ternifolia,13.980833,-86.870556
 1895199663,Calea_ternifolia,18.291667,-95.141667
 1896290663,Calea_ternifolia,18.058333,-95.258333
-1895197543,Calea_ternifolia,19.6775,-96.423889
-1896287376,Calea_ternifolia,19.716667,-96.416667
-1896287353,Calea_ternifolia,19.658333,-96.425
 1895199666,Calea_ternifolia,23.169444,-99.81
 1895798656,Calea_ternifolia,23.541667,-99.875
 1895199686,Calea_ternifolia,23.414444,-99.816944
@@ -735,7 +720,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929192562,Calea_ternifolia,18.35,-96.285828
 1896287330,Calea_ternifolia,18.458333,-95.025
 1893389770,Calea_ternifolia,20.525,-99.325
-1895197609,Calea_ternifolia,20.129722,-96.713056
 1895411159,Calea_ternifolia,16.7632524330818,-96.8589303629172
 1895380577,Calea_ternifolia,16.516497,-93.932653
 1895380500,Calea_ternifolia,18.925325,-98.889878
@@ -745,7 +729,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895380468,Calea_ternifolia,19.467461,-96.7742
 1895380461,Calea_ternifolia,16.896111,-93.458889
 1895380439,Calea_ternifolia,16.5402139959737,-92.473548091223
-1896287358,Calea_ternifolia,20.125,-96.691667
 1928967350,Calea_ternifolia,15.97,-92.01
 1895199585,Calea_ternifolia,19.475,-100.491667
 1893406215,Calea_ternifolia,16.841667,-92.458333
@@ -782,7 +765,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895362020,Calea_ternifolia,22.973022,-98.065844
 1895380497,Calea_ternifolia,19.278253,-103.164075
 1895199717,Calea_ternifolia,22.977778,-98.064444
-1424785892,Calea_ternifolia,3.75,-76.5
 1258576246,Calea_ternifolia,17.341389,-88.559444
 1896287338,Calea_ternifolia,22.376111,-99.566944
 1895361962,Calea_ternifolia,22.5710334470464,-100.264581037115
@@ -819,7 +801,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258576338,Calea_ternifolia,16.7975,-88.314444
 1895199634,Calea_ternifolia,24.625,-99.006111
 44475906,Calea_ternifolia,10.13,-84.55
-1258576351,Calea_ternifolia,13.716667,-89.2
 1895380477,Calea_ternifolia,19.02,-103.87
 1895199662,Calea_ternifolia,19.257778,-103.528056
 1259851442,Calea_ternifolia,19.260556,-103.530833
