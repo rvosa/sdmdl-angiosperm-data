@@ -2,8 +2,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992081536,Lepidium_foliosum,-34.5321,135.4286
 996806470,Lepidium_foliosum,-33.965837,122.010994
 996352861,Lepidium_foliosum,-33.075,123.233
-994510472,Lepidium_foliosum,-40.9,145.6
-994609410,Lepidium_foliosum,-41,148
 994492957,Lepidium_foliosum,-42.11527,148.26768
 994502277,Lepidium_foliosum,-43.5653,146.51773
 1937307652,Lepidium_foliosum,-38.0167,147.5667
@@ -12,9 +10,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993180040,Lepidium_foliosum,-41.1833,146.35
 996746948,Lepidium_foliosum,-32.116667,121.983333
 992003544,Lepidium_foliosum,-41.1512,146.5541
-1061560677,Lepidium_foliosum,-38.8,146.4
 992495359,Lepidium_foliosum,-37.682023,144.91773
-993261784,Lepidium_foliosum,-35,116.7333
 994675940,Lepidium_foliosum,-38.3667,142.2167
 1805850198,Lepidium_foliosum,-38.383333,142.233333
 993230254,Lepidium_foliosum,-38.3833,142.2333
