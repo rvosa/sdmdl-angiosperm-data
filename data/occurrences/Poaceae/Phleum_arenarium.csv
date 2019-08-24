@@ -41,7 +41,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788584076,Phleum_arenarium,55.7082,14.17225
 1936598595,Phleum_arenarium,43.4393,-3.6192
 953185,Phleum_arenarium,56.43629,12.84226
-788797528,Phleum_arenarium,41.3,26.133333
 1705343615,Phleum_arenarium,55.684462,13.49518
 1697374948,Phleum_arenarium,56.859611,35.911896
 788538304,Phleum_arenarium,57.102778,9.123889
@@ -56,7 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936542124,Phleum_arenarium,43.3414,-4.4818
 1144752232,Phleum_arenarium,42.73333,9.13333
 1439646684,Phleum_arenarium,41.14,1.39
-1144752270,Phleum_arenarium,42.73333,9.2
 1144752272,Phleum_arenarium,41.53333,9.26667
 991876538,Phleum_arenarium,53.8485,11.7486
 788660223,Phleum_arenarium,55.90146,14.072726
@@ -75,7 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891596422,Phleum_arenarium,51.22,4.42
 1891589588,Phleum_arenarium,50.85,3.38
 953222,Phleum_arenarium,58.874467,11.153582
-1439646597,Phleum_arenarium,41.32,2.1
 953292,Phleum_arenarium,55.83228,14.08364
 1705367635,Phleum_arenarium,55.838733,14.092053
 953194,Phleum_arenarium,55.73087,14.1113
@@ -89,15 +86,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995405434,Phleum_arenarium,51.1167,2.6333
 953267,Phleum_arenarium,55.68596,14.22632
 1705461550,Phleum_arenarium,55.923565,14.292623
-993628110,Phleum_arenarium,52.1333,4.4
 953251,Phleum_arenarium,55.428153,14.110889
 953303,Phleum_arenarium,56.00441,14.1607
 788576521,Phleum_arenarium,55.9336,14.31382
-995405878,Phleum_arenarium,51.1,2.5833
 953261,Phleum_arenarium,55.984255,14.269795
 953115,Phleum_arenarium,55.96308,14.34825
 952920,Phleum_arenarium,56.47606,14.69397
-995405742,Phleum_arenarium,50.8,-0.5667
 953139,Phleum_arenarium,55.7529,14.19329
 1439646703,Phleum_arenarium,41.23,1.99
 995405845,Phleum_arenarium,52.9167,0.4833
@@ -117,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891605500,Phleum_arenarium,51.13,2.75
 616364705,Phleum_arenarium,50.75558,6.077055
 953211,Phleum_arenarium,55.60694,13.002764
-1842898414,Phleum_arenarium,41.41,2.1
 953244,Phleum_arenarium,55.935403,14.071194
 953231,Phleum_arenarium,55.774288,13.109104
 953121,Phleum_arenarium,56.031862,14.152378
