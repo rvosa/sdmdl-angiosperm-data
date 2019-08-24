@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1977794593,Lonicera_periclymenum,63.5713,9.2224
 1835184234,Lonicera_periclymenum,62.8955,6.8157
 1828867189,Lonicera_periclymenum,55.89922,14.25458
-1947276795,Lonicera_periclymenum,48.27,13
 1837902477,Lonicera_periclymenum,50.135559,8.759167
 1837902472,Lonicera_periclymenum,53.674446,8.791667
 1837902406,Lonicera_periclymenum,49.211666,7.079444
@@ -29,7 +28,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099343716,Lonicera_periclymenum,36.798,-5.113
 1702029035,Lonicera_periclymenum,59.7559,10.1656
 1702392789,Lonicera_periclymenum,59.6982,10.2881
-1060516701,Lonicera_periclymenum,53.3,9.7
 2287443629,Lonicera_periclymenum,52.328667,5.943833
 1424492862,Lonicera_periclymenum,49.579167,-1.734444
 1702379453,Lonicera_periclymenum,59.7284,10.3178
@@ -66,7 +64,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702317201,Lonicera_periclymenum,60.9007,5.6209
 1265474369,Lonicera_periclymenum,40.5155,-1.7612
 2323982822,Lonicera_periclymenum,59.041287,5.930705
-1050649090,Lonicera_periclymenum,42.84,-2.6
 1702102791,Lonicera_periclymenum,59.6113,10.8972
 354544903,Lonicera_periclymenum,51.939167,13.765
 1936202652,Lonicera_periclymenum,42.9725,-3.96
@@ -103,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895217412,Lonicera_periclymenum,40.29036,-0.86348
 143005196,Lonicera_periclymenum,43.139999,-6.17
 318115896,Lonicera_periclymenum,43.45,-5.19
-1701854463,Lonicera_periclymenum,59.4,10.8197
 1705368293,Lonicera_periclymenum,57.271439,16.461621
 1342650975,Lonicera_periclymenum,55.129262,9.508439
 1702034804,Lonicera_periclymenum,61.851,6.1282
@@ -114,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895217386,Lonicera_periclymenum,39.16176,-1.825
 1702188693,Lonicera_periclymenum,59.6756,10.6575
 78872324,Lonicera_periclymenum,38.445016,-3.375148
-1050640918,Lonicera_periclymenum,42.82,-2.7
 895217351,Lonicera_periclymenum,40.15905,-2.11645
 895217518,Lonicera_periclymenum,40.22537,-1.97478
 1503354688,Lonicera_periclymenum,52.400694,13.166667
@@ -131,7 +126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050637027,Lonicera_periclymenum,42.86,-2.65
 1851334424,Lonicera_periclymenum,42.27,-6.605
 895307324,Lonicera_periclymenum,39.8298,-0.1061
-1501126442,Lonicera_periclymenum,39.82,-0.1
 1701965127,Lonicera_periclymenum,63.1149,7.7007
 1851403309,Lonicera_periclymenum,42.67509,-5.52928
 1851371646,Lonicera_periclymenum,42.94582,-5.53789
@@ -152,7 +146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199488460,Lonicera_periclymenum,36.931,-3.848
 1949953591,Lonicera_periclymenum,56.205556,-4.702778
 1705316996,Lonicera_periclymenum,57.255268,16.462991
-786184875,Lonicera_periclymenum,54.1,13.4
 932704855,Lonicera_periclymenum,42.52911,-8.27086
 1851357680,Lonicera_periclymenum,42.6735,-5.5518
 1702026612,Lonicera_periclymenum,59.1909,9.6739
@@ -165,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701345594,Lonicera_periclymenum,62.5802,7.6862
 211647775,Lonicera_periclymenum,39.162,-1.709
 1851373724,Lonicera_periclymenum,42.6059,-6.3053
-30878567,Lonicera_periclymenum,41.73,-1.8
 1936685197,Lonicera_periclymenum,43.3542,-5.3335
 1936673467,Lonicera_periclymenum,41.2653,-4.0996
 900317914,Lonicera_periclymenum,58.8787,9.0373
@@ -218,26 +210,22 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342650711,Lonicera_periclymenum,56.460069,8.876984
 1702020481,Lonicera_periclymenum,59.744,10.748
 442026697,Lonicera_periclymenum,53.629723,11.412222
-895204407,Lonicera_periclymenum,39.5,-0.38
 1701861017,Lonicera_periclymenum,59.5746,10.3852
 1342651169,Lonicera_periclymenum,56.106406,9.907123
 1936231497,Lonicera_periclymenum,40.6988,-3.6134
 1576193459,Lonicera_periclymenum,40.490488,-2.987339
 186818552,Lonicera_periclymenum,58.322,7.9356
-318115812,Lonicera_periclymenum,40.05,-1.3
 211647777,Lonicera_periclymenum,38.246,-2.046
 1842885263,Lonicera_periclymenum,35.35,-5.13
 788580814,Lonicera_periclymenum,56.26934,14.08545
 1701987862,Lonicera_periclymenum,59.6966,9.7986
 1842885134,Lonicera_periclymenum,35.2672,-5.4035
 1053986497,Lonicera_periclymenum,43.01,-1.35
-318115676,Lonicera_periclymenum,40.19,-1.1
 1936576168,Lonicera_periclymenum,41.8355,-5.9759
 1936575584,Lonicera_periclymenum,41.7809,-5.9975
 1936642674,Lonicera_periclymenum,43.3843,-3.7791
 1851392987,Lonicera_periclymenum,42.972,-4.931
 143005205,Lonicera_periclymenum,38.130001,-2.66
-30878692,Lonicera_periclymenum,38.130001,-3.8
 788631228,Lonicera_periclymenum,55.83251,12.92032
 1342651209,Lonicera_periclymenum,56.177656,9.989346
 1701987824,Lonicera_periclymenum,59.7798,9.9306
@@ -255,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936430448,Lonicera_periclymenum,43.2503,-6.8827
 199488412,Lonicera_periclymenum,36.11304,-5.54211
 211647776,Lonicera_periclymenum,38.17,-2.14
-318115637,Lonicera_periclymenum,42.61,-7.1
 1332783701,Lonicera_periclymenum,50.5918,9.6979
 30670684,Lonicera_periclymenum,37.23,-2.476
 1936449794,Lonicera_periclymenum,42.6159,-7.1725
@@ -267,7 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701920839,Lonicera_periclymenum,59.5146,10.5285
 1702406797,Lonicera_periclymenum,59.3199,10.9766
 1936420542,Lonicera_periclymenum,36.1239,-5.5902
-1261256243,Lonicera_periclymenum,51.8,5.95
 1702405142,Lonicera_periclymenum,59.0789,11.4164
 1705334736,Lonicera_periclymenum,57.300946,16.485371
 1705256837,Lonicera_periclymenum,57.256471,16.401706
@@ -276,16 +262,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895223626,Lonicera_periclymenum,41.556,-2.958
 21114180,Lonicera_periclymenum,59.792,10.4957
 1144178838,Lonicera_periclymenum,63.1098,7.8605
-1224534687,Lonicera_periclymenum,60.5,24.633333
 1600736715,Lonicera_periclymenum,60.50195,24.642727
 895304352,Lonicera_periclymenum,38.77,0.07
 13631578,Lonicera_periclymenum,48.3163,2.56466
 199488077,Lonicera_periclymenum,36.80341,-3.83403
 13631577,Lonicera_periclymenum,48.5316,2.75126
 186818912,Lonicera_periclymenum,58.2183,7.4161
-30878682,Lonicera_periclymenum,43.259998,-3
 1701917795,Lonicera_periclymenum,59.3184,6.353
-1851392302,Lonicera_periclymenum,42.596,-6.3
 1851327417,Lonicera_periclymenum,42.331,-6.53
 30877956,Lonicera_periclymenum,37.040001,-3.67
 1050630848,Lonicera_periclymenum,42.49,-6.46
@@ -296,10 +279,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30877908,Lonicera_periclymenum,36.950001,-4.24
 1936424203,Lonicera_periclymenum,42.8181,-6.8852
 13598315,Lonicera_periclymenum,46.8094,4.42361
-30877482,Lonicera_periclymenum,43.349998,-3
 30877963,Lonicera_periclymenum,36.860001,-4.01
 30877969,Lonicera_periclymenum,38.110001,-5.17
-786184809,Lonicera_periclymenum,54.4,12.5
 788696115,Lonicera_periclymenum,57.267789,16.403067
 1936602636,Lonicera_periclymenum,43.3493,-3.6183
 30877974,Lonicera_periclymenum,42.990002,-3.74
@@ -316,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30878011,Lonicera_periclymenum,36.959999,-3.34
 1936392974,Lonicera_periclymenum,40.4849,-6.0401
 30877971,Lonicera_periclymenum,37.139999,-3.45
-895268648,Lonicera_periclymenum,40.14,-1.3
 1936393670,Lonicera_periclymenum,43.0981,-6.4824
 1705317177,Lonicera_periclymenum,57.249178,15.026623
 895200052,Lonicera_periclymenum,39.52,-2.13
@@ -326,7 +306,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30877964,Lonicera_periclymenum,39.450001,-5.44
 1936435924,Lonicera_periclymenum,42.7732,-8.4269
 1600736655,Lonicera_periclymenum,60.215059,23.919756
-860318334,Lonicera_periclymenum,36.9,-4.85
 900226976,Lonicera_periclymenum,58.83,6.2022
 30877966,Lonicera_periclymenum,43.080002,-2.75
 1705300182,Lonicera_periclymenum,57.361546,14.791601
@@ -348,15 +327,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936124920,Lonicera_periclymenum,39.5382,-4.642
 1050632476,Lonicera_periclymenum,42.93,-1.96
 241459867,Lonicera_periclymenum,37.53,-4.41
-1050632485,Lonicera_periclymenum,42.8,-2.13
 1936154021,Lonicera_periclymenum,37.4049,-3.1142
-895265143,Lonicera_periclymenum,39.6,-1.19
-1053983468,Lonicera_periclymenum,42.64,-1.2
 1144708552,Lonicera_periclymenum,43.95083,-1.35444
 317822326,Lonicera_periclymenum,40.15,-1.65
 1936139435,Lonicera_periclymenum,41.4146,-3.097
 895269652,Lonicera_periclymenum,40.05,-1.18
-217684483,Lonicera_periclymenum,38.61,-4.9
 1936139306,Lonicera_periclymenum,39.4629,-1.1414
 1502019114,Lonicera_periclymenum,40.04,-0.71
 900226660,Lonicera_periclymenum,58.7586,6.2253
@@ -387,7 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936173198,Lonicera_periclymenum,41.8199,-3.1217
 859178,Lonicera_periclymenum,57.37281,14.44101
 1851371073,Lonicera_periclymenum,42.91,-6.24
-30877639,Lonicera_periclymenum,36.959999,-3
 1502018371,Lonicera_periclymenum,39.95,-0.72
 1936173240,Lonicera_periclymenum,40.0067,-1.361
 30877654,Lonicera_periclymenum,40.830002,-3.83
@@ -397,7 +371,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050632505,Lonicera_periclymenum,42.99,-2.98
 30877641,Lonicera_periclymenum,38.389999,-4.26
 1050592335,Lonicera_periclymenum,42.83,-2.88
-1050592357,Lonicera_periclymenum,43.26,-3.1
 1050592325,Lonicera_periclymenum,43.25,-3.36
 1936144087,Lonicera_periclymenum,41.7248,-1.9192
 1936091680,Lonicera_periclymenum,38.5218,-2.5883
@@ -419,7 +392,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806556642,Lonicera_periclymenum,42.846142,-1.752532
 1806556688,Lonicera_periclymenum,42.856399,-1.701505
 895312041,Lonicera_periclymenum,42.598,-3.774
-876155036,Lonicera_periclymenum,41.41,2.1
 1851337744,Lonicera_periclymenum,42.85,-4.16
 1805098934,Lonicera_periclymenum,42.267601,-2.502824
 1936548371,Lonicera_periclymenum,43.031747,-4.166119
@@ -471,7 +443,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701981240,Lonicera_periclymenum,60.1525,6.2862
 1851354093,Lonicera_periclymenum,42.83,-5.51
 1705325515,Lonicera_periclymenum,56.78256,12.677212
-1050592312,Lonicera_periclymenum,42.97,-2.9
 1701336404,Lonicera_periclymenum,62.4346,6.9177
 1842842411,Lonicera_periclymenum,42.253,-0.266
 1936346639,Lonicera_periclymenum,36.9041,-4.1012
@@ -543,7 +514,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702345765,Lonicera_periclymenum,62.6106,6.4278
 1702345803,Lonicera_periclymenum,62.2088,6.5583
 1705461986,Lonicera_periclymenum,58.123508,11.444048
-1842893213,Lonicera_periclymenum,41.5,1.86
 2288458893,Lonicera_periclymenum,50.452,6.102
 1702309526,Lonicera_periclymenum,59.3225,10.801
 1702345697,Lonicera_periclymenum,62.8552,7.1336
@@ -608,7 +578,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144115560,Lonicera_periclymenum,61.11844,5.90272
 1702312177,Lonicera_periclymenum,58.2757,7.5253
 1600736667,Lonicera_periclymenum,60.267458,25.461258
-2291231129,Lonicera_periclymenum,52.7,4.683333
 1144115423,Lonicera_periclymenum,58.82892,6.24369
 1144115387,Lonicera_periclymenum,58.66381,6.23753
 1144115407,Lonicera_periclymenum,58.46423,6.11775
@@ -702,13 +671,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935965955,Lonicera_periclymenum,40.2513,-5.9406
 1702332766,Lonicera_periclymenum,59.5501,10.5655
 788610848,Lonicera_periclymenum,58.64888,11.29093
-860314457,Lonicera_periclymenum,41.78,2.7
 859698,Lonicera_periclymenum,56.21197,15.51597
 788589598,Lonicera_periclymenum,55.58055,13.254462
 1144115404,Lonicera_periclymenum,58.6602,7.6073
 1144115409,Lonicera_periclymenum,58.6664,7.6027
 187194218,Lonicera_periclymenum,59.3463,5.8521
-876154379,Lonicera_periclymenum,41.6,2.46
 1935966017,Lonicera_periclymenum,41.1845,-4.0744
 788600067,Lonicera_periclymenum,55.94898,13.1135
 1144115480,Lonicera_periclymenum,60.3293,5.3318
@@ -844,7 +811,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702383024,Lonicera_periclymenum,59.8817,5.5207
 788613757,Lonicera_periclymenum,55.60694,13.002764
 1702383029,Lonicera_periclymenum,59.8463,5.4923
-786184886,Lonicera_periclymenum,49.6,7.9
 1842882777,Lonicera_periclymenum,34.92,-4.59
 1702026024,Lonicera_periclymenum,59.6747,10.5882
 1340034433,Lonicera_periclymenum,56.16416,15.2831
@@ -955,7 +921,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701703044,Lonicera_periclymenum,58.8589,5.7664
 788607409,Lonicera_periclymenum,56.919638,12.486377
 39445326,Lonicera_periclymenum,65.679,-18.104
-786184854,Lonicera_periclymenum,49.8,9.5
 1705295914,Lonicera_periclymenum,56.435774,12.72815
 788589898,Lonicera_periclymenum,55.56133,14.109405
 788589481,Lonicera_periclymenum,55.56513,13.2073
@@ -965,6 +930,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 859265,Lonicera_periclymenum,57.79779,14.06657
 187194268,Lonicera_periclymenum,59.2161,10.7955
 187194270,Lonicera_periclymenum,59.2292,10.8225
-1099042158,Lonicera_periclymenum,46.816666,13.5
 859174,Lonicera_periclymenum,57.69524,14.80645
 788612203,Lonicera_periclymenum,58.938115,11.175614
