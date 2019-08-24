@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937166801,Maireana_brevifolia,-33.928056,147.176667
-1988306777,Maireana_brevifolia,31.25972,34.80583
 1805912734,Maireana_brevifolia,-34.61088,138.41398
 1071904776,Maireana_brevifolia,-33.806953,141.934281
 1132252135,Maireana_brevifolia,-34.731,141.354861
@@ -184,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992017387,Maireana_brevifolia,-33.0217,135.2625
 992017281,Maireana_brevifolia,-33.268611,135.673333
 991996814,Maireana_brevifolia,-34.267038,140.894125
-453370078,Maireana_brevifolia,-32.375,19.375
 996635857,Maireana_brevifolia,-32.203492,116.967872
 995542397,Maireana_brevifolia,-31.946111,141.498056
 996637267,Maireana_brevifolia,-33.579722,120.074444
@@ -224,7 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996635671,Maireana_brevifolia,-29.124722,115.798056
 995887013,Maireana_brevifolia,-28.07,145.6
 1652173963,Maireana_brevifolia,-28.079966,145.61562
-1929435719,Maireana_brevifolia,34.43,-119.65
 996579304,Maireana_brevifolia,-30.686202,121.467832
 992598049,Maireana_brevifolia,-30.6863,121.4676
 1257356289,Maireana_brevifolia,-23.698582,132.667939
@@ -276,11 +273,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085177418,Maireana_brevifolia,-34.04823,138.15017
 992592513,Maireana_brevifolia,-33.988333,137.855556
 992593340,Maireana_brevifolia,-34.0228,137.6675
-992591581,Maireana_brevifolia,-33.797778,137.688056
 1085167871,Maireana_brevifolia,-33.7632,137.98043
 992592647,Maireana_brevifolia,-33.764722,137.979167
 1085169479,Maireana_brevifolia,-33.73117,137.83409
-1085177376,Maireana_brevifolia,-33.79634,137.68946
 992599167,Maireana_brevifolia,-33.804722,139.083056
 1085179587,Maireana_brevifolia,-33.32767,139.13637
 1085179733,Maireana_brevifolia,-33.26784,139.11358
@@ -377,8 +372,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992500530,Maireana_brevifolia,-32.665381,138.584408
 993902299,Maireana_brevifolia,-34.9,143.3167
 993902629,Maireana_brevifolia,-30.2333,138.4667
-1085500887,Maireana_brevifolia,-32.30229,133.58021
-992506434,Maireana_brevifolia,-32.305556,133.578889
 992505870,Maireana_brevifolia,-32.273056,133.577222
 992483080,Maireana_brevifolia,-34.95,138.583333
 996376259,Maireana_brevifolia,-33.6,120.2
@@ -386,7 +379,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993329948,Maireana_brevifolia,-30.9667,144.6667
 992497682,Maireana_brevifolia,-34.73,138.55
 992487442,Maireana_brevifolia,-31.533333,138.333333
-992489128,Maireana_brevifolia,-34.533333,136.283333
 1084212655,Maireana_brevifolia,-30.49983,132.1497
 992494975,Maireana_brevifolia,-30.5,132.15
 992461014,Maireana_brevifolia,-34.649281,138.572208
@@ -416,7 +408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996396645,Maireana_brevifolia,-31.651389,116.877778
 994923683,Maireana_brevifolia,-35.75,144.1833
 994924337,Maireana_brevifolia,-35.7167,144.1333
-1419232457,Maireana_brevifolia,19.4825,-98.927222
 994924358,Maireana_brevifolia,-35.5333,143.9833
 995818551,Maireana_brevifolia,-31.52,141.65
 995054612,Maireana_brevifolia,-34.7,142.35
@@ -436,9 +427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992497996,Maireana_brevifolia,-31.116389,138.652222
 1937356631,Maireana_brevifolia,-30.8167,147.5
 992371117,Maireana_brevifolia,-31.383333,138.816667
-1085492824,Maireana_brevifolia,-34.54049,136.27863
-994257992,Maireana_brevifolia,-34.531917,135.284717
-992373789,Maireana_brevifolia,-34.65,136.183333
 1652086675,Maireana_brevifolia,-28.081913,145.250903
 1451538177,Maireana_brevifolia,-29.848449,146.801187
 995768802,Maireana_brevifolia,-29.85,146.8
@@ -527,7 +515,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451607091,Maireana_brevifolia,-33.865109,148.551197
 995923950,Maireana_brevifolia,-34.67,143.57
 992350347,Maireana_brevifolia,-35.05,137.733333
-992250547,Maireana_brevifolia,-34.483333,136.266667
 992578914,Maireana_brevifolia,-32.086751,140.919101
 992446750,Maireana_brevifolia,-35.116667,139.266667
 992474405,Maireana_brevifolia,-34.416667,137.916667
@@ -552,7 +539,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992249921,Maireana_brevifolia,-34.95,138.400278
 993290637,Maireana_brevifolia,-34.5833,143.1
 993290608,Maireana_brevifolia,-34.5833,143.2
-992495823,Maireana_brevifolia,-35.332082,136.117795
 1451538017,Maireana_brevifolia,-31.315159,141.451274
 993290673,Maireana_brevifolia,-35.25,143.1167
 995768674,Maireana_brevifolia,-31.32,141.45
@@ -580,7 +566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993772789,Maireana_brevifolia,-31.4667,143.3
 993772862,Maireana_brevifolia,-30.2333,145.9333
 996376453,Maireana_brevifolia,-33.934167,118.455278
-992197214,Maireana_brevifolia,-35.6,138.1
 992185428,Maireana_brevifolia,-33.1529,140.1786
 996376339,Maireana_brevifolia,-31.223,119.325
 1937067768,Maireana_brevifolia,-31.22,119.32
@@ -776,7 +761,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992153415,Maireana_brevifolia,-32.65,137.433333
 992291088,Maireana_brevifolia,-32.484553,137.739137
 1848335891,Maireana_brevifolia,-34.183333,142.166667
-992257789,Maireana_brevifolia,-34.5,137.35
 1651976951,Maireana_brevifolia,-28.081907,146.25089
 992291080,Maireana_brevifolia,-30.816667,138.4
 992150949,Maireana_brevifolia,-32.966667,138.833333
@@ -824,7 +808,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994648846,Maireana_brevifolia,-36.5833,142.5
 995567358,Maireana_brevifolia,-36.0486,144.651
 1937280733,Maireana_brevifolia,-36.0486,144.6511
-1936837338,Maireana_brevifolia,-38.12,144.47
 994726159,Maireana_brevifolia,-38.1667,144.35
 1936924484,Maireana_brevifolia,-29.47,144.37
 1451451428,Maireana_brevifolia,-29.465134,144.367885
