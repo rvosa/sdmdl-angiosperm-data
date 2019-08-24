@@ -5,9 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1993826154,Amburana_cearensis,-18.785278,-40.441389
 1913566463,Amburana_cearensis,-17.277828,-41.6555
 1993826992,Amburana_cearensis,-11.02,-41.410556
-2235641614,Amburana_cearensis,-40.915,-40.915
-2235641821,Amburana_cearensis,-37.396111,-37.396111
-2235641796,Amburana_cearensis,-37.403333,-37.403333
 1890638551,Amburana_cearensis,-12.198056,-38.968333
 1915274342,Amburana_cearensis,-8.510833,-42.413611
 1699901527,Amburana_cearensis,-7.968056,-38.384167
@@ -30,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1423935507,Amburana_cearensis,-8.218333,-39.558611
 1702645844,Amburana_cearensis,-3.818353,-39.338553
 1265934421,Amburana_cearensis,-7.036111,-38.142778
-1503740281,Amburana_cearensis,-7.036111,-3.142778
 1252590551,Amburana_cearensis,-7.952222,-39.361667
 1913591496,Amburana_cearensis,-8.583333,-39.583333
 1423934081,Amburana_cearensis,-7.951944,-39.361389
@@ -59,12 +55,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1252591128,Amburana_cearensis,-7.224444,-39.0725
 1913591453,Amburana_cearensis,-7.368611,-39.118611
 1094930373,Amburana_cearensis,-5.199167,-39.292778
-1423916822,Amburana_cearensis,-7.224444,-3.0725
 1077248481,Amburana_cearensis,-5.798056,-37.850833
 1077248406,Amburana_cearensis,-4.970833,-39.015
 1094930444,Amburana_cearensis,-4.970556,-39.015
 1094928054,Amburana_cearensis,-5.126667,-40.883056
-1094930515,Amburana_cearensis,-5.798056,-17.850556
 1913591457,Amburana_cearensis,-7.666667,-38.951944
 1090913792,Amburana_cearensis,-8.261472,-37.700667
 1087692859,Amburana_cearensis,-9.917222,-37.278056
@@ -244,7 +238,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094773972,Amburana_cearensis,-8.073611,-37.206667
 1090928333,Amburana_cearensis,-9.833333,-42.283333
 1090485481,Amburana_cearensis,-9.758056,-42.335556
-1094172527,Amburana_cearensis,-30.216667,-43.044444
 1090955073,Amburana_cearensis,-9.503611,-43.4
 1270112907,Amburana_cearensis,-9.630278,-42.665833
 1077213103,Amburana_cearensis,-9.503611,-43.044444
