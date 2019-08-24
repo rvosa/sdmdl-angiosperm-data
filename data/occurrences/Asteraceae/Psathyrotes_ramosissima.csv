@@ -13,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270466162,Psathyrotes_ramosissima,34.2653,-112.927
 1426427739,Psathyrotes_ramosissima,33.583333,-115.938333
 1846502106,Psathyrotes_ramosissima,32.658333,-114.143056
-1986974054,Psathyrotes_ramosissima,34.1,-115.35
 1265826252,Psathyrotes_ramosissima,38.083333,-118.966667
 1846502086,Psathyrotes_ramosissima,34.11039,-114.11144
 2242402511,Psathyrotes_ramosissima,32.326351,-113.23889
@@ -35,15 +34,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415909284,Psathyrotes_ramosissima,34.66666,-116.1675
 2270268016,Psathyrotes_ramosissima,32.9695,-115.28778
 2270210540,Psathyrotes_ramosissima,33.1262,-115.8948
-2270209062,Psathyrotes_ramosissima,33.96667,-116.5
 2270465866,Psathyrotes_ramosissima,33.59,-113.63
-2270208926,Psathyrotes_ramosissima,33.7,-116.125
 2270467446,Psathyrotes_ramosissima,32.67,-114.48
 2270467520,Psathyrotes_ramosissima,34.3687,-114.175
 2270466672,Psathyrotes_ramosissima,32.66,-114.33
 1846502076,Psathyrotes_ramosissima,33.736429,-115.855133
 1426427707,Psathyrotes_ramosissima,32.9074,-114.65151
-2270467473,Psathyrotes_ramosissima,36.12,-114
 1895436502,Psathyrotes_ramosissima,31.8077760843972,-115.104539085108
 2270520772,Psathyrotes_ramosissima,31.77,-113.49
 2270466756,Psathyrotes_ramosissima,33.53,-113.68
@@ -51,10 +47,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846502103,Psathyrotes_ramosissima,33.4931,-111.8091
 924820376,Psathyrotes_ramosissima,38.65944,-122.87056
 2270210240,Psathyrotes_ramosissima,34.555144,-115.753499
-1928302020,Psathyrotes_ramosissima,32.3,-115.31
 1893428824,Psathyrotes_ramosissima,32.608333,-115.958333
 2270466566,Psathyrotes_ramosissima,32.73,-113.74
-2270466394,Psathyrotes_ramosissima,35.2,-114.58
 1846502054,Psathyrotes_ramosissima,33.651194,-116.403389
 1893428843,Psathyrotes_ramosissima,32.575,-115.958333
 2270259465,Psathyrotes_ramosissima,34.560579,-115.623054
