@@ -23,7 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242415481,Oxytropis_lambertii,37.91671,-105.73277
 2242415494,Oxytropis_lambertii,37.68127,-106.85784
 2242389313,Oxytropis_lambertii,39.45195,-104.93368
-1257910942,Oxytropis_lambertii,43.966667,-99.2
 2242388527,Oxytropis_lambertii,39.45329,-104.93489
 2242423427,Oxytropis_lambertii,37.3184349990901,-106.264559
 2270562533,Oxytropis_lambertii,35.389448,-111.7407
@@ -65,7 +64,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270689553,Oxytropis_lambertii,33.9184,-109.163
 1930001013,Oxytropis_lambertii,33.91836,-109.16322
 1913947351,Oxytropis_lambertii,31.32055,-110.3666
-1929838154,Oxytropis_lambertii,38.4583,-107.6
 2242380543,Oxytropis_lambertii,38.349045,-105.849688
 1843903769,Oxytropis_lambertii,36.071805,-103.203195
 1843904162,Oxytropis_lambertii,36.6733,-103.1806
@@ -93,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259400021,Oxytropis_lambertii,36.50028,-106.25028
 1846517557,Oxytropis_lambertii,35.3408,-111.792267
 176990699,Oxytropis_lambertii,39.303611,-96.958611
-1986953646,Oxytropis_lambertii,37.5,-112.015833
 1843894645,Oxytropis_lambertii,39.7081,-105.6978
 2242358084,Oxytropis_lambertii,37.5422,-106.5393
 1259882148,Oxytropis_lambertii,39.70805,-105.69777
@@ -112,7 +109,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176990353,Oxytropis_lambertii,37.272778,-98.550835
 176990319,Oxytropis_lambertii,34.478889,-97.027778
 176990305,Oxytropis_lambertii,35.576946,-99.685554
-1258967625,Oxytropis_lambertii,40.48333,-105.2
 2242377938,Oxytropis_lambertii,40.884442,-103.678957
 2238753530,Oxytropis_lambertii,42.526528,-103.942861
 1927985008,Oxytropis_lambertii,36.53003,-109.31283
@@ -162,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929243111,Oxytropis_lambertii,38.3475,-106.074
 1928559522,Oxytropis_lambertii,43.3797,-103.5314
 1930720417,Oxytropis_lambertii,37.97,-109.35
-1930704590,Oxytropis_lambertii,39.3,-109.21
 1927773512,Oxytropis_lambertii,37.97,-109.33
 176990670,Oxytropis_lambertii,39.381591,-99.517839
 2265446965,Oxytropis_lambertii,44.488589,-94.842347
@@ -181,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242355300,Oxytropis_lambertii,33.2321411203193,-108.248934407281
 1846511177,Oxytropis_lambertii,36.659,-110.442
 1843809369,Oxytropis_lambertii,36.244367,-104.51005
-1929670697,Oxytropis_lambertii,41.33,-106.2
 1929651120,Oxytropis_lambertii,41.647,-105.4709
 2242419753,Oxytropis_lambertii,39.866667,-105.616667
 1703292354,Oxytropis_lambertii,49.7518864132772,-99.6773074265
@@ -192,8 +186,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265450280,Oxytropis_lambertii,44.200556,-95.064722
 2270613121,Oxytropis_lambertii,35.0003,-111.667
 2270628792,Oxytropis_lambertii,31.9394,-109.981
-1927907385,Oxytropis_lambertii,37.1,-111.97
-1927860380,Oxytropis_lambertii,37.56,-112
 1931015904,Oxytropis_lambertii,42.1549,-100.9975
 176990290,Oxytropis_lambertii,43.6693,-103.2636
 176990669,Oxytropis_lambertii,39.181205,-96.86435
@@ -205,11 +197,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261462476,Oxytropis_lambertii,35.2702,-111.6531
 1928841939,Oxytropis_lambertii,35.2447,-111.6044
 2270613325,Oxytropis_lambertii,35.2468,-111.604
-1846511174,Oxytropis_lambertii,32.918333,-107.7
 2242370288,Oxytropis_lambertii,39.696141,-105.131717
-1927908608,Oxytropis_lambertii,37.5,-112.02
 2242378939,Oxytropis_lambertii,40.366629,-105.576172
-2265366416,Oxytropis_lambertii,44.917778,-95.8
 2265363389,Oxytropis_lambertii,45.636666,-96.833633
 2265364675,Oxytropis_lambertii,45.421214,-96.646948
 2265368300,Oxytropis_lambertii,45.49473,-96.73027
@@ -332,7 +321,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176989951,Oxytropis_lambertii,39.7561,-99.3994
 176989988,Oxytropis_lambertii,38.81905,-101.06947
 1703287682,Oxytropis_lambertii,49.7668880571171,-99.3332964272212
-2270502948,Oxytropis_lambertii,39.3,-111.31
 2242368261,Oxytropis_lambertii,40.020494,-106.377748
 176989944,Oxytropis_lambertii,38.27254,-98.98093
 1804408258,Oxytropis_lambertii,49.783333,-99.633333
@@ -342,7 +330,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843826786,Oxytropis_lambertii,34.354738,-107.855945
 2270615447,Oxytropis_lambertii,31.88464,-109.31517
 1843826601,Oxytropis_lambertii,34.302934,-108.018929
-2270615595,Oxytropis_lambertii,33.6,-109.64
 240493887,Oxytropis_lambertii,40.147227,-97.534409
 176990680,Oxytropis_lambertii,38.42393,-99.71785
 176989925,Oxytropis_lambertii,37.64028,-98.72844
@@ -449,7 +436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176990649,Oxytropis_lambertii,37.50345,-99.05166
 240493746,Oxytropis_lambertii,40.10127,-99.9004
 240493857,Oxytropis_lambertii,46.96181,-99.53005
-2270502773,Oxytropis_lambertii,36.2,-109.09
 2265367884,Oxytropis_lambertii,45.672324,-95.531151
 240493889,Oxytropis_lambertii,41.312796,-106.141677
 2270613496,Oxytropis_lambertii,36.4519,-109.17
@@ -757,7 +743,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176990572,Oxytropis_lambertii,39.91164,-97.861106
 240493734,Oxytropis_lambertii,43.35242,-97.57639
 240493894,Oxytropis_lambertii,43.54306,-97.13771
-1675916546,Oxytropis_lambertii,39,-105.37
 1095183433,Oxytropis_lambertii,38.8534,-101.59111
 1095183464,Oxytropis_lambertii,38.99891,-101.73923
 176989945,Oxytropis_lambertii,37.25185,-98.82093
@@ -866,7 +851,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095183436,Oxytropis_lambertii,38.04668,-97.34504
 415941390,Oxytropis_lambertii,48.04166,-99.45027
 1055299569,Oxytropis_lambertii,34.452756,-106.087269
-1228605912,Oxytropis_lambertii,35,-105
 1928125858,Oxytropis_lambertii,38.833882,-104.821363
 1929153658,Oxytropis_lambertii,39.761376,-105.684448
 2242376332,Oxytropis_lambertii,40.080781,-105.510408
@@ -877,5 +861,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927883765,Oxytropis_lambertii,38.404163,-106.415028
 2242376596,Oxytropis_lambertii,37.370865,-104.991857
 1928181080,Oxytropis_lambertii,38.872179,-104.749832
-1417784424,Oxytropis_lambertii,32.783333,-96.8
 240493619,Oxytropis_lambertii,41.574,-105.3358
