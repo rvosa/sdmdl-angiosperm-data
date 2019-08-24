@@ -7,7 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270220264,Lupinus_albifrons,36.484167,-121.185833
 2270199295,Lupinus_albifrons,35.159,-120.639
 2270197934,Lupinus_albifrons,35.161584,-120.644324
-2270199024,Lupinus_albifrons,35.305,-120.6
 2270196859,Lupinus_albifrons,35.307,-120.657
 2270201457,Lupinus_albifrons,35.30417,-120.6586
 1563314779,Lupinus_albifrons,39.5813,-121.525
@@ -65,12 +64,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899736205,Lupinus_albifrons,35.536333,-120.809333
 1426311168,Lupinus_albifrons,34.355139,-117.880833
 1426295126,Lupinus_albifrons,34.913,-119.189667
-1500202105,Lupinus_albifrons,34.9,-119.189667
 1986976990,Lupinus_albifrons,34.913056,-119.189722
 1228502133,Lupinus_albifrons,33.470451,-117.076986
 2270200553,Lupinus_albifrons,34.936765,-119.426632
 2270198101,Lupinus_albifrons,34.5576999991182,-120.4997
-623675456,Lupinus_albifrons,38,-121
 1426295190,Lupinus_albifrons,36.799722,-119.390833
 1426295175,Lupinus_albifrons,36.822222,-119.381944
 623675422,Lupinus_albifrons,38.624722,-121.323611
@@ -80,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270198959,Lupinus_albifrons,34.7794999991157,-120.4273
 1265820887,Lupinus_albifrons,38.483333,-122.366667
 2270198477,Lupinus_albifrons,35.46411,-120.33005
-623675404,Lupinus_albifrons,35.316667,-120.6
 1426311127,Lupinus_albifrons,34.384583,-118.0425
 2270200161,Lupinus_albifrons,36.081778,-121.393145
 1261908318,Lupinus_albifrons,34.71666,-119.21666
@@ -133,12 +129,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265827267,Lupinus_albifrons,38.787818,-122.819296
 623675424,Lupinus_albifrons,39.2425,-121.3151
 1426296833,Lupinus_albifrons,37.493889,-122.278056
-1258884671,Lupinus_albifrons,39.8,-122.95
 1258896605,Lupinus_albifrons,34.725,-119.28333
-1258897598,Lupinus_albifrons,41.26666,-122.9
 1258885729,Lupinus_albifrons,38.48333,-123.16666
 1258897991,Lupinus_albifrons,39.73333,-121.48333
-1258897567,Lupinus_albifrons,41.25,-122.9
 2270503133,Lupinus_albifrons,34.26666,-116.83333
 1258897338,Lupinus_albifrons,37.33333,-121.66666
 2270201655,Lupinus_albifrons,35.30077,-120.66065
@@ -147,7 +140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51878516,Lupinus_albifrons,42.9555,-122.5236
 2270502083,Lupinus_albifrons,33.38333,-117.35
 2270201796,Lupinus_albifrons,35.418043,-120.568649
-1258926160,Lupinus_albifrons,32.9,-116.65
 2270501790,Lupinus_albifrons,41.523833,-122.287082
 1228554667,Lupinus_albifrons,41.543511,-122.336833
 2270268415,Lupinus_albifrons,36.301613,-121.474687
@@ -186,7 +178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986896969,Lupinus_albifrons,37.217222,-119.904444
 2270200614,Lupinus_albifrons,35.30823,-120.65426
 1426297129,Lupinus_albifrons,37.753333,-122.446667
-1426297123,Lupinus_albifrons,37.666667,-122.4
 2270200230,Lupinus_albifrons,34.5275999991186,-119.9463
 2270205445,Lupinus_albifrons,34.5265999991186,-119.9791
 2270201499,Lupinus_albifrons,34.5266999991186,-119.9374
@@ -246,7 +237,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51878823,Lupinus_albifrons,42.4167,-123.5833
 1228605317,Lupinus_albifrons,35.10219,-118.28369
 51877889,Lupinus_albifrons,42.5632,-123.5976
-1986877292,Lupinus_albifrons,35.058889,-119.4
 1228215972,Lupinus_albifrons,34.424373,-119.334907
 1986879916,Lupinus_albifrons,34.275556,-119.306944
 1426311569,Lupinus_albifrons,33.28546,-116.79399
@@ -285,7 +275,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228353371,Lupinus_albifrons,42.074835,-122.606977
 1228295437,Lupinus_albifrons,39.174963,-122.508049
 51878764,Lupinus_albifrons,42.3058,-123.6105
-1228475788,Lupinus_albifrons,37,-119
 51879763,Lupinus_albifrons,43.2167,-123.3406
 51879760,Lupinus_albifrons,42.9093,-122.6013
 51878981,Lupinus_albifrons,43.1284,-123.3879
