@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1882355347,Valeriana_officinalis,47.88,10.57
 1978366898,Valeriana_officinalis,60.70697,32.95708
 1606547277,Valeriana_officinalis,60.661649,23.611986
-1947728243,Valeriana_officinalis,49.04,13.2
 1935731404,Valeriana_officinalis,47.56278,15.33472
 1821767677,Valeriana_officinalis,63.0224,7.2366
 1844885313,Valeriana_officinalis,41.263889,23.695829
@@ -16,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831529299,Valeriana_officinalis,47.56194,13.64556
 1570761208,Valeriana_officinalis,67.6136,15.4396
 1438475842,Valeriana_officinalis,59.1184,10.7409
-1882356020,Valeriana_officinalis,48.84,10.7
 2244175185,Valeriana_officinalis,53.601109,9.958889
 1995317381,Valeriana_officinalis,59.764,9.9869
 1837904919,Valeriana_officinalis,48.066109,11.156111
@@ -35,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1231232296,Valeriana_officinalis,49.26833,20.15083
 1038280996,Valeriana_officinalis,48.287917,13.14315
 1839110742,Valeriana_officinalis,51.806671,12.01556
-2313367736,Valeriana_officinalis,48.08,11.4
 1340037863,Valeriana_officinalis,55.9798,13.81629
 1697673472,Valeriana_officinalis,56.60073,32.864242
 1839110784,Valeriana_officinalis,51.518059,11.26583
@@ -47,13 +44,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702169387,Valeriana_officinalis,59.5251,11.3497
 1882356559,Valeriana_officinalis,48.71,10.64
 1702170676,Valeriana_officinalis,59.514,11.275
-899806624,Valeriana_officinalis,51.4,10.9
 1702169577,Valeriana_officinalis,59.5652,11.1676
 1697351839,Valeriana_officinalis,56.5055,32.9654
 2012689958,Valeriana_officinalis,67.28781,20.11498
-1060607858,Valeriana_officinalis,51.7,9.7
 1702380034,Valeriana_officinalis,59.7489,10.2865
-1095062235,Valeriana_officinalis,59.3173,7.6
 1702168055,Valeriana_officinalis,58.7164,5.6404
 1095062734,Valeriana_officinalis,59.3247,7.6501
 1702168850,Valeriana_officinalis,59.6575,11.2663
@@ -66,14 +60,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701553674,Valeriana_officinalis,47.67417,13.73861
 1324014756,Valeriana_officinalis,68.6082,17.6331
 1324016246,Valeriana_officinalis,69.89,20.7024
-899806614,Valeriana_officinalis,49.2,7.2
 1702378002,Valeriana_officinalis,69.4519,21.5489
 1831006109,Valeriana_officinalis,48.41167,16.60333
 1831005964,Valeriana_officinalis,48.40417,16.60194
 1343103725,Valeriana_officinalis,55.794984,9.26188
 1701845314,Valeriana_officinalis,59.4661,11.2142
 1702168405,Valeriana_officinalis,59.5224,11.1985
-786298310,Valeriana_officinalis,52.5,13.8
 1701421006,Valeriana_officinalis,58.9645,5.8947
 1231231717,Valeriana_officinalis,40.68417,44.47806
 1831005970,Valeriana_officinalis,48.0075,16.29833
@@ -84,10 +76,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1438585114,Valeriana_officinalis,58.60511,26.11965
 1600375818,Valeriana_officinalis,60.492052,26.446694
 1323862344,Valeriana_officinalis,69.944,21.8046
-899806607,Valeriana_officinalis,49,8.5
 1343103305,Valeriana_officinalis,57.053047,9.05636
 1563901540,Valeriana_officinalis,59.1983,9.6114
-786298287,Valeriana_officinalis,49,8.4
 2242621085,Valeriana_officinalis,58.67635,16.17552
 1697673531,Valeriana_officinalis,54.800767,26.21431
 1702373528,Valeriana_officinalis,60.3223,5.3395
@@ -157,9 +147,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638437468,Valeriana_officinalis,46.62528,13.415
 1702373100,Valeriana_officinalis,60.1185,10.2696
 1705426129,Valeriana_officinalis,57.688552,14.848388
-1229657547,Valeriana_officinalis,43.26,-3.1
 1697696177,Valeriana_officinalis,58.309026,45.431409
-1050650986,Valeriana_officinalis,43.25,-3.1
 1343103653,Valeriana_officinalis,55.598441,11.530228
 1936218200,Valeriana_officinalis,43.2519,-3.1122
 1851399162,Valeriana_officinalis,43.258,-3.105
@@ -190,8 +178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936219287,Valeriana_officinalis,42.7684,-0.2391
 1657210659,Valeriana_officinalis,47.63147,15.27519
 1343103551,Valeriana_officinalis,55.255011,12.379111
-899806621,Valeriana_officinalis,47.9,7.7
-899806616,Valeriana_officinalis,48.1,7.7
 1701867406,Valeriana_officinalis,59.6508,11.7958
 1231224268,Valeriana_officinalis,40.97389,44.26611
 1231224156,Valeriana_officinalis,41.04861,44.17222
@@ -212,7 +198,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697696180,Valeriana_officinalis,58.890745,44.114132
 1701252884,Valeriana_officinalis,63.1114,9.6054
 441952363,Valeriana_officinalis,50.857162,14.756707
-2307410791,Valeriana_officinalis,58.1,27.06
 1343103636,Valeriana_officinalis,56.069681,12.227641
 620424550,Valeriana_officinalis,49.826389,11.492778
 1935731227,Valeriana_officinalis,47.52194,14.06556
@@ -223,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343103379,Valeriana_officinalis,55.264982,11.571948
 1323857465,Valeriana_officinalis,70.2342,28.9689
 1343103675,Valeriana_officinalis,56.112609,10.228903
-786298170,Valeriana_officinalis,49.5,9.9
 1343103661,Valeriana_officinalis,55.918875,11.679123
 1343103404,Valeriana_officinalis,55.533608,11.621158
 1697837515,Valeriana_officinalis,43.955136,41.344643
@@ -252,7 +236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343103474,Valeriana_officinalis,55.553345,11.939636
 2313473741,Valeriana_officinalis,48.16,11.49
 1231232383,Valeriana_officinalis,49.25222,20.22917
-786298128,Valeriana_officinalis,48.5,9.4
 1343103362,Valeriana_officinalis,55.230703,11.491093
 1343103658,Valeriana_officinalis,55.426182,12.004209
 1270043850,Valeriana_officinalis,52.197113,11.051061
@@ -371,7 +354,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 932704490,Valeriana_officinalis,42.0045,-7.975
 1999604542,Valeriana_officinalis,62.195189,24.298457
 1323857584,Valeriana_officinalis,70.6308,29.8198
-786298084,Valeriana_officinalis,54.1,13.4
 1657210673,Valeriana_officinalis,47.06667,14.39444
 1697673796,Valeriana_officinalis,52.893913,40.498011
 1935731148,Valeriana_officinalis,47.13639,14.34583
@@ -398,7 +380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788619709,Valeriana_officinalis,55.60644,13.63533
 788617098,Valeriana_officinalis,55.93816,13.35909
 1831355029,Valeriana_officinalis,53.5485,14.2482
-1851329920,Valeriana_officinalis,42.247,-6.4
 788623498,Valeriana_officinalis,55.85902,13.26663
 788632785,Valeriana_officinalis,55.80567,14.13946
 1323737284,Valeriana_officinalis,70.5481,30.3559
@@ -436,7 +417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788609114,Valeriana_officinalis,55.56297,13.56639
 1323821315,Valeriana_officinalis,67.9777,16.3503
 1343103461,Valeriana_officinalis,55.732047,11.984924
-1697673846,Valeriana_officinalis,53.35,35.4
 1697673517,Valeriana_officinalis,55.466667,31.716667
 1599340190,Valeriana_officinalis,69.032253,20.841929
 1332811431,Valeriana_officinalis,50.6723,9.80883
@@ -457,7 +437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702202861,Valeriana_officinalis,60.775,10.8499
 788619610,Valeriana_officinalis,55.47334,13.73123
 788616009,Valeriana_officinalis,55.48248,13.74024
-786298158,Valeriana_officinalis,48,8.7
 1702202841,Valeriana_officinalis,60.7774,10.8702
 1343103517,Valeriana_officinalis,55.6427,12.035376
 1343103433,Valeriana_officinalis,55.957911,11.938198
@@ -537,7 +516,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701793096,Valeriana_officinalis,59.8777,10.5068
 788555250,Valeriana_officinalis,55.91493,13.45814
 788628376,Valeriana_officinalis,56.26564,12.96043
-895168084,Valeriana_officinalis,60.38,23.8
 788628086,Valeriana_officinalis,55.97795,13.76837
 788609829,Valeriana_officinalis,55.48031,13.94125
 1343103415,Valeriana_officinalis,55.26086,11.760571
@@ -552,7 +530,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788612315,Valeriana_officinalis,56.00885,13.38991
 1343103414,Valeriana_officinalis,55.250446,11.822798
 1288129611,Valeriana_officinalis,50.6726,10.0329
-786298186,Valeriana_officinalis,48,8.9
 788637022,Valeriana_officinalis,55.5038,13.72646
 1702164330,Valeriana_officinalis,63.263,8.3675
 360096023,Valeriana_officinalis,61.733501,26.438601
@@ -567,7 +544,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788611012,Valeriana_officinalis,56.04221,13.39585
 788615908,Valeriana_officinalis,55.73194,14.06937
 788611836,Valeriana_officinalis,55.83808,13.95609
-788550888,Valeriana_officinalis,40.883333,21.8
 788612663,Valeriana_officinalis,55.99545,13.7402
 1343103457,Valeriana_officinalis,55.894717,11.949415
 1702090767,Valeriana_officinalis,59.4814,10.4035
@@ -670,7 +646,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343105231,Valeriana_officinalis,55.534634,11.969942
 1702153493,Valeriana_officinalis,61.4558,12.6108
 1323820624,Valeriana_officinalis,70.1795,28.4442
-1455374076,Valeriana_officinalis,49.36,12.1
 1455374110,Valeriana_officinalis,49.54,11.88
 1323815745,Valeriana_officinalis,70.7874,29.3011
 1702154246,Valeriana_officinalis,61.3999,12.6507
@@ -791,7 +766,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697673542,Valeriana_officinalis,59.773997,38.361804
 1697673505,Valeriana_officinalis,59.774337,38.363162
 1701933250,Valeriana_officinalis,59.8221,10.3285
-860311278,Valeriana_officinalis,42.41,2.7
 788628371,Valeriana_officinalis,56.09644,13.70908
 788568814,Valeriana_officinalis,55.57987,13.60666
 860311439,Valeriana_officinalis,42.48,-1.11
@@ -807,7 +781,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851378567,Valeriana_officinalis,42.198,-6.208
 788619169,Valeriana_officinalis,55.61389,13.18884
 788625396,Valeriana_officinalis,55.68555,13.68978
-1224534458,Valeriana_officinalis,61.716667,8.4
 1288129609,Valeriana_officinalis,50.7564,9.8005
 788608638,Valeriana_officinalis,55.77046,13.88121
 1598339495,Valeriana_officinalis,61.22656,24.447136
@@ -815,9 +788,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788615147,Valeriana_officinalis,55.74339,13.93191
 788631301,Valeriana_officinalis,55.64768,13.08966
 1851324826,Valeriana_officinalis,42.27,-6.605
-1050630818,Valeriana_officinalis,42.27,-6.6
 1598339492,Valeriana_officinalis,60.318261,24.9067
-1332811427,Valeriana_officinalis,50.7,9.54192
 1936422903,Valeriana_officinalis,42.1434,2.539
 1705434755,Valeriana_officinalis,57.94878,15.664278
 788610011,Valeriana_officinalis,55.92126,13.10895
@@ -841,9 +812,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788576770,Valeriana_officinalis,55.54831,13.86514
 788623786,Valeriana_officinalis,55.93862,14.07454
 788632434,Valeriana_officinalis,55.87682,14.2211
-895168913,Valeriana_officinalis,42.596,-6.3
 1598339479,Valeriana_officinalis,60.864438,25.276947
-1500200546,Valeriana_officinalis,50.716667,15.3
 788631065,Valeriana_officinalis,56.06339,14.13317
 1697673941,Valeriana_officinalis,58.076682,48.258874
 788576827,Valeriana_officinalis,56.18753,13.89742
@@ -923,7 +892,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598826413,Valeriana_officinalis,63.763487,24.270197
 788618934,Valeriana_officinalis,56.0053,13.63385
 1705321389,Valeriana_officinalis,57.790157,14.281892
-786298006,Valeriana_officinalis,53.9,13.4
 1999484344,Valeriana_officinalis,69.958344,27.322176
 788620425,Valeriana_officinalis,56.14056,13.82413
 1702370251,Valeriana_officinalis,59.6381,6.9781
@@ -952,7 +920,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323846188,Valeriana_officinalis,60.9667,24.5833
 441952238,Valeriana_officinalis,47.25,11.333333
 1087289,Valeriana_officinalis,57.19368,14.9514
-441952239,Valeriana_officinalis,48.5,11.5
 1599631171,Valeriana_officinalis,60.230692,23.858688
 1087326,Valeriana_officinalis,58.00653,14.79483
 1697837560,Valeriana_officinalis,44.354419,38.665009
@@ -960,7 +927,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705358654,Valeriana_officinalis,57.254575,14.048887
 1851362175,Valeriana_officinalis,42.28,-6.27
 1936402867,Valeriana_officinalis,42.2393,-6.3351
-876154076,Valeriana_officinalis,41.5,2.1
 788563662,Valeriana_officinalis,56.09553,12.72383
 1697673874,Valeriana_officinalis,51.58173,37.615342
 1948555289,Valeriana_officinalis,62.624935,23.185761
@@ -1020,7 +986,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1086936,Valeriana_officinalis,57.20547,14.06209
 1598339473,Valeriana_officinalis,61.038032,24.472498
 1705346559,Valeriana_officinalis,57.929714,16.601848
-1697293781,Valeriana_officinalis,52.666667,90.5
 1086939,Valeriana_officinalis,57.22538,15.07923
 1086947,Valeriana_officinalis,56.68795,15.34197
 1598826459,Valeriana_officinalis,69.82138,27.99521
@@ -1232,7 +1197,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323731870,Valeriana_officinalis,67.0506,14.0244
 1086932,Valeriana_officinalis,57.06419,13.67213
 1600373271,Valeriana_officinalis,65.007402,25.204498
-1697293879,Valeriana_officinalis,51,85.833333
 1948555308,Valeriana_officinalis,68.382715,23.627007
 1598826465,Valeriana_officinalis,60.610632,27.791165
 1705397136,Valeriana_officinalis,57.803453,16.545244
@@ -1252,7 +1216,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948555154,Valeriana_officinalis,60.62039,27.645285
 1697293818,Valeriana_officinalis,50.05,85.833333
 1697293808,Valeriana_officinalis,49.866667,86.416667
-991914131,Valeriana_officinalis,51,7.8
 1935731351,Valeriana_officinalis,47.14444,15.23333
 1323756426,Valeriana_officinalis,68.83792,17.11835
 1697673839,Valeriana_officinalis,52.335349,38.919264
@@ -1329,7 +1292,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1224531601,Valeriana_officinalis,65.128056,25.775556
 1701796473,Valeriana_officinalis,65.7206,13.1898
 1701980876,Valeriana_officinalis,60.4109,6.0177
-991914134,Valeriana_officinalis,51,7.9
 1323712050,Valeriana_officinalis,70.5057,29.7905
 1701345290,Valeriana_officinalis,63.9932,10.6659
 1697293795,Valeriana_officinalis,58.333333,99.133333
@@ -1355,7 +1317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948554963,Valeriana_officinalis,61.551026,21.698101
 1701980866,Valeriana_officinalis,64.1701,12.5405
 1144116347,Valeriana_officinalis,60.66099,5.76755
-991914130,Valeriana_officinalis,48,11.4
 1323756455,Valeriana_officinalis,70.4629,27.1072
 442115817,Valeriana_officinalis,51.673889,12.346945
 1702439064,Valeriana_officinalis,61.8057,9.3386
@@ -1381,7 +1342,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701981584,Valeriana_officinalis,64.0224,12.2669
 1701232369,Valeriana_officinalis,62.7987,11.3433
 1323731846,Valeriana_officinalis,68.2466,17.4061
-2289872746,Valeriana_officinalis,63.5,27
 1701934083,Valeriana_officinalis,62.9208,10.0307
 1600373251,Valeriana_officinalis,64.189403,23.806331
 1702439699,Valeriana_officinalis,62.1886,6.6666
@@ -1404,8 +1364,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323731888,Valeriana_officinalis,68.4585,17.1357
 1697673736,Valeriana_officinalis,55.102775,38.65177
 1323756476,Valeriana_officinalis,71.0596,28.2422
-2313445786,Valeriana_officinalis,48.24,11.4
-1978634273,Valeriana_officinalis,52.166667,4.5
 1598339586,Valeriana_officinalis,61.241703,21.498515
 1701769554,Valeriana_officinalis,62.4863,10.5619
 1598826431,Valeriana_officinalis,60.584312,27.681055
@@ -1448,7 +1406,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697673750,Valeriana_officinalis,55.628004,38.331351
 1948555228,Valeriana_officinalis,62.087572,22.496475
 1697293847,Valeriana_officinalis,55.08961,91.27096
-1099110554,Valeriana_officinalis,45.166668,26
 1600373250,Valeriana_officinalis,60.494688,27.749312
 1705397094,Valeriana_officinalis,57.679811,15.654352
 895303358,Valeriana_officinalis,41.24,-3.42
@@ -1547,7 +1504,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1224534489,Valeriana_officinalis,60.485833,22.168889
 1999615092,Valeriana_officinalis,64.222579,27.71767
 1999577216,Valeriana_officinalis,60.719945,21.955434
-1060607857,Valeriana_officinalis,50.6,6.9
 1224534618,Valeriana_officinalis,60.678611,21.988611
 1224536991,Valeriana_officinalis,64.226944,27.728611
 1099110561,Valeriana_officinalis,48.403057,10.225555
@@ -1568,7 +1524,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999575125,Valeriana_officinalis,60.538494,22.540284
 57731062,Valeriana_officinalis,62.696499,26.117701
 1224533720,Valeriana_officinalis,60.53847,9.05943
-786298278,Valeriana_officinalis,51.4,8.4
 1697673508,Valeriana_officinalis,54.990585,39.957282
 57730999,Valeriana_officinalis,60.5448,27.4524
 1999512066,Valeriana_officinalis,69.551677,25.880299
@@ -1616,11 +1571,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598339395,Valeriana_officinalis,61.326265,24.288746
 788562941,Valeriana_officinalis,56.86961,12.5529
 1099110558,Valeriana_officinalis,62.75,22.916666
-786298265,Valeriana_officinalis,51.7,7.7
 1701229042,Valeriana_officinalis,63.0485,9.1285
 1948555055,Valeriana_officinalis,61.128645,25.855564
 788621459,Valeriana_officinalis,63.39443,12.95408
-786298271,Valeriana_officinalis,47.4,10.8
 1705333823,Valeriana_officinalis,56.443317,13.353795
 1697293823,Valeriana_officinalis,56.1908,91.60113
 788628311,Valeriana_officinalis,61.72411,17.12421
@@ -1639,7 +1592,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701278831,Valeriana_officinalis,62.6926,11.8238
 1701909995,Valeriana_officinalis,59.1863,10.8224
 1999468630,Valeriana_officinalis,60.399127,23.975886
-786298236,Valeriana_officinalis,51.4,8.3
 1323712005,Valeriana_officinalis,67.3755,14.5691
 1701643853,Valeriana_officinalis,59.19856,10.87356
 1323731868,Valeriana_officinalis,67.2995,14.6517
@@ -1647,7 +1599,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948555192,Valeriana_officinalis,61.228027,25.564937
 1598339606,Valeriana_officinalis,60.893194,25.246966
 1948555297,Valeriana_officinalis,67.595409,25.668041
-786298245,Valeriana_officinalis,47.9,15.1
 1598339376,Valeriana_officinalis,60.496127,26.787681
 1099110562,Valeriana_officinalis,48.554165,10.366944
 187273190,Valeriana_officinalis,59.025,11.018
@@ -1943,7 +1894,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701830175,Valeriana_officinalis,61.9388,5.4356
 1701267070,Valeriana_officinalis,64.6128,12.5852
 1600373226,Valeriana_officinalis,62.224071,21.319938
-1705493636,Valeriana_officinalis,65,25.5
 1948555090,Valeriana_officinalis,62.953212,24.927715
 1598826482,Valeriana_officinalis,61.969605,28.808289
 1622369104,Valeriana_officinalis,62.231797,21.511309
@@ -1987,7 +1937,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788624682,Valeriana_officinalis,57.92177,12.35004
 1701673249,Valeriana_officinalis,59.2212,11.0586
 788613069,Valeriana_officinalis,56.243503,12.859815
-786298082,Valeriana_officinalis,50.6,8.1
 1598339310,Valeriana_officinalis,60.702694,27.07929
 1598339595,Valeriana_officinalis,60.708523,24.890643
 1599631147,Valeriana_officinalis,60.720626,26.896125
@@ -2062,7 +2011,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705350739,Valeriana_officinalis,57.103024,15.062696
 1999468551,Valeriana_officinalis,60.380375,23.94134
 1323756481,Valeriana_officinalis,69.565,30.1248
-786298048,Valeriana_officinalis,50.7,9.1
 1598339386,Valeriana_officinalis,60.487235,27.151523
 788624203,Valeriana_officinalis,58.16617,13.56892
 187272795,Valeriana_officinalis,62.6639,11.6843
@@ -2108,7 +2056,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323731817,Valeriana_officinalis,69.7966,21.9859
 1598339313,Valeriana_officinalis,60.882191,26.932426
 788632080,Valeriana_officinalis,55.7634,14.15672
-786298053,Valeriana_officinalis,48.9,8.4
 1705299997,Valeriana_officinalis,57.6672,14.971459
 1705324476,Valeriana_officinalis,55.526859,13.714311
 1697673757,Valeriana_officinalis,55.684711,35.462056
@@ -2133,7 +2080,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702204259,Valeriana_officinalis,59.0586,10.9416
 1948555065,Valeriana_officinalis,62.603786,25.731147
 1701960936,Valeriana_officinalis,62.7342,8.7261
-786298306,Valeriana_officinalis,50.8,8.2
 1099110556,Valeriana_officinalis,60.450001,22.25
 788609414,Valeriana_officinalis,56.26747,12.85358
 1144116091,Valeriana_officinalis,59.96618,6.86071
@@ -2175,7 +2121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087765,Valeriana_officinalis,56.17553,15.56761
 788620848,Valeriana_officinalis,55.479027,13.597732
 1705368936,Valeriana_officinalis,58.045425,14.992428
-786298078,Valeriana_officinalis,50.9,8
 1705338732,Valeriana_officinalis,59.645654,15.22141
 1655988961,Valeriana_officinalis,69.27793,19.16723
 788608995,Valeriana_officinalis,55.88885,13.62356
@@ -2190,7 +2135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788630876,Valeriana_officinalis,59.29421,15.80814
 788608460,Valeriana_officinalis,56.141828,13.386444
 1323712048,Valeriana_officinalis,66.1873,13.7903
-860320327,Valeriana_officinalis,41.69,2.7
 1948555118,Valeriana_officinalis,60.904323,26.720603
 788623962,Valeriana_officinalis,59.67067,12.62487
 788628494,Valeriana_officinalis,60.17407,16.92879
@@ -2239,7 +2183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788620907,Valeriana_officinalis,55.932734,12.873363
 1701565267,Valeriana_officinalis,62.7361,9.8903
 788621584,Valeriana_officinalis,56.287981,13.706322
-1701880086,Valeriana_officinalis,59.8665,10.5
 1323749860,Valeriana_officinalis,60.41326,12.20847
 1701335758,Valeriana_officinalis,63.8675,10.801
 1144171025,Valeriana_officinalis,59.84258,10.45045
@@ -2367,7 +2310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701970550,Valeriana_officinalis,59.7968,5.4885
 1144116470,Valeriana_officinalis,69.53059,21.47856
 1948555344,Valeriana_officinalis,60.041482,23.020854
-1099110550,Valeriana_officinalis,52.700001,15.2
 788622164,Valeriana_officinalis,65.595247,19.166838
 788624677,Valeriana_officinalis,66.89429,18.68517
 788637136,Valeriana_officinalis,59.992794,17.860215
@@ -2535,7 +2477,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705397582,Valeriana_officinalis,56.646843,14.915187
 1705363909,Valeriana_officinalis,56.384371,15.028189
 788555070,Valeriana_officinalis,58.62086,15.23534
-786298093,Valeriana_officinalis,48.9,8.6
 788628435,Valeriana_officinalis,56.423302,12.947735
 1144116210,Valeriana_officinalis,60.4903,5.267
 1697673770,Valeriana_officinalis,54.862265,37.563277
@@ -2568,7 +2509,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788610072,Valeriana_officinalis,55.850673,13.658844
 1144116362,Valeriana_officinalis,59.55753,5.7797
 1948555324,Valeriana_officinalis,60.083461,23.555351
-786298062,Valeriana_officinalis,51.7,14.2
 788608680,Valeriana_officinalis,57.65525,12.132
 1144116352,Valeriana_officinalis,59.5599,5.5076
 57730967,Valeriana_officinalis,62.6894,25.3367
@@ -2649,7 +2589,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144116111,Valeriana_officinalis,64.06094,10.02285
 788623604,Valeriana_officinalis,58.37657,13.55846
 1697673601,Valeriana_officinalis,55.737892,40.957821
-788604831,Valeriana_officinalis,63,23.815833
 788624258,Valeriana_officinalis,59.94956,12.9103
 1144116320,Valeriana_officinalis,59.783,5.3979
 788630231,Valeriana_officinalis,58.858203,16.625588
