@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270225017,Hazardia_squarrosa,35.190493,-120.757401
-1318183913,Hazardia_squarrosa,37.8931,-122.243
 2270193664,Hazardia_squarrosa,35.356658,-120.828034
 2270195679,Hazardia_squarrosa,35.35443,-120.825176
 1897490349,Hazardia_squarrosa,32.093925,-115.935225
@@ -18,7 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270193822,Hazardia_squarrosa,34.5564999991182,-120.5016
 1426394724,Hazardia_squarrosa,34.266667,-118.333333
 2270193846,Hazardia_squarrosa,34.6235999991174,-120.6073
-1894817383,Hazardia_squarrosa,23.758333,-109.941667
 2270192985,Hazardia_squarrosa,35.31344,-120.65194
 1500202082,Hazardia_squarrosa,34.166667,-117
 2270193275,Hazardia_squarrosa,35.59749,-121.10976
@@ -31,21 +29,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270261890,Hazardia_squarrosa,34.8196999991152,-120.5256
 1893340458,Hazardia_squarrosa,31.008333,-115.475
 2270195081,Hazardia_squarrosa,35.25696,-120.64947
-2270194210,Hazardia_squarrosa,34.046968,-118.927172
 1894066799,Hazardia_squarrosa,30.975,-115.575
 2270251338,Hazardia_squarrosa,34.541667,-119.266667
-2270290141,Hazardia_squarrosa,34.016528,-119.771088
-2270261784,Hazardia_squarrosa,34.0589999991242,-119.925
 2270194290,Hazardia_squarrosa,35.26966,-120.68151
-2270192494,Hazardia_squarrosa,36.373924,-121.899927
-2270191716,Hazardia_squarrosa,35.25158,-120.87171
 2270263338,Hazardia_squarrosa,33.517845,-117.597469
 2270262157,Hazardia_squarrosa,34.4437999991196,-119.8572
-2270192097,Hazardia_squarrosa,36.496954,-121.936513
 2270195109,Hazardia_squarrosa,34.227265,-118.186363
 2270251428,Hazardia_squarrosa,34.422,-119.795
-2270191550,Hazardia_squarrosa,35.706383,-121.306575
-2270192763,Hazardia_squarrosa,35.25824,-120.85098
 2270192012,Hazardia_squarrosa,35.31071,-120.65361
 2270193684,Hazardia_squarrosa,35.2857,-120.62448
 2270479906,Hazardia_squarrosa,31.5083,-116.3
@@ -55,7 +45,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270261269,Hazardia_squarrosa,34.4648999991193,-119.65
 1893411334,Hazardia_squarrosa,30.975,-115.641667
 2270482712,Hazardia_squarrosa,30.840557,-116.055681
-2270193997,Hazardia_squarrosa,35.27928,-120.88808
 1846500107,Hazardia_squarrosa,33.587306,-117.159611
 1893411312,Hazardia_squarrosa,32.358333,-116.241667
 1456284794,Hazardia_squarrosa,32.35,-116.23
@@ -75,7 +64,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893411413,Hazardia_squarrosa,31.875,-116.141667
 2270263700,Hazardia_squarrosa,34.529709,-119.270644
 2270194307,Hazardia_squarrosa,34.4850999991191,-120.2302
-2270261810,Hazardia_squarrosa,33.9954574579114,-119.7325733239
 2270195036,Hazardia_squarrosa,36.572334,-121.906656
 1893421842,Hazardia_squarrosa,30.925,-115.791667
 1893422043,Hazardia_squarrosa,30.475,-115.291667
