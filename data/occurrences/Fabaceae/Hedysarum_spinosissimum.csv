@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1882653309,Hedysarum_spinosissimum,36.76869,-2.11066
 1882653300,Hedysarum_spinosissimum,36.38526,-6.13102
 1676074042,Hedysarum_spinosissimum,36.821433,15.107533
-1501780790,Hedysarum_spinosissimum,38.14,-0.9
 1501782708,Hedysarum_spinosissimum,38.31,-0.63
 1230852855,Hedysarum_spinosissimum,37.09306,-2.09251
 1230852576,Hedysarum_spinosissimum,36.51,-5.67949
@@ -22,7 +21,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 781076154,Hedysarum_spinosissimum,36.353,-5.279
 781076152,Hedysarum_spinosissimum,36.371,-5.28
 415619497,Hedysarum_spinosissimum,36.746,-4.361
-415619501,Hedysarum_spinosissimum,36.792,-4.9
 415619521,Hedysarum_spinosissimum,36.442,-5.315
 1936209294,Hedysarum_spinosissimum,34.452778,8.8975
 232589623,Hedysarum_spinosissimum,37.612,-1.08
@@ -41,7 +39,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204402427,Hedysarum_spinosissimum,37.028,-1.926
 1936659131,Hedysarum_spinosissimum,37.057,-1.8653
 1050648314,Hedysarum_spinosissimum,37.06,-1.85
-30871301,Hedysarum_spinosissimum,37.049999,-3
 211646683,Hedysarum_spinosissimum,38.04,-1.376
 204402724,Hedysarum_spinosissimum,37.371,-1.955
 895207509,Hedysarum_spinosissimum,40.033,-0.076
@@ -52,7 +49,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936626012,Hedysarum_spinosissimum,40.0458,8.4222
 30666887,Hedysarum_spinosissimum,37.18,-1.86
 199481341,Hedysarum_spinosissimum,36.93692,-4.91007
-30665934,Hedysarum_spinosissimum,37.200001,-1.9
 199481328,Hedysarum_spinosissimum,36.215,-5.42
 30666267,Hedysarum_spinosissimum,37.128,-2.06
 30665866,Hedysarum_spinosissimum,37.23,-1.81
@@ -63,7 +59,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1135446592,Hedysarum_spinosissimum,37.08333,-2.26667
 1701527301,Hedysarum_spinosissimum,33.53556,9.86333
 1701527343,Hedysarum_spinosissimum,35.96528,9.2575
-30962528,Hedysarum_spinosissimum,38.7,-0.07
 204402729,Hedysarum_spinosissimum,37.022,-2.421
 30962443,Hedysarum_spinosissimum,38.25,-0.52
 211646679,Hedysarum_spinosissimum,37.146,-2.048
@@ -73,7 +68,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29662967,Hedysarum_spinosissimum,37.85,13.42
 1050648297,Hedysarum_spinosissimum,36.73,-2.15
 30962342,Hedysarum_spinosissimum,38.24,-0.51
-30962319,Hedysarum_spinosissimum,38.35,-0.4
 30962638,Hedysarum_spinosissimum,37.04,-2.39
 1842878627,Hedysarum_spinosissimum,36.732,-2.154
 30962348,Hedysarum_spinosissimum,38.27,-0.51
@@ -83,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211646681,Hedysarum_spinosissimum,37.688,-1.316
 30870641,Hedysarum_spinosissimum,36.580002,-4.68
 199481211,Hedysarum_spinosissimum,36.753,-5.548
-199481217,Hedysarum_spinosissimum,36.7,-5.524
 199481219,Hedysarum_spinosissimum,36.535,-5.653
 30962087,Hedysarum_spinosissimum,37.95,-0.82
 1701527251,Hedysarum_spinosissimum,33.54389,9.96806
@@ -95,7 +88,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936535784,Hedysarum_spinosissimum,38.271,-0.5207
 30961566,Hedysarum_spinosissimum,36.99,-4.53
 1500867730,Hedysarum_spinosissimum,39.53,-0.49
-30961853,Hedysarum_spinosissimum,42.1,-1.9
 60001927,Hedysarum_spinosissimum,42.099627,-1.905585
 1936541449,Hedysarum_spinosissimum,42.2569,-1.9951
 30666181,Hedysarum_spinosissimum,36.69,-2.703
@@ -130,7 +122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29664344,Hedysarum_spinosissimum,38.24,-0.54
 196093227,Hedysarum_spinosissimum,37.62,-4.42
 196093228,Hedysarum_spinosissimum,37.35,-4.75
-895209223,Hedysarum_spinosissimum,39.5,-0.5
 1936341850,Hedysarum_spinosissimum,37.0569,-1.854
 164150457,Hedysarum_spinosissimum,37.26,-4.52
 1851379924,Hedysarum_spinosissimum,41.41,1.98
@@ -155,16 +146,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434770924,Hedysarum_spinosissimum,37.087955,-8.25181
 1434770934,Hedysarum_spinosissimum,37.09726,-8.471317
 1936105629,Hedysarum_spinosissimum,37.8464,-3.2286
-29663965,Hedysarum_spinosissimum,39.59,-0.5
 1851584524,Hedysarum_spinosissimum,37.88,-0.78
 1851585246,Hedysarum_spinosissimum,36.16,-5.61
-2291728196,Hedysarum_spinosissimum,34.4,8.883333
 1699960411,Hedysarum_spinosissimum,40.272864,8.529874
 30871097,Hedysarum_spinosissimum,36.93,-5.47
-199481351,Hedysarum_spinosissimum,36.72,-4.4
 1936045531,Hedysarum_spinosissimum,36.9362,-3.0911
 2235672264,Hedysarum_spinosissimum,37.364,-5.23
-876155384,Hedysarum_spinosissimum,41.32,2.1
 1936341857,Hedysarum_spinosissimum,37.025,-2.4279
 1699960439,Hedysarum_spinosissimum,39.598596,8.472575
 1699960498,Hedysarum_spinosissimum,39.243191,9.110038
@@ -183,9 +170,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851398043,Hedysarum_spinosissimum,36.42,-5.96
 1990857422,Hedysarum_spinosissimum,36.81398,-4.72577
 1990858013,Hedysarum_spinosissimum,37.19601,-2.34477
-1851345208,Hedysarum_spinosissimum,36.9,-4.63
 1990857312,Hedysarum_spinosissimum,36.539722,-4.624722
-1851403687,Hedysarum_spinosissimum,36.7,-6.15
 1936063062,Hedysarum_spinosissimum,37.089039,-8.268618
 30961733,Hedysarum_spinosissimum,38.06,-0.89
 1936541344,Hedysarum_spinosissimum,42.2477,-1.971
@@ -195,7 +180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842856266,Hedysarum_spinosissimum,35.54,-5.37
 30962208,Hedysarum_spinosissimum,35.57,-5.37
 1990858009,Hedysarum_spinosissimum,34.92,-2.32
-165390804,Hedysarum_spinosissimum,37,-2.72
 165390803,Hedysarum_spinosissimum,35.11,-2.95
 1936010383,Hedysarum_spinosissimum,35.5667,-5.3667
 1990859250,Hedysarum_spinosissimum,38.00202,-1.48512
