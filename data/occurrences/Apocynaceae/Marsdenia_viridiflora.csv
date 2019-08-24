@@ -122,7 +122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652308021,Marsdenia_viridiflora,-25.570478,148.936255
 1652141716,Marsdenia_viridiflora,-23.541981,147.87781
 1652363130,Marsdenia_viridiflora,-15.306942,144.442521
-994084505,Marsdenia_viridiflora,-15.3,144.4333
 994084667,Marsdenia_viridiflora,-13.9667,143.1833
 1652104133,Marsdenia_viridiflora,-23.22356,150.375807
 994085094,Marsdenia_viridiflora,-18.2167,144.5833
@@ -136,7 +135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652362522,Marsdenia_viridiflora,-17.273599,144.959186
 993477982,Marsdenia_viridiflora,-33.1333,150.2833
 1652294070,Marsdenia_viridiflora,-24.43391,147.871878
-996093616,Marsdenia_viridiflora,-33.7,151.1
 1451688958,Marsdenia_viridiflora,-33.698423,151.101155
 1652224475,Marsdenia_viridiflora,-26.748561,148.750848
 1652102905,Marsdenia_viridiflora,-17.851976,144.626439
@@ -197,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994358128,Marsdenia_viridiflora,-15.298519,144.417752
 1652147886,Marsdenia_viridiflora,-21.524651,147.903175
 1652147814,Marsdenia_viridiflora,-21.123607,147.887244
-994731913,Marsdenia_viridiflora,-15.3,144.4167
 1652160666,Marsdenia_viridiflora,-15.306942,144.425854
 1652148531,Marsdenia_viridiflora,-22.383332,149.111893
 1257329036,Marsdenia_viridiflora,-12.738032,132.34716
@@ -215,7 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994353174,Marsdenia_viridiflora,-18.015256,130.767912
 1652133087,Marsdenia_viridiflora,-28.256659,150.987041
 1652134021,Marsdenia_viridiflora,-20.106913,147.775828
-1090231473,Marsdenia_viridiflora,-20.1,147.767
 994352350,Marsdenia_viridiflora,-16.731898,135.217863
 1257309112,Marsdenia_viridiflora,-13.096928,130.7826
 1652133371,Marsdenia_viridiflora,-22.856897,149.84248
@@ -269,12 +265,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652083139,Marsdenia_viridiflora,-20.259841,145.010878
 1652082515,Marsdenia_viridiflora,-20.44025,146.225849
 994331275,Marsdenia_viridiflora,-12.398594,132.317868
-995624059,Marsdenia_viridiflora,-18,125.25
 1652054298,Marsdenia_viridiflora,-20.490255,144.809199
 994327185,Marsdenia_viridiflora,-16.731896,135.201192
 1257349671,Marsdenia_viridiflora,-16.765244,132.601218
 1652052797,Marsdenia_viridiflora,-20.773608,139.475925
-1061544050,Marsdenia_viridiflora,-16.9,144.9
 1652092773,Marsdenia_viridiflora,-16.906934,144.859186
 994270870,Marsdenia_viridiflora,-17.215213,137.684498
 1652070178,Marsdenia_viridiflora,-17.540281,139.275915
@@ -298,7 +292,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994314162,Marsdenia_viridiflora,-12.481919,132.901189
 1652050634,Marsdenia_viridiflora,-20.581942,139.417592
 994313396,Marsdenia_viridiflora,-11.665264,133.134514
-993309870,Marsdenia_viridiflora,-11.5,132.9333
 994313181,Marsdenia_viridiflora,-11.498589,132.934513
 994265764,Marsdenia_viridiflora,-17.16522,137.767836
 994260338,Marsdenia_viridiflora,-18.731892,134.817877
@@ -321,15 +314,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652021897,Marsdenia_viridiflora,-26.748552,150.584156
 994253921,Marsdenia_viridiflora,-17.548572,133.551215
 996499142,Marsdenia_viridiflora,-17.55,133.55
-996499172,Marsdenia_viridiflora,-17.5,124.8
 1652043963,Marsdenia_viridiflora,-24.748558,149.917488
 994309709,Marsdenia_viridiflora,-12.515258,132.901196
-993289938,Marsdenia_viridiflora,-12.5167,132.9
 994305629,Marsdenia_viridiflora,-16.731896,135.251195
 1652118464,Marsdenia_viridiflora,-18.273602,142.675882
 994157465,Marsdenia_viridiflora,-18.3333,142.75
 1651990726,Marsdenia_viridiflora,-21.223574,148.292493
-995486491,Marsdenia_viridiflora,-29.716667,149.8
 994305219,Marsdenia_viridiflora,-13.565259,132.267875
 1651944577,Marsdenia_viridiflora,-20.748608,139.584257
 1936926199,Marsdenia_viridiflora,-29.266667,150.266667
@@ -342,7 +332,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651968692,Marsdenia_viridiflora,-26.915221,150.084164
 994344982,Marsdenia_viridiflora,-12.915246,135.401171
 994242397,Marsdenia_viridiflora,-17.848547,137.734509
-996562286,Marsdenia_viridiflora,-17.8,122.3
 1651962878,Marsdenia_viridiflora,-23.91523,149.084161
 1651963004,Marsdenia_viridiflora,-12.663611,141.938889
 993207819,Marsdenia_viridiflora,-13.5167,132.3833
@@ -368,7 +357,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994231430,Marsdenia_viridiflora,-16.9319,133.417885
 994707614,Marsdenia_viridiflora,-16.85,133.5167
 1652041759,Marsdenia_viridiflora,-24.506897,148.725836
-994187337,Marsdenia_viridiflora,-24.5,148.7167
 993791621,Marsdenia_viridiflora,-26.7833,150.7167
 1651963087,Marsdenia_viridiflora,-18.006928,145.342517
 994225895,Marsdenia_viridiflora,-14.515251,132.234537
@@ -377,7 +365,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996222168,Marsdenia_viridiflora,-32.85,150.87
 1651962944,Marsdenia_viridiflora,-19.915251,146.584176
 1651962921,Marsdenia_viridiflora,-26.581894,148.750847
-1257389751,Marsdenia_viridiflora,-14.05,134.1
 1651961744,Marsdenia_viridiflora,-26.248556,149.917496
 1652043939,Marsdenia_viridiflora,-25.581891,149.750828
 1652040146,Marsdenia_viridiflora,-24.40689,150.525811
@@ -387,12 +374,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996093635,Marsdenia_viridiflora,-33.85,150.92
 1257295856,Marsdenia_viridiflora,-17.765241,133.651217
 1651963139,Marsdenia_viridiflora,-20.748609,139.417592
-994143049,Marsdenia_viridiflora,-17.3333,145.5
 992112607,Marsdenia_viridiflora,-13.65,134.42
 994108254,Marsdenia_viridiflora,-16.9333,145.8333
-993125108,Marsdenia_viridiflora,-16.1167,131.8
 1451460663,Marsdenia_viridiflora,-33.865091,151.001159
-995582966,Marsdenia_viridiflora,-33.87,151
 994225920,Marsdenia_viridiflora,-17.931868,138.81783
 994707488,Marsdenia_viridiflora,-17.9167,138.8667
 994225900,Marsdenia_viridiflora,-16.131917,131.784553
@@ -411,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652057578,Marsdenia_viridiflora,-23.423587,143.842558
 996086257,Marsdenia_viridiflora,-26.07,148.17
 1651963186,Marsdenia_viridiflora,-22.748572,147.584175
-996086211,Marsdenia_viridiflora,-17.6,140.6
 996086246,Marsdenia_viridiflora,-23.57,145.47
 1451684859,Marsdenia_viridiflora,-33.715093,150.817826
 996086165,Marsdenia_viridiflora,-33.72,150.82
