@@ -46,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288764899,Pterocarpus_lucens_subsp._lucens,-26.883333,31.633333
 2291734329,Pterocarpus_lucens_subsp._lucens,8.266667,13.783333
 2291734072,Pterocarpus_lucens_subsp._lucens,8.966667,13.35
-2290228717,Pterocarpus_lucens_subsp._lucens,12.666667,-8
 1019296053,Pterocarpus_lucens_subsp._lucens,16.423607,-13.14087
 2288619417,Pterocarpus_lucens_subsp._lucens,9.25,12.466667
 912215622,Pterocarpus_lucens_subsp._lucens,9.25,12.46
@@ -79,4 +78,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439579684,Pterocarpus_lucens_subsp._lucens,13.66667,-2.55
 912215618,Pterocarpus_lucens_subsp._lucens,9.2,12.48
 2289221517,Pterocarpus_lucens_subsp._lucens,8.416667,20.633333
-437580877,Pterocarpus_lucens_subsp._lucens,12.66667,-8
