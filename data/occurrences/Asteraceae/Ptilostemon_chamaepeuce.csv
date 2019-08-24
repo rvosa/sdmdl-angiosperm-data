@@ -14,7 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895204561,Ptilostemon_chamaepeuce,34.90113,33.31463
 984084,Ptilostemon_chamaepeuce,38.15,23.716667
 1839060415,Ptilostemon_chamaepeuce,36.866669,22.241671
-1848992220,Ptilostemon_chamaepeuce,36.7,23.02222
 1947412035,Ptilostemon_chamaepeuce,34.866111,33.306944
 788717934,Ptilostemon_chamaepeuce,38.240278,26.503333
 788715717,Ptilostemon_chamaepeuce,37.858611,27.259444
@@ -22,12 +21,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788787849,Ptilostemon_chamaepeuce,35.266667,23.966667
 2287247058,Ptilostemon_chamaepeuce,34.95,33.195833
 788766514,Ptilostemon_chamaepeuce,36.433333,22.483333
-1655993752,Ptilostemon_chamaepeuce,38.5,21.366667
 788663667,Ptilostemon_chamaepeuce,35.166667,25.65
 788715956,Ptilostemon_chamaepeuce,36.866667,31.066667
 788715836,Ptilostemon_chamaepeuce,36.233333,33.783333
 788715776,Ptilostemon_chamaepeuce,37.636944,27.245556
-1655993528,Ptilostemon_chamaepeuce,38.016667,24
 788788019,Ptilostemon_chamaepeuce,36.756944,28.944444
 788767356,Ptilostemon_chamaepeuce,37.02613,28.47079
 1655993604,Ptilostemon_chamaepeuce,38.833333,20.683333
@@ -43,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788769621,Ptilostemon_chamaepeuce,35.15,24.633333
 788663609,Ptilostemon_chamaepeuce,35.466667,23.75
 788767296,Ptilostemon_chamaepeuce,37.766667,26.95
-788788588,Ptilostemon_chamaepeuce,37.883333,24
 788788646,Ptilostemon_chamaepeuce,37.866667,23.966667
 788789048,Ptilostemon_chamaepeuce,35.15,25.95
 788788991,Ptilostemon_chamaepeuce,35.083333,25.833333
