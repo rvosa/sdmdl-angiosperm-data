@@ -33,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846527841,Isocoma_acradenia_var._eremophila,35.855540129606,-113.65411972671
 2270691405,Isocoma_acradenia_var._eremophila,33.4628,-113.184
 1928031390,Isocoma_acradenia_var._eremophila,33.3835,-112.233
-2270196635,Isocoma_acradenia_var._eremophila,33.7,-116.116667
 2270692708,Isocoma_acradenia_var._eremophila,33.5471,-113.181
 2270646784,Isocoma_acradenia_var._eremophila,33.4505270335265,-111.614688421872
 2270646361,Isocoma_acradenia_var._eremophila,33.4721914637127,-111.607426428117
@@ -57,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270571695,Isocoma_acradenia_var._eremophila,34.840333,-111.867806
 1846487964,Isocoma_acradenia_var._eremophila,36.178797,-112.044433
 2270631017,Isocoma_acradenia_var._eremophila,33.5467,-112.02
-1426403325,Isocoma_acradenia_var._eremophila,35,-116.75
 1846476274,Isocoma_acradenia_var._eremophila,36.08083,-111.8775
 2270694642,Isocoma_acradenia_var._eremophila,32.5167,-112.967
 2270615562,Isocoma_acradenia_var._eremophila,31.5759,-110.138
@@ -100,21 +98,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426102452,Isocoma_acradenia_var._eremophila,34.96,-119.381389
 2270693330,Isocoma_acradenia_var._eremophila,33.3775,-112.324
 2270196370,Isocoma_acradenia_var._eremophila,35.19873,-119.85569
-1846500896,Isocoma_acradenia_var._eremophila,32.8,-115.95
 2270572212,Isocoma_acradenia_var._eremophila,32.6833,-113.781
-1846500895,Isocoma_acradenia_var._eremophila,32.633333,-116.1
 1846500822,Isocoma_acradenia_var._eremophila,32.883333,-115.616667
 2270572947,Isocoma_acradenia_var._eremophila,34.17,-112.83
 2270657848,Isocoma_acradenia_var._eremophila,35.7551,-113.44
 1426403339,Isocoma_acradenia_var._eremophila,33.983333,-116.65
 1895512565,Isocoma_acradenia_var._eremophila,31.701389,-114.5125
-2270656995,Isocoma_acradenia_var._eremophila,33,-112.497
 2270483614,Isocoma_acradenia_var._eremophila,31.8667,-112.75
 2270657303,Isocoma_acradenia_var._eremophila,33.8204,-110.851
 2270657865,Isocoma_acradenia_var._eremophila,32.7621,-113.323
 1895512491,Isocoma_acradenia_var._eremophila,31.633333,-114.383333
 1895512593,Isocoma_acradenia_var._eremophila,31.616667,-114.366667
-1895512507,Isocoma_acradenia_var._eremophila,32.1,-114.95
 2270656146,Isocoma_acradenia_var._eremophila,33.5023,-111.078
 2270576613,Isocoma_acradenia_var._eremophila,33.369549,-112.031402
 1895493860,Isocoma_acradenia_var._eremophila,31.940992,-113.046614
@@ -129,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270194257,Isocoma_acradenia_var._eremophila,35.913298,-119.367048
 2270657869,Isocoma_acradenia_var._eremophila,34.245,-113.084
 1895493839,Isocoma_acradenia_var._eremophila,28.403106,-111.364035
-1259858366,Isocoma_acradenia_var._eremophila,28.4,-111.35
 2270192618,Isocoma_acradenia_var._eremophila,35.855,-116.2278
 2270194114,Isocoma_acradenia_var._eremophila,33.586667,-116.083333
 2270195862,Isocoma_acradenia_var._eremophila,34.968038,-119.452576
@@ -141,7 +134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270656926,Isocoma_acradenia_var._eremophila,33.3262,-112.074
 1895493845,Isocoma_acradenia_var._eremophila,31.861454983508,-112.854933958534
 2270190704,Isocoma_acradenia_var._eremophila,34.0364,-116.5661
-1895493822,Isocoma_acradenia_var._eremophila,27.9,-110.666667
 1895512518,Isocoma_acradenia_var._eremophila,31.72285,-114.470022
 2270194892,Isocoma_acradenia_var._eremophila,33.54912,-116.09871
 2270252024,Isocoma_acradenia_var._eremophila,35.383333,-119.75
@@ -171,7 +163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846500881,Isocoma_acradenia_var._eremophila,35.77389,-113.52353
 2270655838,Isocoma_acradenia_var._eremophila,33.8404,-111.274
 2270656932,Isocoma_acradenia_var._eremophila,36.25,-112.39
-2270657453,Isocoma_acradenia_var._eremophila,36.5,-112.65
 2270657471,Isocoma_acradenia_var._eremophila,33.1786,-109.863
 2270656930,Isocoma_acradenia_var._eremophila,33.34,-110.61
 2270196106,Isocoma_acradenia_var._eremophila,35.713714,-120.036306
