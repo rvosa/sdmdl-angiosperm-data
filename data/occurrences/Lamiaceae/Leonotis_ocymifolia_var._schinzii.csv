@@ -71,7 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462033023,Leonotis_ocymifolia_var._schinzii,-25.375,30.375
 462032792,Leonotis_ocymifolia_var._schinzii,-26.125,27.875
 1258704750,Leonotis_ocymifolia_var._schinzii,-3.21,35.35416
-1897680685,Leonotis_ocymifolia_var._schinzii,-37.783333,174.9
 2005451798,Leonotis_ocymifolia_var._schinzii,-28.125,29.875
 616290885,Leonotis_ocymifolia_var._schinzii,-29.375,30.125
 574982479,Leonotis_ocymifolia_var._schinzii,26.900278,98.865278
@@ -98,8 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 616290870,Leonotis_ocymifolia_var._schinzii,-18.375,32.625
 1262233304,Leonotis_ocymifolia_var._schinzii,-9.01666,33.76666
 1262233652,Leonotis_ocymifolia_var._schinzii,-8.966667,33.65
-1262235809,Leonotis_ocymifolia_var._schinzii,-9.183333,33.3
-1262233204,Leonotis_ocymifolia_var._schinzii,-8.98333,33.6
 1262235562,Leonotis_ocymifolia_var._schinzii,-7.88333,31.65
 616290878,Leonotis_ocymifolia_var._schinzii,-31.625,28.875
 462032799,Leonotis_ocymifolia_var._schinzii,-25.875,30.625
@@ -110,7 +107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462033015,Leonotis_ocymifolia_var._schinzii,-27.375,30.625
 462032787,Leonotis_ocymifolia_var._schinzii,-33.875,24.875
 462032788,Leonotis_ocymifolia_var._schinzii,-33.625,24.625
-1697713543,Leonotis_ocymifolia_var._schinzii,11.6,37.383333
 1262236386,Leonotis_ocymifolia_var._schinzii,-8.51666,35.16666
 462032773,Leonotis_ocymifolia_var._schinzii,-26.125,31.125
 462033013,Leonotis_ocymifolia_var._schinzii,-23.875,30.125
@@ -121,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462032949,Leonotis_ocymifolia_var._schinzii,-27.625,29.125
 462032739,Leonotis_ocymifolia_var._schinzii,-28.375,28.875
 462032740,Leonotis_ocymifolia_var._schinzii,-26.625,28.375
-1262237806,Leonotis_ocymifolia_var._schinzii,-8.5,35.33333
 462032743,Leonotis_ocymifolia_var._schinzii,-34.375,21.875
 1262234113,Leonotis_ocymifolia_var._schinzii,-10.18333,35.01666
 462032737,Leonotis_ocymifolia_var._schinzii,-25.125,30.375
@@ -181,12 +176,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462033081,Leonotis_ocymifolia_var._schinzii,-25.125,27.125
 462032694,Leonotis_ocymifolia_var._schinzii,-26.875,30.375
 462032698,Leonotis_ocymifolia_var._schinzii,-33.375,22.125
-2288453194,Leonotis_ocymifolia_var._schinzii,7.4,36.366667
 462032705,Leonotis_ocymifolia_var._schinzii,-33.125,26.375
 462032912,Leonotis_ocymifolia_var._schinzii,-33.375,26.625
-2291939342,Leonotis_ocymifolia_var._schinzii,-3.25,29.5
 462032913,Leonotis_ocymifolia_var._schinzii,-17.125,13.125
-2291939478,Leonotis_ocymifolia_var._schinzii,-15.2,31.883333
 2288935746,Leonotis_ocymifolia_var._schinzii,9.283333,41.183333
 462032699,Leonotis_ocymifolia_var._schinzii,-33.375,22.625
 462032903,Leonotis_ocymifolia_var._schinzii,-25.375,30.875
@@ -210,7 +202,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462032685,Leonotis_ocymifolia_var._schinzii,-26.875,32.875
 462032696,Leonotis_ocymifolia_var._schinzii,-30.125,24.875
 462032629,Leonotis_ocymifolia_var._schinzii,-24.375,28.625
-2288900097,Leonotis_ocymifolia_var._schinzii,6.2,38.7
 462032654,Leonotis_ocymifolia_var._schinzii,-34.125,22.875
 462032680,Leonotis_ocymifolia_var._schinzii,-29.625,27.125
 462032656,Leonotis_ocymifolia_var._schinzii,-33.625,26.625
@@ -220,16 +211,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462032747,Leonotis_ocymifolia_var._schinzii,-30.875,29.125
 462032852,Leonotis_ocymifolia_var._schinzii,-28.125,32.125
 1989825275,Leonotis_ocymifolia_var._schinzii,-19.625,27.625
-2291939183,Leonotis_ocymifolia_var._schinzii,9,40.883333
-2291939147,Leonotis_ocymifolia_var._schinzii,7.5,37.383333
-2291939263,Leonotis_ocymifolia_var._schinzii,11.9,37.683333
 462032751,Leonotis_ocymifolia_var._schinzii,-30.375,24.375
 462032840,Leonotis_ocymifolia_var._schinzii,-26.375,30.125
 462032744,Leonotis_ocymifolia_var._schinzii,-31.375,30.125
 462032900,Leonotis_ocymifolia_var._schinzii,-28.125,31.625
-2291939710,Leonotis_ocymifolia_var._schinzii,9.7,39.6
 462033053,Leonotis_ocymifolia_var._schinzii,-26.625,28.125
-2288946494,Leonotis_ocymifolia_var._schinzii,7.1,39.783333
 462032978,Leonotis_ocymifolia_var._schinzii,-29.875,30.125
 462033102,Leonotis_ocymifolia_var._schinzii,-25.875,28.375
 462033000,Leonotis_ocymifolia_var._schinzii,-33.125,27.625
@@ -249,8 +235,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462032926,Leonotis_ocymifolia_var._schinzii,-21.625,15.625
 2288610536,Leonotis_ocymifolia_var._schinzii,9.033333,38.583333
 1989825260,Leonotis_ocymifolia_var._schinzii,-18.875,32.625
-2290039737,Leonotis_ocymifolia_var._schinzii,7.066667,38.5
-2288839997,Leonotis_ocymifolia_var._schinzii,7.833333,39.4
 462032983,Leonotis_ocymifolia_var._schinzii,-28.875,28.875
 462032759,Leonotis_ocymifolia_var._schinzii,-33.375,23.375
 1852090632,Leonotis_ocymifolia_var._schinzii,9.18,35.83
@@ -268,12 +252,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462032749,Leonotis_ocymifolia_var._schinzii,-33.375,21.875
 462033052,Leonotis_ocymifolia_var._schinzii,-25.625,27.875
 462032958,Leonotis_ocymifolia_var._schinzii,-23.625,30.125
-2291939283,Leonotis_ocymifolia_var._schinzii,-6,30
 462032955,Leonotis_ocymifolia_var._schinzii,-23.125,29.625
 462032883,Leonotis_ocymifolia_var._schinzii,-26.625,31.125
 2289709948,Leonotis_ocymifolia_var._schinzii,-1.166667,29.916667
 1989824319,Leonotis_ocymifolia_var._schinzii,-18.375,26.625
-2290263957,Leonotis_ocymifolia_var._schinzii,-15.883333,35.6
 2288303910,Leonotis_ocymifolia_var._schinzii,-15.95,35.85
 462032750,Leonotis_ocymifolia_var._schinzii,-30.625,25.125
 462032669,Leonotis_ocymifolia_var._schinzii,-32.625,27.125
@@ -338,7 +320,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462032959,Leonotis_ocymifolia_var._schinzii,-26.625,29.875
 462032628,Leonotis_ocymifolia_var._schinzii,-30.875,26.375
 462032681,Leonotis_ocymifolia_var._schinzii,-24.625,28.625
-2288481949,Leonotis_ocymifolia_var._schinzii,-0.1,37.116667
 462033049,Leonotis_ocymifolia_var._schinzii,-25.625,28.625
 462032870,Leonotis_ocymifolia_var._schinzii,-30.625,29.375
 462032639,Leonotis_ocymifolia_var._schinzii,-31.875,26.875
