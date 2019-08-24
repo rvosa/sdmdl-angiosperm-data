@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317289536,Crassula_rupestris,38.8172,-77.0161
 2304375016,Crassula_rupestris,38.82,-77.02
-2311197838,Crassula_rupestris,31.2,30.02
 685196791,Crassula_rupestris,-33.125,25.125
 329091762,Crassula_rupestris,-33.125,26.625
 461749964,Crassula_rupestris,-29.125,17.875
@@ -30,7 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005455624,Crassula_rupestris,-33.625,24.625
 461750035,Crassula_rupestris,-33.625,21.875
 461750030,Crassula_rupestris,-33.375,21.625
-1261336850,Crassula_rupestris,-34.25,18.3
 461750033,Crassula_rupestris,-32.125,22.625
 461750027,Crassula_rupestris,-33.625,19.625
 461750028,Crassula_rupestris,-34.375,19.375
@@ -48,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461749962,Crassula_rupestris,-28.375,16.875
 461750009,Crassula_rupestris,-33.125,21.625
 461750006,Crassula_rupestris,-33.375,19.625
-1098992598,Crassula_rupestris,-22,17
 461749980,Crassula_rupestris,-33.625,20.625
 461750008,Crassula_rupestris,-32.375,19.125
 461750016,Crassula_rupestris,-33.125,20.875
