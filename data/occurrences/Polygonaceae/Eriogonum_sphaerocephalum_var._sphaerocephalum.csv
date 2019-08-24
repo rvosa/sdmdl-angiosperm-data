@@ -3,13 +3,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986869633,Eriogonum_sphaerocephalum_var._sphaerocephalum,41.9636669990619,-119.846967
 1928055589,Eriogonum_sphaerocephalum_var._sphaerocephalum,44.99522,-116.74764
 1929987047,Eriogonum_sphaerocephalum_var._sphaerocephalum,43.65,-116.68
-1929542648,Eriogonum_sphaerocephalum_var._sphaerocephalum,44.4199999990569,-116.9
 1931096097,Eriogonum_sphaerocephalum_var._sphaerocephalum,47.757578,-118.721033
 2270189945,Eriogonum_sphaerocephalum_var._sphaerocephalum,40.35365,-120.56255
 1319424003,Eriogonum_sphaerocephalum_var._sphaerocephalum,43.2811,-114.431
 1929360144,Eriogonum_sphaerocephalum_var._sphaerocephalum,41.03139,-119.15353
 1929064027,Eriogonum_sphaerocephalum_var._sphaerocephalum,43.34453,-116.76403
-441748494,Eriogonum_sphaerocephalum_var._sphaerocephalum,45.7,-120.833333
 1929946063,Eriogonum_sphaerocephalum_var._sphaerocephalum,40.90783,-117.55339
 1929788712,Eriogonum_sphaerocephalum_var._sphaerocephalum,44.26356,-116.29086
 1986988943,Eriogonum_sphaerocephalum_var._sphaerocephalum,44.263567,-116.29085
@@ -32,7 +30,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930515163,Eriogonum_sphaerocephalum_var._sphaerocephalum,43.52155,-117.79653
 1929352097,Eriogonum_sphaerocephalum_var._sphaerocephalum,41.63,-114.75
 51832073,Eriogonum_sphaerocephalum_var._sphaerocephalum,43.5215,-117.7965
-1931269744,Eriogonum_sphaerocephalum_var._sphaerocephalum,43,-113
 1275064295,Eriogonum_sphaerocephalum_var._sphaerocephalum,43.326944,-113.825
 2270548518,Eriogonum_sphaerocephalum_var._sphaerocephalum,40.73898,-116.781404
 623644281,Eriogonum_sphaerocephalum_var._sphaerocephalum,42.635,-117.2516
@@ -121,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928551231,Eriogonum_sphaerocephalum_var._sphaerocephalum,41.09732,-115.881
 1846530185,Eriogonum_sphaerocephalum_var._sphaerocephalum,41.097306,-115.883482
 1563860814,Eriogonum_sphaerocephalum_var._sphaerocephalum,41.141133,-115.351424
-441747584,Eriogonum_sphaerocephalum_var._sphaerocephalum,46.5,-119.716667
 1927920577,Eriogonum_sphaerocephalum_var._sphaerocephalum,40.98131,-117.9174
 1929045912,Eriogonum_sphaerocephalum_var._sphaerocephalum,41.5856,-118.9951
 1563860815,Eriogonum_sphaerocephalum_var._sphaerocephalum,41.407914,-118.127591
@@ -226,7 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441747819,Eriogonum_sphaerocephalum_var._sphaerocephalum,47.75889,-118.70444
 51831636,Eriogonum_sphaerocephalum_var._sphaerocephalum,43.5933,-121.5211
 63856448,Eriogonum_sphaerocephalum_var._sphaerocephalum,42.2549,-122.4822
-63856441,Eriogonum_sphaerocephalum_var._sphaerocephalum,44.3,-120.8333
 63856443,Eriogonum_sphaerocephalum_var._sphaerocephalum,44.4375,-118.1611
 63856437,Eriogonum_sphaerocephalum_var._sphaerocephalum,42.1178,-122.365
 63856436,Eriogonum_sphaerocephalum_var._sphaerocephalum,42.3478,-121.398
