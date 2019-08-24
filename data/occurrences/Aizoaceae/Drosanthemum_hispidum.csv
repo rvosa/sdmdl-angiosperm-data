@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005466855,Drosanthemum_hispidum,-29.625,18.125
 685199468,Drosanthemum_hispidum,-33.125,18.875
-685199469,Drosanthemum_hispidum,-33.875,25.125
 461810696,Drosanthemum_hispidum,-33.625,25.375
 685199464,Drosanthemum_hispidum,-33.625,18.625
 685199466,Drosanthemum_hispidum,-29.875,17.125
@@ -35,8 +34,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 287285524,Drosanthemum_hispidum,-33.10694,18.81778
 461810695,Drosanthemum_hispidum,-32.375,20.625
 2289235819,Drosanthemum_hispidum,-33.808611,19.53
-461810673,Drosanthemum_hispidum,-32.875,17.875
-1897618439,Drosanthemum_hispidum,-37.783333,174.9
 461810672,Drosanthemum_hispidum,-29.125,17.625
 685199467,Drosanthemum_hispidum,-34.375,19.875
 461810649,Drosanthemum_hispidum,-33.625,20.875
@@ -56,7 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461810628,Drosanthemum_hispidum,-33.375,26.375
 287285560,Drosanthemum_hispidum,-29.29611,17.01639
 287285561,Drosanthemum_hispidum,-29.72611,17.88028
-461810669,Drosanthemum_hispidum,-31.875,18.125
 287285539,Drosanthemum_hispidum,-32.73333,19.73333
 287285569,Drosanthemum_hispidum,-34.17194,21.36972
 461810675,Drosanthemum_hispidum,-34.125,21.375
@@ -73,7 +69,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 287285570,Drosanthemum_hispidum,-33.79694,25.46306
 461810632,Drosanthemum_hispidum,-27.625,16.875
 461810664,Drosanthemum_hispidum,-29.625,24.625
-461810638,Drosanthemum_hispidum,-34.875,20.125
 461810629,Drosanthemum_hispidum,-27.875,16.875
 287285567,Drosanthemum_hispidum,-33.76528,25.43083
 287285568,Drosanthemum_hispidum,-33.09639,20.30056
@@ -91,13 +86,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 287285534,Drosanthemum_hispidum,-33.33667,20.03778
 287285545,Drosanthemum_hispidum,-33.27,26.47194
 287285522,Drosanthemum_hispidum,-33.28917,26.62694
-287285562,Drosanthemum_hispidum,-33.96417,25.60861
 287285572,Drosanthemum_hispidum,-32.36556,25.68639
 287285537,Drosanthemum_hispidum,-29.85778,18.06583
 287285538,Drosanthemum_hispidum,-29.66917,22.73472
 287285573,Drosanthemum_hispidum,-32.15917,25.63389
 287285525,Drosanthemum_hispidum,-34.09417,19.05
-287285526,Drosanthemum_hispidum,-32.93611,17.98667
 287285533,Drosanthemum_hispidum,-33.83278,24.8825
 287285564,Drosanthemum_hispidum,-33.8275,24.8875
 287285566,Drosanthemum_hispidum,-33.80389,24.90889
