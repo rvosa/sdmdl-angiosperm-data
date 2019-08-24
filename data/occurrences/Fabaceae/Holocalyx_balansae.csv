@@ -35,9 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090695719,Holocalyx_balansae,-22.8375,-46.511111
 1077413928,Holocalyx_balansae,-26.820278,-49.680556
 1089278416,Holocalyx_balansae,-23.349528,-51.865172
-1095252837,Holocalyx_balansae,-15.777222,-47.860555
-1424468639,Holocalyx_balansae,-15.777222,-47.860556
-1042693620,Holocalyx_balansae,-15.777222,-47.86
 1077232550,Holocalyx_balansae,-11.812222,-42.09
 1989889056,Holocalyx_balansae,-21.620556,-48.537222
 1440667101,Holocalyx_balansae,-24.937222,-53.420556
@@ -75,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1086956563,Holocalyx_balansae,-23.540833,-50.975556
 1259116277,Holocalyx_balansae,-14.46527,-68.5425
 1259109841,Holocalyx_balansae,-14.468472,-68.538805
-1423998706,Holocalyx_balansae,-22.713889,-27.493333
 1259028349,Holocalyx_balansae,-22.713889,-57.493333
 1077383705,Holocalyx_balansae,-23.271111,-51.05
 1258818289,Holocalyx_balansae,-24.32138,-57.0775
@@ -147,6 +143,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929968124,Holocalyx_balansae,-27.12,-52.92
 1077451282,Holocalyx_balansae,-30.053181,-51.124635
 1990273689,Holocalyx_balansae,-28.018611,-58.028056
-1056882893,Holocalyx_balansae,-23.236211,-58.391024
 2251611941,Holocalyx_balansae,-27.498056,-58.7675
 1259536347,Holocalyx_balansae,-25.24428,-57.573138
