@@ -11,7 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851031927,Scirpus_cyperinus,30.851919,-90.406786
 2234361582,Scirpus_cyperinus,37.469861,-75.827139
 1849099101,Scirpus_cyperinus,33.822074,-81.588241
-2234360575,Scirpus_cyperinus,36.277556,-75.799056
 1676085854,Scirpus_cyperinus,28.1378,-82.3867
 1989441883,Scirpus_cyperinus,42.100537,-85.83013
 1306621718,Scirpus_cyperinus,49.13831,-94.35823
@@ -19,7 +18,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849155756,Scirpus_cyperinus,33.179504,-80.675953
 1899882131,Scirpus_cyperinus,37.35024,-80.53736
 2306414521,Scirpus_cyperinus,43.38,-80.37
-1988198993,Scirpus_cyperinus,49.934553,-124.579702
 1988753043,Scirpus_cyperinus,42.52357,-85.99699
 1563150235,Scirpus_cyperinus,41.847222,-88.198269
 997427006,Scirpus_cyperinus,37.43811,-94.6297
@@ -34,7 +32,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265967040,Scirpus_cyperinus,43.998333,-91.448889
 1990182338,Scirpus_cyperinus,34.6867,-78.59595
 1258101560,Scirpus_cyperinus,45.173056,-90.637778
-1426471148,Scirpus_cyperinus,37.99861,-122.70745
 1899281893,Scirpus_cyperinus,44.6288899990568,-78.92476
 1931284076,Scirpus_cyperinus,37.97358,-75.57864
 1929026684,Scirpus_cyperinus,39.72253,-74.75697
@@ -84,10 +81,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928440810,Scirpus_cyperinus,38.798536,-76.061642
 1989214838,Scirpus_cyperinus,42.416092,-83.789795
 1828923750,Scirpus_cyperinus,38.1975,-76.384
-1928523972,Scirpus_cyperinus,38.068564,-76.338144
 1930477581,Scirpus_cyperinus,38.197486,-76.383958
 1257941067,Scirpus_cyperinus,37.0145,-90.19439
-1828978217,Scirpus_cyperinus,38.0686,-76.3381
 1928367117,Scirpus_cyperinus,38.697122,-75.399125
 1928645484,Scirpus_cyperinus,38.701472,-75.405564
 1990229625,Scirpus_cyperinus,34.581,-77.674
@@ -143,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257900166,Scirpus_cyperinus,38.7575,-75.730833
 2265456367,Scirpus_cyperinus,47.7575,-90.728056
 2265963879,Scirpus_cyperinus,47.988611,-90.007778
-1697410290,Scirpus_cyperinus,52.73905,26.380217
 2265453087,Scirpus_cyperinus,47.898889,-90.718611
 2265450155,Scirpus_cyperinus,48.186389,-91.023889
 2265963590,Scirpus_cyperinus,47.898889,-90.696944
@@ -158,7 +152,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415960260,Scirpus_cyperinus,44.98338,-71.62347
 1932899311,Scirpus_cyperinus,41.895278,-74.393333
 2265436727,Scirpus_cyperinus,48.215119,-90.912522
-441837316,Scirpus_cyperinus,46.95611,-120.5265
 1988885185,Scirpus_cyperinus,44.046393,-86.49703
 473417029,Scirpus_cyperinus,45.43455,-73.455333
 473417041,Scirpus_cyperinus,44.92765,-76.925383
@@ -211,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 217085695,Scirpus_cyperinus,34.00925,-85.45833
 1457809906,Scirpus_cyperinus,27.83996,-81.47251
 1804365419,Scirpus_cyperinus,43.614,-75.101
-441837267,Scirpus_cyperinus,47.833333,-124.233333
 2305839027,Scirpus_cyperinus,43.7,-79.36
 606652517,Scirpus_cyperinus,42.29861,-71.12833
 1929319605,Scirpus_cyperinus,38.44675,-75.55942
@@ -219,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473448452,Scirpus_cyperinus,45.0373,-76.8725
 1978887030,Scirpus_cyperinus,43.504183,-85.80615
 1929125395,Scirpus_cyperinus,38.69606,-75.797
-441837245,Scirpus_cyperinus,47.31105,-121.30075
 1931297357,Scirpus_cyperinus,41.451731,-73.615378
 1978886860,Scirpus_cyperinus,44.250383,-85.527367
 1978886817,Scirpus_cyperinus,44.250383,-85.527683
@@ -233,26 +224,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257684233,Scirpus_cyperinus,39.6501,-92.5124
 415938587,Scirpus_cyperinus,42.03228,-73.15513
 1849173880,Scirpus_cyperinus,34.47,-79.7968
-441837227,Scirpus_cyperinus,48.7258,-121.671467
-441837226,Scirpus_cyperinus,48.543333,-121.72745
-441837225,Scirpus_cyperinus,48.742117,-121.5681
 1930513789,Scirpus_cyperinus,38.681217,-75.89825
 1989347391,Scirpus_cyperinus,31.50605,-84.527167
 1260111780,Scirpus_cyperinus,36.843333,-89.906667
 1248713108,Scirpus_cyperinus,46.783333,-71
 2265454565,Scirpus_cyperinus,47.335815,-91.952081
 1257778923,Scirpus_cyperinus,39.607,-93.1522
-1248713243,Scirpus_cyperinus,48.3,-68.85
-1248713154,Scirpus_cyperinus,48.266667,-68.75
-441837258,Scirpus_cyperinus,48.726667,-121.67
 473455813,Scirpus_cyperinus,45.358067,-73.519783
 1563146813,Scirpus_cyperinus,30.3925,-88.7881
 1930341852,Scirpus_cyperinus,38.35467,-75.41578
-441836969,Scirpus_cyperinus,47.784444,-122.108056
 1978752788,Scirpus_cyperinus,46.066667,-72.1
 883376415,Scirpus_cyperinus,54.6596,-112.545433
 2265363213,Scirpus_cyperinus,47.709709,-91.266453
-441836970,Scirpus_cyperinus,48.565617,-121.804767
 2265445413,Scirpus_cyperinus,46.854098,-95.742136
 177027282,Scirpus_cyperinus,34.718728,-93.05603
 1258124160,Scirpus_cyperinus,29.3543,-82.7638
@@ -261,14 +244,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265964531,Scirpus_cyperinus,47.695833,-91.027222
 415930087,Scirpus_cyperinus,41.72611,-72.44055
 699271366,Scirpus_cyperinus,44.06083,-69.96722
-1988072321,Scirpus_cyperinus,49.37,-121.48
 56661439,Scirpus_cyperinus,30.87,-84.23
 1094804218,Scirpus_cyperinus,36.696389,-77.081389
 1259016790,Scirpus_cyperinus,37.666667,-90.916667
 1978754908,Scirpus_cyperinus,45.691944,-74.773056
 1849180192,Scirpus_cyperinus,32.8378,-83.6004
 473437668,Scirpus_cyperinus,45.040015,-76.711731
-1988216794,Scirpus_cyperinus,48.79,-123.71
 1899312373,Scirpus_cyperinus,48.65,-90.47
 1930938619,Scirpus_cyperinus,41.44931,-73.55181
 668762126,Scirpus_cyperinus,46.979167,-70.918056
@@ -279,7 +260,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668762131,Scirpus_cyperinus,47.716667,-69.333333
 1989353247,Scirpus_cyperinus,34.768333,-76.94
 1455173777,Scirpus_cyperinus,44.95,-76.683333
-441836625,Scirpus_cyperinus,47.404167,-121.931944
 473377800,Scirpus_cyperinus,44.990784,-76.731965
 56660202,Scirpus_cyperinus,40.99194,-87.55278
 473378326,Scirpus_cyperinus,45.015582,-76.909962
@@ -311,7 +291,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265429939,Scirpus_cyperinus,48.084674,-90.565752
 177026813,Scirpus_cyperinus,42.709425,-92.480672
 1989374354,Scirpus_cyperinus,42.876049,-83.310116
-1849124843,Scirpus_cyperinus,33.3335,-79.08
 473407296,Scirpus_cyperinus,44.993409,-76.906229
 1260917576,Scirpus_cyperinus,31.23333,-90.75
 56659974,Scirpus_cyperinus,34.19222,-86.49306
@@ -333,7 +312,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465863034,Scirpus_cyperinus,43.979167,-65.43
 473466536,Scirpus_cyperinus,47.155556,-55.2375
 2265429147,Scirpus_cyperinus,48.421391,-92.930275
-473282649,Scirpus_cyperinus,45.493056,-75.736111
 2265443505,Scirpus_cyperinus,48.488333,-93.123889
 177027274,Scirpus_cyperinus,42.806013,-92.228586
 1820375017,Scirpus_cyperinus,46.566667,-60.9
@@ -351,7 +329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260990927,Scirpus_cyperinus,36.894167,-90.278333
 56658304,Scirpus_cyperinus,32.78194,-87.25056
 56660043,Scirpus_cyperinus,32.89639,-87.03639
-441836472,Scirpus_cyperinus,47.81357,-124.228501
 1455173743,Scirpus_cyperinus,45.083333,-64.35
 415982339,Scirpus_cyperinus,41.47611,-73.23694
 56658306,Scirpus_cyperinus,32.85778,-87.23473
@@ -404,7 +381,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606660107,Scirpus_cyperinus,40.81444,-74.49666
 177027294,Scirpus_cyperinus,44.0074,-90.661963
 1989046519,Scirpus_cyperinus,42.30034,-85.33197
-1949604890,Scirpus_cyperinus,49,-120
 2265398234,Scirpus_cyperinus,44.227222,-93.669998
 441836478,Scirpus_cyperinus,46.9375,-117.0875
 2265398214,Scirpus_cyperinus,46.899245,-94.331608
@@ -415,7 +391,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899275972,Scirpus_cyperinus,43.85,-80
 1260963528,Scirpus_cyperinus,37.987778,-91.735833
 415982424,Scirpus_cyperinus,41.74111,-70.59944
-51956631,Scirpus_cyperinus,44.6608,-123.0749
 1038988299,Scirpus_cyperinus,41.6922,-72.5472
 473427830,Scirpus_cyperinus,45.544,-73.915
 1703290650,Scirpus_cyperinus,50.6669060117529,-95.9671945191659
@@ -446,10 +421,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260977317,Scirpus_cyperinus,36.917222,-90.305
 415982390,Scirpus_cyperinus,41.97611,-72.55833
 1703290329,Scirpus_cyperinus,50.2829051587905,-95.6831815786415
-51956579,Scirpus_cyperinus,45.5397,-122.2386
 2265399247,Scirpus_cyperinus,45.60789,-93.011802
 883406021,Scirpus_cyperinus,55.2,-114.533333
-1318885179,Scirpus_cyperinus,38.8653,-76.9867
 1804396289,Scirpus_cyperinus,45.3,-75.616667
 883380315,Scirpus_cyperinus,53.2540959990961,-114.604964
 1804364774,Scirpus_cyperinus,48.75,-92.733333
@@ -484,7 +457,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899311483,Scirpus_cyperinus,48.35,-89.783333
 1319305829,Scirpus_cyperinus,38.7525,-77.1042
 1038928323,Scirpus_cyperinus,41.5225,-72.0008
-1988140730,Scirpus_cyperinus,49.25,-123.12
 415982324,Scirpus_cyperinus,41.52,-72.00638
 1899312732,Scirpus_cyperinus,44.3,-79.066667
 2265398730,Scirpus_cyperinus,44.912609,-92.791861
@@ -506,13 +478,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473540514,Scirpus_cyperinus,46.7485,-71.4013
 56658396,Scirpus_cyperinus,33.15944,-87.9175
 1988992226,Scirpus_cyperinus,46.733333,-71.4
-441836476,Scirpus_cyperinus,48.60528,-122.9
 986393318,Scirpus_cyperinus,59.116667,-110.416667
 1899374720,Scirpus_cyperinus,44.283333,-79.2
 1804422149,Scirpus_cyperinus,45.883333,-60.2
 1804527305,Scirpus_cyperinus,45.4,-67.35
 2265397735,Scirpus_cyperinus,47.998144,-89.748285
-1988154891,Scirpus_cyperinus,49.3,-122.5
 668762121,Scirpus_cyperinus,45.0625,-73.168056
 1989118296,Scirpus_cyperinus,41.85,-86.65
 1899286676,Scirpus_cyperinus,49.075,-82.233333
@@ -534,7 +504,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 620530273,Scirpus_cyperinus,44.98878,-64.94871
 177027281,Scirpus_cyperinus,44.677669,-90.289079
 1899333714,Scirpus_cyperinus,42.383333,-79.483333
-1949572539,Scirpus_cyperinus,49.316667,-121.666667
 1899359494,Scirpus_cyperinus,44.916667,-78.033333
 1804413309,Scirpus_cyperinus,45.455556,-77.216667
 2265397481,Scirpus_cyperinus,43.797643,-92.499266
@@ -553,10 +522,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455173742,Scirpus_cyperinus,45.566667,-62.116667
 606656661,Scirpus_cyperinus,41.75861,-72.96
 620530291,Scirpus_cyperinus,45.640339,-63.03886
-1989057489,Scirpus_cyperinus,28.45,-90.483333
 1988218584,Scirpus_cyperinus,48.6,-90.6
 1899311073,Scirpus_cyperinus,48.583333,-90.55
-1896276867,Scirpus_cyperinus,19.588056,-96.946944
 1899286480,Scirpus_cyperinus,46.466667,-82.541667
 1899311101,Scirpus_cyperinus,48.45,-90.483333
 1260924768,Scirpus_cyperinus,40.306944,-92.695833
@@ -565,12 +532,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455173752,Scirpus_cyperinus,45.377778,-73.941667
 1988169494,Scirpus_cyperinus,48.5,-90.5
 1899286529,Scirpus_cyperinus,46.444444,-82.666667
-1893741958,Scirpus_cyperinus,19.59,-96.946667
 1899286485,Scirpus_cyperinus,44.8375,-78.038889
-1804411822,Scirpus_cyperinus,46.55,-62.55
 2265398607,Scirpus_cyperinus,43.739545,-92.839221
 1899286518,Scirpus_cyperinus,44.994444,-78.044444
-1804587447,Scirpus_cyperinus,46.466667,-62.216667
 606652783,Scirpus_cyperinus,41.57472,-72.64888
 1988792003,Scirpus_cyperinus,45.975969,-86.251079
 699268946,Scirpus_cyperinus,41.595,-72.64527
@@ -578,7 +542,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56658414,Scirpus_cyperinus,34.81972,-87.31555
 465888895,Scirpus_cyperinus,45.04205,-64.84418
 606656717,Scirpus_cyperinus,42.05416,-71.73944
-1988208323,Scirpus_cyperinus,49.27,-122.95
 986393733,Scirpus_cyperinus,53.9667119991031,-114.107408
 1977975367,Scirpus_cyperinus,46.116667,-73.116667
 1899321607,Scirpus_cyperinus,46.495833,-82.631944
@@ -630,8 +593,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883406053,Scirpus_cyperinus,50.675,-99.641667
 1899359265,Scirpus_cyperinus,45.047222,-78.615278
 56658325,Scirpus_cyperinus,32.735,-86.82861
-1988150924,Scirpus_cyperinus,49.1,-123
-1988174040,Scirpus_cyperinus,49.2,-122.7
 1804386109,Scirpus_cyperinus,47.45,-66.416667
 1899351326,Scirpus_cyperinus,47.8,-79.883333
 473539089,Scirpus_cyperinus,47.183333,-68.716667
@@ -691,18 +652,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 986393747,Scirpus_cyperinus,58.166667,-110.833333
 2265399218,Scirpus_cyperinus,47.415833,-91.983882
 1899352460,Scirpus_cyperinus,48.008333,-89.65
-415982420,Scirpus_cyperinus,46.92777,-70.95444
 415922188,Scirpus_cyperinus,41.98972,-72.60361
 1804510997,Scirpus_cyperinus,48.55,-83.316667
 415922194,Scirpus_cyperinus,41.94277,-71.82944
 2265397538,Scirpus_cyperinus,47.231872,-95.12058
-1986730677,Scirpus_cyperinus,14.308333,-72.475
 415922191,Scirpus_cyperinus,41.78861,-72.45305
 415922190,Scirpus_cyperinus,41.93861,-72.19527
 1804523041,Scirpus_cyperinus,49.75,-83.266667
 56658451,Scirpus_cyperinus,31.98361,-85.11195
 620530272,Scirpus_cyperinus,45.59234,-60.68974
-1038996843,Scirpus_cyperinus,37.324851,-75.753822
 56659957,Scirpus_cyperinus,45.45,-84.5
 1804508429,Scirpus_cyperinus,58.166667,-110.883333
 2265398302,Scirpus_cyperinus,45.377702,-93.173879
@@ -719,7 +677,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899298769,Scirpus_cyperinus,44.35,-75.966667
 1989234520,Scirpus_cyperinus,41.976055,-86.566914
 1899369862,Scirpus_cyperinus,46.016667,-81.4
-1248713244,Scirpus_cyperinus,53.983333,-117.283333
 620530283,Scirpus_cyperinus,44.70987,-65.64531
 1039003858,Scirpus_cyperinus,41.5614,-73.2072
 606661212,Scirpus_cyperinus,41.63583,-71.79194
@@ -751,7 +708,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415982361,Scirpus_cyperinus,41.435,-71.86583
 1987004137,Scirpus_cyperinus,48.083333,-84.066667
 1038976308,Scirpus_cyperinus,41.5799,-71.8325
-1988144922,Scirpus_cyperinus,49.2199999990672,-122.69
 473498475,Scirpus_cyperinus,45.9925,-74.0084
 1899328276,Scirpus_cyperinus,45.116667,-78.216667
 473498469,Scirpus_cyperinus,45.9966,-74.012
@@ -763,19 +719,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265397202,Scirpus_cyperinus,45.086762,-92.89362
 1899380661,Scirpus_cyperinus,44.9,-79.283333
 473519736,Scirpus_cyperinus,45.591667,-75.225
-668762109,Scirpus_cyperinus,47.0275,-70.6675
 1899310396,Scirpus_cyperinus,47.9,-84.666667
 1248713186,Scirpus_cyperinus,48.574722,-79.101667
 2265468788,Scirpus_cyperinus,45.508388,-93.871722
 1899338284,Scirpus_cyperinus,48.358333,-88.766667
-1988174583,Scirpus_cyperinus,49.27,-122.64
 1703286329,Scirpus_cyperinus,53.4499276378998,-96.0832261587948
 1988945414,Scirpus_cyperinus,45.225384,-85.143033
 1986730676,Scirpus_cyperinus,46.816667,-72.8
 1455173772,Scirpus_cyperinus,45.65,-74.166667
 1989029705,Scirpus_cyperinus,46.06352,-86.334624
 1228483822,Scirpus_cyperinus,41.2833,-88.4167
-668762110,Scirpus_cyperinus,47.116667,-70.483333
 1697949886,Scirpus_cyperinus,50.2,-96.15
 1899380724,Scirpus_cyperinus,44.833333,-79.316667
 1260932274,Scirpus_cyperinus,36.801389,-91.089444
@@ -805,12 +758,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989293814,Scirpus_cyperinus,44.414981,-84.965295
 415982336,Scirpus_cyperinus,41.78666,-72.05916
 415982388,Scirpus_cyperinus,41.85833,-72.36527
-56658405,Scirpus_cyperinus,30.24778,-88.1025
 465888884,Scirpus_cyperinus,49.222953,-70.380591
 1260962085,Scirpus_cyperinus,38.15888,-91.43388
 473258698,Scirpus_cyperinus,45.3,-72.266667
 473258694,Scirpus_cyperinus,45.142222,-72.125278
-1988082507,Scirpus_cyperinus,49.25,-122.93
 620530290,Scirpus_cyperinus,45.9354,-61.345
 56658308,Scirpus_cyperinus,32.63028,-87.84834
 415949338,Scirpus_cyperinus,47.20833,-68.77388
@@ -845,7 +796,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465888904,Scirpus_cyperinus,47.425871,-66.897132
 1320272664,Scirpus_cyperinus,38.9694,-77.1767
 1988802243,Scirpus_cyperinus,46.887804,-87.928529
-1988164732,Scirpus_cyperinus,49.1,-123.1
 1988636910,Scirpus_cyperinus,48.08555,-88.70813
 1261957343,Scirpus_cyperinus,47.733333,-71.266667
 1261976183,Scirpus_cyperinus,46.333333,-74.5
@@ -872,9 +822,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455173761,Scirpus_cyperinus,51.466667,-85.6
 620530282,Scirpus_cyperinus,44.14703,-64.64854
 2265397825,Scirpus_cyperinus,48.545336,-93.155756
-1988217053,Scirpus_cyperinus,48.27,-64.74
 465888878,Scirpus_cyperinus,45.68016,-62.71427
-1988065748,Scirpus_cyperinus,49.06,-122.47
 465888935,Scirpus_cyperinus,45.517674,-63.677002
 1988961517,Scirpus_cyperinus,46.339014,-85.812476
 620530280,Scirpus_cyperinus,44.27444,-65.13639
@@ -883,7 +831,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228272346,Scirpus_cyperinus,41.8333,-87.85
 1319924477,Scirpus_cyperinus,38.9392,-76.9342
 620530281,Scirpus_cyperinus,44.783106,-64.845068
-465888879,Scirpus_cyperinus,44.874628,-65.31303
 465888937,Scirpus_cyperinus,45.733333,-63.515833
 2265400648,Scirpus_cyperinus,48.274026,-92.287103
 465888939,Scirpus_cyperinus,45.680752,-63.476942
@@ -892,14 +839,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465888872,Scirpus_cyperinus,46.01612,-60.91501
 620530279,Scirpus_cyperinus,45.1872,-61.98164
 1261952177,Scirpus_cyperinus,45.289627,-73.241239
-620530288,Scirpus_cyperinus,45.250923,-64.999427
 883406032,Scirpus_cyperinus,50.2311999990727,-96.531
 465888913,Scirpus_cyperinus,44.71424,-63.43805
 2265399097,Scirpus_cyperinus,47.924352,-92.319374
 415982406,Scirpus_cyperinus,45.15638,-71.17083
 465888876,Scirpus_cyperinus,45.543611,-60.998333
 2265398869,Scirpus_cyperinus,47.96483,-92.317289
-1988187869,Scirpus_cyperinus,49.37,-122.29
 2265398183,Scirpus_cyperinus,48.606257,-93.024038
 1899312157,Scirpus_cyperinus,44.483333,-77.633333
 1807227973,Scirpus_cyperinus,46.450402,-63.999141
@@ -921,7 +866,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899306785,Scirpus_cyperinus,42.557058,-80.24897
 2265398281,Scirpus_cyperinus,48.031651,-91.618862
 1319113189,Scirpus_cyperinus,38.8236,-77.7133
-1988172390,Scirpus_cyperinus,49.1,-122.4
 1321059413,Scirpus_cyperinus,37.9694,-76.5414
 2265398327,Scirpus_cyperinus,48.280155,-92.520857
 1988656495,Scirpus_cyperinus,43.38636,-84.83599
@@ -936,7 +880,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899301117,Scirpus_cyperinus,52.886495,-91.74978
 2265398494,Scirpus_cyperinus,47.400906,-92.731472
 620530277,Scirpus_cyperinus,43.86471,-65.97502
-1135478661,Scirpus_cyperinus,27.6945,96.4522
 2265400151,Scirpus_cyperinus,46.809279,-92.870675
 2265397085,Scirpus_cyperinus,46.987037,-92.191099
 465888902,Scirpus_cyperinus,45.966667,-74.333333
@@ -948,12 +891,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415926529,Scirpus_cyperinus,42.78611,-72.40222
 2265400423,Scirpus_cyperinus,47.850496,-91.840897
 465888931,Scirpus_cyperinus,45.43723,-63.45959
-1895109274,Scirpus_cyperinus,20.645833,-98.655833
 1988858052,Scirpus_cyperinus,47.15423,-88.2706
 1989271541,Scirpus_cyperinus,45.177412,-84.397165
-1135478606,Scirpus_cyperinus,25.1661,94.4364
 620530276,Scirpus_cyperinus,44.080313,-65.26973
-1895050572,Scirpus_cyperinus,20.686278,-98.672306
 2265398725,Scirpus_cyperinus,47.501646,-91.985085
 415982419,Scirpus_cyperinus,43.70722,-73.18444
 2265397794,Scirpus_cyperinus,46.847308,-92.496277
@@ -992,7 +932,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415982398,Scirpus_cyperinus,41.42444,-77.84833
 2265398542,Scirpus_cyperinus,46.46166,-92.740742
 1703287821,Scirpus_cyperinus,49.8019048665855,-95.2091617472003
-465888869,Scirpus_cyperinus,44.99654,-65.07013
 1989371775,Scirpus_cyperinus,47.454682,-87.883387
 415982375,Scirpus_cyperinus,41.18444,-73.13305
 415982423,Scirpus_cyperinus,41.67194,-73.05277
@@ -1007,7 +946,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929878118,Scirpus_cyperinus,43.840445,-74.648194
 415982325,Scirpus_cyperinus,41.72472,-73.47694
 1317624732,Scirpus_cyperinus,38.8242,-77.7111
-1928287002,Scirpus_cyperinus,40.563994,-74.115975
 1929130134,Scirpus_cyperinus,40.014561,-74.311257
 1090532017,Scirpus_cyperinus,42.4333,-76.4833
 1988740734,Scirpus_cyperinus,42.528362,-86.043418
@@ -1107,7 +1045,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989313548,Scirpus_cyperinus,45.574592,-84.659174
 1927796416,Scirpus_cyperinus,40.097893,-74.217644
 1930419493,Scirpus_cyperinus,40.663684,-73.705632
-1930219095,Scirpus_cyperinus,41.105567,-72.369593
 1929210181,Scirpus_cyperinus,40.202986,-74.080626
 1927839281,Scirpus_cyperinus,40.7617,-73.82849
 620530285,Scirpus_cyperinus,45.09271,-64.36132
@@ -1115,7 +1052,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989550877,Scirpus_cyperinus,46.226894,-89.193797
 1930719291,Scirpus_cyperinus,40.900486,-74.58028
 1317934388,Scirpus_cyperinus,38.9981,-77.2886
-415982400,Scirpus_cyperinus,41.19166,-71.575
 1930806302,Scirpus_cyperinus,40.683943,-74.486335
 1931320706,Scirpus_cyperinus,40.874715,-74.738344
 1930933197,Scirpus_cyperinus,40.514271,-74.403484
@@ -1125,9 +1061,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038937107,Scirpus_cyperinus,41.9798,-71.8736
 1038958534,Scirpus_cyperinus,41.6741,-72.8571
 2265398311,Scirpus_cyperinus,45.426028,-92.716274
-1319397724,Scirpus_cyperinus,38.9103,-76.9664
-1929468885,Scirpus_cyperinus,40.573994,-74.13042
-1929701673,Scirpus_cyperinus,40.563893,-74.146169
 1989312056,Scirpus_cyperinus,42.441981,-83.128814
 1320853558,Scirpus_cyperinus,38.9633,-76.9319
 1989534598,Scirpus_cyperinus,42.7969,-83.25822
@@ -1161,9 +1094,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415982365,Scirpus_cyperinus,41.85027,-73.18638
 415982428,Scirpus_cyperinus,38.8375,-76.27777
 1039014646,Scirpus_cyperinus,41.6049,-72.88
-415982432,Scirpus_cyperinus,42.57777,-70.76944
 415982412,Scirpus_cyperinus,42.22444,-70.81611
-415982417,Scirpus_cyperinus,42.61333,-70.71111
 1930084527,Scirpus_cyperinus,39.597222,-74.328644
 415982415,Scirpus_cyperinus,42.04166,-70.67194
 1038972402,Scirpus_cyperinus,41.3114,-72.9247
@@ -1187,7 +1118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415982430,Scirpus_cyperinus,42.6,-70.88333
 1930874858,Scirpus_cyperinus,40.722901,-73.160361
 786271010,Scirpus_cyperinus,45.7,-62.7
-1929391435,Scirpus_cyperinus,40.862289,-73.877023
 415982353,Scirpus_cyperinus,41.90472,-72.67916
 1928814018,Scirpus_cyperinus,40.676443,-73.535407
 1038927423,Scirpus_cyperinus,41.4313,-73.1351
@@ -1200,7 +1130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989304740,Scirpus_cyperinus,42.055782,-86.184436
 1038971176,Scirpus_cyperinus,41.831,-71.85
 415982397,Scirpus_cyperinus,40.83555,-80.39944
-1929815341,Scirpus_cyperinus,39.994962,-74.064029
 1930262892,Scirpus_cyperinus,40.948833,-74.743309
 1038973378,Scirpus_cyperinus,41.3645,-72.7767
 1989036929,Scirpus_cyperinus,42.424189,-83.119304
@@ -1210,12 +1139,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929838626,Scirpus_cyperinus,40.484478,-74.284179
 1930205532,Scirpus_cyperinus,40.969776,-74.703743
 1038971025,Scirpus_cyperinus,41.766,-72.6834
-1322561401,Scirpus_cyperinus,38.93,-77.1144
 415982337,Scirpus_cyperinus,41.73833,-72.66444
 415982380,Scirpus_cyperinus,41.59638,-72.94777
 1038954460,Scirpus_cyperinus,41.1933,-73.1961
 1039018956,Scirpus_cyperinus,41.6153,-72.1432
-1318261012,Scirpus_cyperinus,38.84,-77.045
 1989425335,Scirpus_cyperinus,42.347668,-83.057856
 415993090,Scirpus_cyperinus,41.87916,-73.47666
 415982309,Scirpus_cyperinus,41.29555,-72.86305
@@ -1240,6 +1167,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415982410,Scirpus_cyperinus,45.95944,-68.36138
 1928573061,Scirpus_cyperinus,43.267752,-75.415239
 1317818720,Scirpus_cyperinus,39.1625,-76.625
-1321331835,Scirpus_cyperinus,38.9333,-77.0083
-786271046,Scirpus_cyperinus,44.1,-68.6
 415982393,Scirpus_cyperinus,44.53194,-73.16722
