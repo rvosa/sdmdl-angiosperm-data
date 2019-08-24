@@ -46,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702378822,Silene_flos-cuculi,59.7414,10.2302
 1144053199,Silene_flos-cuculi,60.2176,5.6402
 911793311,Silene_flos-cuculi,48.101665,8.17139
-1095920747,Silene_flos-cuculi,67,24
 1701859283,Silene_flos-cuculi,59.2053,6.0043
 1701327997,Silene_flos-cuculi,62.6001,7.1002
 1701330873,Silene_flos-cuculi,62.561,7.1274
@@ -102,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 237346598,Silene_flos-cuculi,52.718334,13.286389
 1999613601,Silene_flos-cuculi,60.500591,21.980406
 1270041090,Silene_flos-cuculi,47.517372,10.412415
-786185613,Silene_flos-cuculi,47.5,10.4
 2290048972,Silene_flos-cuculi,52.01,5.914
 1599520980,Silene_flos-cuculi,60.991933,22.538739
 1323863429,Silene_flos-cuculi,67.2667,14.4338
@@ -119,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701253344,Silene_flos-cuculi,62.9257,7.4531
 1701328051,Silene_flos-cuculi,62.4989,7.132
 1701773126,Silene_flos-cuculi,65.8957,12.5362
-2305209269,Silene_flos-cuculi,58.1,27.06
 1701867331,Silene_flos-cuculi,59.3141,11.724
 1936195683,Silene_flos-cuculi,41.1044,-3.4658
 1697379936,Silene_flos-cuculi,58.80489,43.94582
@@ -186,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 932705327,Silene_flos-cuculi,42.63686,-7.36704
 1050633257,Silene_flos-cuculi,42.86,-2.63
 187198175,Silene_flos-cuculi,64.1133,9.9751
-1986950782,Silene_flos-cuculi,40.783333,44.6
 1702217213,Silene_flos-cuculi,59.5137,10.6903
 1701848699,Silene_flos-cuculi,59.3609,11.3181
 1323860668,Silene_flos-cuculi,59.7294,11.3396
@@ -203,7 +199,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291837578,Silene_flos-cuculi,52.011,5.913833
 21316290,Silene_flos-cuculi,47.625,3.0841
 1999507374,Silene_flos-cuculi,60.458188,22.296483
-30878569,Silene_flos-cuculi,41.73,-3
 1999613550,Silene_flos-cuculi,62.165341,27.159833
 1702206341,Silene_flos-cuculi,60.7857,10.9221
 1935701899,Silene_flos-cuculi,47.57361,13.98333
@@ -242,10 +237,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323766835,Silene_flos-cuculi,66.9722,13.9771
 1697492321,Silene_flos-cuculi,56.088464,40.097694
 1831336919,Silene_flos-cuculi,53.3485,10.7488
-1050626702,Silene_flos-cuculi,41.8,-1.79
 1936643038,Silene_flos-cuculi,43.0104,-4.302
 1438585489,Silene_flos-cuculi,57.856389,26.494167
-1697492309,Silene_flos-cuculi,55.5,31.85
 465763889,Silene_flos-cuculi,45.442222,-63.598056
 186819348,Silene_flos-cuculi,59.1175,9.7073
 1701838708,Silene_flos-cuculi,61.327,11.6337
@@ -284,7 +277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 774384900,Silene_flos-cuculi,47.581665,10.138611
 1701408691,Silene_flos-cuculi,60.7842,10.7696
 1936672810,Silene_flos-cuculi,41.3005,-4.1838
-1851351595,Silene_flos-cuculi,42.8,-6.169
 1697492513,Silene_flos-cuculi,56.625759,44.927967
 1342666454,Silene_flos-cuculi,55.094138,9.241614
 1851370746,Silene_flos-cuculi,42.781,-6.109
@@ -322,11 +314,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702155937,Silene_flos-cuculi,59.4325,11.2097
 1702031367,Silene_flos-cuculi,60.127,11.755
 1702253471,Silene_flos-cuculi,61.3891,12.5943
-2234678803,Silene_flos-cuculi,55.1,84.133333
 1455448071,Silene_flos-cuculi,50.073367,4.361916
 1851348154,Silene_flos-cuculi,42.954,-4.919
 1697492297,Silene_flos-cuculi,60.901838,43.188283
-2234678724,Silene_flos-cuculi,51.7,82.8
 1053986379,Silene_flos-cuculi,43.08,-1.31
 1701579616,Silene_flos-cuculi,60.1569,11.4223
 21286797,Silene_flos-cuculi,47.2327,3.48122
@@ -355,7 +345,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701532098,Silene_flos-cuculi,48.15278,16.22667
 1701786511,Silene_flos-cuculi,62.2327,10.7864
 1936599585,Silene_flos-cuculi,43.4183,-4.0389
-860317863,Silene_flos-cuculi,42.41,2.7
 1851339878,Silene_flos-cuculi,42.962,-5.017
 1701984066,Silene_flos-cuculi,59.8971,9.3333
 1701818077,Silene_flos-cuculi,59.8253,10.7808
@@ -418,7 +407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702230731,Silene_flos-cuculi,60.6625,10.6558
 1702429999,Silene_flos-cuculi,61.0985,10.9568
 211631317,Silene_flos-cuculi,42.439999,-5.33
-1500200061,Silene_flos-cuculi,49.083333,14.5
 858384201,Silene_flos-cuculi,53.8485,12.7484
 1599520917,Silene_flos-cuculi,60.851312,24.699838
 1839033975,Silene_flos-cuculi,41.388062,23.942221
@@ -444,7 +432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318681761,Silene_flos-cuculi,59.929498,11.993164
 1697492487,Silene_flos-cuculi,56.942352,60.428023
 1702130850,Silene_flos-cuculi,59.9302,10.2971
-786185507,Silene_flos-cuculi,53.9,13.4
 2313365609,Silene_flos-cuculi,48.09,11.53
 1702153921,Silene_flos-cuculi,59.8336,10.8642
 21137112,Silene_flos-cuculi,67.0875,14.298
@@ -462,7 +449,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599520874,Silene_flos-cuculi,61.010552,24.420117
 994445504,Silene_flos-cuculi,60.9684,24.58318
 1599520930,Silene_flos-cuculi,60.980289,24.579648
-994445880,Silene_flos-cuculi,61,24
 21137203,Silene_flos-cuculi,60.8581,9.9295
 1699852371,Silene_flos-cuculi,59.9536,9.4923
 1599520911,Silene_flos-cuculi,60.988392,24.58088
@@ -470,7 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599520948,Silene_flos-cuculi,62.176073,22.047537
 1701984843,Silene_flos-cuculi,61.1711,11.3341
 1599520909,Silene_flos-cuculi,60.98992,24.565976
-1144769929,Silene_flos-cuculi,41.96667,9.4
 1839085497,Silene_flos-cuculi,40.605282,21.342779
 1599521149,Silene_flos-cuculi,60.055059,23.675216
 1705345837,Silene_flos-cuculi,57.375246,15.547567
@@ -493,7 +478,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57705399,Silene_flos-cuculi,62.258198,25.716688
 1936367043,Silene_flos-cuculi,40.3314,-5.1673
 1936167293,Silene_flos-cuculi,42.6565,-2.5133
-1851329862,Silene_flos-cuculi,42.861,-4.5
 1851412670,Silene_flos-cuculi,42.988,-4.49
 1697492401,Silene_flos-cuculi,54.71311,40.852111
 1705345853,Silene_flos-cuculi,57.379823,15.594084
@@ -528,10 +512,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144769936,Silene_flos-cuculi,41.53333,9.26667
 1936087424,Silene_flos-cuculi,42.3526,-7.6658
 1947293750,Silene_flos-cuculi,50.32,10.43
-1144769921,Silene_flos-cuculi,41.9,9.4
 1144769872,Silene_flos-cuculi,41.96667,9.41667
-1144769933,Silene_flos-cuculi,41.85,9.4
-1144769910,Silene_flos-cuculi,41.78333,9.4
 900225772,Silene_flos-cuculi,59.1304,5.5947
 1936106405,Silene_flos-cuculi,43.0354,-2.6822
 1936402164,Silene_flos-cuculi,42.2578,1.3015
@@ -540,11 +521,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705747746,Silene_flos-cuculi,54.2872,22.8815
 57705352,Silene_flos-cuculi,61.265499,24.1726
 187197834,Silene_flos-cuculi,61.8481,8.5726
-1050615084,Silene_flos-cuculi,42.7,-2.54
-1820372398,Silene_flos-cuculi,46.1,-60.754167
 1599520862,Silene_flos-cuculi,61.804129,26.190832
 187197865,Silene_flos-cuculi,62.2866,10.7443
-442026228,Silene_flos-cuculi,49.75,15
 1705747737,Silene_flos-cuculi,53.1383,23.1432
 1323803603,Silene_flos-cuculi,68.0481,15.4674
 1050615119,Silene_flos-cuculi,43.35,-2.67
@@ -554,7 +532,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697492493,Silene_flos-cuculi,53.892311,44.391318
 1050615098,Silene_flos-cuculi,43.03,-2.65
 1053985895,Silene_flos-cuculi,43.28,-1.78
-1050615110,Silene_flos-cuculi,42.78,-2.5
 1599520905,Silene_flos-cuculi,64.163598,27.849609
 1705345843,Silene_flos-cuculi,57.497373,16.060385
 1323803607,Silene_flos-cuculi,67.0876,14.321
@@ -576,12 +553,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144033802,Silene_flos-cuculi,61.4809,7.4512
 1050615465,Silene_flos-cuculi,43.21,-3.06
 1050615474,Silene_flos-cuculi,43.33,-2.67
-1050615478,Silene_flos-cuculi,43.37,-2.9
 1702509678,Silene_flos-cuculi,43.15,-1.61
 1705334809,Silene_flos-cuculi,57.411379,15.317695
 1050615487,Silene_flos-cuculi,43.03,-2.66
 1050615476,Silene_flos-cuculi,43.09,-2.79
-1851358817,Silene_flos-cuculi,43,-6.24
 1323803313,Silene_flos-cuculi,69.0523,17.5444
 1936548373,Silene_flos-cuculi,43.3126,-5.9608
 1936071134,Silene_flos-cuculi,43.1076,-2.7678
@@ -589,9 +564,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144769926,Silene_flos-cuculi,42.25,9.16667
 1936071048,Silene_flos-cuculi,42.8278,-2.5486
 1144708606,Silene_flos-cuculi,42.36667,9.36667
-1050615075,Silene_flos-cuculi,43.1,-2.74
 1144769937,Silene_flos-cuculi,42.01667,9.46667
-1144769927,Silene_flos-cuculi,41.8,9.4
 1697492417,Silene_flos-cuculi,55.736361,37.150439
 1697492344,Silene_flos-cuculi,54.637244,40.686189
 1434676177,Silene_flos-cuculi,57.98429,13.80455
@@ -603,7 +576,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599520906,Silene_flos-cuculi,62.348095,27.85484
 1599520927,Silene_flos-cuculi,62.199666,22.219802
 1050615080,Silene_flos-cuculi,43.04,-2.81
-296491851,Silene_flos-cuculi,46.716,12.5
 1323805290,Silene_flos-cuculi,68.4694,16.8191
 1599521131,Silene_flos-cuculi,61.787523,25.00665
 1702173254,Silene_flos-cuculi,60.0081,10.6768
@@ -629,7 +601,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702011773,Silene_flos-cuculi,62.4118,5.8649
 187197426,Silene_flos-cuculi,63.5549,10.2277
 1936022616,Silene_flos-cuculi,40.6247,-6.6368
-1851392902,Silene_flos-cuculi,41.2,-5.92
 1599520903,Silene_flos-cuculi,61.074698,25.060771
 1702011420,Silene_flos-cuculi,66.2652,13.1798
 1936395087,Silene_flos-cuculi,61.2833,25.7167
@@ -637,7 +608,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265017625,Silene_flos-cuculi,56.0278,13.2387
 1264999417,Silene_flos-cuculi,61.283333,25.716667
 1050615077,Silene_flos-cuculi,42.59,-2.67
-1988209648,Silene_flos-cuculi,61.3,25.7
 1701333524,Silene_flos-cuculi,62.8166,11.3448
 1701829114,Silene_flos-cuculi,60.6605,10.9695
 211631125,Silene_flos-cuculi,43.400002,-5.11
@@ -658,17 +628,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999507414,Silene_flos-cuculi,60.830562,22.149688
 1702437952,Silene_flos-cuculi,61.3063,6.5634
 1599520895,Silene_flos-cuculi,62.116534,22.156144
-993352623,Silene_flos-cuculi,52.1667,4.5
 2289969549,Silene_flos-cuculi,50.452,6.102
 1936012132,Silene_flos-cuculi,40.4191,-5.2879
 1701934057,Silene_flos-cuculi,62.5374,6.0209
-211631436,Silene_flos-cuculi,43.049999,-6
 1701934050,Silene_flos-cuculi,62.664,6.2836
 1050615083,Silene_flos-cuculi,43.01,-2.74
 1701934258,Silene_flos-cuculi,59.3349,9.0791
 1599520851,Silene_flos-cuculi,61.453625,23.067076
 1702346719,Silene_flos-cuculi,60.0789,5.401
-1936034642,Silene_flos-cuculi,60.6,22.85
 1999507395,Silene_flos-cuculi,60.612817,22.895741
 1697492345,Silene_flos-cuculi,55.189765,36.187585
 1936599609,Silene_flos-cuculi,43.3499,-3.4949
@@ -892,7 +859,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056217996,Silene_flos-cuculi,52.642017,-2.713468
 1999507415,Silene_flos-cuculi,69.77936,27.008482
 1999507483,Silene_flos-cuculi,60.306773,22.879912
-993302408,Silene_flos-cuculi,50.8167,1.6
 1599521114,Silene_flos-cuculi,61.605305,24.829895
 1144033495,Silene_flos-cuculi,60.32605,6.17715
 57705318,Silene_flos-cuculi,62.2495,25.755501
@@ -971,7 +937,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056498216,Silene_flos-cuculi,51.711714,-2.944788
 1055669332,Silene_flos-cuculi,54.726036,-3.036706
 812027391,Silene_flos-cuculi,50.511,9.22665
-993302022,Silene_flos-cuculi,46.7,10.55
 1622363975,Silene_flos-cuculi,66.461633,25.762608
 1701298653,Silene_flos-cuculi,62.6761,11.4216
 1144198352,Silene_flos-cuculi,58.66381,6.23753
@@ -1028,7 +993,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 216100365,Silene_flos-cuculi,62.4216,25.9419
 57705419,Silene_flos-cuculi,61.501598,24.0854
 1935702024,Silene_flos-cuculi,46.9575,14.425
-616356041,Silene_flos-cuculi,50.83,5.9
 1265017519,Silene_flos-cuculi,55.645444,13.70142
 318229388,Silene_flos-cuculi,63.40577,10.35582
 1701568094,Silene_flos-cuculi,69.68,30.1352
@@ -1139,9 +1103,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812027405,Silene_flos-cuculi,50.652333,9.156933
 1701332353,Silene_flos-cuculi,64.019,11.4862
 1701999087,Silene_flos-cuculi,60.2461,10.5643
-860323613,Silene_flos-cuculi,41.69,2.7
 1638405620,Silene_flos-cuculi,47.075,15.45833
-860323126,Silene_flos-cuculi,41.6,2.46
 1264999455,Silene_flos-cuculi,56.81054,13.03513
 1702401582,Silene_flos-cuculi,59.1328,5.5832
 1702296364,Silene_flos-cuculi,59.7016,11.7991
@@ -1366,7 +1328,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144033339,Silene_flos-cuculi,59.73195,10.15707
 1323803283,Silene_flos-cuculi,69.51948,29.51256
 1702401522,Silene_flos-cuculi,59.6953,10.5545
-616356040,Silene_flos-cuculi,50.81,5.9
 1340039143,Silene_flos-cuculi,59.40596,13.26003
 1265000831,Silene_flos-cuculi,57.65766,12.0603
 1705442521,Silene_flos-cuculi,59.858145,17.634069
@@ -1639,7 +1600,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265017598,Silene_flos-cuculi,68.40538,18.68625
 1705266700,Silene_flos-cuculi,57.164701,16.024117
 1055486509,Silene_flos-cuculi,51.497501,-1.935442
-735648013,Silene_flos-cuculi,48.8,2.195556
 1265000861,Silene_flos-cuculi,56.22009,15.60811
 1701919522,Silene_flos-cuculi,59.5138,10.1662
 1057182177,Silene_flos-cuculi,51.879927,-1.944422
@@ -1731,7 +1691,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701919533,Silene_flos-cuculi,60.3447,7.1419
 1705421340,Silene_flos-cuculi,57.758542,14.125296
 1891603528,Silene_flos-cuculi,49.81,6.42
-1144567892,Silene_flos-cuculi,42.1,9.21667
 1705322624,Silene_flos-cuculi,56.103416,14.177885
 1599521105,Silene_flos-cuculi,62.243106,25.553921
 1701786132,Silene_flos-cuculi,59.1085,9.7071
