@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270489539,Leptosyne_bigelovii,35.984333,-116.414283
 2270490270,Leptosyne_bigelovii,34.1348669991233,-116.480983
 1426494497,Leptosyne_bigelovii,35.55024,-118.04965
-1846559153,Leptosyne_bigelovii,34,-116
 1426495502,Leptosyne_bigelovii,35.55387,-118.12577
 1426459050,Leptosyne_bigelovii,36.80413,-118.71516
 2270197890,Leptosyne_bigelovii,35.37,-117.99
@@ -27,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899736297,Leptosyne_bigelovii,35.184833,-118.322333
 1846489899,Leptosyne_bigelovii,35.05067,-118.3442
 1849110167,Leptosyne_bigelovii,34.879444,-119.348611
-2291313427,Leptosyne_bigelovii,35.3,-118.083333
 2270185386,Leptosyne_bigelovii,35.08333,-119.766667
 2270183559,Leptosyne_bigelovii,35.458885,-120.332621
 1426379743,Leptosyne_bigelovii,34.696361,-118.659444
@@ -36,12 +34,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426379085,Leptosyne_bigelovii,36.802778,-118.741111
 1929487862,Leptosyne_bigelovii,34.72,-118.72
 2270182940,Leptosyne_bigelovii,35.36064,-117.899608
-1426379787,Leptosyne_bigelovii,34.416667,-117.1
 1426379614,Leptosyne_bigelovii,35.775,-118.458333
 1846497712,Leptosyne_bigelovii,34.583333,-118.166667
 2270181945,Leptosyne_bigelovii,34.7361999991161,-119.996
 1426305064,Leptosyne_bigelovii,35.708333,-117.991667
-1426307206,Leptosyne_bigelovii,35.216667,-119.9
 1426307189,Leptosyne_bigelovii,35.666667,-119.516667
 2270251335,Leptosyne_bigelovii,34.5340099991185,-119.24605
 2270257780,Leptosyne_bigelovii,34.643979,-119.352094
@@ -85,4 +81,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846497775,Leptosyne_bigelovii,34.084167,-118.705611
 2234477604,Leptosyne_bigelovii,34.454,-117.390779
 2234477613,Leptosyne_bigelovii,34.536091,-117.229518
-1988186165,Leptosyne_bigelovii,35.4,-117.7
