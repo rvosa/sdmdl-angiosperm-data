@@ -39,10 +39,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615257495,Acanthophyllum_laxiflorum,34.45,68.08
 615257473,Acanthophyllum_laxiflorum,33.43,67.8
 615257488,Acanthophyllum_laxiflorum,34.68,69.38
-615257368,Acanthophyllum_laxiflorum,27.47,66.17
 1144577025,Acanthophyllum_laxiflorum,33.83889,66.02639
 615257379,Acanthophyllum_laxiflorum,33.93,70.07
-1144577056,Acanthophyllum_laxiflorum,29.96694,69.38583
 1936162665,Acanthophyllum_laxiflorum,33.6167,69.15
 317816934,Acanthophyllum_laxiflorum,33.62,69.15
 788812846,Acanthophyllum_laxiflorum,34.55905,69.3109
@@ -53,6 +51,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 574928139,Acanthophyllum_laxiflorum,34.416667,68.416667
 788812967,Acanthophyllum_laxiflorum,34.333333,64.916667
 574928140,Acanthophyllum_laxiflorum,33.883333,67.833333
-615257385,Acanthophyllum_laxiflorum,28,66
 1057628810,Acanthophyllum_laxiflorum,33.838805,66.026471
 615257367,Acanthophyllum_laxiflorum,30.42,67.82
