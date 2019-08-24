@@ -39,7 +39,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894823892,Ibervillea_sonorae,24.475,-110.391667
 1846527977,Ibervillea_sonorae,24.148611,-110.979167
 1894823806,Ibervillea_sonorae,24.791667,-110.675
-1893373160,Ibervillea_sonorae,24.583333,-112
 1894823907,Ibervillea_sonorae,24.308333,-111.341667
 1846527931,Ibervillea_sonorae,27.63333,-113.0333
 1894823939,Ibervillea_sonorae,25.258333,-110.675
@@ -55,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893591081,Ibervillea_sonorae,26.813889,-109.215278
 1894976380,Ibervillea_sonorae,25.6125,-109.068056
 1893590998,Ibervillea_sonorae,29.025,-110.958333
-1259153096,Ibervillea_sonorae,26.7,-109.6
 1894069092,Ibervillea_sonorae,23.500028,-110.033944
 1259153120,Ibervillea_sonorae,27.983333,-111.116667
 1895469431,Ibervillea_sonorae,27.9890970398994,-111.104214804119
@@ -86,7 +84,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270510150,Ibervillea_sonorae,24.715044,-112.097257
 2270515106,Ibervillea_sonorae,26.112526,-109.029682
 1895364083,Ibervillea_sonorae,23.508331,-109.473889
-2270512434,Ibervillea_sonorae,23.5,-109.416667
 1895469396,Ibervillea_sonorae,27.466667,-109.766667
 2270515061,Ibervillea_sonorae,27.9507,-111.061797
 415990201,Ibervillea_sonorae,28.31666,-111.31666
@@ -98,7 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895650907,Ibervillea_sonorae,23.766389,-110.677553
 1894069168,Ibervillea_sonorae,23.766583,-110.666806
 2270512968,Ibervillea_sonorae,29.209717,-111.011848
-1259153119,Ibervillea_sonorae,27.6,-110.1
 1894069179,Ibervillea_sonorae,27.316528,-113.166583
 1893373118,Ibervillea_sonorae,26.041944,-111.438889
 1894069068,Ibervillea_sonorae,26.066556,-111.549889
@@ -109,7 +105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895469455,Ibervillea_sonorae,25.8563958010624,-109.372916553959
 1894069109,Ibervillea_sonorae,24.156056,-109.839722
 1894069165,Ibervillea_sonorae,25.783528,-111.25
-1893409611,Ibervillea_sonorae,25.211111,-110.7
 1894069075,Ibervillea_sonorae,25.629111,-110.829361
 1894069111,Ibervillea_sonorae,25.212278,-110.701417
 2270512900,Ibervillea_sonorae,27.934459,-110.616613
