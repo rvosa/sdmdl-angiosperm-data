@@ -5,7 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 685245349,Syncarpha_vestita,-34.125,18.375
 453370978,Syncarpha_vestita,-33.875,19.375
 462313072,Syncarpha_vestita,-34.375,18.875
-1096847058,Syncarpha_vestita,-34,19
 1091331499,Syncarpha_vestita,-33.24,19.325
 462313075,Syncarpha_vestita,-34.625,19.625
 1096847073,Syncarpha_vestita,-34.08,18.42
@@ -23,7 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1226921661,Syncarpha_vestita,-33.977222,20.848611
 462313097,Syncarpha_vestita,-33.875,20.875
 462313120,Syncarpha_vestita,-33.875,21.625
-1261301203,Syncarpha_vestita,-34.3,18.45
 462312966,Syncarpha_vestita,-32.125,19.125
 462313122,Syncarpha_vestita,-34.375,20.625
 453371001,Syncarpha_vestita,-34.625,20.125
@@ -41,20 +39,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 453370993,Syncarpha_vestita,-32.125,18.875
 462313061,Syncarpha_vestita,-33.875,22.375
 462313010,Syncarpha_vestita,-34.125,23.875
-2287729473,Syncarpha_vestita,-34.1,18.466667
 462313024,Syncarpha_vestita,-34.125,22.125
 453370960,Syncarpha_vestita,-33.625,18.875
 462313116,Syncarpha_vestita,-34.125,20.375
-1988239173,Syncarpha_vestita,-34.3,19
 462312961,Syncarpha_vestita,-33.625,19.125
 453370988,Syncarpha_vestita,-33.625,19.375
 453370969,Syncarpha_vestita,-33.125,22.125
 462312964,Syncarpha_vestita,-33.375,19.625
 462313167,Syncarpha_vestita,-33.875,20.625
 462313094,Syncarpha_vestita,-33.375,19.125
-1988227620,Syncarpha_vestita,-33.9,20.2
 453370979,Syncarpha_vestita,-33.375,22.125
-1988242530,Syncarpha_vestita,-34.4,19.2
 462312996,Syncarpha_vestita,-34.125,18.625
 462313134,Syncarpha_vestita,-34.125,19.875
 462312990,Syncarpha_vestita,-33.875,18.375
