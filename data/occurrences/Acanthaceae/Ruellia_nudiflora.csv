@@ -5,9 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320061208,Ruellia_nudiflora,16.5403,-94.9381
 1258051915,Ruellia_nudiflora,11.878667,-85.293167
 2270493580,Ruellia_nudiflora,32.302633,-111.444148
-2291908016,Ruellia_nudiflora,12.316417,-69.084056
-2289785315,Ruellia_nudiflora,12.344417,-69.142972
-2291908445,Ruellia_nudiflora,12.147911,-68.968092
 1897558512,Ruellia_nudiflora,18.448444,-99.103361
 1258040357,Ruellia_nudiflora,10.348369,-85.352731
 1317859637,Ruellia_nudiflora,16.5534,-94.9321
@@ -68,7 +65,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563147511,Ruellia_nudiflora,29.7436,-90.1386
 1894419398,Ruellia_nudiflora,18.619583,-92.115278
 1894571073,Ruellia_nudiflora,17.830278,-97.161111
-1421378744,Ruellia_nudiflora,21.028333,-89.638056
 1257669551,Ruellia_nudiflora,18.529167,-89.575556
 1421387543,Ruellia_nudiflora,20.550556,-88.83
 1253788768,Ruellia_nudiflora,10.8,-85.35
@@ -118,13 +114,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1852158524,Ruellia_nudiflora,14.4,-87.12
 1258721320,Ruellia_nudiflora,12.43333,-86.9
 1259078639,Ruellia_nudiflora,14.870833,-85.895555
-1893311779,Ruellia_nudiflora,19.822222,-90.558333
 1421402886,Ruellia_nudiflora,19.842222,-90.531667
 1253722089,Ruellia_nudiflora,10.408333,-85.35
 1261029515,Ruellia_nudiflora,10.40833,-85.35
 45920397,Ruellia_nudiflora,10.4,-85.35
 1419228860,Ruellia_nudiflora,17.525556,-98.046111
-1421352149,Ruellia_nudiflora,21.55,-88.216667
 1894649186,Ruellia_nudiflora,24.291667,-98.978333
 1894781907,Ruellia_nudiflora,24.2851262827895,-98.9687286939098
 1895945343,Ruellia_nudiflora,16.752778,-93.116667
@@ -174,7 +168,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893311674,Ruellia_nudiflora,19.943056,-90.376389
 1253776481,Ruellia_nudiflora,10.55,-85.305556
 1896334142,Ruellia_nudiflora,19.212222,-96.588056
-1895648472,Ruellia_nudiflora,19.600556,-96.377778
 1253579666,Ruellia_nudiflora,10.35,-85.35
 1261043867,Ruellia_nudiflora,25.01,-100.08
 1893666087,Ruellia_nudiflora,25.048136,-100.137648
@@ -192,8 +185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421406703,Ruellia_nudiflora,18.427778,-89.896667
 45920185,Ruellia_nudiflora,10.58,-85.65
 1893311684,Ruellia_nudiflora,18.431944,-89.883333
-1893311715,Ruellia_nudiflora,19.827778,-90.556944
-1896334147,Ruellia_nudiflora,19.825278,-90.556944
 1895142917,Ruellia_nudiflora,16.930833,-92.426111
 1929862141,Ruellia_nudiflora,17.1,-89.1
 1421389049,Ruellia_nudiflora,18.583333,-90.057778
@@ -241,7 +232,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896049536,Ruellia_nudiflora,16.868333,-92.473056
 1893444366,Ruellia_nudiflora,20.241667,-87.508333
 1426445847,Ruellia_nudiflora,16.881111,-92.5
-1893444451,Ruellia_nudiflora,19.975,-90.575
 1893915385,Ruellia_nudiflora,17.865278,-99.760556
 1253621157,Ruellia_nudiflora,9.675,-83.005556
 1895484366,Ruellia_nudiflora,16.29755,-92.464561
@@ -263,7 +253,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893617835,Ruellia_nudiflora,21.641667,-99.226667
 1253642985,Ruellia_nudiflora,10.833333,-85.616667
 1893617856,Ruellia_nudiflora,21.546667,-99.688333
-1421380202,Ruellia_nudiflora,21.55,-88.222222
 1421396653,Ruellia_nudiflora,21.291667,-87.766667
 1258581099,Ruellia_nudiflora,10.83,-85.61
 1897949421,Ruellia_nudiflora,21.148056,-103.205555
@@ -412,7 +401,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259081156,Ruellia_nudiflora,18.95,-91.15
 1893636688,Ruellia_nudiflora,18.976389,-91.169444
 1259081140,Ruellia_nudiflora,20.3,-90.06
-1259903160,Ruellia_nudiflora,18.6,-74.016667
 1896049526,Ruellia_nudiflora,20.446111,-89.632222
 1894679616,Ruellia_nudiflora,16.441667,-90.608333
 1421364517,Ruellia_nudiflora,20.441667,-89.633333
@@ -421,10 +409,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421372868,Ruellia_nudiflora,21.236111,-89.304167
 1894545417,Ruellia_nudiflora,18.375556,-93
 1896049555,Ruellia_nudiflora,14.884722,-92.353333
-1421399873,Ruellia_nudiflora,21.245833,-86.741667
-1894679654,Ruellia_nudiflora,21.2536893416184,-86.7437696068158
 1895945334,Ruellia_nudiflora,18.230278,-97.206667
-1258711943,Ruellia_nudiflora,21.25,-86.74
 1894679881,Ruellia_nudiflora,19.9916171890003,-89.7638814599387
 1421409890,Ruellia_nudiflora,19.430833,-88.101389
 1421416350,Ruellia_nudiflora,19.856944,-88.175
@@ -446,7 +431,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2238753315,Ruellia_nudiflora,30.552142,-91.723647
 1896049556,Ruellia_nudiflora,18.23,-92.838889
 1896334193,Ruellia_nudiflora,18.53,-92.648333
-1894545414,Ruellia_nudiflora,18.646389,-92.534444
 1421352643,Ruellia_nudiflora,19.430833,-89.101389
 1894874360,Ruellia_nudiflora,18.258333,-92.8375
 1893587904,Ruellia_nudiflora,27.908333,-110.691667
@@ -465,7 +449,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893763963,Ruellia_nudiflora,24.638889,-107.411111
 1895802451,Ruellia_nudiflora,23.608333,-99.608333
 1895499743,Ruellia_nudiflora,25.7,-99.633333
-1261206266,Ruellia_nudiflora,8.966667,-79.55
 1896049544,Ruellia_nudiflora,18.933056,-101.837222
 1896049565,Ruellia_nudiflora,24.965833,-107.401111
 1895945342,Ruellia_nudiflora,18.9625,-101.806111
@@ -475,9 +458,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270694447,Ruellia_nudiflora,23.731082,-99.14831
 912119641,Ruellia_nudiflora,24.72,-99.74
 912119676,Ruellia_nudiflora,19.51,-96.64
-1261208643,Ruellia_nudiflora,12.133333,-86.75
 1421391523,Ruellia_nudiflora,20.513889,-89.7875
-1930048924,Ruellia_nudiflora,19.5,-70.77
 45918133,Ruellia_nudiflora,9.93,-84.7
 1421395897,Ruellia_nudiflora,19.359444,-89.580833
 1893445494,Ruellia_nudiflora,20.175,-89.541667
@@ -516,7 +497,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896049569,Ruellia_nudiflora,16.730833,-91.069167
 1899730685,Ruellia_nudiflora,28.15,-101.116667
 1261548792,Ruellia_nudiflora,12.4,-85.75
-1896334136,Ruellia_nudiflora,21.541667,-88.258333
 1896334221,Ruellia_nudiflora,24.749722,-103.807778
 371324440,Ruellia_nudiflora,20.775,-89.208333
 1419233297,Ruellia_nudiflora,19.894167,-101.206111
@@ -543,7 +523,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1852145605,Ruellia_nudiflora,22.2,-98.35
 1421389683,Ruellia_nudiflora,20.363889,-89.769444
 1261208826,Ruellia_nudiflora,12.36666,-86.06666
-1258666514,Ruellia_nudiflora,12.08333,-86.71666
 1893311669,Ruellia_nudiflora,20.983333,-89.616667
 1258668264,Ruellia_nudiflora,12,-85.16666
 1259494181,Ruellia_nudiflora,21.75,-99.66666
@@ -565,12 +544,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270463861,Ruellia_nudiflora,31.3364,-109.279
 1258517583,Ruellia_nudiflora,16.88,-96.39
 2270464254,Ruellia_nudiflora,31.3441,-109.256
-1896334163,Ruellia_nudiflora,19.59,-96.380833
 1421379675,Ruellia_nudiflora,19.011111,-90.313611
 1896334140,Ruellia_nudiflora,20.447778,-97.32
 1896235579,Ruellia_nudiflora,19.011111,-90.314722
 371316625,Ruellia_nudiflora,19.158333,-90.175
-1896334186,Ruellia_nudiflora,19.140278,-96.116667
 1896334168,Ruellia_nudiflora,19.363056,-96.658333
 1258717044,Ruellia_nudiflora,12.25,-86.71666
 1259490844,Ruellia_nudiflora,19.33333,-96.63333
@@ -610,8 +587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259493762,Ruellia_nudiflora,18.16666,-88.56666
 1896334174,Ruellia_nudiflora,19.408333,-96.775
 1421367761,Ruellia_nudiflora,21.090278,-89.597778
-1846491302,Ruellia_nudiflora,33.503519,-112.054628
-2270464532,Ruellia_nudiflora,33.5035,-112.0546
 1261034386,Ruellia_nudiflora,24.74,-99.81
 1893617840,Ruellia_nudiflora,24.744722,-99.811111
 1419217596,Ruellia_nudiflora,25.115556,-103.710556
@@ -636,8 +611,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893617954,Ruellia_nudiflora,19.491667,-96.491667
 2238753617,Ruellia_nudiflora,32.626199,-91.840672
 2270464710,Ruellia_nudiflora,31.999526,-110.580079
-1258439835,Ruellia_nudiflora,12.083333,-86.716667
-2289753614,Ruellia_nudiflora,11.633333,-86.35
 1896062239,Ruellia_nudiflora,25.751667,-100.295278
 1896049542,Ruellia_nudiflora,20.136944,-97.199167
 1259489960,Ruellia_nudiflora,20.115,-97.227778
@@ -658,7 +631,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259493557,Ruellia_nudiflora,18.11666,-88.66666
 1896049528,Ruellia_nudiflora,16.366667,-95.961111
 1893617866,Ruellia_nudiflora,19.36,-96.656667
-1257530755,Ruellia_nudiflora,9.99722,-63.61166
 1896042204,Ruellia_nudiflora,26.024167,-98.077778
 1895802435,Ruellia_nudiflora,26.008333,-98.158333
 2270464153,Ruellia_nudiflora,32.08,-111.35
@@ -672,11 +644,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988986357,Ruellia_nudiflora,19.2806,-96.4365
 1896334134,Ruellia_nudiflora,19.443333,-96.407222
 1844416698,Ruellia_nudiflora,28.103116,-98.802512
-1259074346,Ruellia_nudiflora,7.85333,-77.077229
 1988922647,Ruellia_nudiflora,17.023,-96.5884
-1896334180,Ruellia_nudiflora,19.525,-96.358333
 1896334144,Ruellia_nudiflora,19.503333,-96.48
-1228329383,Ruellia_nudiflora,19.52,-96.35
 2270694322,Ruellia_nudiflora,23.353131,-99.518023
 1259490023,Ruellia_nudiflora,19.86666,-90.4
 1265822714,Ruellia_nudiflora,19.8672814494931,-90.3998964331662
@@ -727,7 +696,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896044734,Ruellia_nudiflora,18.365,-95.795278
 2270695430,Ruellia_nudiflora,27.14302,-101.913385
 1896049563,Ruellia_nudiflora,32.178056,-110.98
-2270464355,Ruellia_nudiflora,32.2506,-112.605
 1895802472,Ruellia_nudiflora,23.658333,-98.641667
 1896049550,Ruellia_nudiflora,23.729722,-98.742778
 1895348953,Ruellia_nudiflora,21.7146423230141,-98.9615906724078
@@ -898,7 +866,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989556873,Ruellia_nudiflora,30.7112,-109.054
 1895374401,Ruellia_nudiflora,19.088061,-102.350831
 1988990409,Ruellia_nudiflora,26.3893,-100.247
-1144759528,Ruellia_nudiflora,-24.23333,-64.86667
 1989349740,Ruellia_nudiflora,18.9139,-96.7772
 1896334172,Ruellia_nudiflora,18.915556,-96.776667
 1988802212,Ruellia_nudiflora,23.207812,-99.1003
@@ -918,9 +885,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259490238,Ruellia_nudiflora,18.03333,-88.43333
 1896049534,Ruellia_nudiflora,25.535833,-108.431111
 912119710,Ruellia_nudiflora,24.85,-98.16
-1929499956,Ruellia_nudiflora,20.350989,-74.499681
 1261886270,Ruellia_nudiflora,12.13333,-86.11666
-1930573991,Ruellia_nudiflora,18.517014,-71.999374
 1896094250,Ruellia_nudiflora,17.750278,-96.958333
 1896334164,Ruellia_nudiflora,19.257222,-96.603056
 1259493510,Ruellia_nudiflora,19.25833,-96.59166
