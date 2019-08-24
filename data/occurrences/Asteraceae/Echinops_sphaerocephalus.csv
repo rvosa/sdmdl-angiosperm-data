@@ -25,7 +25,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839007765,Echinops_sphaerocephalus,39.670559,20.91889
 1839007763,Echinops_sphaerocephalus,39.683609,20.884171
 1697847118,Echinops_sphaerocephalus,44.7231,37.45262
-1060370039,Echinops_sphaerocephalus,50.8,11
 1018988744,Echinops_sphaerocephalus,43.246944,42.562222
 911751756,Echinops_sphaerocephalus,51.416111,11.082222
 1702373757,Echinops_sphaerocephalus,59.8577,10.4907
@@ -81,7 +80,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860312821,Echinops_sphaerocephalus,42.307,0.664
 1697847164,Echinops_sphaerocephalus,44.217369,42.031128
 1230684782,Echinops_sphaerocephalus,41.69861,45.52528
-786135106,Echinops_sphaerocephalus,48.4,9.9
 1949316526,Echinops_sphaerocephalus,53.105148,12.847001
 1503347423,Echinops_sphaerocephalus,52.379167,13.297222
 1949956614,Echinops_sphaerocephalus,43.602778,22.697222
@@ -125,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788451459,Echinops_sphaerocephalus,55.513,13.44097
 1705293350,Echinops_sphaerocephalus,57.277689,16.468364
 1930445811,Echinops_sphaerocephalus,42.7264,44.6275
-786135114,Echinops_sphaerocephalus,47.8,8.8
 441988233,Echinops_sphaerocephalus,51.277115,11.468308
 1697748497,Echinops_sphaerocephalus,44.732528,33.932219
 1999594808,Echinops_sphaerocephalus,60.799381,21.35373
@@ -173,7 +170,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705319849,Echinops_sphaerocephalus,57.401535,15.871752
 318680629,Echinops_sphaerocephalus,59.667732,10.772875
 1935686080,Echinops_sphaerocephalus,47.48667,14.48583
-1947053316,Echinops_sphaerocephalus,49.93,10.3
 1947053342,Echinops_sphaerocephalus,50.19,10.36
 1697474895,Echinops_sphaerocephalus,55.573544,37.578413
 20846819,Echinops_sphaerocephalus,59.213,10.7988
@@ -183,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 745247,Echinops_sphaerocephalus,57.26573,16.47546
 1697474964,Echinops_sphaerocephalus,52.566209,38.846745
 1697474969,Echinops_sphaerocephalus,52.572727,38.349123
-1050581904,Echinops_sphaerocephalus,42.56,0.5
 1253403465,Echinops_sphaerocephalus,51.936039,11.786434
 788733229,Echinops_sphaerocephalus,59.35631,15.4008
 788705615,Echinops_sphaerocephalus,59.29517,15.36994
@@ -202,7 +197,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697474943,Echinops_sphaerocephalus,54.3966,40.8921
 1697847201,Echinops_sphaerocephalus,45.414849,40.579297
 1697474902,Echinops_sphaerocephalus,54.891981,41.9153
-1638535530,Echinops_sphaerocephalus,40.866667,24
 1600880199,Echinops_sphaerocephalus,61.326265,24.288746
 1948566648,Echinops_sphaerocephalus,60.260074,24.919573
 2235016722,Echinops_sphaerocephalus,40.7525,23.735
@@ -236,18 +230,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1668934400,Echinops_sphaerocephalus,54.86,37.617
 788493982,Echinops_sphaerocephalus,56.072315,13.302152
 788791505,Echinops_sphaerocephalus,56.17281,14.28798
-786135067,Echinops_sphaerocephalus,48.7,10.8
 1999665925,Echinops_sphaerocephalus,59.960838,23.505513
-786135079,Echinops_sphaerocephalus,49.6,8.1
 1697474956,Echinops_sphaerocephalus,54.853996,37.549459
 1697474972,Echinops_sphaerocephalus,54.847239,37.592382
 745317,Echinops_sphaerocephalus,56.19029,15.60269
 1702359224,Echinops_sphaerocephalus,59.92224,10.50728
-786135061,Echinops_sphaerocephalus,46.9,17.4
 2313351354,Echinops_sphaerocephalus,48.14,11.59
 1705256620,Echinops_sphaerocephalus,57.239767,16.003957
-786135118,Echinops_sphaerocephalus,49.4,8.6
-165390574,Echinops_sphaerocephalus,42.4,1.85
 1697847149,Echinops_sphaerocephalus,43.992876,39.936075
 1697475009,Echinops_sphaerocephalus,53.251644,56.013728
 1697474975,Echinops_sphaerocephalus,53.091593,50.63022
