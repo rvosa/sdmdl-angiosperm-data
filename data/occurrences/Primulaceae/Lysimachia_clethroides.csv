@@ -34,8 +34,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829914285,Lysimachia_clethroides,35.52409,139.628036
 1829917420,Lysimachia_clethroides,35.3741,139.253068
 1829929807,Lysimachia_clethroides,35.282443,139.128082
-2244508028,Lysimachia_clethroides,34.766667,135
-1830238304,Lysimachia_clethroides,36.4,136.916667
 1829914392,Lysimachia_clethroides,35.432433,139.503049
 2243107391,Lysimachia_clethroides,36.19059,140.28786
 1829927658,Lysimachia_clethroides,35.290775,139.115583
@@ -70,7 +68,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828481523,Lysimachia_clethroides,43.192,140.878
 1830123485,Lysimachia_clethroides,35.55605,139.33548
 1830526067,Lysimachia_clethroides,34.913611,135.064722
-1830209047,Lysimachia_clethroides,36.866667,137.6
 1830524927,Lysimachia_clethroides,34.883611,136.330556
 1830207994,Lysimachia_clethroides,36.816667,137.55
 1829500092,Lysimachia_clethroides,37.115,140.213611
@@ -79,7 +76,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829561184,Lysimachia_clethroides,36.0975,140.16319
 391294747,Lysimachia_clethroides,37.713889,140.360278
 1829558204,Lysimachia_clethroides,36.68772,140.29675
-1830203633,Lysimachia_clethroides,36.183333,137.1
 1830205038,Lysimachia_clethroides,36.616667,137.033333
 391294566,Lysimachia_clethroides,37.763889,140.87
 391294568,Lysimachia_clethroides,37.790278,140.883889
@@ -90,7 +86,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 736076118,Lysimachia_clethroides,35.595833,139.16875
 736076119,Lysimachia_clethroides,35.5625,139.29375
 1829865892,Lysimachia_clethroides,34.968689,139.127928
-1830525621,Lysimachia_clethroides,36.583333,139.8
 1828741932,Lysimachia_clethroides,35.08416,137.218596
 1933980592,Lysimachia_clethroides,36.4963,138.6848
 391294682,Lysimachia_clethroides,37.109694,140.243333
@@ -100,7 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830196812,Lysimachia_clethroides,36.55,137.216667
 2243078378,Lysimachia_clethroides,40.130029,140.841641
 391294796,Lysimachia_clethroides,37.663611,140.080556
-391294934,Lysimachia_clethroides,37.773611,140
 1829864829,Lysimachia_clethroides,35.002417,139.048972
 2244449068,Lysimachia_clethroides,36.55,137.166667
 395778419,Lysimachia_clethroides,34.659167,133.861944
@@ -120,31 +114,25 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830671630,Lysimachia_clethroides,33.666667,133.683333
 1830670245,Lysimachia_clethroides,33.666667,133.733333
 1830671396,Lysimachia_clethroides,33.666667,133.583333
-1830200744,Lysimachia_clethroides,36.616667,137.4
 1830670273,Lysimachia_clethroides,33.583333,133.733333
 381821054,Lysimachia_clethroides,36.23994,139.91995
 381821042,Lysimachia_clethroides,36.00638,140.26089
 391294720,Lysimachia_clethroides,37.660278,140.114722
 1830529066,Lysimachia_clethroides,34.873056,134.7025
-1830201010,Lysimachia_clethroides,35.25,137.9
 1830670217,Lysimachia_clethroides,33.75,133.616667
 1934052071,Lysimachia_clethroides,35.633333,134.633333
 391294518,Lysimachia_clethroides,37.110833,140.217222
 391294780,Lysimachia_clethroides,37.111417,140.211806
-1830530119,Lysimachia_clethroides,35.3,134.566667
 1830678374,Lysimachia_clethroides,33.116667,133.133333
 381821083,Lysimachia_clethroides,36.76401,140.36385
 391294701,Lysimachia_clethroides,37.776667,140.676944
 1830201832,Lysimachia_clethroides,36.533333,137.216667
 1933845025,Lysimachia_clethroides,34.6688,138.9631
-1829606549,Lysimachia_clethroides,36.5,138.8
 381821087,Lysimachia_clethroides,36.77835,140.36012
 391294870,Lysimachia_clethroides,37.766667,140.766667
 380085851,Lysimachia_clethroides,41.932222,140.913611
 1829867393,Lysimachia_clethroides,35.115793,139.053098
 1830528876,Lysimachia_clethroides,35.466944,134.478333
-1830206044,Lysimachia_clethroides,36.65,137.4
-1933896464,Lysimachia_clethroides,36.2,140.083333
 381821021,Lysimachia_clethroides,36.60202,140.646
 381821081,Lysimachia_clethroides,36.55083,140.41
 1933903384,Lysimachia_clethroides,36.241,140.1245
@@ -154,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829598245,Lysimachia_clethroides,36.206667,138.7425
 1830201560,Lysimachia_clethroides,36.566667,137.416667
 1830683594,Lysimachia_clethroides,33.466667,133.083333
-1830683734,Lysimachia_clethroides,33.7,133.8
 1828671413,Lysimachia_clethroides,36.523896,138.347465
 1830202580,Lysimachia_clethroides,36.533333,137.25
 395778347,Lysimachia_clethroides,35.026944,133.710556
@@ -167,7 +154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830691132,Lysimachia_clethroides,33.45,134.016667
 238095297,Lysimachia_clethroides,37.65,140.383333
 395778311,Lysimachia_clethroides,35.185556,134.203889
-1830688019,Lysimachia_clethroides,33.7,133.483333
 380085857,Lysimachia_clethroides,41.7325,141.033611
 1830625554,Lysimachia_clethroides,33.986674,133.815919
 575002566,Lysimachia_clethroides,40.638056,140.698889
@@ -175,7 +161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830690780,Lysimachia_clethroides,33.483333,133.933333
 1829788823,Lysimachia_clethroides,35.58674,139.42326
 2244523576,Lysimachia_clethroides,33.433333,133.383333
-1829609331,Lysimachia_clethroides,36.3,138.9
 2244521388,Lysimachia_clethroides,33.616667,133.533333
 381820982,Lysimachia_clethroides,36.52283,140.6165
 2243077838,Lysimachia_clethroides,40.2679,140.1622
@@ -184,14 +169,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395778242,Lysimachia_clethroides,35.213333,133.910278
 395778251,Lysimachia_clethroides,35.286667,133.770833
 395778259,Lysimachia_clethroides,34.983889,133.431667
-238095312,Lysimachia_clethroides,37,140
 395778278,Lysimachia_clethroides,35.227361,133.989972
 1828478549,Lysimachia_clethroides,43.1968,140.915
 1829619419,Lysimachia_clethroides,36.762778,139.189444
 395778261,Lysimachia_clethroides,35.151667,134.120278
 2244521577,Lysimachia_clethroides,33.633333,133.533333
 2244521418,Lysimachia_clethroides,33.516667,133.866667
-2244520199,Lysimachia_clethroides,33.3,132.883333
 381820953,Lysimachia_clethroides,36.53166,140.53534
 395778276,Lysimachia_clethroides,35.045556,133.304444
 1933837762,Lysimachia_clethroides,35.6349,137.3545
@@ -207,7 +190,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395778197,Lysimachia_clethroides,35.036667,134.1325
 395778157,Lysimachia_clethroides,35.250833,133.798056
 381820985,Lysimachia_clethroides,36.85362,140.77678
-1830201242,Lysimachia_clethroides,35.433333,137.5
 395778178,Lysimachia_clethroides,35.161944,133.998333
 2243078323,Lysimachia_clethroides,39.555167,140.261182
 395778192,Lysimachia_clethroides,35.168333,134.108611
@@ -221,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395778214,Lysimachia_clethroides,35.268611,134.051389
 395778217,Lysimachia_clethroides,35.276667,134.025833
 395778237,Lysimachia_clethroides,35.180556,133.7675
-1830526307,Lysimachia_clethroides,34.8,134.783333
 381820948,Lysimachia_clethroides,36.56289,140.5428
 1830525880,Lysimachia_clethroides,34.95,134.951389
 395778071,Lysimachia_clethroides,34.968056,133.997222
@@ -238,10 +219,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828667019,Lysimachia_clethroides,36.62,136.78
 381820941,Lysimachia_clethroides,36.52562,140.54092
 381820994,Lysimachia_clethroides,36.79233,140.70917
-1830529018,Lysimachia_clethroides,35.5,134.55
 395778076,Lysimachia_clethroides,35.277778,133.709722
 395778115,Lysimachia_clethroides,35.269722,134.045556
-1830529444,Lysimachia_clethroides,35.4,134.666667
 1830528842,Lysimachia_clethroides,35.466667,134.45
 1933848439,Lysimachia_clethroides,40.2027,140.0065
 395778129,Lysimachia_clethroides,34.976389,133.655556
@@ -267,7 +246,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395778020,Lysimachia_clethroides,35.203056,133.801667
 395778018,Lysimachia_clethroides,35.154167,133.636111
 395778031,Lysimachia_clethroides,35.159722,133.6525
-1830527090,Lysimachia_clethroides,35.216667,134.5
 395778054,Lysimachia_clethroides,35.223056,133.525278
 388841545,Lysimachia_clethroides,35.415769,139.653036
 1830186563,Lysimachia_clethroides,36.583333,137.45
@@ -280,7 +258,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395777950,Lysimachia_clethroides,35.200833,133.778056
 2244454462,Lysimachia_clethroides,36.622,136.727
 1830529308,Lysimachia_clethroides,35.318056,134.55
-1830529385,Lysimachia_clethroides,35.318056,134.6
 2244454289,Lysimachia_clethroides,36.613,136.7018
 1933895153,Lysimachia_clethroides,36.1038,140.1174
 395777874,Lysimachia_clethroides,35.106111,134.323611
@@ -307,7 +284,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830528768,Lysimachia_clethroides,35.625278,134.463889
 1828819808,Lysimachia_clethroides,36.276528,136.497941
 1830528337,Lysimachia_clethroides,35.085833,134.585278
-1830191211,Lysimachia_clethroides,36.75,137.5
 381821145,Lysimachia_clethroides,35.96718,140.17619
 1830527586,Lysimachia_clethroides,34.733333,135.25
 1829645318,Lysimachia_clethroides,36.218611,139.443889
@@ -324,16 +300,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830528735,Lysimachia_clethroides,35.568889,134.568056
 1830528352,Lysimachia_clethroides,35.083333,134.916667
 1830525917,Lysimachia_clethroides,34.766667,135.283333
-1830527455,Lysimachia_clethroides,35.483333,134.9
 1830529611,Lysimachia_clethroides,35.351667,134.519167
 1830528797,Lysimachia_clethroides,35.597778,134.574722
 1934097683,Lysimachia_clethroides,36.9884,139.5843
 1830529273,Lysimachia_clethroides,34.85,135.316667
 1829644089,Lysimachia_clethroides,36.890833,137.863889
-1830177504,Lysimachia_clethroides,37.1,138.216667
 1828819803,Lysimachia_clethroides,36.277833,136.426464
-1830529053,Lysimachia_clethroides,35.4,134.516667
-1830528800,Lysimachia_clethroides,35.383333,134.5
 381820840,Lysimachia_clethroides,36.08405,140.16438
 1830529062,Lysimachia_clethroides,35.618611,134.450833
 1830527859,Lysimachia_clethroides,34.650278,134.433611
@@ -363,7 +335,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829768298,Lysimachia_clethroides,35.336622,140.159244
 624041392,Lysimachia_clethroides,35.494933,140.134242
 1830164174,Lysimachia_clethroides,36.766667,136.933333
-1830528491,Lysimachia_clethroides,34.8,134.35
 1829768275,Lysimachia_clethroides,35.478267,140.134242
 1830527245,Lysimachia_clethroides,35.191667,134.541667
 1830188719,Lysimachia_clethroides,37.95,139.533333
@@ -376,21 +347,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830527094,Lysimachia_clethroides,35.283333,134.533333
 624041390,Lysimachia_clethroides,35.236636,140.134244
 624041112,Lysimachia_clethroides,35.444939,140.059247
-1830527862,Lysimachia_clethroides,35,134.65
 1830529210,Lysimachia_clethroides,34.916667,135.316667
 1830524589,Lysimachia_clethroides,35.35,135.766667
 1829844932,Lysimachia_clethroides,35.984671,138.460758
-1830528454,Lysimachia_clethroides,34.9,135.366667
 1830524626,Lysimachia_clethroides,38.383333,140.733333
-1830185173,Lysimachia_clethroides,36.5,137.116667
 1830528766,Lysimachia_clethroides,35.483333,134.634722
 381820731,Lysimachia_clethroides,36.24783,140.19257
-1830528774,Lysimachia_clethroides,35.5,134.516667
 1829770488,Lysimachia_clethroides,35.528261,140.121742
 2313516374,Lysimachia_clethroides,42.916667,131.333333
 1830177612,Lysimachia_clethroides,36.766667,137.616667
 381820729,Lysimachia_clethroides,36.17412,140.11095
-1830205978,Lysimachia_clethroides,36.4,136.866667
 1933822158,Lysimachia_clethroides,35.60408,140.10831
 1828819844,Lysimachia_clethroides,36.338787,136.458575
 1934138758,Lysimachia_clethroides,34.74625,135.209556
@@ -398,7 +364,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830527372,Lysimachia_clethroides,35.216667,134.533333
 1830526328,Lysimachia_clethroides,34.95,134.433333
 1830526336,Lysimachia_clethroides,34.666667,134.283333
-1830528083,Lysimachia_clethroides,34.75,135.2
 1830526169,Lysimachia_clethroides,34.95,134.366667
 1830524478,Lysimachia_clethroides,35.931944,136.875
 395777812,Lysimachia_clethroides,35.306222,133.995833
@@ -409,7 +374,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295919752,Lysimachia_clethroides,35.432432,139.465551
 1830160395,Lysimachia_clethroides,36.316667,136.833333
 1830160125,Lysimachia_clethroides,36.766667,136.85
-1830160788,Lysimachia_clethroides,36.916667,137.6
 1830525258,Lysimachia_clethroides,36.283889,136.528333
 1830160979,Lysimachia_clethroides,36.483333,136.75
 2243078228,Lysimachia_clethroides,39.133416,140.517952
@@ -418,7 +382,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2243078478,Lysimachia_clethroides,39.467311,140.434229
 1933822101,Lysimachia_clethroides,35.71247,140.18527
 1830175083,Lysimachia_clethroides,36.416667,137.033333
-1830175042,Lysimachia_clethroides,36.416667,137
 1830529620,Lysimachia_clethroides,35.35,134.516667
 381821162,Lysimachia_clethroides,36.37887,140.48746
 395777779,Lysimachia_clethroides,35.330278,133.988889
@@ -491,7 +454,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187994024,Lysimachia_clethroides,35.215781,139.040593
 1829564074,Lysimachia_clethroides,36.59178,140.60583
 1830212296,Lysimachia_clethroides,36.26946,140.08661
-1830167313,Lysimachia_clethroides,36.383333,137.1
 1697280756,Lysimachia_clethroides,42.797044,131.253315
 736065497,Lysimachia_clethroides,36.07414,139.3029
 187994026,Lysimachia_clethroides,35.357443,139.515548
@@ -542,7 +504,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830524638,Lysimachia_clethroides,35.660556,136.856667
 1830151517,Lysimachia_clethroides,36.466667,137.016667
 187994097,Lysimachia_clethroides,35.582409,139.328058
-1830200757,Lysimachia_clethroides,36.8,137.5
 187994074,Lysimachia_clethroides,35.332446,139.540546
 1830526017,Lysimachia_clethroides,37.286944,140.689167
 187994020,Lysimachia_clethroides,35.265773,138.978099
@@ -608,7 +569,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830528225,Lysimachia_clethroides,34.783333,135.14
 1830527497,Lysimachia_clethroides,35.515556,134.650556
 1830191128,Lysimachia_clethroides,36.433333,136.566667
-1830190924,Lysimachia_clethroides,36.516667,136.8
 187994073,Lysimachia_clethroides,35.482424,139.34056
 1830527818,Lysimachia_clethroides,35.451667,134.6475
 295920078,Lysimachia_clethroides,35.299117,139.603041
@@ -650,7 +610,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830528274,Lysimachia_clethroides,34.798889,135.127778
 187994095,Lysimachia_clethroides,35.349111,139.615539
 1834898318,Lysimachia_clethroides,35.320833,139.30625
-1830179371,Lysimachia_clethroides,36.7,137.183333
 187994103,Lysimachia_clethroides,35.507423,139.515546
 187994105,Lysimachia_clethroides,35.557411,139.228068
 187994034,Lysimachia_clethroides,35.415767,139.453052
@@ -734,7 +693,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830525542,Lysimachia_clethroides,35.829167,139.190556
 1828819591,Lysimachia_clethroides,36.215907,136.34296
 1830625808,Lysimachia_clethroides,34.02834,134.50671
-2313516611,Lysimachia_clethroides,42.5,130.75
 381821629,Lysimachia_clethroides,37.40598,140.364
 1829892644,Lysimachia_clethroides,35.371111,138.968333
 1830528181,Lysimachia_clethroides,35.153056,134.686111
@@ -743,19 +701,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381821182,Lysimachia_clethroides,36.80775,140.73969
 1830525507,Lysimachia_clethroides,36.486667,138.052222
 295919968,Lysimachia_clethroides,35.449089,139.178074
-1830186277,Lysimachia_clethroides,37.883333,139.5
 1830525145,Lysimachia_clethroides,37.899444,139.498889
 1830186422,Lysimachia_clethroides,37.633333,139.283333
 1830625822,Lysimachia_clethroides,33.930099,133.877995
 1829599682,Lysimachia_clethroides,36.508056,138.523889
 1830525796,Lysimachia_clethroides,34.883889,134.524444
 2243094580,Lysimachia_clethroides,38.1936,140.2719
-1830187041,Lysimachia_clethroides,37.7,138.8
 1830187014,Lysimachia_clethroides,37.783333,139.333333
 2243078181,Lysimachia_clethroides,39.683904,140.121116
-1830186448,Lysimachia_clethroides,37.7,139.1
 1830186408,Lysimachia_clethroides,37.433333,139.033333
-1830187055,Lysimachia_clethroides,37.266667,138.8
 1830527100,Lysimachia_clethroides,35.215556,134.500833
 1978790177,Lysimachia_clethroides,37.953056,126.676389
 295919966,Lysimachia_clethroides,35.324113,139.578043
@@ -765,7 +719,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829890447,Lysimachia_clethroides,34.972778,135.813889
 1830605290,Lysimachia_clethroides,34.082194,134.102973
 381821223,Lysimachia_clethroides,36.46749,140.57668
-1829608216,Lysimachia_clethroides,36.5,138.5
 1990432953,Lysimachia_clethroides,36.356866,138.589416
 381821226,Lysimachia_clethroides,36.54145,140.52284
 1934137981,Lysimachia_clethroides,34.4107,132.4738
@@ -779,7 +732,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829602516,Lysimachia_clethroides,36.504722,139.134444
 1030703541,Lysimachia_clethroides,40.573023,124.03631
 204383267,Lysimachia_clethroides,34.49162,135.95116
-1830154947,Lysimachia_clethroides,35.7,138.35
 388841630,Lysimachia_clethroides,35.24911,138.996293
 1829617308,Lysimachia_clethroides,36.638056,138.533056
 1828819521,Lysimachia_clethroides,36.352384,136.299433
@@ -791,7 +743,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2243093694,Lysimachia_clethroides,38.258423,140.113599
 1829856431,Lysimachia_clethroides,36.475112,138.44228
 736065508,Lysimachia_clethroides,36.38139,139.73026
-1829606447,Lysimachia_clethroides,36.7,139
 1830525407,Lysimachia_clethroides,36.926389,136.768611
 295919877,Lysimachia_clethroides,35.615743,139.528042
 1829826534,Lysimachia_clethroides,36.918628,139.203275
@@ -807,7 +758,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2243094927,Lysimachia_clethroides,38.14361,140.44
 1830525238,Lysimachia_clethroides,40.769167,140.834444
 1933888306,Lysimachia_clethroides,35.304,139.6059
-1945478435,Lysimachia_clethroides,43.1,131.516667
 1829597221,Lysimachia_clethroides,36.431389,138.776389
 1830526075,Lysimachia_clethroides,35.115278,134.420833
 1829602154,Lysimachia_clethroides,36.31161,138.80446
@@ -827,7 +777,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828671767,Lysimachia_clethroides,36.52741,138.32393
 1830625856,Lysimachia_clethroides,34.06581,134.396722
 1830625889,Lysimachia_clethroides,34.054061,134.331728
-1830198349,Lysimachia_clethroides,36.5,136.866667
 1830524572,Lysimachia_clethroides,35.104722,135.763611
 2243094253,Lysimachia_clethroides,38.269101,140.366454
 1830664551,Lysimachia_clethroides,35.76625,139.59155
