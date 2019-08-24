@@ -1,12 +1,7 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2251626107,Monttea_chilensis,-24.913333,-70.520278
-2251625555,Monttea_chilensis,-30.643889,-71.661111
 2251624584,Monttea_chilensis,-25.012778,-70.428611
-2251624975,Monttea_chilensis,-29.593611,-71.203056
-2251624501,Monttea_chilensis,-30.621111,-71.661944
-2269392443,Monttea_chilensis,-24.547128,-70.551154
 575006797,Monttea_chilensis,-25.426111,-70.421944
-574795786,Monttea_chilensis,-29.590278,-71.200833
 1228496667,Monttea_chilensis,-25.1,-70.45
 1228614974,Monttea_chilensis,-24.93,-70.48
 2269391854,Monttea_chilensis,-24.71814,-70.56026
@@ -16,6 +11,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228523973,Monttea_chilensis,-24.82,-70.47
 1228617937,Monttea_chilensis,-25.12,-70.45
 1228552901,Monttea_chilensis,-24.6,-70.55
-1228314032,Monttea_chilensis,-24.55,-70.55
-2270556245,Monttea_chilensis,-29.787678,-71.303106
 1228460369,Monttea_chilensis,-25.23,-70.43
