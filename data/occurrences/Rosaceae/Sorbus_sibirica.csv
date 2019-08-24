@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2268553828,Sorbus_sibirica,48.6,8.2
 1977820932,Sorbus_sibirica,62.7276,11.8663
 1977794462,Sorbus_sibirica,59.3546,7.4843
 1977820665,Sorbus_sibirica,62.7097,11.8645
@@ -57,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701288699,Sorbus_sibirica,62.9908,10.0876
 2312941500,Sorbus_sibirica,47.79,12.89
 1697316914,Sorbus_sibirica,69.28173,89.90556
-2307880019,Sorbus_sibirica,60.7,-135.05
 1986636258,Sorbus_sibirica,47.43472,16.27583
 1658236510,Sorbus_sibirica,60.70381,-135.048315
 1839087010,Sorbus_sibirica,51.79694,12.26583
@@ -103,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2292029571,Sorbus_sibirica,51.800556,10.6125
 1701300565,Sorbus_sibirica,70.4985,30.6173
 1701282332,Sorbus_sibirica,70.5339,29.9895
-2312939505,Sorbus_sibirica,47.7,12.9
 1988774658,Sorbus_sibirica,45.068017,-85.698153
 1851928110,Sorbus_sibirica,47.358334,10.162772
 1018988501,Sorbus_sibirica,43.654722,41.420556
@@ -138,7 +135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705467786,Sorbus_sibirica,57.16323,16.033199
 2312940459,Sorbus_sibirica,48.99,13.38
 1705467769,Sorbus_sibirica,57.166145,16.034671
-1060600909,Sorbus_sibirica,51.1,10.3
 1598767608,Sorbus_sibirica,61.581837,26.024353
 1228032980,Sorbus_sibirica,45.038889,6.401667
 1323863712,Sorbus_sibirica,69.6616,18.9476
@@ -152,7 +148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1057276297,Sorbus_sibirica,50.609116,-2.009654
 2288963410,Sorbus_sibirica,51.601973,5.787233
 1598431747,Sorbus_sibirica,60.460055,22.206336
-786275720,Sorbus_sibirica,49.1,8.5
 1055921466,Sorbus_sibirica,51.506201,-0.27236
 1697534099,Sorbus_sibirica,56.699852,38.92235
 1705467799,Sorbus_sibirica,59.338825,17.693353
@@ -246,7 +241,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 575149583,Sorbus_sibirica,40.854722,41.035556
 1270042766,Sorbus_sibirica,51.421711,14.531178
 441939261,Sorbus_sibirica,51.29,14.842778
-786275783,Sorbus_sibirica,50.4,10.1
 441939242,Sorbus_sibirica,51.166019,14.946112
 441939245,Sorbus_sibirica,51.099361,14.934728
 441939243,Sorbus_sibirica,50.853603,17.704348
@@ -257,7 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441939246,Sorbus_sibirica,51.831165,10.750584
 1701274741,Sorbus_sibirica,63.1338,8.1977
 895211937,Sorbus_sibirica,40.531,-1.648
-1697534114,Sorbus_sibirica,53.5,39
 1701273895,Sorbus_sibirica,62.9363,7.4387
 883378310,Sorbus_sibirica,53.45,-113.533333
 441939247,Sorbus_sibirica,51.500149,14.817505
@@ -277,7 +270,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930446737,Sorbus_sibirica,41.5289,42.045
 1936690186,Sorbus_sibirica,40.8708,-3.7655
 1849002249,Sorbus_sibirica,41.52889,42.045
-786275790,Sorbus_sibirica,48.8,13
 21746889,Sorbus_sibirica,49.0008,3.96745
 1503365928,Sorbus_sibirica,52.432639,13.14375
 21746606,Sorbus_sibirica,48.1847,5.55355
@@ -287,7 +279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701410109,Sorbus_sibirica,59.4066,10.6954
 1701248179,Sorbus_sibirica,65.9725,12.7668
 1702195519,Sorbus_sibirica,59.7268,11.8163
-441844944,Sorbus_sibirica,58.3,-134.4
 1702182867,Sorbus_sibirica,59.1579,11.7364
 1701628309,Sorbus_sibirica,59.3025,11.6574
 1701410058,Sorbus_sibirica,59.4821,11.6599
@@ -307,12 +298,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441939206,Sorbus_sibirica,51.19685,14.847792
 900312200,Sorbus_sibirica,65.9553,12.5389
 1948543259,Sorbus_sibirica,68.759098,21.538159
-786275645,Sorbus_sibirica,47.9,8.1
 1701848946,Sorbus_sibirica,62.095,12.1393
 186838024,Sorbus_sibirica,59.4402,7.574
 1702238283,Sorbus_sibirica,61.7169,10.5779
 1849002868,Sorbus_sibirica,49.24667,20.24528
-786275632,Sorbus_sibirica,48.4,9.5
 1702218085,Sorbus_sibirica,61.7075,11.9159
 1343002645,Sorbus_sibirica,56.148699,10.213957
 473451246,Sorbus_sibirica,46.646667,-71.928889
@@ -320,12 +309,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473451298,Sorbus_sibirica,45.33,-72.376944
 441939205,Sorbus_sibirica,50.833004,14.756653
 2312938831,Sorbus_sibirica,47.67,12.79
-237339365,Sorbus_sibirica,42.6,1.1
-786275629,Sorbus_sibirica,48.3,9.6
 473451888,Sorbus_sibirica,45.571667,-73.5825
 2308945867,Sorbus_sibirica,44.02,-79.53
 1899346071,Sorbus_sibirica,44.025278,-79.529722
-786275796,Sorbus_sibirica,51.8,10.4
 1849001993,Sorbus_sibirica,48.94556,20.46139
 441939237,Sorbus_sibirica,50.831608,14.758097
 1600874847,Sorbus_sibirica,61.71369,26.079752
@@ -345,12 +331,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2312940290,Sorbus_sibirica,47.52,12.87
 1702251988,Sorbus_sibirica,60.8465,9.621
 1702217391,Sorbus_sibirica,62.1722,11.7085
-786275622,Sorbus_sibirica,53.2,10
 1697533983,Sorbus_sibirica,55.60853,37.567286
 415937687,Sorbus_sibirica,41.43583,-71.8825
 1849001848,Sorbus_sibirica,40.70861,44.66389
 2312941161,Sorbus_sibirica,47.54,12.98
-1060600883,Sorbus_sibirica,46.6,9.8
 1701772188,Sorbus_sibirica,67.6201,15.3566
 2291828797,Sorbus_sibirica,50.559333,6.159833
 2312939010,Sorbus_sibirica,47.59,12.87
@@ -362,7 +346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050641114,Sorbus_sibirica,42.82,-2.72
 1050641408,Sorbus_sibirica,42.81,-2.72
 1598431733,Sorbus_sibirica,61.820399,25.943736
-1050641502,Sorbus_sibirica,42.83,-2.7
 1701848790,Sorbus_sibirica,62.0908,11.9805
 883375911,Sorbus_sibirica,53.5305,-113.5244
 574831918,Sorbus_sibirica,41.240556,41.597222
@@ -372,19 +355,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849001793,Sorbus_sibirica,39.81667,45.63333
 1701221453,Sorbus_sibirica,63.3284,9.6599
 1323738992,Sorbus_sibirica,70.0248,21.5862
-29737818,Sorbus_sibirica,41.6,24.4167
 1999541956,Sorbus_sibirica,69.94004,26.512411
 1936645616,Sorbus_sibirica,41.8031,23.9961
 1936645334,Sorbus_sibirica,41.6042,24.4183
 1701409624,Sorbus_sibirica,62.4893,11.5714
 932707048,Sorbus_sibirica,42.25759,-6.77072
 1270042612,Sorbus_sibirica,48.944614,20.458406
-899804148,Sorbus_sibirica,52.9,11
 29737411,Sorbus_sibirica,40.54,-1.707
 1936636104,Sorbus_sibirica,42.1919,-3.3042
 441939078,Sorbus_sibirica,50.865879,10.569009
 237338969,Sorbus_sibirica,42.43,0.57
-786275683,Sorbus_sibirica,50.5,10
 1050632806,Sorbus_sibirica,42.68,-2.46
 441938980,Sorbus_sibirica,51.161701,14.904451
 441938978,Sorbus_sibirica,51.054443,13.739166
@@ -399,7 +379,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702086104,Sorbus_sibirica,60.9877,8.5657
 1598767650,Sorbus_sibirica,62.773522,30.964021
 1144780660,Sorbus_sibirica,42.38333,9.35
-1986951075,Sorbus_sibirica,40.966667,43.8
 1989356535,Sorbus_sibirica,43.140045,-86.274588
 1947632843,Sorbus_sibirica,50.18,9.88
 186837633,Sorbus_sibirica,58.4335,7.8534
@@ -417,7 +396,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702193253,Sorbus_sibirica,62.4763,11.6198
 1600307324,Sorbus_sibirica,69.157419,21.298109
 1948543093,Sorbus_sibirica,68.931933,20.918802
-786275604,Sorbus_sibirica,51.7,10.7
 1030476147,Sorbus_sibirica,46.484167,-89.925
 186837632,Sorbus_sibirica,59.1939,6.9151
 186837631,Sorbus_sibirica,59.2599,6.9339
@@ -433,7 +411,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851394693,Sorbus_sibirica,42.223,-6.51
 1702176236,Sorbus_sibirica,61.657,8.1211
 1697534222,Sorbus_sibirica,60.333902,59.130975
-317826526,Sorbus_sibirica,39.85,45.7
 186837560,Sorbus_sibirica,58.8662,7.3448
 186837559,Sorbus_sibirica,58.8669,7.3505
 893488303,Sorbus_sibirica,39.849998,45.700001
@@ -479,7 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 21484914,Sorbus_sibirica,62.3179,11.692
 1851322798,Sorbus_sibirica,42.23,-6.425
 186837501,Sorbus_sibirica,59.1907,7.1996
-2308317987,Sorbus_sibirica,51.84,-3.2
 1936622074,Sorbus_sibirica,40.5365,-1.7213
 186837499,Sorbus_sibirica,59.1804,7.2187
 1948542890,Sorbus_sibirica,68.551714,22.10456
@@ -506,7 +482,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30979897,Sorbus_sibirica,43.03,-1.28
 1053982776,Sorbus_sibirica,43.02,-1.28
 1702003338,Sorbus_sibirica,58.8884,6.6506
-1249268539,Sorbus_sibirica,51.5,12
 1936612421,Sorbus_sibirica,43.0231,-1.2954
 186837523,Sorbus_sibirica,59.5745,7.3311
 574815710,Sorbus_sibirica,28.096389,85.375833
@@ -518,7 +493,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701838756,Sorbus_sibirica,59.4432,11.1365
 1948245275,Sorbus_sibirica,60.257131,24.873567
 1948553780,Sorbus_sibirica,60.256234,24.873624
-1697533920,Sorbus_sibirica,55.45,32
 186837386,Sorbus_sibirica,59.2926,7.3857
 1702197819,Sorbus_sibirica,61.4062,12.7775
 186837377,Sorbus_sibirica,59.2002,6.9488
@@ -540,7 +514,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701841092,Sorbus_sibirica,61.4356,12.6845
 186837374,Sorbus_sibirica,59.2142,6.983
 1144196664,Sorbus_sibirica,59.8467,5.5989
-2312939644,Sorbus_sibirica,47.75,12.8
 1948543148,Sorbus_sibirica,68.996476,28.448943
 2312941443,Sorbus_sibirica,47.75,12.79
 1697948940,Sorbus_sibirica,63.4584,11.6983
@@ -559,7 +532,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999541934,Sorbus_sibirica,69.734538,27.034323
 1999584487,Sorbus_sibirica,69.724989,27.047358
 1936641996,Sorbus_sibirica,43.0015,-4.2895
-1050622959,Sorbus_sibirica,41.8,-1.83
 1849001689,Sorbus_sibirica,42.61639,27.22583
 1258563297,Sorbus_sibirica,41.68722,43.51777
 1936642154,Sorbus_sibirica,42.8697,-3.9562
@@ -577,7 +549,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948542859,Sorbus_sibirica,68.753536,26.25297
 774391407,Sorbus_sibirica,47.579998,10.311389
 442115701,Sorbus_sibirica,51.416389,7.115
-1050624796,Sorbus_sibirica,41.78,-1.8
 1936673867,Sorbus_sibirica,40.317,-5.4375
 1701616398,Sorbus_sibirica,59.5694,11.2702
 1262028040,Sorbus_sibirica,46.783333,-71.283333
@@ -628,7 +599,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949285253,Sorbus_sibirica,48.514446,9.687778
 1598767615,Sorbus_sibirica,60.208196,24.63498
 441938968,Sorbus_sibirica,51.115742,14.567001
-441938957,Sorbus_sibirica,45.5,11.75
 1851357286,Sorbus_sibirica,42.38,-6.39
 1899306447,Sorbus_sibirica,43.695841,-79.383994
 1936519136,Sorbus_sibirica,42.332,-6.4525
@@ -644,7 +614,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638430467,Sorbus_sibirica,46.80833,14.975
 1323809693,Sorbus_sibirica,69.8851,24.9767
 57725250,Sorbus_sibirica,62.229198,25.7381
-1122937269,Sorbus_sibirica,47.483334,13.2
 2265408021,Sorbus_sibirica,44.24365,-92.0195
 1849002810,Sorbus_sibirica,48.37278,14.25722
 1882645631,Sorbus_sibirica,51.163719,13.633853
@@ -657,7 +626,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323803916,Sorbus_sibirica,69.286,29.3311
 1323798399,Sorbus_sibirica,70.1842,28.6785
 1323803805,Sorbus_sibirica,67.5823,33.7637
-684326848,Sorbus_sibirica,46.716667,11.5
 1701397340,Sorbus_sibirica,59.8475,8.5806
 1697255611,Sorbus_sibirica,64.4484,76.72066
 1701983491,Sorbus_sibirica,62.0359,10.7959
