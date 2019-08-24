@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585321222,Salix_humboldtiana,14.38294,-89.53339
 2244395437,Salix_humboldtiana,4.80625,-74.04103
-1937363783,Salix_humboldtiana,-26.203644,152.679595
 2302274675,Salix_humboldtiana,16.81874,-98.64586
 1702533286,Salix_humboldtiana,4.732,-74.149444
 1897487816,Salix_humboldtiana,16.61175,-95.176555
@@ -19,8 +18,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042700277,Salix_humboldtiana,-2.922778,-59.99
 1837392463,Salix_humboldtiana,-21.07075,-57.859522
 1639432474,Salix_humboldtiana,-21.070556,-57.359444
-1585320923,Salix_humboldtiana,13.66987,-89.24577
-1258210519,Salix_humboldtiana,13.669722,-89.245555
 1944824549,Salix_humboldtiana,-5.867247,-76.775
 2252099973,Salix_humboldtiana,-31.140278,-64.174167
 1257804992,Salix_humboldtiana,13.690833,-86.3625
@@ -34,7 +31,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2252100655,Salix_humboldtiana,-28.916944,-65.498333
 1257818871,Salix_humboldtiana,14.3,-89.533333
 1257788164,Salix_humboldtiana,-18.554444,-63.981944
-1061575986,Salix_humboldtiana,-31.861722,115.795056
 1042713462,Salix_humboldtiana,-3.153917,-55.74
 1062921229,Salix_humboldtiana,0.2,-74.7
 1894640907,Salix_humboldtiana,20.858333,-100.825
@@ -78,7 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895049062,Salix_humboldtiana,20.369056,-98.658278
 1895049077,Salix_humboldtiana,20.644556,-98.809139
 1895048995,Salix_humboldtiana,20.384417,-98.649722
-1805867242,Salix_humboldtiana,-31.874483,115.958533
 1895049095,Salix_humboldtiana,20.295917,-98.671222
 1851920524,Salix_humboldtiana,-39.042583,-67.566696
 1895049101,Salix_humboldtiana,20.591667,-98.791944
@@ -117,23 +112,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897378828,Salix_humboldtiana,20.046389,-97.315555
 1257675047,Salix_humboldtiana,20.046389,-97.315556
 1936204319,Salix_humboldtiana,-30.2117,-57.671
-996899221,Salix_humboldtiana,-31.3,115.9
-996899245,Salix_humboldtiana,-31.916667,115.916667
 1417700881,Salix_humboldtiana,18.835333,-98.936305
 1417700455,Salix_humboldtiana,18.810722,-98.947361
-1937364168,Salix_humboldtiana,-17.756929,145.192518
 1417697590,Salix_humboldtiana,18.574467,-99.038197
 1417696027,Salix_humboldtiana,18.682667,-98.988194
 768771258,Salix_humboldtiana,1.17,-76.89
-1135303576,Salix_humboldtiana,-31.923222,115.922389
-1450983025,Salix_humboldtiana,-31.9231,115.9222
-996979773,Salix_humboldtiana,-31.9232,115.9224
 1257516724,Salix_humboldtiana,-4.366667,-79.166667
 1419162697,Salix_humboldtiana,16.790556,-93.488889
-1253841027,Salix_humboldtiana,9.944678,-84.157747
 1123892431,Salix_humboldtiana,6.208322,-75.585347
-994557636,Salix_humboldtiana,-42.88195,147.31771
-1894420506,Salix_humboldtiana,18.639583,-92.336806
 1894420472,Salix_humboldtiana,18.444917,-91.823889
 1894420462,Salix_humboldtiana,18.474444,-91.7985
 1894420441,Salix_humboldtiana,18.199056,-92.122972
@@ -160,7 +146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260656267,Salix_humboldtiana,-18,-64.63333
 1123891238,Salix_humboldtiana,6.237639,-75.594472
 1894105357,Salix_humboldtiana,16.381389,-93.944444
-994546566,Salix_humboldtiana,-42.86529,147.31771
 1419161500,Salix_humboldtiana,16.100833,-93.454722
 1894641631,Salix_humboldtiana,20.488333,-101.16
 1260593066,Salix_humboldtiana,16.111667,-93.406944
@@ -173,8 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1707569616,Salix_humboldtiana,5.642667,-73.567972
 2270545041,Salix_humboldtiana,-28.139534,-49.116191
 1894416678,Salix_humboldtiana,17.898417,-96.990333
-1937368372,Salix_humboldtiana,-23.642448,150.387198
-1061575992,Salix_humboldtiana,-31.875333,115.958117
 1260863320,Salix_humboldtiana,15.28555,-91.68194
 1042619907,Salix_humboldtiana,-2.683333,-65.37
 1123892152,Salix_humboldtiana,6.28394,-75.6432
@@ -225,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123889494,Salix_humboldtiana,4.781736,-74.032157
 1893701477,Salix_humboldtiana,20.807,-100.512833
 1894641220,Salix_humboldtiana,20.811667,-100.502778
-1897828669,Salix_humboldtiana,-36.9,174.666667
 1894641537,Salix_humboldtiana,20.606667,-100.33
 1896210307,Salix_humboldtiana,18.565556,-97.101944
 1585319865,Salix_humboldtiana,14.41667,-89.35
@@ -246,7 +228,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895131525,Salix_humboldtiana,16.558333,-93.846389
 1419158337,Salix_humboldtiana,16.558333,-93.854444
 1893941586,Salix_humboldtiana,22.77,-99.013333
-1253876334,Salix_humboldtiana,9.991667,-83.997778
 1893941622,Salix_humboldtiana,22.796972,-98.796972
 1893918725,Salix_humboldtiana,18.858111,-99.619167
 1893918666,Salix_humboldtiana,18.834222,-99.725194
@@ -273,7 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897567775,Salix_humboldtiana,15.837778,-95.964167
 1258555084,Salix_humboldtiana,13.26666,-86.26666
 1897378814,Salix_humboldtiana,21.723333,-101.673333
-1897722762,Salix_humboldtiana,-37.016667,175.066667
 1894766644,Salix_humboldtiana,16.6563187776847,-94.9972191370791
 1893918690,Salix_humboldtiana,18.76725,-99.556
 1893918718,Salix_humboldtiana,18.908361,-99.456167
@@ -285,7 +265,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894640937,Salix_humboldtiana,20.81759,-100.2955
 1897567777,Salix_humboldtiana,15.836944,-95.965833
 1585319890,Salix_humboldtiana,13.87472,-89.79861
-1056802049,Salix_humboldtiana,13.736897,-88.866511
 1258466063,Salix_humboldtiana,13.874722,-89.798611
 575320198,Salix_humboldtiana,-38.249167,-72.51
 1894552343,Salix_humboldtiana,17.321111,-92.990278
@@ -309,7 +288,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258949156,Salix_humboldtiana,18.47,-92.52
 1258949168,Salix_humboldtiana,18.22,-92.33
 1894874969,Salix_humboldtiana,18.3739641614835,-92.5499438970291
-1894552374,Salix_humboldtiana,18.641111,-92.420833
 1896073209,Salix_humboldtiana,18.505833,-92.641667
 1893814500,Salix_humboldtiana,18.420833,-92.643133
 1258949134,Salix_humboldtiana,18.42,-92.64
@@ -331,9 +309,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893814513,Salix_humboldtiana,18.402222,-92.605833
 1258949167,Salix_humboldtiana,18.37,-92.64
 1893814502,Salix_humboldtiana,18.372833,-92.641583
-1894552365,Salix_humboldtiana,18.641389,-92.372778
 1258949193,Salix_humboldtiana,18.24,-92.66
-1894552356,Salix_humboldtiana,18.663889,-92.241667
 1893814503,Salix_humboldtiana,18.241722,-92.664111
 1258949153,Salix_humboldtiana,18.18,-92.23
 1421365979,Salix_humboldtiana,17.7375,-91.775
@@ -373,9 +349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257556747,Salix_humboldtiana,16.301389,-96.285555
 1259904772,Salix_humboldtiana,17.88,-93.07
 1259904192,Salix_humboldtiana,17.925,-93.39166
-995437539,Salix_humboldtiana,-33.608889,150.695833
-993642086,Salix_humboldtiana,-33.6089,150.6958
-996209760,Salix_humboldtiana,-33.60883,150.6958
 1419215927,Salix_humboldtiana,17.687778,-97.943333
 1896073234,Salix_humboldtiana,17.728333,-97.957222
 1262926410,Salix_humboldtiana,-21.532778,-64.743055
@@ -454,8 +427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895534291,Salix_humboldtiana,20.8626429757603,-101.550010852229
 1895534255,Salix_humboldtiana,20.673333,-101.346667
 1893701458,Salix_humboldtiana,20.225,-101.94
-1451511945,Salix_humboldtiana,-30.451743,152.898586
-995700670,Salix_humboldtiana,-30.4533,152.898
 1936693684,Salix_humboldtiana,-36.75,-72.4167
 1896210344,Salix_humboldtiana,15.788333,-96.051389
 1895524979,Salix_humboldtiana,19.3835144944639,-104.982204068348
@@ -472,19 +443,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893963918,Salix_humboldtiana,19.665556,-104.0775
 1261414579,Salix_humboldtiana,-3.25,-72.9
 1895578303,Salix_humboldtiana,21.779100805115,-104.850372978736
-1260499854,Salix_humboldtiana,-30.66666,-71.66666
 1261414547,Salix_humboldtiana,-4.033333,-79.416667
 1896218395,Salix_humboldtiana,19.331667,-96.761667
 1896218397,Salix_humboldtiana,18.53,-92.646667
 1893701451,Salix_humboldtiana,19.866111,-96.776944
 1896210319,Salix_humboldtiana,19.891667,-96.791667
-1893701450,Salix_humboldtiana,18.602222,-92.5475
 1576171091,Salix_humboldtiana,5.090566,-75.485265
 1261414590,Salix_humboldtiana,-12.66666,-68.75
-1260484707,Salix_humboldtiana,-25.25,-57.58333
 1836739460,Salix_humboldtiana,7.366631,-72.983617
 1896218401,Salix_humboldtiana,21.260833,-100.520833
-1419228828,Salix_humboldtiana,22.925,-55.925
 1893701410,Salix_humboldtiana,21.277778,-100.523056
 1259110832,Salix_humboldtiana,-13.61666,-68.75
 1896059841,Salix_humboldtiana,20.915278,-103.489167
@@ -509,7 +476,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270544796,Salix_humboldtiana,-27.471226,-58.839584
 1259641163,Salix_humboldtiana,-27.466667,-58.833333
 1228325701,Salix_humboldtiana,-29,-58
-1897784938,Salix_humboldtiana,-37.733333,174.906389
 1896210313,Salix_humboldtiana,19.892778,-96.747222
 1893701414,Salix_humboldtiana,19.875,-96.741667
 1893941678,Salix_humboldtiana,23.323889,-99.030833
@@ -523,8 +489,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896210316,Salix_humboldtiana,19.808889,-100.351944
 1893963967,Salix_humboldtiana,19.641667,-104.041667
 1893963922,Salix_humboldtiana,19.709167,-103.990556
-1896210343,Salix_humboldtiana,19.585833,-96.384444
-1419194683,Salix_humboldtiana,17.94,-102.187222
 1894895324,Salix_humboldtiana,19.625,-96.425
 1895525188,Salix_humboldtiana,19.775281,-100.805956
 1896073216,Salix_humboldtiana,21.171944,-99.135278
@@ -557,7 +521,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896210298,Salix_humboldtiana,21.964722,-98.398611
 1893363705,Salix_humboldtiana,18.225,-97.191667
 1893979784,Salix_humboldtiana,21.2338670324724,-99.5001187307133
-1260878927,Salix_humboldtiana,14.570556,-90.515833
 1893701422,Salix_humboldtiana,21.39,-99.588333
 1896073213,Salix_humboldtiana,21.397778,-99.7475
 1419192933,Salix_humboldtiana,21.561111,-99.579444
@@ -566,7 +529,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896210289,Salix_humboldtiana,19.281944,-96.440278
 1258532315,Salix_humboldtiana,18.35,-91.86
 1895213615,Salix_humboldtiana,18.377778,-91.852778
-1056510512,Salix_humboldtiana,23.950465,-102.532886
 1896059830,Salix_humboldtiana,-17.321111,-63.320833
 2291697323,Salix_humboldtiana,-17.766667,-63.066667
 1258755267,Salix_humboldtiana,-17.53333,-63.2
@@ -636,7 +598,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261414695,Salix_humboldtiana,13.75,-86.51666
 1258760047,Salix_humboldtiana,-17.38333,-66.15
 1261414712,Salix_humboldtiana,15.65,-92.17
-1057113529,Salix_humboldtiana,-16.714611,-64.670931
 1042542513,Salix_humboldtiana,-3.239167,-59.94
 1260498245,Salix_humboldtiana,-11.1,-67.55
 1895525034,Salix_humboldtiana,24.052814,-98.692228
@@ -649,7 +610,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896210327,Salix_humboldtiana,18.646111,-95.716667
 1259367714,Salix_humboldtiana,18.61666,-95.65
 1259367437,Salix_humboldtiana,20.43333,-98.53333
-1123901242,Salix_humboldtiana,6.267645,-75.568952
 1893701439,Salix_humboldtiana,19.335,-96.611667
 1424776625,Salix_humboldtiana,16.5,-92.5
 1896210287,Salix_humboldtiana,16.902222,-93.592778
@@ -665,7 +625,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261414641,Salix_humboldtiana,-21.41666,-64.26666
 1258532295,Salix_humboldtiana,14.025278,-87.075278
 1895525194,Salix_humboldtiana,25.966667,-109.066667
-1894552338,Salix_humboldtiana,18.993611,-92.193333
 1896210301,Salix_humboldtiana,18.175,-93.008333
 1260872224,Salix_humboldtiana,14.1925,-90.56611
 1258686472,Salix_humboldtiana,13.216667,-85.683333
@@ -683,7 +642,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896210320,Salix_humboldtiana,20.025,-96.975
 1896073219,Salix_humboldtiana,20.036111,-97.132778
 1893701452,Salix_humboldtiana,20.02,-97.148333
-2289453274,Salix_humboldtiana,9.416667,-84.166667
 1896218394,Salix_humboldtiana,20.021667,-97.142778
 1419198857,Salix_humboldtiana,17.108333,-94.908333
 1893824755,Salix_humboldtiana,17.1040741874435,-94.8880518482333
@@ -703,7 +661,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896210358,Salix_humboldtiana,19.326944,-96.483333
 1893824633,Salix_humboldtiana,20.561400233453,-98.6262065319145
 1896210355,Salix_humboldtiana,19.339167,-96.490278
-1261912510,Salix_humboldtiana,12.1,-86.26666
 1896210280,Salix_humboldtiana,19.201667,-96.301667
 1260377611,Salix_humboldtiana,-2.166667,-79.9
 1931253126,Salix_humboldtiana,19.33,-96.75
@@ -760,7 +717,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896210322,Salix_humboldtiana,19.383333,-96.841667
 1893428592,Salix_humboldtiana,21.625,-98.908333
 1895524984,Salix_humboldtiana,21.619957713438,-98.9028869234353
-1261414703,Salix_humboldtiana,12.133333,-86.25
 1261414660,Salix_humboldtiana,-3.83333,-77.66666
 1896059836,Salix_humboldtiana,19.333889,-96.455278
 1896210330,Salix_humboldtiana,19.313333,-96.906667
@@ -773,7 +729,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896210297,Salix_humboldtiana,18.158333,-93.025
 1419196590,Salix_humboldtiana,16.602222,-93.787222
 1260498811,Salix_humboldtiana,-27.15,-58.616667
-1055812355,Salix_humboldtiana,-23.236211,-58.391024
 2270545328,Salix_humboldtiana,19.333333,-96.433333
 1896059839,Salix_humboldtiana,19.333889,-96.434444
 1896059862,Salix_humboldtiana,-5.067778,-73.908611
@@ -821,10 +776,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896210357,Salix_humboldtiana,19.341667,-96.758333
 1893771726,Salix_humboldtiana,27.095833,-107.680833
 1893771730,Salix_humboldtiana,27.133889,-107.646944
-1258794219,Salix_humboldtiana,9.93,-84.04
 1258794207,Salix_humboldtiana,15.25,-85.416667
-1895525151,Salix_humboldtiana,19.77,-96.431944
-1258868298,Salix_humboldtiana,19.77,-96.43
 1896059831,Salix_humboldtiana,19.431389,-96.770556
 1896218398,Salix_humboldtiana,19.125,-96.491667
 1261414644,Salix_humboldtiana,-5.9,-76.08333
@@ -835,7 +787,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893824788,Salix_humboldtiana,16.5974376682903,-93.0774515540141
 1896059851,Salix_humboldtiana,16.594444,-93.0575
 1896059834,Salix_humboldtiana,-28.6025,-59.023333
-1896073236,Salix_humboldtiana,13.703611,-89.189444
 1228422173,Salix_humboldtiana,-7,-76.8333
 1090551216,Salix_humboldtiana,-27.4868,-58.8176
 1426504023,Salix_humboldtiana,17.5,-92.666667
@@ -854,20 +805,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701729422,Salix_humboldtiana,-1,-72
 1228381740,Salix_humboldtiana,3.75,-76.5
 1257640796,Salix_humboldtiana,-2.5,-66
-1056129576,Salix_humboldtiana,-10.773109,-53.08982
 1928943406,Salix_humboldtiana,-25.8782836707143,-50.3834770362513
 1259021833,Salix_humboldtiana,12.416667,-85.8
-1056331134,Salix_humboldtiana,12.839906,-85.034783
 2269390952,Salix_humboldtiana,-34.30171,-70.566458
 1099632569,Salix_humboldtiana,1.2695,-77.30597
-993639510,Salix_humboldtiana,-35.2833,149.0833
 1896210334,Salix_humboldtiana,19.571389,-97.231944
 1893388835,Salix_humboldtiana,17.725,-93.808333
 1424776660,Salix_humboldtiana,12.8614,-84.8978
 1260300917,Salix_humboldtiana,12.15,-84.21666
 1893388842,Salix_humboldtiana,17.625,-91.608333
 1896073201,Salix_humboldtiana,16.830278,-92.536389
-1258794194,Salix_humboldtiana,9.93,-84.08
 1893388811,Salix_humboldtiana,16.675,-92.941667
 1260303145,Salix_humboldtiana,13.05,-85.93333
 1893824630,Salix_humboldtiana,16.8690903467661,-93.0868965209008
@@ -875,7 +822,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258532310,Salix_humboldtiana,9.895833,-83.98
 1896073233,Salix_humboldtiana,18.635833,-99.311667
 1896073224,Salix_humboldtiana,17.579722,-99.526389
-1259624763,Salix_humboldtiana,18,-76.75
 1258418407,Salix_humboldtiana,-9.91666,-76.23333
 1893388807,Salix_humboldtiana,21.291667,-98.725
 1896073221,Salix_humboldtiana,21.286944,-98.725278
@@ -918,7 +864,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258532313,Salix_humboldtiana,16.366667,-88.483333
 1424776670,Salix_humboldtiana,19,-90.5
 1895213636,Salix_humboldtiana,18.116667,-91.102778
-1258794176,Salix_humboldtiana,15.767222,-86.812222
 1896049136,Salix_humboldtiana,16.808611,-98.243889
 1896218396,Salix_humboldtiana,18.143889,-94.411111
 1895525083,Salix_humboldtiana,21.2616460588808,-98.7917709696901
@@ -935,10 +880,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929329972,Salix_humboldtiana,-1.99683,-55.973724
 2273847310,Salix_humboldtiana,-36.6288,-72.04958
 1228575987,Salix_humboldtiana,-23,-66
-1424776486,Salix_humboldtiana,19.4167,-99.1667
 1424776617,Salix_humboldtiana,20.3333,-103.6667
 1258532285,Salix_humboldtiana,15.270278,-89.04
-1258794221,Salix_humboldtiana,13.708611,-89.203056
 1930781469,Salix_humboldtiana,18.024799,-66.738782
 1896210277,Salix_humboldtiana,22.055278,-98.1775
 2252100941,Salix_humboldtiana,-31.424167,-64.152222
@@ -950,6 +893,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270552466,Salix_humboldtiana,25.116667,-103.283333
 1895525212,Salix_humboldtiana,20.053889,-99.342781
 2270554888,Salix_humboldtiana,20.05,-99.35
-1055738375,Salix_humboldtiana,18.151419,-77.319014
 1260689589,Salix_humboldtiana,-22.16666,-64.7
 2252100903,Salix_humboldtiana,-31.244167,-64.465278
