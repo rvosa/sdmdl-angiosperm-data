@@ -72,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989292408,Schoenoplectus_pungens_var._badius,42.31648,-85.125
 1989499699,Schoenoplectus_pungens_var._badius,45.9546,-83.7559
 1257911771,Schoenoplectus_pungens_var._badius,44.233333,-99.683333
-1986494336,Schoenoplectus_pungens_var._badius,42,-88
 2270571629,Schoenoplectus_pungens_var._badius,34.862083,-112.093315
 2265594218,Schoenoplectus_pungens_var._badius,48.158889,-94.518333
 1426324323,Schoenoplectus_pungens_var._badius,38.10865,-122.94508
@@ -190,7 +189,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883415253,Schoenoplectus_pungens_var._badius,56.983511,-111.53338
 233101925,Schoenoplectus_pungens_var._badius,42.43458,-96.44181
 441837280,Schoenoplectus_pungens_var._badius,47.08026,-119.33403
-1988683333,Schoenoplectus_pungens_var._badius,45.48333,-87.3
 441837283,Schoenoplectus_pungens_var._badius,46.90818,-119.2288
 441837281,Schoenoplectus_pungens_var._badius,46.89746,-119.19958
 1936206830,Schoenoplectus_pungens_var._badius,-23.7465,-65.5018
@@ -198,9 +196,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992059312,Schoenoplectus_pungens_var._badius,-35.548174,138.610829
 1503252319,Schoenoplectus_pungens_var._badius,26.9925,-80.5892
 1652271628,Schoenoplectus_pungens_var._badius,-17.333889,139.177778
-202123063,Schoenoplectus_pungens_var._badius,38.8388889990782,-122
 1269621972,Schoenoplectus_pungens_var._badius,30.3217,-87.2664
-202123061,Schoenoplectus_pungens_var._badius,38.9580559990773,-122
 1846515827,Schoenoplectus_pungens_var._badius,36.135641,-112.243276
 1843913734,Schoenoplectus_pungens_var._badius,33.43561,-104.357
 1652316790,Schoenoplectus_pungens_var._badius,-22.882214,140.440565
@@ -253,10 +249,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843901725,Schoenoplectus_pungens_var._badius,36.696528,-103.204833
 1843903224,Schoenoplectus_pungens_var._badius,35.552333,-105.136888
 1260544324,Schoenoplectus_pungens_var._badius,36.708056,-91.943611
-1843903707,Schoenoplectus_pungens_var._badius,35.7,-103.6
 2265438785,Schoenoplectus_pungens_var._badius,44.652643,-93.409728
 2265965547,Schoenoplectus_pungens_var._badius,46.390278,-95.573333
-1988156847,Schoenoplectus_pungens_var._badius,51.3,-112.32
 1257771348,Schoenoplectus_pungens_var._badius,37.3222,-90.4997
 177027769,Schoenoplectus_pungens_var._badius,41.49416,-96.00577
 1843903803,Schoenoplectus_pungens_var._badius,35.746555,-103.613917
@@ -275,7 +269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992051010,Schoenoplectus_pungens_var._badius,-32.732051,138.084413
 2270698120,Schoenoplectus_pungens_var._badius,34.2119,-112.093
 1846497901,Schoenoplectus_pungens_var._badius,34.21195,-112.0933
-1988082921,Schoenoplectus_pungens_var._badius,49.3,-119.53
 992052347,Schoenoplectus_pungens_var._badius,-32.75,138.12
 2303143659,Schoenoplectus_pungens_var._badius,-32.75,138.116667
 1937239171,Schoenoplectus_pungens_var._badius,-36.519444,148.823056
@@ -350,11 +343,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995919544,Schoenoplectus_pungens_var._badius,-15.872,127.352
 1658231389,Schoenoplectus_pungens_var._badius,51.0833,-121.5833
 996764144,Schoenoplectus_pungens_var._badius,-15.871944,127.351667
-1988063651,Schoenoplectus_pungens_var._badius,49.4,-120.5
-1988190516,Schoenoplectus_pungens_var._badius,49.3,-119.6
 45481138,Schoenoplectus_pungens_var._badius,38.807222,-122.376944
 1929392838,Schoenoplectus_pungens_var._badius,37.6167,-111.9099
-668761997,Schoenoplectus_pungens_var._badius,46.716667,-71.5
 1843876358,Schoenoplectus_pungens_var._badius,34.943,-104.678
 1085376520,Schoenoplectus_pungens_var._badius,-34.86973,139.4803
 992042967,Schoenoplectus_pungens_var._badius,-35.745278,139.263333
@@ -441,7 +431,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265966264,Schoenoplectus_pungens_var._badius,47.245833,-93.1775
 1986494614,Schoenoplectus_pungens_var._badius,41.3206,-88.9097
 994542896,Schoenoplectus_pungens_var._badius,-40.88054,147.91489
-1937234747,Schoenoplectus_pungens_var._badius,-32.783333,150
 992630625,Schoenoplectus_pungens_var._badius,-33.9712,138.9933
 1652238178,Schoenoplectus_pungens_var._badius,-23.337213,140.583427
 2303142769,Schoenoplectus_pungens_var._badius,-33.9725,138.992222
@@ -457,7 +446,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177027794,Schoenoplectus_pungens_var._badius,38.899166,-101.013885
 991992585,Schoenoplectus_pungens_var._badius,-35.509561,138.791938
 993477386,Schoenoplectus_pungens_var._badius,-19.8503,125.1344
-177027800,Schoenoplectus_pungens_var._badius,38.1,-98.0833
 1930955070,Schoenoplectus_pungens_var._badius,37.5258,-114.0203
 177027766,Schoenoplectus_pungens_var._badius,39.008566,-99.362586
 1260984359,Schoenoplectus_pungens_var._badius,37.108333,-91.225833
@@ -515,13 +503,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260980328,Schoenoplectus_pungens_var._badius,37.280278,-91.402778
 1228435678,Schoenoplectus_pungens_var._badius,41.615591,-87.529487
 895248233,Schoenoplectus_pungens_var._badius,39.757,-0.193
-1989333630,Schoenoplectus_pungens_var._badius,41.4,-82.816667
 2265494295,Schoenoplectus_pungens_var._badius,45.376026,-95.571928
 473466480,Schoenoplectus_pungens_var._badius,47.429167,-54.797222
 177027425,Schoenoplectus_pungens_var._badius,39.355708,-100.143555
 1258124172,Schoenoplectus_pungens_var._badius,29.8342,-84.6831
 1501084211,Schoenoplectus_pungens_var._badius,39.75,-0.19
-668761998,Schoenoplectus_pungens_var._badius,46.566667,-72.2
 996798479,Schoenoplectus_pungens_var._badius,-21.325179,117.123912
 177027757,Schoenoplectus_pungens_var._badius,39.106804,-97.56804
 994360516,Schoenoplectus_pungens_var._badius,-16.665258,136.501182
@@ -566,7 +552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 675233364,Schoenoplectus_pungens_var._badius,41.33194,-72.00972
 1897678042,Schoenoplectus_pungens_var._badius,-37.983333,177.066667
 996123894,Schoenoplectus_pungens_var._badius,-14.9567,133.195
-992574881,Schoenoplectus_pungens_var._badius,-34.7,139.566667
 1257313890,Schoenoplectus_pungens_var._badius,-14.95525,133.196474
 995791558,Schoenoplectus_pungens_var._badius,-32.47,150.67
 1451545602,Schoenoplectus_pungens_var._badius,-32.781766,149.967829
@@ -578,19 +563,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451545768,Schoenoplectus_pungens_var._badius,-32.465092,150.667816
 992578131,Schoenoplectus_pungens_var._badius,-32.817778,138.075556
 1989036459,Schoenoplectus_pungens_var._badius,42.29584,-85.30562
-994505911,Schoenoplectus_pungens_var._badius,-42.7,147.3
 1260924566,Schoenoplectus_pungens_var._badius,38.037222,-92.176111
 1989327834,Schoenoplectus_pungens_var._badius,48.75,-113.416667
 1090341778,Schoenoplectus_pungens_var._badius,50.7694,-103.806
 2265399773,Schoenoplectus_pungens_var._badius,47.31779,-93.911914
 2242417365,Schoenoplectus_pungens_var._badius,39.759461,-106.137146
 1261006411,Schoenoplectus_pungens_var._badius,37.4425,-90.501111
-606659343,Schoenoplectus_pungens_var._badius,45,-63
 1260948463,Schoenoplectus_pungens_var._badius,36.875833,-90.491111
 1038963208,Schoenoplectus_pungens_var._badius,41.3622,-72.0286
 1085178755,Schoenoplectus_pungens_var._badius,-33.93357,138.85103
 992598726,Schoenoplectus_pungens_var._badius,-33.935,138.85
-993524444,Schoenoplectus_pungens_var._badius,-37.2806,143.8
 995693919,Schoenoplectus_pungens_var._badius,-36.5442,148.987
 1451508858,Schoenoplectus_pungens_var._badius,-36.542616,148.988176
 996123912,Schoenoplectus_pungens_var._badius,-14.3614,127.812
@@ -608,7 +590,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265399001,Schoenoplectus_pungens_var._badius,47.593704,-96.397789
 1260978242,Schoenoplectus_pungens_var._badius,37.448889,-91.984444
 2270631056,Schoenoplectus_pungens_var._badius,34.8188,-112.446
-56658857,Schoenoplectus_pungens_var._badius,40.87,-72.8
 2265400185,Schoenoplectus_pungens_var._badius,47.723974,-96.448899
 2270696182,Schoenoplectus_pungens_var._badius,34.809608,-112.777787
 2265429992,Schoenoplectus_pungens_var._badius,45.990556,-95.871667
@@ -622,7 +603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928980109,Schoenoplectus_pungens_var._badius,41.8853,-111.3664
 1265826273,Schoenoplectus_pungens_var._badius,38.083333,-118.966667
 1503244691,Schoenoplectus_pungens_var._badius,27.5656,-81.2117
-992574504,Schoenoplectus_pungens_var._badius,-34.7,139.516667
 992574231,Schoenoplectus_pungens_var._badius,-34.683333,139.516667
 1937305923,Schoenoplectus_pungens_var._badius,-42.1475,147.4275
 995679540,Schoenoplectus_pungens_var._badius,-42.68,147.25
@@ -633,7 +613,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270697248,Schoenoplectus_pungens_var._badius,34.8693,-112.068
 1652128228,Schoenoplectus_pungens_var._badius,-22.093579,146.243633
 992561225,Schoenoplectus_pungens_var._badius,-35.620278,139.354722
-996123899,Schoenoplectus_pungens_var._badius,-15.28,144.2
 1085584033,Schoenoplectus_pungens_var._badius,-35.59809,139.10651
 1260980432,Schoenoplectus_pungens_var._badius,37.384444,-90.576111
 992561199,Schoenoplectus_pungens_var._badius,-35.599,139.105
@@ -649,12 +628,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992570058,Schoenoplectus_pungens_var._badius,-33.465278,138.623333
 992547413,Schoenoplectus_pungens_var._badius,-33.581667,138.674722
 995107726,Schoenoplectus_pungens_var._badius,-37.7333,144.65
-995683297,Schoenoplectus_pungens_var._badius,-34.6,135.88
 992559936,Schoenoplectus_pungens_var._badius,-38.309817,143.400257
-1897725704,Schoenoplectus_pungens_var._badius,-38.3,143.383333
 995107682,Schoenoplectus_pungens_var._badius,-38.3111,143.3992
 996124083,Schoenoplectus_pungens_var._badius,-38.3111,143.399
-994719672,Schoenoplectus_pungens_var._badius,-36.5,144.8
 2242371685,Schoenoplectus_pungens_var._badius,39.710355,-104.786979
 1846489071,Schoenoplectus_pungens_var._badius,34.0079,-112.265
 995101952,Schoenoplectus_pungens_var._badius,-37.7167,144.65
@@ -669,15 +645,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260984188,Schoenoplectus_pungens_var._badius,38.54194,-90.57722
 2270214222,Schoenoplectus_pungens_var._badius,34.7709999991157,-120.4674
 1260984868,Schoenoplectus_pungens_var._badius,37.021389,-92.170833
-994448686,Schoenoplectus_pungens_var._badius,-40.9,147.6
-1091157887,Schoenoplectus_pungens_var._badius,-43.866666,172.3
-1897685862,Schoenoplectus_pungens_var._badius,-43.866667,172.3
 992530021,Schoenoplectus_pungens_var._badius,-34.15,138.88
 995093989,Schoenoplectus_pungens_var._badius,-34.15,138.8667
 994338634,Schoenoplectus_pungens_var._badius,-14.43193,129.851224
-1988072706,Schoenoplectus_pungens_var._badius,49.1,-119.49
 994352149,Schoenoplectus_pungens_var._badius,-12.281915,134.251179
-1988094457,Schoenoplectus_pungens_var._badius,49.1,-119.5
 415981872,Schoenoplectus_pungens_var._badius,41.55777,-72.58527
 1988944138,Schoenoplectus_pungens_var._badius,46.629167,-71.731944
 996258833,Schoenoplectus_pungens_var._badius,-14.47,126.65
@@ -690,7 +661,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994449660,Schoenoplectus_pungens_var._badius,-41.75,148.28
 992554294,Schoenoplectus_pungens_var._badius,-34.333333,135.583333
 992003400,Schoenoplectus_pungens_var._badius,-35.254,138.896
-992512267,Schoenoplectus_pungens_var._badius,-34.9,138.6
 177027771,Schoenoplectus_pungens_var._badius,37.113864,-101.92684
 1261003180,Schoenoplectus_pungens_var._badius,37.16472,-91.17277
 1936546821,Schoenoplectus_pungens_var._badius,43.5523,-6.674
@@ -701,7 +671,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883405615,Schoenoplectus_pungens_var._badius,57.616667,-116.966667
 441836464,Schoenoplectus_pungens_var._badius,48.56667,-119.61194
 1257349506,Schoenoplectus_pungens_var._badius,-20.315244,132.467914
-1586164510,Schoenoplectus_pungens_var._badius,45.066667,-73.1
 1260956287,Schoenoplectus_pungens_var._badius,37.729167,-92.053611
 2265399043,Schoenoplectus_pungens_var._badius,45.810499,-96.120024
 2265398764,Schoenoplectus_pungens_var._badius,45.748333,-94.26
@@ -760,8 +729,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996124099,Schoenoplectus_pungens_var._badius,-42.12,147.37
 994609654,Schoenoplectus_pungens_var._badius,-42.66529,147.16771
 996124097,Schoenoplectus_pungens_var._badius,-42.67,147.17
-1897744805,Schoenoplectus_pungens_var._badius,-37,174.6
-996367188,Schoenoplectus_pungens_var._badius,-17.8,122.7
 1652068015,Schoenoplectus_pungens_var._badius,-22.906936,140.459259
 994551896,Schoenoplectus_pungens_var._badius,-39.58175,176.93375
 2270698396,Schoenoplectus_pungens_var._badius,36.2744,-109.206
@@ -787,11 +754,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851393201,Schoenoplectus_pungens_var._badius,42.412,-8.86
 996178457,Schoenoplectus_pungens_var._badius,-30.73,143.57
 1451710541,Schoenoplectus_pungens_var._badius,-30.731803,143.567908
-995640341,Schoenoplectus_pungens_var._badius,-22.9,140.45
 992497699,Schoenoplectus_pungens_var._badius,-36.965388,140.684436
 996367175,Schoenoplectus_pungens_var._badius,-17.45,123.73
 993525266,Schoenoplectus_pungens_var._badius,-15.7833,127.85
-996367205,Schoenoplectus_pungens_var._badius,-16.7,128.3
 996367141,Schoenoplectus_pungens_var._badius,-15.78,127.85
 993525390,Schoenoplectus_pungens_var._badius,-17.45,123.7333
 1846543762,Schoenoplectus_pungens_var._badius,34.76538,-114.50595
@@ -810,9 +775,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996123895,Schoenoplectus_pungens_var._badius,-15.92,135.18
 2265399425,Schoenoplectus_pungens_var._badius,43.927573,-95.35047
 1988900598,Schoenoplectus_pungens_var._badius,42.066434,-84.335701
-1897626874,Schoenoplectus_pungens_var._badius,-36.8,175.7
-1091123703,Schoenoplectus_pungens_var._badius,-43.8,172.756666
-995197690,Schoenoplectus_pungens_var._badius,-37.4833,142.8
 995197785,Schoenoplectus_pungens_var._badius,-36.7917,141.7833
 1895111463,Schoenoplectus_pungens_var._badius,31.268611,-116.368056
 1989001526,Schoenoplectus_pungens_var._badius,41.971105,-83.936005
@@ -825,7 +787,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270255035,Schoenoplectus_pungens_var._badius,34.6992999991166,-120.595
 994495410,Schoenoplectus_pungens_var._badius,-42.13194,147.33436
 992428328,Schoenoplectus_pungens_var._badius,-35.543171,138.939993
-994604108,Schoenoplectus_pungens_var._badius,-42.1,147.5
 992423717,Schoenoplectus_pungens_var._badius,-34.165388,138.667757
 2252123691,Schoenoplectus_pungens_var._badius,-33.888333,-61.927222
 994502857,Schoenoplectus_pungens_var._badius,-42.15,147.42
@@ -837,7 +798,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994180887,Schoenoplectus_pungens_var._badius,-15.1819,143.8676
 994318660,Schoenoplectus_pungens_var._badius,-15.598609,128.101247
 993525082,Schoenoplectus_pungens_var._badius,-15.1833,143.8667
-992497544,Schoenoplectus_pungens_var._badius,-15.6,128.1
 415924816,Schoenoplectus_pungens_var._badius,-15.18333,143.86666
 996123898,Schoenoplectus_pungens_var._badius,-14.23,132.03
 996262232,Schoenoplectus_pungens_var._badius,-15.666667,128.066667
@@ -861,16 +821,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415981902,Schoenoplectus_pungens_var._badius,41.73194,-70.33305
 204435595,Schoenoplectus_pungens_var._badius,43.282001,-2.131
 2234305571,Schoenoplectus_pungens_var._badius,38.599243,-83.318795
-992408645,Schoenoplectus_pungens_var._badius,-32.7,138.2
-995290934,Schoenoplectus_pungens_var._badius,-40.8833,147.6
 1846543740,Schoenoplectus_pungens_var._badius,31.333333,-116.416667
-996124095,Schoenoplectus_pungens_var._badius,-40.92,147.6
 995197665,Schoenoplectus_pungens_var._badius,-38.9333,146.2667
 994884971,Schoenoplectus_pungens_var._badius,-35.75,141.9667
-992392936,Schoenoplectus_pungens_var._badius,-36.6,139.9
 992392311,Schoenoplectus_pungens_var._badius,-36.232054,140.084433
 993590867,Schoenoplectus_pungens_var._badius,-36.0833,149.15
-996123913,Schoenoplectus_pungens_var._badius,-18.57,127.2
 996873388,Schoenoplectus_pungens_var._badius,-20.783333,116.766667
 996123917,Schoenoplectus_pungens_var._badius,-17.93,122.52
 994262459,Schoenoplectus_pungens_var._badius,-13.365215,141.767773
@@ -885,7 +840,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204435366,Schoenoplectus_pungens_var._badius,43.379002,-1.846
 177027461,Schoenoplectus_pungens_var._badius,37.26882,-99.47255
 415981891,Schoenoplectus_pungens_var._badius,41.35555,-72.12583
-1586165088,Schoenoplectus_pungens_var._badius,49.633333,-88.1
 1988853452,Schoenoplectus_pungens_var._badius,44.818697,-83.302458
 2265398720,Schoenoplectus_pungens_var._badius,45.434262,-95.245018
 415981921,Schoenoplectus_pungens_var._badius,41.43805,-71.57638
@@ -895,7 +849,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992403640,Schoenoplectus_pungens_var._badius,-34.865392,138.634432
 994316019,Schoenoplectus_pungens_var._badius,-12.581919,132.417867
 2270212185,Schoenoplectus_pungens_var._badius,35.45983,-120.33394
-1897706849,Schoenoplectus_pungens_var._badius,-37.05,174.5
 177027135,Schoenoplectus_pungens_var._badius,37.57737,-99.6445
 2270269996,Schoenoplectus_pungens_var._badius,34.3871999991202,-119.512
 1846543433,Schoenoplectus_pungens_var._badius,39.604565,-102.203192
@@ -905,12 +858,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204435365,Schoenoplectus_pungens_var._badius,43.396,-1.796
 2265398353,Schoenoplectus_pungens_var._badius,43.739341,-95.084917
 992390888,Schoenoplectus_pungens_var._badius,-33.83,139.05
-994584389,Schoenoplectus_pungens_var._badius,-34,139
 994520423,Schoenoplectus_pungens_var._badius,-41.63193,148.28433
 992370574,Schoenoplectus_pungens_var._badius,-35.600953,138.473053
 994876332,Schoenoplectus_pungens_var._badius,-38.1167,141.15
 994309719,Schoenoplectus_pungens_var._badius,-13.04859,132.451199
-996124103,Schoenoplectus_pungens_var._badius,-35.03,138.8
 1928411783,Schoenoplectus_pungens_var._badius,38.6798,-111.0025
 986394169,Schoenoplectus_pungens_var._badius,50.916667,-110.416667
 2270697604,Schoenoplectus_pungens_var._badius,34.365959,-113.193012
@@ -921,7 +872,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994254982,Schoenoplectus_pungens_var._badius,-20.198591,130.084592
 1989132568,Schoenoplectus_pungens_var._badius,45.071022,-85.360067
 473462240,Schoenoplectus_pungens_var._badius,45.7053,-73.4528
-996123891,Schoenoplectus_pungens_var._badius,-20.2,130.08
 2265399736,Schoenoplectus_pungens_var._badius,45.247884,-93.214062
 1652028300,Schoenoplectus_pungens_var._badius,-14.498614,143.500863
 217085622,Schoenoplectus_pungens_var._badius,34.43528,-86.25056
@@ -958,7 +908,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843852134,Schoenoplectus_pungens_var._badius,33.902465,-108.714157
 1895111416,Schoenoplectus_pungens_var._badius,20.416944,-103.666944
 1586164528,Schoenoplectus_pungens_var._badius,45.883333,-73.266667
-993244062,Schoenoplectus_pungens_var._badius,-12.6667,132.5
 994303528,Schoenoplectus_pungens_var._badius,-12.665255,132.501192
 996367123,Schoenoplectus_pungens_var._badius,-16.283333,128.533333
 1611936656,Schoenoplectus_pungens_var._badius,31.786389,-106.512778
@@ -969,14 +918,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270697647,Schoenoplectus_pungens_var._badius,36.6509,-113.787
 51955924,Schoenoplectus_pungens_var._badius,42.3632,-119.7476
 1989322970,Schoenoplectus_pungens_var._badius,26.9333,-102.083
-994860627,Schoenoplectus_pungens_var._badius,-37.7,142.8333
 994250266,Schoenoplectus_pungens_var._badius,-15.465272,128.101246
-992324920,Schoenoplectus_pungens_var._badius,-35.2,138.5
 996367238,Schoenoplectus_pungens_var._badius,-15.540556,128.121667
 1260858680,Schoenoplectus_pungens_var._badius,36.36666,-5.21666
 177027081,Schoenoplectus_pungens_var._badius,38.89901,-97.75197
 1611936659,Schoenoplectus_pungens_var._badius,31.7875,-106.5125
-994807174,Schoenoplectus_pungens_var._badius,-35.2167,138.5
 1846542926,Schoenoplectus_pungens_var._badius,36.85,-112.65
 177027082,Schoenoplectus_pungens_var._badius,37.26663,-98.59858
 1931320868,Schoenoplectus_pungens_var._badius,39.1871,-108.1662
@@ -993,17 +939,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929703782,Schoenoplectus_pungens_var._badius,38.2602,-111.238
 51956552,Schoenoplectus_pungens_var._badius,43.475,-123.5431
 994860605,Schoenoplectus_pungens_var._badius,-37.9667,143.35
-994824957,Schoenoplectus_pungens_var._badius,-35.4667,142.4
 992340314,Schoenoplectus_pungens_var._badius,-34.85,138.73
 2305769028,Schoenoplectus_pungens_var._badius,44.73,-79.88
 1846542660,Schoenoplectus_pungens_var._badius,36.769777,-111.65481
 992414382,Schoenoplectus_pungens_var._badius,-34.307079,135.642787
 2270696645,Schoenoplectus_pungens_var._badius,36.87,-111.59
-993234563,Schoenoplectus_pungens_var._badius,-20.9,130.4667
 994246352,Schoenoplectus_pungens_var._badius,-20.898596,130.467936
 994252409,Schoenoplectus_pungens_var._badius,-16.248613,127.201254
 2270697671,Schoenoplectus_pungens_var._badius,36.69,-111.72
-992325171,Schoenoplectus_pungens_var._badius,-20.9,130.5
 996367341,Schoenoplectus_pungens_var._badius,-15.833333,127.416667
 1257305088,Schoenoplectus_pungens_var._badius,-15.815283,126.351261
 1257305065,Schoenoplectus_pungens_var._badius,-16.74863,123.90128
@@ -1012,7 +955,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992320893,Schoenoplectus_pungens_var._badius,-34.882058,138.634432
 996367294,Schoenoplectus_pungens_var._badius,-16.858056,124.214722
 996301408,Schoenoplectus_pungens_var._badius,-16.688333,123.961667
-883405620,Schoenoplectus_pungens_var._badius,53.1,-118.016667
 1455173540,Schoenoplectus_pungens_var._badius,48.433333,-70.816667
 177027124,Schoenoplectus_pungens_var._badius,37.799176,-100.351514
 63858332,Schoenoplectus_pungens_var._badius,42.6186,-118.4972
@@ -1028,7 +970,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451680189,Schoenoplectus_pungens_var._badius,-35.115105,149.467864
 996079066,Schoenoplectus_pungens_var._badius,-35.12,149.47
 177027328,Schoenoplectus_pungens_var._badius,37.14989,-97.65177
-883405627,Schoenoplectus_pungens_var._badius,49.1,-110.566667
 1949635337,Schoenoplectus_pungens_var._badius,49.233333,-124.816667
 177027102,Schoenoplectus_pungens_var._badius,37.276046,-98.573194
 177027100,Schoenoplectus_pungens_var._badius,39.08043,-99.50513
@@ -1041,11 +982,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177027329,Schoenoplectus_pungens_var._badius,37.50013,-102.02107
 994244453,Schoenoplectus_pungens_var._badius,-15.948602,129.101239
 473258612,Schoenoplectus_pungens_var._badius,45.4667,-73.9833
-473258608,Schoenoplectus_pungens_var._badius,45.483333,-73.9
 994344971,Schoenoplectus_pungens_var._badius,-12.192968,136.692859
 2234303831,Schoenoplectus_pungens_var._badius,30.382977,-88.238336
 1929543189,Schoenoplectus_pungens_var._badius,37.1927,-113.3931
-994461843,Schoenoplectus_pungens_var._badius,-42.9,147.3
 993525516,Schoenoplectus_pungens_var._badius,-17.75,140.95
 1846542322,Schoenoplectus_pungens_var._badius,36.304699,-111.854396
 994246147,Schoenoplectus_pungens_var._badius,-17.748528,140.951137
@@ -1062,14 +1001,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883405508,Schoenoplectus_pungens_var._badius,52.3527,-110.7443
 177027084,Schoenoplectus_pungens_var._badius,39.39778,-101.04651
 177027132,Schoenoplectus_pungens_var._badius,38.46951,-101.67934
-2270632232,Schoenoplectus_pungens_var._badius,31.58,-110.5
 883405655,Schoenoplectus_pungens_var._badius,52.35,-110.733333
 177027085,Schoenoplectus_pungens_var._badius,39.80314,-99.93155
 177027504,Schoenoplectus_pungens_var._badius,39.930249,-97.120443
 473535281,Schoenoplectus_pungens_var._badius,52.333333,-110.75
 177027086,Schoenoplectus_pungens_var._badius,39.49862,-98.32745
 177027136,Schoenoplectus_pungens_var._badius,37.30207,-98.00656
-211637660,Schoenoplectus_pungens_var._badius,43.560001,-7.7
 177027452,Schoenoplectus_pungens_var._badius,37.32135,-99.18276
 177027412,Schoenoplectus_pungens_var._badius,39.67301,-99.15962
 177027451,Schoenoplectus_pungens_var._badius,39.66176,-99.03343
@@ -1083,7 +1020,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270703730,Schoenoplectus_pungens_var._badius,33.618945,-108.893956
 1988186400,Schoenoplectus_pungens_var._badius,49.12,-123.19
 994524066,Schoenoplectus_pungens_var._badius,-42.95,147.52
-993237724,Schoenoplectus_pungens_var._badius,-12.6,133.25
 994245978,Schoenoplectus_pungens_var._badius,-12.598589,133.251188
 211638559,Schoenoplectus_pungens_var._badius,43.549999,-6.68
 177027805,Schoenoplectus_pungens_var._badius,39.878031,-105.212802
@@ -1117,12 +1053,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993207194,Schoenoplectus_pungens_var._badius,-11.3333,132.5833
 994238937,Schoenoplectus_pungens_var._badius,-11.348593,132.589493
 994524130,Schoenoplectus_pungens_var._badius,-42.73195,147.21771
-1090551286,Schoenoplectus_pungens_var._badius,-23.6,-65.3833
 992476398,Schoenoplectus_pungens_var._badius,-35.689559,139.124437
 993526841,Schoenoplectus_pungens_var._badius,-35.7464,139.2022
 995289312,Schoenoplectus_pungens_var._badius,-15.6167,136.3333
 994296582,Schoenoplectus_pungens_var._badius,-15.615235,136.334506
-441836461,Schoenoplectus_pungens_var._badius,46.5,-119.716667
 2287804802,Schoenoplectus_pungens_var._badius,-15.616667,136.333333
 177027403,Schoenoplectus_pungens_var._badius,37.96606,-101.75222
 883375995,Schoenoplectus_pungens_var._badius,53.254639,-112.903556
@@ -1145,7 +1079,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177027516,Schoenoplectus_pungens_var._badius,37.27007,-99.03703
 2270269671,Schoenoplectus_pungens_var._badius,34.4154999991199,-119.8823
 994524084,Schoenoplectus_pungens_var._badius,-42.76529,147.18437
-994788981,Schoenoplectus_pungens_var._badius,-37.5,142.4167
 2252123224,Schoenoplectus_pungens_var._badius,-36.467778,-64.179722
 883378745,Schoenoplectus_pungens_var._badius,52.107399999086,-106.6823
 177027106,Schoenoplectus_pungens_var._badius,38.29714,-98.38542
@@ -1153,7 +1086,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988171210,Schoenoplectus_pungens_var._badius,46.69,-71.89
 177027105,Schoenoplectus_pungens_var._badius,37.85065,-97.5173
 1988971398,Schoenoplectus_pungens_var._badius,45.947165,-86.2302
-2309506319,Schoenoplectus_pungens_var._badius,46.7,-71.88
 1897833872,Schoenoplectus_pungens_var._badius,-40.341306,175.264861
 992216947,Schoenoplectus_pungens_var._badius,-35.52,138.65
 994524085,Schoenoplectus_pungens_var._badius,-42.73195,147.43437
@@ -1190,7 +1122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270703336,Schoenoplectus_pungens_var._badius,32.758397,-104.315917
 992201444,Schoenoplectus_pungens_var._badius,-34.9612,138.528
 992180249,Schoenoplectus_pungens_var._badius,-35.510118,138.707495
-992188107,Schoenoplectus_pungens_var._badius,-34.3,140.6
 992222718,Schoenoplectus_pungens_var._badius,-34.886783,138.497489
 993218480,Schoenoplectus_pungens_var._badius,-35.45,149.0833
 1930833110,Schoenoplectus_pungens_var._badius,43.207125,-103.474363
@@ -1209,7 +1140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1586164549,Schoenoplectus_pungens_var._badius,45.717,-73.4622
 177027376,Schoenoplectus_pungens_var._badius,37.10959,-101.89017
 1259322070,Schoenoplectus_pungens_var._badius,20.407222,-103.66
-992611734,Schoenoplectus_pungens_var._badius,-37.1,140.7
 2252123282,Schoenoplectus_pungens_var._badius,-33.131944,-62.103056
 1897734138,Schoenoplectus_pungens_var._badius,-37.416667,174.75
 1586164547,Schoenoplectus_pungens_var._badius,45.3664,-73.807
@@ -1225,10 +1155,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473258596,Schoenoplectus_pungens_var._badius,45.379722,-73.996667
 1586165067,Schoenoplectus_pungens_var._badius,49.078476,-111.64164
 1930877302,Schoenoplectus_pungens_var._badius,40.321901,-103.596336
-992148317,Schoenoplectus_pungens_var._badius,-38,140.8
 2234304109,Schoenoplectus_pungens_var._badius,37.307337,-78.38896
 993652708,Schoenoplectus_pungens_var._badius,-35.0667,149.3667
-1091236483,Schoenoplectus_pungens_var._badius,-43.416666,172.7
 992476498,Schoenoplectus_pungens_var._badius,-33.938998,138.696365
 992130611,Schoenoplectus_pungens_var._badius,-37.1112,140.705
 992433518,Schoenoplectus_pungens_var._badius,-37.132054,140.734438
@@ -1253,7 +1181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992140034,Schoenoplectus_pungens_var._badius,-34.914277,139.176372
 2252123194,Schoenoplectus_pungens_var._badius,-34.267778,-65.383056
 994788994,Schoenoplectus_pungens_var._badius,-38.2167,143.4333
-994612290,Schoenoplectus_pungens_var._badius,-37.05,141.4
 441836839,Schoenoplectus_pungens_var._badius,42.880517,-115.697542
 997428581,Schoenoplectus_pungens_var._badius,38.99528,-110.16111
 1586165126,Schoenoplectus_pungens_var._badius,43.930032,-76.881006
@@ -1280,7 +1207,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2252123756,Schoenoplectus_pungens_var._badius,-32.419444,-65.676389
 994461544,Schoenoplectus_pungens_var._badius,-43.01529,147.41771
 994710345,Schoenoplectus_pungens_var._badius,-38.3167,142.3667
-993712925,Schoenoplectus_pungens_var._badius,-43,147.4083
 177027098,Schoenoplectus_pungens_var._badius,37.94407,-100.82664
 2265398379,Schoenoplectus_pungens_var._badius,45.427323,-93.081077
 177027093,Schoenoplectus_pungens_var._badius,39.689871,-97.527642
@@ -1347,7 +1273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994461823,Schoenoplectus_pungens_var._badius,-42.91529,147.46771
 1451702967,Schoenoplectus_pungens_var._badius,-32.198427,150.501148
 51956353,Schoenoplectus_pungens_var._badius,45.84,-119.7436
-996139294,Schoenoplectus_pungens_var._badius,-32.2,150.5
 51956828,Schoenoplectus_pungens_var._badius,43.9331,-120.5538
 1426133418,Schoenoplectus_pungens_var._badius,36.916667,-121.658333
 993256127,Schoenoplectus_pungens_var._badius,-34.9667,149.0333
@@ -1401,17 +1326,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994524110,Schoenoplectus_pungens_var._badius,-41.93194,147.48435
 994461792,Schoenoplectus_pungens_var._badius,-41.88194,147.46769
 992090131,Schoenoplectus_pungens_var._badius,-38.05,140.87
-994461896,Schoenoplectus_pungens_var._badius,-42,147.5
-996141939,Schoenoplectus_pungens_var._badius,-12.45,136.7
 1988806118,Schoenoplectus_pungens_var._badius,45.730288,-84.945243
-992111077,Schoenoplectus_pungens_var._badius,-12.4,136.7
 441836465,Schoenoplectus_pungens_var._badius,47.57139,-117.68556
 1936979357,Schoenoplectus_pungens_var._badius,-12.1833,136.5833
 992111311,Schoenoplectus_pungens_var._badius,-12.18204,136.584313
 1321543064,Schoenoplectus_pungens_var._badius,-12.18,136.58
 51957049,Schoenoplectus_pungens_var._badius,42.6062,-124.0592
 1897711281,Schoenoplectus_pungens_var._badius,-37.366667,174.75
-2287805415,Schoenoplectus_pungens_var._badius,-14.341667,132
 993160737,Schoenoplectus_pungens_var._badius,-14.9333,133.0667
 996365330,Schoenoplectus_pungens_var._badius,-34.243056,116.144722
 995289316,Schoenoplectus_pungens_var._badius,-14.9167,133.1667
@@ -1425,9 +1346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988615203,Schoenoplectus_pungens_var._badius,42.902628,-84.054446
 1586164671,Schoenoplectus_pungens_var._badius,48.4402,-72.16408
 2252115240,Schoenoplectus_pungens_var._badius,-30.815833,-62.894722
-995290901,Schoenoplectus_pungens_var._badius,-42.5167,146.7
-992090169,Schoenoplectus_pungens_var._badius,-37.4,140
-1897761597,Schoenoplectus_pungens_var._badius,-43.4,172.716667
 2270214760,Schoenoplectus_pungens_var._badius,35.363874,-120.861376
 1426057255,Schoenoplectus_pungens_var._badius,37.878623,-122.455045
 1586165070,Schoenoplectus_pungens_var._badius,46.4225,-63.1039
@@ -1448,7 +1366,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1586165143,Schoenoplectus_pungens_var._badius,51.022601,-114.075158
 2265398551,Schoenoplectus_pungens_var._badius,46.744397,-92.073854
 994524143,Schoenoplectus_pungens_var._badius,-42.76529,147.26771
-1259839559,Schoenoplectus_pungens_var._badius,-33.916667,-57.2
 1989266146,Schoenoplectus_pungens_var._badius,45.999346,-84.923973
 1988219709,Schoenoplectus_pungens_var._badius,51.67,-112.25
 415981890,Schoenoplectus_pungens_var._badius,41.31638,-72.90611
@@ -1464,7 +1381,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989476526,Schoenoplectus_pungens_var._badius,43.85137,-85.01438
 2265399392,Schoenoplectus_pungens_var._badius,46.283015,-96.077558
 1989163827,Schoenoplectus_pungens_var._badius,42.202992,-83.95294
-992090888,Schoenoplectus_pungens_var._badius,-38,140.7
 992090863,Schoenoplectus_pungens_var._badius,-34.43,135.87
 1228163115,Schoenoplectus_pungens_var._badius,42.416965,-88.073972
 1929650168,Schoenoplectus_pungens_var._badius,38.716779,-75.083567
@@ -1541,7 +1457,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51956707,Schoenoplectus_pungens_var._badius,43.8833,-124.1139
 1931081413,Schoenoplectus_pungens_var._badius,40.864454,-73.462825
 1988830385,Schoenoplectus_pungens_var._badius,45.80472,-85.494534
-1988217374,Schoenoplectus_pungens_var._badius,47,-84.8
 992116896,Schoenoplectus_pungens_var._badius,-34.928448,138.599156
 1426201072,Schoenoplectus_pungens_var._badius,38.0045,-119.1502
 1260950094,Schoenoplectus_pungens_var._badius,38.46,-93.2025
@@ -1559,12 +1474,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441836813,Schoenoplectus_pungens_var._badius,48.27222,-119.39278
 2242386078,Schoenoplectus_pungens_var._badius,38.93129,-104.607583
 2265398546,Schoenoplectus_pungens_var._badius,43.979723,-96.367859
-1989470019,Schoenoplectus_pungens_var._badius,45.55,-81.8
 1988659281,Schoenoplectus_pungens_var._badius,45.483333,-81.716667
 415981878,Schoenoplectus_pungens_var._badius,41.41166,-72.41611
-1988613946,Schoenoplectus_pungens_var._badius,43.566667,-81.7
-1989268968,Schoenoplectus_pungens_var._badius,46.1,-82.033333
-1988687110,Schoenoplectus_pungens_var._badius,46.1,-81.9
 1977964510,Schoenoplectus_pungens_var._badius,44.520459,-80.023663
 996077508,Schoenoplectus_pungens_var._badius,-32.37,150.67
 1451679255,Schoenoplectus_pungens_var._badius,-32.365092,150.667814
@@ -1598,7 +1509,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928463371,Schoenoplectus_pungens_var._badius,40.423314,-104.709132
 415981887,Schoenoplectus_pungens_var._badius,41.34583,-72.02972
 2265398415,Schoenoplectus_pungens_var._badius,45.071682,-93.257896
-1228563701,Schoenoplectus_pungens_var._badius,-37,-72.5
 1228568095,Schoenoplectus_pungens_var._badius,42.200858,-88.214526
 1586165134,Schoenoplectus_pungens_var._badius,46.7481,-71.2603
 1989544911,Schoenoplectus_pungens_var._badius,41.683333,-86.366667
@@ -1634,7 +1544,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260939751,Schoenoplectus_pungens_var._badius,39.708333,-91.358333
 1930300250,Schoenoplectus_pungens_var._badius,38.6869,-76.542489
 1928811023,Schoenoplectus_pungens_var._badius,41.009576,-74.483163
-1988232627,Schoenoplectus_pungens_var._badius,49.2999999990676,-123.1
 1989143776,Schoenoplectus_pungens_var._badius,42.082835,-86.48629
 51956798,Schoenoplectus_pungens_var._badius,44.3042,-120.7683
 1318733868,Schoenoplectus_pungens_var._badius,38.8956,-76.4744
@@ -1658,7 +1567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992277278,Schoenoplectus_pungens_var._badius,-34.473164,138.995257
 177027091,Schoenoplectus_pungens_var._badius,37.996988,-101.788509
 177027089,Schoenoplectus_pungens_var._badius,38.00348,-101.78943
-1988214728,Schoenoplectus_pungens_var._badius,49.3,-123.2
 177027092,Schoenoplectus_pungens_var._badius,38.055118,-100.709526
 1586165118,Schoenoplectus_pungens_var._badius,46.3656,-62.8669
 1322451121,Schoenoplectus_pungens_var._badius,38.2544,-76.9639
@@ -1669,7 +1577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426186646,Schoenoplectus_pungens_var._badius,35.9409,-117.9066
 51957110,Schoenoplectus_pungens_var._badius,44.2464,-117.5161
 995290889,Schoenoplectus_pungens_var._badius,-42.7667,147.2667
-992325653,Schoenoplectus_pungens_var._badius,-35.1,138.5
 415981879,Schoenoplectus_pungens_var._badius,41.17583,-73.27194
 1928293688,Schoenoplectus_pungens_var._badius,42.446193,-73.788457
 1988934923,Schoenoplectus_pungens_var._badius,43.999613,-83.06793
