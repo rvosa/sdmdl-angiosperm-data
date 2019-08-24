@@ -39,7 +39,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697697378,Polygonatum_verticillatum,55.841562,37.602901
 2287444042,Polygonatum_verticillatum,50.768333,5.966167
 1099879489,Polygonatum_verticillatum,64.475,15.56586
-1095062054,Polygonatum_verticillatum,59.3173,7.6
 1702230381,Polygonatum_verticillatum,59.8319,11.0118
 1702175691,Polygonatum_verticillatum,59.7003,11.2445
 1702175742,Polygonatum_verticillatum,59.7659,11.2528
@@ -59,7 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2324459686,Polygonatum_verticillatum,63.384865,9.004173
 1701773145,Polygonatum_verticillatum,63.3849,9.0042
 1702317156,Polygonatum_verticillatum,60.9009,5.6294
-2287876403,Polygonatum_verticillatum,50.2,6.25
 1702171890,Polygonatum_verticillatum,59.55753,5.7797
 1701860152,Polygonatum_verticillatum,62.4652,10.7277
 1701860217,Polygonatum_verticillatum,62.4226,11.1145
@@ -68,7 +66,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702177354,Polygonatum_verticillatum,59.2429,7.9619
 2325163921,Polygonatum_verticillatum,62.247391,6.353748
 1144054187,Polygonatum_verticillatum,58.7631,6.3823
-786221889,Polygonatum_verticillatum,47.5,10.4
 1701770165,Polygonatum_verticillatum,65.377,13.6058
 2314673993,Polygonatum_verticillatum,65.143795,13.426409
 1701597238,Polygonatum_verticillatum,61.6555,8.9887
@@ -110,7 +107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702188488,Polygonatum_verticillatum,59.6756,10.6575
 436719548,Polygonatum_verticillatum,48.03417,7.00306
 1701341323,Polygonatum_verticillatum,67.6201,15.3566
-1258113992,Polygonatum_verticillatum,49.5,20.25
 1701248681,Polygonatum_verticillatum,63.1953,10.2413
 186828470,Polygonatum_verticillatum,59.4922,7.4733
 1323859202,Polygonatum_verticillatum,68.3582,16.6876
@@ -392,7 +388,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702210911,Polygonatum_verticillatum,59.5138,8.5671
 1989603912,Polygonatum_verticillatum,56.17066,13.11257
 186828386,Polygonatum_verticillatum,66.792,15.5799
-991908720,Polygonatum_verticillatum,47.9,11.3
 1323764575,Polygonatum_verticillatum,67.679,14.731
 318230084,Polygonatum_verticillatum,58.8541,6.1311
 318230088,Polygonatum_verticillatum,58.8896,6.1108
@@ -983,7 +978,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891602662,Polygonatum_verticillatum,49.76,5.82
 1891593172,Polygonatum_verticillatum,49.88,6.04
 1891593713,Polygonatum_verticillatum,49.94,6.19
-616357630,Polygonatum_verticillatum,50.48,6
 1705367508,Polygonatum_verticillatum,55.707689,13.963162
 1323764592,Polygonatum_verticillatum,65.8647,13.2026
 1702387896,Polygonatum_verticillatum,60.26833,8.32541
@@ -995,11 +989,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701774289,Polygonatum_verticillatum,62.9848,10.2333
 1701265723,Polygonatum_verticillatum,63.0033,10.1749
 187223632,Polygonatum_verticillatum,62.8597,10.1691
-1891606295,Polygonatum_verticillatum,49.9,5.87
 1701265803,Polygonatum_verticillatum,63.5593,10.238
 1701965901,Polygonatum_verticillatum,63.1572,10.0024
 1702387863,Polygonatum_verticillatum,60.324,8.9366
-1891604246,Polygonatum_verticillatum,49.89,6.1
 1701281678,Polygonatum_verticillatum,62.8936,7.2098
 1701326512,Polygonatum_verticillatum,64.6447,12.352
 1701263820,Polygonatum_verticillatum,62.9086,7.3368
