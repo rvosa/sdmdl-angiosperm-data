@@ -56,8 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503266130,Pluchea_odorata,28.2483,-81.2217
 1503265870,Pluchea_odorata,28.3372,-81.4242
 1503263838,Pluchea_odorata,28.5331,-80.596
-1936242614,Pluchea_odorata,16.9917,-89.9
-1848989785,Pluchea_odorata,16.99167,-89.9
 1843908121,Pluchea_odorata,32.06255,-104.47114
 1269726069,Pluchea_odorata,29.9909,-91.2341
 1843910410,Pluchea_odorata,34.4327,-104.2121
@@ -72,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260916582,Pluchea_odorata,30.391667,-89.450833
 1257621847,Pluchea_odorata,16.988333,-89.6625
 1846515422,Pluchea_odorata,35.8549990890222,-113.662360921838
-1503257075,Pluchea_odorata,27.0333,-82
 2270690515,Pluchea_odorata,33.4192,-111.934
 1503252326,Pluchea_odorata,26.9925,-80.5892
 2270688451,Pluchea_odorata,33.3878,-112.251
@@ -184,10 +181,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895250957,Pluchea_odorata,18.085833,-92.410556
 1258937922,Pluchea_odorata,18.08,-92.41
 1893814351,Pluchea_odorata,18.36575,-92.600083
-1258937920,Pluchea_odorata,18.36,-92.6
-1895251003,Pluchea_odorata,18.365556,-92.6
 1893814319,Pluchea_odorata,18.0859,-92.410683
-1258936694,Pluchea_odorata,18.2,-92.31
 1417698172,Pluchea_odorata,18.466992,-99.19373
 1893814329,Pluchea_odorata,18.208433,-92.314217
 1417700813,Pluchea_odorata,18.440156,-99.187419
@@ -204,7 +198,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894875117,Pluchea_odorata,18.4904024017078,-92.641057392941
 1895251017,Pluchea_odorata,18.354444,-92.615833
 1895251053,Pluchea_odorata,18.109444,-92.338611
-1258936708,Pluchea_odorata,18.26,-92.6
 1893814335,Pluchea_odorata,18.279056,-92.634528
 1258501747,Pluchea_odorata,33.51722,-111.67361
 1893814345,Pluchea_odorata,18.267944,-92.607611
@@ -213,13 +206,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258936719,Pluchea_odorata,18.37,-92.62
 1895250938,Pluchea_odorata,18.278889,-92.634444
 1893814330,Pluchea_odorata,18.357917,-92.416361
-1258936693,Pluchea_odorata,18.1,-92.33
 1895250904,Pluchea_odorata,18.357778,-92.416111
 1258936699,Pluchea_odorata,18.35,-92.41
 1893814325,Pluchea_odorata,18.109694,-92.338694
 1893814343,Pluchea_odorata,18.374278,-92.629472
 1893814350,Pluchea_odorata,18.402222,-92.605833
-1258936702,Pluchea_odorata,18.4,-92.6
 1503236192,Pluchea_odorata,27.5386,-81.0197
 1258936736,Pluchea_odorata,18.28,-92.58
 1893814349,Pluchea_odorata,18.284444,-92.589278
@@ -252,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894639622,Pluchea_odorata,20.9999,-99.72528
 1893574758,Pluchea_odorata,16.7146587505556,-91.1221274972357
 1846480467,Pluchea_odorata,35.828967,-113.661711
-1928498950,Pluchea_odorata,32.5,-89.78
 2288888118,Pluchea_odorata,16.983333,-89.883333
 1503239902,Pluchea_odorata,27.7825,-80.4747
 1426427316,Pluchea_odorata,34.191667,-117.266667
@@ -297,7 +287,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415909004,Pluchea_odorata,41.31722,-72.30361
 415909038,Pluchea_odorata,41.64083,-70.765
 1261037644,Pluchea_odorata,24.099444,-99.815278
-1265813463,Pluchea_odorata,33.616667,-117.9
 1894976126,Pluchea_odorata,23.816667,-106.544444
 1895250854,Pluchea_odorata,22.499167,-98.183889
 1895250988,Pluchea_odorata,18.366667,-91.852778
@@ -331,16 +320,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896239267,Pluchea_odorata,21.658333,-97.848333
 1895250913,Pluchea_odorata,21.661111,-97.850556
 1895250896,Pluchea_odorata,19.291667,-96.608333
-1895142351,Pluchea_odorata,16.726944,-93.1
 1896239245,Pluchea_odorata,19.225,-96.358333
 1896239281,Pluchea_odorata,15.079444,-92.094444
 1893732530,Pluchea_odorata,15.0625,-92.080556
 1893732433,Pluchea_odorata,19.32,-96.33
 1895250907,Pluchea_odorata,19.278056,-96.316389
-1895250954,Pluchea_odorata,20.2,-90.441667
 1895250961,Pluchea_odorata,21.369444,-89.0175
-1265794625,Pluchea_odorata,19,-90.5
-1258953622,Pluchea_odorata,20.2,-90.47
 1259878453,Pluchea_odorata,21.37,-89.01
 1895142359,Pluchea_odorata,16.974722,-92.600555
 1846501688,Pluchea_odorata,33.434444,-111.909444
@@ -351,7 +336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897572731,Pluchea_odorata,17.5637971833232,-96.5975096346281
 1895250942,Pluchea_odorata,19.781667,-87.600556
 1896239244,Pluchea_odorata,19.493056,-87.993611
-1419189479,Pluchea_odorata,18.628889,-90.3
 1895250927,Pluchea_odorata,17.041667,-100.041667
 1895251010,Pluchea_odorata,16.955,-100.018056
 1895250903,Pluchea_odorata,22.214722,-97.935
@@ -377,7 +361,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894419372,Pluchea_odorata,18.611111,-91.865833
 1895643075,Pluchea_odorata,18.626944,-91.895833
 1895250946,Pluchea_odorata,32.305278,-114.556667
-1259880998,Pluchea_odorata,32.3,-114.55
 1895455197,Pluchea_odorata,32.4173885368257,-114.563181713742
 1894685042,Pluchea_odorata,19.596944,-88.005
 1421409556,Pluchea_odorata,20.561111,-90.416667
@@ -397,12 +380,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895250939,Pluchea_odorata,19.808056,-87.593889
 1930791237,Pluchea_odorata,18.4917,-72.13
 1896239276,Pluchea_odorata,19.791667,-87.608333
-1894976161,Pluchea_odorata,24.766667,-107.7
 1500198461,Pluchea_odorata,23.466667,-105.916667
 1896239299,Pluchea_odorata,18.108333,-94.558333
 1895455195,Pluchea_odorata,22.8625,-99.1125
 1895250972,Pluchea_odorata,18.096944,-94.567778
-1503218759,Pluchea_odorata,18.575,-70.3
 1895251025,Pluchea_odorata,24.628611,-107.442222
 1893762207,Pluchea_odorata,24.577222,-107.443056
 1419195047,Pluchea_odorata,16.75,-91.109722
@@ -447,7 +428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895250905,Pluchea_odorata,25.151667,-99.866667
 1895142381,Pluchea_odorata,16.941667,-92.631944
 1896239258,Pluchea_odorata,19.896944,-97.256667
-1896239265,Pluchea_odorata,21.1,-87.486667
 1896239315,Pluchea_odorata,17.291667,-96.158333
 1929162787,Pluchea_odorata,18.079573,-66.35673
 371293990,Pluchea_odorata,21.108333,-87.491667
@@ -455,7 +435,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893732555,Pluchea_odorata,18.534444,-92.646389
 1895250885,Pluchea_odorata,20.076944,-87.613056
 1895142379,Pluchea_odorata,18.253611,-93.018333
-1259126344,Pluchea_odorata,20.07,-87.6
 1895250918,Pluchea_odorata,18.525,-92.651944
 1262192505,Pluchea_odorata,27.330035,-82.449399
 1929124116,Pluchea_odorata,18.63,-70.72
@@ -470,14 +449,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 371293632,Pluchea_odorata,20.391667,-87.308333
 1895642980,Pluchea_odorata,20.534167,-90.367778
 371295023,Pluchea_odorata,20.541667,-90.425
-1896239248,Pluchea_odorata,21,-89.588056
 371292362,Pluchea_odorata,20.975,-89.625
 1895250858,Pluchea_odorata,20.541389,-90.415556
 1896239298,Pluchea_odorata,20.4975,-87.734167
 371294851,Pluchea_odorata,20.691667,-90.441667
 1265794629,Pluchea_odorata,12.8614,-84.8978
 1261290647,Pluchea_odorata,12.23333,-86.44722
-1893313338,Pluchea_odorata,20.5,-90.416667
 1895251029,Pluchea_odorata,18.254722,-93.096389
 1421418752,Pluchea_odorata,18.275,-93.076389
 1261279681,Pluchea_odorata,12.26805,-86.47361
@@ -504,7 +481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419233800,Pluchea_odorata,17.528056,-96.583333
 1895250882,Pluchea_odorata,18.270833,-93.898889
 1928429904,Pluchea_odorata,18.17,-93.76
-1928000888,Pluchea_odorata,18.4,-70.47
 1895455190,Pluchea_odorata,18.220558,-93.946325
 1259878101,Pluchea_odorata,17.98,-93.57
 1893313309,Pluchea_odorata,19.766667,-87.583333
@@ -516,14 +492,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415909008,Pluchea_odorata,41.3425,-72.35361
 1259881507,Pluchea_odorata,31.533333,-116.65
 1895455198,Pluchea_odorata,31.516389,-116.645561
-1096837298,Pluchea_odorata,18.25,-70.2
 1455967205,Pluchea_odorata,31.53,-116.658
 1421358711,Pluchea_odorata,20.511111,-87.719444
 1846501708,Pluchea_odorata,31.533333,-116.658333
 371296257,Pluchea_odorata,20.491667,-87.741667
 1895250943,Pluchea_odorata,20.494722,-87.735278
 1320426158,Pluchea_odorata,38.3983,-76.9875
-1895953207,Pluchea_odorata,18.4,-97.442778
 1893732438,Pluchea_odorata,21.433333,-99.533333
 1896239240,Pluchea_odorata,21.058333,-99.808333
 1262192374,Pluchea_odorata,27.30511,-82.25053
@@ -539,7 +513,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177005737,Pluchea_odorata,38.46944,-98.65556
 1896239292,Pluchea_odorata,19.311111,-96.665833
 1896239274,Pluchea_odorata,19.558333,-96.691667
-1848717796,Pluchea_odorata,32.9,-93.8167
 1123892320,Pluchea_odorata,11.02895,-74.80362
 1611937479,Pluchea_odorata,31.85,-106.616667
 177005741,Pluchea_odorata,37.04841,-99.76784
@@ -554,16 +527,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177005731,Pluchea_odorata,37.62928,-98.68077
 2270663459,Pluchea_odorata,36.3163,-113.978
 1258423242,Pluchea_odorata,11.966667,-86.116667
-1804507389,Pluchea_odorata,42.283333,-83.1
 1895251083,Pluchea_odorata,20.851667,-86.896667
 1259877400,Pluchea_odorata,18.11666,-88.66666
-1895953187,Pluchea_odorata,20,-97.303333
 1895251090,Pluchea_odorata,20.8525,-86.883056
-2270663334,Pluchea_odorata,33,-109.9
 1895455176,Pluchea_odorata,26.616667,-102.016667
 1846480566,Pluchea_odorata,34.187139,-112.10375
 2270466492,Pluchea_odorata,36.09,-113.92
-1259878114,Pluchea_odorata,32.366667,-116.5
 1846501652,Pluchea_odorata,30.624722,-96.307778
 1890970047,Pluchea_odorata,7.824791,-77.172337
 1259878647,Pluchea_odorata,18.116667,-88.666667
@@ -571,11 +540,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846501728,Pluchea_odorata,31.956,-113.008
 177005742,Pluchea_odorata,37.89668,-98.17867
 1846501638,Pluchea_odorata,29.705,-92.676111
-1259347912,Pluchea_odorata,17.5,-88.216667
 1259877557,Pluchea_odorata,17.46805,-88.29305
 2270585605,Pluchea_odorata,33.38,-112.31
 2270518724,Pluchea_odorata,25.84572,-108.983333
-2270661737,Pluchea_odorata,33.4,-112.41
 1895251023,Pluchea_odorata,20.210833,-87.466389
 2270663135,Pluchea_odorata,32.71,-114.73
 1846501673,Pluchea_odorata,33.443361,-111.935592
@@ -589,7 +556,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893732418,Pluchea_odorata,19.503889,-96.614444
 2005979481,Pluchea_odorata,35.003398,-100.883317
 1846501759,Pluchea_odorata,33.454767,-111.954147
-1260769766,Pluchea_odorata,10.28333,-64.4
 2270664651,Pluchea_odorata,33.23,-112.24
 2270584772,Pluchea_odorata,33.3712,-112.377
 1896239283,Pluchea_odorata,18.325,-95.091667
@@ -602,7 +568,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270663111,Pluchea_odorata,33.3103,-114.705
 1895250950,Pluchea_odorata,16.8175,-99.683611
 1896239255,Pluchea_odorata,19.484722,-96.575
-1675159018,Pluchea_odorata,17.5,-92.666667
 1142052823,Pluchea_odorata,11.00767,-74.70502
 2242400185,Pluchea_odorata,25.416957,-80.42089
 1896239256,Pluchea_odorata,18.827778,-97.320278
@@ -614,7 +579,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1039007201,Pluchea_odorata,41.3347,-72.7006
 1259879684,Pluchea_odorata,17.538056,-88.308056
 1262192386,Pluchea_odorata,30.617341,-96.324794
-56632381,Pluchea_odorata,32.65,-87.3
 177005736,Pluchea_odorata,37.64576,-98.24152
 1896239290,Pluchea_odorata,19.783333,-97.226667
 1261288169,Pluchea_odorata,9.441667,-79.483333
@@ -643,12 +607,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270662271,Pluchea_odorata,33.56,-111.69
 2270584363,Pluchea_odorata,33.8776,-112.277
 2270664705,Pluchea_odorata,33.88,-112.28
-2270583049,Pluchea_odorata,33.5,-111.72
 2234486006,Pluchea_odorata,35.944604,-76.064087
 2270582810,Pluchea_odorata,33.4581,-111.949
 2270583307,Pluchea_odorata,33.52,-111.69
 1895455253,Pluchea_odorata,26.8792813393172,-99.4119863690476
-1895953168,Pluchea_odorata,20.214167,-98
 1321865911,Pluchea_odorata,38.8647,-76.515
 1930794661,Pluchea_odorata,22.5983,-99.3883
 1929484692,Pluchea_odorata,22.8822,-99.4264
@@ -691,7 +653,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895250929,Pluchea_odorata,18.249167,-92.0875
 415909021,Pluchea_odorata,41.31416,-72.03583
 415909007,Pluchea_odorata,41.34583,-72.03027
-1265793768,Pluchea_odorata,20.8333,-89
 1258575916,Pluchea_odorata,15.758056,-86.823333
 1928192426,Pluchea_odorata,40.859677,-73.210049
 1319501532,Pluchea_odorata,38.3875,-77.38
@@ -699,7 +660,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262192487,Pluchea_odorata,29.78717,-95.055485
 1262192407,Pluchea_odorata,26.203407,-98.230012
 1321300576,Pluchea_odorata,38.6861,-76.535
-1228473081,Pluchea_odorata,10.75,-75
 1930518094,Pluchea_odorata,34.374929,-99.418976
 1258575877,Pluchea_odorata,17.878333,-88.313056
 1265794582,Pluchea_odorata,8.5714,-79.9106
@@ -738,8 +698,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989408505,Pluchea_odorata,42.30818,-83.139185
 1262192306,Pluchea_odorata,41.751432,-69.990548
 1930137400,Pluchea_odorata,18.39744,-66.04988
-1259877761,Pluchea_odorata,19.333333,-96.3
-1265793990,Pluchea_odorata,24,-98.75
 1262192361,Pluchea_odorata,34.021123,-118.328409
 1262192506,Pluchea_odorata,32.739345,-97.209057
 1930162833,Pluchea_odorata,21.017019,-76.234972
