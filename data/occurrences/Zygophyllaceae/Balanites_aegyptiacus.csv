@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1675495523,Balanites_aegyptiacus,18.4022,-12.2203
 1913750959,Balanites_aegyptiacus,9.7962,44.4898
-2291381855,Balanites_aegyptiacus,12.274637,-69.664702
 1094186793,Balanites_aegyptiacus,32.47,35.55
 2306564081,Balanites_aegyptiacus,0.293,36.898
 2304355407,Balanites_aegyptiacus,0.29,36.9
@@ -27,8 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259207210,Balanites_aegyptiacus,-8.90833,34.40222
 1230514360,Balanites_aegyptiacus,0.03333,32.33333
 621164098,Balanites_aegyptiacus,10.53,-0.34
-2252212277,Balanites_aegyptiacus,5.37,0.14
-621122504,Balanites_aegyptiacus,5.37,-0.14
 911746146,Balanites_aegyptiacus,14.131945,47.683334
 47729805,Balanites_aegyptiacus,-6.052,36.008
 1837259210,Balanites_aegyptiacus,14.61667,49.03333
@@ -47,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 911746033,Balanites_aegyptiacus,14.933333,49.516666
 1837259206,Balanites_aegyptiacus,15.01667,49.83333
 911746099,Balanites_aegyptiacus,15.016666,49.833332
-1851976250,Balanites_aegyptiacus,14.736667,-17.633889
 1258573083,Balanites_aegyptiacus,8.3225,-2.29555
 2252212201,Balanites_aegyptiacus,8.17,-2.17
 2289226335,Balanites_aegyptiacus,10.666667,1.25
@@ -201,14 +197,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257715158,Balanites_aegyptiacus,3.116667,33.416667
 621161862,Balanites_aegyptiacus,10.48,-1.11
 1257715198,Balanites_aegyptiacus,3.75,33.033333
-415962939,Balanites_aegyptiacus,25.64305,-80.27916
 1839827457,Balanites_aegyptiacus,-11.666667,27.466667
 1257715261,Balanites_aegyptiacus,-6.283333,36.5
 1257715287,Balanites_aegyptiacus,-3.666667,33.433333
 1257715197,Balanites_aegyptiacus,-2.683333,36.7
 1037347008,Balanites_aegyptiacus,-11.7,27.45
 1257715202,Balanites_aegyptiacus,1.516667,33.466667
-1929500994,Balanites_aegyptiacus,22.130781,-80.339315
 1037347240,Balanites_aegyptiacus,-11.7,27.533333
 912325271,Balanites_aegyptiacus,16.77,-3.02
 1257715260,Balanites_aegyptiacus,-5.233333,34.3
