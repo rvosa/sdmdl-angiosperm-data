@@ -108,7 +108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838965815,Cota_tinctoria_subsp._subtinctoria,40.782501,21.316111
 1838965727,Cota_tinctoria_subsp._subtinctoria,40.803329,21.13028
 2287443471,Cota_tinctoria_subsp._subtinctoria,51.3966,4.34135
-1848348754,Cota_tinctoria_subsp._subtinctoria,48,16.26667
 1702169444,Cota_tinctoria_subsp._subtinctoria,59.5352,11.2098
 1948373450,Cota_tinctoria_subsp._subtinctoria,60.991237,25.564845
 1148951703,Cota_tinctoria_subsp._subtinctoria,58.35491,26.69714
@@ -204,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 728980720,Cota_tinctoria_subsp._subtinctoria,51.799865,5.640905
 1702352734,Cota_tinctoria_subsp._subtinctoria,59.0807,10.8765
 1701272492,Cota_tinctoria_subsp._subtinctoria,63.4312,10.562
-1096704314,Cota_tinctoria_subsp._subtinctoria,59.02,17.1
 1144050083,Cota_tinctoria_subsp._subtinctoria,58.795,5.6859
 1230507607,Cota_tinctoria_subsp._subtinctoria,48.46417,21.66611
 1144050037,Cota_tinctoria_subsp._subtinctoria,60.1985,6.5576
@@ -282,8 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638532426,Cota_tinctoria_subsp._subtinctoria,40.033333,20.783333
 1638532473,Cota_tinctoria_subsp._subtinctoria,39.983333,20.683333
 1831054633,Cota_tinctoria_subsp._subtinctoria,53.5485,11.4153
-1638532532,Cota_tinctoria_subsp._subtinctoria,39.833333,21.2
-1340039230,Cota_tinctoria_subsp._subtinctoria,41.1,23.116667
 1999613409,Cota_tinctoria_subsp._subtinctoria,60.787235,22.883522
 1701853581,Cota_tinctoria_subsp._subtinctoria,59.2101,11.1225
 1949955703,Cota_tinctoria_subsp._subtinctoria,43.613889,22.675
@@ -292,12 +288,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313472284,Cota_tinctoria_subsp._subtinctoria,48.19,11.48
 1936645528,Cota_tinctoria_subsp._subtinctoria,41.9861,24.88
 1701352104,Cota_tinctoria_subsp._subtinctoria,43.88222,11.23167
-1830967693,Cota_tinctoria_subsp._subtinctoria,47.98333,16.3
 1599500809,Cota_tinctoria_subsp._subtinctoria,61.310159,23.757697
 1702220538,Cota_tinctoria_subsp._subtinctoria,59.0983,5.7778
 1599500765,Cota_tinctoria_subsp._subtinctoria,60.410348,25.826445
 296407770,Cota_tinctoria_subsp._subtinctoria,47.001667,12.531667
-1946757795,Cota_tinctoria_subsp._subtinctoria,50.25,9.9
 1705334172,Cota_tinctoria_subsp._subtinctoria,57.011324,16.401075
 1701847519,Cota_tinctoria_subsp._subtinctoria,59.7555,10.7273
 1323738788,Cota_tinctoria_subsp._subtinctoria,69.7301,19.108
@@ -355,7 +349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323844278,Cota_tinctoria_subsp._subtinctoria,68.4583,17.1173
 1705356988,Cota_tinctoria_subsp._subtinctoria,60.648401,17.020771
 1701329144,Cota_tinctoria_subsp._subtinctoria,64.0097,11.5058
-788460568,Cota_tinctoria_subsp._subtinctoria,41.1,25.45
 1701313868,Cota_tinctoria_subsp._subtinctoria,63.57,10.9031
 1701838748,Cota_tinctoria_subsp._subtinctoria,59.5773,11.3239
 187088868,Cota_tinctoria_subsp._subtinctoria,63.6434,10.1094
@@ -369,7 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701236367,Cota_tinctoria_subsp._subtinctoria,63.3626,10.4004
 1702183917,Cota_tinctoria_subsp._subtinctoria,59.67725,10.7732
 187088350,Cota_tinctoria_subsp._subtinctoria,63.4517,11.5773
-1946756333,Cota_tinctoria_subsp._subtinctoria,48.31,13.3
 1701832185,Cota_tinctoria_subsp._subtinctoria,58.3337,7.2145
 1702191543,Cota_tinctoria_subsp._subtinctoria,59.4814,11.6703
 1701238281,Cota_tinctoria_subsp._subtinctoria,63.7357,11.2384
@@ -395,7 +387,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441963581,Cota_tinctoria_subsp._subtinctoria,51.766525,12.633061
 1144200995,Cota_tinctoria_subsp._subtinctoria,60.4259,5.4708
 788460510,Cota_tinctoria_subsp._subtinctoria,40.75,21.866667
-788458240,Cota_tinctoria_subsp._subtinctoria,38.683333,22.2
 1999506223,Cota_tinctoria_subsp._subtinctoria,60.511483,23.128201
 1702161722,Cota_tinctoria_subsp._subtinctoria,60.62647,11.34552
 1701294557,Cota_tinctoria_subsp._subtinctoria,63.6725,10.632
@@ -416,7 +407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702152707,Cota_tinctoria_subsp._subtinctoria,62.3091,10.957
 1948373388,Cota_tinctoria_subsp._subtinctoria,62.429927,29.968894
 1948373463,Cota_tinctoria_subsp._subtinctoria,62.472758,29.917856
-2291330149,Cota_tinctoria_subsp._subtinctoria,57.416667,61.5
 1881002694,Cota_tinctoria_subsp._subtinctoria,48.79,10.72
 1702153848,Cota_tinctoria_subsp._subtinctoria,62.3157,10.9573
 1701375156,Cota_tinctoria_subsp._subtinctoria,60.5206,11.2499
@@ -524,7 +514,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599500749,Cota_tinctoria_subsp._subtinctoria,60.720381,24.788939
 1144179444,Cota_tinctoria_subsp._subtinctoria,61.81088,6.85799
 1705345239,Cota_tinctoria_subsp._subtinctoria,57.241686,15.715783
-1705870237,Cota_tinctoria_subsp._subtinctoria,54.23,23
 1705397169,Cota_tinctoria_subsp._subtinctoria,58.002318,16.261825
 1705870180,Cota_tinctoria_subsp._subtinctoria,54.22,22.62
 1599500779,Cota_tinctoria_subsp._subtinctoria,61.351305,23.603794
@@ -569,7 +558,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317856870,Cota_tinctoria_subsp._subtinctoria,51.217633,9.86505
 1599500826,Cota_tinctoria_subsp._subtinctoria,62.364691,30.078426
 1638532140,Cota_tinctoria_subsp._subtinctoria,40.166667,21.666667
-1638537060,Cota_tinctoria_subsp._subtinctoria,40.3,22.25
 1288066534,Cota_tinctoria_subsp._subtinctoria,50.6509,9.86205
 1705870160,Cota_tinctoria_subsp._subtinctoria,54.05,23.17
 57677809,Cota_tinctoria_subsp._subtinctoria,61.800301,25.697901
@@ -577,7 +565,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999506255,Cota_tinctoria_subsp._subtinctoria,60.300947,24.003068
 1599500763,Cota_tinctoria_subsp._subtinctoria,60.89116,27.079757
 1705870317,Cota_tinctoria_subsp._subtinctoria,54.079163,23.272574
-1705870283,Cota_tinctoria_subsp._subtinctoria,54.07,23.1
 1599500764,Cota_tinctoria_subsp._subtinctoria,61.349591,24.596041
 1599500741,Cota_tinctoria_subsp._subtinctoria,61.480833,23.758727
 187089088,Cota_tinctoria_subsp._subtinctoria,63.2613,10.265
@@ -613,19 +600,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599504004,Cota_tinctoria_subsp._subtinctoria,61.243538,24.66856
 1638532207,Cota_tinctoria_subsp._subtinctoria,38.75,22.466667
 1599500770,Cota_tinctoria_subsp._subtinctoria,61.256349,25.599485
-1638537007,Cota_tinctoria_subsp._subtinctoria,38.833333,21.7
 1638534757,Cota_tinctoria_subsp._subtinctoria,38.766667,21.883333
 812020757,Cota_tinctoria_subsp._subtinctoria,50.519433,9.257667
-1988138387,Cota_tinctoria_subsp._subtinctoria,61.2,23.9
 186791054,Cota_tinctoria_subsp._subtinctoria,61.3128,10.3164
-1099914171,Cota_tinctoria_subsp._subtinctoria,61.233333,23.9
 2289808369,Cota_tinctoria_subsp._subtinctoria,50.283333,8.083333
 1701903034,Cota_tinctoria_subsp._subtinctoria,60.475,9.2637
 812020765,Cota_tinctoria_subsp._subtinctoria,50.708783,9.101817
 1701473358,Cota_tinctoria_subsp._subtinctoria,60.9779,9.2125
 1099901850,Cota_tinctoria_subsp._subtinctoria,55.636111,12.364444
-1705870323,Cota_tinctoria_subsp._subtinctoria,53.42,23.5
-1638535247,Cota_tinctoria_subsp._subtinctoria,40.1,22.416667
 1831054921,Cota_tinctoria_subsp._subtinctoria,53.9484,12.2485
 1701692851,Cota_tinctoria_subsp._subtinctoria,60.43395,10.53107
 2290569436,Cota_tinctoria_subsp._subtinctoria,43.466667,11.15
@@ -647,7 +629,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999506211,Cota_tinctoria_subsp._subtinctoria,60.479816,22.147604
 1701579936,Cota_tinctoria_subsp._subtinctoria,59.2618,9.5875
 186791056,Cota_tinctoria_subsp._subtinctoria,59.6656,9.6478
-1638534052,Cota_tinctoria_subsp._subtinctoria,38.5,22.65
 1638533999,Cota_tinctoria_subsp._subtinctoria,38.55,22.633333
 2313351347,Cota_tinctoria_subsp._subtinctoria,48.17,11.46
 1638534805,Cota_tinctoria_subsp._subtinctoria,38.55,22.616667
@@ -669,7 +650,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948240768,Cota_tinctoria_subsp._subtinctoria,61.076921,25.607419
 1999506196,Cota_tinctoria_subsp._subtinctoria,60.420479,22.247391
 1599500716,Cota_tinctoria_subsp._subtinctoria,61.383449,22.97301
-1638533890,Cota_tinctoria_subsp._subtinctoria,38.533333,22.6
 1702356086,Cota_tinctoria_subsp._subtinctoria,60.87203,10.45449
 1599503995,Cota_tinctoria_subsp._subtinctoria,61.884374,28.422923
 1144119772,Cota_tinctoria_subsp._subtinctoria,60.97437,11.73801
@@ -687,7 +667,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599504022,Cota_tinctoria_subsp._subtinctoria,60.813345,27.640104
 1599500777,Cota_tinctoria_subsp._subtinctoria,60.927079,27.024527
 1999506213,Cota_tinctoria_subsp._subtinctoria,60.258679,22.506114
-1705870326,Cota_tinctoria_subsp._subtinctoria,53.6,22.32
 1999506229,Cota_tinctoria_subsp._subtinctoria,60.776029,21.440644
 20453437,Cota_tinctoria_subsp._subtinctoria,59.26671,9.48765
 1099914110,Cota_tinctoria_subsp._subtinctoria,60.628611,23.514444
@@ -737,7 +716,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702356056,Cota_tinctoria_subsp._subtinctoria,60.23556,10.67316
 1701227375,Cota_tinctoria_subsp._subtinctoria,60.2952,11.2162
 1599503998,Cota_tinctoria_subsp._subtinctoria,61.350697,26.155974
-607597065,Cota_tinctoria_subsp._subtinctoria,40.683333,35.2
 1999506290,Cota_tinctoria_subsp._subtinctoria,60.467905,22.859473
 607618088,Cota_tinctoria_subsp._subtinctoria,36.916667,45.366667
 1599503943,Cota_tinctoria_subsp._subtinctoria,61.59517,24.265264
@@ -754,13 +732,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702052826,Cota_tinctoria_subsp._subtinctoria,60.7206,10.9843
 1599503938,Cota_tinctoria_subsp._subtinctoria,61.169958,25.974984
 1599503985,Cota_tinctoria_subsp._subtinctoria,60.903836,27.457652
-1705870325,Cota_tinctoria_subsp._subtinctoria,53.9,23.25
 1599504037,Cota_tinctoria_subsp._subtinctoria,61.785178,21.591341
-1705870164,Cota_tinctoria_subsp._subtinctoria,52.7,23.87
 1599503974,Cota_tinctoria_subsp._subtinctoria,60.647483,27.609266
 1599500719,Cota_tinctoria_subsp._subtinctoria,61.610765,25.206528
 1332508976,Cota_tinctoria_subsp._subtinctoria,50.5908,9.52065
-2291095795,Cota_tinctoria_subsp._subtinctoria,48,16.85
 1599503976,Cota_tinctoria_subsp._subtinctoria,60.099753,22.869834
 1999506224,Cota_tinctoria_subsp._subtinctoria,60.442838,22.371488
 1701763028,Cota_tinctoria_subsp._subtinctoria,63.3948,10.3909
