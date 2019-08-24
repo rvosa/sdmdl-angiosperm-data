@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2244174583,Berteroa_incana,50.00528,8.98
 1935656020,Berteroa_incana,47.10116,15.41615
 1837900155,Berteroa_incana,47.809166,7.599167
-1935656008,Berteroa_incana,48.16667,16.5
 2242353034,Berteroa_incana,39.54885,-105.09605
 1837900149,Berteroa_incana,53.491669,10.202222
 2242352985,Berteroa_incana,39.54663,-105.09006
@@ -87,7 +86,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846553405,Berteroa_incana,36.6020909959821,-112.349778042157
 1697236797,Berteroa_incana,50.95104,107.29508
 1702207998,Berteroa_incana,59.2303,10.6984
-1988221291,Berteroa_incana,45.7,-111.0506
 1417511016,Berteroa_incana,45.844,-76.93625
 1898257817,Berteroa_incana,55.79551,13.09639
 1599051021,Berteroa_incana,61.204662,26.04637
@@ -118,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705428804,Berteroa_incana,57.270125,16.474013
 1830970127,Berteroa_incana,48.01694,16.30194
 1438585147,Berteroa_incana,57.9628,26.39818
-786096942,Berteroa_incana,49,8.4
 1930749321,Berteroa_incana,47.708942,-117.028939
 1030476214,Berteroa_incana,42.71425,-84.478
 1148475634,Berteroa_incana,57.844722,27.639167
@@ -173,12 +170,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242418152,Berteroa_incana,39.54017,-105.276567
 441997286,Berteroa_incana,51.498055,14.636945
 883415629,Berteroa_incana,50.691742,20.342411
-1949652457,Berteroa_incana,50.983333,-118.2
 1230515406,Berteroa_incana,48.64111,21.20167
-2313282784,Berteroa_incana,48.16,11.5
 1697525512,Berteroa_incana,49.083333,44.15
 2242690295,Berteroa_incana,62.603054,29.780613
-1697525438,Berteroa_incana,51.166667,40.3
 2265498979,Berteroa_incana,47.43,-94.365
 1697525497,Berteroa_incana,52.58203,59.23832
 1702316423,Berteroa_incana,59.585,10.3923
@@ -186,7 +180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697525547,Berteroa_incana,52.4921,59.74388
 176890711,Berteroa_incana,42.29792,-91.92623
 1705347331,Berteroa_incana,57.255268,16.462991
-2309039449,Berteroa_incana,42.8,-80.41
 214507980,Berteroa_incana,52.517498,13.139722
 1986960078,Berteroa_incana,60.435092,22.8524
 1701655770,Berteroa_incana,59.6873,11.0401
@@ -200,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441996453,Berteroa_incana,51.304337,14.902779
 1697525527,Berteroa_incana,49.15,44.05
 1701645492,Berteroa_incana,60.8712,10.7799
-1697525442,Berteroa_incana,53.5,39
 465877564,Berteroa_incana,44.98241,-64.93527
 883374241,Berteroa_incana,49.966667,19.966667
 441994008,Berteroa_incana,51.05381,14.958893
@@ -217,7 +209,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599051014,Berteroa_incana,60.886083,26.789693
 1995318461,Berteroa_incana,59.7549,9.983
 1986982762,Berteroa_incana,39.855361,-120.094889
-436712612,Berteroa_incana,48.6,6.13889
 1935655705,Berteroa_incana,47.18611,14.73333
 415721062,Berteroa_incana,39.855278,-120.095
 1936199641,Berteroa_incana,39.8553,-120.095
@@ -235,7 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999607318,Berteroa_incana,60.469354,26.93329
 1259977177,Berteroa_incana,40.36861,-105.50277
 1843894662,Berteroa_incana,40.37,-105.5044
-1095900505,Berteroa_incana,59,24
 1503341530,Berteroa_incana,52.522917,13.142361
 1270039283,Berteroa_incana,51.352505,12.2523
 1936644785,Berteroa_incana,41.5733,24.0019
@@ -246,7 +236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265404439,Berteroa_incana,47.726203,-91.63027
 1936644010,Berteroa_incana,41.7044,24.8503
 1702025896,Berteroa_incana,60.4015,11.2392
-29597680,Berteroa_incana,41.7,24.85
 465768697,Berteroa_incana,45.063055,-64.383055
 1999607317,Berteroa_incana,62.41412,25.958662
 1702207178,Berteroa_incana,59.1645,9.6427
@@ -305,9 +294,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999491161,Berteroa_incana,60.44802,22.200588
 1701843112,Berteroa_incana,60.7816,10.955
 1702202726,Berteroa_incana,60.8026,10.7394
-1095900644,Berteroa_incana,41,23
 1697525251,Berteroa_incana,60.303209,38.675924
-2270689798,Berteroa_incana,35.1333,-111.6
 415936136,Berteroa_incana,44.54111,-73.14777
 1702192547,Berteroa_incana,60.8913,10.9469
 1831062277,Berteroa_incana,53.5485,11.4153
@@ -348,7 +335,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343157945,Berteroa_incana,55.596449,12.372257
 1599343357,Berteroa_incana,60.594933,27.789867
 1697525532,Berteroa_incana,55.193379,61.335176
-1881048649,Berteroa_incana,48.92,10.7
 415963280,Berteroa_incana,41.80916,-72.25361
 1701800022,Berteroa_incana,59.568,11.2984
 318048997,Berteroa_incana,44.915105,-111.601849
@@ -360,7 +346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701311657,Berteroa_incana,60.1379,12.0198
 1999607312,Berteroa_incana,60.449243,22.297779
 176890716,Berteroa_incana,44.914276,-85.968469
-2288845268,Berteroa_incana,57.416667,61.5
 1999491200,Berteroa_incana,60.493324,22.273159
 1697525411,Berteroa_incana,56.435507,44.86393
 1930001402,Berteroa_incana,42.33,-102.97
@@ -386,7 +371,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701986226,Berteroa_incana,60.7916,11.0951
 318048915,Berteroa_incana,45.787912,-98.005464
 1986953995,Berteroa_incana,43.599722,-110.736944
-899743062,Berteroa_incana,54.4,12.6
 1843821656,Berteroa_incana,35.867079,-106.638967
 2265484185,Berteroa_incana,44.724016,-92.863237
 1999491164,Berteroa_incana,60.576897,21.858884
@@ -408,7 +392,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949608093,Berteroa_incana,50.316667,-119.25
 2265450304,Berteroa_incana,45.515,-93.71028
 1701723559,Berteroa_incana,59.9663,10.2806
-1931252111,Berteroa_incana,40.57,-115.6
 1701722491,Berteroa_incana,61.2342,7.1093
 1701722614,Berteroa_incana,61.3093,7.7957
 1701722455,Berteroa_incana,61.2335,7.0628
@@ -430,7 +413,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999607329,Berteroa_incana,60.439657,22.280973
 441702100,Berteroa_incana,47.666667,-117.458333
 1599051035,Berteroa_incana,60.666833,24.892333
-1988229219,Berteroa_incana,49,-118.4
 1949628701,Berteroa_incana,49.033333,-118.433333
 1988130271,Berteroa_incana,49.28,-122.75
 1999491165,Berteroa_incana,60.883692,21.688591
@@ -478,7 +460,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265484358,Berteroa_incana,48.127222,-93.8975
 2265483718,Berteroa_incana,43.637724,-92.219269
 1701614476,Berteroa_incana,61.376,10.2817
-1946807029,Berteroa_incana,50.17,10.3
 1935655896,Berteroa_incana,47.22474,14.79229
 1999491168,Berteroa_incana,60.567958,21.860308
 1288095604,Berteroa_incana,50.679283,9.565452
@@ -494,7 +475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265483882,Berteroa_incana,46.114584,-94.484628
 1999491188,Berteroa_incana,60.257341,24.06128
 1228276196,Berteroa_incana,41.15,-87.8667
-1899319003,Berteroa_incana,44.9,-76.016667
 1057258967,Berteroa_incana,51.548322,-0.271231
 1701840632,Berteroa_incana,59.3819,10.4698
 1705343781,Berteroa_incana,57.525746,16.200787
@@ -503,7 +483,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099907714,Berteroa_incana,56.45644,14.4728
 1599051006,Berteroa_incana,65.035497,25.428722
 1599050997,Berteroa_incana,60.985237,24.411081
-1935656005,Berteroa_incana,47.02222,15.4
 1705362331,Berteroa_incana,57.498308,14.140613
 1599054194,Berteroa_incana,61.063553,24.239775
 1668934420,Berteroa_incana,54.858,37.644
@@ -528,7 +507,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838975665,Berteroa_incana,38.02306,22.139441
 1949603105,Berteroa_incana,51.066667,-119.528333
 2313362741,Berteroa_incana,48.13,11.53
-415963318,Berteroa_incana,52.5,-100
 1599051000,Berteroa_incana,62.111143,28.615401
 1599050992,Berteroa_incana,60.91548,24.646346
 57680618,Berteroa_incana,62.968102,26.700899
@@ -550,9 +528,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697525385,Berteroa_incana,56.342934,35.981391
 1697525602,Berteroa_incana,47.851386,37.788477
 415963290,Berteroa_incana,41.61972,-72.14305
-1804459499,Berteroa_incana,45.3,-75.55
 1705343741,Berteroa_incana,57.437466,15.83019
-883420210,Berteroa_incana,42.866667,-109.8
 1705343730,Berteroa_incana,57.317842,15.581164
 415963294,Berteroa_incana,41.90611,-71.87083
 415963295,Berteroa_incana,41.84638,-71.8875
@@ -618,7 +594,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929810931,Berteroa_incana,40.7341,-106.4193
 1935655887,Berteroa_incana,47.96083,16.77722
 1599050959,Berteroa_incana,60.652886,27.076425
-732469573,Berteroa_incana,45.333333,-75.8
 1099896659,Berteroa_incana,58.40131,13.86442
 2289463456,Berteroa_incana,50.452,6.102
 1697525369,Berteroa_incana,55.671145,37.679483
@@ -630,7 +605,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 360094287,Berteroa_incana,61.973999,25.5665
 1262017838,Berteroa_incana,46.332357,-72.548117
 1702313659,Berteroa_incana,59.6116,10.4089
-1928615898,Berteroa_incana,44.33,-84.6
 318049058,Berteroa_incana,46.13681,-95.576279
 1323842016,Berteroa_incana,59.4555,10.6273
 1935655912,Berteroa_incana,47.17311,14.75838
@@ -643,7 +617,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989407225,Berteroa_incana,47.134206,-88.626822
 2265483821,Berteroa_incana,45.810665,-95.748005
 1599050958,Berteroa_incana,60.487304,26.933253
-1988064220,Berteroa_incana,49.8,-121.4
 1099869868,Berteroa_incana,55.59028,13.02351
 1599054193,Berteroa_incana,59.904734,23.260877
 1929587810,Berteroa_incana,40.8648,-106.1908
@@ -653,7 +626,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242362769,Berteroa_incana,39.550164,-105.099111
 1262008195,Berteroa_incana,45.042033,-74.359268
 1931148352,Berteroa_incana,40.57,-115.62
-1804386523,Berteroa_incana,44.7,-75.55
 1262008287,Berteroa_incana,45.111653,-74.103196
 1804367746,Berteroa_incana,47.55,-82.866667
 1305258711,Berteroa_incana,41.77,-86.25
@@ -672,7 +644,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804437812,Berteroa_incana,43.583333,-79.616667
 1988783237,Berteroa_incana,45.067099,-84.948676
 2265485141,Berteroa_incana,45.043113,-93.900405
-1988100813,Berteroa_incana,48.4,-89.6
 1988706881,Berteroa_incana,44.721012,-85.184867
 318217436,Berteroa_incana,59.44105,8.99827
 2265483656,Berteroa_incana,47.231869,-95.056789
@@ -683,7 +654,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949637298,Berteroa_incana,50.883333,-119.316667
 1599054192,Berteroa_incana,61.0609,24.496741
 1883795784,Berteroa_incana,57.78762,14.27015
-1804474353,Berteroa_incana,45.383333,-75.9
 1935655911,Berteroa_incana,47.66481,15.8731
 1697236762,Berteroa_incana,56.20582,66.90026
 1701246498,Berteroa_incana,59.3889,10.5228
@@ -707,11 +677,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703288691,Berteroa_incana,49.7178872399363,-99.4743004671261
 1702361056,Berteroa_incana,59.2135,10.909
 1988953540,Berteroa_incana,43.387377,-85.19371
-1988110873,Berteroa_incana,52.1,-120.2
 1705748203,Berteroa_incana,52.7322,23.7642
 1701927795,Berteroa_incana,59.84212,10.21987
 57680673,Berteroa_incana,61.201801,26.0389
-1099882724,Berteroa_incana,61.2,26
 1262003694,Berteroa_incana,45.912,-76.927
 1656071290,Berteroa_incana,59.4641,10.65876
 2313362265,Berteroa_incana,48.21,11.47
@@ -731,9 +699,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265484343,Berteroa_incana,45.463971,-94.394322
 20529059,Berteroa_incana,58.5363,8.3525
 2313363244,Berteroa_incana,48.21,11.49
-1988122806,Berteroa_incana,50.3,-119.3
 2265482918,Berteroa_incana,45.868856,-94.31068
-442112988,Berteroa_incana,54.366665,59.5
 442112987,Berteroa_incana,54.633335,53.666668
 1999491237,Berteroa_incana,60.427472,22.191802
 1144064907,Berteroa_incana,61.2343,7.1186
@@ -761,7 +727,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599054190,Berteroa_incana,61.794669,28.418774
 1599050944,Berteroa_incana,60.935911,26.803199
 1949583396,Berteroa_incana,50.933333,-119.283333
-1988221234,Berteroa_incana,50.8,-119.2
 883420235,Berteroa_incana,61.571374,28.314307
 1999491207,Berteroa_incana,60.34588,23.292013
 1697750217,Berteroa_incana,44.857177,34.942231
@@ -775,9 +740,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265485230,Berteroa_incana,45.377702,-93.173879
 1702361093,Berteroa_incana,59.0026,11.0812
 1697792693,Berteroa_incana,45.140847,42.017263
-732469601,Berteroa_incana,44.383333,-75.9
 1701765585,Berteroa_incana,63.4308,10.3726
-1988234721,Berteroa_incana,49.4,-121.4
 1599054186,Berteroa_incana,61.497517,23.898058
 1949524282,Berteroa_incana,52.933333,-118.816667
 1599054181,Berteroa_incana,61.501656,24.085572
@@ -788,7 +751,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1332520167,Berteroa_incana,50.541878,9.687257
 2265483738,Berteroa_incana,45.04384,-93.65598
 1702333572,Berteroa_incana,61.178,6.8866
-1949533757,Berteroa_incana,51.3,-120.183333
 187098599,Berteroa_incana,59.9197,10.565
 1989158197,Berteroa_incana,43.330399,-85.333688
 1668934235,Berteroa_incana,54.855,37.603
@@ -798,11 +760,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415963283,Berteroa_incana,41.82722,-73.25166
 318048898,Berteroa_incana,42.04178,-101.52281
 1697525341,Berteroa_incana,54.807627,41.753412
-788878849,Berteroa_incana,39.5,21.383333
-788878998,Berteroa_incana,39.533333,21.2
 1702333481,Berteroa_incana,59.2271,9.6045
 415963282,Berteroa_incana,41.86833,-73.16694
-1988222296,Berteroa_incana,49,-120
 1837334784,Berteroa_incana,61.13415,10.39176
 788878884,Berteroa_incana,39.666667,21.133333
 1989290468,Berteroa_incana,46.451225,-86.601448
@@ -852,7 +811,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999491139,Berteroa_incana,60.429098,22.237037
 318049033,Berteroa_incana,48.7459224647526,-97.7271542026094
 1146365595,Berteroa_incana,61.21,-149.89
-1899381414,Berteroa_incana,44.616667,-79.5
 1599054188,Berteroa_incana,63.596372,27.097444
 1999491150,Berteroa_incana,60.429423,22.246082
 1099880229,Berteroa_incana,63.557778,27.191667
@@ -887,7 +845,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318049017,Berteroa_incana,41.90802,-97.45472
 1599054178,Berteroa_incana,61.326265,24.288746
 1702361190,Berteroa_incana,61.576,9.8597
-732469626,Berteroa_incana,45.633333,-76.2
 318048919,Berteroa_incana,42.10755,-102.86972
 1599050939,Berteroa_incana,60.896569,24.59245
 1599050942,Berteroa_incana,60.280104,23.821388
@@ -945,7 +902,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599054187,Berteroa_incana,60.893194,25.246966
 1989092390,Berteroa_incana,44.342817,-84.86472
 1702333480,Berteroa_incana,59.02266,9.53738
-1262027435,Berteroa_incana,47.45,-70.5
 1599050936,Berteroa_incana,60.453351,26.179364
 1702333597,Berteroa_incana,59.2092,9.6042
 1701780600,Berteroa_incana,58.6609,8.6294
@@ -978,9 +934,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999491173,Berteroa_incana,60.437719,22.226673
 1701885667,Berteroa_incana,59.6714,9.648
 812021377,Berteroa_incana,50.639217,9.16735
-1949498788,Berteroa_incana,49.5,-118.666667
 1978893138,Berteroa_incana,43.589829,-84.777617
-1949583653,Berteroa_incana,49.1,-116.5
 883420232,Berteroa_incana,49.384,-121.44
 1949498672,Berteroa_incana,49.383333,-121.45
 1599054155,Berteroa_incana,61.224346,23.738723
@@ -1021,8 +975,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599054231,Berteroa_incana,60.904584,27.089131
 57680630,Berteroa_incana,62.2495,25.755501
 1999491162,Berteroa_incana,60.451459,22.233757
-1988091279,Berteroa_incana,49.6,-117.07
-1949583612,Berteroa_incana,49.6,-117.066667
 1989095482,Berteroa_incana,42.304442,-83.657491
 1949492691,Berteroa_incana,49.216667,-121.083333
 1804365972,Berteroa_incana,41.966667,-82.516667
@@ -1031,8 +983,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599054165,Berteroa_incana,60.628791,27.755071
 1988149554,Berteroa_incana,45.89,-77.28
 57680609,Berteroa_incana,60.924099,24.627199
-2288237268,Berteroa_incana,48,16.85
-732469655,Berteroa_incana,45.9,-77.283333
 57680682,Berteroa_incana,61.461102,24.0798
 1622360607,Berteroa_incana,63.043208,21.55694
 1599054166,Berteroa_incana,60.884864,24.694786
@@ -1046,7 +996,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57680638,Berteroa_incana,61.879902,28.802799
 1599050916,Berteroa_incana,60.557295,27.698715
 1988691001,Berteroa_incana,44.42028,-83.33083
-732469622,Berteroa_incana,43,-82.4
 1039021854,Berteroa_incana,41.5115,-72.904
 415963298,Berteroa_incana,41.43305,-72.88555
 1935655895,Berteroa_incana,47.68338,15.91971
@@ -1057,7 +1006,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988989999,Berteroa_incana,42.300243,-83.662835
 1305244397,Berteroa_incana,45.307,-88.854
 1999491157,Berteroa_incana,60.793133,21.419262
-732469574,Berteroa_incana,42.05,-82.6
 1599054150,Berteroa_incana,62.510032,25.346865
 1099902523,Berteroa_incana,56.39288,14.02877
 2242395433,Berteroa_incana,44.998538,-84.67472
@@ -1075,7 +1023,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999491171,Berteroa_incana,60.234265,23.657058
 1599050914,Berteroa_incana,60.576779,27.279618
 1697525410,Berteroa_incana,58.064677,38.228376
-1988200741,Berteroa_incana,49.8,-118.2
 1697525632,Berteroa_incana,48.624456,22.277806
 638837,Berteroa_incana,57.6672,14.971461
 1599054144,Berteroa_incana,62.966746,27.686712
@@ -1120,7 +1067,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599050920,Berteroa_incana,61.490679,23.795278
 1099912262,Berteroa_incana,56.134164,13.965605
 1705330679,Berteroa_incana,56.453686,13.06417
-732469623,Berteroa_incana,48.4,-89.616667
 1989376037,Berteroa_incana,43.212228,-82.920096
 1935655879,Berteroa_incana,46.93556,13.10556
 1099897116,Berteroa_incana,64.130556,28.390556
@@ -1132,9 +1078,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318048988,Berteroa_incana,43.81242,-94.45824
 2265483227,Berteroa_incana,43.812369,-94.458486
 1697525538,Berteroa_incana,55.944083,58.548161
-1705498847,Berteroa_incana,61.4,22.98
 1988821849,Berteroa_incana,43.860394,-84.825389
-732469606,Berteroa_incana,45.133333,-75.6
 1988953874,Berteroa_incana,44.14167,-84.56667
 1701674991,Berteroa_incana,59.5202,10.3467
 1988759645,Berteroa_incana,43.757957,-84.853779
@@ -1149,7 +1093,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702313730,Berteroa_incana,59.9669,10.3523
 1599054132,Berteroa_incana,60.071161,24.392468
 2242372705,Berteroa_incana,39.636213,-105.394413
-732469666,Berteroa_incana,53.216667,-106.4
 1701674947,Berteroa_incana,60.1285,10.3589
 1599050900,Berteroa_incana,60.756253,24.78647
 57680653,Berteroa_incana,61.002102,24.473499
@@ -1188,7 +1131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265483615,Berteroa_incana,47.071884,-92.732416
 318048986,Berteroa_incana,41.74611,-90.45277
 1988141930,Berteroa_incana,49.18,-119.55
-732469646,Berteroa_incana,49.9,-119.383333
 1949479282,Berteroa_incana,49.183333,-119.55
 415963293,Berteroa_incana,42.83666,-72.305
 1949550073,Berteroa_incana,50.233333,-121.566667
@@ -1206,7 +1148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702310509,Berteroa_incana,59.1245,11.3847
 57680671,Berteroa_incana,61.504055,23.605938
 1949521259,Berteroa_incana,48.716667,-94.433333
-732469598,Berteroa_incana,45.55,-73.2
 1989461180,Berteroa_incana,44.669839,-85.47503
 732469639,Berteroa_incana,45.333333,-76.283333
 1989517775,Berteroa_incana,42.01996,-85.5768
@@ -1216,27 +1157,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599054128,Berteroa_incana,60.881584,24.510806
 1702310581,Berteroa_incana,59.0431,10.9608
 1702310552,Berteroa_incana,59.0927,11.2255
-732469654,Berteroa_incana,44.9,-75.15
 1599054225,Berteroa_incana,60.705517,24.707646
 1988662826,Berteroa_incana,46.512777,-86.313807
 1989104545,Berteroa_incana,42.00646,-85.45485
 1599054129,Berteroa_incana,63.710008,22.645288
 732469673,Berteroa_incana,45.016667,-75.633333
-732469672,Berteroa_incana,45.1,-75.35
 1928987850,Berteroa_incana,41.185928,-74.067365
 1705367524,Berteroa_incana,55.838733,14.092053
-732469602,Berteroa_incana,49.066667,-118.2
-732469653,Berteroa_incana,43.2,-80.016667
-732469594,Berteroa_incana,49.016667,-118.2
 732469631,Berteroa_incana,45.366667,-75.816667
 1999637913,Berteroa_incana,60.464862,22.359362
 732469642,Berteroa_incana,45.95,-76.016667
 415963289,Berteroa_incana,41.91222,-72.98833
 1988147550,Berteroa_incana,45.95,-76.06
-732469669,Berteroa_incana,49.1,-96.266667
 1599050891,Berteroa_incana,62.657693,25.30923
-732469587,Berteroa_incana,46.5,-64.666667
-732469648,Berteroa_incana,49.166667,-97.2
 1705260576,Berteroa_incana,56.960234,16.380536
 1599054219,Berteroa_incana,60.987206,25.611348
 1949498045,Berteroa_incana,50.95,-119.35
@@ -1266,11 +1199,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599050887,Berteroa_incana,61.877298,28.992982
 1261950592,Berteroa_incana,45.491113,-74.032926
 1949486553,Berteroa_incana,50.266667,-118.966667
-732469597,Berteroa_incana,45.516667,-74
 732469645,Berteroa_incana,42.033333,-82.916667
 2265484594,Berteroa_incana,47.23862,-93.01948
 732469605,Berteroa_incana,45.916667,-76.166667
-1988159929,Berteroa_incana,50.3,-119
 732469649,Berteroa_incana,50.25,-118.966667
 1599050890,Berteroa_incana,62.250609,27.093075
 1099885856,Berteroa_incana,56.44196,12.56199
@@ -1305,18 +1236,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732469586,Berteroa_incana,45.433333,-76.35
 1701998258,Berteroa_incana,59.8357,10.4451
 1697525519,Berteroa_incana,49.735452,45.247351
-732469644,Berteroa_incana,45.6,-76.483333
 1705362454,Berteroa_incana,56.805334,14.037221
 1705263634,Berteroa_incana,57.796344,16.074254
 1599054216,Berteroa_incana,63.236678,26.499357
-732469658,Berteroa_incana,44.916667,-76
 1099889480,Berteroa_incana,58.712489,13.822042
 1988758573,Berteroa_incana,45.00056,-84.158
 1697236782,Berteroa_incana,55.57757,77.20129
 732469614,Berteroa_incana,52.666667,-109.75
 1989512205,Berteroa_incana,47.456185,-88.164815
 1929843868,Berteroa_incana,47.454722,-88.158889
-732469613,Berteroa_incana,45.1,-75.233333
 1891603473,Berteroa_incana,49.47,6.36
 1935655875,Berteroa_incana,47.80333,16.63611
 415963312,Berteroa_incana,42.06666,-72.66666
@@ -1350,7 +1278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935655904,Berteroa_incana,47.5625,14.85917
 1599050886,Berteroa_incana,63.056456,27.688824
 1988192310,Berteroa_incana,51.05,-120.23
-732469607,Berteroa_incana,43.3,-79.85
 1599050874,Berteroa_incana,60.447311,22.243462
 1599050883,Berteroa_incana,66.461633,25.762608
 1099905980,Berteroa_incana,55.94898,13.54288
@@ -1371,7 +1298,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701248070,Berteroa_incana,59.1331,11.4028
 1988071656,Berteroa_incana,49.87,-121.44
 1705369068,Berteroa_incana,57.99134,14.959839
-732469632,Berteroa_incana,45.466667,-76.4
 1702310563,Berteroa_incana,59.2833,11.108
 1099884390,Berteroa_incana,59.974444,23.435556
 1705417539,Berteroa_incana,57.775766,11.613842
@@ -1412,11 +1338,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099887071,Berteroa_incana,56.05827,14.492
 732469595,Berteroa_incana,50.633333,-104.25
 1701885692,Berteroa_incana,61.76479,9.55763
-1228222705,Berteroa_incana,41.7,-86.6667
 2289672223,Berteroa_incana,52.266075,6.155217
 1929244712,Berteroa_incana,40.885213,-72.527545
 1930414234,Berteroa_incana,44.189772,-73.785972
-1930054646,Berteroa_incana,42,-85.45
 1701879763,Berteroa_incana,60.18687,12.19377
 1323774833,Berteroa_incana,65.4343,12.5852
 1099896944,Berteroa_incana,58.39316,12.48051
@@ -1432,17 +1356,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702313758,Berteroa_incana,59.5276,10.2816
 1988193317,Berteroa_incana,55.62,-123.53
 1099880503,Berteroa_incana,59.51354,10.22705
-1949462161,Berteroa_incana,49.6,-117.033333
 2265484234,Berteroa_incana,44.760853,-93.459533
 1988215319,Berteroa_incana,53.92,-122.69
 1988071669,Berteroa_incana,49.71,-116.88
 1099881909,Berteroa_incana,59.58339,16.56864
 2265483174,Berteroa_incana,46.72307,-92.14748
 1697525388,Berteroa_incana,55.694479,36.689442
-1988207041,Berteroa_incana,49.2,-117.27
 1929589289,Berteroa_incana,46.27,-89.17
 638824,Berteroa_incana,56.877485,14.811873
-732469610,Berteroa_incana,49.2,-117.266667
 1930645070,Berteroa_incana,42.12,-85.52
 1701885705,Berteroa_incana,60.0184,10.1301
 2265483371,Berteroa_incana,46.535842,-92.552688
@@ -1461,10 +1382,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702174989,Berteroa_incana,59.6982,10.5742
 1099893174,Berteroa_incana,55.67086,13.07522
 732469609,Berteroa_incana,50.416667,-121.35
-1988083646,Berteroa_incana,49.02,-118.2
 2265484320,Berteroa_incana,44.78852,-93.35306
 1323774792,Berteroa_incana,63.70086,11.23768
-786096813,Berteroa_incana,50.9,7
 1099881792,Berteroa_incana,58.89981,10.99985
 1702313928,Berteroa_incana,59.7108,10.3686
 1099865870,Berteroa_incana,55.6054,13.06798
@@ -1507,7 +1426,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705430125,Berteroa_incana,56.538729,16.119467
 1702313677,Berteroa_incana,59.5427,10.5475
 788675788,Berteroa_incana,56.43289,12.87739
-1929348094,Berteroa_incana,45.57,-84.6
 1599050864,Berteroa_incana,60.219461,23.974408
 1144064796,Berteroa_incana,59.0543,10.9344
 1702299112,Berteroa_incana,59.8672,10.4375
@@ -1583,7 +1501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 638801,Berteroa_incana,56.743908,15.916726
 415963301,Berteroa_incana,44.04805,-72.63666
 788841794,Berteroa_incana,56.34682,12.80484
-732469678,Berteroa_incana,50.7,-119.266667
 1099887545,Berteroa_incana,56.902094,12.489298
 1705331120,Berteroa_incana,56.443317,13.353795
 1702288660,Berteroa_incana,59.8627,10.4463
