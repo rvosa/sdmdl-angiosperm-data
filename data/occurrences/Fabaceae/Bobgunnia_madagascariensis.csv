@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258100491,Bobgunnia_madagascariensis,-7.619167,33.416667
-2308722379,Bobgunnia_madagascariensis,-12.58,37.2
 1257968550,Bobgunnia_madagascariensis,-8.09363,32.72164
 1990271886,Bobgunnia_madagascariensis,6.249058,7.114838
 1257706961,Bobgunnia_madagascariensis,-8.190278,31.126667
@@ -17,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 621093843,Bobgunnia_madagascariensis,10.34532,-0.27283
 1260044957,Bobgunnia_madagascariensis,-5.27861,34.52944
 1260389811,Bobgunnia_madagascariensis,-6.64,31.78555
-2234860595,Bobgunnia_madagascariensis,9.6,-5.6
 1259192200,Bobgunnia_madagascariensis,-5.42722,30.58583
 1259061431,Bobgunnia_madagascariensis,-6.63611,31.13916
 2290666777,Bobgunnia_madagascariensis,9.875167,2.784667
@@ -30,18 +28,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317874131,Bobgunnia_madagascariensis,10.383333,1.483333
 1258828803,Bobgunnia_madagascariensis,-4.82,35.07777
 1259027750,Bobgunnia_madagascariensis,-4.78833,34.26055
-2291723565,Bobgunnia_madagascariensis,10.466667,1.5
 2289604299,Bobgunnia_madagascariensis,9.483333,2.916667
 2288754429,Bobgunnia_madagascariensis,8.65,2.669444
 1988296104,Bobgunnia_madagascariensis,-16.395278,35.975
-2288663146,Bobgunnia_madagascariensis,10.85,3.7
 1258778629,Bobgunnia_madagascariensis,-10.58333,38.08333
 317874127,Bobgunnia_madagascariensis,10.45,1.45
 1988295822,Bobgunnia_madagascariensis,-17.01786,36.08945
 317874128,Bobgunnia_madagascariensis,10.2425,1.359167
 1258775394,Bobgunnia_madagascariensis,-8.31583,38.96083
-1424793474,Bobgunnia_madagascariensis,10.6,1.283333
-1424793583,Bobgunnia_madagascariensis,10.2,1.433333
 2005510519,Bobgunnia_madagascariensis,-17.892778,20.263333
 2290483389,Bobgunnia_madagascariensis,9.766667,2.683333
 2291723461,Bobgunnia_madagascariensis,9.749667,2.681833
@@ -50,13 +44,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988296026,Bobgunnia_madagascariensis,-17.2593,35.63128
 1830960735,Bobgunnia_madagascariensis,-12.45,31.28
 2288756844,Bobgunnia_madagascariensis,8.85,2.283333
-2291723390,Bobgunnia_madagascariensis,10,3.45
 1424793175,Bobgunnia_madagascariensis,9.45,2.75
 317874109,Bobgunnia_madagascariensis,10.316389,1.3575
 462311380,Bobgunnia_madagascariensis,-17.875,31.125
 1258775816,Bobgunnia_madagascariensis,-8.66555,36.46583
-1258374647,Bobgunnia_madagascariensis,-17.66666,23.2
-2291723480,Bobgunnia_madagascariensis,-17.666667,25.9
 317874104,Bobgunnia_madagascariensis,10.083333,-3.266667
 346754305,Bobgunnia_madagascariensis,9.316667,13.383333
 2234860640,Bobgunnia_madagascariensis,9.066667,-5.166667
@@ -87,7 +78,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261547411,Bobgunnia_madagascariensis,-9.43333,30.35777
 462311456,Bobgunnia_madagascariensis,-9.375,30.375
 462311373,Bobgunnia_madagascariensis,-17.875,24.625
-1261542550,Bobgunnia_madagascariensis,-8.3,31.31666
 317874105,Bobgunnia_madagascariensis,12.066667,0.35
 2288638769,Bobgunnia_madagascariensis,-15.416667,28.416667
 317874107,Bobgunnia_madagascariensis,11.25,0.75
@@ -99,8 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261915303,Bobgunnia_madagascariensis,-8.933333,34.216667
 462311375,Bobgunnia_madagascariensis,-18.125,12.375
 462311482,Bobgunnia_madagascariensis,-0.125,11.875
-2290212203,Bobgunnia_madagascariensis,9.341667,13.4
-346750868,Bobgunnia_madagascariensis,9.3,13.4
 1988296014,Bobgunnia_madagascariensis,-14.8442,40.32974
 2289308206,Bobgunnia_madagascariensis,-11.766667,27.45
 2291723016,Bobgunnia_madagascariensis,-12.85,39.733333
@@ -112,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290260752,Bobgunnia_madagascariensis,-13.25,37.416667
 1988295819,Bobgunnia_madagascariensis,-13.2573,37.41085
 2290625623,Bobgunnia_madagascariensis,9.85,-6.433333
-2288357402,Bobgunnia_madagascariensis,10.066667,-5.5
 1844889971,Bobgunnia_madagascariensis,8.711235,-2.985352
 2291723440,Bobgunnia_madagascariensis,-18.125,21.641667
 462311379,Bobgunnia_madagascariensis,-18.125,21.625
@@ -123,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 346751579,Bobgunnia_madagascariensis,9.016667,13.183333
 2290580194,Bobgunnia_madagascariensis,-11.55,33.433333
 813385803,Bobgunnia_madagascariensis,-12.783333,15.783333
-2290328826,Bobgunnia_madagascariensis,9,13.266667
 346750742,Bobgunnia_madagascariensis,4.083333,11.383333
 2289834292,Bobgunnia_madagascariensis,9.55,-7.283333
 1988296066,Bobgunnia_madagascariensis,-15.6074,32.75191
@@ -135,10 +121,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462311369,Bobgunnia_madagascariensis,-18.125,21.375
 2288610332,Bobgunnia_madagascariensis,9.25,1.216667
 438263947,Bobgunnia_madagascariensis,-15.22126,13.62813
-2291723994,Bobgunnia_madagascariensis,9.75,10.5
 2288728011,Bobgunnia_madagascariensis,9.566667,-5.633333
 462311363,Bobgunnia_madagascariensis,-19.625,20.875
-2290645338,Bobgunnia_madagascariensis,-18.883333,32
 866267405,Bobgunnia_madagascariensis,-15.516349,34.409841
 462311371,Bobgunnia_madagascariensis,-17.375,18.375
 2289750881,Bobgunnia_madagascariensis,-17.466667,18.466667
@@ -146,7 +130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866267423,Bobgunnia_madagascariensis,-19.52794,32.917733
 866267403,Bobgunnia_madagascariensis,-18.933332,32.883333
 866267270,Bobgunnia_madagascariensis,-14.723054,36.661016
-2289983185,Bobgunnia_madagascariensis,10.7,13.716667
 2289311936,Bobgunnia_madagascariensis,7.083333,14.583333
 438596680,Bobgunnia_madagascariensis,-13.41667,14.68333
 866267244,Bobgunnia_madagascariensis,-13.218871,38.96991
@@ -177,7 +160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866267219,Bobgunnia_madagascariensis,-19.10689,33.45886
 866267420,Bobgunnia_madagascariensis,-14.942778,38.321663
 866267303,Bobgunnia_madagascariensis,-19.116389,33.483333
-2291723655,Bobgunnia_madagascariensis,-7.266667,19
 1839439393,Bobgunnia_madagascariensis,-8.65,24.183333
 866267132,Bobgunnia_madagascariensis,-15.054309,39.551994
 866267529,Bobgunnia_madagascariensis,-13.537686,40.141055
@@ -196,4 +178,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866267418,Bobgunnia_madagascariensis,-14.96801,37.42118
 2290620169,Bobgunnia_madagascariensis,-9.283333,33.616667
 1839531666,Bobgunnia_madagascariensis,-9.166667,22.616667
-1839531515,Bobgunnia_madagascariensis,-5.5,19
