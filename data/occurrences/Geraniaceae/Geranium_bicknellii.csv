@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1658237597,Geranium_bicknellii,48.41728,-123.322433
 2242359693,Geranium_bicknellii,39.31069,-105.04452
 2242353163,Geranium_bicknellii,39.54728,-105.09441
 1913920946,Geranium_bicknellii,55.96811,-110.837064
@@ -15,17 +14,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1998481194,Geranium_bicknellii,42.4425,-71.091667
 1899339246,Geranium_bicknellii,53.0597069990943,-93.345528
 2265454095,Geranium_bicknellii,48.039444,-90.608889
-1936236158,Geranium_bicknellii,10.5475,-66.8656
-1303602426,Geranium_bicknellii,10.53,-66.85
-1936237752,Geranium_bicknellii,10.4067,-67.2961
-1303602415,Geranium_bicknellii,10.4,-67.28
 1988238396,Geranium_bicknellii,49.271,-123.12
 1209657964,Geranium_bicknellii,55.355152,-117.609393
 883404660,Geranium_bicknellii,53.2876669990964,-114.4894
 441756055,Geranium_bicknellii,47.50818,-118.54329
 441756074,Geranium_bicknellii,46.51036,-113.73225
 441756075,Geranium_bicknellii,46.53459,-113.75323
-1303596664,Geranium_bicknellii,6.2,-75.48
 1988213945,Geranium_bicknellii,49.26,-122.75
 623671286,Geranium_bicknellii,38.776667,-120.870556
 2305338990,Geranium_bicknellii,63.43,-136.52
@@ -33,9 +27,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242420438,Geranium_bicknellii,39.747481,-105.102101
 1988186760,Geranium_bicknellii,51.6,-119.7
 1949641505,Geranium_bicknellii,57.9,-131.166667
-1303597472,Geranium_bicknellii,7.02,-73.07
 2265394455,Geranium_bicknellii,46.462717,-95.708898
-1303596760,Geranium_bicknellii,2.45,-76.53
 473439767,Geranium_bicknellii,45.803056,-76.7125
 473439807,Geranium_bicknellii,45.653694,-74.764361
 1949638883,Geranium_bicknellii,49.354167,-117.884167
@@ -44,8 +36,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455175431,Geranium_bicknellii,52.566667,-124.133333
 465863544,Geranium_bicknellii,45.471749,-64.273661
 1303595383,Geranium_bicknellii,49.28,-81.63
-1988074270,Geranium_bicknellii,49.895851,-125.158339
-1803148432,Geranium_bicknellii,47.555306,-69.878722
 2265472930,Geranium_bicknellii,48.057888,-90.02419
 1804480689,Geranium_bicknellii,55.943056,-104.236111
 1988982027,Geranium_bicknellii,43.76433,-85.29204
@@ -58,17 +48,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265351080,Geranium_bicknellii,45.766774,-94.756997
 1899288366,Geranium_bicknellii,45.258333,-75.908333
 1209657146,Geranium_bicknellii,53.657839,-113.325574
-1949616447,Geranium_bicknellii,48.466667,-123.566667
-1949616439,Geranium_bicknellii,48.45,-123.6
 1988167643,Geranium_bicknellii,52,-121.8
 1899288454,Geranium_bicknellii,45.5,-76.133333
 1949616498,Geranium_bicknellii,48.65,-123.716667
 1949616880,Geranium_bicknellii,48.533333,-123.533333
-1949629925,Geranium_bicknellii,49.295,-124.087222
-1949629990,Geranium_bicknellii,49.272778,-124.164444
-1949621491,Geranium_bicknellii,49.338889,-124.15
-1988237543,Geranium_bicknellii,49.5,-124
-1949618119,Geranium_bicknellii,49.295833,-124.083056
 1146234554,Geranium_bicknellii,64.85,-147.55
 1303595688,Geranium_bicknellii,60.02,-123.9
 894989685,Geranium_bicknellii,53.033333,-122.583333
@@ -81,9 +64,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265568008,Geranium_bicknellii,47.202327,-95.562058
 2265568701,Geranium_bicknellii,47.187017,-93.891698
 1989474964,Geranium_bicknellii,46.80664,-88.70018
-1949624661,Geranium_bicknellii,48.783333,-123.7
 1988797932,Geranium_bicknellii,44.6308,-84.87626
-441755181,Geranium_bicknellii,48.457796,-122.96167
 2265570232,Geranium_bicknellii,45.785868,-93.854943
 2265566994,Geranium_bicknellii,46.395,-93.601944
 1899287887,Geranium_bicknellii,45.316667,-75.925
@@ -104,9 +85,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1054798660,Geranium_bicknellii,52.2,-75.85
 1054798653,Geranium_bicknellii,51.716667,-76.05
 2265429729,Geranium_bicknellii,46.251667,-94.499722
-1988208904,Geranium_bicknellii,49.49,-124.27
 1989349287,Geranium_bicknellii,45.846248,-86.655974
-1949624325,Geranium_bicknellii,49.493333,-124.268333
 883408695,Geranium_bicknellii,40.6431199990674,-109.697498
 1988152481,Geranium_bicknellii,54.8,-127.3
 1988241560,Geranium_bicknellii,57.5,-122.9
@@ -117,9 +96,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804519740,Geranium_bicknellii,48.716667,-92.85
 1303595127,Geranium_bicknellii,49.02,-55.48
 1988634522,Geranium_bicknellii,46.167053,-88.315553
-1303602430,Geranium_bicknellii,8.03,-72.05
 2265568132,Geranium_bicknellii,47.274896,-96.12012
-1949609842,Geranium_bicknellii,48.433333,-123.366667
 1988165802,Geranium_bicknellii,49.25,-123.25
 1804407616,Geranium_bicknellii,44.55,-77.116667
 1988950306,Geranium_bicknellii,41.839175,-84.012557
@@ -188,7 +165,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804511891,Geranium_bicknellii,45,-79.533333
 1988105265,Geranium_bicknellii,56.65,-131.84
 1804583512,Geranium_bicknellii,48.4,-90.8
-1262016471,Geranium_bicknellii,48.139813,-69.252025
 1303595715,Geranium_bicknellii,54.88,-104.27
 1303595479,Geranium_bicknellii,45.08,-77.13
 1303595572,Geranium_bicknellii,48.5,-79.42
@@ -196,7 +172,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265569087,Geranium_bicknellii,46.029205,-94.040821
 1303595684,Geranium_bicknellii,60.1,-124.12
 1146344586,Geranium_bicknellii,58.3,-134.4
-1260288103,Geranium_bicknellii,6.2,-75.48333
 1949619059,Geranium_bicknellii,48.833333,-124.166667
 1899381767,Geranium_bicknellii,44.866667,-79.866667
 1262016154,Geranium_bicknellii,46.716667,-71.266667
@@ -218,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265567666,Geranium_bicknellii,48.474971,-94.940418
 1303595105,Geranium_bicknellii,50.68,-99.92
 1988165003,Geranium_bicknellii,57.93,-129.09
-1949628497,Geranium_bicknellii,49.95,-125
 883409164,Geranium_bicknellii,56.416667,-110.233333
 2265567921,Geranium_bicknellii,47.897568,-90.564383
 1949628492,Geranium_bicknellii,49.633333,-124.05
@@ -337,9 +311,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261972751,Geranium_bicknellii,48.45,-71.066667
 1303594632,Geranium_bicknellii,57.17,-111.63
 1303594620,Geranium_bicknellii,55,-112.72
-668770630,Geranium_bicknellii,47.033333,-70.65
 883409265,Geranium_bicknellii,56.4439,-111.0482
-1303595461,Geranium_bicknellii,45.43,-75.75
 1261972753,Geranium_bicknellii,48.551619,-71.248603
 883409206,Geranium_bicknellii,54.8331,-111.9854
 1248721869,Geranium_bicknellii,48.608056,-79.409444
@@ -360,7 +332,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899381710,Geranium_bicknellii,44.816667,-79.316667
 1988128087,Geranium_bicknellii,45.43,-73.05
 1303595078,Geranium_bicknellii,45.43,-73.18
-1261965390,Geranium_bicknellii,47.003494,-70.806963
 1303595462,Geranium_bicknellii,45.35,-75.93
 1262002716,Geranium_bicknellii,49.919653,-77.301079
 1303595651,Geranium_bicknellii,51.85,-105.03
@@ -652,7 +623,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265571681,Geranium_bicknellii,46.556481,-94.217166
 1303594656,Geranium_bicknellii,56.25,-120.85
 1703289757,Geranium_bicknellii,50.5669045519607,-96.2172019433013
-1303595552,Geranium_bicknellii,48.43,-68.53
 465916816,Geranium_bicknellii,45.93022,-65.168053
 2265573364,Geranium_bicknellii,48.070251,-90.652459
 2265574099,Geranium_bicknellii,46.00706,-94.406698
@@ -706,7 +676,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265568567,Geranium_bicknellii,46.636585,-93.126918
 1988086483,Geranium_bicknellii,48.8,-86.3
 1303595415,Geranium_bicknellii,48.75,-86.25
-1988074466,Geranium_bicknellii,49.17,-123.94
 2265567306,Geranium_bicknellii,49.344014,-95.061202
 1303595378,Geranium_bicknellii,49.03,-88.25
 1303595266,Geranium_bicknellii,46.52,-71.58
@@ -739,7 +708,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303595405,Geranium_bicknellii,48.75,-87.25
 1303601504,Geranium_bicknellii,46.93,-91.77
 1303595556,Geranium_bicknellii,46.97,-69.78
-1303602432,Geranium_bicknellii,10.5,-66.92
 2265567445,Geranium_bicknellii,47.970896,-89.662
 2265571425,Geranium_bicknellii,48.081055,-90.315189
 1303595658,Geranium_bicknellii,45.45,-74.3
@@ -748,11 +716,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988085149,Geranium_bicknellii,45.48,-74.3
 1988165958,Geranium_bicknellii,47.9,-84.8
 465916841,Geranium_bicknellii,47.438509,-70.463264
-1988231344,Geranium_bicknellii,49.23,-65.75
 1303595640,Geranium_bicknellii,47.97,-69.77
 730753285,Geranium_bicknellii,47.43851,-70.46326
 1303595808,Geranium_bicknellii,52.55,-104.05
-1303602421,Geranium_bicknellii,10.15,-66.87
 1988922747,Geranium_bicknellii,47.391577,-88.013163
 1303594523,Geranium_bicknellii,53.58,-116.43
 1303595377,Geranium_bicknellii,47,-84.75
@@ -807,7 +773,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303601502,Geranium_bicknellii,47.55,-93.98
 465916834,Geranium_bicknellii,48.264444,-78.105
 51845074,Geranium_bicknellii,42.3623,-122.0103
-1702284608,Geranium_bicknellii,59.9486,10.7633
 1303601701,Geranium_bicknellii,43.85,-73.78
 441755178,Geranium_bicknellii,46.99667,-120.54667
 441755177,Geranium_bicknellii,48.30944,-120.65528
@@ -839,13 +804,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265567037,Geranium_bicknellii,47.640526,-92.748864
 1988134737,Geranium_bicknellii,49.2999999990676,-124.6
 1303595409,Geranium_bicknellii,45.17,-76.92
-1303602378,Geranium_bicknellii,48.53,-123
 1303602037,Geranium_bicknellii,43.58,-73.25
 1303602261,Geranium_bicknellii,46.53,-87.38
 441755180,Geranium_bicknellii,47.415,-117.45472
 1303595087,Geranium_bicknellii,49.63,-114.7
-1988184815,Geranium_bicknellii,49.8999999990708,-124.8
-1303595148,Geranium_bicknellii,48.85,-123.3
 1303595490,Geranium_bicknellii,45.55,-75.18
 2265572295,Geranium_bicknellii,47.932465,-91.492465
 1303600316,Geranium_bicknellii,41.35,-122.37
@@ -858,7 +820,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988223103,Geranium_bicknellii,50.45,-119.2
 1989116569,Geranium_bicknellii,45.061679,-83.432753
 2265566934,Geranium_bicknellii,47.072761,-92.7313
-1988194245,Geranium_bicknellii,48.6999999990648,-123.4
 2265567679,Geranium_bicknellii,47.23297,-93.527124
 1303601154,Geranium_bicknellii,42.13,-87.75
 1228612866,Geranium_bicknellii,42.135027,-87.758119
@@ -870,7 +831,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303595747,Geranium_bicknellii,59.2,-105.57
 1228477005,Geranium_bicknellii,42.446132,-87.83285
 1303601292,Geranium_bicknellii,45,-67.5
-1303595061,Geranium_bicknellii,48.43,-123.37
 1303601786,Geranium_bicknellii,47.88,-114.12
 473554603,Geranium_bicknellii,45.3952,-75.8441
 1303600095,Geranium_bicknellii,40,-105.27
