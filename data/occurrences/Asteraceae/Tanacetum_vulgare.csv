@@ -64,7 +64,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702251230,Tanacetum_vulgare,62.5924,11.3629
 1990828982,Tanacetum_vulgare,40.477,-74.439
 1324015832,Tanacetum_vulgare,58.441,7.874
-1882106913,Tanacetum_vulgare,49.5,8.4
 1095634917,Tanacetum_vulgare,-25.089722,-50.106389
 1837385331,Tanacetum_vulgare,-27.973333,-48.687778
 1702391317,Tanacetum_vulgare,59.7524,10.2546
@@ -95,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839098228,Tanacetum_vulgare,40.783058,21.25528
 1839098517,Tanacetum_vulgare,40.794441,21.412781
 2239107693,Tanacetum_vulgare,-28.916944,-65.498333
-1060603256,Tanacetum_vulgare,51.4,11.3
 1676108357,Tanacetum_vulgare,50.164967,8.64145
 1928193569,Tanacetum_vulgare,45.02213,-122.01373
 1038236815,Tanacetum_vulgare,49.273609,7.144166
@@ -227,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323859900,Tanacetum_vulgare,69.7205,30.0404
 1323859919,Tanacetum_vulgare,69.681,30.0045
 1702269131,Tanacetum_vulgare,59.6074,10.9182
-786280278,Tanacetum_vulgare,48.8,9.8
 1231185233,Tanacetum_vulgare,48.7575,21.26222
 668751131,Tanacetum_vulgare,46.769339,-71.168092
 1702244929,Tanacetum_vulgare,61.6587,8.0842
@@ -261,9 +258,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 142740034,Tanacetum_vulgare,65.262,-14.409
 606655040,Tanacetum_vulgare,42.29861,-71.12833
 2309900271,Tanacetum_vulgare,63.87,-138.12
-2305491411,Tanacetum_vulgare,45.19,-81.6
 1323856826,Tanacetum_vulgare,69.4491,30.0585
-1060603245,Tanacetum_vulgare,53.2,11.5
 1343038560,Tanacetum_vulgare,57.487606,10.191312
 214573430,Tanacetum_vulgare,52.62833,13.373055
 1697693053,Tanacetum_vulgare,56.397222,38.866667
@@ -273,7 +268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441942293,Tanacetum_vulgare,51.397659,14.786403
 1270043622,Tanacetum_vulgare,51.057564,10.48634
 441942295,Tanacetum_vulgare,51.239033,12.733093
-1851580752,Tanacetum_vulgare,37.7,15.01
 900307692,Tanacetum_vulgare,64.218,11.2096
 1949645935,Tanacetum_vulgare,48.1475,-123.881667
 187264798,Tanacetum_vulgare,63.5257,10.8911
@@ -333,7 +327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144047786,Tanacetum_vulgare,61.2444,7.7097
 1323855788,Tanacetum_vulgare,70.0484,20.4781
 1323855312,Tanacetum_vulgare,70.6331,29.6965
-1949955686,Tanacetum_vulgare,43.6,22.694444
 1503366900,Tanacetum_vulgare,52.377778,13.163194
 1701840802,Tanacetum_vulgare,59.0978,5.7064
 994559018,Tanacetum_vulgare,49.96846,19.96638
@@ -352,7 +345,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441942272,Tanacetum_vulgare,51.146999,14.975991
 932707104,Tanacetum_vulgare,42.10807,-8.86836
 1949641697,Tanacetum_vulgare,55.753056,-120.234167
-1096211298,Tanacetum_vulgare,59,17
 900308442,Tanacetum_vulgare,58.6963,7.4703
 186841079,Tanacetum_vulgare,59.3917,10.6728
 1829696218,Tanacetum_vulgare,35.94894,138.92316
@@ -373,7 +365,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186840785,Tanacetum_vulgare,60.0267,5.4351
 1503366916,Tanacetum_vulgare,52.470833,13.223611
 186840787,Tanacetum_vulgare,59.1166,7.5113
-786280194,Tanacetum_vulgare,49.5,8.5
 441851089,Tanacetum_vulgare,48.345833,-121.549444
 1323855634,Tanacetum_vulgare,70.0565,22.3621
 1265933468,Tanacetum_vulgare,49.078333,12.154722
@@ -382,7 +373,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323855757,Tanacetum_vulgare,69.9385,23.06
 441942217,Tanacetum_vulgare,51.110194,14.968889
 441942264,Tanacetum_vulgare,52.123055,11.636666
-1988146481,Tanacetum_vulgare,49.14,-122.8
 1702228240,Tanacetum_vulgare,60.3655,11.3843
 900314343,Tanacetum_vulgare,58.7874,7.3521
 441942265,Tanacetum_vulgare,50.865471,10.567329
@@ -419,7 +409,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415944400,Tanacetum_vulgare,40.724,-74.398
 1701418438,Tanacetum_vulgare,59.3632,11.32
 1988103664,Tanacetum_vulgare,49.27,-122.95
-1936640684,Tanacetum_vulgare,67.6,33.65
 388872179,Tanacetum_vulgare,35.458263,139.575959
 1323847140,Tanacetum_vulgare,66.8592,13.7264
 900312838,Tanacetum_vulgare,58.8024,9.1099
@@ -445,7 +434,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186840678,Tanacetum_vulgare,58.6075,8.8701
 1851328134,Tanacetum_vulgare,42.6121,-5.539
 900311574,Tanacetum_vulgare,58.6042,8.8206
-1146346483,Tanacetum_vulgare,61.5,-142.98
 900311425,Tanacetum_vulgare,58.895,7.7358
 1658228653,Tanacetum_vulgare,60.5722,-134.667
 51971486,Tanacetum_vulgare,45.6327,-122.7617
@@ -546,7 +534,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897742518,Tanacetum_vulgare,-43.533333,172.633333
 1091229680,Tanacetum_vulgare,-43.533333,172.616666
 668751102,Tanacetum_vulgare,46.855,-71.124722
-1585885776,Tanacetum_vulgare,40.816667,21.1
 395806788,Tanacetum_vulgare,35.132222,133.674444
 1849131882,Tanacetum_vulgare,38.145278,-82.567222
 2265446660,Tanacetum_vulgare,48.057476,-90.04601
@@ -560,7 +547,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388872158,Tanacetum_vulgare,35.349103,139.22807
 1701828633,Tanacetum_vulgare,59.5245,11.1344
 1323720582,Tanacetum_vulgare,69.6503,30.1261
-186840408,Tanacetum_vulgare,58.5,8.5822
 1323829051,Tanacetum_vulgare,69.4701,25.5052
 2242400942,Tanacetum_vulgare,39.833824,-105.432343
 1343037443,Tanacetum_vulgare,56.036318,9.61659
@@ -586,15 +572,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186840350,Tanacetum_vulgare,58.807,8.1752
 1323808289,Tanacetum_vulgare,68.8611,19.6209
 2265411177,Tanacetum_vulgare,47.230507,-95.626261
-786280098,Tanacetum_vulgare,53.6,11.4
 1851373243,Tanacetum_vulgare,42.944,-5.016
 1820375051,Tanacetum_vulgare,46.15017,-60.35765
 1228358561,Tanacetum_vulgare,41.697092,-88.066879
 1053986496,Tanacetum_vulgare,42.92,-1.37
 788470808,Tanacetum_vulgare,56.18601,15.31163
 1501062651,Tanacetum_vulgare,39.43,-0.38
-318124295,Tanacetum_vulgare,38.77,-0.8
-1146277461,Tanacetum_vulgare,58.3,-134.4
 1258296547,Tanacetum_vulgare,43.18583,77.14166
 1705356935,Tanacetum_vulgare,57.661092,14.98765
 1989115932,Tanacetum_vulgare,46.08738,-88.10572
@@ -631,13 +614,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995990719,Tanacetum_vulgare,-35.1767,149.069
 2288002404,Tanacetum_vulgare,-35.166667,149.066667
 1451632091,Tanacetum_vulgare,-35.175109,149.070371
-992557886,Tanacetum_vulgare,-32.166667,136.2
 415911337,Tanacetum_vulgare,42.06666,-72.21666
 1146398652,Tanacetum_vulgare,62.83,172.61
 415911335,Tanacetum_vulgare,42.93916,-70.83472
 1228472184,Tanacetum_vulgare,41.95,-88.4333
 858387093,Tanacetum_vulgare,54.0484,13.2483
-415911336,Tanacetum_vulgare,42.2,-71.01666
 177044197,Tanacetum_vulgare,46.535,-89.928
 1144172200,Tanacetum_vulgare,62.7452,7.1894
 186841294,Tanacetum_vulgare,58.2517,7.9565
@@ -669,22 +650,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 22236444,Tanacetum_vulgare,48.5316,2.75126
 1851349823,Tanacetum_vulgare,42.331,-6.53
 318124269,Tanacetum_vulgare,40.51,-3.89
-1144786596,Tanacetum_vulgare,41.96667,9.2
 1936521196,Tanacetum_vulgare,42.6159,-7.1725
 1705419585,Tanacetum_vulgare,57.850182,14.114138
-895242941,Tanacetum_vulgare,40.3,0.12
 1598729781,Tanacetum_vulgare,60.031869,23.99967
 2265410523,Tanacetum_vulgare,48.100401,-95.603741
 1500200142,Tanacetum_vulgare,50.366667,12.916667
 2265427536,Tanacetum_vulgare,47.502874,-92.49693
-1697301339,Tanacetum_vulgare,54.25,77.5
 2265412322,Tanacetum_vulgare,47.332254,-93.956198
 465763041,Tanacetum_vulgare,45.09271,-64.36132
 1598729755,Tanacetum_vulgare,60.903479,25.241665
 1062039,Tanacetum_vulgare,58.05575,14.99135
 788578697,Tanacetum_vulgare,55.66573,13.09318
 1500200266,Tanacetum_vulgare,49.333333,13.75
-1146362860,Tanacetum_vulgare,57.78,-152.4
 22151284,Tanacetum_vulgare,46.8094,4.42361
 441942227,Tanacetum_vulgare,51.619595,13.031707
 441942246,Tanacetum_vulgare,52.403332,13.045555
@@ -696,18 +673,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228605875,Tanacetum_vulgare,41.590542,-88.428834
 2265412386,Tanacetum_vulgare,46.438749,-93.632389
 1697693065,Tanacetum_vulgare,54.937677,41.381034
-441942225,Tanacetum_vulgare,48.5,11.5
 1332808790,Tanacetum_vulgare,50.736049,9.875525
 1988934877,Tanacetum_vulgare,44.66309,-83.2912
 1598729758,Tanacetum_vulgare,60.211271,24.65641
 1122936458,Tanacetum_vulgare,49.943611,11.579166
 1988892728,Tanacetum_vulgare,44.682076,-83.416286
-473253061,Tanacetum_vulgare,46,-72.75
 992594642,Tanacetum_vulgare,-34.966667,138.833333
 1705442208,Tanacetum_vulgare,56.539143,14.143947
 1697693022,Tanacetum_vulgare,54.731414,41.011244
 1851391355,Tanacetum_vulgare,42.92,-5.51
-1988723434,Tanacetum_vulgare,46,-83.66667
 187264869,Tanacetum_vulgare,62.6988,11.8829
 1705358764,Tanacetum_vulgare,57.21749,13.967876
 1697301282,Tanacetum_vulgare,62.43655,90.06266
@@ -721,14 +695,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500698946,Tanacetum_vulgare,40.57,-0.11
 1598729745,Tanacetum_vulgare,60.96911,24.401217
 2028086484,Tanacetum_vulgare,49.76333299907,-99.676944
-1146303893,Tanacetum_vulgare,61.51,-149
 895220518,Tanacetum_vulgare,40.02,-0.697
-1897776745,Tanacetum_vulgare,-37.733333,175.3
 1897776926,Tanacetum_vulgare,-37.583333,175.25
 1701340624,Tanacetum_vulgare,63.9257,9.9349
 2265411677,Tanacetum_vulgare,45.02843,-92.974598
 415911339,Tanacetum_vulgare,42.28333,-72.34333
-1050617287,Tanacetum_vulgare,42.6,-2.36
 1598729749,Tanacetum_vulgare,60.448948,22.537122
 1804569969,Tanacetum_vulgare,45.55,-73.166667
 1804390554,Tanacetum_vulgare,46.970833,-65.851389
@@ -757,7 +728,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705319829,Tanacetum_vulgare,57.426451,15.089443
 1598729687,Tanacetum_vulgare,60.422858,22.509795
 1851332117,Tanacetum_vulgare,42.83,-5.63
-1502001494,Tanacetum_vulgare,39.5,-0.38
 1598729784,Tanacetum_vulgare,61.76835,26.210714
 1703298784,Tanacetum_vulgare,49.177611,-98.148111
 1598729717,Tanacetum_vulgare,69.010306,28.558656
@@ -765,7 +735,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598729925,Tanacetum_vulgare,60.242863,24.017533
 1262035747,Tanacetum_vulgare,46.713889,-71.247222
 1705747398,Tanacetum_vulgare,53.1383,23.1432
-1053981043,Tanacetum_vulgare,42.31,-1.8
 57727069,Tanacetum_vulgare,63.765598,28.719299
 2319423809,Tanacetum_vulgare,60.769829,10.900993
 1050617252,Tanacetum_vulgare,42.67,-2.44
@@ -773,12 +742,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265413752,Tanacetum_vulgare,43.8675,-92.84861
 1050617279,Tanacetum_vulgare,42.59,-2.57
 1598729932,Tanacetum_vulgare,60.545354,27.270362
-991912104,Tanacetum_vulgare,48.2,11.5
-993322001,Tanacetum_vulgare,-33.55,150.2
-992483779,Tanacetum_vulgare,-33.5,150.2
 1451631946,Tanacetum_vulgare,-33.548434,150.201167
 57727074,Tanacetum_vulgare,62.584999,26.228001
-1697301281,Tanacetum_vulgare,51,85.833333
 1598729973,Tanacetum_vulgare,60.547852,22.164899
 1262015356,Tanacetum_vulgare,45.816419,-73.421643
 1144128591,Tanacetum_vulgare,61.9366,7.2252
@@ -790,14 +755,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697748182,Tanacetum_vulgare,44.903794,35.129428
 1929272042,Tanacetum_vulgare,44.5689,-104.4834
 1986934364,Tanacetum_vulgare,43.89908,-110.586733
-473445664,Tanacetum_vulgare,45.5,-73.6
 187264864,Tanacetum_vulgare,64.0441,10.0761
 415911338,Tanacetum_vulgare,43.84138,-74.64277
 2028546407,Tanacetum_vulgare,50.27,-3.64
 1989092206,Tanacetum_vulgare,45.100107,-83.318509
 1701960829,Tanacetum_vulgare,68.3444,16.7606
-1804538300,Tanacetum_vulgare,49.833333,-91.1
-1804488000,Tanacetum_vulgare,45.7,-76.916667
 1262017942,Tanacetum_vulgare,48.405662,-71.060546
 1451631974,Tanacetum_vulgare,-33.348435,149.967834
 995990769,Tanacetum_vulgare,-33.35,149.97
@@ -812,20 +774,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606660168,Tanacetum_vulgare,41.83138,-71.85083
 296552078,Tanacetum_vulgare,48.217,11.772
 441942240,Tanacetum_vulgare,51.688915,12.743591
-994573695,Tanacetum_vulgare,-42,147
-994859109,Tanacetum_vulgare,-42.3833,147
-1897737457,Tanacetum_vulgare,-39.416667,174.3
 1936548157,Tanacetum_vulgare,42.8954,-4.1036
 1702240997,Tanacetum_vulgare,59.6861,10.7787
 1702245830,Tanacetum_vulgare,59.02266,9.53738
 1846503189,Tanacetum_vulgare,39.331667,-106.985
-1851392202,Tanacetum_vulgare,43,-6.24
 606659097,Tanacetum_vulgare,42.07027,-73.93027
 1701771782,Tanacetum_vulgare,63.3523,10.1091
 1986996996,Tanacetum_vulgare,47.148842,-88.54417
 1842892889,Tanacetum_vulgare,42.66,0.86
-1804495941,Tanacetum_vulgare,43.733333,-79.8
-1804431593,Tanacetum_vulgare,42.366667,-82.4
 1323810007,Tanacetum_vulgare,70.028,20.9738
 1697301289,Tanacetum_vulgare,52.078979,92.941418
 1701987203,Tanacetum_vulgare,59.2745,11.0091
@@ -834,11 +790,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144128606,Tanacetum_vulgare,61.5232,6.6405
 2265411821,Tanacetum_vulgare,46.983894,-95.497699
 2265412326,Tanacetum_vulgare,46.984076,-95.476561
-51971362,Tanacetum_vulgare,44.6,-123.2411
 1929598544,Tanacetum_vulgare,40.7999,-115.3636
 441942249,Tanacetum_vulgare,51.614944,12.812953
 1829420323,Tanacetum_vulgare,42.874722,143.158611
-1261282886,Tanacetum_vulgare,-54.8,-68.33333
 1262033664,Tanacetum_vulgare,46.815278,-71.240833
 1697748096,Tanacetum_vulgare,44.86974,35.005875
 1585885741,Tanacetum_vulgare,40.916667,24.15
@@ -853,12 +807,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099913278,Tanacetum_vulgare,63.557778,27.191667
 1262033662,Tanacetum_vulgare,46.786258,-71.279274
 1999481113,Tanacetum_vulgare,69.66282,27.059979
-1697301316,Tanacetum_vulgare,50.5,95.333333
 2265411170,Tanacetum_vulgare,48.562672,-94.637102
 1990125726,Tanacetum_vulgare,55.203299,-119.060052
-1988116195,Tanacetum_vulgare,66,25.4
 1988199283,Tanacetum_vulgare,50.63,-100.14
-1988212873,Tanacetum_vulgare,49.1,-122
 51971436,Tanacetum_vulgare,43.475,-123.5431
 1703287536,Tanacetum_vulgare,49.7168890222991,-99.0832877645204
 1702422238,Tanacetum_vulgare,59.8064,10.2388
@@ -872,7 +823,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 21520750,Tanacetum_vulgare,58.8901,6.1133
 1657208617,Tanacetum_vulgare,46.63833,14.94944
 1455446905,Tanacetum_vulgare,50.513718,4.573357
-991912110,Tanacetum_vulgare,48.2,11.6
 2265410400,Tanacetum_vulgare,47.231866,-93.522768
 1703302666,Tanacetum_vulgare,49.694,-100.258028
 1999481219,Tanacetum_vulgare,68.675998,27.500699
@@ -887,7 +837,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999481135,Tanacetum_vulgare,60.448181,22.143242
 788684470,Tanacetum_vulgare,55.761785,13.071513
 2265411882,Tanacetum_vulgare,46.187068,-94.506235
-441942191,Tanacetum_vulgare,49.75,15
 1099098999,Tanacetum_vulgare,48.882778,12.748611
 1999592791,Tanacetum_vulgare,60.449243,22.297779
 668751104,Tanacetum_vulgare,45.383333,-73.75
@@ -899,9 +848,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804500752,Tanacetum_vulgare,41.9494439990619,-82.513889
 1701504703,Tanacetum_vulgare,69.2331,18.0208
 51970961,Tanacetum_vulgare,44.3472,-123.2719
-1804438341,Tanacetum_vulgare,48.6,-83.35
 1702439180,Tanacetum_vulgare,62.9208,10.0307
-1804537694,Tanacetum_vulgare,50.1,-83.216667
 1702021226,Tanacetum_vulgare,60.6952,11.9665
 1697845288,Tanacetum_vulgare,42.803614,44.073887
 1701796543,Tanacetum_vulgare,59.3224,11.1358
@@ -916,13 +863,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248701286,Tanacetum_vulgare,52.033333,-113.95
 1598729768,Tanacetum_vulgare,62.407978,24.781527
 1701782987,Tanacetum_vulgare,58.1957,7.5966
-1988146214,Tanacetum_vulgare,49.1,-123.1
 1697693041,Tanacetum_vulgare,54.458477,40.280511
 1598729715,Tanacetum_vulgare,62.472541,24.893097
 1947666808,Tanacetum_vulgare,50.18,10.26
 1988204969,Tanacetum_vulgare,52.53,-121.92
 1703292641,Tanacetum_vulgare,50.8858858178038,-100.85435933069
-894983111,Tanacetum_vulgare,54.766667,-115
 1831346030,Tanacetum_vulgare,53.3485,11.4153
 788598549,Tanacetum_vulgare,55.528254,12.994268
 993504167,Tanacetum_vulgare,52.8167,62.1167
@@ -946,7 +891,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186840547,Tanacetum_vulgare,58.2621,7.969
 1705747446,Tanacetum_vulgare,54.5194,18.5396
 996203928,Tanacetum_vulgare,-33.72,150.33
-1897734604,Tanacetum_vulgare,-46.35,168
 1697692982,Tanacetum_vulgare,52.574816,33.773345
 415911331,Tanacetum_vulgare,41.82722,-73.25222
 187264838,Tanacetum_vulgare,62.9929,8.704
@@ -954,7 +898,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697693045,Tanacetum_vulgare,55.834017,39.76636
 1986495036,Tanacetum_vulgare,63.40577,10.35582
 1598729857,Tanacetum_vulgare,61.240209,24.482492
-1988182356,Tanacetum_vulgare,54.3,-130.3
 1257768911,Tanacetum_vulgare,43.651178,-110.709005
 1989016177,Tanacetum_vulgare,46.518755,-86.46333
 1999584028,Tanacetum_vulgare,68.765783,27.453254
@@ -962,7 +905,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995990643,Tanacetum_vulgare,-36.67,149.85
 57727174,Tanacetum_vulgare,62.472076,24.89216
 1697692992,Tanacetum_vulgare,54.4869,35.922675
-1851346823,Tanacetum_vulgare,42.74,-5.5
 788721937,Tanacetum_vulgare,57.66267,11.92059
 1705364810,Tanacetum_vulgare,56.726368,12.664511
 1265835298,Tanacetum_vulgare,43.654835,-110.734401
@@ -971,18 +913,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313352543,Tanacetum_vulgare,48.22,11.46
 2270218033,Tanacetum_vulgare,34.4292999991197,-119.706
 995864027,Tanacetum_vulgare,-28.67,151.92
-995990692,Tanacetum_vulgare,-34.65,150.3
 1451632064,Tanacetum_vulgare,-34.648431,150.30118
 1451485706,Tanacetum_vulgare,-33.415105,149.567841
 995641150,Tanacetum_vulgare,-33.42,149.57
 1323810233,Tanacetum_vulgare,68.49,16.9407
 1598729818,Tanacetum_vulgare,60.543131,27.816975
-1248701221,Tanacetum_vulgare,46.8,-71.216667
 1261979169,Tanacetum_vulgare,48.433333,-71.066667
 1697301197,Tanacetum_vulgare,51.984034,107.686615
 2265411465,Tanacetum_vulgare,47.185732,-93.5758
 1260853445,Tanacetum_vulgare,50.64472,3.28305
-1099098979,Tanacetum_vulgare,48.549999,10.5
 993827615,Tanacetum_vulgare,-35.1667,149.0667
 924821575,Tanacetum_vulgare,37.51194,-98.82389
 1099089152,Tanacetum_vulgare,48.462776,10.305
@@ -998,7 +937,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186841240,Tanacetum_vulgare,58.3047,6.6706
 1701901599,Tanacetum_vulgare,59.06662,11.43855
 186840549,Tanacetum_vulgare,58.2622,7.986
-1899382795,Tanacetum_vulgare,44.816667,-79.3
 1651992917,Tanacetum_vulgare,-28.090203,153.392457
 1937304663,Tanacetum_vulgare,-30.433333,151.583333
 57727150,Tanacetum_vulgare,62.966702,27.686501
@@ -1014,7 +952,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57727144,Tanacetum_vulgare,63.053902,25.9091
 1999584072,Tanacetum_vulgare,62.336292,25.935448
 1999481150,Tanacetum_vulgare,60.460728,22.241497
-1060603257,Tanacetum_vulgare,50.7,7.1
 924821574,Tanacetum_vulgare,46.70732,-92.42472
 1999584025,Tanacetum_vulgare,69.860034,27.008514
 216103544,Tanacetum_vulgare,62.6054,25.9256
@@ -1024,7 +961,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234577983,Tanacetum_vulgare,36.352387,-81.657987
 1598729862,Tanacetum_vulgare,61.326265,24.288746
 1988200043,Tanacetum_vulgare,49.02,-122.13
-1988169130,Tanacetum_vulgare,49.5,-117.29
 995990619,Tanacetum_vulgare,-34.55,150.52
 1451631978,Tanacetum_vulgare,-34.548429,150.517841
 1451631951,Tanacetum_vulgare,-33.6151,150.267834
@@ -1076,7 +1012,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996001320,Tanacetum_vulgare,-36.12,148.62
 995990631,Tanacetum_vulgare,-33.37,149.12
 1451631991,Tanacetum_vulgare,-33.365107,149.117847
-995568839,Tanacetum_vulgare,-34.22,151
 1451453008,Tanacetum_vulgare,-34.215091,151.001163
 1697693025,Tanacetum_vulgare,54.763252,40.629759
 1999584006,Tanacetum_vulgare,60.680768,21.988966
@@ -1111,7 +1046,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999584001,Tanacetum_vulgare,62.246017,27.217979
 1999584059,Tanacetum_vulgare,68.913554,25.663688
 1999584095,Tanacetum_vulgare,60.248797,22.751601
-473538408,Tanacetum_vulgare,45.35,-66.1
 57727115,Tanacetum_vulgare,61.794807,29.305145
 186840544,Tanacetum_vulgare,58.2634,7.9689
 1598729902,Tanacetum_vulgare,62.224071,21.319938
@@ -1119,9 +1053,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144128638,Tanacetum_vulgare,60.13253,9.49842
 1999583958,Tanacetum_vulgare,60.377059,23.125132
 1598729964,Tanacetum_vulgare,62.07037,27.475102
-473538410,Tanacetum_vulgare,48,-66.666667
 883415694,Tanacetum_vulgare,60.016667,-111.866667
-1988158755,Tanacetum_vulgare,49.3,-123.2
 1451637024,Tanacetum_vulgare,-34.548428,150.717838
 1986997428,Tanacetum_vulgare,38.016875,-119.149549
 996001306,Tanacetum_vulgare,-34.55,150.72
@@ -1133,7 +1065,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473538386,Tanacetum_vulgare,46.183333,-67.65
 1323808291,Tanacetum_vulgare,70.0589,22.34
 1598729866,Tanacetum_vulgare,61.057343,24.31177
-1804439134,Tanacetum_vulgare,47.7,-85.8
 1999583962,Tanacetum_vulgare,60.275961,22.485639
 1598729705,Tanacetum_vulgare,66.367802,25.320209
 1598729794,Tanacetum_vulgare,62.689401,25.336862
@@ -1144,7 +1075,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999583981,Tanacetum_vulgare,60.745494,22.68611
 1598729683,Tanacetum_vulgare,66.818339,28.475518
 1598729712,Tanacetum_vulgare,62.426001,25.932261
-883416203,Tanacetum_vulgare,53.55,-113.5
 1598729700,Tanacetum_vulgare,66.903058,28.937458
 1598729685,Tanacetum_vulgare,61.178573,24.310617
 1598729663,Tanacetum_vulgare,66.555181,26.433455
@@ -1163,7 +1093,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598729668,Tanacetum_vulgare,62.299333,23.622802
 1598729894,Tanacetum_vulgare,62.214292,23.824691
 216103442,Tanacetum_vulgare,61.077,28.3864
-1988102272,Tanacetum_vulgare,49.3,-115.84
 2313350792,Tanacetum_vulgare,48.21,11.53
 1598729707,Tanacetum_vulgare,61.613774,21.810257
 1598729914,Tanacetum_vulgare,62.388902,23.612715
@@ -1213,7 +1142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144128609,Tanacetum_vulgare,60.2521,5.2678
 2265412658,Tanacetum_vulgare,47.489237,-92.464791
 1701335467,Tanacetum_vulgare,63.7334,9.6987
-786280260,Tanacetum_vulgare,50.5,7
 2265410796,Tanacetum_vulgare,46.814831,-92.100333
 924821546,Tanacetum_vulgare,50.07675,8.70031
 1986996856,Tanacetum_vulgare,40.866339,-73.805927
@@ -1234,7 +1162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598729686,Tanacetum_vulgare,60.478337,26.951456
 788705105,Tanacetum_vulgare,58.683779,13.812689
 1099098981,Tanacetum_vulgare,48.449444,10.429722
-995990713,Tanacetum_vulgare,-30.62,151.5
 1451632080,Tanacetum_vulgare,-30.615085,151.50111
 1598729874,Tanacetum_vulgare,61.615189,25.5833
 1799056074,Tanacetum_vulgare,53.041342,70.185342
@@ -1274,7 +1201,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788731430,Tanacetum_vulgare,57.34137,12.10633
 57727093,Tanacetum_vulgare,64.297897,24.827101
 1671688342,Tanacetum_vulgare,69.27793,19.16723
-1261959846,Tanacetum_vulgare,48.2,-65.2
 1705468784,Tanacetum_vulgare,56.699587,13.852533
 1701269881,Tanacetum_vulgare,63.7063,9.7385
 57727157,Tanacetum_vulgare,63.9207,23.8367
@@ -1463,7 +1389,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705350705,Tanacetum_vulgare,57.102925,15.046197
 39763183,Tanacetum_vulgare,65.679,-18.104
 992475952,Tanacetum_vulgare,-35.1062,138.8055
-1077184730,Tanacetum_vulgare,-22.9,-47.05
 1598729747,Tanacetum_vulgare,62.238565,25.169345
 1323809950,Tanacetum_vulgare,68.71773,17.73805
 1705464890,Tanacetum_vulgare,67.676142,21.645368
@@ -1473,15 +1398,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1275060458,Tanacetum_vulgare,49.216667,-123.133333
 900225291,Tanacetum_vulgare,59.3417,5.7908
 1697301326,Tanacetum_vulgare,67.45109,86.61131
-1988116210,Tanacetum_vulgare,49.23,-123.1
 1831345450,Tanacetum_vulgare,53.4485,11.7486
 788727315,Tanacetum_vulgare,56.81261,13.05008
 812032476,Tanacetum_vulgare,50.577183,9.19175
-786280110,Tanacetum_vulgare,49.1,8.5
 1657209194,Tanacetum_vulgare,47.04417,15.37639
-786280114,Tanacetum_vulgare,49,8.3
 994451958,Tanacetum_vulgare,-41.45,147.15
-995388664,Tanacetum_vulgare,-37.8167,145.1
 788728901,Tanacetum_vulgare,55.924459,13.10503
 1705445541,Tanacetum_vulgare,57.790879,13.412773
 1705298068,Tanacetum_vulgare,59.367354,16.516179
@@ -1496,7 +1417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702434642,Tanacetum_vulgare,62.4721,6.1583
 1705326303,Tanacetum_vulgare,56.756642,14.578162
 1062348,Tanacetum_vulgare,57.6672,14.971461
-786280119,Tanacetum_vulgare,49,8.4
 1999583919,Tanacetum_vulgare,60.382205,22.570792
 1598729661,Tanacetum_vulgare,62.603786,25.731147
 57727129,Tanacetum_vulgare,63.409096,25.495338
@@ -1581,7 +1501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788733496,Tanacetum_vulgare,56.673345,12.856235
 2265413539,Tanacetum_vulgare,46.72161,-92.469915
 1705261570,Tanacetum_vulgare,57.080683,16.178257
-1988186182,Tanacetum_vulgare,50.3,-121.95
 1261948545,Tanacetum_vulgare,48.316667,-67.366667
 788728435,Tanacetum_vulgare,60.53512,15.20728
 1697692993,Tanacetum_vulgare,65.925481,57.984509
@@ -1616,7 +1535,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51971568,Tanacetum_vulgare,45.5003,-118.5003
 1701333923,Tanacetum_vulgare,63.5208,9.995
 1144128705,Tanacetum_vulgare,61.23189,6.76174
-1090532470,Tanacetum_vulgare,43,-78.1833
 1701300714,Tanacetum_vulgare,62.6759,10.1423
 2313351926,Tanacetum_vulgare,48.17,11.62
 1988156605,Tanacetum_vulgare,49.11,-122.73
@@ -1660,7 +1578,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441850865,Tanacetum_vulgare,47.46361,-123.11306
 177286514,Tanacetum_vulgare,66.506401,25.760099
 51971155,Tanacetum_vulgare,42.3418,-120.345
-1893207382,Tanacetum_vulgare,49.5,6.02
 1705429765,Tanacetum_vulgare,56.318393,12.816158
 57727135,Tanacetum_vulgare,61.074902,25.422001
 465925742,Tanacetum_vulgare,45.479211,-74.30225
@@ -1673,7 +1590,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705430054,Tanacetum_vulgare,55.688171,13.079325
 1705283994,Tanacetum_vulgare,64.234569,19.720281
 1986997271,Tanacetum_vulgare,42.929737,-112.490554
-1988166246,Tanacetum_vulgare,50.3,-119.3
 1340032720,Tanacetum_vulgare,59.381584,13.505989
 465763013,Tanacetum_vulgare,44.046,-66.09798
 2265410651,Tanacetum_vulgare,47.231973,-95.201528
@@ -1720,7 +1636,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788658265,Tanacetum_vulgare,55.56513,13.2073
 1697693121,Tanacetum_vulgare,56.722583,38.782606
 1989142048,Tanacetum_vulgare,48.08555,-88.70813
-1988150538,Tanacetum_vulgare,44.7,-63.6
 788702903,Tanacetum_vulgare,57.827139,13.145541
 441850289,Tanacetum_vulgare,46.73139,-117.17861
 995990781,Tanacetum_vulgare,-34.92,149.67
@@ -1906,7 +1821,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705272095,Tanacetum_vulgare,60.672789,17.137797
 465763053,Tanacetum_vulgare,45.11598,-64.39111
 995388649,Tanacetum_vulgare,-42.8167,147.2667
-1988147990,Tanacetum_vulgare,49.2999999990676,-123.1
 1598729843,Tanacetum_vulgare,62.247962,27.862732
 57727118,Tanacetum_vulgare,62.68943,25.336714
 1705272460,Tanacetum_vulgare,58.801827,15.555023
@@ -1930,7 +1844,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992309351,Tanacetum_vulgare,-34.97,138.67
 1697301254,Tanacetum_vulgare,52.931672,158.19025
 788455219,Tanacetum_vulgare,57.101709,13.682074
-786280104,Tanacetum_vulgare,48.4,18.4
 1702396179,Tanacetum_vulgare,59.80475,10.64444
 57727126,Tanacetum_vulgare,62.609531,26.899296
 1273864223,Tanacetum_vulgare,58.58069,13.34252
@@ -1980,7 +1893,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788666100,Tanacetum_vulgare,59.31916,15.401609
 415911328,Tanacetum_vulgare,41.09666,-73.55277
 1988084375,Tanacetum_vulgare,44.97,-76.98
-1228478379,Tanacetum_vulgare,40,-86
 1697301211,Tanacetum_vulgare,64.68483,170.420991
 788702490,Tanacetum_vulgare,59.419036,17.131056
 1701270172,Tanacetum_vulgare,64.0183,11.5271
