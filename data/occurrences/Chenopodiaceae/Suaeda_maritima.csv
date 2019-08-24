@@ -14,7 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702378702,Suaeda_maritima,63.7017,10.995
 2287444644,Suaeda_maritima,52.894933,4.854867
 1702171451,Suaeda_maritima,62.7794,7.513
-1060602286,Suaeda_maritima,52.9,11.1
 2289499920,Suaeda_maritima,51.307,3.801
 1702171007,Suaeda_maritima,59.2885,10.7459
 1702386591,Suaeda_maritima,59.472,10.6259
@@ -91,10 +90,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343029200,Suaeda_maritima,55.695767,11.998074
 1099873794,Suaeda_maritima,55.9879,14.42007
 1701963125,Suaeda_maritima,63.9391,9.7681
-1434671498,Suaeda_maritima,55.5,8.283333
 1831336988,Suaeda_maritima,53.9484,11.4153
 1288124465,Suaeda_maritima,50.8446,9.93703
-729283689,Suaeda_maritima,34.866699,135.2
 1343028831,Suaeda_maritima,55.102226,8.473709
 1702235152,Suaeda_maritima,59.0751,10.8608
 1701305403,Suaeda_maritima,63.7608,11.3406
@@ -108,7 +105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729313129,Suaeda_maritima,34.766701,134.567
 1829870919,Suaeda_maritima,34.645857,137.145865
 21519727,Suaeda_maritima,59.57248,10.5063
-1050582447,Suaeda_maritima,43.4,-3.45
 1340029334,Suaeda_maritima,38.133333,21.383333
 1050582429,Suaeda_maritima,43.25,-1.87
 1050582397,Suaeda_maritima,43.39,-3.31
@@ -116,7 +112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318124941,Suaeda_maritima,38.88,-0.07
 2289483457,Suaeda_maritima,51.916667,4.05
 1050616989,Suaeda_maritima,43.36,-2.68
-1050616990,Suaeda_maritima,43.42,-3.5
 1050617010,Suaeda_maritima,43.38,-2.68
 1701180096,Suaeda_maritima,42.411119,11.145667
 1701929181,Suaeda_maritima,59.3065,10.7554
@@ -127,10 +122,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701414862,Suaeda_maritima,65.3211,12.1125
 1248692075,Suaeda_maritima,51.884444,-78.843889
 860322097,Suaeda_maritima,39.547,-3.308
-1262024359,Suaeda_maritima,51.8,-78.9
 860321683,Suaeda_maritima,38.798,-1.417
 1419232486,Suaeda_maritima,19.4825,-98.927222
-1050625703,Suaeda_maritima,43.4,-3.31
 1883574524,Suaeda_maritima,6.733334,15.083333
 1849007156,Suaeda_maritima,36.73333,15.08333
 1883574567,Suaeda_maritima,36.783333,15.083333
@@ -145,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993919150,Suaeda_maritima,-35.7333,150.25
 1701228771,Suaeda_maritima,63.92,9.7645
 187264048,Suaeda_maritima,64.1787,10.0185
-1988076588,Suaeda_maritima,49.1,-122.9
 1936582591,Suaeda_maritima,43.3429,-4.3584
 1936384156,Suaeda_maritima,42.5404,-8.8675
 1936548268,Suaeda_maritima,43.4221,-3.4461
@@ -184,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994885118,Suaeda_maritima,-34.1833,142.1667
 1701292354,Suaeda_maritima,62.4584,8.5251
 187263919,Suaeda_maritima,62.7034,6.3513
-1820372641,Suaeda_maritima,45.716667,-60.3
 415952485,Suaeda_maritima,41.5875,-70.64111
 187263915,Suaeda_maritima,63.043,7.4479
 606660110,Suaeda_maritima,45.86666,-64.58333
@@ -202,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050617063,Suaeda_maritima,43.35,-2.67
 204437878,Suaeda_maritima,43.366001,-2.685
 1936426610,Suaeda_maritima,43.3509,-3.1371
-1053981670,Suaeda_maritima,42.38,-1.7
 1701660406,Suaeda_maritima,59.3209,10.7491
 1804518954,Suaeda_maritima,46.05,-62.95
 1804456645,Suaeda_maritima,46.15,-62.466667
@@ -220,12 +210,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705464752,Suaeda_maritima,57.389418,12.121303
 1844418040,Suaeda_maritima,42.886399,-70.860155
 995775074,Suaeda_maritima,-34.05,141.33
-1061532673,Suaeda_maritima,-34.0833,141.4
-994819761,Suaeda_maritima,-35.75,144.2
 788598427,Suaeda_maritima,55.45054,12.95202
 465925611,Suaeda_maritima,45.15904,-64.42174
 2288088829,Suaeda_maritima,12.75,101.75
-1936863704,Suaeda_maritima,-34.2,142.25
 1261999104,Suaeda_maritima,48.066667,-65.566667
 1804550729,Suaeda_maritima,44.216667,-66.1425
 1702211383,Suaeda_maritima,58.9996,11.0401
@@ -235,7 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701927573,Suaeda_maritima,59.2873,10.7465
 1260823431,Suaeda_maritima,50.52083,1.58611
 994788279,Suaeda_maritima,-35.95,144.2833
-1988176972,Suaeda_maritima,69.8,-130.4
 606643844,Suaeda_maritima,41.73944,-70.37916
 1340026437,Suaeda_maritima,50.181944,1.493889
 1144221849,Suaeda_maritima,63.68036,9.53916
@@ -251,7 +237,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1990858341,Suaeda_maritima,58.271848,11.434089
 1705333855,Suaeda_maritima,56.602883,12.9193
 1705324751,Suaeda_maritima,57.47346,11.933884
-1261992786,Suaeda_maritima,48.1,-66.133333
 1705333849,Suaeda_maritima,57.413137,12.022322
 465925609,Suaeda_maritima,46.375907,-62.111774
 1933815563,Suaeda_maritima,33.73956,130.95305
@@ -267,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701228315,Suaeda_maritima,65.1115,11.6518
 891693138,Suaeda_maritima,24.051389,120.424167
 1144221823,Suaeda_maritima,62.74169,7.3964
-30893031,Suaeda_maritima,40.110001,-3.7
 1701982790,Suaeda_maritima,59.3291,10.6432
 1701577011,Suaeda_maritima,59.32,10.6515
 1701994197,Suaeda_maritima,62.7159,7.1462
@@ -277,8 +261,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288089220,Suaeda_maritima,13.516667,100.65
 1702431576,Suaeda_maritima,62.6834,6.2456
 1144221843,Suaeda_maritima,59.92224,10.50728
-994848504,Suaeda_maritima,-34.3,142.1833
-994848273,Suaeda_maritima,-34.3,142.2167
 1099874436,Suaeda_maritima,55.413056,8.414444
 1705461632,Suaeda_maritima,58.123508,11.444048
 473538827,Suaeda_maritima,47.183333,-65.05
@@ -289,7 +271,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988164157,Suaeda_maritima,53.26,-132.09
 1702211355,Suaeda_maritima,59.0251,11.0173
 1988118644,Suaeda_maritima,53.57,-131.93
-1988094341,Suaeda_maritima,54,-132.61
 465925607,Suaeda_maritima,45.869054,-64.560727
 473538832,Suaeda_maritima,45.894474,-64.333333
 2291152022,Suaeda_maritima,50.452,6.102
@@ -308,9 +289,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099875222,Suaeda_maritima,57.36073,12.11136
 1705284335,Suaeda_maritima,57.000291,12.365799
 1099860977,Suaeda_maritima,55.52899,12.95091
-1804451533,Suaeda_maritima,69.7,-129
 465925593,Suaeda_maritima,45.856,-63.75703
-1988118763,Suaeda_maritima,44.5,-114.23
 1851976308,Suaeda_maritima,14.898889,-17.062222
 465925595,Suaeda_maritima,45.25623,-63.9472
 1701983012,Suaeda_maritima,59.8656,10.5804
@@ -325,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465925597,Suaeda_maritima,45.216667,-67.333333
 1698013097,Suaeda_maritima,63.25545,8.39347
 465925590,Suaeda_maritima,46.181774,-60.413143
-1988202247,Suaeda_maritima,47.1,-118.9
 1622368567,Suaeda_maritima,63.132517,21.540172
 1701343174,Suaeda_maritima,62.7863,6.9124
 1807241651,Suaeda_maritima,45.339582,-64.800641
@@ -346,7 +324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465925571,Suaeda_maritima,44.66593,-65.60831
 1807241627,Suaeda_maritima,46.427138,-63.194119
 1099873255,Suaeda_maritima,55.55329,12.92149
-1988241575,Suaeda_maritima,59.6,-151.5
 465925574,Suaeda_maritima,45.733333,-60.815833
 465925564,Suaeda_maritima,45.62901,-62.68887
 1848386664,Suaeda_maritima,54.1484,13.415
@@ -354,7 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701234502,Suaeda_maritima,59.3143,10.7391
 1099874171,Suaeda_maritima,55.55343,12.90594
 1701958509,Suaeda_maritima,63.6095,8.9698
-616356471,Suaeda_maritima,51.3,4.18
 465925562,Suaeda_maritima,45.6318,-61.74847
 1099867075,Suaeda_maritima,56.89185,12.48305
 1701982889,Suaeda_maritima,59.1729,10.8283
@@ -363,7 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099866318,Suaeda_maritima,56.60172,12.9843
 1698019986,Suaeda_maritima,59.0431,10.9452
 1701982814,Suaeda_maritima,59.0249,11.018
-1146305526,Suaeda_maritima,58.3,-134.4
 1099875198,Suaeda_maritima,56.44523,12.56357
 1099873097,Suaeda_maritima,58.00798,11.59659
 1702166054,Suaeda_maritima,59.0251,11.0179
@@ -387,7 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099875607,Suaeda_maritima,56.76586,12.63141
 1988154982,Suaeda_maritima,47.89,-123.35
 1099872022,Suaeda_maritima,55.868218,12.826692
-1228600869,Suaeda_maritima,45,-69
 788881736,Suaeda_maritima,55.46112,13.00025
 606643836,Suaeda_maritima,43.12166,-70.87194
 1986888607,Suaeda_maritima,43.121667,-70.8725
@@ -446,7 +420,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697479879,Suaeda_maritima,53.388221,52.686761
 1099873597,Suaeda_maritima,55.348611,8.469444
 1099865862,Suaeda_maritima,58.51159,11.40092
-2287435374,Suaeda_maritima,-7.6333,112.9
 1701307485,Suaeda_maritima,63.7439,11.2897
 1099870581,Suaeda_maritima,58.24695,11.45769
 1099875456,Suaeda_maritima,55.4694,13.018772
@@ -509,7 +482,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986874120,Suaeda_maritima,43.321944,-70.581389
 606652920,Suaeda_maritima,43.3275,-70.62611
 1099867607,Suaeda_maritima,55.7211,13.02215
-1842892137,Suaeda_maritima,41.32,2.1
 1038949304,Suaeda_maritima,41.146,-73.3467
 1099868031,Suaeda_maritima,58.2514,11.46485
 1099865927,Suaeda_maritima,58.57789,11.22544
