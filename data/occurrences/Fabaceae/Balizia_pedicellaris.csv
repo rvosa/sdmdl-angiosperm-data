@@ -16,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1135077536,Balizia_pedicellaris,-12.166667,-37.966667
 1570749896,Balizia_pedicellaris,-7.960861,-34.948778
 1423929828,Balizia_pedicellaris,-13.683889,-39.087778
-1087518845,Balizia_pedicellaris,-26.282806,-48.037417
 1087695764,Balizia_pedicellaris,-11.014722,-37.206389
 1571705557,Balizia_pedicellaris,-7.960833,-34.948611
 1944978164,Balizia_pedicellaris,-17.280278,-40.500278
@@ -30,7 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1944981541,Balizia_pedicellaris,-15.118611,-39.804444
 1668717680,Balizia_pedicellaris,-1.148056,-48.122222
 1944981587,Balizia_pedicellaris,-15.479722,-39.239722
-1944981577,Balizia_pedicellaris,-15.12,-36.06
 1087695737,Balizia_pedicellaris,-10.3757,-36.5259
 1147292559,Balizia_pedicellaris,0.06,-70.98
 1927859006,Balizia_pedicellaris,-11.3761,-37.4289
@@ -83,7 +81,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090516428,Balizia_pedicellaris,-14.416667,-39.083333
 1090851173,Balizia_pedicellaris,-11.588889,-55.292778
 1424467887,Balizia_pedicellaris,-9.644722,-64.933611
-1077579676,Balizia_pedicellaris,-7.970833,-34.122222
 1424302735,Balizia_pedicellaris,-15.391667,-39.565278
 1090665471,Balizia_pedicellaris,-9.241944,-56.985833
 1928288689,Balizia_pedicellaris,-15.2970177652254,-39.0751882637406
@@ -95,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424288628,Balizia_pedicellaris,-14.579722,-39.055278
 1087695068,Balizia_pedicellaris,-11.031944,-37.474722
 1089089836,Balizia_pedicellaris,-24.895,-47.918056
-1077606234,Balizia_pedicellaris,-7.833333,-34.033333
 1147301310,Balizia_pedicellaris,2.24,-72.7
 1424248381,Balizia_pedicellaris,-10.015,-36.288611
 1094868169,Balizia_pedicellaris,-7.721389,-34.9775
@@ -109,7 +105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424275757,Balizia_pedicellaris,-19.818611,-40.599722
 1090885495,Balizia_pedicellaris,-19.741667,-40.539722
 1096933507,Balizia_pedicellaris,-19.209417,-39.962833
-1424237444,Balizia_pedicellaris,-19.351667,-39.725278
 1077226320,Balizia_pedicellaris,-12.813611,-38.303611
 1094858811,Balizia_pedicellaris,-17.215,-39.233333
 1456226267,Balizia_pedicellaris,5.27253,-53.0526
@@ -130,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123810717,Balizia_pedicellaris,-19.310833,-40.51875
 1929210071,Balizia_pedicellaris,-14.7036,-39.6025
 1090501885,Balizia_pedicellaris,-14.703611,-39.6025
-1676468813,Balizia_pedicellaris,-17,-39
 1077224044,Balizia_pedicellaris,-12.616667,-38.95
 1837384337,Balizia_pedicellaris,-25.083889,-47.926944
 1930960151,Balizia_pedicellaris,-4.1808,-78.6422
@@ -140,7 +134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806886189,Balizia_pedicellaris,4.68,-52.5
 1090456112,Balizia_pedicellaris,-15.15,-39.083333
 1259430611,Balizia_pedicellaris,-15.038055,-68.458889
-1077601707,Balizia_pedicellaris,-9.216667,-33.833333
 1929833777,Balizia_pedicellaris,-13.3289,-39.0903
 1455982545,Balizia_pedicellaris,6.28453,-58.723
 1316166279,Balizia_pedicellaris,-13.328889,-39.090278
@@ -248,7 +241,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090465786,Balizia_pedicellaris,-12.464444,-41.441389
 2005798794,Balizia_pedicellaris,-24.622778,-47.8875
 1087358600,Balizia_pedicellaris,-24.900556,-47.841667
-1077197710,Balizia_pedicellaris,-15.85,-38.866667
 1260247987,Balizia_pedicellaris,-2.88333,-59.96666
 1260291590,Balizia_pedicellaris,-9.25,-36.41666
 1144609876,Balizia_pedicellaris,-9.25,-36.41667
@@ -279,8 +271,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090450754,Balizia_pedicellaris,-14.416667,-39.016667
 1930211410,Balizia_pedicellaris,-14.4231,-39.0617
 912140448,Balizia_pedicellaris,-14.42,-39.02
-1087025285,Balizia_pedicellaris,-14.416667,-89.016667
-1563319913,Balizia_pedicellaris,-14.42,-89.02
 1123821922,Balizia_pedicellaris,-22.433333,-42.85
 1929136333,Balizia_pedicellaris,-22.483,-42.883
 1455966187,Balizia_pedicellaris,4.25,-58.9333
@@ -298,7 +288,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930363598,Balizia_pedicellaris,-0.73,-76.87
 1261846381,Balizia_pedicellaris,-0.73333,-76.86666
 1928003886,Balizia_pedicellaris,4.3,-67.47
-1087669543,Balizia_pedicellaris,-8.0315,-34.5252
 1260828271,Balizia_pedicellaris,6.56666,-66.38333
 2291599191,Balizia_pedicellaris,-17,-64.766667
 1931383364,Balizia_pedicellaris,-17,-64.77
@@ -372,7 +361,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930168261,Balizia_pedicellaris,-0.867854,-52.539719
 1928747622,Balizia_pedicellaris,-15.218925,-39.248107
 1928536723,Balizia_pedicellaris,-14.1069915207267,-39.0142848699912
-1928116043,Balizia_pedicellaris,-15.86,-38.88
 2289527185,Balizia_pedicellaris,8.266667,-62.216667
 1931375153,Balizia_pedicellaris,8.23,-61.73
 1456319255,Balizia_pedicellaris,8.26,-62.21
