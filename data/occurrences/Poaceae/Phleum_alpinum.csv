@@ -20,10 +20,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806488323,Phleum_alpinum,62.7953,10.2809
 2242356145,Phleum_alpinum,37.95222,-105.12375
 2242356434,Phleum_alpinum,37.988,-105.13984
-1949917340,Phleum_alpinum,54.68526,167.77644
 2251611034,Phleum_alpinum,62.5706,11.3672
 1935710819,Phleum_alpinum,47.40333,14.13417
-1949917384,Phleum_alpinum,54.73448,167.71806
 1945006587,Phleum_alpinum,44.05659,10.61811
 1839063592,Phleum_alpinum,39.35944,21.57917
 1701159919,Phleum_alpinum,44.05664,10.61829
@@ -72,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935710824,Phleum_alpinum,46.92183,13.85094
 1144054864,Phleum_alpinum,59.317,7.49
 1986914255,Phleum_alpinum,41.0433279990655,-111.826919
-1807264643,Phleum_alpinum,46.672211,-60.9606
 1929535048,Phleum_alpinum,37.28243,-106.61824
 1703300911,Phleum_alpinum,58.603817,-93.252617
 2242417755,Phleum_alpinum,38.14606,-107.44553
@@ -85,7 +82,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701773713,Phleum_alpinum,63.202,11.2322
 1319862336,Phleum_alpinum,42.4269,-110.588
 1658234812,Phleum_alpinum,64.78986,-141.20568
-1146321661,Phleum_alpinum,57.09,-135.3278
 1095920764,Phleum_alpinum,67,21
 1823929666,Phleum_alpinum,63.202004,11.232175
 1697374881,Phleum_alpinum,62.3,59.263889
@@ -145,7 +141,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701961701,Phleum_alpinum,62.9309,12.0797
 1949655272,Phleum_alpinum,51.055222,85.697972
 900308163,Phleum_alpinum,58.8362,7.4451
-1703301483,Phleum_alpinum,57.5405257509709,-92.5575806875134
 788726516,Phleum_alpinum,62.80592,17.3774
 1135458425,Phleum_alpinum,46.96167,12.9975
 2323571317,Phleum_alpinum,60.900346,9.587494
@@ -167,7 +162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949655965,Phleum_alpinum,53.618167,-127.042833
 1322179904,Phleum_alpinum,44.057,40.023
 900315132,Phleum_alpinum,59.3714,7.1865
-1697374874,Phleum_alpinum,69.20534,35.29811
 900313509,Phleum_alpinum,59.3883,7.1434
 1930865770,Phleum_alpinum,39.4442,-105.9968
 1146313941,Phleum_alpinum,57.2643699991425,-153.31215
@@ -234,7 +228,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949652204,Phleum_alpinum,59.02,-132.539444
 1801059751,Phleum_alpinum,66.6569,65.309819
 1320452093,Phleum_alpinum,66.9608,17.6807
-1146261860,Phleum_alpinum,58.342,-152.563
 1697170887,Phleum_alpinum,50.247222,87.302778
 1949651346,Phleum_alpinum,59.833889,-136.573889
 1701764023,Phleum_alpinum,62.9833,9.5436
@@ -242,12 +235,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949651278,Phleum_alpinum,59.813333,-136.578333
 1848988237,Phleum_alpinum,46.44611,14.18028
 1935710203,Phleum_alpinum,46.79347,14.98339
-1697374886,Phleum_alpinum,66.72172,33.8171
 1936217578,Phleum_alpinum,42.7729,-0.4344
 895208966,Phleum_alpinum,42.779,-0.427
 1323762771,Phleum_alpinum,70.9369,27.4285
 1848988509,Phleum_alpinum,49.26083,20.16417
-1146261997,Phleum_alpinum,58.338,-152.559
 1848988332,Phleum_alpinum,49.12278,20.06389
 684161215,Phleum_alpinum,46.89239,10.72054
 1949652361,Phleum_alpinum,59.382222,-132.802222
@@ -327,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883414183,Phleum_alpinum,54.1390719991048,-119.926795
 1935709844,Phleum_alpinum,44.14556,7.54583
 1949645224,Phleum_alpinum,54.511667,-128.453611
-1703298016,Phleum_alpinum,58.1154793775514,-92.8857115941842
 1949646324,Phleum_alpinum,56.071667,-127.767778
 1146229594,Phleum_alpinum,57.667778,-153.257778
 1935709833,Phleum_alpinum,44.40778,6.93722
@@ -343,7 +333,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949644831,Phleum_alpinum,56.561389,-129.472222
 883412125,Phleum_alpinum,54.151475999105,-119.754847
 1949644499,Phleum_alpinum,56.220556,-129.435278
-1703299366,Phleum_alpinum,58.1278446623735,-92.8683690294638
 1949647295,Phleum_alpinum,58.988611,-125.499444
 1949647712,Phleum_alpinum,54.929722,-128.243889
 441806362,Phleum_alpinum,48.477983,-120.655917
@@ -351,7 +340,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323856329,Phleum_alpinum,70.5806,24.6115
 1949644867,Phleum_alpinum,56.569722,-129.478333
 1702218073,Phleum_alpinum,62.0395,11.6611
-668790341,Phleum_alpinum,52.9166129445349,-78.7829403084246
 623682746,Phleum_alpinum,39.316111,-120.613889
 1804515186,Phleum_alpinum,41.358444,-122.967028
 441806363,Phleum_alpinum,46.953167,-121.86635
@@ -394,7 +382,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949642577,Phleum_alpinum,56.958889,-128.582778
 1146246283,Phleum_alpinum,57.311111,-154.608333
 318118730,Phleum_alpinum,45.92,7.66
-1146247729,Phleum_alpinum,55.350667,-160.4715
 1843914964,Phleum_alpinum,36.7757,-105.3516
 1986960101,Phleum_alpinum,39.679444,-105.885278
 1949643023,Phleum_alpinum,56.745833,-129.796667
@@ -414,7 +401,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935708965,Phleum_alpinum,49.02506,13.39331
 1702196680,Phleum_alpinum,59.8375,8.7056
 441806369,Phleum_alpinum,47.537697,-116.047863
-1146243323,Phleum_alpinum,55.3375,-160.5
 1935708915,Phleum_alpinum,47.28258,10.36144
 1935708966,Phleum_alpinum,48.94256,13.48983
 1935708964,Phleum_alpinum,48.97814,13.3895
@@ -424,7 +410,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146238381,Phleum_alpinum,59.4452839953798,-150.945328183553
 1848988158,Phleum_alpinum,40.50944,44.17639
 1848988160,Phleum_alpinum,39.10472,46.12306
-1323855341,Phleum_alpinum,70.2634,30.7205
 575057155,Phleum_alpinum,27.862778,86.611111
 575336171,Phleum_alpinum,27.821667,86.617778
 1144047976,Phleum_alpinum,62.1829,9.5541
@@ -441,7 +426,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323860700,Phleum_alpinum,69.6358,18.905
 1702214144,Phleum_alpinum,60.8592,10.805
 115884491,Phleum_alpinum,42.349998,1.66
-895204972,Phleum_alpinum,42.44793,1.61136
 1702214118,Phleum_alpinum,60.9366,10.922
 1323739007,Phleum_alpinum,69.9953,21.6941
 198470166,Phleum_alpinum,43.150002,-4.84
@@ -459,7 +443,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988218182,Phleum_alpinum,62.767,-131.039
 1086570989,Phleum_alpinum,42.5936,-120.8771
 1935708851,Phleum_alpinum,47.66111,11.51028
-473309432,Phleum_alpinum,51.468333,-56.996111
 1935708854,Phleum_alpinum,46.90944,13.85028
 1949640333,Phleum_alpinum,59.234722,-130.528056
 2308281474,Phleum_alpinum,51.72,-116.49
@@ -471,9 +454,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988123086,Phleum_alpinum,63.246,-130.029
 1318276441,Phleum_alpinum,51.7214,-116.494
 1935708803,Phleum_alpinum,47.375,13.85639
-473308961,Phleum_alpinum,51.487778,-56.983611
 441805827,Phleum_alpinum,42.59365,-120.8771
-1323854890,Phleum_alpinum,70.7803,23.3316
 1248738302,Phleum_alpinum,51.43,-57.146944
 1935708902,Phleum_alpinum,47.69361,15.60639
 1935708828,Phleum_alpinum,46.94778,13.70778
@@ -486,7 +467,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1322392486,Phleum_alpinum,64.5648,-138.243
 1146394686,Phleum_alpinum,59.37,-161.7
 1999522959,Phleum_alpinum,69.976316,27.296295
-473309024,Phleum_alpinum,51.558611,-56.799167
 1658234744,Phleum_alpinum,60.074,-124.039
 1949640208,Phleum_alpinum,59.259722,-130.509167
 1702032159,Phleum_alpinum,62.663,11.489
@@ -502,12 +482,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935708955,Phleum_alpinum,47.60694,24.845
 441806356,Phleum_alpinum,42.7098,-120.803083
 2270496680,Phleum_alpinum,32.7680777065531,-105.640326223081
-1248738327,Phleum_alpinum,51.422778,-57.108333
 894164372,Phleum_alpinum,42.93631,-5.48332
 1260370733,Phleum_alpinum,40.43138,-105.7
-1248738308,Phleum_alpinum,51.422778,-57.117778
 1978753894,Phleum_alpinum,51.354167,-63.856944
-1697374885,Phleum_alpinum,64.962719,35.646078
 198470167,Phleum_alpinum,43.200001,-4.85
 1702167127,Phleum_alpinum,61.5595,11.4189
 441805520,Phleum_alpinum,48.429733,-120.674313
@@ -520,7 +497,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935708887,Phleum_alpinum,39.67986,21.12008
 1935708903,Phleum_alpinum,40.08939,20.91978
 1935708926,Phleum_alpinum,39.97761,20.81531
-1248738314,Phleum_alpinum,51.411667,-57.105556
 1935708863,Phleum_alpinum,47.49667,14.92528
 186826251,Phleum_alpinum,62.1371,9.3356
 186826250,Phleum_alpinum,62.155,9.3742
@@ -565,7 +541,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935708712,Phleum_alpinum,47.02139,13.09583
 1935708755,Phleum_alpinum,46.52667,11.74861
 441805648,Phleum_alpinum,48.692017,-119.941
-1323847662,Phleum_alpinum,68.2147,13.5633
 1935708743,Phleum_alpinum,46.52306,11.75083
 1323857489,Phleum_alpinum,70.8524,29.2334
 1935708775,Phleum_alpinum,46.56,11.60833
@@ -591,7 +566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146249206,Phleum_alpinum,59.7174903753078,-149.778974708653
 152943466,Phleum_alpinum,46.399616,13.745351
 1949637657,Phleum_alpinum,56.484444,-124.7525
-1323847426,Phleum_alpinum,67.9461,12.9354
 1658234800,Phleum_alpinum,60.1361,-138.2208
 1935708756,Phleum_alpinum,47.33639,13.64917
 1935708750,Phleum_alpinum,46.55306,11.61722
@@ -635,7 +609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843894671,Phleum_alpinum,35.821,-105.793
 1935708678,Phleum_alpinum,47.19944,13.895
 1935708699,Phleum_alpinum,47.27,13.99278
-1146393618,Phleum_alpinum,51.97,178.28
 1935708664,Phleum_alpinum,47.23278,13.97472
 1949637727,Phleum_alpinum,55.02,-121.530278
 1949637802,Phleum_alpinum,56.74,-124.141944
@@ -656,11 +629,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258090858,Phleum_alpinum,-49.758056,-72.086111
 1320023730,Phleum_alpinum,-46.0675,-72.0417
 1323847110,Phleum_alpinum,66.7752,14.2842
-1323821814,Phleum_alpinum,70.0293,18.5596
 412581095,Phleum_alpinum,59.62024,-151.0493
 1702206335,Phleum_alpinum,60.1259,12.4379
 1702211368,Phleum_alpinum,60.8197,10.869
-1323737028,Phleum_alpinum,68.8688,16.6767
 317817146,Phleum_alpinum,40.53,44.67
 1265802204,Phleum_alpinum,38.45833,-120.04528
 186826159,Phleum_alpinum,58.6666,7.0647
@@ -690,19 +661,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242373268,Phleum_alpinum,39.602676,-105.710868
 1701632322,Phleum_alpinum,60.7351,10.3528
 186826190,Phleum_alpinum,59.2269,7.0421
-1323736605,Phleum_alpinum,70.3681,31.097
 441805638,Phleum_alpinum,48.502485,-121.067075
 21240437,Phleum_alpinum,61.6635,11.9571
 186826164,Phleum_alpinum,59.0806,7.2466
 1260109727,Phleum_alpinum,60.1,-143.76666
-1697170425,Phleum_alpinum,54.512562,168.077409
 441805802,Phleum_alpinum,47.339167,-121.496389
 1323859111,Phleum_alpinum,70.436,23.4556
 1146362041,Phleum_alpinum,60.09,-143.76
 1843894724,Phleum_alpinum,35.91283,-105.65408
 1702002324,Phleum_alpinum,61.7399,12.1502
-1146366054,Phleum_alpinum,51.95,-176
-1323859125,Phleum_alpinum,70.4137,23.0116
 441805512,Phleum_alpinum,48.479444,-121.053056
 1929450030,Phleum_alpinum,42.66005,44.572533
 1146387812,Phleum_alpinum,65.41,-142.37
@@ -722,7 +689,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323735345,Phleum_alpinum,70.9967,24.6758
 1702559996,Phleum_alpinum,63.4024,10.2662
 186826139,Phleum_alpinum,59.6127,7.4165
-1323735305,Phleum_alpinum,70.9961,24.1774
 1702202352,Phleum_alpinum,61.8977,12.1137
 1927834912,Phleum_alpinum,40.3251,-106.2049
 1843846723,Phleum_alpinum,35.905,-106.5644
@@ -735,7 +701,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988092117,Phleum_alpinum,54.4,-120.1
 1702076729,Phleum_alpinum,60.4462,10.8266
 1323844554,Phleum_alpinum,67.8353,15.0119
-1146340943,Phleum_alpinum,52.56,-171.16
 1144178571,Phleum_alpinum,60.70697,6.41003
 1701280998,Phleum_alpinum,65.6911,14.324
 1843912788,Phleum_alpinum,35.864532,-106.444055
@@ -766,14 +731,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701838717,Phleum_alpinum,61.3157,11.5373
 1701848492,Phleum_alpinum,59.852,9.7256
 1928435222,Phleum_alpinum,40.648,-106.6635
-623695226,Phleum_alpinum,47.12985,152.271183
 1323752872,Phleum_alpinum,69.5909,23.5314
 1323757055,Phleum_alpinum,67.3747,15.7675
 1146315894,Phleum_alpinum,60.5305,-145.3785
 1146361859,Phleum_alpinum,60.3,-137.05
 1050627495,Phleum_alpinum,41.78,-1.82
 1702516038,Phleum_alpinum,63.2043,8.5079
-1146315849,Phleum_alpinum,57.0395,-134.5465
 1146333518,Phleum_alpinum,59.66,-135.91
 1146358022,Phleum_alpinum,62.35,-152.61
 1323753163,Phleum_alpinum,69.7628,19.4806
@@ -792,7 +755,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1658234762,Phleum_alpinum,59.724,-135.016
 186825995,Phleum_alpinum,59.1486,7.1582
 1702164794,Phleum_alpinum,59.5046,9.5167
-1323705134,Phleum_alpinum,71.0776,24.1394
 142317244,Phleum_alpinum,37.68,31.31
 1146331604,Phleum_alpinum,61.13,-155.26
 142317310,Phleum_alpinum,37.404,34.558
@@ -821,7 +783,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146330731,Phleum_alpinum,63.34,-150.61
 1702164259,Phleum_alpinum,59.9465,9.477
 1146301957,Phleum_alpinum,63.29,-149.82
-2289698718,Phleum_alpinum,65.616667,-37.666667
 860314916,Phleum_alpinum,42.7857,-0.219
 1936540231,Phleum_alpinum,43.0333,-4.3833
 1949628186,Phleum_alpinum,49.783333,-117.166667
@@ -867,7 +828,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986944433,Phleum_alpinum,44.948333,-118.463056
 1146270740,Phleum_alpinum,60.78,-153.86
 1935710814,Phleum_alpinum,47.29461,14.55335
-1323808448,Phleum_alpinum,70.334,21.7321
 684161267,Phleum_alpinum,46.889,12.199
 1563901036,Phleum_alpinum,59.6553,7.1642
 684161269,Phleum_alpinum,47.014365,12.183547
@@ -876,7 +836,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146330427,Phleum_alpinum,60.93,-142.38
 684161287,Phleum_alpinum,46.916,10.097
 1146330444,Phleum_alpinum,60.73,-142.21
-1146332580,Phleum_alpinum,51.8,-178.8
 1701987959,Phleum_alpinum,61.3527,12.0706
 1323809433,Phleum_alpinum,69.2448,29.39
 1701987923,Phleum_alpinum,61.2916,12.1977
@@ -889,7 +848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426323857,Phleum_alpinum,36.95,-118.763889
 894163484,Phleum_alpinum,43.03,-5.191
 894163169,Phleum_alpinum,43.047,-4.75
-1323849770,Phleum_alpinum,69.7153,18.9191
 1701480571,Phleum_alpinum,62.53672,9.51846
 1658234814,Phleum_alpinum,60.07167,-124.05222
 1702031109,Phleum_alpinum,60.9469,10.9845
@@ -898,7 +856,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323803828,Phleum_alpinum,67.5821,33.8107
 1657197368,Phleum_alpinum,47.58583,15.22917
 1702372785,Phleum_alpinum,62.7143,9.4301
-883377319,Phleum_alpinum,54.916667,-159.2
 1705472197,Phleum_alpinum,62.37113,11.08509
 1323804069,Phleum_alpinum,67.5823,33.7637
 1701802386,Phleum_alpinum,60.9967,10.6177
@@ -907,7 +864,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701802457,Phleum_alpinum,61.0328,10.6011
 1999522969,Phleum_alpinum,69.756503,26.989057
 439492337,Phleum_alpinum,47.50333,13.64889
-1323799956,Phleum_alpinum,71.1547,25.5437
 1702006167,Phleum_alpinum,59.9606,10.0655
 1258293676,Phleum_alpinum,49.11666,86.02361
 1323807897,Phleum_alpinum,68.7091,19.9265
@@ -925,11 +881,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615369856,Phleum_alpinum,35.83,74.33
 1936640478,Phleum_alpinum,-54.15,-68.7167
 1146260842,Phleum_alpinum,61.24,-149.58
-2290694314,Phleum_alpinum,42.55,1.583333
 860314280,Phleum_alpinum,42.83,-0.49
 1702436170,Phleum_alpinum,59.9386,10.3511
 1986968015,Phleum_alpinum,42.333333,-111.566667
-1323792938,Phleum_alpinum,71.1109,24.7441
 1701862357,Phleum_alpinum,60.1977,8.5942
 1701503757,Phleum_alpinum,59.9476,10.3514
 1929601342,Phleum_alpinum,42.33,-111.57
@@ -948,9 +902,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146263639,Phleum_alpinum,61.29,-149.7
 615369984,Phleum_alpinum,36.52,74.67
 1701334459,Phleum_alpinum,62.8536,11.7801
-668790338,Phleum_alpinum,51.390833,-57.139722
 615370068,Phleum_alpinum,35.1,75.55
-1702437013,Phleum_alpinum,71.1831,25.6791
 1323801479,Phleum_alpinum,69.9772,24.5004
 1697374930,Phleum_alpinum,66.249733,37.144707
 1701932967,Phleum_alpinum,61.0493,10.6018
@@ -961,7 +913,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 21241206,Phleum_alpinum,60.8345,10.5055
 668790337,Phleum_alpinum,51.454444,-57.128333
 1702436892,Phleum_alpinum,59.8236,10.1681
-1323801599,Phleum_alpinum,70.2986,22.9005
 441805606,Phleum_alpinum,46.325,-122.73528
 1936640424,Phleum_alpinum,-54.2167,-70.1667
 1936640592,Phleum_alpinum,-51.5167,-72.5667
@@ -984,7 +935,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441805739,Phleum_alpinum,58.418333,-134.886111
 1146299559,Phleum_alpinum,55.16,-162.8
 1701922237,Phleum_alpinum,59.9294,10.3686
-1146209560,Phleum_alpinum,53.38,-167.83
 1702427850,Phleum_alpinum,60.0793,8.5058
 615370054,Phleum_alpinum,35.2,74.68
 473460658,Phleum_alpinum,49.668056,-57.733333
@@ -1028,7 +978,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701905940,Phleum_alpinum,59.8848,10.3489
 1949626827,Phleum_alpinum,59.483333,-137.75
 1949610212,Phleum_alpinum,52.602778,-125.966667
-1323755073,Phleum_alpinum,68.927,15.4859
 1949610169,Phleum_alpinum,52.616667,-126.016667
 1701906319,Phleum_alpinum,59.8935,10.3671
 1702361585,Phleum_alpinum,59.815,10.1321
@@ -1036,11 +985,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323799099,Phleum_alpinum,60.1546,10.3059
 668790335,Phleum_alpinum,48.893889,-66.645833
 1848988671,Phleum_alpinum,36.9,32.16667
-1323818019,Phleum_alpinum,71.0496,25.9102
 1434676459,Phleum_alpinum,65.9449,22.30942
 441805613,Phleum_alpinum,46.304391,-121.582592
 1701828824,Phleum_alpinum,61.9876,7.3118
-1262023005,Phleum_alpinum,53.702778,-79.050278
 860314287,Phleum_alpinum,42.67,0.6555
 1949610765,Phleum_alpinum,52.683333,-131.85
 1146368722,Phleum_alpinum,59.41,-160.08
@@ -1048,22 +995,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317973633,Phleum_alpinum,38.9614,-107.577
 1936599845,Phleum_alpinum,43.0848,-4.795
 1936693906,Phleum_alpinum,-33.1,-70.3
-1632922267,Phleum_alpinum,-54.18,-36.710278
 1257558192,Phleum_alpinum,-54.820833,-68.470833
 1320876321,Phleum_alpinum,36.95,22.35
 1146337466,Phleum_alpinum,59.55,-139.75
 1323765063,Phleum_alpinum,60.2677,10.6358
 1988106866,Phleum_alpinum,49.13,-119.66
 1146345980,Phleum_alpinum,59.91,-158.33
-1146348310,Phleum_alpinum,58.21,-152.58
 1949627874,Phleum_alpinum,49.128333,-119.658333
 883385492,Phleum_alpinum,43.6437599990578,-111.477154
 1146374181,Phleum_alpinum,57.7,-153.88
 1323811314,Phleum_alpinum,59.9919,10.407
 1323727109,Phleum_alpinum,70.4686,28.9432
 1701987207,Phleum_alpinum,59.56,6.8678
-1262022338,Phleum_alpinum,53.686667,-79
-1248738289,Phleum_alpinum,53.283889,-78.9925
 1323811284,Phleum_alpinum,59.9738,10.4242
 1701570307,Phleum_alpinum,62.72,10.5351
 1323814587,Phleum_alpinum,60.1716,10.3967
@@ -1098,10 +1041,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415405854,Phleum_alpinum,69.089104,20.674601
 1697170884,Phleum_alpinum,61.00739,89.59845
 1262024919,Phleum_alpinum,56.133333,-76.733333
-1146326279,Phleum_alpinum,54.91,-132.95
 1319671475,Phleum_alpinum,45.5511,-110.422
 441805745,Phleum_alpinum,48.7025,-119.95778
-1323758509,Phleum_alpinum,71.1201,25.7124
 1323826188,Phleum_alpinum,70.9024,25.3979
 1323759565,Phleum_alpinum,69.3871,23.9405
 1323745920,Phleum_alpinum,70.7977,25.5152
@@ -1111,7 +1052,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894166868,Phleum_alpinum,42.2,-6.52
 684161285,Phleum_alpinum,46.828056,10.672778
 1053982395,Phleum_alpinum,42.95,-0.91
-1146272990,Phleum_alpinum,54,-166.71
 1144752326,Phleum_alpinum,42.11667,9.1
 615370048,Phleum_alpinum,36.25,74.28
 1426099450,Phleum_alpinum,41.2034,-120.1798
@@ -1131,7 +1071,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615369870,Phleum_alpinum,27.98,87.1
 1323797576,Phleum_alpinum,59.938,10.4047
 1260343317,Phleum_alpinum,-34.16666,-69
-1146326291,Phleum_alpinum,55.88,-134.25
 1570701584,Phleum_alpinum,62.02142,16.42811
 1323789288,Phleum_alpinum,61.1278,9.8818
 1705394609,Phleum_alpinum,63.111578,13.821995
@@ -1142,7 +1081,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599902097,Phleum_alpinum,64.953517,26.017658
 1930973045,Phleum_alpinum,42.6258,-112.6631
 1804492522,Phleum_alpinum,40.616667,-105.9
-1323818021,Phleum_alpinum,59.9888,10.6758
 1599902147,Phleum_alpinum,68.628775,22.28486
 318229989,Phleum_alpinum,59.4141,6.736
 1697762480,Phleum_alpinum,42.670667,44.626422
@@ -1177,20 +1115,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323765087,Phleum_alpinum,68.5492,16.8685
 1949599388,Phleum_alpinum,52.533333,-125.765278
 1050597531,Phleum_alpinum,42.95,-0.88
-1949624054,Phleum_alpinum,53.916667,-130.366667
 1848988534,Phleum_alpinum,49.21972,19.90833
 1050597576,Phleum_alpinum,42.95,-0.82
 1426347303,Phleum_alpinum,38.322222,-119.640278
 1599902080,Phleum_alpinum,64.955213,27.239733
 1949631817,Phleum_alpinum,48.146667,-117.905
 1702262070,Phleum_alpinum,60.3765,8.9184
-1323722803,Phleum_alpinum,68.6469,16.5628
 1949629317,Phleum_alpinum,49.466667,-120.833333
 1949618635,Phleum_alpinum,54.516667,-128.466667
 1949599732,Phleum_alpinum,49.2,-125.266667
 1999522978,Phleum_alpinum,68.389849,26.959325
 2322209061,Phleum_alpinum,61.103786,10.104682
-1323722800,Phleum_alpinum,68.3716,15.0851
 1599902092,Phleum_alpinum,68.638027,24.351671
 1930994219,Phleum_alpinum,37.4244,-113.4116
 2242419575,Phleum_alpinum,38.583052,-106.29919
@@ -1201,7 +1136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894166863,Phleum_alpinum,42.92,-5.39
 1146326290,Phleum_alpinum,60.96,-145
 1949603431,Phleum_alpinum,49.433333,-125.550556
-1323722807,Phleum_alpinum,68.3088,15.1333
 1262016928,Phleum_alpinum,48.990556,-65.9425
 1988127059,Phleum_alpinum,49.3,-119.9
 1949611311,Phleum_alpinum,57.2,-128.833333
@@ -1211,7 +1145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242369815,Phleum_alpinum,40.078959,-105.530873
 1702018465,Phleum_alpinum,59.80373,7.70367
 1599902032,Phleum_alpinum,64.517953,27.128759
-1697374897,Phleum_alpinum,65.045308,35.672157
 1701285888,Phleum_alpinum,62.3052,9.6075
 1935710593,Phleum_alpinum,46.59361,13.17306
 1323722870,Phleum_alpinum,69.7256,19.2027
@@ -1220,7 +1153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697170878,Phleum_alpinum,53.323864,157.5366
 1323702125,Phleum_alpinum,69.411,23.5613
 1146326265,Phleum_alpinum,56.33,-158.5
-1697374945,Phleum_alpinum,65.013386,35.71458
 1065671115,Phleum_alpinum,63.894577,19.420315
 1599902074,Phleum_alpinum,69.160438,26.630585
 1705438984,Phleum_alpinum,68.406956,18.686987
@@ -1229,7 +1161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883377666,Phleum_alpinum,52.889398,-117.192622
 51917436,Phleum_alpinum,42.74,-124.509
 186825477,Phleum_alpinum,58.858,6.7897
-1323722752,Phleum_alpinum,67.9969,13.0506
 1949632155,Phleum_alpinum,49.033333,-121.77
 883377289,Phleum_alpinum,43.9155969990574,-109.54458
 2242369177,Phleum_alpinum,38.629766,-106.577565
@@ -1245,7 +1176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065671109,Phleum_alpinum,65.033333,15.433333
 1323722738,Phleum_alpinum,66.8181,14.2374
 1702004365,Phleum_alpinum,61.1541,11.871
-1323766578,Phleum_alpinum,68.0781,13.0917
 1934154600,Phleum_alpinum,35.4973,138.1974
 1701847685,Phleum_alpinum,61.4298,11.5587
 1804553806,Phleum_alpinum,49.666667,-109.5
@@ -1271,18 +1201,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187216349,Phleum_alpinum,63.9574,10.6638
 1949616433,Phleum_alpinum,53.233333,-127.05
 211633833,Phleum_alpinum,43.18,-4.87
-1146345663,Phleum_alpinum,52.81,173.16
 211633836,Phleum_alpinum,43.200001,-4.74
 1701777100,Phleum_alpinum,63.9651,10.7664
 441805607,Phleum_alpinum,47.933333,-123.833333
 211633837,Phleum_alpinum,43.209999,-4.69
 211633838,Phleum_alpinum,43.220001,-4.95
 894159239,Phleum_alpinum,42.92,-6.49
-1323722793,Phleum_alpinum,68.8336,16.2284
-1259981430,Phleum_alpinum,52.836443,173.162629
 1323702163,Phleum_alpinum,69.6693,30.3044
 1323799726,Phleum_alpinum,59.9905,10.5324
-1323722770,Phleum_alpinum,68.4328,15.7435
 1936599843,Phleum_alpinum,42.9813,-4.4731
 2242379233,Phleum_alpinum,37.793422,-107.547815
 894161223,Phleum_alpinum,43.02,-4.78
@@ -1311,7 +1237,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242369237,Phleum_alpinum,38.83362,-106.545432
 211633841,Phleum_alpinum,43.220001,-4.93
 1702404168,Phleum_alpinum,60.4617,10.2637
-121522083,Phleum_alpinum,-54.27,-36.52
 1986939770,Phleum_alpinum,63.05,-130.383333
 1988159011,Phleum_alpinum,59.29,-129.85
 1999587833,Phleum_alpinum,69.958523,26.799473
@@ -1345,7 +1270,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 919530311,Phleum_alpinum,28.48611,98.911543
 1701987194,Phleum_alpinum,60.0018,10.3178
 1146336931,Phleum_alpinum,60.77,-133.08
-1323722792,Phleum_alpinum,68.6063,15.5146
 1144752289,Phleum_alpinum,42.38333,8.93333
 1949610685,Phleum_alpinum,53.183333,-132.483333
 1999587710,Phleum_alpinum,68.882834,27.18217
@@ -1369,7 +1293,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701799245,Phleum_alpinum,59.8524,8.7323
 1935710556,Phleum_alpinum,46.57583,13.41806
 1949560655,Phleum_alpinum,49.75,-118.933333
-203571546,Phleum_alpinum,-54.28,-36.48
 788852165,Phleum_alpinum,40.4,21.566667
 1065671101,Phleum_alpinum,64.150188,17.808536
 1931315898,Phleum_alpinum,43.531761,-111.304922
@@ -1437,7 +1360,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39478316,Phleum_alpinum,63.999,-21.189
 21239998,Phleum_alpinum,60.0897,10.5011
 211633642,Phleum_alpinum,42.959999,-6.3
-1323722784,Phleum_alpinum,68.2145,13.5391
 1701972388,Phleum_alpinum,60.1884,10.5056
 1701972436,Phleum_alpinum,60.2159,10.4527
 1701972123,Phleum_alpinum,60.2335,10.4896
@@ -1457,7 +1379,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323817078,Phleum_alpinum,62.1695,9.8159
 1986938683,Phleum_alpinum,46.2658,-113.7988
 1701922872,Phleum_alpinum,60.2341,9.2257
-39720607,Phleum_alpinum,66.543,-18.002
 1701319115,Phleum_alpinum,62.5924,9.6133
 1701265622,Phleum_alpinum,63.3999,11.4954
 1209656920,Phleum_alpinum,50.905907,-115.53754
@@ -1531,7 +1452,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1699869102,Phleum_alpinum,59.9731,9.4389
 1260856779,Phleum_alpinum,42.8875,-0.11388
 1988081345,Phleum_alpinum,49.07,-120.19
-1146326263,Phleum_alpinum,51.83,-176.58
 1259759129,Phleum_alpinum,15.44805,-91.455
 1988198542,Phleum_alpinum,49.8,-119.2
 1702439006,Phleum_alpinum,60.9599,8.7877
@@ -1547,8 +1467,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949539927,Phleum_alpinum,49.011389,-114.078333
 883376138,Phleum_alpinum,53.4757819990982,-118.577696
 1697170856,Phleum_alpinum,59.25147,163.07456
-39478199,Phleum_alpinum,66.09,-20.33
-1323844347,Phleum_alpinum,68.0349,13.3229
 1259759455,Phleum_alpinum,15.59638,-91.53166
 1949540056,Phleum_alpinum,49.011111,-114.076389
 1949542290,Phleum_alpinum,50.241667,-117.113889
@@ -1564,8 +1482,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51917326,Phleum_alpinum,43.1456,-122.0731
 2270581103,Phleum_alpinum,35.31,-111.7
 883377783,Phleum_alpinum,50.958333,-115.191667
-121522086,Phleum_alpinum,-54.35,-36.42
-121522084,Phleum_alpinum,-54.28,-36.5
 788852728,Phleum_alpinum,38.95,21.833333
 1949560373,Phleum_alpinum,49.566667,-114.866667
 788852687,Phleum_alpinum,38.5,22.316667
@@ -1573,7 +1489,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949540620,Phleum_alpinum,49.029167,-114.173611
 1701223237,Phleum_alpinum,62.5583,9.0632
 2242384299,Phleum_alpinum,38.833656,-106.545433
-1323722795,Phleum_alpinum,68.72475,16.01402
 1702410245,Phleum_alpinum,61.8632,7.1467
 1701710648,Phleum_alpinum,61.6773,9.5006
 1949542407,Phleum_alpinum,49.030556,-114.186111
@@ -1607,7 +1522,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701266010,Phleum_alpinum,62.4863,10.5619
 1248738313,Phleum_alpinum,50.733333,-113.85
 1144160928,Phleum_alpinum,61.6822,6.0422
-1323722773,Phleum_alpinum,68.8729,15.5842
 1949541009,Phleum_alpinum,49.008889,-114.195833
 1949540898,Phleum_alpinum,49.013889,-114.194444
 1949541076,Phleum_alpinum,49.008333,-114.198611
@@ -1617,7 +1531,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 623682777,Phleum_alpinum,38.667158,-120.040555
 1144160869,Phleum_alpinum,60.0888,6.3121
 187216555,Phleum_alpinum,62.8181,8.8529
-1146326260,Phleum_alpinum,52.35,175.93
 1144160829,Phleum_alpinum,59.9285,6.3788
 1699348047,Phleum_alpinum,62.8271,8.8528
 63857698,Phleum_alpinum,45.2022,-117.2991
@@ -1676,7 +1589,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57711071,Phleum_alpinum,68.707001,27.6124
 1701282007,Phleum_alpinum,62.5417,9.8747
 891628433,Phleum_alpinum,24.384167,121.244167
-39478449,Phleum_alpinum,65.542,-13.741
 883368003,Phleum_alpinum,50.6155999990751,-115.0402
 1949511276,Phleum_alpinum,51.116667,-118
 1701311249,Phleum_alpinum,62.7986,11.8338
@@ -1686,12 +1598,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701244001,Phleum_alpinum,62.8723,11.7426
 1988180769,Phleum_alpinum,50.4,-122.8
 1846544383,Phleum_alpinum,37.844373,-119.49323
-121522082,Phleum_alpinum,-54.5,-36.12
 788848098,Phleum_alpinum,38.533333,22.616667
 51917300,Phleum_alpinum,45.9597,-123.68
 788852125,Phleum_alpinum,39.15,21.55
 788852361,Phleum_alpinum,38.816667,22.266667
-1323722763,Phleum_alpinum,68.6676,15.1355
 883387082,Phleum_alpinum,51.6085,-115.8111
 51917301,Phleum_alpinum,42.948,-122.5402
 788852442,Phleum_alpinum,38.95,21.783333
@@ -1718,7 +1628,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988169298,Phleum_alpinum,50.1,-126.7
 1988069416,Phleum_alpinum,50,-117.2
 211634476,Phleum_alpinum,43.049999,-6
-121522088,Phleum_alpinum,-54.33,-36.27
 788847787,Phleum_alpinum,39.8,21.183333
 788852483,Phleum_alpinum,39.633333,21.4
 1701922942,Phleum_alpinum,60.5838,9.4106
@@ -1731,7 +1640,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702429741,Phleum_alpinum,59.9751,10.4333
 1144752317,Phleum_alpinum,41.83333,9.21667
 1988079056,Phleum_alpinum,50.2,-114.8
-1323722839,Phleum_alpinum,69.69753,18.77364
 1144752304,Phleum_alpinum,41.85,9.21667
 1701960201,Phleum_alpinum,64.0343,12.4511
 39477006,Phleum_alpinum,64.633,-18.679
@@ -1747,7 +1655,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788852010,Phleum_alpinum,39.783333,21.216667
 51917297,Phleum_alpinum,45.8196,-123.8941
 788625881,Phleum_alpinum,63.24617,12.43896
-1988072001,Phleum_alpinum,49.1,-125.9
 1828722086,Phleum_alpinum,36.50323,137.8494
 1146326277,Phleum_alpinum,60.48,-149.75
 1599902020,Phleum_alpinum,69.210466,21.044773
@@ -1771,7 +1678,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258092154,Phleum_alpinum,-36.283333,-70.65
 1702410271,Phleum_alpinum,60.0481,10.3197
 1701773059,Phleum_alpinum,62.5358,7.0856
-1988220244,Phleum_alpinum,65.9,-37.2
 1988179342,Phleum_alpinum,66,-37.4
 2290315167,Phleum_alpinum,60.833333,-44.266667
 1988092170,Phleum_alpinum,66.1,-37
@@ -1808,8 +1714,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788418467,Phleum_alpinum,37.633333,22.266667
 1988140408,Phleum_alpinum,50.23,-114.83
 788418432,Phleum_alpinum,37.966667,21.783333
-121522048,Phleum_alpinum,-54.22,-37.33
-121522052,Phleum_alpinum,-54.17,-37.62
 1949505816,Phleum_alpinum,51.033333,-118.166667
 1701501084,Phleum_alpinum,60.0564,10.7601
 788418361,Phleum_alpinum,38.2,21.85
@@ -1818,19 +1722,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186826355,Phleum_alpinum,59.6317,9.5054
 1837335017,Phleum_alpinum,61.32771,10.51106
 1599902152,Phleum_alpinum,64.428078,24.827251
-1701501129,Phleum_alpinum,59.9948,10.6672
 1846544384,Phleum_alpinum,39.366267,-107.062132
 1144752328,Phleum_alpinum,42.21667,9
 186825490,Phleum_alpinum,59.648,7.2605
 1999587730,Phleum_alpinum,68.961341,27.881436
 2270495885,Phleum_alpinum,39.12375,-106.684167
 1702429738,Phleum_alpinum,60.0262,10.6688
-1323722781,Phleum_alpinum,68.7454,15.309
 1988088151,Phleum_alpinum,57.46,-123.37
 1324013925,Phleum_alpinum,59.8221,8.6362
 1986917620,Phleum_alpinum,40.69,-115.47
 1144752319,Phleum_alpinum,42.26667,8.96667
-39478639,Phleum_alpinum,65.186,-22.282
 894167079,Phleum_alpinum,42.078,-2.583
 2290651087,Phleum_alpinum,70.8,29.25
 684161255,Phleum_alpinum,46.938056,12.543333
@@ -1847,7 +1748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599902007,Phleum_alpinum,63.955193,26.894649
 1701656295,Phleum_alpinum,61.6259,8.4049
 1702410275,Phleum_alpinum,60.1639,10.4054
-1828722018,Phleum_alpinum,36.94595,137.55986
 891588385,Phleum_alpinum,24.363611,121.4375
 2287722947,Phleum_alpinum,69.533333,21.333333
 1949505746,Phleum_alpinum,51.033333,-118.15
@@ -1866,7 +1766,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702404136,Phleum_alpinum,60.2183,10.6731
 1702410266,Phleum_alpinum,59.9669,10.3523
 1599902122,Phleum_alpinum,63.132627,29.078596
-2270205991,Phleum_alpinum,38.95323,-123.73431
 1599902023,Phleum_alpinum,63.749822,24.261536
 1701344907,Phleum_alpinum,59.4628,8.0208
 1065671139,Phleum_alpinum,65.972459,16.162839
@@ -1892,7 +1791,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697762369,Phleum_alpinum,43.936473,40.231934
 39720584,Phleum_alpinum,65.261,-15.516
 1599902049,Phleum_alpinum,64.849221,27.945126
-1697374868,Phleum_alpinum,69.11656,36.066119
 1702210603,Phleum_alpinum,69.6937,29.3759
 1701493365,Phleum_alpinum,61.11844,5.90272
 1701922960,Phleum_alpinum,60.0969,10.3756
@@ -1922,7 +1820,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599902015,Phleum_alpinum,65.028535,26.041604
 1416608992,Phleum_alpinum,52.8588,-117.9607
 1701338916,Phleum_alpinum,62.6128,11.2703
-1988114151,Phleum_alpinum,59.9,-44
 2270649724,Phleum_alpinum,34.6637,-109.851
 1416608920,Phleum_alpinum,52.85,-117.95
 39720623,Phleum_alpinum,65.848,-18.833
@@ -1949,8 +1846,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 216101601,Phleum_alpinum,67.959198,23.772301
 57711160,Phleum_alpinum,66.355301,29.308201
 1701710517,Phleum_alpinum,62.8075,7.2642
-2287723162,Phleum_alpinum,59.9,-43.716667
-1988184082,Phleum_alpinum,59.9,-43.7
 2270494757,Phleum_alpinum,45.24313,-117.07425
 465882968,Phleum_alpinum,62.066667,-49.333333
 1323787869,Phleum_alpinum,70.9917,25.9684
@@ -1974,7 +1869,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39720616,Phleum_alpinum,65.936,-18.543
 1323722756,Phleum_alpinum,67.2988,14.4195
 39720610,Phleum_alpinum,65.87,-18.319
-1323825716,Phleum_alpinum,71.01,26.0501
 39477019,Phleum_alpinum,64.146,-16.497
 39720620,Phleum_alpinum,65.628,-18.598
 296514825,Phleum_alpinum,47.07214,12.77228
@@ -1982,7 +1876,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187216544,Phleum_alpinum,62.9569,10.9813
 1144160969,Phleum_alpinum,61.81088,6.85799
 1144160933,Phleum_alpinum,61.56409,6.40791
-1702429752,Phleum_alpinum,60.0031,10.7214
 1988143896,Phleum_alpinum,51.3,-117.4
 1144160974,Phleum_alpinum,62.65769,8.70421
 1144160978,Phleum_alpinum,62.24268,7.4387
@@ -2028,10 +1921,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39720596,Phleum_alpinum,65.868,-17.913
 39720589,Phleum_alpinum,65.437,-17.348
 1702410310,Phleum_alpinum,59.60196,9.69407
-1323722757,Phleum_alpinum,68.7567,14.5549
 1705394001,Phleum_alpinum,62.161628,12.321348
 1949592121,Phleum_alpinum,49.566667,-115.95
-121522055,Phleum_alpinum,-54.33,-36.28
 1701920501,Phleum_alpinum,61.56336,10.29904
 1702410312,Phleum_alpinum,60.526,9.164
 1702404127,Phleum_alpinum,61.13415,10.39176
@@ -2039,7 +1930,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701713020,Phleum_alpinum,60.5874,8.3611
 1843848024,Phleum_alpinum,36.032283,-106.855583
 1323702146,Phleum_alpinum,70.3134,25.5237
-1323722764,Phleum_alpinum,68.6987,15.296
 1702410158,Phleum_alpinum,60.035,10.2833
 1986911186,Phleum_alpinum,41.32,-118.7
 883377272,Phleum_alpinum,49.1476,-120.8972
@@ -2048,13 +1938,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705329708,Phleum_alpinum,62.585846,14.269637
 187216504,Phleum_alpinum,63.02,10.3138
 1323800781,Phleum_alpinum,68.2773,17.2641
-1988104493,Phleum_alpinum,53.1,-131.8
 1599902009,Phleum_alpinum,66.997545,25.506149
 186825519,Phleum_alpinum,59.64,7.4481
 1843847342,Phleum_alpinum,36.031628,-106.855179
 1845010167,Phleum_alpinum,46.775,8.370556
 1705329730,Phleum_alpinum,62.62225,14.16794
-1702030743,Phleum_alpinum,69.3573,18.0507
 1705329110,Phleum_alpinum,62.647581,14.16225
 1702403796,Phleum_alpinum,66.87726,15.63325
 1599902024,Phleum_alpinum,66.818267,25.517063
@@ -2065,7 +1953,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57711136,Phleum_alpinum,69.752403,27.008499
 1702404107,Phleum_alpinum,62.2527,8.3464
 1323734242,Phleum_alpinum,62.6758,11.4411
-1701767565,Phleum_alpinum,68.50598,14.8429
 39720624,Phleum_alpinum,66.108,-18.937
 1599902087,Phleum_alpinum,69.046036,20.850864
 1828739928,Phleum_alpinum,35.54695,138.03993
@@ -2117,7 +2004,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441805616,Phleum_alpinum,48.851972,-122.13667
 668790343,Phleum_alpinum,51.35,-63.783333
 296514823,Phleum_alpinum,47.07552,12.77435
-1323702172,Phleum_alpinum,70.341,31.0262
 39478078,Phleum_alpinum,63.67,-19.507
 39477005,Phleum_alpinum,64.159,-16.473
 1323722811,Phleum_alpinum,69.5257,21.2177
@@ -2133,12 +2019,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599902004,Phleum_alpinum,65.114877,25.612659
 186825487,Phleum_alpinum,59.4329,7.4047
 57711139,Phleum_alpinum,69.6604,28.992901
-1323702142,Phleum_alpinum,70.5368,22.9068
 1829823548,Phleum_alpinum,35.720028,138.185306
 1702269580,Phleum_alpinum,61.7704,11.0657
 63857684,Phleum_alpinum,45.1154,-117.3587
 1702403870,Phleum_alpinum,67.2337,15.6859
-1323702153,Phleum_alpinum,70.5936,22.3093
 1701318939,Phleum_alpinum,62.9819,10.391
 668790346,Phleum_alpinum,51.730556,-67.571667
 1705426005,Phleum_alpinum,65.818123,15.087581
@@ -2168,14 +2052,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701968778,Phleum_alpinum,63.0098,10.4418
 1701331883,Phleum_alpinum,62.9744,10.3907
 1702410267,Phleum_alpinum,59.9887,10.4159
-39477000,Phleum_alpinum,65.507,-13.902
-121522073,Phleum_alpinum,-54.17,-36.72
-121522062,Phleum_alpinum,-54.27,-36.5
-121522057,Phleum_alpinum,-54.27,-36.57
-121522058,Phleum_alpinum,-54.07,-37.13
-121522061,Phleum_alpinum,-54.5,-36.1
-121522065,Phleum_alpinum,-54.23,-36.5
-121522063,Phleum_alpinum,-54.25,-37.25
 1701286530,Phleum_alpinum,61.7063,9.312
 1599902010,Phleum_alpinum,66.43264,23.746527
 1999587843,Phleum_alpinum,69.097984,27.183958
@@ -2196,7 +2072,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270495526,Phleum_alpinum,45.17343,-117.2992
 2270494058,Phleum_alpinum,44.226116,-106.987071
 63857690,Phleum_alpinum,45.1588,-117.2766
-1988204520,Phleum_alpinum,52.9,-172.9
 1702410292,Phleum_alpinum,60.0482,10.3107
 1323722758,Phleum_alpinum,60.32528,10.13214
 465882947,Phleum_alpinum,49.134759,-66.466059
@@ -2224,12 +2099,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843847458,Phleum_alpinum,36.719521,-106.262374
 1701298296,Phleum_alpinum,69.715,22.1372
 1988211003,Phleum_alpinum,62,-128.9
-1323787876,Phleum_alpinum,71.0098,26.0088
 1830182359,Phleum_alpinum,36.75,137.75
 1702404063,Phleum_alpinum,60.2644,10.6149
 1701279468,Phleum_alpinum,62.47619,6.89627
 465882946,Phleum_alpinum,48.893333,-66.646667
-39476997,Phleum_alpinum,65.026,-13.738
 1705263643,Phleum_alpinum,62.940274,12.723199
 1319780664,Phleum_alpinum,19.28,-98.75
 1999587658,Phleum_alpinum,69.078979,27.635312
@@ -2245,7 +2118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51917262,Phleum_alpinum,42.9851,-120.9881
 1599902161,Phleum_alpinum,63.237527,27.096234
 1599901990,Phleum_alpinum,68.625022,21.706732
-39477054,Phleum_alpinum,64.849,-13.858
 1999578879,Phleum_alpinum,69.474423,27.238268
 51917237,Phleum_alpinum,44.1647,-121.7836
 1697170810,Phleum_alpinum,51.317793,87.778702
@@ -2255,7 +2127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949500674,Phleum_alpinum,49.716667,-114.7
 1144160966,Phleum_alpinum,61.30602,6.92873
 1705320378,Phleum_alpinum,66.574042,16.349428
-1323722821,Phleum_alpinum,70.0006,19.939
 1988207977,Phleum_alpinum,53.1,-121.6
 1999587733,Phleum_alpinum,69.841801,26.670632
 1697374857,Phleum_alpinum,67.615094,33.663674
@@ -2264,13 +2135,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701923156,Phleum_alpinum,60.41326,12.20847
 1999522966,Phleum_alpinum,69.788325,27.008486
 1999587676,Phleum_alpinum,69.716309,26.672584
-1323722841,Phleum_alpinum,69.8695,18.9416
 1599902056,Phleum_alpinum,65.390322,26.888929
 1096853613,Phleum_alpinum,67.92,27.58
 1848988390,Phleum_alpinum,67.91667,27.58333
 1988129213,Phleum_alpinum,49.9699999990712,-123.01
 1697374932,Phleum_alpinum,67.681902,33.824963
-1323722830,Phleum_alpinum,69.8775,18.9812
 1988185158,Phleum_alpinum,50.4,-119.1
 1599902061,Phleum_alpinum,68.714288,21.68553
 1702018462,Phleum_alpinum,59.5914,8.5484
@@ -2290,7 +2159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1322629405,Phleum_alpinum,19.4833,-97.09
 1701244774,Phleum_alpinum,64.6573,13.1887
 1702429792,Phleum_alpinum,60.1243,10.6107
-121522080,Phleum_alpinum,-54.3,-36.5
 1999522997,Phleum_alpinum,63.916281,30.359839
 1599902053,Phleum_alpinum,63.685215,26.491457
 1702429710,Phleum_alpinum,59.8979,10.5104
@@ -2311,7 +2179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949482236,Phleum_alpinum,51.316667,-117.566667
 1999578786,Phleum_alpinum,69.860034,27.008514
 1701245129,Phleum_alpinum,63.043,10.6906
-1323722820,Phleum_alpinum,68.80261,16.4454
 1701960109,Phleum_alpinum,62.8199,11.2372
 1701300484,Phleum_alpinum,62.88824,10.50693
 1988108805,Phleum_alpinum,52.7,-132
@@ -2378,14 +2245,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599902170,Phleum_alpinum,64.7542,28.57204
 1065671085,Phleum_alpinum,65.199429,20.881421
 1144160970,Phleum_alpinum,61.54414,5.76869
-1248738312,Phleum_alpinum,52.616667,-78.7
 1999522932,Phleum_alpinum,69.602188,26.09637
 1999522981,Phleum_alpinum,69.422928,26.103898
 1935710764,Phleum_alpinum,47.69525,15.38143
 1701267131,Phleum_alpinum,64.6128,12.5852
 1999522944,Phleum_alpinum,69.418009,26.01466
 51917981,Phleum_alpinum,42.6971,-118.9009
-1146372078,Phleum_alpinum,51.75,-176.75
 1701265984,Phleum_alpinum,61.2284,10.6482
 1599901972,Phleum_alpinum,64.566927,29.187259
 187216462,Phleum_alpinum,64.5915,12.6602
@@ -2406,16 +2271,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39477038,Phleum_alpinum,64.864,-19.558
 1829823575,Phleum_alpinum,35.555528,138.141861
 1701772226,Phleum_alpinum,63.0294,10.2747
-1701243583,Phleum_alpinum,70.2859,30.9943
 187216463,Phleum_alpinum,64.53678,12.57728
 441805702,Phleum_alpinum,44.417564,-115.130253
-39477047,Phleum_alpinum,65.34,-13.956
 1701221863,Phleum_alpinum,65.1659,13.3141
 1702014850,Phleum_alpinum,58.9667,8.1558
 1702429759,Phleum_alpinum,60.4898,11.1202
 441805681,Phleum_alpinum,44.125848,-114.987389
 1830236355,Phleum_alpinum,36.783333,137.75
-883377309,Phleum_alpinum,54.5,-82.28
 51917980,Phleum_alpinum,42.6813,-118.5729
 1986898353,Phleum_alpinum,37.423611,-118.855
 1701262242,Phleum_alpinum,69.0885,19.4559
@@ -2447,8 +2309,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441805697,Phleum_alpinum,43.003334,-116.728533
 51917601,Phleum_alpinum,44.4985,-123.5476
 1988157954,Phleum_alpinum,60.1,-149.4
-1599902105,Phleum_alpinum,65.373439,24.738816
-39477033,Phleum_alpinum,63.908,-16.6
 1701294735,Phleum_alpinum,63.5577,11.1338
 1705318830,Phleum_alpinum,60.731083,14.982452
 1599902058,Phleum_alpinum,68.317242,23.721891
@@ -2469,7 +2329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701280124,Phleum_alpinum,70.0587,29.7592
 1323702150,Phleum_alpinum,69.565,30.1248
 1701969080,Phleum_alpinum,63.4145,11.1031
-1988096003,Phleum_alpinum,61,-151
 1702410342,Phleum_alpinum,59.5101,9.5919
 1701920563,Phleum_alpinum,62.1324,9.4123
 441805706,Phleum_alpinum,45.755591,-115.503567
@@ -2542,7 +2401,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986892868,Phleum_alpinum,46.0208,-110.1333
 2270495553,Phleum_alpinum,40.5575,-106.5889
 63857704,Phleum_alpinum,44.008,-121.6467
-1599901997,Phleum_alpinum,65.014958,24.7692
 1830166968,Phleum_alpinum,36.533333,137.6
 1702410545,Phleum_alpinum,62.3735,10.3773
 187216567,Phleum_alpinum,61.1667,8.3959
@@ -2558,16 +2416,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599902163,Phleum_alpinum,63.231715,28.289814
 1702404139,Phleum_alpinum,60.6121,10.9986
 883377745,Phleum_alpinum,52.687211,-118.056086
-1259980572,Phleum_alpinum,58.065645,-153.075678
 1697375008,Phleum_alpinum,48.202536,22.637635
-1259980777,Phleum_alpinum,58.064703,-153.074882
 788576179,Phleum_alpinum,63.74691,12.96801
 1144160932,Phleum_alpinum,61.91214,5.97147
 1258092129,Phleum_alpinum,-54.035,-67.926111
-2265369872,Phleum_alpinum,58.064767,-153.07493
 1144160861,Phleum_alpinum,60.54419,6.66526
-2265424980,Phleum_alpinum,52.883819,-173.212106
-2265437163,Phleum_alpinum,52.884722,-173.195833
 1986890713,Phleum_alpinum,38.81,-117.25
 1702410259,Phleum_alpinum,60.32605,6.17715
 187215911,Phleum_alpinum,66.6906,13.6864
@@ -2576,12 +2429,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248738276,Phleum_alpinum,52.55,-78.25
 1701568220,Phleum_alpinum,62.745,10.4386
 1988086795,Phleum_alpinum,54.8,-127.3
-1259982371,Phleum_alpinum,52.2175,-174.202322
-2265438336,Phleum_alpinum,51.88,-176.65806
 441805674,Phleum_alpinum,44.42694,-115.27556
 1949466861,Phleum_alpinum,54.5,-126.3
 1248738309,Phleum_alpinum,53.833333,-78.993889
-1259982452,Phleum_alpinum,52.209339,-174.207982
 1988117163,Phleum_alpinum,54.8,-126
 1702403887,Phleum_alpinum,62.4574,7.6819
 1701490879,Phleum_alpinum,61.5082,9.1353
@@ -2633,15 +2483,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228258318,Phleum_alpinum,15.5589,-91.5006
 1702166010,Phleum_alpinum,61.2107,11.3362
 1701930595,Phleum_alpinum,60.1024,10.6816
-1323722741,Phleum_alpinum,68.8197,15.8556
 1988142949,Phleum_alpinum,51.5,-116.5
 1701244098,Phleum_alpinum,63.1379,10.1803
 1323722755,Phleum_alpinum,65.8623,13.9042
 1702403842,Phleum_alpinum,65.8806,13.9473
 21240699,Phleum_alpinum,59.489,8.9647
-1702403894,Phleum_alpinum,69.0244,15.6083
 1599901941,Phleum_alpinum,65.565096,28.187599
-1323722744,Phleum_alpinum,69.0226,15.6007
 1988077108,Phleum_alpinum,53.89,-115.48
 1949463358,Phleum_alpinum,51.416667,-116.4
 1702404074,Phleum_alpinum,61.6404,8.0348
@@ -2705,7 +2552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986880432,Phleum_alpinum,41.896111,-111.643056
 441805744,Phleum_alpinum,47.47263,-120.94637
 187215913,Phleum_alpinum,68.1579,18.0004
-39477020,Phleum_alpinum,66.161,-17.859
 1986885110,Phleum_alpinum,41.8255,-115.589
 51917721,Phleum_alpinum,42.6296,-123.8476
 441805712,Phleum_alpinum,46.19893,-122.18888
@@ -2742,7 +2588,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697170803,Phleum_alpinum,53.028413,158.657684
 1948398969,Phleum_alpinum,64.222579,27.71767
 1702403949,Phleum_alpinum,62.2213,7.423
-1323722837,Phleum_alpinum,70.0053,19.3752
 1259790544,Phleum_alpinum,24.86,-100.23
 1701490857,Phleum_alpinum,62.2199,9.5635
 1895761124,Phleum_alpinum,24.841667,-100.091667
@@ -2754,7 +2599,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893937947,Phleum_alpinum,24.86833,-100.23167
 1697170820,Phleum_alpinum,53.126275,157.743164
 1702404102,Phleum_alpinum,61.5368,9.6479
-1259979118,Phleum_alpinum,69.266667,-53.716667
 441805673,Phleum_alpinum,47.64951,-123.36439
 1701776251,Phleum_alpinum,62.2046,9.4382
 1323722805,Phleum_alpinum,68.9772,19.7886
@@ -2770,7 +2614,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39477052,Phleum_alpinum,65.944,-18.419
 1323852933,Phleum_alpinum,69.3072,19.3389
 1705277457,Phleum_alpinum,62.596225,12.185504
-39478145,Phleum_alpinum,64.135,-21.912
 1599901981,Phleum_alpinum,63.627461,27.329331
 1599901973,Phleum_alpinum,65.0231,25.405223
 63857674,Phleum_alpinum,43.9635,-122.1453
@@ -2796,7 +2639,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702160184,Phleum_alpinum,61.3534,5.802
 39477101,Phleum_alpinum,65.869,-17.632
 1323722822,Phleum_alpinum,68.6591,18.2786
-1323722789,Phleum_alpinum,70.1666,18.8857
 1323702170,Phleum_alpinum,69.7234,23.7932
 63857675,Phleum_alpinum,42.3994,-119.7794
 1144160994,Phleum_alpinum,62.91966,8.80075
@@ -2806,7 +2648,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 63857697,Phleum_alpinum,44.7769,-122.1012
 788675375,Phleum_alpinum,68.42107,19.08671
 39477016,Phleum_alpinum,66.074,-23.13
-1599902143,Phleum_alpinum,65.728471,24.489753
 39477107,Phleum_alpinum,64.83,-23.249
 1701930654,Phleum_alpinum,59.8635,10.366
 891706238,Phleum_alpinum,24.378611,121.224444
@@ -2818,10 +2659,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702410289,Phleum_alpinum,59.8519,9.4462
 1323722817,Phleum_alpinum,68.61687,17.04127
 1701262385,Phleum_alpinum,69.7902,21.2723
-39720637,Phleum_alpinum,66.412,-22.388
 1701493360,Phleum_alpinum,60.7465,7.1288
 1702404089,Phleum_alpinum,61.9996,9.8047
-2265474970,Phleum_alpinum,52.196111,-174.20056
 1702404158,Phleum_alpinum,61.8785,9.8016
 2270206672,Phleum_alpinum,33.7927,-116.6797
 1701710400,Phleum_alpinum,62.1871,7.5784
@@ -2830,7 +2669,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702410333,Phleum_alpinum,60.2009,7.068
 1701920555,Phleum_alpinum,61.0252,8.8797
 441805726,Phleum_alpinum,48.611032,-119.856611
-1701920314,Phleum_alpinum,68.2338,14.565
 2287722574,Phleum_alpinum,29.333333,94.583333
 63857689,Phleum_alpinum,42.0706,-120.1863
 51916998,Phleum_alpinum,44.0158,-121.7442
@@ -2857,26 +2695,20 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701710521,Phleum_alpinum,60.5678,9.7844
 1702404119,Phleum_alpinum,60.66907,9.65721
 1702404199,Phleum_alpinum,60.3872,10.6355
-1323722802,Phleum_alpinum,70.2642,20.2703
 1701371963,Phleum_alpinum,59.8342,8.6432
 63857691,Phleum_alpinum,45.2122,-117.2758
-1323722838,Phleum_alpinum,69.14767,17.27317
 1701922989,Phleum_alpinum,61.4939,6.7648
-1701926643,Phleum_alpinum,70.6585,23.679
 1599902039,Phleum_alpinum,62.250348,27.285502
 1701317343,Phleum_alpinum,60.6672,7.2432
 63857673,Phleum_alpinum,43.3068,-122.1145
 39477110,Phleum_alpinum,65.453,-19.471
 1599902214,Phleum_alpinum,65.478185,27.751931
-39478169,Phleum_alpinum,65.316,-13.919
 441805742,Phleum_alpinum,47.47522,-120.90238
 1702175920,Phleum_alpinum,61.573,8.0312
-1323722874,Phleum_alpinum,69.43399,17.96849
 1701832676,Phleum_alpinum,61.6427,8.4433
 441805665,Phleum_alpinum,47.99536,-123.46725
 1701920497,Phleum_alpinum,63.1367,9.1884
 2265438492,Phleum_alpinum,58.59655,-135.84048
-1697170815,Phleum_alpinum,55.263468,165.988655
 1702014843,Phleum_alpinum,59.1701,6.9183
 1702419307,Phleum_alpinum,70.0088,22.9135
 1144752320,Phleum_alpinum,41.83333,9.23333
@@ -2892,7 +2724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 684161238,Phleum_alpinum,47.051,10.241
 1701242981,Phleum_alpinum,68.29731,17.60818
 1697762431,Phleum_alpinum,40.221879,44.951248
-1094979790,Phleum_alpinum,-54.3292,-36.7414
 1697374900,Phleum_alpinum,61.605862,57.973004
 1701930684,Phleum_alpinum,60.4293,11.0619
 1702018468,Phleum_alpinum,60.1262,8.7031
@@ -2904,11 +2735,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702018417,Phleum_alpinum,60.1479,8.4597
 1065671165,Phleum_alpinum,65.962283,15.921624
 1701490909,Phleum_alpinum,60.488,10.9527
-1702429789,Phleum_alpinum,59.9798,10.6753
 51917822,Phleum_alpinum,42.613,-118.5839
 51917827,Phleum_alpinum,42.7372,-118.6467
 187216499,Phleum_alpinum,62.7025,9.3713
-668790331,Phleum_alpinum,49.347222,-63.396944
 1701583682,Phleum_alpinum,61.7199,9.8845
 63857703,Phleum_alpinum,44.0953,-121.6469
 1599902167,Phleum_alpinum,64.297921,24.827334
@@ -2916,13 +2745,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 63857695,Phleum_alpinum,45.3442,-121.6161
 1697374950,Phleum_alpinum,64.777124,58.891954
 1323722782,Phleum_alpinum,65.9407,14.2636
-1697374853,Phleum_alpinum,68.782599,49.313377
 1323722729,Phleum_alpinum,65.3663,13.6024
-1701262607,Phleum_alpinum,66.4983,12.0777
 1323722785,Phleum_alpinum,65.9497,14.2633
 1702404236,Phleum_alpinum,60.8596,9.3617
 1701797736,Phleum_alpinum,58.6693,7.388
-1599902115,Phleum_alpinum,65.731897,24.707504
 1697374958,Phleum_alpinum,64.999436,58.153438
 1697374879,Phleum_alpinum,64.844976,57.734299
 1697374946,Phleum_alpinum,65.050033,58.638723
@@ -2942,7 +2768,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702404140,Phleum_alpinum,61.1588,10.377
 187216338,Phleum_alpinum,60.8702,8.8251
 1259978882,Phleum_alpinum,55.912362,-130.03006
-51918075,Phleum_alpinum,44.6753,-124.0753
 1599901955,Phleum_alpinum,68.301371,22.996303
 1599901948,Phleum_alpinum,66.638984,25.527803
 1702410555,Phleum_alpinum,62.41526,11.40967
@@ -2958,12 +2783,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39476993,Phleum_alpinum,65.286,-21.202
 187215876,Phleum_alpinum,69.5863,29.9424
 39478122,Phleum_alpinum,65.364,-20.181
-187215875,Phleum_alpinum,70.3944,31.0771
 1065671138,Phleum_alpinum,64.268927,20.611218
-1065671145,Phleum_alpinum,64.075455,20.880786
-39478443,Phleum_alpinum,65.482,-24.007
 1144160859,Phleum_alpinum,59.8388,6.1504
-39478560,Phleum_alpinum,65.478,-23.996
 1697374918,Phleum_alpinum,69.189653,33.625031
 1697374954,Phleum_alpinum,69.20479,33.448351
 1697374974,Phleum_alpinum,69.307769,33.446503
@@ -3040,9 +2861,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51917369,Phleum_alpinum,42.6939,-120.545
 699263773,Phleum_alpinum,47.69722,-52.92194
 1701926600,Phleum_alpinum,68.612,18.3087
-1144160828,Phleum_alpinum,59.97258,10.72237
 1599901916,Phleum_alpinum,62.877035,27.684615
-1702403876,Phleum_alpinum,67.4096,11.8736
 1702403816,Phleum_alpinum,67.1413,16.0289
 51918333,Phleum_alpinum,42.27,-122.6175
 1701710472,Phleum_alpinum,67.2238,15.4352
@@ -3070,7 +2889,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988084600,Phleum_alpinum,49.97,-123.15
 1701920536,Phleum_alpinum,61.8313,8.4684
 1702404145,Phleum_alpinum,61.7381,8.3914
-1701501203,Phleum_alpinum,59.9766,10.6842
 1702410551,Phleum_alpinum,62.1722,10.6802
 1702404104,Phleum_alpinum,60.6305,10.5985
 1599902098,Phleum_alpinum,63.401486,24.895429
@@ -3101,7 +2919,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701920531,Phleum_alpinum,60.9883,9.2218
 1599902096,Phleum_alpinum,62.964282,28.080889
 186825485,Phleum_alpinum,59.4218,8.1278
-1702404112,Phleum_alpinum,61.1588,8.7491
 1701710581,Phleum_alpinum,60.6484,10.6478
 1599902123,Phleum_alpinum,63.596372,27.097444
 1702404126,Phleum_alpinum,60.6432,10.664
@@ -3118,7 +2935,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702410210,Phleum_alpinum,60.7086,7.0945
 296514862,Phleum_alpinum,46.714722,11.655556
 1701710403,Phleum_alpinum,63.39473,10.77511
-1701721170,Phleum_alpinum,59.9526,10.6918
 296514877,Phleum_alpinum,46.582778,11.716389
 39477065,Phleum_alpinum,63.924,-21.146
 1697762323,Phleum_alpinum,43.961191,39.901657
@@ -3193,7 +3009,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 63857682,Phleum_alpinum,44.3895,-122.0217
 1701926601,Phleum_alpinum,69.666,30.2659
 1042824600,Phleum_alpinum,60.004227,13.597923
-1702419250,Phleum_alpinum,69.7682,30.8361
 1702419247,Phleum_alpinum,69.681,30.0832
 1702410234,Phleum_alpinum,60.8703,6.6905
 1701497005,Phleum_alpinum,69.5228,29.9849
