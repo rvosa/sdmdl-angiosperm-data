@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005001914,Cyperus_luzulae,-24.016722,-52.405278
-1944854679,Cyperus_luzulae,-15.725,-47.939722
 1931784673,Cyperus_luzulae,-28.535555,-49.453889
 2004971192,Cyperus_luzulae,-9.561067,-35.795836
 2235641441,Cyperus_luzulae,-5.928056,-61.246389
@@ -90,13 +89,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1213659064,Cyperus_luzulae,-17.717944,-50.093361
 1257965000,Cyperus_luzulae,12.016667,-83.816667
 1424475730,Cyperus_luzulae,-11.976111,-60.718611
-1090154985,Cyperus_luzulae,-0.056878,-49.609511
 1316171039,Cyperus_luzulae,-17.856111,-41.260833
 1931773253,Cyperus_luzulae,-15.726389,-40.959722
 2313593718,Cyperus_luzulae,-18.333661,-50.505419
 1090154552,Cyperus_luzulae,-1.845697,-48.763517
 1077478277,Cyperus_luzulae,-15.72625,-40.959639
-1264695367,Cyperus_luzulae,-8.125,-34.875
 1587291774,Cyperus_luzulae,-19.040156,-43.372917
 1258148973,Cyperus_luzulae,11.935183,-84.540517
 1258146836,Cyperus_luzulae,11.923133,-84.61475
@@ -134,7 +131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705518992,Cyperus_luzulae,-15.866667,-47.85
 1257722648,Cyperus_luzulae,11.183333,-85.666667
 1042696837,Cyperus_luzulae,-9.549417,-56.53
-1077366867,Cyperus_luzulae,-27.604444,-48.519167
 1042696783,Cyperus_luzulae,-9.527111,-56.73
 1094897301,Cyperus_luzulae,-15.35,-38.983333
 1707495468,Cyperus_luzulae,4.756317,-71.629117
@@ -187,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090527580,Cyperus_luzulae,-7.860833,-47.946389
 1086732938,Cyperus_luzulae,-25.644444,-49.201944
 1095259342,Cyperus_luzulae,-12.843611,-48.268611
-1257937508,Cyperus_luzulae,9.433056,-82.265278
 1098468135,Cyperus_luzulae,-16.138861,-55.166944
 1257551904,Cyperus_luzulae,12.558611,-84.735278
 1090899698,Cyperus_luzulae,-8.165056,-37.57425
@@ -362,12 +357,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077219212,Cyperus_luzulae,-13.716667,-39.133333
 1095332368,Cyperus_luzulae,-28.056667,-49.424722
 1090604196,Cyperus_luzulae,-29.943333,-51.718056
-1318720204,Cyperus_luzulae,-1.91442,9.87731
 1894076083,Cyperus_luzulae,16.928611,-91.246667
 1894076201,Cyperus_luzulae,16.99,-91.290556
 1260469738,Cyperus_luzulae,-10.2,-70.95
 1086900161,Cyperus_luzulae,-24.141389,-47.994167
-1089073298,Cyperus_luzulae,-25.391667,-47.994167
 1096662565,Cyperus_luzulae,8.91,-82.8
 1259017687,Cyperus_luzulae,-16.66555,-64.50722
 1253757494,Cyperus_luzulae,8.913181,-82.795612
@@ -406,10 +399,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258170751,Cyperus_luzulae,16.851667,-88.92
 1424403326,Cyperus_luzulae,-14.251111,-44.369444
 1258792619,Cyperus_luzulae,13.583333,-85.733333
-1089292597,Cyperus_luzulae,0.866667,-49.983333
 80071962,Cyperus_luzulae,-12.57,-70.1
 1456471160,Cyperus_luzulae,5.30139,-59.9111
-1936623069,Cyperus_luzulae,7.8,-81.5833
 44966720,Cyperus_luzulae,10.99,-84.71
 1096703525,Cyperus_luzulae,9.41,-84.13
 1253736991,Cyperus_luzulae,9.4075,-84.128056
@@ -429,8 +420,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1315008922,Cyperus_luzulae,4.12117,-73.6143
 2013808174,Cyperus_luzulae,4.12117,-73.61434
 1260327413,Cyperus_luzulae,16.5225,-89.11777
-1057489028,Cyperus_luzulae,17.217668,-88.684767
-1894552229,Cyperus_luzulae,18.886944,-93.130278
 1259484583,Cyperus_luzulae,-26.433333,-53.833333
 1675946094,Cyperus_luzulae,10.225,-63.42
 1260265059,Cyperus_luzulae,16.54055,-89.09527
@@ -451,7 +440,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260468348,Cyperus_luzulae,8.74277,-83.15305
 1090484873,Cyperus_luzulae,-10.769444,-37.336944
 1089064589,Cyperus_luzulae,-23.692222,-45.633333
-2268815548,Cyperus_luzulae,11.116667,-63.866667
 1258787769,Cyperus_luzulae,1.19555,-78.57472
 1258773728,Cyperus_luzulae,11.11666,-84.36666
 1928370475,Cyperus_luzulae,-8.9394,-72.5669
@@ -498,7 +486,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077321942,Cyperus_luzulae,-19.604444,-56.325556
 1228494322,Cyperus_luzulae,-21,-55
 1258544279,Cyperus_luzulae,11.066667,-83.85
-1258539572,Cyperus_luzulae,-16.56666,-68.18333
 1989929970,Cyperus_luzulae,34.274574,-91.915192
 1077589830,Cyperus_luzulae,-9.9425,-36.378889
 1259115984,Cyperus_luzulae,-12.52666,-67.77388
@@ -514,7 +501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894076115,Cyperus_luzulae,17.806944,-91.535833
 1258387269,Cyperus_luzulae,11.15,-84.18333
 1098470713,Cyperus_luzulae,-11.632972,-50.776306
-2287796623,Cyperus_luzulae,-0.033333,115.45
 1456184499,Cyperus_luzulae,4.62639,-58.7167
 1258463340,Cyperus_luzulae,-3.74694,-73.24194
 1090560521,Cyperus_luzulae,-24.608333,-47.8825
@@ -538,7 +524,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258578035,Cyperus_luzulae,-10.06666,-71.1
 1228438889,Cyperus_luzulae,-10.07,-71.1
 1258503921,Cyperus_luzulae,14.58333,-84.78333
-1894552207,Cyperus_luzulae,18.942222,-93.064444
 1258659667,Cyperus_luzulae,9.39,-83.59
 1090466179,Cyperus_luzulae,-14.8,-39.166667
 1928892186,Cyperus_luzulae,-11.649167,-41.271111
@@ -550,7 +535,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936505720,Cyperus_luzulae,-13.5833,-41.8
 1424224723,Cyperus_luzulae,-11.955,-37.670278
 1087050721,Cyperus_luzulae,-11.583333,-47.316667
-1570744069,Cyperus_luzulae,-3.836111,-32.425
 1087050952,Cyperus_luzulae,-12.833333,-41.316667
 1265823751,Cyperus_luzulae,0.083333,-79.666667
 1087050854,Cyperus_luzulae,-13.583333,-47.8
@@ -645,16 +629,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261551755,Cyperus_luzulae,-2.1,-76.6
 1253636603,Cyperus_luzulae,10.643889,-83.736112
 1261551783,Cyperus_luzulae,-0.516667,-76.533333
-1258470421,Cyperus_luzulae,8.46,-83.58
-1253633532,Cyperus_luzulae,8.716667,-83.883333
 1929549458,Cyperus_luzulae,-23.6941660791654,-46.5604019737015
-1253633549,Cyperus_luzulae,8.480556,-83.591667
-44963979,Cyperus_luzulae,8.48,-83.59
 1676055378,Cyperus_luzulae,8.7856,-82.9575
-1261830908,Cyperus_luzulae,8.705833,-83.879444
 1261551820,Cyperus_luzulae,-0.666667,-76.433333
 2270460867,Cyperus_luzulae,8.78556,-82.9575
-44964068,Cyperus_luzulae,8.71,-83.88
 1261843250,Cyperus_luzulae,-1.06666,-77.6
 464983818,Cyperus_luzulae,11.05,-84.51667
 1261856999,Cyperus_luzulae,10.93333,-83.76666
@@ -680,14 +658,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259319468,Cyperus_luzulae,17.45,-88.55
 1259904936,Cyperus_luzulae,15,-85
 1260420210,Cyperus_luzulae,1.25,-78.66666
-1317851330,Cyperus_luzulae,15.3402,-61.3095
 44963680,Cyperus_luzulae,9.77,-84.53
 1253601420,Cyperus_luzulae,9.775,-84.533333
 1929315381,Cyperus_luzulae,-29.962118,-50.125022
 1273757823,Cyperus_luzulae,9,-74.083333
-1090924250,Cyperus_luzulae,-3.833333,-32.416667
 1260419480,Cyperus_luzulae,9,-74.08333
-1090926613,Cyperus_luzulae,-3.166667,-32.416667
 2268959291,Cyperus_luzulae,19.366667,-70.15
 1259312703,Cyperus_luzulae,16.984167,-89.0075
 2013772958,Cyperus_luzulae,-0.966667,-69.75
@@ -695,11 +670,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456184664,Cyperus_luzulae,6.51667,-58.6
 1894076048,Cyperus_luzulae,16.353333,-91.2225
 1260158248,Cyperus_luzulae,16.35,-91.21666
-44963965,Cyperus_luzulae,8.61,-83.73
-1253633587,Cyperus_luzulae,8.616667,-83.733334
 1260226488,Cyperus_luzulae,7.7,-61.01666
 1456034428,Cyperus_luzulae,2.23333,-59.1833
-1500201366,Cyperus_luzulae,12.1,-61.691667
 1421792633,Cyperus_luzulae,17.566667,-101.429167
 1261532608,Cyperus_luzulae,-25.866667,-57.133333
 1260419501,Cyperus_luzulae,5.15,-64.56666
@@ -724,7 +696,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930761558,Cyperus_luzulae,-21.2596080077467,-52.0374648731129
 2242386502,Cyperus_luzulae,10.201707,-84.482374
 1259955036,Cyperus_luzulae,-12.83333,-69.28333
-1056276699,Cyperus_luzulae,-23.236211,-58.391024
 1260422111,Cyperus_luzulae,-15.96666,-50.11666
 1260225672,Cyperus_luzulae,6.58333,-62.66666
 415947758,Cyperus_luzulae,12.25,-83.66666
@@ -779,7 +750,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253601448,Cyperus_luzulae,10.401111,-84.050833
 1260020379,Cyperus_luzulae,-13.28333,-70.8
 1893315429,Cyperus_luzulae,20.783889,-105.250556
-1893316364,Cyperus_luzulae,21.750278,-97.583611
 1896254582,Cyperus_luzulae,20.806389,-105.248056
 1927769848,Cyperus_luzulae,-1.07,-77.6
 1259313426,Cyperus_luzulae,14.033056,-87.126389
@@ -816,7 +786,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089155739,Cyperus_luzulae,-6.8047,-35.084422
 1228335782,Cyperus_luzulae,-12,-70.25
 1260421785,Cyperus_luzulae,7.65,-66.16666
-1259308219,Cyperus_luzulae,9.365,-82.248333
 1259196214,Cyperus_luzulae,-12.83333,-69.33333
 1260421803,Cyperus_luzulae,4.98333,-64.81666
 1259307918,Cyperus_luzulae,9.24333,-82.25666
@@ -844,7 +813,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895144969,Cyperus_luzulae,16.760555,-91.130278
 1260421529,Cyperus_luzulae,7.75,-68.83333
 44963687,Cyperus_luzulae,10.35,-84.68
-1894552219,Cyperus_luzulae,18.783333,-92.160556
 1253700221,Cyperus_luzulae,9.299722,-83.298056
 44963578,Cyperus_luzulae,9.29,-83.29
 1928248123,Cyperus_luzulae,-14.5,-67.5
@@ -868,8 +836,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090598818,Cyperus_luzulae,-30.101167,-51.328056
 1090598836,Cyperus_luzulae,-31.771944,-52.342222
 1259949845,Cyperus_luzulae,1.11666,-78.61666
-1259964987,Cyperus_luzulae,8.45,-83.55
-44963140,Cyperus_luzulae,8.45,-83.56
 1253698774,Cyperus_luzulae,10.433333,-83.583333
 1260421548,Cyperus_luzulae,7.458611,-76.847778
 44963218,Cyperus_luzulae,10.43,-83.58
@@ -899,7 +865,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456372914,Cyperus_luzulae,4.55,-52.15
 1259985477,Cyperus_luzulae,-2.333333,-75.883333
 464902691,Cyperus_luzulae,4.93333,-52.31667
-2291610228,Cyperus_luzulae,6.833333,-58.416667
 2290265040,Cyperus_luzulae,5.833333,-60.666667
 1456009035,Cyperus_luzulae,6.83,-58.41
 1456345518,Cyperus_luzulae,5.83,-60.66
@@ -920,10 +885,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456420015,Cyperus_luzulae,2.88,-54
 1456370066,Cyperus_luzulae,3.31667,-54.1
 1260716780,Cyperus_luzulae,3.61666,-53.2
-1707505024,Cyperus_luzulae,2.949969,-78.218919
 1456345812,Cyperus_luzulae,5,-53.1667
 1424226170,Cyperus_luzulae,-7.616667,-72.7
-1898907863,Cyperus_luzulae,2.983333,-78.183334
 2290335952,Cyperus_luzulae,3.35,-59.566667
 1456467468,Cyperus_luzulae,3.38,-59.56
 1456458112,Cyperus_luzulae,3.36,-59.5
@@ -933,7 +896,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291610012,Cyperus_luzulae,3.366667,-59.5
 1930574866,Cyperus_luzulae,-0.6,-49.62
 1089291219,Cyperus_luzulae,-1,-50.036111
-47753195,Cyperus_luzulae,-2.7,-79.916
 1042612500,Cyperus_luzulae,-0.6,-49.65
 1260420053,Cyperus_luzulae,-0.6,-49.61666
 1930229619,Cyperus_luzulae,-0.95,-49.8
@@ -947,7 +909,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1898880557,Cyperus_luzulae,4.14596,-73.63479
 1930679729,Cyperus_luzulae,-19.138199,-39.961174
 1258330662,Cyperus_luzulae,15.32888,-85.41611
-1260201488,Cyperus_luzulae,16.1,-86.91666
 1894076113,Cyperus_luzulae,16.716944,-93.900278
 1260421780,Cyperus_luzulae,7.53333,-61.48333
 1260035253,Cyperus_luzulae,16.917778,-89.8875
@@ -987,7 +948,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260420231,Cyperus_luzulae,-7.66666,-61.16666
 1259954280,Cyperus_luzulae,14.766667,-84.75
 1894552225,Cyperus_luzulae,18.378611,-93.048333
-1894552188,Cyperus_luzulae,18.561389,-93.066111
 1894076170,Cyperus_luzulae,17.9882989530663,-93.5716851528328
 1260159078,Cyperus_luzulae,15.07138,-85.5725
 1894552222,Cyperus_luzulae,17.7775,-92.460278
@@ -998,7 +958,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260160278,Cyperus_luzulae,14.01666,-89.25
 1123784120,Cyperus_luzulae,-19.936111,-40.616667
 1893635442,Cyperus_luzulae,19.207222,-96.751111
-2287798483,Cyperus_luzulae,4.85,117.616666
 1893315383,Cyperus_luzulae,19.220833,-96.772222
 1419234364,Cyperus_luzulae,19.216667,-96.766667
 1896254632,Cyperus_luzulae,19.225,-96.775
@@ -1071,7 +1030,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259949812,Cyperus_luzulae,3.66666,-65.75
 1260081229,Cyperus_luzulae,8.833333,-82.716667
 415949331,Cyperus_luzulae,-16.18333,-67.73333
-1259310495,Cyperus_luzulae,14.12972,-87.16444
 1259313625,Cyperus_luzulae,9.73,-82.84
 1260383159,Cyperus_luzulae,-9.61666,-74.93333
 1894076061,Cyperus_luzulae,18.108333,-91.041667
@@ -1082,7 +1040,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419195816,Cyperus_luzulae,17.798611,-93.623333
 1893315347,Cyperus_luzulae,18.5650288549762,-95.6574984345208
 1315008843,Cyperus_luzulae,7.63104,-76.9317
-1421414669,Cyperus_luzulae,14.086944,-87.164444
 1891000115,Cyperus_luzulae,7.629734,-76.945253
 1421380613,Cyperus_luzulae,18.061111,-92.016667
 1986992664,Cyperus_luzulae,14.549335,-86.649657
@@ -1093,7 +1050,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260077387,Cyperus_luzulae,11.7,-84.95
 1896254578,Cyperus_luzulae,18.844167,-96.708333
 1260253463,Cyperus_luzulae,-16.839722,-64.795558
-1259314187,Cyperus_luzulae,14.11555,-87.19472
 1259312365,Cyperus_luzulae,14.03333,-86.58333
 1259311752,Cyperus_luzulae,14.866667,-87.983333
 1259314138,Cyperus_luzulae,14.5525,-86.667778
@@ -1101,13 +1057,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47753216,Cyperus_luzulae,-0.533,-76.366
 1260058682,Cyperus_luzulae,-0.53333,-76.36666
 1260421783,Cyperus_luzulae,7.41666,-65.16666
-1930245542,Cyperus_luzulae,-15.7834208090807,-47.9298726661488
 1090570831,Cyperus_luzulae,-25.0147,-47.9267
 1260072205,Cyperus_luzulae,11.98333,-83.76666
-1259304280,Cyperus_luzulae,7.28333,-77.96666
 1260048532,Cyperus_luzulae,11.55,-83.8
 1144639995,Cyperus_luzulae,-24.33333,-55
-1260088543,Cyperus_luzulae,11.99722,-83.69166
 1259308897,Cyperus_luzulae,7.498889,-78.054167
 1259310130,Cyperus_luzulae,15.0925,-85.47611
 1894076110,Cyperus_luzulae,17.958333,-88.886111
@@ -1170,9 +1123,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260421178,Cyperus_luzulae,-15.590555,-47.591389
 1928862471,Cyperus_luzulae,-15.5,-55.75
 1260084391,Cyperus_luzulae,14.945833,-87.776944
-1503211605,Cyperus_luzulae,18.5167,-69.8333
 1260085309,Cyperus_luzulae,15.008056,-87.633333
-1260225108,Cyperus_luzulae,18.51666,-69.83333
 1675901543,Cyperus_luzulae,-15.8,-47.48
 1213535267,Cyperus_luzulae,-15.8,-47.483333
 1894076116,Cyperus_luzulae,17.878889,-93.608611
@@ -1197,7 +1148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896254575,Cyperus_luzulae,17.988333,-93.375
 1675979396,Cyperus_luzulae,-3.83,-49.62
 1315008862,Cyperus_luzulae,5.944,-74.8592
-1260050164,Cyperus_luzulae,11.59583,-83.65972
 1315008909,Cyperus_luzulae,6.27018,-75.1035
 1929112326,Cyperus_luzulae,-3.83168,-49.636685
 1890948411,Cyperus_luzulae,6.270182,-75.10348
@@ -1369,7 +1319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260057584,Cyperus_luzulae,-1,-75.46666
 1259161585,Cyperus_luzulae,8.49166,-81.07916
 1260005791,Cyperus_luzulae,-2.83333,-76.46666
-1259313764,Cyperus_luzulae,14.129722,-87.164444
 47753326,Cyperus_luzulae,-2.816,-78.316
 1260057683,Cyperus_luzulae,-2.81666,-78.31666
 1259311840,Cyperus_luzulae,14.53888,-86.70861
@@ -1413,7 +1362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258376207,Cyperus_luzulae,11.81666,-86.5
 1259968541,Cyperus_luzulae,6.93333,-63.25
 1259314714,Cyperus_luzulae,14.66222,-86.67777
-1893315431,Cyperus_luzulae,20.167222,-96.733611
 1259306553,Cyperus_luzulae,7.71777,-80.865
 1261491778,Cyperus_luzulae,-5.118889,-78.320833
 1894076085,Cyperus_luzulae,18.163333,-93.019444
@@ -1427,7 +1375,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896254620,Cyperus_luzulae,17.594444,-94.503056
 1890963059,Cyperus_luzulae,-0.599731,-72.406897
 1259304631,Cyperus_luzulae,8.51222,-81.12416
-44960883,Cyperus_luzulae,9.83,-82.83
 1260420051,Cyperus_luzulae,4.98333,-76.21666
 44960803,Cyperus_luzulae,9.51,-82.93
 1260421698,Cyperus_luzulae,4.867123,-76.25161
@@ -1525,7 +1472,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1576181643,Cyperus_luzulae,4.93028,-75.8525
 1896254618,Cyperus_luzulae,17.251667,-94.599167
 1259308110,Cyperus_luzulae,9.12805,-79.7175
-1259310015,Cyperus_luzulae,17.25,-88.78333
 1896254594,Cyperus_luzulae,18,-93.546667
 1259314302,Cyperus_luzulae,17.98,-93.57
 1893315329,Cyperus_luzulae,17.366944,-94.666944
@@ -1536,14 +1482,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1898880197,Cyperus_luzulae,7.216667,-75.052002
 1259314235,Cyperus_luzulae,9.28055,-79.40416
 1144640009,Cyperus_luzulae,-25.5,-57.5
-1259016488,Cyperus_luzulae,6.21916,-77.40777
 1259306786,Cyperus_luzulae,8.28333,-82.86666
 1259306955,Cyperus_luzulae,8.256944,-82.891667
 1087261000,Cyperus_luzulae,-14.7056,-47.5247
 1087260996,Cyperus_luzulae,-13.7764,-47.2647
 1929144611,Cyperus_luzulae,-13.8162297263192,-47.2651251433805
 1928615146,Cyperus_luzulae,-14.6846983784063,-47.5146430878574
-1259307777,Cyperus_luzulae,8.04166,-82.88
 47753414,Cyperus_luzulae,-0.916,-79.183
 1260059167,Cyperus_luzulae,-3.61666,-78.56666
 1260058458,Cyperus_luzulae,-0.91666,-79.18333
@@ -1578,7 +1522,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259310474,Cyperus_luzulae,9.75,-83.75
 1259314382,Cyperus_luzulae,10.41944,-85.13972
 1259313019,Cyperus_luzulae,10.533333,-85.316667
-1259305020,Cyperus_luzulae,9.55,-79.65
 1988829783,Cyperus_luzulae,17.0568,-93.5536
 1894076118,Cyperus_luzulae,17.109722,-93.5
 1259311869,Cyperus_luzulae,16.957778,-92.111667
@@ -1597,7 +1540,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259311735,Cyperus_luzulae,15.75,-84.55
 2289477265,Cyperus_luzulae,-30.533333,-58.4
 1228255245,Cyperus_luzulae,9.1667,-80
-1259304892,Cyperus_luzulae,9.53333,-79.66666
 1927934148,Cyperus_luzulae,-7.247012,-64.798211
 1576181661,Cyperus_luzulae,4.76321,-74.07585
 1259313954,Cyperus_luzulae,17.42055,-88.40055
@@ -1630,11 +1572,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1315008888,Cyperus_luzulae,4.08513,-73.3195
 1890916690,Cyperus_luzulae,4.084675,-73.324282
 1259312389,Cyperus_luzulae,16.978611,-88.334444
-1259313407,Cyperus_luzulae,17.25,-88.816667
 1258934372,Cyperus_luzulae,14.96666,-88.9
 1259305928,Cyperus_luzulae,8.59611,-80.08583
 1259311821,Cyperus_luzulae,17.05,-88.966667
-1259310293,Cyperus_luzulae,16.3,-86.55
 1259313931,Cyperus_luzulae,16.96666,-88.98333
 1259021022,Cyperus_luzulae,11.11666,-84.76666
 1259018866,Cyperus_luzulae,12.083333,-85.333333
@@ -1649,7 +1589,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259304945,Cyperus_luzulae,8.88333,-79.8
 1896254574,Cyperus_luzulae,17.925,-95.758333
 1259306745,Cyperus_luzulae,8.77,-82.678333
-1319550064,Cyperus_luzulae,15.3336,-61.323
 1259304443,Cyperus_luzulae,9.16666,-79.76666
 1259307116,Cyperus_luzulae,9.2775,-79.92222
 1259144942,Cyperus_luzulae,9.20138,-79.60416
@@ -1673,14 +1612,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928416749,Cyperus_luzulae,-9.06930077461925,-68.6584285371974
 1259210126,Cyperus_luzulae,10.09055,-83.48972
 1259015208,Cyperus_luzulae,12.183333,-84.233333
-1259015491,Cyperus_luzulae,12,-83.68333
 1259015010,Cyperus_luzulae,12.11666,-84.48333
 1259014908,Cyperus_luzulae,12.18333,-84.23333
 1259015967,Cyperus_luzulae,13.63333,-86.5
 1259014977,Cyperus_luzulae,12.033333,-83.766667
 1894076138,Cyperus_luzulae,15.082778,-92.559167
 1259017918,Cyperus_luzulae,11.33333,-85.81666
-44959839,Cyperus_luzulae,10.46,-83.96
 2290509268,Cyperus_luzulae,6.916667,-74.25
 1260421640,Cyperus_luzulae,6.91666,-74.25
 1259305511,Cyperus_luzulae,7.561389,-80.513333
@@ -1709,11 +1646,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258988639,Cyperus_luzulae,9.89138,-83.64416
 1038924551,Cyperus_luzulae,37.504279,-76.997681
 1989124195,Cyperus_luzulae,16.8105,-92.4952
-1322133583,Cyperus_luzulae,15.41,-61.3978
 1929330119,Cyperus_luzulae,-2.874325,-60.096261
 1927850759,Cyperus_luzulae,-7.508793,-63.362754
 1259304421,Cyperus_luzulae,9.371667,-82.53
-1318836302,Cyperus_luzulae,15.378,-61.3437
 1675928686,Cyperus_luzulae,10.05,-83.97
 1259310910,Cyperus_luzulae,10.05,-83.96666
 1260303565,Cyperus_luzulae,13.075,-85.78333
@@ -1731,18 +1666,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768746739,Cyperus_luzulae,-2.98,-69.87
 1895401766,Cyperus_luzulae,18.5048424236657,-95.0355644723945
 1457832276,Cyperus_luzulae,17.366667,-93.583333
-1259308181,Cyperus_luzulae,8.983056,-79.515833
 1896254571,Cyperus_luzulae,18.504167,-95.035556
 1457832251,Cyperus_luzulae,17.416667,-93.583333
 1258455873,Cyperus_luzulae,14.03333,-83.38333
 1989461135,Cyperus_luzulae,18.4576,-95.0539
 1259305024,Cyperus_luzulae,9.358333,-79.566667
-1259313489,Cyperus_luzulae,9.011944,-79.596944
 1929558180,Cyperus_luzulae,-1.736043,-46.591256
 1928466016,Cyperus_luzulae,-24.5132646574383,-50.4139716361424
 1259308154,Cyperus_luzulae,9.2175,-78.93055
 1259306076,Cyperus_luzulae,9.294444,-82.419444
-1259306029,Cyperus_luzulae,8.99583,-79.60166
 1087260995,Cyperus_luzulae,-15.8006,-46.9267
 1260421588,Cyperus_luzulae,-16,-47
 1929476168,Cyperus_luzulae,-16.0357639586557,-48.8091309966958
@@ -1753,9 +1685,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260422164,Cyperus_luzulae,-16,-49
 1259310477,Cyperus_luzulae,15.80444,-89.94388
 1259310229,Cyperus_luzulae,15.90027,-89.98972
-1317782401,Cyperus_luzulae,15.3906,-61.2994
 1894076144,Cyperus_luzulae,17.829167,-93.391667
-1317360100,Cyperus_luzulae,15.3913,-61.3501
 1929762034,Cyperus_luzulae,-13.5558621281486,-52.268848305018
 1898870511,Cyperus_luzulae,2.554874,-74.241993
 1896254587,Cyperus_luzulae,18.540833,-95.048611
@@ -1799,7 +1729,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259307685,Cyperus_luzulae,9.1725,-79.798055
 415980011,Cyperus_luzulae,15.7,-87.46666
 1456261545,Cyperus_luzulae,8.35,-60.48
-1259304388,Cyperus_luzulae,8.977778,-79.613056
 1259306857,Cyperus_luzulae,7.9,-77.4
 1259314233,Cyperus_luzulae,17.225,-89.61305
 1213630173,Cyperus_luzulae,-22.183333,-47.116667
@@ -1827,12 +1756,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1676032662,Cyperus_luzulae,0.67,-70.5
 2289674347,Cyperus_luzulae,11.033333,-84.733333
 44961079,Cyperus_luzulae,11.03,-84.73
-2288788557,Cyperus_luzulae,5.846517,-55.159049
 2013770045,Cyperus_luzulae,3.076106,-73.887472
-1675843160,Cyperus_luzulae,13.35,-81.38
-1260227317,Cyperus_luzulae,13.35,-81.38333
-1675798327,Cyperus_luzulae,12.58,-81.7
-1260228251,Cyperus_luzulae,12.58333,-81.7
 2287799143,Cyperus_luzulae,-8.433333,-74.6
 1675884225,Cyperus_luzulae,-8.43,-74.6
 1315008866,Cyperus_luzulae,7.05494,-76.4359
@@ -1845,7 +1769,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1315008883,Cyperus_luzulae,4.96021,-74.4381
 1340029857,Cyperus_luzulae,-27.3675,-55.580833
 1890926745,Cyperus_luzulae,-3.53,-70.05
-1455963908,Cyperus_luzulae,5.83,-55.16
 1895401689,Cyperus_luzulae,18.506724475683,-96.7718226874914
 1989491164,Cyperus_luzulae,18.4988,-96.7751
 1896254586,Cyperus_luzulae,17.875,-94.091667
@@ -1861,12 +1784,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988858391,Cyperus_luzulae,17.9471,-96.1708
 1260421903,Cyperus_luzulae,1.498,-75.745
 1456295146,Cyperus_luzulae,3.14,-65.72
-1259305046,Cyperus_luzulae,8.965278,-79.583333
 1456045224,Cyperus_luzulae,7.33,-65.18
 1895401727,Cyperus_luzulae,17.49602,-91.80255
 1989398991,Cyperus_luzulae,17.5188,-91.9914
 1894076120,Cyperus_luzulae,17.4967500650422,-91.8024737141667
-1260029238,Cyperus_luzulae,-25.25,-57.58333
 1259307732,Cyperus_luzulae,8.953889,-79.654722
 1259313999,Cyperus_luzulae,15.7475,-86.79166
 1090533171,Cyperus_luzulae,-22.9028,-43.2075
@@ -1879,9 +1800,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988740688,Cyperus_luzulae,18.887,-96.9462
 1340029919,Cyperus_luzulae,17.569167,-88.405
 1259311675,Cyperus_luzulae,9.225,-79.53333
-1259311755,Cyperus_luzulae,8.958056,-79.549722
 1259311434,Cyperus_luzulae,14.905,-92.236667
-1456216897,Cyperus_luzulae,6.8,-58.16
 1259310220,Cyperus_luzulae,15.75,-87.46666
 1890955304,Cyperus_luzulae,4.891364,-74.442827
 1928344596,Cyperus_luzulae,-8.12,-35.18
@@ -1892,7 +1811,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259741478,Cyperus_luzulae,-27.33333,-58.93333
 1456256447,Cyperus_luzulae,2.63,-66.31
 1456234696,Cyperus_luzulae,4.93,-67.83
-1228519795,Cyperus_luzulae,19,-70.6667
 1259311918,Cyperus_luzulae,17.033333,-88.333333
 1259756358,Cyperus_luzulae,-24.7,-60.6
 1675866058,Cyperus_luzulae,-22.93,-43.23
@@ -1904,11 +1822,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456298673,Cyperus_luzulae,5.98,-58.55
 1456312646,Cyperus_luzulae,7.7,-58.93
 1260469226,Cyperus_luzulae,-14.02,-67
-1456023428,Cyperus_luzulae,6.8,-58.13
 1259628962,Cyperus_luzulae,17.9,-76.896
 1259771814,Cyperus_luzulae,-26.25,-51.066667
 1259314336,Cyperus_luzulae,19.669445,-101.225278
 1928534352,Cyperus_luzulae,18.01249,-76.968348
 1259314221,Cyperus_luzulae,15.67666,-90.42
 1259313850,Cyperus_luzulae,15.115,-89.35583
-1929601265,Cyperus_luzulae,15.595511,-61.364322
