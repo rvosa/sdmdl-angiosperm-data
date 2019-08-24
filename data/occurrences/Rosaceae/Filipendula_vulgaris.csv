@@ -28,7 +28,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839012173,Filipendula_vulgaris,41.371391,24.024441
 1839012160,Filipendula_vulgaris,41.12944,24.646391
 1839012188,Filipendula_vulgaris,41.383888,24.065559
-1881665304,Filipendula_vulgaris,48.5,10.32
 1842878289,Filipendula_vulgaris,43.02064,-3.24588
 1702172471,Filipendula_vulgaris,59.0516,10.9355
 1702244695,Filipendula_vulgaris,59.3207,10.524
@@ -63,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697797816,Filipendula_vulgaris,44.75837,37.46567
 1839011112,Filipendula_vulgaris,40.484169,21.58917
 1839011157,Filipendula_vulgaris,40.272781,21.241671
-1095918057,Filipendula_vulgaris,59.48,17
 1839011099,Filipendula_vulgaris,39.933891,21.576111
 1839011080,Filipendula_vulgaris,39.72583,21.04278
 1839011136,Filipendula_vulgaris,39.979439,21.51194
@@ -75,7 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839011148,Filipendula_vulgaris,40.17028,21.61528
 1839011175,Filipendula_vulgaris,40.714439,21.89139
 1839011109,Filipendula_vulgaris,39.942219,21.58889
-1095918055,Filipendula_vulgaris,60,17
 1839011215,Filipendula_vulgaris,40.341389,21.41222
 1839011139,Filipendula_vulgaris,40.151112,21.625
 1902144810,Filipendula_vulgaris,47.74722,16.88444
@@ -112,7 +109,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935689147,Filipendula_vulgaris,47.77814,16.58128
 214533929,Filipendula_vulgaris,52.468334,14.469722
 1342487643,Filipendula_vulgaris,55.227261,9.682629
-1096657823,Filipendula_vulgaris,50.6,69.82
 2290067878,Filipendula_vulgaris,43.81,3.783333
 1230748351,Filipendula_vulgaris,39.03083,46.36917
 1882640355,Filipendula_vulgaris,51.540207,11.934791
@@ -130,7 +126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839011418,Filipendula_vulgaris,40.017502,21.487499
 994566414,Filipendula_vulgaris,50.02,19.85
 214533928,Filipendula_vulgaris,47.561111,10.668612
-1697544646,Filipendula_vulgaris,53.5,39
 1936671357,Filipendula_vulgaris,41.7889,-4.7343
 1342487585,Filipendula_vulgaris,55.884954,9.198539
 1212102396,Filipendula_vulgaris,39.102222,21.816667
@@ -174,9 +169,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 31961143,Filipendula_vulgaris,42.0617,0.7514
 1671655474,Filipendula_vulgaris,44.278526,9.808796
 1999493977,Filipendula_vulgaris,60.523512,22.351746
-1050640914,Filipendula_vulgaris,42.82,-2.7
 1936659259,Filipendula_vulgaris,40.818056,44.886944
-31961214,Filipendula_vulgaris,42.6,-5.529
 1571768721,Filipendula_vulgaris,43.006734,-5.070129
 895181750,Filipendula_vulgaris,40.238,-2.148
 198469107,Filipendula_vulgaris,43.006733,-5.070129
@@ -200,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936645247,Filipendula_vulgaris,41.9003,24.8814
 1697797708,Filipendula_vulgaris,45.329582,37.284164
 1986951110,Filipendula_vulgaris,40.366667,44.65
-1697544496,Filipendula_vulgaris,53.966667,35.8
 1702216449,Filipendula_vulgaris,59.9098,10.5261
 29639737,Filipendula_vulgaris,40.382,-2.111
 788599764,Filipendula_vulgaris,51.07989,16.38088
@@ -221,7 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851393015,Filipendula_vulgaris,42.7453,-6.6218
 211645894,Filipendula_vulgaris,38.17,-2.14
 11437600,Filipendula_vulgaris,46.2864,4.18433
-317819927,Filipendula_vulgaris,39.7,45.57
 317819979,Filipendula_vulgaris,40.38,44.28
 1342487619,Filipendula_vulgaris,56.198339,9.554718
 1230739092,Filipendula_vulgaris,40.38333,44.28333
@@ -258,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936643408,Filipendula_vulgaris,43.2196,-4.0971
 1935688981,Filipendula_vulgaris,46.81,15.98667
 59998213,Filipendula_vulgaris,42.84797,-8.002608
-1697544719,Filipendula_vulgaris,53.4,35.45
 1702191551,Filipendula_vulgaris,59.4625,10.6656
 1936571342,Filipendula_vulgaris,40.5794,-4.2301
 30932937,Filipendula_vulgaris,40.91,-3.84
@@ -266,11 +256,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258558322,Filipendula_vulgaris,41.76166,43.52277
 1050622891,Filipendula_vulgaris,42.74,-2.55
 1851411042,Filipendula_vulgaris,42.954,-5.397
-1050624145,Filipendula_vulgaris,41.8,-1.81
 111306759,Filipendula_vulgaris,43.077,-2.502
 211645891,Filipendula_vulgaris,38.491,-2.352
 1936540277,Filipendula_vulgaris,42.7994,-2.2798
-30962484,Filipendula_vulgaris,42.8,-2.27
 211645889,Filipendula_vulgaris,38.191,-1.932
 30868816,Filipendula_vulgaris,36.580002,-4.68
 788810833,Filipendula_vulgaris,41.033333,22.283333
@@ -284,7 +272,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702023742,Filipendula_vulgaris,59.7042,10.555
 1434770762,Filipendula_vulgaris,41.299831,-7.734124
 1701828950,Filipendula_vulgaris,59.4397,10.5965
-1501005596,Filipendula_vulgaris,39,-0.83
 29640091,Filipendula_vulgaris,38.925,-0.929
 1500992830,Filipendula_vulgaris,38.92,-0.92
 1500983187,Filipendula_vulgaris,38.95,-0.89
@@ -292,12 +279,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29640087,Filipendula_vulgaris,38.952,-0.894
 1702163548,Filipendula_vulgaris,59.2605,10.7338
 29641191,Filipendula_vulgaris,39.06,-0.98
-29639643,Filipendula_vulgaris,39.7,-2.01
 1851365798,Filipendula_vulgaris,42.3511,-5.1848
 29639640,Filipendula_vulgaris,39.97,-2.47
 1831521346,Filipendula_vulgaris,34.06806,-4.1225
 1936575616,Filipendula_vulgaris,41.8352,-5.988
-30961580,Filipendula_vulgaris,39.02,-0.9
 1701986494,Filipendula_vulgaris,60.0669,10.28
 1697544785,Filipendula_vulgaris,54.21204,45.779665
 1697544770,Filipendula_vulgaris,54.309727,46.078085
@@ -319,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999493878,Filipendula_vulgaris,60.52602,22.530147
 1702011011,Filipendula_vulgaris,59.3223,11.8037
 1999493876,Filipendula_vulgaris,60.4652,22.24084
-29638956,Filipendula_vulgaris,39.51,-1.2
 1881666363,Filipendula_vulgaris,48.74,10.65
 111306533,Filipendula_vulgaris,42.976002,-2.172
 1701784297,Filipendula_vulgaris,59.8381,10.5076
@@ -341,7 +325,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999493845,Filipendula_vulgaris,60.645314,21.665693
 1502065496,Filipendula_vulgaris,38.62,-0.58
 1053986333,Filipendula_vulgaris,42.82,-1.35
-29641015,Filipendula_vulgaris,40.4,-0.35
 1851400076,Filipendula_vulgaris,43.016,-5.019
 1851393533,Filipendula_vulgaris,43.006,-5.067
 1999493908,Filipendula_vulgaris,60.924245,21.622684
@@ -361,7 +344,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 29638926,Filipendula_vulgaris,39.78,-1.19
 1936620326,Filipendula_vulgaris,41.1957,-3.1158
 1851321641,Filipendula_vulgaris,42.6931,-5.4202
-2289911355,Filipendula_vulgaris,43.3,0.65
 29641014,Filipendula_vulgaris,40.39,-0.11
 1697544891,Filipendula_vulgaris,55.399096,57.926585
 1701887015,Filipendula_vulgaris,59.4682,10.6499
@@ -403,12 +385,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947111854,Filipendula_vulgaris,50.26,10.34
 1599132072,Filipendula_vulgaris,60.294396,22.619819
 1434770867,Filipendula_vulgaris,41.776329,-6.75776
-1050584554,Filipendula_vulgaris,42.5,-2.41
 111306895,Filipendula_vulgaris,42.729,-1.687
 2313366233,Filipendula_vulgaris,48.21,11.47
 1851348512,Filipendula_vulgaris,42.85,-4.41
 1999493812,Filipendula_vulgaris,60.643422,22.196213
-30961963,Filipendula_vulgaris,40.3,-0.37
 111306349,Filipendula_vulgaris,42.535,-1.313
 29639363,Filipendula_vulgaris,38.98,-2.71
 1053983958,Filipendula_vulgaris,42.62,-1.15
@@ -445,7 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999493905,Filipendula_vulgaris,60.837103,21.614331
 111306347,Filipendula_vulgaris,42.702,-1.053
 111306351,Filipendula_vulgaris,42.710999,-1.687
-29640500,Filipendula_vulgaris,39.6,-1.19
 1050621658,Filipendula_vulgaris,42.62,-1.01
 1936111254,Filipendula_vulgaris,41.0594,-3.9534
 1999493989,Filipendula_vulgaris,60.450221,22.588808
@@ -461,7 +440,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851356048,Filipendula_vulgaris,42.85,-4.707
 1851328240,Filipendula_vulgaris,42.92,-5.63
 2307593831,Filipendula_vulgaris,51.77,-4.17
-30868467,Filipendula_vulgaris,36.68,-3.9
 1050584562,Filipendula_vulgaris,42.61,-2.51
 1702509174,Filipendula_vulgaris,42.07,-1.85
 1936558838,Filipendula_vulgaris,42.7636,-3.6857
@@ -484,10 +462,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599132044,Filipendula_vulgaris,60.078171,23.358115
 1697249585,Filipendula_vulgaris,51.166667,86.333333
 1851354239,Filipendula_vulgaris,42.84,-4.768
-1697249617,Filipendula_vulgaris,51.67,86
 1599132058,Filipendula_vulgaris,60.398624,23.095443
 29640702,Filipendula_vulgaris,39.87,-0.84
-1851321063,Filipendula_vulgaris,43,-6.24
 1936096689,Filipendula_vulgaris,38.45,-2.6918
 111306354,Filipendula_vulgaris,42.668999,-2.018
 1599132187,Filipendula_vulgaris,60.471057,22.540574
@@ -532,7 +508,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050584534,Filipendula_vulgaris,42.89,-2.57
 1657181439,Filipendula_vulgaris,46.775,15.875
 1050584547,Filipendula_vulgaris,42.88,-2.81
-1050584546,Filipendula_vulgaris,42.6,-2.48
 29639616,Filipendula_vulgaris,37.97,-2.903
 1851360592,Filipendula_vulgaris,42.28,-5.97
 1697544598,Filipendula_vulgaris,55.565505,37.588645
@@ -559,7 +534,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434770986,Filipendula_vulgaris,41.602608,-6.594292
 1936096242,Filipendula_vulgaris,42.7742,-2.6835
 111306567,Filipendula_vulgaris,42.68,-2.33
-1842849685,Filipendula_vulgaris,42.3,1
 1936409448,Filipendula_vulgaris,38.2607,-2.6698
 111306568,Filipendula_vulgaris,42.669998,-1.96
 111306570,Filipendula_vulgaris,42.580002,-1.96
@@ -594,9 +568,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936454994,Filipendula_vulgaris,40.6468,-2.2916
 1851374675,Filipendula_vulgaris,42.91,-5.76
 1851326060,Filipendula_vulgaris,42.92,-5.39
-1851404234,Filipendula_vulgaris,42.82,-6
 1260845266,Filipendula_vulgaris,43.67472,6.97555
-1050584544,Filipendula_vulgaris,42.9,-2.77
 1697732757,Filipendula_vulgaris,44.857177,34.942231
 1851409752,Filipendula_vulgaris,42.82,-6.13
 111305930,Filipendula_vulgaris,42.754002,-2.652
@@ -631,7 +603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999493929,Filipendula_vulgaris,60.488197,22.383233
 1999493887,Filipendula_vulgaris,60.809562,21.600556
 812025057,Filipendula_vulgaris,50.546717,9.60145
-1836959090,Filipendula_vulgaris,60.8,21.583333
 186810319,Filipendula_vulgaris,59.8916,10.5458
 1324014542,Filipendula_vulgaris,59.7583,10.5023
 1999493727,Filipendula_vulgaris,60.67251,22.008583
@@ -646,7 +617,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851352340,Filipendula_vulgaris,43.02,-5.02
 29639109,Filipendula_vulgaris,42.506,-0.706
 111305926,Filipendula_vulgaris,42.506001,-0.706
-211627540,Filipendula_vulgaris,42.5,-0.71
 1836958628,Filipendula_vulgaris,56.9675,9.257222
 1936101794,Filipendula_vulgaris,42.4997,-0.7133
 1836959944,Filipendula_vulgaris,60.485833,22.168889
@@ -655,7 +625,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697544575,Filipendula_vulgaris,54.772094,41.81716
 59997736,Filipendula_vulgaris,42.505154,-0.705839
 1697544553,Filipendula_vulgaris,54.823964,41.778022
-1050584532,Filipendula_vulgaris,42.5,-0.7
 1701368520,Filipendula_vulgaris,60.065,10.2844
 1702401053,Filipendula_vulgaris,59.8831,10.541
 1999493851,Filipendula_vulgaris,60.540005,22.585695
@@ -751,7 +720,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999493936,Filipendula_vulgaris,60.381578,22.552834
 1999493774,Filipendula_vulgaris,60.36963,22.735856
 1697544572,Filipendula_vulgaris,54.859171,37.554977
-2287085243,Filipendula_vulgaris,46.2,14.616667
 1891592836,Filipendula_vulgaris,49.98,6.02
 1999493711,Filipendula_vulgaris,60.490456,22.719971
 876153538,Filipendula_vulgaris,42.8168,-2.0902
@@ -848,7 +816,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1836957246,Filipendula_vulgaris,56.10111,13.74589
 1705367378,Filipendula_vulgaris,55.492511,14.047169
 1999493783,Filipendula_vulgaris,60.402792,22.64975
-1936095870,Filipendula_vulgaris,41.1,-4.5333
 1434770651,Filipendula_vulgaris,41.170601,-7.539425
 1701709455,Filipendula_vulgaris,59.8058,10.6934
 1701709275,Filipendula_vulgaris,59.9153,10.5559
@@ -860,7 +827,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705395977,Filipendula_vulgaris,57.697728,15.989675
 2313364526,Filipendula_vulgaris,48.27,11.54
 1836960413,Filipendula_vulgaris,57.73798,11.95941
-786150802,Filipendula_vulgaris,47.8,20
 1697544836,Filipendula_vulgaris,49.061788,43.50903
 1836959725,Filipendula_vulgaris,58.58802,15.93681
 788664592,Filipendula_vulgaris,59.46121,18.18551
