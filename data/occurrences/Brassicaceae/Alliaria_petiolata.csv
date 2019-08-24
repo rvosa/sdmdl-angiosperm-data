@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234526036,Alliaria_petiolata,35.8745,-85.96211
 2244180845,Alliaria_petiolata,37.327499,22.541941
 2244179856,Alliaria_petiolata,37.354721,22.529169
-2268333267,Alliaria_petiolata,53.7,10.3
 1831392928,Alliaria_petiolata,50.178,8.671233
 1978007574,Alliaria_petiolata,37.84444,-83.67016
 1831393011,Alliaria_petiolata,50.068867,8.717867
@@ -181,7 +180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701771551,Alliaria_petiolata,63.3183,10.193
 1829024371,Alliaria_petiolata,39.879167,141.46875
 1929576487,Alliaria_petiolata,39.202972,-76.8182
-781074592,Alliaria_petiolata,36.7,-5.032
 1935647991,Alliaria_petiolata,47.08241,15.4291
 781074579,Alliaria_petiolata,36.98646,-4.30953
 1936244915,Alliaria_petiolata,41.0903,-3.4603
@@ -201,12 +199,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697790033,Alliaria_petiolata,43.645833,40.422222
 1988662345,Alliaria_petiolata,46.0867349990575,-88.791802
 781074587,Alliaria_petiolata,36.89361,-3.99922
-1095917467,Alliaria_petiolata,59.2,17.92
 1454491765,Alliaria_petiolata,42.8993403625087,-2.64625376326564
 1144050504,Alliaria_petiolata,58.8179,5.8014
 1098950259,Alliaria_petiolata,48.167854,11.592413
 2265455454,Alliaria_petiolata,44.9825,-93.536389
-786085669,Alliaria_petiolata,49,8.4
 1702208447,Alliaria_petiolata,59.2595,11.1182
 2234309060,Alliaria_petiolata,35.190392,-79.336721
 1055071560,Alliaria_petiolata,38.53554,-95.97845
@@ -303,9 +299,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265473977,Alliaria_petiolata,40.8289,-1.99654
 2242383153,Alliaria_petiolata,39.712441,-104.948761
 1849174424,Alliaria_petiolata,41.984722,-74.327778
-1094184669,Alliaria_petiolata,33.1,35.79
 1599627973,Alliaria_petiolata,60.851039,23.063184
-786085655,Alliaria_petiolata,49.5,8.5
 441960576,Alliaria_petiolata,51.173889,14.411111
 441960525,Alliaria_petiolata,50.90889,13.769167
 1342447987,Alliaria_petiolata,56.926965,9.28618
@@ -348,13 +342,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212030888,Alliaria_petiolata,39.400833,21.736389
 1038925282,Alliaria_petiolata,41.2512,-73.1303
 441960182,Alliaria_petiolata,51.161022,14.988884
-883399840,Alliaria_petiolata,49.6,21.583333
 1838954643,Alliaria_petiolata,40.159721,21.259439
 176870307,Alliaria_petiolata,39.19147,-96.53768
 1978753990,Alliaria_petiolata,45.511667,-74.109722
 1212030794,Alliaria_petiolata,40.159722,21.259444
 1838955080,Alliaria_petiolata,39.237499,21.79472
-994565377,Alliaria_petiolata,49.6,21.6
 1701958877,Alliaria_petiolata,60.9067,7.1868
 2304985034,Alliaria_petiolata,43.26,-79.96
 1838955101,Alliaria_petiolata,39.400829,21.736389
@@ -447,7 +439,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212029060,Alliaria_petiolata,41.326111,23.265
 1144047011,Alliaria_petiolata,60.464,6.5513
 1212029001,Alliaria_petiolata,41.258611,23.684444
-786085673,Alliaria_petiolata,48.8,9.8
 1988712182,Alliaria_petiolata,43.619241,-86.029503
 1230503226,Alliaria_petiolata,40.48389,44.52194
 441959571,Alliaria_petiolata,51.234112,15.022755
@@ -478,7 +469,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230496197,Alliaria_petiolata,38.96389,46.21389
 211618126,Alliaria_petiolata,42.91,-2.63
 1936670120,Alliaria_petiolata,42.9091,-2.6338
-786085551,Alliaria_petiolata,49.4,8.5
 1260016077,Alliaria_petiolata,38.503056,-86.465556
 59971954,Alliaria_petiolata,42.914739,-2.626339
 176870642,Alliaria_petiolata,39.179444,-96.549444
@@ -501,10 +491,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265495753,Alliaria_petiolata,46.759722,-92.108333
 415962677,Alliaria_petiolata,39.45833,-75.33305
 1936659569,Alliaria_petiolata,40.804722,44.893056
-786085559,Alliaria_petiolata,49.6,8.7
 1702188443,Alliaria_petiolata,59.709,10.645
 1702227996,Alliaria_petiolata,59.4354,11.324
-1050640904,Alliaria_petiolata,42.82,-2.7
 415945436,Alliaria_petiolata,43.59611,-72.54916
 473407032,Alliaria_petiolata,46.35,-72.55
 211643294,Alliaria_petiolata,38.44,-2.37
@@ -535,7 +523,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936643912,Alliaria_petiolata,41.436389,23.688611
 187085843,Alliaria_petiolata,64.4356,10.7001
 1702207296,Alliaria_petiolata,59.1203,11.3679
-786085533,Alliaria_petiolata,49.5,8.4
 441959143,Alliaria_petiolata,52.123055,11.636666
 441959160,Alliaria_petiolata,50.976944,11.03
 441958922,Alliaria_petiolata,51.210686,14.981586
@@ -594,13 +581,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230492375,Alliaria_petiolata,39.33333,46.38333
 1949938436,Alliaria_petiolata,51.477778,0.280556
 1986957004,Alliaria_petiolata,35.331,72.646
-786085545,Alliaria_petiolata,51.4,11.1
 441959045,Alliaria_petiolata,52.375557,9.740278
 1701352007,Alliaria_petiolata,43.88222,11.23167
 1935646955,Alliaria_petiolata,47.07361,15.39417
 415930903,Alliaria_petiolata,41.79527,-72.50138
 1261004682,Alliaria_petiolata,37.17916,-93.01666
-1851336937,Alliaria_petiolata,42.4,-6.795
 1935646961,Alliaria_petiolata,47.08306,15.39417
 1851329769,Alliaria_petiolata,42.263,-6.314
 1039015165,Alliaria_petiolata,41.264705,-72.73493
@@ -630,7 +615,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230491533,Alliaria_petiolata,40.68333,44.86667
 1989290301,Alliaria_petiolata,45.783931,-84.742162
 1849095352,Alliaria_petiolata,42.76654,-73.705137
-30844597,Alliaria_petiolata,41.73,-1.8
 1929475857,Alliaria_petiolata,41.75605,43.51555
 1702193211,Alliaria_petiolata,62.7811,8.3817
 1936617177,Alliaria_petiolata,42.3933,13.7883
@@ -671,7 +655,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415945866,Alliaria_petiolata,41.82324,-73.39782
 187085869,Alliaria_petiolata,63.4026,10.3403
 1701259700,Alliaria_petiolata,63.0475,10.3062
-415918323,Alliaria_petiolata,42.6,-73.03333
 1702203050,Alliaria_petiolata,60.7239,10.9698
 1702002448,Alliaria_petiolata,59.4616,11.6512
 1599627979,Alliaria_petiolata,61.524277,23.697772
@@ -684,7 +667,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415915406,Alliaria_petiolata,41.65333,-73.31888
 1837458999,Alliaria_petiolata,44.115114,8.027842
 176870859,Alliaria_petiolata,38.233334,-94.949997
-1930851885,Alliaria_petiolata,41.45,-73.7
 415917969,Alliaria_petiolata,41.64277,-73.31666
 668752809,Alliaria_petiolata,46.766667,-71.25
 1989108741,Alliaria_petiolata,41.85264,-84.12175
@@ -701,7 +683,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441683348,Alliaria_petiolata,47.663889,-122.321944
 1248702665,Alliaria_petiolata,45.516667,-73.65
 415913447,Alliaria_petiolata,41.38166,-72.85888
-1936569354,Alliaria_petiolata,37.933333,14.7
 186789354,Alliaria_petiolata,58.6727,6.7229
 1702034980,Alliaria_petiolata,59.7511,10.0437
 1702205592,Alliaria_petiolata,59.5066,11.6264
@@ -725,7 +706,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258952245,Alliaria_petiolata,41.76111,44.51055
 1936643021,Alliaria_petiolata,43.0669,-4.0576
 2265427584,Alliaria_petiolata,44.535072,-92.339158
-786085645,Alliaria_petiolata,49.1,9.7
 186789296,Alliaria_petiolata,58.1357,7.0384
 1501072027,Alliaria_petiolata,38.66,-0.54
 1831514666,Alliaria_petiolata,42.715,27.69167
@@ -737,13 +717,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851403235,Alliaria_petiolata,42.789,-6.072
 415912332,Alliaria_petiolata,41.05138,-73.41666
 473442213,Alliaria_petiolata,45.683333,-75.983333
-1929410948,Alliaria_petiolata,40.97,-73.8
 415911928,Alliaria_petiolata,41.92027,-72.17666
 615261819,Alliaria_petiolata,35.87,75.32
 415912622,Alliaria_petiolata,44.19361,-73.35
 1702164675,Alliaria_petiolata,59.462,11.6511
 415911818,Alliaria_petiolata,41.30444,-73.39333
-1122717829,Alliaria_petiolata,48.183334,11.5
 1228277833,Alliaria_petiolata,41.697092,-88.066879
 176870281,Alliaria_petiolata,37.64243,-95.20244
 415912314,Alliaria_petiolata,40.34638,-75.03194
@@ -774,11 +752,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415912510,Alliaria_petiolata,42.96361,-72.5175
 1936671220,Alliaria_petiolata,41.3183,-4.208
 1342455879,Alliaria_petiolata,55.417587,11.581859
-786085581,Alliaria_petiolata,54,10.7
 1260953500,Alliaria_petiolata,38.95277,-92.65555
 1260942845,Alliaria_petiolata,38.56944,-92.14638
 1936603666,Alliaria_petiolata,42.4494,-3.4877
-786085640,Alliaria_petiolata,48,7.9
 1936516135,Alliaria_petiolata,38.2484,-2.0641
 1851408855,Alliaria_petiolata,42.798,-5.122
 1228477111,Alliaria_petiolata,41.4333,-87.9667
@@ -809,9 +785,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936506998,Alliaria_petiolata,42.439,-7.3844
 59971613,Alliaria_petiolata,42.444583,-7.37677
 1851393433,Alliaria_petiolata,42.446,-7.377
-1978018716,Alliaria_petiolata,37,-86
 176870575,Alliaria_petiolata,39.072097,-95.437544
-1949613301,Alliaria_petiolata,50.3,-119.266667
 211643295,Alliaria_petiolata,38.184,-2.218
 1851404543,Alliaria_petiolata,42.56,-5.62
 1258296932,Alliaria_petiolata,39.019484,-76.920133
@@ -839,16 +813,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702005662,Alliaria_petiolata,59.7346,10.2362
 606659813,Alliaria_petiolata,41.56333,-72.44972
 1936431440,Alliaria_petiolata,39.0348,-4.561
-1851403625,Alliaria_petiolata,42.65,-5.5
 1851321294,Alliaria_petiolata,42.616,-6.824
 1989544438,Alliaria_petiolata,42.33426,-85.30981
 1050630839,Alliaria_petiolata,42.72,-5.92
-1929261634,Alliaria_petiolata,41.22,-74.2
-1949618024,Alliaria_petiolata,50.133333,-119.5
 415884986,Alliaria_petiolata,41.87305,-72.12194
 1999512009,Alliaria_petiolata,60.427637,22.518228
 1038941721,Alliaria_petiolata,41.8911,-72.1711
-1261292012,Alliaria_petiolata,39.06666,-77
 1936634869,Alliaria_petiolata,40.2013,-5.774
 1851406237,Alliaria_petiolata,43.041,-5.093
 1851318840,Alliaria_petiolata,42.726,-5.925
@@ -862,7 +832,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701310795,Alliaria_petiolata,63.0546,10.2955
 1851341861,Alliaria_petiolata,40.23,-1.41
 1936435333,Alliaria_petiolata,40.1885,-1.4741
-1248702712,Alliaria_petiolata,46.783333,-71.3
 668752848,Alliaria_petiolata,46.786111,-71.304167
 1701933297,Alliaria_petiolata,59.7691,10.2374
 415884994,Alliaria_petiolata,40.81916,-74.49194
@@ -882,13 +851,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701921109,Alliaria_petiolata,59.8219,10.3464
 1230491054,Alliaria_petiolata,49.02333,12.26861
 895202202,Alliaria_petiolata,39.88,-2.12
-788798669,Alliaria_petiolata,40.966667,24.1
 1851391642,Alliaria_petiolata,40.12,-5.88
 1838966372,Alliaria_petiolata,39.900558,21.77194
 1936421452,Alliaria_petiolata,40.6219,-2.883
 1851394916,Alliaria_petiolata,42.694,-6.235
 1264994665,Alliaria_petiolata,48.331944,14.312778
-1805886532,Alliaria_petiolata,48.7,9
 1697514461,Alliaria_petiolata,51.114237,40.278382
 1999511996,Alliaria_petiolata,60.41475,22.2255
 2265426547,Alliaria_petiolata,44.871667,-93.664444
@@ -907,7 +874,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851349570,Alliaria_petiolata,42.198,-6.208
 1851336648,Alliaria_petiolata,42.626,-6.835
 1258087957,Alliaria_petiolata,37.90056,-84.268333
-29574364,Alliaria_petiolata,40.04,-0.6
 1261291898,Alliaria_petiolata,38.618056,-90.368056
 1851364764,Alliaria_petiolata,42.331,-6.53
 860320429,Alliaria_petiolata,42.41,2.94
@@ -928,7 +894,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265453615,Alliaria_petiolata,47.224444,-94.411389
 1936414491,Alliaria_petiolata,40.562,-4.1707
 1936408162,Alliaria_petiolata,37.3868,-2.8544
-1851382766,Alliaria_petiolata,42.596,-6.3
 30843664,Alliaria_petiolata,42.98,-1.41
 1851379220,Alliaria_petiolata,43.159,-5.048
 415884977,Alliaria_petiolata,41.96166,-73.30833
@@ -950,7 +915,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 216096574,Alliaria_petiolata,60.4575,22.278299
 1697514490,Alliaria_petiolata,52.438243,38.519977
 473295326,Alliaria_petiolata,45.183333,-73.416667
-615261364,Alliaria_petiolata,34.63,73.6
 1705362396,Alliaria_petiolata,57.492835,14.134191
 1936523009,Alliaria_petiolata,43.1951,-5.9797
 1705344954,Alliaria_petiolata,57.403182,15.602266
@@ -965,7 +929,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701932250,Alliaria_petiolata,59.9152,9.8861
 1883573885,Alliaria_petiolata,37.916668,14.083333
 1599627913,Alliaria_petiolata,60.50235,24.639967
-1851354268,Alliaria_petiolata,41.4,-4.73
 1697514389,Alliaria_petiolata,53.748769,37.900808
 415884974,Alliaria_petiolata,41.80982,-72.83065
 142313570,Alliaria_petiolata,37.534,-3.934
@@ -975,7 +938,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705358965,Alliaria_petiolata,57.219581,14.116773
 1248702698,Alliaria_petiolata,46.741667,-71.2875
 895176945,Alliaria_petiolata,40.75,-0.22
-1931039363,Alliaria_petiolata,35.88,-82.8
 1999512017,Alliaria_petiolata,60.792855,21.401822
 1144176989,Alliaria_petiolata,60.3891,5.3433
 2234307810,Alliaria_petiolata,39.196829,-79.524649
@@ -990,10 +952,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415884987,Alliaria_petiolata,41.91138,-72.28888
 1988761200,Alliaria_petiolata,46.044612,-85.127184
 1248702765,Alliaria_petiolata,45.072222,-73.123611
-29574185,Alliaria_petiolata,40.05,-1.3
 111301026,Alliaria_petiolata,43.141998,-1.592
 1936363209,Alliaria_petiolata,40.2473,-1.1789
-1930923947,Alliaria_petiolata,40.85,-73.9
 176870677,Alliaria_petiolata,38.764483,-95.672078
 1851405423,Alliaria_petiolata,43.229,-6.038
 1599627962,Alliaria_petiolata,60.450385,22.689771
@@ -1015,11 +975,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936582168,Alliaria_petiolata,40.1528,-5.0794
 1899273155,Alliaria_petiolata,44.143167,39.035282
 1889184536,Alliaria_petiolata,48.006944,16.295833
-1053983293,Alliaria_petiolata,42.66,-1.2
 1322637155,Alliaria_petiolata,38.9711,-77.0442
 29572454,Alliaria_petiolata,38.71,-2.83
 30843201,Alliaria_petiolata,37.130001,-3.68
-30843206,Alliaria_petiolata,37.130001,-3.9
 85486200,Alliaria_petiolata,37.679,-2.212
 1899286819,Alliaria_petiolata,45.216667,-75.55
 1899273154,Alliaria_petiolata,44.09564,39.073553
@@ -1041,7 +999,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050656094,Alliaria_petiolata,42.79,-1.95
 1050656095,Alliaria_petiolata,42.73,-1.84
 1144184917,Alliaria_petiolata,60.3882,5.2626
-1050656093,Alliaria_petiolata,42.8,-2.13
 1050656130,Alliaria_petiolata,42.88,-1.99
 1039007967,Alliaria_petiolata,41.5619,-72.3472
 30843124,Alliaria_petiolata,42.900002,-3.86
@@ -1078,7 +1035,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935984064,Alliaria_petiolata,39.851944,-0.489444
 1712604892,Alliaria_petiolata,42.437117,-1.783875
 1936564576,Alliaria_petiolata,42.5922,-3.7326
-1842860824,Alliaria_petiolata,42.32,2.7
 1936093224,Alliaria_petiolata,41.4597,-3.0013
 318217445,Alliaria_petiolata,58.9168,5.7436
 85485996,Alliaria_petiolata,41.596,1.842
@@ -1106,14 +1062,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1712604870,Alliaria_petiolata,42.364619,-2.033537
 1050658837,Alliaria_petiolata,42.86,-2.69
 1806555307,Alliaria_petiolata,42.924059,-1.805354
-1050658823,Alliaria_petiolata,42.49,-2.5
 1806555349,Alliaria_petiolata,42.927648,-1.810162
 1936365128,Alliaria_petiolata,40.7457,-3.7475
 1851406004,Alliaria_petiolata,42.91,-6.24
 111301053,Alliaria_petiolata,43.314999,-1.773
 176870477,Alliaria_petiolata,39.01665,-96.36352
 2234309443,Alliaria_petiolata,38.666667,-84.333333
-1928035732,Alliaria_petiolata,38.8,-84.18
 2234306349,Alliaria_petiolata,38.789014,-84.173112
 1936088533,Alliaria_petiolata,38.4047,-3.3906
 1099907328,Alliaria_petiolata,56.39288,14.02877
@@ -1128,7 +1082,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599627912,Alliaria_petiolata,60.476078,22.293889
 1262013337,Alliaria_petiolata,45.533333,-73.35
 1851354117,Alliaria_petiolata,42.84,-5.14
-473445296,Alliaria_petiolata,45.5,-73.6
 187085692,Alliaria_petiolata,64.0346,11.5284
 1599631151,Alliaria_petiolata,60.381469,22.416538
 1323698802,Alliaria_petiolata,68.4587,17.1588
@@ -1143,7 +1096,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111301336,Alliaria_petiolata,42.870998,-2.725
 1936093683,Alliaria_petiolata,42.6946,-1.0236
 2234308218,Alliaria_petiolata,36.905034,-81.537522
-1262008935,Alliaria_petiolata,46.916667,-71.1
 1050656097,Alliaria_petiolata,43.28,-3.25
 2265466398,Alliaria_petiolata,44.92477,-93.64201
 85485717,Alliaria_petiolata,40.85,0.45
@@ -1156,7 +1108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111301333,Alliaria_petiolata,43.042,-3.043
 1936093626,Alliaria_petiolata,39.9091,-0.8954
 895204831,Alliaria_petiolata,39.96,-0.83
-1804564912,Alliaria_petiolata,44.407778,-80.3
 1323851380,Alliaria_petiolata,68.4564,17.1599
 1599627940,Alliaria_petiolata,60.429904,22.518825
 1712604900,Alliaria_petiolata,42.321002,-1.767717
@@ -1179,13 +1130,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899370789,Alliaria_petiolata,43.211111,-79.763889
 668752833,Alliaria_petiolata,46.764167,-71.293333
 2234309701,Alliaria_petiolata,36.589826,-87.088327
-732467767,Alliaria_petiolata,43.2,-79.75
 1262006852,Alliaria_petiolata,46.773333,-71.254167
 111301427,Alliaria_petiolata,42.68,-2.33
 1799005765,Alliaria_petiolata,39.750754,71.070213
 606660209,Alliaria_petiolata,41.58916,-73.44611
 860322233,Alliaria_petiolata,42.253,-0.266
-1928011764,Alliaria_petiolata,39,-76.93
 187085735,Alliaria_petiolata,62.6563,8.7171
 1928798666,Alliaria_petiolata,38.971111,-95.455833
 1697514568,Alliaria_petiolata,48.760277,35.446154
@@ -1202,9 +1151,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931162291,Alliaria_petiolata,39.112778,-84.472778
 176870716,Alliaria_petiolata,38.94881,-95.45457
 85486146,Alliaria_petiolata,42.025,0.977
-1851329008,Alliaria_petiolata,40.6,-4.12
 85486036,Alliaria_petiolata,40.5683,-4.1508
-1305258505,Alliaria_petiolata,41.95,-86.3
 187085964,Alliaria_petiolata,59.5337,10.4232
 318217451,Alliaria_petiolata,59.2473,5.8437
 85485577,Alliaria_petiolata,41.04,-1.04
@@ -1219,13 +1166,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928025940,Alliaria_petiolata,35.9208,-82.9611
 415884991,Alliaria_petiolata,42.32583,-72.58583
 1899379628,Alliaria_petiolata,44.983333,-79.566667
-1928783219,Alliaria_petiolata,39.33,-96.7
 883420750,Alliaria_petiolata,53.3557,-3.1045
 1262005022,Alliaria_petiolata,46.774722,-71.282778
 1701308778,Alliaria_petiolata,62.6739,8.5607
 176870753,Alliaria_petiolata,42.325,-72.64167
 30845161,Alliaria_petiolata,41.009998,-3.59
-199456960,Alliaria_petiolata,36.8,-5.19
 1262033744,Alliaria_petiolata,46.763501,-71.292806
 1936093632,Alliaria_petiolata,40.2838,-1.9425
 1697514509,Alliaria_petiolata,54.338746,45.934353
@@ -1290,7 +1235,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701336983,Alliaria_petiolata,63.7826,10.9984
 1701775915,Alliaria_petiolata,63.3697,10.1897
 187085693,Alliaria_petiolata,63.5563,11.1235
-1890156050,Alliaria_petiolata,34.333333,73.2
 615261874,Alliaria_petiolata,34.38,73.57
 2234309794,Alliaria_petiolata,37.593588,-77.765806
 85485170,Alliaria_petiolata,42.57,1.23
@@ -1300,7 +1244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890156087,Alliaria_petiolata,34.887293,72.600881
 30845163,Alliaria_petiolata,41.189999,-3.36
 1890156077,Alliaria_petiolata,34.159288,73.351973
-1258600619,Alliaria_petiolata,35.86666,-82.8
 1936388282,Alliaria_petiolata,37.8286,-2.9785
 1949551505,Alliaria_petiolata,46.783333,-71.275
 668752811,Alliaria_petiolata,46.780833,-71.265
@@ -1334,7 +1277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 591646,Alliaria_petiolata,57.319026,15.585142
 1701239506,Alliaria_petiolata,62.9174,8.4586
 176870549,Alliaria_petiolata,39.04092,-96.32143
-732467995,Alliaria_petiolata,44.4,-75.866667
 732468082,Alliaria_petiolata,44.216667,-76.45
 85485167,Alliaria_petiolata,42.48,1.24
 668752819,Alliaria_petiolata,46.770833,-71.248611
@@ -1369,7 +1311,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851321141,Alliaria_petiolata,42.64,-5.87
 318217449,Alliaria_petiolata,59.1118,5.6377
 1697514377,Alliaria_petiolata,54.769031,41.819441
-1804450613,Alliaria_petiolata,43.4,-80.433333
 615261781,Alliaria_petiolata,34.83,70.72
 1701239036,Alliaria_petiolata,63.3988,9.8907
 1837335123,Alliaria_petiolata,61.13415,10.39176
@@ -1412,7 +1353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038932569,Alliaria_petiolata,41.2283,-73.3725
 1697514390,Alliaria_petiolata,54.945499,41.403488
 85486694,Alliaria_petiolata,42.566,-0.557
-615261798,Alliaria_petiolata,33.9,69.88
 615261801,Alliaria_petiolata,35.18,69.22
 2234306382,Alliaria_petiolata,39.485278,-79.045
 2234306844,Alliaria_petiolata,39.480278,-79.048056
@@ -1420,13 +1360,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 367094987,Alliaria_petiolata,47.251667,11.4025
 1899379604,Alliaria_petiolata,43.666667,-79.516667
 1701771196,Alliaria_petiolata,63.4215,10.4122
-1249261967,Alliaria_petiolata,50.6,6.9
 1599627904,Alliaria_petiolata,60.437719,22.226673
 2234306691,Alliaria_petiolata,39.155226,-77.524048
 2234306723,Alliaria_petiolata,39.328338,-77.700694
 176870473,Alliaria_petiolata,37.3624,-96.01829
 2234306320,Alliaria_petiolata,39.305236,-77.63206
-1059620279,Alliaria_petiolata,51.7,7.8
 2234308036,Alliaria_petiolata,39.318169,-77.696439
 2234306843,Alliaria_petiolata,39.533333,-77.616667
 2234308043,Alliaria_petiolata,39.624444,-78.379444
@@ -1435,7 +1373,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883378067,Alliaria_petiolata,45.333333,-73.966667
 2234308664,Alliaria_petiolata,39.585,-77.951389
 2234307882,Alliaria_petiolata,39.69287,-78.177507
-1059620301,Alliaria_petiolata,50.6,7
 1899353407,Alliaria_petiolata,43.65,-79.383333
 2234307528,Alliaria_petiolata,39.68995,-78.144423
 1851343769,Alliaria_petiolata,42.65,-5.38
@@ -1474,7 +1411,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234306832,Alliaria_petiolata,38.046111,-79.790833
 1804512052,Alliaria_petiolata,41.966667,-82.516667
 187085742,Alliaria_petiolata,62.9915,8.3092
-1248702727,Alliaria_petiolata,43.666667,-79.3
 1701964555,Alliaria_petiolata,63.3529,10.2291
 187085708,Alliaria_petiolata,63.4185,10.4122
 1599627928,Alliaria_petiolata,60.728384,26.419633
@@ -1489,8 +1425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234307797,Alliaria_petiolata,39.362778,-77.763333
 473260801,Alliaria_petiolata,45.335556,-73.970833
 2234306871,Alliaria_petiolata,37.938615,-78.059361
-1230488905,Alliaria_petiolata,37.4,55.75
-1230488818,Alliaria_petiolata,37.4,45
 1230488972,Alliaria_petiolata,36.56667,53.06667
 2234307520,Alliaria_petiolata,39.535278,-76.728333
 2234307805,Alliaria_petiolata,39.655556,-78.810833
@@ -1518,9 +1452,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702271669,Alliaria_petiolata,59.2141,10.9355
 1999511958,Alliaria_petiolata,60.452987,22.151615
 1701250892,Alliaria_petiolata,59.2071,11.0139
-615261793,Alliaria_petiolata,35.42,69
 1999511968,Alliaria_petiolata,60.459463,22.332708
-1230488286,Alliaria_petiolata,35.16667,72.5
 1230488099,Alliaria_petiolata,35.43333,72.65
 1099914778,Alliaria_petiolata,60.485833,22.168889
 1599631211,Alliaria_petiolata,61.162379,28.761899
@@ -1549,12 +1481,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242396243,Alliaria_petiolata,39.996912,-88.65018
 2291854968,Alliaria_petiolata,52.783333,6.516667
 668752810,Alliaria_petiolata,46.75,-71.35
-1230488259,Alliaria_petiolata,34.6,68.93333
 1701958958,Alliaria_petiolata,63.7242,9.7592
 1697514309,Alliaria_petiolata,55.480166,34.108093
 1261959435,Alliaria_petiolata,46.786667,-71.232778
 1931286421,Alliaria_petiolata,41.17,-74.05
-732467604,Alliaria_petiolata,43,-81.933333
 2234306853,Alliaria_petiolata,39.154779,-77.515624
 2234307612,Alliaria_petiolata,36.4723,-79.734632
 1705332093,Alliaria_petiolata,56.177182,15.043817
@@ -1596,7 +1526,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732467605,Alliaria_petiolata,43.05,-81.283333
 1701336522,Alliaria_petiolata,59.8844,10.5098
 1099915239,Alliaria_petiolata,55.56842,13.71335
-732467708,Alliaria_petiolata,42.9,-81.483333
 1701218672,Alliaria_petiolata,63.4979,10.9184
 1697730109,Alliaria_petiolata,44.62713,34.27906
 1999615036,Alliaria_petiolata,60.447311,22.243462
@@ -1610,11 +1539,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176870834,Alliaria_petiolata,37.40766,-96.04334
 1702265947,Alliaria_petiolata,59.8978,10.5193
 1999511915,Alliaria_petiolata,60.44477,22.298428
-30950668,Alliaria_petiolata,38.68,-0.3
 1144063345,Alliaria_petiolata,60.3147,5.2727
 1701872676,Alliaria_petiolata,58.921,5.7345
 2234308449,Alliaria_petiolata,38.086111,-84.826111
-732467613,Alliaria_petiolata,42.783333,-81.2
 1701765225,Alliaria_petiolata,63.5166,9.9547
 1230488708,Alliaria_petiolata,43.29472,22.00417
 1599627895,Alliaria_petiolata,60.448601,22.279673
@@ -1628,7 +1555,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599631159,Alliaria_petiolata,60.167438,24.745248
 1038938651,Alliaria_petiolata,41.1592,-73.4992
 1701316277,Alliaria_petiolata,63.3534,10.1691
-732467727,Alliaria_petiolata,43.916667,-80.1
 85484511,Alliaria_petiolata,41.22,1.03
 1701278479,Alliaria_petiolata,62.9789,7.2144
 1322430494,Alliaria_petiolata,39.1011,-77.4775
@@ -1647,9 +1573,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318133387,Alliaria_petiolata,38.8236,-77.7133
 1318309627,Alliaria_petiolata,39.0711,-77.4442
 732467593,Alliaria_petiolata,43.233333,-80.983333
-732467602,Alliaria_petiolata,43.1,-81.133333
 1144575349,Alliaria_petiolata,42.21667,9.53333
-732467674,Alliaria_petiolata,43.3,-79.05
 1228299554,Alliaria_petiolata,41.95,-88.4333
 732467612,Alliaria_petiolata,42.766667,-80.983333
 85484293,Alliaria_petiolata,42.14,2.33
@@ -1659,10 +1583,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697514559,Alliaria_petiolata,48.298955,40.385227
 415884982,Alliaria_petiolata,41.40222,-72.48305
 1705263526,Alliaria_petiolata,59.255538,17.22032
-732467660,Alliaria_petiolata,42.9,-79.6
 1099902158,Alliaria_petiolata,55.877522,13.518084
 1319555574,Alliaria_petiolata,39.2228,-77.4544
-85484503,Alliaria_petiolata,41.4,1.15
 1599631108,Alliaria_petiolata,60.257122,24.739081
 186789525,Alliaria_petiolata,59.693,10.6254
 1099915330,Alliaria_petiolata,55.85823,14.22748
@@ -1711,7 +1633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85484917,Alliaria_petiolata,41.69,2.58
 415884971,Alliaria_petiolata,41.12333,-73.3475
 1038976073,Alliaria_petiolata,41.146,-73.3467
-85484135,Alliaria_petiolata,42.4,1.97
 1697514399,Alliaria_petiolata,55.713071,35.542991
 1056365936,Alliaria_petiolata,51.548322,-0.271231
 57676508,Alliaria_petiolata,62.266998,21.3792
@@ -1770,7 +1691,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702285884,Alliaria_petiolata,61.1854,6.8518
 1697790017,Alliaria_petiolata,43.91579,40.14205
 1702285915,Alliaria_petiolata,61.1892,6.805
-732467640,Alliaria_petiolata,44.233333,-76.5
 1705352591,Alliaria_petiolata,55.580132,13.827729
 1702272425,Alliaria_petiolata,59.4264,10.4682
 57676507,Alliaria_petiolata,60.458401,22.178101
@@ -1784,7 +1704,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144063449,Alliaria_petiolata,62.65769,8.70421
 1320335383,Alliaria_petiolata,38.9986,-77.2542
 1599631055,Alliaria_petiolata,60.554316,22.346525
-732467634,Alliaria_petiolata,45.3,-73.233333
 1697790070,Alliaria_petiolata,39.765798,46.73687
 1099901886,Alliaria_petiolata,56.031862,14.152378
 2265463584,Alliaria_petiolata,44.97413,-93.506622
@@ -1841,7 +1760,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85484228,Alliaria_petiolata,40.5847,-4.1173
 177283153,Alliaria_petiolata,62.315899,24.3927
 1705318969,Alliaria_petiolata,57.677717,11.948052
-85487308,Alliaria_petiolata,33.1,-5.2
 1144063402,Alliaria_petiolata,59.98286,5.53824
 1702285858,Alliaria_petiolata,59.9196,5.6474
 1697514459,Alliaria_petiolata,56.211674,37.869029
