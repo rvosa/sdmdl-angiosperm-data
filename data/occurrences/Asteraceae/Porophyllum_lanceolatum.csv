@@ -19,21 +19,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2269105893,Porophyllum_lanceolatum,-15.7605,-48.918917
 1424508391,Porophyllum_lanceolatum,-15.75,-48.916667
 1090828082,Porophyllum_lanceolatum,-15.760556,-48.918889
-1095367168,Porophyllum_lanceolatum,-27.905278,-48.589444
 1095367170,Porophyllum_lanceolatum,-28.939167,-49.362778
 1095367215,Porophyllum_lanceolatum,-28.440833,-48.809167
 1095367933,Porophyllum_lanceolatum,-29.404167,-50.392222
-1095367923,Porophyllum_lanceolatum,-28.150556,-48.65
 1257710987,Porophyllum_lanceolatum,-24.908611,-57.641944
 1090627990,Porophyllum_lanceolatum,-31.399722,-52.688611
 1087651655,Porophyllum_lanceolatum,-20.030094,-44.283553
 1077412202,Porophyllum_lanceolatum,-28.805,-49.218056
-1077412247,Porophyllum_lanceolatum,-27.904722,-48.599444
 1836727289,Porophyllum_lanceolatum,-19.2166,-43.6037
 1638342899,Porophyllum_lanceolatum,-19.216667,-43.603611
 1913579576,Porophyllum_lanceolatum,-19.216388,-43.603611
 1671186717,Porophyllum_lanceolatum,-19.216389,-43.603611
-1077579584,Porophyllum_lanceolatum,-7.970833,-34.122222
 1087644426,Porophyllum_lanceolatum,-19.833333,-43.766667
 1424481667,Porophyllum_lanceolatum,-15.897222,-48.008056
 1095259781,Porophyllum_lanceolatum,-15.897222,-48.008055
@@ -60,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095360738,Porophyllum_lanceolatum,-19.823056,-43.685278
 1258619221,Porophyllum_lanceolatum,-17.380833,-66.136111
 1259715068,Porophyllum_lanceolatum,-26.33333,-53.86666
-1095200862,Porophyllum_lanceolatum,-15.8,-47.96667
 1456370948,Porophyllum_lanceolatum,-22.77,-57.43
 1261538419,Porophyllum_lanceolatum,-22.76666,-57.43333
 1095205228,Porophyllum_lanceolatum,-15.91667,-48.01667
@@ -86,7 +81,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077309806,Porophyllum_lanceolatum,-19.866667,-57.133333
 1077306384,Porophyllum_lanceolatum,-19.183333,-57.466667
 1929752419,Porophyllum_lanceolatum,-30.055742,-51.12393
-1456417895,Porophyllum_lanceolatum,-7.13,-47.42
 1456169679,Porophyllum_lanceolatum,-19.92,-43.75
 1095210491,Porophyllum_lanceolatum,-15.59167,-47.70833
 1095210330,Porophyllum_lanceolatum,-15.591666,-47.708333
@@ -102,7 +96,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930656993,Porophyllum_lanceolatum,-15.8,-47.82397
 1930453588,Porophyllum_lanceolatum,-18.2101743547772,-45.2419995711967
 1456469428,Porophyllum_lanceolatum,-22.242,-47.142
-1456408643,Porophyllum_lanceolatum,-28.47,-48.78
 2239093471,Porophyllum_lanceolatum,-24.554444,-65.886389
 1929531598,Porophyllum_lanceolatum,-18.2531772779915,-43.6004898201051
-1055639750,Porophyllum_lanceolatum,-23.236211,-58.391024
