@@ -54,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893912179,Mimosa_polyantha,18.472778,-99.580556
 1893623152,Mimosa_polyantha,18.099398,-98.104309
 1893912107,Mimosa_polyantha,18.666111,-99.506111
-1265477553,Mimosa_polyantha,18.3,-97.87
 1894973649,Mimosa_polyantha,25.166667,-107.895833
 1894973722,Mimosa_polyantha,24.588611,-107.0225
 371301380,Mimosa_polyantha,18.501225,-101.880444
@@ -83,7 +82,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893912154,Mimosa_polyantha,17.924444,-99.600833
 1893764133,Mimosa_polyantha,24.35,-107.068056
 1893764116,Mimosa_polyantha,24.666667,-107.05
-1893764125,Mimosa_polyantha,25.072222,-107.5
 1893764120,Mimosa_polyantha,24.996667,-107.57
 1893764113,Mimosa_polyantha,25.105,-107.203333
 1893764129,Mimosa_polyantha,24.105,-107.203333
@@ -93,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893764139,Mimosa_polyantha,24.518889,-107.026667
 1893560768,Mimosa_polyantha,18.429167,-99.013889
 1893560655,Mimosa_polyantha,18.522778,-98.951389
-1893912130,Mimosa_polyantha,17.708333,-99.5
 1893764122,Mimosa_polyantha,24.832778,-107.06
 1893764121,Mimosa_polyantha,25.0825,-107.456111
 1893764124,Mimosa_polyantha,25.196667,-107.205833
@@ -116,15 +113,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419194654,Mimosa_polyantha,18.35,-98.751389
 1895965414,Mimosa_polyantha,18.65,-98.704722
 1895559041,Mimosa_polyantha,18.641667,-98.689722
-1259584847,Mimosa_polyantha,18.65,-98.7
 1893623203,Mimosa_polyantha,17.925,-99.336667
 1419232970,Mimosa_polyantha,24.714167,-107.347778
 1417699996,Mimosa_polyantha,18.585744,-98.844172
 1894973674,Mimosa_polyantha,24.405556,-106.721111
 1260100289,Mimosa_polyantha,16.07,-92.21
-1265477495,Mimosa_polyantha,17.9,-99.28
 1893435269,Mimosa_polyantha,18.091667,-97.108333
-1259587313,Mimosa_polyantha,18.1,-97.1
 1896207191,Mimosa_polyantha,18.1125,-97.075556
 1893623251,Mimosa_polyantha,18.06,-97.086667
 1894973764,Mimosa_polyantha,24.4025,-106.588056
@@ -136,7 +130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893623072,Mimosa_polyantha,21.125,-104.291667
 1417702337,Mimosa_polyantha,18.397086,-99.079161
 1417700748,Mimosa_polyantha,18.858333,-99.108333
-1893623212,Mimosa_polyantha,18.7,-99.373333
 1895402643,Mimosa_polyantha,18.033333,-97.183333
 1893435209,Mimosa_polyantha,18.058333,-97.141667
 1417696895,Mimosa_polyantha,18.965533,-99.076397
@@ -146,7 +139,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1914296680,Mimosa_polyantha,26.4167,-107.283
 1893623161,Mimosa_polyantha,18.761667,-99.24
 1893623176,Mimosa_polyantha,16.485,-95.041667
-1895402568,Mimosa_polyantha,18.45,-97.3
 1893435268,Mimosa_polyantha,18.458333,-97.308333
 1893623205,Mimosa_polyantha,18.465,-100.58
 1896207189,Mimosa_polyantha,18.458333,-100.575
@@ -169,7 +161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893435334,Mimosa_polyantha,18.058333,-97.125
 1893764114,Mimosa_polyantha,24.811111,-107.386111
 1893435124,Mimosa_polyantha,18.325,-97.241667
-1228388966,Mimosa_polyantha,18.8333,-98
 1895402611,Mimosa_polyantha,18.283333,-97.166667
 1895965476,Mimosa_polyantha,18.525556,-98.418889
 1929899792,Mimosa_polyantha,25.30156,-107.58264
@@ -205,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893912103,Mimosa_polyantha,17.645833,-99.668889
 1896207216,Mimosa_polyantha,18.858333,-99.158333
 1896207201,Mimosa_polyantha,18.691667,-99.475
-1258551825,Mimosa_polyantha,16.11,-92.2
 1896207194,Mimosa_polyantha,17.708333,-96.941667
 1895965445,Mimosa_polyantha,18.333333,-97.433333
 1419234766,Mimosa_polyantha,18.885556,-100.078611
@@ -274,11 +264,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895425867,Mimosa_polyantha,17.860687659438,-97.0207545495544
 1895425821,Mimosa_polyantha,18.1745365032703,-97.0547283364246
 1893435307,Mimosa_polyantha,18.175,-97.058333
-1895559036,Mimosa_polyantha,19.333333,-96.5
 1896207236,Mimosa_polyantha,19.339167,-96.490278
 1895965354,Mimosa_polyantha,18.333333,-97.469167
 1259587451,Mimosa_polyantha,21.65,-105.116667
-1259581049,Mimosa_polyantha,24.333333,-107.1
 1259583666,Mimosa_polyantha,20.95,-105.333333
 1895965415,Mimosa_polyantha,18.376667,-97.255278
 1895965444,Mimosa_polyantha,18.614444,-98.465278
@@ -302,19 +290,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988730658,Mimosa_polyantha,17.4086,-99.1965
 1989149693,Mimosa_polyantha,17.5526,-99.5614
 1895402619,Mimosa_polyantha,17.4089141794898,-99.1792089072523
-1895142031,Mimosa_polyantha,16.8,-93.171389
 1989280316,Mimosa_polyantha,17.7441,-99.5535
 1893435194,Mimosa_polyantha,17.808333,-96.958333
 1895965465,Mimosa_polyantha,18.562222,-98.45
-1259584475,Mimosa_polyantha,24.7,-107.216667
 1930190906,Mimosa_polyantha,24.713058,-107.223328
 1893761612,Mimosa_polyantha,24.856667,-107.215
 1259586524,Mimosa_polyantha,24.866667,-107.216667
 912160743,Mimosa_polyantha,19.43,-100.34
-1988754419,Mimosa_polyantha,19.358,-100.5
 1930986818,Mimosa_polyantha,19.38839,-100.42219
 1989311120,Mimosa_polyantha,17.6404,-96.9237
-1228189647,Mimosa_polyantha,17.6667,-100
 1989342656,Mimosa_polyantha,18.9116,-100.145
 912160718,Mimosa_polyantha,18.43,-100.76
 1895402607,Mimosa_polyantha,18.536781,-100.757264
@@ -336,13 +320,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261048239,Mimosa_polyantha,18.77,-100.42
 912160706,Mimosa_polyantha,18.78,-100.43
 1988601801,Mimosa_polyantha,18.7813,-100.428
-912160736,Mimosa_polyantha,19.1,-100.03
 1261048529,Mimosa_polyantha,19.083333,-100.066667
 1259582216,Mimosa_polyantha,18.76666,-100.35
-912160712,Mimosa_polyantha,18.8,-100.37
 1259582597,Mimosa_polyantha,23.466667,-106.266667
 1928567284,Mimosa_polyantha,22.984444,-105.85
 1928327869,Mimosa_polyantha,18.18,-97.45
 1928112372,Mimosa_polyantha,18.88358,-99.0631
 1258610590,Mimosa_polyantha,18.34,-99.53
-1928676445,Mimosa_polyantha,18.4,-99.535278
