@@ -9,9 +9,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1889166034,Chascolytrum_subaristatum,-30.276667,-51.015556
 1621080178,Chascolytrum_subaristatum,-34.289722,-55.271111
 1621080157,Chascolytrum_subaristatum,-34.332778,-54.145
-1621080166,Chascolytrum_subaristatum,-34.865,-56.004722
 1621080214,Chascolytrum_subaristatum,-34.853333,-55.299167
-1621080189,Chascolytrum_subaristatum,-27.651944,-48.469722
 1621080179,Chascolytrum_subaristatum,-25.426944,-49.313056
 1621080201,Chascolytrum_subaristatum,-25.227222,-50.048611
 1621080145,Chascolytrum_subaristatum,-25.249722,-49.995556
@@ -31,7 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1621080176,Chascolytrum_subaristatum,-30.163056,-50.212222
 1621080170,Chascolytrum_subaristatum,-28.6075,-49.820833
 1621080171,Chascolytrum_subaristatum,-29.164722,-50.0975
-1450979563,Chascolytrum_subaristatum,-35.2736,149.1172
 1621080224,Chascolytrum_subaristatum,-28.634444,-49.941111
 1668717643,Chascolytrum_subaristatum,-29.158889,-50.078333
 1621080210,Chascolytrum_subaristatum,-30.149167,-50.191944
@@ -46,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268971900,Chascolytrum_subaristatum,19.583195,-100.325111
 1213528059,Chascolytrum_subaristatum,-29.902789,-50.237669
 1264701446,Chascolytrum_subaristatum,-29.918139,-50.210611
-1848244112,Chascolytrum_subaristatum,-25.443611,-49.2375
 1848246027,Chascolytrum_subaristatum,-25.543889,-49.233333
 1316167769,Chascolytrum_subaristatum,-29.82,-55.703056
 2268840410,Chascolytrum_subaristatum,22.227778,-100.723889
@@ -58,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268846809,Chascolytrum_subaristatum,19.841944,-97.5375
 2239109654,Chascolytrum_subaristatum,-25.545,-49.236111
 1275065563,Chascolytrum_subaristatum,-29.865272,-50.2478
-1275058039,Chascolytrum_subaristatum,-27.45,-48.372222
 1848244207,Chascolytrum_subaristatum,-25.53,-49.279722
 1500373436,Chascolytrum_subaristatum,-28.485833,-50.0975
 1500372968,Chascolytrum_subaristatum,-28.49,-50.108333
@@ -74,12 +69,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1264698605,Chascolytrum_subaristatum,-29.838611,-50.194722
 2268837101,Chascolytrum_subaristatum,19.901944,-97.540833
 1077506556,Chascolytrum_subaristatum,-29.838611,-50.194681
-1077425089,Chascolytrum_subaristatum,-27.625278,-48.448333
 1322269308,Chascolytrum_subaristatum,19.8335,-97.5471
 1840912429,Chascolytrum_subaristatum,-26.874444,-52.389444
 1071861540,Chascolytrum_subaristatum,-33.880455,150.857031
 1077373894,Chascolytrum_subaristatum,-26.535556,-51.606389
-1077373531,Chascolytrum_subaristatum,-27.470278,-48.413333
 1071861728,Chascolytrum_subaristatum,-33.881191,150.822883
 1071861054,Chascolytrum_subaristatum,-33.87954,150.831519
 1071861362,Chascolytrum_subaristatum,-33.895603,150.826669
@@ -226,11 +219,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2310724383,Chascolytrum_subaristatum,-36.78,-71.77
 1893738460,Chascolytrum_subaristatum,19.856944,-100.0125
 1804416626,Chascolytrum_subaristatum,-36.963,-72.712
-1321553020,Chascolytrum_subaristatum,-38.8142,-73.4011
 1894625440,Chascolytrum_subaristatum,20.86,-99.588139
 1321224764,Chascolytrum_subaristatum,-36.9183,-71.4694
 1894625358,Chascolytrum_subaristatum,20.72729,-99.95884
-1804400533,Chascolytrum_subaristatum,-38.814,-73.401
 1893738467,Chascolytrum_subaristatum,22.36083,-102.27611
 1258769864,Chascolytrum_subaristatum,-26.483056,-57.069444
 2252121949,Chascolytrum_subaristatum,-31.140278,-64.174167
@@ -432,7 +423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259480217,Chascolytrum_subaristatum,17.09,-92.87
 2252123758,Chascolytrum_subaristatum,-30.229722,-61.400833
 1893389458,Chascolytrum_subaristatum,22.258333,-100.775
-993460091,Chascolytrum_subaristatum,-35.2667,149.1167
 2252124332,Chascolytrum_subaristatum,-31.198611,-64.583611
 1895759335,Chascolytrum_subaristatum,25.341667,-100.175
 1893738489,Chascolytrum_subaristatum,19.613333,-98.116667
@@ -491,7 +481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896166339,Chascolytrum_subaristatum,19.624722,-96.941389
 1896166321,Chascolytrum_subaristatum,20.591667,-98.475
 1896263596,Chascolytrum_subaristatum,19.509444,-96.948611
-1896263562,Chascolytrum_subaristatum,19.456944,-96.958056
 1077434561,Chascolytrum_subaristatum,-30.051692,-51.178068
 1893738523,Chascolytrum_subaristatum,19.776667,-99.206667
 1895759210,Chascolytrum_subaristatum,25.341667,-100.425
@@ -563,11 +552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995950597,Chascolytrum_subaristatum,-33.97,151.2
 1451616911,Chascolytrum_subaristatum,-33.965089,151.201157
 1895278360,Chascolytrum_subaristatum,19.6419961699405,-99.3998326348403
-1936979895,Chascolytrum_subaristatum,-35.273333,149.1175
-995950648,Chascolytrum_subaristatum,-35.3,149.13
-992401267,Chascolytrum_subaristatum,-35.3,149.1
-993278407,Chascolytrum_subaristatum,-35.2733,149.1175
-1451616969,Chascolytrum_subaristatum,-35.298442,149.134538
 1321376060,Chascolytrum_subaristatum,19.09,-97.68
 2252118183,Chascolytrum_subaristatum,-33.186667,-65.928333
 2252118599,Chascolytrum_subaristatum,-36.467778,-64.179722
@@ -577,7 +561,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896263581,Chascolytrum_subaristatum,20.453056,-98.526111
 1895510472,Chascolytrum_subaristatum,25.6641770133071,-100.30848692847
 1896263584,Chascolytrum_subaristatum,18.719722,-97.296667
-1144611105,Chascolytrum_subaristatum,-28.84111,-57.64806
 1077426128,Chascolytrum_subaristatum,-30.033017,-51.188834
 1259767815,Chascolytrum_subaristatum,17.18,-92.9
 2252119013,Chascolytrum_subaristatum,-34.598611,-64.424722
@@ -649,11 +632,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995950603,Chascolytrum_subaristatum,-33.87,150.97
 1259768664,Chascolytrum_subaristatum,16.83,-92.52
 1451616917,Chascolytrum_subaristatum,-33.865091,150.967826
-1144659328,Chascolytrum_subaristatum,15.50722,-90.87861
 1989087725,Chascolytrum_subaristatum,19.6575,-99.4371
 1895278436,Chascolytrum_subaristatum,19.6825491906891,-99.4290004659324
 1320114721,Chascolytrum_subaristatum,19.6333,-100.78
-1989297835,Chascolytrum_subaristatum,19.4194,-99.1524
 1259768015,Chascolytrum_subaristatum,16.76,-92.56
 1895278467,Chascolytrum_subaristatum,19.191667,-99.153333
 1895278416,Chascolytrum_subaristatum,19.2231264834892,-99.488722273792
@@ -682,8 +663,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989240294,Chascolytrum_subaristatum,17.4389,-96.4946
 1318302262,Chascolytrum_subaristatum,19.09,-98.13
 1318409515,Chascolytrum_subaristatum,19.6167,-97.0167
-995950642,Chascolytrum_subaristatum,-35.27,149.12
-1451616961,Chascolytrum_subaristatum,-35.265109,149.117872
 1931077593,Chascolytrum_subaristatum,-28.2981165675879,-49.9323595700412
 1895510479,Chascolytrum_subaristatum,20.2590411860958,-99.8516125062766
 1259768299,Chascolytrum_subaristatum,16.677778,-92.256667
@@ -759,11 +738,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1321773078,Chascolytrum_subaristatum,24.7,-99.0667
 1988681934,Chascolytrum_subaristatum,23.35,-99.11
 1989128468,Chascolytrum_subaristatum,23.0851,-99.2493
-1317257105,Chascolytrum_subaristatum,19.3833,-99.1833
-1989331849,Chascolytrum_subaristatum,19.3849,-99.1942
 1320988671,Chascolytrum_subaristatum,19.3833,-99.25
 1259771382,Chascolytrum_subaristatum,19.38,-99.24
-461680106,Chascolytrum_subaristatum,-34.125,23.125
 461680104,Chascolytrum_subaristatum,-31.625,28.625
 2252129433,Chascolytrum_subaristatum,-31.023333,-63.455833
 1259770432,Chascolytrum_subaristatum,19.8,-96.85
@@ -773,7 +749,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258643998,Chascolytrum_subaristatum,-31.398,-64.181
 1144611101,Chascolytrum_subaristatum,22.43861,-100.31167
 1320211398,Chascolytrum_subaristatum,19.0667,-98.3
-1321378449,Chascolytrum_subaristatum,19.4,-99.2
 1322466010,Chascolytrum_subaristatum,22.15,-100.983
 1893438881,Chascolytrum_subaristatum,18.858333,-97.391667
 1319229673,Chascolytrum_subaristatum,19.0167,-97.22
@@ -781,9 +756,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318768984,Chascolytrum_subaristatum,19.0333,-98.6333
 1321459057,Chascolytrum_subaristatum,20.1333,-98.6667
 1318453558,Chascolytrum_subaristatum,20.1167,-98.7333
-1144611079,Chascolytrum_subaristatum,-34.81806,-56.23
 2252130668,Chascolytrum_subaristatum,-31.390833,-64.190833
-1144659362,Chascolytrum_subaristatum,-32.32778,-63.74972
 1259771245,Chascolytrum_subaristatum,19.15,-99.44
 1317422986,Chascolytrum_subaristatum,19.1167,-98.7667
 1259769262,Chascolytrum_subaristatum,19.12,-98.76
