@@ -8,11 +8,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1071552342,Macrozamia_communis,-34.951947,150.632509
 1071552319,Macrozamia_communis,-35.018891,150.672503
 1071552326,Macrozamia_communis,-34.821666,150.745833
-1457821202,Macrozamia_communis,29.61243,-82.40776
-996144366,Macrozamia_communis,-34.0078,151.2239
-1451704944,Macrozamia_communis,-34.0062,151.225046
 1936961795,Macrozamia_communis,-35.5944,150.0717
-462061145,Macrozamia_communis,-25.625,28.375
 1451652986,Macrozamia_communis,-33.446205,150.676992
 1936870591,Macrozamia_communis,-33.447778,150.675833
 996031783,Macrozamia_communis,-33.4478,150.676
@@ -43,17 +39,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995900576,Macrozamia_communis,-33.9922,151.014
 1061587273,Macrozamia_communis,-34.845049,150.589535
 993553096,Macrozamia_communis,-35.1333,150.6928
-1655917101,Macrozamia_communis,36.263472,-150.134056
 995838226,Macrozamia_communis,-33.456111,151.397778
 1451569117,Macrozamia_communis,-33.454532,151.398925
-1451545897,Macrozamia_communis,-32.440357,152.520286
-1937180692,Macrozamia_communis,-32.441944,152.519167
 1451545931,Macrozamia_communis,-32.813695,151.801413
 1936839381,Macrozamia_communis,-32.815278,151.800278
-995792148,Macrozamia_communis,-32.4419,152.519
 995792176,Macrozamia_communis,-32.8153,151.8
 993993084,Macrozamia_communis,-33.0825,150.0164
-995116144,Macrozamia_communis,-37.8167,144.9667
 995817218,Macrozamia_communis,-33.2903,151.549
 1936954487,Macrozamia_communis,-33.290278,151.548611
 994376829,Macrozamia_communis,-32.6333,149.9667
@@ -65,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993637851,Macrozamia_communis,-32.6167,150.05
 1937272633,Macrozamia_communis,-35.55,149.95
 1073139869,Macrozamia_communis,-32.763425,151.069359
-1261140435,Macrozamia_communis,32.66666,-117.16666
 994035714,Macrozamia_communis,-32.8667,151.4
 995804920,Macrozamia_communis,-32.55,152.27
 1451554031,Macrozamia_communis,-32.548414,152.267791
@@ -137,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993785938,Macrozamia_communis,-33.1833,151.6
 993780797,Macrozamia_communis,-32.95,151.7333
 993214312,Macrozamia_communis,-35.5333,149.95
-993775961,Macrozamia_communis,-34.0333,151.2
 996217517,Macrozamia_communis,-34.77,150.17
 1451714488,Macrozamia_communis,-34.765098,150.16785
 1451451022,Macrozamia_communis,-32.065077,152.551112
@@ -186,7 +175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451564677,Macrozamia_communis,-33.465088,151.317815
 1451577588,Macrozamia_communis,-33.265087,151.417812
 995856258,Macrozamia_communis,-33.27,151.42
-1936857674,Macrozamia_communis,-34,151.22
 1451564869,Macrozamia_communis,-33.998422,151.217824
 995831456,Macrozamia_communis,-33.47,151.4
 1451564766,Macrozamia_communis,-33.465087,151.401147
