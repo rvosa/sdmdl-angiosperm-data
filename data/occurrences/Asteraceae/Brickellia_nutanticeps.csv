@@ -53,7 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893732360,Brickellia_nutanticeps,19.261944,-99.113611
 1893732366,Brickellia_nutanticeps,19.206667,-99.258333
 1895273308,Brickellia_nutanticeps,19.502778,-99.202222
-1893732355,Brickellia_nutanticeps,19.1,-98.883333
 1419216341,Brickellia_nutanticeps,20.0725,-98.577222
 1893732356,Brickellia_nutanticeps,20.063333,-98.586667
 1895273282,Brickellia_nutanticeps,19.174722,-99.179722
@@ -61,8 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895273303,Brickellia_nutanticeps,19.509722,-99.466111
 1895393907,Brickellia_nutanticeps,19.05,-97.216667
 1895273306,Brickellia_nutanticeps,19.328611,-99.183611
-1456369989,Brickellia_nutanticeps,19.1,-99.2083
-1259783561,Brickellia_nutanticeps,19.1,-99.2
 1895273322,Brickellia_nutanticeps,20.1925277641864,-98.7395409296637
 1893732376,Brickellia_nutanticeps,20.215,-98.731667
 1893421687,Brickellia_nutanticeps,19.375,-100.108333
@@ -73,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895393946,Brickellia_nutanticeps,19.1176509119799,-98.6893500480495
 1895963104,Brickellia_nutanticeps,19.3325,-98.545278
 1895393883,Brickellia_nutanticeps,19.31465,-98.771917
-1456109340,Brickellia_nutanticeps,19.8,-100.67
 1259784067,Brickellia_nutanticeps,19.01,-99.88
 1895393951,Brickellia_nutanticeps,19.0478722669842,-99.9560406692907
 1895393854,Brickellia_nutanticeps,19.0548041723658,-99.2417738719669
