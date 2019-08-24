@@ -168,8 +168,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 930993243,Escallonia_myrtilloides,4.997948,-75.330627
 1260250357,Escallonia_myrtilloides,-4.103,-79.166
 1253827654,Escallonia_myrtilloides,10.121667,-84.123333
-1260716573,Escallonia_myrtilloides,4.56638,-74.00111
-1260716717,Escallonia_myrtilloides,4.59166,-74
 1260716579,Escallonia_myrtilloides,5.00111,-74.18305
 1260743820,Escallonia_myrtilloides,-13.12305,-72.625
 1253887700,Escallonia_myrtilloides,10.133056,-84.121667
@@ -415,7 +413,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259992327,Escallonia_myrtilloides,-3.683333,-79.266667
 47766716,Escallonia_myrtilloides,-3.683,-79.266
 1096734885,Escallonia_myrtilloides,-0.92,-78.92
-2270515712,Escallonia_myrtilloides,-0.15,-78.466667
 2270514140,Escallonia_myrtilloides,-1.045691,-78.5907
 2270515965,Escallonia_myrtilloides,-1.666667,-78.833333
 2270515233,Escallonia_myrtilloides,-1.116667,-78.933333
@@ -426,7 +423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270517478,Escallonia_myrtilloides,0.133333,-78.266667
 47766298,Escallonia_myrtilloides,-2.166,-78.566
 1261348876,Escallonia_myrtilloides,-2.166667,-78.566667
-2270516335,Escallonia_myrtilloides,-0.216667,-78.5
 1257646131,Escallonia_myrtilloides,-7,-77
 2270514847,Escallonia_myrtilloides,-2.433333,-78.983333
 2270515998,Escallonia_myrtilloides,-2.883333,-78.983333
@@ -467,8 +463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228176702,Escallonia_myrtilloides,-10.5,-75.25
 1261347244,Escallonia_myrtilloides,-7.45,-77.35
 1261350045,Escallonia_myrtilloides,8.783333,-82.55
-1702517689,Escallonia_myrtilloides,4.673333,-74.104028
-1261353508,Escallonia_myrtilloides,-16.45,-68.166667
 47766291,Escallonia_myrtilloides,-1.583,-78.9
 1261348118,Escallonia_myrtilloides,-1.58333,-78.9
 1258563711,Escallonia_myrtilloides,9.6,-83.76
@@ -596,9 +590,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288322966,Escallonia_myrtilloides,9.666667,-83.883333
 1890953800,Escallonia_myrtilloides,3.959936,-74.166349
 1261348852,Escallonia_myrtilloides,-0.3,-78.2
-779870832,Escallonia_myrtilloides,4.564002,-74.021847
-1890953457,Escallonia_myrtilloides,4.563889,-74.025278
-1896049809,Escallonia_myrtilloides,10.183056,-89.2225
 1258563736,Escallonia_myrtilloides,10.19,-84.23
 1257560965,Escallonia_myrtilloides,9.561944,-83.756389
 1844919815,Escallonia_myrtilloides,5.61729,-73.344131
@@ -639,6 +630,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257580851,Escallonia_myrtilloides,8.793611,-82.528333
 1890911950,Escallonia_myrtilloides,4.971667,-75.380833
 1314994099,Escallonia_myrtilloides,4.97194,-75.3808
-1314994113,Escallonia_myrtilloides,4.58583,-74.0531
-1314994107,Escallonia_myrtilloides,4.53056,-74.0569
 1260859954,Escallonia_myrtilloides,-16.31666,-67.9
