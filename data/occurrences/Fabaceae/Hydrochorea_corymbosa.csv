@@ -73,9 +73,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930926291,Hydrochorea_corymbosa,-8.3058,-67.6006
 1316166939,Hydrochorea_corymbosa,-10.974472,-55.744111
 1424287165,Hydrochorea_corymbosa,-8.305833,-67.600556
-1094922458,Hydrochorea_corymbosa,-29.620278,-79.339444
 1257658203,Hydrochorea_corymbosa,-4.895278,-74.350556
-1090584468,Hydrochorea_corymbosa,-0.834639,-46.610333
 912468195,Hydrochorea_corymbosa,-9.63,-55.93
 1042637869,Hydrochorea_corymbosa,-9,-55
 1090663004,Hydrochorea_corymbosa,-9.634722,-55.928056
@@ -88,7 +86,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090662170,Hydrochorea_corymbosa,-9.641111,-55.915833
 912468242,Hydrochorea_corymbosa,-9.64,-55.92
 912468287,Hydrochorea_corymbosa,-9.54,-55.9
-1094922492,Hydrochorea_corymbosa,-29.621389,-79.339722
 1260768694,Hydrochorea_corymbosa,-13.845,-62.274722
 1257707354,Hydrochorea_corymbosa,-9.794444,-65.524167
 1257707351,Hydrochorea_corymbosa,-9.843889,-65.563611
