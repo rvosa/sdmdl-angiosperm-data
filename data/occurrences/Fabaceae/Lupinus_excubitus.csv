@@ -22,8 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899735450,Lupinus_excubitus,34.696361,-118.659444
 1846549920,Lupinus_excubitus,34.016667,-116.25
 1426305184,Lupinus_excubitus,34.750528,-118.796417
-1899736144,Lupinus_excubitus,34.2,-117.866667
-2270500353,Lupinus_excubitus,34.2,-117.86667
 1986976652,Lupinus_excubitus,33.968611,-118.431667
 1426270380,Lupinus_excubitus,35.656111,-118.056944
 1931181044,Lupinus_excubitus,32.62,-116.12
@@ -120,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270198003,Lupinus_excubitus,33.8599751009535,-117.770627347236
 1426312174,Lupinus_excubitus,32.61952,-116.18793
 1228588875,Lupinus_excubitus,37.163563,-118.313579
-1228318561,Lupinus_excubitus,37,-119
 1930229997,Lupinus_excubitus,35.132188,-118.448974
 1056143876,Lupinus_excubitus,36.7781,-119.4178
 1265793411,Lupinus_excubitus,32.617564,-116.187227
