@@ -154,7 +154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988188400,Alyssum_desertorum,49.06,-118.69
 1929279885,Alyssum_desertorum,38.54,-114.94
 1701349813,Alyssum_desertorum,37.3,55.88333
-1342566288,Alyssum_desertorum,55.672199,12.558041
 176871931,Alyssum_desertorum,42.043181,-96.169338
 1986954120,Alyssum_desertorum,39.108333,-115.041944
 176871860,Alyssum_desertorum,41.4442,-96.5505
@@ -177,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988238345,Alyssum_desertorum,50.1,-120.8
 1697524575,Alyssum_desertorum,54.288787,37.609073
 1426084922,Alyssum_desertorum,41.1881,-121.361
-1947411614,Alyssum_desertorum,38.6,23.866667
 1947411609,Alyssum_desertorum,40.316667,21.366667
 1929712680,Alyssum_desertorum,39.48,-116.98
 240486892,Alyssum_desertorum,43.7451011659149,-105.464706610834
@@ -192,7 +190,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441685175,Alyssum_desertorum,47.84111,-120.01528
 1843517232,Alyssum_desertorum,44.926883,35.150017
 1843517225,Alyssum_desertorum,44.947032,35.118527
-1843517227,Alyssum_desertorum,44.904767,35.180197
 1697730956,Alyssum_desertorum,44.903794,35.129428
 1930660806,Alyssum_desertorum,40.48,-116.82
 1697524523,Alyssum_desertorum,54.803324,41.742867
@@ -216,7 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930684058,Alyssum_desertorum,42.73,-112.42
 2242367424,Alyssum_desertorum,39.802744,-105.20375
 1928881014,Alyssum_desertorum,39.43,-112.12
-1697792347,Alyssum_desertorum,40.516018,46.830254
 176871707,Alyssum_desertorum,44.9311671154439,-104.646206115841
 1929674988,Alyssum_desertorum,39.53,-115.35
 1930906564,Alyssum_desertorum,41.62,-115.8
@@ -282,7 +278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890156182,Alyssum_desertorum,30.082866,66.994001
 240486935,Alyssum_desertorum,42.760237,-103.928569
 732467624,Alyssum_desertorum,50.283333,-107.8
-1697730938,Alyssum_desertorum,45.45895,35.845462
 1927809121,Alyssum_desertorum,39.25,-116.8
 1890156174,Alyssum_desertorum,33.767432,72.357147
 1890156169,Alyssum_desertorum,33.573132,73.080194
@@ -384,18 +379,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615263415,Alyssum_desertorum,34.17,71.07
 615263399,Alyssum_desertorum,36.75,69.3
 615263405,Alyssum_desertorum,35.6,68.85
-615263407,Alyssum_desertorum,34.5,69.17
 615263414,Alyssum_desertorum,35.45,68.97
 615263368,Alyssum_desertorum,36.33,69.37
 1701349126,Alyssum_desertorum,30.25,37
-1701349163,Alyssum_desertorum,34.53333,69.1
 615263398,Alyssum_desertorum,35.57,69.45
 1701349140,Alyssum_desertorum,33.93333,70.06667
 732467621,Alyssum_desertorum,49.633333,-114.5
 1701349062,Alyssum_desertorum,36,51
 732467638,Alyssum_desertorum,49.483333,-114.066667
 732467636,Alyssum_desertorum,49.983333,-101.233333
-1697730973,Alyssum_desertorum,44.915587,35.205946
 1697524712,Alyssum_desertorum,49.28122,38.905703
 1701348967,Alyssum_desertorum,36.83333,66.86667
 1600880280,Alyssum_desertorum,60.884864,24.694786
@@ -407,7 +399,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697524677,Alyssum_desertorum,53.680892,54.717772
 1697524699,Alyssum_desertorum,52.575725,58.357269
 732467620,Alyssum_desertorum,49.6,-114.4
-1701971281,Alyssum_desertorum,58.1379,7.9971
 732467627,Alyssum_desertorum,50.45,-106.066667
 1701348977,Alyssum_desertorum,43.29472,22.00417
 1999569385,Alyssum_desertorum,60.488096,22.12814
@@ -439,9 +430,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697524390,Alyssum_desertorum,51.506852,36.461807
 1697792378,Alyssum_desertorum,41.47236,47.69774
 1697524703,Alyssum_desertorum,46.509144,41.337347
-1697792349,Alyssum_desertorum,39.209645,45.411301
 1697524648,Alyssum_desertorum,51.706988,55.60595
-1697792301,Alyssum_desertorum,41.68131,44.779673
 1697730879,Alyssum_desertorum,44.768507,34.596977
 615263208,Alyssum_desertorum,33.8,72.7
 1697524682,Alyssum_desertorum,46.450831,33.866468
