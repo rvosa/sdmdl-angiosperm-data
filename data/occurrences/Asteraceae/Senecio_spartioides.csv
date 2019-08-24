@@ -68,7 +68,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986953231,Senecio_spartioides,37.1881,-112.6387
 1259160390,Senecio_spartioides,40.68444,-104.50888
 1843894242,Senecio_spartioides,38.8131,-106.2267
-1259882954,Senecio_spartioides,38.04722,-107.1
 1259882264,Senecio_spartioides,38.81305,-106.22666
 2242356194,Senecio_spartioides,38.1535,-106.3451
 1259893691,Senecio_spartioides,41.05777,-104.54277
@@ -94,7 +93,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846484857,Senecio_spartioides,35.13735,-111.59875
 1258975614,Senecio_spartioides,38.91666,-105.25
 1269686824,Senecio_spartioides,36.938,-109.637001
-1258970665,Senecio_spartioides,38.9,-104.96666
 1928675152,Senecio_spartioides,37.5876,-111.8569
 1929167963,Senecio_spartioides,39.0842,-106.285
 1929834879,Senecio_spartioides,38.9314,-105.2575
@@ -119,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930328756,Senecio_spartioides,37.9659,-109.3575
 177029245,Senecio_spartioides,38.141111,-106.230556
 811881382,Senecio_spartioides,38.4938,-105.9267
-1258970134,Senecio_spartioides,40.4,-105.25
 2242415642,Senecio_spartioides,39.493453,-105.092723
 1258975845,Senecio_spartioides,39.93333,-104.83333
 1258975743,Senecio_spartioides,40.56666,-104.85
@@ -201,7 +198,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929804649,Senecio_spartioides,38.159,-110.17
 1928773587,Senecio_spartioides,40.5439,-109.8338
 2270659338,Senecio_spartioides,36.9827,-112.917
-1843805289,Senecio_spartioides,36.028,-107.7
 1928350117,Senecio_spartioides,40.5009,-109.5852
 2270663723,Senecio_spartioides,36.925,-111.977
 1843805509,Senecio_spartioides,40.42,-105.02
@@ -221,10 +217,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1699344140,Senecio_spartioides,33.216667,-108.266667
 1893339528,Senecio_spartioides,30.991667,-115.575
 2270660790,Senecio_spartioides,35.7146,-109.552
-1930861424,Senecio_spartioides,31,-115.55
 1895238157,Senecio_spartioides,31.033333,-115.558333
 1843805523,Senecio_spartioides,35.886322,-106.298479
-1895386933,Senecio_spartioides,31,-115.558333
 1843805414,Senecio_spartioides,36.1555,-108.157677
 2270659848,Senecio_spartioides,35.0874,-113.907
 1931373371,Senecio_spartioides,38.2572,-112.0512
@@ -248,7 +242,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846502438,Senecio_spartioides,40.513861,-108.068444
 2270660553,Senecio_spartioides,34.05,-109.55
 2270662062,Senecio_spartioides,34.0742,-109.194
-1846502485,Senecio_spartioides,34.158,-110.1
 2270660213,Senecio_spartioides,34.1547,-110.092
 2270660694,Senecio_spartioides,35.0811,-109.098
 2270659250,Senecio_spartioides,34.43,-110.66
@@ -299,7 +292,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270215926,Senecio_spartioides,34.123114,-116.853133
 1895238071,Senecio_spartioides,32.443333,-116.861389
 1928163279,Senecio_spartioides,32.4433,-116.8614
-1895386886,Senecio_spartioides,30.916667,-115.4
 2242376320,Senecio_spartioides,40.376371,-105.520289
 1843898857,Senecio_spartioides,35.37,-108.52
 2242401582,Senecio_spartioides,38.459984,-105.219088
