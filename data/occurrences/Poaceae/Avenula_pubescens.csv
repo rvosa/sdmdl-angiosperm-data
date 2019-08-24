@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1977820576,Avenula_pubescens,59.2611,10.7277
 2013664906,Avenula_pubescens,53.237867,-0.502675
-1947180490,Avenula_pubescens,48.59,10.9
 1977820465,Avenula_pubescens,62.4717,11.1044
 1995318942,Avenula_pubescens,59.5158,10.3285
 1977821901,Avenula_pubescens,62.4167,11.178
@@ -71,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599446277,Avenula_pubescens,61.055402,25.844318
 1701773097,Avenula_pubescens,63.4966,10.1014
 1701777373,Avenula_pubescens,63.4395,10.6242
-1095920529,Avenula_pubescens,59,17
 2289126204,Avenula_pubescens,51.961333,5.686
 1099878792,Avenula_pubescens,64.50834,15.91319
 1599446279,Avenula_pubescens,60.131422,23.540976
@@ -196,10 +194,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343135959,Avenula_pubescens,56.252568,8.522586
 1323863608,Avenula_pubescens,67.4127,14.633
 1323856947,Avenula_pubescens,69.74,19.1979
-2308769388,Avenula_pubescens,58.1,27.06
 1701804456,Avenula_pubescens,62.6242,11.1152
 1144047066,Avenula_pubescens,60.5892,8.4444
-860314742,Avenula_pubescens,42.4,1.72
 1657185059,Avenula_pubescens,49.49694,21.57056
 1701328177,Avenula_pubescens,66.0234,12.9454
 1831250025,Avenula_pubescens,53.2485,11.2487
@@ -224,7 +220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599446280,Avenula_pubescens,60.843237,22.447149
 1702217869,Avenula_pubescens,59.4905,10.8622
 684158791,Avenula_pubescens,47.08229,10.70146
-1697384911,Avenula_pubescens,53.5,39
 1701232891,Avenula_pubescens,63.0191,10.3662
 1323855507,Avenula_pubescens,69.7647,19.2264
 1702221158,Avenula_pubescens,59.1934,11.1531
@@ -257,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697384426,Avenula_pubescens,54.733333,35.883333
 1701966483,Avenula_pubescens,63.4893,10.8565
 1701327465,Avenula_pubescens,64.4765,10.7006
-883371599,Avenula_pubescens,50.016667,19.8
 187098135,Avenula_pubescens,64.5031,10.9566
 1936645301,Avenula_pubescens,42.167778,23.426944
 894165555,Avenula_pubescens,42.298,-6.665
@@ -283,7 +277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701777551,Avenula_pubescens,64.632,11.0681
 1702025698,Avenula_pubescens,62.5127,6.0563
 1701849100,Avenula_pubescens,59.7692,10.7815
-1986951901,Avenula_pubescens,40.883333,44
 1986951851,Avenula_pubescens,40.666667,44.55
 1701328628,Avenula_pubescens,63.5077,10.7492
 186793162,Avenula_pubescens,58.8841,8.9974
@@ -362,7 +355,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1699980289,Avenula_pubescens,63.2551,10.2817
 1144201074,Avenula_pubescens,62.24268,7.4387
 1323734824,Avenula_pubescens,69.6438,18.9789
-1697384361,Avenula_pubescens,55.616667,31.9
 1701279920,Avenula_pubescens,63.432,10.4128
 1701571850,Avenula_pubescens,63.4045,10.4716
 1701307086,Avenula_pubescens,62.3753,9.6369
@@ -371,7 +363,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851368856,Avenula_pubescens,42.78,-6.097
 1702339019,Avenula_pubescens,59.1067,5.67965
 1701963553,Avenula_pubescens,64.6615,11.1678
-1697384281,Avenula_pubescens,55.516667,31.8
 1702191139,Avenula_pubescens,59.6261,11.2651
 1851382063,Avenula_pubescens,42.781,-6.109
 1702205641,Avenula_pubescens,59.3586,11.7451
@@ -435,7 +426,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697384379,Avenula_pubescens,54.496098,36.350299
 895230465,Avenula_pubescens,43.077,-2.502
 1702163099,Avenula_pubescens,59.2495,11.4487
-788835433,Avenula_pubescens,40.883333,21.8
 1701304060,Avenula_pubescens,64.7329,11.1945
 1701234956,Avenula_pubescens,63.8819,11.0667
 1999503998,Avenula_pubescens,60.508902,23.132154
@@ -446,7 +436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702161987,Avenula_pubescens,62.1915,9.8175
 1702161971,Avenula_pubescens,62.1887,10.2016
 1343139672,Avenula_pubescens,55.548788,12.248592
-1050620234,Avenula_pubescens,43,-3.48
 165114484,Avenula_pubescens,46.799652,15.745045
 1701685641,Avenula_pubescens,58.8097,5.6678
 230818326,Avenula_pubescens,51.88069,5.927474
@@ -510,7 +499,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701785733,Avenula_pubescens,59.9917,10.295
 1701984248,Avenula_pubescens,60.0149,10.1147
 1323813181,Avenula_pubescens,69.6024,18.8183
-2291809049,Avenula_pubescens,42.583333,2.5
 1701785600,Avenula_pubescens,60.6418,9.0558
 1701984078,Avenula_pubescens,60.6085,8.495
 1701984468,Avenula_pubescens,59.7765,9.9394
@@ -623,7 +611,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144026096,Avenula_pubescens,60.4911,5.4045
 1697384406,Avenula_pubescens,54.874223,36.018943
 1332641889,Avenula_pubescens,50.447963,9.927834
-895284040,Avenula_pubescens,40.4,-0.35
 1599346493,Avenula_pubescens,64.709261,24.478468
 1585883141,Avenula_pubescens,62.02142,16.42811
 1705339880,Avenula_pubescens,57.324329,15.808537
@@ -684,7 +671,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39618338,Avenula_pubescens,65.658,-18.107
 895235219,Avenula_pubescens,38.718,-0.487
 895265120,Avenula_pubescens,40.31,-0.35
-894160945,Avenula_pubescens,42.84,-4.9
 1705339901,Avenula_pubescens,57.250637,15.682628
 895235225,Avenula_pubescens,38.763,-0.485
 1705394694,Avenula_pubescens,58.155406,16.372483
@@ -698,7 +684,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999503966,Avenula_pubescens,60.643422,22.196213
 1599446258,Avenula_pubescens,60.12509,22.977427
 1701238965,Avenula_pubescens,62.7339,9.988
-788835463,Avenula_pubescens,40.916667,24.1
 1599446242,Avenula_pubescens,63.068081,21.725666
 1599446243,Avenula_pubescens,61.303377,28.723941
 1323860285,Avenula_pubescens,69.6773,18.8971
@@ -712,7 +697,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187097860,Avenula_pubescens,63.9447,10.112
 895295109,Avenula_pubescens,38.87,-0.41
 2320005212,Avenula_pubescens,61.154668,10.424194
-1701254943,Avenula_pubescens,63.1,10.2381
 39618587,Avenula_pubescens,65.726,-18.354
 1599446232,Avenula_pubescens,61.139924,23.775185
 318216974,Avenula_pubescens,59.1973,5.822
@@ -725,7 +709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936218971,Avenula_pubescens,40.8787,-4.022
 187097902,Avenula_pubescens,63.91,9.9476
 1705313767,Avenula_pubescens,57.435334,15.072619
-895235196,Avenula_pubescens,40.49,-0.7
 1935655463,Avenula_pubescens,47.43194,14.99917
 1701346400,Avenula_pubescens,63.9445,10.1324
 1050652714,Avenula_pubescens,40.88,-4.01
@@ -745,7 +728,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894166224,Avenula_pubescens,42.84,-4.768
 1701295974,Avenula_pubescens,62.6873,11.8515
 318216975,Avenula_pubescens,59.0867,5.7101
-1842893002,Avenula_pubescens,42.335,0.7
 1999503935,Avenula_pubescens,60.557628,22.062869
 1697384418,Avenula_pubescens,54.012307,35.865847
 1701829168,Avenula_pubescens,60.9036,10.8712
@@ -823,7 +805,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845009394,Avenula_pubescens,49.602778,7.829722
 1606513395,Avenula_pubescens,60.03032,23.498948
 318216980,Avenula_pubescens,58.9362,5.5723
-788865450,Avenula_pubescens,40.4,21.566667
 1701804426,Avenula_pubescens,59.2423,10.8495
 1599446524,Avenula_pubescens,61.530462,23.584233
 788839078,Avenula_pubescens,40.616667,21.966667
@@ -864,14 +845,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599446189,Avenula_pubescens,61.512993,22.946705
 1599446192,Avenula_pubescens,61.153872,24.675181
 1702306330,Avenula_pubescens,61.5343,10.5891
-211619492,Avenula_pubescens,43.049999,-6.3
 1697764073,Avenula_pubescens,42.679281,44.022989
 1323791063,Avenula_pubescens,68.747,16.8665
 1999591424,Avenula_pubescens,60.657667,21.626075
 1697764070,Avenula_pubescens,42.795873,43.921709
 788836603,Avenula_pubescens,38.816667,22.266667
 1599446194,Avenula_pubescens,61.540819,23.639554
-1988243678,Avenula_pubescens,60.7,21.6
 1434680373,Avenula_pubescens,59.60524,14.33712
 1697384369,Avenula_pubescens,55.426268,38.557767
 788835402,Avenula_pubescens,38.95,21.833333
@@ -880,7 +859,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599446625,Avenula_pubescens,60.055059,23.675216
 1702020408,Avenula_pubescens,60.7177,8.9359
 1999504052,Avenula_pubescens,60.375404,22.372117
-788835372,Avenula_pubescens,38.8,22.266667
 1701224171,Avenula_pubescens,62.5671,11.2278
 187097618,Avenula_pubescens,62.8056,10.01
 2288325373,Avenula_pubescens,50.452,6.102
@@ -894,7 +872,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701308085,Avenula_pubescens,62.5565,9.0943
 1701255820,Avenula_pubescens,62.5574,9.1021
 1845009400,Avenula_pubescens,49.883611,8.008333
-1899315162,Avenula_pubescens,60.8,21.4
 39226580,Avenula_pubescens,64.208,-21.697
 1989604746,Avenula_pubescens,55.43701,13.6788
 1144151495,Avenula_pubescens,60.421,5.5318
@@ -954,7 +931,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599446200,Avenula_pubescens,61.072908,28.30379
 1701996287,Avenula_pubescens,62.2653,5.4358
 1599446610,Avenula_pubescens,59.950882,23.148301
-1230838398,Avenula_pubescens,48.08333,15.9
 1701303149,Avenula_pubescens,62.9753,10.2921
 1702431476,Avenula_pubescens,62.6855,6.2746
 1702431598,Avenula_pubescens,62.6661,6.2765
@@ -1238,7 +1214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701274211,Avenula_pubescens,62.3067,9.6075
 1891592150,Avenula_pubescens,49.87,6.17
 187097686,Avenula_pubescens,63.753,11.2803
-1891600821,Avenula_pubescens,49.9,6.08
 1999503836,Avenula_pubescens,60.356494,22.746642
 1701993692,Avenula_pubescens,59.6448,10.6409
 1999591312,Avenula_pubescens,60.50271,22.681907
@@ -1307,7 +1282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999586611,Avenula_pubescens,60.416806,22.666051
 1599446426,Avenula_pubescens,61.143161,24.1187
 1599446436,Avenula_pubescens,60.426083,24.182424
-860323867,Avenula_pubescens,42.14,2.7
 1701315252,Avenula_pubescens,63.5074,10.8788
 616357036,Avenula_pubescens,50.841315,5.855426
 1702227972,Avenula_pubescens,59.4125,11.3521
@@ -1367,7 +1341,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144151609,Avenula_pubescens,61.23189,6.76174
 1701291721,Avenula_pubescens,63.4982,10.0143
 1697764021,Avenula_pubescens,43.633466,40.269442
-995402551,Avenula_pubescens,51.4667,-0.6
 1701362361,Avenula_pubescens,59.996,10.9093
 1599443183,Avenula_pubescens,60.359155,25.638146
 20522364,Avenula_pubescens,59.096,10.8748
@@ -1376,7 +1349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705275324,Avenula_pubescens,56.850143,14.615307
 1599446407,Avenula_pubescens,61.232788,24.1105
 1999612402,Avenula_pubescens,62.759719,21.21684
-995397836,Avenula_pubescens,55.1667,-2.8
 1701236522,Avenula_pubescens,68.5448,16.6415
 187097671,Avenula_pubescens,63.5735,10.6112
 1701624174,Avenula_pubescens,62.2591,7.2091
