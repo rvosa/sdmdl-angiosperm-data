@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2285834818,Virola_sebifera,-15.725555,-47.939444
 2268926615,Virola_sebifera,-1.404167,-78.070556
 2285833258,Virola_sebifera,-15.66,-49.86
 2268998332,Virola_sebifera,-7.105833,-75.739722
@@ -23,7 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1932888053,Virola_sebifera,2.26,-73.78
 1889177055,Virola_sebifera,-9.144444,-57.051944
 1587329512,Virola_sebifera,-7.036111,-47.053888
-1889177963,Virola_sebifera,-56.168639,-100.358056
 2268890732,Virola_sebifera,-10.334444,-75.255278
 1420315271,Virola_sebifera,-20.113611,-44.860833
 1889177913,Virola_sebifera,-10.205972,-55.245833
@@ -177,7 +175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1086675639,Virola_sebifera,-8.044444,-63.484444
 1042683240,Virola_sebifera,-8.044444,-63.48
 1095350210,Virola_sebifera,-12.401667,-55.614167
-1257925139,Virola_sebifera,9.3875,-82.265833
 1090584667,Virola_sebifera,-0.926667,-46.670278
 1257537937,Virola_sebifera,8.934444,-80.736389
 1257739932,Virola_sebifera,-10.565556,-75.108611
@@ -288,10 +285,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290673950,Virola_sebifera,-17.406944,-64.115278
 1936199563,Virola_sebifera,-17.4983,-63.6453
 1260418505,Virola_sebifera,14.33333,-85.15
-1253842253,Virola_sebifera,9.554724,-84.575564
 1086677961,Virola_sebifera,-10.1725,-75.231389
 1260749411,Virola_sebifera,-10.1725,-75.23138
-1257838080,Virola_sebifera,9.554724,-84.57556
 1253813772,Virola_sebifera,9.008871,-83.005932
 1260741156,Virola_sebifera,-9.90833,-75.45833
 1086677930,Virola_sebifera,-12.648889,-72.923611
@@ -496,8 +491,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123887013,Virola_sebifera,5.55225,-74.894583
 1090574618,Virola_sebifera,-21.159867,-47.719924
 1259119391,Virola_sebifera,-14.15972,-67.92194
-2290156947,Virola_sebifera,7.733333,-81.583333
-1936622856,Virola_sebifera,7.7333,-81.5833
 1936657475,Virola_sebifera,-14.159861,-67.922167
 1090574612,Virola_sebifera,-21.157242,-47.744387
 1123886281,Virola_sebifera,6.224444,-74.667778
@@ -663,7 +656,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424222525,Virola_sebifera,-15.5,-48.5
 1258427281,Virola_sebifera,-15.91666,-48.01666
 1265922024,Virola_sebifera,-15.86667,-48.48333
-1086645020,Virola_sebifera,-12.953333,68.883333
 1258371746,Virola_sebifera,-12.95333,-68.87666
 1258371748,Virola_sebifera,-12.65638,-68.73694
 1086644354,Virola_sebifera,-14.417222,-48.436389
@@ -834,11 +826,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 46145065,Virola_sebifera,8.76,-83.25
 1258021264,Virola_sebifera,-18.7,-51.416667
 1261903532,Virola_sebifera,3.83333,-76.58333
-46145046,Virola_sebifera,8.61,-83.73
-1261567358,Virola_sebifera,8.616667,-83.733333
 46145044,Virola_sebifera,8.56,-83.51
 1086634115,Virola_sebifera,0.733333,-78.9
-1253645816,Virola_sebifera,8.616667,-83.733334
 1086629166,Virola_sebifera,9.25,-78.25
 1258406695,Virola_sebifera,0.73333,-78.9
 1261566822,Virola_sebifera,8.566667,-83.516667
@@ -846,19 +835,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261860175,Virola_sebifera,-14.81138,-60.39583
 1261483846,Virola_sebifera,-0.8,-76.383333
 1261484144,Virola_sebifera,-0.8,-76.46666
-1253645932,Virola_sebifera,8.466667,-83.583336
 1086634073,Virola_sebifera,-0.8,-76.466667
-1261567993,Virola_sebifera,8.466667,-83.583333
 1261557204,Virola_sebifera,9.736667,-84.391111
 46144954,Virola_sebifera,10.31,-84.75
 46144620,Virola_sebifera,9.73,-84.39
 1258328535,Virola_sebifera,-14.8075,-60.40305
-1086629162,Virola_sebifera,9.433333,-78.583333
 1260532041,Virola_sebifera,6.5,-58.216667
 1258284358,Virola_sebifera,-3.25,-72.9
 1456419055,Virola_sebifera,6.5,-58.2167
 1253604640,Virola_sebifera,8.656944,-83.156944
-1086633706,Virola_sebifera,8.656944,-8.656944
 1261558411,Virola_sebifera,8.65,-83.15
 1261484795,Virola_sebifera,-15,-67.08333
 1261485118,Virola_sebifera,6.58333,-76.83333
@@ -912,9 +897,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 46144416,Virola_sebifera,8.73,-83.6
 1253689841,Virola_sebifera,8.733333,-83.6
 1261484151,Virola_sebifera,-14.91666,-67.08333
-1090890626,Virola_sebifera,-2.567703,-44.262222
 1261482830,Virola_sebifera,-4.133333,-72.916667
-1261485104,Virola_sebifera,7.966667,-78.4
 1260504356,Virola_sebifera,-10.5,-67.75
 1261484483,Virola_sebifera,0.966667,-78.2
 2288947270,Virola_sebifera,-13.55,-61.008333
@@ -947,10 +930,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1086634116,Virola_sebifera,-1.416667,-77.333333
 1261480702,Virola_sebifera,-12.766667,-68.9
 1042671709,Virola_sebifera,-1.533333,-76.85
-1253645581,Virola_sebifera,9.380556,-84.15
-1261483686,Virola_sebifera,9.39,-84.13
 1261485548,Virola_sebifera,-12.780278,-68.900556
-46144986,Virola_sebifera,9.38,-84.15
 1707545651,Virola_sebifera,5.95,-74.85
 1261480670,Virola_sebifera,-14.83333,-67.08333
 1898890003,Virola_sebifera,5.95,-74.949997
@@ -1008,7 +988,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261483956,Virola_sebifera,8.416667,-83.333333
 1042480089,Virola_sebifera,10.316667,-84.72
 1042542238,Virola_sebifera,8.416667,-83.33
-46145147,Virola_sebifera,8.46,-83.58
 1042582460,Virola_sebifera,-12.783333,-72.67
 46144316,Virola_sebifera,8.41,-83.33
 1456229250,Virola_sebifera,4.7,-59.8
@@ -1055,17 +1034,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261484860,Virola_sebifera,5.31666,-61.05
 1042548346,Virola_sebifera,5.316667,-61.05
 1261480868,Virola_sebifera,-0.41666,-78.5
-1090890595,Virola_sebifera,-2.6075,-44.285833
 1260507828,Virola_sebifera,5.1,-64.2
 1144798659,Virola_sebifera,-14.85833,-66.74611
 1228361976,Virola_sebifera,-14,-65.5
-1087721955,Virola_sebifera,-2.5747,-44.209467
 1042532358,Virola_sebifera,8.666667,-83.57
-46144302,Virola_sebifera,8.45,-83.56
-1261484060,Virola_sebifera,8.45,-83.55
 1253689035,Virola_sebifera,8.666667,-83.566667
-1042543199,Virola_sebifera,1.6445,-83.55
-1253694907,Virola_sebifera,8.466667,-83.583335
 1042670047,Virola_sebifera,-9.483333,-74.83
 1261483163,Virola_sebifera,7.5,-76.08333
 1261484565,Virola_sebifera,3.96666,-77.13333
@@ -1094,13 +1067,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123890643,Virola_sebifera,6.010853,-74.937644
 1258039880,Virola_sebifera,5.883333,-74.933333
 1261485018,Virola_sebifera,9.383333,-79.666667
-1042565285,Virola_sebifera,4.1827,-80.85
-1042565424,Virola_sebifera,1.370766,-79.75
 1258038643,Virola_sebifera,6,-74.75
 1898887851,Virola_sebifera,6,-74.783333
 1261485019,Virola_sebifera,7.701111,-80.851111
 1261480927,Virola_sebifera,8.06666,-75.08333
-1042574021,Virola_sebifera,4.1948,-84.45
 1042673357,Virola_sebifera,8.011131,-75.08
 1261480947,Virola_sebifera,10.683333,-83.633333
 2289896973,Virola_sebifera,8.066667,-75.083333
@@ -1123,7 +1093,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930769827,Virola_sebifera,-10.583333,-63.65
 1424028022,Virola_sebifera,5.333333,-57.633333
 1936416678,Virola_sebifera,5.3333,-57.6333
-1042527000,Virola_sebifera,-12.833333,-79.28
 1261485369,Virola_sebifera,7.7,-80.85
 1042536664,Virola_sebifera,5,-61.1
 1042526947,Virola_sebifera,1.370765,-74.92
@@ -1144,18 +1113,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042487264,Virola_sebifera,7.666667,-75.37
 1123908565,Virola_sebifera,7.124109,-76.39917
 1086637191,Virola_sebifera,-0.966667,-49.933333
-1260816038,Virola_sebifera,0.96666,-49.93333
 1260504475,Virola_sebifera,-14.65,-66.36666
 1261483302,Virola_sebifera,3.96666,-77
 1042573947,Virola_sebifera,-14.65,-66.37
 1261485346,Virola_sebifera,9.25,-79
 1931098503,Virola_sebifera,-2.48,-54.95
 1086646986,Virola_sebifera,-19.5,-47.95
-1042581968,Virola_sebifera,4.1886,-79.4
 1258945645,Virola_sebifera,8.67,-83.7
 1261482148,Virola_sebifera,9.45,-79.1
 1261482406,Virola_sebifera,9.333333,-78.966667
-1042565312,Virola_sebifera,4.1859,-82.25
 1094281998,Virola_sebifera,-1.033333,-60
 1042537351,Virola_sebifera,5.011163,-62.25
 1042532889,Virola_sebifera,-9.833333,-68
@@ -1164,7 +1130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042491154,Virola_sebifera,-0.033333,-76.7
 1042517500,Virola_sebifera,-2.05,-66.1
 1094278610,Virola_sebifera,-8.816667,-63.4
-1042565270,Virola_sebifera,2.7402,-82.25
 1260503647,Virola_sebifera,3.3,-61.33333
 1042664598,Virola_sebifera,-9.083333,-63.22
 1042664158,Virola_sebifera,-8.766667,-63.43
@@ -1213,10 +1178,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261484244,Virola_sebifera,7.531676,-76.608911
 46144192,Virola_sebifera,10.43,-84.01
 1707531675,Virola_sebifera,5.183331,-69.150568
-1042500570,Virola_sebifera,2.375,-83.17
 46144185,Virola_sebifera,8.75,-83.3
 1707537951,Virola_sebifera,5.183333,-69.15
-1042500608,Virola_sebifera,2.7402,-83.3
 1261482996,Virola_sebifera,8.65,-83.166667
 1042581783,Virola_sebifera,9.316667,-78.92
 1261482424,Virola_sebifera,9.316667,-78.916667
@@ -1266,7 +1229,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042526634,Virola_sebifera,-15.916667,-67.58
 1261483522,Virola_sebifera,-15.75,-67.48333
 1261483962,Virola_sebifera,6.26666,-77.35
-1042492311,Virola_sebifera,3.1055,-78.57
 1042482751,Virola_sebifera,-11.75,-66.03
 1261483785,Virola_sebifera,-15.91666,-67.58333
 1065429249,Virola_sebifera,6.27777,-77.37487
@@ -1275,7 +1237,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087256975,Virola_sebifera,-15.4606,-55.7497
 1042526893,Virola_sebifera,-12.816667,-69.3
 1261485515,Virola_sebifera,11.033333,-84.466667
-1042542676,Virola_sebifera,9.58038,-77.35
 1086635280,Virola_sebifera,1.533333,-62.8
 1042636349,Virola_sebifera,11.816667,-84.38
 1261485540,Virola_sebifera,11.05,-84.416667
@@ -1306,7 +1267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1234542772,Virola_sebifera,-12.216667,-61.016667
 1042514293,Virola_sebifera,-12.216667,-60.98
 1931326033,Virola_sebifera,-15.97,-48.03
-1261485711,Virola_sebifera,11.31666,-73.5
 1042515037,Virola_sebifera,-10.15,-64.07
 1265919409,Virola_sebifera,-15.966666,-48.033333
 1273760196,Virola_sebifera,11.15,-73.5
@@ -1318,7 +1278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258385813,Virola_sebifera,3.91666,-77
 1260642246,Virola_sebifera,-15.86666,-47.88333
 1042571464,Virola_sebifera,3.011163,-77
-1077481881,Virola_sebifera,5.380556,-52.673333
 1931339220,Virola_sebifera,-7,-72
 1042516285,Virola_sebifera,-7.133333,-73.22
 1042515631,Virola_sebifera,-7.133333,-74.23
@@ -1326,7 +1285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260506774,Virola_sebifera,-7.000717,-72.000817
 1261482076,Virola_sebifera,9.3,-78.975
 1261485048,Virola_sebifera,13.741667,-84.841667
-1042532447,Virola_sebifera,2.7402,-80.58
 1042653236,Virola_sebifera,-15.966667,-67.62
 1261485079,Virola_sebifera,13.741667,-85.058333
 1261485524,Virola_sebifera,13.816667,-84.633333
@@ -1369,7 +1327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928082204,Virola_sebifera,-15.894010798681,-52.2574555819269
 1260505286,Virola_sebifera,-14.442222,-67.528333
 1258527327,Virola_sebifera,9.1,-72.83333
-1086647011,Virola_sebifera,-2.5,-44.25
 1930439420,Virola_sebifera,-7.9244,-63.3258
 1260707433,Virola_sebifera,-8,-63
 1258940867,Virola_sebifera,9.1625,-79.841667
@@ -1382,14 +1339,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2235971379,Virola_sebifera,-5.8,-50.55
 1095258733,Virola_sebifera,-15.65,-47.65
 1042653779,Virola_sebifera,-11.083333,-65.75
-1931043856,Virola_sebifera,-15.7834208090807,-47.9298726661488
 1258940856,Virola_sebifera,9.173889,-79.834444
 1258659255,Virola_sebifera,-11.166667,-66.133333
 1896314770,Virola_sebifera,9.159722,-79.848056
 1930000647,Virola_sebifera,-1.062328,-48.345872
 1287540611,Virola_sebifera,-15.533333,-47.616667
 1095191853,Virola_sebifera,-15.533333,-47.55
-1090889345,Virola_sebifera,-15.779722,-47.929444
 1042513433,Virola_sebifera,-3.466667,-64.98
 2236112043,Virola_sebifera,-1.83,-65.5
 1930939770,Virola_sebifera,-1.833333,-65.5
@@ -1427,11 +1382,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928528189,Virola_sebifera,-0.220997,-55.16572
 1042661104,Virola_sebifera,-1.583333,-55.53
 1261504148,Virola_sebifera,-11.08333,-65.83333
-1042573773,Virola_sebifera,4.1949,-83.65
 1087257049,Virola_sebifera,-15.65,-47.466667
-1261485648,Virola_sebifera,11.602778,-83.668056
 1261485618,Virola_sebifera,11.533333,-84.083333
-1042573785,Virola_sebifera,2.60967,-84.08
 1261555525,Virola_sebifera,-3.91666,-77.7
 1929485965,Virola_sebifera,-17.7465638069196,-46.1728607889123
 1261487054,Virola_sebifera,-3.83333,-77.66666
@@ -1463,7 +1415,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260507189,Virola_sebifera,11.01666,-72.33333
 1087257075,Virola_sebifera,-15.583333,-47.9
 1261485766,Virola_sebifera,-3.46666,-72.8
-1042661787,Virola_sebifera,4.1886,-79.65
 1930257302,Virola_sebifera,-9.852192,-68.888515
 1261483674,Virola_sebifera,-4.83333,-73.75
 1042666463,Virola_sebifera,-4.833333,-73.75
@@ -1516,9 +1467,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259075888,Virola_sebifera,10.083333,-66.016667
 1087692110,Virola_sebifera,-15.4647,-47.5546
 1929377876,Virola_sebifera,-5.908326,-55.709288
-1090581379,Virola_sebifera,-15.7797,-47.9297
 1042473757,Virola_sebifera,-10.666667,-59.83
-1929426401,Virola_sebifera,-0.875396,-48.512315
 1927880011,Virola_sebifera,-20.028499153208,-48.941151964069
 1929307252,Virola_sebifera,-15.952,-47.93495
 1930891525,Virola_sebifera,-4.287311,-70.30503
@@ -1552,7 +1501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123903048,Virola_sebifera,5.358459,-76.764862
 1258565884,Virola_sebifera,9.151944,-79.736389
 1258017115,Virola_sebifera,9.118333,-79.641389
-1258018367,Virola_sebifera,9.297778,-80.016111
 1087257012,Virola_sebifera,-15.9344,-50.1403
 1930892427,Virola_sebifera,-15.85,-48.763333
 1228169900,Virola_sebifera,-12,-48
@@ -1597,7 +1545,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087257001,Virola_sebifera,-12.816667,-51.766667
 1931285961,Virola_sebifera,-15.75,-48.73
 1928047835,Virola_sebifera,-15.35,-48.63
-1258017104,Virola_sebifera,9.353889,-79.869167
 1927807334,Virola_sebifera,-7.22,-48.22
 1929397101,Virola_sebifera,-9.05,-48.38
 1258016594,Virola_sebifera,9.163889,-79.834722
@@ -1631,7 +1578,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928842367,Virola_sebifera,-16.0611,-50.00122
 1260504626,Virola_sebifera,-14,-50.000183
 2236126532,Virola_sebifera,-14,-50
-1929411253,Virola_sebifera,-15.72,-47.87
 1931369934,Virola_sebifera,-16.03,-48.05
 2235845246,Virola_sebifera,-17,-48
 1258016617,Virola_sebifera,9.37,-83.69
@@ -1684,13 +1630,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258018366,Virola_sebifera,7.566667,-78.208333
 1099639956,Virola_sebifera,7.1265,-77.35299
 1258018476,Virola_sebifera,9.234722,-79.958056
-1090545266,Virola_sebifera,-2.5297,-44.3028
-2291518531,Virola_sebifera,5.915653,-54.350143
 1090540619,Virola_sebifera,-1.4558,-48.5044
 1898864603,Virola_sebifera,8.50984,-76.66764
 1934702117,Virola_sebifera,4.71084,-75.86147
 1090536747,Virola_sebifera,-21.4792,-47.5508
-1930327432,Virola_sebifera,-2.577323,-44.201115
 1260506303,Virola_sebifera,-16.11666,-67.13333
 1259122046,Virola_sebifera,-15.25,-68.266667
 1259120309,Virola_sebifera,-15.416667,-68.2
@@ -1701,6 +1644,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042506762,Virola_sebifera,-3.425,-60.03
 1927783401,Virola_sebifera,-1.456347,-45.727887
 1929862804,Virola_sebifera,-1.96415371941845,-48.1971721293354
-1930209906,Virola_sebifera,-1.453489,-48.476548
 1417514039,Virola_sebifera,10.5051,-66.5168
 1056967969,Virola_sebifera,8.507188,-80.102665
