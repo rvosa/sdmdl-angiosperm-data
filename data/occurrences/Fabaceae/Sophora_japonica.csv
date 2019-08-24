@@ -60,7 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986944054,Sophora_japonica,39.873611,-75.675833
 1897719555,Sophora_japonica,-36.933333,174.833333
 1897643235,Sophora_japonica,-36.866667,174.783333
-2289227231,Sophora_japonica,-26.25,28
 1258600860,Sophora_japonica,37.87167,-122.27167
 1846511635,Sophora_japonica,36.05726,-112.13789
 30894125,Sophora_japonica,38.110001,-5.05
@@ -69,8 +68,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261460202,Sophora_japonica,38.610833,-90.258611
 1050581758,Sophora_japonica,43.26,-2.94
 1935725396,Sophora_japonica,47.06861,15.4375
-30980089,Sophora_japonica,38.6,-0.88
-1261541024,Sophora_japonica,38.6,-90.25
 415990709,Sophora_japonica,41.76361,-72.685
 1928915870,Sophora_japonica,40.85,-73.88
 1261546219,Sophora_japonica,38.61083,-90.25861
@@ -108,7 +105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2243087411,Sophora_japonica,38.25525,140.34023
 1933819132,Sophora_japonica,35.67855,140.09714
 993164796,Sophora_japonica,-35.1333,148.8667
-1897655894,Sophora_japonica,-40.333333,175.6
 1828670437,Sophora_japonica,36.52741,138.32393
 381845487,Sophora_japonica,37.25578,138.97862
 1934137179,Sophora_japonica,36.55267,136.67691
@@ -227,9 +223,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258798176,Sophora_japonica,38.95166,-92.33388
 1303766723,Sophora_japonica,32.637983,103.59895
 1303766707,Sophora_japonica,29.496119,103.398589
-1705471388,Sophora_japonica,46.71666,11.5
 1304153528,Sophora_japonica,26.076106,119.306406
-1563278127,Sophora_japonica,27,100.2
 1304153567,Sophora_japonica,29.786224,118.182474
 462310504,Sophora_japonica,-32.375,24.625
 2251616822,Sophora_japonica,-31.699722,-63.531111
