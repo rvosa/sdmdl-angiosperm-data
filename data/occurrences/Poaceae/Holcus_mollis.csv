@@ -30,14 +30,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038226751,Holcus_mollis,49.273609,7.144166
 1600259047,Holcus_mollis,60.1703,23.967125
 1038226757,Holcus_mollis,48.387222,8.029722
-1881717619,Holcus_mollis,48.51,10.7
 1702379980,Holcus_mollis,59.7808,10.1898
 1702380174,Holcus_mollis,59.7744,10.202
 1702380027,Holcus_mollis,59.7798,10.2022
 1702380083,Holcus_mollis,59.8162,10.1973
 1936275124,Holcus_mollis,38.783056,-9.487778
 694846282,Holcus_mollis,49.543522,6.722002
-1421199996,Holcus_mollis,52,12.4
 1270040908,Holcus_mollis,50.418129,12.491542
 2313329364,Holcus_mollis,48.16,11.49
 1697382853,Holcus_mollis,57.915556,34.9075
@@ -102,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894158129,Holcus_mollis,42.45689,-6.46076
 1701867361,Holcus_mollis,59.3142,11.724
 1576193263,Holcus_mollis,40.765696,-4.00976
-786164717,Holcus_mollis,49.4,10
 1702233881,Holcus_mollis,59.4104,10.996
 1705460317,Holcus_mollis,57.684265,14.273113
 1270040876,Holcus_mollis,50.931553,13.444629
@@ -134,8 +131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936647345,Holcus_mollis,36.1686,-5.5836
 1701233763,Holcus_mollis,63.3721,9.2341
 1600259007,Holcus_mollis,61.714516,26.212091
-786164664,Holcus_mollis,49.5,9
-899772278,Holcus_mollis,48.3,8.2
 1600259052,Holcus_mollis,61.261069,24.396791
 1600259003,Holcus_mollis,60.50235,24.639967
 12566677,Holcus_mollis,47.5684,2.42362
@@ -171,7 +166,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638403774,Holcus_mollis,47.05639,14.36639
 1600258997,Holcus_mollis,59.974976,22.90334
 1882640484,Holcus_mollis,50.474396,12.450344
-786164584,Holcus_mollis,50.8,13.8
 12566589,Holcus_mollis,46.5671,4.90051
 894165441,Holcus_mollis,42.263,-6.314
 1270040864,Holcus_mollis,50.929893,13.425646
@@ -189,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894165371,Holcus_mollis,42.271,-6.678
 894165460,Holcus_mollis,42.222,-6.474
 1701779155,Holcus_mollis,63.0869,8.3183
-894165394,Holcus_mollis,42.247,-6.4
 1270040854,Holcus_mollis,50.935238,14.3735
 1851410581,Holcus_mollis,42.8207,-6.5271
 442005222,Holcus_mollis,52.86692,11.372093
@@ -238,7 +231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600258981,Holcus_mollis,64.548523,26.81402
 1701223647,Holcus_mollis,63.5103,10.1364
 1600258992,Holcus_mollis,61.339132,24.370683
-786164720,Holcus_mollis,49.5,9.6
 1702021911,Holcus_mollis,59.7264,10.147
 1600258987,Holcus_mollis,61.342538,24.407784
 1948429767,Holcus_mollis,62.512028,29.360372
@@ -281,7 +273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701997514,Holcus_mollis,62.675,8.4435
 1701997504,Holcus_mollis,62.6843,8.4267
 1342567515,Holcus_mollis,55.601611,11.37167
-899772304,Holcus_mollis,54.4,12.6
 1702005691,Holcus_mollis,59.7174,10.1467
 1065679885,Holcus_mollis,64.416123,18.035453
 1936445940,Holcus_mollis,42.8275,-4.5306
@@ -332,7 +323,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701796055,Holcus_mollis,59.0452,11.1091
 1600258971,Holcus_mollis,60.267416,24.131787
 1702431099,Holcus_mollis,60.8131,9.9466
-894160981,Holcus_mollis,42.65,-5.5
 1702208578,Holcus_mollis,59.4454,10.6513
 1600258965,Holcus_mollis,61.497673,23.883817
 1600258974,Holcus_mollis,60.278283,23.801668
@@ -353,11 +343,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 235665761,Holcus_mollis,39.41,-5.38
 318222191,Holcus_mollis,59.0645,5.9041
 235665778,Holcus_mollis,40.23,-6.83
-235665783,Holcus_mollis,40.3,-5.77
 235665774,Holcus_mollis,40.48,-6.23
 235665787,Holcus_mollis,40.39,-6.23
 235665788,Holcus_mollis,39.588784308149,-5.27122296163146
-235665770,Holcus_mollis,40.3,-5.88
 1999539987,Holcus_mollis,60.402456,23.754982
 1936237046,Holcus_mollis,41.1312,-3.9901
 1936236832,Holcus_mollis,41.0327,-3.9173
@@ -421,7 +409,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455435379,Holcus_mollis,49.93843,4.501234
 1702005326,Holcus_mollis,59.3224,11.8204
 1144698758,Holcus_mollis,42.31667,8.83333
-894159550,Holcus_mollis,43,-5.76
 1701782234,Holcus_mollis,59.591,10.0714
 1144112037,Holcus_mollis,60.8834,5.91677
 1050587609,Holcus_mollis,42.67,-2.59
@@ -438,7 +425,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894158701,Holcus_mollis,43.01,-6.36
 1144158907,Holcus_mollis,61.5142,6.6411
 894158784,Holcus_mollis,43.02,-5.15
-187178891,Holcus_mollis,62.8,8.7745
 1701829732,Holcus_mollis,62.6124,8.5226
 473034297,Holcus_mollis,53.629723,11.412222
 473034300,Holcus_mollis,51.657001,12.58899
@@ -470,7 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894163865,Holcus_mollis,42.37,-6.15
 186813070,Holcus_mollis,58.4872,7.2076
 1701975250,Holcus_mollis,58.3548,8.4276
-1060478313,Holcus_mollis,49,12.5
 1657186529,Holcus_mollis,47.375,14.79167
 187178940,Holcus_mollis,63.5593,10.238
 1701308153,Holcus_mollis,63.3429,10.1686
@@ -478,7 +463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187178895,Holcus_mollis,62.9589,8.103
 894165585,Holcus_mollis,42.82,-6.25
 894162264,Holcus_mollis,43.02,-5.27
-1144698762,Holcus_mollis,41.9,9.13333
 1701293713,Holcus_mollis,62.5341,7.5716
 187178914,Holcus_mollis,63.2099,8.9811
 1701293446,Holcus_mollis,63.3553,9.1249
@@ -490,7 +474,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701420330,Holcus_mollis,59.4859,10.6684
 1702295300,Holcus_mollis,60.2309,9.7131
 1701970358,Holcus_mollis,63.6258,9.1311
-1842897040,Holcus_mollis,41.41,2.1
 1144698765,Holcus_mollis,42.13333,9.13333
 1600259045,Holcus_mollis,61.070051,25.051918
 1144158802,Holcus_mollis,60.6932,5.4082
@@ -544,7 +527,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144158857,Holcus_mollis,60.286,5.233
 1705876273,Holcus_mollis,52.689692,23.886296
 1705876276,Holcus_mollis,52.677741,23.620398
-786164830,Holcus_mollis,54.4,10.2
 1701233511,Holcus_mollis,62.9516,8.1229
 1702295399,Holcus_mollis,62.6113,6.4668
 1705259722,Holcus_mollis,57.042658,16.446171
@@ -553,13 +535,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701878307,Holcus_mollis,62.1887,6.6944
 1144158797,Holcus_mollis,58.97009,5.71814
 1144158787,Holcus_mollis,58.88222,5.85054
-786164769,Holcus_mollis,51.1,7.6
 1144158821,Holcus_mollis,58.46334,6.46705
 1144158905,Holcus_mollis,62.57994,5.90741
 1144698754,Holcus_mollis,42.15,9.18333
 1144698784,Holcus_mollis,41.81667,9.25
 1701778327,Holcus_mollis,63.4745,8.6889
-786164765,Holcus_mollis,50.7,7.1
 1701964645,Holcus_mollis,63.4563,8.5888
 1702295382,Holcus_mollis,62.0743,6.3297
 788613577,Holcus_mollis,55.96328,13.88426
@@ -587,7 +567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600259026,Holcus_mollis,61.166635,25.603465
 1705330916,Holcus_mollis,56.505689,13.128816
 1701761247,Holcus_mollis,62.4845,7.1664
-786164740,Holcus_mollis,49.1,13.2
 1701975362,Holcus_mollis,58.4404,8.4947
 1144186158,Holcus_mollis,59.67725,10.7732
 1705334036,Holcus_mollis,56.398339,12.956198
@@ -641,7 +620,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144158785,Holcus_mollis,58.3309,7.779
 1701868115,Holcus_mollis,64.06094,10.02285
 1702295358,Holcus_mollis,61.5513,6.2242
-1893209260,Holcus_mollis,49.8,6.43
 1705370547,Holcus_mollis,58.27884,12.279085
 1891594553,Holcus_mollis,49.78,5.93
 812026194,Holcus_mollis,50.632333,9.193817
@@ -659,7 +637,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701246664,Holcus_mollis,62.2604,6.9779
 788644823,Holcus_mollis,56.306207,14.141139
 815842,Holcus_mollis,57.28219,14.35088
-1090541063,Holcus_mollis,40.8,-7.56
 1701878244,Holcus_mollis,61.622,6.6424
 1702295351,Holcus_mollis,60.2435,5.3061
 1144158844,Holcus_mollis,60.2422,5.3072
@@ -679,7 +656,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144158871,Holcus_mollis,60.2354,5.2989
 1144158826,Holcus_mollis,60.2725,5.3307
 1831249980,Holcus_mollis,53.4485,11.9152
-995401140,Holcus_mollis,51,-1.35
 1144158834,Holcus_mollis,60.2759,5.2694
 1701355126,Holcus_mollis,58.2397,6.6527
 1702295454,Holcus_mollis,62.1543,6.0635
@@ -709,7 +685,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701307894,Holcus_mollis,63.3986,8.97
 1702295388,Holcus_mollis,59.8165,5.5213
 1702269883,Holcus_mollis,63.30586,9.07608
-1144698764,Holcus_mollis,42.25,8.8
 1701878236,Holcus_mollis,61.9678,6.3963
 1705420528,Holcus_mollis,57.117325,13.361915
 1702295314,Holcus_mollis,59.8172,5.5283
@@ -717,7 +692,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 815633,Holcus_mollis,56.18529,15.59863
 1701624645,Holcus_mollis,61.35276,5.91639
 1702295357,Holcus_mollis,61.3619,5.7825
-786164806,Holcus_mollis,50.9,14.2
 21012647,Holcus_mollis,62.4757,6.1872
 187178912,Holcus_mollis,62.4773,6.1684
 21012471,Holcus_mollis,59.84212,10.21987
@@ -735,7 +709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705273586,Holcus_mollis,56.904039,14.853282
 187178861,Holcus_mollis,62.74169,7.3964
 815663,Holcus_mollis,56.200912,15.537211
-786164694,Holcus_mollis,48.8,8.4
 12541748,Holcus_mollis,46.8546,0.928775
 1701878258,Holcus_mollis,59.7791,5.4993
 1144158852,Holcus_mollis,60.56901,5.51371
