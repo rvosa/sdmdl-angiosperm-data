@@ -3,14 +3,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2269014557,Curatella_americana,12.024417,-85.526833
 2269014705,Curatella_americana,12.063611,-85.539611
 2269017565,Curatella_americana,13.2,-86.733333
-2235642070,Curatella_americana,-41.683889,-41.683889
 1944856275,Curatella_americana,-16.56,-50.22
-2235641734,Curatella_americana,-41.705556,-41.705556
 2284428164,Curatella_americana,-6.299722,-43.56
 1949966995,Curatella_americana,-14.0267,-49.2049
 2270422073,Curatella_americana,-5.888611,-35.358889
 2285834856,Curatella_americana,-14.581944,-48.506944
-2243140215,Curatella_americana,-2.485278,-44.266389
 1946178863,Curatella_americana,-15.657842,-56.998028
 2243141156,Curatella_americana,-10.4416,-36.5121
 2302274095,Curatella_americana,16.81339,-98.68014
@@ -19,20 +16,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701060680,Curatella_americana,5.559639,-68.462778
 1705511698,Curatella_americana,-3.175,-41.866944
 1705511605,Curatella_americana,-4.099722,-41.713889
-1585209053,Curatella_americana,-0.756331,-48.515453
 1913582717,Curatella_americana,-12.6,-47.52
 1913582683,Curatella_americana,-12.24,-47.16
 1913577955,Curatella_americana,-3.198333,-40.684167
 2243141600,Curatella_americana,-10.44,-45.18
 2270422286,Curatella_americana,-5.76,-46.44
-1829085068,Curatella_americana,-3.804889,-38.281556
 1946178675,Curatella_americana,-16.131689,-57.695239
 1913583077,Curatella_americana,-9.72,-49.68
 1848112937,Curatella_americana,-11.5425,-47.533333
 2350113511,Curatella_americana,-9.720278,-45.180278
 2312219337,Curatella_americana,-4.77,-43.064722
-1829094572,Curatella_americana,-0.756331,-48.51545
-2269108028,Curatella_americana,-0.4523,-48.3056
 2350113380,Curatella_americana,-7.919722,-45.54
 2270832344,Curatella_americana,-20.755,-56.630556
 1931789523,Curatella_americana,8.553042,-75.196161
@@ -92,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324592666,Curatella_americana,-5.931033,-35.194717
 2268964183,Curatella_americana,19.89127,-105.02521
 1586074200,Curatella_americana,-15.460556,-48.505833
-2243140169,Curatella_americana,-2.463722,-44.183083
 1264714384,Curatella_americana,-4.051389,-42.9525
 1587329242,Curatella_americana,-7.021667,-47.040833
 1427575050,Curatella_americana,5.999427,-71.530057
@@ -130,12 +122,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1423908276,Curatella_americana,-10.342222,-46.550278
 2243140091,Curatella_americana,-6.25,-38.618611
 1143428544,Curatella_americana,-15.640222,-57.372583
-1077248526,Curatella_americana,-12.635278,-38.050278
-1213529974,Curatella_americana,-0.803431,-48.520506
 1094797534,Curatella_americana,-6.164167,-38.367778
 1587324345,Curatella_americana,-10.342222,-46.550277
 1143428468,Curatella_americana,-16.018,-57.549778
-1503740580,Curatella_americana,-6.164167,-3.367778
 1829092536,Curatella_americana,-10.342389,-46.555278
 1423907359,Curatella_americana,4.596111,-60.158056
 1944964279,Curatella_americana,-4.596111,-60.158056
@@ -146,7 +135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087695318,Curatella_americana,-11.304369,-37.344713
 1265222242,Curatella_americana,-13.008333,-41.516667
 1087664224,Curatella_americana,-7.328056,-48.237222
-1944978472,Curatella_americana,-15.840278,-38.880556
 1087664272,Curatella_americana,-10.294167,-48.096389
 1087664254,Curatella_americana,-17.173889,-46.8475
 1087664218,Curatella_americana,-15.351389,-47.427778
@@ -154,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585297160,Curatella_americana,14.38162,-89.21799
 1258197459,Curatella_americana,14.381389,-89.217778
 1087664281,Curatella_americana,-16.741111,-39.136389
-1077242948,Curatella_americana,-12.576667,-38.0125
 1087664216,Curatella_americana,-14.264167,-46.289167
 1087664193,Curatella_americana,-11.295278,-37.290278
 1087664185,Curatella_americana,-12.666389,-49.458889
@@ -179,17 +166,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090627773,Curatella_americana,-13.782389,-47.277333
 1143428580,Curatella_americana,-15.641028,-57.205528
 1135076910,Curatella_americana,-16.073278,-57.672139
-1090155501,Curatella_americana,-0.879156,-48.510642
 1135822178,Curatella_americana,-16.562333,-57.559528
-1264693733,Curatella_americana,-2.880008,-40.319986
 1316169113,Curatella_americana,-0.973611,-46.591111
-2274006870,Curatella_americana,-2.88,-40.32
 1087724550,Curatella_americana,-9.110833,-45.929722
 1585297267,Curatella_americana,13.93444,-88.07333
 2234687333,Curatella_americana,-23.147778,-47.000833
 1087664227,Curatella_americana,-3.219444,-39.673333
 1087664232,Curatella_americana,-3.577222,-38.818333
-1087664199,Curatella_americana,-2.840833,-40.487222
 1087692788,Curatella_americana,-10.652222,-36.758333
 1087692817,Curatella_americana,-10.685278,-36.810556
 1087664220,Curatella_americana,-19.254722,-44.401111
@@ -205,7 +188,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1932881037,Curatella_americana,2.5,-72.69
 1135817883,Curatella_americana,-4.508889,-41.390556
 1077241914,Curatella_americana,-14.553611,-42.555278
-1424513691,Curatella_americana,-87.130556,26.621389
 1324960064,Curatella_americana,-16.465103,-54.578378
 1090911642,Curatella_americana,-6.7883,-38.820614
 1213668174,Curatella_americana,-17.4044,-50.0532
@@ -243,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257759002,Curatella_americana,11.716667,-86.016667
 1042695095,Curatella_americana,-3.306028,-60.09
 1424483499,Curatella_americana,-16.723056,-39.128889
-1094905814,Curatella_americana,-15.312222,-31.086389
 1424483507,Curatella_americana,-12.463611,-37.9575
 1213625718,Curatella_americana,-13.576111,-55.266944
 2265457803,Curatella_americana,10.84,-85.61
@@ -270,12 +251,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930548537,Curatella_americana,-11.1664,-37.2561
 1090160576,Curatella_americana,-20.505139,-54.617639
 1230541881,Curatella_americana,-11.40944,-37.43861
-1424428523,Curatella_americana,-1.058611,-4.1725
 1094907698,Curatella_americana,-12.573889,-41.382222
 1931309414,Curatella_americana,-11.38594,-37.41886
 930999495,Curatella_americana,8.092025,-75.967403
 2350503678,Curatella_americana,-8.721389,-35.100278
-1090585284,Curatella_americana,-0.687778,-48.487222
 1257607263,Curatella_americana,13.237222,-86.861111
 1090902241,Curatella_americana,-7.085111,-38.480444
 2268975137,Curatella_americana,16.720556,-88.373056
@@ -328,7 +307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257831509,Curatella_americana,15.892222,-92.700833
 1090900457,Curatella_americana,-7.114167,-38.601611
 1090706635,Curatella_americana,-17.281667,-51.886111
-1077607369,Curatella_americana,-9.875747,-35.258092
 1089178848,Curatella_americana,-7,-38.2
 1094905922,Curatella_americana,-7,-38.183333
 1042694760,Curatella_americana,-3.1615,-60.1
@@ -341,7 +319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2305316506,Curatella_americana,10.87,-85.66
 1424291672,Curatella_americana,-15.569722,-47.904722
 1213518505,Curatella_americana,-10.574092,-37.406581
-1424291608,Curatella_americana,-0.850833,-48.144167
 1087674097,Curatella_americana,-11.12,-37.14
 1253865671,Curatella_americana,10.927083,-85.629917
 768770247,Curatella_americana,2.5,-72.7
@@ -418,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094823302,Curatella_americana,-12.933333,-38.35
 1090896783,Curatella_americana,-4.876858,-42.145014
 1829094183,Curatella_americana,-12.951667,-46.875556
-1829094423,Curatella_americana,-15.333333,-17.116111
 1897374378,Curatella_americana,15.766056,-96.19175
 2239722764,Curatella_americana,16.3,-92.995
 1585297492,Curatella_americana,14.31639,-89.19556
@@ -460,7 +436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094818663,Curatella_americana,-12.154167,-45.110556
 930996287,Curatella_americana,9.469528,-73.562889
 1077233727,Curatella_americana,-11.009167,-44.275556
-1077599187,Curatella_americana,-9.916947,-35.587669
 1090701062,Curatella_americana,-18.439444,-51.995278
 1077221996,Curatella_americana,-11.009167,-44.942222
 1077233695,Curatella_americana,-11.014444,-44.942778
@@ -612,7 +587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585294512,Curatella_americana,13.85,-88.1
 1259872250,Curatella_americana,13.944444,-88.097778
 1585294529,Curatella_americana,13.935,-88.10722
-1057038812,Curatella_americana,13.736897,-88.866511
 1894545738,Curatella_americana,17.535556,-91.806944
 371260322,Curatella_americana,18.179861,-101.469167
 1260596538,Curatella_americana,9.88888,-84.46388
@@ -635,7 +609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419158319,Curatella_americana,16.558333,-93.854444
 1895130489,Curatella_americana,16.558333,-93.835
 1090719457,Curatella_americana,-13.416944,-48.140278
-1419226042,Curatella_americana,15.844444,-97.9875
 1258466931,Curatella_americana,13.867778,-88.851111
 1897573056,Curatella_americana,16.001944,-95.963889
 1585294640,Curatella_americana,13.86778,-88.85111
@@ -781,7 +754,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260448896,Curatella_americana,-16.98305,-61.85666
 1913580701,Curatella_americana,-17.983333,-48.533333
 1896347133,Curatella_americana,19.966667,-105.097222
-1317875624,Curatella_americana,22.83,-83.7
 1261861210,Curatella_americana,-14.41666,-62.05
 1421388168,Curatella_americana,17.883333,-91.766667
 1456372539,Curatella_americana,5.71667,-57.95
@@ -798,7 +770,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077607601,Curatella_americana,-11.243417,-37.425442
 1261861746,Curatella_americana,-14.81138,-60.39583
 1930744608,Curatella_americana,-14.8114,-60.3958
-1077198864,Curatella_americana,-21.05,-37.433333
 1928581156,Curatella_americana,-11.3544256439251,-37.4478844629906
 1260448750,Curatella_americana,-13.07,-64.596389
 1928072368,Curatella_americana,-15.322492,-38.996755
@@ -814,11 +785,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258649174,Curatella_americana,13.81666,-89.93333
 1419226727,Curatella_americana,16.608333,-93.558333
 1095205753,Curatella_americana,-14.66667,-48.95
-1424434651,Curatella_americana,-14.633333,-5.500833
 1930433341,Curatella_americana,-18.9223812705864,-48.277403976008
 1095199924,Curatella_americana,-14.63333,-49.05
 1802954119,Curatella_americana,-14.25,-51.166667
-1090889419,Curatella_americana,-15.779722,-47.929444
 1896347148,Curatella_americana,15.752778,-96.169444
 1077196895,Curatella_americana,-12.95,-38.6
 1260448859,Curatella_americana,5.41666,-53.06666
@@ -871,14 +840,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895130527,Curatella_americana,15.875,-92.725
 931015752,Curatella_americana,2.583333,-72.633333
 1087247360,Curatella_americana,-16.033333,-47.887778
-1090890368,Curatella_americana,-2.465556,-44.181944
 1260449879,Curatella_americana,-17.8,-63.35
 1424434684,Curatella_americana,-11.163333,-45.588611
 1303201353,Curatella_americana,-16.6,-42.966667
 1259218615,Curatella_americana,11,-85.55
 1896050759,Curatella_americana,15.862778,-96.473611
 1087247227,Curatella_americana,-16.25,-52.433333
-1087721485,Curatella_americana,-2.505825,-44.280028
 1893593939,Curatella_americana,15.746667,-96.468333
 1455942860,Curatella_americana,7.86,-65.68
 1893594031,Curatella_americana,17.53,-101.068333
@@ -948,7 +915,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077193631,Curatella_americana,-14.383333,-58.3
 1424434798,Curatella_americana,-14,-58.3
 1087247373,Curatella_americana,-15.5,-47.887778
-1087247344,Curatella_americana,-15.744444,-47.887778
 1893594012,Curatella_americana,18.239294,-94.852466
 1087247342,Curatella_americana,-15.5,-47.833333
 1896347152,Curatella_americana,18.254722,-94.859167
@@ -1040,7 +1006,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928372985,Curatella_americana,5.8,-67.333333
 1896050737,Curatella_americana,16.7775,-99.485556
 1896050747,Curatella_americana,17.261389,-99.5525
-1259461650,Curatella_americana,8.78333,-79.55
 1896050724,Curatella_americana,16.889722,-97.963611
 1895531390,Curatella_americana,16.929506,-97.933017
 1261520880,Curatella_americana,12.06666,-85.1
@@ -1063,12 +1028,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090433164,Curatella_americana,-12.493056,-38.313056
 1094719750,Curatella_americana,-12.483333,-38.3
 1094723750,Curatella_americana,-12.216667,-37.866667
-1077187425,Curatella_americana,-15.85,-38.866667
 1261905403,Curatella_americana,11.733333,-85.966667
 1896050734,Curatella_americana,16.3875,-94.099722
 1893593918,Curatella_americana,17.414544,-99.133354
 1896050743,Curatella_americana,17.42,-99.131667
-1258661321,Curatella_americana,14.08333,-83.33333
 1258659381,Curatella_americana,13.55,-84.28333
 1258661638,Curatella_americana,14.71666,-83.96666
 1259468730,Curatella_americana,14.2,-87.61666
@@ -1105,7 +1068,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099316154,Curatella_americana,-5.8,-35.216667
 1896050742,Curatella_americana,18.147222,-102.466944
 1260452407,Curatella_americana,-16.8,-47.916667
-1930993665,Curatella_americana,-15.7834208090807,-47.9298726661488
 1259467987,Curatella_americana,17.350556,-88.552222
 1259223027,Curatella_americana,13.18333,-86.58333
 1094725980,Curatella_americana,-16.2,-44.85
@@ -1113,7 +1075,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928193132,Curatella_americana,-4,-44.5
 1259467091,Curatella_americana,21.222222,-105.1225
 1929839759,Curatella_americana,-7.567555,-63.078099
-1587303574,Curatella_americana,-11.227742,-36.176061
 1099317424,Curatella_americana,-6.172222,-38.375
 1896347142,Curatella_americana,17.409722,-88.443889
 1260452840,Curatella_americana,-0.85,-48.06666
@@ -1183,7 +1144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259043852,Curatella_americana,12.16666,-85.31666
 1095185658,Curatella_americana,-5.49825,-45.231171
 1930518168,Curatella_americana,-15.5,-48.58
-1929041208,Curatella_americana,-0.875396,-48.512315
 1930469427,Curatella_americana,-20.028499153208,-48.941151964069
 1927828698,Curatella_americana,0.706497,-51.444125
 1087247253,Curatella_americana,-19.016667,-57.65
@@ -1217,7 +1177,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259130473,Curatella_americana,4.5681,-70.8984
 1259469038,Curatella_americana,15.908333,-93.485278
 1893397115,Curatella_americana,15.875,-93.508333
-1258989062,Curatella_americana,8.99305,-79.58944
 1258649175,Curatella_americana,15,-84.21666
 1259468669,Curatella_americana,15.26666,-83.76666
 2248067053,Curatella_americana,-4.098014,-41.722145
@@ -1227,7 +1186,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258649171,Curatella_americana,8.7,-82.45
 1087247244,Curatella_americana,-18.238056,-49.047222
 1893397192,Curatella_americana,16.491667,-94.341667
-1258992615,Curatella_americana,9.37138,-79.87861
 1259214217,Curatella_americana,14.016667,-83.4
 1259468717,Curatella_americana,10.53333,-85.31666
 1259028856,Curatella_americana,14.73333,-83.96666
@@ -1290,7 +1248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931135518,Curatella_americana,-15.5916,-47.71872
 1928888519,Curatella_americana,-15.28,-52.23
 1929460565,Curatella_americana,-14.87,-52.32
-1928318539,Curatella_americana,-15.86,-38.88
 1893397172,Curatella_americana,15.758333,-96.458333
 1893397087,Curatella_americana,17.708333,-92.091667
 1259469019,Curatella_americana,9.135556,-83.314444
