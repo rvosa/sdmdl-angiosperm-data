@@ -82,7 +82,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930731365,Helianthus_annuus,29.375403,-98.896386
 1929769447,Helianthus_annuus,30.2372,-97.685644
 1257912127,Helianthus_annuus,44.066667,-99.433333
-1257910993,Helianthus_annuus,44.25,-99.7
 2270562248,Helianthus_annuus,33.38,-111.69
 1931343854,Helianthus_annuus,30.214342,-97.777539
 1257915430,Helianthus_annuus,44.05,-99.416667
@@ -93,12 +92,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257911839,Helianthus_annuus,44.25,-99.666667
 1928353591,Helianthus_annuus,32.461508,-97.733769
 1843913410,Helianthus_annuus,35.23713,-112.10691
-1249267512,Helianthus_annuus,49.2,7.2
 1846549125,Helianthus_annuus,36.741706,-112.124479
 1929868079,Helianthus_annuus,30.167992,-97.727717
 1929912557,Helianthus_annuus,29.292361,-99.648625
 1986995864,Helianthus_annuus,43.8376849990575,-108.469794
-919040682,Helianthus_annuus,51.9,12.7
 1697688224,Helianthus_annuus,55.569444,40.654167
 2270574205,Helianthus_annuus,34.865566,-112.461548
 1699347094,Helianthus_annuus,31.93674,-103.0392
@@ -126,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899737205,Helianthus_annuus,37.921944,-120.843889
 1702243711,Helianthus_annuus,62.2816,10.7703
 2270651400,Helianthus_annuus,34.8353,-112.052299
-899771386,Helianthus_annuus,52.3,12.9
 1990822475,Helianthus_annuus,40.477778,-74.418889
 992082384,Helianthus_annuus,-34.187222,140.018056
 1652346804,Helianthus_annuus,-27.154444,151.231667
@@ -165,11 +161,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1699346964,Helianthus_annuus,33.587,-108.96635
 1702247017,Helianthus_annuus,69.2762,19.8997
 442008273,Helianthus_annuus,51.62149,12.512
-786162550,Helianthus_annuus,50.3,10.9
-899771385,Helianthus_annuus,51.1,11.6
 442008254,Helianthus_annuus,51.487049,11.738228
 1894418664,Helianthus_annuus,21.887806,-101.475417
-786162479,Helianthus_annuus,51.8,15
 442008252,Helianthus_annuus,52.218605,13.174488
 1701819545,Helianthus_annuus,61.4461,10.1862
 1894418615,Helianthus_annuus,24.771361,-99.671361
@@ -261,7 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1322068719,Helianthus_annuus,30.0092,94.9669
 2270689925,Helianthus_annuus,33.9882,-111.747
 1342547818,Helianthus_annuus,55.983675,12.009318
-786162553,Helianthus_annuus,49.5,8.5
 1705371220,Helianthus_annuus,57.011324,16.401075
 1846503720,Helianthus_annuus,33.988167,-111.747167
 240492524,Helianthus_annuus,33.02853,-108.15234
@@ -311,7 +303,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930351638,Helianthus_annuus,36.88,-112.89
 1260588689,Helianthus_annuus,-1.43333,36.98333
 1426273210,Helianthus_annuus,34.085,-114.435556
-1260125981,Helianthus_annuus,-2.4,-79.333
 233099105,Helianthus_annuus,38.7541,-97.8733
 63856741,Helianthus_annuus,43.3917,-117.6446
 1323738924,Helianthus_annuus,69.7076,19.0232
@@ -327,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843894636,Helianthus_annuus,42.2625,-105.1995
 1837261652,Helianthus_annuus,31.936667,-108.937833
 1986951633,Helianthus_annuus,42.270833,-105.210278
-464717180,Helianthus_annuus,26.397,111.3
 2270682282,Helianthus_annuus,33.4364,-111.891
 2270660269,Helianthus_annuus,34.0252,-111.054
 1702213050,Helianthus_annuus,59.1867,10.969
@@ -358,7 +348,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323738751,Helianthus_annuus,69.6861,19.0653
 788865294,Helianthus_annuus,56.1688,15.5662
 788835103,Helianthus_annuus,56.1869,15.31001
-56586218,Helianthus_annuus,28.35,-99.1
 1342547968,Helianthus_annuus,55.771578,12.583718
 176955986,Helianthus_annuus,38.4025,-96.553056
 415929772,Helianthus_annuus,41.79472,-72.50666
@@ -406,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893981056,Helianthus_annuus,19.519,-99.099444
 1928485351,Helianthus_annuus,40.8125,-105.2856
 1895220338,Helianthus_annuus,19.775278,-104.252222
-1258976190,Helianthus_annuus,40.8,-105.28333
 176955411,Helianthus_annuus,35.545277,-99.761665
 45268048,Helianthus_annuus,10.63,-85.43
 176956097,Helianthus_annuus,35.563056,-99.691111
@@ -483,7 +471,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993580604,Helianthus_annuus,-31.2544,148.79
 1451622377,Helianthus_annuus,-31.25288,148.791165
 1937002961,Helianthus_annuus,-31.254444,148.79
-30871031,Helianthus_annuus,37.200001,-6.3
 2270486007,Helianthus_annuus,33.424278,-111.92811
 1417925689,Helianthus_annuus,20.016944,-97.520833
 30871029,Helianthus_annuus,37.380001,-6.29
@@ -492,8 +479,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1417919969,Helianthus_annuus,20.034722,-97.436389
 1417930842,Helianthus_annuus,20.075,-97.558333
 1099320702,Helianthus_annuus,-5.990556,-37.814444
-1094169717,Helianthus_annuus,-14.8,-39.166667
-318113629,Helianthus_annuus,42.88,-1.8
 1897939019,Helianthus_annuus,21.880556,-101.535278
 1851335207,Helianthus_annuus,42.883,-1.806
 1258590900,Helianthus_annuus,47.60639,-122.33083
@@ -502,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947175996,Helianthus_annuus,49.99,9.94
 1843829154,Helianthus_annuus,34.41646,-106.825249
 2265446752,Helianthus_annuus,44.505485,-92.339405
-1929743563,Helianthus_annuus,37.2,-112.12
 1927877373,Helianthus_annuus,37.15,-111.92
 204429612,Helianthus_annuus,42.882999,-1.806
 1936557482,Helianthus_annuus,42.8766,-1.8136
@@ -515,7 +499,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176955446,Helianthus_annuus,37.653953,-104.794978
 1456029190,Helianthus_annuus,35.65,-118.32
 2265445011,Helianthus_annuus,44.579657,-94.122791
-786162506,Helianthus_annuus,54,10.7
 1986879259,Helianthus_annuus,40.495,-112.450556
 1897939025,Helianthus_annuus,24.636389,-101.516667
 2270587123,Helianthus_annuus,33.0381,-109.951
@@ -562,7 +545,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099318662,Helianthus_annuus,-5.1875,-37.344167
 1897939009,Helianthus_annuus,24.163889,-103.331111
 1342547245,Helianthus_annuus,56.163326,9.280481
-1897939002,Helianthus_annuus,23.316667,-103.1
 1897939010,Helianthus_annuus,24.623333,-101.373333
 1895411165,Helianthus_annuus,28.373889,-109.028611
 1342547305,Helianthus_annuus,56.127269,9.328479
@@ -596,7 +578,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323808526,Helianthus_annuus,69.6821,30.1233
 1598609697,Helianthus_annuus,63.100617,21.61056
 1936598971,Helianthus_annuus,43.3477,-3.865
-1261007182,Helianthus_annuus,37.5,-94.53333
 1987006024,Helianthus_annuus,42.7121,-112.231819
 1598609686,Helianthus_annuus,60.885185,26.7897
 1323809616,Helianthus_annuus,70.3453,26.5405
@@ -606,10 +587,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1611939597,Helianthus_annuus,31.924167,-106.041667
 204429520,Helianthus_annuus,43.325001,-1.921
 1893591955,Helianthus_annuus,26.929167,-109.063889
-993435719,Helianthus_annuus,-31.95,115.9
-996543930,Helianthus_annuus,-31.9,115.9
 996543967,Helianthus_annuus,-31.55,116.45
-993436474,Helianthus_annuus,-31.5,116.45
 1652172244,Helianthus_annuus,-26.576616,148.86779
 1846500209,Helianthus_annuus,37.833333,-110.213333
 1928535354,Helianthus_annuus,37.83,-110.2133
@@ -627,7 +605,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893622380,Helianthus_annuus,28.778333,-101.205
 1261007173,Helianthus_annuus,39.71583,-92.49277
 2269193349,Helianthus_annuus,-28.368333,-49.285278
-1077198835,Helianthus_annuus,-12.966667,-38.5
 1936948777,Helianthus_annuus,-33.4833,145.5333
 1927936184,Helianthus_annuus,25.252219,-100.0353
 318113274,Helianthus_annuus,38.58,-0.89
@@ -653,8 +630,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702436692,Helianthus_annuus,59.8411,10.2222
 1893762816,Helianthus_annuus,24.488611,-107.393333
 1893762817,Helianthus_annuus,25.140833,-107.205278
-992558454,Helianthus_annuus,-32.4,137.7
-995110544,Helianthus_annuus,-37.8,144.7833
 1895411073,Helianthus_annuus,27.488878,-109.967961
 1893762821,Helianthus_annuus,24.625,-107.441667
 1895411137,Helianthus_annuus,27.098611,-109.194444
@@ -665,7 +640,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842923718,Helianthus_annuus,34.38671,-103.317625
 1598606908,Helianthus_annuus,64.543256,27.028731
 1598606938,Helianthus_annuus,61.181566,24.348489
-1502023628,Helianthus_annuus,40.4,-0.35
 441760681,Helianthus_annuus,47.882033,-119.954286
 176955871,Helianthus_annuus,38.505431,-98.733424
 1699345058,Helianthus_annuus,29.491667,-104.108333
@@ -686,8 +660,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442674594,Helianthus_annuus,-34.97049,149.02988
 992548209,Helianthus_annuus,-35.015314,149.017646
 461940881,Helianthus_annuus,-28.625,28.125
-995505783,Helianthus_annuus,-30.9,150.833333
-994930299,Helianthus_annuus,-30.9,150.8333
 2270654306,Helianthus_annuus,34.8786,-112.067
 1894975689,Helianthus_annuus,25.791667,-108.991667
 1929747247,Helianthus_annuus,38.94175,-109.9375
@@ -724,11 +696,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295907674,Helianthus_annuus,35.457431,139.640536
 2242371254,Helianthus_annuus,39.716494,-104.803994
 1500199669,Helianthus_annuus,29.46794,-98.53429
-1050621011,Helianthus_annuus,42.47,-2.3
 2270656493,Helianthus_annuus,33.806,-110.902
 1697688264,Helianthus_annuus,57.000348,40.973921
 2309033063,Helianthus_annuus,48.22,-101.35
-2310593364,Helianthus_annuus,38.68,-98.7
 381812519,Helianthus_annuus,36.46783,140.47452
 1929549644,Helianthus_annuus,36.4161,-115.7717
 996539816,Helianthus_annuus,-30.75,121.47
@@ -766,7 +736,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895411149,Helianthus_annuus,24.966667,-100.25
 2270652882,Helianthus_annuus,33.935,-112.698
 1598606894,Helianthus_annuus,61.010051,24.417384
-992515237,Helianthus_annuus,-32,141
 992554886,Helianthus_annuus,-31.75,140.52
 2270583939,Helianthus_annuus,33.9345,-112.693
 295907606,Helianthus_annuus,35.449099,139.628037
@@ -775,10 +744,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260930580,Helianthus_annuus,37.74194,-94.33416
 1426105007,Helianthus_annuus,41.2172,-121.3992
 1989313798,Helianthus_annuus,45.40611,-83.8291
-1804415894,Helianthus_annuus,45.3,-75.616667
 1606511447,Helianthus_annuus,61.467,23.997642
 1261036902,Helianthus_annuus,24.099444,-99.815278
-1893622344,Helianthus_annuus,24.1,-99.815
 1895411115,Helianthus_annuus,24.0998480626862,-99.8173564411697
 992507733,Helianthus_annuus,-31.165387,136.834409
 1897671186,Helianthus_annuus,-37.183333,174.983333
@@ -789,7 +756,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992501026,Helianthus_annuus,-34.165373,140.584404
 992501016,Helianthus_annuus,-34.165378,140.034409
 2265582850,Helianthus_annuus,44.812033,-92.790898
-56585720,Helianthus_annuus,33.3,-85.47
 2270578023,Helianthus_annuus,36.8678,-112.889
 1988744959,Helianthus_annuus,41.89727,-84.01902
 1895411150,Helianthus_annuus,26.55,-100.55
@@ -804,7 +770,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050587029,Helianthus_annuus,42.67,-2.33
 1894532685,Helianthus_annuus,25.22556,-104.12361
 1894532673,Helianthus_annuus,25.008333,-103.008333
-1846500183,Helianthus_annuus,29.15,-103
 1895411094,Helianthus_annuus,23.7032856415339,-99.2186524199831
 1893592050,Helianthus_annuus,29.085556,-110.894167
 992484369,Helianthus_annuus,-32.465384,138.067745
@@ -815,7 +780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994768145,Helianthus_annuus,-29.7667,151.1167
 1272054507,Helianthus_annuus,-15.866667,-47.85
 1930604942,Helianthus_annuus,43.0431,-112.5442
-1697341725,Helianthus_annuus,47.5,119.166667
 992488618,Helianthus_annuus,-31.882045,138.417735
 993926205,Helianthus_annuus,-31.8833,138.4167
 415907019,Helianthus_annuus,41.68111,-72.94111
@@ -836,7 +800,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995647193,Helianthus_annuus,-31.08,150.95
 1896153376,Helianthus_annuus,18.6425,-96.730556
 1893622304,Helianthus_annuus,19.478383538351,-101.347852894147
-992464776,Helianthus_annuus,-34.4,140.6
 1703301178,Helianthus_annuus,49.299694,-98.267278
 1895411090,Helianthus_annuus,24.083333,-98.666667
 1893305106,Helianthus_annuus,20.643056,-90.211389
@@ -880,10 +843,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323760962,Helianthus_annuus,69.9754,29.6303
 1262014244,Helianthus_annuus,45.492799,-73.552221
 1999477099,Helianthus_annuus,60.444702,22.171052
-1930712317,Helianthus_annuus,40.7,-116.13
 176955543,Helianthus_annuus,38.87822,-99.3741
 1936568015,Helianthus_annuus,42.5563,-3.7078
-992454192,Helianthus_annuus,-31,150.25
 1988951426,Helianthus_annuus,44.762263,-86.049869
 1895411099,Helianthus_annuus,27.404097285668,-99.5437199468786
 996559571,Helianthus_annuus,-33.831,121.855
@@ -901,14 +862,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262017865,Helianthus_annuus,46.332276,-72.548154
 2242367960,Helianthus_annuus,38.923538,-105.28066
 1262017701,Helianthus_annuus,46.33901,-72.541586
-1050586958,Helianthus_annuus,42.7,-2.96
 1896153387,Helianthus_annuus,25.258333,-99.691667
 1598606883,Helianthus_annuus,60.058431,23.629838
 1598606954,Helianthus_annuus,61.315064,23.756255
 995138198,Helianthus_annuus,-34.2333,140.55
 992595145,Helianthus_annuus,-34.23,140.55
 1893762818,Helianthus_annuus,24.726667,-107.446667
-994844656,Helianthus_annuus,-36.0167,146
 992394574,Helianthus_annuus,-34.525084,142.369666
 199481632,Helianthus_annuus,36.82,-3.84
 199482115,Helianthus_annuus,36.80554,-4.36428
@@ -928,12 +887,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265584237,Helianthus_annuus,45.246053,-94.045354
 1949608592,Helianthus_annuus,49.033333,-119.45
 1598606860,Helianthus_annuus,61.50577,23.845414
-1896153379,Helianthus_annuus,25.433333,-101
 1930034613,Helianthus_annuus,39.0104,-108.6316
 2270194489,Helianthus_annuus,36.116667,-117.166667
 1030924155,Helianthus_annuus,25.60168,110.585686
 1421379567,Helianthus_annuus,19.011111,-90.313611
-993285137,Helianthus_annuus,-34.2833,140.6
 1896153386,Helianthus_annuus,19.011111,-90.314722
 371194992,Helianthus_annuus,19.158333,-90.175
 992454161,Helianthus_annuus,-34.283429,140.602461
@@ -988,12 +945,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473464388,Helianthus_annuus,45.7044,-73.4589
 1895411105,Helianthus_annuus,21.65,-98.116667
 1843809121,Helianthus_annuus,36.74184,-103.845388
-1291051144,Helianthus_annuus,53.4,-113.783333
 2308982150,Helianthus_annuus,32.85,-109.76
-1988073075,Helianthus_annuus,51.9,-120
 1842923652,Helianthus_annuus,33.238916,-108.877659
 176955825,Helianthus_annuus,38.492444,-96.336045
-56585458,Helianthus_annuus,33.3,-87.5
 176955828,Helianthus_annuus,38.51912,-96.06972
 2239097178,Helianthus_annuus,-33.655556,-65.419722
 2270276158,Helianthus_annuus,33.21253,-116.27636
@@ -1010,7 +964,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262006547,Helianthus_annuus,46.808245,-71.330858
 2265584492,Helianthus_annuus,44.957871,-96.443745
 2270653678,Helianthus_annuus,34.6697,-113.59
-991894385,Helianthus_annuus,46.5,11.2
 1842923640,Helianthus_annuus,35.886322,-106.298479
 1099015145,Helianthus_annuus,46.516666,11.366667
 1319763229,Helianthus_annuus,32.965,-105.689
@@ -1031,10 +984,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652009666,Helianthus_annuus,-24.498565,148.500839
 2234223025,Helianthus_annuus,33.571031,73.080561
 2239092675,Helianthus_annuus,-29.396944,-63.7225
-995480508,Helianthus_annuus,-30.5,151.65
 996018309,Helianthus_annuus,-35.27,142.95
 994799490,Helianthus_annuus,-35.2667,142.95
-994799913,Helianthus_annuus,-34.3,142.2167
 996018172,Helianthus_annuus,-29.67,141.75
 1451645892,Helianthus_annuus,-29.665158,141.751253
 992321920,Helianthus_annuus,-29.665348,141.784348
@@ -1043,9 +994,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 239701205,Helianthus_annuus,34.97,-100.82
 1258080298,Helianthus_annuus,39.340278,-94.244167
 1261007188,Helianthus_annuus,37.66222,-92.65861
-1611935518,Helianthus_annuus,31.783333,-106.5
 2265584078,Helianthus_annuus,47.231858,-93.544287
-1146397284,Helianthus_annuus,65,-150.63
 1702245916,Helianthus_annuus,58.97009,5.71814
 1931066082,Helianthus_annuus,44.11497,-111.46436
 415907017,Helianthus_annuus,41.80916,-72.25416
@@ -1056,7 +1005,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893391761,Helianthus_annuus,32.358333,-116.558333
 2234222448,Helianthus_annuus,29.9019,67.1328
 2239093022,Helianthus_annuus,-31.903056,-64.338056
-992416219,Helianthus_annuus,-31.6,140.6
 996018705,Helianthus_annuus,-28.87,153.05
 1451646331,Helianthus_annuus,-28.865079,153.051073
 2242365716,Helianthus_annuus,39.736636,-105.137034
@@ -1118,9 +1066,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176955520,Helianthus_annuus,37.36439,-96.46691
 1842923690,Helianthus_annuus,31.708398,-108.824926
 1697688213,Helianthus_annuus,55.116867,38.78508
-1899382469,Helianthus_annuus,45,-79.6
 239701214,Helianthus_annuus,30.67,-96.32
-992307162,Helianthus_annuus,-34.1,138.1
 993647858,Helianthus_annuus,-33.0667,147.1333
 1451645881,Helianthus_annuus,-33.081781,147.084544
 996018143,Helianthus_annuus,-33.08,147.08
@@ -1170,8 +1116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258590492,Helianthus_annuus,40.915,-90.378
 2239092745,Helianthus_annuus,-30.707778,-64.122222
 1257561442,Helianthus_annuus,38.95,-92.33333
-1456067051,Helianthus_annuus,26.7,-113.02
-240492719,Helianthus_annuus,26.7,-113.016667
 1893419795,Helianthus_annuus,26.708333,-113.025
 992402936,Helianthus_annuus,-32.553992,138.61274
 2270192147,Helianthus_annuus,34.4292999991197,-119.706
@@ -1206,7 +1150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996018153,Helianthus_annuus,-33.07,147.15
 1451645886,Helianthus_annuus,-33.065114,147.151209
 240492501,Helianthus_annuus,45.73972,-107.61203
-993733345,Helianthus_annuus,-33.1,147.2167
 1928364453,Helianthus_annuus,39.3442,-110.9917
 240492506,Helianthus_annuus,36.04468,-100.80222
 2270654323,Helianthus_annuus,34.09,-109.41
@@ -1317,14 +1260,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 240492687,Helianthus_annuus,43.49685,-100.62712
 240492477,Helianthus_annuus,48.0801530847474,-103.649133336744
 1895411109,Helianthus_annuus,25.8800641323532,-97.5042573544852
-1988235123,Helianthus_annuus,41,-112
 176956140,Helianthus_annuus,38.44612,-98.75362
 1651880415,Helianthus_annuus,-24.40689,150.509144
 176955453,Helianthus_annuus,37.92304,-99.49255
 1846499787,Helianthus_annuus,34.69725,-112.131222
 240492456,Helianthus_annuus,44.98269,-98.10065
 1451645904,Helianthus_annuus,-29.615159,141.701254
-996018212,Helianthus_annuus,-29.62,141.7
 2239092642,Helianthus_annuus,-29.7625,-63.737222
 2270651995,Helianthus_annuus,33.8225,-113.541
 2242389623,Helianthus_annuus,39.651886,-104.733878
@@ -1333,16 +1274,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261999296,Helianthus_annuus,45.366667,-71.866667
 240492581,Helianthus_annuus,46.8995214249751,-102.338579305907
 1988120804,Helianthus_annuus,50.24,-127.72
-1988097144,Helianthus_annuus,50.4,-121.3
 240492400,Helianthus_annuus,37.94527,-104.88069
 240492674,Helianthus_annuus,36.036295,-86.599433
-1291051236,Helianthus_annuus,49.05,-113.9
 240492505,Helianthus_annuus,40.67838,-105.18889
-894981994,Helianthus_annuus,49.133333,-113.9
 1038999805,Helianthus_annuus,41.3114,-72.9247
-993308618,Helianthus_annuus,-34.3,142.1833
 992415865,Helianthus_annuus,-34.305362,142.187722
-996018265,Helianthus_annuus,-34.3,142.22
 992207930,Helianthus_annuus,-23.715379,133.867709
 995248910,Helianthus_annuus,-23.7167,133.8667
 1846499836,Helianthus_annuus,33.713814,-112.017106
@@ -1403,7 +1339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 240492549,Helianthus_annuus,34.02009,-97.92253
 2270653287,Helianthus_annuus,33.341,-111.011
 2270654031,Helianthus_annuus,33.7691,-110.688
-2270581298,Helianthus_annuus,33.4,-109.333
 2270653702,Helianthus_annuus,33.42,-110.82
 240492730,Helianthus_annuus,45.81432,-100.97619
 2270655361,Helianthus_annuus,33.826411,-109.870199
@@ -1453,13 +1388,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 924819123,Helianthus_annuus,38.33733,-95.95556
 240492409,Helianthus_annuus,40.58476,-96.15777
 176955528,Helianthus_annuus,39.44505,-96.76001
-2270654718,Helianthus_annuus,34.5833,-112.6
 924819107,Helianthus_annuus,36.66779,-101.63611
 240492491,Helianthus_annuus,41.59036,-99.86096
 1099006917,Helianthus_annuus,48.390278,10.31
 176955949,Helianthus_annuus,37.14826,-97.607
 1451645871,Helianthus_annuus,-31.498454,145.817882
-996018105,Helianthus_annuus,-31.5,145.82
 240492489,Helianthus_annuus,42.845781,-98.85432
 924819074,Helianthus_annuus,38.65924,-95.68388
 2270655044,Helianthus_annuus,35.3306,-111.705
@@ -1588,7 +1521,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842923581,Helianthus_annuus,35.072759,-106.550462
 464791291,Helianthus_annuus,46.27884,-0.30967
 176955494,Helianthus_annuus,38.208974,-98.51846
-1988116933,Helianthus_annuus,50.7,-121.3
 1842923661,Helianthus_annuus,36.827433,-107.610984
 2270194786,Helianthus_annuus,34.200111,-118.957995
 176955480,Helianthus_annuus,38.65385,-96.41769
@@ -1652,14 +1584,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51850415,Helianthus_annuus,43.9242,-117.0591
 1999582549,Helianthus_annuus,60.488096,22.12814
 1598606781,Helianthus_annuus,61.877298,28.992982
-1986950611,Helianthus_annuus,50.416667,-107.3
 239701204,Helianthus_annuus,32.92,-111.42
 240492565,Helianthus_annuus,33.91468,-96.82917
 1929226192,Helianthus_annuus,42.4674,-111.7284
 441760483,Helianthus_annuus,42.50361,-111.73
 1988896693,Helianthus_annuus,45.412512,-84.612536
-1988129737,Helianthus_annuus,50.4,-107.3
-442674597,Helianthus_annuus,50.41667,-107.3
 473534723,Helianthus_annuus,50.3974,-107.4388
 176955469,Helianthus_annuus,38.84711,-100.09889
 788669947,Helianthus_annuus,57.890552,12.059346
@@ -1667,7 +1596,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270654252,Helianthus_annuus,31.5394,-110.756
 1291052703,Helianthus_annuus,49.192089,-98.159138
 441760532,Helianthus_annuus,43.065872,-116.656761
-1291051292,Helianthus_annuus,49.7,-112.833333
 1291052658,Helianthus_annuus,49.115064,-103.095918
 1261951861,Helianthus_annuus,46.133333,-72.716667
 176955954,Helianthus_annuus,37.04424,-100.59334
@@ -1688,10 +1616,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265582826,Helianthus_annuus,45.304687,-96.444779
 1846499790,Helianthus_annuus,33.54128,-112.07164
 442674596,Helianthus_annuus,50.17178,-109.18776
-786162483,Helianthus_annuus,49,8.4
 1988233647,Helianthus_annuus,53.55,-113.47
 1988164018,Helianthus_annuus,50.67,-120.32
-1988101579,Helianthus_annuus,50.4,-121.6
 176955464,Helianthus_annuus,38.88461,-95.54141
 788670004,Helianthus_annuus,57.66631,12.03483
 1598609661,Helianthus_annuus,60.464862,22.359362
@@ -1711,7 +1637,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442621220,Helianthus_annuus,41.22628,-120.92441
 1705427313,Helianthus_annuus,56.058102,14.026542
 1598609775,Helianthus_annuus,60.814072,26.537644
-1065944801,Helianthus_annuus,-37.816667,145
 1928695898,Helianthus_annuus,35.242832,-102.428261
 1928456999,Helianthus_annuus,34.379884,-99.839715
 415907016,Helianthus_annuus,41.31,-72.92416
@@ -1722,7 +1647,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701691302,Helianthus_annuus,59.4132,11.3681
 1702100104,Helianthus_annuus,59.4121,11.3777
 1144169386,Helianthus_annuus,58.5644,7.7709
-1988233137,Helianthus_annuus,49.5,-115.07
 1598606897,Helianthus_annuus,62.224071,21.319938
 1090537193,Helianthus_annuus,-22.870251,-47.077171
 804719,Helianthus_annuus,56.19029,15.60269
@@ -1748,7 +1672,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598609721,Helianthus_annuus,61.252077,28.766919
 2242376665,Helianthus_annuus,39.842253,-105.182489
 51850862,Helianthus_annuus,45.6007,-121.2689
-1988182894,Helianthus_annuus,49.5,-115.8
 51850805,Helianthus_annuus,42.9742,-117.0533
 1986882618,Helianthus_annuus,41.731667,-111.850278
 1322398714,Helianthus_annuus,38.9694,-77.1767
@@ -1771,11 +1694,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303839743,Helianthus_annuus,23.490446,111.295924
 1928080463,Helianthus_annuus,40.642048,-74.441201
 2242364659,Helianthus_annuus,38.844103,-104.815122
-1291051252,Helianthus_annuus,49.2,-113.316667
 1622354855,Helianthus_annuus,63.043208,21.55694
 51850242,Helianthus_annuus,44.0509,-123.0669
 437754931,Helianthus_annuus,40.29867,-83.06797
-1988168114,Helianthus_annuus,50.8,-121.3
 1038950208,Helianthus_annuus,41.406,-72.4831
 442611594,Helianthus_annuus,47.65878,-117.42605
 1701298774,Helianthus_annuus,63.3085,10.1673
@@ -1816,12 +1737,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701471905,Helianthus_annuus,59.67725,10.7732
 51851140,Helianthus_annuus,45.5989,-122.7858
 1291051173,Helianthus_annuus,51.608112,-112.455358
-786162475,Helianthus_annuus,52.4,13.2
 439087117,Helianthus_annuus,36.16994,-115.13983
 438421101,Helianthus_annuus,35.59421,-105.2228
 51850239,Helianthus_annuus,44.4147,-118.6033
 1598606882,Helianthus_annuus,67.412053,26.587871
-786162470,Helianthus_annuus,46.3,20.2
 1701710357,Helianthus_annuus,59.5047,5.8992
 788716323,Helianthus_annuus,55.704215,13.193147
 1705364181,Helianthus_annuus,58.38642,13.438758
@@ -1860,7 +1779,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929327190,Helianthus_annuus,44.376651,-103.729642
 439087115,Helianthus_annuus,36.77108,-94.8106
 176956054,Helianthus_annuus,38.00348,-101.78943
-1988180141,Helianthus_annuus,50.42,-121.3
 1702403426,Helianthus_annuus,59.1911,9.6214
 442674595,Helianthus_annuus,49.03807,2.36049
 437422417,Helianthus_annuus,25.66819,-100.33012
@@ -1887,8 +1805,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 464961699,Helianthus_annuus,47.39414,0.68484
 415959839,Helianthus_annuus,41.64638,-73.48472
 1929409301,Helianthus_annuus,38.4492,-112.23
-1988096197,Helianthus_annuus,50.45,-119.2
-1988192905,Helianthus_annuus,50.5,-119.2
 2304853059,Helianthus_annuus,42.98,-82.35
 1323766017,Helianthus_annuus,59.92224,10.50728
 1598609712,Helianthus_annuus,61.497517,23.898058
