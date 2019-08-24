@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1257343456,Anogeissus_leiocarpa,-11.7577,130.6372
 1831401950,Anogeissus_leiocarpa,7.850083,-4.836
 1831401939,Anogeissus_leiocarpa,7.4825,-4.63167
 1839859375,Anogeissus_leiocarpa,13.783333,-16.483333
@@ -24,8 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442086413,Anogeissus_leiocarpa,11.096733,0.588267
 442086423,Anogeissus_leiocarpa,12.442767,-1.35305
 1936196514,Anogeissus_leiocarpa,14.0543,-16.3355
-993632776,Anogeissus_leiocarpa,-12.3904,131.0593
-994406565,Anogeissus_leiocarpa,-12.391667,130.883333
 442086404,Anogeissus_leiocarpa,11.645,2.4137
 442086405,Anogeissus_leiocarpa,12.16695,1.845533
 362405723,Anogeissus_leiocarpa,11.64085,2.440083
@@ -50,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289922381,Anogeissus_leiocarpa,8.020833,-2.269722
 2252210917,Anogeissus_leiocarpa,8.15,-2.16
 1258573421,Anogeissus_leiocarpa,8.25027,-2.26972
-1257339104,Anogeissus_leiocarpa,-12.3872,130.8722
 317856819,Anogeissus_leiocarpa,14.65,0.15
 2288992771,Anogeissus_leiocarpa,7.869167,1.661167
 2291820002,Anogeissus_leiocarpa,7.083333,2.15
@@ -73,7 +69,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317856804,Anogeissus_leiocarpa,10.816667,-3.233333
 346754259,Anogeissus_leiocarpa,9.316667,13.383333
 47722479,Anogeissus_leiocarpa,11.65,-0.333
-1144578293,Anogeissus_leiocarpa,12.27806,-1.74028
 2289417916,Anogeissus_leiocarpa,11.65,-0.333333
 912324985,Anogeissus_leiocarpa,11.65,-0.33
 47722480,Anogeissus_leiocarpa,14.366,-0.25
@@ -81,7 +76,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144578182,Anogeissus_leiocarpa,46.72432,8.28997
 2290561505,Anogeissus_leiocarpa,7.5,-2.216667
 621086058,Anogeissus_leiocarpa,7.3,-2.13
-1144578161,Anogeissus_leiocarpa,7.63167,-5.55556
 2234860339,Anogeissus_leiocarpa,7.683333,-5.033333
 2290379969,Anogeissus_leiocarpa,11.25,35.25
 1257632645,Anogeissus_leiocarpa,5.366667,25.366667
@@ -94,7 +88,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291820673,Anogeissus_leiocarpa,9.25,-1.85
 317856811,Anogeissus_leiocarpa,11.1,-0.983333
 2288471522,Anogeissus_leiocarpa,5.646667,-0.2
-621084620,Anogeissus_leiocarpa,5.388,-0.12
 1261852121,Anogeissus_leiocarpa,5.64666,-0.2
 317856814,Anogeissus_leiocarpa,14.05,-0.033333
 2234860679,Anogeissus_leiocarpa,8.133333,-5.1
@@ -113,7 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288614943,Anogeissus_leiocarpa,12.016667,1.783333
 317856805,Anogeissus_leiocarpa,12.15,1.8
 2234860210,Anogeissus_leiocarpa,9.416667,-4.233333
-1144578160,Anogeissus_leiocarpa,17.35028,-3.52444
 912324971,Anogeissus_leiocarpa,15.37,-0.95
 317856830,Anogeissus_leiocarpa,12.033333,-1.066667
 1260438515,Anogeissus_leiocarpa,11.7014,8.8754
@@ -139,7 +131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1914122129,Anogeissus_leiocarpa,7.78,2.08
 1914122057,Anogeissus_leiocarpa,7.762665,2.153698
 2290405228,Anogeissus_leiocarpa,9.433333,13.266667
-2288639681,Anogeissus_leiocarpa,23.116667,113.25
 346760124,Anogeissus_leiocarpa,10.968056,13.934722
 2291819638,Anogeissus_leiocarpa,8.3,-6.7
 2291820095,Anogeissus_leiocarpa,8.283333,-5.066667
@@ -185,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291819778,Anogeissus_leiocarpa,7.866667,10.966667
 2291819938,Anogeissus_leiocarpa,12.916667,24.2
 2289912334,Anogeissus_leiocarpa,9.583333,-3.666667
-1144578167,Anogeissus_leiocarpa,7.63153,-5.55562
 2291819113,Anogeissus_leiocarpa,10.65,14.3
 2291819753,Anogeissus_leiocarpa,10.6,14.283333
 2288632278,Anogeissus_leiocarpa,9.533333,13.233333
@@ -202,14 +192,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2252210866,Anogeissus_leiocarpa,10.32,-2.42
 621164655,Anogeissus_leiocarpa,7.57,-2.42
 2290706004,Anogeissus_leiocarpa,9.3,13.4
-2252211441,Anogeissus_leiocarpa,5.37,0.14
-621111063,Anogeissus_leiocarpa,5.37,-0.14
-2291819777,Anogeissus_leiocarpa,5.616667,-0.233333
 2252211083,Anogeissus_leiocarpa,7.23,-1.22
-1144578284,Anogeissus_leiocarpa,7.95985,-1.2073
-1144578170,Anogeissus_leiocarpa,12.27793,-1.74014
 1144578290,Anogeissus_leiocarpa,14.36697,-14.46765
-1144578154,Anogeissus_leiocarpa,17.35028,-3.52442
 438317262,Anogeissus_leiocarpa,13.06667,-9.53333
 437984126,Anogeissus_leiocarpa,13.05,-9.53333
 437651098,Anogeissus_leiocarpa,14.27917,-11.3
@@ -219,5 +203,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 621164664,Anogeissus_leiocarpa,8.53,-0.28
 621164663,Anogeissus_leiocarpa,7.23,-1.27
 439316976,Anogeissus_leiocarpa,14.35,-3.61667
-1144578159,Anogeissus_leiocarpa,15.35849,38.85148
 621111067,Anogeissus_leiocarpa,6.29,0.09
