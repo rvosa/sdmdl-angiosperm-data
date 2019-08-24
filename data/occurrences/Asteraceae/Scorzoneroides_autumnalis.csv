@@ -101,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701277100,Scorzoneroides_autumnalis,61.8528,8.5937
 1831000559,Scorzoneroides_autumnalis,48.22972,24.23111
 2289705827,Scorzoneroides_autumnalis,44.975833,6.857
-1095918303,Scorzoneroides_autumnalis,61,17
 1705430677,Scorzoneroides_autumnalis,57.910082,15.740593
 1095905118,Scorzoneroides_autumnalis,57.03,8.54
 1042847069,Scorzoneroides_autumnalis,65.66001,14.53438
@@ -217,7 +216,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701867735,Scorzoneroides_autumnalis,59.6058,10.904
 442022528,Scorzoneroides_autumnalis,50.716621,12.496757
 1342634440,Scorzoneroides_autumnalis,56.18651,10.005686
-860313014,Scorzoneroides_autumnalis,42.4,1.72
 1342634140,Scorzoneroides_autumnalis,55.417106,9.433143
 1323763434,Scorzoneroides_autumnalis,67.3804,15.3375
 442022529,Scorzoneroides_autumnalis,50.59327,12.640351
@@ -260,7 +258,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342635320,Scorzoneroides_autumnalis,55.273301,12.393651
 1898257094,Scorzoneroides_autumnalis,55.49038,13.49422
 1999598781,Scorzoneroides_autumnalis,60.149068,23.845886
-895300530,Scorzoneroides_autumnalis,41.6,24.4167
 1702032272,Scorzoneroides_autumnalis,62.6522,11.5857
 1999528551,Scorzoneroides_autumnalis,69.976316,27.296295
 186817900,Scorzoneroides_autumnalis,59.4848,7.5278
@@ -280,7 +277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701848183,Scorzoneroides_autumnalis,61.7797,12.0147
 1323857579,Scorzoneroides_autumnalis,70.6211,29.6861
 186817847,Scorzoneroides_autumnalis,58.9207,7.3093
-1949957247,Scorzoneroides_autumnalis,56.230556,-4.7
 1600030959,Scorzoneroides_autumnalis,69.134116,21.256377
 1657188650,Scorzoneroides_autumnalis,47.06667,14.39444
 1342634813,Scorzoneroides_autumnalis,55.744102,10.934189
@@ -349,14 +345,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186817773,Scorzoneroides_autumnalis,59.6887,7.5408
 186817762,Scorzoneroides_autumnalis,59.193,7.209
 186817772,Scorzoneroides_autumnalis,59.1605,7.6158
-1947595442,Scorzoneroides_autumnalis,50.16,10.8
 1947595537,Scorzoneroides_autumnalis,50.42,9.96
 1342633825,Scorzoneroides_autumnalis,56.477806,8.730814
 1701963679,Scorzoneroides_autumnalis,65.6902,14.3197
 1038235809,Scorzoneroides_autumnalis,47.498055,11.2625
 1701317198,Scorzoneroides_autumnalis,65.431,14.1669
 1600030917,Scorzoneroides_autumnalis,68.832278,21.182789
-786182619,Scorzoneroides_autumnalis,47.9,8.1
 186817780,Scorzoneroides_autumnalis,59.5761,7.3051
 1323735082,Scorzoneroides_autumnalis,69.8504,19.5576
 186817781,Scorzoneroides_autumnalis,59.5729,7.3304
@@ -417,7 +411,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186817671,Scorzoneroides_autumnalis,59.0973,7.2151
 1701801064,Scorzoneroides_autumnalis,62.5803,10.9543
 186817680,Scorzoneroides_autumnalis,58.3985,7.9521
-1851578469,Scorzoneroides_autumnalis,42.56,-0.5
 1936201350,Scorzoneroides_autumnalis,42.6984,-0.3276
 186817674,Scorzoneroides_autumnalis,59.1152,7.277
 1851578448,Scorzoneroides_autumnalis,42.85,-0.69
@@ -436,7 +429,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186817605,Scorzoneroides_autumnalis,58.4335,7.8534
 186817612,Scorzoneroides_autumnalis,59.3199,7.0523
 186817615,Scorzoneroides_autumnalis,59.2997,6.9937
-788779940,Scorzoneroides_autumnalis,64.616667,16.7
 788610917,Scorzoneroides_autumnalis,55.74434,13.32665
 1323829289,Scorzoneroides_autumnalis,70.4632,25.8304
 186817621,Scorzoneroides_autumnalis,59.5765,7.3208
@@ -546,7 +538,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1882285753,Scorzoneroides_autumnalis,48.76,10.72
 1598322161,Scorzoneroides_autumnalis,60.850635,24.766138
 1288109579,Scorzoneroides_autumnalis,50.445592,10.016724
-895242082,Scorzoneroides_autumnalis,39.5,-0.38
 1342634879,Scorzoneroides_autumnalis,55.575588,11.322505
 1342633760,Scorzoneroides_autumnalis,55.22878,8.692152
 317821560,Scorzoneroides_autumnalis,60.63,24.15
@@ -643,7 +634,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598322137,Scorzoneroides_autumnalis,62.238565,25.169345
 1598322140,Scorzoneroides_autumnalis,62.686951,25.141689
 1701281329,Scorzoneroides_autumnalis,63.4043,10.3313
-788463285,Scorzoneroides_autumnalis,40.9,21.816667
 1705328379,Scorzoneroides_autumnalis,62.872404,12.691193
 1323732649,Scorzoneroides_autumnalis,69.4192,23.6132
 57703376,Scorzoneroides_autumnalis,61.244801,24.044001
@@ -670,7 +660,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705397255,Scorzoneroides_autumnalis,57.642785,16.357782
 1705340626,Scorzoneroides_autumnalis,57.470408,16.07353
 1851358302,Scorzoneroides_autumnalis,42.4418,-5.1977
-1851396585,Scorzoneroides_autumnalis,43,-6.24
 1323733975,Scorzoneroides_autumnalis,69.096,17.6249
 1851379242,Scorzoneroides_autumnalis,42.37,-5.73
 1598322173,Scorzoneroides_autumnalis,63.276795,23.379084
@@ -751,7 +740,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701796382,Scorzoneroides_autumnalis,60.5485,6.1072
 1701316999,Scorzoneroides_autumnalis,63.069,9.3661
 1702025615,Scorzoneroides_autumnalis,61.2831,9.2332
-620533043,Scorzoneroides_autumnalis,49.8,-56.316667
 620533041,Scorzoneroides_autumnalis,50.116667,-56.116667
 1701796284,Scorzoneroides_autumnalis,69.5404,20.7142
 1701933625,Scorzoneroides_autumnalis,62.777,11.0329
@@ -818,7 +806,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57703368,Scorzoneroides_autumnalis,62.428299,23.899599
 1701568139,Scorzoneroides_autumnalis,62.8205,9.6916
 1323732703,Scorzoneroides_autumnalis,68.2153,17.6928
-1024305617,Scorzoneroides_autumnalis,46.7,5.6625
 1845010508,Scorzoneroides_autumnalis,49.356389,7.771389
 1323732668,Scorzoneroides_autumnalis,68.2556,17.4071
 1999468117,Scorzoneroides_autumnalis,60.077033,23.654907
@@ -832,7 +819,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473580065,Scorzoneroides_autumnalis,49.833333,-57.866667
 1999468162,Scorzoneroides_autumnalis,70.07372,27.718176
 1999468131,Scorzoneroides_autumnalis,68.487876,27.447677
-473580063,Scorzoneroides_autumnalis,49.766667,-57.9
 1999468151,Scorzoneroides_autumnalis,69.105469,27.736542
 1323761914,Scorzoneroides_autumnalis,68.635,19.5574
 1999468177,Scorzoneroides_autumnalis,70.081848,27.902504
@@ -857,7 +843,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701774539,Scorzoneroides_autumnalis,61.5974,8.9152
 1702171267,Scorzoneroides_autumnalis,62.1185,5.3188
 1702171220,Scorzoneroides_autumnalis,62.194,5.6365
-1249268553,Scorzoneroides_autumnalis,50.6,6.9
 1701341632,Scorzoneroides_autumnalis,61.4178,8.8033
 1099906410,Scorzoneroides_autumnalis,61.364722,22.005556
 2291889687,Scorzoneroides_autumnalis,44.166667,8.05
@@ -878,7 +863,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999468120,Scorzoneroides_autumnalis,60.456902,22.260261
 1211528427,Scorzoneroides_autumnalis,64.419983,-16.822929
 1702402084,Scorzoneroides_autumnalis,58.4815,6.5131
-187190297,Scorzoneroides_autumnalis,63.4907,11.4
 1702431734,Scorzoneroides_autumnalis,62.7159,7.1462
 1702431440,Scorzoneroides_autumnalis,62.4998,6.0489
 1598322077,Scorzoneroides_autumnalis,63.05393,25.909334
@@ -896,7 +880,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999468101,Scorzoneroides_autumnalis,68.828718,27.380134
 788766908,Scorzoneroides_autumnalis,68.40538,18.68625
 1248699460,Scorzoneroides_autumnalis,53.283333,-60.15
-1060599409,Scorzoneroides_autumnalis,50.6,6.8
 1702301234,Scorzoneroides_autumnalis,60.333,8.8732
 788764469,Scorzoneroides_autumnalis,56.44196,12.56199
 1248699396,Scorzoneroides_autumnalis,53.304444,-60.275
@@ -981,7 +964,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57703355,Scorzoneroides_autumnalis,60.861401,23.591499
 1056185046,Scorzoneroides_autumnalis,66.685169,16.773378
 39688876,Scorzoneroides_autumnalis,65.764,-19.785
-786182657,Scorzoneroides_autumnalis,51.8,10.3
 39443525,Scorzoneroides_autumnalis,65.944,-18.422
 1323761693,Scorzoneroides_autumnalis,67.2855,14.4547
 788774377,Scorzoneroides_autumnalis,55.89651,12.80889
@@ -1005,7 +987,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598322409,Scorzoneroides_autumnalis,62.244977,25.746254
 1323732683,Scorzoneroides_autumnalis,69.0869,20.2331
 812031810,Scorzoneroides_autumnalis,50.632333,9.193817
-39688892,Scorzoneroides_autumnalis,65.612,-17.5
 1999468102,Scorzoneroides_autumnalis,60.932389,21.635174
 1999468100,Scorzoneroides_autumnalis,60.847505,21.649448
 1999468089,Scorzoneroides_autumnalis,60.377059,23.125132
@@ -1040,7 +1021,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598322121,Scorzoneroides_autumnalis,66.269648,29.334041
 1702028010,Scorzoneroides_autumnalis,59.8272,8.349
 1990858570,Scorzoneroides_autumnalis,56.51036,13.40081
-1988078975,Scorzoneroides_autumnalis,60.9,-46.1
 1323732638,Scorzoneroides_autumnalis,70.1345,21.646
 1999468122,Scorzoneroides_autumnalis,60.035077,22.958874
 1455983653,Scorzoneroides_autumnalis,60.93,-46.07
@@ -1173,7 +1153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935700797,Scorzoneroides_autumnalis,47.69972,15.88194
 788776679,Scorzoneroides_autumnalis,58.683779,13.812689
 39443125,Scorzoneroides_autumnalis,66.005,-23.038
-1705498916,Scorzoneroides_autumnalis,61.26,22.7
 1598322166,Scorzoneroides_autumnalis,60.98904,28.197934
 57703358,Scorzoneroides_autumnalis,65.8181,24.480801
 1701244353,Scorzoneroides_autumnalis,62.8164,11.443
@@ -1241,7 +1220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39443224,Scorzoneroides_autumnalis,65.895,-22.572
 1323732686,Scorzoneroides_autumnalis,69.5167,21.2561
 1701261560,Scorzoneroides_autumnalis,64.7316,12.1964
-1455975244,Scorzoneroides_autumnalis,68.57,18.5
 1598322403,Scorzoneroides_autumnalis,60.597136,23.802238
 39688810,Scorzoneroides_autumnalis,64.628,-21.991
 788771334,Scorzoneroides_autumnalis,57.34209,12.10015
@@ -1288,7 +1266,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705297975,Scorzoneroides_autumnalis,57.6672,14.971459
 1705382820,Scorzoneroides_autumnalis,56.826825,15.723337
 57703389,Scorzoneroides_autumnalis,62.232307,25.833191
-1988186249,Scorzoneroides_autumnalis,53.3,-61.5
 1701289565,Scorzoneroides_autumnalis,67.287,14.4082
 1799100808,Scorzoneroides_autumnalis,63.45631,11.2006
 1702421190,Scorzoneroides_autumnalis,62.008,9.2454
@@ -1392,7 +1369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705464995,Scorzoneroides_autumnalis,67.209139,23.385334
 1702301288,Scorzoneroides_autumnalis,60.291,8.3488
 1600030889,Scorzoneroides_autumnalis,69.054823,21.099991
-1702301221,Scorzoneroides_autumnalis,60.3,8.3487
 1702423632,Scorzoneroides_autumnalis,60.3065,5.3443
 1323732679,Scorzoneroides_autumnalis,69.3905,19.1542
 1144125396,Scorzoneroides_autumnalis,61.91214,5.97147
@@ -1611,7 +1587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323732682,Scorzoneroides_autumnalis,69.6312,21.901
 1701928347,Scorzoneroides_autumnalis,61.0944,7.0713
 1099912699,Scorzoneroides_autumnalis,65.94,-18.564444
-1893207395,Scorzoneroides_autumnalis,49.5,6.02
 788781650,Scorzoneroides_autumnalis,56.42467,12.58824
 1702287790,Scorzoneroides_autumnalis,62.5688,6.1297
 1702407653,Scorzoneroides_autumnalis,69.609,21.8487
@@ -1705,7 +1680,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055670041,Scorzoneroides_autumnalis,42.552222,20.152778
 1842910710,Scorzoneroides_autumnalis,42.66,0.99
 1702421175,Scorzoneroides_autumnalis,61.76479,9.55763
-39443249,Scorzoneroides_autumnalis,65.7,-17.875
 57703381,Scorzoneroides_autumnalis,61.712009,27.280375
 1705256660,Scorzoneroides_autumnalis,57.239767,16.003957
 1705352927,Scorzoneroides_autumnalis,57.665715,15.857517
@@ -1799,7 +1773,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705369577,Scorzoneroides_autumnalis,58.036227,14.958779
 1701664614,Scorzoneroides_autumnalis,59.8627,10.4463
 1598322325,Scorzoneroides_autumnalis,61.30932,23.543084
-317821244,Scorzoneroides_autumnalis,42.4,2.09
 788771395,Scorzoneroides_autumnalis,56.673345,12.856235
 2313352499,Scorzoneroides_autumnalis,48.13,11.43
 1323761708,Scorzoneroides_autumnalis,65.6927,14.0311
@@ -1974,7 +1947,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144125283,Scorzoneroides_autumnalis,60.56901,5.51371
 1705400517,Scorzoneroides_autumnalis,57.867966,16.159031
 1705263227,Scorzoneroides_autumnalis,57.274184,16.451724
-1842856488,Scorzoneroides_autumnalis,42.4,1.97
 1701492318,Scorzoneroides_autumnalis,70.0743,28.0517
 39688884,Scorzoneroides_autumnalis,64.896,-23.71
 1702423681,Scorzoneroides_autumnalis,60.54,6.3385
@@ -2002,7 +1974,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702301259,Scorzoneroides_autumnalis,63.94532,10.87728
 1144125260,Scorzoneroides_autumnalis,60.54419,6.66526
 1705326200,Scorzoneroides_autumnalis,57.102925,15.046197
-1701928371,Scorzoneroides_autumnalis,60.6,7.477
 1702301233,Scorzoneroides_autumnalis,64.06094,10.02285
 1701717641,Scorzoneroides_autumnalis,61.59946,9.46214
 788778801,Scorzoneroides_autumnalis,64.193792,19.702235
@@ -2110,7 +2081,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701288861,Scorzoneroides_autumnalis,63.7674,11.4945
 1702423809,Scorzoneroides_autumnalis,60.8383,6.6818
 1702301177,Scorzoneroides_autumnalis,60.8493,8.908
-1144125327,Scorzoneroides_autumnalis,60.8,5.3011
 1144125306,Scorzoneroides_autumnalis,60.84137,5.50512
 788779881,Scorzoneroides_autumnalis,64.163741,17.35472
 1144125349,Scorzoneroides_autumnalis,60.8143,5.3783
@@ -2124,7 +2094,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57703331,Scorzoneroides_autumnalis,61.344101,22.903999
 1701717602,Scorzoneroides_autumnalis,60.8028,10.1779
 1610575352,Scorzoneroides_autumnalis,66.272832,29.111601
-1702301183,Scorzoneroides_autumnalis,60.8313,9
 788779771,Scorzoneroides_autumnalis,66.59624,19.89478
 788775988,Scorzoneroides_autumnalis,58.32407,11.72141
 1702421068,Scorzoneroides_autumnalis,61.1182,8.5045
@@ -2176,7 +2145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788771453,Scorzoneroides_autumnalis,55.84506,13.70368
 1702423753,Scorzoneroides_autumnalis,61.9881,5.153
 1099867782,Scorzoneroides_autumnalis,67.139722,16.032778
-1043027417,Scorzoneroides_autumnalis,66,17
 1702423840,Scorzoneroides_autumnalis,59.8386,6.99
 1701445176,Scorzoneroides_autumnalis,62.1152,7.1889
 1702287755,Scorzoneroides_autumnalis,62.0975,7.2091
@@ -2238,7 +2206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144125389,Scorzoneroides_autumnalis,60.3451,7.1458
 1702423745,Scorzoneroides_autumnalis,60.3095,7.1928
 1702421181,Scorzoneroides_autumnalis,61.5611,9.8075
-1891593326,Scorzoneroides_autumnalis,49.79,6.4
 788775698,Scorzoneroides_autumnalis,58.77171,13.93792
 21084254,Scorzoneroides_autumnalis,61.7694,9.5249
 1144125370,Scorzoneroides_autumnalis,60.3936,7.0805
