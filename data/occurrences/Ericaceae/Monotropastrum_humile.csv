@@ -35,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2243060957,Monotropastrum_humile,43.115,141.125
 2244509909,Monotropastrum_humile,34.168,132.066667
 1829904909,Monotropastrum_humile,35.627778,139.435833
-1830527284,Monotropastrum_humile,35.233333,134.4
 1829498935,Monotropastrum_humile,37.116389,140.213889
 1828481334,Monotropastrum_humile,43.192,140.878
 1830205734,Monotropastrum_humile,36.583333,137.333333
@@ -57,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829864662,Monotropastrum_humile,34.847,138.915889
 1829023235,Monotropastrum_humile,40.029167,141.54375
 1257534209,Monotropastrum_humile,19.078056,104.3475
-1934145448,Monotropastrum_humile,40.9,140.533333
 391295248,Monotropastrum_humile,37.769722,140.685278
 1830524716,Monotropastrum_humile,34.616667,132.183333
 388844725,Monotropastrum_humile,35.599071,139.30306
@@ -84,11 +82,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 391295314,Monotropastrum_humile,37.775556,140.681389
 1829867270,Monotropastrum_humile,35.132458,139.053097
 1829619531,Monotropastrum_humile,36.898611,139.378889
-1830683511,Monotropastrum_humile,33.6,134.1
 1830684447,Monotropastrum_humile,33.733333,133.333333
-1830683480,Monotropastrum_humile,33.7,133.166667
 1830683576,Monotropastrum_humile,33.816667,133.583333
-1830684199,Monotropastrum_humile,33.3,132.883333
 1830683545,Monotropastrum_humile,33.85,133.583333
 238096091,Monotropastrum_humile,37.816667,140.966667
 1829598523,Monotropastrum_humile,36.195,138.735
@@ -101,17 +96,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830393379,Monotropastrum_humile,35.205901,137.167143
 1830691190,Monotropastrum_humile,33.25,133.25
 1830691757,Monotropastrum_humile,33.533333,133.85
-1830691082,Monotropastrum_humile,33.8,133.966667
 1830691744,Monotropastrum_humile,33.033333,132.783333
 1830193305,Monotropastrum_humile,36.416667,137.033333
 381823945,Monotropastrum_humile,36.77835,140.36012
 1830201586,Monotropastrum_humile,36.45,136.916667
 1260077052,Monotropastrum_humile,21.96638,104.235
 1260076058,Monotropastrum_humile,21.99,104.27305
-238096222,Monotropastrum_humile,37,140
-391295558,Monotropastrum_humile,37.766667,140.5
 1828478283,Monotropastrum_humile,43.189,140.9156
-2244520143,Monotropastrum_humile,33.7,133.633333
 1830660654,Monotropastrum_humile,33.6625,133.50625
 1829618918,Monotropastrum_humile,36.650833,139.171111
 1830518202,Monotropastrum_humile,35.451944,134.648056
@@ -162,7 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829856060,Monotropastrum_humile,33.346518,133.052393
 381823535,Monotropastrum_humile,36.29898,140.29192
 1830205036,Monotropastrum_humile,36.483333,136.816667
-1830221854,Monotropastrum_humile,36.5,137.116667
 1830200207,Monotropastrum_humile,36.85,137.966667
 204384364,Monotropastrum_humile,34.70449,135.83102
 2244451058,Monotropastrum_humile,38.037,138.407
@@ -175,7 +165,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830160141,Monotropastrum_humile,36.366667,137.05
 1830161175,Monotropastrum_humile,36.816667,137.683333
 381823978,Monotropastrum_humile,36.37887,140.48746
-1830184435,Monotropastrum_humile,36.6,137.433333
 1829629847,Monotropastrum_humile,36.786111,139.062778
 187997275,Monotropastrum_humile,35.282438,139.015596
 1830178315,Monotropastrum_humile,36.55,137.383333
@@ -190,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030701264,Monotropastrum_humile,31.869157,118.802987
 1829563772,Monotropastrum_humile,36.91698,140.57933
 1830159773,Monotropastrum_humile,36.566667,137.466667
-1830167355,Monotropastrum_humile,36.383333,137.1
 187997293,Monotropastrum_humile,35.46576,139.403055
 1829627046,Monotropastrum_humile,36.678889,139.013611
 1830165448,Monotropastrum_humile,36.416667,136.983333
@@ -233,7 +221,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381823984,Monotropastrum_humile,36.47221,140.37241
 381824330,Monotropastrum_humile,37.20166,139.77882
 381823988,Monotropastrum_humile,36.47987,140.37804
-1830230004,Monotropastrum_humile,36.4,137.1
 1829632468,Monotropastrum_humile,36.9025,139.173889
 2243091757,Monotropastrum_humile,38.185361,140.325051
 381824323,Monotropastrum_humile,38.7588,141.02855
@@ -245,7 +232,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2243091818,Monotropastrum_humile,37.956659,139.669285
 1830625778,Monotropastrum_humile,34.186243,134.499601
 381823997,Monotropastrum_humile,36.54145,140.52284
-1829610152,Monotropastrum_humile,36.8,139.1
 381824331,Monotropastrum_humile,39.37525,141.23145
 1830196766,Monotropastrum_humile,36.183333,136.366667
 1829902377,Monotropastrum_humile,39.461389,141.954722
@@ -266,7 +252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381823985,Monotropastrum_humile,36.80775,140.73969
 2243092624,Monotropastrum_humile,38.531026,139.984466
 381823992,Monotropastrum_humile,36.00192,140.01413
-1829610459,Monotropastrum_humile,36.8,138.7
 1030701289,Monotropastrum_humile,26.588884,107.977112
 1830214001,Monotropastrum_humile,34.97577,138.94395
 1829827259,Monotropastrum_humile,36.959222,138.758556
@@ -286,7 +271,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829843163,Monotropastrum_humile,35.45743,139.515547
 1830183143,Monotropastrum_humile,36.733333,137.633333
 1829895133,Monotropastrum_humile,35.621667,138.540833
-1829900585,Monotropastrum_humile,36.8,139.236111
 2243092253,Monotropastrum_humile,38.14361,140.44
 388844421,Monotropastrum_humile,42.874943,140.658881
 2248102866,Monotropastrum_humile,43.624372,144.359992
@@ -294,7 +278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2243090996,Monotropastrum_humile,38.30802,140.436463
 2243091049,Monotropastrum_humile,37.7382,140.14072
 1303982707,Monotropastrum_humile,24.046484,105.055261
-891665564,Monotropastrum_humile,24.1,121.181944
 1303979540,Monotropastrum_humile,29.496119,103.398589
 1830604945,Monotropastrum_humile,34.017258,134.195991
 1303979537,Monotropastrum_humile,27.740736,98.66582
