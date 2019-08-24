@@ -19,7 +19,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005461999,Launaea_sarmentosa,-27.23,32.79
 616290130,Launaea_sarmentosa,-27.125,32.875
 996802267,Launaea_sarmentosa,-23.116667,113.783333
-996804342,Launaea_sarmentosa,-21.9,114.1
 996801496,Launaea_sarmentosa,-21.8042,114.1075
 996802169,Launaea_sarmentosa,-21.86,114.02
 996802222,Launaea_sarmentosa,-21.815556,114.086944
@@ -27,16 +26,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996619039,Launaea_sarmentosa,-23.138056,113.769722
 2291889738,Launaea_sarmentosa,2.119007,73.568444
 1261307514,Launaea_sarmentosa,-25.08333,46.86666
-1261307402,Launaea_sarmentosa,-24.95,47
 996280677,Launaea_sarmentosa,-21.466667,115.016667
 993942654,Launaea_sarmentosa,-21.4667,115.0167
 996879183,Launaea_sarmentosa,-21.333333,115.166667
 1261301710,Launaea_sarmentosa,-17.683333,49.516667
 996979651,Launaea_sarmentosa,-20.65,115.57
-1261301952,Launaea_sarmentosa,-21.1,48.4
 2288834650,Launaea_sarmentosa,-21.216667,48.333333
 1261301844,Launaea_sarmentosa,-17.88333,49.45
-1261299187,Launaea_sarmentosa,-18.1,49.4
 462029348,Launaea_sarmentosa,-28.375,32.375
 2291889915,Launaea_sarmentosa,-3.616667,39.85
 462029347,Launaea_sarmentosa,-33.625,26.875
@@ -48,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259217381,Launaea_sarmentosa,8.629445,81.225
 2288489534,Launaea_sarmentosa,-20.308333,57.583333
 995987825,Launaea_sarmentosa,-21.82,114.17
-2289232714,Launaea_sarmentosa,9,98.833333
 462029342,Launaea_sarmentosa,-30.625,30.125
 462029343,Launaea_sarmentosa,-27.375,31.625
 996577855,Launaea_sarmentosa,-20.398,115.555
@@ -57,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462029331,Launaea_sarmentosa,-27.625,32.125
 996577344,Launaea_sarmentosa,-21.46,114.98
 2289014986,Launaea_sarmentosa,8.683333,98.25
-996577307,Launaea_sarmentosa,-21.6,114.7
 996577819,Launaea_sarmentosa,-20.713,116.565
 1031017137,Launaea_sarmentosa,22.945412,115.852064
 1031017142,Launaea_sarmentosa,23.490446,111.295924
