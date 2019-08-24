@@ -99,13 +99,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439776798,Myriophyllum_spicatum,49.9017,8.3458
 1050652574,Myriophyllum_spicatum,42.79,-2.67
 1135452816,Myriophyllum_spicatum,48.11889,16.61
-1050652888,Myriophyllum_spicatum,42.73,-3
 1989605324,Myriophyllum_spicatum,55.80724,13.1506
 1135452895,Myriophyllum_spicatum,47.7525,16.69333
 1230975688,Myriophyllum_spicatum,41.84833,22.27417
 1230975407,Myriophyllum_spicatum,40.93694,20.94306
 1230975425,Myriophyllum_spicatum,14.40528,22.28972
-415996747,Myriophyllum_spicatum,42.40861,-72.1
 1701538159,Myriophyllum_spicatum,48.26639,16.71806
 1135452853,Myriophyllum_spicatum,47.57,14.86806
 1697813580,Myriophyllum_spicatum,43.28525,41.793065
@@ -151,7 +149,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441794084,Myriophyllum_spicatum,46.77645,-120.45351
 1881946141,Myriophyllum_spicatum,48.65,10.83
 788708045,Myriophyllum_spicatum,55.57545,13.19774
-1096745804,Myriophyllum_spicatum,59.8,18.32
 1697599063,Myriophyllum_spicatum,58.38303,42.33866
 1881948648,Myriophyllum_spicatum,48.66,10.82
 415972736,Myriophyllum_spicatum,43.82666,-73.49333
@@ -193,9 +190,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831524924,Myriophyllum_spicatum,48.295,16.35361
 1457821568,Myriophyllum_spicatum,28.89015,-82.59586
 2313366771,Myriophyllum_spicatum,48.02,11.49
-994570158,Myriophyllum_spicatum,49.9,20.2
 214552442,Myriophyllum_spicatum,39.798611,20.580002
-883413003,Myriophyllum_spicatum,49.9,20.25
 1342720525,Myriophyllum_spicatum,54.995319,9.225389
 1258121736,Myriophyllum_spicatum,28.8902,-82.5959
 441794045,Myriophyllum_spicatum,46.24875,-123.43319
@@ -205,7 +200,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935704397,Myriophyllum_spicatum,47.17111,16.08833
 1851339158,Myriophyllum_spicatum,42.5069,-5.2767
 1697599111,Myriophyllum_spicatum,51.967618,46.152154
-1851576992,Myriophyllum_spicatum,42.5,-5.28
 1323822989,Myriophyllum_spicatum,67.4141,15.385
 1697696019,Myriophyllum_spicatum,59.005,43.77678
 2292032842,Myriophyllum_spicatum,50.036833,4.728667
@@ -220,7 +214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668771125,Myriophyllum_spicatum,46.43299,-75.82809
 1342720449,Myriophyllum_spicatum,56.169727,8.153203
 668771122,Myriophyllum_spicatum,45.94172,-76.12659
-217070937,Myriophyllum_spicatum,36.8,-87.87
 1342720581,Myriophyllum_spicatum,57.22961,9.884819
 1697813555,Myriophyllum_spicatum,43.67768,41.458111
 668771128,Myriophyllum_spicatum,45.97687,-75.92548
@@ -266,7 +259,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831273647,Myriophyllum_spicatum,53.3485,11.582
 1830674420,Myriophyllum_spicatum,33.616667,133.733333
 217070936,Myriophyllum_spicatum,36.05,-87.77
-1897379642,Myriophyllum_spicatum,24.2,-104.617222
 1050642389,Myriophyllum_spicatum,42.72,-2.87
 441793961,Myriophyllum_spicatum,48.7258,-121.671467
 1260999526,Myriophyllum_spicatum,37.0025,-90.20055
@@ -299,7 +291,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342720571,Myriophyllum_spicatum,57.133742,9.205169
 415940479,Myriophyllum_spicatum,41.44414,-72.74862
 436719545,Myriophyllum_spicatum,48.60722,6.09806
-1829603934,Myriophyllum_spicatum,36.3,139.1
 415940914,Myriophyllum_spicatum,41.86659,-73.10236
 1342720517,Myriophyllum_spicatum,56.531461,8.632887
 415940893,Myriophyllum_spicatum,41.8243,-72.91163
@@ -392,7 +383,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265437361,Myriophyllum_spicatum,46.411238,-92.772436
 1342720776,Myriophyllum_spicatum,55.671515,12.112729
 1248722508,Myriophyllum_spicatum,46.741944,-71.401667
-1830193576,Myriophyllum_spicatum,36.7,136.916667
 1342720530,Myriophyllum_spicatum,57.070995,9.089373
 1342720826,Myriophyllum_spicatum,55.574075,12.595867
 1881946831,Myriophyllum_spicatum,48.89,10.61
@@ -410,8 +400,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415935428,Myriophyllum_spicatum,41.34138,-73.38138
 1342720747,Myriophyllum_spicatum,55.399262,12.006247
 415935426,Myriophyllum_spicatum,41.48833,-73.11361
-415993994,Myriophyllum_spicatum,41.5,-73.46666
-415935427,Myriophyllum_spicatum,41.5,-73.45
 1829611367,Myriophyllum_spicatum,36.326944,139.173889
 415935393,Myriophyllum_spicatum,44.92194,-93.80055
 415935412,Myriophyllum_spicatum,45.01888,-93.805
@@ -467,7 +455,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415948490,Myriophyllum_spicatum,41.86833,-73.09305
 2265442123,Myriophyllum_spicatum,45.239167,-93.722778
 1342720492,Myriophyllum_spicatum,55.980957,8.141307
-415945041,Myriophyllum_spicatum,28.9,-82.6
 230818846,Myriophyllum_spicatum,51.790844,5.655348
 1829636524,Myriophyllum_spicatum,36.275278,139.238889
 415994001,Myriophyllum_spicatum,34.25,-117.16666
@@ -491,7 +478,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936613277,Myriophyllum_spicatum,37.334,-7.4874
 415945077,Myriophyllum_spicatum,42.58333,-88.53333
 1986951058,Myriophyllum_spicatum,39.526111,-119.981944
-415994002,Myriophyllum_spicatum,43.13333,-88.5
 1701842763,Myriophyllum_spicatum,59.4041,10.454
 415945076,Myriophyllum_spicatum,42.85,-88.43333
 1697598962,Myriophyllum_spicatum,56.08607,40.11426
@@ -501,13 +487,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415946646,Myriophyllum_spicatum,41.71715,-73.21055
 1697598882,Myriophyllum_spicatum,66.135805,37.687286
 1342720810,Myriophyllum_spicatum,55.80458,12.438042
-1697598980,Myriophyllum_spicatum,56.2,37
 606652077,Myriophyllum_spicatum,42.20436,-72.08885
 1830632263,Myriophyllum_spicatum,33.644171,134.31915
 1342720751,Myriophyllum_spicatum,55.293475,11.904627
 1934098540,Myriophyllum_spicatum,36.2336,138.9912
 1934098483,Myriophyllum_spicatum,36.2488,138.9661
-1829609661,Myriophyllum_spicatum,36.2,139
 1936566537,Myriophyllum_spicatum,40.8823,-3.4523
 1936563832,Myriophyllum_spicatum,40.9093,-3.4525
 1936563880,Myriophyllum_spicatum,40.9003,-3.4643
@@ -521,12 +505,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342720473,Myriophyllum_spicatum,55.084448,8.52094
 204433187,Myriophyllum_spicatum,42.141998,-1.566
 1342720675,Myriophyllum_spicatum,56.472536,10.17557
-1697599041,Myriophyllum_spicatum,55.833333,36.5
 788464708,Myriophyllum_spicatum,55.88359,13.51119
 1697599045,Myriophyllum_spicatum,56.433333,36.583333
 388845368,Myriophyllum_spicatum,35.615742,139.565538
 1697598924,Myriophyllum_spicatum,53.793694,40.110468
-1697599013,Myriophyllum_spicatum,56.333333,35.5
 415915385,Myriophyllum_spicatum,41.08444,-73.64166
 415932229,Myriophyllum_spicatum,42.02083,-73.39166
 415914794,Myriophyllum_spicatum,41.77638,-72.66416
@@ -545,16 +527,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697599051,Myriophyllum_spicatum,56.083333,37.333333
 415912620,Myriophyllum_spicatum,44.205,-73.35611
 230818847,Myriophyllum_spicatum,51.844627,5.713716
-1697599034,Myriophyllum_spicatum,56.333333,37
 415948390,Myriophyllum_spicatum,41.42111,-72.41277
 230819133,Myriophyllum_spicatum,51.834692,5.960292
-56614107,Myriophyllum_spicatum,47.58,-92.5
 415924798,Myriophyllum_spicatum,40.13777,-87.74388
 415948391,Myriophyllum_spicatum,42.02527,-72.60694
 415948389,Myriophyllum_spicatum,41.43861,-72.44472
 788464530,Myriophyllum_spicatum,56.07153,12.77073
 473442321,Myriophyllum_spicatum,45.683333,-75.983333
-1829606251,Myriophyllum_spicatum,36.2,139.5
 1936557926,Myriophyllum_spicatum,38.9641,-2.8974
 2265442173,Myriophyllum_spicatum,47.465289,-92.445272
 1881947848,Myriophyllum_spicatum,48.77,10.72
@@ -563,7 +542,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388845367,Myriophyllum_spicatum,35.499088,139.328062
 56614188,Myriophyllum_spicatum,34.19222,-86.49306
 415904573,Myriophyllum_spicatum,41.58666,-72.76916
-2270514459,Myriophyllum_spicatum,28.4583,-109
 1988105513,Myriophyllum_spicatum,49.11,-123.11
 788614565,Myriophyllum_spicatum,41.033333,22.283333
 1936537159,Myriophyllum_spicatum,36.8657,-5.8618
@@ -596,7 +574,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831273414,Myriophyllum_spicatum,53.4485,11.4153
 415924044,Myriophyllum_spicatum,37.92388,-93.75277
 2310143815,Myriophyllum_spicatum,49.27,-122.64
-1988203850,Myriophyllum_spicatum,50.84,-119
 1936630403,Myriophyllum_spicatum,38.4466,-3.9524
 1988220596,Myriophyllum_spicatum,49.272,-122.64
 415905021,Myriophyllum_spicatum,42.02916,-73.38333
@@ -628,7 +605,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415938702,Myriophyllum_spicatum,41.915,-72.69333
 415897188,Myriophyllum_spicatum,41.72472,-73.41722
 1701897396,Myriophyllum_spicatum,58.9772,5.6446
-668771115,Myriophyllum_spicatum,46.566667,-72.2
 21191544,Myriophyllum_spicatum,59.8202,10.4667
 2270624558,Myriophyllum_spicatum,31.867095,-109.379005
 176986390,Myriophyllum_spicatum,44.956372,-93.491832
@@ -641,7 +617,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204433123,Myriophyllum_spicatum,43.48,-1.33
 901597,Myriophyllum_spicatum,41.183333,22.75
 1342720500,Myriophyllum_spicatum,56.765466,8.826909
-1881946998,Myriophyllum_spicatum,48.84,10.7
 1936523260,Myriophyllum_spicatum,40.8574,-1.6606
 415947217,Myriophyllum_spicatum,41.41805,-72.42722
 1936523673,Myriophyllum_spicatum,40.6648,-2.2914
@@ -672,7 +647,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415884636,Myriophyllum_spicatum,41.53666,-72.79527
 1830185473,Myriophyllum_spicatum,36.733333,136.966667
 2289920120,Myriophyllum_spicatum,6.203889,10.459167
-912084477,Myriophyllum_spicatum,5,9.83
 1936506518,Myriophyllum_spicatum,38.8728,-0.0504
 1501068172,Myriophyllum_spicatum,38.42,-0.54
 1851574096,Myriophyllum_spicatum,38.87,-0.04
@@ -693,7 +667,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697599023,Myriophyllum_spicatum,54.0519,35.8285
 788468342,Myriophyllum_spicatum,56.04675,14.09858
 1342720724,Myriophyllum_spicatum,55.74971,11.603762
-575210595,Myriophyllum_spicatum,27,99
 574831742,Myriophyllum_spicatum,27.829444,99.968056
 415884561,Myriophyllum_spicatum,41.89222,-73.145
 415884562,Myriophyllum_spicatum,41.44777,-73.29638
@@ -722,19 +695,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697265860,Myriophyllum_spicatum,62.77576,89.0689
 1342720543,Myriophyllum_spicatum,56.639552,8.745967
 1261006426,Myriophyllum_spicatum,37.34222,-90.48388
-1050655319,Myriophyllum_spicatum,41.82,-5.8
 462094442,Myriophyllum_spicatum,-32.375,18.375
 1638409004,Myriophyllum_spicatum,47.57028,6.99917
 1881947834,Myriophyllum_spicatum,48.78,10.74
 441793938,Myriophyllum_spicatum,47.368,-122.0517
 441793944,Myriophyllum_spicatum,47.3032,-122.127
 2244450049,Myriophyllum_spicatum,36.716667,137.033333
-1851400345,Myriophyllum_spicatum,41.828,-5.8
 176986409,Myriophyllum_spicatum,40.6792,-96.7657
 1986974692,Myriophyllum_spicatum,34.233333,-116.966667
 441793925,Myriophyllum_spicatum,47.3631,-122.1538
 1933821218,Myriophyllum_spicatum,35.44597,136.19299
-1989108467,Myriophyllum_spicatum,46,-83.66667
 441793221,Myriophyllum_spicatum,46.27333,-122.13389
 1989025417,Myriophyllum_spicatum,45.58952,-82.08839
 1342720722,Myriophyllum_spicatum,55.593844,11.307711
@@ -759,7 +729,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265413988,Myriophyllum_spicatum,45.300835,-94.21611
 204384354,Myriophyllum_spicatum,34.68515,135.79846
 1935704067,Myriophyllum_spicatum,46.8125,15.5825
-1935704069,Myriophyllum_spicatum,46.7,15.76389
 788464589,Myriophyllum_spicatum,55.56532,13.75174
 1050620795,Myriophyllum_spicatum,41.74,-3.05
 1705359378,Myriophyllum_spicatum,57.784737,14.823466
@@ -800,7 +769,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441793534,Myriophyllum_spicatum,46.63889,-119.91944
 51900900,Myriophyllum_spicatum,42.2666,-120.85
 1705396549,Myriophyllum_spicatum,58.115668,16.422751
-1261529775,Myriophyllum_spicatum,0.3,-78.36666
 462094439,Myriophyllum_spicatum,-28.625,24.375
 30935894,Myriophyllum_spicatum,40.240002,-6.19
 1500869775,Myriophyllum_spicatum,40.02,-0.69
@@ -810,7 +778,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697598940,Myriophyllum_spicatum,56.592766,23.000736
 21191723,Myriophyllum_spicatum,59.0647,11.4338
 729288919,Myriophyllum_spicatum,34.8167,134.933
-1804491882,Myriophyllum_spicatum,44.566667,-76.3
 788460700,Myriophyllum_spicatum,57.258811,12.194404
 1936199380,Myriophyllum_spicatum,40.8912,-3.1817
 1050644001,Myriophyllum_spicatum,40.89,-3.18
@@ -829,14 +796,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697813657,Myriophyllum_spicatum,41.931624,48.389282
 1260820553,Myriophyllum_spicatum,29.45,-99.43333
 1936385858,Myriophyllum_spicatum,39.9131,-4.8732
-1804400331,Myriophyllum_spicatum,44.833333,-76.6
 788614682,Myriophyllum_spicatum,38.683333,21.333333
 1881881330,Myriophyllum_spicatum,58.616712,25.101044
 1936539797,Myriophyllum_spicatum,42.1022,-4.1744
 615358838,Myriophyllum_spicatum,29.65,91.08
 788467529,Myriophyllum_spicatum,56.113079,13.626673
-1586166002,Myriophyllum_spicatum,45.066667,-73.1
-1563365520,Myriophyllum_spicatum,65.6333329992918,-155.4
 30935690,Myriophyllum_spicatum,42.490002,-6.79
 1936404076,Myriophyllum_spicatum,42.483,-6.7871
 1050646405,Myriophyllum_spicatum,42.77,-3.29
@@ -845,7 +809,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936197599,Myriophyllum_spicatum,40.5433,-2.0495
 1804479519,Myriophyllum_spicatum,44.35,-75.916667
 1248722428,Myriophyllum_spicatum,46.734722,-71.416667
-1949598593,Myriophyllum_spicatum,49.3,-119.533333
 204432815,Myriophyllum_spicatum,42.759998,-3.92
 1455434898,Myriophyllum_spicatum,50.073366,4.347946
 1050594551,Myriophyllum_spicatum,42.94,-4.04
@@ -863,8 +826,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697599019,Myriophyllum_spicatum,59.074307,46.678267
 1989005992,Myriophyllum_spicatum,42.066186,-84.161221
 1501399923,Myriophyllum_spicatum,39.27,-0.28
-1829605243,Myriophyllum_spicatum,36.4,139.3
-1697265838,Myriophyllum_spicatum,52.5,111.5
 1989405565,Myriophyllum_spicatum,41.83523,-84.245244
 2290948408,Myriophyllum_spicatum,7.733333,100.366667
 1936549244,Myriophyllum_spicatum,41.2573,-3.992
@@ -873,7 +834,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842904142,Myriophyllum_spicatum,33.17,-5.07
 1697335639,Myriophyllum_spicatum,49.833333,114.583333
 1936429345,Myriophyllum_spicatum,42.0286,-4.318
-1697335602,Myriophyllum_spicatum,47.083333,119.5
 1881881116,Myriophyllum_spicatum,58.185211,27.100575
 1705396516,Myriophyllum_spicatum,58.145705,16.331576
 1881881139,Myriophyllum_spicatum,59.2067,26.567694
@@ -904,7 +864,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830218705,Myriophyllum_spicatum,33.19781,131.35815
 1913134244,Myriophyllum_spicatum,-14.173257,34.979954
 204433015,Myriophyllum_spicatum,42.426998,-2.228
-1144722253,Myriophyllum_spicatum,41.6,9.28333
 187206746,Myriophyllum_spicatum,63.7318,9.6247
 1988816689,Myriophyllum_spicatum,44.490142,-83.39257
 204433013,Myriophyllum_spicatum,42.481998,-2.398
@@ -918,15 +877,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 217070918,Myriophyllum_spicatum,45.35,-83.93
 187206747,Myriophyllum_spicatum,63.8497,9.729
 1949592565,Myriophyllum_spicatum,50.85,-119.016667
-1248722525,Myriophyllum_spicatum,46.7,-71.583333
-1248722510,Myriophyllum_spicatum,46.283333,-72.5
 473536864,Myriophyllum_spicatum,45.466667,-72.65
 204433016,Myriophyllum_spicatum,42.801998,-1.771
 1830615859,Myriophyllum_spicatum,34.015623,134.579732
 1851400871,Myriophyllum_spicatum,42.47,-5.49
 1936421179,Myriophyllum_spicatum,42.422,-5.5538
-178229863,Myriophyllum_spicatum,38.6,-5.35
-1248722590,Myriophyllum_spicatum,46.3,-72.566667
 1830615831,Myriophyllum_spicatum,33.609425,134.350508
 1030698950,Myriophyllum_spicatum,28.204177,116.818872
 1936152525,Myriophyllum_spicatum,42.6467,-3.6601
@@ -952,17 +907,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830615534,Myriophyllum_spicatum,34.071282,134.386751
 57709326,Myriophyllum_spicatum,61.8372,25.8102
 204433294,Myriophyllum_spicatum,42.952,-2.602
-1050594552,Myriophyllum_spicatum,42.95,-2.6
 1947334641,Myriophyllum_spicatum,50.02,10.36
 1947334914,Myriophyllum_spicatum,49.99,10.61
-1947334790,Myriophyllum_spicatum,50.14,10.7
 1947334904,Myriophyllum_spicatum,49.96,10.72
 668771114,Myriophyllum_spicatum,45.119444,-73.255556
 1947334920,Myriophyllum_spicatum,49.92,10.82
 178229865,Myriophyllum_spicatum,38.69,-5.13
 1050594568,Myriophyllum_spicatum,42.76,-3.07
 2270625951,Myriophyllum_spicatum,34.77,-112.03
-1697265869,Myriophyllum_spicatum,50,88.666667
 1697598974,Myriophyllum_spicatum,55.013213,41.148286
 1936070623,Myriophyllum_spicatum,41.7392,-4.0872
 1936144143,Myriophyllum_spicatum,41.7428,-4.0837
@@ -974,7 +926,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804582981,Myriophyllum_spicatum,46.033333,-75.916667
 1829622398,Myriophyllum_spicatum,36.256667,139.493333
 1804506412,Myriophyllum_spicatum,49.033333,-75.916667
-1949567658,Myriophyllum_spicatum,50.066667,-119.4
 1320733361,Myriophyllum_spicatum,38.9694,-77.1767
 462094435,Myriophyllum_spicatum,-17.875,23.125
 919490624,Myriophyllum_spicatum,25.012526,102.700013
@@ -1001,13 +952,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270624470,Myriophyllum_spicatum,31.4269,-110.455
 1936133557,Myriophyllum_spicatum,60.6639,21.5167
 1697335673,Myriophyllum_spicatum,47.5844,101.906433
-1262011453,Myriophyllum_spicatum,45.6,-75.1
-1899381995,Myriophyllum_spicatum,45.016667,-80
 1697598921,Myriophyllum_spicatum,57.093645,25.772724
-2290676566,Myriophyllum_spicatum,52,4.483333
 1260979478,Myriophyllum_spicatum,37.00055,-91.01138
 2291357506,Myriophyllum_spicatum,54.466667,-2.866667
-1804415549,Myriophyllum_spicatum,45.4,-76.35
 1949604427,Myriophyllum_spicatum,49.25,-123.116667
 1949639849,Myriophyllum_spicatum,49.183333,-122.233333
 1804480490,Myriophyllum_spicatum,45.633333,-73.466667
@@ -1016,11 +963,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697813638,Myriophyllum_spicatum,46.033456,38.156805
 1697813607,Myriophyllum_spicatum,44.637758,39.143601
 1899297804,Myriophyllum_spicatum,43.886017,-79.473724
-1248722410,Myriophyllum_spicatum,45.25,-72.5
 1831273031,Myriophyllum_spicatum,53.5485,12.4152
-1248722457,Myriophyllum_spicatum,45.216667,-72
 1949543871,Myriophyllum_spicatum,56.333333,-120.016667
-1248722542,Myriophyllum_spicatum,45.4,-72.683333
 1804559757,Myriophyllum_spicatum,46.016667,-80.516667
 1434679807,Myriophyllum_spicatum,57.87935,14.35752
 1248722396,Myriophyllum_spicatum,46.166667,-74.583333
@@ -1048,7 +992,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949573610,Myriophyllum_spicatum,49.195,-123.014444
 1949555852,Myriophyllum_spicatum,49.45,-119.616667
 1949573670,Myriophyllum_spicatum,49.170556,-121.987222
-1248722378,Myriophyllum_spicatum,45.066667,-73.3
 1697265955,Myriophyllum_spicatum,67.44695,78.70908
 1949573795,Myriophyllum_spicatum,49.190833,-122.044444
 56613027,Myriophyllum_spicatum,34.56805,-86.80611
@@ -1056,8 +999,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949539573,Myriophyllum_spicatum,49.15,-122.233333
 1949573931,Myriophyllum_spicatum,49.175,-122.243056
 788592052,Myriophyllum_spicatum,55.897498,13.415754
-615358863,Myriophyllum_spicatum,34.5,70.32
-1949573721,Myriophyllum_spicatum,49.205556,-120
 1899368729,Myriophyllum_spicatum,43.633333,-79.325
 56613025,Myriophyllum_spicatum,32.12028,-87.38889
 2304684370,Myriophyllum_spicatum,49.13,-122.28
@@ -1067,7 +1008,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949582322,Myriophyllum_spicatum,49.066667,-121.983333
 1845009842,Myriophyllum_spicatum,49.908056,7.931667
 788615924,Myriophyllum_spicatum,35.483333,23.933333
-1899381997,Myriophyllum_spicatum,44.833333,-79.8
 1899381976,Myriophyllum_spicatum,44.883333,-79.783333
 1935704797,Myriophyllum_spicatum,47.53465,14.11544
 1586165923,Myriophyllum_spicatum,45.4303,-73.5702
@@ -1082,7 +1022,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030768877,Myriophyllum_spicatum,25.012526,102.700012
 1269652271,Myriophyllum_spicatum,29.383333,-91.016667
 2289492566,Myriophyllum_spicatum,50.452,6.102
-1978634264,Myriophyllum_spicatum,52.166667,4.5
 1230973158,Myriophyllum_spicatum,48.15,16.65
 1697265920,Myriophyllum_spicatum,51.011266,90.197946
 2291358344,Myriophyllum_spicatum,44.55,-76.333333
@@ -1092,7 +1031,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462094427,Myriophyllum_spicatum,-27.375,31.625
 1988221232,Myriophyllum_spicatum,49.08,-123.08
 462094431,Myriophyllum_spicatum,-17.875,23.375
-2291901728,Myriophyllum_spicatum,-17.983333,23.3
 1913134291,Myriophyllum_spicatum,-14.486173,35.253304
 1248722429,Myriophyllum_spicatum,45.466667,-72.666667
 57709336,Myriophyllum_spicatum,64.843803,25.4156
@@ -1122,7 +1060,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248722460,Myriophyllum_spicatum,43.383333,-73.879167
 1261999926,Myriophyllum_spicatum,45.438889,-73.765278
 1248722339,Myriophyllum_spicatum,45.161111,-74.393056
-1899381965,Myriophyllum_spicatum,44.8,-79.383333
 1248722466,Myriophyllum_spicatum,45.134722,-74.397222
 1248722455,Myriophyllum_spicatum,45.241667,-73.166667
 1261999843,Myriophyllum_spicatum,45.079167,-74.468056
@@ -1134,14 +1071,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57709333,Myriophyllum_spicatum,61.517101,21.637899
 2313345340,Myriophyllum_spicatum,48.28,11.47
 1831273164,Myriophyllum_spicatum,53.3485,13.415
-473261065,Myriophyllum_spicatum,45.7,-73.533333
 1697599103,Myriophyllum_spicatum,57.879259,55.37619
-473261066,Myriophyllum_spicatum,45.533333,-73.7
 1030813568,Myriophyllum_spicatum,26.11116,99.951049
 1030813563,Myriophyllum_spicatum,33.57587,102.961829
 1030967064,Myriophyllum_spicatum,25.584234,100.222124
 1030813538,Myriophyllum_spicatum,24.35821,102.748636
-1830230017,Myriophyllum_spicatum,36.7,137.033333
 1949529394,Myriophyllum_spicatum,44.383333,-77.816667
 1851374817,Myriophyllum_spicatum,42.48,-6.75
 1829420192,Myriophyllum_spicatum,43.775556,142.3575
@@ -1181,7 +1115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830643902,Myriophyllum_spicatum,33.55392,133.510978
 1851319865,Myriophyllum_spicatum,42.47,-5.62
 1988213954,Myriophyllum_spicatum,49.85,-119.52
-1829605300,Myriophyllum_spicatum,36.2,139.3
 1949508551,Myriophyllum_spicatum,50.25,-119.35
 217070917,Myriophyllum_spicatum,41.13,-74.68
 415946055,Myriophyllum_spicatum,41.00083,-74.64666
@@ -1220,9 +1153,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615358858,Myriophyllum_spicatum,36.05,68.58
 176986380,Myriophyllum_spicatum,39.84627,-95.37395
 894989871,Myriophyllum_spicatum,49.116667,-113.816667
-1248722430,Myriophyllum_spicatum,45.033333,-74.5
 1935704738,Myriophyllum_spicatum,47.51905,14.13404
-615358856,Myriophyllum_spicatum,34.82,67.2
 894989867,Myriophyllum_spicatum,49.083333,-113.75
 1830615391,Myriophyllum_spicatum,34.100056,134.316396
 894989892,Myriophyllum_spicatum,49.133333,-113.866667
@@ -1269,17 +1200,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381824198,Myriophyllum_spicatum,36.081,140.20377
 1933821151,Myriophyllum_spicatum,35.67855,140.09714
 318229788,Myriophyllum_spicatum,58.7971,5.6336
-2290947791,Myriophyllum_spicatum,46.2,14.616667
 1829894068,Myriophyllum_spicatum,35.5375,139.085
 1325700826,Myriophyllum_spicatum,-29.566667,30.366667
 381824192,Myriophyllum_spicatum,36.1961,140.28654
 381824191,Myriophyllum_spicatum,36.28079,140.42606
 381824183,Myriophyllum_spicatum,36.28981,140.49138
 381824194,Myriophyllum_spicatum,36.28051,140.54536
-2290947946,Myriophyllum_spicatum,47.966667,16.8
 1638408695,Myriophyllum_spicatum,47.125,15.54167
 381824196,Myriophyllum_spicatum,36.28837,140.46396
-1230968604,Myriophyllum_spicatum,34,68.91667
 1705389683,Myriophyllum_spicatum,58.334678,16.731111
 1030967109,Myriophyllum_spicatum,42.003937,122.883486
 2288807846,Myriophyllum_spicatum,33.566667,-4.916667
@@ -1427,7 +1355,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701755233,Myriophyllum_spicatum,45.578203,-84.689326
 1304051850,Myriophyllum_spicatum,38.277304,106.253125
 901618,Myriophyllum_spicatum,56.13003,15.62321
-2287436817,Myriophyllum_spicatum,52.141667,4.8
 788466310,Myriophyllum_spicatum,58.328063,13.117269
 1697598982,Myriophyllum_spicatum,56.428482,41.449172
 1935943635,Myriophyllum_spicatum,39.0001,-2.9089
@@ -1476,7 +1403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891666513,Myriophyllum_spicatum,23.147222,121.305556
 1303635524,Myriophyllum_spicatum,39.879848,114.630747
 177295736,Myriophyllum_spicatum,33.92023,133.11322
-1842851639,Myriophyllum_spicatum,35.17,-6.2
 177295669,Myriophyllum_spicatum,43.8063,143.87283
 177295695,Myriophyllum_spicatum,34.98864,138.38434
 177295729,Myriophyllum_spicatum,34.20076,131.28206
@@ -1486,7 +1412,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701754807,Myriophyllum_spicatum,43.756546,-89.170401
 177295732,Myriophyllum_spicatum,34.27117,134.13821
 1303635516,Myriophyllum_spicatum,30.196022,119.366283
-1144722242,Myriophyllum_spicatum,41.91667,8.8
 1697599043,Myriophyllum_spicatum,56.950424,44.897546
 788465079,Myriophyllum_spicatum,59.3301,15.54414
 1697598936,Myriophyllum_spicatum,64.839211,57.709236
@@ -1536,7 +1461,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705379452,Myriophyllum_spicatum,55.721096,13.022154
 1705379483,Myriophyllum_spicatum,55.688171,13.079325
 1304143033,Myriophyllum_spicatum,32.059064,119.418318
-1842845914,Myriophyllum_spicatum,41.78,2.7
 177295688,Myriophyllum_spicatum,35.37698,139.39188
 1697599092,Myriophyllum_spicatum,52.338208,40.041761
 1701726040,Myriophyllum_spicatum,39.739154,-104.984703
@@ -1577,11 +1501,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1264999177,Myriophyllum_spicatum,47.632222,13.865556
 1701741304,Myriophyllum_spicatum,48.8917,-119.4303
 1891595649,Myriophyllum_spicatum,49.81,6.42
-1701757276,Myriophyllum_spicatum,41.25,-96
 788464944,Myriophyllum_spicatum,56.243503,12.859815
 2313344280,Myriophyllum_spicatum,48.22,11.79
 1701757213,Myriophyllum_spicatum,48.890216,-115.054475
-1701735918,Myriophyllum_spicatum,39,-105
 1697599044,Myriophyllum_spicatum,55.995926,37.818382
 1701752304,Myriophyllum_spicatum,42.765291,-88.555656
 2313343929,Myriophyllum_spicatum,48.19,11.53
