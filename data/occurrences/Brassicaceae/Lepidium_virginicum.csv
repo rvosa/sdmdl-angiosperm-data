@@ -33,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2244425424,Lepidium_virginicum,35.146469,139.106089
 1846475030,Lepidium_virginicum,34.2268139991221,-112.097183
 1829933406,Lepidium_virginicum,35.499093,139.653034
-1881807755,Lepidium_virginicum,48.2,10.39
 1989537281,Lepidium_virginicum,42.60839,-85.97072
 1881807807,Lepidium_virginicum,48.12,10.45
 1881807744,Lepidium_virginicum,48.19,10.38
@@ -55,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829922257,Lepidium_virginicum,35.482426,139.490548
 1843917144,Lepidium_virginicum,36.283578,-107.657406
 1258162899,Lepidium_virginicum,38.560833,-90.703333
-2244508824,Lepidium_virginicum,34.8,134.75
 1829927072,Lepidium_virginicum,35.240783,139.140583
 1986869896,Lepidium_virginicum,37.5010899990885,-114.459228
 1839035015,Lepidium_virginicum,41.074718,24.774441
@@ -82,7 +80,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1457769971,Lepidium_virginicum,29.70238,-81.99165
 1897556825,Lepidium_virginicum,18.462278,-99.273555
 1897487106,Lepidium_virginicum,17.359056,-96.608694
-1096905301,Lepidium_virginicum,20,-77
 1897556826,Lepidium_virginicum,18.522517,-98.9582
 2270570361,Lepidium_virginicum,33.730645,-111.513329
 1830127359,Lepidium_virginicum,35.54663,139.42938
@@ -96,7 +93,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829917865,Lepidium_virginicum,35.365767,139.203072
 1701533155,Lepidium_virginicum,46.49583,11.25361
 1849174833,Lepidium_virginicum,34.0168,-80.7629
-1503275281,Lepidium_virginicum,30.1125,-85.2
 1265824773,Lepidium_virginicum,39.0546299990767,-120.11456
 1930291296,Lepidium_virginicum,40.793328,-73.953825
 1894649933,Lepidium_virginicum,20.756944,-99.968611
@@ -108,11 +104,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2244426358,Lepidium_virginicum,35.324102,139.090584
 1838166279,Lepidium_virginicum,48.00583,6.52389
 1829925983,Lepidium_virginicum,35.340768,139.128079
-1830233509,Lepidium_virginicum,36.666667,137.2
 1839035349,Lepidium_virginicum,51.94611,12.42528
 1928078654,Lepidium_virginicum,37.97358,-75.57864
 1988799650,Lepidium_virginicum,44.035333,-86.493767
-2244508298,Lepidium_virginicum,34.8,134.916667
 2244508820,Lepidium_virginicum,34.766667,135.066667
 1894649786,Lepidium_virginicum,20.814444,-99.946944
 1894649844,Lepidium_virginicum,20.767611,-99.923611
@@ -144,10 +138,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829912801,Lepidium_virginicum,35.424094,139.265566
 1829909917,Lepidium_virginicum,35.332436,139.140578
 1701129265,Lepidium_virginicum,43.933268,10.938686
-1503271057,Lepidium_virginicum,30.1,-83.6208
 2270197861,Lepidium_virginicum,35.149049,-120.546293
 2290083014,Lepidium_virginicum,52.375983,4.630717
-2313297607,Lepidium_virginicum,48.16,11.4
 1897490558,Lepidium_virginicum,32.044506,-115.928108
 1849178373,Lepidium_virginicum,33.5326,-80.4309
 1829917257,Lepidium_virginicum,35.382431,139.178074
@@ -259,7 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1457750794,Lepidium_virginicum,41.516444,-71.709611
 1897950815,Lepidium_virginicum,22.726667,-102.691667
 391294052,Lepidium_virginicum,37.291667,140.393889
-1897950888,Lepidium_virginicum,22.716667,-102.7
 1258089508,Lepidium_virginicum,41.5164,-71.7096
 1935700515,Lepidium_virginicum,47.06779,15.41673
 1839035516,Lepidium_virginicum,51.776939,12.24889
@@ -272,10 +263,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897345109,Lepidium_virginicum,19.620833,-101.327222
 1897950864,Lepidium_virginicum,22.272222,-101.0875
 1587307839,Lepidium_virginicum,-9.644236,-35.753056
-1503257006,Lepidium_virginicum,27.0333,-82
 1839031666,Lepidium_virginicum,41.160278,24.299721
 1846517146,Lepidium_virginicum,31.081944,-110.086389
-1830200742,Lepidium_virginicum,36.6,137.3
 1934052788,Lepidium_virginicum,34.6915,135.2714
 997426897,Lepidium_virginicum,37.104896,-113.448142
 1258757316,Lepidium_virginicum,-17.904444,-64.575556
@@ -303,7 +292,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697789776,Lepidium_virginicum,43.900706,39.335947
 1881807126,Lepidium_virginicum,48.69,10.93
 1846517203,Lepidium_virginicum,31.168889,-108.903056
-1881804916,Lepidium_virginicum,48.7,10.93
 1936218147,Lepidium_virginicum,43.1737,-1.6724
 1894649931,Lepidium_virginicum,20.475278,-100.214167
 895312654,Lepidium_virginicum,43.17581,-1.67101
@@ -393,11 +381,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270689869,Lepidium_virginicum,34.328,-113.288
 1503250203,Lepidium_virginicum,30.3992,-85.1283
 1830673546,Lepidium_virginicum,33.733333,133.55
-1830673486,Lepidium_virginicum,33.6,132.916667
 1257776603,Lepidium_virginicum,38.7978,-92.3569
 1846499848,Lepidium_virginicum,34.274067,-112.108583
 2268998596,Lepidium_virginicum,38.623611,-90.376944
-1830673469,Lepidium_virginicum,32.866667,132.7
 381817155,Lepidium_virginicum,36.03444,140.24422
 1928007091,Lepidium_virginicum,40.782323,-73.965416
 1830673512,Lepidium_virginicum,33.116667,132.816667
@@ -410,7 +396,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320654257,Lepidium_virginicum,18.1689,-71.7364
 1934052443,Lepidium_virginicum,43.974444,144.196944
 1830673507,Lepidium_virginicum,33.533333,133.683333
-391293879,Lepidium_virginicum,37.4,140.1
 1829611643,Lepidium_virginicum,36.568056,139.041667
 1265804003,Lepidium_virginicum,38.815278,-120.075
 1947259212,Lepidium_virginicum,48.17,12.84
@@ -478,12 +463,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849127132,Lepidium_virginicum,49.97,19.97
 441772863,Lepidium_virginicum,47.100083,-120.6983
 1585306007,Lepidium_virginicum,13.86667,-89.63333
-1830676954,Lepidium_virginicum,33.816667,133.8
 1697789723,Lepidium_virginicum,43.446158,39.945817
 1899849980,Lepidium_virginicum,48.31444,14.29
 1830675936,Lepidium_virginicum,33.566667,133.166667
 1830676950,Lepidium_virginicum,33.65,133.783333
-1998821818,Lepidium_virginicum,26.491389,98.9
 1426184604,Lepidium_virginicum,26.491274,98.89994
 1830201807,Lepidium_virginicum,36.666667,137.183333
 1894556989,Lepidium_virginicum,18.440139,-97.627111
@@ -514,9 +497,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986960322,Lepidium_virginicum,33.9675,-117.323889
 381817176,Lepidium_virginicum,36.55083,140.41
 381817208,Lepidium_virginicum,36.47588,140.58958
-1830681192,Lepidium_virginicum,32.9,132.85
 1830681204,Lepidium_virginicum,33.516667,133.583333
-1830203223,Lepidium_virginicum,36.683333,137.2
 1935700861,Lepidium_virginicum,47.08889,15.42833
 296489729,Lepidium_virginicum,47.448056,12.316944
 1638405704,Lepidium_virginicum,46.23222,13.05833
@@ -537,12 +518,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260121823,Lepidium_virginicum,-18.831667,48.312222
 1652159410,Lepidium_virginicum,-24.605331,151.308079
 1652159130,Lepidium_virginicum,-23.105115,150.720635
-1988065005,Lepidium_virginicum,49.2,-123.13
 1421394366,Lepidium_virginicum,20.563889,-88.822778
 1652307760,Lepidium_virginicum,-17.640262,145.509181
 787199019,Lepidium_virginicum,7.037847,-73.071786
 2270508812,Lepidium_virginicum,30.7889,-111.058
-56603489,Lepidium_virginicum,28.35,-99.1
 1846498731,Lepidium_virginicum,32.512467,-111.1402
 1846509165,Lepidium_virginicum,30.648889,-111.050833
 1846476053,Lepidium_virginicum,34.22247,-112.0936
@@ -592,15 +571,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891589169,Lepidium_virginicum,24.505556,121.141667
 1894001899,Lepidium_virginicum,17.971222,-97.015167
 1897950834,Lepidium_virginicum,22.776944,-102.563333
-1830688631,Lepidium_virginicum,33.4,134.133333
 1897950879,Lepidium_virginicum,23.248333,-103.78
 1897950830,Lepidium_virginicum,22.584444,-102.348333
 1986955796,Lepidium_virginicum,41.050556,-73.773056
 230819180,Lepidium_virginicum,51.647719,5.962258
-1095898753,Lepidium_virginicum,14,-90
 345673783,Lepidium_virginicum,33.2849,-97.6327
 1830624846,Lepidium_virginicum,34.07608,134.58234
-2005457860,Lepidium_virginicum,-29.166667,30.6
 1503242553,Lepidium_virginicum,28.4342,-80.6964
 1894649891,Lepidium_virginicum,20.940278,-100.170833
 1897345034,Lepidium_virginicum,20.933611,-100.180555
@@ -613,11 +589,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415925853,Lepidium_virginicum,42.34444,-72.58916
 56603264,Lepidium_virginicum,33.91472,-88.14417
 1419154916,Lepidium_virginicum,15.325661,-92.292703
-2270509578,Lepidium_virginicum,10.2833,-84.8
 1947259040,Lepidium_virginicum,49.98,10.68
 415925064,Lepidium_virginicum,41.83694,-72.46111
 1253815911,Lepidium_virginicum,10.290727,-84.802579
-2244519342,Lepidium_virginicum,33.6,133.7
 1260988802,Lepidium_virginicum,37.04666,-89.51305
 1702072423,Lepidium_virginicum,59.4332,10.4976
 1894649802,Lepidium_virginicum,20.505444,-100.504444
@@ -636,14 +610,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897946177,Lepidium_virginicum,22.516667,-103.245
 1843876455,Lepidium_virginicum,35.89548,-106.57532
 1652305775,Lepidium_virginicum,-17.267764,145.483347
-2270638741,Lepidium_virginicum,34.5,-112.522
 1849184878,Lepidium_virginicum,34.7271,-81.1139
 1897950914,Lepidium_virginicum,22.411389,-102.244167
 1897946162,Lepidium_virginicum,22.707222,-103.139444
 1652277592,Lepidium_virginicum,-21.138056,148.549167
 1897950866,Lepidium_virginicum,22.481667,-102.452222
 1897345098,Lepidium_virginicum,20.532778,-99.312778
-2244520117,Lepidium_virginicum,33.166667,133.2
 395773483,Lepidium_virginicum,35.039722,134.128889
 1652103030,Lepidium_virginicum,-27.305486,152.685518
 1846493220,Lepidium_virginicum,33.17037,-111.1759
@@ -672,7 +644,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768798313,Lepidium_virginicum,40.62527,-80.125
 176972927,Lepidium_virginicum,37.71727,-100.07221
 395773431,Lepidium_virginicum,35.085556,133.86
-1257876273,Lepidium_virginicum,10.2,-68.583333
 1933848221,Lepidium_virginicum,35.1849,138.6871
 395773425,Lepidium_virginicum,35.040833,134.283889
 1260943438,Lepidium_virginicum,37.09305,-93.72444
@@ -711,14 +682,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933845394,Lepidium_virginicum,35.9536,139.9931
 176972933,Lepidium_virginicum,38.095833,-98.416664
 381816894,Lepidium_virginicum,35.99423,139.89198
-1933853408,Lepidium_virginicum,34.8,134.533333
 1457744156,Lepidium_virginicum,30.746167,-81.737167
 2242375948,Lepidium_virginicum,39.750406,-105.328704
 56603259,Lepidium_virginicum,30.42361,-87.36056
 1258721394,Lepidium_virginicum,13.416667,-86.55
-238094488,Lepidium_virginicum,37,140
 1894649799,Lepidium_virginicum,20.415,-100.605
-1947258954,Lepidium_virginicum,49.91,10.9
 176972924,Lepidium_virginicum,33.899702,-94.353544
 1930812681,Lepidium_virginicum,38.4175,-112.319444
 1829696389,Lepidium_virginicum,35.77771,139.44739
@@ -771,7 +739,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933845365,Lepidium_virginicum,35.94261,139.95853
 1829788930,Lepidium_virginicum,35.65393,139.447908
 43215283,Lepidium_virginicum,34.142,134.59019
-1257813687,Lepidium_virginicum,36.55,-93.1
 1895130373,Lepidium_virginicum,16.875,-93.208333
 204381614,Lepidium_virginicum,34.58167,135.84291
 395773341,Lepidium_virginicum,35.010556,134.155
@@ -813,7 +780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729274397,Lepidium_virginicum,34.783298,135.217
 388837190,Lepidium_virginicum,35.315772,139.153078
 415949790,Lepidium_virginicum,41.905,-72.70194
-1434669361,Lepidium_virginicum,40.833333,22.1
 176972925,Lepidium_virginicum,34.540966,-84.909254
 1928752531,Lepidium_virginicum,37.638333,-112.992222
 1434669402,Lepidium_virginicum,40.75,22.166667
@@ -827,7 +793,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638405941,Lepidium_virginicum,47.075,15.45833
 441772108,Lepidium_virginicum,48.678838,-119.283157
 51865854,Lepidium_virginicum,44.1343,-121.1583
-1144708156,Lepidium_virginicum,42.26667,8.7
 1419218460,Lepidium_virginicum,20.147222,-98.662778
 1895546008,Lepidium_virginicum,18.325,-97.458333
 2242373562,Lepidium_virginicum,40.372829,-105.564776
@@ -890,7 +855,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381816845,Lepidium_virginicum,36.0131,140.32675
 43215285,Lepidium_virginicum,34.13033,134.58939
 1454679865,Lepidium_virginicum,49.01,12.08
-993470065,Lepidium_virginicum,26.4,110.8
 1894631611,Lepidium_virginicum,20.375,-100.258333
 1260979490,Lepidium_virginicum,36.95833,-91.9375
 1894649804,Lepidium_virginicum,20.455,-100.088333
@@ -902,8 +866,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 230818796,Lepidium_virginicum,51.826323,5.815125
 1894823874,Lepidium_virginicum,30.925,-115.408333
 729272002,Lepidium_virginicum,34.849998,134.367
-45434580,Lepidium_virginicum,9.56,-83.8
-2270517540,Lepidium_virginicum,30.9167,-115.4
 1930534657,Lepidium_virginicum,38.91769,-119.50111
 388837194,Lepidium_virginicum,35.549086,139.703028
 415945833,Lepidium_virginicum,41.06833,-73.38988
@@ -926,7 +888,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176972946,Lepidium_virginicum,39.095766,-95.574668
 1894649825,Lepidium_virginicum,20.721667,-100.195
 1894649814,Lepidium_virginicum,20.865278,-100.418333
-1259297694,Lepidium_virginicum,17.3,-98.08333
 1894823891,Lepidium_virginicum,24.291667,-111.225
 1829471554,Lepidium_virginicum,39.7514,140.1275
 1258402040,Lepidium_virginicum,-17.788056,-63.181667
@@ -950,7 +911,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242385730,Lepidium_virginicum,38.934354,-106.136675
 1454680131,Lepidium_virginicum,49.44,11.86
 1894649767,Lepidium_virginicum,20.901944,-100.211944
-1947259110,Lepidium_virginicum,50.03,10.2
 1988236711,Lepidium_virginicum,49.06,-122.88
 1894631667,Lepidium_virginicum,20.425,-100.308333
 1829471542,Lepidium_virginicum,40.2786,140.5289
@@ -979,10 +939,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894149079,Lepidium_virginicum,24.525,-98.958333
 295916161,Lepidium_virginicum,35.549079,139.228068
 1893445223,Lepidium_virginicum,19.575,-88.041667
-729284715,Lepidium_virginicum,34.883301,135.2
-1929048423,Lepidium_virginicum,43.3,-110.68
 1930072742,Lepidium_virginicum,40.55,-110.89
-1830165446,Lepidium_virginicum,36.816667,137.4
 685752076,Lepidium_virginicum,30.286517,77.97496
 176972948,Lepidium_virginicum,37.268836,-95.185543
 2265349159,Lepidium_virginicum,43.536578,-92.519043
@@ -1004,15 +961,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893770582,Lepidium_virginicum,30.809806,-108.017964
 1894649836,Lepidium_virginicum,20.68675,-99.804444
 1259827356,Lepidium_virginicum,36.756944,-90.392778
-1261866862,Lepidium_virginicum,-17.8,-63.16666
 1258990231,Lepidium_virginicum,-21.25,47.43333
 1050590727,Lepidium_virginicum,43.38,-2.68
 1253607150,Lepidium_virginicum,10.272222,-84.825
 45434305,Lepidium_virginicum,10.27,-84.82
 2270253607,Lepidium_virginicum,34.741667,-120.058333
-1253613565,Lepidium_virginicum,10.3,-84.800005
 2290406618,Lepidium_virginicum,31.903611,-106.456944
-45434136,Lepidium_virginicum,10.3,-84.8
 2270599917,Lepidium_virginicum,34.8431,-112.787
 1099888694,Lepidium_virginicum,29.760278,-95.369444
 176972988,Lepidium_virginicum,38.90236,-95.033062
@@ -1134,7 +1088,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270585547,Lepidium_virginicum,33.9345,-112.693
 1893680784,Lepidium_virginicum,21.151111,-99.190833
 2270587838,Lepidium_virginicum,33.9663,-111.864
-1261300412,Lepidium_virginicum,38.6,-90.25
 2270586360,Lepidium_virginicum,33.5637,-111.668
 1419168369,Lepidium_virginicum,16.766111,-93.364722
 849144,Lepidium_virginicum,56.88286,14.55263
@@ -1149,7 +1102,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893680776,Lepidium_virginicum,21.176667,-100.805
 2270597821,Lepidium_virginicum,33.7989,-109.115
 891600108,Lepidium_virginicum,24.708333,121.131389
-1228148520,Lepidium_virginicum,21,-101.2667
 415964739,Lepidium_virginicum,41.76361,-72.685
 1332783248,Lepidium_virginicum,50.681084,9.564908
 1259674319,Lepidium_virginicum,18.09345,-76.65571
@@ -1162,7 +1114,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828888244,Lepidium_virginicum,34.89923,132.07945
 1257534529,Lepidium_virginicum,18.583333,-71.183333
 415964737,Lepidium_virginicum,41.72777,-72.84083
-1419195202,Lepidium_virginicum,25.1,-106.181389
 1896208960,Lepidium_virginicum,19.468333,-96.781667
 295916128,Lepidium_virginicum,35.23245,139.115586
 176972113,Lepidium_virginicum,43.002,-85.936
@@ -1177,7 +1128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893680786,Lepidium_virginicum,19.858333,-100.826944
 729318887,Lepidium_virginicum,34.799999,134.567
 1893680798,Lepidium_virginicum,21.241667,-99.631667
-1228266018,Lepidium_virginicum,3.75,-76.5
 2270577169,Lepidium_virginicum,33.72,-111.44
 1894649928,Lepidium_virginicum,21.25415,-99.62061
 1830222160,Lepidium_virginicum,36.716667,137.166667
@@ -1193,7 +1143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270596138,Lepidium_virginicum,34.4556,-111.178
 1697240570,Lepidium_virginicum,43.136373,131.903096
 1949629460,Lepidium_virginicum,50.633333,-121.533333
-1253598528,Lepidium_virginicum,10.3,-84.800001
 1893680788,Lepidium_virginicum,21.206389,-99.188056
 1895476397,Lepidium_virginicum,24.969719,-100.561111
 465763561,Lepidium_virginicum,45.09271,-64.36132
@@ -1208,7 +1157,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894533531,Lepidium_virginicum,24.491667,-104.491667
 1421373141,Lepidium_virginicum,18.493889,-88.394722
 1893680750,Lepidium_virginicum,19.491667,-98.888333
-1259297783,Lepidium_virginicum,17.75,-96.5
 1893680766,Lepidium_virginicum,16.527222,-92.434722
 1895476355,Lepidium_virginicum,16.5114346117812,-92.3922350872515
 1895476364,Lepidium_virginicum,16.5224590089707,-92.41689170104
@@ -1245,7 +1193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895961753,Lepidium_virginicum,19.092778,-98.483333
 1831265614,Lepidium_virginicum,53.2485,11.2487
 1893680761,Lepidium_virginicum,20.154167,-99.025278
-1949624367,Lepidium_virginicum,50.208333,-119.2
 1988810875,Lepidium_virginicum,44.659982,-85.990679
 415964738,Lepidium_virginicum,41.83222,-72.57027
 1895961755,Lepidium_virginicum,19.080556,-98.494444
@@ -1259,7 +1206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947258965,Lepidium_virginicum,49.98,10.63
 1947258971,Lepidium_virginicum,49.82,9.87
 2270584315,Lepidium_virginicum,33.5497,-111.605
-1261292697,Lepidium_virginicum,18.98,-99.1
 1893680806,Lepidium_virginicum,19.571667,-101.806667
 1419178206,Lepidium_virginicum,15.115278,-92.0625
 1258099767,Lepidium_virginicum,25.201944,-106.568333
@@ -1330,7 +1276,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897575070,Lepidium_virginicum,17.5507150435198,-96.5167026858701
 1893680755,Lepidium_virginicum,18.906667,-98.433333
 234423816,Lepidium_virginicum,35.415755,138.990594
-1418340532,Lepidium_virginicum,19.608333,-96.9
 1261301676,Lepidium_virginicum,38.826111,-91.002222
 1930334927,Lepidium_virginicum,40.5464,-105.1451
 1949599398,Lepidium_virginicum,50.783333,-121.625
@@ -1344,7 +1289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381817334,Lepidium_virginicum,36.36039,140.45677
 234423808,Lepidium_virginicum,35.407426,139.140577
 1418343012,Lepidium_virginicum,19.602778,-96.908333
-1258099750,Lepidium_virginicum,22.916667,-104.6
 1893969241,Lepidium_virginicum,19.591667,-104.275
 1930096210,Lepidium_virginicum,38.409133,-112.330808
 1893680785,Lepidium_virginicum,19.91,-100.825
@@ -1360,9 +1304,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895476228,Lepidium_virginicum,16.724009,-92.679868
 1895476287,Lepidium_virginicum,19.175630136344,-99.0312113178331
 1451488871,Lepidium_virginicum,-28.381753,152.084418
-1261303701,Lepidium_virginicum,-13.166667,-71.9
 995649546,Lepidium_virginicum,-28.38,152.08
-993365419,Lepidium_virginicum,-28.5,152.1667
 891613615,Lepidium_virginicum,24.144167,120.665278
 1259294783,Lepidium_virginicum,8.78333,-82.43333
 1895476282,Lepidium_virginicum,28.7608665512089,-110.970794818528
@@ -1372,7 +1314,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891608837,Lepidium_virginicum,24.174444,120.59
 1426191086,Lepidium_virginicum,33.36192,-117.10157
 1894973125,Lepidium_virginicum,25.859444,-107.551389
-56603176,Lepidium_virginicum,33.3,-85.47
 1419223618,Lepidium_virginicum,21.997222,-102.308611
 891604418,Lepidium_virginicum,24.286111,120.576389
 1828888701,Lepidium_virginicum,34.81701,134.67499
@@ -1412,7 +1353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893338493,Lepidium_virginicum,31.008333,-115.475
 1947259045,Lepidium_virginicum,48.97,12.37
 234423842,Lepidium_virginicum,35.574078,139.31556
-1895961731,Lepidium_virginicum,18.95,-98
 1895679881,Lepidium_virginicum,23.415278,-104.2375
 465763559,Lepidium_virginicum,44.98878,-64.94871
 1261305158,Lepidium_virginicum,10.333333,-84.833333
@@ -1420,7 +1360,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894533319,Lepidium_virginicum,23.408333,-104.275
 1893680783,Lepidium_virginicum,20.061667,-101.888333
 1893680772,Lepidium_virginicum,19.536667,-101.633333
-1895961694,Lepidium_virginicum,18.954444,-98
 1893680771,Lepidium_virginicum,19.705,-101.308333
 1261298975,Lepidium_virginicum,-18.93333,48.43333
 1895476176,Lepidium_virginicum,19.5378238090807,-101.633495806609
@@ -1450,9 +1389,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421388530,Lepidium_virginicum,19.956475,-99.5372
 1090554029,Lepidium_virginicum,-22.4361,-46.8217
 415964710,Lepidium_virginicum,41.29916,-72.20916
-1258099762,Lepidium_virginicum,23.4,-104.283333
 415964692,Lepidium_virginicum,41.27916,-72.33
-239229169,Lepidium_virginicum,22.2,-159.583
 1929664491,Lepidium_virginicum,40.48,-110.88
 1896208928,Lepidium_virginicum,19.609444,-97.026389
 1038988630,Lepidium_virginicum,41.3961,-72.9217
@@ -1460,9 +1397,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947259023,Lepidium_virginicum,50.01,10.72
 234423801,Lepidium_virginicum,35.64073,139.140573
 1050590708,Lepidium_virginicum,43.17,-3.21
-1947258945,Lepidium_virginicum,50.04,10.2
 616290983,Lepidium_virginicum,-28.125,32.375
-1050590734,Lepidium_virginicum,43.2,-3.21
 1261295298,Lepidium_virginicum,10.308333,-84.815278
 234423819,Lepidium_virginicum,35.557414,139.31556
 891613895,Lepidium_virginicum,24.189444,120.588889
@@ -1472,7 +1407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462033403,Lepidium_virginicum,-24.125,30.125
 1893680752,Lepidium_virginicum,19.571667,-98.82
 1895286616,Lepidium_virginicum,19.570833,-98.817222
-1213669436,Lepidium_virginicum,-15.95,-47.9
 2270252693,Lepidium_virginicum,34.67821,-120.42949
 1896208933,Lepidium_virginicum,20.758333,-89.625
 1421364497,Lepidium_virginicum,20.815833,-89.631944
@@ -1497,7 +1431,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050590732,Lepidium_virginicum,43.28,-2.13
 111308164,Lepidium_virginicum,43.289001,-1.86
 371227394,Lepidium_virginicum,18.441667,-89.108333
-1421413796,Lepidium_virginicum,18.433333,-89.1
 234423820,Lepidium_virginicum,35.549077,139.153074
 234423828,Lepidium_virginicum,35.482424,139.440551
 1830186045,Lepidium_virginicum,36.616667,137.183333
@@ -1515,7 +1448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896208929,Lepidium_virginicum,18.891667,-96.925
 234423826,Lepidium_virginicum,35.46576,139.403055
 234423827,Lepidium_virginicum,35.415765,139.378056
-1899732003,Lepidium_virginicum,24.5,-104.666667
 2242367412,Lepidium_virginicum,39.547801,-105.096378
 1896208968,Lepidium_virginicum,19.480556,-90.135
 1419197473,Lepidium_virginicum,25.375,-100.591667
@@ -1531,7 +1463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111308502,Lepidium_virginicum,43.333,-1.736
 234423811,Lepidium_virginicum,35.332436,139.128079
 111308497,Lepidium_virginicum,43.014999,-3.018
-1830152313,Lepidium_virginicum,36.733333,137.3
 1090553887,Lepidium_virginicum,-22.9056,-47.0608
 45432639,Lepidium_virginicum,8.95,-82.76
 1259641153,Lepidium_virginicum,19.635278,-100.481111
@@ -1541,7 +1472,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895286558,Lepidium_virginicum,19.4861722453355,-98.818429353489
 1893680799,Lepidium_virginicum,19.548333,-99.878333
 2028547115,Lepidium_virginicum,42.17,2.87
-37363712,Lepidium_virginicum,21.3,-157.983
 1846550958,Lepidium_virginicum,33.323926,-111.032731
 1998963945,Lepidium_virginicum,25.07,102.58
 1949568951,Lepidium_virginicum,49.033333,-119.45
@@ -1562,9 +1492,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 234423805,Lepidium_virginicum,35.149125,139.115591
 1038978889,Lepidium_virginicum,41.4592,-72.8042
 2265349185,Lepidium_virginicum,44.233108,-91.917245
-1928946992,Lepidium_virginicum,18.6,-70.58
 234423863,Lepidium_virginicum,35.432434,139.640537
-1929727994,Lepidium_virginicum,39.15,-111.6
 1843862869,Lepidium_virginicum,33.208364,-108.008329
 1893680743,Lepidium_virginicum,19.441667,-98.905
 606659530,Lepidium_virginicum,41.17277,-73.11
@@ -1572,7 +1500,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288244229,Lepidium_virginicum,50.452,6.102
 234423815,Lepidium_virginicum,35.415754,139.065584
 1895286556,Lepidium_virginicum,19.436389,-98.91
-1259296996,Lepidium_virginicum,19.43,-98.9
 234423798,Lepidium_virginicum,35.599073,139.215568
 1260939932,Lepidium_virginicum,36.90083,-94.32611
 1897950840,Lepidium_virginicum,22.775,-102.563333
@@ -1595,7 +1522,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893680760,Lepidium_virginicum,19.535,-96.825
 1259295612,Lepidium_virginicum,19.645556,-100.496389
 2270518173,Lepidium_virginicum,31.10998,-115.63548
-1928320548,Lepidium_virginicum,18.33,-70.3
 1989069967,Lepidium_virginicum,42.704812,-84.652277
 1652023926,Lepidium_virginicum,-27.523539,153.025792
 1261008201,Lepidium_virginicum,37.70416,-92.85666
@@ -1634,7 +1560,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111308504,Lepidium_virginicum,43.365002,-2.401
 1928474593,Lepidium_virginicum,-25.4807848457141,-48.8347668975131
 1895286510,Lepidium_virginicum,19.894444,-99.199167
-1929631931,Lepidium_virginicum,18.08,-71.2
 1031022261,Lepidium_virginicum,25.175621,110.351669
 1258524355,Lepidium_virginicum,20.84,-86.87
 371221629,Lepidium_virginicum,20.825,-86.891667
@@ -1729,13 +1654,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1834901659,Lepidium_virginicum,35.3375,139.31875
 1434667434,Lepidium_virginicum,46.431111,21.840556
 1829872617,Lepidium_virginicum,35.550413,139.675721
-1611934885,Lepidium_virginicum,30.705556,-104.1
 1928269710,Lepidium_virginicum,18.469,-67.0564
 234423838,Lepidium_virginicum,35.524084,139.365556
 2289401231,Lepidium_virginicum,47.133333,7.216667
 994162915,Lepidium_virginicum,-17.2153,145.4675
 1834901994,Lepidium_virginicum,35.3625,139.46875
-1030446092,Lepidium_virginicum,42.9,-86.2
 1652028073,Lepidium_virginicum,-17.273597,145.475847
 1260936082,Lepidium_virginicum,39.50944,-92.69083
 1652028076,Lepidium_virginicum,-17.223598,145.475847
@@ -1747,12 +1670,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652021217,Lepidium_virginicum,-16.915265,145.750843
 2289721208,Lepidium_virginicum,53.201233,5.799913
 1265921832,Lepidium_virginicum,-15.591666,-47.708333
-1086973097,Lepidium_virginicum,13.5,-86.516667
 1563370581,Lepidium_virginicum,31.901667,-106.459722
 2270597663,Lepidium_virginicum,33.5173,-111.325
-1563370551,Lepidium_virginicum,31.9,-106.45
 1846550876,Lepidium_virginicum,33.868816,-110.925636
-1611936912,Lepidium_virginicum,31.9,-106.5
 2270599730,Lepidium_virginicum,32.9107,-109.501
 1611936914,Lepidium_virginicum,31.85,-106.466667
 2270596660,Lepidium_virginicum,31.6902,-110.967
@@ -1780,12 +1700,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896208935,Lepidium_virginicum,19.648611,-99.251111
 1259294284,Lepidium_virginicum,19.82,-99.115
 1895286639,Lepidium_virginicum,19.791111,-99.090278
-1949538775,Lepidium_virginicum,49,-119.666667
 1846550853,Lepidium_virginicum,33.095,-111.22417
 2270599388,Lepidium_virginicum,32.8975,-110.444
 891619729,Lepidium_virginicum,24.898611,121.155556
 2270599537,Lepidium_virginicum,33.1797,-109.861
-1260535361,Lepidium_virginicum,-17.33333,-63.3
 43214474,Lepidium_virginicum,33.55642,133.53574
 2242369276,Lepidium_virginicum,40.228785,-105.304287
 2270599464,Lepidium_virginicum,35.1639,-114.061
@@ -1794,19 +1712,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928750913,Lepidium_virginicum,40.613389,-74.422309
 1893394952,Lepidium_virginicum,19.175,-98.591667
 1893338558,Lepidium_virginicum,30.908333,-115.458333
-1988195642,Lepidium_virginicum,51.2,-122.9
 1702299880,Lepidium_virginicum,63.40577,10.35582
 1258898470,Lepidium_virginicum,21.78,-102.28
 1228181747,Lepidium_virginicum,19.3333,-96.6667
 1896208919,Lepidium_virginicum,19.516667,-96.938889
 1896208978,Lepidium_virginicum,19.611389,-96.949444
-1258932996,Lepidium_virginicum,19.2,-99.14
 1895286609,Lepidium_virginicum,19.200833,-99.142222
 1893395001,Lepidium_virginicum,19.208333,-99.141667
 1893395043,Lepidium_virginicum,19.491667,-98.891667
 1260111161,Lepidium_virginicum,38.9774,-92.131
 1843862931,Lepidium_virginicum,34.296912,-107.349887
-1258933018,Lepidium_virginicum,19.2,-99.06
 1893395017,Lepidium_virginicum,19.208333,-99.075
 1895286534,Lepidium_virginicum,19.2875,-99.247222
 415964695,Lepidium_virginicum,41.41916,-72.26083
@@ -1833,7 +1748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1611938179,Lepidium_virginicum,31.905556,-106.451667
 1261008399,Lepidium_virginicum,37.54,-90.851944
 2270587909,Lepidium_virginicum,33.6473,-111.778
-1503181703,Lepidium_virginicum,32.7667,-91.9
 1846550925,Lepidium_virginicum,32.76029,-109.832768
 1846550643,Lepidium_virginicum,30.34583,-96.52806
 217066670,Lepidium_virginicum,30.67,-96.32
@@ -1849,9 +1763,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260112318,Lepidium_virginicum,39.0217,-92.1605
 1843862816,Lepidium_virginicum,34.43435,-107.084357
 1258933168,Lepidium_virginicum,28.39,-107.01
-1258933102,Lepidium_virginicum,23.92,-104.9
 415964734,Lepidium_virginicum,41.95888,-72.41305
-1258933104,Lepidium_virginicum,28.3,-106.51
 2270596717,Lepidium_virginicum,34.991,-111.75
 1055072694,Lepidium_virginicum,39.74111,-95.23889
 1258523989,Lepidium_virginicum,8.78333,-82.63333
@@ -1865,15 +1777,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2244421578,Lepidium_virginicum,35.63216,139.44
 176972967,Lepidium_virginicum,37.32864,-95.38957
 2242367962,Lepidium_virginicum,40.227937,-105.311371
-1949526870,Lepidium_virginicum,49.4,-123.3
 1261886336,Lepidium_virginicum,40.48,-90.06
-56602546,Lepidium_virginicum,33.3,-87.5
 1830644407,Lepidium_virginicum,33.529536,133.582389
 176972919,Lepidium_virginicum,37.23943,-96.04547
 1260948002,Lepidium_virginicum,39.62166,-91.38888
 1257685722,Lepidium_virginicum,39.6511,-91.8003
-1988147872,Lepidium_virginicum,49.6,-118.7
-732479630,Lepidium_virginicum,44.2,-77.216667
 1144066654,Lepidium_virginicum,58.9455,5.7581
 415964699,Lepidium_virginicum,41.78972,-72.12388
 1228504706,Lepidium_virginicum,41.850033,-87.650052
@@ -1912,7 +1820,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846550382,Lepidium_virginicum,34.285312,-111.06758
 176972936,Lepidium_virginicum,37.17088,-94.6498
 176972943,Lepidium_virginicum,37.76216,-94.70595
-1258983136,Lepidium_virginicum,38.3,-90.41
 176972977,Lepidium_virginicum,38.22257,-95.24167
 176972979,Lepidium_virginicum,38.19801,-94.68769
 1265803929,Lepidium_virginicum,38.700555,-119.989088
@@ -1941,7 +1848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055072665,Lepidium_virginicum,39.31111,-94.92246
 1830644286,Lepidium_virginicum,33.554211,133.518466
 1988231599,Lepidium_virginicum,51.75,-122.43
-56602832,Lepidium_virginicum,32.6,-85.4
 1895476352,Lepidium_virginicum,24.683333,-100.966667
 1830644154,Lepidium_virginicum,33.552671,133.551946
 176972980,Lepidium_virginicum,39.14376,-95.25767
@@ -1953,7 +1859,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893770584,Lepidium_virginicum,27.733333,-107.596944
 1895476236,Lepidium_virginicum,16.9715840080774,-92.8252275955839
 1893394970,Lepidium_virginicum,16.958333,-92.841667
-1258933054,Lepidium_virginicum,19.3,-99.37
 1830644424,Lepidium_virginicum,33.56464,133.53978
 1895286503,Lepidium_virginicum,19.0803574253395,-98.7684267896636
 1651886152,Lepidium_virginicum,-27.390206,153.12579
@@ -2022,7 +1927,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055072661,Lepidium_virginicum,37.91302,-95.3069
 176972952,Lepidium_virginicum,37.91614,-95.1335
 176972960,Lepidium_virginicum,39.80112,-95.47781
-1895286504,Lepidium_virginicum,19.333333,-99
 176972954,Lepidium_virginicum,38.19563,-94.71366
 176972957,Lepidium_virginicum,38.69049,-97.11284
 295916245,Lepidium_virginicum,35.315777,139.35306
@@ -2121,7 +2025,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949511451,Lepidium_virginicum,49.458333,-123.283333
 1895286656,Lepidium_virginicum,19.6192202531558,-99.0728808289679
 1835662416,Lepidium_virginicum,38.2915,140.4732
-1895286537,Lepidium_virginicum,20.136111,-98.7
 1895286533,Lepidium_virginicum,19.5847775097411,-99.1845493489865
 1895286557,Lepidium_virginicum,19.111944,-99.195833
 1893395080,Lepidium_virginicum,19.375,-98.791667
@@ -2131,7 +2034,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936912560,Lepidium_virginicum,-27.4667,153.0167
 1896208925,Lepidium_virginicum,18.428056,-95.179444
 1258524503,Lepidium_virginicum,9.54,-83.93
-56602561,Lepidium_virginicum,30.78,-88.2
 1055072654,Lepidium_virginicum,36.53643,-94.38389
 415964554,Lepidium_virginicum,27.66972,-81.50444
 1895286506,Lepidium_virginicum,19.261389,-99.103889
@@ -2170,13 +2072,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895286528,Lepidium_virginicum,19.401111,-98.926111
 1702334744,Lepidium_virginicum,59.1764,10.9649
 732479645,Lepidium_virginicum,44.366667,-76.616667
-1829605187,Lepidium_virginicum,36.3,139
 465923075,Lepidium_virginicum,45.508889,-73.554167
 441772416,Lepidium_virginicum,43.80167,-115.12583
-1988212188,Lepidium_virginicum,45.5,-73.55
 1829629027,Lepidium_virginicum,36.449444,138.964444
 1260533291,Lepidium_virginicum,-22.75,-47.46666
-1988076213,Lepidium_virginicum,51,-118.2
 732479682,Lepidium_virginicum,46.816667,-71.233333
 2235941551,Lepidium_virginicum,-22.75,-47.47
 1426202112,Lepidium_virginicum,37.533333,-118.816667
@@ -2201,13 +2100,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895286529,Lepidium_virginicum,19.083333,-98.729722
 2270598269,Lepidium_virginicum,33.8206,-111.467
 2270584676,Lepidium_virginicum,33.543,-111.425
-1829607712,Lepidium_virginicum,36.5,138.6
 1829599222,Lepidium_virginicum,36.471944,139.045833
 176972966,Lepidium_virginicum,38.74167,-97.94798
 1055072685,Lepidium_virginicum,38.57972,-95.52667
 1829631722,Lepidium_virginicum,36.649226,139.038737
 2234318404,Lepidium_virginicum,36.964775,-89.089235
-732479684,Lepidium_virginicum,45.5,-73.6
 1055072686,Lepidium_virginicum,38.341298,-96.013192
 1928923040,Lepidium_virginicum,-22.6332545747533,-43.8983157889095
 1930517337,Lepidium_virginicum,-22.453946,-42.980648
@@ -2222,7 +2119,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989085162,Lepidium_virginicum,41.96013,-85.75241
 1895478612,Lepidium_virginicum,19.164449265749,-99.1594203052026
 1652013563,Lepidium_virginicum,-27.415206,153.084124
-1988226631,Lepidium_virginicum,19.4,-155.2
 2234306999,Lepidium_virginicum,33.292385,-79.681414
 2234307605,Lepidium_virginicum,33.836659,-79.441989
 1055072681,Lepidium_virginicum,38.49044,-95.92127
@@ -2233,8 +2129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1321787354,Lepidium_virginicum,39.1367,-77.715
 1228378047,Lepidium_virginicum,42.0333,-87.7667
 1835662387,Lepidium_virginicum,38.25773,140.3463
-732479643,Lepidium_virginicum,42.766667,-81.5
-732479672,Lepidium_virginicum,42.433333,-81.9
 1228508316,Lepidium_virginicum,41.8333,-87.85
 732479644,Lepidium_virginicum,43.383333,-80.316667
 732479671,Lepidium_virginicum,42.333333,-82.25
@@ -2263,16 +2157,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895476187,Lepidium_virginicum,23.4273083621681,-104.69820079698
 995576323,Lepidium_virginicum,-28.87,153.05
 1451455988,Lepidium_virginicum,-28.865079,153.051073
-1895476220,Lepidium_virginicum,22.5,-102.69
 1930019553,Lepidium_virginicum,-20.761343,-42.868031
 1829894845,Lepidium_virginicum,35.592222,137.908333
-732479667,Lepidium_virginicum,42.9,-81.483333
-1829604541,Lepidium_virginicum,36.4,139.1
 1228357214,Lepidium_virginicum,41.4333,-87.9667
 381817330,Lepidium_virginicum,36.00192,140.01413
 1829616990,Lepidium_virginicum,36.652222,139.0375
 1843862703,Lepidium_virginicum,35.770562,-106.265919
-1829604476,Lepidium_virginicum,36.4,139
 187190351,Lepidium_virginicum,59.84258,10.45045
 1895286488,Lepidium_virginicum,19.548056,-99.246944
 1988969849,Lepidium_virginicum,43.97534,-83.95161
@@ -2290,7 +2180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701353766,Lepidium_virginicum,59.4992,10.2893
 1259295738,Lepidium_virginicum,19.313056,-99.189444
 1099888917,Lepidium_virginicum,55.87701,12.82951
-1891606211,Lepidium_virginicum,49.71,6.5
 2234329865,Lepidium_virginicum,35.903171,-81.35242
 2270596888,Lepidium_virginicum,34.01,-109.458
 1099888342,Lepidium_virginicum,58.938115,11.175614
@@ -2309,10 +2198,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732479641,Lepidium_virginicum,49.15,-121.916667
 1949475002,Lepidium_virginicum,49.166667,-121.95
 441772496,Lepidium_virginicum,44.569408,-115.67806
-732479662,Lepidium_virginicum,42.783333,-81.2
 1934061634,Lepidium_virginicum,35.6689,139.5479
 1600345596,Lepidium_virginicum,63.132517,21.540172
-1949495461,Lepidium_virginicum,51.3,-116.966667
 2270585216,Lepidium_virginicum,33.687,-112.297
 2270262882,Lepidium_virginicum,33.39269,-117.58997
 43214435,Lepidium_virginicum,33.47689,133.38951
@@ -2321,7 +2208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788823733,Lepidium_virginicum,57.704499,11.965181
 43214446,Lepidium_virginicum,33.56178,133.54082
 1322972135,Lepidium_virginicum,38.3419,-78.0292
-732479669,Lepidium_virginicum,42.4,-82.183333
 415964694,Lepidium_virginicum,41.26138,-72.72444
 381817332,Lepidium_virginicum,36.3988,140.44765
 1807240279,Lepidium_virginicum,46.245139,-63.134027
@@ -2335,13 +2221,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989191373,Lepidium_virginicum,43.781673,-86.433136
 1843862939,Lepidium_virginicum,33.350204,-108.081599
 1807240159,Lepidium_virginicum,46.812804,-64.065297
-56602572,Lepidium_virginicum,33.2,-87.31667
 1843862704,Lepidium_virginicum,33.350484,-108.079379
 388837009,Lepidium_virginicum,35.792932,139.074046
-995576269,Lepidium_virginicum,-34.87,150.6
 1451456542,Lepidium_virginicum,-34.865096,150.601177
 1451455711,Lepidium_virginicum,-30.748412,152.501096
-995576285,Lepidium_virginicum,-30.75,152.5
 1846550866,Lepidium_virginicum,33.262292,-111.273845
 2242365815,Lepidium_virginicum,40.081621,-105.349726
 441772503,Lepidium_virginicum,42.98972,-116.0925
@@ -2355,8 +2238,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415964433,Lepidium_virginicum,42.23527,-72.14111
 415964514,Lepidium_virginicum,42.17444,-71.60222
 1038966231,Lepidium_virginicum,41.0692,-73.6386
-415964528,Lepidium_virginicum,42.36666,-72.2
-1228524647,Lepidium_virginicum,41.7,-86.6667
 415964445,Lepidium_virginicum,42.58333,-72.21666
 415964452,Lepidium_virginicum,42.41666,-71.66666
 415964519,Lepidium_virginicum,42.38333,-71.96666
@@ -2370,7 +2251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317379204,Lepidium_virginicum,38.6439,-76.6942
 1895476211,Lepidium_virginicum,19.6531893186818,-103.709058663781
 415964532,Lepidium_virginicum,42.06666,-72.66666
-732479674,Lepidium_virginicum,45.6,-76.483333
 1038945273,Lepidium_virginicum,41.9944,-72.6789
 1830633755,Lepidium_virginicum,34.062643,134.297371
 732479647,Lepidium_virginicum,47.566667,-52.733333
@@ -2397,7 +2277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895476232,Lepidium_virginicum,16.9229650000274,-96.3625301473458
 1895476406,Lepidium_virginicum,19.2879481607933,-99.5778556000857
 1304173210,Lepidium_virginicum,31.029484,121.195754
-995401681,Lepidium_virginicum,-36.3833,145.7
 1929824774,Lepidium_virginicum,42.441424,-76.497749
 1830633733,Lepidium_virginicum,33.929969,134.620589
 1701849856,Lepidium_virginicum,59.2771,11.1313
@@ -2408,11 +2287,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415964506,Lepidium_virginicum,41.81111,-72.2525
 1303855263,Lepidium_virginicum,28.965815,116.104041
 415964530,Lepidium_virginicum,42.48333,-71.45
-732479665,Lepidium_virginicum,43.166667,-80.3
 1949587644,Lepidium_virginicum,49.683333,-115.983333
-1988199959,Lepidium_virginicum,49.7,-116
 465763550,Lepidium_virginicum,44.98835,-64.12861
-732479646,Lepidium_virginicum,44.65,-63.6
 465923071,Lepidium_virginicum,44.65887,-63.59057
 441772110,Lepidium_virginicum,46.296006,-117.04722
 441772473,Lepidium_virginicum,45.862098,-116.301631
@@ -2422,7 +2298,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732479657,Lepidium_virginicum,43.65,-79.383333
 1846550702,Lepidium_virginicum,38.930828,-119.995783
 1896208963,Lepidium_virginicum,18.700556,-97.336111
-1988119281,Lepidium_virginicum,49.3,-123.3
 994113048,Lepidium_virginicum,-16.9333,145.75
 1259713349,Lepidium_virginicum,-27.46666,-58.85
 2247772607,Lepidium_virginicum,-27.498056,-58.7675
@@ -2438,7 +2313,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441772478,Lepidium_virginicum,45.76167,-116.29972
 415964503,Lepidium_virginicum,41.98166,-72.65055
 415964518,Lepidium_virginicum,42.28333,-71.71666
-1259296913,Lepidium_virginicum,25.9,-101.75
 1929558642,Lepidium_virginicum,21.97759,-80.187124
 415964521,Lepidium_virginicum,42.31666,-71.93333
 1304174069,Lepidium_virginicum,30.598238,117.110052
@@ -2447,7 +2321,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176972942,Lepidium_virginicum,38.9573,-95.24596
 1320739743,Lepidium_virginicum,38.8664,-77.7064
 415964432,Lepidium_virginicum,42.25916,-71.75666
-732479663,Lepidium_virginicum,45.483333,-74.3
 415964494,Lepidium_virginicum,41.33333,-71.97666
 415964437,Lepidium_virginicum,42.575,-71.99805
 415964447,Lepidium_virginicum,42.525,-71.76111
@@ -2456,7 +2329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895476392,Lepidium_virginicum,24.35056,-99.10889
 1652014556,Lepidium_virginicum,-26.581876,152.584127
 415964441,Lepidium_virginicum,42.05,-71.93333
-2270670375,Lepidium_virginicum,34.6,-112.41
 849880,Lepidium_virginicum,56.18529,15.59863
 849697,Lepidium_virginicum,56.19029,15.60269
 415964517,Lepidium_virginicum,42.43333,-71.78333
@@ -2472,7 +2344,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415964434,Lepidium_virginicum,42.36666,-71.78611
 1099895280,Lepidium_virginicum,57.91371,12.53448
 415964446,Lepidium_virginicum,42.46666,-71.68333
-415964439,Lepidium_virginicum,42.2,-72.05
 415964451,Lepidium_virginicum,42.36666,-71.86666
 415964443,Lepidium_virginicum,42.43333,-71.60777
 415964520,Lepidium_virginicum,42.58333,-72.13277
@@ -2488,7 +2359,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896208976,Lepidium_virginicum,18.811389,-97.276389
 1260930419,Lepidium_virginicum,38.16027,-90.82805
 2265348869,Lepidium_virginicum,44.969959,-93.237021
-1988149630,Lepidium_virginicum,49.3,-123.2
 1258102617,Lepidium_virginicum,38.576667,-92.173333
 1099889253,Lepidium_virginicum,56.156775,13.76989
 335189423,Lepidium_virginicum,48.583887,7.765004
@@ -2496,7 +2366,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090531915,Lepidium_virginicum,42.4333,-76.4833
 732479652,Lepidium_virginicum,45.433333,-73.683333
 415964450,Lepidium_virginicum,42.19388,-71.76
-415964430,Lepidium_virginicum,42.26666,-71.8
 441772415,Lepidium_virginicum,43.842563,-114.50491
 1701971824,Lepidium_virginicum,63.70086,11.23768
 1701777653,Lepidium_virginicum,63.4141,10.412
@@ -2504,20 +2373,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994113024,Lepidium_virginicum,-17.2667,145.4667
 1652013574,Lepidium_virginicum,-20.415242,148.584153
 1929375629,Lepidium_virginicum,40.689824,-74.470432
-694656259,Lepidium_virginicum,45.41667,-73.5
 1038987848,Lepidium_virginicum,41.3219,-72.3016
 176972918,Lepidium_virginicum,37.41833,-95.68
-1426059547,Lepidium_virginicum,34.0236,-117.7
 1038986409,Lepidium_virginicum,41.3965,-72.3438
 1321630714,Lepidium_virginicum,38.9694,-77.1767
 1895476182,Lepidium_virginicum,24.594719,-99.993889
 1835662383,Lepidium_virginicum,35.5563,139.6423
 415964527,Lepidium_virginicum,42.51666,-72.58333
-732479614,Lepidium_virginicum,58.3,-134.416667
 2005468344,Lepidium_virginicum,-30.625,30.375
 176972958,Lepidium_virginicum,38.78333,-97.649504
 1999624863,Lepidium_virginicum,60.464862,22.359362
-415964438,Lepidium_virginicum,42.58333,-71.8
 1144069014,Lepidium_virginicum,61.30602,6.92873
 1304174137,Lepidium_virginicum,30.273977,120.172974
 1304173260,Lepidium_virginicum,32.055645,118.797741
@@ -2533,7 +2398,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415964547,Lepidium_virginicum,26.64027,-81.8725
 1846550787,Lepidium_virginicum,19.044417,-100.04405
 2270516328,Lepidium_virginicum,19.033333,-100.05
-1261048155,Lepidium_virginicum,19,-100.01
 441772431,Lepidium_virginicum,48.165,-123.95278
 1988955567,Lepidium_virginicum,45.107763,-87.614274
 1261048489,Lepidium_virginicum,19.05,-99.87
@@ -2551,15 +2415,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846550776,Lepidium_virginicum,18.660846,-100.265693
 1055072717,Lepidium_virginicum,35.88333,-106.36667
 1260931701,Lepidium_virginicum,38.56833,-90.44777
-732479650,Lepidium_virginicum,49.016667,-122.8
 441772440,Lepidium_virginicum,47.75028,-123.74972
 415964550,Lepidium_virginicum,40.79972,-77.94638
-1949490210,Lepidium_virginicum,50.683333,-126.6
 1304173195,Lepidium_virginicum,32.059064,119.418318
 1928433948,Lepidium_virginicum,37.643206,-118.349183
 1426123841,Lepidium_virginicum,37.294,-118.2343
 415964544,Lepidium_virginicum,41.60333,-71.31805
-1319755025,Lepidium_virginicum,8.7,-70.9833
 415964545,Lepidium_virginicum,41.50055,-71.61666
 1652013631,Lepidium_virginicum,-27.24854,153.084123
 1228323779,Lepidium_virginicum,10.1667,-69.8333
@@ -2573,7 +2434,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144069136,Lepidium_virginicum,60.56901,5.51371
 1701908098,Lepidium_virginicum,60.66099,5.76755
 1303620477,Lepidium_virginicum,29.868336,121.54399
-1434670372,Lepidium_virginicum,42,2.284167
 441772459,Lepidium_virginicum,48.481162,-122.264448
 732479648,Lepidium_virginicum,46.55,-72.75
 441772413,Lepidium_virginicum,45.715,-121.46333
@@ -2583,7 +2443,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843839264,Lepidium_virginicum,35.36,-108.47
 438495918,Lepidium_virginicum,49.17944,3.12028
 1949456842,Lepidium_virginicum,50.25,-117.816667
-1988187292,Lepidium_virginicum,49.5999999990692,-125.7
 1260944151,Lepidium_virginicum,37.65027,-90.67972
 1929399478,Lepidium_virginicum,40.945319,-72.821745
 1099888778,Lepidium_virginicum,55.923564,14.292627
@@ -2622,12 +2481,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426141216,Lepidium_virginicum,33.7285,-116.8093
 1319979883,Lepidium_virginicum,38.7764,-77.0569
 2265348961,Lepidium_virginicum,44.97441,-93.233002
-995576276,Lepidium_virginicum,-30.62,151.5
 1451456558,Lepidium_virginicum,-30.615085,151.50111
 1260938364,Lepidium_virginicum,38.81027,-90.80611
 1260938392,Lepidium_virginicum,39.69833,-91.46055
 1652013580,Lepidium_virginicum,-27.915204,153.250791
-1456133691,Lepidium_virginicum,5.8,-55.46
 1928723541,Lepidium_virginicum,39.721228,-74.759882
 1322544944,Lepidium_virginicum,38.9919,-77.0708
 1928108911,Lepidium_virginicum,40.874985,-73.891739
@@ -2637,9 +2494,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320029547,Lepidium_virginicum,38.7583,-77.0486
 994676454,Lepidium_virginicum,-37.8667,145.0667
 441772114,Lepidium_virginicum,46.98139,-123.60139
-1949490239,Lepidium_virginicum,49.25,-124.8
 1260950125,Lepidium_virginicum,37.92611,-91.9775
-1988097870,Lepidium_virginicum,54.2999999991065,-130.3
 1929198110,Lepidium_virginicum,18.1294,-66.8904
 415964542,Lepidium_virginicum,42.30194,-72.52722
 415964537,Lepidium_virginicum,41.82388,-71.41277
@@ -2671,7 +2526,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928164551,Lepidium_virginicum,40.632326,-74.165144
 1929029939,Lepidium_virginicum,40.680544,-73.789526
 1260927946,Lepidium_virginicum,36.93,-93.05666
-1228213493,Lepidium_virginicum,40,-86
 415964502,Lepidium_virginicum,41.18638,-73.19611
 1259295687,Lepidium_virginicum,24.83,-105.64
 1039014258,Lepidium_virginicum,41.367,-72.717
@@ -2679,7 +2533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415964496,Lepidium_virginicum,41.78222,-72.61194
 1258624206,Lepidium_virginicum,25.34,-105.72
 1259295873,Lepidium_virginicum,15.483333,-90.366667
-1259297541,Lepidium_virginicum,24.05,-105
 1652013570,Lepidium_virginicum,-27.581876,152.250804
 1929851940,Lepidium_virginicum,40.864241,-73.456788
 1671666354,Lepidium_virginicum,44.240595,9.765897
@@ -2700,7 +2553,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705342811,Lepidium_virginicum,58.301722,14.287789
 51865295,Lepidium_virginicum,45.5407,-122.6674
 415964498,Lepidium_virginicum,41.29555,-72.86305
-1228369452,Lepidium_virginicum,37,-119
 1055780708,Lepidium_virginicum,36.7781,-119.4178
 1260960698,Lepidium_virginicum,37.146389,-94.462778
 1099887637,Lepidium_virginicum,55.860556,9.849722
