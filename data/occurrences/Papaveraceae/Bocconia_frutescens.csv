@@ -1,25 +1,20 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2284493868,Bocconia_frutescens,5.747333,-72.673056
 1844985025,Bocconia_frutescens,13.87078,-89.62364
-1897834790,Bocconia_frutescens,-34.983998,173.537396
 2268864239,Bocconia_frutescens,13.770111,-86.455389
 2244394604,Bocconia_frutescens,4.80025,-74.02839
 1702530701,Bocconia_frutescens,4.770694,-74.099528
 1264719037,Bocconia_frutescens,13.836278,-85.951944
 1702529712,Bocconia_frutescens,4.775139,-74.102
 2310847643,Bocconia_frutescens,6.17,-75.59
-1702530249,Bocconia_frutescens,4.646889,-74.032278
 1328372169,Bocconia_frutescens,5.300253,-73.350972
-1897826051,Bocconia_frutescens,-36.854167,174.772222
 1051525355,Bocconia_frutescens,4.386944,-75.599667
 2350537533,Bocconia_frutescens,9.9425,-83.887222
 1897487045,Bocconia_frutescens,18.206917,-96.745444
-1843469202,Bocconia_frutescens,-36.79,174.735833
 1258197453,Bocconia_frutescens,14.381389,-89.1025
 1585292250,Bocconia_frutescens,14.38139,-89.1025
 1897487061,Bocconia_frutescens,18.199194,-96.918611
 2284382522,Bocconia_frutescens,4.27156,-74.5594
-1897821640,Bocconia_frutescens,-37.77,175.258889
 1930775865,Bocconia_frutescens,6.52903,-76.24819
 1257961855,Bocconia_frutescens,13.97725,-86.182417
 2306262256,Bocconia_frutescens,10.9,-85.3
@@ -53,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897357886,Bocconia_frutescens,16.70975,-97.228333
 1897357920,Bocconia_frutescens,16.248278,-97.218305
 1257746614,Bocconia_frutescens,15.716945,-91.010278
-1317789883,Bocconia_frutescens,15.3528,-61.3592
 1257820652,Bocconia_frutescens,9.618611,-83.258889
 1257836226,Bocconia_frutescens,9.618611,-83.25889
 930997265,Bocconia_frutescens,6.3314,-75.4557
@@ -106,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260047774,Bocconia_frutescens,13.231945,-85.648055
 1259187547,Bocconia_frutescens,-13.00472,-72.05583
 1418346023,Bocconia_frutescens,19.580556,-96.951944
-1253775545,Bocconia_frutescens,9.877778,-84.15
 1259496778,Bocconia_frutescens,-12.88333,-72.73333
 1321917613,Bocconia_frutescens,18.7742,-70.6402
 1259495215,Bocconia_frutescens,-13.15,-72.51666
@@ -120,7 +113,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419168852,Bocconia_frutescens,16.343056,-93.872778
 44423130,Bocconia_frutescens,8.68,-83.21
 1830970245,Bocconia_frutescens,8.68333,-83.21667
-1098684197,Bocconia_frutescens,4.623314,-74.063231
 1253815892,Bocconia_frutescens,10.290727,-84.802579
 2270549863,Bocconia_frutescens,10.283333,-84.8
 44423094,Bocconia_frutescens,10.28,-84.8
@@ -148,8 +140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258773774,Bocconia_frutescens,13.566667,-85.7
 1253718231,Bocconia_frutescens,9.9875,-83.472222
 44423082,Bocconia_frutescens,9.98,-83.47
-461670938,Bocconia_frutescens,-29.625,30.375
-2291766692,Bocconia_frutescens,-29.605,30.346667
 1260134091,Bocconia_frutescens,9.9875,-83.47222
 1896091900,Bocconia_frutescens,17.908611,-96.950556
 1585291875,Bocconia_frutescens,13.9,-89.8
@@ -174,12 +164,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253744748,Bocconia_frutescens,9.949444,-85.271944
 1893902782,Bocconia_frutescens,17.566667,-100.079167
 1895956144,Bocconia_frutescens,20.101667,-97.983333
-1258466592,Bocconia_frutescens,13.266667,-87.833333
-1055590899,Bocconia_frutescens,13.736897,-88.866511
 1258466826,Bocconia_frutescens,13.659167,-89.380278
 1896288966,Bocconia_frutescens,19.588889,-96.785278
 1893803674,Bocconia_frutescens,19.589722,-96.81
-1056576255,Bocconia_frutescens,17.217668,-88.684767
 1259298500,Bocconia_frutescens,16.71666,-88.98333
 1253680645,Bocconia_frutescens,9.580556,-83.8
 1260132283,Bocconia_frutescens,9.58055,-83.8
@@ -193,8 +180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258782644,Bocconia_frutescens,-5.29138,-79.26722
 1253576418,Bocconia_frutescens,8.904935,-82.751079
 44422982,Bocconia_frutescens,9.54,-84.01
-1930745283,Bocconia_frutescens,20.608183,-156.345317
-35561713,Bocconia_frutescens,20.6,-156.35
 1253672338,Bocconia_frutescens,8.923129,-82.796043
 1585291934,Bocconia_frutescens,14.08333,-89.08333
 44423021,Bocconia_frutescens,10.15,-84.68
@@ -221,7 +206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253621065,Bocconia_frutescens,10.880556,-85.40139
 1253648671,Bocconia_frutescens,10.928611,-85.469445
 44422899,Bocconia_frutescens,10.92,-85.46
-1897695434,Bocconia_frutescens,-36.9,174.716667
 1098672390,Bocconia_frutescens,4.731447,-74.436114
 1261043103,Bocconia_frutescens,24.5667,-99.5333
 1259671957,Bocconia_frutescens,18.35,-77.703
@@ -272,7 +256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 44421450,Bocconia_frutescens,8.79,-82.96
 44422909,Bocconia_frutescens,10.27,-84.79
 1253645269,Bocconia_frutescens,10.275833,-84.795834
-1319227597,Bocconia_frutescens,15.25,-61.3583
 1896205316,Bocconia_frutescens,16.891667,-92.370833
 1261287837,Bocconia_frutescens,8.81,-82.96
 1258563219,Bocconia_frutescens,17.18,-92.36
@@ -310,7 +293,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253612333,Bocconia_frutescens,10.308333,-84.783334
 1261287579,Bocconia_frutescens,0.3,-78.366667
 1896288989,Bocconia_frutescens,19.546389,-96.880278
-1897618182,Bocconia_frutescens,-36.866667,174.75
 1258714498,Bocconia_frutescens,15.66,-92.85
 1893612118,Bocconia_frutescens,19.43,-101.513333
 1893612401,Bocconia_frutescens,19.766667,-100.296667
@@ -327,8 +309,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896288983,Bocconia_frutescens,19.736389,-100.841944
 1893611922,Bocconia_frutescens,19.808333,-100.893333
 44422761,Bocconia_frutescens,10.12,-84.12
-1928982407,Bocconia_frutescens,20.67,-156.42
-1320128123,Bocconia_frutescens,20.6667,-156.417
 44421334,Bocconia_frutescens,9.67,-83.07
 1253604031,Bocconia_frutescens,9.675,-83.022222
 1261289476,Bocconia_frutescens,9.233333,-83.033333
@@ -549,7 +529,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258726543,Bocconia_frutescens,13.233333,-85.633333
 1896057713,Bocconia_frutescens,22.002778,-99.133056
 1896288961,Bocconia_frutescens,19.385278,-96.971667
-44419813,Bocconia_frutescens,10.73,-85.83
 1259315255,Bocconia_frutescens,10.43138,-84.00361
 1261289011,Bocconia_frutescens,11.833333,-85.983333
 1261286588,Bocconia_frutescens,11.81666,-85.96666
@@ -564,12 +543,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261288736,Bocconia_frutescens,11.833333,-85.933333
 1896288952,Bocconia_frutescens,15.658333,-92.691667
 1258714681,Bocconia_frutescens,14.113333,-87.113889
-35567826,Bocconia_frutescens,19.1,-155.817
 1930953099,Bocconia_frutescens,18.62,-70.58
 1261289383,Bocconia_frutescens,8.916667,-82.716667
 1258716424,Bocconia_frutescens,8.515,-81.14722
 1930798027,Bocconia_frutescens,18.67,-70.58
-1896288922,Bocconia_frutescens,19.513889,-96.943333
 1930200139,Bocconia_frutescens,18.53,-70.37
 1259129067,Bocconia_frutescens,9.683333,-69.583333
 1896057674,Bocconia_frutescens,19.333056,-101.338333
@@ -626,7 +603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259675382,Bocconia_frutescens,18.56666,-70.61666
 1258714732,Bocconia_frutescens,5.15555,-75.04027
 1894898629,Bocconia_frutescens,19.508333,-96.941667
-1930345876,Bocconia_frutescens,18.33,-12.03
 1895406650,Bocconia_frutescens,17.535154693087,-96.5533675043654
 1896288960,Bocconia_frutescens,21.201944,-97.91
 1893970307,Bocconia_frutescens,19.555556,-104.154167
@@ -639,7 +615,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896057660,Bocconia_frutescens,17.561944,-96.540833
 1258693139,Bocconia_frutescens,7.725,-77.741667
 1896288980,Bocconia_frutescens,18.341667,-94.891667
-1259675862,Bocconia_frutescens,18.3,-70.9
 1258716426,Bocconia_frutescens,8.64583,-80.13333
 1936134818,Bocconia_frutescens,19.0833,-70.6
 1258714693,Bocconia_frutescens,8.666667,-82.216667
@@ -660,7 +635,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893392887,Bocconia_frutescens,21.525,-99.058333
 1895406699,Bocconia_frutescens,21.5213536189954,-99.0528901400149
 1258989276,Bocconia_frutescens,8.846667,-82.535
-1259676225,Bocconia_frutescens,18.516,-72.316
 1895035743,Bocconia_frutescens,20.361944,-98.205
 1896057695,Bocconia_frutescens,8.883333,-82.533333
 1258714700,Bocconia_frutescens,8.855,-82.523333
@@ -705,7 +679,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228597526,Bocconia_frutescens,10.5,-84.5
 1257624267,Bocconia_frutescens,15.452222,-91.211111
 1896057671,Bocconia_frutescens,20.309722,-98.170833
-2290175378,Bocconia_frutescens,-11.666667,27.466667
 1896288987,Bocconia_frutescens,18.584722,-95.073889
 1896057678,Bocconia_frutescens,20.511944,-98.485278
 1896057643,Bocconia_frutescens,19.503056,-96.916667
@@ -850,7 +823,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261498619,Bocconia_frutescens,-10.748055,-75.539167
 1258711390,Bocconia_frutescens,16.90444,-89.74944
 1896057651,Bocconia_frutescens,23.0725,-99.048333
-1898908251,Bocconia_frutescens,4.673137,-74.042736
 1895406700,Bocconia_frutescens,25.6159536934477,-100.370782230138
 1894425702,Bocconia_frutescens,25.615556,-100.37
 1258712977,Bocconia_frutescens,13.72055,-89.29222
@@ -864,7 +836,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896075404,Bocconia_frutescens,25.718056,-100.435
 1896075403,Bocconia_frutescens,25.681111,-100.311111
 1895406706,Bocconia_frutescens,15.2411208617796,-92.2899293061461
-1258714692,Bocconia_frutescens,14.1,-87.21666
 1260531482,Bocconia_frutescens,4.56666,-74.28333
 1844953182,Bocconia_frutescens,4.572228,-74.315261
 1258714718,Bocconia_frutescens,8.825,-82.445833
@@ -886,12 +857,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896091905,Bocconia_frutescens,18.133611,-97.039444
 1257513886,Bocconia_frutescens,2.200836,-76.102206
 1929395965,Bocconia_frutescens,18.075675,-76.652328
-919490467,Bocconia_frutescens,27.82308,99.706013
 1931136729,Bocconia_frutescens,22.066666,-79.783335
-1930321999,Bocconia_frutescens,18.397479,-78.132357
 1259296527,Bocconia_frutescens,15.47083,-90.37083
 1896288978,Bocconia_frutescens,19.2,-96.855556
 1259673217,Bocconia_frutescens,23,-82.35
 1930799600,Bocconia_frutescens,19.516569,-72.36155
-1928469880,Bocconia_frutescens,15.33,-61.33
 1896289029,Bocconia_frutescens,19.555278,-96.968056
