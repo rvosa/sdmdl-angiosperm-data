@@ -147,12 +147,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701961533,Lonicera_caerulea_var._pallasii,62.0841,9.1188
 1701276450,Lonicera_caerulea_var._pallasii,62.0805,9.1373
 2265470014,Lonicera_caerulea_var._pallasii,46.827778,-92.15
-2265453884,Lonicera_caerulea_var._pallasii,47.748056,-91.6
 1702106732,Lonicera_caerulea_var._pallasii,59.6204,11.0112
 883417227,Lonicera_caerulea_var._pallasii,53.1294279990949,-114.463702
 788709777,Lonicera_caerulea_var._pallasii,63.37499,16.99053
 1830985340,Lonicera_caerulea_var._pallasii,46.94694,13.01528
-1697294786,Lonicera_caerulea_var._pallasii,52.6,158.4
 1702252495,Lonicera_caerulea_var._pallasii,62.5775,11.3954
 1702247414,Lonicera_caerulea_var._pallasii,62.1314,9.9722
 1697294612,Lonicera_caerulea_var._pallasii,55.77963,134.19612
@@ -299,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200611159,Lonicera_caerulea_var._pallasii,38.091667,128.347222
 615352851,Lonicera_caerulea_var._pallasii,36.08,72.65
 2200611163,Lonicera_caerulea_var._pallasii,38.048873,128.425558
-615353005,Lonicera_caerulea_var._pallasii,36.7,73.42
 1697672660,Lonicera_caerulea_var._pallasii,63.132142,36.704048
 574744957,Lonicera_caerulea_var._pallasii,36.977778,102.433889
 1701310837,Lonicera_caerulea_var._pallasii,60.2128,11.6259
@@ -317,7 +314,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615352885,Lonicera_caerulea_var._pallasii,36.08,72.55
 788629925,Lonicera_caerulea_var._pallasii,62.408309,17.206892
 1697672498,Lonicera_caerulea_var._pallasii,59.746038,29.622872
-1261255980,Lonicera_caerulea_var._pallasii,38.6,-90.25
 1697294836,Lonicera_caerulea_var._pallasii,62.29697,88.96868
 2265354579,Lonicera_caerulea_var._pallasii,47.578747,-94.193289
 1697294347,Lonicera_caerulea_var._pallasii,61.00319,89.61322
@@ -361,7 +357,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697294360,Lonicera_caerulea_var._pallasii,60.266204,72.139728
 1697294349,Lonicera_caerulea_var._pallasii,60.46045,71.68361
 1697294359,Lonicera_caerulea_var._pallasii,60.8557,70.87831
-786184953,Lonicera_caerulea_var._pallasii,46.2,10.8
 1697294765,Lonicera_caerulea_var._pallasii,52.28171,91.85105
 1599486973,Lonicera_caerulea_var._pallasii,61.019718,24.453604
 859222,Lonicera_caerulea_var._pallasii,56.81681,16.02357
@@ -381,7 +376,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599486989,Lonicera_caerulea_var._pallasii,60.986134,24.411008
 1599486981,Lonicera_caerulea_var._pallasii,60.973795,24.423098
 1933913260,Lonicera_caerulea_var._pallasii,39.1025,140.0474
-2291578330,Lonicera_caerulea_var._pallasii,61,24.45
 1599486983,Lonicera_caerulea_var._pallasii,61.014875,24.458616
 1697294768,Lonicera_caerulea_var._pallasii,52.40871,92.13577
 859236,Lonicera_caerulea_var._pallasii,57.21716,13.27367
@@ -390,7 +384,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1799051794,Lonicera_caerulea_var._pallasii,39.568117,72.055893
 1697294596,Lonicera_caerulea_var._pallasii,52.05,134.816667
 1697294597,Lonicera_caerulea_var._pallasii,60.704165,151.712642
-1697294712,Lonicera_caerulea_var._pallasii,51.7,134.466667
 859234,Lonicera_caerulea_var._pallasii,57.15643,15.41085
 1697294711,Lonicera_caerulea_var._pallasii,51.65,134.683333
 2265351713,Lonicera_caerulea_var._pallasii,45.450711,-93.520879
@@ -400,7 +393,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697294717,Lonicera_caerulea_var._pallasii,61.84361,89.3305
 1697340681,Lonicera_caerulea_var._pallasii,51.004952,98.950853
 1697294523,Lonicera_caerulea_var._pallasii,59.583333,151.166667
-1697294766,Lonicera_caerulea_var._pallasii,51.9,134.8
 788474419,Lonicera_caerulea_var._pallasii,56.19227,14.84925
 1697672617,Lonicera_caerulea_var._pallasii,54.14616,35.806605
 1697294723,Lonicera_caerulea_var._pallasii,51.883333,134.416667
@@ -409,7 +401,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697836860,Lonicera_caerulea_var._pallasii,42.764217,43.891239
 1599486962,Lonicera_caerulea_var._pallasii,60.985591,24.429536
 1697294440,Lonicera_caerulea_var._pallasii,62.29073,88.97193
-1697294758,Lonicera_caerulea_var._pallasii,51.5,103.666667
 1697836842,Lonicera_caerulea_var._pallasii,43.284516,42.17351
 1989603693,Lonicera_caerulea_var._pallasii,55.71043,13.19551
 1702223314,Lonicera_caerulea_var._pallasii,60.431,9.2988
@@ -418,7 +409,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697294806,Lonicera_caerulea_var._pallasii,53.483333,96.133333
 2265352907,Lonicera_caerulea_var._pallasii,45.216111,-92.924444
 1697294342,Lonicera_caerulea_var._pallasii,62.38436,89.40014
-1697294675,Lonicera_caerulea_var._pallasii,52.133333,134.3
 1697294626,Lonicera_caerulea_var._pallasii,52.033333,134.35
 1948563991,Lonicera_caerulea_var._pallasii,61.442733,23.047804
 2200610844,Lonicera_caerulea_var._pallasii,38.11924,128.465197
@@ -427,7 +417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599487004,Lonicera_caerulea_var._pallasii,60.141858,23.387099
 1697294737,Lonicera_caerulea_var._pallasii,56.75,128.766667
 1948563853,Lonicera_caerulea_var._pallasii,63.076122,21.724206
-883388642,Lonicera_caerulea_var._pallasii,55.033333,-112.7
 1697294664,Lonicera_caerulea_var._pallasii,55.65,130.733333
 1599486997,Lonicera_caerulea_var._pallasii,60.925921,27.559255
 1697294809,Lonicera_caerulea_var._pallasii,51.126152,85.586071
@@ -436,9 +425,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265353810,Lonicera_caerulea_var._pallasii,46.289663,-94.527456
 2265351910,Lonicera_caerulea_var._pallasii,48.919699,-96.111609
 1697294308,Lonicera_caerulea_var._pallasii,62.38223,89.40224
-1697294767,Lonicera_caerulea_var._pallasii,50.333333,85.3
 1705319792,Lonicera_caerulea_var._pallasii,57.561127,15.086799
-991903605,Lonicera_caerulea_var._pallasii,46.8,10.2
 1697294643,Lonicera_caerulea_var._pallasii,53.833333,130.016667
 1099042136,Lonicera_caerulea_var._pallasii,46.783333,10.116667
 1030901452,Lonicera_caerulea_var._pallasii,32.637983,103.59895
@@ -461,10 +448,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697294604,Lonicera_caerulea_var._pallasii,54.873528,160.865468
 2265353257,Lonicera_caerulea_var._pallasii,48.474658,-95.720625
 1697294650,Lonicera_caerulea_var._pallasii,54.939997,160.852657
-1697294779,Lonicera_caerulea_var._pallasii,50,90
 2265353548,Lonicera_caerulea_var._pallasii,47.186982,-95.668139
 2265353378,Lonicera_caerulea_var._pallasii,47.579109,-95.628954
-1697294782,Lonicera_caerulea_var._pallasii,50,89
 788621804,Lonicera_caerulea_var._pallasii,63.16946,17.28389
 2200610898,Lonicera_caerulea_var._pallasii,38.004094,128.421733
 1697294780,Lonicera_caerulea_var._pallasii,50.25,89.916667
@@ -483,16 +468,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697340632,Lonicera_caerulea_var._pallasii,47.145598,102.014237
 1697294716,Lonicera_caerulea_var._pallasii,57.649583,136.166908
 1697294402,Lonicera_caerulea_var._pallasii,60.74152,89.34547
-1697294769,Lonicera_caerulea_var._pallasii,50.5,96.5
 2265353321,Lonicera_caerulea_var._pallasii,47.491615,-94.469041
 2265351940,Lonicera_caerulea_var._pallasii,49.330728,-95.081536
 2265353637,Lonicera_caerulea_var._pallasii,48.388149,-94.982966
 1697294369,Lonicera_caerulea_var._pallasii,62.337,88.96982
 1697294770,Lonicera_caerulea_var._pallasii,52.058296,93.598623
 1697294863,Lonicera_caerulea_var._pallasii,50.498906,86.576772
-1697294787,Lonicera_caerulea_var._pallasii,50.6,95.016667
 2265352394,Lonicera_caerulea_var._pallasii,48.634075,-95.159144
-991903606,Lonicera_caerulea_var._pallasii,47,10.3
 2200611102,Lonicera_caerulea_var._pallasii,38.048804,128.425603
 2265352197,Lonicera_caerulea_var._pallasii,48.663137,-95.158936
 1697294374,Lonicera_caerulea_var._pallasii,62.28914,88.92379
@@ -524,7 +506,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697294336,Lonicera_caerulea_var._pallasii,67.27434,91.94904
 1697836825,Lonicera_caerulea_var._pallasii,42.795401,43.88978
 1829613425,Lonicera_caerulea_var._pallasii,36.799444,139.374444
-1697294794,Lonicera_caerulea_var._pallasii,51.166667,92
 1697294668,Lonicera_caerulea_var._pallasii,53.921263,127.385471
 2265351917,Lonicera_caerulea_var._pallasii,47.68044,-91.806543
 1230931581,Lonicera_caerulea_var._pallasii,46.98333,10.96667
@@ -555,8 +536,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441778526,Lonicera_caerulea_var._pallasii,46.63778,-114.55222
 57704629,Lonicera_caerulea_var._pallasii,66.266098,29.5562
 1697340707,Lonicera_caerulea_var._pallasii,47.448987,98.560935
-615352987,Lonicera_caerulea_var._pallasii,35.43,69.7
-615352979,Lonicera_caerulea_var._pallasii,35.5,69.82
 1599486964,Lonicera_caerulea_var._pallasii,62.176069,27.811588
 788629744,Lonicera_caerulea_var._pallasii,60.261533,14.980874
 1930111563,Lonicera_caerulea_var._pallasii,46.6819,-114.5591
@@ -597,7 +576,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599487000,Lonicera_caerulea_var._pallasii,61.867739,24.431117
 788612996,Lonicera_caerulea_var._pallasii,60.16414,15.16368
 1598619099,Lonicera_caerulea_var._pallasii,61.169958,25.974984
-786184987,Lonicera_caerulea_var._pallasii,46.6,11
 1999640707,Lonicera_caerulea_var._pallasii,59.960838,23.505513
 388840136,Lonicera_caerulea_var._pallasii,44.910617,142.581926
 1599486960,Lonicera_caerulea_var._pallasii,62.315923,24.392924
@@ -620,7 +598,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697672684,Lonicera_caerulea_var._pallasii,67.48642,36.554525
 1948543235,Lonicera_caerulea_var._pallasii,62.226289,24.400666
 1829903195,Lonicera_caerulea_var._pallasii,44.026667,145.187778
-786184983,Lonicera_caerulea_var._pallasii,46.9,11
 388840228,Lonicera_caerulea_var._pallasii,43.180887,144.963487
 1935701500,Lonicera_caerulea_var._pallasii,46.87187,11.03271
 1697294812,Lonicera_caerulea_var._pallasii,51.317793,87.778702
@@ -652,7 +629,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599487019,Lonicera_caerulea_var._pallasii,61.493121,23.710602
 1999505631,Lonicera_caerulea_var._pallasii,60.314254,23.286666
 1697294628,Lonicera_caerulea_var._pallasii,51.966422,129.338092
-1099042141,Lonicera_caerulea_var._pallasii,44.666668,6.5
 1701911476,Lonicera_caerulea_var._pallasii,60.61076,8.03354
 2265352985,Lonicera_caerulea_var._pallasii,48.218804,-92.915998
 736065528,Lonicera_caerulea_var._pallasii,36.5368,139.03799
@@ -725,7 +701,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303831530,Lonicera_caerulea_var._pallasii,34.568696,105.726028
 788607702,Lonicera_caerulea_var._pallasii,59.61238,16.540739
 51874781,Lonicera_caerulea_var._pallasii,43.1789,-122.1378
-1927989459,Lonicera_caerulea_var._pallasii,48,-85
 788631524,Lonicera_caerulea_var._pallasii,61.79809,16.19164
 1697294683,Lonicera_caerulea_var._pallasii,51.540183,139.932989
 2265352655,Lonicera_caerulea_var._pallasii,46.70466,-92.5248
@@ -767,16 +742,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788630336,Lonicera_caerulea_var._pallasii,59.457031,14.891377
 1224530868,Lonicera_caerulea_var._pallasii,62.094167,32.376667
 1697672550,Lonicera_caerulea_var._pallasii,62.28521,56.145981
-1697294319,Lonicera_caerulea_var._pallasii,51.666667,101.6
-1697672589,Lonicera_caerulea_var._pallasii,58.216667,46.6
-1697294752,Lonicera_caerulea_var._pallasii,52.1,101.633333
 859226,Lonicera_caerulea_var._pallasii,57.63064,14.72214
 1705270332,Lonicera_caerulea_var._pallasii,59.720468,14.159227
 1697672610,Lonicera_caerulea_var._pallasii,58.466667,45.433333
 1697672623,Lonicera_caerulea_var._pallasii,58.25,46.133333
 1697672545,Lonicera_caerulea_var._pallasii,58.85,46.25
 1697672585,Lonicera_caerulea_var._pallasii,58.875,45.916667
-1697672638,Lonicera_caerulea_var._pallasii,58.8,46.733333
 2313467705,Lonicera_caerulea_var._pallasii,48.09,11.55
 1705373734,Lonicera_caerulea_var._pallasii,57.184036,14.048284
 1705287940,Lonicera_caerulea_var._pallasii,61.046906,15.204474
@@ -832,7 +803,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788631182,Lonicera_caerulea_var._pallasii,57.6859,11.93874
 1038996106,Lonicera_caerulea_var._pallasii,41.993,-72.1603
 1931312367,Lonicera_caerulea_var._pallasii,44.801182,-68.777814
-1804436583,Lonicera_caerulea_var._pallasii,45.3999999990569,-75.5
 1657187417,Lonicera_caerulea_var._pallasii,47.025,14.29167
 1697672579,Lonicera_caerulea_var._pallasii,56.343942,37.520348
 415965516,Lonicera_caerulea_var._pallasii,41.80833,-72.24944
