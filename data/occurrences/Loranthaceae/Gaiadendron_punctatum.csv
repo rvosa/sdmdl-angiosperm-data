@@ -36,28 +36,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269772911,Gaiadendron_punctatum,6.046361,-72.992306
 1707693896,Gaiadendron_punctatum,6.773131,-72.624056
 1269773270,Gaiadendron_punctatum,5.944222,-73.105778
-1702530241,Gaiadendron_punctatum,4.640972,-74.032139
 1821672174,Gaiadendron_punctatum,1.521361,-76.936056
 1269773374,Gaiadendron_punctatum,5.940942,-73.101919
 1821672197,Gaiadendron_punctatum,1.703889,-76.827472
-1702530380,Gaiadendron_punctatum,4.63655,-74.033033
 1234755962,Gaiadendron_punctatum,3.537583,-76.077972
 1821674621,Gaiadendron_punctatum,0.977889,-77.292444
-1702530401,Gaiadendron_punctatum,4.647533,-74.030889
-1702530173,Gaiadendron_punctatum,4.63845,-74.03205
 1269773282,Gaiadendron_punctatum,5.944,-73.105222
 1927465715,Gaiadendron_punctatum,1.524861,-76.937194
 1927466726,Gaiadendron_punctatum,1.706528,-76.696
-1702530208,Gaiadendron_punctatum,4.630056,-74.032972
-1702533206,Gaiadendron_punctatum,4.643861,-74.032583
-1702530371,Gaiadendron_punctatum,4.629167,-74.032528
 1269528197,Gaiadendron_punctatum,10.373917,-72.9225
-1702530199,Gaiadendron_punctatum,4.637592,-74.034408
 1702533294,Gaiadendron_punctatum,4.434797,-74.169006
 1258178564,Gaiadendron_punctatum,-6.598611,-77.791944
-1702533251,Gaiadendron_punctatum,4.602583,-74.024717
-1702530387,Gaiadendron_punctatum,4.636936,-74.033878
-1702533793,Gaiadendron_punctatum,4.630806,-74.035472
 1269528189,Gaiadendron_punctatum,10.291361,-72.930361
 1269528176,Gaiadendron_punctatum,10.427194,-72.942528
 2268848436,Gaiadendron_punctatum,-10.550833,-75.345278
@@ -315,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259186319,Gaiadendron_punctatum,-14.9975,-68.443333
 1258993389,Gaiadendron_punctatum,-4.12472,-78.77361
 1707537964,Gaiadendron_punctatum,7.4475,-72.852222
-1098673583,Gaiadendron_punctatum,4.565986,-74.0138
 1259124386,Gaiadendron_punctatum,-14.496667,-68.23
 1259118312,Gaiadendron_punctatum,-14.495833,-68.263889
 1576185905,Gaiadendron_punctatum,5.0613,-75.3813
@@ -347,7 +335,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228400790,Gaiadendron_punctatum,-6.8,-78.88
 1258946451,Gaiadendron_punctatum,-1.36388,-78.12555
 930988430,Gaiadendron_punctatum,6.109722,-75.524444
-1702530392,Gaiadendron_punctatum,4.646667,-74.034722
 930985323,Gaiadendron_punctatum,6.736111,-75.911389
 1258708459,Gaiadendron_punctatum,0.11666,-77.95
 1258655126,Gaiadendron_punctatum,-0.04555,-78.64666
@@ -367,7 +354,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260048866,Gaiadendron_punctatum,10.13333,-84.12083
 1099635120,Gaiadendron_punctatum,0.85652,-77.42121
 1099634462,Gaiadendron_punctatum,1.16236,-77.15627
-1421408866,Gaiadendron_punctatum,9.521389,-77.025833
 1253662528,Gaiadendron_punctatum,9.693092,-83.867722
 1260048872,Gaiadendron_punctatum,9.69305,-83.8675
 45216891,Gaiadendron_punctatum,9.69,-83.86
@@ -732,7 +718,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228333429,Gaiadendron_punctatum,6,-77
 1261442685,Gaiadendron_punctatum,-3.91666,-79.15
 47770522,Gaiadendron_punctatum,-3.916,-79.15
-1898893233,Gaiadendron_punctatum,4.607222,-74.054722
 1259000704,Gaiadendron_punctatum,5.61666,-75.81666
 931008622,Gaiadendron_punctatum,5.616667,-75.816667
 1260419686,Gaiadendron_punctatum,-2.88333,-78.76666
@@ -892,7 +877,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47770455,Gaiadendron_punctatum,-1.183,-78.2
 1261442569,Gaiadendron_punctatum,-1.18333,-78.2
 1261442326,Gaiadendron_punctatum,-10.65,-75.61666
-1261442074,Gaiadendron_punctatum,10.5425,-66.873889
 1259667788,Gaiadendron_punctatum,8.81194,-82.52888
 931001467,Gaiadendron_punctatum,6.7382,-75.623454
 1261439766,Gaiadendron_punctatum,9.033333,-82.816667
@@ -913,7 +897,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47770024,Gaiadendron_punctatum,-2.833,-79.333
 1261444197,Gaiadendron_punctatum,-13.21666,-71.58333
 1260419759,Gaiadendron_punctatum,10.4,-67.33333
-1936441993,Gaiadendron_punctatum,10.0833,-4.0833
 1890963133,Gaiadendron_punctatum,5.46371,-73.138023
 45213713,Gaiadendron_punctatum,9.56,-83.7
 1259970838,Gaiadendron_punctatum,0.66666,-77.58333
@@ -1094,10 +1077,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 930984796,Gaiadendron_punctatum,4.53958,-74.33398
 1456304647,Gaiadendron_punctatum,5.81,-63.66
 1456277791,Gaiadendron_punctatum,5.91,-62.53
-1098673666,Gaiadendron_punctatum,4.599483,-74.075833
 1934722809,Gaiadendron_punctatum,4.689722,-74.02
 1898866530,Gaiadendron_punctatum,7.108076,-72.991368
-1098673652,Gaiadendron_punctatum,4.641854,-74.050641
 2013768158,Gaiadendron_punctatum,6.5975,-75.422401
 1314990526,Gaiadendron_punctatum,6.6,-75.4
 1314990538,Gaiadendron_punctatum,6.5975,-75.4224
