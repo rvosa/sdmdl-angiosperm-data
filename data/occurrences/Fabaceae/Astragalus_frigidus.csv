@@ -206,7 +206,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323734514,Astragalus_frigidus,69.0979,18.2115
 1323787990,Astragalus_frigidus,68.2125,18.1384
 1323790204,Astragalus_frigidus,68.2821,17.4341
-1340036511,Astragalus_frigidus,69.95,27.3
 1701288023,Astragalus_frigidus,62.5819,9.9051
 1340038670,Astragalus_frigidus,69.766667,29.416667
 1701765102,Astragalus_frigidus,62.9057,10.781
@@ -691,7 +690,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701238694,Astragalus_frigidus,62.7475,9.323
 1702348556,Astragalus_frigidus,69.9498,25.0265
 1702348524,Astragalus_frigidus,70.6306,26.0004
-1702008322,Astragalus_frigidus,61.5,8.7905
 1701689498,Astragalus_frigidus,70.3636,25.6268
 1701879060,Astragalus_frigidus,61.4876,8.9578
 1702297271,Astragalus_frigidus,68.9355,17.9428
@@ -735,7 +733,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323708478,Astragalus_frigidus,66.43901,14.34921
 1702297298,Astragalus_frigidus,66.1929,14.5005
 1323695890,Astragalus_frigidus,69.4953,20.81484
-1702054038,Astragalus_frigidus,62.4,10.9928
 1702297524,Astragalus_frigidus,68.5803,18.5826
 1702297248,Astragalus_frigidus,62.37113,11.08509
 1705381737,Astragalus_frigidus,63.317131,12.097943
@@ -760,7 +757,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701689501,Astragalus_frigidus,69.8627,23.1346
 1702348112,Astragalus_frigidus,69.5272,23.7163
 1702053938,Astragalus_frigidus,62.5944,10.2268
-1702347991,Astragalus_frigidus,69.6,23.6484
 1323695802,Astragalus_frigidus,69.5412,23.6796
 1702348436,Astragalus_frigidus,69.6985,29.3506
 1340041485,Astragalus_frigidus,68.905,27.030278
