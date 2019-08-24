@@ -16,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324016211,Cochlearia_danica,58.0612,7.9772
 1946995711,Cochlearia_danica,48.24,12.88
 1702319863,Cochlearia_danica,59.179,10.4848
-1946995595,Cochlearia_danica,47.77,12.9
 1702319836,Cochlearia_danica,59.0511,10.4472
 1702319930,Cochlearia_danica,59.0725,10.525
 1702319869,Cochlearia_danica,59.0506,10.4592
@@ -39,7 +38,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2307288143,Cochlearia_danica,51.49,-3.18
 1999630771,Cochlearia_danica,60.336383,20.299235
 1342352846,Cochlearia_danica,56.124245,12.2559
-1095900741,Cochlearia_danica,54,12
 1342352718,Cochlearia_danica,55.008872,10.820445
 1342352276,Cochlearia_danica,56.720019,8.598373
 1342352605,Cochlearia_danica,55.026601,10.836895
@@ -597,7 +595,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788488741,Cochlearia_danica,56.00007,14.64083
 1705395674,Cochlearia_danica,57.730419,16.728398
 1936437524,Cochlearia_danica,42.5404,-9.0014
-211623852,Cochlearia_danica,42.540001,-9
 1851349317,Cochlearia_danica,42.59,-8.94
 2308901799,Cochlearia_danica,52.41,-4.09
 186802905,Cochlearia_danica,58.1484,8.2092
@@ -732,7 +729,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099889087,Cochlearia_danica,58.16631,11.48223
 1702390271,Cochlearia_danica,59.0829,11.059
 1999562020,Cochlearia_danica,60.392358,20.706205
-1702015322,Cochlearia_danica,59.3,10.6664
 1099880292,Cochlearia_danica,56.44196,12.56199
 1099893775,Cochlearia_danica,57.616486,11.783159
 1705330593,Cochlearia_danica,56.195001,16.39805
