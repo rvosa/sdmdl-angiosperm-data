@@ -67,7 +67,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900310705,Malus_orientalis,58.9167,6.1712
 900310713,Malus_orientalis,59.0135,6.4252
 900307822,Malus_orientalis,58.9018,6.158
-1842872344,Malus_orientalis,42.6,-5.542
 900308091,Malus_orientalis,58.8949,6.2249
 900314717,Malus_orientalis,58.8953,6.1604
 900310837,Malus_orientalis,58.8947,6.2259
@@ -106,8 +105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702373720,Malus_orientalis,59.5059,10.6499
 1050655023,Malus_orientalis,42.26,-2.93
 1702177402,Malus_orientalis,59.5058,10.65
-1144727627,Malus_orientalis,42.5,8.96667
-1144727652,Malus_orientalis,42.4,9.35
 1050652556,Malus_orientalis,42.81,-2.62
 2321622851,Malus_orientalis,59.785564,10.789288
 1702028599,Malus_orientalis,59.7103,10.5092
@@ -179,9 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900317229,Malus_orientalis,59.033,11.0227
 900317259,Malus_orientalis,59.0327,11.0225
 900307470,Malus_orientalis,59.4473,10.4314
-1230975476,Malus_orientalis,48.1,20.51611
-986393809,Malus_orientalis,50.116667,20.7
-1050649049,Malus_orientalis,42.8,-2.57
 900318192,Malus_orientalis,58.4454,7.5141
 1701132397,Malus_orientalis,43.420422,10.599424
 1705467817,Malus_orientalis,59.503663,17.588633
@@ -316,7 +310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211647565,Malus_orientalis,38.483,-2.41
 211647566,Malus_orientalis,38.482,-2.352
 1342681178,Malus_orientalis,55.048634,9.444811
-1050643443,Malus_orientalis,41.69,-1.8
 1342681541,Malus_orientalis,55.25758,12.095622
 1342681135,Malus_orientalis,55.912066,9.022705
 1342681438,Malus_orientalis,55.264982,11.571948
@@ -382,7 +375,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851345008,Malus_orientalis,42.89076,-5.53968
 1949940046,Malus_orientalis,43.611111,22.680556
 1342681311,Malus_orientalis,57.316326,10.252183
-786252570,Malus_orientalis,49.6,9.6
 1342681381,Malus_orientalis,56.304442,10.719948
 1342681127,Malus_orientalis,55.301037,9.06961
 1342681216,Malus_orientalis,55.200216,9.697877
@@ -451,7 +443,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342681331,Malus_orientalis,56.319207,10.23553
 1702073372,Malus_orientalis,59.4463,10.4576
 893477745,Malus_orientalis,40.599998,44.633331
-1230972342,Malus_orientalis,40.6,44.63333
 1702185801,Malus_orientalis,59.53,10.3118
 1342681422,Malus_orientalis,55.626983,11.452634
 1230972382,Malus_orientalis,40.58333,44.96667
@@ -507,7 +498,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050626226,Malus_orientalis,42.67,-2.45
 1936607863,Malus_orientalis,40.037,-5.0056
 1697533450,Malus_orientalis,55.366667,31.95
-1697533377,Malus_orientalis,55.5,31.783333
 1342681122,Malus_orientalis,56.442087,9.136553
 1936642761,Malus_orientalis,42.868,-4.1399
 1342681271,Malus_orientalis,56.311869,10.057473
@@ -525,23 +515,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342681158,Malus_orientalis,55.506783,9.481626
 1050627914,Malus_orientalis,42.66,-2.46
 1342681263,Malus_orientalis,56.467023,9.720933
-1050627614,Malus_orientalis,41.93,-1.8
 1342681467,Malus_orientalis,55.604388,11.673513
 1342681130,Malus_orientalis,55.282741,9.289988
 1342681375,Malus_orientalis,55.309866,11.574853
 1050628027,Malus_orientalis,41.79,-1.81
 1342681226,Malus_orientalis,55.586924,9.641259
 1342681280,Malus_orientalis,56.33024,10.009462
-1050622610,Malus_orientalis,41.8,-1.79
 1936642748,Malus_orientalis,42.7978,-3.9429
 1342681154,Malus_orientalis,55.372337,9.385317
 1342681191,Malus_orientalis,55.335866,9.526845
-1050623224,Malus_orientalis,41.8,-1.81
 1936643114,Malus_orientalis,43.0323,-3.8974
 1701829429,Malus_orientalis,62.5871,7.4434
 1342681219,Malus_orientalis,54.877718,9.489684
 1936551785,Malus_orientalis,40.25,-0.35
-1050623729,Malus_orientalis,42.7,-2.48
 1936566800,Malus_orientalis,42.7015,-2.4885
 1342681499,Malus_orientalis,55.485243,11.776248
 1342681489,Malus_orientalis,55.892296,11.661295
@@ -598,7 +584,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342681436,Malus_orientalis,55.196986,11.378985
 1342681352,Malus_orientalis,56.279637,10.557303
 1342681206,Malus_orientalis,55.685124,9.754201
-895247038,Malus_orientalis,40.66,0.1
 1342681317,Malus_orientalis,56.362029,10.43116
 1342681339,Malus_orientalis,57.262925,10.20063
 1342681307,Malus_orientalis,55.880674,10.045722
@@ -630,11 +615,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936643221,Malus_orientalis,43.2274,-4.2204
 1851379927,Malus_orientalis,43.043,-5.02
 1851372674,Malus_orientalis,43.033,-5.068
-1053986442,Malus_orientalis,42.7,-1.07
 1342681354,Malus_orientalis,56.432719,10.53112
 1342681413,Malus_orientalis,55.336128,11.608098
 1936576099,Malus_orientalis,41.8085,-5.9747
-317823048,Malus_orientalis,41.5,1.62
 1342681209,Malus_orientalis,56.503866,9.542923
 1342681215,Malus_orientalis,55.497669,9.513173
 1702005964,Malus_orientalis,59.8692,10.2412
@@ -676,7 +659,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342681513,Malus_orientalis,55.594724,12.293
 1701137118,Malus_orientalis,42.411119,11.145667
 1699946991,Malus_orientalis,40.716665,8.595707
-786187181,Malus_orientalis,54.1,13.4
 1342681453,Malus_orientalis,55.651673,12.034697
 1668934849,Malus_orientalis,54.898,37.564
 29698510,Malus_orientalis,40.49,-0.35
@@ -696,7 +678,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442675294,Malus_orientalis,43.78336,6.95531
 1936546835,Malus_orientalis,43.1037,-4.7341
 1144219836,Malus_orientalis,60.2521,5.2678
-1269707850,Malus_orientalis,41.400002,-74
 1697533603,Malus_orientalis,54.719951,46.032841
 1705341147,Malus_orientalis,57.316047,15.581175
 1702128505,Malus_orientalis,59.8409,10.2401
@@ -704,11 +685,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211630979,Malus_orientalis,42.66,-3.11
 1342681098,Malus_orientalis,55.404112,12.211265
 1342681075,Malus_orientalis,55.418577,11.534515
-1144727637,Malus_orientalis,42.5,9
 1702150793,Malus_orientalis,59.702,10.6259
 1599699962,Malus_orientalis,60.737656,26.49279
 1701933596,Malus_orientalis,60.4567,11.1953
-30970620,Malus_orientalis,42.7,-3.32
 1701136622,Malus_orientalis,43.595669,10.322591
 1697533475,Malus_orientalis,55.563311,37.584767
 1701341389,Malus_orientalis,63.5808,10.6216
@@ -721,7 +700,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701313256,Malus_orientalis,63.5719,10.6211
 1705395886,Malus_orientalis,57.94819,16.328686
 1851398137,Malus_orientalis,42.804,-4.755
-29698168,Malus_orientalis,40.3,-0.23
 1851411481,Malus_orientalis,42.823,-4.707
 1697533513,Malus_orientalis,55.556339,37.586341
 1599700001,Malus_orientalis,60.257122,24.739081
@@ -738,7 +716,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947302175,Malus_orientalis,50.09,10.59
 1053986049,Malus_orientalis,43.27,-1.77
 1705324035,Malus_orientalis,57.59704,15.08609
-1050593046,Malus_orientalis,42.69,-2.5
 575038770,Malus_orientalis,37.566667,43.616667
 1701136609,Malus_orientalis,43.537226,10.412572
 1697731731,Malus_orientalis,44.844858,34.802912
@@ -755,10 +732,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702296626,Malus_orientalis,59.5928,10.0184
 1050593049,Malus_orientalis,43.04,-2.69
 1806555579,Malus_orientalis,42.850942,-1.743477
-1804601124,Malus_orientalis,45.3,-75.55
 1702296837,Malus_orientalis,61.1727,6.8992
 1144080219,Malus_orientalis,60.56901,5.51371
-1947302035,Malus_orientalis,50.18,10.8
 1697533309,Malus_orientalis,55.572999,37.576462
 1701317406,Malus_orientalis,63.4726,10.7962
 1851369501,Malus_orientalis,42.92,-5.39
@@ -796,7 +771,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 731423588,Malus_orientalis,46.08404,6.72817
 1697795418,Malus_orientalis,44.652536,37.939568
 768788965,Malus_orientalis,41.80583,-72.21666
-1050593014,Malus_orientalis,42.8,-2.7
 1697533438,Malus_orientalis,55.205601,39.099136
 1697731729,Malus_orientalis,44.844239,34.955441
 1697533510,Malus_orientalis,55.416173,38.669509
@@ -866,10 +840,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638408856,Malus_orientalis,47.09333,15.4225
 1434769326,Malus_orientalis,41.700855,-7.466633
 57706542,Malus_orientalis,62.6054,25.9256
-1804465466,Malus_orientalis,47.75,-85.9
 1697731779,Malus_orientalis,44.942931,35.217362
 1322531712,Malus_orientalis,38.3214,-76.4608
-575028641,Malus_orientalis,35.5,46.4
 1705388292,Malus_orientalis,58.334678,16.731111
 1697731698,Malus_orientalis,44.86463,34.341373
 1697731762,Malus_orientalis,44.640659,34.380276
@@ -902,7 +874,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697795312,Malus_orientalis,44.785917,37.423296
 1144080104,Malus_orientalis,59.53317,6.54486
 1702222811,Malus_orientalis,58.1844,6.7977
-1702019100,Malus_orientalis,60.7685,10.9
 1144080114,Malus_orientalis,58.3411,7.85253
 1697731700,Malus_orientalis,44.490551,34.095372
 1697731724,Malus_orientalis,45.0278,34.767265
@@ -963,7 +934,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 474819283,Malus_orientalis,48.45596,2.68407
 474819284,Malus_orientalis,48.45587,2.68397
 442657021,Malus_orientalis,48.73054,1.80101
-1893209172,Malus_orientalis,49.8,6.43
 1697731711,Malus_orientalis,44.549689,34.216983
 1701652380,Malus_orientalis,59.3133,10.8181
 1702296694,Malus_orientalis,58.6343,6.0887
@@ -1169,7 +1139,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437849794,Malus_orientalis,47.84049,-0.33342
 437849795,Malus_orientalis,47.76703,-0.32431
 1702296811,Malus_orientalis,59.6993,5.3743
-1144565913,Malus_orientalis,42.03333,9.2
 1840909738,Malus_orientalis,55.57698,14.11321
 1705341192,Malus_orientalis,57.482311,15.92191
 1638409761,Malus_orientalis,47.225,15.375
