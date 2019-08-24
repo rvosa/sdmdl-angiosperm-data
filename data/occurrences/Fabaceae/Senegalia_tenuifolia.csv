@@ -5,7 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2252465660,Senegalia_tenuifolia,-19.548333,-43.9925
 2332648850,Senegalia_tenuifolia,-16.272222,-47.038611
 1987023874,Senegalia_tenuifolia,-17.526944,-39.616944
-2243140883,Senegalia_tenuifolia,-29.2607,-15.105548
 1638342106,Senegalia_tenuifolia,-8.335833,-35.914167
 2027483555,Senegalia_tenuifolia,-7.741111,-35.180556
 1949967849,Senegalia_tenuifolia,-14.698889,-56.345833
@@ -54,7 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087695767,Senegalia_tenuifolia,-10.491944,-37.193056
 1094785504,Senegalia_tenuifolia,-7.225833,-39.078889
 1094928433,Senegalia_tenuifolia,-5.141389,-40.915556
-1585336426,Senegalia_tenuifolia,-7.225833,-3.078889
 2350290900,Senegalia_tenuifolia,-6.690833,-38.440833
 1587326625,Senegalia_tenuifolia,-14.066666,-46.488055
 1087694544,Senegalia_tenuifolia,-10.68851,-37.1353
@@ -64,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1252590831,Senegalia_tenuifolia,-7.164167,-38.436389
 1252590839,Senegalia_tenuifolia,-7.033333,-38.309444
 1090913797,Senegalia_tenuifolia,-7.035083,-38.602611
-1901020742,Senegalia_tenuifolia,-20.223333,-40.228889
 1087706364,Senegalia_tenuifolia,-13.919444,-39.468333
 1089193809,Senegalia_tenuifolia,-9.261647,-36.42854
 2331567838,Senegalia_tenuifolia,-19.15,-40.05
@@ -166,7 +163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424376096,Senegalia_tenuifolia,-6.333889,-38.471667
 1099326967,Senegalia_tenuifolia,-6.365556,-39.232778
 1099326953,Senegalia_tenuifolia,-6.366667,-39.24
-1424314175,Senegalia_tenuifolia,-3.225556,-33.609722
 1099326946,Senegalia_tenuifolia,-6.356944,-39.224444
 1090904696,Senegalia_tenuifolia,-7.697311,-38.998022
 1099326940,Senegalia_tenuifolia,-6.366389,-39.233333
@@ -209,7 +205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077236809,Senegalia_tenuifolia,-11.894722,-42.048056
 1077323543,Senegalia_tenuifolia,-19.100556,-57.696389
 1077388952,Senegalia_tenuifolia,-26.910278,-51.299167
-1087074959,Senegalia_tenuifolia,7.785653,-11.833333
 1089101762,Senegalia_tenuifolia,-23.351111,-44.852222
 1123816487,Senegalia_tenuifolia,-18.776944,-40.443889
 1042701330,Senegalia_tenuifolia,-7.791111,-35.02
@@ -245,7 +240,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257848625,Senegalia_tenuifolia,10.209139,-85.196417
 1094839184,Senegalia_tenuifolia,-13.281111,-43.2175
 1095243403,Senegalia_tenuifolia,-12.831111,-48.228333
-1087068968,Senegalia_tenuifolia,-4.832472,-9.103614
 1095246814,Senegalia_tenuifolia,-13.155555,-48.323611
 1260903643,Senegalia_tenuifolia,-12.64166,-72.82916
 1094844140,Senegalia_tenuifolia,-13.401667,-44.198056
@@ -279,7 +273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260187254,Senegalia_tenuifolia,-14.2125,-68.662778
 2288856253,Senegalia_tenuifolia,4.733333,-56.783333
 1260239075,Senegalia_tenuifolia,-14.594444,-68.688889
-1094812077,Senegalia_tenuifolia,-20.381944,-20.384722
 1089084738,Senegalia_tenuifolia,-19.08825,-57.490417
 1077219610,Senegalia_tenuifolia,-10.5,-39
 1095237105,Senegalia_tenuifolia,-12.885277,-47.583888
@@ -297,7 +290,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089083379,Senegalia_tenuifolia,-19.965972,-57.624028
 1089169762,Senegalia_tenuifolia,-6.820278,-35.632778
 1087238995,Senegalia_tenuifolia,-16.636111,-46.743056
-1257592458,Senegalia_tenuifolia,15.977389,-96.116583
 1089083469,Senegalia_tenuifolia,-19.2405,-57.846917
 1089083578,Senegalia_tenuifolia,-19.102625,-57.501972
 1089083593,Senegalia_tenuifolia,-19.086917,-57.493694
@@ -477,7 +469,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438973104,Senegalia_tenuifolia,2.81667,-59.51667
 1456021733,Senegalia_tenuifolia,2.81,-59.51
 437973810,Senegalia_tenuifolia,2.88333,-59.71667
-1259857860,Senegalia_tenuifolia,16.698055,-95.039722
 1456426557,Senegalia_tenuifolia,2.88,-59.71
 1930927375,Senegalia_tenuifolia,-19.9246081193028,-43.9380145595816
 2268827479,Senegalia_tenuifolia,10.166667,-85.366667
@@ -508,7 +499,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1213585232,Senegalia_tenuifolia,-12.766667,-39.316667
 1929373576,Senegalia_tenuifolia,10.08,-70.33
 44044155,Senegalia_tenuifolia,10.31,-84.71
-1989310972,Senegalia_tenuifolia,21.8325,-104.704
 44043843,Senegalia_tenuifolia,10.27,-85.13
 1931068642,Senegalia_tenuifolia,-22.483,-42.883
 2243329339,Senegalia_tenuifolia,-7.838333,-38.101389
@@ -538,7 +528,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261925782,Senegalia_tenuifolia,-13.583333,-68.766667
 1258231563,Senegalia_tenuifolia,-14.91666,-68.33333
 1258242626,Senegalia_tenuifolia,-14.566667,-68.466667
-1989088094,Senegalia_tenuifolia,22.6451,-103.955
 1930161892,Senegalia_tenuifolia,-13.0405629163234,-46.7720917445959
 1563255222,Senegalia_tenuifolia,-12.83,-69.28
 1260079162,Senegalia_tenuifolia,-12.83333,-69.33333
@@ -555,7 +544,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077311300,Senegalia_tenuifolia,-19.233333,-57.383333
 1261907428,Senegalia_tenuifolia,9.5,-75.366667
 1563247671,Senegalia_tenuifolia,-16.82,-67.25
-1258202185,Senegalia_tenuifolia,21.65,-104.816667
 1253689110,Senegalia_tenuifolia,10.191667,-83.816667
 44043638,Senegalia_tenuifolia,10.26,-84.83
 1253702414,Senegalia_tenuifolia,10.266667,-84.833333
@@ -568,8 +556,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253702557,Senegalia_tenuifolia,10.316667,-84.716667
 44043650,Senegalia_tenuifolia,10.33,-84.7
 1253702587,Senegalia_tenuifolia,10.333333,-84.7
-47717155,Senegalia_tenuifolia,-2.75,-79.916
-1260018581,Senegalia_tenuifolia,-2.75,-79.91666
 1258262396,Senegalia_tenuifolia,-14.8,-64.88333
 1087343855,Senegalia_tenuifolia,-10,-62.983333
 912642513,Senegalia_tenuifolia,-10,-62.98
@@ -585,13 +571,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930815209,Senegalia_tenuifolia,3.58,-53.2
 1456097618,Senegalia_tenuifolia,3.66667,-53.1667
 1927874334,Senegalia_tenuifolia,3.62,-53.2167
-1258214882,Senegalia_tenuifolia,-2.8,-80
 437308758,Senegalia_tenuifolia,1,-51.66667
 1089289243,Senegalia_tenuifolia,1,-51.666667
 1260234448,Senegalia_tenuifolia,3.583333,-61.833333
-47717497,Senegalia_tenuifolia,-2.716,-79.916
-1258214983,Senegalia_tenuifolia,-2.719167,-79.950556
-1259553983,Senegalia_tenuifolia,16.283333,-95.5
 1257583577,Senegalia_tenuifolia,-4.816667,-52.516667
 1261498334,Senegalia_tenuifolia,-25.46666,-54.7
 1260237534,Senegalia_tenuifolia,3.4,-61.43333
@@ -607,7 +589,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912140266,Senegalia_tenuifolia,-7.25,-39.83
 1090436915,Senegalia_tenuifolia,-12.716667,-40.116667
 1228471767,Senegalia_tenuifolia,-2,-80
-1259533921,Senegalia_tenuifolia,14.584167,-86.642778
 1261886331,Senegalia_tenuifolia,-12.81666,-69.71666
 1090439766,Senegalia_tenuifolia,-12.25,-38.966667
 1042664583,Senegalia_tenuifolia,-16.616667,-56.83
@@ -628,7 +609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042471621,Senegalia_tenuifolia,-6.833333,-55.5
 1929566718,Senegalia_tenuifolia,-4.27951988586984,-55.984260462155
 1095193025,Senegalia_tenuifolia,-11.28333,-44.8
-1423972269,Senegalia_tenuifolia,-11.283333,-4.735555
 1423977862,Senegalia_tenuifolia,-11.783333,-44.916667
 1258308485,Senegalia_tenuifolia,-8.71666,-75.01666
 1563314972,Senegalia_tenuifolia,-0.83,-51.75
@@ -648,7 +628,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258300102,Senegalia_tenuifolia,7.583333,-63.116667
 1042660999,Senegalia_tenuifolia,-0.916667,-54.43
 1927827678,Senegalia_tenuifolia,-0.916667,-54.433333
-1989231331,Senegalia_tenuifolia,19.3877,-104.652
 1930336497,Senegalia_tenuifolia,-11.13,-40.42
 1270110396,Senegalia_tenuifolia,-11.133333,-40.416667
 1456080068,Senegalia_tenuifolia,4.75,-57.5
@@ -663,27 +642,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260236415,Senegalia_tenuifolia,-4.433333,-44.966667
 1423973689,Senegalia_tenuifolia,-10,-67.833333
 1042581273,Senegalia_tenuifolia,-10,-67.83
-1928343027,Senegalia_tenuifolia,-15.7834208090807,-47.9298726661488
 912140289,Senegalia_tenuifolia,-14,-39
 1423971438,Senegalia_tenuifolia,-3.75,-46.083333
 1042539561,Senegalia_tenuifolia,-3.75,-46.08
 1095188838,Senegalia_tenuifolia,-17.86667,-57.53333
-606660316,Senegalia_tenuifolia,17.51666,-91.96666
 1258262309,Senegalia_tenuifolia,7.71666,-72.38333
 1930927888,Senegalia_tenuifolia,-9.97824239230237,-67.8116845297752
 1423972271,Senegalia_tenuifolia,-12.794167,-40.791667
 1930705135,Senegalia_tenuifolia,-3.8794,-80.0906
 1228282244,Senegalia_tenuifolia,-12,-70.25
-1930148044,Senegalia_tenuifolia,16.24131,-97.79803
 1890914482,Senegalia_tenuifolia,7.46301,-75.29194
-1930538466,Senegalia_tenuifolia,15.75039,-96.2794
-1929242543,Senegalia_tenuifolia,15.94781,-97.1878
-1928165114,Senegalia_tenuifolia,15.72325,-96.64406
-1929575189,Senegalia_tenuifolia,16.55781,-98.15703
 1930779410,Senegalia_tenuifolia,-10.69481,-58.814385
 1258261696,Senegalia_tenuifolia,-16.1389,-41.4248
-2270472734,Senegalia_tenuifolia,16.866667,-96.383333
-1846507178,Senegalia_tenuifolia,17.167778,-95.1075
 1258553371,Senegalia_tenuifolia,8.03333,-77.68333
 1258262321,Senegalia_tenuifolia,8.08333,-62.38333
 2243329381,Senegalia_tenuifolia,-9.161944,-40.970833
@@ -694,8 +664,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 44042467,Senegalia_tenuifolia,9.93,-84.18
 912642589,Senegalia_tenuifolia,-15.5,-44.5
 1929198257,Senegalia_tenuifolia,3.67,-53.2333
-1258553417,Senegalia_tenuifolia,16.334167,-93.883056
-1928112605,Senegalia_tenuifolia,16.3333,-93.8667
 1042601955,Senegalia_tenuifolia,1.37076,-63.4
 2288323178,Senegalia_tenuifolia,3.333333,-63.4
 1929194619,Senegalia_tenuifolia,-14.7094988953584,-47.5248438047386
@@ -723,11 +691,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257565883,Senegalia_tenuifolia,8.266667,-77.733333
 1929554669,Senegalia_tenuifolia,-21.2641210648655,-48.6805388116424
 1258345223,Senegalia_tenuifolia,-2.083333,-79.966667
-1989195232,Senegalia_tenuifolia,21.7181,-104.903
 2290540608,Senegalia_tenuifolia,2.783333,-52.45
-1930107173,Senegalia_tenuifolia,21.78108,-100.61081
 1259553574,Senegalia_tenuifolia,7.9,-77.4
-1988831602,Senegalia_tenuifolia,21.4054,-105.181
 1089144971,Senegalia_tenuifolia,-7.230833,-35.881111
 1042590110,Senegalia_tenuifolia,-1.75,-48.85
 1258261704,Senegalia_tenuifolia,8.35,-77.366667
@@ -736,13 +701,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089144604,Senegalia_tenuifolia,-6.95,-35.544722
 1928748853,Senegalia_tenuifolia,-19.5432030511092,-40.630590715126
 1090536637,Senegalia_tenuifolia,-21.220292,-48.901072
-473274466,Senegalia_tenuifolia,22.132364,-80.337979
 1090535867,Senegalia_tenuifolia,-23.4339,-45.0711
 1456092408,Senegalia_tenuifolia,3.35,-59.8
 1090535247,Senegalia_tenuifolia,-21.218542,-48.902742
 1456377517,Senegalia_tenuifolia,2.5,-59.48
 1090531802,Senegalia_tenuifolia,-22.870251,-47.077171
-1258202192,Senegalia_tenuifolia,16.882778,-99.849444
 1260236333,Senegalia_tenuifolia,-7.5,-70.25
 1258299608,Senegalia_tenuifolia,-22.56666,-55.61666
 1090555543,Senegalia_tenuifolia,-22.9056,-47.0608
@@ -750,6 +713,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928640761,Senegalia_tenuifolia,-20.766686,-42.860644
 1929706914,Senegalia_tenuifolia,-20.758024038568,-42.8818438826343
 1929096751,Senegalia_tenuifolia,-20.761343,-42.868031
-473274469,Senegalia_tenuifolia,21.934241,-79.442911
 1930490072,Senegalia_tenuifolia,-22.6438537458491,-44.5699620474902
 1456096828,Senegalia_tenuifolia,4.71,-56.2
