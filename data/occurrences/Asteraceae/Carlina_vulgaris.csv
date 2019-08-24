@@ -5,7 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844879243,Carlina_vulgaris,39.834721,21.19083
 1844879132,Carlina_vulgaris,40.875,21.89139
 1844879287,Carlina_vulgaris,40.672218,21.965281
-1842843890,Carlina_vulgaris,41.41,2.1
 1844879327,Carlina_vulgaris,39.788609,21.21583
 1881895296,Carlina_vulgaris,57.839715,27.5998
 1844879284,Carlina_vulgaris,39.761391,21.183331
@@ -73,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838993970,Carlina_vulgaris,40.03278,21.216391
 1838994189,Carlina_vulgaris,40.014172,21.3125
 1838994136,Carlina_vulgaris,39.514172,20.613609
-1838993972,Carlina_vulgaris,40.6325,21.4
 1838993921,Carlina_vulgaris,39.512779,20.25222
 1838993896,Carlina_vulgaris,40.78278,21.34972
 1830976166,Carlina_vulgaris,48.00944,16.30444
@@ -101,7 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 864886797,Carlina_vulgaris,40.461109,46.333889
 1830974202,Carlina_vulgaris,48.12222,16.25167
 1702559795,Carlina_vulgaris,59.8286,10.5118
-1881100229,Carlina_vulgaris,49,10.5
 1936219368,Carlina_vulgaris,40.5063,-1.8783
 1342308237,Carlina_vulgaris,56.566008,8.307098
 1851388100,Carlina_vulgaris,42.762176,-4.256659
@@ -118,12 +115,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702240735,Carlina_vulgaris,59.5024,10.6473
 1576193024,Carlina_vulgaris,40.753751,-3.997294
 1701656155,Carlina_vulgaris,59.5025,10.6473
-1050643711,Carlina_vulgaris,41.68,-1.8
 1342308403,Carlina_vulgaris,55.470177,11.189722
 1701456630,Carlina_vulgaris,59.8115,10.4265
 1342308224,Carlina_vulgaris,55.337467,12.452521
 1230540270,Carlina_vulgaris,45.475,13.96472
-883397331,Carlina_vulgaris,50.033333,19.9
 1701637488,Carlina_vulgaris,59.5024,10.647
 1342308217,Carlina_vulgaris,55.255347,12.394827
 883386651,Carlina_vulgaris,50.030556,19.683333
@@ -164,7 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342308313,Carlina_vulgaris,56.05338,9.777426
 1342308231,Carlina_vulgaris,57.025507,8.611556
 296438910,Carlina_vulgaris,46.89,12.649722
-1697481730,Carlina_vulgaris,54.75,35.4
 1935660834,Carlina_vulgaris,47.18139,14.43806
 1935660855,Carlina_vulgaris,47.11139,14.37611
 1135438283,Carlina_vulgaris,47.75,16.83333
@@ -206,10 +200,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788668976,Carlina_vulgaris,55.52232,12.91299
 296438864,Carlina_vulgaris,47.134,9.954
 1050625872,Carlina_vulgaris,42.75,-2.51
-1050627610,Carlina_vulgaris,41.7,-1.8
 1050627444,Carlina_vulgaris,41.72,-1.78
 1050627911,Carlina_vulgaris,42.71,-2.54
-1050627628,Carlina_vulgaris,41.93,-1.8
 1881100261,Carlina_vulgaris,48.81,10.72
 1050627549,Carlina_vulgaris,41.76,-1.79
 1050625868,Carlina_vulgaris,42.68,-2.44
@@ -218,11 +210,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946864195,Carlina_vulgaris,50.17,9.87
 1050628040,Carlina_vulgaris,41.72,-1.67
 1936643321,Carlina_vulgaris,43.0105,-4.2897
-1050624736,Carlina_vulgaris,41.7,-1.74
 1342308472,Carlina_vulgaris,55.82808,12.276804
 1831517179,Carlina_vulgaris,45.315,14.17833
 1050624598,Carlina_vulgaris,41.78,-1.81
-895228980,Carlina_vulgaris,41.41,-1.5
 1851320195,Carlina_vulgaris,42.792,-6.194
 1936553619,Carlina_vulgaris,42.6081,1.5381
 1881106050,Carlina_vulgaris,48.87,10.74
@@ -257,7 +247,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1946864694,Carlina_vulgaris,49.97,9.71
 1697481788,Carlina_vulgaris,54.8294,40.9138
 1342308469,Carlina_vulgaris,55.473337,12.095592
-895246302,Carlina_vulgaris,40.66,0.1
 1851335618,Carlina_vulgaris,43.033,-5.056
 1342308443,Carlina_vulgaris,55.512168,11.778144
 1705282606,Carlina_vulgaris,57.858557,16.48573
@@ -265,7 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342308259,Carlina_vulgaris,56.639552,8.745967
 1342308466,Carlina_vulgaris,55.462462,11.980334
 204423964,Carlina_vulgaris,43.292,-2.316
-895224235,Carlina_vulgaris,40.6,-2
 1697481707,Carlina_vulgaris,58.737755,29.859763
 895296783,Carlina_vulgaris,40.468,-0.588
 1697481733,Carlina_vulgaris,59.873481,29.105896
@@ -293,7 +281,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30853999,Carlina_vulgaris,43.080002,-2.75
 1705340655,Carlina_vulgaris,57.465994,16.035172
 686728,Carlina_vulgaris,57.19368,14.9514
-895296704,Carlina_vulgaris,39.6,-1.08
 1323791082,Carlina_vulgaris,59.9005,10.5462
 1500867963,Carlina_vulgaris,40.02,-0.65
 1697481749,Carlina_vulgaris,56.541694,23.314362
@@ -316,14 +303,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230543250,Carlina_vulgaris,48.60528,20.87722
 860316234,Carlina_vulgaris,42.604,0.5212
 686516,Carlina_vulgaris,57.15643,15.41085
-1500699330,Carlina_vulgaris,40.4,-0.35
 1705292795,Carlina_vulgaris,57.651198,16.475151
 1050642914,Carlina_vulgaris,42.62,-2.33
-1500700867,Carlina_vulgaris,40.75,-0.1
 1705397222,Carlina_vulgaris,57.921926,16.125811
 1288097160,Carlina_vulgaris,50.5954,9.84304
 204423269,Carlina_vulgaris,42.979,-1.51
-1053984114,Carlina_vulgaris,42.7,-1.17
 1099896396,Carlina_vulgaris,56.34799,15.17538
 1050642898,Carlina_vulgaris,42.75,-0.86
 1705397236,Carlina_vulgaris,57.921836,16.159559
@@ -367,7 +351,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230541688,Carlina_vulgaris,48.62139,20.83889
 895296812,Carlina_vulgaris,41.33,-3.06
 1806556850,Carlina_vulgaris,42.927648,-1.810162
-1851329427,Carlina_vulgaris,43,-6.24
 1050617781,Carlina_vulgaris,42.77,-2.57
 1050647913,Carlina_vulgaris,42.87,-2.27
 1936621556,Carlina_vulgaris,43.3455,-1.8786
@@ -384,7 +367,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204423333,Carlina_vulgaris,43.352001,-1.871
 1936523626,Carlina_vulgaris,43.3414,-4.4818
 1050649686,Carlina_vulgaris,43.15,-2.69
-876156478,Carlina_vulgaris,41.68,1.5
 1806556864,Carlina_vulgaris,42.896696,-1.780896
 1806556848,Carlina_vulgaris,42.852578,-1.661392
 1050647843,Carlina_vulgaris,42.81,-3.11
@@ -413,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050647808,Carlina_vulgaris,42.66,-2.29
 1050647779,Carlina_vulgaris,42.57,-2.66
 1050647809,Carlina_vulgaris,43.04,-3.14
-1050647851,Carlina_vulgaris,42.6,-2.45
 204423976,Carlina_vulgaris,42.68,-2.45
 296438902,Carlina_vulgaris,47.25,10.75
 1806554513,Carlina_vulgaris,43.134,-1.703
@@ -443,7 +424,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697481750,Carlina_vulgaris,54.87463,41.482392
 788678277,Carlina_vulgaris,58.647693,16.133967
 1851372601,Carlina_vulgaris,43.01,-5.39
-1260854179,Carlina_vulgaris,50.36666,6.5
 1705872621,Carlina_vulgaris,54.0261,22.9879
 1705872701,Carlina_vulgaris,54.0303,22.2981
 1697481801,Carlina_vulgaris,55.056004,41.187637
@@ -464,7 +444,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289374798,Carlina_vulgaris,50.452,6.102
 1705872672,Carlina_vulgaris,54.0756,23.1846
 1705872573,Carlina_vulgaris,54.0755,23.0561
-1842891844,Carlina_vulgaris,41.5,1.86
 1705872806,Carlina_vulgaris,54.0622,23.2999
 1842891811,Carlina_vulgaris,41.59,1.86
 1053986417,Carlina_vulgaris,42.61,-0.94
@@ -546,7 +525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788668745,Carlina_vulgaris,55.58285,12.92779
 1099915724,Carlina_vulgaris,54.966667,9.866667
 1887172887,Carlina_vulgaris,54.58072,-2.97545
-2313562924,Carlina_vulgaris,49.48,6
 1705368847,Carlina_vulgaris,57.96394,14.892906
 686757,Carlina_vulgaris,57.65848,14.05547
 1702423717,Carlina_vulgaris,59.7192,10.0418
@@ -555,7 +533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697847404,Carlina_vulgaris,42.493365,44.188728
 1697481781,Carlina_vulgaris,56.534254,37.686634
 2289659675,Carlina_vulgaris,50.35064,5.49306
-786107018,Carlina_vulgaris,50.7,8.2
 788719724,Carlina_vulgaris,55.778344,14.037823
 788676880,Carlina_vulgaris,55.70387,13.9349
 1702294664,Carlina_vulgaris,59.858,10.4639
@@ -600,7 +577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831083239,Carlina_vulgaris,53.3485,11.7486
 788712201,Carlina_vulgaris,55.56963,13.953
 1705430199,Carlina_vulgaris,56.538729,16.119467
-786107014,Carlina_vulgaris,51.3,8.3
 1705261394,Carlina_vulgaris,57.545218,15.805211
 788664907,Carlina_vulgaris,58.60847,11.24914
 1705369478,Carlina_vulgaris,58.663165,16.391163
@@ -627,7 +603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705295257,Carlina_vulgaris,56.43528,12.883371
 1705487061,Carlina_vulgaris,49.5355,17.307
 1697481827,Carlina_vulgaris,52.472511,57.170123
-786107087,Carlina_vulgaris,53.2,10
 788664347,Carlina_vulgaris,55.524772,13.906531
 187130331,Carlina_vulgaris,60.0262,10.6688
 1705369451,Carlina_vulgaris,58.009727,15.027071
@@ -640,7 +615,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788728384,Carlina_vulgaris,59.28884,14.98975
 1697481907,Carlina_vulgaris,56.056169,44.364701
 788668165,Carlina_vulgaris,58.9209,17.55986
-2288586712,Carlina_vulgaris,46.2,14.616667
 1697481831,Carlina_vulgaris,54.834289,37.703918
 788615714,Carlina_vulgaris,57.90646,11.77366
 788733582,Carlina_vulgaris,59.83896,17.57909
