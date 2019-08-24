@@ -52,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077248419,Parkinsonia_aculeata,-4.970833,-39.015
 1563175259,Parkinsonia_aculeata,-8.535278,-39.25
 1423939130,Parkinsonia_aculeata,-8.320833,-38.751111
-1094930544,Parkinsonia_aculeata,-5.798056,-17.850556
 1094930445,Parkinsonia_aculeata,-4.970556,-39.015
 1077248389,Parkinsonia_aculeata,-4.971389,-39.015278
 1455707513,Parkinsonia_aculeata,-6.3,-35.46
@@ -63,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094918276,Parkinsonia_aculeata,-11.05,-42.770833
 1087691389,Parkinsonia_aculeata,-10.3854,-36.5919
 1897556813,Parkinsonia_aculeata,18.558444,-99.173361
-1211531121,Parkinsonia_aculeata,21.265833,-76.428055
 1846556585,Parkinsonia_aculeata,33.598332,-112.068663
 1846555918,Parkinsonia_aculeata,33.597156,-112.064941
 1090491418,Parkinsonia_aculeata,-11.359167,-40.564444
@@ -134,7 +132,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087685484,Parkinsonia_aculeata,-9.66,-37.789167
 1090908009,Parkinsonia_aculeata,-9.373889,-40.532389
 1934699393,Parkinsonia_aculeata,11.16574,-74.22645
-1253909044,Parkinsonia_aculeata,9.925833,-84.081667
 685236710,Parkinsonia_aculeata,-27.625,24.625
 1090908065,Parkinsonia_aculeata,-8.801861,-40.801111
 1090907621,Parkinsonia_aculeata,-8.997819,-40.277017
@@ -215,7 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424263475,Parkinsonia_aculeata,-8.1275,-38.708056
 1077227152,Parkinsonia_aculeata,-14.392778,-44.661111
 1090896868,Parkinsonia_aculeata,-8.386058,-39.329119
-1087068724,Parkinsonia_aculeata,-6.241389,-9.067822
 1089174094,Parkinsonia_aculeata,-6.898694,-37.142667
 1090896845,Parkinsonia_aculeata,-8.566336,-38.305492
 1087072751,Parkinsonia_aculeata,-7.906139,-38.29725
@@ -223,24 +219,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652285876,Parkinsonia_aculeata,-19.252308,146.72645
 1099323449,Parkinsonia_aculeata,-5.1875,-37.344167
 2270681410,Parkinsonia_aculeata,33.51158,-112.12994
-437621192,Parkinsonia_aculeata,-12.24139,49.37528
-1260234183,Parkinsonia_aculeata,-12.24138,49.37527
-1253816082,Parkinsonia_aculeata,9.97362,-84.093477
 1652248901,Parkinsonia_aculeata,-19.291667,146.845556
 1257832933,Parkinsonia_aculeata,16.168611,-95.24
 995414995,Parkinsonia_aculeata,-19.2917,146.8456
 1897576507,Parkinsonia_aculeata,16.168583,-95.240083
 1652187842,Parkinsonia_aculeata,-19.945598,148.105887
 1805879687,Parkinsonia_aculeata,-20.61947,120.07042
-1318584209,Parkinsonia_aculeata,17.5632,-66.5721
 912636304,Parkinsonia_aculeata,-8.14,-38.72
 1846499702,Parkinsonia_aculeata,34.227633,-112.11055
 1077576769,Parkinsonia_aculeata,-8.141667,-38.719444
 1930547985,Parkinsonia_aculeata,-8.1417,-38.7194
-992057030,Parkinsonia_aculeata,-11.648333,133.39
-993621133,Parkinsonia_aculeata,-11.6483,133.39
 992055188,Parkinsonia_aculeata,-30.554167,138.426111
-994394044,Parkinsonia_aculeata,-11.65,133.39
 1652324956,Parkinsonia_aculeata,-19.438615,138.499409
 1652277254,Parkinsonia_aculeata,-19.304402,146.819687
 1094830300,Parkinsonia_aculeata,-9.333333,-38.483333
@@ -288,7 +277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652303638,Parkinsonia_aculeata,-22.569425,142.950897
 995421925,Parkinsonia_aculeata,-28.0497,145.6828
 996201635,Parkinsonia_aculeata,-28.048,145.684
-1319841854,Parkinsonia_aculeata,-25.6619,28.2381
 1652286639,Parkinsonia_aculeata,-26.401074,146.230907
 1094820702,Parkinsonia_aculeata,-10.101389,-40.231111
 453313433,Parkinsonia_aculeata,-25.625,28.125
@@ -296,9 +284,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2235776520,Parkinsonia_aculeata,-15.43,-74.87
 1228227316,Parkinsonia_aculeata,-14.7,-75.7
 1123891207,Parkinsonia_aculeata,6.254167,-75.602222
-1257539042,Parkinsonia_aculeata,13.666667,-89.25
 1257754819,Parkinsonia_aculeata,14.280556,-89.563889
-1585312152,Parkinsonia_aculeata,13.66667,-89.25
 1056097919,Parkinsonia_aculeata,-24.2944,-58.6553
 1253786337,Parkinsonia_aculeata,10.250871,-85.274794
 1257578060,Parkinsonia_aculeata,-24.294444,-58.655278
@@ -318,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 623681923,Parkinsonia_aculeata,34.025,-117.066667
 1253804031,Parkinsonia_aculeata,10.321165,-85.349861
 30673089,Parkinsonia_aculeata,36.833,-2.49
-30673087,Parkinsonia_aculeata,36.3,-2.27
 1056570697,Parkinsonia_aculeata,-23.572222,-57.940556
 2270650647,Parkinsonia_aculeata,31.4987,-106.156
 1257578587,Parkinsonia_aculeata,-23.572222,-57.940555
@@ -422,11 +407,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259094818,Parkinsonia_aculeata,-21.07,-58.88444
 1257366824,Parkinsonia_aculeata,-21.755267,133.680148
 1077212789,Parkinsonia_aculeata,-11.116944,-40.140556
-2291920494,Parkinsonia_aculeata,-12.235556,49.359167
 1077213946,Parkinsonia_aculeata,-9.191944,-40.923056
-438619714,Parkinsonia_aculeata,-12.23889,49.36361
-1087722222,Parkinsonia_aculeata,-2.5747,-44.209467
-1258967757,Parkinsonia_aculeata,-12.23555,49.35916
 995253570,Parkinsonia_aculeata,-14.6583,141.5917
 1652138997,Parkinsonia_aculeata,-14.656951,141.59255
 1258778202,Parkinsonia_aculeata,-2.56972,33.35861
@@ -499,7 +480,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894977723,Parkinsonia_aculeata,23.501111,-106.489722
 1090954110,Parkinsonia_aculeata,-8.575,-36.879167
 1258512618,Parkinsonia_aculeata,-1.03333,-80.8
-1259908833,Parkinsonia_aculeata,13.66666,-89.25
 1894822035,Parkinsonia_aculeata,24.141667,-110.325
 1895821791,Parkinsonia_aculeata,28.438889,-109.258333
 1652219231,Parkinsonia_aculeata,-20.923592,143.625881
@@ -532,7 +512,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099318029,Parkinsonia_aculeata,-5.288333,-36.762222
 1257353734,Parkinsonia_aculeata,-20.965209,137.901191
 1893560801,Parkinsonia_aculeata,18.402222,-99.098611
-1257318115,Parkinsonia_aculeata,-11.5272,133.398126
 1652161890,Parkinsonia_aculeata,-25.581891,149.750828
 1652204928,Parkinsonia_aculeata,-21.690258,143.375888
 1893560885,Parkinsonia_aculeata,18.376944,-99.077778
@@ -565,7 +544,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 45695654,Parkinsonia_aculeata,10.35,-85.33
 994357151,Parkinsonia_aculeata,-17.115286,131.434562
 1257317314,Parkinsonia_aculeata,-17.554147,131.258454
-1587000021,Parkinsonia_aculeata,37.883333,24.733333
 1894150250,Parkinsonia_aculeata,24.691667,-98.841667
 1893765136,Parkinsonia_aculeata,24.518889,-107.026667
 1893765133,Parkinsonia_aculeata,24.7025,-107.15
@@ -581,13 +559,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895481005,Parkinsonia_aculeata,28.0941268935477,-110.960204143001
 1895480933,Parkinsonia_aculeata,18.4,-100.683333
 912113424,Parkinsonia_aculeata,-11.15,-38.85
-574984489,Parkinsonia_aculeata,17.016667,54.283333
 1893686624,Parkinsonia_aculeata,25.271667,-103.775
 1895480998,Parkinsonia_aculeata,16.333333,-95.283333
 994359175,Parkinsonia_aculeata,-14.865247,133.401197
 1895480960,Parkinsonia_aculeata,27.5,-113.333333
 1895480955,Parkinsonia_aculeata,24.1425840546877,-110.311215567499
-2289908250,Parkinsonia_aculeata,28.066667,-16.733333
 1895480970,Parkinsonia_aculeata,29.1223870949034,-110.889597369669
 1895480974,Parkinsonia_aculeata,24.983333,-111.916667
 1895480919,Parkinsonia_aculeata,25.116667,-111.5
@@ -613,10 +589,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931043736,Parkinsonia_aculeata,-9.48,-38.2
 1094733468,Parkinsonia_aculeata,-9.483333,-38.2
 1652144612,Parkinsonia_aculeata,-17.756946,139.542579
-1260878460,Parkinsonia_aculeata,14.61333,-90.50305
-994351048,Parkinsonia_aculeata,-11.64859,133.384512
 1893686639,Parkinsonia_aculeata,25.038333,-103.848333
-1927973560,Parkinsonia_aculeata,17.93996,-66.93975
 1894642019,Parkinsonia_aculeata,21.575181,-99.714708
 1893686606,Parkinsonia_aculeata,21.546667,-99.688333
 1419195361,Parkinsonia_aculeata,25.721944,-100.709167
@@ -625,7 +598,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994352289,Parkinsonia_aculeata,-15.581922,130.384561
 912113404,Parkinsonia_aculeata,-11.23,-39.38
 1303201532,Parkinsonia_aculeata,-11.233333,-39.383333
-1929516672,Parkinsonia_aculeata,18.346389,-64.706111
 1947452827,Parkinsonia_aculeata,6.05,37.616667
 1929515275,Parkinsonia_aculeata,-11.6444338344803,-42.0108808051806
 1894822026,Parkinsonia_aculeata,24.675,-111.091667
@@ -638,9 +610,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652115084,Parkinsonia_aculeata,-21.056942,139.409261
 1842927784,Parkinsonia_aculeata,32.371346,-106.560161
 1652114853,Parkinsonia_aculeata,-19.906915,147.242501
-45695387,Parkinsonia_aculeata,10.33,-85.35
 1893686621,Parkinsonia_aculeata,23.56944,-100.64167
-1253601810,Parkinsonia_aculeata,10.333333,-85.352778
 994349584,Parkinsonia_aculeata,-16.081892,136.367845
 1257315247,Parkinsonia_aculeata,-16.671928,130.673188
 1261540888,Parkinsonia_aculeata,30.28333,-104.13333
@@ -681,8 +651,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995641316,Parkinsonia_aculeata,-15.6,131.1
 995159338,Parkinsonia_aculeata,-19.5667,146.2667
 60017436,Parkinsonia_aculeata,42.419568,-8.665756
-1273759067,Parkinsonia_aculeata,10.136033,-75.695609
-1258412312,Parkinsonia_aculeata,10.13333,-75.7
 1851341586,Parkinsonia_aculeata,42.421,-8.666
 1253708210,Parkinsonia_aculeata,10.341667,-85.341667
 995497670,Parkinsonia_aculeata,-23.183333,143.816667
@@ -695,18 +663,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896169176,Parkinsonia_aculeata,25.833333,-103.845
 994332072,Parkinsonia_aculeata,-17.415268,128.76792
 1144743328,Parkinsonia_aculeata,-23.43333,-57.46667
-1893686644,Parkinsonia_aculeata,20.775,-105.516667
 1259517558,Parkinsonia_aculeata,20.766667,-105.366667
 1895480942,Parkinsonia_aculeata,19.3168542702945,-104.807224767437
 1894822045,Parkinsonia_aculeata,24.141667,-110.308333
 1894822055,Parkinsonia_aculeata,24.225,-110.175
 1894822017,Parkinsonia_aculeata,23.425,-110.258333
-1260651774,Parkinsonia_aculeata,10.6,-67.03333
 994271816,Parkinsonia_aculeata,-18.648557,135.951197
 993429502,Parkinsonia_aculeata,-18.4167,125.25
 996478753,Parkinsonia_aculeata,-18.42,125.25
 2289707406,Parkinsonia_aculeata,-18.416667,125.25
-994272719,Parkinsonia_aculeata,-15.631886,136.551178
 1419225859,Parkinsonia_aculeata,25.833333,-103.916667
 1563370868,Parkinsonia_aculeata,31.866667,-106.558333
 995075806,Parkinsonia_aculeata,-22.9167,139.9
@@ -719,7 +684,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896169183,Parkinsonia_aculeata,22.445,-100.611667
 993898937,Parkinsonia_aculeata,-15.6167,130.4
 994326406,Parkinsonia_aculeata,-15.615259,130.401227
-1259519706,Parkinsonia_aculeata,27.389722,-112.343055
 1896169188,Parkinsonia_aculeata,22.175,-98.091667
 1893686640,Parkinsonia_aculeata,22.063333,-98.183333
 1893589437,Parkinsonia_aculeata,26.952222,-109.671667
@@ -745,7 +709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993331978,Parkinsonia_aculeata,-15.6,131.1167
 994317409,Parkinsonia_aculeata,-15.598592,131.117897
 1896169204,Parkinsonia_aculeata,20.15,-100.656667
-1260652604,Parkinsonia_aculeata,10.60833,-67.03333
 1893686636,Parkinsonia_aculeata,19.968333,-101.14
 1419223177,Parkinsonia_aculeata,19.912222,-100.842778
 1417702163,Parkinsonia_aculeata,18.766664,-99.333889
@@ -761,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144743311,Parkinsonia_aculeata,-23.55,-58.75
 1417698655,Parkinsonia_aculeata,18.625,-98.750278
 462135235,Parkinsonia_aculeata,-28.875,24.875
-994319017,Parkinsonia_aculeata,-11.631915,133.417852
 1144738852,Parkinsonia_aculeata,-23.9,-61.85
 995878452,Parkinsonia_aculeata,-28.55,150.33
 1652052917,Parkinsonia_aculeata,-28.581885,150.417503
@@ -791,7 +753,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259909010,Parkinsonia_aculeata,22.13333,-98.2
 1893686616,Parkinsonia_aculeata,20.303333,-101.596667
 992045553,Parkinsonia_aculeata,-25.8,133.3
-1090890807,Parkinsonia_aculeata,-2.506389,-44.297222
 2251614922,Parkinsonia_aculeata,-32.259444,-63.773333
 1144743323,Parkinsonia_aculeata,-21.25,-61.61667
 1893765135,Parkinsonia_aculeata,24.816667,-107.319444
@@ -827,7 +788,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994608428,Parkinsonia_aculeata,-17.34309,128.34544
 994264492,Parkinsonia_aculeata,-20.931868,137.917862
 1259516096,Parkinsonia_aculeata,10.33333,-85.26111
-616303176,Parkinsonia_aculeata,-29.875,31.125
 1260653794,Parkinsonia_aculeata,4.45922,-74.739655
 994315686,Parkinsonia_aculeata,-19.281881,136.067877
 994315629,Parkinsonia_aculeata,-19.081889,135.334536
@@ -884,8 +844,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893907690,Parkinsonia_aculeata,17.693611,-99.539167
 1652035583,Parkinsonia_aculeata,-28.140249,144.759242
 1896169223,Parkinsonia_aculeata,18.591667,-88.425
-2288881067,Parkinsonia_aculeata,16.833333,-25.066667
-2290277554,Parkinsonia_aculeata,14.916667,-23.5
 1259516980,Parkinsonia_aculeata,24.879167,-111.603056
 994992832,Parkinsonia_aculeata,-16.0667,129.2667
 992401595,Parkinsonia_aculeata,-16.065385,129.267705
@@ -894,7 +852,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144743297,Parkinsonia_aculeata,-24.96667,-57.68333
 1261764399,Parkinsonia_aculeata,-24.516667,-58.666667
 1087334688,Parkinsonia_aculeata,-24.916667,-57.666667
-1258288720,Parkinsonia_aculeata,-0.75,-90.26666
 994312753,Parkinsonia_aculeata,-15.748597,129.151239
 1258250575,Parkinsonia_aculeata,12.366667,-86.066667
 1258250839,Parkinsonia_aculeata,12.4,-86.116667
@@ -921,7 +878,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259518019,Parkinsonia_aculeata,18.301667,-101.901944
 994168965,Parkinsonia_aculeata,-19.6667,147.5
 1896169206,Parkinsonia_aculeata,18.271667,-101.9
-1123911187,Parkinsonia_aculeata,6.267645,-75.568952
 1261925450,Parkinsonia_aculeata,12.35,-86.480556
 1896169202,Parkinsonia_aculeata,20.676389,-103.346111
 1652042119,Parkinsonia_aculeata,-19.306919,146.825837
@@ -933,7 +889,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419197288,Parkinsonia_aculeata,19.961667,-104.286111
 1087665153,Parkinsonia_aculeata,-11.1103,-37.5953
 1895202327,Parkinsonia_aculeata,16.063056,-95.390556
-1895481068,Parkinsonia_aculeata,16.0460728497547,-95.3740712760017
 1258716756,Parkinsonia_aculeata,12.36666,-86.08333
 1264695725,Parkinsonia_aculeata,-6.2055,-37.2953
 1931419039,Parkinsonia_aculeata,22.1833,-98.3
@@ -960,7 +915,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895202316,Parkinsonia_aculeata,16.219722,-95.207222
 1846511162,Parkinsonia_aculeata,16.442222,-95.208611
 1258288308,Parkinsonia_aculeata,12.15,-85.85
-1893771566,Parkinsonia_aculeata,22.041667,-107.741667
 1259519080,Parkinsonia_aculeata,18.282222,-101.897778
 2270503183,Parkinsonia_aculeata,18.646471,-101.969016
 1893408063,Parkinsonia_aculeata,21.775,-98.458333
@@ -975,7 +929,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993477666,Parkinsonia_aculeata,-16.6833,133.4167
 2270504907,Parkinsonia_aculeata,19.166667,-102.833333
 1259518353,Parkinsonia_aculeata,19.163056,-102.851667
-1258979570,Parkinsonia_aculeata,12.1,-86.266667
 1419219097,Parkinsonia_aculeata,23.924444,-104.266667
 1896169220,Parkinsonia_aculeata,23.848333,-104.245
 1895202314,Parkinsonia_aculeata,16.213333,-95.068056
@@ -986,7 +939,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290597939,Parkinsonia_aculeata,1.433333,30.466667
 1896169179,Parkinsonia_aculeata,18.641667,-99.158333
 1257306122,Parkinsonia_aculeata,-14.915244,133.417866
-1928564461,Parkinsonia_aculeata,18.1078,-65.43825
 1896169190,Parkinsonia_aculeata,22.230556,-98.015278
 1895802536,Parkinsonia_aculeata,27.508333,-99.558333
 1896169197,Parkinsonia_aculeata,21.65,-98.116667
@@ -1005,10 +957,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270612899,Parkinsonia_aculeata,33.7195,-113.54
 1895802518,Parkinsonia_aculeata,26.008333,-99.158333
 1895481076,Parkinsonia_aculeata,25.9662650666582,-98.0247294675478
-994795536,Parkinsonia_aculeata,-15.6667,136.7333
 1989384083,Parkinsonia_aculeata,28.9434,-113.591
 995840809,Parkinsonia_aculeata,-29,141.17
-1257302857,Parkinsonia_aculeata,-15.664769,136.741805
 1451570405,Parkinsonia_aculeata,-28.998498,141.167923
 1937195392,Parkinsonia_aculeata,-24.1167,148.1
 996362697,Parkinsonia_aculeata,-22.6,116
@@ -1018,7 +968,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994101118,Parkinsonia_aculeata,-17.8333,139.55
 1652284754,Parkinsonia_aculeata,-17.840279,139.559246
 1258431898,Parkinsonia_aculeata,12.10833,-85.8875
-2242404090,Parkinsonia_aculeata,39.73193,-104.9619
 2291921089,Parkinsonia_aculeata,9.85,44.533333
 437621193,Parkinsonia_aculeata,-20.28333,44.28333
 1893408079,Parkinsonia_aculeata,22.6604762370288,-97.9261963327238
@@ -1048,7 +997,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260621016,Parkinsonia_aculeata,12.31666,-86.1
 1989156514,Parkinsonia_aculeata,16.3957,-95.1002
 1846511143,Parkinsonia_aculeata,30.615833,-96.339861
-1259105928,Parkinsonia_aculeata,11.98333,-86.65
 993465373,Parkinsonia_aculeata,-23.1833,148.7333
 1123896981,Parkinsonia_aculeata,4.02421,-73.01577
 1317808824,Parkinsonia_aculeata,7.8667,79.8
@@ -1063,7 +1011,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291920625,Parkinsonia_aculeata,9.583333,41.866667
 2270614713,Parkinsonia_aculeata,32.3717,-112.865
 1936874970,Parkinsonia_aculeata,-16.4333,136.1
-2288857725,Parkinsonia_aculeata,-24.666667,34.666667
 1937210590,Parkinsonia_aculeata,-15.8833,136.5167
 995840011,Parkinsonia_aculeata,-23.42,147.7
 1320975355,Parkinsonia_aculeata,-21.8833,114.133
@@ -1071,7 +1018,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2251612662,Parkinsonia_aculeata,-31.699722,-63.531111
 1988987798,Parkinsonia_aculeata,16.1901,-95.1062
 2289126304,Parkinsonia_aculeata,-10.666667,-39.55
-813358157,Parkinsonia_aculeata,-12.37,13.13
 1260654422,Parkinsonia_aculeata,-10.66666,-39.55
 912113384,Parkinsonia_aculeata,-10.67,-39.55
 1321922323,Parkinsonia_aculeata,-10.6667,-39.55
@@ -1110,7 +1056,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995839995,Parkinsonia_aculeata,-20.8,144.23
 1077426188,Parkinsonia_aculeata,-30.034991,-51.214437
 1893686626,Parkinsonia_aculeata,24.142222,-110.310833
-1419230633,Parkinsonia_aculeata,24.508333,-110.391667
 1095183481,Parkinsonia_aculeata,28.45994,-98.47012
 1451570433,Parkinsonia_aculeata,-28.998464,144.734542
 1651973235,Parkinsonia_aculeata,-20.090249,146.925839
@@ -1145,11 +1090,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993300772,Parkinsonia_aculeata,-23.5833,148.85
 1846511137,Parkinsonia_aculeata,33.595758,-112.038231
 994222094,Parkinsonia_aculeata,-15.415257,131.201225
-1258558248,Parkinsonia_aculeata,17.51444,-88.20055
 995839933,Parkinsonia_aculeata,-22.85,145.07
 993611192,Parkinsonia_aculeata,-18,139.25
 1651973226,Parkinsonia_aculeata,-20.556913,147.392502
-1258831203,Parkinsonia_aculeata,10.32888,-85.35611
 1259210356,Parkinsonia_aculeata,10.35,-85.352778
 1123884246,Parkinsonia_aculeata,6.564918,-75.807428
 1123905502,Parkinsonia_aculeata,6.210276,-75.57119
@@ -1164,7 +1107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259517814,Parkinsonia_aculeata,25.5,-108.3
 994148488,Parkinsonia_aculeata,-18.2,142.8667
 1895802528,Parkinsonia_aculeata,23.141667,-99.108333
-1259516603,Parkinsonia_aculeata,7.975278,-80.350278
 1651973252,Parkinsonia_aculeata,-18.08194,141.250896
 993185732,Parkinsonia_aculeata,-17.6833,141.3
 2270614095,Parkinsonia_aculeata,31.6236,-111.541
@@ -1181,7 +1123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090548508,Parkinsonia_aculeata,-21.5167,-48.3939
 1258559197,Parkinsonia_aculeata,8,-80.51666
 994221979,Parkinsonia_aculeata,-14.931914,133.067877
-2288878794,Parkinsonia_aculeata,13.016667,42.75
 1095183479,Parkinsonia_aculeata,27.51556,-97.85583
 1095183472,Parkinsonia_aculeata,29.13996,-98.90531
 2270206702,Parkinsonia_aculeata,34.858255,-116.864897
@@ -1238,7 +1179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989454961,Parkinsonia_aculeata,27.2159,-99.4945
 1988857715,Parkinsonia_aculeata,22.9402,-99.774
 1895480984,Parkinsonia_aculeata,27.4352791976541,-99.526144654382
-994326141,Parkinsonia_aculeata,-16.765208,139.134486
 1257393564,Parkinsonia_aculeata,-22.15,144.5
 996391710,Parkinsonia_aculeata,-15.5275,128.1764
 992253057,Parkinsonia_aculeata,-19.55,134.23
@@ -1252,12 +1192,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651973290,Parkinsonia_aculeata,-20.748604,140.584247
 994646827,Parkinsonia_aculeata,-15.8667,130.5167
 1893408140,Parkinsonia_aculeata,27.025,-106.725
-1838276918,Parkinsonia_aculeata,16.610833,-24.262778
-813400499,Parkinsonia_aculeata,15.133334,-23.216666
 437288677,Parkinsonia_aculeata,-17.68333,45.66667
 1077180395,Parkinsonia_aculeata,-12.966667,-38.5
 1259807020,Parkinsonia_aculeata,-0.6,-80.41666
-992352197,Parkinsonia_aculeata,-15.7,137
 2289683137,Parkinsonia_aculeata,10.6,14.333333
 866263756,Parkinsonia_aculeata,-26.028333,32.389999
 992349837,Parkinsonia_aculeata,-24.9,134.3
@@ -1265,8 +1202,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651973307,Parkinsonia_aculeata,-20.915256,144.250874
 994230045,Parkinsonia_aculeata,-20.848497,144.201118
 992318840,Parkinsonia_aculeata,-14.732038,134.734332
-2252230271,Parkinsonia_aculeata,5.33,0.11
-621130174,Parkinsonia_aculeata,5.33,-0.11
 995839850,Parkinsonia_aculeata,-15.7,145.22
 1077183986,Parkinsonia_aculeata,-12.75,-39.416667
 2251612916,Parkinsonia_aculeata,-33.362222,-64.541667
@@ -1278,7 +1213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994117919,Parkinsonia_aculeata,-20.75,140.5
 866263602,Parkinsonia_aculeata,-24.448602,33.005964
 1931380594,Parkinsonia_aculeata,-21.736337,-43.377068
-2252229981,Parkinsonia_aculeata,5.37,0.14
 1986895168,Parkinsonia_aculeata,28.61472,-96.62583
 1928608875,Parkinsonia_aculeata,18.1905,-71.207812
 1651973313,Parkinsonia_aculeata,-26.41524,146.250879
@@ -1299,7 +1233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651973228,Parkinsonia_aculeata,-22.915248,145.250872
 994117967,Parkinsonia_aculeata,-20.6667,142.5
 1895202309,Parkinsonia_aculeata,16.332778,-95.238889
-621130169,Parkinsonia_aculeata,5.37,-0.14
 1259519782,Parkinsonia_aculeata,27.4,-108.85
 1930629356,Parkinsonia_aculeata,-3.90511754437175,-38.390648273612
 1259696538,Parkinsonia_aculeata,17.973,-66.908
@@ -1317,15 +1250,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989347165,Parkinsonia_aculeata,24.732222,-99.097778
 462135229,Parkinsonia_aculeata,-19.125,17.625
 1259020212,Parkinsonia_aculeata,10.47,-85.37
-1260654021,Parkinsonia_aculeata,-17.377222,-66.14
 1228316125,Parkinsonia_aculeata,-32.8667,-55.7933
-1260654391,Parkinsonia_aculeata,-34.833333,-56.233333
 436955665,Parkinsonia_aculeata,-12.36667,49.35
 439286831,Parkinsonia_aculeata,-12.26667,49.28333
 1259518795,Parkinsonia_aculeata,29.066667,-110.966667
 1651973254,Parkinsonia_aculeata,-23.415226,150.584139
 2270206284,Parkinsonia_aculeata,32.79264,-115.56147
-1260419573,Parkinsonia_aculeata,12.15,-86.25
 2289978337,Parkinsonia_aculeata,-7.1509,112.616667
 1228603161,Parkinsonia_aculeata,-9.47,-78.32
 995840801,Parkinsonia_aculeata,-31.97,141.47
@@ -1335,10 +1265,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651973267,Parkinsonia_aculeata,-23.415252,144.250886
 995839881,Parkinsonia_aculeata,-23.45,144.25
 1651973284,Parkinsonia_aculeata,-27.581875,152.584132
-2290521396,Parkinsonia_aculeata,-7.0455,112.7351
-2289055894,Parkinsonia_aculeata,-7.1568,113.4746
-1929409868,Parkinsonia_aculeata,18.13755,-65.48045
-2288465954,Parkinsonia_aculeata,-6.333333,108.316667
 2290045759,Parkinsonia_aculeata,-6.8691,109.0378
 1056201666,Parkinsonia_aculeata,-25.3,-57.35
 1988353977,Parkinsonia_aculeata,-29.133333,-59.25
@@ -1346,10 +1272,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995840042,Parkinsonia_aculeata,-23.37,150.52
 1259516705,Parkinsonia_aculeata,26.083333,-108.766667
 1896169195,Parkinsonia_aculeata,21.345,-98.226111
-473274813,Parkinsonia_aculeata,23.1127,-82.3658
 993288608,Parkinsonia_aculeata,-15.6667,136.25
 1144738839,Parkinsonia_aculeata,-31.08333,-64.5
-437621194,Parkinsonia_aculeata,-15.71667,46.31667
 1228381782,Parkinsonia_aculeata,21,-99.9167
 437953828,Parkinsonia_aculeata,-13.15,49.41667
 1259518278,Parkinsonia_aculeata,21.93,-99.99
