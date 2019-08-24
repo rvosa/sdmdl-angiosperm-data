@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501491236,Salsola_genistoides,38.55,-0.81
 1099343459,Salsola_genistoides,37.424995,-1.544737
-232592241,Salsola_genistoides,37.51,-1.01
 232592125,Salsola_genistoides,38.01,-1.31
 415623232,Salsola_genistoides,36.8536,-2.0538
 1053987047,Salsola_genistoides,36.82,-2.58
@@ -15,7 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30674769,Salsola_genistoides,37.419998,-2.06
 143005775,Salsola_genistoides,36.950001,-2.21
 199501725,Salsola_genistoides,36.853998,-2.05362
-2306240248,Salsola_genistoides,37.05,1.61
 30889585,Salsola_genistoides,37.369999,-1.77
 30675896,Salsola_genistoides,38.386,-1.013
 318120580,Salsola_genistoides,36.85,-2.28
@@ -30,15 +28,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211637289,Salsola_genistoides,38.450001,-0.58
 204435844,Salsola_genistoides,38.450001,-0.576
 30674677,Salsola_genistoides,37.259998,-1.82
-232591940,Salsola_genistoides,37.41,-1.41
 30674880,Salsola_genistoides,36.825,-2.512
 30674887,Salsola_genistoides,36.995,-2.41
 1936620233,Salsola_genistoides,36.8512,-2.0366
 30675983,Salsola_genistoides,37.68,-2.02
 30675024,Salsola_genistoides,36.86,-2.467
-232591949,Salsola_genistoides,37.51,-1.11
 318120555,Salsola_genistoides,38.38,-1.02
-232591945,Salsola_genistoides,37.51,-0.81
 318120202,Salsola_genistoides,38.39,-1.02
 143005847,Salsola_genistoides,38.380001,-0.71
 318120204,Salsola_genistoides,38.48,-0.5
@@ -48,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501066612,Salsola_genistoides,38.37,-0.52
 1501066456,Salsola_genistoides,38.36,-0.44
 318120373,Salsola_genistoides,38.4,-1.03
-1936538557,Salsola_genistoides,37.5756,0.2825
 1936508461,Salsola_genistoides,37.0071,-2.4617
 30888888,Salsola_genistoides,36.950001,-2.44
 30888890,Salsola_genistoides,36.959999,-2.66
@@ -63,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501069055,Salsola_genistoides,38.51,-0.53
 318120969,Salsola_genistoides,38.42,-0.42
 137532061,Salsola_genistoides,36.8837,-2.9691
-895278518,Salsola_genistoides,38.5,-0.19
 30888886,Salsola_genistoides,36.77,-2.1
 860321838,Salsola_genistoides,38.06,-0.66
 1936695768,Salsola_genistoides,37.8464,-1.5237
@@ -105,15 +98,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936544763,Salsola_genistoides,38.0427,-2.2833
 1936344966,Salsola_genistoides,37.1108,-1.842
 30888891,Salsola_genistoides,38.560001,-0.93
-1936111470,Salsola_genistoides,37.5656,-0.8499
 1936113686,Salsola_genistoides,37.0418,-2.2141
 1936022332,Salsola_genistoides,37.0861,-2.1124
 1935989200,Salsola_genistoides,38.3854,-1.3983
 1501864098,Salsola_genistoides,38.33,-0.54
-1935988802,Salsola_genistoides,36.9639,-0.6694
 1935892193,Salsola_genistoides,38.0901,-0.9487
 1935892151,Salsola_genistoides,38.2655,-0.6923
 1936330392,Salsola_genistoides,37.686,-1.6856
-1936619584,Salsola_genistoides,37.25,-4.9833
 1842892150,Salsola_genistoides,37.6032,-0.9835
 1935892172,Salsola_genistoides,37.6,-0.9833
