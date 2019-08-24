@@ -27,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2308187073,Cotyledon_orbiculata,-33.81,18.37
 992066469,Cotyledon_orbiculata,-35.341944,138.445833
 992065896,Cotyledon_orbiculata,-35.151944,138.472778
-994564428,Cotyledon_orbiculata,-42.4,148
 685196618,Cotyledon_orbiculata,-29.875,17.625
 1897789488,Cotyledon_orbiculata,-41.614167,175.291111
 685196624,Cotyledon_orbiculata,-34.375,21.375
@@ -45,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461744986,Cotyledon_orbiculata,-32.375,20.125
 2005508808,Cotyledon_orbiculata,-28.953889,30.399444
 616250572,Cotyledon_orbiculata,-28.875,30.375
-860312732,Cotyledon_orbiculata,41.32,2.1
 461744987,Cotyledon_orbiculata,-29.375,17.875
 461744988,Cotyledon_orbiculata,-29.125,17.625
 461744989,Cotyledon_orbiculata,-31.125,18.375
@@ -94,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461744768,Cotyledon_orbiculata,-33.625,23.875
 329091724,Cotyledon_orbiculata,-33.875,21.625
 1843486161,Cotyledon_orbiculata,-36.931111,174.455278
-1897680149,Cotyledon_orbiculata,-37.966667,177
 461744767,Cotyledon_orbiculata,-25.875,27.375
 461744971,Cotyledon_orbiculata,-29.125,18.875
 995150401,Cotyledon_orbiculata,-37.7639,144.8858
@@ -108,7 +105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996690553,Cotyledon_orbiculata,-32.301564,115.704266
 994510908,Cotyledon_orbiculata,-40.96527,148.31766
 616250574,Cotyledon_orbiculata,-32.125,25.625
-1897715464,Cotyledon_orbiculata,-36.283333,174.8
 461744970,Cotyledon_orbiculata,-33.375,26.875
 461744973,Cotyledon_orbiculata,-29.625,17.375
 461744957,Cotyledon_orbiculata,-19.625,17.625
@@ -127,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 616250569,Cotyledon_orbiculata,-29.875,29.375
 992556305,Cotyledon_orbiculata,-32.93205,138.334413
 685196620,Cotyledon_orbiculata,-34.375,18.375
-1897700677,Cotyledon_orbiculata,-37.4,175.933333
 318109079,Cotyledon_orbiculata,38.15,-0.89
 461744749,Cotyledon_orbiculata,-24.125,28.375
 461744950,Cotyledon_orbiculata,-28.875,20.875
@@ -139,11 +134,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897668758,Cotyledon_orbiculata,-36.966667,174.466667
 992543580,Cotyledon_orbiculata,-35.16095,138.549436
 992543223,Cotyledon_orbiculata,-35.532061,138.834438
-992545894,Cotyledon_orbiculata,-35.2,138.5
 461744754,Cotyledon_orbiculata,-27.375,30.125
 461744948,Cotyledon_orbiculata,-27.125,19.125
 461744947,Cotyledon_orbiculata,-28.375,16.875
-1091328955,Cotyledon_orbiculata,-40.033333,175.1
 461744945,Cotyledon_orbiculata,-32.375,24.625
 461744944,Cotyledon_orbiculata,-31.875,24.625
 461745005,Cotyledon_orbiculata,-33.625,22.875
@@ -200,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461744722,Cotyledon_orbiculata,-34.375,20.375
 1897645736,Cotyledon_orbiculata,-41.35,174.816667
 461744895,Cotyledon_orbiculata,-22.875,30.125
-2291789038,Cotyledon_orbiculata,-25.95,32
 461744726,Cotyledon_orbiculata,-25.625,28.375
 461744862,Cotyledon_orbiculata,-32.875,18.375
 461744959,Cotyledon_orbiculata,-33.375,22.125
@@ -218,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461744781,Cotyledon_orbiculata,-21.875,14.125
 461744751,Cotyledon_orbiculata,-33.375,25.875
 461744779,Cotyledon_orbiculata,-33.875,19.875
-992412784,Cotyledon_orbiculata,-35.6,138.9
 461744780,Cotyledon_orbiculata,-33.625,22.625
 461744894,Cotyledon_orbiculata,-29.625,17.875
 453187749,Cotyledon_orbiculata,-29.875,24.875
@@ -277,7 +268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461744713,Cotyledon_orbiculata,-28.125,31.875
 616250538,Cotyledon_orbiculata,-28.125,32.125
 461744706,Cotyledon_orbiculata,-30.875,29.625
-1846532604,Cotyledon_orbiculata,-30,26
 461744826,Cotyledon_orbiculata,-29.375,29.125
 461744678,Cotyledon_orbiculata,-31.625,27.875
 461744903,Cotyledon_orbiculata,-34.125,20.875
