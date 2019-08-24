@@ -30,13 +30,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094186141,Triticum_dicoccoides,32.61,35.35
 1144793102,Triticum_dicoccoides,31.35853,34.96586
 437708638,Triticum_dicoccoides,32.10027,35.39544
-2012691030,Triticum_dicoccoides,40.60176,31.66935
 1844885117,Triticum_dicoccoides,32.950001,35.533329
-1144793133,Triticum_dicoccoides,32.73946,54.19777
-1144793128,Triticum_dicoccoides,34.28083,44.13111
-1144793129,Triticum_dicoccoides,33.92027,35.88803
 437376452,Triticum_dicoccoides,32.8762,35.5466
-1144793087,Triticum_dicoccoides,35.01313,38.50513
 437376454,Triticum_dicoccoides,32.9569,35.5354
 438041799,Triticum_dicoccoides,32.97042,35.54266
 438041800,Triticum_dicoccoides,32.96465,35.496
@@ -51,4 +46,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437708641,Triticum_dicoccoides,33.51852,35.85891
 1144793108,Triticum_dicoccoides,31.88333,35.2
 439374451,Triticum_dicoccoides,32.85331,35.51447
-1231166844,Triticum_dicoccoides,34.26667,46.11667
