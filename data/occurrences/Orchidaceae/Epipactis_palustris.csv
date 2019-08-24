@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895225094,Epipactis_palustris,40.381,-0.709
 1978364950,Epipactis_palustris,58.165288,41.748042
 1697448087,Epipactis_palustris,55.513889,40.55
-1050652893,Epipactis_palustris,42.73,-3
 1050652960,Epipactis_palustris,42.75,-2.59
 1697448049,Epipactis_palustris,54.828167,25.833917
 2287441571,Epipactis_palustris,52.154683,4.379
@@ -99,11 +98,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050626332,Epipactis_palustris,42.69,-2.43
 230817619,Epipactis_palustris,51.808449,5.785955
 1050625731,Epipactis_palustris,42.69,-2.51
-1851574271,Epipactis_palustris,38.2,-2.61
 1697448126,Epipactis_palustris,55.7015,40.18
 1050626425,Epipactis_palustris,42.69,-2.56
 115872721,Epipactis_palustris,42.630001,-2.51
-1050627533,Epipactis_palustris,41.67,-1.7
 1050625907,Epipactis_palustris,42.67,-2.45
 1936216644,Epipactis_palustris,38.1523,-2.5904
 1851382279,Epipactis_palustris,38.159,-2.583
@@ -121,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697448059,Epipactis_palustris,59.869716,38.259203
 115872737,Epipactis_palustris,42.509998,-0.08
 895141691,Epipactis_palustris,40.597,-1.954
-1851579809,Epipactis_palustris,42.3,-0.24
 1050599511,Epipactis_palustris,42.42,0.12
 1701997216,Epipactis_palustris,59.7091,10.0753
 1697447976,Epipactis_palustris,60.902262,43.209263
@@ -143,14 +139,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600541800,Epipactis_palustris,60.08501,23.986777
 1697725782,Epipactis_palustris,44.827331,34.807461
 1697448002,Epipactis_palustris,56.446649,22.845383
-1702509544,Epipactis_palustris,42.5,0.12
 1697448274,Epipactis_palustris,54.23178,46.106509
 1697448016,Epipactis_palustris,56.408393,23.545418
 1697447974,Epipactis_palustris,57.265587,37.12692
 895230130,Epipactis_palustris,40.018,-0.604
 437689034,Epipactis_palustris,45.45093,12.46008
 1839004023,Epipactis_palustris,39.957218,20.906389
-1500981600,Epipactis_palustris,40.01,-0.6
 1668934919,Epipactis_palustris,54.896,37.65
 1702435899,Epipactis_palustris,60.066,10.2224
 1697448105,Epipactis_palustris,56.200879,21.15778
@@ -223,14 +217,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788580210,Epipactis_palustris,55.713746,14.15062
 1638393999,Epipactis_palustris,47.35,15.41667
 2012690487,Epipactis_palustris,46.09967,5.34855
-1144679750,Epipactis_palustris,42.31667,9.3
 1935687001,Epipactis_palustris,46.82361,15.05972
 1260864380,Epipactis_palustris,46.59638,9.59805
 1936148661,Epipactis_palustris,40.4659,-2.1756
 186808631,Epipactis_palustris,59.0317,11.0297
 437628739,Epipactis_palustris,46.4613,13.93954
 1702353587,Epipactis_palustris,59.7499,9.85407
-1230696536,Epipactis_palustris,54.25,18
 1978788708,Epipactis_palustris,56.62955,12.90414
 438687796,Epipactis_palustris,51.87222,9.6304
 788580269,Epipactis_palustris,55.988928,13.991072
@@ -238,13 +230,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842900090,Epipactis_palustris,42.13,1.85
 1978790543,Epipactis_palustris,59.031944,11.013056
 1702429306,Epipactis_palustris,59.7268,9.9157
-2287923712,Epipactis_palustris,45,1.25
 1705428169,Epipactis_palustris,58.358213,14.733269
-211626390,Epipactis_palustris,42.5,-0.46
 1936071870,Epipactis_palustris,42.4943,-0.458
 437296460,Epipactis_palustris,44.86807,6.49084
 437296459,Epipactis_palustris,49.916,1.60126
-1050582277,Epipactis_palustris,42.5,-0.45
 1702429272,Epipactis_palustris,60.1467,10.3327
 1701237477,Epipactis_palustris,59.8225,10.2929
 1978790034,Epipactis_palustris,56.774167,9.339444
@@ -277,7 +266,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439294421,Epipactis_palustris,48.26704,2.69261
 1697448070,Epipactis_palustris,54.039353,38.329931
 438687841,Epipactis_palustris,46.42685,6.19418
-2287923672,Epipactis_palustris,47.966667,16.8
 1705377007,Epipactis_palustris,58.361909,14.693007
 1638393368,Epipactis_palustris,46.675,13.375
 1845009033,Epipactis_palustris,46.673889,7.825278
@@ -292,7 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1135470726,Epipactis_palustris,50.778599,-1.6375
 438687808,Epipactis_palustris,49.40637,19.48389
 2234283100,Epipactis_palustris,49.407898,19.480324
-1891600820,Epipactis_palustris,49.67,5.9
 2288614953,Epipactis_palustris,52.033333,5.55
 1705329476,Epipactis_palustris,56.398339,12.956198
 788597937,Epipactis_palustris,55.826941,13.063956
@@ -580,7 +567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099852831,Epipactis_palustris,47.609444,13.783333
 1135471007,Epipactis_palustris,52.8625,-9.0472
 438687833,Epipactis_palustris,48.79882,0.07504
-2287923929,Epipactis_palustris,51.1,2.65
 1135471084,Epipactis_palustris,54.256901,-1.0812
 1135470917,Epipactis_palustris,54.229401,-2.2021
 1135470830,Epipactis_palustris,51.488899,-3.4248
@@ -596,7 +582,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697448172,Epipactis_palustris,55.927265,37.945702
 1705319154,Epipactis_palustris,58.313942,14.650153
 438627372,Epipactis_palustris,48.38591,2.64052
-616364358,Epipactis_palustris,50.58,6
 439021180,Epipactis_palustris,45.41797,2.83799
 1099852827,Epipactis_palustris,46.630556,13.453333
 1947411709,Epipactis_palustris,56.425278,12.633349
