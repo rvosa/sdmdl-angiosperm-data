@@ -2,7 +2,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1880451083,Acaena_elongata,5.416472,-73.601
 1702532114,Acaena_elongata,6.502406,-72.668419
 1703244843,Acaena_elongata,6.5,-72.666667
-1702529483,Acaena_elongata,4.563417,-74.07875
 1269773039,Acaena_elongata,6.037861,-72.980528
 1702533315,Acaena_elongata,4.500667,-74.167444
 1257480303,Acaena_elongata,4.885804,-75.255711
@@ -116,7 +115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260117500,Acaena_elongata,-0.476389,-78.669167
 1253777369,Acaena_elongata,9.716666,-83.93466
 1260409769,Acaena_elongata,-0.35,-78.183333
-1098684048,Acaena_elongata,4.565986,-74.0138
 1895137604,Acaena_elongata,15.427778,-92.320833
 1253772841,Acaena_elongata,9.572222,-83.738889
 1936676084,Acaena_elongata,9.5722,-83.7389
@@ -324,9 +322,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895510578,Acaena_elongata,19.44201,-101.51328
 1896253804,Acaena_elongata,19.112222,-97.206667
 47717912,Acaena_elongata,-0.2,-78.166
-1261395212,Acaena_elongata,-0.81666,-78.85
 1261395315,Acaena_elongata,-0.2,-78.16666
-47717911,Acaena_elongata,-0.816,-78.85
 1893389211,Acaena_elongata,19.325,-99.291667
 1895510448,Acaena_elongata,19.760409,-100.797201
 1893647781,Acaena_elongata,19.691667,-100.555
@@ -351,12 +347,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895287116,Acaena_elongata,19.2025736836924,-98.7667611645498
 47717383,Acaena_elongata,-0.166,-78.583
 1261373864,Acaena_elongata,-0.16666,-78.58333
-47716993,Acaena_elongata,-0.166,-78.55
 1258949555,Acaena_elongata,9.47,-83.49
 1896253780,Acaena_elongata,19.208889,-98.757778
 1893647811,Acaena_elongata,19.211667,-98.756667
-1261373794,Acaena_elongata,-0.16666,-78.55
-1936432128,Acaena_elongata,-0.1667,-78.55
 1893647807,Acaena_elongata,19.471667,-98.796667
 1895287127,Acaena_elongata,19.468611,-98.7875
 1259308856,Acaena_elongata,19.47,-98.792778
@@ -494,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893389169,Acaena_elongata,19.591667,-102.041667
 1258886863,Acaena_elongata,14.84916,-91.38944
 1258886847,Acaena_elongata,19.33,-99.31
-1258886838,Acaena_elongata,19.223333,-95.793611
 1895287123,Acaena_elongata,20.2125,-98.696944
 1893389223,Acaena_elongata,19.208333,-98.791667
 1895287109,Acaena_elongata,19.4072851950582,-99.3778872982847
@@ -549,7 +541,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895510469,Acaena_elongata,15.2586201745964,-92.213538548273
 1893647780,Acaena_elongata,15.256667,-92.213333
 1895510456,Acaena_elongata,20.140305376827,-98.671764139629
-1844901475,Acaena_elongata,4.638237,-74.08433
 1895510437,Acaena_elongata,19.2984313161628,-99.3710227588844
 1989047972,Acaena_elongata,19.2788,-99.5648
 1261032077,Acaena_elongata,17.45,-100.166667
@@ -561,7 +552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258941547,Acaena_elongata,9.96,-83.85
 1319685042,Acaena_elongata,8.8,-70.85
 1259306246,Acaena_elongata,19.109722,-99.192222
-1848892296,Acaena_elongata,23,-102
 1259307003,Acaena_elongata,19.16666,-98.63333
 1989366118,Acaena_elongata,20.2449,-98.2069
 1988871065,Acaena_elongata,19.1325,-99.299
