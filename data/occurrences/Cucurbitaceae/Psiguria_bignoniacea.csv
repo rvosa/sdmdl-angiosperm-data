@@ -39,10 +39,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089189513,Psiguria_bignoniacea,-11.376056,-37.428889
 1089187341,Psiguria_bignoniacea,-7.470306,-34.968306
 1090666967,Psiguria_bignoniacea,-9.118611,-57.832222
-1042714344,Psiguria_bignoniacea,8.51751,-59.92
 1089195297,Psiguria_bignoniacea,-13.820833,-39.203889
 1424374815,Psiguria_bignoniacea,-4.748333,-56.769722
-1089183751,Psiguria_bignoniacea,-8.658333,-34.9
 2306799869,Psiguria_bignoniacea,9.15,-79.85
 1089185459,Psiguria_bignoniacea,-11.373056,-37.433333
 1927836112,Psiguria_bignoniacea,-11.3731,-37.4333
@@ -102,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260908343,Psiguria_bignoniacea,-5.063889,-78.721944
 1978411093,Psiguria_bignoniacea,-7.780278,-34.990556
 1090585120,Psiguria_bignoniacea,-0.924444,-46.67
-1077603256,Psiguria_bignoniacea,-9.235556,-35.085556
 1260766889,Psiguria_bignoniacea,8.839444,-80.6475
 1090520918,Psiguria_bignoniacea,-13.897778,-39.457222
 1090501883,Psiguria_bignoniacea,-14.703611,-39.6025
@@ -181,7 +178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260819888,Psiguria_bignoniacea,-9.2255,-35.8796
 1090482461,Psiguria_bignoniacea,-9.216667,-35.866667
 1456069489,Psiguria_bignoniacea,5.30139,-59.8978
-1257549226,Psiguria_bignoniacea,9,-84
 1258820917,Psiguria_bignoniacea,3.908333,-56.176389
 1455981587,Psiguria_bignoniacea,5.30167,-59.835
 1077592324,Psiguria_bignoniacea,-9.5995,-35.983247
@@ -201,7 +197,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260921280,Psiguria_bignoniacea,10.21944,-84.59305
 1253713832,Psiguria_bignoniacea,10.671389,-84.990278
 1228549992,Psiguria_bignoniacea,-6.57,-77.38
-1057106969,Psiguria_bignoniacea,84.75,-82.216667
 1213638714,Psiguria_bignoniacea,-13.918333,-59.763889
 1587304942,Psiguria_bignoniacea,-9.781944,-36.350833
 1258652827,Psiguria_bignoniacea,-0.65,-77.83333
@@ -252,7 +247,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 45854283,Psiguria_bignoniacea,10.88,-85.4
 1456139313,Psiguria_bignoniacea,4.71,-59.8461
 1931093700,Psiguria_bignoniacea,-2.429224,-59.888583
-1929031789,Psiguria_bignoniacea,-80.4944,-35.6958
 1087678043,Psiguria_bignoniacea,-8.782778,-35.808611
 1261560591,Psiguria_bignoniacea,10.29,-84.07
 45854176,Psiguria_bignoniacea,9.79,-83.73
@@ -321,8 +315,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1932873874,Psiguria_bignoniacea,-0.61,-72.33
 1253634560,Psiguria_bignoniacea,10.316667,-84.716667
 1261261872,Psiguria_bignoniacea,9.79,-83.09
-931011802,Psiguria_bignoniacea,6.147847,-77.428596
-931011867,Psiguria_bignoniacea,6.109825,-77.43474
 1253691876,Psiguria_bignoniacea,9.797222,-83.091667
 1065430227,Psiguria_bignoniacea,8.50682,-77.27816
 1261259472,Psiguria_bignoniacea,-2.516667,-76.8
@@ -403,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261259366,Psiguria_bignoniacea,-3.8,-73.416667
 1261259768,Psiguria_bignoniacea,10.304722,-84.775278
 1587303966,Psiguria_bignoniacea,-9.318889,-36.471111
-1094723578,Psiguria_bignoniacea,-13.95,-38.45
 1587303949,Psiguria_bignoniacea,-9.781111,-36.093611
 1270043445,Psiguria_bignoniacea,6.216667,-61.466667
 1930452834,Psiguria_bignoniacea,-11.92,-55.33
@@ -420,10 +411,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261259989,Psiguria_bignoniacea,10.293889,-84.773333
 1261261288,Psiguria_bignoniacea,10.29083,-84.79694
 2290065728,Psiguria_bignoniacea,-15.966667,-67.616667
-1055468070,Psiguria_bignoniacea,4.7936,-58.9794
-1697944478,Psiguria_bignoniacea,6.25,-77.4167
 1261261461,Psiguria_bignoniacea,9.166667,-79.416389
-1261261383,Psiguria_bignoniacea,6.25,-77.416667
 1261260165,Psiguria_bignoniacea,10.21,-84.53
 1261260176,Psiguria_bignoniacea,10.36,-84.5
 1261260783,Psiguria_bignoniacea,-10.2,-75.23333
@@ -431,7 +419,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042644998,Psiguria_bignoniacea,-5.916667,-55.67
 1261261908,Psiguria_bignoniacea,1.233333,-70.233333
 1930135084,Psiguria_bignoniacea,-5.916667,-55.666667
-911785176,Psiguria_bignoniacea,11.32129,-74.06344
 1042535911,Psiguria_bignoniacea,-4.383333,-59.58
 1930390838,Psiguria_bignoniacea,-4.383333,-59.583333
 1258718454,Psiguria_bignoniacea,10.23,-84.61
@@ -472,8 +459,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928963603,Psiguria_bignoniacea,-3.866667,-49.733333
 1802559647,Psiguria_bignoniacea,-3.87,-49.73
 1042592195,Psiguria_bignoniacea,-3.866667,-49.73
-1802596213,Psiguria_bignoniacea,-0.98,-46.25
-1042505261,Psiguria_bignoniacea,-0.983333,-46.25
 1929163698,Psiguria_bignoniacea,-1.05693368983322,-46.7659813902999
 1258924801,Psiguria_bignoniacea,8.712222,-79.903333
 1929956116,Psiguria_bignoniacea,-5.145876,-61.757154
@@ -506,7 +491,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928737293,Psiguria_bignoniacea,-3.396906,-55.059354
 1930795052,Psiguria_bignoniacea,-0.53,-52.85
 1228272556,Psiguria_bignoniacea,-4,-53
-2268813445,Psiguria_bignoniacea,9.283333,-85.433333
 1258712307,Psiguria_bignoniacea,11.05,-84.05
 1930121467,Psiguria_bignoniacea,-9.084415,-54.915966
 1258742298,Psiguria_bignoniacea,-9.16638,-75.79222
@@ -594,7 +578,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268834491,Psiguria_bignoniacea,9.233889,-79.372222
 2268821574,Psiguria_bignoniacea,9.233333,-79.358333
 1228343194,Psiguria_bignoniacea,10.0114,-83.9519
-1802553006,Psiguria_bignoniacea,84.042,-12.167
 1928284131,Psiguria_bignoniacea,-7.61785369737605,-72.8975579938197
 1930813905,Psiguria_bignoniacea,-7.508793,-63.362754
 1927834254,Psiguria_bignoniacea,-3.038526,-58.806252
