@@ -28,7 +28,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701313078,Sedum_anglicum,62.5726,7.6562
 204436649,Sedum_anglicum,42.703999,0.271
 2325755167,Sedum_anglicum,62.572694,7.65671
-1060491452,Sedum_anglicum,52,-9.5
 198470106,Sedum_anglicum,43.080002,-4.78
 198470113,Sedum_anglicum,43.080002,-4.79
 1701966078,Sedum_anglicum,63.1153,7.7463
@@ -90,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702433284,Sedum_anglicum,61.1482,6.0645
 1701931918,Sedum_anglicum,61.1143,6.3833
 1702433322,Sedum_anglicum,61.1654,5.8304
-1050621449,Sedum_anglicum,42.05,-8.7
 1851371308,Sedum_anglicum,43.068,-5.082
 1705264270,Sedum_anglicum,58.440151,11.289306
 1851344941,Sedum_anglicum,42.927,-4.918
@@ -102,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936393166,Sedum_anglicum,42.921,-6.6244
 1936393252,Sedum_anglicum,42.9721,-6.4876
 204435886,Sedum_anglicum,43.264999,-1.392
-1851583265,Sedum_anglicum,40.3,-5.77
 204435888,Sedum_anglicum,43.113998,-1.531
 1050613538,Sedum_anglicum,42.98,-4.74
 204435895,Sedum_anglicum,43.178001,-1.579
@@ -118,7 +115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936366495,Sedum_anglicum,42.9813,-4.4731
 187256602,Sedum_anglicum,63.4374,8.9098
 199504426,Sedum_anglicum,36.61994,-4.70721
-1851363889,Sedum_anglicum,42.861,-4.5
 1050613566,Sedum_anglicum,43.17,-2.01
 204436099,Sedum_anglicum,43.27,-1.762
 204436098,Sedum_anglicum,43.013,-1.362
@@ -130,9 +126,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851367393,Sedum_anglicum,42.903,-4.733
 204436095,Sedum_anglicum,42.950001,-0.836
 1936155721,Sedum_anglicum,40.276,-5.2361
-1050613533,Sedum_anglicum,43,-4.76
 1936602981,Sedum_anglicum,42.976,-4.8409
-1050613523,Sedum_anglicum,43.2,-3.16
 199503944,Sedum_anglicum,36.61821,-4.65433
 1851404505,Sedum_anglicum,42.39,-6.75
 1702508820,Sedum_anglicum,43.04,-1.62
@@ -156,7 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701914944,Sedum_anglicum,60.32605,6.17715
 204436370,Sedum_anglicum,43.175999,-2.403
 1050631463,Sedum_anglicum,43.21,-2.47
-1851380340,Sedum_anglicum,43,-6.24
 204436111,Sedum_anglicum,43.18,-1.739
 204436112,Sedum_anglicum,43.153,-1.752
 204436363,Sedum_anglicum,43.203999,-3.166
@@ -169,14 +162,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204436371,Sedum_anglicum,43.212002,-2.452
 211637713,Sedum_anglicum,43.189999,-4.96
 1936602969,Sedum_anglicum,42.9828,-4.3505
-204436114,Sedum_anglicum,43.216,-1.8
 1851342787,Sedum_anglicum,42.91,-5.76
 204436109,Sedum_anglicum,43.234001,-1.787
 1936092416,Sedum_anglicum,42.2577,-7.3041
-1851324354,Sedum_anglicum,43,-5.76
 318230725,Sedum_anglicum,59.1037,5.6735
 204436366,Sedum_anglicum,43.257999,-2.686
-204436361,Sedum_anglicum,43.140999,-3.4
 204436115,Sedum_anglicum,43.234001,-1.799
 1851411871,Sedum_anglicum,43.01,-6.36
 1050613537,Sedum_anglicum,43.13,-3.43
@@ -188,8 +178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204436119,Sedum_anglicum,43.171001,-1.813
 204436367,Sedum_anglicum,43.203999,-3.252
 204436117,Sedum_anglicum,43.171001,-1.764
-204436365,Sedum_anglicum,43.230999,-2.6
-1050631477,Sedum_anglicum,43.2,-3.25
 204436116,Sedum_anglicum,43.224998,-1.775
 1050631480,Sedum_anglicum,43.04,-2.77
 1851322964,Sedum_anglicum,43.01,-6.48
@@ -201,7 +189,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204436121,Sedum_anglicum,43.313,-1.637
 1050613502,Sedum_anglicum,42.95,-2.43
 1050613570,Sedum_anglicum,43.03,-2.78
-1050613550,Sedum_anglicum,43.18,-3
 204436372,Sedum_anglicum,43.033001,-2.785
 1936434719,Sedum_anglicum,43.1517,-5.0921
 318230733,Sedum_anglicum,59.1917,5.9627
@@ -230,7 +217,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144072607,Sedum_anglicum,62.6104,6.1842
 1701914902,Sedum_anglicum,60.1623,6.2979
 1701305392,Sedum_anglicum,63.437,8.9168
-211637805,Sedum_anglicum,43.5,-6.45
 211637831,Sedum_anglicum,43.560001,-6.72
 187256679,Sedum_anglicum,63.6258,9.1311
 788551200,Sedum_anglicum,59.61664,5.38287
@@ -239,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701293356,Sedum_anglicum,63.1404,8.514
 1981551153,Sedum_anglicum,63.68036,9.53916
 211638139,Sedum_anglicum,43.57,-7.71
-211637655,Sedum_anglicum,43.549999,-6.4
 211637738,Sedum_anglicum,43.16,-5.94
 1701691969,Sedum_anglicum,60.37037,5.41776
 211637816,Sedum_anglicum,43.560001,-6.62
@@ -249,7 +234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701334848,Sedum_anglicum,61.4893,5.1018
 1701250722,Sedum_anglicum,63.0449,7.6258
 187256655,Sedum_anglicum,62.6731,6.6666
-211637838,Sedum_anglicum,43.049999,-6
 211637840,Sedum_anglicum,43.099998,-6.05
 211637812,Sedum_anglicum,43.549999,-6.68
 1701254591,Sedum_anglicum,62.4107,5.6217
@@ -421,6 +405,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144072536,Sedum_anglicum,60.2556,6.5724
 1702388600,Sedum_anglicum,60.4282,6.5521
 1701914926,Sedum_anglicum,60.2556,6.5722
-1842864447,Sedum_anglicum,42.4,2.21
 1705319129,Sedum_anglicum,57.62954,11.80584
 1273864281,Sedum_anglicum,62.47619,6.89627
