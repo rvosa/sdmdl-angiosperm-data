@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268776371,Lyrocarpa_coulteri,33.104,-116.248333
 416047729,Lyrocarpa_coulteri,33.851,-116.2289
-1257769756,Lyrocarpa_coulteri,29,-114
 1846514331,Lyrocarpa_coulteri,29.1475,-110.951389
 1895646747,Lyrocarpa_coulteri,26.986389,-112.016667
 1895646839,Lyrocarpa_coulteri,26.786389,-111.863333
@@ -47,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893643757,Lyrocarpa_coulteri,31.481667,-116.371667
 1895487352,Lyrocarpa_coulteri,29.62974,-115.1848
 1260056254,Lyrocarpa_coulteri,28.033333,-110.816667
-1259295916,Lyrocarpa_coulteri,29.616667,-115.2
 2270507794,Lyrocarpa_coulteri,28.056113,-110.768354
 2270508079,Lyrocarpa_coulteri,29.736703,-114.720833
 1846550595,Lyrocarpa_coulteri,32.31493,-113.82411
@@ -108,7 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270262914,Lyrocarpa_coulteri,33.24176,-116.42855
 1895394485,Lyrocarpa_coulteri,29.48718,-114.30321
 1893421572,Lyrocarpa_coulteri,28.475,-113.425
-1895487513,Lyrocarpa_coulteri,31.916667,-113.6
 2270600532,Lyrocarpa_coulteri,32.0242,-112.891
 2270601632,Lyrocarpa_coulteri,32.07,-112.79
 1258856553,Lyrocarpa_coulteri,31.97,-113.62
@@ -123,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846550625,Lyrocarpa_coulteri,29.183333,-114.05
 1893405950,Lyrocarpa_coulteri,25.858333,-111.575
 2270510004,Lyrocarpa_coulteri,27.632882,-112.926704
-1846550906,Lyrocarpa_coulteri,29.33,-114.5
 1259295049,Lyrocarpa_coulteri,29.616667,-114.583333
 1259295549,Lyrocarpa_coulteri,29.516667,-115.266667
 1846550379,Lyrocarpa_coulteri,27.173949,-113.622837
