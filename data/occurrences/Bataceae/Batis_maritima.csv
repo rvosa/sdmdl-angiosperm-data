@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2269017217,Batis_maritima,13.2,-86.733333
 1503282258,Batis_maritima,30.6247,-81.49
 1676085812,Batis_maritima,28.0114,-82.6169
 1427574761,Batis_maritima,10.440845,-75.468291
@@ -22,7 +21,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895672236,Batis_maritima,24.343222,-111.457472
 1895672189,Batis_maritima,24.296639,-111.366917
 1077605810,Batis_maritima,-11.271667,-37.531389
-1099325268,Batis_maritima,-4.9475,-37.1
 1089251084,Batis_maritima,-4.9475,-37.108056
 1269619974,Batis_maritima,29.32257,-89.95115
 1257849931,Batis_maritima,15.210833,-92.810833
@@ -91,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894421359,Batis_maritima,18.648139,-91.955833
 1894421324,Batis_maritima,18.692861,-91.9515
 1894821564,Batis_maritima,23.541667,-109.975
-1895147017,Batis_maritima,16.154167,-94.1
 1894821976,Batis_maritima,26.058333,-112.291667
 1269667555,Batis_maritima,29.138667,-90.184167
 1257832884,Batis_maritima,15.83,-95.958889
@@ -118,9 +115,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895307348,Batis_maritima,23.302778,-110.162778
 1895307386,Batis_maritima,24.681667,-110.733333
 1503240987,Batis_maritima,27.2036,-82.4989
-1894550731,Batis_maritima,18.375556,-93
 1931281496,Batis_maritima,17.96659,-66.89875
-1258381015,Batis_maritima,11,-83.766667
 1895362445,Batis_maritima,21.493563300039,-105.196364791863
 2270513250,Batis_maritima,26.65,-109.331
 1895646100,Batis_maritima,26.575,-109.318055
@@ -178,7 +173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259351102,Batis_maritima,27.95,-111.066667
 2270515198,Batis_maritima,27.961041,-111.038645
 1259348418,Batis_maritima,21.983333,-105.466667
-1259912359,Batis_maritima,16,-97.53333
 1895235731,Batis_maritima,16.169167,-95.158333
 1895362420,Batis_maritima,16.1844435090536,-95.1853032224294
 1260833597,Batis_maritima,10.10166,-65.20555
@@ -193,7 +187,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259652481,Batis_maritima,18.51666,-71.83333
 1893595493,Batis_maritima,15.327528,-92.625261
 1895362516,Batis_maritima,15.3350033456778,-92.6207683641555
-890165705,Batis_maritima,30.5,-116
 1893595372,Batis_maritima,21.54,-105.285
 1261461130,Batis_maritima,21.533333,-105.25
 1259350867,Batis_maritima,21.55,-105.25
@@ -204,10 +197,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895797887,Batis_maritima,23.708333,-97.758333
 1273756947,Batis_maritima,10.253608,-75.551719
 1896236495,Batis_maritima,18.347778,-93.076667
-1259349976,Batis_maritima,22.2,-97.93333
-1936151623,Batis_maritima,22.2,-97.9333
 1894463603,Batis_maritima,22.216667,-97.966667
-2291564314,Batis_maritima,22.2,-97.933333
 1896236517,Batis_maritima,22.225,-97.975
 931006747,Batis_maritima,8.85,-76.433333
 1893595414,Batis_maritima,23.80869,-97.80666
@@ -220,13 +210,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895646146,Batis_maritima,19.413889,-90.717778
 1893765933,Batis_maritima,24.402778,-107.633056
 1893595426,Batis_maritima,19.355,-90.721667
-1894463660,Batis_maritima,19.583333,-96.4
 1261461169,Batis_maritima,20.333333,-77.133333
 1896236487,Batis_maritima,19.591667,-96.408333
 1273756975,Batis_maritima,10.55,-75.483333
 1261461174,Batis_maritima,10.55,-75.48333
 1259348981,Batis_maritima,19.435833,-105.024444
-1096611344,Batis_maritima,25.2,-80.88
 1228293417,Batis_maritima,-9.07,-78.63
 1259654958,Batis_maritima,19.85,-72.916667
 1928121694,Batis_maritima,19.57,-72.63
@@ -255,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895646132,Batis_maritima,18.981111,-91.200278
 2270177941,Batis_maritima,33.715985,-118.068312
 1895646096,Batis_maritima,30.452778,-116.031076
-1988088037,Batis_maritima,21.3,-157.8
 1259970203,Batis_maritima,-2.050435,-80.736237
 47730614,Batis_maritima,-2.05,-80.716
 2270512651,Batis_maritima,27.95,-111.067
@@ -264,8 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421407272,Batis_maritima,21.241667,-86.986111
 1269524519,Batis_maritima,11.00821,-74.70361
 1259349828,Batis_maritima,26.751389,-111.8925
-1259657189,Batis_maritima,18.36666,-71.5
-1931349231,Batis_maritima,18.37,-71.5
 1896236472,Batis_maritima,14.758333,-92.425
 1895362389,Batis_maritima,16.1368405314114,-95.309050003775
 1895235734,Batis_maritima,16.180833,-95.227778
@@ -282,9 +267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099315839,Batis_maritima,-6.35,-35.033333
 1896236466,Batis_maritima,19.091667,-96.116667
 1228330708,Batis_maritima,19.3333,-96.6667
-47731108,Batis_maritima,-3.266,-80
-1259652945,Batis_maritima,18.3,-70.98333
-1261461133,Batis_maritima,-3.26666,-80
 1421405518,Batis_maritima,18.424444,-93.408333
 1259348136,Batis_maritima,18.429722,-93.418889
 1258489113,Batis_maritima,20.83,-90.33
@@ -300,7 +282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258489121,Batis_maritima,19.75,-87.58333
 2270262167,Batis_maritima,33.642585,-117.885482
 1895646120,Batis_maritima,31.718333,-116.662912
-1259349799,Batis_maritima,19.766667,-87.6
 1258875929,Batis_maritima,27.95,-111.05
 1894463596,Batis_maritima,22.216667,-98.033333
 1896236488,Batis_maritima,21.341667,-88.841667
@@ -329,7 +310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893392656,Batis_maritima,16.191667,-95.208333
 1893392738,Batis_maritima,16.208333,-95.208333
 35437042,Batis_maritima,21.55,-158.217
-2290481331,Batis_maritima,6.633333,-57.9
 415961427,Batis_maritima,25.17416,-80.93277
 1893588660,Batis_maritima,28.821944,-111.941111
 1838084209,Batis_maritima,26.7833,-111.867
@@ -338,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895646029,Batis_maritima,26.780833,-113.680112
 1944836935,Batis_maritima,-10.8339,-52.8731
 1890895124,Batis_maritima,11.008889,-74.930905
-1258489147,Batis_maritima,18.41,-93.2
 1895646123,Batis_maritima,30.431944,-116.01754
 2291565430,Batis_maritima,-2.233333,-79.883333
 47731334,Batis_maritima,-2.233,-79.883
@@ -360,7 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897823286,Batis_maritima,20.906556,-156.684556
 1269524257,Batis_maritima,10.985831,-74.536661
 1844905386,Batis_maritima,10.978153,-74.325761
-35439550,Batis_maritima,21.2833,-157.7
 1895797899,Batis_maritima,25.225,-97.691667
 1895797881,Batis_maritima,25.475,-97.391667
 2290513645,Batis_maritima,5.947569,-57.038978
@@ -368,7 +346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895362461,Batis_maritima,23.2365316639332,-106.415571091283
 1934686652,Batis_maritima,10.991415,-74.238731
 1934687281,Batis_maritima,10.989203,-74.289835
-1426099942,Batis_maritima,34,-118
 1895362415,Batis_maritima,16.3610582378198,-95.0186077950763
 2013823984,Batis_maritima,10.888714,-74.05574
 1944821562,Batis_maritima,4.1006,-55.625
@@ -385,7 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426160348,Batis_maritima,32.62046,-117.11664
 1928381280,Batis_maritima,18.1905,-71.207812
 1259351341,Batis_maritima,22.25,-97.86
-35440897,Batis_maritima,21.3,-157.85
 1259667389,Batis_maritima,17.87,-77.05
 1930984425,Batis_maritima,19.975577,-75.131227
 1930202511,Batis_maritima,22.718349,-82.287619
