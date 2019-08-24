@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291379607,Albizia_corniculata,18.56135,98.6311
 2303404546,Albizia_corniculata,12.6162,105.266
-731837156,Albizia_corniculata,10.52583,103.61194
 575277193,Albizia_corniculata,11.665556,103.471111
 437207444,Albizia_corniculata,11.66556,103.47111
 2288809655,Albizia_corniculata,17.687983,105.206767
@@ -17,13 +16,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290745830,Albizia_corniculata,5.016667,115.033333
 1697857076,Albizia_corniculata,11.272854,107.122463
 2290745585,Albizia_corniculata,4.65,114.433333
-2290320672,Albizia_corniculata,-5.266667,121.933333
 2288365516,Albizia_corniculata,22.483333,114.183333
 2290294866,Albizia_corniculata,5.533333,115.783333
 2289238238,Albizia_corniculata,5.516666,115.683333
 2289004817,Albizia_corniculata,5.583333,115.883333
 2290696196,Albizia_corniculata,6.316667,116.733333
-2290745739,Albizia_corniculata,5.5375,115.545833
 1030920582,Albizia_corniculata,24.175587,110.235565
 2290745485,Albizia_corniculata,5.533333,115.666666
 2290745840,Albizia_corniculata,5.266666,116.966666
@@ -34,11 +31,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290745810,Albizia_corniculata,13.466667,100.866667
 2290745883,Albizia_corniculata,6.583333,116.616666
 2290746243,Albizia_corniculata,5.833333,117.933333
-2289807935,Albizia_corniculata,12.25,102.166667
-2290746009,Albizia_corniculata,6.966667,116.733333
 2290746053,Albizia_corniculata,4.616667,114.316667
 2289989642,Albizia_corniculata,5.983333,116.066667
-2289949471,Albizia_corniculata,6.933333,116.8
 2290496629,Albizia_corniculata,5.966666,116.1
 1030993520,Albizia_corniculata,22.082121,109.876746
 1030788911,Albizia_corniculata,23.053949,113.054691
@@ -66,8 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303835148,Albizia_corniculata,21.981682,108.653798
 1303746892,Albizia_corniculata,25.22845,113.217309
 2290745767,Albizia_corniculata,21.433333,107.766667
-1303746928,Albizia_corniculata,11.318545,116.562386
-1303746891,Albizia_corniculata,11.652236,116.455078
 1030993481,Albizia_corniculata,21.741852,107.997805
 1303835151,Albizia_corniculata,25.175621,110.351669
 1030993470,Albizia_corniculata,18.745108,109.17663
