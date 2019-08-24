@@ -43,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270495066,Silene_antirrhina,34.836334,-112.050949
 2270491710,Silene_antirrhina,34.8368,-112.056664
 2270576474,Silene_antirrhina,34.886734,-112.313202
-1258018584,Silene_antirrhina,37.0781,-91.2
 1257979405,Silene_antirrhina,38.022361,-90.234333
 2236190241,Silene_antirrhina,39.0568,-76.7414
 1699347166,Silene_antirrhina,30.475667,-97.792333
@@ -60,11 +59,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846555005,Silene_antirrhina,33.107148,-111.129675
 1503269102,Silene_antirrhina,30.0558,-82.0672
 1849123048,Silene_antirrhina,33.2719,-80.4044
-1257911001,Silene_antirrhina,43.966667,-99.2
 1895932868,Silene_antirrhina,30.41,-110.547778
 1846519058,Silene_antirrhina,36.143748,-111.835883
 1030487510,Silene_antirrhina,42.765222,-84.372556
-1417512757,Silene_antirrhina,48.616667,-78.3
 1899338998,Silene_antirrhina,44.303079999057,-78.29764
 730763739,Silene_antirrhina,45.05455,-116.800267
 730763740,Silene_antirrhina,45.05684,-116.78396
@@ -208,7 +205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849171079,Silene_antirrhina,35.1989,-82.2799
 177030576,Silene_antirrhina,38.446111,-96.586667
 1260570751,Silene_antirrhina,38.65166,-90.74083
-1988191781,Silene_antirrhina,51.4,-122.3
 1986952484,Silene_antirrhina,41.0325,-73.775278
 1843894383,Silene_antirrhina,35.5533,-106.8215
 1846498651,Silene_antirrhina,33.763583,-113.3286
@@ -238,7 +234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668755019,Silene_antirrhina,46.791389,-71.282778
 415926739,Silene_antirrhina,41.9152,-73.36527
 177030535,Silene_antirrhina,39.085278,-96.820556
-415967981,Silene_antirrhina,42.1,-72.55
 177030552,Silene_antirrhina,37.780556,-95.9125
 2265445221,Silene_antirrhina,45.10082,-93.157698
 2265428527,Silene_antirrhina,48.142676,-91.106927
@@ -287,10 +282,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846531785,Silene_antirrhina,37.103583,-110.8532
 2270587405,Silene_antirrhina,33.8388,-111.963
 177030548,Silene_antirrhina,39.569481,-95.047732
-56666851,Silene_antirrhina,34.77,-86
 177030537,Silene_antirrhina,40.7674,-96.7192
 177030510,Silene_antirrhina,38.920834,-108.495834
-177030541,Silene_antirrhina,38.1,-98.0833
 1988598590,Silene_antirrhina,44.214586,-85.887548
 415967730,Silene_antirrhina,41.77527,-72.52472
 177030531,Silene_antirrhina,38.366667,-96.591667
@@ -354,7 +347,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500201431,Silene_antirrhina,31.707778,-104.780556
 1260979255,Silene_antirrhina,36.80611,-91.36138
 177030656,Silene_antirrhina,39.380283,-94.932377
-623689739,Silene_antirrhina,35.316667,-120.6
 1893592443,Silene_antirrhina,28.375,-108.791667
 177030657,Silene_antirrhina,39.339435,-94.912489
 1846531678,Silene_antirrhina,37.858448,-110.175502
@@ -367,11 +359,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257685870,Silene_antirrhina,36.5083,-90.6031
 1257685865,Silene_antirrhina,36.7883,-90.3822
 2265429337,Silene_antirrhina,45.561111,-93.413333
-1426446788,Silene_antirrhina,34.3,-117.166667
 2265444134,Silene_antirrhina,43.536572,-92.538986
-2270655921,Silene_antirrhina,36.05,-111.7
 177030652,Silene_antirrhina,38.937465,-94.987465
-1846531530,Silene_antirrhina,33.897778,-110.9
 177030654,Silene_antirrhina,37.54996,-95.2688
 56665746,Silene_antirrhina,31.13083,-85.08389
 2270657403,Silene_antirrhina,33.7629,-110.834
@@ -428,7 +417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270653222,Silene_antirrhina,33.9058,-112.681
 2270584448,Silene_antirrhina,33.3333,-110.833
 415967720,Silene_antirrhina,41.49527,-72.53111
-1988088032,Silene_antirrhina,49.1,-123.1
 1989332267,Silene_antirrhina,45.99789,-88.26619
 1988949003,Silene_antirrhina,46.14298,-88.36391
 1703290938,Silene_antirrhina,50.0168994564849,-96.8832188343194
@@ -483,7 +471,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804385458,Silene_antirrhina,44.75,-76.533333
 2270656152,Silene_antirrhina,33.6333,-111.665
 2270656568,Silene_antirrhina,33.3408,-112.091
-1611936951,Silene_antirrhina,31.8,-106.025
 1929614647,Silene_antirrhina,37.29477,-109.5029
 1261001514,Silene_antirrhina,39.02555,-90.92638
 1261465634,Silene_antirrhina,38.2948,-90.423
@@ -503,7 +490,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988720541,Silene_antirrhina,45.083499,-83.44156
 1804577849,Silene_antirrhina,45.491667,-76.083333
 1989431264,Silene_antirrhina,44.486304,-84.137195
-1899381275,Silene_antirrhina,44.833333,-79.4
 1703296489,Silene_antirrhina,50.4166669990739,-95.683333
 1989370950,Silene_antirrhina,44.727184,-86.111326
 177030547,Silene_antirrhina,43.967607,-104.267527
@@ -527,10 +513,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846530817,Silene_antirrhina,33.320944,-111.03475
 1846530801,Silene_antirrhina,33.589713,-111.596703
 1426283352,Silene_antirrhina,36.508333,-118.808333
-1426283423,Silene_antirrhina,36.525,-118.8
 1949598486,Silene_antirrhina,49.105278,-122.116667
 1929387782,Silene_antirrhina,36.84582,-114.8646
-1949598352,Silene_antirrhina,49.9,-121.425
 1949629002,Silene_antirrhina,50.233333,-121.566667
 1949629015,Silene_antirrhina,50.666667,-120.316667
 2265401871,Silene_antirrhina,45.108893,-96.042227
@@ -540,13 +524,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265401095,Silene_antirrhina,43.797643,-92.499267
 1988714332,Silene_antirrhina,44.920985,-84.041751
 2265401710,Silene_antirrhina,44.233108,-91.917245
-1949628852,Silene_antirrhina,49.05,-119
 1804382636,Silene_antirrhina,53.783333,-98.283333
 1843866573,Silene_antirrhina,33.343989,-107.940083
-1949628844,Silene_antirrhina,49.1,-118.683333
-1804514339,Silene_antirrhina,51.933333,-98.8
 1949633198,Silene_antirrhina,50.316667,-122.716667
-1949629125,Silene_antirrhina,49.1,-117.7
 1949628890,Silene_antirrhina,49.316667,-117.625
 1949598418,Silene_antirrhina,49.561667,-121.413333
 2270655398,Silene_antirrhina,32.44,-112.685
@@ -558,15 +538,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265400799,Silene_antirrhina,45.416899,-94.04856
 177030520,Silene_antirrhina,38.77492,-95.12123
 1949641803,Silene_antirrhina,49.033333,-119.45
-1611935573,Silene_antirrhina,30.705556,-104.1
-1949641859,Silene_antirrhina,49.5,-119.583333
 2265401671,Silene_antirrhina,43.710437,-92.939849
 2265402496,Silene_antirrhina,43.753104,-91.880007
 2265402043,Silene_antirrhina,43.724883,-92.759467
 606657235,Silene_antirrhina,41.98444,-72.77944
 1039019018,Silene_antirrhina,40.473069,-79.972229
 1949640860,Silene_antirrhina,50.608333,-122.333333
-1804387931,Silene_antirrhina,45,-79.533333
 177030525,Silene_antirrhina,37.02375,-94.73514
 441840377,Silene_antirrhina,48.88333,-118.76667
 1893937793,Silene_antirrhina,30.991667,-116.108333
@@ -575,7 +552,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846530522,Silene_antirrhina,33.406801,-111.353387
 1611942548,Silene_antirrhina,31.95,-106.516667
 1563372719,Silene_antirrhina,31.913889,-106.461667
-2270653680,Silene_antirrhina,33.66,-113.2
 1563372725,Silene_antirrhina,31.890278,-106.461111
 1949602660,Silene_antirrhina,48.85,-124.016667
 1893431867,Silene_antirrhina,31.508333,-116.308333
@@ -599,7 +575,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846530423,Silene_antirrhina,33.6033,-111.5538
 2270654482,Silene_antirrhina,36.5502,-114.031
 1563370440,Silene_antirrhina,31.903611,-106.456111
-1563370405,Silene_antirrhina,31.85,-106.5
 2270655605,Silene_antirrhina,31.6877,-110.969
 1611936307,Silene_antirrhina,31.892778,-106.466667
 1949602945,Silene_antirrhina,48.658333,-123.741667
@@ -611,11 +586,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265402039,Silene_antirrhina,46.295833,-94.258611
 1703296484,Silene_antirrhina,49.866667,-98.266667
 1258632374,Silene_antirrhina,38.6713,-90.1456
-1262003600,Silene_antirrhina,45.85,-77
 177030532,Silene_antirrhina,44.852191,-104.810695
 1949602513,Silene_antirrhina,49.633333,-124.05
 1928454068,Silene_antirrhina,44.8514,-104.8252
-1949602545,Silene_antirrhina,49.9,-124.55
 2270655791,Silene_antirrhina,32.98435,-110.72236
 177030592,Silene_antirrhina,38.95879,-98.25035
 177030621,Silene_antirrhina,38.282,-98.03028
@@ -651,7 +624,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177030588,Silene_antirrhina,38.61409,-95.04405
 177030646,Silene_antirrhina,37.65551,-98.2205
 177030563,Silene_antirrhina,37.240304,-99.981802
-1259362815,Silene_antirrhina,31.2,-116.31666
 1843866752,Silene_antirrhina,32.657449,-106.461269
 177030591,Silene_antirrhina,38.53362,-95.99591
 177030602,Silene_antirrhina,39.55967,-95.12758
@@ -675,10 +647,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843866286,Silene_antirrhina,34.43435,-107.084357
 177030590,Silene_antirrhina,38.72653,-96.66035
 177030615,Silene_antirrhina,37.27538,-97.16877
-1988226075,Silene_antirrhina,49.6,-119.7
-1988111220,Silene_antirrhina,49.1,-122.2
 177030556,Silene_antirrhina,37.45026,-99.15278
-1899381298,Silene_antirrhina,44.9,-79.333333
 177030600,Silene_antirrhina,37.20139,-99.41119
 1899381290,Silene_antirrhina,45.066667,-77.866667
 2270586225,Silene_antirrhina,33.5092,-111.898
@@ -703,10 +672,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270577096,Silene_antirrhina,32.4933,-110.77
 1929161926,Silene_antirrhina,32.057,-110.63019
 1929651076,Silene_antirrhina,32.19,-107.62
-2270657786,Silene_antirrhina,32.73,-111.8
 1893937761,Silene_antirrhina,31.708333,-116.675
-2270512891,Silene_antirrhina,31.7,-116.667
-46387298,Silene_antirrhina,31.65,-116.3
 1258147820,Silene_antirrhina,38.04,-93.97
 177030622,Silene_antirrhina,39.37653,-99.34435
 177030601,Silene_antirrhina,39.03825,-95.13484
@@ -730,8 +696,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177030580,Silene_antirrhina,37.65,-98.48127
 473488351,Silene_antirrhina,45.552525,-73.155384
 2273381817,Silene_antirrhina,35.163429,-83.013473
-1988085399,Silene_antirrhina,49.6,-121.4
-1949506419,Silene_antirrhina,49.2,-115.216667
 2270586939,Silene_antirrhina,33.5965,-112.557
 2270511702,Silene_antirrhina,30.771304,-109.892021
 859261691,Silene_antirrhina,29.19739,-98.20597
@@ -860,7 +824,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177030586,Silene_antirrhina,38.80901,-96.16988
 2265402346,Silene_antirrhina,48.230794,-91.917027
 1703287389,Silene_antirrhina,49.3689002032402,-96.1091875520523
-1228200735,Silene_antirrhina,41.7,-86.6667
 1248705166,Silene_antirrhina,47.289167,-79.460556
 1988195419,Silene_antirrhina,49.03,-118.43
 177030587,Silene_antirrhina,37.51727,-96.92287
@@ -877,10 +840,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265400659,Silene_antirrhina,48.428244,-92.527018
 2265401810,Silene_antirrhina,48.420135,-92.539456
 1322545648,Silene_antirrhina,38.3769,-78.0286
-1988068819,Silene_antirrhina,49.5,-121.5
 1703296471,Silene_antirrhina,50.227414,-96.5254
 694300534,Silene_antirrhina,48.00663,-89.58458
-1988147173,Silene_antirrhina,49.5,-88.5
 2265402782,Silene_antirrhina,48.606257,-93.024038
 2265401726,Silene_antirrhina,48.461576,-92.856541
 2265402755,Silene_antirrhina,48.46695,-92.92657
@@ -901,7 +862,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989172570,Silene_antirrhina,47.391577,-88.013163
 2265403368,Silene_antirrhina,46.7385,-92.17336
 1039023882,Silene_antirrhina,41.4638,-72.1567
-1988116518,Silene_antirrhina,49.3,-115.1
 415967984,Silene_antirrhina,43.12055,-71.19694
 177030611,Silene_antirrhina,39.000784,-95.626093
 177030643,Silene_antirrhina,37.798832,-95.845789
@@ -914,13 +874,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265402162,Silene_antirrhina,44.818658,-93.044965
 1989499114,Silene_antirrhina,45.615958,-85.068126
 1703296439,Silene_antirrhina,53.1632139990952,-99.269811
-1988147863,Silene_antirrhina,49.1,-116.5
 2265400824,Silene_antirrhina,45.326076,-95.032792
 1949470317,Silene_antirrhina,49.633333,-116.783333
 1988075164,Silene_antirrhina,49.67,-116.82
 415967727,Silene_antirrhina,41.95388,-72.78861
 415967982,Silene_antirrhina,35.48777,-81.96361
-1988112091,Silene_antirrhina,50.3,-115.9
 415945002,Silene_antirrhina,43.30555,-70.84611
 2265400037,Silene_antirrhina,47.958468,-89.703576
 177030566,Silene_antirrhina,39.532271,-95.269788
@@ -947,7 +905,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949464277,Silene_antirrhina,50.333333,-115.85
 2265402866,Silene_antirrhina,46.75505,-92.15096
 2270655383,Silene_antirrhina,34.45,-111.38
-2270655525,Silene_antirrhina,33.4111,-111.4
 2270654329,Silene_antirrhina,32.21278,-111.00556
 2270668247,Silene_antirrhina,33.43,-111.42
 1846531304,Silene_antirrhina,32.665292,-110.705918
@@ -960,7 +917,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265404547,Silene_antirrhina,46.151275,-95.583213
 1846531299,Silene_antirrhina,32.328893,-110.797325
 1260961891,Silene_antirrhina,36.23361,-89.74944
-1988206248,Silene_antirrhina,49,-116.5
 1228217583,Silene_antirrhina,41.95,-88.4333
 2265402713,Silene_antirrhina,47.19557,-95.233216
 2265401508,Silene_antirrhina,48.280155,-92.520857
@@ -973,7 +929,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415967792,Silene_antirrhina,41.30833,-72.24333
 2265401272,Silene_antirrhina,49.33962,-94.925446
 1988109633,Silene_antirrhina,49.03,-118.44
-1988141392,Silene_antirrhina,49,-119
 1228539338,Silene_antirrhina,41.893991,-87.818028
 2265401080,Silene_antirrhina,48.60928,-93.09993
 2265402909,Silene_antirrhina,49.001303,-95.364961
@@ -982,7 +937,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988139660,Silene_antirrhina,49.09,-116.47
 1228571886,Silene_antirrhina,41.727999,-87.596301
 2265402812,Silene_antirrhina,46.811579,-92.119043
-2270667273,Silene_antirrhina,33.42,-111.4
 2270654561,Silene_antirrhina,33.4286,-111.418
 415967976,Silene_antirrhina,29.43027,-81.51083
 2270656591,Silene_antirrhina,33.4581,-111.949
