@@ -2,12 +2,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1234285150,Cucurbita_pepo_subsp._fraterna,36.2997,-93.6456
 1846483893,Cucurbita_pepo_subsp._fraterna,33.8223,-112.10793
 1257941054,Cucurbita_pepo_subsp._fraterna,37.22952,-90.20529
-786128548,Cucurbita_pepo_subsp._fraterna,49.5,8.5
 1851361722,Cucurbita_pepo_subsp._fraterna,42.75765,-5.51305
 1261007473,Cucurbita_pepo_subsp._fraterna,38.52083,-90.62305
 1893370246,Cucurbita_pepo_subsp._fraterna,23.616111,-99.631111
 1893370279,Cucurbita_pepo_subsp._fraterna,23.616667,-98.632778
-1893370235,Cucurbita_pepo_subsp._fraterna,23.6,-98.625
 1258820149,Cucurbita_pepo_subsp._fraterna,38.02694,-90.11527
 176922132,Cucurbita_pepo_subsp._fraterna,42.722531,-92.461035
 122228904,Cucurbita_pepo_subsp._fraterna,33.95,-89.35
@@ -22,7 +20,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261038624,Cucurbita_pepo_subsp._fraterna,24.62,-99.81
 1261038615,Cucurbita_pepo_subsp._fraterna,24.38,-100.34
 1895489456,Cucurbita_pepo_subsp._fraterna,24.516878,-99.812158
-1893370300,Cucurbita_pepo_subsp._fraterna,23.7,-98.466667
 1896195804,Cucurbita_pepo_subsp._fraterna,19.225,-96.258333
 1259708645,Cucurbita_pepo_subsp._fraterna,23.56666,-98.53333
 1895776167,Cucurbita_pepo_subsp._fraterna,23.575,-98.541667
@@ -32,14 +29,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895776097,Cucurbita_pepo_subsp._fraterna,23.375,-99.008333
 415617221,Cucurbita_pepo_subsp._fraterna,36.73024,-4.4583
 1895350319,Cucurbita_pepo_subsp._fraterna,23.455,-99.627219
-1259708565,Cucurbita_pepo_subsp._fraterna,23.36666,-99
 1259708346,Cucurbita_pepo_subsp._fraterna,23.56666,-98.51666
 1895776137,Cucurbita_pepo_subsp._fraterna,23.575,-98.591667
 1322966277,Cucurbita_pepo_subsp._fraterna,23.57,-98.52
 1259707479,Cucurbita_pepo_subsp._fraterna,23.56666,-98.58333
 1896195796,Cucurbita_pepo_subsp._fraterna,23.575,-98.525
 1895776203,Cucurbita_pepo_subsp._fraterna,23.941667,-98.975
-2236125581,Cucurbita_pepo_subsp._fraterna,23.4,-99
 122228903,Cucurbita_pepo_subsp._fraterna,32.85,-87.98
 1261002157,Cucurbita_pepo_subsp._fraterna,37.81027,-90.24583
 176922423,Cucurbita_pepo_subsp._fraterna,37.000327,-94.696173
