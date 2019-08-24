@@ -43,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701520684,Fibigia_clypeata,38.2575,34.29889
 1230739719,Fibigia_clypeata,39.01667,46.21
 1230739577,Fibigia_clypeata,38.93583,46.17667
-1434669745,Fibigia_clypeata,40,20.55
 1434669846,Fibigia_clypeata,40.033333,20.75
 1212101846,Fibigia_clypeata,38.091111,22.033333
 1839009984,Fibigia_clypeata,38.09111,22.033331
@@ -53,15 +52,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839010011,Fibigia_clypeata,39.678329,20.916109
 1212101654,Fibigia_clypeata,39.678333,20.916111
 1930149141,Fibigia_clypeata,41.6128,43.390283
-1936605568,Fibigia_clypeata,40.7,39.05
 144861515,Fibigia_clypeata,39.938061,20.431669
 1697856084,Fibigia_clypeata,33.833333,36.533333
 1701521193,Fibigia_clypeata,28.55,33.98333
-1434670051,Fibigia_clypeata,39.833333,20.7
 1230748508,Fibigia_clypeata,30.68333,35.61667
 1831521418,Fibigia_clypeata,37.60833,22.47222
 1831521415,Fibigia_clypeata,37.65417,22.25556
-214533920,Fibigia_clypeata,36.900002,32
 1434670004,Fibigia_clypeata,37.083333,22.733333
 1697792772,Fibigia_clypeata,44.419855,38.359913
 1697792824,Fibigia_clypeata,44.37965,38.39432
@@ -76,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434666888,Fibigia_clypeata,38.116667,22.016667
 1434666921,Fibigia_clypeata,38.55,22.283333
 1697792743,Fibigia_clypeata,41.811557,43.338972
-1434669857,Fibigia_clypeata,38.8,21.7
 1697792711,Fibigia_clypeata,44.706974,37.597618
 1697792761,Fibigia_clypeata,44.684062,37.597795
 1697792777,Fibigia_clypeata,44.670427,37.591057
@@ -102,8 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 694469806,Fibigia_clypeata,32.49413,36.62087
 694536564,Fibigia_clypeata,33.65758,35.97783
 667649680,Fibigia_clypeata,33.73333,36.13333
-1434666918,Fibigia_clypeata,38.483333,22.5
 1434666927,Fibigia_clypeata,38.483333,22.583333
 667471817,Fibigia_clypeata,33.993,35.74041
 694470739,Fibigia_clypeata,35.15,35.94
-1434666931,Fibigia_clypeata,38.2,23.25
