@@ -16,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2269105930,Machaerium_opacum,-16.378333,-48.948056
 1208835808,Machaerium_opacum,-8.880556,-44.959444
 1322412490,Machaerium_opacum,-18.0042,-43.3908
-1094928125,Machaerium_opacum,-5.162222,-40.888333
 1931774856,Machaerium_opacum,-19.004444,-43.773611
 1213663164,Machaerium_opacum,-17.731417,-50.106278
 1090706721,Machaerium_opacum,-16.7925,-49.505833
@@ -91,8 +90,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1272059292,Machaerium_opacum,-15.866667,-47.85
 1087235382,Machaerium_opacum,-15.5,-48.15
 1087719197,Machaerium_opacum,-16.057222,-43.035
-1087237218,Machaerium_opacum,-15.75,-47.883333
-1095205633,Machaerium_opacum,-15.76667,-47.91667
 1095235047,Machaerium_opacum,-13.395833,-48.129166
 1928183183,Machaerium_opacum,-14.0689,-44.4964
 1077211373,Machaerium_opacum,-12.916667,-41.233333
@@ -142,7 +139,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094738177,Machaerium_opacum,-13.033333,-41.75
 1423992455,Machaerium_opacum,-11.433333,-46.066667
 1423992413,Machaerium_opacum,-15.7,-48.25
-1094766986,Machaerium_opacum,-15.766667,-47.916667
 1095366157,Machaerium_opacum,-12.133333,-44.75
 1089072826,Machaerium_opacum,-13.333333,-44.75
 1094736735,Machaerium_opacum,-11.2,-45.033333
@@ -206,7 +202,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260600827,Machaerium_opacum,-14.000478,-46.000559
 1929428891,Machaerium_opacum,-14.13,-46.37
 1087304754,Machaerium_opacum,-14,-46
-1927815866,Machaerium_opacum,-15.7834208090807,-47.9298726661488
 1929898579,Machaerium_opacum,-15.7833,-47.82337
 1930715622,Machaerium_opacum,-19.2781957066771,-44.4044451095298
 1928831191,Machaerium_opacum,-15.8,-46.91797
