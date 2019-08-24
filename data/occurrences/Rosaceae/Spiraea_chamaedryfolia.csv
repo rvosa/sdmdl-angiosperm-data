@@ -34,14 +34,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1835711070,Spiraea_chamaedryfolia,54.086554,127.015261
 1830126440,Spiraea_chamaedryfolia,35.58836,139.15912
 1702374179,Spiraea_chamaedryfolia,59.1191,11.362
-1095920730,Spiraea_chamaedryfolia,59,17
 1676106941,Spiraea_chamaedryfolia,50.164467,8.642167
 1599044379,Spiraea_chamaedryfolia,60.292857,24.215224
 1099895128,Spiraea_chamaedryfolia,56.20446,15.66953
 1829919902,Spiraea_chamaedryfolia,35.457419,139.128078
 1676106873,Spiraea_chamaedryfolia,50.117133,8.689567
 2244512046,Spiraea_chamaedryfolia,36.204,137.666667
-1095918002,Spiraea_chamaedryfolia,60.67,16.8
 1705434554,Spiraea_chamaedryfolia,57.248225,16.472076
 1324014612,Spiraea_chamaedryfolia,58.4071,7.9125
 1702177627,Spiraea_chamaedryfolia,60.0069,10.2754
@@ -76,10 +74,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900314201,Spiraea_chamaedryfolia,67.2869,15.1593
 900309937,Spiraea_chamaedryfolia,67.2864,14.4125
 900307524,Spiraea_chamaedryfolia,58.4419,7.8245
-391299885,Spiraea_chamaedryfolia,37.4,140.083333
 1829023559,Spiraea_chamaedryfolia,40.3125,141.40625
 1702224744,Spiraea_chamaedryfolia,60.6184,11.2814
-1096701102,Spiraea_chamaedryfolia,60.69,17.2
 900313340,Spiraea_chamaedryfolia,63.4544,10.9559
 900306186,Spiraea_chamaedryfolia,62.9635,7.7785
 900318379,Spiraea_chamaedryfolia,64.4635,11.7565
@@ -212,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701988113,Spiraea_chamaedryfolia,59.0927,9.6449
 1701931960,Spiraea_chamaedryfolia,61.2292,5.1715
 1702433331,Spiraea_chamaedryfolia,61.1353,5.3502
-1697315648,Spiraea_chamaedryfolia,51.7,134.466667
 900317564,Spiraea_chamaedryfolia,58.7883,7.3521
 1830179611,Spiraea_chamaedryfolia,36.466667,137.016667
 1702433496,Spiraea_chamaedryfolia,61.0997,7.4884
@@ -259,8 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055138,Spiraea_chamaedryfolia,57.132016,14.287528
 1835709418,Spiraea_chamaedryfolia,51.5035,134.566369
 295945740,Spiraea_chamaedryfolia,35.515749,139.20307
-1835709402,Spiraea_chamaedryfolia,51.7,134.5
-1829636813,Spiraea_chamaedryfolia,36.522778,139.2
 1835708563,Spiraea_chamaedryfolia,43.649797,131.91706
 1055150,Spiraea_chamaedryfolia,57.271398,15.392535
 1705358458,Spiraea_chamaedryfolia,57.290935,14.080328
@@ -312,7 +305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1835712318,Spiraea_chamaedryfolia,50.78075,137.818203
 1705395796,Spiraea_chamaedryfolia,57.679876,15.889015
 1599044397,Spiraea_chamaedryfolia,60.99212,24.418841
-1830208966,Spiraea_chamaedryfolia,36.5,137.233333
 1599044407,Spiraea_chamaedryfolia,61.046264,24.432955
 1835708113,Spiraea_chamaedryfolia,43.170799,131.371961
 1835715673,Spiraea_chamaedryfolia,42.855859,131.056791
@@ -360,7 +352,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1835709068,Spiraea_chamaedryfolia,43.221461,131.990019
 2243082925,Spiraea_chamaedryfolia,38.455523,140.616911
 1835718745,Spiraea_chamaedryfolia,43.192498,131.937407
-1830187427,Spiraea_chamaedryfolia,36.7,137.083333
 2243086771,Spiraea_chamaedryfolia,38.21486,140.3491
 2200606762,Spiraea_chamaedryfolia,35.271991,128.844089
 1829838307,Spiraea_chamaedryfolia,35.961816,138.669391
@@ -380,7 +371,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829616862,Spiraea_chamaedryfolia,36.080556,138.836667
 1830155985,Spiraea_chamaedryfolia,36.533333,137.65
 1835718725,Spiraea_chamaedryfolia,43.104782,132.783205
-1830156150,Spiraea_chamaedryfolia,36.6,137.683333
 1835713249,Spiraea_chamaedryfolia,43.471999,133.393876
 1933909248,Spiraea_chamaedryfolia,35.8254,138.7146
 1702016328,Spiraea_chamaedryfolia,60.41309,11.24418
@@ -422,7 +412,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829896405,Spiraea_chamaedryfolia,35.768889,138.456667
 1599044453,Spiraea_chamaedryfolia,61.299316,23.170628
 57726110,Spiraea_chamaedryfolia,63.0951,23.1341
-1830153989,Spiraea_chamaedryfolia,35.7,138.35
 1705321945,Spiraea_chamaedryfolia,64.946911,20.484011
 1835715482,Spiraea_chamaedryfolia,47.127254,134.362292
 381845483,Spiraea_chamaedryfolia,36.38635,139.10654
@@ -492,7 +481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57726103,Spiraea_chamaedryfolia,60.8876,24.5931
 1835718094,Spiraea_chamaedryfolia,43.742498,131.938044
 1599044450,Spiraea_chamaedryfolia,62.244977,25.746254
-1697242423,Spiraea_chamaedryfolia,50.833333,113.3
 1697242406,Spiraea_chamaedryfolia,50.25,113.333333
 1835709863,Spiraea_chamaedryfolia,43.144358,131.982533
 788474285,Spiraea_chamaedryfolia,57.371154,12.551166
@@ -519,7 +507,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705417118,Spiraea_chamaedryfolia,56.553088,13.700959
 1835717133,Spiraea_chamaedryfolia,43.168484,132.996964
 1829602174,Spiraea_chamaedryfolia,36.511389,139.143056
-1705499678,Spiraea_chamaedryfolia,63.67,22.7
 1705363743,Spiraea_chamaedryfolia,57.722234,12.939297
 1705259247,Spiraea_chamaedryfolia,57.720786,14.79835
 1705363011,Spiraea_chamaedryfolia,57.462141,14.122261
