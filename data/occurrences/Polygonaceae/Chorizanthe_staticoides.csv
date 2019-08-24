@@ -33,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 623665326,Chorizanthe_staticoides,33.594167,-117.045833
 2270181635,Chorizanthe_staticoides,35.41731,-120.75296
 2270183293,Chorizanthe_staticoides,35.4275,-120.7635
-2270291506,Chorizanthe_staticoides,34.016528,-119.771088
 2270276750,Chorizanthe_staticoides,34.237844,-118.860369
 2270251744,Chorizanthe_staticoides,34.541667,-119.266667
 2270281690,Chorizanthe_staticoides,34.5605999991182,-119.2666
@@ -44,13 +43,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270180559,Chorizanthe_staticoides,34.201261,-117.418365
 2270182586,Chorizanthe_staticoides,35.418043,-120.568649
 1092710739,Chorizanthe_staticoides,34.469635,-119.23422
-1896042708,Chorizanthe_staticoides,33.464722,-118.574722
 2270182253,Chorizanthe_staticoides,33.66667,-116.66667
 2270184209,Chorizanthe_staticoides,34.5619449875913,-119.264668647584
 2270286207,Chorizanthe_staticoides,34.781541,-115.621315
 1426342889,Chorizanthe_staticoides,34.4999457109032,-119.400671085406
 2270286127,Chorizanthe_staticoides,34.50868,-118.36481
-2270286066,Chorizanthe_staticoides,34.0442,-118.7721
 1426336257,Chorizanthe_staticoides,36.01,-121.45
 2270282750,Chorizanthe_staticoides,34.136652,-118.294315
 2270284015,Chorizanthe_staticoides,34.19619,-117.41192
@@ -59,10 +56,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270283693,Chorizanthe_staticoides,34.5055,-119.2796
 1092710705,Chorizanthe_staticoides,34.472053,-118.393382
 2270279453,Chorizanthe_staticoides,34.1068,-117.7073
-1846557057,Chorizanthe_staticoides,34.060911,-118.897257
 1092710745,Chorizanthe_staticoides,34.241951,-117.285599
 2270285677,Chorizanthe_staticoides,34.219,-117.327
-1426333947,Chorizanthe_staticoides,32.83438,-117.26299
 1426491976,Chorizanthe_staticoides,32.656,-116.127
 1144659917,Chorizanthe_staticoides,36.34,-119.24639
 1928682243,Chorizanthe_staticoides,34.469994,-118.196742
