@@ -16,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200612148,Weigela_subsessilis,37.666167,127.95525
 2200609187,Weigela_subsessilis,37.6056,127.9222
 2200611628,Weigela_subsessilis,35.22475,127.8345
-1988208622,Weigela_subsessilis,49.3,-123.2
 2200612019,Weigela_subsessilis,37.730944,127.868111
 2200609588,Weigela_subsessilis,36.569806,127.954306
 2200611851,Weigela_subsessilis,36.048556,127.344583
@@ -62,7 +61,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200555103,Weigela_subsessilis,35.855417,127.750167
 2200560265,Weigela_subsessilis,37.444444,128.275
 2200601747,Weigela_subsessilis,37.308889,128.310833
-2200609503,Weigela_subsessilis,36.752778,128.2
 2200601498,Weigela_subsessilis,36.752778,128.016667
 2200603148,Weigela_subsessilis,36.59,128.036944
 2200612105,Weigela_subsessilis,38.213389,128.304308
@@ -97,7 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200611999,Weigela_subsessilis,36.866667,126.216667
 2200611700,Weigela_subsessilis,37.950013,124.616663
 2200600218,Weigela_subsessilis,36.883539,128.299957
-2200600214,Weigela_subsessilis,37.819444,124.7
 2200598117,Weigela_subsessilis,37.2571,126.935444
 2200506714,Weigela_subsessilis,37.688838,126.321457
 2200611639,Weigela_subsessilis,37.75,127.338889
