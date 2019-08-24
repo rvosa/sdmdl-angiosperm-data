@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257661520,Asteropeia_micraster,-24.582222,47.150278
 1260917167,Asteropeia_micraster,-24.56166,47.20055
 1260353869,Asteropeia_micraster,-23.180278,47.690833
-1260464990,Asteropeia_micraster,-23.183333,47.7
 730739813,Asteropeia_micraster,-24.92278,47.02444
 1260922157,Asteropeia_micraster,-24.922778,47.024445
 1259438629,Asteropeia_micraster,-24.94166,47.01333
@@ -14,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259439176,Asteropeia_micraster,-23.185,47.691944
 2288833353,Asteropeia_micraster,-23.180278,47.703056
 1260918702,Asteropeia_micraster,-24.93555,47.02861
-912322912,Asteropeia_micraster,-24.95,47
 1258830290,Asteropeia_micraster,-23.172222,47.701111
 1258830431,Asteropeia_micraster,-23.18083,47.70805
 1260923697,Asteropeia_micraster,-24.94027,47.01166
@@ -33,4 +31,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258405280,Asteropeia_micraster,-23.58333,47.41666
 1258460568,Asteropeia_micraster,-24.95,46.99166
 1258350676,Asteropeia_micraster,-24.93333,46.95
-912322831,Asteropeia_micraster,-22.32,45.3
