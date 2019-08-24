@@ -20,7 +20,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270532674,Clematis_pauciflora,31.735492,-116.459576
 1893421070,Clematis_pauciflora,31.025,-115.458333
 1893421042,Clematis_pauciflora,31.075,-115.575
-415722388,Clematis_pauciflora,30.916667,-115.4
 1895413202,Clematis_pauciflora,30.9338,-115.4061
 1893420981,Clematis_pauciflora,31.308333,-116.325
 1893421117,Clematis_pauciflora,31.358333,-116.441667
@@ -36,4 +35,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895413220,Clematis_pauciflora,31.1056304422185,-116.273348958715
 1895413281,Clematis_pauciflora,31.6400506022822,-116.508910902161
 1895413284,Clematis_pauciflora,31.4702260611926,-116.351986855777
-1895413291,Clematis_pauciflora,30.785,-115.9
