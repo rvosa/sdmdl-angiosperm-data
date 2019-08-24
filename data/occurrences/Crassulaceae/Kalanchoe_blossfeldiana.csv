@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2244395277,Kalanchoe_blossfeldiana,4.78636,-74.02283
 1702528713,Kalanchoe_blossfeldiana,4.668532,-74.102723
 1702531288,Kalanchoe_blossfeldiana,4.646889,-74.032278
-2305363105,Kalanchoe_blossfeldiana,31.2,30.02
 1087705031,Kalanchoe_blossfeldiana,-13.219222,-40.202417
 2012887839,Kalanchoe_blossfeldiana,15.360833,-91.440278
 1077604147,Kalanchoe_blossfeldiana,-9.755569,-36.663958
@@ -17,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442020279,Kalanchoe_blossfeldiana,51.772141,12.633802
 1989605374,Kalanchoe_blossfeldiana,18.710033,99.077667
 1894627050,Kalanchoe_blossfeldiana,20.5225,-99.893055
-1258717791,Kalanchoe_blossfeldiana,13.116667,-86.1
 1258718308,Kalanchoe_blossfeldiana,12.433333,-86.883333
 453274477,Kalanchoe_blossfeldiana,-26.875,27.875
 1895545272,Kalanchoe_blossfeldiana,18.191667,-97.141667
@@ -27,7 +25,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421352246,Kalanchoe_blossfeldiana,19.529167,-90.181944
 1897753457,Kalanchoe_blossfeldiana,-36.866667,174.766667
 1895141918,Kalanchoe_blossfeldiana,16.605278,-93.560555
-1419166489,Kalanchoe_blossfeldiana,16.6,-93.55
 1896328292,Kalanchoe_blossfeldiana,19.541667,-96.825
 1421395149,Kalanchoe_blossfeldiana,20.335556,-88.487222
 1090556505,Kalanchoe_blossfeldiana,-22.6122,-46.7006
@@ -45,5 +42,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896328287,Kalanchoe_blossfeldiana,17.548611,-96.514444
 1896041887,Kalanchoe_blossfeldiana,19.420278,-99.217778
 1228476263,Kalanchoe_blossfeldiana,19.3333,-96.6667
-1988181265,Kalanchoe_blossfeldiana,21.2,-157.5
 438316388,Kalanchoe_blossfeldiana,-14.03333,48.76667
