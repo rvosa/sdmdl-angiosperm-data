@@ -84,7 +84,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269621953,Krigia_virginica,30.3969,-86.5811
 1269722162,Krigia_virginica,30.3225,-87.2672
 1269726455,Krigia_virginica,30.3806,-87.1292
-2310234807,Krigia_virginica,32.5,-84.94
 1258120642,Krigia_virginica,29.4467,-82.7151
 1320591334,Krigia_virginica,38.570833,-76.895833
 1269687105,Krigia_virginica,31.160999,-89.174004
@@ -105,11 +104,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176968139,Krigia_virginica,34.735765,-94.684338
 176968014,Krigia_virginica,33.560302,-92.980254
 1258534766,Krigia_virginica,37.82888,-90.22555
-1257813710,Krigia_virginica,36.55,-93.1
 56596663,Krigia_virginica,31.60083,-85.74778
 415938761,Krigia_virginica,41.905,-72.70194
 415908088,Krigia_virginica,41.32777,-71.99111
-1988112373,Krigia_virginica,32.5,-81.2
 675234656,Krigia_virginica,41.84305,-71.98583
 1038979995,Krigia_virginica,41.3708,-72.1475
 1261007117,Krigia_virginica,37.96027,-92.76777
@@ -154,7 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2309081943,Krigia_virginica,43.55,-80.25
 415908092,Krigia_virginica,41.51972,-72.54361
 1989366232,Krigia_virginica,42.323272,-86.291906
-56596160,Krigia_virginica,33.3,-85.47
 1989546943,Krigia_virginica,44.717133,-86.147185
 1261007121,Krigia_virginica,37.70388,-92.84166
 606661124,Krigia_virginica,41.985,-73.42277
@@ -174,9 +170,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56596362,Krigia_virginica,34.54528,-86.59666
 1260979042,Krigia_virginica,37.34416,-93.48666
 415908077,Krigia_virginica,41.35416,-71.96694
-56596358,Krigia_virginica,30.78,-88.2
 1258625216,Krigia_virginica,30.433333,-84.933333
-1258604907,Krigia_virginica,34.5,-83.45
 1258610757,Krigia_virginica,34.95,-78.75
 415908080,Krigia_virginica,41.41916,-72.26083
 1989365432,Krigia_virginica,44.703194,-84.08111
@@ -192,7 +186,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269687121,Krigia_virginica,33.816,-92.666
 415924348,Krigia_virginica,41.50888,-72.54361
 415924349,Krigia_virginica,41.325,-72.02916
-415908123,Krigia_virginica,39,-76.61638
 415908115,Krigia_virginica,32.76277,-79.92888
 2273377061,Krigia_virginica,35.163429,-83.013473
 1260937685,Krigia_virginica,37.50277,-90.46333
@@ -307,7 +300,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928015162,Krigia_virginica,40.764105,-73.323278
 1929880179,Krigia_virginica,40.725207,-73.646312
 415908126,Krigia_virginica,41.67833,-71.55138
-415908121,Krigia_virginica,41.8,-71.73333
 1038945563,Krigia_virginica,41.2826,-73.0272
 415908118,Krigia_virginica,39.95361,-74.19833
 415908122,Krigia_virginica,27.77055,-82.67944
@@ -323,7 +315,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415908089,Krigia_virginica,41.55027,-72.08805
 1929234007,Krigia_virginica,41.025957,-73.756902
 1320536346,Krigia_virginica,38.9669,-76.8622
-415908127,Krigia_virginica,41.7,-71.68333
 1038943936,Krigia_virginica,41.6153,-72.1432
 1322001691,Krigia_virginica,38.9842,-77.2358
 1038922771,Krigia_virginica,41.6992,-71.8987
