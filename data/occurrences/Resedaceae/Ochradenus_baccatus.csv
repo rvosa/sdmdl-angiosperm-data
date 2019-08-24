@@ -2,7 +2,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1883725237,Ochradenus_baccatus,26.80631,37.96311
 1988306821,Ochradenus_baccatus,31.46778,35.38139
 1913750813,Ochradenus_baccatus,9.8658,44.8325
-2304396717,Ochradenus_baccatus,26.13,50.52
 1288181580,Ochradenus_baccatus,31.70575,35.589717
 1288181581,Ochradenus_baccatus,31.844817,35.577
 1697856205,Ochradenus_baccatus,31.718056,35.45
@@ -14,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094182966,Ochradenus_baccatus,31.41,35.37
 1094182718,Ochradenus_baccatus,30.56,34.9
 910348188,Ochradenus_baccatus,29.523333,47.815278
-1701516517,Ochradenus_baccatus,27.8425,34.22861
 1094181516,Ochradenus_baccatus,31.83,35.34
 789990383,Ochradenus_baccatus,29.530278,47.801667
 1094183837,Ochradenus_baccatus,30.27,34.99
@@ -33,7 +31,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 686663816,Ochradenus_baccatus,18.181944,42.599167
 1701541428,Ochradenus_baccatus,28.93333,32.4
 686673791,Ochradenus_baccatus,18.183333,42.4
-911793996,Ochradenus_baccatus,4.9,49.049999
 1701541410,Ochradenus_baccatus,14.48333,49.01667
 911793970,Ochradenus_baccatus,15.216666,51.216667
 1701541437,Ochradenus_baccatus,14.9,49.05
@@ -51,13 +48,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 328185857,Ochradenus_baccatus,26.16667,32.73333
 328185706,Ochradenus_baccatus,11.01667,48.41667
 328185723,Ochradenus_baccatus,14.7,44.13333
-328185693,Ochradenus_baccatus,12.65,54.08333
 328185670,Ochradenus_baccatus,20.16667,41.25
-2288250848,Ochradenus_baccatus,26.483333,65.216667
 574912566,Ochradenus_baccatus,29.5,47.75
 1846520536,Ochradenus_baccatus,31.573563,35.402069
 1638412916,Ochradenus_baccatus,27.31667,41.73333
-1846520603,Ochradenus_baccatus,27.666976,33.481907
 575273966,Ochradenus_baccatus,16.216667,43.633333
 575273483,Ochradenus_baccatus,14.566667,44.25
 2291858398,Ochradenus_baccatus,10.6,47.416667
@@ -66,5 +60,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 574824065,Ochradenus_baccatus,28.666667,57.783333
 1846520550,Ochradenus_baccatus,28.316276,34.13606
 2291857722,Ochradenus_baccatus,21.9,25.016667
-2289929412,Ochradenus_baccatus,12.583333,54.283333
 2288605133,Ochradenus_baccatus,30.966667,35.333333
