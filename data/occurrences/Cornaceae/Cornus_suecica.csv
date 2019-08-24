@@ -30,10 +30,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287444346,Cornus_suecica,53.052683,6.524533
 1697610563,Cornus_suecica,66.757466,33.779176
 1702379240,Cornus_suecica,62.653,11.2587
-1095920521,Cornus_suecica,67,24
 1701859386,Cornus_suecica,62.4742,11.639
 2311095066,Cornus_suecica,56.86,-4.49
-1095920538,Cornus_suecica,63,12
 1702168684,Cornus_suecica,59.3294,11.5578
 1701851624,Cornus_suecica,62.4677,11.7636
 2311132914,Cornus_suecica,56.87,-3.36
@@ -61,7 +59,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702102469,Cornus_suecica,59.5642,10.983
 2321048046,Cornus_suecica,59.831774,10.972337
 1702229974,Cornus_suecica,59.8318,10.9723
-1095899072,Cornus_suecica,61.6,16.33
 900308406,Cornus_suecica,58.4163,7.2737
 1702230033,Cornus_suecica,59.8242,10.9905
 2325925282,Cornus_suecica,67.977418,16.521195
@@ -140,7 +137,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323737633,Cornus_suecica,69.7772,19.3888
 1701340551,Cornus_suecica,62.9708,8.4645
 1701848646,Cornus_suecica,59.3583,11.3225
-1936640301,Cornus_suecica,67.6167,33.7
 1701964358,Cornus_suecica,63.0095,10.1346
 1701848041,Cornus_suecica,61.9764,11.7678
 1702215374,Cornus_suecica,61.7566,11.6646
@@ -347,14 +343,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323782762,Cornus_suecica,69.7435,19.2012
 1323782760,Cornus_suecica,69.7346,19.202
 1323782745,Cornus_suecica,69.7166,19.2035
-1988184628,Cornus_suecica,63.8,23
 1323782651,Cornus_suecica,69.0923,23.2476
 1948240316,Cornus_suecica,62.399298,23.399422
 1323782741,Cornus_suecica,69.7256,19.2027
-1936396050,Cornus_suecica,63.8167,23
 1323782662,Cornus_suecica,68.9931,23.2874
 1323782637,Cornus_suecica,69.0194,24.0837
-1273862187,Cornus_suecica,63.816667,23
 1323782658,Cornus_suecica,69.0479,23.2179
 1599330858,Cornus_suecica,60.071161,24.392468
 1323782750,Cornus_suecica,70.0297,21.5903
@@ -895,7 +888,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701326582,Cornus_suecica,62.9846,10.924
 1701989449,Cornus_suecica,59.4628,8.0208
 788489579,Cornus_suecica,56.072315,13.302152
-2235742096,Cornus_suecica,68.57,18.5
 39646280,Cornus_suecica,66.156,-18.857
 1144083179,Cornus_suecica,60.2453,6.525
 1701967692,Cornus_suecica,63.1686,8.4341
