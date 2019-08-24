@@ -12,7 +12,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1655987693,Eleocharis_acutangula_subsp._breviseta,5.69273,-71.112332
 1934859667,Eleocharis_acutangula_subsp._breviseta,10.39806,-14.34306
 2268855926,Eleocharis_acutangula_subsp._breviseta,10.398,-14.343
-1934860469,Eleocharis_acutangula_subsp._breviseta,-0.8625,8.80611
 1840925650,Eleocharis_acutangula_subsp._breviseta,-13.085917,-54.422661
 1657213169,Eleocharis_acutangula_subsp._breviseta,-10.4626,-37.0749
 1853945921,Eleocharis_acutangula_subsp._breviseta,-11.539444,-55.3925
@@ -116,14 +115,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077471335,Eleocharis_acutangula_subsp._breviseta,-21.108833,-45.467583
 1095334735,Eleocharis_acutangula_subsp._breviseta,-29.512778,-55.133889
 1095334699,Eleocharis_acutangula_subsp._breviseta,-29.671667,-55.369167
-1055926900,Eleocharis_acutangula_subsp._breviseta,-23.236211,-58.391024
 912391513,Eleocharis_acutangula_subsp._breviseta,-5.88,34.28
 912391914,Eleocharis_acutangula_subsp._breviseta,-5.48,30.53
 912391563,Eleocharis_acutangula_subsp._breviseta,-5.3,33.43
 1095333109,Eleocharis_acutangula_subsp._breviseta,17.87,-94.100556
 1087068883,Eleocharis_acutangula_subsp._breviseta,-7.189444,-35.2175
 1897349556,Eleocharis_acutangula_subsp._breviseta,17.870278,-94.100555
-1257972735,Eleocharis_acutangula_subsp._breviseta,-2.2,40.9
 995538768,Eleocharis_acutangula_subsp._breviseta,17.870278,-94.100556
 1988607174,Eleocharis_acutangula_subsp._breviseta,17.87025,-94.100611
 1455946502,Eleocharis_acutangula_subsp._breviseta,5.28528,-60.0006
@@ -132,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2013873533,Eleocharis_acutangula_subsp._breviseta,-1.764167,10.235833
 1095329115,Eleocharis_acutangula_subsp._breviseta,-21.5,-55.15
 1257523012,Eleocharis_acutangula_subsp._breviseta,-2.22005,13.845133
-1087722323,Eleocharis_acutangula_subsp._breviseta,-2.587525,-44.293369
 1095329057,Eleocharis_acutangula_subsp._breviseta,-19.262222,-52.760833
 1089169713,Eleocharis_acutangula_subsp._breviseta,-7.380833,-36.322222
 1503266455,Eleocharis_acutangula_subsp._breviseta,26.5658,-81.6897
@@ -170,8 +166,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077324153,Eleocharis_acutangula_subsp._breviseta,-20.480028,-54.576806
 1259159491,Eleocharis_acutangula_subsp._breviseta,-15.8875,-61.54361
 994363550,Eleocharis_acutangula_subsp._breviseta,-14.0459,132.5928
-1253747394,Eleocharis_acutangula_subsp._breviseta,9.377778,-84.109722
-1936678981,Eleocharis_acutangula_subsp._breviseta,9.3778,-84.1097
 994365017,Eleocharis_acutangula_subsp._breviseta,-14.1961,130.8745
 2289157976,Eleocharis_acutangula_subsp._breviseta,-2.087222,14.071667
 1258833973,Eleocharis_acutangula_subsp._breviseta,-2.079167,14.063056
@@ -184,7 +178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289159964,Eleocharis_acutangula_subsp._breviseta,-4.366667,136.933333
 1123796743,Eleocharis_acutangula_subsp._breviseta,-18.755,-40.890833
 620619440,Eleocharis_acutangula_subsp._breviseta,11.876389,0.403056
-2291955444,Eleocharis_acutangula_subsp._breviseta,6.425,2.6425
 1929767572,Eleocharis_acutangula_subsp._breviseta,-24.3238744020155,-46.9904338093755
 1098469666,Eleocharis_acutangula_subsp._breviseta,-10.396389,-50.430278
 1258555855,Eleocharis_acutangula_subsp._breviseta,13.166667,-86.2
@@ -196,7 +189,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077322510,Eleocharis_acutangula_subsp._breviseta,-19.219167,-54.498333
 1253832207,Eleocharis_acutangula_subsp._breviseta,10.950556,-85.621111
 2268835849,Eleocharis_acutangula_subsp._breviseta,10.95,-85.616667
-1056256431,Eleocharis_acutangula_subsp._breviseta,13.736897,-88.866511
 1258465990,Eleocharis_acutangula_subsp._breviseta,13.874722,-89.798611
 1893815311,Eleocharis_acutangula_subsp._breviseta,18.062817,-94.07935
 1077320849,Eleocharis_acutangula_subsp._breviseta,-19.926667,-56.217778
@@ -211,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259107379,Eleocharis_acutangula_subsp._breviseta,-13.03333,-68.85
 1260190269,Eleocharis_acutangula_subsp._breviseta,18.167778,-94.115556
 1894875145,Eleocharis_acutangula_subsp._breviseta,18.374107453049,-92.8271905085928
-1894545689,Eleocharis_acutangula_subsp._breviseta,18.646389,-92.534444
 1264691095,Eleocharis_acutangula_subsp._breviseta,-19.463333,-57.045
 1264691113,Eleocharis_acutangula_subsp._breviseta,-19.475556,-57.044167
 574973889,Eleocharis_acutangula_subsp._breviseta,21.358611,92.118611
@@ -282,11 +273,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461820974,Eleocharis_acutangula_subsp._breviseta,-29.875,30.875
 2005458425,Eleocharis_acutangula_subsp._breviseta,-29.9,30.8
 1077313657,Eleocharis_acutangula_subsp._breviseta,-19.483333,-56.383333
-1253608435,Eleocharis_acutangula_subsp._breviseta,10.333333,-85.35
 1259968121,Eleocharis_acutangula_subsp._breviseta,-25.2,-57.116667
 616265012,Eleocharis_acutangula_subsp._breviseta,-27.125,32.375
 2005452680,Eleocharis_acutangula_subsp._breviseta,-28.6,32.25
-461820976,Eleocharis_acutangula_subsp._breviseta,-28.625,32.375
 453213177,Eleocharis_acutangula_subsp._breviseta,-30.375,30.625
 1259970544,Eleocharis_acutangula_subsp._breviseta,-25.33333,-57.46666
 1260000187,Eleocharis_acutangula_subsp._breviseta,-25.333333,-57.466667
@@ -329,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005500973,Eleocharis_acutangula_subsp._breviseta,-28.125,32.375
 1260062338,Eleocharis_acutangula_subsp._breviseta,8.825,-82.95
 45125211,Eleocharis_acutangula_subsp._breviseta,8.81,-82.95
-1421387576,Eleocharis_acutangula_subsp._breviseta,21.147222,-90.025
 461820971,Eleocharis_acutangula_subsp._breviseta,-26.125,31.125
 2287796288,Eleocharis_acutangula_subsp._breviseta,-5.3,144.25
 461820970,Eleocharis_acutangula_subsp._breviseta,-19.125,23.125
@@ -383,9 +371,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893317614,Eleocharis_acutangula_subsp._breviseta,16.091667,-92.841667
 1893317502,Eleocharis_acutangula_subsp._breviseta,16.8542471685235,-93.4404708603716
 1257809178,Eleocharis_acutangula_subsp._breviseta,16.85,-93.44
-1090344643,Eleocharis_acutangula_subsp._breviseta,-9.45,147.183
-2287796422,Eleocharis_acutangula_subsp._breviseta,-9.45,147.183333
-994132095,Eleocharis_acutangula_subsp._breviseta,-9.45,147.1833
 2287797415,Eleocharis_acutangula_subsp._breviseta,-19.166667,23.416667
 461820954,Eleocharis_acutangula_subsp._breviseta,-19.875,23.625
 1259032741,Eleocharis_acutangula_subsp._breviseta,14.75,-83.416667
@@ -422,7 +407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988859403,Eleocharis_acutangula_subsp._breviseta,20.3214,-104.46
 461820955,Eleocharis_acutangula_subsp._breviseta,-24.125,27.875
 461820961,Eleocharis_acutangula_subsp._breviseta,-18.125,16.125
-461820967,Eleocharis_acutangula_subsp._breviseta,-28.125,32.625
 2289615628,Eleocharis_acutangula_subsp._breviseta,2.733333,23.766667
 1989052096,Eleocharis_acutangula_subsp._breviseta,16.5273,-95.0778
 2291955563,Eleocharis_acutangula_subsp._breviseta,1.316667,24.416667
@@ -437,7 +421,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989851130,Eleocharis_acutangula_subsp._breviseta,10.532123,-0.438446
 1989850398,Eleocharis_acutangula_subsp._breviseta,12.041981,13.917299
 1930623676,Eleocharis_acutangula_subsp._breviseta,-23.530494,-46.670221
-2291955998,Eleocharis_acutangula_subsp._breviseta,11.866667,-15.625
 1090534270,Eleocharis_acutangula_subsp._breviseta,-22.7253,-47.6492
 1228200613,Eleocharis_acutangula_subsp._breviseta,14.1667,-89.8333
 1259040273,Eleocharis_acutangula_subsp._breviseta,8.566667,-80.05
@@ -454,7 +437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257809152,Eleocharis_acutangula_subsp._breviseta,8.6,-80.116667
 2284175121,Eleocharis_acutangula_subsp._breviseta,-6.13,24.35
 1988928533,Eleocharis_acutangula_subsp._breviseta,20.3627,-89.7682
-616265008,Eleocharis_acutangula_subsp._breviseta,-30.875,30.375
 891601441,Eleocharis_acutangula_subsp._breviseta,23.898056,120.882778
 1260488160,Eleocharis_acutangula_subsp._breviseta,-17.6,-63.75
 891697579,Eleocharis_acutangula_subsp._breviseta,24.9925,121.306944
