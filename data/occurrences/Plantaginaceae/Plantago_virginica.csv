@@ -29,7 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258168599,Plantago_virginica,37.498846,-93.988024
 2005494145,Plantago_virginica,-27.413056,29.745278
 1457745143,Plantago_virginica,29.70825,-81.99984
-2244431043,Plantago_virginica,26.199754,127.654395
 1830127556,Plantago_virginica,35.5368,139.36081
 1913947608,Plantago_virginica,31.497556,-85.207583
 1849094780,Plantago_virginica,34.028917,-81.06855
@@ -102,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257727092,Plantago_virginica,38.947222,-91.995833
 1269619648,Plantago_virginica,29.979657,-91.761814
 1829906436,Plantago_virginica,40.556843,139.927806
-1829859342,Plantago_virginica,28.476131,129.703455
 1895928162,Plantago_virginica,30.839556,-110.683083
 1563147370,Plantago_virginica,31.053533,-93.572983
 1895928284,Plantago_virginica,31.278333,-109.001111
@@ -128,21 +126,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269727721,Plantago_virginica,30.4815,-88.9512
 1503268163,Plantago_virginica,29.2175,-82.0353
 1457810164,Plantago_virginica,29.218917,-82.028367
-1269722454,Plantago_virginica,30.2057,-88.4289
 1257515802,Plantago_virginica,30.139444,-84.93275
 1457790783,Plantago_virginica,30.139444,-84.932778
 1503262727,Plantago_virginica,30.1394,-84.9328
 1257683130,Plantago_virginica,37.0944,-89.5042
 388852860,Plantago_virginica,35.590741,139.228067
 2005473501,Plantago_virginica,-26.875,30.125
-1503260298,Plantago_virginica,29.4944,-81.0789
 1457770693,Plantago_virginica,29.327722,-81.078806
 1269715679,Plantago_virginica,30.562,-89.925
 1503250157,Plantago_virginica,30.3992,-85.1283
 1503250318,Plantago_virginica,27.1694,-81.9089
 177005633,Plantago_virginica,38.169,-95.2684
 204386290,Plantago_virginica,34.61392,135.73495
-1830673142,Plantago_virginica,33.6,141.333333
 1257686830,Plantago_virginica,38.7978,-92.3569
 1829694592,Plantago_virginica,36.14847,139.35182
 204386294,Plantago_virginica,34.69831,135.74925
@@ -163,11 +158,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846487541,Plantago_virginica,32.320317,-110.625183
 1895928143,Plantago_virginica,30.669444,-110.776111
 1848990159,Plantago_virginica,24.6,120.86667
-1933863657,Plantago_virginica,34.338611,134.740389
 1269724113,Plantago_virginica,30.4019,-88.795
 1829788419,Plantago_virginica,35.57526,139.4225
 1261003791,Plantago_virginica,37.65333,-94.24638
-1563146167,Plantago_virginica,30.2092,-88.9719
 1269620943,Plantago_virginica,30.395,-88.7931
 1260924097,Plantago_virginica,36.81527,-94.35027
 1830679235,Plantago_virginica,33.566667,133.583333
@@ -190,13 +183,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260570551,Plantago_virginica,38.608611,-90.309722
 177006116,Plantago_virginica,38.420278,-96.540556
 395787331,Plantago_virginica,35.115556,134.151389
-1933844526,Plantago_virginica,34.66536,138.97881
 1457765501,Plantago_virginica,25.6382,-80.3003
 56632641,Plantago_virginica,28.35,-99.1
 56632587,Plantago_virginica,31.95917,-86.14194
 1269709068,Plantago_virginica,31.004,-90.789333
 1913944805,Plantago_virginica,31.959167,-86.141944
-1829865427,Plantago_virginica,34.659614,138.965274
 1849128160,Plantago_virginica,33.9941,-80.9861
 1830691321,Plantago_virginica,33.1,133.133333
 388852836,Plantago_virginica,34.65,135.216667
@@ -205,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269679468,Plantago_virginica,30.505667,-90.1005
 1830691637,Plantago_virginica,32.783333,132.85
 1830690968,Plantago_virginica,33.283333,134.116667
-1934155965,Plantago_virginica,34.6576,138.9867
 1933853517,Plantago_virginica,35.5277,134.1821
 177006201,Plantago_virginica,38.734444,-97.868889
 1933844690,Plantago_virginica,34.6687,138.9757
@@ -226,7 +216,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2244520504,Plantago_virginica,32.983333,132.916667
 395787266,Plantago_virginica,35.126111,134.148611
 2244521307,Plantago_virginica,33.533333,133.433333
-1933844005,Plantago_virginica,34.65428,138.98981
 2244449188,Plantago_virginica,36.4,137.1
 462170804,Plantago_virginica,-26.875,30.875
 462170808,Plantago_virginica,-27.375,30.125
@@ -238,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56632504,Plantago_virginica,32.62583,-85.46389
 1260943393,Plantago_virginica,37.09305,-93.72444
 177006217,Plantago_virginica,37.453056,-96.008333
-1933895220,Plantago_virginica,26.5047,127.8502
 1933851879,Plantago_virginica,35.6159,139.421
 462170806,Plantago_virginica,-28.375,29.125
 1829694999,Plantago_virginica,35.91008,139.53796
@@ -285,7 +273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56632402,Plantago_virginica,34.19222,-86.49306
 395787021,Plantago_virginica,35.106944,134.344167
 1846534239,Plantago_virginica,33.1786,-109.863
-1849108248,Plantago_virginica,33.3104,-79.0843
 177005666,Plantago_virginica,39.064375,-96.24291
 388852652,Plantago_virginica,35.449099,139.690532
 2270586214,Plantago_virginica,32.8818,-110.304
@@ -330,7 +317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 245521717,Plantago_virginica,35.532422,139.59054
 245521716,Plantago_virginica,35.449098,139.578042
 1260980899,Plantago_virginica,40.56361,-95.63027
-699261437,Plantago_virginica,41.27305,-71.98222
 1030804970,Plantago_virginica,29.599068,115.785877
 1829858177,Plantago_virginica,33.057136,133.098226
 1261214258,Plantago_virginica,38.875,-90.19444
@@ -353,7 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261214530,Plantago_virginica,27.86666,-98.61666
 2270586422,Plantago_virginica,33.3942,-110.786
 1260937484,Plantago_virginica,38.24361,-92.35111
-1322283199,Plantago_virginica,38.9058,-76.9406
 699261428,Plantago_virginica,33.21916,-79.23833
 1261214894,Plantago_virginica,38.641944,-90.448333
 1989485757,Plantago_virginica,41.92858,-83.94964
@@ -419,8 +404,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030804933,Plantago_virginica,32.055645,118.79774
 462170776,Plantago_virginica,-25.625,30.125
 51923249,Plantago_virginica,43.0515,-123.9849
-1933824549,Plantago_virginica,35.2847,140.3866
-1933824542,Plantago_virginica,35.23455,140.34039
 234428581,Plantago_virginica,35.407436,139.578042
 1260944365,Plantago_virginica,37.59972,-92.53083
 1260979022,Plantago_virginica,38.26416,-93.49361
@@ -503,7 +486,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177006166,Plantago_virginica,39.49426,-95.8547
 177005791,Plantago_virginica,38.68082,-96.46216
 177005789,Plantago_virginica,38.02268,-95.17497
-462170791,Plantago_virginica,-30.875,30.375
 462170767,Plantago_virginica,-29.125,30.375
 56631874,Plantago_virginica,32.61139,-86.15945
 1137118538,Plantago_virginica,34.61925,-101.30417
@@ -587,9 +569,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177005796,Plantago_virginica,37.399771,-94.720839
 177005797,Plantago_virginica,37.21715,-95.55395
 1988174879,Plantago_virginica,19.4,-155.3
-56632135,Plantago_virginica,30.25083,-88.095
-56632136,Plantago_virginica,30.24944,-88.12361
-56632143,Plantago_virginica,30.25389,-88.11195
 2270623259,Plantago_virginica,34.33,-111.09
 2270620987,Plantago_virginica,34.3253,-111.094
 177006196,Plantago_virginica,37.42692,-95.55518
@@ -603,7 +582,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1137118536,Plantago_virginica,37.8297,-95.8026
 2242416735,Plantago_virginica,41.565201,-87.596562
 462170763,Plantago_virginica,-29.625,30.125
-56632139,Plantago_virginica,33.19111,-87.47472
 1257733741,Plantago_virginica,36.8794,-92.3742
 1260994105,Plantago_virginica,37.55611,-89.62444
 1257733707,Plantago_virginica,37.4614,-93.5006
@@ -664,7 +642,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320239467,Plantago_virginica,38.8242,-77.7111
 462170759,Plantago_virginica,-29.125,30.125
 1260952892,Plantago_virginica,37.12722,-90.45
-1318582929,Plantago_virginica,38.8858,-77.0972
 699261434,Plantago_virginica,38.08277,-87.55055
 2242415771,Plantago_virginica,29.451352,-98.532524
 177005786,Plantago_virginica,39.532271,-95.269788
@@ -679,13 +656,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177005784,Plantago_virginica,38.868639,-97.158196
 177005785,Plantago_virginica,39.349711,-97.16174
 177005781,Plantago_virginica,39.362024,-96.317724
-1319996573,Plantago_virginica,38.9103,-76.9664
 1269643642,Plantago_virginica,30.414625,-91.176222
 1318006693,Plantago_virginica,38.97,-76.8017
 1989089648,Plantago_virginica,42.61763,-82.54275
 1319316342,Plantago_virginica,38.9694,-77.1767
-51924031,Plantago_virginica,42.0969,-124.2664
-51924183,Plantago_virginica,42.0811,-124.2828
 699261433,Plantago_virginica,27.99055,-82.69333
 1705471081,Plantago_virginica,31.323,-95.4216
 1318198497,Plantago_virginica,38.8464,-77.3075
@@ -707,10 +681,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270623284,Plantago_virginica,31.8258,-110.774
 1039008478,Plantago_virginica,41.2992,-72.8575
 1260927471,Plantago_virginica,37.14638,-94.46277
-1320175585,Plantago_virginica,38.895,-77.0367
 1258866068,Plantago_virginica,38.95167,-92.33389
 1038974429,Plantago_virginica,41.3114,-72.9247
 1317931867,Plantago_virginica,38.8206,-76.7444
-1321965175,Plantago_virginica,38.8428,-77.0006
 699261422,Plantago_virginica,36.85,-75.97694
 1257732605,Plantago_virginica,39.1061,-94.5106
