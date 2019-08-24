@@ -73,7 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1413715536,Dialium_guianense,-7.907686,-61.608117
 1424500211,Dialium_guianense,-3.423333,-51.938055
 1424500468,Dialium_guianense,-3.396389,-51.948333
-1890741677,Dialium_guianense,-16.846944,-33.35
 1424500493,Dialium_guianense,-3.388055,-51.964167
 1147307752,Dialium_guianense,1.98,-72.66
 1424507656,Dialium_guianense,-3.271944,-51.726111
@@ -82,7 +81,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424510573,Dialium_guianense,-3.334167,-51.794444
 1424506058,Dialium_guianense,-3.394722,-51.951667
 1413715482,Dialium_guianense,-7.675258,-62.593269
-1423904447,Dialium_guianense,-74.526111,-62.949444
 1147307762,Dialium_guianense,2.41,-72.46
 1257908697,Dialium_guianense,12.938806,-85.406444
 1094926547,Dialium_guianense,-19.15,-40.05
@@ -135,8 +133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094897495,Dialium_guianense,-15.633333,-39.183333
 1928262002,Dialium_guianense,-8.727778,-35.838333
 930998530,Dialium_guianense,7.529011,-74.817717
-1089184515,Dialium_guianense,-8.740028,-34.970375
-2291924142,Dialium_guianense,6.639167,1.716944
 1928242314,Dialium_guianense,-8.0786,-34.9686
 1089185635,Dialium_guianense,-8.078611,-34.968611
 2027494891,Dialium_guianense,-9.321389,-56.793056
@@ -178,11 +174,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090664116,Dialium_guianense,-9.457778,-55.825
 768771968,Dialium_guianense,2.23,-72.56
 1123824532,Dialium_guianense,-19.323611,-40.555556
-1094927958,Dialium_guianense,-31.323333,-40.555278
 1096930618,Dialium_guianense,-18.336217,-40.12644
 1123824381,Dialium_guianense,-19.325278,-40.611389
 1123824384,Dialium_guianense,-19.321667,-40.636944
-1094920846,Dialium_guianense,-32.325,-40.611389
 1090576830,Dialium_guianense,-3.009167,-49.851944
 1424315639,Dialium_guianense,-15.666667,-39.333333
 2236308219,Dialium_guianense,-29.869444,-50.090833
@@ -304,7 +298,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936269374,Dialium_guianense,-13.025833,-68.843056
 1707573731,Dialium_guianense,5.606667,-70.26
 1260411201,Dialium_guianense,11.100833,-84.280278
-1077596795,Dialium_guianense,-11.216725,-36.176119
 1065431440,Dialium_guianense,5.25301,-76.56325
 1897362852,Dialium_guianense,16.93,-91.248889
 1077596892,Dialium_guianense,-9.623611,-36.576111
@@ -331,7 +324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 930989865,Dialium_guianense,7.83803,-75.015797
 1896268820,Dialium_guianense,17.53,-94.028889
 1419159378,Dialium_guianense,17.14,-93.74
-1055634119,Dialium_guianense,17.217668,-88.684767
 1090660377,Dialium_guianense,-11.919722,-64.159722
 1213584429,Dialium_guianense,-14.706944,-39.189722
 1087381296,Dialium_guianense,-14.723333,-39.154444
@@ -378,14 +370,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928244724,Dialium_guianense,-10.565833,-68.296667
 1319782860,Dialium_guianense,-10.5658,-68.2967
 1094765111,Dialium_guianense,-7.583333,-35.5
-1324952232,Dialium_guianense,-15.866667,-38.9
 1421404340,Dialium_guianense,17.733333,-92.008333
 1258570626,Dialium_guianense,-0.51666,-76.53333
 1260644284,Dialium_guianense,3.16666,-58.66666
 2289431801,Dialium_guianense,3.166667,-58.666667
 1456414844,Dialium_guianense,3.16,-58.66
 45014540,Dialium_guianense,8.65,-83.1
-1095186049,Dialium_guianense,-8.056484,-34.881777
 1258504212,Dialium_guianense,13.98333,-85.31666
 2289906705,Dialium_guianense,3.616667,-53.2
 1259905642,Dialium_guianense,9.28333,-78.96666
@@ -537,7 +527,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261922365,Dialium_guianense,-13.13472,-69.56777
 1261867991,Dialium_guianense,-11.73333,-67.98333
 1930592161,Dialium_guianense,-11.73,-67.98
-1090558122,Dialium_guianense,-20.658,-40.511
 1260642761,Dialium_guianense,0.5,-72.11666
 1261842583,Dialium_guianense,-0.66666,-76.36666
 1261841631,Dialium_guianense,-0.93333,-76.21666
@@ -580,8 +569,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 45014102,Dialium_guianense,8.76,-83.25
 1261547917,Dialium_guianense,-0.783333,-76.5
 1258436034,Dialium_guianense,-1.06666,-77.6
-1253644075,Dialium_guianense,8.616667,-83.733334
-45014054,Dialium_guianense,8.61,-83.73
 1260642532,Dialium_guianense,2.25,-58.66666
 1260985920,Dialium_guianense,8.76666,-83.25
 1456394605,Dialium_guianense,2.25,-58.6667
@@ -591,10 +578,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 768734734,Dialium_guianense,-0.65,-72.09
 930983465,Dialium_guianense,1.281228,-70.179489
 2013811372,Dialium_guianense,1.378663,-70.631833
-1320807031,Dialium_guianense,-0.35,12.2333
 930983458,Dialium_guianense,1.378611,-70.631944
 1932875480,Dialium_guianense,1.27,-70.18
-2236121252,Dialium_guianense,-0.45,11.75
 1258284160,Dialium_guianense,-3.25,-72.9
 45012794,Dialium_guianense,11.12,-85.59
 1258320155,Dialium_guianense,-4.16666,-73.5
@@ -699,7 +684,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042640486,Dialium_guianense,-2.383333,-59.85
 1261476222,Dialium_guianense,-0.33333,-77.08333
 931015390,Dialium_guianense,8.34789,-75.09834
-1265481919,Dialium_guianense,15.67,-18.53
 1893889056,Dialium_guianense,15.9258052186421,-92.5082692727354
 1893889069,Dialium_guianense,15.9258058390983,-92.2582633589369
 1260641973,Dialium_guianense,4.28333,-62.63333
@@ -887,7 +871,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094726145,Dialium_guianense,-19.8,-42.616667
 1930012484,Dialium_guianense,-19.8,-42.62
 1258439865,Dialium_guianense,6.23333,-64.38333
-912630373,Dialium_guianense,-61,-63
 1258499172,Dialium_guianense,5.5,-76.61666
 1259158413,Dialium_guianense,11.666667,-84.283333
 1421415687,Dialium_guianense,17.266667,-94.666944
@@ -947,7 +930,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1213529977,Dialium_guianense,-3.844178,-51.832289
 1259510712,Dialium_guianense,8.808333,-77.675
 1087322691,Dialium_guianense,4.2,-77.133333
-1042523674,Dialium_guianense,4.1731,-78.33
 1042590350,Dialium_guianense,-3.3,-63
 1260642389,Dialium_guianense,4.2,-77.13333
 1228591209,Dialium_guianense,-4,-75
@@ -1058,7 +1040,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893397334,Dialium_guianense,17.275,-91.741667
 1896268832,Dialium_guianense,17.474167,-93.825
 1844929379,Dialium_guianense,7.085941,-77.415814
-1259511657,Dialium_guianense,17.166667,-88.766667
 1259508624,Dialium_guianense,8.4,-78.39166
 1259511404,Dialium_guianense,15.84083,-89.18638
 1928671957,Dialium_guianense,-15.41,-39.49
@@ -1147,5 +1128,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930629999,Dialium_guianense,-3.75626,-73.282456
 1456206783,Dialium_guianense,4.93,-52.33
 1930964150,Dialium_guianense,-1.284992,-48.455522
-1890636688,Dialium_guianense,3.076111,10.407778
 1259512550,Dialium_guianense,8.4,-78.15
