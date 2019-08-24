@@ -103,7 +103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930156058,Layia_glandulosa,43.48289,-117.54915
 1929313241,Layia_glandulosa,40.53,-119.47
 1930625069,Layia_glandulosa,40.87,-116.91
-1930859938,Layia_glandulosa,42,-113
 2270587724,Layia_glandulosa,33.7722,-113.334
 1846494354,Layia_glandulosa,33.33476,-111.1458
 1846494352,Layia_glandulosa,33.20698,-111.1502
@@ -119,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986947030,Layia_glandulosa,37.399444,-113.983333
 1899736357,Layia_glandulosa,35.311667,-120.698333
 1986946264,Layia_glandulosa,39.304444,-112.399722
-1988209426,Layia_glandulosa,40,-122.6
 1929378097,Layia_glandulosa,41.9781,-118.6328
 1846500964,Layia_glandulosa,37.104183,-110.843567
 1929977379,Layia_glandulosa,37.25064,-113.8543
@@ -138,7 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51865829,Layia_glandulosa,42.1237,-117.3088
 1931244070,Layia_glandulosa,39.14931,-119.667
 1928043531,Layia_glandulosa,43.0972,-118.8058
-1846479760,Layia_glandulosa,33.916667,-116.7
 1846527601,Layia_glandulosa,33.219459,-111.232641
 2270197245,Layia_glandulosa,35.46411,-120.33005
 1426407790,Layia_glandulosa,35.741667,-118.179167
@@ -195,12 +192,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270250585,Layia_glandulosa,37.491667,-118.383333
 51865717,Layia_glandulosa,43.8391,-117.6113
 1895236633,Layia_glandulosa,32.164167,-115.938611
-1988144055,Layia_glandulosa,35.8,-120.9
-1988185615,Layia_glandulosa,39.7,-120
 1930568221,Layia_glandulosa,37.4389,-113.264
 1931154403,Layia_glandulosa,40.7587,-119.8314
 51865718,Layia_glandulosa,42.0568,-118.9618
-1927906529,Layia_glandulosa,29.65,-115.2
 1895236592,Layia_glandulosa,31.305833,-116.317778
 1895236590,Layia_glandulosa,29.583889,-115.216667
 1895236660,Layia_glandulosa,32.509167,-116.058889
@@ -209,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928840496,Layia_glandulosa,37.38,-113.68
 1929837301,Layia_glandulosa,37.31,-113.97
 2270252322,Layia_glandulosa,34.68246,-120.40729
-2270252631,Layia_glandulosa,35.383333,-119.5
 2270661161,Layia_glandulosa,31.8537,-110.816
 2270253109,Layia_glandulosa,34.666667,-120.416667
 2270580969,Layia_glandulosa,33.96,-112.34
@@ -219,7 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270505540,Layia_glandulosa,32.048889,-115.905556
 2270657211,Layia_glandulosa,31.7753,-110.867
 51865709,Layia_glandulosa,42.0374,-119.7741
-1893339899,Layia_glandulosa,32.05,-115.9
 1318465998,Layia_glandulosa,33.16,-108.824
 1930955386,Layia_glandulosa,37.42531,-109.46661
 1426284111,Layia_glandulosa,35.9125,-118.166667
@@ -257,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846527771,Layia_glandulosa,34.7278,-113.3806
 1928853809,Layia_glandulosa,39.10591,-119.7775
 2270656726,Layia_glandulosa,36.9455,-112.399
-1929751924,Layia_glandulosa,39.52,-119.7
 2270657092,Layia_glandulosa,34.0662,-113.287
 2270660019,Layia_glandulosa,34.7278,-113.381
 2270257672,Layia_glandulosa,35.253778,-115.27703
@@ -310,7 +301,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928284534,Layia_glandulosa,40.96683,-117.8216
 1928924955,Layia_glandulosa,40.98,-118.07
 1930652088,Layia_glandulosa,41.07,-117.96
-1928308991,Layia_glandulosa,41.3,-118.43
 2270657811,Layia_glandulosa,33.9234,-112.296
 2270258346,Layia_glandulosa,34.399016,-116.69979
 730728217,Layia_glandulosa,42.9653,-118.888
@@ -320,9 +310,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270583539,Layia_glandulosa,33.8776,-112.277
 2270656915,Layia_glandulosa,33.8533,-112.269
 2270196373,Layia_glandulosa,34.7169318642749,-120.480697799437
-2270657803,Layia_glandulosa,33.3833,-110.1
 2270257483,Layia_glandulosa,34.7529999991159,-120.416
-1928208967,Layia_glandulosa,41.1,-117.71
 415908467,Layia_glandulosa,33.66194,-111.81222
 2270656894,Layia_glandulosa,33.6891,-111.241
 2270657358,Layia_glandulosa,31.7897,-111.586
@@ -333,8 +321,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846501088,Layia_glandulosa,34.394833,-116.884861
 2270657562,Layia_glandulosa,34.1859,-112.536
 1893393388,Layia_glandulosa,31.275,-115.558333
-2291305786,Layia_glandulosa,37.5,-118.25
-2270657747,Layia_glandulosa,33.57,-111.7
 2270659274,Layia_glandulosa,33.7102,-111.319
 2270260471,Layia_glandulosa,34.727265,-119.222423
 51865648,Layia_glandulosa,44.3939,-121.1938
@@ -346,7 +332,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270658348,Layia_glandulosa,34.8646,-112.457
 2270257804,Layia_glandulosa,35.406787,-115.779537
 51865597,Layia_glandulosa,43.7389,-118.0531
-1927784620,Layia_glandulosa,43.2,-118.38
 1927858238,Layia_glandulosa,42.63239,-118.51819
 51865569,Layia_glandulosa,42.545,-117.1631
 51865271,Layia_glandulosa,42.3183,-117.8211
@@ -433,7 +418,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426070467,Layia_glandulosa,41.3163,-120.245
 51866074,Layia_glandulosa,44.1204,-121.3319
 63856920,Layia_glandulosa,43.9167,-121.2503
-51865863,Layia_glandulosa,44.3,-120.8333
 1426218046,Layia_glandulosa,41.2317,-120.4075
 51866584,Layia_glandulosa,43.5417,-118.1581
 1426408023,Layia_glandulosa,34.537,-117.2938
