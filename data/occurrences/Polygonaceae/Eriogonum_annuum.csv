@@ -22,7 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1987011738,Eriogonum_annuum,40.215556,-104.214444
 176943362,Eriogonum_annuum,37.74603,-100.02676
 1843901249,Eriogonum_annuum,35.7075,-103.6494
-1262264143,Eriogonum_annuum,44.493694,-122.483694
 1843903892,Eriogonum_annuum,36.691472,-103.207722
 1843915237,Eriogonum_annuum,36.4824,-105.9435
 1889161685,Eriogonum_annuum,32.0825,-105.8505
@@ -88,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270580075,Eriogonum_annuum,35.225595,-100.31958
 1842921256,Eriogonum_annuum,34.390269,-103.792109
 176943292,Eriogonum_annuum,37.116207,-101.886214
-2242408917,Eriogonum_annuum,39.732207,-104.961468
 2242370612,Eriogonum_annuum,39.491119,-105.093243
 176943321,Eriogonum_annuum,37.100238,-101.938897
 1842921315,Eriogonum_annuum,36.282262,-103.158242
@@ -456,5 +454,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176943040,Eriogonum_annuum,37.99964,-101.31552
 1143823965,Eriogonum_annuum,39.77173,-101.80103
 699266766,Eriogonum_annuum,40.49861,-98.94777
-1056240060,Eriogonum_annuum,23.950465,-102.532886
 1258986825,Eriogonum_annuum,31.73,-106.48
