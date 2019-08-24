@@ -15,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995423335,Harmsiodoxa_blennodioides,-34.192778,141.706389
 1652379759,Harmsiodoxa_blennodioides,-25.681169,138.674207
 1499288059,Harmsiodoxa_blennodioides,-31.295,145.319
-574750121,Harmsiodoxa_blennodioides,29.983333,81.817222
 992064850,Harmsiodoxa_blennodioides,-27.751667,140.895556
 992065310,Harmsiodoxa_blennodioides,-27.729444,140.735278
 992074137,Harmsiodoxa_blennodioides,-32.005,140.527
@@ -36,9 +35,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652282204,Harmsiodoxa_blennodioides,-25.423775,147.586175
 1652267132,Harmsiodoxa_blennodioides,-25.799483,146.583711
 1652286704,Harmsiodoxa_blennodioides,-26.485982,147.979746
-575217218,Harmsiodoxa_blennodioides,27.818611,86.687222
 1652160403,Harmsiodoxa_blennodioides,-26.890579,149.420072
-1998946934,Harmsiodoxa_blennodioides,29.075833,99.918889
 992033792,Harmsiodoxa_blennodioides,-30.165673,134.891916
 1652184999,Harmsiodoxa_blennodioides,-28.902474,144.339809
 996147178,Harmsiodoxa_blennodioides,-32.06,147.25
@@ -71,8 +68,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652263512,Harmsiodoxa_blennodioides,-28.01226,147.773203
 995149526,Harmsiodoxa_blennodioides,-34.7942,142.0519
 1652226863,Harmsiodoxa_blennodioides,-27.990252,144.159249
-667718053,Harmsiodoxa_blennodioides,29.10806,99.90778
-1999235029,Harmsiodoxa_blennodioides,29.108056,99.907778
 1257359313,Harmsiodoxa_blennodioides,-25.8083,138.8382
 994767341,Harmsiodoxa_blennodioides,-25.5783,148.0731
 1652234516,Harmsiodoxa_blennodioides,-25.576899,148.073906
@@ -81,7 +76,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992625455,Harmsiodoxa_blennodioides,-28.370372,137.380769
 992627584,Harmsiodoxa_blennodioides,-27.2,139.7
 994026239,Harmsiodoxa_blennodioides,-32.2722,141.4269
-615304615,Harmsiodoxa_blennodioides,27.03,100.23
 1652216161,Harmsiodoxa_blennodioides,-27.723593,142.725931
 993588897,Harmsiodoxa_blennodioides,-33.5333,146.8167
 1652224419,Harmsiodoxa_blennodioides,-28.173575,146.04256
@@ -93,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992588114,Harmsiodoxa_blennodioides,-25.991944,129.451667
 1085219427,Harmsiodoxa_blennodioides,-25.99049,129.45309
 1071743330,Harmsiodoxa_blennodioides,-30.26985,144.907888
-615304622,Harmsiodoxa_blennodioides,28.2,90.92
 992574494,Harmsiodoxa_blennodioides,-33.25,140.57
 1937310163,Harmsiodoxa_blennodioides,-24.8833,146.6667
 1451502397,Harmsiodoxa_blennodioides,-31.881828,141.41795
@@ -154,7 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992373488,Harmsiodoxa_blennodioides,-28.6,130.8
 1652028889,Harmsiodoxa_blennodioides,-28.081913,145.084238
 992373309,Harmsiodoxa_blennodioides,-28.9,130.4
-993291420,Harmsiodoxa_blennodioides,-18.35,127.5667
 992375155,Harmsiodoxa_blennodioides,-29.582092,130.167779
 992376865,Harmsiodoxa_blennodioides,-33.165366,140.909389
 992377236,Harmsiodoxa_blennodioides,-33.390367,140.942726
@@ -245,7 +237,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996066890,Harmsiodoxa_blennodioides,-23.67,133.7
 992595466,Harmsiodoxa_blennodioides,-32.332031,140.617718
 994813926,Harmsiodoxa_blennodioides,-34.8667,143.15
-1030855737,Harmsiodoxa_blennodioides,29.037008,100.298406
 996066903,Harmsiodoxa_blennodioides,-23.8,133.8
 994797749,Harmsiodoxa_blennodioides,-35.4167,141.9167
 995319470,Harmsiodoxa_blennodioides,-35.6,141.8167
@@ -404,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651995067,Harmsiodoxa_blennodioides,-24.581911,145.750874
 993576182,Harmsiodoxa_blennodioides,-24.8833,146.25
 1651995073,Harmsiodoxa_blennodioides,-25.748574,146.250875
-919488201,Harmsiodoxa_blennodioides,28.48611,98.911543
 1651995054,Harmsiodoxa_blennodioides,-26.581894,148.750847
 1651995108,Harmsiodoxa_blennodioides,-26.581897,148.250854
 992106943,Harmsiodoxa_blennodioides,-26.36091,139.400457
@@ -465,14 +455,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451620451,Harmsiodoxa_blennodioides,-32.248437,148.617846
 1936875062,Harmsiodoxa_blennodioides,-33.12,147.8
 1451620011,Harmsiodoxa_blennodioides,-33.115108,147.8012
-667359117,Harmsiodoxa_blennodioides,30.00468,99.11071
 1451620343,Harmsiodoxa_blennodioides,-31.715103,148.651173
 995962169,Harmsiodoxa_blennodioides,-31.72,148.65
 995962123,Harmsiodoxa_blennodioides,-35.22,144.82
 1451620317,Harmsiodoxa_blennodioides,-35.215144,144.817944
 1451672593,Harmsiodoxa_blennodioides,-33.365105,149.551174
 996067658,Harmsiodoxa_blennodioides,-31.65,146.27
-667359116,Harmsiodoxa_blennodioides,29.45238,99.36773
 1451620392,Harmsiodoxa_blennodioides,-31.515118,146.267875
 995962011,Harmsiodoxa_blennodioides,-31.52,146.27
 995961921,Harmsiodoxa_blennodioides,-30.62,145.02
