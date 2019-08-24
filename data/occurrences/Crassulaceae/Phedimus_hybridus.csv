@@ -30,7 +30,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702396825,Phedimus_hybridus,59.7471,10.222
 788880838,Phedimus_hybridus,56.60856,16.6197
 1701322433,Phedimus_hybridus,63.5639,10.9332
-2313294900,Phedimus_hybridus,48.16,11.5
 2313294962,Phedimus_hybridus,48.13,11.69
 1702317910,Phedimus_hybridus,59.2092,10.4545
 1702208554,Phedimus_hybridus,59.2602,11.1161
@@ -90,10 +89,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788618226,Phedimus_hybridus,55.56054,14.28617
 1701828821,Phedimus_hybridus,59.4901,11.641
 1599375845,Phedimus_hybridus,60.492469,25.551467
-442115639,Phedimus_hybridus,46.516666,6.5
 1702161036,Phedimus_hybridus,59.7555,10.1631
 1702031071,Phedimus_hybridus,60.7927,11.0852
-1837902995,Phedimus_hybridus,51.566666,85.5
 1342962798,Phedimus_hybridus,55.651102,8.688845
 1702153066,Phedimus_hybridus,59.8959,10.6005
 1702153610,Phedimus_hybridus,60.8813,11.5672
