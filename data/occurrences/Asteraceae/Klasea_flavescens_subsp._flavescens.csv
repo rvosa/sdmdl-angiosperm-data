@@ -26,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936667998,Klasea_flavescens_subsp._flavescens,37.5144,-1.5892
 199505856,Klasea_flavescens_subsp._flavescens,36.572787,-4.750581
 235572110,Klasea_flavescens_subsp._flavescens,36.982,-4.163
-85847684,Klasea_flavescens_subsp._flavescens,36.68,-3.9
 199485590,Klasea_flavescens_subsp._flavescens,36.946,-4.129
 2291385903,Klasea_flavescens_subsp._flavescens,32.606389,-4.815556
 199485546,Klasea_flavescens_subsp._flavescens,36.846,-4.239
@@ -36,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199485472,Klasea_flavescens_subsp._flavescens,36.911,-4.095
 232592550,Klasea_flavescens_subsp._flavescens,37.618,-0.876
 232592559,Klasea_flavescens_subsp._flavescens,37.71,-1.644
-232592561,Klasea_flavescens_subsp._flavescens,38.7,-1.33
 232592560,Klasea_flavescens_subsp._flavescens,37.487,-1.807
 232592562,Klasea_flavescens_subsp._flavescens,37.641,-1.226
 199485305,Klasea_flavescens_subsp._flavescens,36.64991,-4.62039
@@ -55,8 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85816695,Klasea_flavescens_subsp._flavescens,37.68,-3.45
 232592552,Klasea_flavescens_subsp._flavescens,37.66,-0.738
 1936248684,Klasea_flavescens_subsp._flavescens,36.9992,-2.4165
-1501065928,Klasea_flavescens_subsp._flavescens,38.36,-0.6
-318122180,Klasea_flavescens_subsp._flavescens,38.24,-0.9
 318122183,Klasea_flavescens_subsp._flavescens,38.37,-0.96
 318122190,Klasea_flavescens_subsp._flavescens,38.32,-0.55
 1936649132,Klasea_flavescens_subsp._flavescens,38.2426,-0.9101
@@ -96,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85846225,Klasea_flavescens_subsp._flavescens,36.950001,-2.21
 85846236,Klasea_flavescens_subsp._flavescens,36.77,-2.22
 895311985,Klasea_flavescens_subsp._flavescens,39.78,-0.96
-85846233,Klasea_flavescens_subsp._flavescens,36.950001,-2.1
 85846230,Klasea_flavescens_subsp._flavescens,36.68,-2.22
 1936447490,Klasea_flavescens_subsp._flavescens,35.056667,-2.712778
 1842879871,Klasea_flavescens_subsp._flavescens,34.9583,-2.7227
@@ -104,7 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895311926,Klasea_flavescens_subsp._flavescens,38.78,-0.87
 318121787,Klasea_flavescens_subsp._flavescens,38.45,-0.77
 318121951,Klasea_flavescens_subsp._flavescens,38.67,-0.06
-1501063572,Klasea_flavescens_subsp._flavescens,38.27,-0.9
 199485075,Klasea_flavescens_subsp._flavescens,36.759,-3.891
 85846215,Klasea_flavescens_subsp._flavescens,37.049999,-2.44
 1050579480,Klasea_flavescens_subsp._flavescens,42.42,-2.48
@@ -122,8 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500701907,Klasea_flavescens_subsp._flavescens,39.68,-0.49
 1500699227,Klasea_flavescens_subsp._flavescens,38.06,-0.66
 1842879585,Klasea_flavescens_subsp._flavescens,34.73,-0.73
-1050614230,Klasea_flavescens_subsp._flavescens,42.1,-1.37
-1050614219,Klasea_flavescens_subsp._flavescens,42.5,-2.33
 85846477,Klasea_flavescens_subsp._flavescens,36.849998,-4.91
 1851582937,Klasea_flavescens_subsp._flavescens,36.73,-3.73
 199484794,Klasea_flavescens_subsp._flavescens,36.745,-4.36125
@@ -158,7 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842886996,Klasea_flavescens_subsp._flavescens,41.4552,-0.039
 199485591,Klasea_flavescens_subsp._flavescens,36.68521,-4.56573
 85817773,Klasea_flavescens_subsp._flavescens,36.75,-5.35
-318122033,Klasea_flavescens_subsp._flavescens,38.6,-0.53
 318122034,Klasea_flavescens_subsp._flavescens,38.78,-0.52
 318122151,Klasea_flavescens_subsp._flavescens,36.73,-2.16
 318122031,Klasea_flavescens_subsp._flavescens,37.88,-0.78
