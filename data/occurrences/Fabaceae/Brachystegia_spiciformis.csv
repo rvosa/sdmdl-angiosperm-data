@@ -114,8 +114,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261528594,Brachystegia_spiciformis,-7.65,35.96666
 461677966,Brachystegia_spiciformis,-7.625,35.875
 2288950205,Brachystegia_spiciformis,-7.65,35.966667
-1261506483,Brachystegia_spiciformis,-6.03333,38.78333
-461677972,Brachystegia_spiciformis,-6.125,38.875
 1258319090,Brachystegia_spiciformis,-8.83333,33.33333
 2289928809,Brachystegia_spiciformis,-8.833333,33.333333
 2291921688,Brachystegia_spiciformis,-8.516667,35.166667
@@ -139,15 +137,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291921075,Brachystegia_spiciformis,-3.633333,30.25
 1912806405,Brachystegia_spiciformis,-23.1068,35.41516
 1988296001,Brachystegia_spiciformis,-23.2902,35.31712
-1988295955,Brachystegia_spiciformis,-22.9306,35.59738
 2288401829,Brachystegia_spiciformis,-3.966667,29.433333
 1945000811,Brachystegia_spiciformis,-3.58,29.26
 2289074028,Brachystegia_spiciformis,-4.433333,29.65
 1322823999,Brachystegia_spiciformis,-4.43,29.65
-1912806373,Brachystegia_spiciformis,-22.9421,35.56851
-1912806411,Brachystegia_spiciformis,-22.9312,35.55804
-1912806428,Brachystegia_spiciformis,-23.0235,35.53834
-1144611493,Brachystegia_spiciformis,-22.925,35.55
 2288947512,Brachystegia_spiciformis,-3.983333,29.433333
 2291921390,Brachystegia_spiciformis,-8.916667,28.25
 2289440691,Brachystegia_spiciformis,-4.05,29.533333
@@ -183,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288526963,Brachystegia_spiciformis,-7.666667,24.016667
 1988295666,Brachystegia_spiciformis,-16.499,35.70079
 1900970094,Brachystegia_spiciformis,-19.875,32.875
-1890637933,Brachystegia_spiciformis,-15.408056,28.287222
 1900969975,Brachystegia_spiciformis,-20.375,32.375
 866263122,Brachystegia_spiciformis,-16.478056,35.713611
 2289898442,Brachystegia_spiciformis,-4.333333,29.583333
@@ -204,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866263010,Brachystegia_spiciformis,-15.595109,34.415423
 866263006,Brachystegia_spiciformis,-16.907281,37.079407
 866263155,Brachystegia_spiciformis,-17.429302,37.061708
-866262894,Brachystegia_spiciformis,-17.276389,38.183889
 1912806425,Brachystegia_spiciformis,-20.5773,33.8836
 866263131,Brachystegia_spiciformis,-21.958643,35.260059
 2290413990,Brachystegia_spiciformis,-11.416667,16.916667
@@ -231,7 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988295975,Brachystegia_spiciformis,-14.9687,38.79982
 866263016,Brachystegia_spiciformis,-24.664775,33.566628
 866262897,Brachystegia_spiciformis,-24.610556,33.922222
-866262896,Brachystegia_spiciformis,-24.492241,35.136685
 866263107,Brachystegia_spiciformis,-24.063333,34.730278
 1839439226,Brachystegia_spiciformis,-9.916667,24.6
 1839439225,Brachystegia_spiciformis,-8.783333,24.266667
@@ -244,7 +234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866263017,Brachystegia_spiciformis,-14.352067,35.652567
 866263326,Brachystegia_spiciformis,-22.273056,35.531111
 866262882,Brachystegia_spiciformis,-22.113611,35.493056
-866263039,Brachystegia_spiciformis,-21.870833,35.441944
 1839439209,Brachystegia_spiciformis,-6.783333,23.25
 1835600567,Brachystegia_spiciformis,-10.59,26.44
 1839439674,Brachystegia_spiciformis,-7.033333,29.783333
@@ -255,7 +244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866263018,Brachystegia_spiciformis,-24.729739,33.69742
 866263011,Brachystegia_spiciformis,-24.89242,33.390073
 866263027,Brachystegia_spiciformis,-24.686667,33.530556
-866263031,Brachystegia_spiciformis,-24.441919,35.150925
 1839439149,Brachystegia_spiciformis,-7.283333,19
 2291921819,Brachystegia_spiciformis,-10.683333,22.35
 866262893,Brachystegia_spiciformis,-21.534722,35.202222
@@ -321,7 +309,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 866263036,Brachystegia_spiciformis,-12.551389,39.002778
 866263119,Brachystegia_spiciformis,-13.387701,38.427302
 866262892,Brachystegia_spiciformis,-12.922131,40.281079
-866263001,Brachystegia_spiciformis,-10.782222,40.481111
 866263135,Brachystegia_spiciformis,-13.59026,38.82024
 866263161,Brachystegia_spiciformis,-12.540278,39.644722
 2239091148,Brachystegia_spiciformis,-13.872018,39.887876
@@ -375,7 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 813401490,Brachystegia_spiciformis,-13.875,35.42861
 813401481,Brachystegia_spiciformis,-16.716686,37.41312
 813401519,Brachystegia_spiciformis,-16.467918,36.383049
-813401478,Brachystegia_spiciformis,-10.554884,40.450211
 813401484,Brachystegia_spiciformis,-15.225168,39.733648
 813401467,Brachystegia_spiciformis,-24.711667,33.882774
 813401466,Brachystegia_spiciformis,-24.388861,34.966792
@@ -393,7 +379,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438048167,Brachystegia_spiciformis,-14.89834,13.44603
 438714180,Brachystegia_spiciformis,-14.89367,13.38183
 438714179,Brachystegia_spiciformis,-15.0013,13.30697
-866263035,Brachystegia_spiciformis,-24.682778,34.668611
 1839493093,Brachystegia_spiciformis,-11.65,27.416667
 1839439465,Brachystegia_spiciformis,-13,28.65
 866263148,Brachystegia_spiciformis,-14.942778,38.321663
