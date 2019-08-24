@@ -13,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288311474,Detarium_microcarpum,10.983333,2.733333
 1424795382,Detarium_microcarpum,9.276333,2.8065
 1424795387,Detarium_microcarpum,10.9425,3.669667
-2289152002,Detarium_microcarpum,11.085833,-16.236389
 2291924182,Detarium_microcarpum,9.325,2.738889
 2288826332,Detarium_microcarpum,8.216667,1.716667
 2290370679,Detarium_microcarpum,9.233333,2.716667
@@ -112,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844889760,Detarium_microcarpum,9.356944,-7.120833
 2290170865,Detarium_microcarpum,8.75,4.666667
 912328195,Detarium_microcarpum,11.73,-3.04
-621164184,Detarium_microcarpum,0.1,-9.1
 2292029691,Detarium_microcarpum,8.4,3.783333
 2289215024,Detarium_microcarpum,9.916667,4.25
 2289860929,Detarium_microcarpum,9,4.45
@@ -187,13 +185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1944990662,Detarium_microcarpum,11.160666,7.638536
 2291924315,Detarium_microcarpum,12.383333,-15.166667
 912325564,Detarium_microcarpum,11.95,-15.65
-912325519,Detarium_microcarpum,5.93,30.06
-912325613,Detarium_microcarpum,6.61,30.42
-912325533,Detarium_microcarpum,6.81,30.63
-912325570,Detarium_microcarpum,5.39,27.25
-912325597,Detarium_microcarpum,5.58,27.46
-912325513,Detarium_microcarpum,4.85,31.61
-912325586,Detarium_microcarpum,4.91,29.46
 621163569,Detarium_microcarpum,8.57,-2.17
 2252219359,Detarium_microcarpum,7.55,-2.43
 1703341514,Detarium_microcarpum,9.6,-5.6
