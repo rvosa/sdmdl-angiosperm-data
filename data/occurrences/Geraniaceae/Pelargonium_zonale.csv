@@ -1,9 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005437086,Pelargonium_zonale,-32.682222,26.491389
-2308824021,Pelargonium_zonale,30.03,31.2
 994574423,Pelargonium_zonale,-42.78943,147.27433
-786202380,Pelargonium_zonale,50.8,4.4
-786202369,Pelargonium_zonale,49,8.4
 1270041569,Pelargonium_zonale,51.048409,13.798295
 1707588742,Pelargonium_zonale,4.779444,-75.6225
 462148446,Pelargonium_zonale,-32.625,26.625
@@ -13,13 +10,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1932878580,Pelargonium_zonale,3.46,-74.14
 2005440915,Pelargonium_zonale,-33.429444,22.250278
 1259213299,Pelargonium_zonale,6.65,-75.46666
-991907231,Pelargonium_zonale,46.8,8
 462148443,Pelargonium_zonale,-32.375,25.125
 1257597925,Pelargonium_zonale,16.301667,-96.300278
 1936519138,Pelargonium_zonale,36.8423,-2.0479
 1502003183,Pelargonium_zonale,39.68,-0.38
 1123880897,Pelargonium_zonale,6.237278,-75.502162
-899793232,Pelargonium_zonale,52.4,13.1
 462148419,Pelargonium_zonale,-33.375,21.625
 1501067913,Pelargonium_zonale,38.44,-0.77
 462148417,Pelargonium_zonale,-31.125,28.375
@@ -30,7 +25,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895276851,Pelargonium_zonale,38.77,0.07
 616304767,Pelargonium_zonale,-30.625,29.625
 1123914908,Pelargonium_zonale,6.205993,-75.52326
-991907236,Pelargonium_zonale,-0.2,-78.5
 462148411,Pelargonium_zonale,-33.375,22.125
 1895952939,Pelargonium_zonale,19.081667,-98.518889
 1895952890,Pelargonium_zonale,19.041667,-98.072222
@@ -55,11 +49,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462148335,Pelargonium_zonale,-32.375,25.375
 462148333,Pelargonium_zonale,-24.875,30.625
 462148439,Pelargonium_zonale,-33.375,22.625
-991907233,Pelargonium_zonale,51,7.9
 462148431,Pelargonium_zonale,-32.375,26.625
 462148432,Pelargonium_zonale,-32.625,27.125
 462148430,Pelargonium_zonale,-34.125,22.125
-1060568945,Pelargonium_zonale,50.7,7.1
 462148425,Pelargonium_zonale,-33.875,23.125
 462148436,Pelargonium_zonale,-33.125,18.875
 1090608389,Pelargonium_zonale,-30.019139,-51.237222
@@ -81,7 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462148380,Pelargonium_zonale,-32.125,25.375
 1123919958,Pelargonium_zonale,6.4658,-75.37789
 616304764,Pelargonium_zonale,-23.875,17.875
-786202372,Pelargonium_zonale,47.6,7.6
 1315650591,Pelargonium_zonale,-33.415,22.55028
 1315654919,Pelargonium_zonale,-34.0553,24.1204
 2273847537,Pelargonium_zonale,-35.19914,-70.89573
@@ -102,7 +93,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1315649390,Pelargonium_zonale,-33.3424,26.5586
 462148342,Pelargonium_zonale,-33.875,25.375
 2273846281,Pelargonium_zonale,-33.47269,-70.64724
-2290483212,Pelargonium_zonale,-33.4,19.766667
 1315654983,Pelargonium_zonale,-33.6383,19.0908
 462148366,Pelargonium_zonale,-33.375,19.875
 462148423,Pelargonium_zonale,-33.125,26.625
