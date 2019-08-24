@@ -12,7 +12,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992082872,Crassula_tetragona,-34.347,139.615
 992075885,Crassula_tetragona,-34.9311,138.7325
 992065974,Crassula_tetragona,-35.340278,138.445556
-994563423,Crassula_tetragona,-42.9,147.3
 685196831,Crassula_tetragona,-32.875,19.625
 992062745,Crassula_tetragona,-37.649244,145.106616
 996209276,Crassula_tetragona,-36.32,148.47
@@ -55,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461751277,Crassula_tetragona,-33.375,21.625
 995284398,Crassula_tetragona,-38.3667,144.2833
 461751253,Crassula_tetragona,-32.625,20.625
-1897775191,Crassula_tetragona,-38,177.133333
 461751281,Crassula_tetragona,-33.375,26.375
 461751358,Crassula_tetragona,-31.375,19.125
 461751237,Crassula_tetragona,-33.375,22.375
@@ -73,7 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461751315,Crassula_tetragona,-30.125,17.875
 1928690897,Crassula_tetragona,34.43,-119.65
 995122229,Crassula_tetragona,-37.7333,144.0333
-991994474,Crassula_tetragona,-35.01,138.6
 991991254,Crassula_tetragona,-32.02,116.05
 993487550,Crassula_tetragona,-32.0167,116.05
 1937344318,Crassula_tetragona,-32.016667,116.05
@@ -86,10 +83,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461751355,Crassula_tetragona,-33.875,18.625
 461751357,Crassula_tetragona,-34.375,18.875
 461751352,Crassula_tetragona,-33.625,21.125
-993972125,Crassula_tetragona,-32.6,149.6167
 461751349,Crassula_tetragona,-34.125,19.375
 1091307833,Crassula_tetragona,-36.833333,175.75
-1261338648,Crassula_tetragona,33.3,-118.31666
 461751232,Crassula_tetragona,-32.125,20.625
 461751313,Crassula_tetragona,-32.125,21.625
 992051054,Crassula_tetragona,-33.0362,137.5741
@@ -105,8 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995963272,Crassula_tetragona,-32.57,151.17
 1451620690,Crassula_tetragona,-32.565087,151.16781
 461751250,Crassula_tetragona,-33.375,25.375
-993389500,Crassula_tetragona,-35.1,117.8833
-994782642,Crassula_tetragona,-37.8,145
 996569611,Crassula_tetragona,-35.116667,117.916667
 461751344,Crassula_tetragona,-32.125,22.375
 461751272,Crassula_tetragona,-33.625,19.625
