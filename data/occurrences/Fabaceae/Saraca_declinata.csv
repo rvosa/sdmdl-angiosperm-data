@@ -1,10 +1,8 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1064687063,Saraca_declinata,3.350833,98.2225
-2288269693,Saraca_declinata,3.230556,101.635
 1257536598,Saraca_declinata,17.219722,106.449444
 438656984,Saraca_declinata,11.60167,103.07139
 2291363455,Saraca_declinata,4.547778,102.701667
-575085325,Saraca_declinata,8.085,98.608889
 2290487027,Saraca_declinata,5.049167,100.945278
 2289869393,Saraca_declinata,8.996111,98.468889
 2289535195,Saraca_declinata,-1.6,115.966667
@@ -15,10 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291360550,Saraca_declinata,5.799033,101.816667
 912199951,Saraca_declinata,5.12,116.97
 912199953,Saraca_declinata,4.95,117.8
-2289722797,Saraca_declinata,-6.75,147
-2288713064,Saraca_declinata,4.703833,103.395667
-2290670684,Saraca_declinata,15.183333,98.466667
-2290035901,Saraca_declinata,18.316667,102.233333
 2288824206,Saraca_declinata,5.104833,117.038333
 2290782588,Saraca_declinata,-1.633333,115.466667
 2290782340,Saraca_declinata,3.066667,116.466667
@@ -26,7 +20,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290783097,Saraca_declinata,1.9,117.216667
 2291363818,Saraca_declinata,5.75,101.416667
 2288703167,Saraca_declinata,5.716667,101.466667
-1096602095,Saraca_declinata,18.33,102.25
 2288429039,Saraca_declinata,4.633333,116.6
 2290617355,Saraca_declinata,2.1,117.316667
 2290783261,Saraca_declinata,2.57,116.33
@@ -64,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290782804,Saraca_declinata,5.833333,117.933333
 2290774311,Saraca_declinata,2.833333,115.833333
 47842637,Saraca_declinata,6.583,101.1
-1269711881,Saraca_declinata,21.416,-158
 2289403162,Saraca_declinata,4.5,115.166667
 2288832526,Saraca_declinata,5.8,117.316666
 2289931762,Saraca_declinata,4.55,115.166667
@@ -126,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288678989,Saraca_declinata,1.166667,116.333333
 2289132013,Saraca_declinata,1.833333,117.75
 2290782832,Saraca_declinata,1.5,117.333333
-2287349360,Saraca_declinata,2.033333,109.65
 2290774528,Saraca_declinata,4.458333,117.579167
 2290392592,Saraca_declinata,3.666667,97.666667
 2290782352,Saraca_declinata,1.633333,113.966666
@@ -169,14 +160,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290774498,Saraca_declinata,5.42,117.58
 2289757288,Saraca_declinata,5.133333,115.866666
 2290782861,Saraca_declinata,1.733333,109.8
-2289338876,Saraca_declinata,4.9375,118.645833
 2288396802,Saraca_declinata,2.166666,113.116666
 2290115608,Saraca_declinata,3.766666,113.766666
 2290782227,Saraca_declinata,5.483333,117.533333
 2290782734,Saraca_declinata,0.833333,109.133333
 2290774524,Saraca_declinata,3.6,114.416666
 2290774271,Saraca_declinata,3.666666,114.1
-2290774662,Saraca_declinata,6.1333,116.1333
 2290774389,Saraca_declinata,-3.683333,114.916666
 2290774629,Saraca_declinata,4.454167,117.7125
 2290774717,Saraca_declinata,2.0167,113.1667
@@ -184,7 +173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289264482,Saraca_declinata,5.25,115.75
 2290774300,Saraca_declinata,2.7,113.083333
 2288673665,Saraca_declinata,2.516666,113.1
-2290561420,Saraca_declinata,5.866667,117.983333
 2290774355,Saraca_declinata,4.416667,118.020833
 2290774926,Saraca_declinata,5.75,118
 2290652898,Saraca_declinata,5.414722,118.768333
@@ -205,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288587879,Saraca_declinata,4.958333,118.058333
 2290774648,Saraca_declinata,2.766666,113.016666
 2290595687,Saraca_declinata,5.266667,115.804167
-2288525491,Saraca_declinata,4.275,118.55
 2290774625,Saraca_declinata,5.0375,118.295833
 2287356029,Saraca_declinata,5.0167,101.8833
 2288640168,Saraca_declinata,5.7,116
@@ -243,13 +230,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290297289,Saraca_declinata,3.35,114.18333
 2290387860,Saraca_declinata,6.133333,101.866667
 2289840603,Saraca_declinata,-3.45,116
-2290774616,Saraca_declinata,3.166667,106.25
 2290782463,Saraca_declinata,-0.3752,101.1808
 2289715807,Saraca_declinata,-2.083333,102.283333
 2290774304,Saraca_declinata,2.347638,116.233213
-1848915121,Saraca_declinata,2.5,112.5
 2290546940,Saraca_declinata,3.58,98.67
 2289439007,Saraca_declinata,3.316667,98.583333
-2289366208,Saraca_declinata,-3.8,102.266667
-2290129398,Saraca_declinata,-3.5,116.366666
 2288562522,Saraca_declinata,-0.966667,115.316667
