@@ -108,7 +108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461882163,Euphorbia_mauritanica,-24.125,16.125
 461881973,Euphorbia_mauritanica,-29.125,22.875
 461882037,Euphorbia_mauritanica,-30.625,18.125
-1057308367,Euphorbia_mauritanica,21.666667,40.5
 461881983,Euphorbia_mauritanica,-32.375,25.125
 461881978,Euphorbia_mauritanica,-33.375,20.875
 461882027,Euphorbia_mauritanica,-32.125,22.625
@@ -120,13 +119,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461881981,Euphorbia_mauritanica,-28.125,23.125
 461882060,Euphorbia_mauritanica,-29.375,22.875
 461881972,Euphorbia_mauritanica,-28.375,22.625
-438120438,Euphorbia_mauritanica,-28.5,23.5
 461882014,Euphorbia_mauritanica,-29.875,22.875
 461881976,Euphorbia_mauritanica,-31.125,19.875
 461881999,Euphorbia_mauritanica,-33.125,25.625
 439119895,Euphorbia_mauritanica,-33.56667,25.68333
-437455254,Euphorbia_mauritanica,-33.6,26.88333
-438120370,Euphorbia_mauritanica,-33.3,26.53333
 461881996,Euphorbia_mauritanica,-30.875,27.125
 461881992,Euphorbia_mauritanica,-27.625,18.125
 461882015,Euphorbia_mauritanica,-29.625,22.625
@@ -134,7 +130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937487495,Euphorbia_mauritanica,-27.193333,15.302222
 1826294835,Euphorbia_mauritanica,-27.190861,15.380823
 461881941,Euphorbia_mauritanica,-21.875,18.375
-2287163258,Euphorbia_mauritanica,-27.9,15.916667
 760461,Euphorbia_mauritanica,-27.899722,15.930278
 461881934,Euphorbia_mauritanica,-27.875,15.875
 1826294638,Euphorbia_mauritanica,-27.899452,15.917783
@@ -159,7 +154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461882157,Euphorbia_mauritanica,-22.625,15.125
 461882044,Euphorbia_mauritanica,-33.125,19.375
 437455315,Euphorbia_mauritanica,-33.83333,20.05
-439453355,Euphorbia_mauritanica,-30.4,27.68333
 461881970,Euphorbia_mauritanica,-30.375,27.625
 461882011,Euphorbia_mauritanica,-32.875,21.625
 461882049,Euphorbia_mauritanica,-33.125,17.875
