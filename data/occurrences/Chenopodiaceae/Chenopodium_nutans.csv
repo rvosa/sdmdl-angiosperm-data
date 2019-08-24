@@ -13,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1805836480,Chenopodium_nutans,-35.2186,149.7292
 1142172255,Chenopodium_nutans,-35.3589,149.2156
 1071904692,Chenopodium_nutans,-33.806992,141.932748
-1132248452,Chenopodium_nutans,-35.2839,149.0911
 1257384933,Chenopodium_nutans,-23.63434,134.46005
 1937198896,Chenopodium_nutans,-22.81,127.75
 1257385435,Chenopodium_nutans,-22.350556,127.761389
@@ -44,18 +43,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937139834,Chenopodium_nutans,-30.347111,149.925667
 1257382142,Chenopodium_nutans,-17.548333,134.661111
 996238561,Chenopodium_nutans,-34.187008,144.512786
-1229656932,Chenopodium_nutans,41.72,2.94
-1851366218,Chenopodium_nutans,41.7306,2.9467
 1269845532,Chenopodium_nutans,-24.549444,133.257222
 1065941596,Chenopodium_nutans,-24.5494,133.2572
-1842858657,Chenopodium_nutans,41.725,2.9413
 1257382383,Chenopodium_nutans,-23.791111,132.068056
 1257382354,Chenopodium_nutans,-23.860556,132.239167
 1257347029,Chenopodium_nutans,-23.680278,134.217778
 1257382730,Chenopodium_nutans,-21.824444,136.237778
 1450989254,Chenopodium_nutans,-29.7914,138.8317
 1061575382,Chenopodium_nutans,-21.824,136.238
-993719580,Chenopodium_nutans,-35.2689,149.0814
 996967204,Chenopodium_nutans,-19.284179,127.166563
 994579792,Chenopodium_nutans,-43.01529,147.26771
 1071862185,Chenopodium_nutans,-33.852148,150.867691
@@ -128,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652351592,Chenopodium_nutans,-27.946617,145.539727
 1652385404,Chenopodium_nutans,-23.337222,140.683333
 993712159,Chenopodium_nutans,-34.0567,148.5806
-1652359900,Chenopodium_nutans,-21.071088,149.228759
 992066133,Chenopodium_nutans,-35.018056,138.598056
 1073768124,Chenopodium_nutans,-32.325934,150.91445
 996171421,Chenopodium_nutans,-34.152,150.757
@@ -159,9 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996171672,Chenopodium_nutans,-29.429,147.904
 996171452,Chenopodium_nutans,-29.75,147.382
 993700919,Chenopodium_nutans,-35.8597,150.1736
-781075665,Chenopodium_nutans,41.73264,2.94872
-1851578433,Chenopodium_nutans,41.73,2.94
-1936195125,Chenopodium_nutans,41.7306,2.9476
 992066627,Chenopodium_nutans,-27.112778,140.661389
 992068638,Chenopodium_nutans,-26.957778,140.942222
 992066564,Chenopodium_nutans,-27.286389,140.580278
@@ -172,7 +163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992068483,Chenopodium_nutans,-26.8378,140.6825
 1652379444,Chenopodium_nutans,-25.890496,150.950257
 1652381491,Chenopodium_nutans,-24.496373,145.166044
-993695146,Chenopodium_nutans,-35.3525,149.135
 1257373966,Chenopodium_nutans,-23.1561,133.7197
 1061592120,Chenopodium_nutans,-33.080892,150.225507
 996144711,Chenopodium_nutans,-30.1619,142.07
@@ -183,14 +173,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993735513,Chenopodium_nutans,-37.1025,149.8967
 1652291152,Chenopodium_nutans,-28.266348,146.795328
 992060661,Chenopodium_nutans,-31.224722,140.834444
-1050653957,Chenopodium_nutans,28.03,-15.52
 992059395,Chenopodium_nutans,-28.539031,130.120547
 1257374604,Chenopodium_nutans,-23.7789,137.1736
 995406069,Chenopodium_nutans,-23.0308,136.8711
 1652287679,Chenopodium_nutans,-20.565458,148.654972
 1937254447,Chenopodium_nutans,-30.163056,149.89
 1061570517,Chenopodium_nutans,-30.023611,149.930556
-994559527,Chenopodium_nutans,-43.23194,147.98436
 1652283065,Chenopodium_nutans,-22.081906,148.084166
 1257375164,Chenopodium_nutans,-20.2181,131.7978
 1652318382,Chenopodium_nutans,-26.099754,147.876198
@@ -230,7 +218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1450987448,Chenopodium_nutans,-42.8986,147.8139
 1655950167,Chenopodium_nutans,-24.82043,147.67222
 996227452,Chenopodium_nutans,-34.8,149.742
-461818187,Chenopodium_nutans,-26.125,28.125
 1073400885,Chenopodium_nutans,-31.743396,149.845779
 1257367754,Chenopodium_nutans,-19.8025,130.4014
 1073401528,Chenopodium_nutans,-31.57519,149.836376
@@ -257,7 +244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1061589600,Chenopodium_nutans,-33.712697,150.869028
 1061589589,Chenopodium_nutans,-33.721782,150.883414
 1061589325,Chenopodium_nutans,-33.824154,150.685473
-1937123587,Chenopodium_nutans,-35.3,149.116667
 992032273,Chenopodium_nutans,-34.9725,138.6453
 996771419,Chenopodium_nutans,-26.26911,121.499049
 1073827801,Chenopodium_nutans,-28.965412,151.237168
@@ -400,12 +386,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1073891802,Chenopodium_nutans,-33.046338,147.712224
 1257364466,Chenopodium_nutans,-23.6533,133.2786
 994364570,Chenopodium_nutans,-21.463837,137.6354
-1851380923,Chenopodium_nutans,41.682,2.742
-318110208,Chenopodium_nutans,41.68,2.74
 992006621,Chenopodium_nutans,-32.7,137.9
 1257368590,Chenopodium_nutans,-24.1089,136.8686
-1936611000,Chenopodium_nutans,41.6756,2.7345
-204426635,Chenopodium_nutans,41.681999,2.742
 1073896872,Chenopodium_nutans,-33.232632,147.991843
 1085370069,Chenopodium_nutans,-32.62483,135.04052
 996081770,Chenopodium_nutans,-31.5658,147.156
@@ -473,7 +455,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1073879618,Chenopodium_nutans,-32.973323,147.353591
 1652263630,Chenopodium_nutans,-24.890248,144.792554
 993696597,Chenopodium_nutans,-32.7333,151.0667
-1652228161,Chenopodium_nutans,-22.32803,150.314142
 992010686,Chenopodium_nutans,-30.846944,139.128333
 1652263580,Chenopodium_nutans,-24.435855,148.458977
 992010184,Chenopodium_nutans,-31.088889,138.828056
@@ -489,7 +470,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652104821,Chenopodium_nutans,-28.904402,147.12894
 1652294063,Chenopodium_nutans,-24.302661,147.887395
 996671088,Chenopodium_nutans,-27.133333,121.333333
-1851338371,Chenopodium_nutans,41.69,2.7
 992019598,Chenopodium_nutans,-32.960278,135.368056
 1085341869,Chenopodium_nutans,-32.95884,135.36948
 992019834,Chenopodium_nutans,-32.523889,134.733333
@@ -594,7 +574,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 991995412,Chenopodium_nutans,-26.082,132.425
 1085302533,Chenopodium_nutans,-26.08108,132.4263
 991995513,Chenopodium_nutans,-26.176111,132.456111
-992628090,Chenopodium_nutans,-35.722347,137.94306
 994031004,Chenopodium_nutans,-34.0631,140.6444
 991995485,Chenopodium_nutans,-26.120278,132.519722
 1085302969,Chenopodium_nutans,-26.11892,132.52113
@@ -778,7 +757,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652197894,Chenopodium_nutans,-26.729005,151.205634
 994002632,Chenopodium_nutans,-35.05,148.1
 1652196919,Chenopodium_nutans,-27.273548,151.225817
-992580448,Chenopodium_nutans,-35.832068,138.117782
 992593845,Chenopodium_nutans,-35.003889,137.555278
 1085189348,Chenopodium_nutans,-34.18466,137.76089
 992595483,Chenopodium_nutans,-34.289444,138.225278
@@ -963,8 +941,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995663529,Chenopodium_nutans,-33.616667,149
 993375938,Chenopodium_nutans,-32.65,151.2
 994926851,Chenopodium_nutans,-37.0833,148.3833
-992522612,Chenopodium_nutans,-35.690406,137.567786
-1091163519,Chenopodium_nutans,-45.9,170.4
 993649518,Chenopodium_nutans,-35.25,148.97
 1257350287,Chenopodium_nutans,-23.665249,132.901268
 1652088824,Chenopodium_nutans,-22.323581,145.659197
@@ -1014,7 +990,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451491094,Chenopodium_nutans,-29.331823,142.251242
 1451496206,Chenopodium_nutans,-29.481823,142.234577
 992537934,Chenopodium_nutans,-29.33,142.25
-1652081577,Chenopodium_nutans,-20.923569,150.042469
 1652090054,Chenopodium_nutans,-25.373613,138.642626
 992528713,Chenopodium_nutans,-26.21,134.48
 992526480,Chenopodium_nutans,-26.205386,133.949947
@@ -1029,8 +1004,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993918560,Chenopodium_nutans,-36.6,142.0167
 1061585643,Chenopodium_nutans,-34.493482,150.935085
 994321862,Chenopodium_nutans,-19.281927,130.017925
-1091299879,Chenopodium_nutans,-45.055,170.773333
-993429388,Chenopodium_nutans,-36.25,150.2333
 994271571,Chenopodium_nutans,-20.08187,137.501188
 995195521,Chenopodium_nutans,-37.6958,145.0614
 1451538085,Chenopodium_nutans,-30.731793,144.817892
@@ -1053,7 +1026,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992505311,Chenopodium_nutans,-33.966667,140.883333
 1085545685,Chenopodium_nutans,-33.97699,140.88895
 992504153,Chenopodium_nutans,-33.958333,140.908333
-992510031,Chenopodium_nutans,-35.85,138.12
 994923904,Chenopodium_nutans,-36.5833,145.9333
 992507854,Chenopodium_nutans,-32.8,138.2
 1451583320,Chenopodium_nutans,-33.931759,150.884495
@@ -1062,7 +1034,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994427466,Chenopodium_nutans,-31.53196,138.33434
 992487480,Chenopodium_nutans,-31.533333,138.333333
 992488753,Chenopodium_nutans,-35.466667,138.783333
-992489306,Chenopodium_nutans,-34.533333,136.283333
 993566676,Chenopodium_nutans,-34.3,140.5833
 1451485538,Chenopodium_nutans,-30.565089,150.917787
 1085383614,Chenopodium_nutans,-30.89206,134.10142
@@ -1074,7 +1045,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995640730,Chenopodium_nutans,-30.57,150.92
 992492608,Chenopodium_nutans,-30.925833,134.013056
 1085383177,Chenopodium_nutans,-30.92791,134.0159
-995765862,Chenopodium_nutans,-23.2,150.97
 994267468,Chenopodium_nutans,-25.098591,131.017974
 1257401855,Chenopodium_nutans,-20.55,146.0833
 1652072308,Chenopodium_nutans,-20.556917,146.092518
@@ -1085,8 +1055,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995896713,Chenopodium_nutans,-27.02,135.67
 992534892,Chenopodium_nutans,-32.932045,139.134405
 992479784,Chenopodium_nutans,-27.015378,135.667718
-1451538109,Chenopodium_nutans,-28.29841,153.567726
-995765694,Chenopodium_nutans,-28.3,153.57
 994435480,Chenopodium_nutans,-42.42,146.85
 994269592,Chenopodium_nutans,-23.281933,129.384631
 994268742,Chenopodium_nutans,-19.181903,132.717907
@@ -1102,7 +1070,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652048406,Chenopodium_nutans,-24.556898,148.559172
 1652052273,Chenopodium_nutans,-26.990214,151.542477
 995765590,Chenopodium_nutans,-26.98,151.53
-461818185,Chenopodium_nutans,-33.375,26.375
 992459567,Chenopodium_nutans,-35.516667,138.216667
 1652061570,Chenopodium_nutans,-21.790273,139.692595
 992427784,Chenopodium_nutans,-27.55,135.45
@@ -1156,7 +1123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995765692,Chenopodium_nutans,-32.07,144.22
 996398119,Chenopodium_nutans,-37.8,144.9
 994593794,Chenopodium_nutans,-42.91529,147.41771
-995022852,Chenopodium_nutans,-37.1667,149.9917
 992419993,Chenopodium_nutans,-27.93,134.75
 992414788,Chenopodium_nutans,-29.533333,139.466667
 994924197,Chenopodium_nutans,-27.9333,134.75
@@ -1167,7 +1133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996398092,Chenopodium_nutans,-27.45,126.37
 994923889,Chenopodium_nutans,-42.8167,147.5167
 994601628,Chenopodium_nutans,-42.81529,147.51771
-992313799,Chenopodium_nutans,-35.8425,138.133611
 994711062,Chenopodium_nutans,-37.8667,147.7167
 994711057,Chenopodium_nutans,-37.9583,146.75
 992447160,Chenopodium_nutans,-31.333333,138.583333
@@ -1179,12 +1144,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994497466,Chenopodium_nutans,-42.06528,147.43435
 1451486748,Chenopodium_nutans,-34.315098,150.05118
 994503168,Chenopodium_nutans,-42.83194,147.83436
-1851582230,Chenopodium_nutans,28.42,-16.58
 995644395,Chenopodium_nutans,-34.32,150.05
 992423667,Chenopodium_nutans,-29.915386,136.184403
-1091097770,Chenopodium_nutans,-43.744,173.095
 992399353,Chenopodium_nutans,-32.85,137.95
-461818184,Chenopodium_nutans,-26.375,27.375
 994923873,Chenopodium_nutans,-29.5667,138.15
 994261229,Chenopodium_nutans,-24.06526,131.717956
 1451537420,Chenopodium_nutans,-33.198432,150.234495
@@ -1220,9 +1182,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993872057,Chenopodium_nutans,-27.2417,149.9167
 992419417,Chenopodium_nutans,-26.3875,140.000833
 994601683,Chenopodium_nutans,-42.1,148.3
-994598210,Chenopodium_nutans,-42.55,148.07
-994923851,Chenopodium_nutans,-42.55,148.0667
-1091205409,Chenopodium_nutans,-45.114,170.973
 992499263,Chenopodium_nutans,-34.386111,140.541667
 992498813,Chenopodium_nutans,-34.375,140.576389
 992498837,Chenopodium_nutans,-34.366667,140.573611
@@ -1235,12 +1194,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992399347,Chenopodium_nutans,-27.166667,134.583333
 993453764,Chenopodium_nutans,-31.9333,122.8833
 996508155,Chenopodium_nutans,-31.948333,122.888333
-1091127136,Chenopodium_nutans,-45.169,170.906
 992404271,Chenopodium_nutans,-35.110116,138.62888
-995055928,Chenopodium_nutans,-38.4667,144.8667
 994262401,Chenopodium_nutans,-26.198619,128.634663
 994259250,Chenopodium_nutans,-27.281918,132.551308
-993847624,Chenopodium_nutans,-35.2833,149.1167
 995765728,Chenopodium_nutans,-30.97,150.25
 1451537319,Chenopodium_nutans,-30.965094,150.251139
 1652034198,Chenopodium_nutans,-25.915223,149.917494
@@ -1270,15 +1226,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992419259,Chenopodium_nutans,-30.407034,139.134381
 992517699,Chenopodium_nutans,-28.516667,129.45
 992387405,Chenopodium_nutans,-35.133333,139.183333
-992375532,Chenopodium_nutans,-34.566667,136.233333
 992377179,Chenopodium_nutans,-33.915368,141.134395
 992376572,Chenopodium_nutans,-33.357033,140.917725
 993341032,Chenopodium_nutans,-32.5833,145.6833
-1085486883,Chenopodium_nutans,-34.54051,136.27645
-1085494804,Chenopodium_nutans,-34.64425,136.18311
-992375599,Chenopodium_nutans,-34.666667,136.333333
-992375697,Chenopodium_nutans,-34.65,136.183333
-992375747,Chenopodium_nutans,-34.666667,136.45
 994840651,Chenopodium_nutans,-43.4667,147
 994491301,Chenopodium_nutans,-43,147
 994491148,Chenopodium_nutans,-43.05,146.98
@@ -1378,7 +1328,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992582530,Chenopodium_nutans,-34.632019,143.56771
 994246649,Chenopodium_nutans,-25.148551,135.617931
 994805685,Chenopodium_nutans,-34.85,142.8333
-1652034590,Chenopodium_nutans,-24.748548,152.417453
 993243122,Chenopodium_nutans,-30.7667,144.7833
 992328435,Chenopodium_nutans,-29.85,142.17
 1451538146,Chenopodium_nutans,-29.848488,142.167916
@@ -1395,11 +1344,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994924327,Chenopodium_nutans,-35.6167,143.75
 994924344,Chenopodium_nutans,-35.9833,143
 994911434,Chenopodium_nutans,-37.8667,144.25
-994601365,Chenopodium_nutans,-42.56528,148.06769
 995765610,Chenopodium_nutans,-32.67,144.67
 1451537697,Chenopodium_nutans,-32.665133,144.667912
 993812963,Chenopodium_nutans,-35.55,148.9833
-993821388,Chenopodium_nutans,-35.2667,149.1
 1651954229,Chenopodium_nutans,-26.09024,146.425875
 1651953383,Chenopodium_nutans,-26.44024,146.275879
 995765732,Chenopodium_nutans,-34.32,147.82
@@ -1444,7 +1391,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993807469,Chenopodium_nutans,-35.15,144.8167
 995054661,Chenopodium_nutans,-35.65,143.7167
 1451537553,Chenopodium_nutans,-30.265116,146.701191
-992262830,Chenopodium_nutans,-35.640278,138.275556
 995765706,Chenopodium_nutans,-30.42,146.2
 1451537736,Chenopodium_nutans,-32.131788,145.917885
 995765712,Chenopodium_nutans,-32.13,145.92
@@ -1503,11 +1449,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992250634,Chenopodium_nutans,-34.613889,139.616667
 994239669,Chenopodium_nutans,-24.465248,132.43461
 992253724,Chenopodium_nutans,-34.383333,139.621389
-993282444,Chenopodium_nutans,-35.25,149.1667
-994581156,Chenopodium_nutans,-35.25,149.17
 993819475,Chenopodium_nutans,-42.9833,147.3167
 993819643,Chenopodium_nutans,-43,147.3167
-993340136,Chenopodium_nutans,-36.25,150.2167
 995765734,Chenopodium_nutans,-32.05,146.08
 1451537384,Chenopodium_nutans,-32.048453,146.084549
 992371182,Chenopodium_nutans,-34.783333,137.866667
@@ -1546,7 +1489,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936982589,Chenopodium_nutans,-26.9,149
 1937113992,Chenopodium_nutans,-31.161944,150.981944
 1652161387,Chenopodium_nutans,-25.708333,150.891667
-1651882024,Chenopodium_nutans,-21.656899,150.225803
 995765599,Chenopodium_nutans,-23.73,133.72
 1257394921,Chenopodium_nutans,-20.1833,146.9833
 993467431,Chenopodium_nutans,-23.7167,133.7167
@@ -1604,7 +1546,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451537410,Chenopodium_nutans,-29.748457,145.417873
 1937188236,Chenopodium_nutans,-36.75,141.82
 995765604,Chenopodium_nutans,-34.87,143.4
-1651883376,Chenopodium_nutans,-23.540222,151.292463
 995765736,Chenopodium_nutans,-29.75,145.42
 996216034,Chenopodium_nutans,-31.47,145.82
 1451714226,Chenopodium_nutans,-31.465121,145.817882
@@ -1788,7 +1729,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992140626,Chenopodium_nutans,-30.522778,138.849722
 993581832,Chenopodium_nutans,-35.8667,144.9
 994220450,Chenopodium_nutans,-23.698572,133.884594
-993892106,Chenopodium_nutans,-35.3,149.15
 994687511,Chenopodium_nutans,-38.35,143.4667
 1936895347,Chenopodium_nutans,-23.3,133.77
 994220231,Chenopodium_nutans,-23.315238,133.75126
@@ -1835,7 +1775,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992354711,Chenopodium_nutans,-32.15,141.92
 1652034109,Chenopodium_nutans,-24.415246,145.417544
 994687451,Chenopodium_nutans,-34.8667,138.6
-992112810,Chenopodium_nutans,-35.655833,137.635556
 992447127,Chenopodium_nutans,-34.966667,138.633333
 991985611,Chenopodium_nutans,-34.4315,135.8686
 992355120,Chenopodium_nutans,-31.565376,138.584397
@@ -1854,7 +1793,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995765579,Chenopodium_nutans,-32.15,150.98
 993715055,Chenopodium_nutans,-32.1417,150.9667
 992125675,Chenopodium_nutans,-35.166667,138.833333
-993684512,Chenopodium_nutans,-35.3,149.05
 992179374,Chenopodium_nutans,-35.424,139.376
 1257394635,Chenopodium_nutans,-31.3667,141.6667
 1652034534,Chenopodium_nutans,-20.41525,146.250848
@@ -1935,12 +1873,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994606002,Chenopodium_nutans,-42.85,147.35
 1257345092,Chenopodium_nutans,-23.481898,133.851263
 993326114,Chenopodium_nutans,-23.4667,133.8333
-993134715,Chenopodium_nutans,-38.3333,144.3167
 993609692,Chenopodium_nutans,-30.5333,151.6667
 1937124360,Chenopodium_nutans,-31.1,141.733333
-1897633180,Chenopodium_nutans,-45.25,170.916667
 992162631,Chenopodium_nutans,-34.916667,139.316667
-1091214534,Chenopodium_nutans,-45.181,170.901
 994212016,Chenopodium_nutans,-22.131869,137.967871
 993551749,Chenopodium_nutans,-35.05,149.9167
 993326203,Chenopodium_nutans,-24.3667,133.4167
@@ -2054,7 +1989,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993300702,Chenopodium_nutans,-23.5167,148.15
 1652034532,Chenopodium_nutans,-24.923547,152.492453
 992446622,Chenopodium_nutans,-30.783333,136.883333
-995765628,Chenopodium_nutans,-34.47,150.97
 992158974,Chenopodium_nutans,-33.05,135.45
 1937157935,Chenopodium_nutans,-34.55,146.4
 1451459345,Chenopodium_nutans,-34.548457,146.401241
@@ -2075,17 +2009,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993112672,Chenopodium_nutans,-34.49,150.9289
 1652034180,Chenopodium_nutans,-26.581894,148.750847
 1652034157,Chenopodium_nutans,-28.24855,150.75083
-994259700,Chenopodium_nutans,-24.665095,152.334351
 2288082022,Chenopodium_nutans,-26.333333,146.166667
-1652034575,Chenopodium_nutans,-24.8075,152.46
 415951806,Chenopodium_nutans,-28.28323,150.91556
 994259336,Chenopodium_nutans,-21.998527,139.001194
 1652034172,Chenopodium_nutans,-22.498607,139.500933
-1936842748,Chenopodium_nutans,-36.25,150.22
 995765577,Chenopodium_nutans,-35.1,149.42
 994266459,Chenopodium_nutans,-35.148441,149.367896
 1451537173,Chenopodium_nutans,-35.098439,149.417864
-1451459304,Chenopodium_nutans,-36.248435,150.21787
 1652034124,Chenopodium_nutans,-26.641667,149.825
 1652034249,Chenopodium_nutans,-19.915281,138.084268
 1652034118,Chenopodium_nutans,-24.581911,145.750874
@@ -2155,7 +2085,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995765882,Chenopodium_nutans,-31.67,150.65
 995581257,Chenopodium_nutans,-29.65,152.8
 1451459260,Chenopodium_nutans,-29.648412,152.801082
-994924154,Chenopodium_nutans,-38.1167,144.65
 1451459685,Chenopodium_nutans,-35.065114,148.117884
 1937111610,Chenopodium_nutans,-35.07,148.12
 1451459649,Chenopodium_nutans,-31.965161,141.451284
