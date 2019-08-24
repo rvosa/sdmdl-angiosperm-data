@@ -7,8 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831519505,Clematis_alpina,47.56722,13.63667
 1995317411,Clematis_alpina,60.9531,10.6754
 1837900566,Clematis_alpina,47.432777,11.139722
-1438588146,Clematis_alpina,58.15325,24.00564
-1977819902,Clematis_alpina,59.9202,10.7699
 1702249178,Clematis_alpina,59.7529,10.2013
 1702249525,Clematis_alpina,59.7623,10.1482
 1230544580,Clematis_alpina,48.94806,20.45639
@@ -18,13 +16,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230541932,Clematis_alpina,48.94056,20.12
 1702253864,Clematis_alpina,59.7486,10.2028
 1936233822,Clematis_alpina,48.9458,19.7744
-1702252643,Clematis_alpina,59.9169,10.6859
 1135438865,Clematis_alpina,46.96028,13.01194
 1701859035,Clematis_alpina,60.8829,11.5691
 2334109425,Clematis_alpina,60.882941,11.569079
 237466518,Clematis_alpina,48.7584,20.0548
 1701650081,Clematis_alpina,59.8562,10.4373
-2242394572,Clematis_alpina,39.73193,-104.9619
 233153487,Clematis_alpina,48.7824,20.0017
 788767445,Clematis_alpina,56.95033,15.78633
 1989849729,Clematis_alpina,46.375,14.54167
@@ -62,8 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318680392,Clematis_alpina,61.367832,10.192898
 1657172896,Clematis_alpina,46.975,14.29167
 1606516189,Clematis_alpina,61.456406,24.088732
-1894895761,Clematis_alpina,52.458333,13.308333
-1894895754,Clematis_alpina,47.491667,19.091667
 1144660545,Clematis_alpina,47.59278,14.14028
 1933961640,Clematis_alpina,39.5583,141.489
 1933920234,Clematis_alpina,36.6731,139.3613
@@ -91,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933849409,Clematis_alpina,35.3618,138.7118
 1935674367,Clematis_alpina,47.51639,15.22139
 1830182065,Clematis_alpina,36.816667,137.716667
-1144660516,Clematis_alpina,48.7075,19.49167
 1933849305,Clematis_alpina,36.034,138.6069
 1638386426,Clematis_alpina,47.375,15.45833
 1933849335,Clematis_alpina,35.93967,138.73814
@@ -167,8 +160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935654640,Clematis_alpina,47.08722,14.55167
 1701468376,Clematis_alpina,61.3539,10.2509
 1144173029,Clematis_alpina,61.32771,10.51106
-441963962,Clematis_alpina,49,32
-1144660522,Clematis_alpina,45.84361,24.96917
 1933906812,Clematis_alpina,36.75233,137.76013
 1230533801,Clematis_alpina,47.4,10.91667
 1264998229,Clematis_alpina,47.113056,14.169167
