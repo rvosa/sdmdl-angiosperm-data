@@ -1,11 +1,9 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1702531282,Styloceras_laurifolium,4.646889,-74.032278
 1328370927,Styloceras_laurifolium,5.093278,-74.543583
 1849006731,Styloceras_laurifolium,0.14583,-78.32306
 1038454163,Styloceras_laurifolium,4.855008,-75.883914
 1257998409,Styloceras_laurifolium,-10.1875,-75.569167
 1707490499,Styloceras_laurifolium,5.000264,-74.252603
-1423915195,Styloceras_laurifolium,-6.922222,-7.898889
 1257657497,Styloceras_laurifolium,-6.922283,-77.898983
 2284214797,Styloceras_laurifolium,-6.9222,-77.8989
 1257750758,Styloceras_laurifolium,-10.588055,-75.465
@@ -28,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259495577,Styloceras_laurifolium,-13.2,-72.28333
 1259497883,Styloceras_laurifolium,-13.13333,-72.53333
 2284204238,Styloceras_laurifolium,-13.13,-72.53
-1098685582,Styloceras_laurifolium,4.668124,-74.100244
 1258946621,Styloceras_laurifolium,-1.5,-78.45
 1259189062,Styloceras_laurifolium,-13.26361,-72.12638
 2291570915,Styloceras_laurifolium,-5.0625,-79.7375
@@ -38,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257624569,Styloceras_laurifolium,-16.95,-67.216667
 1257514893,Styloceras_laurifolium,0.633333,-77.533333
 1228454946,Styloceras_laurifolium,-6.48,-78.62
-2284247125,Styloceras_laurifolium,-16.4928,-78.6211
 1988172108,Styloceras_laurifolium,4.3,-75.7
 1898906953,Styloceras_laurifolium,4.333333,-75.666667
 1258407654,Styloceras_laurifolium,4.33333,-75.66666
