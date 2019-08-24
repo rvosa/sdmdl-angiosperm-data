@@ -12,7 +12,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585287070,Vachellia_cornigera,13.78524,-89.4945
 1585287232,Vachellia_cornigera,13.70748,-89.62619
 1503262860,Vachellia_cornigera,26.65,-81.7347
-1585289295,Vachellia_cornigera,13.68333,-89.6
 2302274489,Vachellia_cornigera,16.81436,-98.702
 1257862790,Vachellia_cornigera,12.46825,-85.658472
 1585289223,Vachellia_cornigera,13.76667,-89.35
@@ -23,7 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419180137,Vachellia_cornigera,16.958206,-93.026947
 2309537584,Vachellia_cornigera,10.86,-85.57
 1419155811,Vachellia_cornigera,16.934056,-93.077306
-1585289201,Vachellia_cornigera,13.8,-88.95
 1253884595,Vachellia_cornigera,10.206111,-85.190472
 1419165656,Vachellia_cornigera,15.761389,-93.109167
 1261024159,Vachellia_cornigera,13.866667,-88.95
@@ -35,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253797461,Vachellia_cornigera,9.938858,-84.894153
 1419170037,Vachellia_cornigera,15.948056,-93.303611
 1419166967,Vachellia_cornigera,16.905,-93.150278
-1585289294,Vachellia_cornigera,13.91667,-88.1
 1253786259,Vachellia_cornigera,10.119709,-85.329995
 1257839249,Vachellia_cornigera,10.119709,-85.32999
 1585324278,Vachellia_cornigera,13.86667,-88.96667
@@ -58,12 +55,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930133496,Vachellia_cornigera,19.0875,-89.33
 1259557383,Vachellia_cornigera,13.966667,-89.033333
 1585289315,Vachellia_cornigera,14.41667,-89.03333
-1259538346,Vachellia_cornigera,13.8,-89.35
-1928416739,Vachellia_cornigera,17.1,-89.07
 1259539487,Vachellia_cornigera,15.421945,-86.830278
 1253604800,Vachellia_cornigera,10.356944,-85.356944
 1261562153,Vachellia_cornigera,10.35,-85.35
-1258553578,Vachellia_cornigera,17.1,-89.066667
 1258260109,Vachellia_cornigera,13.63333,-89.01666
 1585289309,Vachellia_cornigera,13.63333,-89.01667
 1927805616,Vachellia_cornigera,18.8903,-95.94358
@@ -71,12 +65,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930788430,Vachellia_cornigera,21.97147,-98.8342
 1989276061,Vachellia_cornigera,18.12,-96.3026
 1931081038,Vachellia_cornigera,18.66267,-96.42775
-415943039,Vachellia_cornigera,18.1,-96.11666
 1928510472,Vachellia_cornigera,21.78231,-97.786
 1928370395,Vachellia_cornigera,19.05578,-96.05092
 1930081757,Vachellia_cornigera,18.2417,-96.4014
 1419156200,Vachellia_cornigera,16.741667,-93.108333
-1259537547,Vachellia_cornigera,19.216667,-96.2
 1258553566,Vachellia_cornigera,14.82916,-85.84805
 1258553579,Vachellia_cornigera,15.01,-92.38
 1928785800,Vachellia_cornigera,15.0192,-92.38081
@@ -92,7 +84,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927833139,Vachellia_cornigera,18.57,-95.07
 1259539475,Vachellia_cornigera,18.56666,-95.06666
 1931211646,Vachellia_cornigera,18.3333,-95.4333
-1258314494,Vachellia_cornigera,12.583333,-86
 1261833773,Vachellia_cornigera,12.183333,-85.35
 1929555478,Vachellia_cornigera,18.583,-95.108
 1261854591,Vachellia_cornigera,12.116667,-85.466667
@@ -100,22 +91,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928378634,Vachellia_cornigera,23.3178,-99.0242
 1258553554,Vachellia_cornigera,18.56,-92.59
 1258807271,Vachellia_cornigera,19.08,-88.57
-1261516857,Vachellia_cornigera,12.6,-85.733333
-1258291442,Vachellia_cornigera,11.9,-85.933333
 1259537300,Vachellia_cornigera,19.008889,-103.709722
 1259538244,Vachellia_cornigera,17.54166,-88.2525
-1259536452,Vachellia_cornigera,17.7,-91.69
 1261896174,Vachellia_cornigera,12.166667,-86.116667
 1258807229,Vachellia_cornigera,19.001667,-103.753056
 1258631299,Vachellia_cornigera,11.983333,-86.116667
 1259538681,Vachellia_cornigera,20.116667,-97.55
 1929294641,Vachellia_cornigera,18.58858,-95.0764
 1928446240,Vachellia_cornigera,16.62906,-98.62978
-1258979207,Vachellia_cornigera,12.833333,-85.5
 1258807277,Vachellia_cornigera,17.94,-88.87
 1928364348,Vachellia_cornigera,18.62978,-88.42533
 1945004868,Vachellia_cornigera,21.7833,-98.3833
-1258553568,Vachellia_cornigera,18.79,-88.3
 1928948238,Vachellia_cornigera,16.86006,-92.90736
 1927798479,Vachellia_cornigera,21.65906,-98.97614
 1258807268,Vachellia_cornigera,20.11,-97.55
@@ -124,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989247129,Vachellia_cornigera,19.7642,-90.4918
 1258553558,Vachellia_cornigera,19.77,-90.49
 1259537442,Vachellia_cornigera,14.958611,-87.737778
-2265439934,Vachellia_cornigera,18.5,-95
 1258485540,Vachellia_cornigera,12.891667,-85.333333
 1259540404,Vachellia_cornigera,14.34027,-90.76361
 1258553565,Vachellia_cornigera,14.340278,-90.763611
@@ -137,7 +122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989215517,Vachellia_cornigera,15.6663,-96.4874
 1259540101,Vachellia_cornigera,17.76666,-88.65
 1928248795,Vachellia_cornigera,16.37,-98.1767
-1258711494,Vachellia_cornigera,17.87,-91.1
 1258499030,Vachellia_cornigera,17.548889,-88.347222
 1259540075,Vachellia_cornigera,17.05638,-89.17972
 1989302406,Vachellia_cornigera,21.1556,-89.6351
@@ -191,9 +175,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988918675,Vachellia_cornigera,19.1843,-88.459
 1929921383,Vachellia_cornigera,20.4317,-98.3489
 1258807222,Vachellia_cornigera,20.43333,-98.33333
-1258807235,Vachellia_cornigera,22.09,-97.8
 1929465398,Vachellia_cornigera,22.181,-97.947
-1228187125,Vachellia_cornigera,23,-102
 1896213201,Vachellia_cornigera,17.436944,-95.036667
 1258618343,Vachellia_cornigera,21.97,-99.25
 1931193071,Vachellia_cornigera,21.975,-99.25
