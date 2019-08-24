@@ -33,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1438586945,Galeopsis_tetrahit,57.58625,26.83193
 1306621768,Galeopsis_tetrahit,49.15967,-94.17469
 1249179783,Galeopsis_tetrahit,45.593345,-73.568888
-1803147849,Galeopsis_tetrahit,46.7,-71.533333
 1988239737,Galeopsis_tetrahit,49.025,-116.93
 1702027397,Galeopsis_tetrahit,62.5795,11.3738
 1899737806,Galeopsis_tetrahit,48.97663,15.14604
@@ -90,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606659834,Galeopsis_tetrahit,44.04713,-71.85594
 1883575448,Galeopsis_tetrahit,46.375,14.54167
 1306622350,Galeopsis_tetrahit,53.265633,-114.525917
-2307546653,Galeopsis_tetrahit,61.3,-135.56
 1988214097,Galeopsis_tetrahit,49.37645,-122.86235
 2265455975,Galeopsis_tetrahit,44.65,-93.53
 668772989,Galeopsis_tetrahit,47.877778,-69.870833
@@ -113,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 345678379,Galeopsis_tetrahit,48.7726,19.8858
 883417795,Galeopsis_tetrahit,52.8618549990925,-114.442848
 1927776677,Galeopsis_tetrahit,44.756978,-67.361439
-883420538,Galeopsis_tetrahit,53.05,-111.5
 1935690064,Galeopsis_tetrahit,47.08174,15.44781
 2265457920,Galeopsis_tetrahit,47.973611,-90.0325
 2265456296,Galeopsis_tetrahit,47.849997,-90.143333
@@ -150,7 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 237466936,Galeopsis_tetrahit,48.7698,19.8819
 1099001974,Galeopsis_tetrahit,47.71785,12.217363
 1936204862,Galeopsis_tetrahit,45.3231,25.5081
-2305305532,Galeopsis_tetrahit,64.06,-139.4
 1936202958,Galeopsis_tetrahit,42.7567,0.6519
 1099935126,Galeopsis_tetrahit,47.78035,12.279837
 1600033922,Galeopsis_tetrahit,61.296967,24.235022
@@ -174,13 +170,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342502431,Galeopsis_tetrahit,56.190026,10.537556
 1323860261,Galeopsis_tetrahit,69.5454,20.5321
 668772964,Galeopsis_tetrahit,46.518547,-70.586011
-786153348,Galeopsis_tetrahit,49.4,7.8
 1323854458,Galeopsis_tetrahit,70.1061,29.3348
 1928561348,Galeopsis_tetrahit,38.947761,-79.50995
 2265364359,Galeopsis_tetrahit,48.225,-94.636111
 1342503032,Galeopsis_tetrahit,57.409365,9.872502
 1836429143,Galeopsis_tetrahit,52.64167,13.387222
-786153352,Galeopsis_tetrahit,49.5,8.2
 1342502841,Galeopsis_tetrahit,55.200795,9.587907
 1342502180,Galeopsis_tetrahit,57.454717,9.806918
 1342502442,Galeopsis_tetrahit,56.151996,10.697032
@@ -198,7 +192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936237293,Galeopsis_tetrahit,43.0038,-1.9339
 1702268054,Galeopsis_tetrahit,59.3145,11.7216
 1702267574,Galeopsis_tetrahit,61.6318,12.0353
-2307313561,Galeopsis_tetrahit,48.35,-81.3
 1342502848,Galeopsis_tetrahit,57.619884,10.430033
 214535033,Galeopsis_tetrahit,52.893612,9.320556
 1936236105,Galeopsis_tetrahit,42.9878,-1.3454
@@ -236,7 +229,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323854314,Galeopsis_tetrahit,68.4702,16.8669
 1936236014,Galeopsis_tetrahit,43.2715,-1.6951
 1936236019,Galeopsis_tetrahit,43.2533,-1.6832
-1050651007,Galeopsis_tetrahit,40.3,-6.68
 1342503190,Galeopsis_tetrahit,55.579501,11.973331
 1881684208,Galeopsis_tetrahit,48.62,10.55
 1262031009,Galeopsis_tetrahit,51.411389,-57.203056
@@ -263,7 +255,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936237332,Galeopsis_tetrahit,42.7504,-0.2399
 1851384478,Galeopsis_tetrahit,42.278,-6.556
 895225736,Galeopsis_tetrahit,42.48,1.24
-786153345,Galeopsis_tetrahit,53.9,10.8
 1936235996,Galeopsis_tetrahit,42.8978,-0.8089
 442005459,Galeopsis_tetrahit,51.255451,14.760302
 895227045,Galeopsis_tetrahit,42.48,1.11
@@ -285,7 +276,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342502244,Galeopsis_tetrahit,55.890557,9.934061
 1323857611,Galeopsis_tetrahit,70.6337,29.8067
 1342502276,Galeopsis_tetrahit,57.462899,9.923786
-786155454,Galeopsis_tetrahit,51.8,10.7
 1323828584,Galeopsis_tetrahit,67.0434,14.9992
 1999528645,Galeopsis_tetrahit,60.219871,23.992424
 186810555,Galeopsis_tetrahit,59.2541,6.9439
@@ -300,13 +290,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936235363,Galeopsis_tetrahit,42.9914,-1.6152
 1702205903,Galeopsis_tetrahit,60.7311,10.3591
 1837467752,Galeopsis_tetrahit,44.10788,7.920457
-1851340441,Galeopsis_tetrahit,42.247,-6.4
 1936208893,Galeopsis_tetrahit,42.1117,-6.6791
 1342501754,Galeopsis_tetrahit,56.935622,8.596058
 1701584920,Galeopsis_tetrahit,61.8806,12.0315
 230818279,Galeopsis_tetrahit,51.844133,5.858829
 1323859174,Galeopsis_tetrahit,70.3907,23.4902
-1455178002,Galeopsis_tetrahit,45.05,-64.6
 1851391381,Galeopsis_tetrahit,42.6957,-6.4125
 441753384,Galeopsis_tetrahit,48.492633,-121.122283
 1999620422,Galeopsis_tetrahit,63.267418,28.043257
@@ -365,7 +353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936642597,Galeopsis_tetrahit,43.013,-4.0444
 318112776,Galeopsis_tetrahit,42.86,-0.71
 1999620393,Galeopsis_tetrahit,60.430712,22.282272
-786153337,Galeopsis_tetrahit,53.9,10.7
 1697639010,Galeopsis_tetrahit,56.283333,37.833333
 1323720010,Galeopsis_tetrahit,70.9954,24.6746
 473443076,Galeopsis_tetrahit,45.656111,-74.860833
@@ -386,7 +373,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 684325426,Galeopsis_tetrahit,51.054443,13.739166
 1936540213,Galeopsis_tetrahit,42.7014,0.8988
 1342502946,Galeopsis_tetrahit,55.085384,8.959575
-894990422,Galeopsis_tetrahit,52,-113
 1851395152,Galeopsis_tetrahit,42.708,0.906
 20942768,Galeopsis_tetrahit,59.3965,11.7341
 1936539642,Galeopsis_tetrahit,42.7723,0.8353
@@ -421,9 +407,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323809333,Galeopsis_tetrahit,69.1741,29.3065
 1851340791,Galeopsis_tetrahit,42.901,-4.88
 1899288487,Galeopsis_tetrahit,45.441667,-76.116667
-899767118,Galeopsis_tetrahit,54.4,12.6
 1701993240,Galeopsis_tetrahit,59.7121,10.8211
-786153331,Galeopsis_tetrahit,53.6,11.4
 1820374709,Galeopsis_tetrahit,46.716667,-60.659722
 318112558,Galeopsis_tetrahit,42.61,-0.11
 1936519709,Galeopsis_tetrahit,43.5451,-6.3401
@@ -448,7 +432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1332533556,Galeopsis_tetrahit,50.468109,10.009925
 1332533548,Galeopsis_tetrahit,50.450061,10.044093
 668772935,Galeopsis_tetrahit,51.425278,-57.15
-668772936,Galeopsis_tetrahit,51.430556,-57.2
 1988956017,Galeopsis_tetrahit,48.23361,-88.35083
 2265393071,Galeopsis_tetrahit,46.434444,-92.7325
 1323791576,Galeopsis_tetrahit,69.9836,23.2607
@@ -461,7 +444,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851320898,Galeopsis_tetrahit,43.049,-5.179
 1342502829,Galeopsis_tetrahit,55.229162,8.959429
 1988685425,Galeopsis_tetrahit,46.34045,-88.24633
-1947128411,Galeopsis_tetrahit,50.11,10.4
 1851338376,Galeopsis_tetrahit,43.077,-5.094
 1342502840,Galeopsis_tetrahit,55.202152,8.880898
 2265450967,Galeopsis_tetrahit,48.016667,-90.551111
@@ -474,13 +456,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 11634440,Galeopsis_tetrahit,48.3163,2.56466
 11634439,Galeopsis_tetrahit,48.5316,2.75126
 1702359095,Galeopsis_tetrahit,59.751,10.2545
-1500200286,Galeopsis_tetrahit,49.183333,13.8
 1701253154,Galeopsis_tetrahit,63.0414,10.6904
 1600033847,Galeopsis_tetrahit,61.038658,24.630736
 1600033929,Galeopsis_tetrahit,61.035838,24.623542
 1342502844,Galeopsis_tetrahit,56.215572,9.700084
 858341501,Galeopsis_tetrahit,53.4485,12.9151
-1899275941,Galeopsis_tetrahit,43.85,-80
 1500200247,Galeopsis_tetrahit,50.183333,13.133333
 1600033900,Galeopsis_tetrahit,60.926046,24.46201
 1600033843,Galeopsis_tetrahit,61.011953,24.5309
@@ -491,9 +471,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606648129,Galeopsis_tetrahit,41.46388,-72.15555
 2265559045,Galeopsis_tetrahit,46.643872,-93.342667
 1261153535,Galeopsis_tetrahit,44.280556,-74.272222
-30869349,Galeopsis_tetrahit,42.880001,-0.8
 1323818044,Galeopsis_tetrahit,68.6702,17.7585
-2291924477,Galeopsis_tetrahit,43.3,0.85
 788612134,Galeopsis_tetrahit,56.06744,14.10088
 11617108,Galeopsis_tetrahit,46.8094,4.42361
 1701906691,Galeopsis_tetrahit,59.9313,10.1719
@@ -510,7 +488,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248724240,Galeopsis_tetrahit,51.944444,-78.827778
 1248724293,Galeopsis_tetrahit,52.016667,-78.683333
 473243930,Galeopsis_tetrahit,45.4195,-72.2123
-860317064,Galeopsis_tetrahit,42.4,2.21
 1899288014,Galeopsis_tetrahit,45.325,-75.925
 1600033855,Galeopsis_tetrahit,62.176804,23.953367
 1702209384,Galeopsis_tetrahit,60.7484,10.1832
@@ -529,11 +506,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851329042,Galeopsis_tetrahit,42.894,-4.745
 1988078684,Galeopsis_tetrahit,49.17,-121.95
 1600033989,Galeopsis_tetrahit,63.297365,21.997462
-1988101779,Galeopsis_tetrahit,55.3,-127.5
 1999528674,Galeopsis_tetrahit,60.796912,21.510652
 465765809,Galeopsis_tetrahit,44.454915,-64.300663
 1600033812,Galeopsis_tetrahit,67.899965,29.198553
-1988127476,Galeopsis_tetrahit,54.8,-127.3
 1600033887,Galeopsis_tetrahit,60.753265,27.941399
 1705257248,Galeopsis_tetrahit,57.471629,16.471867
 1705442076,Galeopsis_tetrahit,56.586489,14.498333
@@ -551,12 +526,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1332533573,Galeopsis_tetrahit,50.624968,9.858097
 1804488698,Galeopsis_tetrahit,47.395833,-66.827778
 895311095,Galeopsis_tetrahit,42.23,-2.82
-1050584993,Galeopsis_tetrahit,42.92,-0.8
 1804460618,Galeopsis_tetrahit,46.846667,-67.691667
 1999528601,Galeopsis_tetrahit,60.805093,21.490832
 1804598281,Galeopsis_tetrahit,45.183333,-76.583333
 1702305064,Galeopsis_tetrahit,59.2714,7.4123
-1804366965,Galeopsis_tetrahit,45.3,-75.55
 473441133,Galeopsis_tetrahit,53.250409,-113.471162
 1705323992,Galeopsis_tetrahit,57.59704,15.08609
 2265555667,Galeopsis_tetrahit,44.727778,-93.336389
@@ -584,7 +557,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144102537,Galeopsis_tetrahit,60.4802,5.7337
 1600033868,Galeopsis_tetrahit,62.643066,23.41279
 1701522976,Galeopsis_tetrahit,54.02361,10.70139
-1988144000,Galeopsis_tetrahit,49.1,-117.7
 1455177987,Galeopsis_tetrahit,45.859722,-72.383333
 465765806,Galeopsis_tetrahit,45.30702,-64.39322
 1701333652,Galeopsis_tetrahit,63.0484,9.0722
@@ -592,12 +564,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211628109,Galeopsis_tetrahit,43.189999,-6.18
 1999528617,Galeopsis_tetrahit,60.810233,21.397858
 1262020489,Galeopsis_tetrahit,48.748611,-79.143056
-1262020286,Galeopsis_tetrahit,48.733333,-79.3
-1262020192,Galeopsis_tetrahit,48.666667,-79.2
 1213526614,Galeopsis_tetrahit,50.266667,-96.116667
 1804411264,Galeopsis_tetrahit,45.566667,-67.416667
 57697200,Galeopsis_tetrahit,61.223999,24.846701
-1804551322,Galeopsis_tetrahit,45.4,-67
 2315535714,Galeopsis_tetrahit,60.783464,10.824663
 1851405841,Galeopsis_tetrahit,42.93,-6.86
 57697201,Galeopsis_tetrahit,63.700699,28.8479
@@ -616,7 +585,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262034221,Galeopsis_tetrahit,46.038056,-73.676389
 1262015292,Galeopsis_tetrahit,45.85,-73.766667
 1600033881,Galeopsis_tetrahit,62.666089,22.457403
-1899382198,Galeopsis_tetrahit,44.833333,-79.4
 1262015230,Galeopsis_tetrahit,46.183333,-73.133333
 1851374944,Galeopsis_tetrahit,42.92,-6.37
 1851400611,Galeopsis_tetrahit,43.01,-6.36
@@ -630,11 +598,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262013498,Galeopsis_tetrahit,46.701111,-71.400278
 1851402915,Galeopsis_tetrahit,42.93,-5.14
 606648113,Galeopsis_tetrahit,41.79055,-72.44277
-1851358533,Galeopsis_tetrahit,42.65,-5.5
 1262014873,Galeopsis_tetrahit,46.098889,-73.421111
 1831243209,Galeopsis_tetrahit,53.5485,14.2482
-1804478882,Galeopsis_tetrahit,45.416667,-67.4
-1804504254,Galeopsis_tetrahit,45.8,-60.233333
 1262012354,Galeopsis_tetrahit,46.483056,-71.234167
 1050585099,Galeopsis_tetrahit,43.06,-2.71
 1600036594,Galeopsis_tetrahit,62.555732,22.961045
@@ -657,15 +622,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262012589,Galeopsis_tetrahit,46.118333,-74.593611
 1262031220,Galeopsis_tetrahit,46.083333,-73.35
 1262017805,Galeopsis_tetrahit,46.119167,-73.1025
-1262013199,Galeopsis_tetrahit,45.5,-72.9
 39666004,Galeopsis_tetrahit,64.116,-20.513
-1804564511,Galeopsis_tetrahit,45.4,-76.502778
 1851333974,Galeopsis_tetrahit,42.84,-6.74
 1262019276,Galeopsis_tetrahit,45.533333,-76.466667
 1701339858,Galeopsis_tetrahit,68.3116,16.4427
 1050585036,Galeopsis_tetrahit,42.91,-2.62
 1262035488,Galeopsis_tetrahit,46.016769,-73.294158
-473445561,Galeopsis_tetrahit,45.5,-73.6
 1600033876,Galeopsis_tetrahit,60.599912,27.109155
 1262016122,Galeopsis_tetrahit,45.233333,-73.016667
 1455178051,Galeopsis_tetrahit,45.966667,-74.033333
@@ -680,19 +642,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262012719,Galeopsis_tetrahit,45.966667,-70.833333
 1323748903,Galeopsis_tetrahit,70.7925,29.2894
 1262012737,Galeopsis_tetrahit,45.966667,-70.65
-1262017386,Galeopsis_tetrahit,46.5,-72.25
 699269732,Galeopsis_tetrahit,41.43861,-72.44472
 1050585012,Galeopsis_tetrahit,43.06,-2.61
 1262034260,Galeopsis_tetrahit,45.351,-73.586
 1262009863,Galeopsis_tetrahit,45.266667,-73.616667
 1804571599,Galeopsis_tetrahit,45.268889,-76.335556
-1262010397,Galeopsis_tetrahit,45.5,-73.416667
 1988096828,Galeopsis_tetrahit,54.78,-124.87
 883418577,Galeopsis_tetrahit,51.9181199990845,-112.639032
 1989500387,Galeopsis_tetrahit,45.119444,-86.016944
 1935690114,Galeopsis_tetrahit,46.91944,13.71667
 1262009500,Galeopsis_tetrahit,45.233333,-73.566667
-1262009829,Galeopsis_tetrahit,46.65,-70.8
 1262009670,Galeopsis_tetrahit,45.683333,-73.433333
 1804574945,Galeopsis_tetrahit,45.263889,-76.477778
 1262034186,Galeopsis_tetrahit,45.244,-73.653
@@ -705,27 +664,22 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455177983,Galeopsis_tetrahit,46.266667,-74.833333
 1323793556,Galeopsis_tetrahit,68.4568,17.0195
 1936536114,Galeopsis_tetrahit,43.1685,-3.7395
-668772926,Galeopsis_tetrahit,47,-71.366667
 1144102355,Galeopsis_tetrahit,59.2704,5.5168
 1705328466,Galeopsis_tetrahit,62.815341,12.800666
 1262009330,Galeopsis_tetrahit,45.916667,-71.416667
 606661394,Galeopsis_tetrahit,41.56361,-73.33805
-1988188531,Galeopsis_tetrahit,48.6,-90.6
 1455178007,Galeopsis_tetrahit,45.883333,-74.083333
 1144102349,Galeopsis_tetrahit,59.2883,5.5149
 1323794444,Galeopsis_tetrahit,68.552,17.684
 1262034232,Galeopsis_tetrahit,45.256047,-73.668127
 1804419669,Galeopsis_tetrahit,47.25,-65.416667
 1455178017,Galeopsis_tetrahit,46.166667,-63.166667
-1804543763,Galeopsis_tetrahit,48.083333,-67.1
 1804508357,Galeopsis_tetrahit,46.166667,-62.55
 2265558766,Galeopsis_tetrahit,45.428063,-93.203997
 1935690159,Galeopsis_tetrahit,47.28889,13.76833
 1697638993,Galeopsis_tetrahit,55.573466,37.574884
-1851364747,Galeopsis_tetrahit,43,-6.24
 668772929,Galeopsis_tetrahit,46.774722,-71.282778
 606659099,Galeopsis_tetrahit,42.07027,-73.93027
-1804561225,Galeopsis_tetrahit,45.3,-75.816667
 1697639020,Galeopsis_tetrahit,48.760277,35.446154
 1851325103,Galeopsis_tetrahit,43.29,-6.97
 1248724263,Galeopsis_tetrahit,48.588889,-79.353889
@@ -733,20 +687,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323805316,Galeopsis_tetrahit,68.4695,16.8069
 1248724328,Galeopsis_tetrahit,48.208333,-78.672222
 1262007927,Galeopsis_tetrahit,46.788889,-71.303056
-1262007996,Galeopsis_tetrahit,46.5,-72.816667
-1262007902,Galeopsis_tetrahit,46.716667,-72
 1851322767,Galeopsis_tetrahit,43.02,-5.15
 1262007925,Galeopsis_tetrahit,46.460278,-70.808056
 1262011271,Galeopsis_tetrahit,45.429722,-72.616944
-1988186451,Galeopsis_tetrahit,48.5,-89.7
 473449279,Galeopsis_tetrahit,45.866667,-74.583333
-1804423392,Galeopsis_tetrahit,43.8,-79.933333
 1323748811,Galeopsis_tetrahit,59.36641,10.69547
 1804582279,Galeopsis_tetrahit,48.533333,-89.666667
-1988209404,Galeopsis_tetrahit,51.8,-120
-1851348403,Galeopsis_tetrahit,43.2,-5.03
 1262011269,Galeopsis_tetrahit,45.809444,-74.762778
-668772925,Galeopsis_tetrahit,46.816667,-71.3
 296469549,Galeopsis_tetrahit,47.121,10.457
 1899382230,Galeopsis_tetrahit,45.083333,-79.016667
 1899382270,Galeopsis_tetrahit,45.133333,-78.883333
@@ -762,9 +709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702210172,Galeopsis_tetrahit,59.1883,10.7967
 1262008802,Galeopsis_tetrahit,46.75,-71.466667
 1262034251,Galeopsis_tetrahit,46.728543,-71.498522
-1988089914,Galeopsis_tetrahit,50.7,-99.67
-1030491284,Galeopsis_tetrahit,42,-86
-1988183943,Galeopsis_tetrahit,52.4,-126.8
 1262006659,Galeopsis_tetrahit,47.466667,-79.433333
 1804411455,Galeopsis_tetrahit,48.15,-89.35
 1851380945,Galeopsis_tetrahit,43.02,-5.27
@@ -808,7 +752,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804545536,Galeopsis_tetrahit,48.066667,-89.45
 1989065134,Galeopsis_tetrahit,46.739524,-89.049749
 606648117,Galeopsis_tetrahit,41.82361,-72.62111
-1988168512,Galeopsis_tetrahit,50.3,-117.8
 1600033859,Galeopsis_tetrahit,62.287669,27.969698
 1420227170,Galeopsis_tetrahit,47.583333,-52.75
 1600033870,Galeopsis_tetrahit,61.37374,24.668093
@@ -833,7 +776,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144102409,Galeopsis_tetrahit,60.66099,5.76755
 1702011281,Galeopsis_tetrahit,59.9217,10.9765
 1701369324,Galeopsis_tetrahit,60.1507,6.2864
-1899317951,Galeopsis_tetrahit,44.8,-79.616667
 1323748826,Galeopsis_tetrahit,68.6677,16.7367
 1702439639,Galeopsis_tetrahit,59.3163,11.2321
 1702162242,Galeopsis_tetrahit,60.9495,8.3447
@@ -863,7 +805,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465765779,Galeopsis_tetrahit,45.022775,-64.400626
 296469540,Galeopsis_tetrahit,47.135,10.658
 1038950430,Galeopsis_tetrahit,41.5614,-73.2072
-1899382207,Galeopsis_tetrahit,46.95,-83.2
 1701242157,Galeopsis_tetrahit,62.8281,11.1886
 1804397660,Galeopsis_tetrahit,44.218889,-66.143611
 465765782,Galeopsis_tetrahit,45.05293,-64.41276
@@ -895,9 +836,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697638873,Galeopsis_tetrahit,53.536796,33.694364
 1038975569,Galeopsis_tetrahit,41.8349,-73.1281
 1981550990,Galeopsis_tetrahit,61.32771,10.51106
-473579826,Galeopsis_tetrahit,49.5,-57.791667
 1988632495,Galeopsis_tetrahit,46.541856,-86.355366
-1988122365,Galeopsis_tetrahit,49.2,-122.7
 1455178011,Galeopsis_tetrahit,46.15,-74.483333
 199478861,Galeopsis_tetrahit,42.64,-0.01
 1701778121,Galeopsis_tetrahit,63.381,9.5911
@@ -905,7 +844,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845009294,Galeopsis_tetrahit,49.358611,7.784444
 415923484,Galeopsis_tetrahit,41.29388,-72.38305
 1899382295,Galeopsis_tetrahit,44.85,-79.366667
-1455177972,Galeopsis_tetrahit,45.5,-63.416667
 1702431599,Galeopsis_tetrahit,61.8836,8.4304
 1702210198,Galeopsis_tetrahit,59.1661,10.9914
 1600036629,Galeopsis_tetrahit,62.336292,25.935448
@@ -935,15 +873,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600033837,Galeopsis_tetrahit,68.543242,21.971588
 668772902,Galeopsis_tetrahit,46.883333,-71.066667
 1989037227,Galeopsis_tetrahit,46.72393,-89.94528
-1099006445,Galeopsis_tetrahit,45.166668,26
-1657184332,Galeopsis_tetrahit,48.28333,16.9
 1600033885,Galeopsis_tetrahit,61.086193,26.190697
 1600036605,Galeopsis_tetrahit,61.057343,24.31177
-1988080428,Galeopsis_tetrahit,49.1,-123.1
 1600036649,Galeopsis_tetrahit,61.746979,23.115068
 895311082,Galeopsis_tetrahit,42.904,-0.789
 186810682,Galeopsis_tetrahit,58.2999,6.6539
-1249267426,Galeopsis_tetrahit,50.6,6.8
 1697638968,Galeopsis_tetrahit,55.55034,35.932074
 1999528544,Galeopsis_tetrahit,60.07726,23.663871
 1261978445,Galeopsis_tetrahit,48.433333,-72.066667
@@ -951,10 +885,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186810674,Galeopsis_tetrahit,58.4166,6.6461
 1600036662,Galeopsis_tetrahit,60.705517,24.707646
 1600033846,Galeopsis_tetrahit,61.937779,25.158665
-211627687,Galeopsis_tetrahit,42.900002,-0.8
 1701789381,Galeopsis_tetrahit,62.0381,5.6921
 1842851898,Galeopsis_tetrahit,42.31,1.97
-1050585080,Galeopsis_tetrahit,42.9,-0.78
 1600036606,Galeopsis_tetrahit,60.724847,27.271868
 1600033854,Galeopsis_tetrahit,61.836505,23.103734
 1600036550,Galeopsis_tetrahit,61.806372,22.157803
@@ -962,7 +894,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144102391,Galeopsis_tetrahit,60.6337,5.4926
 1600033804,Galeopsis_tetrahit,61.383449,22.97301
 1845009283,Galeopsis_tetrahit,49.178889,7.763056
-894990446,Galeopsis_tetrahit,53.183333,-117
 1600033857,Galeopsis_tetrahit,60.683901,24.754829
 1261989460,Galeopsis_tetrahit,46.966667,-71.016667
 1600036571,Galeopsis_tetrahit,61.169958,25.974984
@@ -970,7 +901,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434671260,Galeopsis_tetrahit,56.326667,10.049722
 1261976485,Galeopsis_tetrahit,47.05,-71.033333
 1600036644,Galeopsis_tetrahit,61.326265,24.288746
-1060408312,Galeopsis_tetrahit,50.6,6.9
 296469429,Galeopsis_tetrahit,48.214444,11.329444
 606648150,Galeopsis_tetrahit,44.12194,-72.54138
 1455178006,Galeopsis_tetrahit,45.266667,-74.166667
@@ -979,7 +909,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600033853,Galeopsis_tetrahit,62.319404,24.585597
 441753261,Galeopsis_tetrahit,48.74111,-117.41611
 1600033805,Galeopsis_tetrahit,62.510112,28.646803
-1249267431,Galeopsis_tetrahit,46.5,7.6
 1600033860,Galeopsis_tetrahit,61.801964,27.091717
 2291209999,Galeopsis_tetrahit,51.953611,5.595
 1702258735,Galeopsis_tetrahit,59.3512,11.7348
@@ -989,7 +918,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600036541,Galeopsis_tetrahit,61.171239,26.160775
 1701922108,Galeopsis_tetrahit,60.8163,10.6822
 57697208,Galeopsis_tetrahit,62.245007,25.746113
-786153401,Galeopsis_tetrahit,50.5,7
 1899382192,Galeopsis_tetrahit,44.866667,-79.333333
 1323748782,Galeopsis_tetrahit,67.2761,14.3389
 1702417687,Galeopsis_tetrahit,59.7598,10.7801
@@ -1014,7 +942,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600033965,Galeopsis_tetrahit,62.244977,25.746254
 296469425,Galeopsis_tetrahit,50.8825,-3.041111
 1099006489,Galeopsis_tetrahit,48.549999,10.383333
-786153380,Galeopsis_tetrahit,51.4,8.4
 1144102369,Galeopsis_tetrahit,62.94634,6.98913
 788620716,Galeopsis_tetrahit,61.726183,17.104208
 57697215,Galeopsis_tetrahit,62.6054,25.9256
@@ -1030,8 +957,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265556173,Galeopsis_tetrahit,46.922181,-95.058632
 1600033785,Galeopsis_tetrahit,68.415614,24.195142
 1600036624,Galeopsis_tetrahit,60.059449,23.85445
-786153391,Galeopsis_tetrahit,54.3,10.6
-786153386,Galeopsis_tetrahit,51.9,10.3
 1600033878,Galeopsis_tetrahit,64.925441,29.216445
 883417987,Galeopsis_tetrahit,49.6933,-112.842
 1261969720,Galeopsis_tetrahit,45.429444,-72.148889
@@ -1051,9 +976,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600036577,Galeopsis_tetrahit,61.078762,28.201322
 1999578992,Galeopsis_tetrahit,60.573063,22.498981
 1323748916,Galeopsis_tetrahit,70.0847,22.4732
-786153374,Galeopsis_tetrahit,50.5,6.9
-1804530616,Galeopsis_tetrahit,51,-79.75
-1804547087,Galeopsis_tetrahit,51.433333,-79
 1600036551,Galeopsis_tetrahit,60.257122,24.739081
 1999528633,Galeopsis_tetrahit,60.386629,22.306829
 1600036582,Galeopsis_tetrahit,61.070051,25.051918
@@ -1076,7 +998,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1417515332,Galeopsis_tetrahit,45.981467,-74.014561
 1701345088,Galeopsis_tetrahit,60.3215,11.2542
 1600036561,Galeopsis_tetrahit,60.337593,24.996021
-786153378,Galeopsis_tetrahit,50.7,7.1
 2313349114,Galeopsis_tetrahit,48.19,11.55
 296469428,Galeopsis_tetrahit,48.20025,11.53842
 668772947,Galeopsis_tetrahit,46.783333,-71.283333
@@ -1095,7 +1016,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600036651,Galeopsis_tetrahit,61.974076,28.427101
 1099006461,Galeopsis_tetrahit,48.397221,9.956111
 296469426,Galeopsis_tetrahit,47.08737,11.50406
-1099006504,Galeopsis_tetrahit,48.400002,10
 2289511954,Galeopsis_tetrahit,52.783333,6.516667
 57697198,Galeopsis_tetrahit,60.817501,25.2969
 1600036536,Galeopsis_tetrahit,60.619816,27.75486
@@ -1133,7 +1053,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261989490,Galeopsis_tetrahit,47.883333,-68.716667
 1600036524,Galeopsis_tetrahit,61.88186,21.764813
 1261966936,Galeopsis_tetrahit,48.469167,-79.271944
-1988927547,Galeopsis_tetrahit,46,-83.66667
 668772950,Galeopsis_tetrahit,46.751389,-71.290556
 1099006443,Galeopsis_tetrahit,47.349998,8.566667
 473263762,Galeopsis_tetrahit,46.333333,-74.516667
@@ -1151,7 +1070,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1606514710,Galeopsis_tetrahit,62.240081,25.69822
 2313348383,Galeopsis_tetrahit,48.17,11.63
 1702417628,Galeopsis_tetrahit,61.25855,11.44005
-1261958130,Galeopsis_tetrahit,46.75,-71.7
 1701922106,Galeopsis_tetrahit,61.5202,9.9549
 216099444,Galeopsis_tetrahit,62.439201,25.9025
 1261958239,Galeopsis_tetrahit,48.433333,-70.833333
@@ -1173,7 +1091,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705402610,Galeopsis_tetrahit,57.438386,13.588489
 1323820489,Galeopsis_tetrahit,78.9241,11.9213
 788624671,Galeopsis_tetrahit,58.90523,17.57014
-1262021485,Galeopsis_tetrahit,46.9,-71.833333
 1702015057,Galeopsis_tetrahit,59.2438,10.7443
 1697638897,Galeopsis_tetrahit,54.812006,20.479415
 1144102366,Galeopsis_tetrahit,60.70697,6.41003
@@ -1195,7 +1112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261955784,Galeopsis_tetrahit,48.833333,-72.583333
 1261946088,Galeopsis_tetrahit,48.75,-72.049722
 1999620390,Galeopsis_tetrahit,60.292095,22.565017
-2291924681,Galeopsis_tetrahit,48.4,-58.566667
 1261955237,Galeopsis_tetrahit,47.024167,-70.929167
 442114285,Galeopsis_tetrahit,40.799999,44.483334
 1600036544,Galeopsis_tetrahit,60.946198,23.397889
@@ -1223,7 +1139,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57697216,Galeopsis_tetrahit,65.023102,25.405001
 1702258782,Galeopsis_tetrahit,59.1435,11.763
 1701863662,Galeopsis_tetrahit,59.1459,11.7352
-1261953538,Galeopsis_tetrahit,47.566667,-70.2
 318680998,Galeopsis_tetrahit,59.421651,11.316125
 1323748857,Galeopsis_tetrahit,68.0343,16.5453
 1702417793,Galeopsis_tetrahit,59.5394,10.665
@@ -1236,7 +1151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177285000,Galeopsis_tetrahit,62.2323,25.833099
 1600033802,Galeopsis_tetrahit,61.877298,28.992982
 1262032415,Galeopsis_tetrahit,48.706944,-67.388889
-1261980110,Galeopsis_tetrahit,46.8,-71.183333
 1261993629,Galeopsis_tetrahit,45.686667,-70.921389
 186810563,Galeopsis_tetrahit,59.6643,10.7661
 1228532104,Galeopsis_tetrahit,42.3333,-88.8167
@@ -1259,10 +1173,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988826093,Galeopsis_tetrahit,45.680288,-84.894584
 1705269732,Galeopsis_tetrahit,57.25631,16.434842
 1600033966,Galeopsis_tetrahit,60.702599,26.82294
-1261989493,Galeopsis_tetrahit,45.75,-70.7
 1600033836,Galeopsis_tetrahit,61.525481,25.587387
 1701882145,Galeopsis_tetrahit,58.859,8.922
-1261989524,Galeopsis_tetrahit,47,-71.2
 1999643873,Galeopsis_tetrahit,67.959197,23.772557
 1600036526,Galeopsis_tetrahit,61.097337,22.452507
 1999528607,Galeopsis_tetrahit,60.811758,21.434428
@@ -1287,7 +1199,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701242265,Galeopsis_tetrahit,63.4598,11.0763
 1600033840,Galeopsis_tetrahit,62.877035,27.684615
 1261989512,Galeopsis_tetrahit,45.935278,-70.268056
-1261989506,Galeopsis_tetrahit,46.4,-70.35
 1702258805,Galeopsis_tetrahit,59.1978,10.8208
 1893209261,Galeopsis_tetrahit,49.85,6.36
 187167850,Galeopsis_tetrahit,59.9039,5.871
@@ -1308,7 +1219,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988989173,Galeopsis_tetrahit,47.134618,-88.494991
 788706562,Galeopsis_tetrahit,56.262414,15.620531
 1988881506,Galeopsis_tetrahit,47.46833,-87.885009
-1261989514,Galeopsis_tetrahit,46.9,-71.666667
 1262000455,Galeopsis_tetrahit,46.888889,-71.505556
 1600033732,Galeopsis_tetrahit,63.233379,28.090928
 1261989511,Galeopsis_tetrahit,46.366667,-70.916667
@@ -1364,11 +1274,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600036685,Galeopsis_tetrahit,60.414493,24.392119
 1702408047,Galeopsis_tetrahit,59.6429,9.9224
 1055546929,Galeopsis_tetrahit,57.11568,-2.896484
-786153490,Galeopsis_tetrahit,50.9,7.9
 788412599,Galeopsis_tetrahit,57.322695,14.340397
 788627371,Galeopsis_tetrahit,57.48319,13.10226
 1701260192,Galeopsis_tetrahit,62.8472,10.5418
-1323748820,Galeopsis_tetrahit,69.1082,18.6
 1323748827,Galeopsis_tetrahit,69.2236,18.5114
 1668719835,Galeopsis_tetrahit,69.1008,18.17395
 1701297057,Galeopsis_tetrahit,63.85,11.3899
@@ -1452,7 +1360,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701716156,Galeopsis_tetrahit,59.6656,10.7662
 1831243650,Galeopsis_tetrahit,53.4485,11.7486
 1702408167,Galeopsis_tetrahit,62.53672,9.51846
-668772912,Galeopsis_tetrahit,47.4,-70.390556
 788611355,Galeopsis_tetrahit,59.554698,16.754283
 1705356672,Galeopsis_tetrahit,57.774133,13.822883
 1701339449,Galeopsis_tetrahit,63.8935,10.874
@@ -1469,7 +1376,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702169356,Galeopsis_tetrahit,61.6878,6.817
 1705352733,Galeopsis_tetrahit,55.580132,13.827729
 1144102373,Galeopsis_tetrahit,60.5667,6.9425
-1261947192,Galeopsis_tetrahit,47.45,-70.5
 781419,Galeopsis_tetrahit,56.877485,14.811873
 1600033773,Galeopsis_tetrahit,68.706373,21.439946
 1702408262,Galeopsis_tetrahit,67.2696,14.4295
@@ -1482,7 +1388,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606648119,Galeopsis_tetrahit,41.31416,-72.03583
 1701927517,Galeopsis_tetrahit,59.9611,6.9243
 1144102360,Galeopsis_tetrahit,60.268,5.2514
-606648138,Galeopsis_tetrahit,51.8,-56.96666
 1144102364,Galeopsis_tetrahit,61.23189,6.76174
 1702417758,Galeopsis_tetrahit,59.9428,10.5035
 1702421795,Galeopsis_tetrahit,58.8901,9.3036
@@ -1518,7 +1423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187167977,Galeopsis_tetrahit,69.5479,21.3846
 1705274476,Galeopsis_tetrahit,57.57387,14.451412
 1702421764,Galeopsis_tetrahit,61.07,6.9338
-1852156047,Galeopsis_tetrahit,47,-84.75
 1701260128,Galeopsis_tetrahit,63.4186,10.4022
 20944074,Galeopsis_tetrahit,58.88222,5.85054
 1600036610,Galeopsis_tetrahit,63.057812,26.700169
@@ -1528,7 +1432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701492443,Galeopsis_tetrahit,59.73452,10.41745
 2265555723,Galeopsis_tetrahit,47.203282,-95.161128
 1323748809,Galeopsis_tetrahit,69.0012,19.7497
-606648152,Galeopsis_tetrahit,45,-63
 1702417691,Galeopsis_tetrahit,59.854,10.4191
 1705365552,Galeopsis_tetrahit,57.544322,11.93806
 1701292304,Galeopsis_tetrahit,69.4849,21.473
@@ -1544,7 +1447,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702408217,Galeopsis_tetrahit,63.77213,12.00654
 1144102371,Galeopsis_tetrahit,58.5653,7.7709
 57697206,Galeopsis_tetrahit,62.244999,25.746099
-1261947199,Galeopsis_tetrahit,46.4,-72.266667
 1705257270,Galeopsis_tetrahit,57.896184,16.398636
 788630204,Galeopsis_tetrahit,56.342768,13.658539
 1323748839,Galeopsis_tetrahit,69.3025,18.9081
@@ -1584,7 +1486,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705297612,Galeopsis_tetrahit,56.436285,12.710429
 1323748807,Galeopsis_tetrahit,68.329,16.6866
 1702408235,Galeopsis_tetrahit,62.3087,5.7395
-1697288004,Galeopsis_tetrahit,51.1,114.533333
 1701922111,Galeopsis_tetrahit,61.1605,10.378
 1701712298,Galeopsis_tetrahit,62.2225,5.7007
 1701712220,Galeopsis_tetrahit,62.2249,5.8063
@@ -1599,7 +1500,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099006454,Galeopsis_tetrahit,56.833332,26.25
 1702408229,Galeopsis_tetrahit,69.6737,21.2451
 1702417718,Galeopsis_tetrahit,60.5578,11.1704
-883412201,Galeopsis_tetrahit,53.55,-113.5
 1705346841,Galeopsis_tetrahit,57.401392,15.605603
 1701712217,Galeopsis_tetrahit,61.25685,9.09393
 788828824,Galeopsis_tetrahit,55.94729,14.15739
@@ -1691,7 +1591,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702421837,Galeopsis_tetrahit,60.4878,6.4739
 1701819254,Galeopsis_tetrahit,59.4371,11.3098
 1697638951,Galeopsis_tetrahit,55.893706,37.376031
-1099006439,Galeopsis_tetrahit,47.5,22.133333
 239015348,Galeopsis_tetrahit,61.527302,25.775101
 788615485,Galeopsis_tetrahit,55.77,13.2203
 1705374543,Galeopsis_tetrahit,56.876586,14.788374
@@ -1830,7 +1729,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702421742,Galeopsis_tetrahit,60.6279,6.5443
 1701922156,Galeopsis_tetrahit,63.58554,10.68569
 1701922171,Galeopsis_tetrahit,64.06094,10.02285
-1988115273,Galeopsis_tetrahit,49.1,-125.5
 1702421757,Galeopsis_tetrahit,60.9043,6.0398
 1144102530,Galeopsis_tetrahit,59.41125,8.49793
 1144102524,Galeopsis_tetrahit,59.7923,5.4309
@@ -1838,7 +1736,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144102456,Galeopsis_tetrahit,60.8834,5.91677
 1701922184,Galeopsis_tetrahit,68.656,18.2542
 1989251377,Galeopsis_tetrahit,46.405298,-84.572272
-786153487,Galeopsis_tetrahit,49.8,9.5
 1988073197,Galeopsis_tetrahit,50.83,-118.99
 1702408174,Galeopsis_tetrahit,67.2385,15.3208
 1928154321,Galeopsis_tetrahit,44.376651,-103.729642
@@ -1880,7 +1777,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705299263,Galeopsis_tetrahit,59.488469,17.322651
 1705430821,Galeopsis_tetrahit,59.381584,13.505989
 616365169,Galeopsis_tetrahit,50.920978,5.888885
-786153484,Galeopsis_tetrahit,51.8,15
 1038986401,Galeopsis_tetrahit,41.8442,-73.0055
 1842889982,Galeopsis_tetrahit,41.87,2.46
 1622367283,Galeopsis_tetrahit,62.137519,21.903941
@@ -1959,7 +1855,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702305053,Galeopsis_tetrahit,58.9108,7.6979
 1702408085,Galeopsis_tetrahit,60.8485,10.0802
 606648149,Galeopsis_tetrahit,45.65277,-70.26611
-1144562917,Galeopsis_tetrahit,42.03333,9.2
 1702408120,Galeopsis_tetrahit,61.6891,9.1361
 1701712213,Galeopsis_tetrahit,60.8011,10.2238
 1702408092,Galeopsis_tetrahit,60.95088,9.95958
