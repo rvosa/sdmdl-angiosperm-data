@@ -8,7 +8,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978364585,Eleocharis_uniglumis,67.10182,32.67811
 1991391478,Eleocharis_uniglumis,49.132483,90.334833
 1806488088,Eleocharis_uniglumis,63.3409,10.2447
-1947059658,Eleocharis_uniglumis,48,10.2
 1977818682,Eleocharis_uniglumis,59.6522,10.3928
 1881632980,Eleocharis_uniglumis,48.14,10.45
 1702111017,Eleocharis_uniglumis,59.6177,11.5904
@@ -22,7 +21,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265270827,Eleocharis_uniglumis,36.829,-4.878
 1701291028,Eleocharis_uniglumis,64.0514,9.9498
 1658404449,Eleocharis_uniglumis,58.63761,23.50972
-1697349653,Eleocharis_uniglumis,56.3,41.021111
 1697349652,Eleocharis_uniglumis,55.790833,41.668611
 1697349637,Eleocharis_uniglumis,55.543889,42.090833
 1837376430,Eleocharis_uniglumis,59.1773,5.7038
@@ -137,7 +135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851337749,Eleocharis_uniglumis,42.2767,-5.3496
 1851365673,Eleocharis_uniglumis,42.2509,-5.4626
 1851381414,Eleocharis_uniglumis,42.4899,-5.3174
-1851378559,Eleocharis_uniglumis,42.2946,-5.4
 1851322155,Eleocharis_uniglumis,42.2798,-5.374
 1701967926,Eleocharis_uniglumis,62.9248,7.4531
 1851348616,Eleocharis_uniglumis,42.2933,-5.3745
@@ -300,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702202955,Eleocharis_uniglumis,60.7313,11.0179
 1702202978,Eleocharis_uniglumis,60.7698,10.8404
 1947056325,Eleocharis_uniglumis,50.12,9.87
-1881631506,Eleocharis_uniglumis,48.84,10.7
 1702346259,Eleocharis_uniglumis,59.1067,5.67965
 747535,Eleocharis_uniglumis,55.96902,14.19651
 1342411589,Eleocharis_uniglumis,55.601611,11.37167
@@ -353,7 +349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936536981,Eleocharis_uniglumis,40.3654,-0.7282
 351937115,Eleocharis_uniglumis,40.71667,21.66667
 1323828776,Eleocharis_uniglumis,66.9055,13.6406
-2308505675,Eleocharis_uniglumis,53.3,-4.24
 1342411654,Eleocharis_uniglumis,55.705512,11.966979
 1701632385,Eleocharis_uniglumis,63.6612,9.3262
 1701828247,Eleocharis_uniglumis,58.7933,8.8607
@@ -443,7 +438,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 858336791,Eleocharis_uniglumis,53.9485,13.415
 1342411632,Eleocharis_uniglumis,55.682328,11.806112
 1600095160,Eleocharis_uniglumis,60.040464,24.022232
-473465316,Eleocharis_uniglumis,47.683333,-58.4
 318681466,Eleocharis_uniglumis,59.973239,11.801728
 1702413210,Eleocharis_uniglumis,59.9737,11.8031
 1600095162,Eleocharis_uniglumis,60.037349,24.124845
@@ -486,7 +480,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913343666,Eleocharis_uniglumis,69.123611,18.176389
 1702248546,Eleocharis_uniglumis,67.32895,14.29557
 1702248453,Eleocharis_uniglumis,65.4355,12.1159
-1262025647,Eleocharis_uniglumis,51.7,-76.016667
 1701801380,Eleocharis_uniglumis,59.2389,10.9894
 1831134157,Eleocharis_uniglumis,53.7485,12.7484
 1332530664,Eleocharis_uniglumis,50.308246,9.587749
@@ -554,9 +547,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204426384,Eleocharis_uniglumis,42.481998,-2.398
 1705394800,Eleocharis_uniglumis,57.722651,16.543597
 318220867,Eleocharis_uniglumis,59.0352,5.6461
-788512676,Eleocharis_uniglumis,64.016667,23.4
-1936396313,Eleocharis_uniglumis,64.0167,23.4
-1988160122,Eleocharis_uniglumis,64,23.4
 1702217759,Eleocharis_uniglumis,58.54,7.7632
 1705394823,Eleocharis_uniglumis,57.902673,16.462951
 747948,Eleocharis_uniglumis,62.08318,5.63763
@@ -605,7 +595,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268221084,Eleocharis_uniglumis,55.728097,36.828074
 788508439,Eleocharis_uniglumis,56.031862,14.152378
 1851322932,Eleocharis_uniglumis,42.47,-5.37
-1851319609,Eleocharis_uniglumis,43.28,-5.4
 1851404634,Eleocharis_uniglumis,42.57,-5.25
 1881896414,Eleocharis_uniglumis,58.717778,26.549722
 1851396751,Eleocharis_uniglumis,42.57,-5.13
@@ -742,7 +731,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187153350,Eleocharis_uniglumis,68.4669,16.6712
 1697851526,Eleocharis_uniglumis,34.808166,67.489185
 1248711964,Eleocharis_uniglumis,52.149722,-78.554722
-1261999572,Eleocharis_uniglumis,47.45,-70.5
 1702300695,Eleocharis_uniglumis,59.0021,8.295
 1701250176,Eleocharis_uniglumis,64.0715,9.9531
 1701336982,Eleocharis_uniglumis,63.1404,8.4942
@@ -758,7 +746,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702258075,Eleocharis_uniglumis,62.0171,5.57
 1697412255,Eleocharis_uniglumis,55.0767,41.747648
 1323713438,Eleocharis_uniglumis,69.3839,20.2684
-1701258435,Eleocharis_uniglumis,62,5.0941
 788508266,Eleocharis_uniglumis,56.45592,12.55575
 1702339286,Eleocharis_uniglumis,59.1411,10.893
 1702339337,Eleocharis_uniglumis,59.146,10.8976
@@ -789,7 +776,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473581075,Eleocharis_uniglumis,49.85,-57.766667
 1248711843,Eleocharis_uniglumis,51.503889,-79.213889
 1701255742,Eleocharis_uniglumis,66.3072,14.0075
-615314066,Eleocharis_uniglumis,35.6,68.68
 1697412289,Eleocharis_uniglumis,55.713223,42.014386
 615314071,Eleocharis_uniglumis,34.83,67.98
 615314072,Eleocharis_uniglumis,35.18,67.98
@@ -905,7 +891,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999532196,Eleocharis_uniglumis,60.217808,22.909161
 2242066987,Eleocharis_uniglumis,60.375404,22.372117
 1323713456,Eleocharis_uniglumis,70.3134,25.5237
-1455172917,Eleocharis_uniglumis,45.4,-61.834722
 1099878549,Eleocharis_uniglumis,57.31058,13.18023
 788512034,Eleocharis_uniglumis,65.0125,25.471389
 187152849,Eleocharis_uniglumis,63.8146,9.6195
@@ -920,7 +905,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788614566,Eleocharis_uniglumis,64.32719,11.12347
 788612637,Eleocharis_uniglumis,59.46966,7.93891
 1144146059,Eleocharis_uniglumis,61.44691,6.08196
-788619582,Eleocharis_uniglumis,47.630278,13
 788614583,Eleocharis_uniglumis,47.470833,8.4025
 788614940,Eleocharis_uniglumis,50.513056,3.499444
 788619523,Eleocharis_uniglumis,53.080278,6.257222
@@ -941,7 +925,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323713457,Eleocharis_uniglumis,69.88,21.1172
 1323713468,Eleocharis_uniglumis,69.633,20.6138
 1323713447,Eleocharis_uniglumis,69.8666,21.0781
-575286689,Eleocharis_uniglumis,36.066667,46.9
 1999532310,Eleocharis_uniglumis,60.461269,22.132169
 1144145982,Eleocharis_uniglumis,60.268,5.2514
 1055636126,Eleocharis_uniglumis,57.238095,-4.323394
@@ -1363,7 +1346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788511978,Eleocharis_uniglumis,55.58285,12.92779
 788510465,Eleocharis_uniglumis,57.65766,12.0603
 1600095240,Eleocharis_uniglumis,63.132517,21.540172
-39346008,Eleocharis_uniglumis,66,-18.385
 1701919254,Eleocharis_uniglumis,62.2469,5.7848
 415980511,Eleocharis_uniglumis,48.05,-65.48333
 1701880325,Eleocharis_uniglumis,59.51354,10.22705
