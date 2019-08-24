@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829931386,Oldenlandia_diffusa,35.415768,139.503049
 1829939483,Oldenlandia_diffusa,35.282443,139.115584
 2244509939,Oldenlandia_diffusa,34.833333,134.883333
-2244509826,Oldenlandia_diffusa,34.816667,135
 2243108699,Oldenlandia_diffusa,36.19059,140.28786
 2243108289,Oldenlandia_diffusa,36.23954,140.35304
 2244508974,Oldenlandia_diffusa,34.766667,134.933333
@@ -16,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829639824,Oldenlandia_diffusa,36.213056,139.598611
 1829559284,Oldenlandia_diffusa,35.90614,139.91833
 1829559732,Oldenlandia_diffusa,35.91219,139.89165
-1830205229,Oldenlandia_diffusa,36.5,136.833333
 1829561191,Oldenlandia_diffusa,36.0975,140.16319
 1829635144,Oldenlandia_diffusa,36.395,139.187778
 1829560956,Oldenlandia_diffusa,36.22997,139.96404
@@ -51,18 +49,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1934123357,Oldenlandia_diffusa,35.33703,137.01225
 1830631005,Oldenlandia_diffusa,33.664029,134.398003
 1830683759,Oldenlandia_diffusa,33.316667,133.233333
-1830683870,Oldenlandia_diffusa,33.5,134.233333
 1830630986,Oldenlandia_diffusa,33.690553,134.371144
 1830631030,Oldenlandia_diffusa,33.689025,134.426916
-1830684964,Oldenlandia_diffusa,33.2,132.966667
 1830683778,Oldenlandia_diffusa,33.166667,133.183333
 1830683856,Oldenlandia_diffusa,32.883333,132.933333
 575258243,Oldenlandia_diffusa,27.038056,84.888889
 1830194150,Oldenlandia_diffusa,36.666667,137.233333
-1830193892,Oldenlandia_diffusa,36.65,137.1
 1830688229,Oldenlandia_diffusa,33.55,133.633333
 1830690251,Oldenlandia_diffusa,32.866667,132.716667
-1830689965,Oldenlandia_diffusa,33.5,134.033333
 1829937759,Oldenlandia_diffusa,35.41578,140.352974
 1933837838,Oldenlandia_diffusa,35.08456,136.21388
 2291064881,Oldenlandia_diffusa,18.183333,98.216667
@@ -72,9 +66,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381812305,Oldenlandia_diffusa,35.97403,140.6033
 204379638,Oldenlandia_diffusa,34.62077,135.7271
 1830193783,Oldenlandia_diffusa,36.683333,137.216667
-2288896848,Oldenlandia_diffusa,19.2,100.4833
 1830191375,Oldenlandia_diffusa,36.733333,137.283333
-1829609401,Oldenlandia_diffusa,36.2,139.6
 1830189685,Oldenlandia_diffusa,36.716667,137.016667
 1830537164,Oldenlandia_diffusa,35.454167,134.90625
 395767331,Oldenlandia_diffusa,35.089361,134.101306
@@ -88,13 +80,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830661089,Oldenlandia_diffusa,33.0125,132.81875
 395767205,Oldenlandia_diffusa,35.070833,133.799167
 1830648874,Oldenlandia_diffusa,32.995833,132.90625
-1830222576,Oldenlandia_diffusa,36.666667,137.2
 381812239,Oldenlandia_diffusa,35.93909,140.37202
-1830185144,Oldenlandia_diffusa,36.8,137
 1829650042,Oldenlandia_diffusa,36.211111,139.618333
 1829635606,Oldenlandia_diffusa,36.2125,139.620833
 204379636,Oldenlandia_diffusa,34.65272,135.76419
-1830190643,Oldenlandia_diffusa,36.816667,137.4
 204379642,Oldenlandia_diffusa,34.49162,135.95116
 381812195,Oldenlandia_diffusa,36.17625,140.04143
 2287379230,Oldenlandia_diffusa,18.866667,98.933333
@@ -140,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891636528,Oldenlandia_diffusa,25.080556,121.43
 891654592,Oldenlandia_diffusa,22.129722,120.764444
 891631669,Oldenlandia_diffusa,25.199722,121.444167
-891632019,Oldenlandia_diffusa,24.3,120.704167
 1830617700,Oldenlandia_diffusa,34.026982,134.491047
 891622597,Oldenlandia_diffusa,24.896667,121.542778
 891647679,Oldenlandia_diffusa,24.989167,121.649167
@@ -174,7 +162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891657004,Oldenlandia_diffusa,24.9925,121.306944
 891657056,Oldenlandia_diffusa,23.841389,120.888611
 891656989,Oldenlandia_diffusa,23.839444,120.915278
-1830198495,Oldenlandia_diffusa,36.516667,136.9
 1830667473,Oldenlandia_diffusa,33.72115,135.98741
 1829598866,Oldenlandia_diffusa,36.473333,139.251111
 891657029,Oldenlandia_diffusa,25.099167,121.728056
