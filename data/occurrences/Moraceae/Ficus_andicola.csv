@@ -18,7 +18,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928193222,Ficus_andicola,-2.8756,-54.9397
 1717050653,Ficus_andicola,-22.300833,-41.742778
 2005917141,Ficus_andicola,-22.780183,-43.159195
-1889169741,Ficus_andicola,-2.491583,-44.266389
 1806874444,Ficus_andicola,-12.575556,-38.989167
 1991402513,Ficus_andicola,3.766168,-76.576696
 1991402509,Ficus_andicola,3.771742,-76.57914
@@ -30,12 +29,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1264718234,Ficus_andicola,12.907861,-85.474306
 1269209184,Ficus_andicola,-14.613361,-68.948111
 1703245019,Ficus_andicola,4.90583,-73.30527
-1703245264,Ficus_andicola,2.966636,-78.182592
 1423921856,Ficus_andicola,-21.753056,-41.648889
 1803913927,Ficus_andicola,5.734611,-68.475333
 1932884878,Ficus_andicola,0.73,-72.74
 1913950218,Ficus_andicola,-8.392778,-63.586111
-1456361830,Ficus_andicola,12.0983,-61.7004
 1932884110,Ficus_andicola,2.52,-72.86
 1932883310,Ficus_andicola,1.72,-73.52
 2243332290,Ficus_andicola,-9.871586,-58.229811
@@ -48,14 +45,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1413715577,Ficus_andicola,0.023419,-68.192889
 1702531464,Ficus_andicola,4.442281,-74.044972
 1702531392,Ficus_andicola,4.809861,-74.102033
-1455891246,Ficus_andicola,-20.598333,-40.423333
 1423909286,Ficus_andicola,-20.452222,-40.461667
-2290792567,Ficus_andicola,17.481111,-62.961944
 1257275646,Ficus_andicola,-10.902778,-52.075547
 1213523890,Ficus_andicola,-26.28,-48.961944
 1427575033,Ficus_andicola,5.999427,-71.530057
 1258193975,Ficus_andicola,-1.235833,-77.888055
-2268926357,Ficus_andicola,14.557778,-60.885555
 1096934168,Ficus_andicola,-19.135194,-40.058667
 1060488010,Ficus_andicola,5.508306,-67.668111
 1063862239,Ficus_andicola,5.246378,-67.8557
@@ -79,7 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265216150,Ficus_andicola,6.476667,-76.327778
 931001178,Ficus_andicola,6.504033,-74.920167
 1213678908,Ficus_andicola,3.574278,-76.735
-1702529944,Ficus_andicola,4.6695,-74.100694
 1944829092,Ficus_andicola,-5.664389,-76.839
 1077245972,Ficus_andicola,-14.1,-39
 1258125944,Ficus_andicola,-11.97,-73.677778
@@ -123,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424369485,Ficus_andicola,-22.974167,-43.255
 2027494415,Ficus_andicola,-9.329444,-56.782222
 1257781141,Ficus_andicola,-15.233333,-68.746389
-1087657736,Ficus_andicola,-2.596389,-44.272778
 2027494814,Ficus_andicola,-9.3475,-56.796111
 2027494968,Ficus_andicola,-9.322778,-56.782778
 930999335,Ficus_andicola,8.080753,-76.535656
@@ -161,7 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844430390,Ficus_andicola,-20.18,-40.307222
 1932880412,Ficus_andicola,2.37,-72.69
 1913567135,Ficus_andicola,-6.385556,-50.384722
-2268820359,Ficus_andicola,9.581195,-84.609556
 731738881,Ficus_andicola,4.90861,-52.32417
 1257741060,Ficus_andicola,-10.554167,-75.426389
 1257557803,Ficus_andicola,-3.776667,-78.495278
@@ -299,7 +290,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288496109,Ficus_andicola,-9.908333,-75.458333
 1260740651,Ficus_andicola,-10.65472,-75.1775
 2291443588,Ficus_andicola,-10.654722,-75.1775
-2288005732,Ficus_andicola,5.54,-53.065967
 1260379008,Ficus_andicola,-3.100556,-78.096111
 1587320369,Ficus_andicola,-15.19,-39.037222
 1260402549,Ficus_andicola,-14.164306,-68.74075
@@ -396,7 +386,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291475686,Ficus_andicola,-12.767222,-72.298611
 1087631503,Ficus_andicola,-16.405194,-40.056139
 1707562788,Ficus_andicola,6.475083,-73.208778
-1260570899,Ficus_andicola,7.61138,-81.78722
 1253863111,Ficus_andicola,10.297222,-84.527778
 1260093387,Ficus_andicola,-10.675,-75.30583
 2268940893,Ficus_andicola,19.412222,-70.145555
@@ -463,7 +452,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257710965,Ficus_andicola,-16.216667,-66.4
 1259502669,Ficus_andicola,-10.36666,-75.45
 2288509287,Ficus_andicola,-12.816667,-72.566667
-1098687439,Ficus_andicola,4.668124,-74.100244
 1897607024,Ficus_andicola,16.793333,-91.11
 2291475579,Ficus_andicola,-10.633333,-75.183333
 1087032500,Ficus_andicola,-11.564722,-46.324167
@@ -501,7 +489,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259870461,Ficus_andicola,16.781111,-91.0625
 1421413726,Ficus_andicola,16.930278,-91.271389
 2288003797,Ficus_andicola,-17.5,-67.833333
-1098684037,Ficus_andicola,4.599483,-74.075833
 1897607001,Ficus_andicola,16.986389,-91.287222
 1259114424,Ficus_andicola,-14.496667,-68.250833
 1259123725,Ficus_andicola,-14.498611,-68.233056
@@ -554,10 +541,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253730841,Ficus_andicola,9.045245,-83.184316
 1258650878,Ficus_andicola,1.95277,-66.99805
 1262926821,Ficus_andicola,6.9225,-66.541667
-122948098,Ficus_andicola,26.009829,-77.002792
-2270644540,Ficus_andicola,24.615,-75.664722
 1424020538,Ficus_andicola,-3.766667,-40.978056
-1253890129,Ficus_andicola,8.477778,-83.594444
 1135437317,Ficus_andicola,8.68333,-83.21667
 1253745240,Ficus_andicola,10.351916,-84.680311
 1257834303,Ficus_andicola,10.351916,-84.68031
@@ -577,7 +561,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456144009,Ficus_andicola,1.5825,-59.2381
 1258653999,Ficus_andicola,-0.43333,-77.85
 1257511624,Ficus_andicola,-0.016667,-75.466667
-2270598616,Ficus_andicola,24.633056,-75.649722
 1929377752,Ficus_andicola,-17.38,-64.05
 1253680368,Ficus_andicola,9.92,-84.259722
 1258651313,Ficus_andicola,3.63333,-67.86666
@@ -631,7 +614,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 731713604,Ficus_andicola,4.9,-52.3
 1228439574,Ficus_andicola,8.1667,-81.25
 1261928987,Ficus_andicola,3.23833,-67.40833
-1259699080,Ficus_andicola,7.46,-81.79416
 1258359122,Ficus_andicola,-0.6,-77.63333
 1929015966,Ficus_andicola,-7.4667,-73.6242
 930980414,Ficus_andicola,6.083333,-75.633333
@@ -665,9 +647,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099639520,Ficus_andicola,2.52605,-76.55271
 1424095757,Ficus_andicola,-12.021944,-37.693055
 930981094,Ficus_andicola,2.78922,-76.53421
-1228536001,Ficus_andicola,17.25,-88.1667
 1261911510,Ficus_andicola,10.19,-83.9
-36848519,Ficus_andicola,21.8,-156.033
 930984502,Ficus_andicola,4.707008,-75.498282
 1253614910,Ficus_andicola,10.198611,-83.906944
 1258273851,Ficus_andicola,-0.65,-76.43333
@@ -685,7 +665,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258937682,Ficus_andicola,-13.55,-61
 1042620756,Ficus_andicola,-2.666667,-62.15
 1258693928,Ficus_andicola,5.54944,-74.30694
-1259397829,Ficus_andicola,7.61694,-81.75694
 930983636,Ficus_andicola,5.57479,-74.30496
 1089170139,Ficus_andicola,-12.036944,-42.216667
 931017860,Ficus_andicola,6.272225,-74.685275
@@ -696,10 +675,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261433863,Ficus_andicola,-4.26666,-78.66666
 1928549865,Ficus_andicola,-14.8,-39.27
 1261549786,Ficus_andicola,-0.91666,-76.15
-45185809,Ficus_andicola,5.55,-87.06
 1576184830,Ficus_andicola,5.0738,-75.529211
 768739236,Ficus_andicola,1.2,-76.63
-1318931349,Ficus_andicola,23.2086,-81.7004
 930981256,Ficus_andicola,1.07576,-76.73013
 930980962,Ficus_andicola,1.2,-76.633333
 1261432011,Ficus_andicola,18.33333,-65.83333
@@ -714,8 +691,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259110772,Ficus_andicola,-14.41666,-67.91666
 1576184845,Ficus_andicola,5.076671,-75.525425
 1456105441,Ficus_andicola,5.08333,-59.9833
-1259396726,Ficus_andicola,7.52083,-81.83694
-1259396526,Ficus_andicola,7.34166,-81.70833
 2289869202,Ficus_andicola,5.333333,-58.166667
 1456074978,Ficus_andicola,4.83333,-59.9667
 1042535478,Ficus_andicola,4.833333,-59.97
@@ -784,7 +759,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258986088,Ficus_andicola,-14.5,-67.83333
 1928731467,Ficus_andicola,-2.429224,-59.888583
 1042506138,Ficus_andicola,-2.416667,-59.9
-1257994823,Ficus_andicola,18.15,-68.7
 1930200029,Ficus_andicola,-2.434182,-59.904816
 2236185354,Ficus_andicola,-2.42,-59.9
 1932874011,Ficus_andicola,2.13,-68.23
@@ -799,7 +773,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261431332,Ficus_andicola,-3.84138,-80.25916
 1253603405,Ficus_andicola,9.697778,-84.389444
 1261899210,Ficus_andicola,3.83333,-76.58333
-1099624718,Ficus_andicola,1.8184,-78.74165
 1056478643,Ficus_andicola,17.737797,-88.852722
 1228232791,Ficus_andicola,6,-77
 1260682418,Ficus_andicola,2.43333,-65.11666
@@ -854,10 +827,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259929794,Ficus_andicola,1.11666,-72.83333
 1260466064,Ficus_andicola,3.05,-67.483333
 1261432054,Ficus_andicola,-5.08333,-73.83333
-1253644911,Ficus_andicola,9.380556,-84.15
 1253604168,Ficus_andicola,10.383333,-84.8
 1261430738,Ficus_andicola,-15.15,-67.51666
-45186620,Ficus_andicola,9.38,-84.15
 1319811150,Ficus_andicola,10.38,-84.8
 1261425536,Ficus_andicola,3.86666,-76.36666
 1260465972,Ficus_andicola,3.11666,-65.46666
@@ -898,7 +869,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 931014368,Ficus_andicola,2.665464,-74.819344
 1261432950,Ficus_andicola,-1.666667,-76.95
 1261429196,Ficus_andicola,2.50972,-76.57444
-1929059512,Ficus_andicola,16.97,-88.23
 1042645268,Ficus_andicola,-2.516667,-59.83
 1055589982,Ficus_andicola,-1.427421,-78.767071
 1259713923,Ficus_andicola,3.61666,-53.2
@@ -910,12 +880,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288324974,Ficus_andicola,3.633333,-76.55
 1930653038,Ficus_andicola,6.17,-75.5
 1930752474,Ficus_andicola,-3.5,-78.17
-1261425257,Ficus_andicola,8.46,-83.58
 931008853,Ficus_andicola,6.31439,-75.50535
 1258398687,Ficus_andicola,6.166667,-75.5
 1260464122,Ficus_andicola,6.68333,-67.45
 1260464556,Ficus_andicola,6.7,-67.53333
-1253695292,Ficus_andicola,8.466667,-83.583334
 1260465785,Ficus_andicola,6.75,-65.51666
 47768599,Ficus_andicola,0.016,-76.183
 1261428730,Ficus_andicola,0.01666,-76.18333
@@ -948,7 +916,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 931010765,Ficus_andicola,6.966667,-75.333333
 1896241097,Ficus_andicola,16.963611,-91.261944
 1228369513,Ficus_andicola,-14,-65.5
-1253695450,Ficus_andicola,8.466667,-83.583333
 1261433761,Ficus_andicola,-0.333333,-77.083333
 931010999,Ficus_andicola,7.2,-75.183333
 1260540932,Ficus_andicola,6.93333,-75.06666
@@ -963,8 +930,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456232990,Ficus_andicola,6.41667,-58.25
 1456031632,Ficus_andicola,5.16667,-59.4833
 1258532797,Ficus_andicola,15.51083,-88.805
-1261424355,Ficus_andicola,8.45,-83.55
-1253694604,Ficus_andicola,8.466667,-83.583335
 1042532568,Ficus_andicola,5.166667,-59.48
 931006336,Ficus_andicola,6.25,-75.166667
 1707549114,Ficus_andicola,6.55,-76.316667
@@ -986,11 +951,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261422357,Ficus_andicola,-3.91666,-73.58333
 931007354,Ficus_andicola,6.75,-76.416667
 1259929287,Ficus_andicola,6.75,-76.41666
-45185421,Ficus_andicola,8.48,-83.56
 1261421400,Ficus_andicola,-1.13333,-77.5
 1261428785,Ficus_andicola,16.95416,-88.93305
 1259930243,Ficus_andicola,2.16666,-73.8
-1253689187,Ficus_andicola,8.483333,-83.566667
 931007804,Ficus_andicola,2.166667,-73.8
 931008038,Ficus_andicola,6.071667,-74.995667
 931008066,Ficus_andicola,5.995667,-74.995667
@@ -1008,7 +971,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261428464,Ficus_andicola,6.83333,-75.41666
 931009106,Ficus_andicola,6.816674,-75.490311
 1261539761,Ficus_andicola,2.66666,-74.16666
-1424020384,Ficus_andicola,55.183333,-59.483333
 1259712170,Ficus_andicola,5.18333,-59.48333
 1456199254,Ficus_andicola,5.18333,-59.4833
 1424020373,Ficus_andicola,5.966667,-58.583333
@@ -1046,7 +1008,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 931006769,Ficus_andicola,6.766667,-76.333333
 1261430100,Ficus_andicola,6.76666,-76.33333
 1456066529,Ficus_andicola,2.65,-54.06
-1707549529,Ficus_andicola,2.983333,-78.183333
 1936438420,Ficus_andicola,-0.25,-78.3333
 1260464446,Ficus_andicola,7.35,-63.266667
 1928036920,Ficus_andicola,0.083333,-67.266667
@@ -1186,7 +1147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042631515,Ficus_andicola,0.816667,-63.32
 931003744,Ficus_andicola,5.93631,-74.849556
 1931245987,Ficus_andicola,18.123393,-66.00757
-2268946420,Ficus_andicola,19.316667,-69.266667
 1261423245,Ficus_andicola,1.78333,-67.26666
 931001841,Ficus_andicola,4.901169,-75.092446
 1261424548,Ficus_andicola,1.53333,-66.53333
@@ -1213,8 +1173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261424072,Ficus_andicola,1.966667,-66.933333
 1261422337,Ficus_andicola,3.98333,-76.96666
 1261424003,Ficus_andicola,1.166667,-66.416667
-1261433415,Ficus_andicola,8.5,-83.583333
-45185351,Ficus_andicola,8.5,-83.58
 1228260102,Ficus_andicola,3.75,-76.5
 1228447498,Ficus_andicola,5,-74.1667
 1261425019,Ficus_andicola,3.98333,-76.1
@@ -1300,18 +1258,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260463411,Ficus_andicola,1.93333,-67.05
 1314992649,Ficus_andicola,6.31335,-75.015
 1314992678,Ficus_andicola,6.2809,-75.0674
-1503218834,Ficus_andicola,18.15,-68.7167
 1099624367,Ficus_andicola,1.39933,-78.50504
-1322257810,Ficus_andicola,18.27,-69.03
-1936136511,Ficus_andicola,18.2667,-69.0333
 1090439222,Ficus_andicola,-16.383333,-39.133333
 1890948843,Ficus_andicola,6.31335,-75.015007
 1896241073,Ficus_andicola,21.275,-97.891667
-1258669780,Ficus_andicola,11.6,-83.666667
 1258669927,Ficus_andicola,11.515278,-83.773611
 1261430370,Ficus_andicola,11.611111,-83.669444
 930991215,Ficus_andicola,6.27997,-75.06623
-1258670157,Ficus_andicola,11.577778,-83.644444
 1701521002,Ficus_andicola,0.95,-78.2
 1259101034,Ficus_andicola,10.06666,-64.23333
 1259100445,Ficus_andicola,10.266667,-64.4
@@ -1322,7 +1275,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931035619,Ficus_andicola,-8.05,-50.17
 1259093641,Ficus_andicola,-0.916667,-48.066667
 2235973087,Ficus_andicola,-0.92,-48.07
-1259093756,Ficus_andicola,-0.61666,-47.7
 1928302130,Ficus_andicola,-0.62,-47.7
 1896241095,Ficus_andicola,15.958333,-85.908333
 1259100133,Ficus_andicola,9.21666,-72.68333
@@ -1345,7 +1297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259136880,Ficus_andicola,15.881667,-86.074722
 1042505006,Ficus_andicola,-0.916667,-48.07
 1261421963,Ficus_andicola,-3.83333,-73.41666
-1931054862,Ficus_andicola,-0.875396,-48.512315
 1259129411,Ficus_andicola,6.316667,-68.4
 2235992258,Ficus_andicola,-8.12,-61.82
 1259713026,Ficus_andicola,-8.072222,-50.170833
@@ -1371,7 +1322,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087025421,Ficus_andicola,-8.118056,-61.816667
 1042669124,Ficus_andicola,-8.116667,-61.82
 1258678267,Ficus_andicola,0.991389,-78.196944
-1259156820,Ficus_andicola,7.408889,-81.706389
 1261424688,Ficus_andicola,-3.83333,-77.66666
 1927830808,Ficus_andicola,0.1364,-51.0475
 2288338064,Ficus_andicola,10.666667,-62.666667
@@ -1388,7 +1338,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288006376,Ficus_andicola,7.566667,-69.25
 1260466491,Ficus_andicola,10.15,-65.8
 1260466073,Ficus_andicola,10.1,-65.883333
-1259136588,Ficus_andicola,16.33666,-86.53333
 1258483265,Ficus_andicola,13.65,-84.808333
 1261423689,Ficus_andicola,5.6,-67.616667
 1456069254,Ficus_andicola,5.6,-67.61
@@ -1438,7 +1387,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928147918,Ficus_andicola,-3.1794,-60.1158
 1259136889,Ficus_andicola,14.51666,-89.16666
 1228533697,Ficus_andicola,1,-74
-1896241077,Ficus_andicola,18.665556,-95.136111
 1897607049,Ficus_andicola,18.425,-95.093611
 1930384828,Ficus_andicola,-15.432,-55.77825
 1259040791,Ficus_andicola,-0.58333,-79.36666
@@ -1471,7 +1419,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 931002026,Ficus_andicola,6.270049,-75.57158
 1930732211,Ficus_andicola,3.375,-63.225
 1042601952,Ficus_andicola,3.416667,-63.4
-1259156822,Ficus_andicola,9.55,-79.65
 1927911184,Ficus_andicola,3.217,-63.392
 1929433123,Ficus_andicola,-7.5,-73.73
 2289852698,Ficus_andicola,-18.083333,-39.883333
@@ -1490,7 +1437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289747545,Ficus_andicola,1.583333,-66.166667
 1258533812,Ficus_andicola,9.16083,-79.81972
 1259136712,Ficus_andicola,14.71416,-88.77805
-1259156855,Ficus_andicola,7.61777,-81.75972
 931001963,Ficus_andicola,6.210318,-75.572378
 1259092982,Ficus_andicola,17.2125,-89.613056
 1929975155,Ficus_andicola,-14.7536,-39.2281
@@ -1515,7 +1461,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929522485,Ficus_andicola,3.785408,-61.726002
 1890908567,Ficus_andicola,4.956389,-77.353056
 1314992682,Ficus_andicola,4.95639,-77.3531
-1258662267,Ficus_andicola,8.95444,-79.55444
 1930930563,Ficus_andicola,-23.010762,-43.398867
 1260466878,Ficus_andicola,8.43333,-71.58333
 1893432667,Ficus_andicola,17.758333,-94.775
@@ -1539,7 +1484,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456356190,Ficus_andicola,6.36,-61.91
 1261498502,Ficus_andicola,-10.748055,-75.539167
 1929988149,Ficus_andicola,-3.0572,-60.1028
-1259156833,Ficus_andicola,7.8,-80.2
 1456270152,Ficus_andicola,3.2,-53.52
 2235837967,Ficus_andicola,1.03,-51.75
 1931042107,Ficus_andicola,0.992,-51.617
@@ -1548,7 +1492,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929578287,Ficus_andicola,1.18,-52.13
 1314992676,Ficus_andicola,7.38894,-76.5987
 1259092968,Ficus_andicola,17.01166,-89.805
-1319682908,Ficus_andicola,25.0417,-77.35
 2236005862,Ficus_andicola,-2.78,-52.47
 1897607004,Ficus_andicola,21.230833,-98.880278
 1314992647,Ficus_andicola,6.31728,-75.0056
@@ -1587,13 +1530,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1314992665,Ficus_andicola,5.37698,-75.4168
 1844899522,Ficus_andicola,5.37698,-75.41683
 1932878912,Ficus_andicola,1.21,-72.74
-1303611518,Ficus_andicola,25.594607,107.543621
-1303611537,Ficus_andicola,25.382844,107.914914
 1314992735,Ficus_andicola,7.28382,-75.3988
 1099639843,Ficus_andicola,2.47098,-76.7362
 1259092957,Ficus_andicola,16.97222,-88.44138
 45183783,Ficus_andicola,9.93,-84.21
-1304104454,Ficus_andicola,29.57328,106.531527
 1228444066,Ficus_andicola,9.8333,-83.75
 1258451335,Ficus_andicola,4.157558,-73.635531
 2013764526,Ficus_andicola,5.933672,-73.644929
@@ -1605,7 +1545,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2013764573,Ficus_andicola,7.864117,-72.775212
 1228447746,Ficus_andicola,3,-76
 2013764473,Ficus_andicola,4.322693,-74.388527
-1927929599,Ficus_andicola,-2.53307331003505,-44.3030252274193
 1897606987,Ficus_andicola,16.786111,-92.343333
 1258532774,Ficus_andicola,17.5,-91.98
 1259092989,Ficus_andicola,17.61,-91.94
@@ -1614,24 +1553,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228574923,Ficus_andicola,-16.7261,-64.435
 2013764488,Ficus_andicola,4.139417,-73.629023
 1259156871,Ficus_andicola,8.323333,-81.209167
-1304123958,Ficus_andicola,26.543493,106.761103
-1304111580,Ficus_andicola,29.866159,118.431373
-1304105622,Ficus_andicola,22.25257,111.721548
-1304106740,Ficus_andicola,29.031361,119.63238
 912695140,Ficus_andicola,-7.5,-70.25
-1304105607,Ficus_andicola,24.813781,113.184435
 1259156847,Ficus_andicola,9.16527,-79.85138
 1259685677,Ficus_andicola,9.85,-83.9
 1144684260,Ficus_andicola,5.27306,-73.29417
 1259156851,Ficus_andicola,9.15,-79.86666
 1259092981,Ficus_andicola,16.81527,-88.37833
 1144684264,Ficus_andicola,8.45444,-71.23972
-1304113317,Ficus_andicola,27.998977,108.403269
-1304104397,Ficus_andicola,32.435432,105.843358
-1304110672,Ficus_andicola,28.451836,119.916426
 1144684276,Ficus_andicola,9.47056,-70.54972
 1259092955,Ficus_andicola,16.98722,-88.31916
-1259156858,Ficus_andicola,8.96666,-79.53333
 1456390971,Ficus_andicola,5.61,-58.35
 1931058452,Ficus_andicola,21.870604,-79.618941
 1931376977,Ficus_andicola,18.253052,-65.786839
