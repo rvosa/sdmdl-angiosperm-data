@@ -70,14 +70,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830205814,Sedum_sarmentosum,36.633333,137.316667
 381842300,Sedum_sarmentosum,36.03835,140.20863
 1928372820,Sedum_sarmentosum,40.782323,-73.965416
-391299684,Sedum_sarmentosum,37.4,140.1
 395802886,Sedum_sarmentosum,35.180556,133.874167
 1947606088,Sedum_sarmentosum,48.27,13.03
-1830672124,Sedum_sarmentosum,33.716667,133.3
 391299832,Sedum_sarmentosum,37.658333,140.109722
 1830200508,Sedum_sarmentosum,36.866667,137.633333
-1830672149,Sedum_sarmentosum,33,132.933333
-1829606869,Sedum_sarmentosum,36.5,138.8
 415949192,Sedum_sarmentosum,41.4407,-71.8814
 1830630832,Sedum_sarmentosum,33.599981,134.319511
 1829694842,Sedum_sarmentosum,35.78142,139.72044
@@ -118,11 +114,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933851847,Sedum_sarmentosum,35.6501,139.4412
 1933933580,Sedum_sarmentosum,36.5997,139.0547
 1933848230,Sedum_sarmentosum,35.49728,138.76756
-1829609412,Sedum_sarmentosum,36.3,138.9
 1934098486,Sedum_sarmentosum,41.0928,141.3959
 415924789,Sedum_sarmentosum,39.47611,-88.18611
 381842212,Sedum_sarmentosum,36.60202,140.646
-238098884,Sedum_sarmentosum,37,140
 1830622422,Sedum_sarmentosum,33.939412,134.621811
 1828666508,Sedum_sarmentosum,36.565164,136.783799
 1829643036,Sedum_sarmentosum,36.349444,139.340278
@@ -202,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 234434413,Sedum_sarmentosum,35.365775,139.49055
 234434403,Sedum_sarmentosum,35.432434,139.628038
 234434395,Sedum_sarmentosum,35.457427,139.403055
-1830166249,Sedum_sarmentosum,36.666667,137.2
 234434394,Sedum_sarmentosum,35.15746,139.140588
 234434397,Sedum_sarmentosum,35.499089,139.34056
 234434393,Sedum_sarmentosum,35.257444,139.053092
@@ -246,10 +239,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261008068,Sedum_sarmentosum,36.59111,-93.84083
 1030854360,Sedum_sarmentosum,27.897245,102.265266
 1055071492,Sedum_sarmentosum,38.4039,-96.18166
-1899381531,Sedum_sarmentosum,44.833333,-79.4
 1829421166,Sedum_sarmentosum,44.336667,142.484722
 1261008075,Sedum_sarmentosum,37.54,-90.851944
-1899382334,Sedum_sarmentosum,44.8,-79.383333
 1899381512,Sedum_sarmentosum,45.016667,-79.616667
 1261008053,Sedum_sarmentosum,37.08722,-93.32555
 381842587,Sedum_sarmentosum,36.1961,140.28654
