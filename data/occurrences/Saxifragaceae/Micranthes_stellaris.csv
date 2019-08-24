@@ -11,7 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1977818990,Micranthes_stellaris,62.7288,11.3184
 1842900096,Micranthes_stellaris,42.7857,-0.219
 1977818946,Micranthes_stellaris,62.5776,11.2287
-1451067910,Micranthes_stellaris,46.7,12.49
 1977820002,Micranthes_stellaris,62.5772,11.7544
 1995317549,Micranthes_stellaris,60.7839,8.6647
 1837904113,Micranthes_stellaris,47.42778,11.295
@@ -35,7 +34,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701283578,Micranthes_stellaris,63.486,11.7119
 1702026349,Micranthes_stellaris,60.868,8.8394
 1702380524,Micranthes_stellaris,62.7497,11.4365
-1050654177,Micranthes_stellaris,40.3,-5.75
 1831000601,Micranthes_stellaris,45.60278,24.62111
 1702027874,Micranthes_stellaris,60.8644,8.635
 1702377801,Micranthes_stellaris,70.4306,27.6263
@@ -49,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900316105,Micranthes_stellaris,58.8919,6.6599
 1702219018,Micranthes_stellaris,60.8701,5.5836
 1701282899,Micranthes_stellaris,63.3612,8.8796
-2308927637,Micranthes_stellaris,56.97,-3.5
 2325161486,Micranthes_stellaris,63.361156,8.879622
 1135462456,Micranthes_stellaris,46.94639,12.99417
 1702247413,Micranthes_stellaris,62.3144,9.8498
@@ -59,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702246776,Micranthes_stellaris,62.4652,10.7277
 1095899334,Micranthes_stellaris,63.32,13.03
 2334041974,Micranthes_stellaris,68.086607,16.289726
-1095899231,Micranthes_stellaris,63.3,13.03
 1323857878,Micranthes_stellaris,69.6056,19.1247
 900314763,Micranthes_stellaris,60.2942,8.3461
 1701909793,Micranthes_stellaris,62.4063,10.0256
@@ -84,7 +80,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701306963,Micranthes_stellaris,63.3149,10.9411
 1323864901,Micranthes_stellaris,67.3614,15.3874
 1701327127,Micranthes_stellaris,63.6518,12.2015
-1701247592,Micranthes_stellaris,61.9,9.1399
 1701849171,Micranthes_stellaris,61.4512,6.1362
 1701329672,Micranthes_stellaris,65.6893,14.3219
 1702033606,Micranthes_stellaris,62.5055,8.9709
@@ -128,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701260130,Micranthes_stellaris,62.0747,8.933
 1323821464,Micranthes_stellaris,67.167,15.0306
 1702187630,Micranthes_stellaris,62.4306,9.75
-1701837302,Micranthes_stellaris,67,15.0834
 1702215733,Micranthes_stellaris,61.7938,11.9943
 1702215543,Micranthes_stellaris,61.622,11.7946
 1323821443,Micranthes_stellaris,67.0165,15.0894
@@ -288,7 +282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701852229,Micranthes_stellaris,61.9172,8.0385
 1702226863,Micranthes_stellaris,61.9298,7.86
 1323718648,Micranthes_stellaris,66.0106,14.2175
-1144782320,Micranthes_stellaris,42.4,8.91667
 1323727023,Micranthes_stellaris,70.4686,28.9432
 186835044,Micranthes_stellaris,59.0276,7.0237
 1701983080,Micranthes_stellaris,60.0514,9.3582
@@ -310,13 +303,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600605726,Micranthes_stellaris,68.852289,21.639699
 1702430885,Micranthes_stellaris,61.7881,10.3747
 2291976594,Micranthes_stellaris,40.3425,-5.713333
-1144782336,Micranthes_stellaris,42.4,9
 1702364956,Micranthes_stellaris,62.4407,9.7459
 1702326484,Micranthes_stellaris,61.0603,8.9722
 1701898491,Micranthes_stellaris,61.0333,8.9167
 1705329042,Micranthes_stellaris,62.872404,12.691193
 1323799113,Micranthes_stellaris,61.1539,7.1513
-1842897824,Micranthes_stellaris,42.7,0.979
 1701972115,Micranthes_stellaris,59.064,7.3521
 1936449201,Micranthes_stellaris,42.6491,0.9982
 1705324070,Micranthes_stellaris,62.730517,12.453091
@@ -410,7 +401,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144077177,Micranthes_stellaris,60.894,6.1524
 1701223466,Micranthes_stellaris,62.019,9.2961
 1701318363,Micranthes_stellaris,62.23,7.0473
-1913345209,Micranthes_stellaris,70,29.416667
 1999556370,Micranthes_stellaris,69.949138,26.564447
 1144077249,Micranthes_stellaris,61.5485,6.0926
 1701988061,Micranthes_stellaris,60.2063,10.5064
@@ -608,15 +598,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291976614,Micranthes_stellaris,60.066667,-44.266667
 21433260,Micranthes_stellaris,60.61076,8.03354
 1701786980,Micranthes_stellaris,62.0665,5.756
-1988069326,Micranthes_stellaris,66.1,-37
 1144077181,Micranthes_stellaris,60.3941,7.2079
-211636838,Micranthes_stellaris,43.049999,-6
 39552551,Micranthes_stellaris,65.58,-22.284
-1988198388,Micranthes_stellaris,66,-37.4
 900313540,Micranthes_stellaris,61.2294,8.8976
 1323822228,Micranthes_stellaris,67.0799,14.7814
 1702345278,Micranthes_stellaris,61.1829,7.3077
-1988160014,Micranthes_stellaris,63.5,-41.9
 1323781746,Micranthes_stellaris,68.0858,17.7619
 1323781760,Micranthes_stellaris,68.084,17.7615
 1701321174,Micranthes_stellaris,62.5268,7.0862
@@ -636,7 +622,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186835067,Micranthes_stellaris,59.5847,7.3267
 1701330781,Micranthes_stellaris,63.1114,11.9834
 1701931199,Micranthes_stellaris,62.1889,7.3382
-768794629,Micranthes_stellaris,66.1,-37.21666
 1701909100,Micranthes_stellaris,60.5294,9.5648
 1702348588,Micranthes_stellaris,66.9394,16.0295
 1228031538,Micranthes_stellaris,57.856944,-4.861667
@@ -647,7 +632,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701790383,Micranthes_stellaris,62.6369,6.1621
 2289498232,Micranthes_stellaris,66.85,15.466667
 1702354268,Micranthes_stellaris,61.05606,8.90577
-2290194815,Micranthes_stellaris,62.633333,9.3
 1702369829,Micranthes_stellaris,60.01399,9.99
 1600605702,Micranthes_stellaris,68.317242,23.721891
 1702345266,Micranthes_stellaris,62.0711,9.509
@@ -687,10 +671,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323781702,Micranthes_stellaris,69.2397,20.2037
 186835047,Micranthes_stellaris,59.8192,8.5988
 1701972124,Micranthes_stellaris,58.453,6.2838
-1144782316,Micranthes_stellaris,42.13333,9.1
 1701972048,Micranthes_stellaris,58.471,6.2824
 1323781029,Micranthes_stellaris,70.5903,29.0629
-1804375472,Micranthes_stellaris,65.916667,-37.2
 39753813,Micranthes_stellaris,65.881,-18.357
 1705329273,Micranthes_stellaris,62.800778,13.056523
 1701321796,Micranthes_stellaris,62.56504,11.68681
@@ -698,7 +680,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701270355,Micranthes_stellaris,62.3815,8.1106
 1702164828,Micranthes_stellaris,60.8851,8.8434
 1702263114,Micranthes_stellaris,68.7459,18.5523
-1988121507,Micranthes_stellaris,60.1,-44.3
 1702164677,Micranthes_stellaris,60.8518,8.6227
 39753801,Micranthes_stellaris,65.279,-21.781
 1701271188,Micranthes_stellaris,62.6535,9.1951
@@ -732,17 +713,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702332371,Micranthes_stellaris,62.3938,6.8915
 1701313698,Micranthes_stellaris,62.5879,11.4145
 1701769921,Micranthes_stellaris,64.4348,10.6512
-1988185903,Micranthes_stellaris,62.1,-49.3
 465896527,Micranthes_stellaris,60.216667,44.316667
 1323781046,Micranthes_stellaris,70.2155,22.3898
 1702332237,Micranthes_stellaris,62.8075,7.2642
 1323781750,Micranthes_stellaris,67.3892,14.6504
 39753815,Micranthes_stellaris,65.93,-19.436
 186835922,Micranthes_stellaris,58.2739,6.6241
-2310585921,Micranthes_stellaris,60.1,-43.78
 1701912794,Micranthes_stellaris,60.28641,10.38658
-1144782339,Micranthes_stellaris,42.15,9.1
-1988152194,Micranthes_stellaris,60.1,-43.8
 1702382235,Micranthes_stellaris,62.18618,8.65543
 1144077301,Micranthes_stellaris,62.94634,6.98913
 1563903501,Micranthes_stellaris,58.3129,6.6274
@@ -864,7 +841,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705426136,Micranthes_stellaris,65.818123,15.087581
 1701273936,Micranthes_stellaris,59.8267,7.1896
 1323781026,Micranthes_stellaris,69.7151,22.1243
-1988075170,Micranthes_stellaris,61.1,-46.2
 1323781635,Micranthes_stellaris,69.9115,20.9348
 1702031343,Micranthes_stellaris,66.89207,14.66663
 1144985119,Micranthes_stellaris,56.544167,-4.222222
@@ -990,10 +966,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228033634,Micranthes_stellaris,53.0825,-4.090556
 1701315368,Micranthes_stellaris,62.8333,11.5034
 1701765006,Micranthes_stellaris,62.7773,11.3712
-1323781717,Micranthes_stellaris,67.4,15.2915
 39552631,Micranthes_stellaris,65.026,-21.088
 1702332320,Micranthes_stellaris,60.6162,7.5238
-1702337129,Micranthes_stellaris,60.6,7.477
 1702337187,Micranthes_stellaris,60.6063,7.4758
 1144985111,Micranthes_stellaris,56.535,-4.237222
 39552408,Micranthes_stellaris,65.153,-13.673
@@ -1219,7 +1193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323781776,Micranthes_stellaris,65.881,14.0131
 1323781762,Micranthes_stellaris,65.8991,14.0343
 1702345341,Micranthes_stellaris,62.2687,6.9292
-1804498533,Micranthes_stellaris,64.016667,-51.2
 1323781761,Micranthes_stellaris,65.8679,14.0684
 1701988725,Micranthes_stellaris,59.489,8.9647
 1702345292,Micranthes_stellaris,62.2244,6.9707
@@ -1244,7 +1217,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323781757,Micranthes_stellaris,65.9682,14.3838
 1701890670,Micranthes_stellaris,61.6369,8.0519
 1702348552,Micranthes_stellaris,65.999,14.2509
-1804489407,Micranthes_stellaris,61.2,-48.233333
 1804476060,Micranthes_stellaris,61.216667,-48.25
 1701688172,Micranthes_stellaris,61.5033,9.7881
 1701698914,Micranthes_stellaris,59.8345,9.223
@@ -1325,7 +1297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702369938,Micranthes_stellaris,60.6966,7.8919
 1702332369,Micranthes_stellaris,60.6071,6.259
 39552256,Micranthes_stellaris,64.341,-15.231
-786270305,Micranthes_stellaris,47.9,8
 1144077192,Micranthes_stellaris,59.8527,5.4688
 1701912812,Micranthes_stellaris,61.0517,6.9164
 1701912758,Micranthes_stellaris,61.0472,6.9167
@@ -1575,7 +1546,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913345272,Micranthes_stellaris,64.50198,14.15054
 1701912789,Micranthes_stellaris,61.4037,6.7432
 1701906913,Micranthes_stellaris,63.45631,11.2006
-1842866067,Micranthes_stellaris,42.4,2.21
 1702348633,Micranthes_stellaris,67.2871,15.5802
 1913343882,Micranthes_stellaris,61.55704,12.73736
 1065677499,Micranthes_stellaris,65.902732,16.058485
@@ -1668,7 +1638,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702425519,Micranthes_stellaris,69.9593,29.6285
 1702425545,Micranthes_stellaris,69.668,23.6053
 1702332296,Micranthes_stellaris,60.7662,6.6209
-1913343138,Micranthes_stellaris,65.8,-18.233333
 1701680175,Micranthes_stellaris,69.3719,20.2878
 1701890682,Micranthes_stellaris,69.3625,20.1864
 1228034044,Micranthes_stellaris,56.258056,-4.3225
