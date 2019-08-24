@@ -16,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927900651,Scrophularia_desertorum,38.7405,-116.525861
 1928836409,Scrophularia_desertorum,37.88606,-118.76172
 1928620311,Scrophularia_desertorum,41.8214,-119.9558
-1988076449,Scrophularia_desertorum,38.3,-119.7
 1929464675,Scrophularia_desertorum,41.16,-119.29
 1986942883,Scrophularia_desertorum,41.116564,-119.329077
 1930833549,Scrophularia_desertorum,37.412778,-118.001944
@@ -58,11 +57,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986936552,Scrophularia_desertorum,40.827778,-119.419722
 1931328588,Scrophularia_desertorum,40.8178,-119.4169
 1928722571,Scrophularia_desertorum,39.3089,-119.6661
-1986928201,Scrophularia_desertorum,39.3,-119.656
 1986928052,Scrophularia_desertorum,39.115,-117.205278
 1929081080,Scrophularia_desertorum,39.4972,-119.6475
 1846524534,Scrophularia_desertorum,38.61,-116.84389
-1928992253,Scrophularia_desertorum,40.57,-118.2
 1928060278,Scrophularia_desertorum,40.7797,-120.1011
 1986925263,Scrophularia_desertorum,40.572778,-118.226667
 1929853196,Scrophularia_desertorum,38.61,-116.8439
@@ -75,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270250250,Scrophularia_desertorum,36.283333,-118.116667
 1931137583,Scrophularia_desertorum,38.4942,-118.8956
 1986912807,Scrophularia_desertorum,37.445833,-116.074167
-1931051861,Scrophularia_desertorum,37.5,-118.25
 1930168405,Scrophularia_desertorum,42.0422,-118.6119
 1929608202,Scrophularia_desertorum,38.349917,-119.149872
 1986866983,Scrophularia_desertorum,38.159819,-115.637636
