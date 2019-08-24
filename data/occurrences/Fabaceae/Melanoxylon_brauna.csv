@@ -78,10 +78,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324952247,Melanoxylon_brauna,-15.283333,-39.066667
 1424411504,Melanoxylon_brauna,-22.55,-43.266667
 1077203031,Melanoxylon_brauna,-14.683333,-39.116667
-1424176489,Melanoxylon_brauna,-22.5,-42.25
 1927902601,Melanoxylon_brauna,-14.2814954259902,-38.9965836192823
 1077564847,Melanoxylon_brauna,-12.0475,-37.723333
-1094173288,Melanoxylon_brauna,-12.0475,-43.4
 1042542307,Melanoxylon_brauna,-12.046944,-37.72
 1077564487,Melanoxylon_brauna,-12.046944,-37.715556
 1930897368,Melanoxylon_brauna,-21.98494543573,-42.3682098423877
@@ -98,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424279509,Melanoxylon_brauna,-22.433333,-42.833333
 1423967595,Melanoxylon_brauna,-12.05,-41.416667
 1929811655,Melanoxylon_brauna,-14.7929067831182,-39.0490868076529
-912112989,Melanoxylon_brauna,-14.3,-39
 1090439910,Melanoxylon_brauna,-12.766667,-44.283333
 1077587097,Melanoxylon_brauna,-12.780556,-44.283333
 1270110420,Melanoxylon_brauna,-13.466667,-40.316667
@@ -113,9 +110,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1927903372,Melanoxylon_brauna,-12.4222527228342,-41.7703653572513
 912114100,Melanoxylon_brauna,-12.17,-41.77
 1928666095,Melanoxylon_brauna,-15.5354233099852,-40.9092093308886
-912112981,Melanoxylon_brauna,-15.52,-40.9
 1929802391,Melanoxylon_brauna,-18.098499,-39.89346
-1228209697,Melanoxylon_brauna,-11,-42
 1930149596,Melanoxylon_brauna,-16.298624,-39.044099
 1929116912,Melanoxylon_brauna,-16.4534421797808,-39.0642869012885
 1303200332,Melanoxylon_brauna,-22.98822,-43.27887
