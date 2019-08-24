@@ -1,7 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258134302,Microberlinia_brazzavillensis,-2.570222,9.8125
-2013871284,Microberlinia_brazzavillensis,-2,9.383333
-1261060257,Microberlinia_brazzavillensis,-2,9.383056
 2291880487,Microberlinia_brazzavillensis,-2.237222,13.848056
 1257523131,Microberlinia_brazzavillensis,-2.23715,13.847967
 1259230220,Microberlinia_brazzavillensis,-2.07805,14.06472
@@ -17,15 +15,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291920359,Microberlinia_brazzavillensis,-1.958333,14.006667
 2289549112,Microberlinia_brazzavillensis,-2.85,10.116667
 2269001506,Microberlinia_brazzavillensis,-2.85,10.1167
-2013849510,Microberlinia_brazzavillensis,-2.7,9.933333
-2269000675,Microberlinia_brazzavillensis,-2.7,9.93333
-1095914440,Microberlinia_brazzavillensis,-2.7,9.93
-2290547581,Microberlinia_brazzavillensis,-2.5,9.733333
-1258393459,Microberlinia_brazzavillensis,-2.5,9.73333
 2288796406,Microberlinia_brazzavillensis,-2.74,10.003333
 2269012827,Microberlinia_brazzavillensis,-2.74,10.0033
-2290012729,Microberlinia_brazzavillensis,-2.733333,10
-2269012425,Microberlinia_brazzavillensis,-2.73333,10
 2269012439,Microberlinia_brazzavillensis,-4.293931,14.56683
 437123188,Microberlinia_brazzavillensis,-2.53139,15.42278
 2269001116,Microberlinia_brazzavillensis,-4.56667,14.9167
@@ -35,10 +26,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2269010121,Microberlinia_brazzavillensis,-1.56667,9.25
 2013871754,Microberlinia_brazzavillensis,-0.583333,9.416667
 2269006431,Microberlinia_brazzavillensis,-4.019593,15.441519
-2013871784,Microberlinia_brazzavillensis,-1.583333,9.3
 2269006299,Microberlinia_brazzavillensis,-4.254498,15.281737
 2013871776,Microberlinia_brazzavillensis,-3.933333,14.133333
 2269006283,Microberlinia_brazzavillensis,-1.377511,9.387658
 2269006570,Microberlinia_brazzavillensis,-1.619936,9.661427
 2269003958,Microberlinia_brazzavillensis,0.416667,9.45
-2269002797,Microberlinia_brazzavillensis,-4.15,14.9
