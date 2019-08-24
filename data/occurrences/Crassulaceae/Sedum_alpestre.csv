@@ -28,11 +28,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936424113,Sedum_alpestre,42.3933,2.1483
 1848997440,Sedum_alpestre,49.20194,19.75222
 1144771982,Sedum_alpestre,42.33333,9.35
-1144771976,Sedum_alpestre,42.13333,9.1
 1050613494,Sedum_alpestre,42.48,0.99
 1936548022,Sedum_alpestre,42.9694,-4.6813
 1144771996,Sedum_alpestre,41.83333,9.21667
-1144772006,Sedum_alpestre,42,9.11667
 1936145876,Sedum_alpestre,42.602,0.439
 1936092717,Sedum_alpestre,42.6779,0.6189
 2312939987,Sedum_alpestre,47.32,10.21
@@ -48,12 +46,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893207900,Sedum_alpestre,46.23,2.39
 2312938605,Sedum_alpestre,47.37,10.37
 1705482439,Sedum_alpestre,50.0821,17.2326
-1705470443,Sedum_alpestre,43,0.1667
 2312939556,Sedum_alpestre,47.37,10.12
 1144567931,Sedum_alpestre,41.85,9.23333
-1144567949,Sedum_alpestre,42.05,9.1
-1144567957,Sedum_alpestre,42.1,9.13333
-1990690576,Sedum_alpestre,46,2
 1144567920,Sedum_alpestre,42.01667,9.13333
 2312938894,Sedum_alpestre,47.57,10.29
 2312941226,Sedum_alpestre,47.42,10.37
