@@ -38,12 +38,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936659923,Cynanchum_acutum,39.205,46.461389
 1697623433,Cynanchum_acutum,49.133333,44.066667
 1936660054,Cynanchum_acutum,40.0683,44.2431
-318108959,Cynanchum_acutum,36.83,-2.4
 1936667577,Cynanchum_acutum,36.8266,-2.4069
 211624175,Cynanchum_acutum,36.830002,-2.41
 30663878,Cynanchum_acutum,41.427,-0.373
-198469197,Cynanchum_acutum,36.830002,-2.4
-204401954,Cynanchum_acutum,36.833,-2.4
 895192355,Cynanchum_acutum,40.475,0.481
 1230529338,Cynanchum_acutum,40.13306,44.7875
 1212063666,Cynanchum_acutum,38.200833,22.196667
@@ -82,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230526369,Cynanchum_acutum,40.31667,44.28333
 893466144,Cynanchum_acutum,40.316669,44.283329
 893466156,Cynanchum_acutum,39.933331,44.700001
-1230526337,Cynanchum_acutum,39.93333,44.7
 788741577,Cynanchum_acutum,40.833333,26.016667
 895219569,Cynanchum_acutum,39.539,-0.527
 1697623465,Cynanchum_acutum,46.27444,47.676896
@@ -93,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895165988,Cynanchum_acutum,41.314,-1.644
 1697741712,Cynanchum_acutum,45.38309,33.122052
 1936568411,Cynanchum_acutum,37.6386,-2.5819
-318108904,Cynanchum_acutum,38.1,-0.64
 318108899,Cynanchum_acutum,38.12,-0.64
 1697623458,Cynanchum_acutum,51.892102,44.953209
 1851582325,Cynanchum_acutum,38.85,-0.03
@@ -118,7 +113,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501055315,Cynanchum_acutum,38.36,-0.57
 318108615,Cynanchum_acutum,38.36,-0.44
 1501064745,Cynanchum_acutum,37.85,-0.76
-1501065450,Cynanchum_acutum,38.2,-0.77
 1697623452,Cynanchum_acutum,45.557424,46.449536
 30858886,Cynanchum_acutum,40.02,-3.82
 1050598873,Cynanchum_acutum,42.51,-2.67
@@ -133,9 +127,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30859553,Cynanchum_acutum,36.68,-2.22
 895167203,Cynanchum_acutum,42.178,-1.541
 615306119,Cynanchum_acutum,36.22,73.67
-895246009,Cynanchum_acutum,40.4,0.35
 895246035,Cynanchum_acutum,40.49,0.46
-615306130,Cynanchum_acutum,36.4,73.33
 667328871,Cynanchum_acutum,42.176,-1.597
 1050618575,Cynanchum_acutum,42.17,-1.54
 1936514847,Cynanchum_acutum,42.1711,-1.5485
@@ -149,11 +141,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30858884,Cynanchum_acutum,36.68,-3.78
 1697623514,Cynanchum_acutum,46.683584,41.73013
 318108725,Cynanchum_acutum,38.61,-0.08
-615305896,Cynanchum_acutum,35.9,74.3
 615305864,Cynanchum_acutum,36.48,74.98
 30858883,Cynanchum_acutum,36.68,-3.67
 729230,Cynanchum_acutum,38.066667,22.633333
-895211868,Cynanchum_acutum,37,-1.93
 615305893,Cynanchum_acutum,36.25,74.33
 1936386297,Cynanchum_acutum,42.3287,-1.9696
 1050577049,Cynanchum_acutum,42.33,-1.96
@@ -162,7 +152,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30858752,Cynanchum_acutum,41.43,0.49
 895211801,Cynanchum_acutum,38.53,-1.68
 30858881,Cynanchum_acutum,37.400002,-4.47
-1050577031,Cynanchum_acutum,42.29,-1.9
 1050577033,Cynanchum_acutum,42.22,-1.75
 241458502,Cynanchum_acutum,37.44,-4.87
 1936385939,Cynanchum_acutum,38.2655,-0.6923
@@ -170,18 +159,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697741655,Cynanchum_acutum,44.397425,33.926039
 1936361881,Cynanchum_acutum,41.6549,0.8011
 1050577047,Cynanchum_acutum,42.48,-2.22
-1050577029,Cynanchum_acutum,42.3,-1.91
 1697741781,Cynanchum_acutum,44.832317,34.839363
-615305894,Cynanchum_acutum,39.5,76
 1851357637,Cynanchum_acutum,41.368,-1.643
 1050577014,Cynanchum_acutum,42.22,-1.36
 1053981967,Cynanchum_acutum,42.05,-1.69
 1936088416,Cynanchum_acutum,42.0092,0.1248
 1936164741,Cynanchum_acutum,41.8308,0.5904
-1265823337,Cynanchum_acutum,37.9,22.983333
 30858753,Cynanchum_acutum,37.939999,-4.59
 1697623537,Cynanchum_acutum,46.594378,41.750279
-895269481,Cynanchum_acutum,39.95,-0.6
 1936164714,Cynanchum_acutum,41.8472,0.9752
 30860262,Cynanchum_acutum,37.669998,-4.59
 895269663,Cynanchum_acutum,39.32,-0.39
@@ -211,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978570240,Cynanchum_acutum,35.846227,71.785801
 1978570303,Cynanchum_acutum,36.270025,72.254027
 1978569604,Cynanchum_acutum,36.044634,71.559663
-788695163,Cynanchum_acutum,38.5,22.633333
 1697623525,Cynanchum_acutum,46.614486,41.755128
 1697623494,Cynanchum_acutum,46.61935,41.682386
 1697741683,Cynanchum_acutum,44.835026,34.930558
@@ -219,14 +203,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697741684,Cynanchum_acutum,44.848248,34.951007
 1936048173,Cynanchum_acutum,37.7348,-0.7429
 615306033,Cynanchum_acutum,35.03,69.44
-615306026,Cynanchum_acutum,35.42,69.9
 1697822801,Cynanchum_acutum,45.414849,40.579297
 667640879,Cynanchum_acutum,43.18306,76.89889
 615306068,Cynanchum_acutum,35.22,67.97
-615306052,Cynanchum_acutum,31,64
-615306083,Cynanchum_acutum,34.28,70.7
 615306048,Cynanchum_acutum,36.68,69.57
-615306045,Cynanchum_acutum,35.48,71.3
 860319428,Cynanchum_acutum,41.85,0.77
 615306046,Cynanchum_acutum,36.12,69.53
 1697623436,Cynanchum_acutum,49.32915,43.078423
@@ -238,7 +218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697623487,Cynanchum_acutum,50.07791,45.362907
 1697741730,Cynanchum_acutum,45.099094,34.632168
 1697822850,Cynanchum_acutum,44.971113,37.339096
-615305957,Cynanchum_acutum,35.55,71.8
 667328876,Cynanchum_acutum,43.52591,3.90272
 1697623453,Cynanchum_acutum,49.149838,43.950743
 1697623539,Cynanchum_acutum,49.097592,43.923464
@@ -246,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697623450,Cynanchum_acutum,50.100788,44.409223
 667328892,Cynanchum_acutum,33.83278,2.76361
 667328845,Cynanchum_acutum,43.05437,3.04004
-788687911,Cynanchum_acutum,35.05,24.8
 474622531,Cynanchum_acutum,33.8799,10.0779
 1697623497,Cynanchum_acutum,49.061788,43.50903
 474880542,Cynanchum_acutum,32.6708,51.665
@@ -272,14 +250,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697741673,Cynanchum_acutum,44.55015,34.296516
 1936361328,Cynanchum_acutum,40.0145,-3.9387
 1935952017,Cynanchum_acutum,41.2756,2.0436
-1842908391,Cynanchum_acutum,41.67,0.9
 474752813,Cynanchum_acutum,44.00002,28.5472
 667328888,Cynanchum_acutum,41.06668,1.06036
 876156378,Cynanchum_acutum,41.2577,-0.122
 474880849,Cynanchum_acutum,40.51972,22.97083
 1638387865,Cynanchum_acutum,44.81833,13.94056
 1455446386,Cynanchum_acutum,39.422944,17.075139
-474839810,Cynanchum_acutum,34.223,-4.9
 667328849,Cynanchum_acutum,33.889,10.084
 1935952343,Cynanchum_acutum,40.1063,-3.7053
 474838175,Cynanchum_acutum,46.33447,-1.30766
@@ -288,7 +264,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 474839565,Cynanchum_acutum,33.5217,5.9456
 474880368,Cynanchum_acutum,36.59122,4.60456
 474934637,Cynanchum_acutum,43.514,3.883
-1935952357,Cynanchum_acutum,37.6,-0.9833
 474934636,Cynanchum_acutum,43.07082,2.9841
 667328859,Cynanchum_acutum,43.02891,2.97926
 474665711,Cynanchum_acutum,38.0553,57.4122
