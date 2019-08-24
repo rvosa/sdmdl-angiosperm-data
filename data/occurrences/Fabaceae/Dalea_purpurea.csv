@@ -30,7 +30,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242364382,Dalea_purpurea,39.62972,-105.41861
 1258050624,Dalea_purpurea,39.0117,-90.9444
 1257910445,Dalea_purpurea,38.4667,-90.8208
-1257910988,Dalea_purpurea,43.966667,-99.2
 1257999469,Dalea_purpurea,38.47,-90.8239
 1675986873,Dalea_purpurea,42.9355,-88.4743
 1930932775,Dalea_purpurea,42.858964,-97.393686
@@ -69,7 +68,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176926612,Dalea_purpurea,42.29792,-91.92623
 1260858705,Dalea_purpurea,39.738333,-104.525
 217053291,Dalea_purpurea,32.67083,-88.15639
-2270500601,Dalea_purpurea,47.8,-107.7
 176926605,Dalea_purpurea,38.17973,-95.26117
 176926240,Dalea_purpurea,37.18401,-100.46485
 217053310,Dalea_purpurea,32.68639,-88.10389
@@ -89,7 +87,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2308402994,Dalea_purpurea,49.64,-94.95
 1658231988,Dalea_purpurea,49.637,-94.9472
 176926587,Dalea_purpurea,38.67,-97.849167
-1843894467,Dalea_purpurea,35.6,-105.457
 56557358,Dalea_purpurea,39.40861,-104.8953
 176926372,Dalea_purpurea,37.791667,-95.698333
 56557045,Dalea_purpurea,34.03333,-88.8075
@@ -168,14 +165,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930953017,Dalea_purpurea,48.257,-109.7034
 176925859,Dalea_purpurea,35.407475,-103.366335
 240490989,Dalea_purpurea,43.998208,-101.773464
-1261007210,Dalea_purpurea,37.5,-94.53333
 1228321091,Dalea_purpurea,41.236271,-88.242124
 1928369927,Dalea_purpurea,35.509719,-105.228875
 1928891893,Dalea_purpurea,35.626303,-105.203169
 1843809975,Dalea_purpurea,35.527973,-105.238456
 2265519194,Dalea_purpurea,44.348727,-95.947693
 1843810258,Dalea_purpurea,35.420963,-105.219449
-1261880442,Dalea_purpurea,37,-91.183333
 176926038,Dalea_purpurea,37.878968,-101.026133
 176926381,Dalea_purpurea,39.861038,-98.114664
 2265518877,Dalea_purpurea,47.315221,-96.032708
@@ -231,7 +226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930621468,Dalea_purpurea,38.8038,-95.1959
 176926589,Dalea_purpurea,38.807546,-95.191179
 1261001933,Dalea_purpurea,38.90111,-91.57305
-1261524559,Dalea_purpurea,38.16666,-90.7
 2265518817,Dalea_purpurea,46.172775,-94.381859
 1987011037,Dalea_purpurea,42.908056,-104.408056
 1275063402,Dalea_purpurea,50.016667,-96.883333
@@ -275,7 +269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261827010,Dalea_purpurea,39.1817,-91.0918
 2265518252,Dalea_purpurea,44.373717,-95.971453
 2265518127,Dalea_purpurea,43.922501,-95.351944
-1275063233,Dalea_purpurea,50.1,-98.066667
 2265518432,Dalea_purpurea,48.175556,-96.377777
 2265519140,Dalea_purpurea,44.691524,-93.654586
 2265518862,Dalea_purpurea,44.681835,-96.429592
@@ -301,7 +294,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260926172,Dalea_purpurea,40.30527,-93.20555
 240490991,Dalea_purpurea,44.59346,-96.2486
 2265517477,Dalea_purpurea,48.695736,-96.57277
-1261514331,Dalea_purpurea,46.43333,-97.4
 2265518632,Dalea_purpurea,44.261095,-95.704576
 2265517437,Dalea_purpurea,43.522292,-95.304643
 56555928,Dalea_purpurea,32.13611,-87.40195
@@ -327,7 +319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265519040,Dalea_purpurea,45.376922,-94.835116
 2265518876,Dalea_purpurea,44.812474,-94.447109
 2265519369,Dalea_purpurea,48.590637,-95.244556
-1804371324,Dalea_purpurea,51.933333,-98.8
 176926662,Dalea_purpurea,38.94015,-98.53646
 1929023089,Dalea_purpurea,38.940152,-98.536456
 1843825132,Dalea_purpurea,36.003272,-104.716325
@@ -880,7 +871,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176926101,Dalea_purpurea,40.110502,-101.782487
 240490974,Dalea_purpurea,38.83389,-104.82083
 176926532,Dalea_purpurea,38.97492,-95.331013
-56628034,Dalea_purpurea,34.3,-88.68
 176926560,Dalea_purpurea,37.489935,-95.209858
 1095183532,Dalea_purpurea,37.7712,-95.7155
 415990436,Dalea_purpurea,38.47138,-90.81555
@@ -1022,11 +1012,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265519382,Dalea_purpurea,44.724677,-94.445053
 2265517570,Dalea_purpurea,46.210507,-94.383351
 1930230221,Dalea_purpurea,37.8217,-96.5817
-1228210186,Dalea_purpurea,42.2,-88.2333
 2265519101,Dalea_purpurea,48.671321,-96.615813
 240490844,Dalea_purpurea,34.425898,-97.147719
 1931081826,Dalea_purpurea,43.7664,-103.5986
-1228545770,Dalea_purpurea,44,-85
 2265518628,Dalea_purpurea,46.144254,-95.573544
 2265519736,Dalea_purpurea,45.646721,-95.345661
 2265517632,Dalea_purpurea,45.465199,-93.574113
