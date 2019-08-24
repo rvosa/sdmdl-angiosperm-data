@@ -77,8 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090699224,Rhynchospora_cephalotes,-8.511917,-61.429028
 1087693484,Rhynchospora_cephalotes,-10.842778,-37.143
 2248071340,Rhynchospora_cephalotes,-7.469167,-39.663333
-1090937210,Rhynchospora_cephalotes,-7.469167,-30.663333
-2243329461,Rhynchospora_cephalotes,-8.125,-34.875
 1090155005,Rhynchospora_cephalotes,-1.254197,-48.452533
 1087686502,Rhynchospora_cephalotes,-10.738333,-37.811111
 1055064929,Rhynchospora_cephalotes,4.100861,-72.965968
@@ -130,7 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087685655,Rhynchospora_cephalotes,-10.964444,-37.084722
 1089185700,Rhynchospora_cephalotes,-9.254167,-36.430556
 1087681268,Rhynchospora_cephalotes,-11.184167,-37.998056
-1090585292,Rhynchospora_cephalotes,-0.739722,-48.506389
 1089179915,Rhynchospora_cephalotes,-6.696389,-35.124167
 1316168358,Rhynchospora_cephalotes,-9.255139,-36.460444
 1087681252,Rhynchospora_cephalotes,-10.291111,-36.607778
@@ -245,7 +242,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087075354,Rhynchospora_cephalotes,-10.75,-37.333333
 1090526188,Rhynchospora_cephalotes,-10.394167,-48.132222
 1456336306,Rhynchospora_cephalotes,5.17361,-59.4908
-1675969692,Rhynchospora_cephalotes,10.42,-59.4908
 1456000393,Rhynchospora_cephalotes,6.37219,-60.3765
 1456366144,Rhynchospora_cephalotes,5.25833,-59.4028
 1456077208,Rhynchospora_cephalotes,5.20444,-59.4531
@@ -293,7 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929505605,Rhynchospora_cephalotes,-13.3289,-39.0903
 1090492683,Rhynchospora_cephalotes,-13.328889,-39.090278
 1456415171,Rhynchospora_cephalotes,2.5,-53.82
-1253803906,Rhynchospora_cephalotes,9.772157,-84.899693
 1077608565,Rhynchospora_cephalotes,-7.407222,-35.216944
 1929185254,Rhynchospora_cephalotes,4.08,-52.68
 1077596638,Rhynchospora_cephalotes,-9.3333,-35.561108
@@ -343,12 +338,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456257769,Rhynchospora_cephalotes,3.3,-52.95
 1456256969,Rhynchospora_cephalotes,2.38,-53
 1259001660,Rhynchospora_cephalotes,-14.494444,-68.275
-1095232048,Rhynchospora_cephalotes,-4.72333,-35.18667
 1456433530,Rhynchospora_cephalotes,4.9,-54.3
 1424445505,Rhynchospora_cephalotes,-6.716667,-35.133333
 1095231972,Rhynchospora_cephalotes,-6.72222,-35.14778
-1424445468,Rhynchospora_cephalotes,-4.716667,-35.183333
-1260844088,Rhynchospora_cephalotes,15.96666,-86.46666
 1930511120,Rhynchospora_cephalotes,-9.271375,-35.904889
 1095226133,Rhynchospora_cephalotes,-16.19583,-48.19139
 1089170009,Rhynchospora_cephalotes,-10.060111,-36.286583
@@ -369,11 +361,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258170766,Rhynchospora_cephalotes,16.86,-88.973333
 1929338586,Rhynchospora_cephalotes,-9.2255,-35.8796
 1094778022,Rhynchospora_cephalotes,-14.024444,-39.151667
-1936623077,Rhynchospora_cephalotes,7.7333,-81.5833
 1258823830,Rhynchospora_cephalotes,3.86944,-56.19861
 1930382680,Rhynchospora_cephalotes,-14.0244,-39.1517
 1089165216,Rhynchospora_cephalotes,-6.838889,-35.125833
-45895764,Rhynchospora_cephalotes,9.37,-84.14
 45897594,Rhynchospora_cephalotes,11.04,-84.7
 1094808044,Rhynchospora_cephalotes,-9.916667,-36.041667
 1077569284,Rhynchospora_cephalotes,-9.749722,-36.145
@@ -424,7 +414,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585192603,Rhynchospora_cephalotes,-8.005278,-34.95
 1894547473,Rhynchospora_cephalotes,18.043056,-94.127778
 1094172433,Rhynchospora_cephalotes,-12.944444,-38.451944
-1585192555,Rhynchospora_cephalotes,-7.747778,-34.825556
 1094172193,Rhynchospora_cephalotes,-12.915278,-40.215556
 1894547466,Rhynchospora_cephalotes,17.633611,-91.823611
 1260669002,Rhynchospora_cephalotes,19.07305,-89.32166
@@ -438,11 +427,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421405448,Rhynchospora_cephalotes,19.016667,-88.580556
 1077321215,Rhynchospora_cephalotes,2,-51
 1077589882,Rhynchospora_cephalotes,-9.9425,-36.378889
-1253674760,Rhynchospora_cephalotes,9.219444,-83.833333
 1077589971,Rhynchospora_cephalotes,-10.166667,-36.460833
 1090468477,Rhynchospora_cephalotes,-13.35,-39.05
 1456117383,Rhynchospora_cephalotes,3.17778,-58.6736
-1270111251,Rhynchospora_cephalotes,-8.05,-34.866667
 1455970842,Rhynchospora_cephalotes,5.52,-67.56
 1258389976,Rhynchospora_cephalotes,16.38333,-89.08333
 1928419633,Rhynchospora_cephalotes,-11.84233,-50.81797
@@ -488,7 +475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077564328,Rhynchospora_cephalotes,-7.824167,-34.947778
 1253591177,Rhynchospora_cephalotes,9.666667,-85.063889
 1456477240,Rhynchospora_cephalotes,5.78333,-61.05
-1087063066,Rhynchospora_cephalotes,-12.369444,-37.749722
 1089159511,Rhynchospora_cephalotes,-6.75,-35.5
 1258289952,Rhynchospora_cephalotes,16.515833,-88.919444
 1094173381,Rhynchospora_cephalotes,-12.04,-37.710556
@@ -549,11 +535,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456208233,Rhynchospora_cephalotes,4.67528,-58.6825
 1261829293,Rhynchospora_cephalotes,10.91,-84.76
 1253644652,Rhynchospora_cephalotes,10.913889,-84.768056
-45896978,Rhynchospora_cephalotes,10.91,-91.43
 1931256694,Rhynchospora_cephalotes,16.17,-88.93
 1260258568,Rhynchospora_cephalotes,16.16666,-88.93333
-1273759572,Rhynchospora_cephalotes,12.536147,-81.718126
-1258308130,Rhynchospora_cephalotes,13.333333,-81.366667
 1260497919,Rhynchospora_cephalotes,5.2,-59.46666
 1317947011,Rhynchospora_cephalotes,22.83,-83.05
 1456103004,Rhynchospora_cephalotes,5.2,-59.4667
@@ -576,7 +559,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258299717,Rhynchospora_cephalotes,4.15,-59.63333
 1936423098,Rhynchospora_cephalotes,4.15,-59.6333
 1419063027,Rhynchospora_cephalotes,20.208333,-90.175
-1099626438,Rhynchospora_cephalotes,1.80486,-78.76754
 1893318215,Rhynchospora_cephalotes,16.9,-92.098611
 45896724,Rhynchospora_cephalotes,9.69,-84.38
 1936423698,Rhynchospora_cephalotes,5.65,-60.2833
@@ -644,7 +626,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089155350,Rhynchospora_cephalotes,-6.803333,-35.080278
 1258299692,Rhynchospora_cephalotes,5.68333,-60.23333
 1456332382,Rhynchospora_cephalotes,5.68333,-60.2333
-45896287,Rhynchospora_cephalotes,8.68,-83.7
 1260021274,Rhynchospora_cephalotes,5.31666,-61.05
 1456400393,Rhynchospora_cephalotes,5.16667,-59.4833
 1077310047,Rhynchospora_cephalotes,0.366667,-51.066667
@@ -706,7 +687,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894547469,Rhynchospora_cephalotes,17.426389,-91.470833
 1421387341,Rhynchospora_cephalotes,18.016389,-91.803611
 1042664785,Rhynchospora_cephalotes,-3.183333,-60.12
-1094281208,Rhynchospora_cephalotes,-3.183333,-6.116667
 1260482415,Rhynchospora_cephalotes,6.41666,-67.41666
 1089288816,Rhynchospora_cephalotes,-1.666667,-48.416667
 1259972764,Rhynchospora_cephalotes,-1.66666,-48.41666
@@ -734,8 +714,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894685711,Rhynchospora_cephalotes,18.591667,-90.258333
 1042538506,Rhynchospora_cephalotes,0.816667,-63.33
 1259950682,Rhynchospora_cephalotes,6.05,-65.06666
-1260061201,Rhynchospora_cephalotes,9.37,-84.15
-45896337,Rhynchospora_cephalotes,9.36,-84.15
 1259951675,Rhynchospora_cephalotes,6.066667,-65.033333
 1419189540,Rhynchospora_cephalotes,18.628889,-90.3
 1890995281,Rhynchospora_cephalotes,7.481438,-73.696084
@@ -750,7 +728,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259993826,Rhynchospora_cephalotes,8.8,-81.75
 1259326745,Rhynchospora_cephalotes,16.65,-90.8
 1894685745,Rhynchospora_cephalotes,16.6625150320397,-90.8171481242318
-1259329537,Rhynchospora_cephalotes,16.5,-85.91666
 1260080988,Rhynchospora_cephalotes,9.05,-83.11666
 45895924,Rhynchospora_cephalotes,9.05,-83.11
 1456034127,Rhynchospora_cephalotes,0.83,-66.16
@@ -775,7 +752,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896142233,Rhynchospora_cephalotes,17.883333,-90.75
 1424211181,Rhynchospora_cephalotes,-4.383333,-59.583333
 1928930462,Rhynchospora_cephalotes,-4.383333,-59.58
-1259328067,Rhynchospora_cephalotes,9.39,-84.15
 1260497705,Rhynchospora_cephalotes,-4.38333,-59.58333
 1042536091,Rhynchospora_cephalotes,-4.166667,-58.68
 1929908866,Rhynchospora_cephalotes,-4.166667,-58.683333
@@ -786,7 +762,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1270109671,Rhynchospora_cephalotes,-13.583333,-39.1
 1259329189,Rhynchospora_cephalotes,9.17,-83.33
 1896142220,Rhynchospora_cephalotes,17.606667,-95.081667
-1259088429,Rhynchospora_cephalotes,8.6,-79.066667
 1260070190,Rhynchospora_cephalotes,12,-83.766667
 1260087513,Rhynchospora_cephalotes,12.16388,-83.69722
 1259954294,Rhynchospora_cephalotes,5.53333,-67.41666
@@ -801,8 +776,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1675814722,Rhynchospora_cephalotes,-38.13,-63
 1259326590,Rhynchospora_cephalotes,17.95,-88.88
 1930614442,Rhynchospora_cephalotes,-7.4917,-63.5633
-371297473,Rhynchospora_cephalotes,21.241667,-86.775
-1896142224,Rhynchospora_cephalotes,21.216944,-86.722222
 1896142219,Rhynchospora_cephalotes,17.999651,-94.064891
 1930292275,Rhynchospora_cephalotes,-3.449167,-64.879289
 1260069954,Rhynchospora_cephalotes,13.50833,-84.25972
@@ -831,7 +804,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930039866,Rhynchospora_cephalotes,-0.220997,-55.16572
 1576181744,Rhynchospora_cephalotes,5.046643,-75.502689
 1260067415,Rhynchospora_cephalotes,11.61111,-83.66944
-1260050109,Rhynchospora_cephalotes,11.59583,-83.65972
 1260204988,Rhynchospora_cephalotes,16.85916,-89.03805
 1259332734,Rhynchospora_cephalotes,9.16055,-79.81944
 1260497668,Rhynchospora_cephalotes,9.73333,-67
@@ -876,7 +848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260175699,Rhynchospora_cephalotes,16.63333,-89.01666
 1928998326,Rhynchospora_cephalotes,-14.558439,-56.221805
 1929344405,Rhynchospora_cephalotes,-7.477113,-63.920817
-1259206329,Rhynchospora_cephalotes,7.505556,-81.725278
 1260175631,Rhynchospora_cephalotes,17.76,-93.65
 1896142194,Rhynchospora_cephalotes,17.608333,-91.025
 1419233110,Rhynchospora_cephalotes,17.68,-91.475278
@@ -942,7 +913,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259329210,Rhynchospora_cephalotes,17.76666,-88.65
 1259327885,Rhynchospora_cephalotes,8.333056,-81.211944
 1259333235,Rhynchospora_cephalotes,9.16666,-79.41638
-1259335463,Rhynchospora_cephalotes,8.93055,-79.57194
 1456277952,Rhynchospora_cephalotes,4.3,-54.7
 1259019119,Rhynchospora_cephalotes,17.626111,-91.626667
 1090484138,Rhynchospora_cephalotes,-14.333333,-39.083333
@@ -989,7 +959,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259329097,Rhynchospora_cephalotes,9.041667,-79.444444
 1259030310,Rhynchospora_cephalotes,13.48333,-84.08333
 1844921231,Rhynchospora_cephalotes,4.309613,-72.034937
-1213621186,Rhynchospora_cephalotes,-8.05,-34.88
 1259329118,Rhynchospora_cephalotes,9.05638,-79.63861
 1928736764,Rhynchospora_cephalotes,-7.2808,-64.7678
 1893428264,Rhynchospora_cephalotes,17.808333,-95.791667
@@ -1015,13 +984,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890917955,Rhynchospora_cephalotes,4.10743,-72.86828
 1259327864,Rhynchospora_cephalotes,17.05,-88.966667
 1259961293,Rhynchospora_cephalotes,10.63333,-61.18333
-1259330454,Rhynchospora_cephalotes,16.32222,-86.55166
 1930248843,Rhynchospora_cephalotes,-13.5744,-47.5167
 1259333568,Rhynchospora_cephalotes,9.170278,-79.420278
 1259334193,Rhynchospora_cephalotes,9.17805,-79.84361
 1259326538,Rhynchospora_cephalotes,8.57777,-79.86333
 1259327902,Rhynchospora_cephalotes,8.974167,-79.659444
-1259145833,Rhynchospora_cephalotes,8.43111,-78.85333
 1928296826,Rhynchospora_cephalotes,-12.82,-51.77
 1928304841,Rhynchospora_cephalotes,-12.9,-51.87
 2290384265,Rhynchospora_cephalotes,-12.9,-51.866667
@@ -1037,13 +1004,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258992398,Rhynchospora_cephalotes,9.18944,-83.43388
 1259015702,Rhynchospora_cephalotes,11.98333,-83.76666
 1270108965,Rhynchospora_cephalotes,-11.65,-39
-1259139031,Rhynchospora_cephalotes,8.249444,-79.104722
 1259014953,Rhynchospora_cephalotes,12.033333,-83.766667
 45894576,Rhynchospora_cephalotes,9.15,-83.31
 1928342252,Rhynchospora_cephalotes,2.761391,-61.155868
 1213621165,Rhynchospora_cephalotes,-13.95,-39.1
 1929243196,Rhynchospora_cephalotes,-13.943979,-39.105076
-1258686509,Rhynchospora_cephalotes,8.258056,-79.121667
 2291589062,Rhynchospora_cephalotes,-14.633333,-52.233333
 1929510746,Rhynchospora_cephalotes,-14.73,-52.33
 1928897308,Rhynchospora_cephalotes,-14.676985703009,-52.353857454445
@@ -1094,7 +1059,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456162579,Rhynchospora_cephalotes,3.35,-59.8
 1213650705,Rhynchospora_cephalotes,-3.172056,-60.047222
 1675974847,Rhynchospora_cephalotes,1.67,-51.93
-1259870814,Rhynchospora_cephalotes,9.371389,-79.878611
 1259327896,Rhynchospora_cephalotes,17.24277,-89.51805
 1314946498,Rhynchospora_cephalotes,7.38792,-73.5544
 1456059966,Rhynchospora_cephalotes,5.45,-54.96
@@ -1112,7 +1076,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456088649,Rhynchospora_cephalotes,3.16,-59.8
 371292211,Rhynchospora_cephalotes,18.558333,-89.458333
 1988834117,Rhynchospora_cephalotes,16.4033,-91.3387
-1456096785,Rhynchospora_cephalotes,4.95,-52.3
 1456473903,Rhynchospora_cephalotes,5.4,-54.08
 1456270893,Rhynchospora_cephalotes,6.25,-62.85
 1929154054,Rhynchospora_cephalotes,-8.727948,-35.176897
@@ -1127,8 +1090,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456468108,Rhynchospora_cephalotes,7.06,-67
 45895523,Rhynchospora_cephalotes,11.03,-84.73
 439200059,Rhynchospora_cephalotes,11.03333,-84.73333
-1090254821,Rhynchospora_cephalotes,13.35,-82.3833
-1675875263,Rhynchospora_cephalotes,13.35,-81.38
 1259329668,Rhynchospora_cephalotes,9.125,-79.695833
 1456448976,Rhynchospora_cephalotes,6.4,-67.16
 1456332714,Rhynchospora_cephalotes,6.41,-58.61
@@ -1161,14 +1122,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259331482,Rhynchospora_cephalotes,17.03333,-88.33333
 1929046462,Rhynchospora_cephalotes,-1.12,-48.4
 1456462142,Rhynchospora_cephalotes,8.3,-59.7
-1258299725,Rhynchospora_cephalotes,8.33333,-59.66666
 1456380058,Rhynchospora_cephalotes,5.95,-59.9
-1259326775,Rhynchospora_cephalotes,8.953611,-79.560833
-1259330424,Rhynchospora_cephalotes,8.958056,-79.549722
 1456319074,Rhynchospora_cephalotes,7.61,-58.86
 1456421554,Rhynchospora_cephalotes,5.98,-58.55
 1456418775,Rhynchospora_cephalotes,6.58,-58.13
 1456383613,Rhynchospora_cephalotes,6.38,-58.68
 1260502450,Rhynchospora_cephalotes,4.18759,-74.609888
-1259330314,Rhynchospora_cephalotes,15.72611,-88.59388
-1259635876,Rhynchospora_cephalotes,21.885,-82.799
