@@ -37,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265826333,Eriogonum_nummulare,38.083333,-118.966667
 1930769094,Eriogonum_nummulare,40.47,-119.08
 2270579798,Eriogonum_nummulare,36.820677,-113.171897
-1929000647,Eriogonum_nummulare,39.7,-112.45
 1929424275,Eriogonum_nummulare,37.17,-112.82
 1929229384,Eriogonum_nummulare,39.63,-113.33
 1931374620,Eriogonum_nummulare,36.91,-112.59
@@ -49,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846531475,Eriogonum_nummulare,37.095278,-112.648333
 1929691234,Eriogonum_nummulare,37.631534,-118.100191
 699266787,Eriogonum_nummulare,37.69833,-118.06222
-1930544316,Eriogonum_nummulare,39.5,-113.97
 1929838219,Eriogonum_nummulare,39.33,-118.33
 1931058748,Eriogonum_nummulare,37.071131,-111.665619
 1930335754,Eriogonum_nummulare,37.13,-113.25
@@ -62,11 +60,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929131468,Eriogonum_nummulare,37.907922,-114.269856
 1929239743,Eriogonum_nummulare,37.847056,-114.327519
 1986945925,Eriogonum_nummulare,39.416944,-112.670278
-1928855813,Eriogonum_nummulare,39.8,-113.7
-1930246157,Eriogonum_nummulare,38.63,-115.5
 1928835280,Eriogonum_nummulare,38.38,-114.05
-1929643573,Eriogonum_nummulare,39.3,-112.38
-1928154992,Eriogonum_nummulare,40.33,-112.6
 2270582396,Eriogonum_nummulare,36.6519,-112.773
 1930505467,Eriogonum_nummulare,38.38,-117.05
 2270579133,Eriogonum_nummulare,36.7244,-113.356
@@ -87,7 +81,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176944492,Eriogonum_nummulare,38.639739,-115.495864
 1563861052,Eriogonum_nummulare,38.741944,-115.474722
 1930558020,Eriogonum_nummulare,37.62,-115.92
-1929956623,Eriogonum_nummulare,37.2,-113.22
 176944038,Eriogonum_nummulare,37.27898,-118.568431
 1930474341,Eriogonum_nummulare,38.148134,-118.874867
 1930947342,Eriogonum_nummulare,37.87373,-118.692346
