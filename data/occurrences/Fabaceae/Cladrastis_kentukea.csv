@@ -17,9 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228540698,Cladrastis_kentukea,41.95,-88.4333
 56543495,Cladrastis_kentukea,32.59444,-88.05639
 56543261,Cladrastis_kentukea,34.88806,-86.2825
-1258500744,Cladrastis_kentukea,38.6,-90.25
-56542846,Cladrastis_kentukea,33.3,-87.5
-1930383155,Cladrastis_kentukea,42.5,-71.2
 1261489409,Cladrastis_kentukea,38.610833,-90.258611
 1931260627,Cladrastis_kentukea,40.92,-74.42
 240489613,Cladrastis_kentukea,36.68014,-93.205948
@@ -34,9 +31,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415989033,Cladrastis_kentukea,41.58277,-73.20416
 465908562,Cladrastis_kentukea,44.263565,-76.50336
 2270559397,Cladrastis_kentukea,35.100371,-83.513491
-465908557,Cladrastis_kentukea,46.783333,-71.3
 465908560,Cladrastis_kentukea,43.480926,-80.537664
-1899349806,Cladrastis_kentukea,43.8,-79.15
 1846508764,Cladrastis_kentukea,36.015667,-93.385778
 2270556993,Cladrastis_kentukea,35.765414,-83.080386
 56542847,Cladrastis_kentukea,36.15,-86.78
@@ -51,14 +46,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 240489593,Cladrastis_kentukea,36.40738,-93.92309
 56542848,Cladrastis_kentukea,36.23,-92.68
 415942076,Cladrastis_kentukea,39.16611,-86.52638
-56542849,Cladrastis_kentukea,34.9,-83.72
 240489630,Cladrastis_kentukea,35.81453,-94.62856
 1260970041,Cladrastis_kentukea,36.60944,-93.39277
 415942053,Cladrastis_kentukea,41.78833,-72.22944
 2242404204,Cladrastis_kentukea,39.732825,-104.966474
-1228620986,Cladrastis_kentukea,40,-86
 415942080,Cladrastis_kentukea,35.71416,-83.51027
-1228211608,Cladrastis_kentukea,33,-87
 415942051,Cladrastis_kentukea,41.09666,-73.55277
 240489579,Cladrastis_kentukea,36.80528,-93.46639
 1929859402,Cladrastis_kentukea,40.873262,-73.463344
