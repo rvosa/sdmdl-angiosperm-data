@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936681752,Launaea_lanifera,37.5806,-1.2144
 1936696868,Launaea_lanifera,34.0079,-1.9863
 1936667204,Launaea_lanifera,37.4983,-1.4419
-318115508,Launaea_lanifera,37.5,-1.44
 211646636,Launaea_lanifera,37.762,-2.461
 85819740,Launaea_lanifera,36.950001,-2.21
 199485588,Launaea_lanifera,36.828253,-2.048039
@@ -21,13 +20,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 198470564,Launaea_lanifera,37.310001,-1.99
 30667471,Launaea_lanifera,37.41,-2.07
 30668437,Launaea_lanifera,37.48,-2.04
-211647307,Launaea_lanifera,38.144,-1.1
-30667500,Launaea_lanifera,37.279999,-1.9
 1135450801,Launaea_lanifera,36.97111,-1.97694
 1936623831,Launaea_lanifera,36.9813,-3.0125
 318115480,Launaea_lanifera,37.04,-2.27
 211647306,Launaea_lanifera,37.62,-1.36
-317821620,Launaea_lanifera,36.73,-3.5
 1050619104,Launaea_lanifera,36.91,-2.38
 211647305,Launaea_lanifera,37.376,-1.628
 318115281,Launaea_lanifera,36.91,-2.27
@@ -58,6 +54,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851334646,Launaea_lanifera,36.82,-2.05
 415620223,Launaea_lanifera,37.09,-2.04
 860325902,Launaea_lanifera,36.73,-3.28
-2291889601,Launaea_lanifera,31.133333,-8.1
 1842843651,Launaea_lanifera,35.18,-5.25
 860310332,Launaea_lanifera,36.82,-2.61
