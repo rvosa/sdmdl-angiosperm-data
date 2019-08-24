@@ -18,9 +18,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848335886,Scaevola_angulata,-12.496667,133.363333
 994343560,Scaevola_angulata,-12.648586,133.384515
 994336006,Scaevola_angulata,-13.948583,132.884527
-996120348,Scaevola_angulata,-13.57,133
-995063393,Scaevola_angulata,-13.5667,133
-993356038,Scaevola_angulata,-13.55,132.5
 994356702,Scaevola_angulata,-13.548588,132.501205
 996120334,Scaevola_angulata,-13.95,132.88
 994336022,Scaevola_angulata,-13.565254,133.001194
@@ -36,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994345821,Scaevola_angulata,-13.098585,132.8012
 995079122,Scaevola_angulata,-12.5333,132.9167
 992506674,Scaevola_angulata,-12.382045,133.167672
-996120315,Scaevola_angulata,-13.1,132.8
 994345747,Scaevola_angulata,-12.381914,133.167855
 994345892,Scaevola_angulata,-12.515262,132.834519
 992506951,Scaevola_angulata,-12.532045,132.917674
@@ -45,8 +41,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996120307,Scaevola_angulata,-11.47,133.03
 992503067,Scaevola_angulata,-11.465381,133.034338
 1257373763,Scaevola_angulata,-11.465259,133.034516
-993898983,Scaevola_angulata,-12.8333,132.7
-996120320,Scaevola_angulata,-12.83,132.7
 994345561,Scaevola_angulata,-12.831916,132.717861
 994323603,Scaevola_angulata,-11.448588,133.017854
 993322529,Scaevola_angulata,-11.4167,133.0333
@@ -54,16 +48,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994312737,Scaevola_angulata,-12.915257,133.034519
 996120374,Scaevola_angulata,-12.92,133.03
 992561906,Scaevola_angulata,-12.77,133.35
-993357096,Scaevola_angulata,-12.8,133.35
 994315055,Scaevola_angulata,-12.998589,132.38453
 994347580,Scaevola_angulata,-12.431918,132.934521
-994903823,Scaevola_angulata,-12.4,133
 993868906,Scaevola_angulata,-12.4333,132.95
 992429244,Scaevola_angulata,-13.415378,132.434345
 993310770,Scaevola_angulata,-13.1167,132.9333
 993841679,Scaevola_angulata,-12.4167,132.95
 992451224,Scaevola_angulata,-12.782045,132.715731
-993265810,Scaevola_angulata,-12.8,132.7333
 993842529,Scaevola_angulata,-12.8667,132.8667
 994263001,Scaevola_angulata,-12.815253,132.734522
 993274346,Scaevola_angulata,-12.8333,132.875
@@ -85,12 +76,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993232225,Scaevola_angulata,-13.0833,132.85
 993661444,Scaevola_angulata,-13.4167,132.4167
 996120355,Scaevola_angulata,-13.42,132.42
-993261713,Scaevola_angulata,-12.5,132.8667
 994312208,Scaevola_angulata,-12.498584,132.867861
-996022131,Scaevola_angulata,-12.5,132.87
 994239843,Scaevola_angulata,-13.481918,132.434528
-993207946,Scaevola_angulata,-13.7,132.6833
-996187350,Scaevola_angulata,-12.6,132.95
 993238953,Scaevola_angulata,-12.6667,132.8833
 994249504,Scaevola_angulata,-12.665255,132.884523
 994247576,Scaevola_angulata,-12.748588,133.334515
@@ -104,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993661495,Scaevola_angulata,-13.4333,132.4667
 993195306,Scaevola_angulata,-13.4167,132.4333
 994296252,Scaevola_angulata,-13.415256,132.417869
-993208790,Scaevola_angulata,-12.85,132.8
 994297618,Scaevola_angulata,-13.048583,132.86787
 993201553,Scaevola_angulata,-12.9667,132.7833
 994238645,Scaevola_angulata,-14.2819,135.717849
@@ -120,7 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996187118,Scaevola_angulata,-12.77,132.65
 993151589,Scaevola_angulata,-12.7667,132.65
 996187129,Scaevola_angulata,-13.52,132.42
-993144236,Scaevola_angulata,-14.3,132.4167
 994240119,Scaevola_angulata,-13.515254,132.434531
 993151697,Scaevola_angulata,-13.5167,132.4333
 994226490,Scaevola_angulata,-14.081913,132.351207
