@@ -1,13 +1,11 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1914110237,Mangifera_sylvatica,-22.758611,-46.810278
-1837388052,Mangifera_sylvatica,-27,-48
 1837385683,Mangifera_sylvatica,-27.973333,-48.687778
 1042701685,Mangifera_sylvatica,-2.314806,-54.53
 1095270108,Mangifera_sylvatica,-0.794911,-61.557577
 1042712067,Mangifera_sylvatica,-3.077944,-60.04
 1042712381,Mangifera_sylvatica,-2.982639,-59.91
 1089108747,Mangifera_sylvatica,-23.121553,-47.348864
-1042682901,Mangifera_sylvatica,-3,-60
 1042678177,Mangifera_sylvatica,-1.505417,-56.16
 1095267378,Mangifera_sylvatica,-6.389583,-61.940356
 1837384057,Mangifera_sylvatica,-27.8325,-48.563333
@@ -19,11 +17,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290845873,Mangifera_sylvatica,21.833333,92.166667
 685748583,Mangifera_sylvatica,29.519694,78.943382
 919460246,Mangifera_sylvatica,21.475834,101.56752
-2289790388,Mangifera_sylvatica,17,101.666667
-694338421,Mangifera_sylvatica,17,101.66666
 2270470135,Mangifera_sylvatica,21.253328,-98.781616
 919615386,Mangifera_sylvatica,23.880344,100.092756
-2290027665,Mangifera_sylvatica,25.3,91.7
 2289559080,Mangifera_sylvatica,23.483333,92.933333
 1304065979,Mangifera_sylvatica,24.615701,100.709787
 1304000622,Mangifera_sylvatica,24.580446,99.92854
