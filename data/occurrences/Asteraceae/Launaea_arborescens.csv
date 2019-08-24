@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 232589823,Launaea_arborescens,37.585,-1.069
 415620358,Launaea_arborescens,36.81399,-2.25908
 1019295185,Launaea_arborescens,22.688333,-12.459167
-211647456,Launaea_arborescens,37.6,-1.454
 211647379,Launaea_arborescens,37.306,-1.798
 211647392,Launaea_arborescens,37.02,-2.028
 1697707214,Launaea_arborescens,28.080556,-17.116667
@@ -28,9 +27,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30875849,Launaea_arborescens,37.369999,-1.77
 318114834,Launaea_arborescens,37.36,-1.77
 895227326,Launaea_arborescens,37.438,-1.502
-30667415,Launaea_arborescens,37.310001,-1.8
 30667411,Launaea_arborescens,37.349998,-2.07
-318114820,Launaea_arborescens,38.2,-0.51
 211647294,Launaea_arborescens,37.589,-0.786
 1935698748,Launaea_arborescens,28.57917,-16.18056
 30668335,Launaea_arborescens,37.27,-1.87
@@ -38,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895186225,Launaea_arborescens,38.88,1.33
 1936582063,Launaea_arborescens,38.208,-0.5228
 2288576757,Launaea_arborescens,29.05,-13.55
-1350444,Launaea_arborescens,29,-9
 1936216969,Launaea_arborescens,37.3104,-1.9743
 1851324325,Launaea_arborescens,36.148,-2.428
 318114803,Launaea_arborescens,37.31,-1.96
@@ -52,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860317103,Launaea_arborescens,37.3878,-1.6053
 211647295,Launaea_arborescens,37.581,-0.865
 211647310,Launaea_arborescens,37.613,-1.159
-317821413,Launaea_arborescens,37.6,-1.3073
 1851365514,Launaea_arborescens,37.912,-0.731
 1500662898,Launaea_arborescens,37.91,-0.73
 1831523656,Launaea_arborescens,31.15389,-8.87417
@@ -87,7 +82,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85819778,Launaea_arborescens,37.049999,-2.44
 317821868,Launaea_arborescens,37.244,-1.878
 415620300,Launaea_arborescens,36.825,-2.602
-2287319578,Launaea_arborescens,28.3,-16.416667
 85819818,Launaea_arborescens,28.469999,-16.23
 415620310,Launaea_arborescens,36.996,-2.668
 2291306151,Launaea_arborescens,16.183333,-22.966667
@@ -95,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288287375,Launaea_arborescens,15.983333,-22.816667
 2289255689,Launaea_arborescens,14.816667,-24.733333
 317821665,Launaea_arborescens,37.037,-1.881
-1851328246,Launaea_arborescens,37,-2.49
 211629577,Launaea_arborescens,36.959999,-2.55
 1851583638,Launaea_arborescens,37.53,-1.47
 2291306533,Launaea_arborescens,28.833333,-13.783333
