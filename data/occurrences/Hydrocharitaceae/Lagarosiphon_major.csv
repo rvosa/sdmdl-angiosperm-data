@@ -20,12 +20,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395772694,Lagarosiphon_major,34.681111,133.945
 204431654,Lagarosiphon_major,43.650002,-0.95
 462023558,Lagarosiphon_major,-25.625,30.125
-1843376602,Lagarosiphon_major,-38.1,176.416667
 462023556,Lagarosiphon_major,-20.625,28.125
 462023557,Lagarosiphon_major,-26.875,27.875
 462023555,Lagarosiphon_major,-28.625,28.125
 1897706089,Lagarosiphon_major,-36.866667,174.483333
-1897642770,Lagarosiphon_major,-36.9,174.583333
 462023554,Lagarosiphon_major,-23.625,30.625
 616289842,Lagarosiphon_major,-30.125,29.375
 462023544,Lagarosiphon_major,-28.125,28.375
@@ -63,7 +61,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462023524,Lagarosiphon_major,-30.125,28.625
 1897618844,Lagarosiphon_major,-38.136848,176.249746
 462023534,Lagarosiphon_major,-29.375,30.125
-2287625470,Lagarosiphon_major,45.8,8.65
 462023535,Lagarosiphon_major,-27.625,29.625
 462023513,Lagarosiphon_major,-26.375,30.125
 1897714745,Lagarosiphon_major,-38.050844,176.333734
@@ -74,7 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462023511,Lagarosiphon_major,-26.625,27.125
 462023525,Lagarosiphon_major,-29.875,27.125
 462023518,Lagarosiphon_major,-30.375,29.375
-1897670614,Lagarosiphon_major,-35.416667,173.8
 2290680315,Lagarosiphon_major,-28.085388,28.450033
 616289837,Lagarosiphon_major,-27.375,30.375
 616289833,Lagarosiphon_major,-30.375,29.125
