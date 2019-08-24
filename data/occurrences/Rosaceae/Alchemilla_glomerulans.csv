@@ -444,7 +444,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1065680867,Alchemilla_glomerulans,65.239503,15.323654
 2288287121,Alchemilla_glomerulans,70.95,-23.766667
 1144166256,Alchemilla_glomerulans,60.28091,6.26581
-1988093964,Alchemilla_glomerulans,71,-23.8
 1701315239,Alchemilla_glomerulans,62.6894,11.84
 1999542346,Alchemilla_glomerulans,68.498468,25.855707
 1323766175,Alchemilla_glomerulans,70.429,30.7394
@@ -478,7 +477,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187083366,Alchemilla_glomerulans,62.6856,11.8494
 1989602664,Alchemilla_glomerulans,68.03292,20.29801
 1323793078,Alchemilla_glomerulans,69.7307,23.7811
-1323801036,Alchemilla_glomerulans,68.5625,17.5
 1828863733,Alchemilla_glomerulans,62.43632,15.1669
 1701296441,Alchemilla_glomerulans,62.6867,11.8377
 1323826739,Alchemilla_glomerulans,69.5814,23.7732
@@ -503,7 +501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999542262,Alchemilla_glomerulans,69.991664,28.003322
 1600313141,Alchemilla_glomerulans,62.261069,23.730035
 1600313136,Alchemilla_glomerulans,62.261585,23.73287
-1988102549,Alchemilla_glomerulans,70,27.3
 187083249,Alchemilla_glomerulans,62.8917,11.6656
 1144166247,Alchemilla_glomerulans,60.9116,6.1324
 1999542284,Alchemilla_glomerulans,69.066619,27.121275
@@ -517,7 +514,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187082866,Alchemilla_glomerulans,65.4657,14.3849
 1065680909,Alchemilla_glomerulans,65.954905,14.870473
 1702229365,Alchemilla_glomerulans,60.92586,8.46534
-1828864827,Alchemilla_glomerulans,69.95,27.3
 1606515307,Alchemilla_glomerulans,61.707462,23.848463
 1999542342,Alchemilla_glomerulans,68.889319,26.063107
 1323826810,Alchemilla_glomerulans,68.7883,17.1673
@@ -619,7 +615,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39612105,Alchemilla_glomerulans,65.6482,-18.0512
 1065680911,Alchemilla_glomerulans,65.81546,14.640914
 1323826701,Alchemilla_glomerulans,67.0908,14.9885
-1988179604,Alchemilla_glomerulans,68.2,-31.4
 1999542254,Alchemilla_glomerulans,69.81514,27.164241
 1065669760,Alchemilla_glomerulans,62.176233,13.837297
 1999542214,Alchemilla_glomerulans,69.572888,26.674784
@@ -773,7 +768,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323712213,Alchemilla_glomerulans,68.0537,16.6784
 39204720,Alchemilla_glomerulans,64.545,-20.944
 1701226727,Alchemilla_glomerulans,63.0403,10.5322
-187083265,Alchemilla_glomerulans,62.9402,11
 1701254821,Alchemilla_glomerulans,62.9819,10.391
 39204939,Alchemilla_glomerulans,64.863,-14.298
 187083181,Alchemilla_glomerulans,62.8673,11.0737
@@ -820,7 +814,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600313236,Alchemilla_glomerulans,61.070051,25.051918
 1600313102,Alchemilla_glomerulans,67.520203,29.690972
 1702355777,Alchemilla_glomerulans,61.7868,8.599
-1701902921,Alchemilla_glomerulans,61.8293,8.7
 1701473329,Alchemilla_glomerulans,61.7428,8.5901
 1999542203,Alchemilla_glomerulans,69.205557,27.184866
 1999542215,Alchemilla_glomerulans,70.038071,27.664475
@@ -1064,7 +1057,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042984164,Alchemilla_glomerulans,67.852,20.233
 1702193902,Alchemilla_glomerulans,61.6582,8.0182
 1701899242,Alchemilla_glomerulans,61.6227,8.6332
-39204799,Alchemilla_glomerulans,64.299,-21.6
 1702312031,Alchemilla_glomerulans,62.4393,7.6633
 590244,Alchemilla_glomerulans,56.866583,15.683819
 589759,Alchemilla_glomerulans,57.008415,15.586972
@@ -1177,7 +1169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701296285,Alchemilla_glomerulans,69.2048,20.0409
 1702334806,Alchemilla_glomerulans,61.7235,6.2275
 187083317,Alchemilla_glomerulans,68.7115,18.6549
-39206010,Alchemilla_glomerulans,65.7,-17.875
 1600313223,Alchemilla_glomerulans,61.232788,24.1105
 1828865373,Alchemilla_glomerulans,61.22362,17.00829
 1701256419,Alchemilla_glomerulans,69.0444,19.5467
@@ -1484,7 +1475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702385966,Alchemilla_glomerulans,67.2756,14.4804
 1701902942,Alchemilla_glomerulans,61.7238,9.4522
 1702394751,Alchemilla_glomerulans,70.0222,22.9147
-1705496719,Alchemilla_glomerulans,67.95,23.7
 1701917031,Alchemilla_glomerulans,69.7793,23.3466
 1701765668,Alchemilla_glomerulans,63.6354,12.1637
 1697545832,Alchemilla_glomerulans,68.283032,44.92173
