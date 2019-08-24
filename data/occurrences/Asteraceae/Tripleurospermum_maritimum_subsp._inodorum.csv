@@ -58,9 +58,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935729723,Tripleurospermum_maritimum_subsp._inodorum,47.0993,15.43264
 876157059,Tripleurospermum_maritimum_subsp._inodorum,43.41138,-4.56979
 2268884659,Tripleurospermum_maritimum_subsp._inodorum,52.04274,87.0798
-1702507552,Tripleurospermum_maritimum_subsp._inodorum,43.38,-5.8
 2307732797,Tripleurospermum_maritimum_subsp._inodorum,44.11,-79.12
-1701550912,Tripleurospermum_maritimum_subsp._inodorum,48.23333,16.5
 1831004425,Tripleurospermum_maritimum_subsp._inodorum,48.03417,16.27444
 1935729615,Tripleurospermum_maritimum_subsp._inodorum,47.08028,15.41258
 1935729569,Tripleurospermum_maritimum_subsp._inodorum,47.09828,15.42719
@@ -87,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697691623,Tripleurospermum_maritimum_subsp._inodorum,67.13209,32.41769
 1697696268,Tripleurospermum_maritimum_subsp._inodorum,57.679132,41.113303
 1697691577,Tripleurospermum_maritimum_subsp._inodorum,69.104833,30.18
-1095917578,Tripleurospermum_maritimum_subsp._inodorum,59.08,17.8
 1146313852,Tripleurospermum_maritimum_subsp._inodorum,57.2034999991417,-153.3032
 1598657047,Tripleurospermum_maritimum_subsp._inodorum,60.439055,25.432136
 1935729600,Tripleurospermum_maritimum_subsp._inodorum,47.06779,15.41673
@@ -95,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935729601,Tripleurospermum_maritimum_subsp._inodorum,47.05625,15.42261
 1935729590,Tripleurospermum_maritimum_subsp._inodorum,47.07457,15.44218
 1831004488,Tripleurospermum_maritimum_subsp._inodorum,48.26722,16.48667
-1831004479,Tripleurospermum_maritimum_subsp._inodorum,48.26111,16.5
 1343084714,Tripleurospermum_maritimum_subsp._inodorum,55.438555,12.145586
 1343083210,Tripleurospermum_maritimum_subsp._inodorum,56.557025,8.307262
 1343083168,Tripleurospermum_maritimum_subsp._inodorum,56.565106,8.160661
@@ -105,12 +101,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 237467916,Tripleurospermum_maritimum_subsp._inodorum,48.7519,19.8731
 900317281,Tripleurospermum_maritimum_subsp._inodorum,58.4175,7.9088
 786942721,Tripleurospermum_maritimum_subsp._inodorum,53.3485,10.7488
-994576613,Tripleurospermum_maritimum_subsp._inodorum,50,20
 286838886,Tripleurospermum_maritimum_subsp._inodorum,52.700001,12.716666
 1935729512,Tripleurospermum_maritimum_subsp._inodorum,45.33222,13.79917
 1936207101,Tripleurospermum_maritimum_subsp._inodorum,43.005,-5.9947
 1949652595,Tripleurospermum_maritimum_subsp._inodorum,56.25,-120.85
-1882339815,Tripleurospermum_maritimum_subsp._inodorum,48.84,10.9
 1702253226,Tripleurospermum_maritimum_subsp._inodorum,59.7519,10.2549
 1701849203,Tripleurospermum_maritimum_subsp._inodorum,59.6644,11.1874
 1231184947,Tripleurospermum_maritimum_subsp._inodorum,48.39056,21.75694
@@ -132,7 +126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437267568,Tripleurospermum_maritimum_subsp._inodorum,49.10639,2.48028
 1598657103,Tripleurospermum_maritimum_subsp._inodorum,60.250491,25.181976
 2242700214,Tripleurospermum_maritimum_subsp._inodorum,62.673513,30.926192
-994566117,Tripleurospermum_maritimum_subsp._inodorum,50,20.3
 1702236939,Tripleurospermum_maritimum_subsp._inodorum,59.1184,11.4472
 1882339881,Tripleurospermum_maritimum_subsp._inodorum,48.84,10.93
 439265765,Tripleurospermum_maritimum_subsp._inodorum,48.74694,2.18028
@@ -147,13 +140,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949649273,Tripleurospermum_maritimum_subsp._inodorum,59.288056,-129.849722
 1935729353,Tripleurospermum_maritimum_subsp._inodorum,47.52111,14.065
 1343083367,Tripleurospermum_maritimum_subsp._inodorum,56.38789,8.699056
-883397330,Tripleurospermum_maritimum_subsp._inodorum,49.966667,20.3
 1096745688,Tripleurospermum_maritimum_subsp._inodorum,59.78,18.32
 1343083122,Tripleurospermum_maritimum_subsp._inodorum,55.937518,11.648382
 1702267699,Tripleurospermum_maritimum_subsp._inodorum,61.8701,11.7602
 1935729328,Tripleurospermum_maritimum_subsp._inodorum,47.42028,15.34778
 214575510,Tripleurospermum_maritimum_subsp._inodorum,52.517498,13.139722
-1096700284,Tripleurospermum_maritimum_subsp._inodorum,60.5,16.69
 1702036774,Tripleurospermum_maritimum_subsp._inodorum,60.98132,10.78957
 1253404669,Tripleurospermum_maritimum_subsp._inodorum,51.936039,11.786434
 1042029930,Tripleurospermum_maritimum_subsp._inodorum,66.0636,12.677
@@ -171,7 +162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988645738,Tripleurospermum_maritimum_subsp._inodorum,43.590762,-86.061694
 1598657072,Tripleurospermum_maritimum_subsp._inodorum,60.206937,25.116743
 1701306741,Tripleurospermum_maritimum_subsp._inodorum,63.6352,11.2505
-860312982,Tripleurospermum_maritimum_subsp._inodorum,42.4,1.97
 1343083062,Tripleurospermum_maritimum_subsp._inodorum,56.953945,8.727389
 1343083106,Tripleurospermum_maritimum_subsp._inodorum,55.20377,11.48941
 1705378103,Tripleurospermum_maritimum_subsp._inodorum,57.383278,16.08786
@@ -202,11 +192,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701302723,Tripleurospermum_maritimum_subsp._inodorum,63.3941,11.8415
 441949169,Tripleurospermum_maritimum_subsp._inodorum,52.123055,11.636666
 788429177,Tripleurospermum_maritimum_subsp._inodorum,56.33263,12.75487
-899805394,Tripleurospermum_maritimum_subsp._inodorum,52.9,11.2
 441949175,Tripleurospermum_maritimum_subsp._inodorum,52.692455,11.067128
 1701254023,Tripleurospermum_maritimum_subsp._inodorum,63.423,10.4124
 441949167,Tripleurospermum_maritimum_subsp._inodorum,51.686432,11.58994
-1851385350,Tripleurospermum_maritimum_subsp._inodorum,42.2946,-5.4
 1323738616,Tripleurospermum_maritimum_subsp._inodorum,69.6512,18.9988
 1503366915,Tripleurospermum_maritimum_subsp._inodorum,52.477083,13.229861
 441949171,Tripleurospermum_maritimum_subsp._inodorum,51.840782,11.297759
@@ -214,7 +202,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441949165,Tripleurospermum_maritimum_subsp._inodorum,52.859825,11.393507
 1851367276,Tripleurospermum_maritimum_subsp._inodorum,42.58403,-5.55336
 441949238,Tripleurospermum_maritimum_subsp._inodorum,51.051739,12.122673
-899805387,Tripleurospermum_maritimum_subsp._inodorum,51.1,12.1
 1701847448,Tripleurospermum_maritimum_subsp._inodorum,59.7477,10.8052
 1702213667,Tripleurospermum_maritimum_subsp._inodorum,59.6639,10.799
 441949234,Tripleurospermum_maritimum_subsp._inodorum,51.17701,11.79832
@@ -256,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788537640,Tripleurospermum_maritimum_subsp._inodorum,55.44277,12.9694
 1697691681,Tripleurospermum_maritimum_subsp._inodorum,56.06092,40.123272
 1343083084,Tripleurospermum_maritimum_subsp._inodorum,56.477806,8.730814
-1146346462,Tripleurospermum_maritimum_subsp._inodorum,60.1,-149.44
 1343084726,Tripleurospermum_maritimum_subsp._inodorum,55.643083,12.051242
 1343084830,Tripleurospermum_maritimum_subsp._inodorum,55.886682,12.496604
 1343084866,Tripleurospermum_maritimum_subsp._inodorum,55.859752,12.498337
@@ -309,7 +295,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1658228869,Tripleurospermum_maritimum_subsp._inodorum,60.23722,-132.5444
 1697691859,Tripleurospermum_maritimum_subsp._inodorum,55.193379,61.335176
 1323839660,Tripleurospermum_maritimum_subsp._inodorum,69.53059,21.47856
-473306729,Tripleurospermum_maritimum_subsp._inodorum,48.1,-77.783333
 21555380,Tripleurospermum_maritimum_subsp._inodorum,59.4882,11.1003
 1343083102,Tripleurospermum_maritimum_subsp._inodorum,55.904451,11.91815
 1702206151,Tripleurospermum_maritimum_subsp._inodorum,60.8216,11.2958
@@ -352,7 +337,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701932580,Tripleurospermum_maritimum_subsp._inodorum,59.7601,10.2371
 788620741,Tripleurospermum_maritimum_subsp._inodorum,55.72488,13.16868
 895306453,Tripleurospermum_maritimum_subsp._inodorum,42.051,-2.535
-1146263527,Tripleurospermum_maritimum_subsp._inodorum,61.3,-149.58
 1701502728,Tripleurospermum_maritimum_subsp._inodorum,61.2342,7.1093
 1697691584,Tripleurospermum_maritimum_subsp._inodorum,59.762645,38.383448
 1701999902,Tripleurospermum_maritimum_subsp._inodorum,69.9159,27.0391
@@ -389,15 +373,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 13880730,Tripleurospermum_maritimum_subsp._inodorum,46.8094,4.42361
 1343084595,Tripleurospermum_maritimum_subsp._inodorum,55.15244,11.784471
 1697691706,Tripleurospermum_maritimum_subsp._inodorum,54.664092,40.972624
-473416908,Tripleurospermum_maritimum_subsp._inodorum,48.216667,-79.3
 788591503,Tripleurospermum_maritimum_subsp._inodorum,55.729,12.99007
 1697301990,Tripleurospermum_maritimum_subsp._inodorum,60.50741,73.02004
 1323720634,Tripleurospermum_maritimum_subsp._inodorum,69.0255,28.9904
 1598657030,Tripleurospermum_maritimum_subsp._inodorum,60.211287,24.657311
 1598657061,Tripleurospermum_maritimum_subsp._inodorum,63.07621,21.678567
 1323764432,Tripleurospermum_maritimum_subsp._inodorum,70.0521,23.2721
-1146304313,Tripleurospermum_maritimum_subsp._inodorum,64.9,-147.7
-1456188474,Tripleurospermum_maritimum_subsp._inodorum,64.85,-147.8
 1598657020,Tripleurospermum_maritimum_subsp._inodorum,61.003476,24.449357
 1999478725,Tripleurospermum_maritimum_subsp._inodorum,60.437068,22.208575
 1598657064,Tripleurospermum_maritimum_subsp._inodorum,61.009338,24.380448
@@ -412,20 +393,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57729470,Tripleurospermum_maritimum_subsp._inodorum,62.258499,25.7551
 1598657063,Tripleurospermum_maritimum_subsp._inodorum,61.000585,24.415378
 1598656995,Tripleurospermum_maritimum_subsp._inodorum,60.968823,24.391078
-2291306592,Tripleurospermum_maritimum_subsp._inodorum,61,24.4
 1697691819,Tripleurospermum_maritimum_subsp._inodorum,52.645118,38.980328
 1598657027,Tripleurospermum_maritimum_subsp._inodorum,61.115823,24.315954
 1598657300,Tripleurospermum_maritimum_subsp._inodorum,61.146985,24.304145
 1851395149,Tripleurospermum_maritimum_subsp._inodorum,42.793,-4.84
 1705345931,Tripleurospermum_maritimum_subsp._inodorum,57.259618,15.684255
 1697691715,Tripleurospermum_maritimum_subsp._inodorum,56.342934,35.981391
-1146223982,Tripleurospermum_maritimum_subsp._inodorum,64.7,-148.25
 1936247374,Tripleurospermum_maritimum_subsp._inodorum,42.8548,-4.5068
-1851396515,Tripleurospermum_maritimum_subsp._inodorum,42.861,-4.5
 1697691809,Tripleurospermum_maritimum_subsp._inodorum,58.129583,44.359761
 1455447799,Tripleurospermum_maritimum_subsp._inodorum,50.476918,4.854971
 1899287842,Tripleurospermum_maritimum_subsp._inodorum,45.083333,-75.366667
-2307988357,Tripleurospermum_maritimum_subsp._inodorum,51.52,-3.2
 1999478719,Tripleurospermum_maritimum_subsp._inodorum,60.643422,22.196213
 1705345966,Tripleurospermum_maritimum_subsp._inodorum,57.441956,15.830193
 1223127020,Tripleurospermum_maritimum_subsp._inodorum,48.006944,16.295833
@@ -457,7 +434,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948288568,Tripleurospermum_maritimum_subsp._inodorum,63.058594,22.099018
 575038488,Tripleurospermum_maritimum_subsp._inodorum,43.25,27.783333
 473456101,Tripleurospermum_maritimum_subsp._inodorum,45.583333,-67.333333
-1146304320,Tripleurospermum_maritimum_subsp._inodorum,62.43,-158
 1999478677,Tripleurospermum_maritimum_subsp._inodorum,60.679277,21.494077
 1323732131,Tripleurospermum_maritimum_subsp._inodorum,69.7307,23.7811
 1598657344,Tripleurospermum_maritimum_subsp._inodorum,60.071161,24.392468
@@ -498,7 +474,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146392025,Tripleurospermum_maritimum_subsp._inodorum,64.81,-147.86
 296555357,Tripleurospermum_maritimum_subsp._inodorum,46.833,12.783
 1701858025,Tripleurospermum_maritimum_subsp._inodorum,59.6562,10.8012
-774392546,Tripleurospermum_maritimum_subsp._inodorum,50.549999,9.6
 1705334691,Tripleurospermum_maritimum_subsp._inodorum,57.363886,16.469916
 900225349,Tripleurospermum_maritimum_subsp._inodorum,58.7361,5.6566
 900226234,Tripleurospermum_maritimum_subsp._inodorum,58.9393,5.5718
@@ -526,14 +501,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099911368,Tripleurospermum_maritimum_subsp._inodorum,61.083333,25.333333
 1999594136,Tripleurospermum_maritimum_subsp._inodorum,60.66216,21.51534
 1099862424,Tripleurospermum_maritimum_subsp._inodorum,60.666667,21.516667
-1988083381,Tripleurospermum_maritimum_subsp._inodorum,60.7,21.5
 1702422209,Tripleurospermum_maritimum_subsp._inodorum,59.8064,10.2388
 1697302086,Tripleurospermum_maritimum_subsp._inodorum,67.43277,78.65338
 1697302127,Tripleurospermum_maritimum_subsp._inodorum,67.38585,78.97896
 1851379135,Tripleurospermum_maritimum_subsp._inodorum,43.01,-5.39
 1697691589,Tripleurospermum_maritimum_subsp._inodorum,56.658585,26.196728
 1702438762,Tripleurospermum_maritimum_subsp._inodorum,66.0315,13.4723
-1988093518,Tripleurospermum_maritimum_subsp._inodorum,61.1,25.3
 1697302037,Tripleurospermum_maritimum_subsp._inodorum,67.49933,78.67495
 1701724792,Tripleurospermum_maritimum_subsp._inodorum,61.7605,6.2442
 473554994,Tripleurospermum_maritimum_subsp._inodorum,46.832222,-64.919167
@@ -675,7 +648,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999589013,Tripleurospermum_maritimum_subsp._inodorum,60.097856,23.769722
 57729507,Tripleurospermum_maritimum_subsp._inodorum,63.053902,25.9091
 186843312,Tripleurospermum_maritimum_subsp._inodorum,58.1637,7.1049
-1249268766,Tripleurospermum_maritimum_subsp._inodorum,50.6,6.9
 1705429782,Tripleurospermum_maritimum_subsp._inodorum,57.26756,14.928626
 1598657174,Tripleurospermum_maritimum_subsp._inodorum,60.846308,23.040871
 1099865044,Tripleurospermum_maritimum_subsp._inodorum,61.364722,22.005556
@@ -684,7 +656,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598657327,Tripleurospermum_maritimum_subsp._inodorum,68.128086,23.267341
 1999589082,Tripleurospermum_maritimum_subsp._inodorum,68.900826,27.107673
 1598657039,Tripleurospermum_maritimum_subsp._inodorum,68.454749,22.49234
-473554862,Tripleurospermum_maritimum_subsp._inodorum,48.833333,-78.5
 1144126129,Tripleurospermum_maritimum_subsp._inodorum,61.6132,6.6525
 1697302039,Tripleurospermum_maritimum_subsp._inodorum,52.782579,89.83121
 1146391733,Tripleurospermum_maritimum_subsp._inodorum,64.83,-147.66
@@ -723,7 +694,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598657171,Tripleurospermum_maritimum_subsp._inodorum,61.169958,25.974984
 57729462,Tripleurospermum_maritimum_subsp._inodorum,63.0937,25.838301
 1598656956,Tripleurospermum_maritimum_subsp._inodorum,60.673862,27.719535
-786188395,Tripleurospermum_maritimum_subsp._inodorum,50.5,7
 1598657234,Tripleurospermum_maritimum_subsp._inodorum,61.171239,26.160775
 1702421005,Tripleurospermum_maritimum_subsp._inodorum,59.7465,10.7616
 1261972350,Tripleurospermum_maritimum_subsp._inodorum,46.819167,-71.248889
@@ -842,7 +812,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177285406,Tripleurospermum_maritimum_subsp._inodorum,62.232601,25.871599
 1999589059,Tripleurospermum_maritimum_subsp._inodorum,60.133297,22.793553
 216103781,Tripleurospermum_maritimum_subsp._inodorum,62.2505,25.870899
-786188308,Tripleurospermum_maritimum_subsp._inodorum,46.5,24.6
 1598657267,Tripleurospermum_maritimum_subsp._inodorum,60.724847,27.271868
 812033447,Tripleurospermum_maritimum_subsp._inodorum,50.66985,9.5685
 1701328797,Tripleurospermum_maritimum_subsp._inodorum,69.768,21.0259
@@ -876,7 +845,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705402554,Tripleurospermum_maritimum_subsp._inodorum,57.438386,13.588489
 1839335818,Tripleurospermum_maritimum_subsp._inodorum,53.638333,-113.624281
 1948567996,Tripleurospermum_maritimum_subsp._inodorum,60.268225,24.602631
-1705493634,Tripleurospermum_maritimum_subsp._inodorum,65,25.5
 473555017,Tripleurospermum_maritimum_subsp._inodorum,53.635103,-113.626908
 1323733223,Tripleurospermum_maritimum_subsp._inodorum,63.40577,10.35582
 1999586898,Tripleurospermum_maritimum_subsp._inodorum,60.708953,22.02127
@@ -930,7 +898,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705380412,Tripleurospermum_maritimum_subsp._inodorum,55.651497,13.112435
 57729473,Tripleurospermum_maritimum_subsp._inodorum,62.245007,25.746113
 1598657104,Tripleurospermum_maritimum_subsp._inodorum,60.897555,28.37875
-1705498908,Tripleurospermum_maritimum_subsp._inodorum,61.26,22.7
 57729486,Tripleurospermum_maritimum_subsp._inodorum,62.246613,25.938471
 57729499,Tripleurospermum_maritimum_subsp._inodorum,61.211601,28.7738
 788666272,Tripleurospermum_maritimum_subsp._inodorum,61.7112,17.08512
@@ -992,14 +959,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788613343,Tripleurospermum_maritimum_subsp._inodorum,56.191083,13.745566
 1705297970,Tripleurospermum_maritimum_subsp._inodorum,57.6672,14.971459
 1999586918,Tripleurospermum_maritimum_subsp._inodorum,60.477006,22.721864
-1804581215,Tripleurospermum_maritimum_subsp._inodorum,63.6,-84.083333
 1598654058,Tripleurospermum_maritimum_subsp._inodorum,61.879919,28.802997
 1702420958,Tripleurospermum_maritimum_subsp._inodorum,59.5133,9.8216
 1701868438,Tripleurospermum_maritimum_subsp._inodorum,59.3791,11.2089
 788583610,Tripleurospermum_maritimum_subsp._inodorum,56.262414,15.620531
 473555004,Tripleurospermum_maritimum_subsp._inodorum,50.4982,-99.914
 1697693150,Tripleurospermum_maritimum_subsp._inodorum,66.54876,66.59708
-1839335291,Tripleurospermum_maritimum_subsp._inodorum,53.716667,-113.2
 1598657227,Tripleurospermum_maritimum_subsp._inodorum,60.946198,23.397889
 1701263575,Tripleurospermum_maritimum_subsp._inodorum,63.3085,10.1673
 1055543866,Tripleurospermum_maritimum_subsp._inodorum,53.913573,-0.511615
@@ -1136,7 +1101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705417318,Tripleurospermum_maritimum_subsp._inodorum,57.683244,11.998121
 1702421054,Tripleurospermum_maritimum_subsp._inodorum,61.36295,12.29614
 788728964,Tripleurospermum_maritimum_subsp._inodorum,57.73187,11.97153
-1988208584,Tripleurospermum_maritimum_subsp._inodorum,49.02,-118.4
 788605269,Tripleurospermum_maritimum_subsp._inodorum,58.197903,15.995409
 788612588,Tripleurospermum_maritimum_subsp._inodorum,59.02862,12.22916
 1702421042,Tripleurospermum_maritimum_subsp._inodorum,59.7633,10.0236
@@ -1181,7 +1145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788584086,Tripleurospermum_maritimum_subsp._inodorum,60.53512,15.20728
 2265358087,Tripleurospermum_maritimum_subsp._inodorum,46.738644,-92.463889
 187268476,Tripleurospermum_maritimum_subsp._inodorum,63.4184,10.4222
-786188301,Tripleurospermum_maritimum_subsp._inodorum,47.8,20
 1999588991,Tripleurospermum_maritimum_subsp._inodorum,60.453781,22.69751
 1705397165,Tripleurospermum_maritimum_subsp._inodorum,57.679793,15.972823
 788667310,Tripleurospermum_maritimum_subsp._inodorum,56.179769,13.831679
@@ -1268,7 +1231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702287830,Tripleurospermum_maritimum_subsp._inodorum,62.0171,5.57
 1697691763,Tripleurospermum_maritimum_subsp._inodorum,55.932637,36.913608
 1705430032,Tripleurospermum_maritimum_subsp._inodorum,55.688171,13.079325
-1804498303,Tripleurospermum_maritimum_subsp._inodorum,63.966667,-83.5
 788576237,Tripleurospermum_maritimum_subsp._inodorum,57.616402,11.941282
 1705283984,Tripleurospermum_maritimum_subsp._inodorum,64.201478,19.714799
 1099868291,Tripleurospermum_maritimum_subsp._inodorum,60.721667,30.066389
@@ -1605,7 +1567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099864113,Tripleurospermum_maritimum_subsp._inodorum,48.145,16.797222
 788572037,Tripleurospermum_maritimum_subsp._inodorum,59.31916,15.401609
 788609555,Tripleurospermum_maritimum_subsp._inodorum,58.389094,13.846898
-1099864733,Tripleurospermum_maritimum_subsp._inodorum,65.8,-18.233333
 1702420982,Tripleurospermum_maritimum_subsp._inodorum,59.8931,10.537
 1082785,Tripleurospermum_maritimum_subsp._inodorum,57.6672,14.971461
 1697691865,Tripleurospermum_maritimum_subsp._inodorum,51.675136,44.854715
