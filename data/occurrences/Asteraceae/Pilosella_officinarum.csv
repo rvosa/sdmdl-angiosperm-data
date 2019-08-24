@@ -13,17 +13,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935694594,Pilosella_officinarum,47.09991,15.47938
 1828863198,Pilosella_officinarum,55.94898,13.54288
 2313273866,Pilosella_officinarum,47.87,12.55
-2313271779,Pilosella_officinarum,49.6,11.5
 1933400015,Pilosella_officinarum,46.87611,16.09444
 1847761976,Pilosella_officinarum,55.54885,12.94397
 1933400014,Pilosella_officinarum,47.90667,16.91972
 2313271543,Pilosella_officinarum,49.94,9.56
 1933400034,Pilosella_officinarum,47.85778,16.555
-2313272632,Pilosella_officinarum,49.89,9.6
 1828865583,Pilosella_officinarum,55.50987,13.36706
 2313273145,Pilosella_officinarum,47.62,10.12
 1606547611,Pilosella_officinarum,60.661649,23.611986
-1844870862,Pilosella_officinarum,42.6,-2.76
 1828867345,Pilosella_officinarum,62.4872,12.57119
 1849097947,Pilosella_officinarum,34.971389,-82.476944
 2313273286,Pilosella_officinarum,47.92,11.21
@@ -64,7 +61,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501642781,Pilosella_officinarum,40.08,-1.41
 1265002179,Pilosella_officinarum,62.8596,15.22717
 1881891487,Pilosella_officinarum,59.31645,24.38175
-1265892042,Pilosella_officinarum,42.6,0.02
 1851326932,Pilosella_officinarum,43.0433,-4.4677
 1899880506,Pilosella_officinarum,37.35907,-80.53492
 2313272243,Pilosella_officinarum,49.87,9.79
@@ -115,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697705765,Pilosella_officinarum,58.0855,34.839
 2307972225,Pilosella_officinarum,43.55,-80.25
 1697706123,Pilosella_officinarum,50.776584,36.657749
-1095918077,Pilosella_officinarum,59.48,17
 1899281203,Pilosella_officinarum,44.4128999990569,-78.5123
 2265460464,Pilosella_officinarum,47.918611,-91.603889
 1265834687,Pilosella_officinarum,44.37525,6.97567
@@ -173,7 +168,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930858015,Pilosella_officinarum,46.907108,6.57689
 932708551,Pilosella_officinarum,42.23341,-7.49867
 2313272274,Pilosella_officinarum,49.98,9.76
-986393507,Pilosella_officinarum,50.116667,20.7
 1935694394,Pilosella_officinarum,47.12167,15.48833
 2313272633,Pilosella_officinarum,50.39,10.02
 1148460600,Pilosella_officinarum,57.835556,27.459722
@@ -189,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 237343608,Pilosella_officinarum,52.471668,13.544445
 1342556883,Pilosella_officinarum,56.486226,9.461479
 1342557153,Pilosella_officinarum,56.600239,9.951497
-1697705886,Pilosella_officinarum,56.5,40.919444
 1342556253,Pilosella_officinarum,56.152081,8.201884
 1702508668,Pilosella_officinarum,42.81,-0.87
 2307935127,Pilosella_officinarum,51.84,-4.15
@@ -218,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895303733,Pilosella_officinarum,40.872,-1.594
 1050643651,Pilosella_officinarum,41.66,-1.76
 2306964533,Pilosella_officinarum,45.19,-81.42
-2307595998,Pilosella_officinarum,58.1,27.06
 1851388675,Pilosella_officinarum,42.3517,-6.50724
 932707702,Pilosella_officinarum,42.20279,-7.24503
 895201157,Pilosella_officinarum,43.004,-5.153
@@ -230,7 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895201060,Pilosella_officinarum,43.062,-4.259
 2265390155,Pilosella_officinarum,47.408026,-91.161328
 1851389726,Pilosella_officinarum,42.29897,-6.6169
-1230838248,Pilosella_officinarum,45.05,6.4
 2291778078,Pilosella_officinarum,52.065697,5.853417
 442065239,Pilosella_officinarum,51.480183,14.860283
 1851373637,Pilosella_officinarum,42.31682,-6.52124
@@ -244,7 +235,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 442064091,Pilosella_officinarum,51.314888,14.54533
 1697705912,Pilosella_officinarum,55.860027,39.396557
 2313273663,Pilosella_officinarum,49.97,9.37
-1697706149,Pilosella_officinarum,53.5,39
 1831250006,Pilosella_officinarum,53.5485,11.4153
 2313272608,Pilosella_officinarum,48.94,13.56
 788459144,Pilosella_officinarum,58.02021,14.91262
@@ -263,7 +253,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342556223,Pilosella_officinarum,56.133568,8.121818
 1342556686,Pilosella_officinarum,56.891313,9.105358
 442064829,Pilosella_officinarum,51.145466,14.943613
-883384179,Pilosella_officinarum,50.016667,19.8
 958711,Pilosella_officinarum,59.52216,12.41568
 2313273854,Pilosella_officinarum,49.91,10.85
 1503351624,Pilosella_officinarum,52.480556,13.225
@@ -355,10 +344,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342556484,Pilosella_officinarum,56.100427,8.717379
 1697706116,Pilosella_officinarum,50.689697,37.819801
 1936617034,Pilosella_officinarum,42.4264,13.3464
-993577637,Pilosella_officinarum,46,6.4167
 1851329982,Pilosella_officinarum,42.39,-6.746
 1935694302,Pilosella_officinarum,46.75889,10.77972
-1342545,Pilosella_officinarum,40,-5
 2288492277,Pilosella_officinarum,52.011,5.913833
 1701526859,Pilosella_officinarum,43.88222,11.23167
 1882645026,Pilosella_officinarum,51.098106,13.756005
@@ -382,7 +369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313272976,Pilosella_officinarum,47.76,11.02
 2313272200,Pilosella_officinarum,50.07,9.29
 1438585547,Pilosella_officinarum,58.3275,26.771111
-1697705853,Pilosella_officinarum,55.7,31.883333
 296476480,Pilosella_officinarum,46.986,10.006
 296476486,Pilosella_officinarum,47.111,9.911
 1050625896,Pilosella_officinarum,42.75,-2.51
@@ -422,7 +408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 296476410,Pilosella_officinarum,46.683,12.656
 296476413,Pilosella_officinarum,47.133,12.475
 1050624357,Pilosella_officinarum,42.68,-2.56
-296476414,Pilosella_officinarum,46.933,12.4
 296476407,Pilosella_officinarum,46.921,10.988
 1851409146,Pilosella_officinarum,42.773,-6.17
 142316975,Pilosella_officinarum,37.7666,35.1254
@@ -500,7 +485,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936443852,Pilosella_officinarum,40.672,-2.0429
 1434684485,Pilosella_officinarum,58.40626,15.75637
 1262023118,Pilosella_officinarum,46.766667,-71.283333
-2290291484,Pilosella_officinarum,42.583333,2.5
 318118115,Pilosella_officinarum,41.05,-1.95
 1702507143,Pilosella_officinarum,42.46,-1.59
 1990859222,Pilosella_officinarum,57.42721,14.15022
@@ -520,7 +504,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 958707,Pilosella_officinarum,56.38996,12.64013
 1342557251,Pilosella_officinarum,56.150175,10.053029
 1851365731,Pilosella_officinarum,42.798,-5.122
-2313272718,Pilosella_officinarum,50.06,10.6
 85813672,Pilosella_officinarum,37.049999,-3.11
 1342557907,Pilosella_officinarum,55.913803,11.902847
 1342557924,Pilosella_officinarum,55.904451,11.91815
@@ -546,7 +529,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697706130,Pilosella_officinarum,52.793555,39.040925
 1342556930,Pilosella_officinarum,56.503866,9.542923
 1705256701,Pilosella_officinarum,57.504797,16.48248
-1500200172,Pilosella_officinarum,49.966667,13.5
 1936439948,Pilosella_officinarum,42.7183,-3.7341
 2291777694,Pilosella_officinarum,43.366667,0.75
 1342558110,Pilosella_officinarum,55.828432,12.292749
@@ -592,16 +574,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598920360,Pilosella_officinarum,60.441406,22.447195
 204429112,Pilosella_officinarum,43.105,-1.544
 465762028,Pilosella_officinarum,44.443261,-64.324642
-895193127,Pilosella_officinarum,40.4,-0.35
 1598920363,Pilosella_officinarum,60.934297,27.688511
 204429108,Pilosella_officinarum,43.051998,-1.619
 1936440024,Pilosella_officinarum,42.6891,-0.3158
 1936440333,Pilosella_officinarum,42.6919,-0.4378
-1804501521,Pilosella_officinarum,46.4,-75.033333
 1936440363,Pilosella_officinarum,42.7819,-0.434
 1936404923,Pilosella_officinarum,40.5566,-2.028
 1936404842,Pilosella_officinarum,40.3216,-5.0128
-1230847657,Pilosella_officinarum,49.8,7.85
 1230847308,Pilosella_officinarum,49.98333,7.88333
 1230838124,Pilosella_officinarum,48.125,16.20806
 1230847755,Pilosella_officinarum,48.68333,8.35
@@ -634,7 +613,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804482174,Pilosella_officinarum,44.55,-77.116667
 1705345612,Pilosella_officinarum,57.311542,15.572905
 204403072,Pilosella_officinarum,37.898,-2.824
-1248699134,Pilosella_officinarum,47.4,-70.390556
 204403074,Pilosella_officinarum,37.916,-2.858
 1705345617,Pilosella_officinarum,57.257644,15.561648
 204429297,Pilosella_officinarum,42.915001,-1.499
@@ -669,8 +647,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701526436,Pilosella_officinarum,54.02361,10.70139
 1697706008,Pilosella_officinarum,55.574306,37.526309
 1705397288,Pilosella_officinarum,57.598736,16.106247
-1053981556,Pilosella_officinarum,42.3,-1.79
-1804494292,Pilosella_officinarum,45.3,-75.55
 1053986174,Pilosella_officinarum,43.28,-1.75
 991864349,Pilosella_officinarum,53.9484,12.0819
 1936692851,Pilosella_officinarum,40.9883,-3.8335
@@ -695,13 +671,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705439214,Pilosella_officinarum,57.450253,15.047501
 204429300,Pilosella_officinarum,42.527,-1.411
 1697705745,Pilosella_officinarum,64.85709,58.068032
-1804511837,Pilosella_officinarum,45.4,-67.35
 1806556802,Pilosella_officinarum,42.927648,-1.810162
 415907647,Pilosella_officinarum,41.31,-72.92416
 204429411,Pilosella_officinarum,43.300999,-2.242
 1224532300,Pilosella_officinarum,57.98429,13.80455
 1804495410,Pilosella_officinarum,44.416667,-80.716667
-1248699201,Pilosella_officinarum,46.2,-70.783333
 895220011,Pilosella_officinarum,42.57,1.11
 1851342898,Pilosella_officinarum,42.46,-5.86
 1598920385,Pilosella_officinarum,60.526164,24.72034
@@ -712,19 +686,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85813661,Pilosella_officinarum,42.080002,-4.69
 204429409,Pilosella_officinarum,42.950001,-2.32
 204429410,Pilosella_officinarum,43.005001,-2.503
-204429293,Pilosella_officinarum,43,-0.12
 1806557010,Pilosella_officinarum,42.852578,-1.661392
-1230838403,Pilosella_officinarum,48,14.85
 1936632152,Pilosella_officinarum,43.2095,-1.7949
 204429292,Pilosella_officinarum,43.216,-1.787
 1806556959,Pilosella_officinarum,42.846142,-1.752532
-1851357588,Pilosella_officinarum,43,-6.24
 1851365379,Pilosella_officinarum,42.91,-6.24
 85814017,Pilosella_officinarum,40.830002,-4.07
 465762025,Pilosella_officinarum,45.20471,-64.40441
 788854608,Pilosella_officinarum,57.91201,15.76893
 1065668651,Pilosella_officinarum,64.704463,20.893426
-1851372347,Pilosella_officinarum,43,-5.76
 1806556968,Pilosella_officinarum,42.896696,-1.780896
 1851386568,Pilosella_officinarum,43.01,-6.48
 1851370793,Pilosella_officinarum,42.47,-5.62
@@ -738,7 +708,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851413397,Pilosella_officinarum,42.5253,-5.712
 1806557008,Pilosella_officinarum,42.665143,-1.621981
 1697706053,Pilosella_officinarum,55.585218,37.54728
-1702509615,Pilosella_officinarum,42.79,-1.8
 1851341485,Pilosella_officinarum,43.11,-4.91
 204433967,Pilosella_officinarum,42.68,-2.33
 1804523716,Pilosella_officinarum,47.25,-65.416667
@@ -750,7 +719,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705325826,Pilosella_officinarum,56.771244,12.620012
 1805098392,Pilosella_officinarum,42.301,-2.242
 1805098380,Pilosella_officinarum,42.274,-2.23
-1899382824,Pilosella_officinarum,45,-79.033333
 1248699061,Pilosella_officinarum,46.778611,-71.277778
 1248699090,Pilosella_officinarum,47.372222,-70.430556
 1935694449,Pilosella_officinarum,46.85,15.26667
@@ -771,7 +739,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262033535,Pilosella_officinarum,46.78176,-70.936342
 1697705832,Pilosella_officinarum,52.379539,32.197327
 1899359623,Pilosella_officinarum,45.116667,-79.65
-465928596,Pilosella_officinarum,47.4,-66.516667
 1989602777,Pilosella_officinarum,56.16349,15.68325
 1806129572,Pilosella_officinarum,42.818969,-1.62104
 204429416,Pilosella_officinarum,43.005001,-2.429
@@ -784,15 +751,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705325822,Pilosella_officinarum,56.825145,12.884776
 1697705966,Pilosella_officinarum,54.817332,38.092168
 1697755534,Pilosella_officinarum,42.795873,43.921709
-1804485789,Pilosella_officinarum,42.9,-79.016667
 2304174868,Pilosella_officinarum,44.83,-79.82
 1899379616,Pilosella_officinarum,44.833333,-79.816667
-1851334629,Pilosella_officinarum,42.2,-5.48
 1804436731,Pilosella_officinarum,45.666667,-76.666667
-1988122060,Pilosella_officinarum,61.3,27.7
-2028547142,Pilosella_officinarum,42.1,2.7
 1806129563,Pilosella_officinarum,42.839348,-1.642968
-1258602974,Pilosella_officinarum,35.5,-82.66666
 1851374194,Pilosella_officinarum,42.29,-5.49
 1697755529,Pilosella_officinarum,42.679281,44.022989
 296477572,Pilosella_officinarum,46.529722,11.305
@@ -800,7 +762,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204429415,Pilosella_officinarum,42.77,-2.69
 1804527415,Pilosella_officinarum,45.266667,-75.533333
 1697755533,Pilosella_officinarum,42.744239,43.977928
-1262002696,Pilosella_officinarum,46.8,-71.183333
 1899312587,Pilosella_officinarum,45.016667,-79.633333
 1598920357,Pilosella_officinarum,64.081704,28.53418
 1606512887,Pilosella_officinarum,61.494417,27.271847
@@ -837,9 +798,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2309949047,Pilosella_officinarum,51.55,-3.52
 1949517048,Pilosella_officinarum,49.608889,-117.123611
 415907623,Pilosella_officinarum,41.82722,-73.25222
-1851319878,Pilosella_officinarum,42.82,-6
 1697755580,Pilosella_officinarum,43.292888,41.758003
-1638532871,Pilosella_officinarum,38.7,22.15
 1705364855,Pilosella_officinarum,57.929282,14.375187
 1697705875,Pilosella_officinarum,55.895346,40.710139
 1697705896,Pilosella_officinarum,55.865215,40.708176
@@ -851,7 +810,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261993416,Pilosella_officinarum,46.827608,-71.164457
 1230839001,Pilosella_officinarum,46.85,15.31667
 1697705954,Pilosella_officinarum,54.913248,37.600936
-211628791,Pilosella_officinarum,43.049999,-6
 465928591,Pilosella_officinarum,46.375907,-62.111774
 2304407685,Pilosella_officinarum,51.86,-5.14
 211629016,Pilosella_officinarum,43.130001,-6.05
@@ -872,13 +830,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705429794,Pilosella_officinarum,57.26756,14.928626
 1638403176,Pilosella_officinarum,47.17028,13.63972
 1948523871,Pilosella_officinarum,61.232968,24.576084
-2289945908,Pilosella_officinarum,44.133333,8.1
 1261996125,Pilosella_officinarum,47.3875,-68.895278
 2290238746,Pilosella_officinarum,44.15,7.916667
 788422604,Pilosella_officinarum,37.216667,22.616667
 788422324,Pilosella_officinarum,37.95,22.416667
 788422546,Pilosella_officinarum,37.283333,22.616667
-788422662,Pilosella_officinarum,37.1,22.283333
 788422145,Pilosella_officinarum,37.966667,21.783333
 788422086,Pilosella_officinarum,36.95,22.35
 1038975042,Pilosella_officinarum,41.5475,-72.6547
@@ -889,8 +845,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415993164,Pilosella_officinarum,41.63916,-73.20916
 788422264,Pilosella_officinarum,36.95,22.366667
 1705401847,Pilosella_officinarum,56.721057,12.664137
-1230838355,Pilosella_officinarum,48.08333,15.9
-788422720,Pilosella_officinarum,36.9,22.366667
 1705402129,Pilosella_officinarum,57.274257,15.17529
 1261971115,Pilosella_officinarum,45.749444,-71.296667
 1989603096,Pilosella_officinarum,57.93791,14.60699
@@ -899,7 +853,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788422779,Pilosella_officinarum,37.65,22.266667
 1705401585,Pilosella_officinarum,57.315571,14.711528
 788422897,Pilosella_officinarum,37.233333,22.616667
-788422838,Pilosella_officinarum,37.233333,22.6
 788422204,Pilosella_officinarum,37.966667,22.283333
 788423075,Pilosella_officinarum,37.95,22.25
 812026089,Pilosella_officinarum,50.655083,9.185867
@@ -961,14 +914,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248699172,Pilosella_officinarum,48.888056,-68.792222
 1705469107,Pilosella_officinarum,56.880209,15.015949
 1948523781,Pilosella_officinarum,60.354791,25.647265
-1261991446,Pilosella_officinarum,47.5,-69.237
 1261991470,Pilosella_officinarum,47.466667,-69.233333
 1261958503,Pilosella_officinarum,47.7575,-69.949444
 1057508656,Pilosella_officinarum,51.548322,-0.271231
 1332540906,Pilosella_officinarum,50.6018,9.81441
 1434681183,Pilosella_officinarum,59.11173,14.02225
 57711816,Pilosella_officinarum,62.875099,27.620501
-1261962970,Pilosella_officinarum,48.233333,-70.2
 1261957483,Pilosella_officinarum,48.216667,-70.066667
 465762009,Pilosella_officinarum,44.86707,-64.67656
 1705345633,Pilosella_officinarum,55.937678,13.823702
@@ -1009,7 +960,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697755531,Pilosella_officinarum,42.549097,44.159031
 1705350307,Pilosella_officinarum,57.05803,15.047114
 1948523785,Pilosella_officinarum,61.010403,24.435853
-1261953559,Pilosella_officinarum,47.6,-70.2
 317865630,Pilosella_officinarum,50.618056,8.600278
 1891585914,Pilosella_officinarum,49.77,6.22
 465762004,Pilosella_officinarum,46.181774,-60.413143
@@ -1026,7 +976,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705463641,Pilosella_officinarum,57.345847,16.467929
 1697755603,Pilosella_officinarum,42.508552,44.266491
 1891604156,Pilosella_officinarum,49.74,6.03
-1261953097,Pilosella_officinarum,46.85,-71.2
 788497642,Pilosella_officinarum,57.665715,15.857518
 788496895,Pilosella_officinarum,56.699587,13.852536
 606652957,Pilosella_officinarum,42.23527,-72.14111
@@ -1083,7 +1032,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948523905,Pilosella_officinarum,62.662368,30.216851
 1988143072,Pilosella_officinarum,54.73,-64.27
 1705345625,Pilosella_officinarum,57.31825,15.854145
-1638403175,Pilosella_officinarum,46.94389,13
 1261949245,Pilosella_officinarum,46.953608,-71.297755
 1261949298,Pilosella_officinarum,46.953619,-71.297911
 1261949297,Pilosella_officinarum,46.953634,-71.297868
@@ -1143,7 +1091,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265591957,Pilosella_officinarum,46.843306,-92.069672
 1928957784,Pilosella_officinarum,40.874715,-74.738344
 2028613484,Pilosella_officinarum,62.134277,25.659298
-473546955,Pilosella_officinarum,45.5,-73.6
 1697706028,Pilosella_officinarum,56.234465,36.152115
 1705423636,Pilosella_officinarum,55.923565,14.292623
 1705273097,Pilosella_officinarum,55.884777,14.016743
@@ -1158,8 +1105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1148445639,Pilosella_officinarum,58.866667,25.016667
 1705337570,Pilosella_officinarum,57.787383,14.275284
 2313273616,Pilosella_officinarum,48.17,11.71
-1988088565,Pilosella_officinarum,44.5,-81.25
-1148445661,Pilosella_officinarum,59.191667,26.2
 1705336940,Pilosella_officinarum,57.787732,14.273688
 415907629,Pilosella_officinarum,41.12333,-73.3475
 1705382683,Pilosella_officinarum,56.156776,13.769886
@@ -1171,7 +1116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948523778,Pilosella_officinarum,60.219461,23.974408
 1638401638,Pilosella_officinarum,47.15,14.38333
 1705433733,Pilosella_officinarum,61.798088,16.191644
-1848904803,Pilosella_officinarum,51.5,10.5
 1065668657,Pilosella_officinarum,64.032048,20.482697
 1705326065,Pilosella_officinarum,56.540009,13.724447
 1705415926,Pilosella_officinarum,57.275427,16.471639
@@ -1221,7 +1165,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261947704,Pilosella_officinarum,46.928299,-71.450666
 2313271928,Pilosella_officinarum,48.24,11.27
 2313272381,Pilosella_officinarum,48.12,11.71
-1638401671,Pilosella_officinarum,47.1,13.93333
 1705442955,Pilosella_officinarum,59.858145,17.634069
 1705369589,Pilosella_officinarum,58.036227,14.958779
 1697755586,Pilosella_officinarum,40.657853,44.903097
@@ -1252,7 +1195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705434118,Pilosella_officinarum,56.243504,12.859811
 788847490,Pilosella_officinarum,56.151907,14.29927
 616367877,Pilosella_officinarum,50.51,5.52
-616367926,Pilosella_officinarum,50.48,6
 1638401629,Pilosella_officinarum,47.125,15.375
 1705365031,Pilosella_officinarum,56.463342,14.698418
 1638401609,Pilosella_officinarum,47.01472,15.33528
@@ -1368,7 +1310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705421463,Pilosella_officinarum,57.776492,14.124462
 1705344876,Pilosella_officinarum,57.320711,15.888207
 1705370980,Pilosella_officinarum,56.52978,15.382728
-1848904952,Pilosella_officinarum,49.75,15
 296476601,Pilosella_officinarum,46.743889,11.650556
 1697705961,Pilosella_officinarum,55.547435,38.25795
 1705323201,Pilosella_officinarum,56.107946,14.167968
