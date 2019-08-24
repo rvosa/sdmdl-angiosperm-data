@@ -36,7 +36,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986946265,Forsythia_suspensa,41.624167,-111.8725
 1030794741,Forsythia_suspensa,30.663372,113.166529
 2313445285,Forsythia_suspensa,48.22,11.46
-1261113017,Forsythia_suspensa,39.06666,-77
 1030794794,Forsythia_suspensa,30.222233,110.871148
 1319263402,Forsythia_suspensa,38.9775,-77.1947
 1030794867,Forsythia_suspensa,32.583831,110.701804
@@ -47,12 +46,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928673300,Forsythia_suspensa,38.989987,-76.906873
 675232095,Forsythia_suspensa,41.87138,-73.36222
 296468166,Forsythia_suspensa,46.836915,12.782604
-1998749366,Forsythia_suspensa,31.5,110.5
 2307440594,Forsythia_suspensa,42.25,-82.19
 1039009942,Forsythia_suspensa,41.3114,-72.9247
 1122716536,Forsythia_suspensa,38.4039,-96.18166
 1030744534,Forsythia_suspensa,29.671778,115.989221
-1830207270,Forsythia_suspensa,36.6,136.766667
 1122716550,Forsythia_suspensa,38.41685,-96.17848
 1319249776,Forsythia_suspensa,38.9025,-77.6744
 43212024,Forsythia_suspensa,33.47997,133.41418
