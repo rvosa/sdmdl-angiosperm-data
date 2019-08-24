@@ -49,7 +49,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846495462,Pterostegia_drymarioides,34.102167,-112.100983
 2270683768,Pterostegia_drymarioides,32.0151,-112.686
 1426469289,Pterostegia_drymarioides,34.4275,-118.448333
-2270682785,Pterostegia_drymarioides,32,-113
 2270674511,Pterostegia_drymarioides,33.5233,-112.53
 2270458848,Pterostegia_drymarioides,32.0146,-112.714
 2270671907,Pterostegia_drymarioides,33.8049,-111.755
@@ -95,18 +94,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270251670,Pterostegia_drymarioides,34.510683,-119.273583
 1894814975,Pterostegia_drymarioides,32.091667,-116.875
 1426469285,Pterostegia_drymarioides,34.487667,-118.136667
-1426430602,Pterostegia_drymarioides,38.56667,-122.7
 2270551388,Pterostegia_drymarioides,32.56194,-116.85417
 1500202127,Pterostegia_drymarioides,33.59,-117.023333
 1986977076,Pterostegia_drymarioides,34.950833,-119.163333
 1426469347,Pterostegia_drymarioides,33.616667,-117.025
 1894814977,Pterostegia_drymarioides,27.591667,-113.008333
 1426469209,Pterostegia_drymarioides,36.822222,-119.381944
-2270549121,Pterostegia_drymarioides,32.9,-116.933333
 2270210460,Pterostegia_drymarioides,34.7047999991165,-120.5979
 1846531632,Pterostegia_drymarioides,33.3859,-111.002
 2270208972,Pterostegia_drymarioides,35.46411,-120.33005
-623686217,Pterostegia_drymarioides,35.316667,-120.6
 1846531501,Pterostegia_drymarioides,33.211667,-112.238333
 1899735000,Pterostegia_drymarioides,32.864012,-116.689966
 2270606563,Pterostegia_drymarioides,33.7613,-110.835
@@ -123,12 +119,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270606425,Pterostegia_drymarioides,33.5166,-111.295
 2270606107,Pterostegia_drymarioides,33.4732,-111.216
 2270209019,Pterostegia_drymarioides,35.0299999991128,-120.6175
-1426469465,Pterostegia_drymarioides,38.566667,-122.7
 1426469332,Pterostegia_drymarioides,33.464167,-116.956944
 2270559046,Pterostegia_drymarioides,33.59,-111.44
 2270210771,Pterostegia_drymarioides,35.41731,-120.75296
 1895523053,Pterostegia_drymarioides,30.5148488923142,-115.992209661325
-1258007449,Pterostegia_drymarioides,32.466667,-116.6
 1928303535,Pterostegia_drymarioides,37.03341,-113.7805
 2270283467,Pterostegia_drymarioides,34.7058999991165,-120.4402
 2270208400,Pterostegia_drymarioides,35.358968,-120.563958
@@ -148,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426307959,Pterostegia_drymarioides,35.466667,-118.754167
 2270208100,Pterostegia_drymarioides,35.288256,-120.266468
 2270604795,Pterostegia_drymarioides,33.5318,-111.442
-1426469498,Pterostegia_drymarioides,36.525,-118.8
 2270606202,Pterostegia_drymarioides,34.1836,-112.141
 1929569662,Pterostegia_drymarioides,36.6291,-114.9321
 2270252667,Pterostegia_drymarioides,34.678207,-120.429487
@@ -203,7 +196,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270590252,Pterostegia_drymarioides,33.8984,-111.823
 2270608813,Pterostegia_drymarioides,33.49,-111.47
 1846531971,Pterostegia_drymarioides,33.7175,-111.30194
-1426469201,Pterostegia_drymarioides,36.066667,-120.3
 2270606055,Pterostegia_drymarioides,33.5975,-111.205
 2270606801,Pterostegia_drymarioides,33.5665,-111.354
 2270607081,Pterostegia_drymarioides,33.7102,-111.319
@@ -216,8 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270605762,Pterostegia_drymarioides,33.6783,-111.515
 1426469429,Pterostegia_drymarioides,37.275,-121.825
 2270606685,Pterostegia_drymarioides,34.0617,-111.07
-1426469266,Pterostegia_drymarioides,34.1,-118.716667
-1426469274,Pterostegia_drymarioides,34.2,-118.025
 1426469264,Pterostegia_drymarioides,34.241667,-118.183333
 1426469474,Pterostegia_drymarioides,37.396667,-122.158333
 1426469452,Pterostegia_drymarioides,37.083333,-122.066667
