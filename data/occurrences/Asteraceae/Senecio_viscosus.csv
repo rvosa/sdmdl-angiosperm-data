@@ -34,17 +34,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702170847,Senecio_viscosus,59.519,11.2585
 911797047,Senecio_viscosus,50.183891,9.135555
 1702379476,Senecio_viscosus,59.7076,10.2387
-1095920403,Senecio_viscosus,61,16
 1935724377,Senecio_viscosus,47.08144,15.41005
 1999601893,Senecio_viscosus,60.880124,25.275182
 1701282283,Senecio_viscosus,60.8849,10.9288
 1701282261,Senecio_viscosus,64.0391,11.3562
-1095920642,Senecio_viscosus,62,17
 1144053821,Senecio_viscosus,58.7215,5.638
 1949956457,Senecio_viscosus,52.269444,8.061111
 1697439803,Senecio_viscosus,57.9205,34.6726
 1598620070,Senecio_viscosus,60.394703,24.723069
-2290791005,Senecio_viscosus,52.516667,6.1
 1701966701,Senecio_viscosus,63.4511,10.9644
 1999601863,Senecio_viscosus,61.48842,21.788741
 1999601827,Senecio_viscosus,60.802205,22.632359
@@ -213,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342972674,Senecio_viscosus,55.086314,12.076711
 1148497162,Senecio_viscosus,59.24444,23.74167
 1342972429,Senecio_viscosus,56.458423,10.629527
-1697439872,Senecio_viscosus,55.5,40.608333
 1701248680,Senecio_viscosus,63.423,10.4124
 1935724123,Senecio_viscosus,47.6175,15.65
 1598620083,Senecio_viscosus,60.859191,22.183128
@@ -269,7 +265,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697439824,Senecio_viscosus,53.651913,23.802137
 1135460753,Senecio_viscosus,48.28333,15.41667
 1702205468,Senecio_viscosus,60.8408,11.3543
-1701779622,Senecio_viscosus,63.6,10.9746
 1702200495,Senecio_viscosus,59.9781,12.1059
 684166945,Senecio_viscosus,47.139344,9.946854
 2269046424,Senecio_viscosus,44.150766,11.317978
@@ -285,7 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187257602,Senecio_viscosus,61.4172,7.4402
 1701291638,Senecio_viscosus,63.4357,10.9092
 1342972003,Senecio_viscosus,56.746691,9.481016
-45978250,Senecio_viscosus,48.4,9.97
 1702003164,Senecio_viscosus,59.8728,10.4619
 1697439874,Senecio_viscosus,56.410253,41.147069
 1598620072,Senecio_viscosus,65.001888,25.475226
@@ -342,8 +336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701236692,Senecio_viscosus,62.7357,7.1509
 187257348,Senecio_viscosus,60.3715,11.548
 728979890,Senecio_viscosus,51.609535,6.044063
-895247824,Senecio_viscosus,40.3,-0.23
-1050614107,Senecio_viscosus,43,-3.41
 1599337201,Senecio_viscosus,63.100655,21.611545
 187257322,Senecio_viscosus,63.0635,10.2959
 1839076710,Senecio_viscosus,38.827221,21.91
@@ -388,7 +380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701762691,Senecio_viscosus,63.4705,10.8361
 1701588573,Senecio_viscosus,59.4143,11.7223
 1946170304,Senecio_viscosus,42.25,2.75
-1050581429,Senecio_viscosus,42.86,-2.2
 1598620013,Senecio_viscosus,62.586263,29.812147
 684167058,Senecio_viscosus,46.972327,10.875483
 1701793502,Senecio_viscosus,64.53678,12.57728
@@ -641,7 +632,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598620338,Senecio_viscosus,61.150555,24.489639
 1598623205,Senecio_viscosus,60.814072,26.537644
 1598619920,Senecio_viscosus,63.094247,21.596856
-1655993766,Senecio_viscosus,38.7,22.116667
 1598623298,Senecio_viscosus,60.840771,22.857416
 1697439828,Senecio_viscosus,52.574816,33.773345
 1598620019,Senecio_viscosus,60.724329,26.538936
@@ -661,7 +651,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099914107,Senecio_viscosus,60.433333,22.333333
 1697439876,Senecio_viscosus,55.233604,38.765548
 1697439896,Senecio_viscosus,55.598879,37.900924
-1988172748,Senecio_viscosus,60.4,22.3
 1144127731,Senecio_viscosus,60.3827,5.3359
 1655993810,Senecio_viscosus,39.483333,21.433333
 1702199415,Senecio_viscosus,60.3305,11.2548
@@ -936,7 +925,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598620323,Senecio_viscosus,61.792502,21.780062
 1705332592,Senecio_viscosus,56.503371,13.240263
 788707723,Senecio_viscosus,56.031862,14.152378
-786273363,Senecio_viscosus,50.5,7
 1598620146,Senecio_viscosus,62.536277,29.046472
 1701294926,Senecio_viscosus,63.7051,9.6777
 1056693826,Senecio_viscosus,51.548322,-0.271231
@@ -1061,7 +1049,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187256880,Senecio_viscosus,63.4448,10.4736
 187256879,Senecio_viscosus,63.4262,10.5428
 1999477339,Senecio_viscosus,60.446986,22.234412
-1893207437,Senecio_viscosus,49.46,6
 1598620261,Senecio_viscosus,61.130165,23.5627
 1705350188,Senecio_viscosus,57.05803,15.047114
 1701269965,Senecio_viscosus,63.5966,10.925
@@ -1075,7 +1062,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705465130,Senecio_viscosus,56.744638,14.914524
 1041026,Senecio_viscosus,57.65848,14.05547
 1705340595,Senecio_viscosus,57.31825,15.854145
-786273430,Senecio_viscosus,52.3,13.3
 1701920869,Senecio_viscosus,58.6577,8.6294
 1099903677,Senecio_viscosus,63.095278,21.616389
 1702404853,Senecio_viscosus,58.868,9.026
@@ -1099,7 +1085,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598620195,Senecio_viscosus,61.139083,23.93331
 1041030,Senecio_viscosus,57.69422,14.98373
 684167069,Senecio_viscosus,47.133,10.916
-786273452,Senecio_viscosus,50.1,8.7
 1598623258,Senecio_viscosus,64.582797,26.683504
 1999477501,Senecio_viscosus,62.224071,21.319938
 1598616970,Senecio_viscosus,60.455593,26.724469
@@ -1126,7 +1111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099895733,Senecio_viscosus,56.1707,15.59364
 1041254,Senecio_viscosus,56.20285,15.53645
 788705965,Senecio_viscosus,59.78574,17.63611
-876152723,Senecio_viscosus,42.4,2.21
 1999601899,Senecio_viscosus,59.960838,23.505513
 788704953,Senecio_viscosus,57.89319,11.73047
 788731500,Senecio_viscosus,56.433477,12.835168
@@ -1309,7 +1293,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788721409,Senecio_viscosus,58.780735,12.426519
 1701831140,Senecio_viscosus,59.1159,11.4366
 788771323,Senecio_viscosus,59.6047,13.7236
-1099902663,Senecio_viscosus,60.2,29.7
 788706735,Senecio_viscosus,59.61238,16.540739
 1705272099,Senecio_viscosus,60.672789,17.137797
 788721707,Senecio_viscosus,58.389094,13.846898
