@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2289217323,Dioscorea_minutiflora,0.548972,9.355889
 1257774389,Dioscorea_minutiflora,7.676389,-8.388333
 1257774932,Dioscorea_minutiflora,7.672222,-8.445278
 1839416909,Dioscorea_minutiflora,2.05331,22.794569
@@ -56,7 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288879520,Dioscorea_minutiflora,0.6,9.433333
 2013849247,Dioscorea_minutiflora,-2.233333,10.416667
 2289061199,Dioscorea_minutiflora,0.65,11.266667
-2291963265,Dioscorea_minutiflora,0.566667,9.366667
 2289269006,Dioscorea_minutiflora,5.85,-7.416667
 2291962700,Dioscorea_minutiflora,7,4.25
 2289076236,Dioscorea_minutiflora,5.383333,-4.05
@@ -103,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839848632,Dioscorea_minutiflora,1.266667,24.55
 1839848740,Dioscorea_minutiflora,0.85,24.3
 1839848300,Dioscorea_minutiflora,0.033333,18.316667
-2252219946,Dioscorea_minutiflora,4.52,-2.14
 2252219532,Dioscorea_minutiflora,6.4,0.45
 2252219672,Dioscorea_minutiflora,6.23,0.23
 2013885305,Dioscorea_minutiflora,-0.833333,12.7
