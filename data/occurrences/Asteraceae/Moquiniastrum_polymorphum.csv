@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2229108384,Moquiniastrum_polymorphum,-27.538611,-51.791944
 2285830824,Moquiniastrum_polymorphum,-28.438889,-49.947778
-2285831207,Moquiniastrum_polymorphum,-28.350278,-50.4
 1913577713,Moquiniastrum_polymorphum,-23.100833,-48.908611
 1889165442,Moquiniastrum_polymorphum,-28.526389,-49.413056
 1978404765,Moquiniastrum_polymorphum,-15.244722,-39.413611
@@ -63,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2269038868,Moquiniastrum_polymorphum,-22.376222,-49.67075
 1095360296,Moquiniastrum_polymorphum,-27.925278,-50.689167
 1095360310,Moquiniastrum_polymorphum,-29.497222,-54.646389
-2309322483,Moquiniastrum_polymorphum,-22.6,-50.38
 1095360340,Moquiniastrum_polymorphum,-29.452778,-54.494722
 1095360345,Moquiniastrum_polymorphum,-27.147778,-50.649167
 1095360381,Moquiniastrum_polymorphum,-24.594167,-50.240833
@@ -139,7 +137,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1213528049,Moquiniastrum_polymorphum,-25.934444,-49.188889
 1095360368,Moquiniastrum_polymorphum,-24.477222,-49.494167
 1095360354,Moquiniastrum_polymorphum,-25.934444,-49.189167
-1077240137,Moquiniastrum_polymorphum,-11.3,-40.483333
 1090161029,Moquiniastrum_polymorphum,-25.332333,-49.22275
 1087509251,Moquiniastrum_polymorphum,-28.957222,-50.926944
 1234554829,Moquiniastrum_polymorphum,-28.957278,-50.927194
@@ -153,7 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1213676297,Moquiniastrum_polymorphum,-25.241944,-50.008056
 1563168029,Moquiniastrum_polymorphum,-23.524267,-47.540447
 1094926893,Moquiniastrum_polymorphum,-23.516667,-47.533333
-1424481615,Moquiniastrum_polymorphum,-23.5,-47.540278
 1829095214,Moquiniastrum_polymorphum,-23.399806,-46.462972
 2027488062,Moquiniastrum_polymorphum,-23.399722,-46.463056
 1090660245,Moquiniastrum_polymorphum,-22.565556,-42.288833
@@ -218,7 +214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094934684,Moquiniastrum_polymorphum,-7.372222,-39.448611
 1090577506,Moquiniastrum_polymorphum,-23.3503,-47.6886
 1077390553,Moquiniastrum_polymorphum,-28.214167,-50.716111
-1424486495,Moquiniastrum_polymorphum,-28.2,-50.7
 1077470016,Moquiniastrum_polymorphum,-24.103694,-52.331111
 1086966748,Moquiniastrum_polymorphum,-24.103694,-58.376444
 1585967158,Moquiniastrum_polymorphum,-20.103611,-52.331111
@@ -279,7 +274,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424512651,Moquiniastrum_polymorphum,-22.583333,-50.366667
 1123802055,Moquiniastrum_polymorphum,-20.043333,-40.697222
 1090604014,Moquiniastrum_polymorphum,-30.101167,-51.328056
-1087624661,Moquiniastrum_polymorphum,-18.1,-43.333333
 1322333238,Moquiniastrum_polymorphum,-18.1022,-43.3394
 1087627071,Moquiniastrum_polymorphum,-19.853333,-43.383611
 1090570034,Moquiniastrum_polymorphum,-23.710157,-47.100922
@@ -292,7 +286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1272058394,Moquiniastrum_polymorphum,-15.533333,-47.85
 1090566425,Moquiniastrum_polymorphum,-22.7553,-46.1447
 1086933534,Moquiniastrum_polymorphum,-22.728611,-45.977222
-1089104703,Moquiniastrum_polymorphum,-22.9,-46.85
 1090469396,Moquiniastrum_polymorphum,-13.154444,-41.767778
 1928125561,Moquiniastrum_polymorphum,-21.7222,-44.9853
 1090508783,Moquiniastrum_polymorphum,-13.293889,-41.853611
@@ -312,7 +305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1321804815,Moquiniastrum_polymorphum,-22.42,-55.75
 1978404939,Moquiniastrum_polymorphum,-28.678333,-49.370278
 1090562511,Moquiniastrum_polymorphum,-22.85608,-47.09312
-1086892077,Moquiniastrum_polymorphum,-23.566667,-48
 1077201136,Moquiniastrum_polymorphum,-12.433333,-41.466667
 1930398189,Moquiniastrum_polymorphum,-30.5161198711206,-53.4923321782221
 2005816611,Moquiniastrum_polymorphum,-24.043,-49.0416
@@ -324,7 +316,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005818613,Moquiniastrum_polymorphum,-24.0429,-49.0416
 1086891535,Moquiniastrum_polymorphum,-24.074722,-49.071111
 1090567378,Moquiniastrum_polymorphum,-23.9108,-50.5803
-1090563715,Moquiniastrum_polymorphum,-24.066667,-49.2
 2005818515,Moquiniastrum_polymorphum,-24.045,-49.1219
 1316172314,Moquiniastrum_polymorphum,-24.071111,-49.184444
 1258281846,Moquiniastrum_polymorphum,-23.804444,-56.095278
@@ -332,7 +323,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1316172309,Moquiniastrum_polymorphum,-23.663333,-49.342222
 1316172321,Moquiniastrum_polymorphum,-23.185,-48.964444
 1090686654,Moquiniastrum_polymorphum,-24.071167,-49.184472
-912112561,Moquiniastrum_polymorphum,-11.15,-40.5
 1258339491,Moquiniastrum_polymorphum,-22.79166,-56.28694
 1258339900,Moquiniastrum_polymorphum,-22.68555,-56.01472
 1089079861,Moquiniastrum_polymorphum,-22.836944,-46.932778
@@ -343,7 +333,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912112609,Moquiniastrum_polymorphum,-13.15,-41.77
 1087507799,Moquiniastrum_polymorphum,-22.314722,-49.060278
 1077581824,Moquiniastrum_polymorphum,-24.353889,-47.948889
-1424176400,Moquiniastrum_polymorphum,-22.5,-42.25
 1123817991,Moquiniastrum_polymorphum,-22.505,-42.266667
 1257688106,Moquiniastrum_polymorphum,-23.79361,-56.07055
 1094713099,Moquiniastrum_polymorphum,-28.678056,-49.37
@@ -356,7 +345,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089115966,Moquiniastrum_polymorphum,-20.866667,-40.766667
 1320678526,Moquiniastrum_polymorphum,-27.05,-56.07
 1259647938,Moquiniastrum_polymorphum,-27.333333,-56.066667
-1259813040,Moquiniastrum_polymorphum,-25.41666,-56
 1930248864,Moquiniastrum_polymorphum,-20.1324137500631,-40.307768791182
 912112669,Moquiniastrum_polymorphum,-13.28,-41.88
 1077218051,Moquiniastrum_polymorphum,-13.283333,-41.883333
@@ -364,27 +352,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928055595,Moquiniastrum_polymorphum,-29.108528,-51.094927
 1077313827,Moquiniastrum_polymorphum,-25.333333,-49.233333
 2270480496,Moquiniastrum_polymorphum,-29.115021,-51.09029
-912112683,Moquiniastrum_polymorphum,-13.27,-41.9
-1094728656,Moquiniastrum_polymorphum,-13.266667,-41.9
 1089115982,Moquiniastrum_polymorphum,-13.283333,-41.966667
 1123818013,Moquiniastrum_polymorphum,-22.57,-42.25
 1928261325,Moquiniastrum_polymorphum,-23.5441635944115,-46.6304063522203
-1320751708,Moquiniastrum_polymorphum,-25.2,-57.12
-1261287804,Moquiniastrum_polymorphum,-25.2,-57.116667
 1258090823,Moquiniastrum_polymorphum,-23.966667,-55.266667
 1144720321,Moquiniastrum_polymorphum,-23.96667,-55.26667
 1424381578,Moquiniastrum_polymorphum,-19.883333,-40.383333
 1123788679,Moquiniastrum_polymorphum,-19.889444,-40.376944
-1261278198,Moquiniastrum_polymorphum,-25.5,-56.833333
 1086883074,Moquiniastrum_polymorphum,-22.716667,-45.566667
 1261310801,Moquiniastrum_polymorphum,-25.25,-55.91666
 1321228415,Moquiniastrum_polymorphum,-25.25,-55.92
 1087684458,Moquiniastrum_polymorphum,-22.4332,-47.3856
-1322121240,Moquiniastrum_polymorphum,-13.5,-45.58
-1228502028,Moquiniastrum_polymorphum,-27,-50
 1123787124,Moquiniastrum_polymorphum,-19.971389,-40.530278
-1094789131,Moquiniastrum_polymorphum,-13.5,-41.266667
-1322332204,Moquiniastrum_polymorphum,-13.5,-41.27
 1257613970,Moquiniastrum_polymorphum,-13.533333,-41.916667
 912112673,Moquiniastrum_polymorphum,-13.53,-41.92
 1090578041,Moquiniastrum_polymorphum,-23.423889,-48.35056
@@ -406,7 +385,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317740766,Moquiniastrum_polymorphum,-12.25,-38.97
 1094721746,Moquiniastrum_polymorphum,-12.25,-38.966667
 1322028260,Moquiniastrum_polymorphum,-12.4931,-38.3131
-1094720150,Moquiniastrum_polymorphum,-12.483333,-38.3
 1261284383,Moquiniastrum_polymorphum,-22.666667,-56.083333
 1261284471,Moquiniastrum_polymorphum,-20.35,-60.333333
 1257613969,Moquiniastrum_polymorphum,-23.45,-48.416667
@@ -417,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094710193,Moquiniastrum_polymorphum,-28.598333,-49.424722
 1424138297,Moquiniastrum_polymorphum,-22.533333,-52.316667
 1929197391,Moquiniastrum_polymorphum,-15.82,-47.63
-1077186670,Moquiniastrum_polymorphum,-9.4,-38.216667
 1424138321,Moquiniastrum_polymorphum,-23.083333,-49.016667
 1929707971,Moquiniastrum_polymorphum,-15.58,-48.17
 1042544464,Moquiniastrum_polymorphum,-15.583333,-48.17
@@ -426,8 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077581846,Moquiniastrum_polymorphum,-21.838889,-46.564722
 1144687103,Moquiniastrum_polymorphum,-25.01667,-55.93333
 1929209576,Moquiniastrum_polymorphum,-20.2680162035241,-40.4196763587935
-1086974298,Moquiniastrum_polymorphum,-19.916667,-46.2
-1424138335,Moquiniastrum_polymorphum,-22.283333,-53.5
 1928024928,Moquiniastrum_polymorphum,-25.75,-49.25
 1930980340,Moquiniastrum_polymorphum,-25.4319824288048,-49.2736972819373
 1291047497,Moquiniastrum_polymorphum,-20.666667,-48.15
@@ -435,7 +410,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929467263,Moquiniastrum_polymorphum,-25.7735852580695,-49.7162298973284
 1929992002,Moquiniastrum_polymorphum,-23.5316626741386,-46.9029251311364
 1291046436,Moquiniastrum_polymorphum,-23.118472,-55.320619
-1144687112,Moquiniastrum_polymorphum,-24.03333,-54.3
 1144687105,Moquiniastrum_polymorphum,-24.01667,-55.51667
 1424138381,Moquiniastrum_polymorphum,-22.75,-48.416667
 1077429436,Moquiniastrum_polymorphum,-29.885741,-51.385669
