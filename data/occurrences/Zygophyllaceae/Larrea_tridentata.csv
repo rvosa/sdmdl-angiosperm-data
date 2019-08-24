@@ -101,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 623673853,Larrea_tridentata,33.0481799991371,-115.15433
 1843910868,Larrea_tridentata,32.02511,-105.65112
 1846484034,Larrea_tridentata,34.1236,-114.1174
-1895652651,Larrea_tridentata,30.955833,-114.766111
 1843910843,Larrea_tridentata,32.18018,-105.16133
 1846519485,Larrea_tridentata,34.30309,-111.45468
 1846485142,Larrea_tridentata,37.213075,-115.068942
@@ -151,7 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843899040,Larrea_tridentata,32.64878,-103.48525
 1843899146,Larrea_tridentata,33.28956,-106.81092
 1986869407,Larrea_tridentata,36.417565,-116.311639
-2268852708,Larrea_tridentata,27.23975,-112.228267
 1426270278,Larrea_tridentata,34.261111,-115.708056
 2270688264,Larrea_tridentata,33.8837,-111.366
 1846519502,Larrea_tridentata,37.225867,-113.28195
@@ -416,10 +414,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270604115,Larrea_tridentata,32.8047,-111.964
 2270603400,Larrea_tridentata,33.8333,-111.417
 2270601937,Larrea_tridentata,33.6183,-114.453
-1258568209,Larrea_tridentata,47.66666,-122.58333
 2270467720,Larrea_tridentata,34.2272,-113.073
 1846493268,Larrea_tridentata,33.80028,-112.150278
-1894816238,Larrea_tridentata,25.608333,-110.775
 1895475045,Larrea_tridentata,29.433333,-104.266667
 1846493158,Larrea_tridentata,33.9058,-112.3342
 1418790418,Larrea_tridentata,26.670167,-103.759944
@@ -442,9 +438,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893589507,Larrea_tridentata,30.702778,-110.805556
 1457754999,Larrea_tridentata,34.846944,-114.964167
 1897944205,Larrea_tridentata,21.978333,-101.518333
-1894816246,Larrea_tridentata,25.291667,-110.925
-1894816247,Larrea_tridentata,25.841667,-111.241667
-1895307700,Larrea_tridentata,25.274722,-110.933056
 1846512878,Larrea_tridentata,33.033333,-115.183333
 1895652678,Larrea_tridentata,28.885556,-111.9925
 1893591078,Larrea_tridentata,28.885278,-111.991944
@@ -549,9 +542,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893591027,Larrea_tridentata,29.008333,-110.811389
 1846512965,Larrea_tridentata,29.091667,-103.066667
 1893675073,Larrea_tridentata,24.06278,-110.37583
-1896212901,Larrea_tridentata,26.008333,-111.375
 1896068669,Larrea_tridentata,24.063889,-110.366389
-1265830060,Larrea_tridentata,26.4,-114.683333
 1846512540,Larrea_tridentata,32.266667,-113.916667
 2270601851,Larrea_tridentata,32.2,-112.92
 1657187784,Larrea_tridentata,32.26667,-113.91667
@@ -565,10 +556,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419189920,Larrea_tridentata,20.618611,-100.895556
 1895652667,Larrea_tridentata,26.831667,-111.873889
 1896068701,Larrea_tridentata,28.943056,-113.586667
-1896068705,Larrea_tridentata,29.1225,-112.3425
 1259238816,Larrea_tridentata,28.933333,-113.566667
-1259238849,Larrea_tridentata,29.183333,-112.4
-1259239596,Larrea_tridentata,29.016667,-112.266667
 1426305735,Larrea_tridentata,33.7,-115.458333
 1895475272,Larrea_tridentata,22.4979712886407,-101.517671577963
 1895652613,Larrea_tridentata,29.837222,-112.643611
@@ -599,7 +587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893408089,Larrea_tridentata,22.291667,-100.958333
 1419195961,Larrea_tridentata,25.175,-103.258333
 1423117614,Larrea_tridentata,25.658333,-102.375
-1896068666,Larrea_tridentata,29.116667,-113.3
 1893675042,Larrea_tridentata,25.716667,-102.195
 2270601240,Larrea_tridentata,33.2111,-114.208
 1895475005,Larrea_tridentata,27.53667,-114.475
@@ -657,7 +644,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895475053,Larrea_tridentata,23.533333,-99.816667
 1319731988,Larrea_tridentata,23.62,-99.87
 1419221119,Larrea_tridentata,21.104444,-99.692778
-1896212886,Larrea_tridentata,28.358333,-115.225
 2270601085,Larrea_tridentata,31.3441,-109.256
 1896068618,Larrea_tridentata,32.551944,-106.925833
 2270600448,Larrea_tridentata,35.9706,-113.315
@@ -669,7 +655,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270528282,Larrea_tridentata,26.890594,-111.981083
 2270528026,Larrea_tridentata,27.959176,-114.056646
 2270527576,Larrea_tridentata,27.881904,-113.839325
-2270529596,Larrea_tridentata,27.359943,-112.280453
 2270527748,Larrea_tridentata,29.239012,-114.143998
 2270528910,Larrea_tridentata,30.040599,-115.738998
 2270526114,Larrea_tridentata,29.770741,-114.777522
@@ -721,15 +706,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896068738,Larrea_tridentata,25.836389,-111.343056
 1893408052,Larrea_tridentata,26.275,-111.508333
 1893675049,Larrea_tridentata,20.916667,-99.766667
-1419195644,Larrea_tridentata,26.010833,-111.36
-1896068619,Larrea_tridentata,26.021667,-111.354722
 1896068613,Larrea_tridentata,20.640556,-99.254167
 1842925968,Larrea_tridentata,32.346665,-107.63708
 1893675022,Larrea_tridentata,20.195354,-99.195951
 1896212888,Larrea_tridentata,21.075,-99.758333
 1258398014,Larrea_tridentata,21.02,-99.74
 1895475008,Larrea_tridentata,21.0213458511802,-99.7306844242389
-2270196253,Larrea_tridentata,36.5054,-117.0794
 2270602133,Larrea_tridentata,31.799808,-111.25982
 1893675035,Larrea_tridentata,28.628333,-106.068333
 2270602010,Larrea_tridentata,35.4529,-114.167
@@ -780,7 +762,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 623654139,Larrea_tridentata,33.748074,-104.571992
 1563372710,Larrea_tridentata,31.866667,-106.55
 1893675016,Larrea_tridentata,25.833333,-103.845
-1895474973,Larrea_tridentata,27.3918930900778,-112.341508443072
 1895475001,Larrea_tridentata,27.2943772433652,-113.021704343613
 1895474993,Larrea_tridentata,29.2940465856392,-114.243107277382
 1895475139,Larrea_tridentata,24.1113081870387,-110.353552363365
@@ -799,7 +780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895475009,Larrea_tridentata,27.0168380402941,-101.349381426804
 1895475141,Larrea_tridentata,24.0970725479161,-110.406603495951
 1895475234,Larrea_tridentata,28.883333,-105.283333
-1895475109,Larrea_tridentata,26.0213406723758,-111.35379118301
 1846512748,Larrea_tridentata,34.022556,-112.805
 1843890726,Larrea_tridentata,32.677166,-106.555722
 2270601188,Larrea_tridentata,35.85,-113.31
@@ -809,7 +789,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270528766,Larrea_tridentata,28.984445,-105.567109
 1896187986,Larrea_tridentata,24.320556,-101.356667
 1611942403,Larrea_tridentata,31.866667,-106.383333
-1896068612,Larrea_tridentata,27.321944,-112.251667
 1843823384,Larrea_tridentata,34.236121,-107.063082
 1843822665,Larrea_tridentata,34.394072,-106.991854
 1896068675,Larrea_tridentata,23.188889,-101.448056
@@ -820,7 +799,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896187987,Larrea_tridentata,26.676111,-103.698611
 2270601275,Larrea_tridentata,34.3687,-114.157
 623654169,Larrea_tridentata,32.834543,-112.135211
-1896068722,Larrea_tridentata,29.009722,-112.373333
 2270602528,Larrea_tridentata,33.7197,-111.778
 1846512769,Larrea_tridentata,36.1145,-113.3656
 2270600332,Larrea_tridentata,33.4,-112.28
@@ -862,7 +840,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896068716,Larrea_tridentata,33.465833,-111.922222
 1896066682,Larrea_tridentata,32.166667,-114.141667
 2270603751,Larrea_tridentata,33.1747,-110.527
-1896068683,Larrea_tridentata,24.323056,-110.296944
 1895475075,Larrea_tridentata,28.65,-103.1
 1846512877,Larrea_tridentata,34.506083,-117.3985
 1895475066,Larrea_tridentata,20.95,-99.766667
@@ -952,7 +929,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270602578,Larrea_tridentata,32.2506,-112.605
 2270600597,Larrea_tridentata,32.9572,-110.354
 1896068643,Larrea_tridentata,27.937222,-114.263889
-1212010633,Larrea_tridentata,-42.41666,-65
 1896068704,Larrea_tridentata,29.028333,-111.148056
 2270603050,Larrea_tridentata,34.02,-112.15
 2270602164,Larrea_tridentata,33.686,-111.739
@@ -975,7 +951,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270601554,Larrea_tridentata,32.6606,-114.361
 1843890638,Larrea_tridentata,32.552013,-104.405217
 623654174,Larrea_tridentata,31.498084,-103.245884
-1896068622,Larrea_tridentata,30.344167,-114.676944
 1893408104,Larrea_tridentata,28.941667,-113.591667
 2270601408,Larrea_tridentata,32.7251,-114.399
 1893408074,Larrea_tridentata,31.808333,-115.125
@@ -983,7 +958,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893408111,Larrea_tridentata,28.225,-113.441667
 2270653848,Larrea_tridentata,33.1583,-111.642
 623654219,Larrea_tridentata,32.700485,-114.014274
-1893408005,Larrea_tridentata,29.358333,-113.408333
 1846519405,Larrea_tridentata,30.045024,-102.114401
 1893408065,Larrea_tridentata,23.825,-100.725
 1895475060,Larrea_tridentata,25.0017566791319,-101.076560616398
@@ -1007,7 +981,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843890551,Larrea_tridentata,35.037474,-106.387213
 1843891004,Larrea_tridentata,34.01709,-107.025909
 2270604939,Larrea_tridentata,33.9138,-113.173
-1896066684,Larrea_tridentata,29.085278,-112.373889
 1896068686,Larrea_tridentata,24.153611,-110.845
 2270602042,Larrea_tridentata,33.4992,-111.641
 1896066691,Larrea_tridentata,28.813889,-111.863333
@@ -1039,8 +1012,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896068689,Larrea_tridentata,23.725278,-100.9825
 1426270084,Larrea_tridentata,36.9362,-117.6716
 1896068693,Larrea_tridentata,20.424167,-99.135
-1258398315,Larrea_tridentata,27.2,-112.083333
-1258398280,Larrea_tridentata,27.4,-112.333333
 1895475057,Larrea_tridentata,24.7125,-100.303889
 1895474948,Larrea_tridentata,25.6532258224404,-100.757235768651
 2270601969,Larrea_tridentata,33.6094,-112.064
@@ -1065,7 +1036,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895475115,Larrea_tridentata,24.690001,-100.225559
 1896068617,Larrea_tridentata,27.8675,-99.917778
 1320970639,Larrea_tridentata,29.58,-114.78
-1893408050,Larrea_tridentata,29.049722,-113.139444
 1896068640,Larrea_tridentata,22.641111,-99.892778
 2270602770,Larrea_tridentata,33.4147,-111.909
 1895475120,Larrea_tridentata,26.8967372493398,-99.8131462911134
@@ -1095,23 +1065,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258398291,Larrea_tridentata,26.566667,-111.783333
 2270604834,Larrea_tridentata,33.4581,-111.949
 1258398296,Larrea_tridentata,24.066667,-110.56
-1258398288,Larrea_tridentata,27.388056,-112.305
 1258398309,Larrea_tridentata,27.616667,-113.366667
 1258398304,Larrea_tridentata,25.933333,-111.95
 1258398224,Larrea_tridentata,25.366667,-111.583333
 1258398272,Larrea_tridentata,26.6,-112.816667
 1258397999,Larrea_tridentata,29.583333,-114.366667
-1258398002,Larrea_tridentata,30.15,-114.64
 1258398177,Larrea_tridentata,26.2,-112.05
 1258398271,Larrea_tridentata,26.373889,-112.510556
-1258398206,Larrea_tridentata,30.533333,-114.7
 1258398227,Larrea_tridentata,24.7,-111.52
 1259238268,Larrea_tridentata,24.216667,-110.583333
 1896068680,Larrea_tridentata,28.854722,-113.736944
 1258398228,Larrea_tridentata,24.11,-110.433333
 1258398273,Larrea_tridentata,30.816667,-114.816667
 1258398249,Larrea_tridentata,24.483333,-111.283333
-1258397954,Larrea_tridentata,29.666667,-114.166667
 1258398276,Larrea_tridentata,27.6,-113.77
 1258398254,Larrea_tridentata,24.166667,-110.883333
 1258397997,Larrea_tridentata,28.970556,-113.625278
@@ -1190,7 +1156,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270604435,Larrea_tridentata,32.08,-111.35
 1843890479,Larrea_tridentata,32.691617,-106.541002
 1896068736,Larrea_tridentata,27.803889,-99.439444
-1846502923,Larrea_tridentata,29.185556,-112.416944
 623654186,Larrea_tridentata,31.841816,-104.833137
 1846512868,Larrea_tridentata,33.453994,-111.954125
 1895475035,Larrea_tridentata,28.125,-113.75
@@ -1204,7 +1169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846512932,Larrea_tridentata,27.4125,-114.220833
 1895475074,Larrea_tridentata,22.1974974469341,-100.938195602982
 1895474992,Larrea_tridentata,29.3112098347999,-114.267801969807
-1212010616,Larrea_tridentata,-38.75027,-70.02361
 1258397975,Larrea_tridentata,25.39,-100.26
 1895475046,Larrea_tridentata,25.601608,-100.868574
 1896068626,Larrea_tridentata,24.846944,-103.7125
@@ -1230,7 +1194,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258398011,Larrea_tridentata,31,-112.38
 1895475242,Larrea_tridentata,26.9011231397994,-101.41824955756
 1895475144,Larrea_tridentata,28.6354899724554,-106.089200037765
-1258398024,Larrea_tridentata,28.333333,-112.866667
 1258397982,Larrea_tridentata,23.13,-101.11
 1895475351,Larrea_tridentata,23.130445393381,-101.115725602826
 1843890440,Larrea_tridentata,34.129265,-106.90803
@@ -1241,7 +1204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426270167,Larrea_tridentata,33.6801,-116.1794
 1426270075,Larrea_tridentata,36.1934,-117.1821
 1426270157,Larrea_tridentata,33.9528,-116.6425
-1259240109,Larrea_tridentata,27.33,-112.26
 1258397995,Larrea_tridentata,24.02,-100.69
 1426270174,Larrea_tridentata,33.7352,-115.8024
 2270290803,Larrea_tridentata,32.7366,-116.0315
