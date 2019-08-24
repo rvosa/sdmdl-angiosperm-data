@@ -91,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176903167,Carex_cristatella,38.1041613357977,-95.0250796058602
 176903174,Carex_cristatella,42.700556,-92.395833
 668758491,Carex_cristatella,46.266667,-76.033333
-473438853,Carex_cristatella,45.498889,-75.742778
 668758492,Carex_cristatella,46.883333,-71.066667
 176903361,Carex_cristatella,39.159167,-94.793611
 176903281,Carex_cristatella,41.5446,-81.4729
@@ -100,17 +99,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176903253,Carex_cristatella,38.1042,-95.025
 1989943846,Carex_cristatella,33.160748,-91.380795
 1989505226,Carex_cristatella,38.104167,-95.025
-1321646831,Carex_cristatella,38.9181,-77.1006
 668815522,Carex_cristatella,42.883333,-82.483333
 176902830,Carex_cristatella,44.282778,-85.858889
-1320960346,Carex_cristatella,38.8919,-77.0611
 2265440456,Carex_cristatella,44.535072,-92.339158
 176903123,Carex_cristatella,41.2137,-96.3509
 1257691157,Carex_cristatella,38.5236,-90.5583
 176903202,Carex_cristatella,42.25774,-96.33757
 176903316,Carex_cristatella,42.707652,-92.483188
 176902791,Carex_cristatella,42.700279,-92.281944
-473443120,Carex_cristatella,45.432778,-75.757778
 473443433,Carex_cristatella,47.4525,-72.766389
 1988898890,Carex_cristatella,41.358333,-91.508333
 1989489739,Carex_cristatella,37.470278,-84.936111
@@ -127,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265428300,Carex_cristatella,45.507996,-94.209005
 2265409408,Carex_cristatella,45.449224,-94.47601
 1228627381,Carex_cristatella,43.0619,-73.9169
-473283155,Carex_cristatella,45.493056,-75.736111
 2265413997,Carex_cristatella,44.459877,-94.799908
 176903324,Carex_cristatella,40.241217,-87.780483
 1258281530,Carex_cristatella,37.5,-90.533333
@@ -205,7 +200,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804610094,Carex_cristatella,45.3,-75.55
 473554658,Carex_cristatella,45.466667,-73.933333
 2265496960,Carex_cristatella,45.267502,-92.755554
-473492130,Carex_cristatella,45.4386999990569,-75.6952
 1804473917,Carex_cristatella,46.288889,-78.8875
 668815449,Carex_cristatella,42.666667,-80.95
 668815450,Carex_cristatella,42.766667,-80.933333
@@ -240,7 +234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265494706,Carex_cristatella,44.284721,-91.921698
 2265494695,Carex_cristatella,45.41981,-95.183338
 1989356708,Carex_cristatella,46.917162,-88.583132
-1804561439,Carex_cristatella,45.433333,-75.583333
 2265494993,Carex_cristatella,43.810973,-91.283822
 1899359087,Carex_cristatella,45.016667,-78.883333
 2265495601,Carex_cristatella,44.348192,-93.919172
@@ -256,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265495575,Carex_cristatella,43.7396,-92.819237
 2265493961,Carex_cristatella,43.51793,-92.50145
 1989122055,Carex_cristatella,42.341667,-82.933333
-1978806917,Carex_cristatella,47.083333,-70.766667
 1804495474,Carex_cristatella,44.55,-80.383333
 2265495122,Carex_cristatella,45.362173,-93.983674
 2265494164,Carex_cristatella,45.62207,-92.892765
@@ -276,7 +268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668815116,Carex_cristatella,43.3,-80.4
 668815509,Carex_cristatella,44.5,-76.266667
 1804425314,Carex_cristatella,45.383333,-75.9
-1804543306,Carex_cristatella,45.45,-75.616667
 668815471,Carex_cristatella,43.333333,-80.283333
 1030462533,Carex_cristatella,43.6,-83.716667
 2265495457,Carex_cristatella,45.217153,-92.76414
@@ -388,7 +379,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242392081,Carex_cristatella,41.854499,-87.797222
 1988872730,Carex_cristatella,44.243386,-84.04286
 473257995,Carex_cristatella,45.370556,-73.771389
-1261992293,Carex_cristatella,47.1,-70.35
 473303002,Carex_cristatella,45.0634,-73.2479
 176902945,Carex_cristatella,39.396962,-94.958239
 176903300,Carex_cristatella,39.68059,-95.51624
@@ -447,7 +437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260974254,Carex_cristatella,39.86944,-93.56944
 1260974250,Carex_cristatella,39.535,-93.54194
 1988680501,Carex_cristatella,43.10472,-84.69194
-473303079,Carex_cristatella,45.406647,-75.754186
 1260974317,Carex_cristatella,38.08111,-92.94722
 1228317601,Carex_cristatella,38.07414,-92.982184
 1988148000,Carex_cristatella,45.48,-73.56
@@ -513,7 +502,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989326716,Carex_cristatella,42.45345,-84.02967
 1930660584,Carex_cristatella,40.467923,-86.807985
 473418401,Carex_cristatella,42.874285,-79.452757
-415978405,Carex_cristatella,46.96666,-70.55
 1930434234,Carex_cristatella,44.10538,-84.608072
 1988171218,Carex_cristatella,43.86,-79.36
 1899284801,Carex_cristatella,43.859596,-79.360771
@@ -562,7 +550,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929315061,Carex_cristatella,40.773681,-87.167763
 473419475,Carex_cristatella,45.5458,-73.6596
 1929155273,Carex_cristatella,41.84116,-85.668603
-473303102,Carex_cristatella,45.388849,-75.677534
 1928844202,Carex_cristatella,39.567137,-87.125015
 1931116996,Carex_cristatella,43.090619,-77.514997
 1988897205,Carex_cristatella,45.406902,-84.891257
@@ -571,8 +558,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928866927,Carex_cristatella,40.875426,-73.471682
 1927850432,Carex_cristatella,39.453654,-86.684346
 1929198796,Carex_cristatella,41.733202,-85.908074
-473303065,Carex_cristatella,45.420348,-75.718041
-473418932,Carex_cristatella,45.418535,-75.662927
 1930586119,Carex_cristatella,40.658436,-74.299592
 1928588864,Carex_cristatella,43.206338,-73.423047
 1228612098,Carex_cristatella,41.665556,-87.836667
@@ -592,7 +577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228159123,Carex_cristatella,43.412629,-95.135947
 1928189574,Carex_cristatella,39.859995,-88.961597
 1228567751,Carex_cristatella,39.835314,-88.920354
-473303720,Carex_cristatella,45.418414,-75.713586
 1930535514,Carex_cristatella,39.86081,-88.981496
 1930500322,Carex_cristatella,41.247658,-85.060932
 1931174634,Carex_cristatella,40.897877,-73.883469
@@ -625,15 +609,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930887511,Carex_cristatella,40.94987,-74.740477
 2265496836,Carex_cristatella,45.35962,-96.50502
 1928795023,Carex_cristatella,41.640586,-88.058394
-473421594,Carex_cristatella,45.410528,-75.68675
 415978388,Carex_cristatella,41.72472,-73.47694
 473418950,Carex_cristatella,43.541629,-80.247379
-415978389,Carex_cristatella,41.1475,-73.08638
 1228212088,Carex_cristatella,41.4333,-87.9667
 415978397,Carex_cristatella,41.985,-73.42277
 1929086966,Carex_cristatella,39.919962,-76.726511
 415978400,Carex_cristatella,41.64638,-73.48416
-1228424478,Carex_cristatella,45.416667,-75.7
 1989213978,Carex_cristatella,42.275954,-83.806323
 1228543135,Carex_cristatella,41.715911,-87.674176
 2265493262,Carex_cristatella,43.891239,-95.160404
