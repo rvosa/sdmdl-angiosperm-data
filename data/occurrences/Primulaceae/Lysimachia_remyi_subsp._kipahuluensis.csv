@@ -1,7 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1090174558,Lysimachia_remyi_subsp._kipahuluensis,21.1267,-156.572
 1322161454,Lysimachia_remyi_subsp._kipahuluensis,21.0938,-156.87
-1321956690,Lysimachia_remyi_subsp._kipahuluensis,30.9376,-156.591
 37493321,Lysimachia_remyi_subsp._kipahuluensis,20.8869,-156.592
 1090324924,Lysimachia_remyi_subsp._kipahuluensis,20.8517,-156.607
 1096661436,Lysimachia_remyi_subsp._kipahuluensis,20.73,-156.14
@@ -32,7 +30,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883371173,Lysimachia_remyi_subsp._kipahuluensis,20.8,-156.541667
 37493754,Lysimachia_remyi_subsp._kipahuluensis,20.8417,-156.592
 883389187,Lysimachia_remyi_subsp._kipahuluensis,21.108333,-156.95
-1228242838,Lysimachia_remyi_subsp._kipahuluensis,19.5,-155.5
 883372295,Lysimachia_remyi_subsp._kipahuluensis,21.116667,-156.916667
 1096662053,Lysimachia_remyi_subsp._kipahuluensis,21.11,-156.95
 37493557,Lysimachia_remyi_subsp._kipahuluensis,20.8583,-156.6
@@ -50,5 +47,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1096662149,Lysimachia_remyi_subsp._kipahuluensis,20.88,-156.59
 37491670,Lysimachia_remyi_subsp._kipahuluensis,21.1667,-156.967
 1144716170,Lysimachia_remyi_subsp._kipahuluensis,20.78333,-156.33333
-1056795710,Lysimachia_remyi_subsp._kipahuluensis,20.985002,-157.270269
-1055324485,Lysimachia_remyi_subsp._kipahuluensis,21.47,-157.49
