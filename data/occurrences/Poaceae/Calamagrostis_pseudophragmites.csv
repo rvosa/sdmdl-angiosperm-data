@@ -79,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 894163912,Calamagrostis_pseudophragmites,42.949,-4.673
 1576158023,Calamagrostis_pseudophragmites,49.5333,20.2167
 1828736063,Calamagrostis_pseudophragmites,39.4533,140.47559
-788783425,Calamagrostis_pseudophragmites,37.75,26.666667
 894164677,Calamagrostis_pseudophragmites,42.61547,-5.53655
 1230526341,Calamagrostis_pseudophragmites,39.66667,45.51667
 1851366701,Calamagrostis_pseudophragmites,42.6725,-6.5025
@@ -124,9 +123,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615285961,Calamagrostis_pseudophragmites,36.8,74.38
 615285513,Calamagrostis_pseudophragmites,38.58,74.98
 1829636349,Calamagrostis_pseudophragmites,36.876389,139.304167
-574940760,Calamagrostis_pseudophragmites,27.5,89.633333
 615285507,Calamagrostis_pseudophragmites,38.98,75.52
-574864557,Calamagrostis_pseudophragmites,27.483333,89.616667
 1829637025,Calamagrostis_pseudophragmites,36.902222,139.296111
 615285508,Calamagrostis_pseudophragmites,38.95,75.17
 575020639,Calamagrostis_pseudophragmites,27.366667,91.733333
@@ -145,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842892275,Calamagrostis_pseudophragmites,41,114.67
 1321304467,Calamagrostis_pseudophragmites,36.43,98.25
 1319871377,Calamagrostis_pseudophragmites,38,95.02
-1830230538,Calamagrostis_pseudophragmites,36.916667,137.433333
 684150830,Calamagrostis_pseudophragmites,47.431306,10.60505
 575054922,Calamagrostis_pseudophragmites,27.516667,88.6
 894163405,Calamagrostis_pseudophragmites,43.076,-5.18
@@ -183,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729283355,Calamagrostis_pseudophragmites,34.9333,135.3
 729271228,Calamagrostis_pseudophragmites,34.984699,135.05099
 729293420,Calamagrostis_pseudophragmites,34.666698,135.05
-1144647789,Calamagrostis_pseudophragmites,46.56444,2.55194
 1057054922,Calamagrostis_pseudophragmites,34.648889,100.610556
 245525608,Calamagrostis_pseudophragmites,35.449093,139.303063
 1317784791,Calamagrostis_pseudophragmites,40.1386,35.8822
@@ -223,7 +218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828721388,Calamagrostis_pseudophragmites,40.272,140.56514
 1842865893,Calamagrostis_pseudophragmites,41.1333,-3.1924
 895249475,Calamagrostis_pseudophragmites,41.421,-3.197
-2287650234,Calamagrostis_pseudophragmites,34.566667,135.016667
 615285494,Calamagrostis_pseudophragmites,36.07,74.6
 1830161761,Calamagrostis_pseudophragmites,36.616667,137.066667
 245525577,Calamagrostis_pseudophragmites,35.557412,139.478046
@@ -346,7 +340,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615285930,Calamagrostis_pseudophragmites,36.98,72.77
 615285912,Calamagrostis_pseudophragmites,37.02,70.9
 615285929,Calamagrostis_pseudophragmites,36.96,72.88
-1144647899,Calamagrostis_pseudophragmites,40.22694,-3.64944
 2244455544,Calamagrostis_pseudophragmites,37.6585,139.93927
 615285921,Calamagrostis_pseudophragmites,37.2,72.87
 894163700,Calamagrostis_pseudophragmites,42.83,-5.39
@@ -374,7 +367,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830185682,Calamagrostis_pseudophragmites,36.566667,137.65
 2244454667,Calamagrostis_pseudophragmites,36.14605,137.25186
 575221275,Calamagrostis_pseudophragmites,31.466667,64.35
-1830237135,Calamagrostis_pseudophragmites,36.933333,137.5
 1829602829,Calamagrostis_pseudophragmites,36.543333,139.191111
 296431006,Calamagrostis_pseudophragmites,47.4162,10.57778
 1829833327,Calamagrostis_pseudophragmites,36.547776,137.854045
@@ -442,7 +434,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291668219,Calamagrostis_pseudophragmites,46.2,14.616667
 1697763580,Calamagrostis_pseudophragmites,40.985341,47.852325
 1303753184,Calamagrostis_pseudophragmites,34.65155,112.442075
-1705482295,Calamagrostis_pseudophragmites,49.5955,17.2573
 1798976431,Calamagrostis_pseudophragmites,37.69697,71.90981
 1697763410,Calamagrostis_pseudophragmites,40.532681,44.716868
 1303753191,Calamagrostis_pseudophragmites,39.879848,114.630747
@@ -464,7 +455,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830668731,Calamagrostis_pseudophragmites,36.75782,139.58397
 296431091,Calamagrostis_pseudophragmites,46.600833,10.562222
 1303739069,Calamagrostis_pseudophragmites,42.785748,124.110854
-1303753190,Calamagrostis_pseudophragmites,38.914453,121.616485
 2313348352,Calamagrostis_pseudophragmites,47.92,11.46
 1638390926,Calamagrostis_pseudophragmites,47.49222,14.52306
 1935661188,Calamagrostis_pseudophragmites,47.49194,14.52278
