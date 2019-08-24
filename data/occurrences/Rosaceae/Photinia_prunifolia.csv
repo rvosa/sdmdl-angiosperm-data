@@ -17,8 +17,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030742675,Photinia_prunifolia,28.292516,117.245492
 1988078951,Photinia_prunifolia,19,109
 1030742732,Photinia_prunifolia,25.136922,115.393921
-2289539304,Photinia_prunifolia,6,116.616667
-2290734757,Photinia_prunifolia,5.9167,116.75
 1030742616,Photinia_prunifolia,29.010101,114.412629
 1030742560,Photinia_prunifolia,25.681882,114.30827
 1030745399,Photinia_prunifolia,25.395202,114.358084
@@ -49,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030742643,Photinia_prunifolia,24.784407,115.027842
 1030996381,Photinia_prunifolia,22.762995,107.112032
 1030996365,Photinia_prunifolia,22.75506,109.207192
-2288602650,Photinia_prunifolia,-3.1167,101.95
 1030721151,Photinia_prunifolia,18.252013,109.504133
 1030996405,Photinia_prunifolia,22.845607,110.62108
 1030996441,Photinia_prunifolia,18.626309,109.700342
@@ -59,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030745420,Photinia_prunifolia,27.622868,113.854676
 1030996384,Photinia_prunifolia,23.519195,110.462487
 1303742974,Photinia_prunifolia,25.833607,116.357607
-1303921340,Photinia_prunifolia,40.928,120.638402
 1030996419,Photinia_prunifolia,24.186045,113.415062
 1303921273,Photinia_prunifolia,21.741852,107.997805
 1303921346,Photinia_prunifolia,25.22845,113.217309
@@ -75,7 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303921225,Photinia_prunifolia,26.635184,118.17814
 1303921153,Photinia_prunifolia,26.191604,119.149615
 1303921239,Photinia_prunifolia,25.897942,111.009947
-1303921359,Photinia_prunifolia,11.318545,116.562386
 1303742907,Photinia_prunifolia,23.376591,114.269636
 1030996422,Photinia_prunifolia,24.466672,112.626493
 1303921290,Photinia_prunifolia,18.745108,109.17663
