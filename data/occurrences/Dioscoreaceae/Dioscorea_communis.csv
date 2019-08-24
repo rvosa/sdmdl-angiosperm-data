@@ -43,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936275131,Dioscorea_communis,39.458333,-8.343056
 781078094,Dioscorea_communis,36.70831,-4.61042
 1936275055,Dioscorea_communis,39.566944,-8.797778
-1096852835,Dioscorea_communis,47,7
 1671645562,Dioscorea_communis,37.642357,13.688632
 895230352,Dioscorea_communis,39.57,-8.79
 895235326,Dioscorea_communis,41.284,-1.37
@@ -90,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895216851,Dioscorea_communis,41.513,-1.712
 1701516593,Dioscorea_communis,42.04111,34.47194
 1936208352,Dioscorea_communis,43.3383,-7.1931
-1096213293,Dioscorea_communis,34,32
 214573310,Dioscorea_communis,36.196945,28.08639
 2292025552,Dioscorea_communis,43.879167,3.933833
 1584390714,Dioscorea_communis,46.166668,12.966666
@@ -121,13 +119,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839088839,Dioscorea_communis,38.989719,21.84222
 1936680309,Dioscorea_communis,39.8575,20.989167
 1936689078,Dioscorea_communis,42.2404,3.2582
-1094184488,Dioscorea_communis,31.8,34.92
 1576193663,Dioscorea_communis,40.313967,-4.520694
 1697774814,Dioscorea_communis,43.998742,42.127075
 895208695,Dioscorea_communis,39.858,-0.305
-1501111176,Dioscorea_communis,39.85,-0.3
 2291804697,Dioscorea_communis,28.766667,-17.783333
-2288808330,Dioscorea_communis,28.783333,-17.8
 143006304,Dioscorea_communis,37.610001,-4.42
 1928864446,Dioscorea_communis,41.2642,46.6339
 1231184914,Dioscorea_communis,41.13833,44.99611
@@ -136,8 +131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 22128649,Dioscorea_communis,49.064,1.70483
 211640362,Dioscorea_communis,43.349998,-5.88
 1231190320,Dioscorea_communis,40.03361,46.57583
-1094184430,Dioscorea_communis,32.52,35
-1095899746,Dioscorea_communis,35,27
 1839089277,Dioscorea_communis,39.4175,20.89389
 1936201062,Dioscorea_communis,40.9736,45.1261
 1231179410,Dioscorea_communis,40.97361,45.12611
@@ -149,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851347876,Dioscorea_communis,42.4624,-6.7943
 1212209016,Dioscorea_communis,39.4175,20.893889
 932706946,Dioscorea_communis,42.10698,-8.48133
-436719557,Dioscorea_communis,48.65444,5.8
 1949931413,Dioscorea_communis,43.613889,22.672222
 1231179328,Dioscorea_communis,40.725,45.11639
 1050641230,Dioscorea_communis,42.82,-2.71
@@ -163,7 +155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050636936,Dioscorea_communis,42.86,-2.63
 296552113,Dioscorea_communis,47.270639,9.582518
 1851405907,Dioscorea_communis,42.436,-6.818
-1252659843,Dioscorea_communis,38.1,-0.18
 2289430699,Dioscorea_communis,38.811167,-0.177333
 1930924833,Dioscorea_communis,41.815517,46.345267
 1936644967,Dioscorea_communis,41.9861,24.88
@@ -176,13 +167,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851403051,Dioscorea_communis,42.445,-6.805
 199508753,Dioscorea_communis,36.831,-3.936
 199508752,Dioscorea_communis,36.867,-3.959
-318124748,Dioscorea_communis,38.7,-0.07
 932705900,Dioscorea_communis,42.32422,-8.86791
 1584390849,Dioscorea_communis,34.415558,35.833054
-1936627369,Dioscorea_communis,39.7,9.4333
-1936626750,Dioscorea_communis,39.7,9.4283
 1231174924,Dioscorea_communis,41.0225,44.36944
-895189412,Dioscorea_communis,39.7,9.4167
 199508751,Dioscorea_communis,36.832,-3.735
 199508750,Dioscorea_communis,36.929,-4.005
 932704443,Dioscorea_communis,42.0045,-7.975
@@ -233,7 +220,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936642206,Dioscorea_communis,43.1676,-4.6744
 895248639,Dioscorea_communis,38.82,-0.207
 1697774838,Dioscorea_communis,44.108041,39.04241
-1501111186,Dioscorea_communis,38.82,-0.2
 1936544346,Dioscorea_communis,39.757,2.8121
 1936671160,Dioscorea_communis,41.336,-4.2323
 1671650949,Dioscorea_communis,44.099732,9.73815
@@ -241,13 +227,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701093510,Dioscorea_communis,42.580947,10.075458
 1501101790,Dioscorea_communis,38.78,0.13
 895144400,Dioscorea_communis,38.782,0.139
-30893745,Dioscorea_communis,36.939999,-4.8
-895141627,Dioscorea_communis,39.14,-0.4
 1936516389,Dioscorea_communis,38.7706,-0.2963
 22108114,Dioscorea_communis,49.1184,1.69849
 164156612,Dioscorea_communis,38.675,-5.845
 1936516774,Dioscorea_communis,38.3568,-2.0971
-1638391715,Dioscorea_communis,35.2,24.28333
 1340040933,Dioscorea_communis,39.15,21.65
 1936642190,Dioscorea_communis,42.9936,-4.1912
 1936455899,Dioscorea_communis,38.7592,-0.1932
@@ -261,7 +244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1945014155,Dioscorea_communis,43.947237,10.241524
 1851403139,Dioscorea_communis,39.85,-0.25
 1936635076,Dioscorea_communis,37.939,-6.963
-318124293,Dioscorea_communis,38.7,-0.09
 1936635849,Dioscorea_communis,39.5831,-7.2184
 1936437923,Dioscorea_communis,42.8053,-10.1021
 1936634199,Dioscorea_communis,38.95256,-7.36264
@@ -269,7 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851394183,Dioscorea_communis,42.86,-8.82
 211639989,Dioscorea_communis,42.810001,-8.88
 1502018794,Dioscorea_communis,39.95,-0.72
-860310900,Dioscorea_communis,41.87,2.7
 1936637021,Dioscorea_communis,40.2013,-5.774
 1638391762,Dioscorea_communis,45.12889,13.73972
 1936430476,Dioscorea_communis,43.2503,-6.8827
@@ -278,7 +259,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936576062,Dioscorea_communis,38.3753,-3.8484
 1936575907,Dioscorea_communis,38.1394,-4.0397
 2291962262,Dioscorea_communis,43.1275,0.774167
-318124222,Dioscorea_communis,38.8,0.12
 2291962533,Dioscorea_communis,45.685,10.751389
 1265606417,Dioscorea_communis,45.683333,10.75
 2288600430,Dioscorea_communis,45.687778,10.751111
@@ -288,11 +268,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895241841,Dioscorea_communis,39.94,-0.13
 895236985,Dioscorea_communis,38.68,-0.07
 895276295,Dioscorea_communis,40.12,0.01
-788758015,Dioscorea_communis,36.533333,26.3
 895238691,Dioscorea_communis,39.86,-0.37
 895239626,Dioscorea_communis,38.77,-0.07
 1936450260,Dioscorea_communis,39.1007,-4.9672
-1851372058,Dioscorea_communis,42.596,-6.3
 1936407498,Dioscorea_communis,37.2591,-2.381
 1936409601,Dioscorea_communis,42.8331,0.7231
 1936419601,Dioscorea_communis,42.492008,1.497156
@@ -309,7 +287,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671667717,Dioscorea_communis,40.682215,8.202496
 30894831,Dioscorea_communis,37.400002,-4.24
 1936537513,Dioscorea_communis,39.1535,-4.4363
-318124631,Dioscorea_communis,39.02,-0.3
 30894833,Dioscorea_communis,37.93,-4.93
 1701094327,Dioscorea_communis,42.411119,11.145667
 199508177,Dioscorea_communis,36.497,-4.77
@@ -331,7 +308,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697774811,Dioscorea_communis,44.370373,38.632221
 895201567,Dioscorea_communis,39.94,-0.25
 1697774773,Dioscorea_communis,44.149326,39.116907
-1340037448,Dioscorea_communis,40.066667,21.2
 199508161,Dioscorea_communis,36.96823,-4.4416
 895232264,Dioscorea_communis,40.072,-0.614
 199508380,Dioscorea_communis,36.663,-5.087
@@ -367,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 217686151,Dioscorea_communis,37.35,-4.75
 164156556,Dioscorea_communis,38.42,-5.35
 1502032261,Dioscorea_communis,38.68,0.07
-164156557,Dioscorea_communis,38.61,-4.9
 860311471,Dioscorea_communis,40.85,0.45
 204437798,Dioscorea_communis,42.564999,-1.52
 217686147,Dioscorea_communis,37.44,-4.53
@@ -389,7 +364,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895158785,Dioscorea_communis,42.38,-6.63
 199508058,Dioscorea_communis,36.295,-5.478
 1935727331,Dioscorea_communis,46.76528,15.96389
-1502011285,Dioscorea_communis,40.04,-0.6
 30894028,Dioscorea_communis,37.84,-4.93
 1936087388,Dioscorea_communis,41.8755,0.5766
 1936563198,Dioscorea_communis,42.5648,-3.7932
@@ -398,11 +372,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053985899,Dioscorea_communis,43.27,-1.77
 1851413376,Dioscorea_communis,42.39,-6.75
 1851352063,Dioscorea_communis,42.66,-6.74
-895146788,Dioscorea_communis,38.16,-1
 1936360620,Dioscorea_communis,38.0199,-1.0645
-1144668131,Dioscorea_communis,41.36667,9.2
 199508033,Dioscorea_communis,36.63676,-4.63275
-895146764,Dioscorea_communis,39.05,-0.4
 895308784,Dioscorea_communis,38.09,-4.226
 1936359830,Dioscorea_communis,39.907,-0.7785
 895146801,Dioscorea_communis,38.07,-1.01
@@ -452,7 +423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671667418,Dioscorea_communis,40.719827,8.259695
 1806557163,Dioscorea_communis,42.852578,-1.661392
 204437802,Dioscorea_communis,43.279999,-1.848
-1144789538,Dioscorea_communis,41.7,8.78333
 1144789518,Dioscorea_communis,41.38333,9.21667
 204437983,Dioscorea_communis,43.419998,-2.71
 1936633707,Dioscorea_communis,37.4831,-3.8382
@@ -468,13 +438,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204437803,Dioscorea_communis,43.314999,-1.736
 30894817,Dioscorea_communis,39.110001,-4.04
 788557824,Dioscorea_communis,39.75,19.916667
-1050617206,Dioscorea_communis,43.04,-2.2
 1702509904,Dioscorea_communis,42.66,-2.24
 1831520115,Dioscorea_communis,46.83667,17.27806
-1050617237,Dioscorea_communis,42.96,-2.6
-1842900174,Dioscorea_communis,41.41,2.1
 1936034741,Dioscorea_communis,37.9187,-2.9899
-1851364881,Dioscorea_communis,43.2,-4.91
 1019294559,Dioscorea_communis,38.1487568937265,-5.34119936290682
 1050617201,Dioscorea_communis,42.71,-2.33
 318124400,Dioscorea_communis,38.77,-0.18
@@ -487,13 +453,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851329442,Dioscorea_communis,43.11,-5.03
 199508890,Dioscorea_communis,36.90291,-4.0725
 788631732,Dioscorea_communis,36.433333,22.483333
-164157339,Dioscorea_communis,37.44,-4.3
 1936035410,Dioscorea_communis,36.732,-5.3866
 1936360569,Dioscorea_communis,36.8505,-4.7959
 164156829,Dioscorea_communis,37.79,-5.33
 30894816,Dioscorea_communis,38.389999,-4.26
-164157336,Dioscorea_communis,37.26,-4.3
-164157342,Dioscorea_communis,37.35,-4.3
 1936372172,Dioscorea_communis,38.1348,-2.7616
 30894828,Dioscorea_communis,37.049999,-3.45
 1936506267,Dioscorea_communis,38.2428,-2.6927
@@ -511,12 +474,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 164157328,Dioscorea_communis,37.35,-4.41
 860322161,Dioscorea_communis,42.253,-0.266
 164157334,Dioscorea_communis,37.44,-4.41
-895152858,Dioscorea_communis,38.5,-2.45
-1825751907,Dioscorea_communis,38.3,-2.27
 2287888447,Dioscorea_communis,45.333333,17.25
 1806554675,Dioscorea_communis,43.161,-1.715
 1050617197,Dioscorea_communis,42.67,-2.57
-1851348961,Dioscorea_communis,43.2,-5.03
 1851393701,Dioscorea_communis,37.89,-4.76
 1701551410,Dioscorea_communis,45.02694,14.68333
 211640030,Dioscorea_communis,43.099998,-5.32
@@ -524,7 +484,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053981762,Dioscorea_communis,42.92,-1.83
 1053981773,Dioscorea_communis,42.94,-1.64
 1936387627,Dioscorea_communis,37.9007,-2.9444
-211639777,Dioscorea_communis,43.049999,-6.3
 1053981741,Dioscorea_communis,42.86,-1.66
 1701551526,Dioscorea_communis,45.02528,14.61722
 1701551534,Dioscorea_communis,45.03361,14.68333
@@ -547,7 +506,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851389703,Dioscorea_communis,42.39,-6.87
 211640531,Dioscorea_communis,43.290001,-6.39
 788622822,Dioscorea_communis,38.883333,24.566667
-1825751786,Dioscorea_communis,37.5,14
 1265606424,Dioscorea_communis,39.15,27.166667
 1893207801,Dioscorea_communis,45.17,5.83
 1638392679,Dioscorea_communis,44.78278,14.68194
@@ -557,7 +515,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842848515,Dioscorea_communis,42.13,1.85
 1851318911,Dioscorea_communis,42.795,-0.732
 1851343771,Dioscorea_communis,42.622,-0.653
-2291962748,Dioscorea_communis,28.1,-15.7
 788622773,Dioscorea_communis,37.85,24.883333
 788624268,Dioscorea_communis,37.783333,24.883333
 788632663,Dioscorea_communis,37.466667,24.916667
@@ -569,17 +526,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788611887,Dioscorea_communis,37.633333,24.366667
 788549008,Dioscorea_communis,36.633333,24.916667
 788631218,Dioscorea_communis,37.083333,25.166667
-788631675,Dioscorea_communis,36.7,25.1
-788607267,Dioscorea_communis,36.7,25.133333
 1697774880,Dioscorea_communis,43.042296,41.274262
 1845008852,Dioscorea_communis,47.713611,9.173056
-1891595771,Dioscorea_communis,34,9
 788567336,Dioscorea_communis,37.733333,26.666667
 788567450,Dioscorea_communis,37.716667,26.65
 2287164657,Dioscorea_communis,33.55,-5.116667
 31975668,Dioscorea_communis,39.860001,2.87
 788630759,Dioscorea_communis,36.833333,25.666667
-788626183,Dioscorea_communis,36.55,26.3
 31975667,Dioscorea_communis,39.790001,2.69
 1891596833,Dioscorea_communis,49.46,6.09
 1825753241,Dioscorea_communis,27.043954,18.023287
@@ -587,16 +540,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788609990,Dioscorea_communis,37.683333,26.35
 788559950,Dioscorea_communis,37.083333,25.416667
 788591196,Dioscorea_communis,37.616667,26.15
-788614181,Dioscorea_communis,37.033333,25.5
 788631219,Dioscorea_communis,37.583333,26.233333
 788637125,Dioscorea_communis,37.133333,25.516667
 788611433,Dioscorea_communis,37.116667,25.816667
 788611358,Dioscorea_communis,37.183333,25.483333
 788609105,Dioscorea_communis,37.15,25.583333
 788609283,Dioscorea_communis,36.966667,24.683333
-788606670,Dioscorea_communis,37.083333,25.7
 788611785,Dioscorea_communis,37.016667,25.516667
-788631902,Dioscorea_communis,37.066667,25.7
 788611492,Dioscorea_communis,37.533333,26.05
 788631788,Dioscorea_communis,36.95,25.466667
 788617154,Dioscorea_communis,37.133333,25.483333
@@ -604,10 +554,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788611595,Dioscorea_communis,37.15,25.533333
 788611946,Dioscorea_communis,37.116667,25.533333
 788607089,Dioscorea_communis,36.85,25.916667
-788559890,Dioscorea_communis,37.066667,25.5
 788631562,Dioscorea_communis,37.033333,25.483333
 788611477,Dioscorea_communis,36.716667,25.316667
-788631339,Dioscorea_communis,37.083333,25.5
 788591136,Dioscorea_communis,36.833333,25.466667
 788613765,Dioscorea_communis,36.866667,25.516667
 788631447,Dioscorea_communis,37.133333,25.55
@@ -647,7 +595,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860319888,Dioscorea_communis,40.6062,-3.9378
 1913646245,Dioscorea_communis,39.68,19.83722
 1935885762,Dioscorea_communis,40.3661,-3.92
-1935886173,Dioscorea_communis,41.6,1.8
 296552112,Dioscorea_communis,46.668253,11.164232
 1697774823,Dioscorea_communis,43.95597,39.271917
 1671651367,Dioscorea_communis,44.483383,8.958109
