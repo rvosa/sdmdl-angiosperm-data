@@ -27,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992071860,Carpobrotus_edulis,-37.07,139.745
 233097541,Carpobrotus_edulis,36.68306,-121.80962
 441717154,Carpobrotus_edulis,42.441667,-124.433333
-441717153,Carpobrotus_edulis,42.5,-124.418333
 1843471631,Carpobrotus_edulis,-43.574278,172.778417
 1843417549,Carpobrotus_edulis,-35.373611,174.339722
 2270686324,Carpobrotus_edulis,32.7395,-117.245
@@ -48,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 287008545,Carpobrotus_edulis,-34.19139,22.03861
 1226920288,Carpobrotus_edulis,-34.191389,22.038611
 994542213,Carpobrotus_edulis,-41.93196,145.16773
-994543273,Carpobrotus_edulis,-40.9,147.7
 461698501,Carpobrotus_edulis,-33.125,27.625
 1226920315,Carpobrotus_edulis,-34.197222,22.118056
 287008544,Carpobrotus_edulis,-34.19722,22.11806
@@ -71,7 +69,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895547423,Carpobrotus_edulis,18.191667,-97.141667
 1501073464,Carpobrotus_edulis,38.28,-0.51
 1851346741,Carpobrotus_edulis,43.54,-5.91
-996705739,Carpobrotus_edulis,-31.8,116
 461698495,Carpobrotus_edulis,-34.125,18.375
 461698505,Carpobrotus_edulis,-33.125,19.375
 30854532,Carpobrotus_edulis,37.310001,-4.24
@@ -85,11 +82,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996576778,Carpobrotus_edulis,-31.966667,115.766667
 992589030,Carpobrotus_edulis,-34.792222,138.527778
 461698476,Carpobrotus_edulis,-32.375,18.875
-994478894,Carpobrotus_edulis,-43,147
-996789208,Carpobrotus_edulis,-32.2,115.7
 204424001,Carpobrotus_edulis,43.310001,-2.205
 2270178580,Carpobrotus_edulis,34.7029999991165,-120.5633
-1986973949,Carpobrotus_edulis,34.033333,-118.7
 1050591344,Carpobrotus_edulis,39.35,-0.31
 993455886,Carpobrotus_edulis,-32.1333,115.8333
 996555898,Carpobrotus_edulis,-32.133333,115.833333
@@ -116,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936599598,Carpobrotus_edulis,43.4313,-3.3967
 2270180078,Carpobrotus_edulis,35.345042,-120.809933
 1451478741,Carpobrotus_edulis,-34.498426,150.934501
-996129208,Carpobrotus_edulis,-34.5,150.93
 995157448,Carpobrotus_edulis,-38.2667,144.6667
 996368860,Carpobrotus_edulis,-34.988889,116.608333
 2270255366,Carpobrotus_edulis,34.8449999991149,-120.607
@@ -136,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996335429,Carpobrotus_edulis,-31.981389,115.853333
 1451693511,Carpobrotus_edulis,-33.915088,151.251155
 994889390,Carpobrotus_edulis,-34.5167,142.3667
-994502818,Carpobrotus_edulis,-42.8,147.4
 2270253007,Carpobrotus_edulis,34.666667,-120.416667
 30854009,Carpobrotus_edulis,37.84,-4.82
 1501067653,Carpobrotus_edulis,38.51,-0.53
@@ -156,7 +148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994866874,Carpobrotus_edulis,-38.85,145.9833
 2270180758,Carpobrotus_edulis,35.36914,-120.86781
 994592950,Carpobrotus_edulis,-42.88195,147.28437
-992387873,Carpobrotus_edulis,-34.9,138.5
 287282223,Carpobrotus_edulis,-34.0425,19.69694
 2270255520,Carpobrotus_edulis,34.4159999991199,-119.8705
 2270255463,Carpobrotus_edulis,34.6844999991167,-120.6025
@@ -167,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270256079,Carpobrotus_edulis,34.4109999991199,-119.8421
 461698482,Carpobrotus_edulis,-33.625,18.625
 1261463096,Carpobrotus_edulis,-34.437116,19.229886
-1897763031,Carpobrotus_edulis,-40.55,175.2
 994803497,Carpobrotus_edulis,-38.5667,142.8167
 1897759083,Carpobrotus_edulis,-35.633333,173.433333
 2290090106,Carpobrotus_edulis,47.233333,0.866667
@@ -186,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270201989,Carpobrotus_edulis,35.3098,-120.87029
 461698509,Carpobrotus_edulis,-33.875,19.625
 992541714,Carpobrotus_edulis,-35.077061,138.50138
-993299569,Carpobrotus_edulis,-35.0667,138.5
 2270255717,Carpobrotus_edulis,34.4154999991199,-119.8823
 992215219,Carpobrotus_edulis,-35.500672,138.779438
 993715084,Carpobrotus_edulis,-34.8389,138.4778
@@ -195,7 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897671086,Carpobrotus_edulis,-36.083333,173.85
 996456591,Carpobrotus_edulis,-31.521667,115.683333
 1897706939,Carpobrotus_edulis,-35.05,173.166667
-1897718875,Carpobrotus_edulis,-35.9,174.466667
 287282212,Carpobrotus_edulis,-33.76639,18.75889
 992135986,Carpobrotus_edulis,-37.531785,140.09445
 1451691402,Carpobrotus_edulis,-36.38177,150.067875
@@ -204,7 +192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290059257,Carpobrotus_edulis,36.783333,-3.891667
 992133414,Carpobrotus_edulis,-35.644,137.641
 2270257132,Carpobrotus_edulis,34.40749999912,-119.8468
-31968813,Carpobrotus_edulis,39.799999,2.7
 996456542,Carpobrotus_edulis,-31.78,115.73
 993255527,Carpobrotus_edulis,-27.45,152.95
 992382648,Carpobrotus_edulis,-34.847059,138.499711
@@ -220,13 +207,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992184731,Carpobrotus_edulis,-34.82567,138.50471
 992184780,Carpobrotus_edulis,-34.8462,138.503
 1451632731,Carpobrotus_edulis,-34.865096,150.601177
-995992112,Carpobrotus_edulis,-34.87,150.6
 287282224,Carpobrotus_edulis,-33.08528,19.2325
 992184758,Carpobrotus_edulis,-34.837893,138.484711
 287282220,Carpobrotus_edulis,-32.87694,19.04472
 287282204,Carpobrotus_edulis,-33.97194,18.42028
 992103990,Carpobrotus_edulis,-35.551785,138.619163
-992103304,Carpobrotus_edulis,-34.95,138.4
 287282219,Carpobrotus_edulis,-31.77833,18.62889
 287282200,Carpobrotus_edulis,-31.77778,18.63222
 1935892816,Carpobrotus_edulis,42.4413,-8.8798
@@ -238,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 287282218,Carpobrotus_edulis,-33.99417,18.44889
 287282214,Carpobrotus_edulis,-30.31444,17.27639
 287282205,Carpobrotus_edulis,-33.97667,24.24806
-992103268,Carpobrotus_edulis,-34.8,138.5
 287282217,Carpobrotus_edulis,-33.98556,25.58139
 1451632713,Carpobrotus_edulis,-33.965089,151.151158
 995992562,Carpobrotus_edulis,-33.97,151.15
