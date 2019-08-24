@@ -27,9 +27,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426254021,Diplacus_mephiticus,38.1138,-118.7371
 1930118824,Diplacus_mephiticus,38.96,-117.54
 1426244423,Diplacus_mephiticus,37.109444,-119.151389
-1927883421,Diplacus_mephiticus,38.1,-116.9
 1986973525,Diplacus_mephiticus,39.423452,-117.911425
-1930295722,Diplacus_mephiticus,39.44,-117.9
 1929503954,Diplacus_mephiticus,40.35,-119.82
 1896049348,Diplacus_mephiticus,36.846944,-118.525278
 1846525054,Diplacus_mephiticus,36.782863,-118.622483
@@ -49,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426254204,Diplacus_mephiticus,39.8352779990718,-120.913333
 1930363268,Diplacus_mephiticus,37.4422,-118.1394
 1929043524,Diplacus_mephiticus,37.3547,-118.1394
-1930039003,Diplacus_mephiticus,38.6,-119.15
 1929845377,Diplacus_mephiticus,39.84556,-116.1847
 1929664038,Diplacus_mephiticus,38.85,-119.57
 1426254325,Diplacus_mephiticus,39.632221999073,-121.147222
@@ -99,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986925240,Diplacus_mephiticus,38.169274,-116.798524
 1931088057,Diplacus_mephiticus,39.2639,-117.8397
 1930795134,Diplacus_mephiticus,39.48,-119.61
-1928132448,Diplacus_mephiticus,40.78,-120.1
 1927854505,Diplacus_mephiticus,38.5972,-116.59
 1426254019,Diplacus_mephiticus,38.0683,-119.2274
 1426254093,Diplacus_mephiticus,37.823017,-118.843415
@@ -113,7 +109,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930244115,Diplacus_mephiticus,37.872936,-119.000081
 1930761237,Diplacus_mephiticus,37.95,-116.43
 1986916531,Diplacus_mephiticus,37.936767,-116.370054
-1930974150,Diplacus_mephiticus,39.45,-117
 1986915868,Diplacus_mephiticus,39.454081,-116.996754
 1426254122,Diplacus_mephiticus,37.8502,-118.8477
 1928624750,Diplacus_mephiticus,39.638328,-116.030261
@@ -171,7 +166,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928945149,Diplacus_mephiticus,39.533047,-119.985336
 1930028019,Diplacus_mephiticus,39.335422,-119.882358
 1928074699,Diplacus_mephiticus,40.028056,-120.103889
-1228561049,Diplacus_mephiticus,37,-119
 1056342738,Diplacus_mephiticus,36.7781,-119.4178
 1426217747,Diplacus_mephiticus,37.7311,-119.5028
 1928227529,Diplacus_mephiticus,39.161019,-119.799072
