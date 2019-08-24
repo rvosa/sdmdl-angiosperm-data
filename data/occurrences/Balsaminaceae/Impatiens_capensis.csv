@@ -80,13 +80,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2309054594,Impatiens_capensis,45.55,-73.16
 1248701445,Impatiens_capensis,47.735917,-69.286583
 1899281945,Impatiens_capensis,44.1477099990571,-78.67761
-1258102858,Impatiens_capensis,47.6,-122.183333
 2309653548,Impatiens_capensis,47.34,-74.16
 1986726295,Impatiens_capensis,46.02435,-73.534919
-1988146459,Impatiens_capensis,58.7,-120.9
 1986726265,Impatiens_capensis,48.381389,-79.859167
 1899284259,Impatiens_capensis,52.921227,-92.675766
-2305829266,Impatiens_capensis,49,-100.43
 1024637788,Impatiens_capensis,45.5433,-73.1557
 623684300,Impatiens_capensis,45.48,-122.653333
 1248701441,Impatiens_capensis,45.455467,-73.071014
@@ -165,7 +162,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257683285,Impatiens_capensis,37.0944,-89.5042
 2305050565,Impatiens_capensis,46.05,-78.92
 1930529234,Impatiens_capensis,41.450913,-73.6212
-2309361345,Impatiens_capensis,45.27,-81.7
 668751558,Impatiens_capensis,46.748611,-71.341111
 1932898361,Impatiens_capensis,41.4388,-73.897
 1318854085,Impatiens_capensis,44.5247,-89.5973
@@ -188,7 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261004808,Impatiens_capensis,39.21972,-92.01722
 1260924280,Impatiens_capensis,37.81555,-94.2925
 2265441675,Impatiens_capensis,44.956444,-93.594072
-441766197,Impatiens_capensis,46.305,-123.7
 473450947,Impatiens_capensis,45.383333,-73.516667
 441766137,Impatiens_capensis,47.816111,-121.981111
 1978755011,Impatiens_capensis,50.283333,-63.701389
@@ -203,7 +198,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441765953,Impatiens_capensis,45.405,-123.816667
 441765934,Impatiens_capensis,45.748333,-123.838333
 473450314,Impatiens_capensis,45.115583,-72.595556
-473449276,Impatiens_capensis,46.1,-71.673611
 1260571088,Impatiens_capensis,46.74027,-92.21861
 2284332141,Impatiens_capensis,45.7017,-123.878
 441766151,Impatiens_capensis,49.023333,-122.263333
@@ -263,7 +257,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441766045,Impatiens_capensis,45.70352,-122.41828
 441766075,Impatiens_capensis,48.671667,-122.316667
 176961421,Impatiens_capensis,41.5446,-81.4729
-1259016917,Impatiens_capensis,37.21666,-90.2
 441766076,Impatiens_capensis,47.97917,-122.20083
 1260979958,Impatiens_capensis,36.60194,-91.86444
 1849185772,Impatiens_capensis,33.7557,-80.7006
@@ -285,7 +278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849159101,Impatiens_capensis,32.9579,-80.2048
 1849161600,Impatiens_capensis,32.9465,-80.1707
 2265598711,Impatiens_capensis,45.919137,-94.272334
-2306394231,Impatiens_capensis,49.1,-121.82
 473317075,Impatiens_capensis,45.578363,-74.455843
 1228149431,Impatiens_capensis,41.8333,-88.0833
 1988235200,Impatiens_capensis,49.11,-121.82
@@ -314,8 +306,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320290679,Impatiens_capensis,38.9694,-77.1767
 1260988079,Impatiens_capensis,38.95277,-92.65555
 1949619533,Impatiens_capensis,49.066667,-122.216667
-1988202148,Impatiens_capensis,49.1,-122.2
-1988233756,Impatiens_capensis,49.1,-122.12
 675233225,Impatiens_capensis,41.98333,-72.45
 1228427707,Impatiens_capensis,41.8139,-88.0603
 1258400899,Impatiens_capensis,35.755,-82.95305
@@ -325,7 +315,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949627228,Impatiens_capensis,49.1025,-122.124722
 1258836795,Impatiens_capensis,38.95166,-92.33388
 1804497617,Impatiens_capensis,48.4263889990637,-54.115278
-1086684636,Impatiens_capensis,44.617,-72.7
 1820374080,Impatiens_capensis,45.81695,-60.66952
 473466049,Impatiens_capensis,47.672222,-58.225
 473466042,Impatiens_capensis,47.608333,-57.616667
@@ -333,7 +322,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473466047,Impatiens_capensis,47.65,-56.183333
 415961333,Impatiens_capensis,41.77527,-72.52472
 176962049,Impatiens_capensis,39.352509,-94.933063
-1261043404,Impatiens_capensis,24.4,-100.15
 1893656003,Impatiens_capensis,25.35481,-100.31335
 1895499822,Impatiens_capensis,25.357911,-100.309181
 1894423081,Impatiens_capensis,25.387222,-100.302778
@@ -363,7 +351,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441910647,Impatiens_capensis,42.867405,-92.086266
 1261552512,Impatiens_capensis,35.78166,-82.94694
 56590368,Impatiens_capensis,33.51833,-85.825
-473465585,Impatiens_capensis,47.608333,-56.7
 473465588,Impatiens_capensis,47.697222,-56.366667
 2265387240,Impatiens_capensis,46.084722,-95.788611
 1054799086,Impatiens_capensis,47.866667,-73.533333
@@ -372,7 +359,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415961326,Impatiens_capensis,41.98472,-72.28888
 415961325,Impatiens_capensis,41.87138,-72.36861
 2265439457,Impatiens_capensis,43.650556,-96.196111
-1054799059,Impatiens_capensis,47.883333,-73.4
 415961318,Impatiens_capensis,41.35111,-72.85138
 1703291644,Impatiens_capensis,51.0669070512925,-96.2942092642546
 2265453830,Impatiens_capensis,44.973611,-94.421111
@@ -415,10 +401,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668751567,Impatiens_capensis,50.146944,-66.58
 1990246285,Impatiens_capensis,35.893413,-78.581935
 473581186,Impatiens_capensis,45.4195,-72.2123
-1258994403,Impatiens_capensis,39.06666,-77
 415961315,Impatiens_capensis,41.76777,-72.75444
 415961321,Impatiens_capensis,41.80166,-72.43194
-1258989694,Impatiens_capensis,38.16666,-90.7
 415961314,Impatiens_capensis,41.78666,-72.05916
 415961322,Impatiens_capensis,41.80982,-72.83065
 2265598888,Impatiens_capensis,46.237605,-94.391704
@@ -446,7 +430,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261002536,Impatiens_capensis,39.77027,-93.22166
 2265453004,Impatiens_capensis,43.808611,-95.510556
 1228415013,Impatiens_capensis,39.890895,-83.221858
-1804493478,Impatiens_capensis,45.3,-75.616667
 2265598348,Impatiens_capensis,44.825884,-93.216999
 1703294018,Impatiens_capensis,49.8784279990707,-97.1617
 2265598759,Impatiens_capensis,44.768807,-92.813616
@@ -479,7 +462,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415961323,Impatiens_capensis,41.83222,-72.57027
 1228220409,Impatiens_capensis,44.5397,-92.34
 2265597758,Impatiens_capensis,46.26131,-96.584721
-1988089499,Impatiens_capensis,49.2,-123.1
 1703294068,Impatiens_capensis,50.396111,-96.658889
 1978027795,Impatiens_capensis,36.658333,-85.238889
 51856078,Impatiens_capensis,45.4693,-122.7539
@@ -493,7 +475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415961339,Impatiens_capensis,41.83166,-73.225
 2265599225,Impatiens_capensis,45.445,-93.655556
 415961350,Impatiens_capensis,41.36527,-71.9875
-1804487535,Impatiens_capensis,46.1,-78.416667
 176962197,Impatiens_capensis,42.477,-85.254
 441910606,Impatiens_capensis,33.247493,-83.923037
 1261005653,Impatiens_capensis,37.52833,-94.58
@@ -547,13 +528,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606655435,Impatiens_capensis,41.48888,-71.81277
 2265599263,Impatiens_capensis,43.521501,-92.898529
 1703293964,Impatiens_capensis,51.3332230998762,-100.533687336045
-1804518662,Impatiens_capensis,49.6,-92.75
 2265600264,Impatiens_capensis,46.670563,-92.353928
 1989187054,Impatiens_capensis,44.706727,-83.393559
 883390615,Impatiens_capensis,54.7506,-116.0332
-1988137980,Impatiens_capensis,49.5,-88.48
 1804587668,Impatiens_capensis,49.833333,-91.333333
-473445452,Impatiens_capensis,45.5,-73.6
 2265599021,Impatiens_capensis,48.695736,-96.57277
 2265600002,Impatiens_capensis,47.969474,-89.684841
 1258990054,Impatiens_capensis,38.531667,-90.338333
@@ -578,7 +556,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883391263,Impatiens_capensis,55.2323279991168,-119.301504
 415961249,Impatiens_capensis,41.70416,-70.23055
 1703293965,Impatiens_capensis,50.1498938543777,-98.3669359696304
-2302240399,Impatiens_capensis,31.083333,-91.5
 1949590783,Impatiens_capensis,50.05,-88.95
 176962006,Impatiens_capensis,38.422161,-94.789068
 606658380,Impatiens_capensis,41.38555,-72.43555
@@ -589,7 +566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261000614,Impatiens_capensis,37.72861,-92.85055
 176962293,Impatiens_capensis,37.17081,-94.64048
 883391243,Impatiens_capensis,47.1385,-95.181
-1988090111,Impatiens_capensis,48.6,-90.6
 1260935177,Impatiens_capensis,38.67388,-92.66333
 606654894,Impatiens_capensis,41.58694,-73.40833
 1988654655,Impatiens_capensis,42.398451,-85.387387
@@ -597,9 +573,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176962157,Impatiens_capensis,39.907423,-95.899356
 1989320381,Impatiens_capensis,44.967387,-84.999541
 1804555606,Impatiens_capensis,46.166667,-62.55
-1899354323,Impatiens_capensis,43.8,-79.366667
 606661512,Impatiens_capensis,41.985,-73.42277
-1988173494,Impatiens_capensis,48.4,-90.7
 1258992627,Impatiens_capensis,38.567778,-90.218611
 176961809,Impatiens_capensis,37.037723,-94.727609
 606660353,Impatiens_capensis,41.37416,-72.31388
@@ -607,11 +581,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265598966,Impatiens_capensis,45.978993,-92.477277
 1248701502,Impatiens_capensis,47.334722,-79.432778
 1262007831,Impatiens_capensis,46.56,-72.47
-1262008655,Impatiens_capensis,45.05,-72.8
 2265600578,Impatiens_capensis,45.636682,-92.893254
 473469424,Impatiens_capensis,45.6974,-73.4735
 1703294021,Impatiens_capensis,51.2705559990796,-100.373611
-1703294019,Impatiens_capensis,51.583333,-101
 2265596999,Impatiens_capensis,46.983894,-95.497699
 2265598354,Impatiens_capensis,46.03301,-92.85662
 2265599293,Impatiens_capensis,45.680502,-93.09363
@@ -619,16 +591,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262007865,Impatiens_capensis,46.591,-72.041
 473470564,Impatiens_capensis,45.7013,-73.4661
 2265597363,Impatiens_capensis,46.854948,-96.473403
-1804494271,Impatiens_capensis,45.3,-75.55
 465933526,Impatiens_capensis,45.25419,-63.28002
 2265600829,Impatiens_capensis,45.275536,-94.127205
 1989392081,Impatiens_capensis,48.522163,-88.666111
-1988113763,Impatiens_capensis,52.1,-120
 2265598755,Impatiens_capensis,45.172559,-93.899917
 473461264,Impatiens_capensis,45.291734,-72.995521
 465933530,Impatiens_capensis,43.86471,-65.97502
 473448687,Impatiens_capensis,45.866667,-74.583333
-1988125790,Impatiens_capensis,48.5,-89.7
 176961768,Impatiens_capensis,39.77676,-94.938445
 2265599084,Impatiens_capensis,45.08695,-94.084081
 1228196759,Impatiens_capensis,42.226357,-88.136189
@@ -642,11 +611,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262035534,Impatiens_capensis,46.779183,-71.308349
 2265599034,Impatiens_capensis,49.301766,-94.948704
 56591064,Impatiens_capensis,33.69722,-86.00195
-1804546017,Impatiens_capensis,42.366667,-82.4
 1988234842,Impatiens_capensis,49.23,-122.77
-883391064,Impatiens_capensis,50.91,-100.7
 2265599253,Impatiens_capensis,49.330802,-95.03725
-465933519,Impatiens_capensis,43.5,-75.75
 1987015207,Impatiens_capensis,38.828918,-90.234181
 1899371710,Impatiens_capensis,43.619444,-79.384722
 2265598644,Impatiens_capensis,43.594643,-91.82009
@@ -659,11 +625,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262007300,Impatiens_capensis,46.785881,-70.933982
 2265599702,Impatiens_capensis,48.764638,-94.685603
 2265601027,Impatiens_capensis,45.295257,-93.656039
-1030486198,Impatiens_capensis,43.6,-83.716667
 1703293976,Impatiens_capensis,50.6998905883089,-99.6669848899263
 2265597857,Impatiens_capensis,45.34066,-93.08146
 1228380539,Impatiens_capensis,34.826171,-84.707895
-1030486204,Impatiens_capensis,42.9,-86.2
 1988117534,Impatiens_capensis,50.94,-100.33
 2265598885,Impatiens_capensis,47.368099,-94.990966
 2265599368,Impatiens_capensis,47.491615,-94.469041
@@ -680,7 +644,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703294039,Impatiens_capensis,49.033333,-100.066667
 441910597,Impatiens_capensis,42.844011,-92.230489
 2265596869,Impatiens_capensis,45.331907,-93.860001
-1804579155,Impatiens_capensis,44.7,-76.4
 1899337778,Impatiens_capensis,45.920029267173,-83.2887439397916
 1804484492,Impatiens_capensis,48.066667,-89.45
 1099339314,Impatiens_capensis,42.17925,-87.918867
@@ -692,7 +655,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318055096,Impatiens_capensis,35.945508,-87.079172
 56590267,Impatiens_capensis,34.29667,-87.27028
 441765497,Impatiens_capensis,47.48167,-122.27444
-1258991829,Impatiens_capensis,35.6,-83
 56590266,Impatiens_capensis,32.11444,-87.40305
 1986727726,Impatiens_capensis,48.416667,-78.683333
 2265600919,Impatiens_capensis,45.622898,-94.377135
@@ -700,7 +662,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265598740,Impatiens_capensis,46.106283,-94.30299
 2265597751,Impatiens_capensis,44.363181,-95.927443
 2265599763,Impatiens_capensis,46.18707,-94.50623
-883390861,Impatiens_capensis,56.5,-115.4
 2265597254,Impatiens_capensis,47.476614,-94.087795
 2265599804,Impatiens_capensis,45.698563,-94.143452
 668751569,Impatiens_capensis,49.220556,-68.151389
@@ -714,7 +675,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265598868,Impatiens_capensis,47.379069,-92.164961
 1248701420,Impatiens_capensis,48.169167,-78.97
 465933517,Impatiens_capensis,44.558889,-76.328333
-1988240566,Impatiens_capensis,50.3,-119.3
 2265598652,Impatiens_capensis,45.464811,-94.353471
 2265598185,Impatiens_capensis,43.884292,-92.408371
 465933550,Impatiens_capensis,44.33412,-64.9849
@@ -725,7 +685,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415922599,Impatiens_capensis,41.89972,-72.01361
 1949564945,Impatiens_capensis,49.116667,-123.083333
 2265599586,Impatiens_capensis,47.185885,-94.569266
-894983298,Impatiens_capensis,54.766667,-115
 415922594,Impatiens_capensis,41.78861,-72.45305
 415922601,Impatiens_capensis,41.79666,-72.17111
 415922600,Impatiens_capensis,41.71805,-72.3575
@@ -752,7 +711,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668751552,Impatiens_capensis,46.788333,-71.280556
 415922597,Impatiens_capensis,41.80833,-72.24944
 2242394006,Impatiens_capensis,41.569765,-72.794579
-1949620675,Impatiens_capensis,48.383333,-89.2
 1228244123,Impatiens_capensis,42.514446,-93.086078
 176962048,Impatiens_capensis,38.00836,-95.552056
 1703292651,Impatiens_capensis,50.8858858178038,-100.85435933069
@@ -783,9 +741,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 731336296,Impatiens_capensis,48.4266,-70.82596
 1989128691,Impatiens_capensis,46.643222,-88.376345
 1258584247,Impatiens_capensis,40.942,-90.151
-2291772219,Impatiens_capensis,48.516667,-70.8
 1258587371,Impatiens_capensis,40.9868,-90.0929
-1228589925,Impatiens_capensis,32.6,-92.65
 176962040,Impatiens_capensis,38.42024,-94.74502
 415961345,Impatiens_capensis,41.8375,-73.2625
 176961782,Impatiens_capensis,37.17088,-94.6498
@@ -795,8 +751,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473497784,Impatiens_capensis,46.000921,-73.980921
 441910488,Impatiens_capensis,46.04076,-96.93268
 1260947110,Impatiens_capensis,39.50666,-91.72361
-415961262,Impatiens_capensis,42.4,-72.73333
-883392988,Impatiens_capensis,54.6,-111.533333
 1988741284,Impatiens_capensis,43.301488,-85.373464
 441910588,Impatiens_capensis,48.408614,-97.806183
 1228391969,Impatiens_capensis,46.141774,-95.197736
@@ -858,14 +812,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 859259424,Impatiens_capensis,38.88178,-78.50584
 859259427,Impatiens_capensis,38.82095,-78.56585
 1248701392,Impatiens_capensis,47.866667,-70.483333
-1899382486,Impatiens_capensis,45.416667,-78.7
 441910639,Impatiens_capensis,48.79382,-97.75375
 176961778,Impatiens_capensis,39.16318,-94.78108
 441910601,Impatiens_capensis,37.740023,-94.129979
 176961777,Impatiens_capensis,37.03956,-94.63021
 2273378693,Impatiens_capensis,35.175192,-83.174995
 441910561,Impatiens_capensis,37.644458,-90.284441
-1988132798,Impatiens_capensis,49.3,-88.8
 1258920572,Impatiens_capensis,32.46666,-92.65
 441910537,Impatiens_capensis,43.690117,-96.515181
 1258920481,Impatiens_capensis,32.75,-92.43333
@@ -873,7 +825,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261992729,Impatiens_capensis,45.456057,-73.04368
 883391068,Impatiens_capensis,54.6577,-111.4193
 883390859,Impatiens_capensis,54.8331,-111.9854
-1261970917,Impatiens_capensis,45.9,-71.733333
 883393028,Impatiens_capensis,56.4439,-111.0482
 883390851,Impatiens_capensis,54.4369,-110.0279
 441910529,Impatiens_capensis,41.60785,-102.34436
@@ -887,7 +838,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441910551,Impatiens_capensis,42.550686,-99.706685
 441910532,Impatiens_capensis,46.477741,-92.060821
 441910507,Impatiens_capensis,48.76013,-97.8651
-1899304454,Impatiens_capensis,43.9,-79.05
 883391123,Impatiens_capensis,49.153338,-95.1288
 176962236,Impatiens_capensis,39.24717,-95.30713
 668751557,Impatiens_capensis,46.816667,-71.216667
@@ -898,7 +848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56591083,Impatiens_capensis,34.77,-89.52
 1261978497,Impatiens_capensis,45.959935,-74.295762
 441910518,Impatiens_capensis,40.94811,-79.68527
-1228320248,Impatiens_capensis,40,-86
 1703294033,Impatiens_capensis,49.644194,-95.887556
 441910578,Impatiens_capensis,39.465863,-76.585949
 441910651,Impatiens_capensis,40.75223,-100.73944
@@ -923,7 +872,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261979455,Impatiens_capensis,45.341667,-71.993889
 883391036,Impatiens_capensis,53.9842999991032,-106.2903
 1248701458,Impatiens_capensis,45.516667,-73.65
-1261994619,Impatiens_capensis,46.5,-70.833333
 176962182,Impatiens_capensis,39.75856,-95.49968
 1228477121,Impatiens_capensis,41.8333,-87.85
 473266902,Impatiens_capensis,45.389167,-73.901389
@@ -941,7 +889,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441910534,Impatiens_capensis,41.41526,-100.19347
 859259410,Impatiens_capensis,37.04785,-94.63863
 1928464736,Impatiens_capensis,40.85,-73.87
-1988170045,Impatiens_capensis,54.06,-125.3
 415961270,Impatiens_capensis,38.30555,-90.27638
 2242396563,Impatiens_capensis,41.686242,-87.527838
 2028085686,Impatiens_capensis,50.679278,-96.513778
@@ -950,12 +897,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 694282039,Impatiens_capensis,45.39359,-75.51212
 1988214018,Impatiens_capensis,43.26,-79.88
 473535069,Impatiens_capensis,45.393495,-75.512202
-1986951086,Impatiens_capensis,45.3,-75.633333
 441910549,Impatiens_capensis,42.65548,-100.55097
 2265599387,Impatiens_capensis,47.193691,-95.741927
 1989280689,Impatiens_capensis,46.31187,-86.11549
 465933498,Impatiens_capensis,44.91605,-63.22959
-1228427003,Impatiens_capensis,45.4,-75.5
 176962263,Impatiens_capensis,37.11885,-94.63021
 465933495,Impatiens_capensis,45.9625,-64.636111
 1261965678,Impatiens_capensis,48.264632,-69.939731
@@ -965,7 +910,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176962294,Impatiens_capensis,37.04403,-94.64108
 1899305798,Impatiens_capensis,44.327133,-79.321804
 465933492,Impatiens_capensis,48.84929,-88.48467
-1261964094,Impatiens_capensis,46.7,-75.45
 1807245479,Impatiens_capensis,45.66022,-62.27603
 668751556,Impatiens_capensis,46.772222,-71.263889
 2265600046,Impatiens_capensis,46.869327,-96.473428
@@ -974,17 +918,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988118130,Impatiens_capensis,49.15,-122.99
 465933490,Impatiens_capensis,44.70987,-65.64531
 56590269,Impatiens_capensis,33.28083,-87.40667
-1988079352,Impatiens_capensis,43.1,-82
 2290485805,Impatiens_capensis,47.566667,-95.366667
-2289690823,Impatiens_capensis,39.1,-79.15
 465933486,Impatiens_capensis,44.41507,-65.18609
 1261962541,Impatiens_capensis,49.764167,-70.3575
 859259395,Impatiens_capensis,37.46669,-98.55036
 1261007919,Impatiens_capensis,37.46138,-93.50055
 465933488,Impatiens_capensis,45.71941,-61.90938
 1228396590,Impatiens_capensis,46.816324,-90.689072
-473266900,Impatiens_capensis,46.3,-74.55
-1261961248,Impatiens_capensis,46.5,-71.6
 1989007427,Impatiens_capensis,42.275954,-83.806323
 1899306231,Impatiens_capensis,44.316356,-79.475527
 1988663381,Impatiens_capensis,42.300243,-83.662835
@@ -993,7 +933,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228340002,Impatiens_capensis,48.4028,-89.6256
 2265598411,Impatiens_capensis,45.084979,-92.817348
 1228387424,Impatiens_capensis,43.477738,-95.076937
-1261988033,Impatiens_capensis,46.7,-71.452
 2252418351,Impatiens_capensis,42.4457,-84.01614
 1261988003,Impatiens_capensis,47.675,-68.867
 176962167,Impatiens_capensis,39.528651,-95.516474
@@ -1015,10 +954,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176961790,Impatiens_capensis,38.42024,-94.79083
 2265601060,Impatiens_capensis,48.794929,-97.096865
 1988163860,Impatiens_capensis,45.88,-75.05
-1804575320,Impatiens_capensis,60.083333,-123.7
 1228366246,Impatiens_capensis,49.656228,-109.466667
 731343560,Impatiens_capensis,48.8527,-87.93575
-1261958647,Impatiens_capensis,48.233333,-70.2
 176961791,Impatiens_capensis,38.74425,-95.14691
 441910643,Impatiens_capensis,35.842208,-90.757847
 441910637,Impatiens_capensis,36.802198,-94.701197
@@ -1051,9 +988,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465933466,Impatiens_capensis,47.6833,-68.3167
 2289084178,Impatiens_capensis,45.95,-66.083333
 441910535,Impatiens_capensis,36.173972,-94.672168
-1261958601,Impatiens_capensis,46.916667,-71.1
 2265598022,Impatiens_capensis,46.949349,-91.779051
-1949509814,Impatiens_capensis,48.4,-89.316667
 465933463,Impatiens_capensis,45.68319,-61.56434
 465933551,Impatiens_capensis,42.598611,-80.483611
 1988871799,Impatiens_capensis,44.620172,-85.90986
@@ -1072,14 +1007,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234482775,Impatiens_capensis,36.021249,-79.361408
 1949509810,Impatiens_capensis,48.433333,-88.75
 465933483,Impatiens_capensis,45.180278,-67.296389
-1261954787,Impatiens_capensis,45.4,-72.033333
 1703293997,Impatiens_capensis,53.8249999991016,-101.253333
 1949509690,Impatiens_capensis,48.333333,-88.833333
 1988198143,Impatiens_capensis,53.75,-105.25
 2265597538,Impatiens_capensis,48.202796,-92.630831
 1228378193,Impatiens_capensis,39.310521,-94.420865
 1248701482,Impatiens_capensis,52.243611,-78.493611
-1949509854,Impatiens_capensis,48.333333,-88.8
 1949509637,Impatiens_capensis,48.402222,-89.625
 1949474350,Impatiens_capensis,49.091667,-123.077778
 1261953063,Impatiens_capensis,47.119042,-70.872859
@@ -1131,7 +1064,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320573746,Impatiens_capensis,38.4139,-76.9408
 1318548383,Impatiens_capensis,39.5789,-77.3325
 2265600151,Impatiens_capensis,46.090549,-95.736412
-56590262,Impatiens_capensis,33.3,-87.5
 1319216803,Impatiens_capensis,38.9392,-76.9342
 1261987994,Impatiens_capensis,46.264,-70.325
 731298825,Impatiens_capensis,48.2144,-90.1512
@@ -1145,12 +1077,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265596464,Impatiens_capensis,46.8986,-92.30816
 441910542,Impatiens_capensis,41.357506,-79.226483
 1989524668,Impatiens_capensis,47.227425,-88.401505
-1978752300,Impatiens_capensis,48.1,-66.133333
 2265598012,Impatiens_capensis,46.90159,-91.89935
 465933472,Impatiens_capensis,45.462416,-64.336734
 465933476,Impatiens_capensis,45.994787,-66.827489
 465933445,Impatiens_capensis,45.62901,-62.68887
-465933474,Impatiens_capensis,46.298611,-67.5
 2265600584,Impatiens_capensis,45.304687,-96.444779
 2265599270,Impatiens_capensis,45.391559,-96.086691
 1807245462,Impatiens_capensis,46.107578,-62.756735
@@ -1216,7 +1146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989198552,Impatiens_capensis,48.09516,-88.59479
 415961243,Impatiens_capensis,42.28333,-73.08333
 2265599849,Impatiens_capensis,47.415324,-92.239713
-1949534963,Impatiens_capensis,51.9,-106.816667
 1248701368,Impatiens_capensis,48.601667,-78.214167
 2265599165,Impatiens_capensis,45.318933,-93.071279
 1321555752,Impatiens_capensis,38.8672,-77.165
@@ -1235,11 +1164,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228532228,Impatiens_capensis,36.360353,-84.700776
 1228307066,Impatiens_capensis,41.648643,-87.004861
 2265600368,Impatiens_capensis,49.344621,-95.028893
-2291771715,Impatiens_capensis,43.133333,-71.9
 415961271,Impatiens_capensis,39.86388,-79.54861
 415961346,Impatiens_capensis,41.6175,-72.08472
-1988160807,Impatiens_capensis,48.8,-86.3
-1988236423,Impatiens_capensis,47,-84.8
 2265597918,Impatiens_capensis,48.51885,-93.540946
 1319346625,Impatiens_capensis,38.8664,-77.7064
 2265599380,Impatiens_capensis,48.61383,-93.280482
@@ -1281,7 +1207,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883391075,Impatiens_capensis,53.024661,-114.065591
 2265596990,Impatiens_capensis,44.708342,-93.350548
 1262005457,Impatiens_capensis,48.416667,-71.216667
-2284301237,Impatiens_capensis,47,-84.75
 1807245232,Impatiens_capensis,45.05575,-63.76132
 1228609067,Impatiens_capensis,41.65,-87.01
 415961257,Impatiens_capensis,43.88333,-73.28333
@@ -1294,13 +1219,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265599830,Impatiens_capensis,47.174244,-95.160702
 2265598914,Impatiens_capensis,47.41662,-94.578313
 415961364,Impatiens_capensis,41.98166,-72.65055
-1260926591,Impatiens_capensis,39.31666,-94.4
 415961356,Impatiens_capensis,41.35,-72.07833
 1988723238,Impatiens_capensis,45.11219,-87.65448
 1703284610,Impatiens_capensis,50.6669037955189,-96.5502140050622
 441910599,Impatiens_capensis,36.621101,-88.272201
 176962021,Impatiens_capensis,39.532271,-95.269788
-1228383085,Impatiens_capensis,55,-125
 1228497296,Impatiens_capensis,40.63788,-74.450986
 1260930874,Impatiens_capensis,38.5025,-90.62777
 1988724833,Impatiens_capensis,47.94222,-88.89444
@@ -1308,10 +1231,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1987015166,Impatiens_capensis,44.139698,-73.747978
 1988186235,Impatiens_capensis,44.79,-63.64
 1989199369,Impatiens_capensis,48.095149,-88.657996
-1228207280,Impatiens_capensis,41.9833,-88
 1989245291,Impatiens_capensis,48.15111,-88.62056
 2288645199,Impatiens_capensis,46.383333,-75.016667
-465933454,Impatiens_capensis,46.4,-75.033333
 1988143690,Impatiens_capensis,56.24,-117.29
 176962126,Impatiens_capensis,37.497886,-94.70496
 1261946076,Impatiens_capensis,45.494722,-74.025
@@ -1333,7 +1254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988945966,Impatiens_capensis,42.33837,-83.888555
 441910521,Impatiens_capensis,42.38037,-72.52314
 1988198299,Impatiens_capensis,50.65,-119.95
-1703293985,Impatiens_capensis,53.15,-99.3
 1807245219,Impatiens_capensis,45.58998,-62.00291
 1807245423,Impatiens_capensis,45.36273,-61.49298
 1989424589,Impatiens_capensis,42.29561,-83.75109
