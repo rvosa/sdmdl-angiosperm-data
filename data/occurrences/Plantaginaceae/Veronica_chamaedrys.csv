@@ -11,7 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1977821809,Veronica_chamaedrys,62.673,11.4312
 1833799109,Veronica_chamaedrys,50.17105,8.6274
 2270855023,Veronica_chamaedrys,47.07944,15.41861
-1881754630,Veronica_chamaedrys,57.8,26.063
 2244175620,Veronica_chamaedrys,50.067776,8.56
 1801066824,Veronica_chamaedrys,47.24584,40.25301
 1881754640,Veronica_chamaedrys,58.538117,24.071233
@@ -147,7 +146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323862682,Veronica_chamaedrys,69.6514,18.9398
 1987575497,Veronica_chamaedrys,46.88,5.82
 1990858072,Veronica_chamaedrys,66.89429,18.68517
-2313335198,Veronica_chamaedrys,48.2,11.56
 1831005936,Veronica_chamaedrys,48.03389,16.27389
 1935731625,Veronica_chamaedrys,47.1069,15.00417
 1993832566,Veronica_chamaedrys,46.375,14.54167
@@ -205,7 +203,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839105800,Veronica_chamaedrys,41.381672,24.261391
 1839105868,Veronica_chamaedrys,41.012779,24.432779
 1839105827,Veronica_chamaedrys,41.339169,24.208611
-986393222,Veronica_chamaedrys,50.116667,20.7
 1839105788,Veronica_chamaedrys,40.415279,22.44611
 1638437349,Veronica_chamaedrys,42.1025,19.20472
 1851327022,Veronica_chamaedrys,42.459,-6.622
@@ -214,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900308464,Veronica_chamaedrys,58.418,7.2769
 1231216869,Veronica_chamaedrys,49.26361,20.15361
 1231224382,Veronica_chamaedrys,40.67333,44.8825
-1095899100,Veronica_chamaedrys,60.9,16.23
 1231216863,Veronica_chamaedrys,49.265,20.15222
 1323728275,Veronica_chamaedrys,67.3778,14.2673
 1638437316,Veronica_chamaedrys,42.11389,19.21444
@@ -305,7 +301,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839105352,Veronica_chamaedrys,38.95694,21.600559
 1211934981,Veronica_chamaedrys,45.3225,14.26806
 1839105348,Veronica_chamaedrys,38.84333,21.735559
-895207362,Veronica_chamaedrys,37.92,22.4
 1936679045,Veronica_chamaedrys,37.9286,22.4047
 1211934962,Veronica_chamaedrys,45.77833,15.68583
 1839105335,Veronica_chamaedrys,38.89806,21.711109
@@ -333,7 +328,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1211935087,Veronica_chamaedrys,43.96361,16.63833
 1142100973,Veronica_chamaedrys,42.91694,27.82028
 1211934953,Veronica_chamaedrys,45.41333,14.09694
-2305760937,Veronica_chamaedrys,58.1,27.06
 1999599669,Veronica_chamaedrys,60.941144,23.213782
 1702267577,Veronica_chamaedrys,62.0145,12.1728
 895212411,Veronica_chamaedrys,40.476,-1.614
@@ -442,7 +436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1211934999,Veronica_chamaedrys,41.76556,23.42361
 1211934963,Veronica_chamaedrys,41.7575,23.41389
 895229678,Veronica_chamaedrys,43.41881,-4.84927
-1211934936,Veronica_chamaedrys,41.9,23.275
 1701628191,Veronica_chamaedrys,59.4798,11.6862
 1211934951,Veronica_chamaedrys,44.175,22.12667
 1701570237,Veronica_chamaedrys,63.6352,11.2505
@@ -525,7 +518,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 23018715,Veronica_chamaedrys,47.773,3.62186
 1831355512,Veronica_chamaedrys,53.3485,11.4153
 1050636923,Veronica_chamaedrys,42.86,-2.63
-198471191,Veronica_chamaedrys,43.220001,-4.9
 1935731493,Veronica_chamaedrys,46.77278,15.50194
 1060516070,Veronica_chamaedrys,53.133335,-9.233334
 1697653233,Veronica_chamaedrys,57.066667,30.583333
@@ -598,7 +590,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701617771,Veronica_chamaedrys,59.9745,11.141
 1935731465,Veronica_chamaedrys,47.58917,13.87556
 1323738750,Veronica_chamaedrys,69.648,18.9502
-1936638973,Veronica_chamaedrys,67.6,33.6667
 1701768769,Veronica_chamaedrys,63.5262,9.5841
 1697832732,Veronica_chamaedrys,43.8219,40.51885
 1343114369,Veronica_chamaedrys,55.775344,9.692174
@@ -649,7 +640,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323735628,Veronica_chamaedrys,69.6806,19.0606
 788460978,Veronica_chamaedrys,39.916667,21.566667
 1657210238,Veronica_chamaedrys,46.76472,15.96556
-788473233,Veronica_chamaedrys,40.983333,23.2
 1657210268,Veronica_chamaedrys,46.76528,15.96306
 788460918,Veronica_chamaedrys,41.066667,25.866667
 1702191200,Veronica_chamaedrys,59.7574,11.2562
@@ -663,7 +653,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598407712,Veronica_chamaedrys,65.220408,29.650481
 1598407659,Veronica_chamaedrys,65.036502,25.451912
 1701651069,Veronica_chamaedrys,59.4426,10.6831
-1050623207,Veronica_chamaedrys,41.8,-1.81
 152960401,Veronica_chamaedrys,46.399636,14.245283
 2290263610,Veronica_chamaedrys,52.070498,4.3007
 1050622989,Veronica_chamaedrys,41.81,-1.83
@@ -672,15 +661,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258557813,Veronica_chamaedrys,41.87027,44.655
 1050623840,Veronica_chamaedrys,41.81,-1.81
 1701849445,Veronica_chamaedrys,60.79,11.1117
-1135465353,Veronica_chamaedrys,44.1,7.35
 1851357323,Veronica_chamaedrys,42.789,-6.072
 1050623827,Veronica_chamaedrys,41.77,-1.81
 1135465413,Veronica_chamaedrys,45.85,7.15
 1702178122,Veronica_chamaedrys,59.7361,11.3437
 1050624189,Veronica_chamaedrys,42.73,-2.51
-1135465351,Veronica_chamaedrys,46.8,1.25
 1701829178,Veronica_chamaedrys,59.5838,11.186
-786298796,Veronica_chamaedrys,47.9,8
 1323720239,Veronica_chamaedrys,69.6834,30.0701
 1323720238,Veronica_chamaedrys,69.6853,30.0697
 1323720069,Veronica_chamaedrys,69.6798,30.1467
@@ -694,8 +680,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851372179,Veronica_chamaedrys,42.801,-6.206
 1999470515,Veronica_chamaedrys,60.597214,23.154928
 1050619506,Veronica_chamaedrys,42.92,-2.32
-30979874,Veronica_chamaedrys,42.8,-2.27
-1851405510,Veronica_chamaedrys,42.8,-6.145
 1323720618,Veronica_chamaedrys,69.6734,30.1372
 1323720643,Veronica_chamaedrys,69.6691,30.1752
 1323829609,Veronica_chamaedrys,69.1389,29.2525
@@ -719,7 +703,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343115207,Veronica_chamaedrys,55.534249,11.985765
 1231224587,Veronica_chamaedrys,47.61278,13.56833
 1702160936,Veronica_chamaedrys,62.6759,11.4069
-1936542630,Veronica_chamaedrys,47.6,13.5667
 1702154038,Veronica_chamaedrys,60.2186,12.0125
 1705347260,Veronica_chamaedrys,57.287618,16.458592
 1702153273,Veronica_chamaedrys,61.2609,12.8271
@@ -750,8 +733,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851330899,Veronica_chamaedrys,42.809,-4.975
 1701986522,Veronica_chamaedrys,62.1766,10.9521
 1936602187,Veronica_chamaedrys,43.4179,-4.076
-1340026414,Veronica_chamaedrys,37.85,21.8
-1340026766,Veronica_chamaedrys,37.8,21.666667
 1050602486,Veronica_chamaedrys,42.59,-2.84
 1702372974,Veronica_chamaedrys,59.02266,9.53738
 1851568543,Veronica_chamaedrys,40.58,-1.75
@@ -783,14 +764,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697653197,Veronica_chamaedrys,59.768167,38.400399
 1851376669,Veronica_chamaedrys,42.863,-4.965
 1701784263,Veronica_chamaedrys,60.1625,12.2448
-211641404,Veronica_chamaedrys,43.380001,-5.9
 788593319,Veronica_chamaedrys,40.45,23.516667
 1851378221,Veronica_chamaedrys,41.811,-1.814
 2291875750,Veronica_chamaedrys,45.687778,10.751111
 860310835,Veronica_chamaedrys,42.41,2.82
-860316703,Veronica_chamaedrys,42.32,2.7
 788593019,Veronica_chamaedrys,40.65,23.633333
-211641412,Veronica_chamaedrys,43.369999,-5.8
 1851352056,Veronica_chamaedrys,43.067,-5.18
 1702409116,Veronica_chamaedrys,62.5922,9.6717
 1323765800,Veronica_chamaedrys,66.9874,14.0258
@@ -800,7 +778,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851361228,Veronica_chamaedrys,42.341,-6.542
 29755409,Veronica_chamaedrys,41.612,-6.57
 30900460,Veronica_chamaedrys,43.080002,-2.75
-1500200514,Veronica_chamaedrys,49.083333,14.5
 1851412339,Veronica_chamaedrys,42.189,-6.209
 1231232275,Veronica_chamaedrys,48.82333,22.36056
 1851342419,Veronica_chamaedrys,42.313,-6.494
@@ -809,7 +786,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598404909,Veronica_chamaedrys,60.932628,24.677368
 1831529069,Veronica_chamaedrys,48.89861,20.24472
 1701253049,Veronica_chamaedrys,62.8516,10.7974
-1050621360,Veronica_chamaedrys,42.7,-1.52
 1500200516,Veronica_chamaedrys,49.25,14.466667
 1500200492,Veronica_chamaedrys,50.666667,15.416667
 1598404806,Veronica_chamaedrys,61.067827,27.876627
@@ -824,8 +800,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1231231580,Veronica_chamaedrys,49.25639,19.72306
 1598407655,Veronica_chamaedrys,60.958932,24.540644
 125881028,Veronica_chamaedrys,43.259998,-2.14
-30979801,Veronica_chamaedrys,43.22,-2.2
-1851378155,Veronica_chamaedrys,43.091,-1.9
 1839110005,Veronica_chamaedrys,38.448059,22.008329
 1702180881,Veronica_chamaedrys,61.3694,11.4228
 1701622804,Veronica_chamaedrys,60.6148,12.1798
@@ -848,10 +822,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895191436,Veronica_chamaedrys,40.48,-0.23
 895191483,Veronica_chamaedrys,40.22,-0.36
 111315664,Veronica_chamaedrys,42.713001,-1.187
-1500700038,Veronica_chamaedrys,40.4,-0.35
 1947731699,Veronica_chamaedrys,50.27,10.59
 1947731700,Veronica_chamaedrys,50.24,10.59
-788593615,Veronica_chamaedrys,39.9,20.75
 1947731746,Veronica_chamaedrys,50.26,10.55
 1323710501,Veronica_chamaedrys,69.02943,17.64963
 1839105029,Veronica_chamaedrys,40.326389,20.90583
@@ -873,7 +845,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111315223,Veronica_chamaedrys,43.16,-1.579
 111315232,Veronica_chamaedrys,43.202999,-1.48
 1050600532,Veronica_chamaedrys,42.63,-2.33
-1050600502,Veronica_chamaedrys,42.6,-2.45
 111315237,Veronica_chamaedrys,43.051998,-1.619
 1936445908,Veronica_chamaedrys,40.8788,-4.0101
 1050650160,Veronica_chamaedrys,42.65,-1.46
@@ -895,7 +866,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851399774,Veronica_chamaedrys,42.922,-4.685
 1050645940,Veronica_chamaedrys,43.12,-1.85
 111315428,Veronica_chamaedrys,42.872002,-1.586
-1851399504,Veronica_chamaedrys,42.861,-4.5
 111315434,Veronica_chamaedrys,43.062,-1.692
 1705344476,Veronica_chamaedrys,57.256742,15.559997
 1999573666,Veronica_chamaedrys,60.643422,22.196213
@@ -909,7 +879,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050650189,Veronica_chamaedrys,42.95,-2.08
 1050650188,Veronica_chamaedrys,42.88,-1.99
 1936446837,Veronica_chamaedrys,40.9963,-3.9643
-788592780,Veronica_chamaedrys,40.916667,24.1
 111315431,Veronica_chamaedrys,42.743,-1.418
 111315432,Veronica_chamaedrys,43.077999,-1.52
 1050600566,Veronica_chamaedrys,42.86,-0.82
@@ -935,7 +904,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947731725,Veronica_chamaedrys,50.01,10.59
 2028546452,Veronica_chamaedrys,42.76,-3.67
 1050600543,Veronica_chamaedrys,43.31,-3.06
-1050602522,Veronica_chamaedrys,42.56,-6.5
 1851336954,Veronica_chamaedrys,42.375,-3.334
 1705319641,Veronica_chamaedrys,57.59704,15.08609
 1701775354,Veronica_chamaedrys,64.0249,10.1766
@@ -969,7 +937,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050600534,Veronica_chamaedrys,42.61,-2.59
 1697653243,Veronica_chamaedrys,64.830662,57.891409
 1806556491,Veronica_chamaedrys,42.689057,-1.584721
-111315458,Veronica_chamaedrys,43.198002,-1.8
 1936543476,Veronica_chamaedrys,43.3126,-5.9608
 1050602439,Veronica_chamaedrys,43.39,-1.83
 1050600567,Veronica_chamaedrys,42.82,-2.66
@@ -993,11 +960,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111315450,Veronica_chamaedrys,43.278,-1.712
 1092425,Veronica_chamaedrys,55.72856,13.54086
 1144112176,Veronica_chamaedrys,62.61,6.1647
-111315453,Veronica_chamaedrys,43.188999,-1.8
 111315089,Veronica_chamaedrys,43.266998,-3.388
 1598407895,Veronica_chamaedrys,60.206418,24.661268
 1288129782,Veronica_chamaedrys,50.4381,9.88222
-473445529,Veronica_chamaedrys,45.5,-73.6
 111315441,Veronica_chamaedrys,43.18,-1.788
 1144112208,Veronica_chamaedrys,62.5904,6.0886
 1050600546,Veronica_chamaedrys,42.76,-2.56
@@ -1011,11 +976,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668787414,Veronica_chamaedrys,46.725,-71.333333
 1851391970,Veronica_chamaedrys,42.92,-6.37
 1323748999,Veronica_chamaedrys,65.9012,12.4207
-111315440,Veronica_chamaedrys,43.216,-1.8
 1598404892,Veronica_chamaedrys,63.276795,23.379084
 1323701519,Veronica_chamaedrys,69.7583,21.3043
 111315439,Veronica_chamaedrys,43.287998,-1.749
-211640796,Veronica_chamaedrys,43.220001,-4.7
 1323701873,Veronica_chamaedrys,68.5426,17.5713
 1936543545,Veronica_chamaedrys,43.3414,-4.4818
 318239835,Veronica_chamaedrys,58.9013,5.7364
@@ -1032,7 +995,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050600555,Veronica_chamaedrys,43.05,-3.06
 111314640,Veronica_chamaedrys,42.66,-1.11
 1050600554,Veronica_chamaedrys,42.89,-2.72
-111315456,Veronica_chamaedrys,43.207001,-1.8
 1050600549,Veronica_chamaedrys,42.99,-2.88
 1697285938,Veronica_chamaedrys,53.333333,87.666667
 668787422,Veronica_chamaedrys,46.784722,-71.275556
@@ -1054,7 +1016,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050600576,Veronica_chamaedrys,42.87,-2.35
 668787427,Veronica_chamaedrys,46.773333,-71.254167
 1050600570,Veronica_chamaedrys,42.99,-2.68
-1050600535,Veronica_chamaedrys,42.96,-2.6
 1697653350,Veronica_chamaedrys,55.580516,37.554985
 1050600552,Veronica_chamaedrys,43.04,-3.14
 111314645,Veronica_chamaedrys,42.68,-2.45
@@ -1121,9 +1082,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701369185,Veronica_chamaedrys,59.9987,11.2492
 1701981265,Veronica_chamaedrys,63.441,10.4804
 1701784979,Veronica_chamaedrys,62.3332,7.5184
-1050600572,Veronica_chamaedrys,42.8,-2.71
 1050600564,Veronica_chamaedrys,42.96,-2.57
-1050600581,Veronica_chamaedrys,42.78,-2.4
 1050600565,Veronica_chamaedrys,42.95,-2.82
 1638437543,Veronica_chamaedrys,47.1075,15.49111
 1802796734,Veronica_chamaedrys,59.3734,10.6912
@@ -1153,13 +1112,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050600557,Veronica_chamaedrys,42.79,-2.72
 1638437936,Veronica_chamaedrys,47.075,15.45833
 1697745124,Veronica_chamaedrys,44.746246,34.301891
-211640624,Veronica_chamaedrys,43.049999,-6.3
 1999470428,Veronica_chamaedrys,60.66216,21.51534
 1851326015,Veronica_chamaedrys,42.37,-6.15
 186844366,Veronica_chamaedrys,58.4861,7.9024
 1598407936,Veronica_chamaedrys,61.243538,24.66856
 1701934344,Veronica_chamaedrys,61.9163,5.9653
-1050600575,Veronica_chamaedrys,42.78,-2.6
 1050600577,Veronica_chamaedrys,42.73,-2.49
 1701784557,Veronica_chamaedrys,60.5669,6.8939
 1702438984,Veronica_chamaedrys,60.297,11.7239
@@ -1277,7 +1234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705357246,Veronica_chamaedrys,56.805334,14.037221
 1705887606,Veronica_chamaedrys,51.1129,15.5878
 1705887797,Veronica_chamaedrys,52.7365,23.3586
-473541350,Veronica_chamaedrys,46.616667,-67.7
 1598407872,Veronica_chamaedrys,62.588335,24.563789
 1705887640,Veronica_chamaedrys,53.572299,23.160112
 1705887655,Veronica_chamaedrys,53.9207,22.1708
@@ -1301,7 +1257,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935731875,Veronica_chamaedrys,46.89444,15.89583
 2291026661,Veronica_chamaedrys,46.25,9.15
 1705887665,Veronica_chamaedrys,52.6514,23.0447
-1249268901,Veronica_chamaedrys,50.6,6.8
 230820280,Veronica_chamaedrys,51.844073,5.873341
 1705887783,Veronica_chamaedrys,52.9257,23.6034
 1831355702,Veronica_chamaedrys,53.6485,11.582
@@ -1369,12 +1324,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705887788,Veronica_chamaedrys,54.2408,22.2575
 1323749014,Veronica_chamaedrys,67.2692,14.4318
 1705887758,Veronica_chamaedrys,52.4932,23.1931
-788593438,Veronica_chamaedrys,41.3,24.1
 1705887789,Veronica_chamaedrys,54.163,22.4163
 1705887767,Veronica_chamaedrys,54.2939,22.2109
 1705887909,Veronica_chamaedrys,52.657204,23.202908
 1705887670,Veronica_chamaedrys,52.7349,23.1518
-1705887777,Veronica_chamaedrys,54.3,22.3
 1705887779,Veronica_chamaedrys,54.3318,22.2652
 1705887684,Veronica_chamaedrys,52.6612,23.1218
 1705887729,Veronica_chamaedrys,53.0229,23.5547
@@ -1435,7 +1388,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705887924,Veronica_chamaedrys,54.1377,23.2761
 1705887631,Veronica_chamaedrys,53.467,23.3564
 1705887681,Veronica_chamaedrys,53.2559,23.5618
-2289769327,Veronica_chamaedrys,44,7.433333
 1705887761,Veronica_chamaedrys,54.12,22.92
 1705887693,Veronica_chamaedrys,53.5071,23.335
 1705887818,Veronica_chamaedrys,54.1679,23.2201
@@ -1468,7 +1420,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261977882,Veronica_chamaedrys,45.273611,-71.974167
 1705402116,Veronica_chamaedrys,57.274257,15.17529
 1702431856,Veronica_chamaedrys,62.6661,6.2765
-1261971674,Veronica_chamaedrys,46.8,-71.183333
 1705887705,Veronica_chamaedrys,52.4775,22.9102
 1705887620,Veronica_chamaedrys,52.3928,22.831
 1705887733,Veronica_chamaedrys,52.445878,22.969644
@@ -1499,7 +1450,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702284393,Veronica_chamaedrys,62.3334,7.0599
 1701269558,Veronica_chamaedrys,63.0449,11.6401
 1261968465,Veronica_chamaedrys,46.769711,-71.211303
-786298831,Veronica_chamaedrys,47.4,10.8
 1705887715,Veronica_chamaedrys,52.4777,23.1735
 1697832752,Veronica_chamaedrys,44.15617,43.035
 1705887732,Veronica_chamaedrys,52.903501,23.362008
@@ -1515,7 +1465,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144112071,Veronica_chamaedrys,58.46334,6.46705
 1702284420,Veronica_chamaedrys,59.2604,6.4391
 1323749005,Veronica_chamaedrys,67.925,15.0358
-786298822,Veronica_chamaedrys,51.8,10.3
 1705887757,Veronica_chamaedrys,50.478,23.0549
 216104041,Veronica_chamaedrys,62.251301,25.9671
 1598404667,Veronica_chamaedrys,62.878664,27.095057
@@ -1671,7 +1620,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999470411,Veronica_chamaedrys,60.133297,22.793553
 1702284423,Veronica_chamaedrys,61.3033,7.2452
 1705291703,Veronica_chamaedrys,57.660086,16.492068
-1840464467,Veronica_chamaedrys,50.733333,3.6
 318239826,Veronica_chamaedrys,60.37037,5.41776
 216104073,Veronica_chamaedrys,62.439201,25.9025
 1699916495,Veronica_chamaedrys,62.9447,10.6455
@@ -1686,7 +1634,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705402601,Veronica_chamaedrys,57.438386,13.588489
 216104085,Veronica_chamaedrys,62.548302,26.092899
 1705419870,Veronica_chamaedrys,57.708656,14.178966
-1705887598,Veronica_chamaedrys,52.7,23.87
 1598407932,Veronica_chamaedrys,61.150555,24.489639
 1999639907,Veronica_chamaedrys,61.794669,28.418774
 1999470418,Veronica_chamaedrys,60.243827,22.878796
@@ -1760,7 +1707,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57731488,Veronica_chamaedrys,62.246613,25.938471
 1697946411,Veronica_chamaedrys,62.9907,10.5494
 1434677122,Veronica_chamaedrys,59.50318,12.4909
-1135465194,Veronica_chamaedrys,47.28333,14
 1701272156,Veronica_chamaedrys,62.8466,11.249
 1135465346,Veronica_chamaedrys,48.01667,16.25
 1702355237,Veronica_chamaedrys,59.97276,8.53529
@@ -1810,7 +1756,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705381683,Veronica_chamaedrys,57.7045,11.96518
 1323749031,Veronica_chamaedrys,65.8516,13.2364
 1598407898,Veronica_chamaedrys,60.597136,23.802238
-668787425,Veronica_chamaedrys,46.8,-71.216667
 1705423418,Veronica_chamaedrys,56.299194,15.995845
 1999599610,Veronica_chamaedrys,60.457546,22.278371
 1598407959,Veronica_chamaedrys,60.762044,23.234942
@@ -1822,7 +1767,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317875428,Veronica_chamaedrys,50.641111,8.714167
 668787418,Veronica_chamaedrys,46.766667,-71.25
 1261951559,Veronica_chamaedrys,46.814196,-71.156668
-1231231954,Veronica_chamaedrys,48.33333,16.3
 788598670,Veronica_chamaedrys,55.71679,13.27302
 1705382962,Veronica_chamaedrys,56.826825,15.723337
 788702430,Veronica_chamaedrys,56.17328,15.68933
@@ -1962,7 +1906,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598404857,Veronica_chamaedrys,63.056456,27.688824
 1598407905,Veronica_chamaedrys,64.578701,28.144452
 1702284388,Veronica_chamaedrys,58.887,9.2863
-1842887283,Veronica_chamaedrys,41.78,2.7
 1701662819,Veronica_chamaedrys,59.9642,5.3633
 1705435412,Veronica_chamaedrys,62.512832,17.502836
 1697653370,Veronica_chamaedrys,54.857146,37.594442
@@ -2103,7 +2046,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702284450,Veronica_chamaedrys,61.1898,6.8422
 1261973143,Veronica_chamaedrys,46.8225,-71.176111
 1701324513,Veronica_chamaedrys,62.6669,9.2245
-1893208706,Veronica_chamaedrys,49.8,5.93
 788706951,Veronica_chamaedrys,59.31651,16.61379
 1598407830,Veronica_chamaedrys,60.971243,24.503796
 1598407821,Veronica_chamaedrys,61.478388,23.148623
@@ -2180,7 +2122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313468596,Veronica_chamaedrys,48.17,11.54
 1999470430,Veronica_chamaedrys,62.238565,25.169345
 1265789354,Veronica_chamaedrys,45.4286,-73.6633
-768796008,Veronica_chamaedrys,45.5,-73.58333
 788587137,Veronica_chamaedrys,56.15798,14.09413
 1598404940,Veronica_chamaedrys,61.801707,27.281331
 788593723,Veronica_chamaedrys,55.636753,13.112944
@@ -2450,7 +2391,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598407886,Veronica_chamaedrys,62.140109,24.599891
 788449284,Veronica_chamaedrys,56.88286,14.55263
 1705341902,Veronica_chamaedrys,58.161357,13.550427
-788560767,Veronica_chamaedrys,63,23.815833
 1288097489,Veronica_chamaedrys,50.609567,10.06275
 788588136,Veronica_chamaedrys,57.617406,13.043444
 1705316093,Veronica_chamaedrys,58.566677,14.121107
