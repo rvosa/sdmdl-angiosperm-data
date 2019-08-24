@@ -33,10 +33,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 991795333,Adenostyles_alliariae,47.4,11.1
 237337528,Adenostyles_alliariae,42.54,0.91
 991795342,Adenostyles_alliariae,46.8,9.5
-895205078,Adenostyles_alliariae,42.44793,1.61136
 786081383,Adenostyles_alliariae,46.8,9.6
 932704764,Adenostyles_alliariae,42.57168,-7.22254
-204419615,Adenostyles_alliariae,42.580002,1.6
 1936616768,Adenostyles_alliariae,42.6269,1.5028
 1059611783,Adenostyles_alliariae,46.7,9.6
 786081752,Adenostyles_alliariae,47.9,8.1
@@ -45,7 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831514363,Adenostyles_alliariae,43.0375,-4.40611
 1988061775,Adenostyles_alliariae,47.097222,13.171111
 6697673,Adenostyles_alliariae,46.892,4.40337
-1657162367,Adenostyles_alliariae,47.63333,145.3
 1638374936,Adenostyles_alliariae,46.80417,14.975
 1851364303,Adenostyles_alliariae,42.918,-4.917
 1851343963,Adenostyles_alliariae,43.047,-4.75
