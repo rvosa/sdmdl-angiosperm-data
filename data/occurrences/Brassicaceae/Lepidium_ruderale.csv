@@ -20,7 +20,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839035591,Lepidium_ruderale,51.559441,11.005
 1839034507,Lepidium_ruderale,40.788059,21.244169
 1697789696,Lepidium_ruderale,44.705747,37.470989
-1697789728,Lepidium_ruderale,40.1,49.366667
 1935700740,Lepidium_ruderale,47.02386,15.41385
 1830985665,Lepidium_ruderale,48.00694,16.29222
 1144053708,Lepidium_ruderale,61.0524,7.5394
@@ -30,7 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289423970,Lepidium_ruderale,53.25065,5.259617
 1702380148,Lepidium_ruderale,59.7365,10.2211
 1949938452,Lepidium_ruderale,52.279167,8.038889
-1095920739,Lepidium_ruderale,59,17
 1838164539,Lepidium_ruderale,48.70722,6.21583
 1839031713,Lepidium_ruderale,40.290279,21.65889
 1697729966,Lepidium_ruderale,44.661111,33.554167
@@ -39,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839031633,Lepidium_ruderale,40.231392,21.55722
 1839031667,Lepidium_ruderale,40.245281,21.59306
 1839031597,Lepidium_ruderale,40.573059,21.693609
-2289659730,Lepidium_ruderale,52.516667,6.1
 1839031672,Lepidium_ruderale,40.652779,21.74917
 1340040874,Lepidium_ruderale,55.89616,12.9474
 2289359642,Lepidium_ruderale,46.306667,7.578333
@@ -53,7 +50,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288793060,Lepidium_ruderale,52.149,5.383833
 1947260207,Lepidium_ruderale,50.21,10.09
 1830985332,Lepidium_ruderale,47.955,16.82111
-1094187670,Lepidium_ruderale,33.1,35.6
 1697789691,Lepidium_ruderale,43.448806,41.74427
 1701819948,Lepidium_ruderale,59.6197,10.9349
 1935700531,Lepidium_ruderale,47.05479,15.44794
@@ -69,13 +65,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839031654,Lepidium_ruderale,39.977501,22.32972
 1839031615,Lepidium_ruderale,39.56583,22.615
 1839031596,Lepidium_ruderale,39.688332,22.57556
-1096657763,Lepidium_ruderale,50.6,70.02
 1839035411,Lepidium_ruderale,51.815559,11.99917
 1702106038,Lepidium_ruderale,59.339,10.7467
 1342636976,Lepidium_ruderale,56.455454,10.077684
 1999526737,Lepidium_ruderale,60.448601,22.279673
 1986959940,Lepidium_ruderale,60.455591,22.259946
-1947259215,Lepidium_ruderale,48.29,13.1
 2273633464,Lepidium_ruderale,55.79551,13.09639
 2313474035,Lepidium_ruderale,48.17,11.65
 442022605,Lepidium_ruderale,51.152412,14.987218
@@ -98,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849187460,Lepidium_ruderale,50.05,19.87
 850982,Lepidium_ruderale,56.03895,12.72514
 1697513855,Lepidium_ruderale,49.15,44.05
-1697513828,Lepidium_ruderale,53.5,39
 1701853194,Lepidium_ruderale,59.1118,11.1962
 1999526686,Lepidium_ruderale,60.460258,22.266141
 850170,Lepidium_ruderale,56.3959,12.62667
@@ -116,14 +109,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702218708,Lepidium_ruderale,59.5394,10.5589
 850181,Lepidium_ruderale,56.05264,12.88141
 1705326888,Lepidium_ruderale,57.248221,16.436361
-1697513774,Lepidium_ruderale,55.5,40.608333
 788503556,Lepidium_ruderale,55.46516,13.7791
 788487758,Lepidium_ruderale,55.72609,13.22591
 1881805371,Lepidium_ruderale,48.86,10.49
 1701635425,Lepidium_ruderale,59.7484,10.7252
 1702213434,Lepidium_ruderale,59.7358,10.7281
 1702207148,Lepidium_ruderale,59.0538,11.107
-1881804940,Lepidium_ruderale,48.85,10.5
 1702213330,Lepidium_ruderale,59.7448,10.7232
 1702213946,Lepidium_ruderale,59.7627,10.7277
 1342636930,Lepidium_ruderale,55.586293,9.752305
@@ -289,7 +280,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705321316,Lepidium_ruderale,57.77861,14.292465
 1705346551,Lepidium_ruderale,57.289195,15.636065
 1599992149,Lepidium_ruderale,60.999599,24.506065
-994538610,Lepidium_ruderale,61,24
 1705357453,Lepidium_ruderale,57.836714,14.810267
 1705320904,Lepidium_ruderale,57.790872,14.266728
 850121,Lepidium_ruderale,56.877485,14.811873
@@ -298,7 +288,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947259004,Lepidium_ruderale,49.82,9.96
 1705321266,Lepidium_ruderale,57.690742,14.463821
 1144053746,Lepidium_ruderale,58.7358,5.6488
-1947260403,Lepidium_ruderale,50.31,9.8
 318681854,Lepidium_ruderale,59.184837,10.967473
 1332783222,Lepidium_ruderale,50.621555,9.604325
 1599992125,Lepidium_ruderale,60.996567,24.487814
@@ -406,7 +395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702360728,Lepidium_ruderale,61.7738,9.5373
 1701683955,Lepidium_ruderale,59.0073,11.0101
 1697513729,Lepidium_ruderale,54.807627,41.753412
-1988133674,Lepidium_ruderale,60.4,22.3
 1599992124,Lepidium_ruderale,63.103178,21.595193
 1599992109,Lepidium_ruderale,62.59561,29.771152
 1099898041,Lepidium_ruderale,55.612,12.99632
@@ -500,7 +488,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701650487,Lepidium_ruderale,60.7665,10.9365
 1599992300,Lepidium_ruderale,60.455844,26.906183
 1701764126,Lepidium_ruderale,59.4736,10.6856
-1891593023,Lepidium_ruderale,50,6.14
 1697730001,Lepidium_ruderale,45.057929,35.379446
 1099882460,Lepidium_ruderale,55.63411,13.05189
 1697513908,Lepidium_ruderale,55.935279,58.271753
@@ -608,7 +595,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702170162,Lepidium_ruderale,59.0115,11.0144
 1697513840,Lepidium_ruderale,50.360754,44.118357
 1697513906,Lepidium_ruderale,48.748606,40.346346
-1893208432,Lepidium_ruderale,49.06,5.9
 2242709825,Lepidium_ruderale,60.576937,27.188422
 1434667829,Lepidium_ruderale,59.417222,25.238611
 335189405,Lepidium_ruderale,48.591231,7.782246
