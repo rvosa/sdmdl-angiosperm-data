@@ -15,15 +15,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936664875,Echinops_spinosissimus,31.2344,-7.6575
 2235016712,Echinops_spinosissimus,35.17722,25.70917
 1638535358,Echinops_spinosissimus,39.283333,20.433333
-24703131,Echinops_spinosissimus,29,-9
-1883725627,Echinops_spinosissimus,15.38333,51.6
 1831520570,Echinops_spinosissimus,31.15389,-8.87417
 876154575,Echinops_spinosissimus,30.58,-7.17
 2235016732,Echinops_spinosissimus,35.10694,25.79444
 1638534741,Echinops_spinosissimus,39.983333,20.766667
 1638533895,Echinops_spinosissimus,39.966667,20.783333
-2291818471,Echinops_spinosissimus,22.083333,35
-788766452,Echinops_spinosissimus,35.183333,25.7
 2287127834,Echinops_spinosissimus,33.266667,-5.35
 1144673588,Echinops_spinosissimus,6.06361,45.8625
 788654302,Echinops_spinosissimus,35.075833,32.768611
@@ -34,4 +30,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144673558,Echinops_spinosissimus,31.88361,-6.31778
 788654244,Echinops_spinosissimus,32.31,-9.236667
 2235016727,Echinops_spinosissimus,42.62722,18.17639
-1842872340,Echinops_spinosissimus,33.1,-5.2
