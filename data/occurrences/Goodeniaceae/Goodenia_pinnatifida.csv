@@ -21,7 +21,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1499286272,Goodenia_pinnatifida,-36.704,148.253
 1211627692,Goodenia_pinnatifida,-35.274556,142.37675
 1061567565,Goodenia_pinnatifida,-36.508333,144.340278
-1805859531,Goodenia_pinnatifida,-35.2806,149.0883
 1451034278,Goodenia_pinnatifida,-36.925245,148.387052
 1451034220,Goodenia_pinnatifida,-36.929967,148.368163
 1450981773,Goodenia_pinnatifida,-30.4864,120.7219
@@ -50,7 +49,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1454382068,Goodenia_pinnatifida,-30.30156,135.58394
 1805833188,Goodenia_pinnatifida,-27.9,134.61
 992077154,Goodenia_pinnatifida,-30.301389,135.583889
-995448538,Goodenia_pinnatifida,36.446,141.7991
 993709263,Goodenia_pinnatifida,-34.0539,148.5931
 993711987,Goodenia_pinnatifida,-35.1772,149.1594
 993710628,Goodenia_pinnatifida,-34.1814,148.5256
@@ -58,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993708720,Goodenia_pinnatifida,-32.7028,149.1025
 992081340,Goodenia_pinnatifida,-36.7153,140.9575
 995447857,Goodenia_pinnatifida,-34.895183,141.55845
-993712075,Goodenia_pinnatifida,-35.2058,149.1222
 1450991080,Goodenia_pinnatifida,-31.235,150.3744
 1135305189,Goodenia_pinnatifida,-31.523051,119.577509
 993699420,Goodenia_pinnatifida,-29.4367,117.7953
@@ -76,7 +73,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1061579790,Goodenia_pinnatifida,-27.332694,115.971667
 992064779,Goodenia_pinnatifida,-36.126667,140.599444
 992070300,Goodenia_pinnatifida,-36.713161,140.955264
-992067640,Goodenia_pinnatifida,-35.188889,136.893611
 995411878,Goodenia_pinnatifida,-34.94,141.5206
 996198910,Goodenia_pinnatifida,-34.94,141.521
 992060568,Goodenia_pinnatifida,-30.632222,138.402778
@@ -116,7 +112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992049272,Goodenia_pinnatifida,-34.838446,138.733875
 992048820,Goodenia_pinnatifida,-35.184444,136.903333
 993655510,Goodenia_pinnatifida,-32.3833,148.8167
-993711675,Goodenia_pinnatifida,-35.2619,149.1292
 995363331,Goodenia_pinnatifida,-36.663927,141.932127
 992051457,Goodenia_pinnatifida,-35.1,138.7
 1073406155,Goodenia_pinnatifida,-31.847613,149.750901
@@ -126,9 +121,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085397893,Goodenia_pinnatifida,-34.68511,137.49395
 1085398791,Goodenia_pinnatifida,-35.15897,137.05787
 992047745,Goodenia_pinnatifida,-35.158889,137.057778
-992047490,Goodenia_pinnatifida,-35.045556,136.996111
 992039340,Goodenia_pinnatifida,-30.427048,137.151344
-1085398112,Goodenia_pinnatifida,-35.04571,136.99606
 992050471,Goodenia_pinnatifida,-34.685,137.494
 2303143324,Goodenia_pinnatifida,-30.428333,137.150278
 1085400293,Goodenia_pinnatifida,-33.32299,138.56115
@@ -293,7 +286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085314917,Goodenia_pinnatifida,-32.81967,136.20938
 992001380,Goodenia_pinnatifida,-32.954167,135.931111
 991997868,Goodenia_pinnatifida,-32.821111,136.208056
-991992304,Goodenia_pinnatifida,-34,137
 1652224956,Goodenia_pinnatifida,-28.748545,151.584154
 1451581403,Goodenia_pinnatifida,-33.265107,148.717853
 991999762,Goodenia_pinnatifida,-32.9058,136.0325
@@ -316,7 +308,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992629134,Goodenia_pinnatifida,-32.765385,138.184413
 992614492,Goodenia_pinnatifida,-31.8,138.2
 1085270456,Goodenia_pinnatifida,-28.18551,135.29789
-993447086,Goodenia_pinnatifida,-27.7,114.4167
 992614168,Goodenia_pinnatifida,-28.186944,135.296667
 992616346,Goodenia_pinnatifida,-32.5558,138.4825
 992615687,Goodenia_pinnatifida,-32.205,138.027
@@ -403,7 +394,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994006840,Goodenia_pinnatifida,-35.1833,149.0167
 992601716,Goodenia_pinnatifida,-36.351111,140.950833
 1085227130,Goodenia_pinnatifida,-36.3954,140.87845
-992580953,Goodenia_pinnatifida,-35.233333,137.016667
 992592599,Goodenia_pinnatifida,-34.423056,137.920556
 992593115,Goodenia_pinnatifida,-34.102222,137.654444
 1085174057,Goodenia_pinnatifida,-34.45656,137.64779
@@ -447,9 +437,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992598453,Goodenia_pinnatifida,-33.1436,138.8525
 992582252,Goodenia_pinnatifida,-36.332048,140.934425
 992582652,Goodenia_pinnatifida,-36.433333,140.983333
-1451684996,Goodenia_pinnatifida,-35.231775,149.134537
-994000871,Goodenia_pinnatifida,-35.2333,149.1333
-996086629,Goodenia_pinnatifida,-35.23,149.13
 1451504638,Goodenia_pinnatifida,-30.53175,151.684439
 1937085867,Goodenia_pinnatifida,-30.533333,151.683333
 995683744,Goodenia_pinnatifida,-30.53,151.68
@@ -525,11 +512,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995678118,Goodenia_pinnatifida,-31.17,150.75
 995450394,Goodenia_pinnatifida,-36.157733,145.438094
 992544139,Goodenia_pinnatifida,-33.35,137.2
-992539522,Goodenia_pinnatifida,-35.216667,137.2
 995103546,Goodenia_pinnatifida,-36.25,141.85
 992547533,Goodenia_pinnatifida,-34.941667,138.672222
 995102930,Goodenia_pinnatifida,-36.2008,146.2736
-993696292,Goodenia_pinnatifida,-35.2597,149.1056
 992527600,Goodenia_pinnatifida,-32.23,137.25
 992030370,Goodenia_pinnatifida,-35.008997,139.521647
 992531600,Goodenia_pinnatifida,-33.3,137.2
@@ -556,8 +541,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994720537,Goodenia_pinnatifida,-36.245,141.8444
 994925892,Goodenia_pinnatifida,-36.8333,145.3833
 996086839,Goodenia_pinnatifida,-34.5,148.4
-992521423,Goodenia_pinnatifida,-33.15,134.26
-992521206,Goodenia_pinnatifida,-33.02236,134.323339
 992539951,Goodenia_pinnatifida,-32.92483,138.111638
 995073985,Goodenia_pinnatifida,-32.9667,138.1167
 1652089104,Goodenia_pinnatifida,-28.581883,150.750832
@@ -567,9 +550,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993488668,Goodenia_pinnatifida,-29.7167,120.6167
 1451516155,Goodenia_pinnatifida,-30.798461,144.767893
 995718806,Goodenia_pinnatifida,-30.8,144.77
-992514382,Goodenia_pinnatifida,-34.57,135.326
 992504830,Goodenia_pinnatifida,-36.365937,140.907482
-994737516,Goodenia_pinnatifida,-34.5708,135.325
 993903615,Goodenia_pinnatifida,-36.9167,148.35
 993904331,Goodenia_pinnatifida,-35.1,149.1
 992534887,Goodenia_pinnatifida,-36.92,148.35
@@ -581,7 +562,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992497716,Goodenia_pinnatifida,-30.857,134.976
 1084212846,Goodenia_pinnatifida,-32.21964,134.67132
 994909333,Goodenia_pinnatifida,-37.7083,144.7875
-995048653,Goodenia_pinnatifida,-25.65,114.2
 992465254,Goodenia_pinnatifida,-31.95,139.08
 994778660,Goodenia_pinnatifida,-36.3667,142.0333
 994777966,Goodenia_pinnatifida,-29.25,136.5
@@ -598,7 +578,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992483077,Goodenia_pinnatifida,-31.582053,137.13441
 994778675,Goodenia_pinnatifida,-36.15,143.3
 994903094,Goodenia_pinnatifida,-35.75,144.1833
-993489971,Goodenia_pinnatifida,-27.9036,114.5889
 994903200,Goodenia_pinnatifida,-36.2833,146.2
 1451684253,Goodenia_pinnatifida,-31.081755,150.951124
 1085538265,Goodenia_pinnatifida,-32.57605,136.86784
@@ -612,7 +591,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996086010,Goodenia_pinnatifida,-31.08,150.95
 992484485,Goodenia_pinnatifida,-32.673333,135.505556
 992484452,Goodenia_pinnatifida,-32.531389,136.929444
-992433683,Goodenia_pinnatifida,-34.95,137.07
 992463942,Goodenia_pinnatifida,-31.1,138.7
 1085538918,Goodenia_pinnatifida,-32.60042,135.28416
 992484461,Goodenia_pinnatifida,-32.5775,136.868611
@@ -647,7 +625,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992404960,Goodenia_pinnatifida,-34.5,138.5
 992409577,Goodenia_pinnatifida,-33.332053,138.284418
 992406131,Goodenia_pinnatifida,-32.522071,135.321659
-992409821,Goodenia_pinnatifida,-31.782093,131.867789
 993875553,Goodenia_pinnatifida,-35.1,137.0417
 994778689,Goodenia_pinnatifida,-32.3833,137.25
 992465094,Goodenia_pinnatifida,-34.95,139.23
@@ -702,7 +679,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993261659,Goodenia_pinnatifida,-34.6833,137.5
 1936947318,Goodenia_pinnatifida,-28.3333,117.8333
 993274124,Goodenia_pinnatifida,-31.1167,138.65
-994039369,Goodenia_pinnatifida,-35.3056,149.125
 992375468,Goodenia_pinnatifida,-34.7,137.5
 992433193,Goodenia_pinnatifida,-31.12,138.65
 992450927,Goodenia_pinnatifida,-34.45,140.57
@@ -725,7 +701,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994778596,Goodenia_pinnatifida,-36.55,141.3667
 994817987,Goodenia_pinnatifida,-35.5667,142.0167
 992428689,Goodenia_pinnatifida,-31.68203,140.334381
-992344205,Goodenia_pinnatifida,-32.943,134.216
 996086252,Goodenia_pinnatifida,-31.939,147.208
 993243271,Goodenia_pinnatifida,-30.9167,144.6333
 992346483,Goodenia_pinnatifida,-30.5,137.2
@@ -749,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451684981,Goodenia_pinnatifida,-33.098431,150.267827
 993819811,Goodenia_pinnatifida,-34.55,142.5333
 995014502,Goodenia_pinnatifida,-34.55,142.533333
-992502861,Goodenia_pinnatifida,-32.93,134.06
 995029179,Goodenia_pinnatifida,-34.5667,141.9
 995012303,Goodenia_pinnatifida,-38.0167,143.5333
 993820055,Goodenia_pinnatifida,-34.45,142
@@ -761,11 +735,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992017939,Goodenia_pinnatifida,-32.865379,139.084405
 992292533,Goodenia_pinnatifida,-32.582074,134.967774
 992305920,Goodenia_pinnatifida,-34.598434,140.161358
-1451647499,Goodenia_pinnatifida,-35.265109,149.101205
-996021670,Goodenia_pinnatifida,-35.27,149.1
-993980877,Goodenia_pinnatifida,-35.2667,149.15
 992412232,Goodenia_pinnatifida,-33.67,139.05
-993217533,Goodenia_pinnatifida,-35.2667,149.1167
 993267685,Goodenia_pinnatifida,-30.3,144.6667
 996403169,Goodenia_pinnatifida,-31.5925,125.2133
 996086079,Goodenia_pinnatifida,-32.58,143.17
@@ -780,7 +750,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992451205,Goodenia_pinnatifida,-35.219853,136.886676
 1451685156,Goodenia_pinnatifida,-32.715115,146.967875
 996119867,Goodenia_pinnatifida,-35.22,136.88
-992277415,Goodenia_pinnatifida,-35.25,136.92
 996403104,Goodenia_pinnatifida,-32.083333,123.083333
 992323912,Goodenia_pinnatifida,-35.115406,137.117783
 992412386,Goodenia_pinnatifida,-33,138.1
@@ -836,7 +805,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992258170,Goodenia_pinnatifida,-32.83,138.15
 992417272,Goodenia_pinnatifida,-33.397899,136.796932
 993524534,Goodenia_pinnatifida,-31.8833,138.4167
-993655591,Goodenia_pinnatifida,-35.2542,149.175
 996086091,Goodenia_pinnatifida,-34.4,142.92
 993795099,Goodenia_pinnatifida,-33.8583,148.1764
 1451684957,Goodenia_pinnatifida,-34.398492,142.91796
@@ -878,7 +846,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937324092,Goodenia_pinnatifida,-29.366667,152.85
 994555447,Goodenia_pinnatifida,-32.2,148.6
 995471432,Goodenia_pinnatifida,-29.966667,151.85
-992223789,Goodenia_pinnatifida,-35.265314,149.167646
 992213096,Goodenia_pinnatifida,-34.731776,139.275258
 993795126,Goodenia_pinnatifida,-32.9333,143.2333
 993795079,Goodenia_pinnatifida,-31.5167,144.5333
@@ -892,7 +859,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992451169,Goodenia_pinnatifida,-34.081523,135.553896
 995520880,Goodenia_pinnatifida,-30.516667,151.7
 992215291,Goodenia_pinnatifida,-33.29,136.83
-992535659,Goodenia_pinnatifida,-35.25,136.983333
 995282098,Goodenia_pinnatifida,-34.1667,146.2667
 996086035,Goodenia_pinnatifida,-33.9,147.23
 1451684323,Goodenia_pinnatifida,-33.898448,147.234556
@@ -936,7 +902,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994794067,Goodenia_pinnatifida,-36.75,141.8
 992316795,Goodenia_pinnatifida,-35.33,138.45
 1061553475,Goodenia_pinnatifida,-37.533333,144.6
-992202808,Goodenia_pinnatifida,-34.6,135.4
 994791396,Goodenia_pinnatifida,-36.9167,142.45
 992323217,Goodenia_pinnatifida,-36.92,142.51
 992384984,Goodenia_pinnatifida,-33.5512,136.8
@@ -948,15 +913,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993175625,Goodenia_pinnatifida,-34.0833,138.0833
 992190688,Goodenia_pinnatifida,-33.933162,138.954141
 992201227,Goodenia_pinnatifida,-35.037616,138.518046
-995545724,Goodenia_pinnatifida,-35.3,149.12
-1451440195,Goodenia_pinnatifida,-35.298442,149.117872
-993162686,Goodenia_pinnatifida,-35.3,149.0833
 994847773,Goodenia_pinnatifida,-36.55,145.4
 993808821,Goodenia_pinnatifida,-36.4667,146.1833
 993267030,Goodenia_pinnatifida,-32.8667,136.9833
 992237324,Goodenia_pinnatifida,-30.367588,139.354656
 992178689,Goodenia_pinnatifida,-33.552899,136.914156
-993652660,Goodenia_pinnatifida,-35.3167,149.1167
 992200835,Goodenia_pinnatifida,-35.034838,138.560823
 992212324,Goodenia_pinnatifida,-34.585945,138.741927
 992185846,Goodenia_pinnatifida,-34.561,135.426
@@ -981,11 +942,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992172000,Goodenia_pinnatifida,-33.970669,138.020261
 992145635,Goodenia_pinnatifida,-33.139565,136.580265
 993788337,Goodenia_pinnatifida,-34.55,147.5167
-992156417,Goodenia_pinnatifida,-35.235964,136.836398
-993798364,Goodenia_pinnatifida,-35.1083,137.575
 993767520,Goodenia_pinnatifida,-35.1167,147.3667
 992141552,Goodenia_pinnatifida,-34.084,138.046
-993752252,Goodenia_pinnatifida,-35.25,149.1667
 994632150,Goodenia_pinnatifida,-37.1667,145.5
 994791284,Goodenia_pinnatifida,-36.4167,141.7667
 994632177,Goodenia_pinnatifida,-37.2167,145.3667
@@ -995,10 +953,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993172085,Goodenia_pinnatifida,-35.1167,139.1
 992140954,Goodenia_pinnatifida,-32.412329,137.975245
 994794043,Goodenia_pinnatifida,-36.75,141.8333
-993751896,Goodenia_pinnatifida,-35.2667,149.1
 992139814,Goodenia_pinnatifida,-34.1362,139.6666
 992281803,Goodenia_pinnatifida,-36.140382,140.774981
-992209608,Goodenia_pinnatifida,-35.3,149.1
 992127448,Goodenia_pinnatifida,-28.402,135.856
 995282055,Goodenia_pinnatifida,-29.25,117.6833
 995282076,Goodenia_pinnatifida,-32.0833,123.0833
@@ -1022,7 +978,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994631920,Goodenia_pinnatifida,-33.3833,148.0167
 993490423,Goodenia_pinnatifida,-31.6167,117.5167
 993761710,Goodenia_pinnatifida,-31.95,126.7333
-993765213,Goodenia_pinnatifida,-28.0333,114.6667
 993761731,Goodenia_pinnatifida,-29.8333,121.0833
 992304666,Goodenia_pinnatifida,-32.527609,137.718026
 993766348,Goodenia_pinnatifida,-32.5167,137.65
@@ -1033,15 +988,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992132542,Goodenia_pinnatifida,-32.844267,139.107183
 992163643,Goodenia_pinnatifida,-37.284,140.866
 995010161,Goodenia_pinnatifida,-36.9667,147.6667
-992132612,Goodenia_pinnatifida,-34.925405,137.083336
 992352002,Goodenia_pinnatifida,-35.1162,137.19
 993266101,Goodenia_pinnatifida,-34.2667,137.8833
 994786489,Goodenia_pinnatifida,-31.4167,130.9667
 992319273,Goodenia_pinnatifida,-31.42,131.05
 992451207,Goodenia_pinnatifida,-34.255672,137.871932
-993900087,Goodenia_pinnatifida,-35.2833,149.1333
 992451308,Goodenia_pinnatifida,-34.283428,140.65496
-993663098,Goodenia_pinnatifida,-35.2,149.0833
 992290490,Goodenia_pinnatifida,-30.5,131.5
 992117032,Goodenia_pinnatifida,-31.465431,131.117791
 992104379,Goodenia_pinnatifida,-31.46543,131.134457
@@ -1068,7 +1020,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994632224,Goodenia_pinnatifida,-36.3167,146.1167
 992111435,Goodenia_pinnatifida,-35.69511,139.733875
 994632871,Goodenia_pinnatifida,-32.8667,139.0167
-993527819,Goodenia_pinnatifida,-35.25,149.1
 992417316,Goodenia_pinnatifida,-31.843476,132.677228
 992130958,Goodenia_pinnatifida,-35.306389,139.549167
 992111942,Goodenia_pinnatifida,-34.876782,138.537211
@@ -1334,8 +1285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996086796,Goodenia_pinnatifida,-32.37,150.67
 992287660,Goodenia_pinnatifida,-34.473447,138.353041
 992542990,Goodenia_pinnatifida,-35.082894,138.567213
-996182977,Goodenia_pinnatifida,-32.57,134.05
-996182892,Goodenia_pinnatifida,-32,132.45
 992357934,Goodenia_pinnatifida,-34.934281,138.67221
 992287634,Goodenia_pinnatifida,-33.281501,137.902199
 1848333486,Goodenia_pinnatifida,-29.4,150.516667
@@ -1363,7 +1312,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451710970,Goodenia_pinnatifida,-33.915114,147.251222
 1805863029,Goodenia_pinnatifida,-37.97,142.52
 992287663,Goodenia_pinnatifida,-34.876502,138.86304
-994828728,Goodenia_pinnatifida,-37.95,145
 1451710537,Goodenia_pinnatifida,-32.265104,148.467849
 1937024136,Goodenia_pinnatifida,-32.27,148.47
 996403055,Goodenia_pinnatifida,-31.083333,125.216667
