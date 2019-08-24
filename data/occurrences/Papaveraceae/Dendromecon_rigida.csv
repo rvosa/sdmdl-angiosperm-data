@@ -7,12 +7,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426502460,Dendromecon_rigida,37.91265,-122.57951
 1426471278,Dendromecon_rigida,37.9575,-122.64251
 1024489316,Dendromecon_rigida,38.5639599990801,-122.40406
-1988214892,Dendromecon_rigida,49.3,-123.2
 1426214767,Dendromecon_rigida,35.347222,-120.295278
 623667554,Dendromecon_rigida,34.515833,-119.282778
 1257522805,Dendromecon_rigida,34.515861,-119.282833
 623667189,Dendromecon_rigida,34.51165,-119.80944
-1260041644,Dendromecon_rigida,34.51666,-119.8
 1899736648,Dendromecon_rigida,35.234722,-120.471944
 1846502748,Dendromecon_rigida,32.7308,-116.5703
 2270185964,Dendromecon_rigida,35.427125,-120.543808
@@ -24,17 +22,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 623667235,Dendromecon_rigida,34.308333,-117.475
 1426104127,Dendromecon_rigida,37.954444,-119.205278
 2270184550,Dendromecon_rigida,35.301007,-120.199146
-623667213,Dendromecon_rigida,38.5,-122.633333
 1426136188,Dendromecon_rigida,36.917222,-119.100556
 1930667112,Dendromecon_rigida,34.27,-118.18
 2270186943,Dendromecon_rigida,34.5819349718172,-120.561698155378
 2270187466,Dendromecon_rigida,34.6940999991166,-120.538
-623667216,Dendromecon_rigida,35.316667,-120.6
 1265824460,Dendromecon_rigida,35.033333,-120.55
 2270186920,Dendromecon_rigida,35.03333,-120.55
 623667217,Dendromecon_rigida,32.033333,-120.55
 1894820193,Dendromecon_rigida,30.875,-115.708333
-2270552207,Dendromecon_rigida,30.86667,-115.7
 2270185077,Dendromecon_rigida,34.308846,-118.09093
 1426150890,Dendromecon_rigida,34.593056,-118.585278
 623667215,Dendromecon_rigida,35.333333,-120.233333
@@ -48,8 +43,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895394031,Dendromecon_rigida,30.7649716042526,-115.482811097181
 1426190665,Dendromecon_rigida,33.5068,-116.9842
 2270539093,Dendromecon_rigida,35.41731,-120.75296
-2270251212,Dendromecon_rigida,34.583333,-119.5
-2270553339,Dendromecon_rigida,31,-115.56667
 1419196418,Dendromecon_rigida,31.008333,-115.575
 2270278863,Dendromecon_rigida,34.8214999991152,-120.5253
 1894064473,Dendromecon_rigida,32.316583,-116.666444
@@ -119,7 +112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270185446,Dendromecon_rigida,33.84041,-117.62589
 1426163126,Dendromecon_rigida,37.083333,-122.066667
 1896048398,Dendromecon_rigida,33.351944,-118.328333
-1426161361,Dendromecon_rigida,37.15,-122.2
 1998433480,Dendromecon_rigida,37.135556,-122.185278
 2270279261,Dendromecon_rigida,34.747999999116,-120.053
 1426204334,Dendromecon_rigida,37.133333,-121.883333
@@ -127,7 +119,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426114921,Dendromecon_rigida,38.444272,-122.912609
 1426059948,Dendromecon_rigida,38.386538,-122.489921
 1895394036,Dendromecon_rigida,31.8888823864321,-116.398405550706
-1426064033,Dendromecon_rigida,34,-118
 1426185253,Dendromecon_rigida,34.083333,-118.65
 2270276247,Dendromecon_rigida,33.83923,-117.62555
 1896049574,Dendromecon_rigida,36.035833,-112.360278
@@ -143,7 +134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270275856,Dendromecon_rigida,34.121969,-117.717569
 2270279062,Dendromecon_rigida,34.243,-117.4394
 1426183227,Dendromecon_rigida,33.7223,-117.4813
-1426196408,Dendromecon_rigida,37.216667,-122.1
 1426120402,Dendromecon_rigida,37.095833,-121.844444
 1426175301,Dendromecon_rigida,37.083333,-121.833333
 1426213792,Dendromecon_rigida,37.066667,-122.833333
@@ -151,7 +141,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270276067,Dendromecon_rigida,32.91351,-117.25139
 1426085834,Dendromecon_rigida,37.1625,-122.195833
 2270540473,Dendromecon_rigida,32.926987,-117.259262
-1090543169,Dendromecon_rigida,33.0333,-116.8
 1895394048,Dendromecon_rigida,32.0286406847495,-116.132225676827
 1846538082,Dendromecon_rigida,33.07861,-116.60111
 2270276346,Dendromecon_rigida,33.8378,-116.8095
@@ -181,7 +170,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896049577,Dendromecon_rigida,37.358056,-121.976944
 1426116639,Dendromecon_rigida,34.0955,-117.718
 1426198321,Dendromecon_rigida,38.456851,-122.555943
-1228262834,Dendromecon_rigida,37,-119
 1426061191,Dendromecon_rigida,37.1134,-121.8385
 1259072082,Dendromecon_rigida,36.234128,-121.548829
 1426107758,Dendromecon_rigida,37.927578,-122.588367
