@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851403611,Baldellia_ranunculoides,42.2488,-5.3049
 1851344257,Baldellia_ranunculoides,42.03825,-6.26523
 2289233799,Baldellia_ranunculoides,52.2065,6.697
-318104197,Baldellia_ranunculoides,42.07,-3
 1851387486,Baldellia_ranunculoides,42.195,-4.484
 1851358824,Baldellia_ranunculoides,41.989283,-6.122613
 1851370866,Baldellia_ranunculoides,42.015735,-6.018001
@@ -57,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 230817311,Baldellia_ranunculoides,51.727603,5.770766
 318104076,Baldellia_ranunculoides,43.21,-7.58
 1936613237,Baldellia_ranunculoides,37.5732,-7.1882
-1144600823,Baldellia_ranunculoides,41.58333,9.2
 788755156,Baldellia_ranunculoides,55.6275,13.87393
 1936673860,Baldellia_ranunculoides,40.4484,-5.171
 1936642244,Baldellia_ranunculoides,42.9689,-3.9455
@@ -65,7 +63,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 31912175,Baldellia_ranunculoides,38.09,-6.622
 30849245,Baldellia_ranunculoides,42.720001,-2.39
 1936627709,Baldellia_ranunculoides,42.0272,-3.0255
-1053986231,Baldellia_ranunculoides,42.8,-2.27
 895208864,Baldellia_ranunculoides,43.051,-2.724
 1936557751,Baldellia_ranunculoides,39.7529,-1.2504
 1936567125,Baldellia_ranunculoides,43.0445,-2.7312
@@ -76,18 +73,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895172489,Baldellia_ranunculoides,39.97,-2.12
 1936556803,Baldellia_ranunculoides,41.3066,-2.9296
 1936556872,Baldellia_ranunculoides,40.9456,-2.6092
-318104063,Baldellia_ranunculoides,40.95,-2.6
 1851377325,Baldellia_ranunculoides,40.952,-2.566
 1050628277,Baldellia_ranunculoides,41.31,-2.92
 1936556179,Baldellia_ranunculoides,40.8574,-1.6606
-1050620527,Baldellia_ranunculoides,43.15,-3.3
 439776350,Baldellia_ranunculoides,48.6833,-2.3167
-895172745,Baldellia_ranunculoides,39.7,-2.01
 1851360146,Baldellia_ranunculoides,42.065,-4.747
 1936548341,Baldellia_ranunculoides,42.0588,-4.7537
 1851377168,Baldellia_ranunculoides,39.694,-4.884
-211621035,Baldellia_ranunculoides,39.68,-4.9
-1842877350,Baldellia_ranunculoides,35.27,-5.4
 1050628267,Baldellia_ranunculoides,39.68,-4.89
 1343140623,Baldellia_ranunculoides,56.782794,8.56497
 895226527,Baldellia_ranunculoides,33.65,-5.0167
@@ -100,12 +92,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851347095,Baldellia_ranunculoides,43.088,-5.021
 1851366532,Baldellia_ranunculoides,42.91,-4.868
 204421492,Baldellia_ranunculoides,42.132999,-1.59
-204421489,Baldellia_ranunculoides,43.650002,-1.2
 860317871,Baldellia_ranunculoides,42.41,2.94
 1842858412,Baldellia_ranunculoides,35.08,-5.17
 1842873311,Baldellia_ranunculoides,34.393,-3.7397
 1842909195,Baldellia_ranunculoides,35.12,-5.28
-1842849116,Baldellia_ranunculoides,35.1,-5.37
 1842850736,Baldellia_ranunculoides,35.2503,-5.4383
 1936538348,Baldellia_ranunculoides,42.7746,-3.0013
 1851382001,Baldellia_ranunculoides,42.48,-5.13
@@ -138,16 +128,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204421061,Baldellia_ranunculoides,43.014999,-2.638
 1050609002,Baldellia_ranunculoides,43.01,-2.63
 1936420389,Baldellia_ranunculoides,41.2572,-4.004
-1144600826,Baldellia_ranunculoides,42.4,8.65
 1144600801,Baldellia_ranunculoides,41.46667,9.25
 1144600852,Baldellia_ranunculoides,42.71667,9.15
-1144600818,Baldellia_ranunculoides,42.7,9.26667
 1705394585,Baldellia_ranunculoides,58.130223,16.382267
 1144600858,Baldellia_ranunculoides,41.73333,9.33333
-1144600857,Baldellia_ranunculoides,42.7,9.18333
 235649288,Baldellia_ranunculoides,38.51,-5.24
 1144600808,Baldellia_ranunculoides,41.48333,9.26667
-235649286,Baldellia_ranunculoides,38.7,-4.9
 235649284,Baldellia_ranunculoides,38.42,-5.12
 1050608923,Baldellia_ranunculoides,42.88,-2.38
 1144600834,Baldellia_ranunculoides,41.58333,9.28333
@@ -158,7 +144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204421128,Baldellia_ranunculoides,43.112999,-1.482
 1050608921,Baldellia_ranunculoides,42.95,-2.57
 1042980223,Baldellia_ranunculoides,57.4131,12.0223
-235649291,Baldellia_ranunculoides,38.6,-5.35
 1050657883,Baldellia_ranunculoides,43.01,-2.61
 1851353787,Baldellia_ranunculoides,42.47,-5.62
 1851374535,Baldellia_ranunculoides,43.015,-2.613
@@ -170,7 +155,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050608977,Baldellia_ranunculoides,42.92,-2.57
 1050608950,Baldellia_ranunculoides,42.94,-2.57
 1144600816,Baldellia_ranunculoides,42.71667,9.18333
-235649267,Baldellia_ranunculoides,38.6,-5.12
 204421060,Baldellia_ranunculoides,42.870998,-2.749
 1851347515,Baldellia_ranunculoides,42.55,-5.74
 1712606144,Baldellia_ranunculoides,42.487217,-2.400095
@@ -179,7 +163,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050609027,Baldellia_ranunculoides,42.99,-2.83
 1050608978,Baldellia_ranunculoides,42.86,-2.69
 204421063,Baldellia_ranunculoides,43.050999,-2.724
-1050609001,Baldellia_ranunculoides,42.95,-2.6
 204421065,Baldellia_ranunculoides,42.853001,-2.639
 1050657880,Baldellia_ranunculoides,43.05,-2.76
 1050609058,Baldellia_ranunculoides,42.85,-2.63
@@ -204,12 +187,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144600848,Baldellia_ranunculoides,42.41667,8.66667
 1144600802,Baldellia_ranunculoides,42.41667,8.65
 1899332497,Baldellia_ranunculoides,53.033333,-9.166667
-1050609095,Baldellia_ranunculoides,42.83,-2.3
 2028546793,Baldellia_ranunculoides,42.15,2.76
 1055846096,Baldellia_ranunculoides,57.238095,-4.323394
 1936157035,Baldellia_ranunculoides,39.2905,-4.2768
 1851369309,Baldellia_ranunculoides,39.25,-4.22
-199463304,Baldellia_ranunculoides,36.71,-5.3
 1851329990,Baldellia_ranunculoides,42.46,-6.26
 1699942142,Baldellia_ranunculoides,40.986389,8.914167
 1851320670,Baldellia_ranunculoides,42.38,-5.49
@@ -247,7 +228,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055609520,Baldellia_ranunculoides,55.687011,-5.573567
 1055672386,Baldellia_ranunculoides,51.602389,-3.602771
 912589779,Baldellia_ranunculoides,51.51,-3.74
-860327897,Baldellia_ranunculoides,41.78,2.7
 788700260,Baldellia_ranunculoides,56.031862,14.152378
 788746148,Baldellia_ranunculoides,55.584902,13.6714
 788762363,Baldellia_ranunculoides,55.505248,13.358869
@@ -289,7 +269,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1042980153,Baldellia_ranunculoides,56.0522,14.1937
 1057362006,Baldellia_ranunculoides,52.254952,-4.072071
 788744383,Baldellia_ranunculoides,57.47628,12.03092
-912589554,Baldellia_ranunculoides,51.1,-2.79
 1057158414,Baldellia_ranunculoides,53.600961,-2.543102
 1042980160,Baldellia_ranunculoides,56.4253,12.6333
 788763610,Baldellia_ranunculoides,56.44546,12.70316
