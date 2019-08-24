@@ -55,7 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839009158,Epipactis_helleborine,51.758331,12.40667
 1584381165,Epipactis_helleborine,48.1175,16.21639
 1702026467,Epipactis_helleborine,59.4667,8.0241
-1801063374,Epipactis_helleborine,53.8,43.75
 1697349909,Epipactis_helleborine,56.372222,42.227778
 1697349893,Epipactis_helleborine,56.371944,42.228611
 1702250635,Epipactis_helleborine,59.761,10.2906
@@ -91,7 +90,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702378397,Epipactis_helleborine,59.7617,10.1135
 1697447670,Epipactis_helleborine,57.84733,34.4391
 1697447881,Epipactis_helleborine,57.278168,41.912687
-2012875796,Epipactis_helleborine,42.3,-71.2
 1830978119,Epipactis_helleborine,47.97528,16.12778
 1697447958,Epipactis_helleborine,57.230017,40.884287
 1999605236,Epipactis_helleborine,61.13191,26.110647
@@ -185,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986726011,Epipactis_helleborine,45.91,-74.738333
 1050651407,Epipactis_helleborine,42.88,-3.12
 1702222818,Epipactis_helleborine,58.3632,6.3308
-1988071452,Epipactis_helleborine,49.1,-117.7
 1702208224,Epipactis_helleborine,59.4564,10.6545
 623668378,Epipactis_helleborine,37.519444,-122.267222
 2265605999,Epipactis_helleborine,62.735,51.994
@@ -195,7 +192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930627972,Epipactis_helleborine,41.445111,-73.615052
 1342438140,Epipactis_helleborine,55.42884,12.11467
 1342436070,Epipactis_helleborine,56.755244,8.418098
-1050649431,Epipactis_helleborine,42.8,-3.15
 1928501590,Epipactis_helleborine,41.453183,-73.616196
 1697447765,Epipactis_helleborine,55.486111,41.038889
 237342836,Epipactis_helleborine,51.566109,14.111389
@@ -233,7 +229,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342438856,Epipactis_helleborine,57.595216,10.211559
 1701253106,Epipactis_helleborine,63.3709,10.0817
 1249179327,Epipactis_helleborine,46.344786,-74.232028
-1999297678,Epipactis_helleborine,42.4,-71.2
 1701770777,Epipactis_helleborine,63.3714,10.0738
 1703301127,Epipactis_helleborine,49.799306,-97.126806
 1702242896,Epipactis_helleborine,59.0561,6.6383
@@ -260,7 +255,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697776225,Epipactis_helleborine,43.998742,42.127075
 1702316353,Epipactis_helleborine,59.8118,10.4254
 1978754171,Epipactis_helleborine,45.708333,-73.756944
-441743712,Epipactis_helleborine,48.7,-122.673333
 1929317195,Epipactis_helleborine,40.782323,-73.965416
 186808747,Epipactis_helleborine,58.3313,6.7261
 728978746,Epipactis_helleborine,51.910163,5.699834
@@ -280,7 +274,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988200839,Epipactis_helleborine,49.25,-121.68
 1701770496,Epipactis_helleborine,62.4627,6.845
 919601347,Epipactis_helleborine,24.808853,103.400348
-1024490339,Epipactis_helleborine,37.1,-122.116667
 1697447696,Epipactis_helleborine,56.113889,38.794444
 1503347426,Epipactis_helleborine,52.379167,13.297222
 187156792,Epipactis_helleborine,63.4591,9.2231
@@ -305,12 +298,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936648134,Epipactis_helleborine,40.5066,-0.5818
 1851575554,Epipactis_helleborine,40.39,-1.97
 1697447883,Epipactis_helleborine,52.703966,41.570254
-1697776255,Epipactis_helleborine,44.6,37.966667
 2265606006,Epipactis_helleborine,61.802,56.973
 1342438840,Epipactis_helleborine,57.574985,10.428272
 473450132,Epipactis_helleborine,45.039583,-73.673033
-1851575939,Epipactis_helleborine,43.02,-1.1
-473450549,Epipactis_helleborine,46.3,-74.233333
 1851373465,Epipactis_helleborine,42.90698,-5.55239
 187157191,Epipactis_helleborine,65.0409,11.581
 441743678,Epipactis_helleborine,47.607921,-122.188434
@@ -330,7 +320,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415944394,Epipactis_helleborine,40.72999,-75.18
 1701623025,Epipactis_helleborine,59.4533,10.8684
 1248729825,Epipactis_helleborine,46.723333,-71.484722
-1851575453,Epipactis_helleborine,40.5,-0.59
 1851575844,Epipactis_helleborine,40.51,-0.56
 1701266384,Epipactis_helleborine,65.5615,12.542
 186808642,Epipactis_helleborine,58.7739,7.7981
@@ -343,7 +332,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702186875,Epipactis_helleborine,62.9711,7.1759
 1701815803,Epipactis_helleborine,59.6908,10.1102
 1851574993,Epipactis_helleborine,40.51,-1.88
-1851575276,Epipactis_helleborine,40.41,-0.7
 2324412019,Epipactis_helleborine,62.53874,7.924165
 1702346239,Epipactis_helleborine,58.97009,5.71814
 895314877,Epipactis_helleborine,42.57,0.314
@@ -381,7 +369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701224113,Epipactis_helleborine,62.557,7.5637
 2265605980,Epipactis_helleborine,60.773,48.969
 415938085,Epipactis_helleborine,44.09888,-88.51777
-1697447980,Epipactis_helleborine,53.3,35.333333
 1989126462,Epipactis_helleborine,42.52028,-85.3275
 2269047735,Epipactis_helleborine,44.150766,11.317978
 1933812898,Epipactis_helleborine,36.4792,140.6037
@@ -421,7 +408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989309636,Epipactis_helleborine,43.77447,-85.32898
 176940409,Epipactis_helleborine,44.906667,-85.911389
 1701288977,Epipactis_helleborine,63.85,9.8124
-1697447695,Epipactis_helleborine,55.5,31.833333
 176940406,Epipactis_helleborine,44.282778,-85.858889
 1988774869,Epipactis_helleborine,42.293021,-83.767713
 1701839651,Epipactis_helleborine,59.1995,10.7955
@@ -432,9 +418,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702191646,Epipactis_helleborine,60.7152,11.0169
 1702192399,Epipactis_helleborine,60.8065,10.9712
 1697447951,Epipactis_helleborine,53.914189,48.867735
-1998686372,Epipactis_helleborine,29.8,93.6
 1989194431,Epipactis_helleborine,44.80162,-83.363245
-1999018101,Epipactis_helleborine,29.7,96
 1701836117,Epipactis_helleborine,61.8639,6.6018
 2265525455,Epipactis_helleborine,47.275313,-93.394893
 1697447713,Epipactis_helleborine,55.973871,41.061545
@@ -448,7 +432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988101717,Epipactis_helleborine,49.11,-123.08
 1701592824,Epipactis_helleborine,59.6911,10.0747
 1701800484,Epipactis_helleborine,59.6995,10.146
-1050626022,Epipactis_helleborine,42.73,-3
 1701800574,Epipactis_helleborine,59.7086,10.1286
 1702021814,Epipactis_helleborine,59.7355,10.1295
 1702033220,Epipactis_helleborine,59.7406,10.1128
@@ -461,7 +444,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1881637089,Epipactis_helleborine,48.76,10.85
 1342438849,Epipactis_helleborine,57.133889,9.073003
 1342436319,Epipactis_helleborine,55.470767,8.500446
-668782405,Epipactis_helleborine,46.9,-71.666667
 188533205,Epipactis_helleborine,37.858,-6.698
 188533206,Epipactis_helleborine,37.895,-6.777
 188533204,Epipactis_helleborine,37.997,-6.899
@@ -486,8 +468,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701965401,Epipactis_helleborine,63.4493,10.4739
 1935686939,Epipactis_helleborine,47.55575,15.1399
 1701398888,Epipactis_helleborine,59.7283,9.9718
-2268225119,Epipactis_helleborine,55.9,37.433333
-1989354400,Epipactis_helleborine,46,-83.66667
 1999587918,Epipactis_helleborine,60.262726,23.211015
 1935686973,Epipactis_helleborine,47.56083,15.20667
 1913345780,Epipactis_helleborine,56.40734,12.91661
@@ -509,10 +489,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697447888,Epipactis_helleborine,52.921773,40.553453
 1986988048,Epipactis_helleborine,52.089739,5.1703
 1988170850,Epipactis_helleborine,49.25,-123.25
-1998664750,Epipactis_helleborine,29.5,101.9
 1701228064,Epipactis_helleborine,63.4909,9.3112
 1701829102,Epipactis_helleborine,59.3701,6.2679
-1701730617,Epipactis_helleborine,43,-75
 1702162427,Epipactis_helleborine,59.5462,6.3784
 1230708486,Epipactis_helleborine,48.88528,20.99472
 1935686966,Epipactis_helleborine,47.58852,14.61369
@@ -524,25 +502,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895246586,Epipactis_helleborine,40.66,0.22
 465767475,Epipactis_helleborine,45.01425,-64.07994
 1599009384,Epipactis_helleborine,61.21868,24.530633
-1851570610,Epipactis_helleborine,42.19,0.2
 1851370794,Epipactis_helleborine,42.924,-5.114
 1638393660,Epipactis_helleborine,47.08333,15.41667
 1936534185,Epipactis_helleborine,42.0071,0.4147
-860317950,Epipactis_helleborine,42.39,1
 615317801,Epipactis_helleborine,27.03,100.23
 1050622075,Epipactis_helleborine,42.31,-1.87
 1702000086,Epipactis_helleborine,62.0142,6.0015
 1050637014,Epipactis_helleborine,42.32,-3.09
-1998751651,Epipactis_helleborine,32,97
 1881635662,Epipactis_helleborine,48.84,10.74
-1050622078,Epipactis_helleborine,42.32,-3.1
 1056242732,Epipactis_helleborine,32.15,97.045
 1055793879,Epipactis_helleborine,36.519977,103.891767
 1323809611,Epipactis_helleborine,69.6867,19.6707
-473434343,Epipactis_helleborine,47.45,-70.5
 1988845520,Epipactis_helleborine,44.209024,-85.886173
 615317805,Epipactis_helleborine,27.48,99.87
-668782404,Epipactis_helleborine,48.1,-66.366667
 1988123738,Epipactis_helleborine,49.28,-122.85
 1056618638,Epipactis_helleborine,32.085556,97.011944
 1935686992,Epipactis_helleborine,47.33758,14.17381
@@ -582,13 +554,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615317787,Epipactis_helleborine,34.58,73.48
 615317792,Epipactis_helleborine,35.48,74.72
 1820374372,Epipactis_helleborine,46.135556,-60.219167
-615317791,Epipactis_helleborine,34.57,73.5
 699268581,Epipactis_helleborine,41.98944,-73.09583
 1949613278,Epipactis_helleborine,48.616389,-123.721389
 1699943271,Epipactis_helleborine,39.322052,8.649087
 1702435343,Epipactis_helleborine,59.8048,10.2565
 1262026436,Epipactis_helleborine,46.15,-71.35
-1262026450,Epipactis_helleborine,46,-71.6
 1262026509,Epipactis_helleborine,45.883333,-71.933333
 1261379960,Epipactis_helleborine,41.85472,-78.97583
 1702161071,Epipactis_helleborine,59.7812,9.9841
@@ -617,7 +587,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702436713,Epipactis_helleborine,59.8309,10.3467
 1342438659,Epipactis_helleborine,55.362038,11.657144
 1030889878,Epipactis_helleborine,29.73797,103.231884
-1881635691,Epipactis_helleborine,48.81,10.7
 1702406322,Epipactis_helleborine,59.9752,10.2809
 1702406351,Epipactis_helleborine,59.814,10.2391
 1702406282,Epipactis_helleborine,59.9663,10.2806
@@ -649,12 +618,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702420151,Epipactis_helleborine,59.9032,10.296
 1701924989,Epipactis_helleborine,59.9219,10.2252
 1342438720,Epipactis_helleborine,55.520425,12.187193
-1899318961,Epipactis_helleborine,45.033333,-78.3
 1323832026,Epipactis_helleborine,67.0502,14.0233
 1323832275,Epipactis_helleborine,67.0593,14.0459
 1323832071,Epipactis_helleborine,67.0323,14.024
 1144127516,Epipactis_helleborine,60.21298,5.44478
-1500200063,Epipactis_helleborine,49.183333,13.8
 1599009375,Epipactis_helleborine,62.123709,28.271087
 1699943275,Epipactis_helleborine,39.828593,9.49001
 1323816388,Epipactis_helleborine,67.0414,14.0466
@@ -666,7 +633,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851387458,Epipactis_helleborine,42.842,-5.576
 1701616494,Epipactis_helleborine,61.9696,6.4915
 20877042,Epipactis_helleborine,59.039,8.0233
-1701730625,Epipactis_helleborine,44,-85
 1261390786,Epipactis_helleborine,44.28055,-74.27222
 1989555563,Epipactis_helleborine,44.5409,-84.95359
 1701696476,Epipactis_helleborine,59.9403,10.1722
@@ -682,7 +648,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702276365,Epipactis_helleborine,59.8036,10.7886
 1455435870,Epipactis_helleborine,50.091056,4.627434
 1697448005,Epipactis_helleborine,56.896219,56.636227
-668782568,Epipactis_helleborine,46.783333,-71.3
 415928882,Epipactis_helleborine,41.88638,-72.17361
 1455181521,Epipactis_helleborine,45.333333,-73.166667
 1899318997,Epipactis_helleborine,43.733058,-79.363046
@@ -704,19 +669,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415928891,Epipactis_helleborine,41.46611,-72.54472
 1702166118,Epipactis_helleborine,59.6941,9.0799
 1701861727,Epipactis_helleborine,59.4235,8.4273
-1050580895,Epipactis_helleborine,42.3,-0.21
 1842920358,Epipactis_helleborine,35.120517,-106.6879
 1702434452,Epipactis_helleborine,59.8584,10.2853
 1988792077,Epipactis_helleborine,45.8297,-87.09009
 1144679724,Epipactis_helleborine,42.13333,8.88333
 415928895,Epipactis_helleborine,41.77527,-72.52472
 1697447708,Epipactis_helleborine,56.40051,23.112488
-1455181528,Epipactis_helleborine,45.6,-73.65
 415928890,Epipactis_helleborine,41.55777,-72.58527
 415928883,Epipactis_helleborine,41.6325,-72.24055
 1323785301,Epipactis_helleborine,59.3701,8.5513
 668782563,Epipactis_helleborine,46.779167,-71.273611
-473447376,Epipactis_helleborine,46.55,-75.5
 1702204762,Epipactis_helleborine,59.4426,9.1322
 1989506436,Epipactis_helleborine,45.55917,-84.673444
 668782701,Epipactis_helleborine,46.855556,-71.354167
@@ -737,7 +699,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697448046,Epipactis_helleborine,46.845039,29.611897
 1599009383,Epipactis_helleborine,61.859887,28.611661
 900226384,Epipactis_helleborine,59.0251,6.0818
-1500696855,Epipactis_helleborine,40.4,-0.35
 1988941120,Epipactis_helleborine,45.256383,-83.428596
 1697447703,Epipactis_helleborine,56.157215,21.072807
 1500696843,Epipactis_helleborine,40.49,-0.35
@@ -745,7 +706,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935686980,Epipactis_helleborine,46.73611,15.44333
 1050582214,Epipactis_helleborine,42.86,-4.86
 1455427747,Epipactis_helleborine,49.668069,5.858087
-1804509819,Epipactis_helleborine,45.3,-75.616667
 1933877421,Epipactis_helleborine,45.07228,141.84273
 1851334975,Epipactis_helleborine,42.896,-4.635
 1701968033,Epipactis_helleborine,65.0412,12.0365
@@ -753,9 +713,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51826899,Epipactis_helleborine,44.5403,-123.3664
 1851325021,Epipactis_helleborine,42.82,-4.853
 615317816,Epipactis_helleborine,29.58,94.92
-615317812,Epipactis_helleborine,29.3,94.35
 919554742,Epipactis_helleborine,25.012526,102.700013
-1053984222,Epipactis_helleborine,42.67,-1.2
 1702209673,Epipactis_helleborine,59.4244,8.7092
 1701931553,Epipactis_helleborine,58.7995,7.7973
 1701931612,Epipactis_helleborine,59.0727,7.5871
@@ -774,7 +732,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900226188,Epipactis_helleborine,58.9497,5.9317
 1697447666,Epipactis_helleborine,56.876654,21.335449
 1050582242,Epipactis_helleborine,42.76,-0.88
-1050637007,Epipactis_helleborine,42.89,-2
 1050637023,Epipactis_helleborine,42.78,-2.27
 465767470,Epipactis_helleborine,44.74419,-65.51077
 1599009385,Epipactis_helleborine,60.240293,23.846929
@@ -791,7 +748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989529026,Epipactis_helleborine,45.162442,-84.811688
 668782555,Epipactis_helleborine,46.75,-71.55
 1804406711,Epipactis_helleborine,45.316667,-77.616667
-1804592328,Epipactis_helleborine,45.3,-75.55
 1038967908,Epipactis_helleborine,41.4697,-71.8753
 860311647,Epipactis_helleborine,40.75,0.22
 1928317074,Epipactis_helleborine,40.864917,-73.874128
@@ -813,7 +769,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705349711,Epipactis_helleborine,56.880001,15.378775
 1697725793,Epipactis_helleborine,44.825728,34.807262
 1936147438,Epipactis_helleborine,42.0781,0.7986
-204353362,Epipactis_helleborine,38.61,-4.9
 1599009390,Epipactis_helleborine,61.681466,25.701973
 1702218994,Epipactis_helleborine,59.6312,8.867
 1455427676,Epipactis_helleborine,50.513742,4.559257
@@ -832,10 +787,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936145345,Epipactis_helleborine,42.9848,-1.1492
 1989322321,Epipactis_helleborine,45.026973,-84.96834
 1701930744,Epipactis_helleborine,65.1137,11.9289
-1899287007,Epipactis_helleborine,45.35,-76.8
 900226129,Epipactis_helleborine,58.8355,6.0458
-1804467819,Epipactis_helleborine,44.8,-75.416667
-1899287060,Epipactis_helleborine,45.368056,-76.4
 1262031538,Epipactis_helleborine,45.065,-72.3025
 900226111,Epipactis_helleborine,58.8909,6.1105
 1804547616,Epipactis_helleborine,44.75,-76.533333
@@ -856,8 +808,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988693815,Epipactis_helleborine,44.924771,-85.89481
 1599009528,Epipactis_helleborine,61.277389,28.856791
 1702432205,Epipactis_helleborine,61.7939,10.6983
-1988978732,Epipactis_helleborine,45.2,-83.38333
-895268986,Epipactis_helleborine,40.3,-0.23
 465767472,Epipactis_helleborine,45.295533,-64.332104
 1702232243,Epipactis_helleborine,62.3102,7.0035
 895161732,Epipactis_helleborine,42.866,13.207
@@ -879,12 +829,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697448010,Epipactis_helleborine,49.699162,39.02826
 360094699,Epipactis_helleborine,61.789902,25.435699
 2265605977,Epipactis_helleborine,61.955,50.727
-1999354808,Epipactis_helleborine,25.8,100
 1988847137,Epipactis_helleborine,45.214069,-83.465083
 2265605995,Epipactis_helleborine,61.954,50.727
 2265606025,Epipactis_helleborine,61.954,50.729
 1988873130,Epipactis_helleborine,44.769243,-86.043293
-1262011518,Epipactis_helleborine,45.78,-76.1
 1851367832,Epipactis_helleborine,42.92,-5.51
 606661113,Epipactis_helleborine,41.92083,-73.35222
 1050582245,Epipactis_helleborine,42.88,-1.99
@@ -897,16 +845,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323770726,Epipactis_helleborine,67.2502,14.6872
 1697447903,Epipactis_helleborine,53.035066,40.071185
 1701634614,Epipactis_helleborine,63.0852,9.8019
-1851365561,Epipactis_helleborine,42.74,-6.5
 1323770717,Epipactis_helleborine,67.205,15.451
 318680594,Epipactis_helleborine,59.84258,10.45045
 1702422469,Epipactis_helleborine,59.6312,8.9025
-1899371339,Epipactis_helleborine,43.919444,-79.6
 606653240,Epipactis_helleborine,41.99444,-73.46916
 187156398,Epipactis_helleborine,67.0976,15.3569
 1050636825,Epipactis_helleborine,43.14,-2.67
 1455181523,Epipactis_helleborine,45.166667,-73.683333
-473445832,Epipactis_helleborine,45.5,-73.6
 606655894,Epipactis_helleborine,41.87916,-73.47666
 1702429972,Epipactis_helleborine,63.1258,9.9745
 1144134104,Epipactis_helleborine,61.30602,6.92873
@@ -917,12 +862,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186807971,Epipactis_helleborine,58.6705,8.1112
 1144027062,Epipactis_helleborine,60.32605,6.17715
 1455181506,Epipactis_helleborine,45.166667,-74.166667
-668782530,Epipactis_helleborine,48.3,-70.316667
 1701281308,Epipactis_helleborine,62.472,7.8073
-1050582256,Epipactis_helleborine,42.6,-2.56
 1701238881,Epipactis_helleborine,63.9649,10.1036
 1988690434,Epipactis_helleborine,44.443304,-83.974993
-1050582225,Epipactis_helleborine,42.6,-2.57
 1599009359,Epipactis_helleborine,63.182806,29.116804
 1050636842,Epipactis_helleborine,42.89,-1.96
 1323842378,Epipactis_helleborine,68.4601,17.1858
@@ -952,21 +894,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1990860559,Epipactis_helleborine,58.20559,15.02095
 606655471,Epipactis_helleborine,41.55777,-72.82361
 1599009362,Epipactis_helleborine,61.16639,28.766635
-1899371263,Epipactis_helleborine,44.9,-81.047222
 1851387765,Epipactis_helleborine,42.93,-4.78
 1262019381,Epipactis_helleborine,45.016667,-73.466667
 1806557463,Epipactis_helleborine,42.852578,-1.661392
 1323794265,Epipactis_helleborine,66.8238,15.4668
 1599009361,Epipactis_helleborine,62.295023,28.125081
 1989232343,Epipactis_helleborine,45.020041,-86.125085
-1851357091,Epipactis_helleborine,42.86,-3.8
 606656092,Epipactis_helleborine,42.01027,-72.94777
 1701813047,Epipactis_helleborine,59.5682,9.2478
 1899371312,Epipactis_helleborine,45.194444,-81.319444
 1936373073,Epipactis_helleborine,36.7322,-5.3754
 1702245593,Epipactis_helleborine,59.69406,9.09258
 1989310351,Epipactis_helleborine,42.26804,-86.34327
-668782719,Epipactis_helleborine,45.05,-72.8
 1599009582,Epipactis_helleborine,61.530842,28.252375
 115872735,Epipactis_helleborine,38.389999,-4.26
 1699942627,Epipactis_helleborine,40.590557,9.538637
@@ -984,7 +923,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851368211,Epipactis_helleborine,42.93,-5.14
 1899371282,Epipactis_helleborine,43.418056,-79.866667
 1323699464,Epipactis_helleborine,65.5675,12.3042
-1804428072,Epipactis_helleborine,44.7,-75.55
 1701255319,Epipactis_helleborine,64.6988,12.2807
 1899371363,Epipactis_helleborine,43.509722,-79.977778
 1702432673,Epipactis_helleborine,59.3767,8.1025
@@ -1027,7 +965,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860307858,Epipactis_helleborine,41.045,-1.055
 1262007002,Epipactis_helleborine,46.797778,-71.231944
 1050582243,Epipactis_helleborine,42.68,-2.33
-1262035225,Epipactis_helleborine,46.75,-71.7
 1144679722,Epipactis_helleborine,42.16667,9.16667
 1842854259,Epipactis_helleborine,42.353,0.711
 1701314442,Epipactis_helleborine,65.6476,12.7393
@@ -1043,7 +980,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473453898,Epipactis_helleborine,45.291734,-72.995521
 1933913259,Epipactis_helleborine,40.0492,140.7054
 1935686967,Epipactis_helleborine,47.61548,15.27353
-1899379783,Epipactis_helleborine,45,-79.8
 1050582218,Epipactis_helleborine,42.59,-2.57
 1899375415,Epipactis_helleborine,45.895833,-82.013889
 186807972,Epipactis_helleborine,58.1624,7.0753
@@ -1066,7 +1002,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262004859,Epipactis_helleborine,45.81224,-73.433805
 188533353,Epipactis_helleborine,37.36,-4.07
 1702422470,Epipactis_helleborine,58.8657,9.0511
-241458763,Epipactis_helleborine,37.34,-5.2
 1699942661,Epipactis_helleborine,39.88828,9.377431
 1053981183,Epipactis_helleborine,42.88,-1.92
 1936129530,Epipactis_helleborine,41.301378,-3.770447
@@ -1079,7 +1014,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705287220,Epipactis_helleborine,56.781679,16.066979
 668782667,Epipactis_helleborine,45.333333,-71.75
 1599009355,Epipactis_helleborine,60.903085,27.641901
-1030470350,Epipactis_helleborine,42.9,-86.2
 1599009537,Epipactis_helleborine,60.992822,27.643711
 1701240578,Epipactis_helleborine,64.0975,10.0771
 187156321,Epipactis_helleborine,62.6386,8.8537
@@ -1100,7 +1034,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262003548,Epipactis_helleborine,45.72,-76.62
 1262003741,Epipactis_helleborine,45.817,-77.025
 1701225347,Epipactis_helleborine,63.2161,10.3028
-1144679768,Epipactis_helleborine,42.4,8.95
 187156365,Epipactis_helleborine,63.2192,10.3079
 1701225293,Epipactis_helleborine,63.6266,10.5435
 1702048541,Epipactis_helleborine,61.4784,5.0846
@@ -1109,20 +1042,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701225563,Epipactis_helleborine,62.9505,7.2163
 1323702043,Epipactis_helleborine,68.4671,16.7445
 1701568432,Epipactis_helleborine,63.7312,9.8201
-1262003739,Epipactis_helleborine,45.85,-77
 1144134305,Epipactis_helleborine,62.4366,6.4913
 1262003845,Epipactis_helleborine,45.533333,-76.466667
 415928889,Epipactis_helleborine,41.79166,-72.12694
 1702422438,Epipactis_helleborine,59.7281,9.922
 1989517236,Epipactis_helleborine,42.266893,-83.722605
 1701931283,Epipactis_helleborine,59.8671,10.5241
-1050582233,Epipactis_helleborine,42.59,-2.7
 1702431788,Epipactis_helleborine,59.8548,10.4182
 1701255554,Epipactis_helleborine,62.674,8.5998
 1804448681,Epipactis_helleborine,45.333333,-72.216667
 1030897385,Epipactis_helleborine,27.928607,101.279419
-668782470,Epipactis_helleborine,45.3,-72.233333
-1804442620,Epipactis_helleborine,44.9,-78.033333
 186807991,Epipactis_helleborine,58.2654,6.8097
 186807990,Epipactis_helleborine,58.2844,6.893
 1701306075,Epipactis_helleborine,63.4814,9.5119
@@ -1153,7 +1082,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697205887,Epipactis_helleborine,55.78098,83.95171
 1702041898,Epipactis_helleborine,58.1623,7.0719
 1702306716,Epipactis_helleborine,61.7891,10.6876
-1899317579,Epipactis_helleborine,44.8,-79.616667
 668782410,Epipactis_helleborine,46.775278,-71.275
 731731380,Epipactis_helleborine,46.05343,6.74853
 1599009360,Epipactis_helleborine,61.87127,29.372833
@@ -1168,8 +1096,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701778279,Epipactis_helleborine,63.8439,11.1045
 1144134269,Epipactis_helleborine,60.6387,5.215
 2265606023,Epipactis_helleborine,62.022,50.348
-1899361680,Epipactis_helleborine,45.966667,-82.3
-1262002663,Epipactis_helleborine,46.8,-71.183333
 1144133942,Epipactis_helleborine,59.55753,5.7797
 1038997583,Epipactis_helleborine,41.3403,-72.6283
 1038958017,Epipactis_helleborine,41.8786,-72.3649
@@ -1196,7 +1122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1699942659,Epipactis_helleborine,40.537853,9.615131
 1699942684,Epipactis_helleborine,40.236261,9.584686
 1699942712,Epipactis_helleborine,40.377355,9.635061
-1899349136,Epipactis_helleborine,44.2,-77.8
 187156322,Epipactis_helleborine,62.8875,8.1642
 1899322767,Epipactis_helleborine,44.083333,-77.316667
 1935686991,Epipactis_helleborine,47.16944,15.40417
@@ -1235,7 +1160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701929595,Epipactis_helleborine,60.2106,5.5375
 1599009343,Epipactis_helleborine,61.32712,24.111025
 1702427296,Epipactis_helleborine,60.2719,6.1515
-1899317679,Epipactis_helleborine,44.083333,-78.9
 1701929865,Epipactis_helleborine,60.0447,5.8765
 1702427216,Epipactis_helleborine,61.1353,5.3502
 751394,Epipactis_helleborine,57.29221,15.58245
@@ -1256,7 +1180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144679785,Epipactis_helleborine,42.13333,9.13333
 1701931512,Epipactis_helleborine,59.1788,8.0465
 1702432341,Epipactis_helleborine,59.2495,7.9042
-1230708907,Epipactis_helleborine,47.5,15.06667
 668782415,Epipactis_helleborine,46.779444,-71.272778
 1701776044,Epipactis_helleborine,63.7385,11.6448
 473553971,Epipactis_helleborine,45.5525,-73.1555
@@ -1264,14 +1187,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702432439,Epipactis_helleborine,59.0611,7.9277
 1599009346,Epipactis_helleborine,61.781615,29.365918
 1899317576,Epipactis_helleborine,45.116667,-78.166667
-668782472,Epipactis_helleborine,45.083333,-74.4
 1701246483,Epipactis_helleborine,63.9628,10.0923
 1701927895,Epipactis_helleborine,58.868,9.0433
 415928886,Epipactis_helleborine,41.85138,-73.23638
 788655506,Epipactis_helleborine,28.883333,82.983333
 1697205899,Epipactis_helleborine,54.65166,58.70662
 1899349053,Epipactis_helleborine,43.783333,-79.116667
-668782469,Epipactis_helleborine,47.066667,-70.8
 1144134338,Epipactis_helleborine,61.7806,7.019
 1144134326,Epipactis_helleborine,61.91214,5.97147
 438586298,Epipactis_helleborine,51.9406,9.67582
@@ -1294,7 +1215,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144134315,Epipactis_helleborine,61.8493,6.1469
 1144134275,Epipactis_helleborine,59.04558,5.99703
 1702041944,Epipactis_helleborine,58.3308,6.9594
-615317853,Epipactis_helleborine,28.8,82.4
 1702432116,Epipactis_helleborine,60.0981,9.0989
 1638394074,Epipactis_helleborine,47.35,13.91667
 1804391670,Epipactis_helleborine,45.683333,-81.916667
@@ -1334,7 +1254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668782391,Epipactis_helleborine,46.966667,-70.983333
 437978680,Epipactis_helleborine,49.97572,1.51783
 1702430094,Epipactis_helleborine,62.8231,7.0866
-668782541,Epipactis_helleborine,46.5,-71.433333
 668782406,Epipactis_helleborine,46.774722,-71.282778
 668782393,Epipactis_helleborine,46.883333,-71.066667
 668782438,Epipactis_helleborine,46.716667,-71.65
@@ -1347,14 +1266,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701927889,Epipactis_helleborine,60.32528,10.13214
 473553950,Epipactis_helleborine,45.5566,-73.71
 1804575296,Epipactis_helleborine,44.516667,-79.066667
-1804403027,Epipactis_helleborine,43.2,-80.383333
 1804399063,Epipactis_helleborine,43.716667,-81.616667
 1804599406,Epipactis_helleborine,44.116667,-78.05
-1804392596,Epipactis_helleborine,44,-77.7
-1804612169,Epipactis_helleborine,44.5,-77.783333
-1804427000,Epipactis_helleborine,44.6,-78.816667
-1804603579,Epipactis_helleborine,44.45,-77.9
-1804450765,Epipactis_helleborine,44.4,-79.8
 788657026,Epipactis_helleborine,35.562222,-5.574444
 1697447852,Epipactis_helleborine,54.73501,39.951743
 1842900089,Epipactis_helleborine,42.31,1.85
@@ -1366,7 +1279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697447778,Epipactis_helleborine,54.801032,41.640472
 1702432551,Epipactis_helleborine,59.2632,7.4828
 1701997332,Epipactis_helleborine,62.0062,6.0682
-1899296634,Epipactis_helleborine,44.2,-79.166667
 1701255649,Epipactis_helleborine,59.6893,10.1279
 788580151,Epipactis_helleborine,55.528254,12.994268
 1701995817,Epipactis_helleborine,61.9167,5.3335
@@ -1378,7 +1290,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1699942675,Epipactis_helleborine,40.507896,9.566419
 1804387762,Epipactis_helleborine,45.616667,-75.016667
 1701996088,Epipactis_helleborine,62.7236,6.9266
-1144679773,Epipactis_helleborine,42.53333,9.3
 1697447725,Epipactis_helleborine,54.615018,40.703193
 1697447751,Epipactis_helleborine,54.823964,41.778022
 1038936153,Epipactis_helleborine,41.98,-73.1961
@@ -1388,7 +1299,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697447861,Epipactis_helleborine,55.854481,38.555774
 1899379802,Epipactis_helleborine,44.783333,-79.316667
 1947413023,Epipactis_helleborine,55.46424,13.42297
-1899306937,Epipactis_helleborine,44.5,-79.583333
 415928901,Epipactis_helleborine,44.10694,-72.54111
 415952731,Epipactis_helleborine,41.98361,-73.19694
 1261977892,Epipactis_helleborine,45.344,-72.216
@@ -1401,18 +1311,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1668934086,Epipactis_helleborine,54.903,37.568
 1697447779,Epipactis_helleborine,54.740902,40.631221
 1248729845,Epipactis_helleborine,44.65,-79.083333
-1899304353,Epipactis_helleborine,44.166667,-78.9
 1701277663,Epipactis_helleborine,59.3979,8.4189
 20878440,Epipactis_helleborine,59.4571,7.8622
 1899318366,Epipactis_helleborine,45.15,-79.516667
 1947412888,Epipactis_helleborine,55.47921,13.40962
 668782440,Epipactis_helleborine,45.711111,-71.477778
 1947413039,Epipactis_helleborine,55.51442,13.50495
-1899318213,Epipactis_helleborine,45.383333,-80.1
 1144134341,Epipactis_helleborine,66.87726,15.63325
 1947411492,Epipactis_helleborine,55.52575,13.88779
 1702347799,Epipactis_helleborine,59.9246,10.5295
-1804603808,Epipactis_helleborine,45.7,-71.483333
 1702430082,Epipactis_helleborine,62.193,5.5982
 1701779251,Epipactis_helleborine,63.062,9.089
 187156388,Epipactis_helleborine,63.7693,11.3831
@@ -1422,7 +1329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415937701,Epipactis_helleborine,44.15277,-72.69361
 1701255681,Epipactis_helleborine,63.0047,8.0127
 1899352754,Epipactis_helleborine,44.083333,-78.083333
-473263508,Epipactis_helleborine,45.4,-73.959167
 1228502074,Epipactis_helleborine,41.8333,-87.85
 1701336452,Epipactis_helleborine,62.4382,7.8764
 1697447738,Epipactis_helleborine,54.712524,40.851288
@@ -1435,11 +1341,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899304457,Epipactis_helleborine,44.75,-78.833333
 1988367300,Epipactis_helleborine,53.307,0.047
 1899304474,Epipactis_helleborine,44.533333,-79.05
-1899304401,Epipactis_helleborine,44.5,-78.85
 1933906680,Epipactis_helleborine,36.10056,138.29814
 1989224726,Epipactis_helleborine,43.691091,-84.418563
 1599009531,Epipactis_helleborine,61.243538,24.66856
-1899304422,Epipactis_helleborine,44.466667,-78.7
 788589026,Epipactis_helleborine,55.505248,13.358869
 187156343,Epipactis_helleborine,63.053,9.0692
 1702431416,Epipactis_helleborine,60.1175,10.8893
@@ -1459,7 +1363,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899361625,Epipactis_helleborine,44.933333,-76.266667
 1947412297,Epipactis_helleborine,46.608056,7.111111
 473553909,Epipactis_helleborine,45.6965,-73.4693
-1988233380,Epipactis_helleborine,45.4,-71.9
 1804461163,Epipactis_helleborine,45.366667,-71.916667
 1599009514,Epipactis_helleborine,60.265242,25.280666
 1599009332,Epipactis_helleborine,61.25156,24.611928
@@ -1478,7 +1381,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705332791,Epipactis_helleborine,56.278011,12.949962
 1697949229,Epipactis_helleborine,63.7064,9.7183
 1701972810,Epipactis_helleborine,59.1928,5.8225
-1804465715,Epipactis_helleborine,45.85,-71.5
 668782650,Epipactis_helleborine,45.833333,-71.566667
 1323770724,Epipactis_helleborine,67.8156,15.7476
 1261967662,Epipactis_helleborine,45.645556,-74.745556
@@ -1519,7 +1421,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947412077,Epipactis_helleborine,55.84794,14.14523
 187157039,Epipactis_helleborine,60.4214,11.1884
 1899361672,Epipactis_helleborine,43.95,-81.05
-473263499,Epipactis_helleborine,45.091111,-72.3
 1697447945,Epipactis_helleborine,53.401714,49.494657
 1599009328,Epipactis_helleborine,61.527296,25.775272
 1599009496,Epipactis_helleborine,61.166635,25.603465
@@ -1527,7 +1428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701972862,Epipactis_helleborine,59.1851,6.0683
 1144134310,Epipactis_helleborine,61.52828,7.56571
 1947411283,Epipactis_helleborine,61.48762,16.93599
-1899325024,Epipactis_helleborine,43.933333,-78.5
 1261964145,Epipactis_helleborine,45.233333,-71.816667
 473263497,Epipactis_helleborine,45.316667,-73.883333
 1261984732,Epipactis_helleborine,47.65,-68.75
@@ -1569,7 +1469,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261960103,Epipactis_helleborine,46.591667,-72.041667
 1702431604,Epipactis_helleborine,59.9199,10.5472
 1030897352,Epipactis_helleborine,32.637983,103.59895
-1261959021,Epipactis_helleborine,46.916667,-71.1
 1599009327,Epipactis_helleborine,62.644853,29.541631
 1599009335,Epipactis_helleborine,60.314941,24.170164
 1701718139,Epipactis_helleborine,60.95088,9.95958
@@ -1589,7 +1488,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697448015,Epipactis_helleborine,54.088069,54.167538
 1701797915,Epipactis_helleborine,59.2438,10.7443
 1701964433,Epipactis_helleborine,62.5384,6.5798
-1988200036,Epipactis_helleborine,47.3,11.3
 1702427155,Epipactis_helleborine,60.4718,6.6081
 1599009499,Epipactis_helleborine,62.061587,25.371286
 1599009491,Epipactis_helleborine,61.171239,26.160775
@@ -1615,7 +1513,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701225651,Epipactis_helleborine,62.9649,8.0929
 415930722,Epipactis_helleborine,43.03138,-76.13583
 1599009320,Epipactis_helleborine,62.063778,28.431307
-1891607709,Epipactis_helleborine,49.45,6
 1701931589,Epipactis_helleborine,59.57024,8.56793
 1697447806,Epipactis_helleborine,55.681696,36.717964
 1702422494,Epipactis_helleborine,60.9923,10.6083
@@ -1675,7 +1572,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437023449,Epipactis_helleborine,45.18155,-71.96491
 1701571414,Epipactis_helleborine,62.9714,8.5069
 57694213,Epipactis_helleborine,66.452103,29.126499
-1988089348,Epipactis_helleborine,45,-72.1
 1701999183,Epipactis_helleborine,60.0616,10.3113
 1599009488,Epipactis_helleborine,61.329861,24.475297
 1599009489,Epipactis_helleborine,61.966974,28.998832
@@ -1733,14 +1629,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701255657,Epipactis_helleborine,59.6453,10.6055
 1261951855,Epipactis_helleborine,46.816805,-71.170414
 1039008551,Epipactis_helleborine,43.188687,-70.884519
-1893207257,Epipactis_helleborine,49.5,6.15
 1701255296,Epipactis_helleborine,63.5847,10.8033
-1891589803,Epipactis_helleborine,49.7,6.16
 752092,Epipactis_helleborine,56.722859,15.582757
 1933812836,Epipactis_helleborine,35.372,140.3806
 1701566225,Epipactis_helleborine,62.9629,7.3732
 1701416711,Epipactis_helleborine,59.26671,9.48765
-1701730636,Epipactis_helleborine,54,-72
 1701931737,Epipactis_helleborine,58.7987,8.2195
 1702432597,Epipactis_helleborine,58.813,8.4807
 187156327,Epipactis_helleborine,62.8523,7.1435
@@ -1776,7 +1669,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702430241,Epipactis_helleborine,62.3396,7.5712
 1893209156,Epipactis_helleborine,49.81,6.48
 415928897,Epipactis_helleborine,41.87916,-72.18833
-1899302105,Epipactis_helleborine,42.8,-80.183333
 20879417,Epipactis_helleborine,59.0922,9.6545
 186807901,Epipactis_helleborine,58.8886,7.7248
 1947412976,Epipactis_helleborine,55.84253,12.9377
@@ -1893,7 +1785,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 474776010,Epipactis_helleborine,43.64255,3.87848
 1144134331,Epipactis_helleborine,60.312,5.2587
 1638393459,Epipactis_helleborine,46.625,13.54167
-1823455822,Epipactis_helleborine,40,-86
 2290305600,Epipactis_helleborine,51.55,5.35
 1947411564,Epipactis_helleborine,55.85882,13.49859
 1705430291,Epipactis_helleborine,55.582845,12.927791
@@ -1923,11 +1814,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702267323,Epipactis_helleborine,59.8353,10.4808
 1303742636,Epipactis_helleborine,29.496119,103.398589
 1702422504,Epipactis_helleborine,59.0935,7.5601
-1899284814,Epipactis_helleborine,44.15,-78.8
 437978689,Epipactis_helleborine,35.59806,36.18304
 437645700,Epipactis_helleborine,48.74978,2.25909
 437588037,Epipactis_helleborine,52.02167,-9.5003
-1999372825,Epipactis_helleborine,29.1,94
 1702422423,Epipactis_helleborine,59.822,10.4713
 1099852824,Epipactis_helleborine,47.084167,11.421111
 415928893,Epipactis_helleborine,41.76777,-72.75444
@@ -2013,7 +1902,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947411237,Epipactis_helleborine,55.95395,14.26593
 1638393408,Epipactis_helleborine,47.65,13.75
 1697447859,Epipactis_helleborine,55.026079,38.921738
-1823455729,Epipactis_helleborine,44,-73
 1701255902,Epipactis_helleborine,60.3637,6.0717
 439586229,Epipactis_helleborine,49.25894,2.58421
 1702427161,Epipactis_helleborine,59.7788,5.371
@@ -2033,7 +1921,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439354286,Epipactis_helleborine,42.12695,9.13561
 1947412419,Epipactis_helleborine,55.90808,13.26294
 1701929778,Epipactis_helleborine,60.0533,5.9197
-1988071709,Epipactis_helleborine,45.5,-73.7
 1899284844,Epipactis_helleborine,43.971569,-79.61895
 2313357786,Epipactis_helleborine,48.09,11.57
 1701721253,Epipactis_helleborine,62.2249,5.8063
@@ -2049,7 +1936,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303742719,Epipactis_helleborine,43.810314,87.605163
 439311431,Epipactis_helleborine,44.41926,-72.01512
 473554224,Epipactis_helleborine,45.5155,-73.6071
-1262021934,Epipactis_helleborine,46,-72.35
 1701929704,Epipactis_helleborine,59.8479,5.6046
 1702431528,Epipactis_helleborine,59.6991,10.608
 415928905,Epipactis_helleborine,42.92277,-74.69388
@@ -2061,7 +1947,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999647929,Epipactis_helleborine,61.217525,28.662475
 1697715408,Epipactis_helleborine,40.748818,44.870911
 1697447775,Epipactis_helleborine,54.740588,37.975986
-1988155155,Epipactis_helleborine,43,-79
 1701721807,Epipactis_helleborine,59.6769,10.5892
 438253501,Epipactis_helleborine,49.4776,0.43842
 473554089,Epipactis_helleborine,45.479181,-73.871691
@@ -2092,7 +1977,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947412322,Epipactis_helleborine,55.56513,13.2073
 1697447948,Epipactis_helleborine,49.233118,28.468231
 1638393383,Epipactis_helleborine,46.925,15.375
-616367899,Epipactis_helleborine,50.83,5.9
 1947413577,Epipactis_helleborine,59.89543,12.95074
 1638393400,Epipactis_helleborine,47.15611,15.33806
 437925273,Epipactis_helleborine,48.87383,2.06152
@@ -2114,7 +1998,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261975847,Epipactis_helleborine,45.533333,-73.516667
 1702431672,Epipactis_helleborine,59.8586,10.4104
 1702432261,Epipactis_helleborine,59.5457,9.6544
-1804601422,Epipactis_helleborine,45.533333,-73.5
 1947411100,Epipactis_helleborine,59.61939,15.03706
 2289255599,Epipactis_helleborine,50.884943,5.752637
 1599009284,Epipactis_helleborine,60.261331,23.844
@@ -2260,7 +2143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697447701,Epipactis_helleborine,55.381385,41.848211
 1702427184,Epipactis_helleborine,60.3942,5.2318
 296456648,Epipactis_helleborine,46.783333,11.566667
-1988110390,Epipactis_helleborine,51.7,-2.2
 296456649,Epipactis_helleborine,46.537222,11.463056
 439311430,Epipactis_helleborine,35.59751,-5.4148
 1947413432,Epipactis_helleborine,58.59791,13.40756
@@ -2287,7 +2169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697447845,Epipactis_helleborine,55.620192,38.012651
 1638394053,Epipactis_helleborine,46.95,13.25
 438253447,Epipactis_helleborine,48.40085,2.69235
-616364810,Epipactis_helleborine,50.81,5.9
 751363,Epipactis_helleborine,56.77777,15.85743
 1948542551,Epipactis_helleborine,62.787323,27.682533
 1340040630,Epipactis_helleborine,57.523495,15.966938
