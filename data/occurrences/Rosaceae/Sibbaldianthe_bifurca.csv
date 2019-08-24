@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1805100029,Sibbaldianthe_bifurca,56.6736,16.3717
 2005255131,Sibbaldianthe_bifurca,49.751817,91.002567
 2005255134,Sibbaldianthe_bifurca,50.323233,87.503733
 2005255133,Sibbaldianthe_bifurca,49.638733,91.21
@@ -27,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 864906785,Sibbaldianthe_bifurca,50.499443,87.654167
 615378589,Sibbaldianthe_bifurca,35.38,69.47
 1697797213,Sibbaldianthe_bifurca,43.657222,42.035
-1705367263,Sibbaldianthe_bifurca,57.959428,19.348799
 1697540080,Sibbaldianthe_bifurca,53.908333,34.4
 1697542188,Sibbaldianthe_bifurca,49.15,44.05
 1697542222,Sibbaldianthe_bifurca,49.083333,44.15
@@ -99,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1031050,Sibbaldianthe_bifurca,58.59592,16.10622
 1999022752,Sibbaldianthe_bifurca,32.931944,97.288056
 1701628428,Sibbaldianthe_bifurca,59.1911,9.6214
-1705286000,Sibbaldianthe_bifurca,56.672958,16.359847
 615378481,Sibbaldianthe_bifurca,30.63,91.53
 615378393,Sibbaldianthe_bifurca,36.17,72.58
 615378724,Sibbaldianthe_bifurca,28.82,83.85
@@ -130,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697540213,Sibbaldianthe_bifurca,57.000348,40.973921
 615378232,Sibbaldianthe_bifurca,38.43,75.02
 1697331539,Sibbaldianthe_bifurca,45.033333,114.083333
-1031051,Sibbaldianthe_bifurca,57.95943,19.3488
 615378229,Sibbaldianthe_bifurca,36.38,75.38
 615378236,Sibbaldianthe_bifurca,37.17,75.38
 615378225,Sibbaldianthe_bifurca,36.55,73.58
@@ -142,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615378499,Sibbaldianthe_bifurca,33.52,91.32
 615378288,Sibbaldianthe_bifurca,33.5,77.77
 615378287,Sibbaldianthe_bifurca,34.28,76.7
-1434678524,Sibbaldianthe_bifurca,57.93356,19.17409
 1697253357,Sibbaldianthe_bifurca,51.9453,91.3553
 1697344979,Sibbaldianthe_bifurca,47.583333,119.083333
 1697331548,Sibbaldianthe_bifurca,47.25,111.583333
@@ -161,15 +156,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697253331,Sibbaldianthe_bifurca,50.283333,85.633333
 1697253378,Sibbaldianthe_bifurca,51,85.833333
 1697253386,Sibbaldianthe_bifurca,50.877315,84.880886
-1705325654,Sibbaldianthe_bifurca,59.349955,18.10821
-1031483,Sibbaldianthe_bifurca,56.66715,16.36147
 1697253362,Sibbaldianthe_bifurca,53.23851,83.765945
 1697253347,Sibbaldianthe_bifurca,49.916667,89.25
 615378277,Sibbaldianthe_bifurca,34.08,77.55
 1697251989,Sibbaldianthe_bifurca,53.977386,123.920801
-788669520,Sibbaldianthe_bifurca,57.9598,19.34236
 1697540162,Sibbaldianthe_bifurca,54.028712,44.518918
-1697540137,Sibbaldianthe_bifurca,55.731316,37.446803
 1697253403,Sibbaldianthe_bifurca,52.078979,92.941418
 1030839906,Sibbaldianthe_bifurca,29.000343,101.507299
 1697540126,Sibbaldianthe_bifurca,56.868575,35.838536
@@ -217,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697796687,Sibbaldianthe_bifurca,43.256706,42.646093
 615378605,Sibbaldianthe_bifurca,35.93,71.28
 615378604,Sibbaldianthe_bifurca,35.97,71.22
-788596028,Sibbaldianthe_bifurca,59.36771,18.05
 1697540129,Sibbaldianthe_bifurca,55.632637,38.076997
 1697796738,Sibbaldianthe_bifurca,43.456657,42.093773
 615378603,Sibbaldianthe_bifurca,35.63,69.45
@@ -231,7 +221,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697540313,Sibbaldianthe_bifurca,53.06144,58.616477
 1697540255,Sibbaldianthe_bifurca,53.146831,58.612468
 1697253346,Sibbaldianthe_bifurca,51.5426,115.8527
-1948493573,Sibbaldianthe_bifurca,61.598979,21.435077
 1702259451,Sibbaldianthe_bifurca,60.62736,10.91732
 1030793182,Sibbaldianthe_bifurca,36.075898,103.757243
 1030793146,Sibbaldianthe_bifurca,35.58066,104.610604
@@ -255,18 +244,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697253390,Sibbaldianthe_bifurca,54.90327,71.23571
 1697540280,Sibbaldianthe_bifurca,46.268159,43.508499
 1303663626,Sibbaldianthe_bifurca,45.973419,126.723787
-1340036926,Sibbaldianthe_bifurca,59.34267,18.06129
 1697540229,Sibbaldianthe_bifurca,48.332701,44.621678
 1697540187,Sibbaldianthe_bifurca,47.517913,44.404994
-1705433735,Sibbaldianthe_bifurca,57.959796,19.34236
-1948493566,Sibbaldianthe_bifurca,65.814315,24.26258
-1948493635,Sibbaldianthe_bifurca,60.170379,24.92525
 1948493569,Sibbaldianthe_bifurca,59.945542,22.969793
 1303663604,Sibbaldianthe_bifurca,41.116462,114.168237
 1948493636,Sibbaldianthe_bifurca,62.877035,27.684615
-1705261724,Sibbaldianthe_bifurca,59.343397,18.125575
 1303663638,Sibbaldianthe_bifurca,32.637983,103.59895
-1948560205,Sibbaldianthe_bifurca,65.728471,24.489753
 1303663629,Sibbaldianthe_bifurca,34.43808,104.036837
 1303663650,Sibbaldianthe_bifurca,36.332111,103.94753
 1303663591,Sibbaldianthe_bifurca,35.521975,105.732561
@@ -293,11 +276,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303663602,Sibbaldianthe_bifurca,37.551961,112.155926
 1697540218,Sibbaldianthe_bifurca,48.525109,44.509891
 1697540203,Sibbaldianthe_bifurca,49.267805,41.486778
-1705283343,Sibbaldianthe_bifurca,56.663979,16.359715
 1697540245,Sibbaldianthe_bifurca,47.984286,42.999668
 1697331589,Sibbaldianthe_bifurca,48.3999,97.150644
-1705288235,Sibbaldianthe_bifurca,56.66443,16.365267
-1031143,Sibbaldianthe_bifurca,56.66443,16.365269
 1303663596,Sibbaldianthe_bifurca,37.962454,109.294213
 1697253327,Sibbaldianthe_bifurca,56.1967,95.65353
-788715496,Sibbaldianthe_bifurca,59.34996,18.10821
