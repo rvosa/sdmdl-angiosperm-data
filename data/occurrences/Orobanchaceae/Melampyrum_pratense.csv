@@ -70,12 +70,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701910712,Melampyrum_pratense,59.5054,11.3591
 1697658441,Melampyrum_pratense,62.244444,59.318056
 1702379304,Melampyrum_pratense,62.653,11.2587
-1095920423,Melampyrum_pratense,61,16
-1095920480,Melampyrum_pratense,67,24
-1060519801,Melampyrum_pratense,51.6,10.8
 911995458,Melampyrum_pratense,49.067933,7.848483
 1949952829,Melampyrum_pratense,52.238889,7.726389
-899786720,Melampyrum_pratense,51.5,11
 1995318062,Melampyrum_pratense,59.3058,9.0403
 876159139,Melampyrum_pratense,42.703855,0.893314
 736319575,Melampyrum_pratense,46.857,11.016833
@@ -85,7 +81,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702224870,Melampyrum_pratense,62.4681,11.6715
 1095062226,Melampyrum_pratense,59.2597,7.7544
 1701537361,Melampyrum_pratense,48.80556,21.49833
-991904802,Melampyrum_pratense,51.7,12.6
 2290791314,Melampyrum_pratense,52.302833,6.725417
 932708934,Melampyrum_pratense,42.2251,-7.49927
 1050652633,Melampyrum_pratense,42.77,-2.65
@@ -99,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701278441,Melampyrum_pratense,63.4071,8.9409
 2290364247,Melampyrum_pratense,51.549333,5.331417
 1701537588,Melampyrum_pratense,42.01306,-8.16556
-1851578832,Melampyrum_pratense,42,-8.15
 1851344350,Melampyrum_pratense,42.0131,-8.1656
 1936232137,Melampyrum_pratense,42.013056,-8.165556
 1936236121,Melampyrum_pratense,41.841389,-7.725278
@@ -113,7 +107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342690635,Melampyrum_pratense,56.899935,9.318808
 1702223465,Melampyrum_pratense,62.4124,11.8359
 2327978501,Melampyrum_pratense,63.406585,8.933808
-2309953222,Melampyrum_pratense,56.97,-3.5
 1230975616,Melampyrum_pratense,48.76417,21.22889
 1230975375,Melampyrum_pratense,48.94528,20.45944
 1657189139,Melampyrum_pratense,47.16833,16.08694
@@ -122,18 +115,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291780191,Melampyrum_pratense,52.037,5.706
 1702184119,Melampyrum_pratense,59.6844,10.6076
 1851372949,Melampyrum_pratense,42.782357,-4.112954
-1050649123,Melampyrum_pratense,42.84,-2.6
-1095899106,Melampyrum_pratense,60.9,16.23
 1701277491,Melampyrum_pratense,63.4067,8.9376
-986393827,Melampyrum_pratense,50.116667,20.7
-1095899067,Melampyrum_pratense,61.6,16.33
 1697658557,Melampyrum_pratense,58.064444,35.256667
 1702246730,Melampyrum_pratense,62.4652,10.7277
 1824378595,Melampyrum_pratense,68.086607,16.289726
 1702241982,Melampyrum_pratense,62.4748,11.6536
 1095899171,Melampyrum_pratense,60.02,15.75
 2322332795,Melampyrum_pratense,67.977418,16.521195
-1095899138,Melampyrum_pratense,60.03,15.5
 2319242305,Melampyrum_pratense,67.96668,16.561161
 2319112645,Melampyrum_pratense,67.971506,16.55666
 2335583028,Melampyrum_pratense,61.75791,9.084761
@@ -268,7 +256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702187191,Melampyrum_pratense,59.4794,10.6903
 1999610689,Melampyrum_pratense,60.695835,22.408449
 1323821143,Melampyrum_pratense,66.8525,13.7347
-30880247,Melampyrum_pratense,41.73,-1.8
 1697658617,Melampyrum_pratense,55.621987,40.308495
 1851335166,Melampyrum_pratense,42.28,-6.678
 30971405,Melampyrum_pratense,42.33,13.26
@@ -330,14 +317,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1270041164,Melampyrum_pratense,51.103836,13.83811
 1702164363,Melampyrum_pratense,59.4899,11.0794
 1323720227,Melampyrum_pratense,69.7313,30.141
-786190273,Melampyrum_pratense,49.5,9.6
 1434683954,Melampyrum_pratense,62.893333,27.679444
-786190266,Melampyrum_pratense,47.8,9.1
 1882640618,Melampyrum_pratense,51.115814,13.738367
 1999499567,Melampyrum_pratense,60.37001,22.345534
 1936538900,Melampyrum_pratense,42.6926,-2.513
 30879946,Melampyrum_pratense,42.900002,-2.39
-1050619666,Melampyrum_pratense,42.69,-2.5
 1702021018,Melampyrum_pratense,59.7075,10.253
 1948554214,Melampyrum_pratense,60.49444,25.567756
 186820660,Melampyrum_pratense,58.4335,7.8534
@@ -357,7 +341,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 13988939,Melampyrum_pratense,49.1184,1.69849
 30971245,Melampyrum_pratense,42.76,-7.47
 1705352097,Melampyrum_pratense,57.140039,16.333766
-30970793,Melampyrum_pratense,41.81,-1.8
 1702030741,Melampyrum_pratense,61.0218,11.2667
 30880664,Melampyrum_pratense,42.509998,-0.08
 1697658963,Melampyrum_pratense,56.478799,44.820591
@@ -383,7 +366,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851377965,Melampyrum_pratense,43.066,-5.229
 1936516242,Melampyrum_pratense,42.9688,-0.7573
 1701537163,Melampyrum_pratense,48.19528,16.21917
-899786722,Melampyrum_pratense,54.4,12.6
 1323808286,Melampyrum_pratense,68.8522,19.6215
 1701790940,Melampyrum_pratense,62.4108,8.6362
 1702089663,Melampyrum_pratense,58.5473,6.4311
@@ -407,15 +389,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851318739,Melampyrum_pratense,42.86,-6.864
 30969937,Melampyrum_pratense,42.86,-6.81
 1702436058,Melampyrum_pratense,59.8688,10.1339
-30970280,Melampyrum_pratense,41.8,-1.81
 1668934117,Melampyrum_pratense,54.905,37.578
 1851377985,Melampyrum_pratense,43.074,-5.242
-2291991016,Melampyrum_pratense,42.583333,2.5
 1936432651,Melampyrum_pratense,42.8539,-6.8718
 1936431986,Melampyrum_pratense,42.8619,-6.8225
 1702436297,Melampyrum_pratense,59.9117,10.35
 1936434430,Melampyrum_pratense,42.5556,0.3799
-30971295,Melampyrum_pratense,42.2,-6.52
 1697284803,Melampyrum_pratense,62.30209,89.02113
 1999610668,Melampyrum_pratense,60.688136,22.446215
 1882640626,Melampyrum_pratense,50.905792,13.43722
@@ -434,7 +413,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 728979944,Melampyrum_pratense,51.58273,6.014818
 1701537557,Melampyrum_pratense,48.78083,21.18778
 1599324397,Melampyrum_pratense,60.961058,24.712228
-1500200440,Melampyrum_pratense,49.183333,13.8
 1697658946,Melampyrum_pratense,52.916992,40.044644
 57706923,Melampyrum_pratense,60.999809,25.527494
 1599324404,Melampyrum_pratense,60.892969,24.720794
@@ -457,11 +435,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289212090,Melampyrum_pratense,43.333333,0.716667
 111310486,Melampyrum_pratense,43.457001,-1.56
 1050645762,Melampyrum_pratense,43.45,-1.56
-211630932,Melampyrum_pratense,42.82,-8
 1851408661,Melampyrum_pratense,42.822,-7.991
 1936429884,Melampyrum_pratense,42.8152,-7.9984
 1701836676,Melampyrum_pratense,59.9657,10.3343
-1851382086,Melampyrum_pratense,43,-5.76
 1144728474,Melampyrum_pratense,44.84056,-1.22528
 1697658667,Melampyrum_pratense,54.937677,41.381034
 442028004,Melampyrum_pratense,51.338612,14.625278
@@ -499,7 +475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936369551,Melampyrum_pratense,42.5771,1.0005
 1697658561,Melampyrum_pratense,54.202229,36.295243
 1831273372,Melampyrum_pratense,53.5485,12.5818
-1851366198,Melampyrum_pratense,42.861,-4.5
 111310364,Melampyrum_pratense,43.013,-1.362
 1705341175,Melampyrum_pratense,57.262269,15.646132
 1434768859,Melampyrum_pratense,41.713909,-6.794416
@@ -557,7 +532,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57706867,Melampyrum_pratense,62.241699,25.890499
 373758692,Melampyrum_pratense,62.599701,25.3417
 1936153878,Melampyrum_pratense,43.0361,-4.413
-1851388512,Melampyrum_pratense,42.84,-4.9
 1851395657,Melampyrum_pratense,42.91,-6.24
 1936432338,Melampyrum_pratense,42.6382,0.8887
 1936102029,Melampyrum_pratense,43.0225,-6.7432
@@ -574,14 +548,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253403749,Melampyrum_pratense,51.936039,11.786434
 111310012,Melampyrum_pratense,42.979,-2.565
 1936169903,Melampyrum_pratense,42.9727,-2.9155
-1050593517,Melampyrum_pratense,42.97,-2.9
 1050593544,Melampyrum_pratense,42.89,-2.29
 111310005,Melampyrum_pratense,43.393002,-2.697
 111310008,Melampyrum_pratense,43.310001,-2.69
 111310009,Melampyrum_pratense,42.979,-2.908
 111310007,Melampyrum_pratense,43.014999,-3.018
-1050593510,Melampyrum_pratense,42.9,-2.3
-1050593536,Melampyrum_pratense,42.96,-2.6
 1144108734,Melampyrum_pratense,60.2584,5.6024
 111310006,Melampyrum_pratense,43.186001,-3.154
 1851318623,Melampyrum_pratense,42.74,-5.38
@@ -604,7 +575,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851395632,Melampyrum_pratense,42.92,-6.37
 1999499551,Melampyrum_pratense,68.653711,28.312309
 895160078,Melampyrum_pratense,43.11,-4.78
-1050593592,Melampyrum_pratense,42.93,-2.5
 1936107430,Melampyrum_pratense,41.9095,-2.6396
 1050593389,Melampyrum_pratense,42.66,-2.46
 1935703280,Melampyrum_pratense,47.03111,15.15139
@@ -638,7 +608,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050593434,Melampyrum_pratense,43.13,-3.68
 1999499556,Melampyrum_pratense,68.675299,27.697737
 1999499559,Melampyrum_pratense,68.963611,27.033123
-1851323317,Melampyrum_pratense,43,-6.24
 1999499569,Melampyrum_pratense,68.646162,28.115046
 1936170635,Melampyrum_pratense,42.6302,-2.7208
 1999499590,Melampyrum_pratense,68.671246,28.3626
@@ -682,7 +651,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697284790,Melampyrum_pratense,62.29947,89.04646
 1599324394,Melampyrum_pratense,61.935433,25.749301
 296494025,Melampyrum_pratense,46.915,12.597
-186820914,Melampyrum_pratense,61.6,10.3286
 1455442790,Melampyrum_pratense,49.877951,5.600222
 1253403730,Melampyrum_pratense,52.4033,13.0456
 1999499425,Melampyrum_pratense,69.178636,27.209836
@@ -697,7 +665,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900226686,Melampyrum_pratense,59.5535,7.3485
 1697284830,Melampyrum_pratense,60.79533,89.36805
 1599324396,Melampyrum_pratense,69.046036,20.850864
-1988172416,Melampyrum_pratense,61.3,25.3
 1701784562,Melampyrum_pratense,59.7002,8.0681
 900226637,Melampyrum_pratense,59.408,6.8244
 1701724815,Melampyrum_pratense,61.7799,6.2671
@@ -709,20 +676,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144108786,Melampyrum_pratense,60.8056,6.6935
 1702438891,Melampyrum_pratense,59.1243,11.3681
 1144108812,Melampyrum_pratense,60.8245,6.7473
-1851386214,Melampyrum_pratense,43.2,-5.03
 1697284778,Melampyrum_pratense,60.72547,89.38417
 1701576657,Melampyrum_pratense,63.8818,11.2978
 2273632666,Melampyrum_pratense,56.16349,15.68325
 1851369568,Melampyrum_pratense,42.91,-5.76
 1697284808,Melampyrum_pratense,60.83076,89.43865
 1702011255,Melampyrum_pratense,59.125,11.5691
-1988175934,Melampyrum_pratense,61.3,27.7
 900226484,Melampyrum_pratense,58.7294,5.7437
 1697658702,Melampyrum_pratense,54.943341,39.436875
 1999499587,Melampyrum_pratense,60.821619,22.151045
 1701980902,Melampyrum_pratense,62.3633,7.5633
 2291706949,Melampyrum_pratense,50.452,6.102
-1050593386,Melampyrum_pratense,42.86,-2.2
 1702437955,Melampyrum_pratense,62.7754,11.023
 1050593585,Melampyrum_pratense,42.85,-3.23
 1701576570,Melampyrum_pratense,62.6534,6.753
@@ -744,14 +708,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999499548,Melampyrum_pratense,68.882738,27.256754
 1851361980,Melampyrum_pratense,42.92,-5.39
 21158393,Melampyrum_pratense,62.664,6.2836
-1050593413,Melampyrum_pratense,42.9,-2.77
 1702438994,Melampyrum_pratense,60.297,11.7239
 1050593462,Melampyrum_pratense,43.02,-2.74
 1701981572,Melampyrum_pratense,64.0207,12.2732
 1701250851,Melampyrum_pratense,63.9804,10.1339
 1434684063,Melampyrum_pratense,63.557778,27.191667
 1999499581,Melampyrum_pratense,60.268843,22.54091
-1050593560,Melampyrum_pratense,42.75,-2.6
 1851338982,Melampyrum_pratense,43.02,-5.27
 1702439419,Melampyrum_pratense,59.3349,9.0791
 1701724759,Melampyrum_pratense,59.3079,9.1142
@@ -761,7 +723,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702439135,Melampyrum_pratense,66.2759,14.8942
 1701980984,Melampyrum_pratense,60.7243,9.164
 1701934049,Melampyrum_pratense,60.9599,8.7877
-1050593438,Melampyrum_pratense,42.8,-2.77
 1323760084,Melampyrum_pratense,68.7453,17.0147
 1702439338,Melampyrum_pratense,62.0421,7.0976
 1599324572,Melampyrum_pratense,61.243538,24.66856
@@ -812,7 +773,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697284845,Melampyrum_pratense,59.52536,59.10252
 211631415,Melampyrum_pratense,43.139999,-5.93
 1668934854,Melampyrum_pratense,54.917,37.595
-1851327037,Melampyrum_pratense,42.82,-6
 57706905,Melampyrum_pratense,62.030701,25.4205
 1697658573,Melampyrum_pratense,55.858567,39.708178
 1434683917,Melampyrum_pratense,61.129444,22.130833
@@ -835,7 +795,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705429817,Melampyrum_pratense,57.251217,14.91972
 187200168,Melampyrum_pratense,63.3877,10.3506
 1831273351,Melampyrum_pratense,53.6485,11.582
-211630728,Melampyrum_pratense,43.049999,-6
 1697658662,Melampyrum_pratense,54.429697,40.648467
 1697658648,Melampyrum_pratense,54.667909,40.862056
 1701588314,Melampyrum_pratense,62.4602,6.8287
@@ -875,7 +834,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999499398,Melampyrum_pratense,60.07726,23.663871
 1999499517,Melampyrum_pratense,68.923622,25.812549
 30970337,Melampyrum_pratense,42.47,-0.63
-1249267740,Melampyrum_pratense,50.6,6.8
 1999499508,Melampyrum_pratense,68.860162,25.716589
 317823038,Melampyrum_pratense,42.661,0.371
 1845009790,Melampyrum_pratense,49.207778,7.754444
@@ -892,7 +850,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999593878,Melampyrum_pratense,68.601506,28.088277
 317823040,Melampyrum_pratense,42.514,-0.669
 812027777,Melampyrum_pratense,50.721817,9.232
-1060519782,Melampyrum_pratense,50.6,6.9
 360095162,Melampyrum_pratense,62.299801,26.775
 1099044946,Melampyrum_pratense,48.347221,10.364166
 57706947,Melampyrum_pratense,62.6054,25.9256
@@ -909,10 +866,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702209743,Melampyrum_pratense,62.36457,6.03751
 1999499467,Melampyrum_pratense,60.429904,22.518825
 1999499558,Melampyrum_pratense,60.539101,22.558447
-786190371,Melampyrum_pratense,50.5,7
-786190363,Melampyrum_pratense,50.5,7.1
 29701162,Melampyrum_pratense,42.53,-0.534
-786190377,Melampyrum_pratense,50.6,7
 1434684178,Melampyrum_pratense,64.257778,23.9475
 1999499591,Melampyrum_pratense,60.443779,22.398649
 216100916,Melampyrum_pratense,63.053902,25.9091
@@ -928,7 +882,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702343594,Melampyrum_pratense,62.21485,6.35549
 1099044945,Melampyrum_pratense,46.700001,10.516666
 187199417,Melampyrum_pratense,62.5255,11.39
-786190322,Melampyrum_pratense,50.7,7.2
 177285420,Melampyrum_pratense,62.250702,25.8902
 2313348416,Melampyrum_pratense,48.27,11.62
 1144108677,Melampyrum_pratense,58.88222,5.85054
@@ -949,8 +902,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788626654,Melampyrum_pratense,58.957198,15.05961
 1065670949,Melampyrum_pratense,64.006079,20.055327
 1599324372,Melampyrum_pratense,68.625022,21.706732
-786190319,Melampyrum_pratense,51.9,10.4
-786190316,Melampyrum_pratense,50.7,7.1
 1144108906,Melampyrum_pratense,62.94634,6.98913
 1144108746,Melampyrum_pratense,59.98286,5.53824
 1999499432,Melampyrum_pratense,60.367576,23.108116
@@ -970,7 +921,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434684454,Melampyrum_pratense,56.130833,9.559167
 812027776,Melampyrum_pratense,50.6243,9.507617
 1702335008,Melampyrum_pratense,68.4571,17.9119
-786190304,Melampyrum_pratense,47.4,10.8
 1701964639,Melampyrum_pratense,63.1842,9.745
 1323846796,Melampyrum_pratense,70.6687,28.6647
 57706892,Melampyrum_pratense,62.344799,23.839701
@@ -1060,7 +1010,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705334602,Melampyrum_pratense,57.229203,16.467495
 187199388,Melampyrum_pratense,69.874,21.7422
 1845009782,Melampyrum_pratense,46.719444,8.306389
-786190294,Melampyrum_pratense,53.6,8.8
 1599324361,Melampyrum_pratense,68.787289,21.171219
 1705425917,Melampyrum_pratense,59.842233,18.438182
 1948503727,Melampyrum_pratense,60.545598,27.088144
@@ -1281,7 +1230,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788565196,Melampyrum_pratense,60.62069,15.64329
 883311,Melampyrum_pratense,58.02181,14.52309
 1599324640,Melampyrum_pratense,63.412772,28.097739
-1893209161,Melampyrum_pratense,49.8,6.43
 187199909,Melampyrum_pratense,59.575,11.6203
 1698012254,Melampyrum_pratense,59.1978,10.8208
 788604047,Melampyrum_pratense,56.12429,15.74753
@@ -1345,7 +1293,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701305758,Melampyrum_pratense,63.4858,9.8533
 1705299712,Melampyrum_pratense,57.667916,14.933874
 1702335062,Melampyrum_pratense,60.01399,9.99
-786190406,Melampyrum_pratense,52.3,13.3
 1702335093,Melampyrum_pratense,59.4628,8.0208
 1697284812,Melampyrum_pratense,64.35165,59.58669
 57706930,Melampyrum_pratense,62.698429,26.508326
@@ -1476,9 +1423,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705426751,Melampyrum_pratense,56.673545,12.744319
 1144108740,Melampyrum_pratense,60.2759,5.2694
 1702339589,Melampyrum_pratense,59.867,10.5724
-1099045048,Melampyrum_pratense,61.5,23
 1702000936,Melampyrum_pratense,58.5231,6.9361
-1891605330,Melampyrum_pratense,49.65,6
 1144108703,Melampyrum_pratense,60.3516,5.3445
 1065670965,Melampyrum_pratense,65.31204,17.9625
 1599321255,Melampyrum_pratense,63.326951,26.697372
@@ -1657,7 +1602,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705420371,Melampyrum_pratense,57.126824,13.388542
 1701998507,Melampyrum_pratense,61.7113,9.6582
 1144108659,Melampyrum_pratense,59.97892,11.24854
-1697658987,Melampyrum_pratense,58.3,45.85
 1701583414,Melampyrum_pratense,60.026,10.6867
 788552261,Melampyrum_pratense,67.09105,20.56812
 1701486134,Melampyrum_pratense,59.8228,5.5206
@@ -1703,7 +1647,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1883358850,Melampyrum_pratense,56.555734,15.26264
 1705417167,Melampyrum_pratense,56.553088,13.700959
 1697658730,Melampyrum_pratense,55.736119,37.31227
-786190200,Melampyrum_pratense,48.7,8.7
 1323760190,Melampyrum_pratense,65.8647,13.2026
 1702227867,Melampyrum_pratense,59.4371,11.3098
 1697658464,Melampyrum_pratense,62.572917,58.051091
@@ -1729,7 +1672,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705350098,Melampyrum_pratense,57.05803,15.047114
 1999499472,Melampyrum_pratense,60.453486,22.688452
 1705425444,Melampyrum_pratense,56.743907,15.916724
-786190401,Melampyrum_pratense,50.7,8.1
 1705273523,Melampyrum_pratense,56.646843,14.915187
 788546565,Melampyrum_pratense,55.53402,13.21474
 1144108715,Melampyrum_pratense,60.485,5.3462
@@ -1744,7 +1686,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702335083,Melampyrum_pratense,59.5581,10.2385
 788561516,Melampyrum_pratense,59.53752,14.92593
 1705273765,Melampyrum_pratense,56.912764,14.820225
-786190222,Melampyrum_pratense,49.4,8.7
 1702343471,Melampyrum_pratense,69.7254,30.0512
 1705416436,Melampyrum_pratense,57.640491,14.752017
 1705363052,Melampyrum_pratense,57.538154,14.141217
@@ -2047,7 +1988,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1622362657,Melampyrum_pratense,61.33847,21.668761
 1701915694,Melampyrum_pratense,60.3447,7.1419
 1701685836,Melampyrum_pratense,61.5471,10.126
-1891603700,Melampyrum_pratense,49.8,6.47
 1702390540,Melampyrum_pratense,60.34263,7.30879
 1702339502,Melampyrum_pratense,61.575,9.6289
 1702390621,Melampyrum_pratense,59.21149,6.42862
@@ -2100,7 +2040,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701288844,Melampyrum_pratense,64.7494,11.2904
 1701897848,Melampyrum_pratense,69.914,23.3356
 788518202,Melampyrum_pratense,57.818884,14.446105
-1701897892,Melampyrum_pratense,69.6,23.6484
 788502607,Melampyrum_pratense,57.761094,14.842153
 1702390544,Melampyrum_pratense,60.6352,6.3187
 1701915777,Melampyrum_pratense,60.8015,6.61
