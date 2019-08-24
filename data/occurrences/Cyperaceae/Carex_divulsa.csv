@@ -9,7 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2238662327,Carex_divulsa,44.7503,39.619
 1844878796,Carex_divulsa,40.936668,24.034439
 1844878361,Carex_divulsa,39.74028,20.93861
-1838998668,Carex_divulsa,39,20.75528
 1838998663,Carex_divulsa,39.010281,20.7325
 1584379507,Carex_divulsa,48.08389,16.04722
 1838998662,Carex_divulsa,39.38028,21.17944
@@ -39,7 +38,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831519543,Carex_divulsa,40.76222,44.9325
 1831519612,Carex_divulsa,40.75528,44.94528
 1438588448,Carex_divulsa,59.27672,26.95461
-1935668537,Carex_divulsa,44.9,13.98333
 1831518259,Carex_divulsa,36.50722,8.33306
 1701512592,Carex_divulsa,40.25833,-5.86944
 1933399962,Carex_divulsa,46.38111,11.25833
@@ -79,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 620618943,Carex_divulsa,39.347467,46.342533
 895235149,Carex_divulsa,41.523,-1.76
 1094182395,Carex_divulsa,32.95,35.32
-1094182504,Carex_divulsa,33.2,35.7
 1697770348,Carex_divulsa,43.648,40.42352
 895221057,Carex_divulsa,39.939,-0.724
 415616277,Carex_divulsa,36.714,-4.73
@@ -138,7 +135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936656290,Carex_divulsa,40.804722,44.893056
 1230530365,Carex_divulsa,40.80472,44.89306
 788531477,Carex_divulsa,55.68789,13.66898
-1050640923,Carex_divulsa,42.82,-2.7
 680223,Carex_divulsa,56.36372,12.77667
 1671649210,Carex_divulsa,44.408024,9.626312
 788533353,Carex_divulsa,55.68794,13.67216
@@ -174,11 +170,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199467296,Carex_divulsa,36.885,-3.982
 788868502,Carex_divulsa,55.50629,13.87829
 1936625582,Carex_divulsa,40.3489,8.9083
-895301702,Carex_divulsa,39.7,9.43
 788842164,Carex_divulsa,55.50073,13.86748
 1144637715,Carex_divulsa,42.38333,9.18333
 1697723643,Carex_divulsa,45.037262,35.066643
-1831517299,Carex_divulsa,39.33889,46.4
 679687,Carex_divulsa,55.45293,13.44773
 728980054,Carex_divulsa,51.680827,6.146316
 1697791312,Carex_divulsa,43.66961,39.623823
@@ -213,7 +207,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671647425,Carex_divulsa,44.131522,9.692622
 1671647101,Carex_divulsa,44.099732,9.73815
 788866050,Carex_divulsa,55.48646,13.76376
-1936605636,Carex_divulsa,40.7,39.05
 788866086,Carex_divulsa,55.55872,13.57931
 788877643,Carex_divulsa,55.48538,13.75274
 1671647561,Carex_divulsa,44.159686,9.681783
@@ -258,7 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199466986,Carex_divulsa,36.662,-5.613
 786367858,Carex_divulsa,54.1484,13.415
 786367855,Carex_divulsa,54.0484,12.2485
-788542149,Carex_divulsa,40.733333,21.9
 439776450,Carex_divulsa,51.4719,9.9464
 788502482,Carex_divulsa,40.816667,22.133333
 199466991,Carex_divulsa,36.517,-5.63
@@ -278,7 +270,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788869963,Carex_divulsa,55.6568,13.85183
 788875329,Carex_divulsa,55.6554,13.07323
 788879476,Carex_divulsa,56.19503,13.02531
-788542206,Carex_divulsa,35.2,24.633333
 1936576252,Carex_divulsa,41.833347,-5.956497
 895289509,Carex_divulsa,39.85,-0.25
 1851392477,Carex_divulsa,42.3574,-5.1839
@@ -297,9 +288,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788868869,Carex_divulsa,55.73515,13.54857
 895246134,Carex_divulsa,40.66,0.22
 199466829,Carex_divulsa,36.871,-4.464
-318105600,Carex_divulsa,39.5,-5.38
 1050619946,Carex_divulsa,38.78,-0.11
-1050646884,Carex_divulsa,43.4,-5.78
 1936548712,Carex_divulsa,39.0348,-4.561
 199466831,Carex_divulsa,36.63,-4.885
 1936436508,Carex_divulsa,43.3979,-5.792
@@ -308,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050581084,Carex_divulsa,43.57,-1.45
 1851356875,Carex_divulsa,39.041,-4.554
 788872614,Carex_divulsa,55.69788,13.6239
-1050581441,Carex_divulsa,42.86,-2.2
 788844204,Carex_divulsa,55.58254,12.91332
 788873283,Carex_divulsa,56.33827,14.1341
 895301671,Carex_divulsa,39.79,-2.12
@@ -349,17 +337,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788868319,Carex_divulsa,55.58124,13.73664
 1851377160,Carex_divulsa,43.143,-4.937
 318106053,Carex_divulsa,43.14,-4.93
-895284118,Carex_divulsa,40.3,-0.12
 1701088540,Carex_divulsa,42.411119,11.145667
-788495118,Carex_divulsa,37.3,21.7
 788876402,Carex_divulsa,55.67108,13.34321
 1050616996,Carex_divulsa,43.02,-0.98
-895283827,Carex_divulsa,40.4,-0.35
 788876440,Carex_divulsa,55.64092,13.36655
 788870543,Carex_divulsa,56.16836,14.30213
 788876363,Carex_divulsa,56.13483,14.31023
 1936444214,Carex_divulsa,39.5407,-3.1875
-895304253,Carex_divulsa,39.5,-0.38
 1831518045,Carex_divulsa,38.03333,12.58333
 1935662980,Carex_divulsa,47.07667,15.44
 895228706,Carex_divulsa,41.465,-1.497
@@ -371,11 +355,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500698797,Carex_divulsa,40.57,0.11
 1500698555,Carex_divulsa,40.48,-0.11
 895184369,Carex_divulsa,40.48,-0.23
-1144637755,Carex_divulsa,41.96667,9.4
 895232509,Carex_divulsa,40.064,-0.649
 895302354,Carex_divulsa,40.49,-0.35
 895185597,Carex_divulsa,39.94,-0.25
-1842869410,Carex_divulsa,41.41,2.1
 895184194,Carex_divulsa,40.57,-0.11
 204423045,Carex_divulsa,42.713001,-1.187
 1697770370,Carex_divulsa,44.121052,39.058542
@@ -386,9 +368,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500998111,Carex_divulsa,40.06,-0.64
 1500998144,Carex_divulsa,40.06,-0.61
 1500698988,Carex_divulsa,39.95,-0.29
-1053985408,Carex_divulsa,42.64,-1.1
 204422483,Carex_divulsa,43.113998,-1.531
-1675922241,Carex_divulsa,31.2,-7.82
 1500696796,Carex_divulsa,40.58,-0.34
 895184901,Carex_divulsa,40.75,0.22
 1230527907,Carex_divulsa,40.89972,45.13139
@@ -405,7 +385,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050640854,Carex_divulsa,42.68,-2.26
 30661817,Carex_divulsa,37.961,-2.812
 204422477,Carex_divulsa,43.247002,-1.392
-1050646760,Carex_divulsa,42.8,-1.84
 895259870,Carex_divulsa,38.78,-0.52
 1936577390,Carex_divulsa,40.159533,-5.060733
 1936578650,Carex_divulsa,40.1623,-5.0562
@@ -436,8 +415,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936666349,Carex_divulsa,38.5738,-3.8048
 1936339291,Carex_divulsa,42.071,0.8956
 1851336077,Carex_divulsa,43.11,-5.03
-1144637754,Carex_divulsa,41.6,9.18333
-165386913,Carex_divulsa,38.61,-4.9
 1936518729,Carex_divulsa,42.5171,-6.6885
 1851325900,Carex_divulsa,42.84,-5.14
 895301471,Carex_divulsa,39.94,-0.326
@@ -451,15 +428,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053980590,Carex_divulsa,42.74,-1.83
 204422724,Carex_divulsa,42.625999,-2.36
 1936341006,Carex_divulsa,40.1025,-4.1745
-788500752,Carex_divulsa,35.4,23.816667
 1144637719,Carex_divulsa,42.55,8.91667
 1144637753,Carex_divulsa,42.46667,8.68333
 204422712,Carex_divulsa,42.707001,-2.249
 317818217,Carex_divulsa,41.569,1.915
 204422725,Carex_divulsa,42.748001,-1.833
 1144637765,Carex_divulsa,42.65,9.08333
-1144637762,Carex_divulsa,41.9,9.4
-1053980565,Carex_divulsa,42.7,-2.25
 199466561,Carex_divulsa,36.553,-5.631
 1936110478,Carex_divulsa,39.3621,-5.4387
 1936108129,Carex_divulsa,42.3334,-3.0013
@@ -512,9 +486,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050640738,Carex_divulsa,43.21,-2.47
 204422723,Carex_divulsa,43.215,-1.701
 1697723648,Carex_divulsa,44.823613,34.679031
-1050646776,Carex_divulsa,43.15,-3.1
 2308684487,Carex_divulsa,51.46,-3.59
-1851344021,Carex_divulsa,43,-6.24
 204422715,Carex_divulsa,43.250999,-1.676
 1936547496,Carex_divulsa,42.4411,-4.4604
 204422952,Carex_divulsa,43.257999,-3.388
@@ -523,7 +495,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936413432,Carex_divulsa,39.6106,-3.7352
 1701511401,Carex_divulsa,45.8875,10.87361
 1050640988,Carex_divulsa,43.12,-3.12
-1050641038,Carex_divulsa,42.6,-2.54
 296435775,Carex_divulsa,43.621389,12.665278
 860311496,Carex_divulsa,40.85,0.33
 204422956,Carex_divulsa,43.326,-1.995
@@ -533,7 +504,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199467037,Carex_divulsa,36.47457,-4.98488
 204422713,Carex_divulsa,43.341999,-1.76
 1936032044,Carex_divulsa,40.2513,-5.9406
-1144637725,Carex_divulsa,42.33333,9.4
 1050640970,Carex_divulsa,42.62,-2.99
 1050640916,Carex_divulsa,42.71,-2.33
 1050640966,Carex_divulsa,42.77,-2.67
@@ -555,7 +525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 165386923,Carex_divulsa,37.79,-5.33
 788525615,Carex_divulsa,35.316667,23.766667
 1697770361,Carex_divulsa,41.698583,41.719337
-1144637712,Carex_divulsa,41.9,9.1
 230816818,Carex_divulsa,51.835085,5.873243
 1050640935,Carex_divulsa,42.67,-2.43
 860307805,Carex_divulsa,41.019,-1.151
@@ -565,7 +534,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936388993,Carex_divulsa,42.6556,-2.3303
 1050641010,Carex_divulsa,42.68,-2.33
 788875441,Carex_divulsa,55.54033,13.27169
-860307817,Carex_divulsa,41.5,-1.74
 204422955,Carex_divulsa,43.283001,-2.23
 1806554627,Carex_divulsa,43.134,-1.715
 2270292652,Carex_divulsa,48.40611,4.17389
@@ -580,7 +548,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851328642,Carex_divulsa,42.83,-5.39
 1851325723,Carex_divulsa,42.92,-5.39
 1936389102,Carex_divulsa,40.4659,-2.1756
-1851329545,Carex_divulsa,43.1,-5.4
 1936032984,Carex_divulsa,41.2435,-6.5072
 788532450,Carex_divulsa,35.483333,23.933333
 1851409840,Carex_divulsa,42.91,-5.76
@@ -592,23 +559,19 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935662957,Carex_divulsa,48.45333,16.35389
 1936389147,Carex_divulsa,40.5732,-2.0798
 1584384115,Carex_divulsa,37.41667,55.75
-211621469,Carex_divulsa,43.549999,-6.4
 1831079104,Carex_divulsa,53.8485,11.582
 788868249,Carex_divulsa,55.66337,14.21901
 1936349607,Carex_divulsa,39.9211,-1.7141
 1697723674,Carex_divulsa,44.50188,34.157818
 1845008758,Carex_divulsa,49.883611,8.008333
-1851378037,Carex_divulsa,42.82,-6
 211621766,Carex_divulsa,43.540001,-6.55
 788528579,Carex_divulsa,38.95,21.75
 2287773708,Carex_divulsa,50.452,6.102
 788525676,Carex_divulsa,39.666667,21.383333
 1697770352,Carex_divulsa,44.924928,37.321172
 211622251,Carex_divulsa,43.25,-6.02
-788500461,Carex_divulsa,40.95,24.1
 788869013,Carex_divulsa,56.274444,10.47
 211621757,Carex_divulsa,43.34,-5.97
-1144637718,Carex_divulsa,42.53333,9.3
 1978790350,Carex_divulsa,47.176389,4.963611
 211622249,Carex_divulsa,43.439999,-5.82
 788844268,Carex_divulsa,55.43055,13.70914
@@ -617,7 +580,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697723718,Carex_divulsa,44.640659,34.380276
 1697770391,Carex_divulsa,38.486925,48.869944
 575086247,Carex_divulsa,36.15,52.333333
-574671850,Carex_divulsa,38.3,48.85
 318105745,Carex_divulsa,38.83,-0.18
 2287773226,Carex_divulsa,44.208333,10.416667
 2243050123,Carex_divulsa,52.831503,-0.481885
@@ -645,7 +607,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860315484,Carex_divulsa,41.78,2.82
 2291136734,Carex_divulsa,50.851368,5.690973
 788875296,Carex_divulsa,55.65862,14.26409
-995407256,Carex_divulsa,50.35,4.4
 1697770354,Carex_divulsa,44.634425,39.135563
 1269972545,Carex_divulsa,51.548322,-0.271231
 876152705,Carex_divulsa,41.69,2.58
@@ -658,7 +619,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 679809,Carex_divulsa,56.1794,15.61937
 788881099,Carex_divulsa,55.50388,13.61106
 679765,Carex_divulsa,56.16599,15.56567
-995408215,Carex_divulsa,51.35,-0.3
 788842132,Carex_divulsa,55.56842,13.71335
 788876854,Carex_divulsa,55.586,13.8163
 788868072,Carex_divulsa,55.65525,13.08309
@@ -675,9 +635,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842907081,Carex_divulsa,35.15,-6.17
 1842865808,Carex_divulsa,35.22,-2.98
 1842869987,Carex_divulsa,35.08,-5.57
-1842911900,Carex_divulsa,35.17,-6.2
 1842886650,Carex_divulsa,35.17,-6.17
-1842858387,Carex_divulsa,35.2,-2.95
 788882329,Carex_divulsa,55.47886,13.36835
 1842909898,Carex_divulsa,35.52,-5.35
 788870240,Carex_divulsa,55.38682,13.54905
