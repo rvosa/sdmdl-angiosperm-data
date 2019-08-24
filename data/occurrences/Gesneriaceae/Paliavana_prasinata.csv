@@ -10,12 +10,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1423908915,Paliavana_prasinata,-22.823056,-43.530278
 1423908195,Paliavana_prasinata,-17.866389,-40.125278
 1440663654,Paliavana_prasinata,-20.643889,-41.386389
-1320005392,Paliavana_prasinata,38.8429,-76.9427
-1320095394,Paliavana_prasinata,38.8173,-77.016
 1123831691,Paliavana_prasinata,-19.974722,-40.528056
 1423935428,Paliavana_prasinata,-19.6275,-41.1875
 1423943308,Paliavana_prasinata,-22.886667,-43.035278
-1440665520,Paliavana_prasinata,-22.975556,-43.013611
 1087662919,Paliavana_prasinata,-17.7915,-41.241833
 1455891123,Paliavana_prasinata,-20.275833,-40.306389
 1123828940,Paliavana_prasinata,-19.826944,-40.739722
@@ -23,10 +20,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424448302,Paliavana_prasinata,-19.4525,-40.478889
 1123828168,Paliavana_prasinata,-18.883611,-41.106389
 1087659082,Paliavana_prasinata,-17.855972,-41.260944
-1424483469,Paliavana_prasinata,-22.973056,-43.019722
 1123822758,Paliavana_prasinata,-18.184722,-40.677222
 1424296942,Paliavana_prasinata,-22.545278,-43.079444
-2242395129,Paliavana_prasinata,39.73193,-104.9619
 1123820039,Paliavana_prasinata,-20.277778,-41.263889
 1094865369,Paliavana_prasinata,-20.7425,-42.055
 1123820527,Paliavana_prasinata,-20.976111,-41.218889
@@ -43,7 +38,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123817585,Paliavana_prasinata,-20.278333,-40.540556
 1424299090,Paliavana_prasinata,-21.794444,-41.453889
 1123818866,Paliavana_prasinata,-18.776944,-40.443889
-1123824043,Paliavana_prasinata,-22.3175,-40.637778
 1123830244,Paliavana_prasinata,-19.1025,-40.718556
 1424275689,Paliavana_prasinata,-19.979444,-40.473889
 1123823281,Paliavana_prasinata,-19.907944,-40.473889
