@@ -25,7 +25,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087696029,Begonia_reniformis,-10.68851,-37.1353
 1089260846,Begonia_reniformis,-3.766667,-38.766667
 1099617976,Begonia_reniformis,-11.625556,-40.998056
-1252599080,Begonia_reniformis,-35.688889,-38.718889
 1144974839,Begonia_reniformis,-3.903333,-38.718889
 1099618032,Begonia_reniformis,-13.686944,-39.479444
 1099617984,Begonia_reniformis,-16.989722,-39.577778
@@ -53,9 +52,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090907666,Begonia_reniformis,-9.931167,-39.971639
 1090907776,Begonia_reniformis,-10.359278,-40.199917
 1090907836,Begonia_reniformis,-9.88,-39.920558
-1424421812,Begonia_reniformis,-22.975278,-43.044444
 1096932916,Begonia_reniformis,-20.297056,-40.336944
-1424423868,Begonia_reniformis,-23.05,-43.209167
 1089180012,Begonia_reniformis,-9.255139,-36.460444
 1123822498,Begonia_reniformis,-16.278611,-40.127778
 1077236308,Begonia_reniformis,-13.383611,-39.33
@@ -94,10 +91,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094870633,Begonia_reniformis,-10.648333,-40.376111
 1123819040,Begonia_reniformis,-20.278889,-40.478333
 1077230171,Begonia_reniformis,-12.966667,-38.5
-1094865332,Begonia_reniformis,-12.258889,-30.096111
 1986494107,Begonia_reniformis,-20.304167,-45.919167
 1123811605,Begonia_reniformis,-20.272778,-40.479167
-1090283797,Begonia_reniformis,19.3749,-155.876
 1090505925,Begonia_reniformis,-16.990556,-39.603056
 1123813232,Begonia_reniformis,-20.074444,-41.123889
 1123829649,Begonia_reniformis,-19.740833,-40.941667
@@ -119,7 +114,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424151291,Begonia_reniformis,-20.366389,-45.669722
 1094843609,Begonia_reniformis,-12.033333,-40.483333
 1087673634,Begonia_reniformis,-9.981389,-37.87
-1077237262,Begonia_reniformis,-37.87,-96.425
 1123811711,Begonia_reniformis,-19.887222,-40.575556
 1077570218,Begonia_reniformis,-8.418611,-37.010278
 1077569868,Begonia_reniformis,-8.5,-37
@@ -154,7 +148,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094792201,Begonia_reniformis,-11.684444,-40.027222
 1087631038,Begonia_reniformis,-15.817,-40.115972
 1089254764,Begonia_reniformis,-4.206028,-38.971167
-2242393810,Begonia_reniformis,39.73193,-104.9619
 1087376464,Begonia_reniformis,-15.640278,-48.715556
 1095225235,Begonia_reniformis,-16.22056,-47.32417
 1675143334,Begonia_reniformis,-16.220556,-47.324167
@@ -182,8 +175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1587322015,Begonia_reniformis,-7.833333,-35.033333
 1087375530,Begonia_reniformis,-12.739722,-39.794722
 1853956520,Begonia_reniformis,-7.833333,-35.333333
-1936643050,Begonia_reniformis,43.1787,-3.5181
-1928683206,Begonia_reniformis,34.43,-119.65
 1585193549,Begonia_reniformis,-18.283333,-44.183333
 1438492076,Begonia_reniformis,-11.681667,-41.016389
 1094779638,Begonia_reniformis,-11.086944,-40.6725
