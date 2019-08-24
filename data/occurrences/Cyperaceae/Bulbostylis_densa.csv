@@ -110,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937366027,Bulbostylis_densa,-20.440292,144.791833
 388799821,Bulbostylis_densa,35.174122,139.103091
 395742010,Bulbostylis_densa,35.211944,133.541944
-891591099,Bulbostylis_densa,25.014167,121.938056
 461688699,Bulbostylis_densa,-25.875,28.125
 1451657634,Bulbostylis_densa,-30.146195,151.893044
 1936880965,Bulbostylis_densa,-30.147778,151.891944
@@ -119,9 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937175692,Bulbostylis_densa,-30.394444,152.491667
 1937241609,Bulbostylis_densa,-28.361944,152.529444
 2288676608,Bulbostylis_densa,0.333333,9.35
-995515726,Bulbostylis_densa,-28.383333,153.566667
-1937336445,Bulbostylis_densa,-30.341667,153.075
-993465676,Bulbostylis_densa,-28.385,153.5686
 1937032357,Bulbostylis_densa,-31.033333,153.033333
 218776279,Bulbostylis_densa,1.36935,11.3223
 218776280,Bulbostylis_densa,1.31787,10.8156
@@ -268,29 +264,22 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287767842,Bulbostylis_densa,-5.583333,143.6
 461688695,Bulbostylis_densa,-30.375,30.625
 616242442,Bulbostylis_densa,-28.625,30.875
-2291854006,Bulbostylis_densa,3.6,8.783333
 245525556,Bulbostylis_densa,35.174121,139.090591
 245525560,Bulbostylis_densa,35.582406,139.378053
 245525562,Bulbostylis_densa,35.615738,139.465545
-1828726350,Bulbostylis_densa,39.20285,139.90747
 736055487,Bulbostylis_densa,35.99437,139.33553
-1697186566,Bulbostylis_densa,42.851255,133.691407
 995804299,Bulbostylis_densa,-28.83,152.03
 1451553908,Bulbostylis_densa,-28.831752,152.034422
-461688686,Bulbostylis_densa,-31.375,29.875
-2288647201,Bulbostylis_densa,3.383333,8.65
 616242438,Bulbostylis_densa,-29.375,29.625
 461688685,Bulbostylis_densa,-27.375,30.375
 245525563,Bulbostylis_densa,35.45743,139.590541
 393093343,Bulbostylis_densa,33.0113,131.1745
 736055488,Bulbostylis_densa,36.00533,139.56329
 995489989,Bulbostylis_densa,-29.333333,151.9
-2005467450,Bulbostylis_densa,-31.125,30.125
 461688681,Bulbostylis_densa,-26.125,29.125
 461688682,Bulbostylis_densa,-26.125,29.375
 1697186481,Bulbostylis_densa,42.769666,131.23533
 393093227,Bulbostylis_densa,36.02119,139.00264
-2291854400,Bulbostylis_densa,-1.328333,36.801667
 729325714,Bulbostylis_densa,34.883301,134.64999
 1828727702,Bulbostylis_densa,39.31153,140.55292
 1030911203,Bulbostylis_densa,29.914155,102.234618
@@ -348,7 +337,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2290553773,Bulbostylis_densa,-3.083333,29.391667
 461688661,Bulbostylis_densa,-29.375,27.625
 2290400357,Bulbostylis_densa,-11.466667,33.983333
-2289369511,Bulbostylis_densa,-1.3,36.8
 2287769019,Bulbostylis_densa,-9.166667,147.75
 993368510,Bulbostylis_densa,-9.1667,147.75
 1828719354,Bulbostylis_densa,34.77,137.3972
@@ -374,8 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937021176,Bulbostylis_densa,-6.0167,144.9667
 995804290,Bulbostylis_densa,-30.08,151.95
 1451553854,Bulbostylis_densa,-30.08175,151.951098
-1451588439,Bulbostylis_densa,-31.581691,159.067661
-1936862127,Bulbostylis_densa,-31.5853,159.0767
 2288262218,Bulbostylis_densa,-3.333333,29.6
 2289285653,Bulbostylis_densa,4.966667,9.883333
 891635600,Bulbostylis_densa,24.1375,121.265833
@@ -393,7 +379,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287766156,Bulbostylis_densa,14.35,101.366667
 729317368,Bulbostylis_densa,35.3167,134.617
 621139927,Bulbostylis_densa,6.18,0.03
-2290500441,Bulbostylis_densa,3.866667,11.433333
 393093224,Bulbostylis_densa,36.08048,139.0919
 2291854289,Bulbostylis_densa,7.033333,11.716667
 2287766788,Bulbostylis_densa,-6.5,145.583333
@@ -402,7 +387,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995497218,Bulbostylis_densa,-29.95,151.05
 461688666,Bulbostylis_densa,-28.125,28.375
 381790389,Bulbostylis_densa,36.80775,140.73969
-616242437,Bulbostylis_densa,-29.375,29.375
 2287238827,Bulbostylis_densa,-5.75,144.5
 1090377669,Bulbostylis_densa,-5.91667,143.167
 2287767039,Bulbostylis_densa,-5.916667,143.166667
@@ -419,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030731016,Bulbostylis_densa,25.681882,114.30827
 1030731031,Bulbostylis_densa,25.395202,114.358084
 461688658,Bulbostylis_densa,-29.625,29.875
-2291855118,Bulbostylis_densa,3.883333,11.45
 993148463,Bulbostylis_densa,-5.8667,144.2333
 1030872764,Bulbostylis_densa,28.088025,105.467548
 2289358515,Bulbostylis_densa,-21.783333,15.633333
@@ -475,7 +458,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030946988,Bulbostylis_densa,22.845607,110.62108
 993250662,Bulbostylis_densa,-30.05,150.3
 993609966,Bulbostylis_densa,-30.0667,151.2
-461688687,Bulbostylis_densa,-26.375,31.125
 1829894449,Bulbostylis_densa,35.546944,138.04
 2287767768,Bulbostylis_densa,-7.238056,110.444167
 736055491,Bulbostylis_densa,36.11052,139.24745
@@ -509,7 +491,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2287766377,Bulbostylis_densa,-7.8165,112.6202
 891700792,Bulbostylis_densa,23.473333,120.831944
 993113572,Bulbostylis_densa,-9.0667,147.6333
-1030947049,Bulbostylis_densa,11.318545,116.562386
 1303975433,Bulbostylis_densa,23.03755,114.639319
 2287765286,Bulbostylis_densa,4.633333,96.833333
 1830611797,Bulbostylis_densa,33.948073,134.32959
@@ -520,7 +501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652012085,Bulbostylis_densa,-28.891667,151.925
 1652012087,Bulbostylis_densa,-28.91521,151.917484
 1303975441,Bulbostylis_densa,23.932672,112.199131
-891670795,Bulbostylis_densa,25.011944,121.535278
 891700755,Bulbostylis_densa,24.4725,121.2325
 1303975465,Bulbostylis_densa,24.33566,116.625881
 1303975436,Bulbostylis_densa,24.357731,116.169884
@@ -546,11 +526,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839878420,Bulbostylis_densa,-3.266667,17.366667
 2290363438,Bulbostylis_densa,9.504167,-1.722222
 1257731634,Bulbostylis_densa,-18.891667,47.7275
-2005763956,Bulbostylis_densa,33.261339,126.533746
-2005763856,Bulbostylis_densa,33.350835,126.538148
-2005763936,Bulbostylis_densa,33.29473,126.53697
 2005763932,Bulbostylis_densa,37.471667,126.605753
-2005764010,Bulbostylis_densa,33.353902,126.535704
 1830667997,Bulbostylis_densa,36.75782,139.58397
 2287765807,Bulbostylis_densa,14.766667,39.533333
 2005770584,Bulbostylis_densa,39.15278,127.44361
