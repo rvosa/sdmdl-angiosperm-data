@@ -4,10 +4,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1676086382,Tilia_americana,38.43928,-94.76897
 2234520503,Tilia_americana,35.482411,-79.125284
 2265594564,Tilia_americana,45.450892,-96.708936
-2268818203,Tilia_americana,38.6125,-90.258889
 1849097352,Tilia_americana,34.544722,-81.910417
 1899881065,Tilia_americana,35.03661,-83.45479
-1928501133,Tilia_americana,41.06184,-71.87669
 1899880853,Tilia_americana,42.51198,-72.2124
 1899881385,Tilia_americana,44.00242,-71.27781
 1989311308,Tilia_americana,42.637889,-86.077917
@@ -148,7 +146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177045729,Tilia_americana,43.14201,-92.71185
 2307751380,Tilia_americana,46.32,-90.8
 217089946,Tilia_americana,32.01111,-87.13528
-1343060720,Tilia_americana,55.830749,11.992485
 668778756,Tilia_americana,46.749167,-71.339722
 1897333944,Tilia_americana,17.398861,-96.516833
 1897333992,Tilia_americana,19.465556,-101.617222
@@ -215,7 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177045721,Tilia_americana,41.5446,-81.4729
 1896134911,Tilia_americana,20.541667,-98.241667
 1421379851,Tilia_americana,20.533333,-98.233333
-1671676641,Tilia_americana,44.142952,9.687392
 1228509327,Tilia_americana,41.8333,-87.85
 2242393169,Tilia_americana,38.933333,-95.434167
 177046866,Tilia_americana,38.933334,-95.433334
@@ -235,7 +231,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265503099,Tilia_americana,46.538889,-93.342222
 2265395448,Tilia_americana,44.936112,-93.028053
 2265428632,Tilia_americana,44.430832,-93.293892
-1849094137,Tilia_americana,38.88984,-76.99018
 415952180,Tilia_americana,41.35,-72.07833
 415946839,Tilia_americana,41.55972,-72.12416
 1259422395,Tilia_americana,23.575,-105.85
@@ -276,7 +271,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894642292,Tilia_americana,21.49575,-99.1822
 1319806445,Tilia_americana,39.4558,-76.0769
 1894706102,Tilia_americana,20.743889,-98.704722
-995126036,Tilia_americana,-37.8167,144.9667
 1986978286,Tilia_americana,31.413358,-85.087031
 1986976315,Tilia_americana,31.694407,-85.203257
 1893975677,Tilia_americana,19.6175,-104.274444
@@ -303,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1586166208,Tilia_americana,45.333333,-73.166667
 2265429534,Tilia_americana,44.72459,-93.40903
 1893975669,Tilia_americana,19.6355935960123,-103.57964858855
-1050600814,Tilia_americana,42.85,-2.66
 1928179394,Tilia_americana,35.2083,-81.05
 1929177824,Tilia_americana,34.63,-94.43
 1978058103,Tilia_americana,36,-83
@@ -318,7 +311,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896237544,Tilia_americana,19.858056,-102.053333
 1212007994,Tilia_americana,41.47416,-73.24888
 177046522,Tilia_americana,39.352509,-94.933063
-1343060725,Tilia_americana,56.960588,9.812656
 1895676377,Tilia_americana,20.753056,-98.77
 1895359696,Tilia_americana,20.353428,-103.486919
 1320629001,Tilia_americana,38.7189,-77.1103
@@ -345,7 +337,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265486863,Tilia_americana,48.172222,-94.511667
 2265369929,Tilia_americana,44.040556,-92.878056
 1895036757,Tilia_americana,20.3275,-98.234722
-1897721040,Tilia_americana,-36.866667,174.716667
 1895036774,Tilia_americana,20.321944,-98.201667
 177046149,Tilia_americana,38.141085,-94.873922
 2265448302,Tilia_americana,44.973611,-94.421111
@@ -383,7 +374,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895439107,Tilia_americana,23.992817,-99.715
 1896043103,Tilia_americana,19.765833,-104.355833
 1261039483,Tilia_americana,23.966667,-99.733333
-1419192735,Tilia_americana,20.683333,-90.803333
 1269703138,Tilia_americana,39.5,-84.75
 1895562063,Tilia_americana,20.647778,-98.689167
 1894642098,Tilia_americana,20.516314,-98.711233
@@ -413,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894642428,Tilia_americana,21.406578,-99.085508
 1894642331,Tilia_americana,21.452556,-99.130389
 1269703151,Tilia_americana,31.083,-84.333
-1928961800,Tilia_americana,40.862289,-73.877023
 1269703183,Tilia_americana,41.400002,-74
 2265414786,Tilia_americana,48.642777,-94.078331
 2265414463,Tilia_americana,48.515833,-93.708333
@@ -482,7 +471,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419230665,Tilia_americana,23.478889,-105.370833
 1896297433,Tilia_americana,29.008333,-102.341667
 1989406767,Tilia_americana,42.31242,-84.81632
-1099097177,Tilia_americana,48.133339,11.58333
 1896134864,Tilia_americana,19.55,-104.219444
 1893975697,Tilia_americana,19.557222,-104.219444
 1896043090,Tilia_americana,19.875,-101.773611
@@ -518,7 +506,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894423898,Tilia_americana,25.230839,-100.142919
 1038940772,Tilia_americana,41.244728,-72.757496
 1418343897,Tilia_americana,19.805556,-97.308333
-2290877482,Tilia_americana,38.178833,-9.671667
 2270533267,Tilia_americana,36.67222,-93.60555
 1260943947,Tilia_americana,40.26222,-93.15083
 1987016786,Tilia_americana,38.125,-90.675
@@ -662,7 +649,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804456950,Tilia_americana,48.8,-94.683333
 1989553964,Tilia_americana,44.222348,-84.594496
 1895561951,Tilia_americana,17.328333,-96.491667
-1895562043,Tilia_americana,18.8,-95.083333
 1896134888,Tilia_americana,18.815278,-97.132222
 1895555733,Tilia_americana,17.548611,-99.673611
 1893756038,Tilia_americana,17.546667,-98.825
@@ -674,7 +660,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896043112,Tilia_americana,17.179444,-95.922222
 1321725993,Tilia_americana,38.9694,-77.1767
 1899359523,Tilia_americana,45.25,-78.9
-1936545252,Tilia_americana,43.3126,-5.9608
 1262034777,Tilia_americana,45.184,-73.537
 56675906,Tilia_americana,32.40556,-86.72056
 56675911,Tilia_americana,32.32167,-87.03194
@@ -685,7 +670,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929811391,Tilia_americana,42.7916,-100.0309
 1988968440,Tilia_americana,45.151796,-86.001526
 1804502348,Tilia_americana,45.408333,-76.466667
-296554423,Tilia_americana,45.417,13.532
 1899330252,Tilia_americana,44.583333,-79.366667
 1896134878,Tilia_americana,19.641667,-96.975
 2265413429,Tilia_americana,44.233108,-91.917245
@@ -944,7 +928,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228562486,Tilia_americana,19.3333,-96.6667
 217089876,Tilia_americana,32.70056,-88.10333
 1895360027,Tilia_americana,19.788387952244,-97.2442290358276
-668778742,Tilia_americana,47.166667,-70.433333
 1899311712,Tilia_americana,44.330702,-76.102906
 1988765234,Tilia_americana,42.3234,-83.6728
 1893418499,Tilia_americana,19.358333,-102.308333
@@ -989,7 +972,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 730725109,Tilia_americana,43.2284,-96.5925
 730725170,Tilia_americana,42.36607,-96.49353
 730725135,Tilia_americana,42.19232,-96.37476
-668778744,Tilia_americana,47.033333,-70.65
 1896043110,Tilia_americana,17.546944,-99.580556
 177045959,Tilia_americana,39.52939,-95.9642
 56675283,Tilia_americana,33.8775,-85.54972
@@ -1000,7 +982,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 730725067,Tilia_americana,34.55438,-94.95613
 2234500955,Tilia_americana,39.307122,-77.629959
 473541446,Tilia_americana,45.3,-66.125504
-317874684,Tilia_americana,49.25,8.42
 730725172,Tilia_americana,45.40549,-96.6732
 2234493253,Tilia_americana,33.911167,-85.954117
 1987019996,Tilia_americana,34.50271,-81.420139
@@ -1022,7 +1003,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 730725093,Tilia_americana,41.43742,-98.70313
 2270534405,Tilia_americana,41.860195,-88.242138
 1896038607,Tilia_americana,37.139167,-91.674167
-993639604,Tilia_americana,-35.3,149.1167
 1988967832,Tilia_americana,41.75612,-84.24796
 56675272,Tilia_americana,33.2825,-87.40778
 730725173,Tilia_americana,40.53984,-95.79501
@@ -1108,7 +1088,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893433388,Tilia_americana,17.558333,-99.908333
 1265013448,Tilia_americana,45.383333,-75.970278
 1899355208,Tilia_americana,43.855052,-78.873319
-1261961878,Tilia_americana,47.001764,-70.758462
 1896043070,Tilia_americana,17.501111,-99.644722
 465907124,Tilia_americana,45.03915,-73.074646
 1893418438,Tilia_americana,18.991667,-99.458333
@@ -1127,7 +1106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228236054,Tilia_americana,41.850033,-87.650052
 668778755,Tilia_americana,46.75,-71.35
 694274257,Tilia_americana,50.39158,-105.53486
-1261958605,Tilia_americana,46.93,-70.73
 1896043069,Tilia_americana,23.0725,-99.048333
 1896043117,Tilia_americana,20.656667,-98.656944
 465907128,Tilia_americana,45.945278,-66.666667
@@ -1187,7 +1165,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177045965,Tilia_americana,38.42024,-94.79083
 730725092,Tilia_americana,34.56444,-92.58667
 1895439121,Tilia_americana,23.468889,-105.834169
-381849162,Tilia_americana,35.62937,139.68756
 1261993820,Tilia_americana,46.518529,-75.433581
 1899314731,Tilia_americana,44.026667,-78.146949
 1896043082,Tilia_americana,18.978333,-99.225278
@@ -1201,8 +1178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465907119,Tilia_americana,44.846,-75.31968
 1896043058,Tilia_americana,21.395556,-99.076111
 1895555760,Tilia_americana,21.452778,-99.061111
-1896043098,Tilia_americana,19.418889,-99.187222
-1830665850,Tilia_americana,35.76625,139.59155
 1899358043,Tilia_americana,42.146035,-82.560148
 177045986,Tilia_americana,39.43933,-95.00631
 1228430733,Tilia_americana,42.584742,-87.821185
@@ -1211,12 +1186,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212008053,Tilia_americana,41.91222,-72.98833
 1899304962,Tilia_americana,44.954616,-75.014417
 1895439082,Tilia_americana,27.4325,-103.554722
-1804545485,Tilia_americana,45.4069439990569,-75.755278
 56675298,Tilia_americana,33.25195,-87.44111
 730725128,Tilia_americana,36.69806,-93.4225
 177046399,Tilia_americana,39.369066,-96.205831
 1989443070,Tilia_americana,43.08423,-84.66388
-1899370182,Tilia_americana,42.283333,-81.866667
 1989192097,Tilia_americana,46.355247,-86.480282
 2236154785,Tilia_americana,42.5,-77.25
 1038998903,Tilia_americana,41.5114,-72.9039
@@ -1232,13 +1205,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899362482,Tilia_americana,43.563433,-81.697768
 730725174,Tilia_americana,45.547244,-89.991303
 730725164,Tilia_americana,41.918418,-83.398274
-1899329371,Tilia_americana,45.451718,-75.677238
 883393380,Tilia_americana,49.369429,-98.265298
 56675285,Tilia_americana,32.18139,-85.16528
 1899357637,Tilia_americana,42.943891,-81.169107
 1212008002,Tilia_americana,42.85833,-70.93
-1451608393,Tilia_americana,-35.71512,147.901235
-995928003,Tilia_americana,-35.72,147.9
 1895359827,Tilia_americana,19.6531893186818,-103.709058663781
 1895561982,Tilia_americana,19.627778,-103.643889
 1895359859,Tilia_americana,19.7714154459656,-104.369666454095
@@ -1266,7 +1236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895360001,Tilia_americana,19.342219,-101.478061
 1899384346,Tilia_americana,41.950327,-82.52269
 1899302614,Tilia_americana,43.716762,-79.388258
-1899329108,Tilia_americana,45.448306,-75.678486
 1899302420,Tilia_americana,42.817246,-80.214463
 1212008014,Tilia_americana,35.42583,-82.75666
 1899383029,Tilia_americana,43.976515,-78.617039
@@ -1276,21 +1245,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895554750,Tilia_americana,20.686111,-98.813889
 1895676621,Tilia_americana,20.686111,-98.680556
 1899361252,Tilia_americana,45.291209,-76.166721
-995901136,Tilia_americana,-36.02,147.97
-1451597351,Tilia_americana,-36.015121,147.967906
 1895957692,Tilia_americana,20.246667,-97.883333
 1895961838,Tilia_americana,20.18,-98.056944
 1895950620,Tilia_americana,20.214167,-98
 1895562014,Tilia_americana,20.210833,-98.004444
 1895555794,Tilia_americana,20.3625,-98.375
 883393772,Tilia_americana,53.55,-113.5
-668778766,Tilia_americana,47.116667,-70.483333
 668778749,Tilia_americana,46.8,-71.216667
 1896041157,Tilia_americana,18.894722,-99.428611
 415925161,Tilia_americana,42.24166,-70.88972
 1899331885,Tilia_americana,45.031955,-74.757709
 2265412535,Tilia_americana,44.03615,-92.46972
-1697584547,Tilia_americana,55.830831,37.545309
 2234491856,Tilia_americana,32.80949,-80.024163
 1260972361,Tilia_americana,38.35388,-91.15444
 1212007928,Tilia_americana,41.98972,-72.60361
@@ -1313,7 +1278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212008171,Tilia_americana,42.7,-77.40861
 1320339447,Tilia_americana,38.9753,-77.1583
 1212008148,Tilia_americana,43.33,-76.70833
-1261987989,Tilia_americana,46.916667,-70.966667
 1212008118,Tilia_americana,43.08916,-87.8875
 1212008128,Tilia_americana,43.38166,-87.94055
 1260973657,Tilia_americana,38.1,-92.35777
@@ -1350,7 +1314,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899369279,Tilia_americana,43.75,-79.35
 1899360841,Tilia_americana,43.568038,-79.583419
 1228295205,Tilia_americana,41.850587,-87.882005
-1024638934,Tilia_americana,47.0268,-70.6675
 1846539245,Tilia_americana,19.033333,-100.05
 1261051667,Tilia_americana,19.05,-99.87
 1899285612,Tilia_americana,44.95498,-79.22073
@@ -1386,7 +1349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473551996,Tilia_americana,45.8061,-74.0128
 1212007997,Tilia_americana,42.71194,-73.20361
 2234491797,Tilia_americana,35.052591,-83.196817
-1319280890,Tilia_americana,38.9103,-76.9664
 2242413286,Tilia_americana,39.729228,-104.968304
 2242412043,Tilia_americana,40.477368,-95.731373
 1899285600,Tilia_americana,43.37846,-80.10818
@@ -1415,10 +1377,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212008158,Tilia_americana,41.41666,-71.54944
 1899329167,Tilia_americana,44.802982,-76.441701
 1929161085,Tilia_americana,40.799624,-76.864254
-2234488713,Tilia_americana,38.930895,-77.034451
 1989535276,Tilia_americana,45.523097,-84.671474
 1899289644,Tilia_americana,43.04489,-80.562714
-2273846521,Tilia_americana,-32.75,-71.33333
 1989500399,Tilia_americana,47.227425,-88.401505
 1899377334,Tilia_americana,44.918065,-81.031055
 1260957938,Tilia_americana,40.47694,-93.00305
@@ -1442,8 +1402,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212008020,Tilia_americana,41.91666,-71.45777
 1038990076,Tilia_americana,41.3061,-73.5019
 1929037723,Tilia_americana,40.887766,-73.243776
-1261975979,Tilia_americana,45.383056,-75.806389
-694274286,Tilia_americana,45.39754,-75.76625
 694274265,Tilia_americana,45.633,-75.933
 1261977326,Tilia_americana,45.642495,-75.930431
 694274359,Tilia_americana,45.63154,-75.92399
@@ -1469,8 +1427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1305207651,Tilia_americana,45.14,-89.152
 1989088868,Tilia_americana,44.367377,-86.259791
 2234491613,Tilia_americana,35.847892,-82.308181
-1320824439,Tilia_americana,38.8892,-77.0306
-177045980,Tilia_americana,38.957,-95.25016
 1099091075,Tilia_americana,40.614681,-86.445923
 1228260429,Tilia_americana,38,-98
 730725064,Tilia_americana,39.830641,-91.437294
@@ -1509,7 +1465,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896043065,Tilia_americana,20.315556,-98.236667
 1038954882,Tilia_americana,41.367,-72.717
 1038946659,Tilia_americana,41.5583,-73.036
-1228567044,Tilia_americana,23,-102
 1039014831,Tilia_americana,41.8575,-73.4376
 1928225819,Tilia_americana,41.457854,-76.333549
 1099100800,Tilia_americana,43.866665,-71.216667
