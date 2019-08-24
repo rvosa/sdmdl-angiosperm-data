@@ -33,7 +33,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270576152,Aegilops_cylindrica,37.512795,-113.170501
 1258104781,Aegilops_cylindrica,36.5742,-93.0869
 1697768805,Aegilops_cylindrica,44.713167,37.47219
-1899740588,Aegilops_cylindrica,39,-88
 2242390145,Aegilops_cylindrica,39.45388,-104.9335
 1697723130,Aegilops_cylindrica,44.570833,33.394444
 1426366681,Aegilops_cylindrica,35.6890999991057,-120.0353
@@ -61,7 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929784122,Aegilops_cylindrica,41.465556,-112.206944
 1321339694,Aegilops_cylindrica,40.0626,-111.445
 212301645,Aegilops_cylindrica,52.146667,14.645278
-1935645296,Aegilops_cylindrica,47.18333,18.2
 1096657579,Aegilops_cylindrica,43.58,76.72
 1843901329,Aegilops_cylindrica,34.5073471467556,-106.228753466219
 1457811423,Aegilops_cylindrica,37.95875,-84.8723
@@ -77,7 +75,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242381303,Aegilops_cylindrica,37.515852,-104.147877
 2242411011,Aegilops_cylindrica,36.783917,-104.865917
 1843910989,Aegilops_cylindrica,36.740833,-104.618611
-860313459,Aegilops_cylindrica,41.32,2.1
 176866806,Aegilops_cylindrica,38.1689999990831,-95.2684
 1899340799,Aegilops_cylindrica,42.886982,-79.281104
 2242418508,Aegilops_cylindrica,39.8852196439197,-105.23657188584
@@ -119,10 +116,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843895272,Aegilops_cylindrica,36.2058,-106.3497
 1986955226,Aegilops_cylindrica,37.0141,-112.5664
 176866814,Aegilops_cylindrica,38.691667,-97.814722
-1986951218,Aegilops_cylindrica,40.116667,44.7
 1843862958,Aegilops_cylindrica,36.252892,-106.858623
 1843894357,Aegilops_cylindrica,34.8625,-111.8172
-1986952024,Aegilops_cylindrica,39.7,45.35
 441680719,Aegilops_cylindrica,47.1061,-120.723533
 1230492315,Aegilops_cylindrica,40.27583,44.70278
 2244422790,Aegilops_cylindrica,43.14807,141.19327
@@ -131,7 +126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928328342,Aegilops_cylindrica,41.610917,44.993967
 176866862,Aegilops_cylindrica,39.181944,-99.068333
 893393487,Aegilops_cylindrica,39.716671,45.533329
-1230491664,Aegilops_cylindrica,40.11667,44.7
 1986950235,Aegilops_cylindrica,46.035,-117.2725
 176867492,Aegilops_cylindrica,39.083889,-94.88
 1697768874,Aegilops_cylindrica,44.848403,39.244781
@@ -139,11 +133,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843895648,Aegilops_cylindrica,36.08267,-106.92205
 893393482,Aegilops_cylindrica,39.799999,44.966671
 1426227730,Aegilops_cylindrica,37.967703,-122.628024
-1230491519,Aegilops_cylindrica,39.93333,44.7
 1986949934,Aegilops_cylindrica,45.941667,-117.398889
 51740329,Aegilops_cylindrica,45.9418,-117.399
 893393476,Aegilops_cylindrica,40.116669,44.700001
-1230491503,Aegilops_cylindrica,39.8,44.96667
 1230491530,Aegilops_cylindrica,39.71667,45.53333
 1986948664,Aegilops_cylindrica,41.724167,-111.822222
 1933933717,Aegilops_cylindrica,34.95208,136.65778
@@ -177,14 +169,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988655928,Aegilops_cylindrica,41.78389,-84.18525
 176867611,Aegilops_cylindrica,38.149935,-102.959429
 1846545962,Aegilops_cylindrica,36.05556,-112.13889
-1230491450,Aegilops_cylindrica,43.7,28.51667
 1946719608,Aegilops_cylindrica,49.72,11.04
 1930304358,Aegilops_cylindrica,37.5983,-113.9281
 1935645117,Aegilops_cylindrica,47.075,15.375
 296392485,Aegilops_cylindrica,47.068,15.412
 1843821271,Aegilops_cylindrica,35.338724,-106.462673
 1949654602,Aegilops_cylindrica,49.201944,-122.908333
-1988196651,Aegilops_cylindrica,49.2,-122.91
 860314683,Aegilops_cylindrica,41.621,-1.037
 51740290,Aegilops_cylindrica,44.5702,-123.2424
 2270635463,Aegilops_cylindrica,34.5756,-112.427
@@ -207,13 +197,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176867753,Aegilops_cylindrica,37.268836,-95.185543
 176867890,Aegilops_cylindrica,38.937465,-94.987465
 441680401,Aegilops_cylindrica,46.733333,-117.183333
-1986968053,Aegilops_cylindrica,41.7425,-111.8
 1259406773,Aegilops_cylindrica,36.66666,-89.95
 1986945049,Aegilops_cylindrica,46.403333,-116.756111
 1986972010,Aegilops_cylindrica,43.666667,-116.233333
 51740246,Aegilops_cylindrica,45.3411,-117.991
 2270462715,Aegilops_cylindrica,32.73398,-96.90628
-895303914,Aegilops_cylindrica,39.5,-0.5
 1259764996,Aegilops_cylindrica,38.86388,-90.16111
 1259581272,Aegilops_cylindrica,37.195,-93.286
 1697406923,Aegilops_cylindrica,57.441387,42.144911
@@ -322,7 +310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697723167,Aegilops_cylindrica,44.835026,34.930558
 1697406898,Aegilops_cylindrica,46.614486,41.732941
 176868016,Aegilops_cylindrica,37.98453,-101.75438
-1829610052,Aegilops_cylindrica,36.3,139.4
 176867034,Aegilops_cylindrica,37.61373,-101.75015
 176867050,Aegilops_cylindrica,39.23275,-99.30124
 176867049,Aegilops_cylindrica,39.8226,-100.1784
@@ -503,7 +490,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230490303,Aegilops_cylindrica,43.29472,22.00417
 2270636825,Aegilops_cylindrica,34.3844,-111.49
 1948497385,Aegilops_cylindrica,63.132517,21.540172
-1090547472,Aegilops_cylindrica,40.1333,-88.2
 1987004497,Aegilops_cylindrica,40.308599,-111.673713
 1987004827,Aegilops_cylindrica,40.11056,-88.20722
 176867113,Aegilops_cylindrica,37.322137,-98.528815
