@@ -85,7 +85,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843899321,Brickellia_eupatorioides,36.02098,-104.58693
 1849125950,Brickellia_eupatorioides,33.928,-80.7999
 176896007,Brickellia_eupatorioides,38.18097,-95.26485
-1322061903,Brickellia_eupatorioides,38.3844,-76.3814
 176895896,Brickellia_eupatorioides,38.1718299990831,-95.25911
 1843898188,Brickellia_eupatorioides,34.225,-105.7572
 1260453484,Brickellia_eupatorioides,36.800833,-92.722222
@@ -404,7 +403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261293264,Brickellia_eupatorioides,38.95,-90.06666
 2242368126,Brickellia_eupatorioides,39.801396,-105.174449
 1895523709,Brickellia_eupatorioides,23.566667,-99.651667
-1929805836,Brickellia_eupatorioides,18.73,-87.27
 176896107,Brickellia_eupatorioides,38.46954,-98.65437
 1895398213,Brickellia_eupatorioides,18.733333,-97.266667
 1259784305,Brickellia_eupatorioides,18.73333,-97.26666
@@ -788,9 +786,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176895711,Brickellia_eupatorioides,37.56213,-95.24959
 1895398227,Brickellia_eupatorioides,26.199056,-105.072181
 2270636056,Brickellia_eupatorioides,33.83,-110.86
-56596382,Brickellia_eupatorioides,30.24722,-88.08806
 176895721,Brickellia_eupatorioides,39.12774,-95.15037
-176895763,Brickellia_eupatorioides,38.957,-95.25016
 176895804,Brickellia_eupatorioides,37.47414,-95.33774
 924819719,Brickellia_eupatorioides,37.39512,-98.07718
 924819715,Brickellia_eupatorioides,37.26652,-98.7258
