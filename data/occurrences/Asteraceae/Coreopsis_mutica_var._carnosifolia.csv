@@ -56,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585293079,Coreopsis_mutica_var._carnosifolia,14.45,-90.16667
 1894564360,Coreopsis_mutica_var._carnosifolia,18.019583,-97.544972
 1897344484,Coreopsis_mutica_var._carnosifolia,18.075,-97.425
-2289449243,Coreopsis_mutica_var._carnosifolia,14.3,-89.133333
 2290548897,Coreopsis_mutica_var._carnosifolia,14.171167,-89.061667
 1897343185,Coreopsis_mutica_var._carnosifolia,16.016444,-95.967278
 1897343298,Coreopsis_mutica_var._carnosifolia,15.948056,-96.104167
@@ -73,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257667249,Coreopsis_mutica_var._carnosifolia,16.010833,-95.967222
 1257667301,Coreopsis_mutica_var._carnosifolia,16.002778,-95.9725
 1894642792,Coreopsis_mutica_var._carnosifolia,20.657778,-98.785833
-2289443178,Coreopsis_mutica_var._carnosifolia,14.291667,-89.2
 1897573758,Coreopsis_mutica_var._carnosifolia,16.015833,-95.9675
 1258952998,Coreopsis_mutica_var._carnosifolia,14.116667,-89.683333
 1585292991,Coreopsis_mutica_var._carnosifolia,14.11667,-89.68333
@@ -84,8 +82,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261044757,Coreopsis_mutica_var._carnosifolia,16.08,-96.23
 1895431788,Coreopsis_mutica_var._carnosifolia,16.217081,-96.23595
 1895431844,Coreopsis_mutica_var._carnosifolia,16.1007868417861,-96.2222434066994
-1893635561,Coreopsis_mutica_var._carnosifolia,16.1,-96.22222
-1261044774,Coreopsis_mutica_var._carnosifolia,16.2,-96.61
 1893690250,Coreopsis_mutica_var._carnosifolia,16.14861,-96.30972
 1895412311,Coreopsis_mutica_var._carnosifolia,17.459192,-97.919506
 1895423137,Coreopsis_mutica_var._carnosifolia,17.689722,-97.420278
@@ -103,8 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896204419,Coreopsis_mutica_var._carnosifolia,20.767778,-99.148889
 1895431776,Coreopsis_mutica_var._carnosifolia,16.18,-96.38667
 1893635571,Coreopsis_mutica_var._carnosifolia,16.08889,-96.245
-1261044159,Coreopsis_mutica_var._carnosifolia,16.2,-96.617
-1261044432,Coreopsis_mutica_var._carnosifolia,16.2,-96.616667
 1894642626,Coreopsis_mutica_var._carnosifolia,20.82964,-99.69547
 1896126579,Coreopsis_mutica_var._carnosifolia,21.063333,-101.223611
 1893663055,Coreopsis_mutica_var._carnosifolia,21.015,-101.255
@@ -122,7 +116,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259805730,Coreopsis_mutica_var._carnosifolia,16.89,-92.37
 1928689793,Coreopsis_mutica_var._carnosifolia,16.93078,-92.388
 1895363700,Coreopsis_mutica_var._carnosifolia,16.1048,-91.732725
-1259806098,Coreopsis_mutica_var._carnosifolia,16.2,-95.93333
 575172947,Coreopsis_mutica_var._carnosifolia,20.833333,-99.25
 1893663045,Coreopsis_mutica_var._carnosifolia,21.466667,-100.921667
 1259802368,Coreopsis_mutica_var._carnosifolia,14.561944,-90.693333
@@ -139,7 +132,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895213630,Coreopsis_mutica_var._carnosifolia,16.380833,-95.322778
 1258577143,Coreopsis_mutica_var._carnosifolia,16.872222,-92.370278
 1259804138,Coreopsis_mutica_var._carnosifolia,16.25,-92.166667
-1895422983,Coreopsis_mutica_var._carnosifolia,16.5,-96
 1894642041,Coreopsis_mutica_var._carnosifolia,20.9815,-100.010889
 1893663057,Coreopsis_mutica_var._carnosifolia,21.308333,-99.758333
 1893663078,Coreopsis_mutica_var._carnosifolia,20.521667,-99.893333
@@ -150,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894561239,Coreopsis_mutica_var._carnosifolia,17.592389,-97.417389
 1928469621,Coreopsis_mutica_var._carnosifolia,16.97,-96.25
 1895423037,Coreopsis_mutica_var._carnosifolia,16.966667,-96.25
-1421395146,Coreopsis_mutica_var._carnosifolia,16.166667,-92.2
 1259804933,Coreopsis_mutica_var._carnosifolia,16.17,-92.19
 1895363618,Coreopsis_mutica_var._carnosifolia,16.8690893006495,-92.7096625756933
 1895133946,Coreopsis_mutica_var._carnosifolia,16.868333,-92.709722
@@ -206,10 +197,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895461269,Coreopsis_mutica_var._carnosifolia,18.1576218835037,-97.5481229414064
 1895959486,Coreopsis_mutica_var._carnosifolia,18.1375,-97.542778
 1895959526,Coreopsis_mutica_var._carnosifolia,18.203611,-97.554722
-1261289190,Coreopsis_mutica_var._carnosifolia,16.7,-92.47
 1259806086,Coreopsis_mutica_var._carnosifolia,18.166667,-97.483333
 1893436078,Coreopsis_mutica_var._carnosifolia,18.008333,-97.458333
-1895959506,Coreopsis_mutica_var._carnosifolia,18.053056,-97.5
 1894680692,Coreopsis_mutica_var._carnosifolia,18.2051206444225,-97.536451817378
 1896126577,Coreopsis_mutica_var._carnosifolia,18.175,-97.475
 1896126575,Coreopsis_mutica_var._carnosifolia,18.203333,-97.538889
@@ -229,9 +218,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896139411,Coreopsis_mutica_var._carnosifolia,18.177778,-97.456944
 1895423038,Coreopsis_mutica_var._carnosifolia,16.941664,-96.287539
 1929585541,Coreopsis_mutica_var._carnosifolia,17.57,-97.4411
-1895959478,Coreopsis_mutica_var._carnosifolia,18.2,-97.472778
-1259805388,Coreopsis_mutica_var._carnosifolia,17.3,-96.45
-1929926977,Coreopsis_mutica_var._carnosifolia,17.3,-96.41
 1895452320,Coreopsis_mutica_var._carnosifolia,16.933333,-96.333333
 1895363610,Coreopsis_mutica_var._carnosifolia,16.851111,-92.484439
 1895363577,Coreopsis_mutica_var._carnosifolia,16.827814,-92.446267
@@ -253,7 +239,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896126566,Coreopsis_mutica_var._carnosifolia,20.66,-99.283333
 1893438775,Coreopsis_mutica_var._carnosifolia,18.158333,-97.025
 1259803575,Coreopsis_mutica_var._carnosifolia,16.099444,-91.634444
-1895278115,Coreopsis_mutica_var._carnosifolia,19.9,-98.686111
 1893436143,Coreopsis_mutica_var._carnosifolia,17.691667,-97.608333
 1894642657,Coreopsis_mutica_var._carnosifolia,20.780833,-99.774167
 1893663061,Coreopsis_mutica_var._carnosifolia,20.781667,-99.773333
@@ -269,7 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259802772,Coreopsis_mutica_var._carnosifolia,14.61916,-90.76861
 1259806057,Coreopsis_mutica_var._carnosifolia,15.37333,-90.51888
 1259803486,Coreopsis_mutica_var._carnosifolia,14.68305,-91.10166
-1895452279,Coreopsis_mutica_var._carnosifolia,17.416667,-96.5
 1895278181,Coreopsis_mutica_var._carnosifolia,19.8958757493739,-98.6414825740925
 1893436157,Coreopsis_mutica_var._carnosifolia,17.658333,-97.575
 1259806679,Coreopsis_mutica_var._carnosifolia,14.66361,-91.56083
@@ -308,7 +292,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259806250,Coreopsis_mutica_var._carnosifolia,15.324167,-91.555
 1929813074,Coreopsis_mutica_var._carnosifolia,17.33,-96.48
 1259802817,Coreopsis_mutica_var._carnosifolia,16.754722,-92.971111
-1259802292,Coreopsis_mutica_var._carnosifolia,16.83,-93.3
 1930936829,Coreopsis_mutica_var._carnosifolia,16.7531,-92.9731
 1895363627,Coreopsis_mutica_var._carnosifolia,16.7069,-93.0139
 1259804925,Coreopsis_mutica_var._carnosifolia,14.618333,-90.62
@@ -322,7 +305,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259802604,Coreopsis_mutica_var._carnosifolia,14.699722,-89.316111
 1928499294,Coreopsis_mutica_var._carnosifolia,17.92,-97.31
 1895278158,Coreopsis_mutica_var._carnosifolia,20.121389,-98.735278
-1929162841,Coreopsis_mutica_var._carnosifolia,17.1,-92.7108
 1893413504,Coreopsis_mutica_var._carnosifolia,17.108333,-92.725
 1895278113,Coreopsis_mutica_var._carnosifolia,20.141667,-98.729167
 1895461181,Coreopsis_mutica_var._carnosifolia,20.131544,-98.736111
@@ -337,14 +319,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931062974,Coreopsis_mutica_var._carnosifolia,16.8742,-92.4608
 1895363660,Coreopsis_mutica_var._carnosifolia,16.7293760876867,-92.727162612032
 1930779932,Coreopsis_mutica_var._carnosifolia,16.728608,-92.727219
-1895278137,Coreopsis_mutica_var._carnosifolia,20.136111,-98.7
 1895461304,Coreopsis_mutica_var._carnosifolia,20.1869950198169,-98.7391279005382
 1930332526,Coreopsis_mutica_var._carnosifolia,17.1675,-96.6067
 1895431790,Coreopsis_mutica_var._carnosifolia,16.0924555869643,-96.4653110997782
 1895363573,Coreopsis_mutica_var._carnosifolia,16.7058668450257,-92.4851408106869
-1928313279,Coreopsis_mutica_var._carnosifolia,16.7058,-92.5
 1895461194,Coreopsis_mutica_var._carnosifolia,17.722092,-97.666675
-1931105214,Coreopsis_mutica_var._carnosifolia,17.7,-97.6414
 1895423080,Coreopsis_mutica_var._carnosifolia,17.109753,-96.397589
 1928429770,Coreopsis_mutica_var._carnosifolia,16.08,-92.05
 1931364119,Coreopsis_mutica_var._carnosifolia,16.5206,-92.4339
@@ -384,5 +363,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931366739,Coreopsis_mutica_var._carnosifolia,20.0811,-98.3681
 1929083303,Coreopsis_mutica_var._carnosifolia,20.693328,-99.813328
 1895461265,Coreopsis_mutica_var._carnosifolia,19.1575,-99.449169
-1930209466,Coreopsis_mutica_var._carnosifolia,20.1,-98.71
 1895461242,Coreopsis_mutica_var._carnosifolia,20.2380829661711,-98.3214761626583
