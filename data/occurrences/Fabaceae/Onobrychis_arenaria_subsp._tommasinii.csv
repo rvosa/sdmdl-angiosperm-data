@@ -59,16 +59,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1881954166,Onobrychis_arenaria_subsp._tommasinii,48.79,10.62
 1881954133,Onobrychis_arenaria_subsp._tommasinii,48.82,10.45
 1638412696,Onobrychis_arenaria_subsp._tommasinii,42.15611,19.0875
-1881954872,Onobrychis_arenaria_subsp._tommasinii,48.79,10.7
 1881954827,Onobrychis_arenaria_subsp._tommasinii,48.79,10.63
 1881954801,Onobrychis_arenaria_subsp._tommasinii,48.79,10.61
-1881954204,Onobrychis_arenaria_subsp._tommasinii,48.8,10.68
 1839047646,Onobrychis_arenaria_subsp._tommasinii,38.423611,22.68
 1839047964,Onobrychis_arenaria_subsp._tommasinii,38.44194,22.83139
 1839047467,Onobrychis_arenaria_subsp._tommasinii,38.120831,22.052219
 1839047870,Onobrychis_arenaria_subsp._tommasinii,38.673611,22.97139
 1839047856,Onobrychis_arenaria_subsp._tommasinii,37.645561,22.1625
-1697565151,Onobrychis_arenaria_subsp._tommasinii,60.6,45.6
 1839048007,Onobrychis_arenaria_subsp._tommasinii,41.11417,24.32583
 1839047812,Onobrychis_arenaria_subsp._tommasinii,41.166939,24.05444
 1839047647,Onobrychis_arenaria_subsp._tommasinii,41.16222,24.37306
@@ -120,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212154231,Onobrychis_arenaria_subsp._tommasinii,41.282222,23.326667
 1839047804,Onobrychis_arenaria_subsp._tommasinii,41.102779,23.48278
 1212153963,Onobrychis_arenaria_subsp._tommasinii,41.074722,23.669722
-1881954195,Onobrychis_arenaria_subsp._tommasinii,48.8,10.69
 1839047623,Onobrychis_arenaria_subsp._tommasinii,41.098331,23.59861
 1212154213,Onobrychis_arenaria_subsp._tommasinii,41.102778,23.482778
 1839047884,Onobrychis_arenaria_subsp._tommasinii,41.074718,23.66972
@@ -130,7 +126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212153931,Onobrychis_arenaria_subsp._tommasinii,41.194722,23.385278
 1212153962,Onobrychis_arenaria_subsp._tommasinii,41.306944,23.531944
 1839047975,Onobrychis_arenaria_subsp._tommasinii,41.306938,23.53194
-1697565203,Onobrychis_arenaria_subsp._tommasinii,53.5,39
 1230998220,Onobrychis_arenaria_subsp._tommasinii,48.46361,20.17028
 1699695331,Onobrychis_arenaria_subsp._tommasinii,56.46,40.42
 1699695365,Onobrychis_arenaria_subsp._tommasinii,56.38,40.42
@@ -141,7 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563866162,Onobrychis_arenaria_subsp._tommasinii,40.033333,20.883333
 1935705760,Onobrychis_arenaria_subsp._tommasinii,47.21833,14.49972
 1881954181,Onobrychis_arenaria_subsp._tommasinii,48.83,10.73
-1881954247,Onobrychis_arenaria_subsp._tommasinii,48.8,10.65
 1881954250,Onobrychis_arenaria_subsp._tommasinii,48.83,10.45
 1839047982,Onobrychis_arenaria_subsp._tommasinii,38.884171,22.69944
 1839047955,Onobrychis_arenaria_subsp._tommasinii,38.825829,22.71139
@@ -164,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788781999,Onobrychis_arenaria_subsp._tommasinii,39.95,20.666667
 1697565181,Onobrychis_arenaria_subsp._tommasinii,52.776397,36.25436
 296505825,Onobrychis_arenaria_subsp._tommasinii,39.682,32.981
-2288543911,Onobrychis_arenaria_subsp._tommasinii,46.2,14.616667
 1563865846,Onobrychis_arenaria_subsp._tommasinii,41.083333,22.183333
 1144733369,Onobrychis_arenaria_subsp._tommasinii,41.13333,23.53333
 1697565119,Onobrychis_arenaria_subsp._tommasinii,51.573741,38.471836
@@ -179,7 +172,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935705811,Onobrychis_arenaria_subsp._tommasinii,47.19033,14.74431
 1839050696,Onobrychis_arenaria_subsp._tommasinii,41.127781,23.90667
 2312940440,Onobrychis_arenaria_subsp._tommasinii,50.17,10.28
-1587000741,Onobrychis_arenaria_subsp._tommasinii,37.583333,22.9
 1881954497,Onobrychis_arenaria_subsp._tommasinii,48.81,10.65
 1839050489,Onobrychis_arenaria_subsp._tommasinii,38.82806,21.795
 1697565245,Onobrychis_arenaria_subsp._tommasinii,55.399096,57.926585
@@ -191,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697565166,Onobrychis_arenaria_subsp._tommasinii,54.585255,46.123287
 1697565184,Onobrychis_arenaria_subsp._tommasinii,51.58173,37.615342
 1697565102,Onobrychis_arenaria_subsp._tommasinii,53.717695,37.264897
-1144733379,Onobrychis_arenaria_subsp._tommasinii,41,23.88333
 2312939516,Onobrychis_arenaria_subsp._tommasinii,48.82,10.62
 1697565175,Onobrychis_arenaria_subsp._tommasinii,50.625792,38.699015
 1144733336,Onobrychis_arenaria_subsp._tommasinii,41.35,23.68333
@@ -200,8 +191,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2312941255,Onobrychis_arenaria_subsp._tommasinii,50.01,10.53
 2312941335,Onobrychis_arenaria_subsp._tommasinii,50.19,10.36
 2312940608,Onobrychis_arenaria_subsp._tommasinii,50.27,10.51
-1947348264,Onobrychis_arenaria_subsp._tommasinii,50.27,10.2
-2312940637,Onobrychis_arenaria_subsp._tommasinii,50.23,10.2
 1947348218,Onobrychis_arenaria_subsp._tommasinii,49.97,9.79
 1947348234,Onobrychis_arenaria_subsp._tommasinii,50.12,9.96
 1697565200,Onobrychis_arenaria_subsp._tommasinii,52.028009,40.577214
@@ -224,7 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697565138,Onobrychis_arenaria_subsp._tommasinii,50.196643,38.110948
 2312939625,Onobrychis_arenaria_subsp._tommasinii,50.27,10.38
 2312939871,Onobrychis_arenaria_subsp._tommasinii,50.31,10.36
-2312939869,Onobrychis_arenaria_subsp._tommasinii,50.18,10.2
 2312941235,Onobrychis_arenaria_subsp._tommasinii,50.33,10.51
 2312940987,Onobrychis_arenaria_subsp._tommasinii,50.29,10.22
 2312941700,Onobrychis_arenaria_subsp._tommasinii,50.32,10.34
@@ -244,7 +232,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697565144,Onobrychis_arenaria_subsp._tommasinii,50.493072,40.003076
 1697565168,Onobrychis_arenaria_subsp._tommasinii,54.369861,38.56975
 1563866900,Onobrychis_arenaria_subsp._tommasinii,46.507778,27.832222
-442114970,Onobrychis_arenaria_subsp._tommasinii,54.366665,59.5
 1697565123,Onobrychis_arenaria_subsp._tommasinii,55.672605,37.932791
 1701541301,Onobrychis_arenaria_subsp._tommasinii,48.00222,16.51778
 1935705827,Onobrychis_arenaria_subsp._tommasinii,47.21639,14.48167
@@ -256,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935705817,Onobrychis_arenaria_subsp._tommasinii,47.20139,14.44167
 1697565153,Onobrychis_arenaria_subsp._tommasinii,52.141548,41.152089
 1935705853,Onobrychis_arenaria_subsp._tommasinii,47.21778,14.56583
-2288839331,Onobrychis_arenaria_subsp._tommasinii,47.966667,16.8
 1988062781,Onobrychis_arenaria_subsp._tommasinii,45.902778,8.978611
 1697565226,Onobrychis_arenaria_subsp._tommasinii,53.844292,55.32279
 1697565209,Onobrychis_arenaria_subsp._tommasinii,53.818631,55.413899
@@ -268,17 +254,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697565128,Onobrychis_arenaria_subsp._tommasinii,53.606298,39.032938
 1697565145,Onobrychis_arenaria_subsp._tommasinii,53.496958,39.332654
 1989606237,Onobrychis_arenaria_subsp._tommasinii,46.21163,7.61127
-1586999423,Onobrychis_arenaria_subsp._tommasinii,41.1,23.683333
 1697565217,Onobrychis_arenaria_subsp._tommasinii,55.997441,55.914341
 1341136425,Onobrychis_arenaria_subsp._tommasinii,49.82,9.87
 1341136515,Onobrychis_arenaria_subsp._tommasinii,49.87,9.87
-1563870263,Onobrychis_arenaria_subsp._tommasinii,40.6,22.983333
 1563866411,Onobrychis_arenaria_subsp._tommasinii,41.083333,23.55
 1563866439,Onobrychis_arenaria_subsp._tommasinii,41.066667,24.05
 1563866596,Onobrychis_arenaria_subsp._tommasinii,41.183333,23.966667
 1697565169,Onobrychis_arenaria_subsp._tommasinii,51.588602,36.166595
 1697565220,Onobrychis_arenaria_subsp._tommasinii,53.342536,60.734927
-1563865916,Onobrychis_arenaria_subsp._tommasinii,38,22.483333
 1341136331,Onobrychis_arenaria_subsp._tommasinii,49.96,9.77
 1697565233,Onobrychis_arenaria_subsp._tommasinii,53.969589,54.23015
 1697565232,Onobrychis_arenaria_subsp._tommasinii,53.946198,54.334029
