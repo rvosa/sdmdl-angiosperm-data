@@ -9,8 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937354449,Pterocaulon_sphacelatum,-30.689208,137.271268
 1915884161,Pterocaulon_sphacelatum,-31.080235,141.697369
 1652386206,Pterocaulon_sphacelatum,-25.52835,142.906382
-1805872489,Pterocaulon_sphacelatum,-21.99532,114.51106
-1805872589,Pterocaulon_sphacelatum,-22.0284,114.5141
 1937364256,Pterocaulon_sphacelatum,-25.40156,138.49343
 1937271183,Pterocaulon_sphacelatum,-29.517184,126.499995
 1257343770,Pterocaulon_sphacelatum,-19.801111,130.400556
@@ -77,7 +75,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1805869960,Pterocaulon_sphacelatum,-26.55168,119.965869
 993720364,Pterocaulon_sphacelatum,-33.0956,141.1256
 995447445,Pterocaulon_sphacelatum,-25.892222,133.184444
-996962692,Pterocaulon_sphacelatum,-17.507389,122.152111
 1652361208,Pterocaulon_sphacelatum,-20.462778,140.348333
 1652361209,Pterocaulon_sphacelatum,-18.200556,142.873056
 993644191,Pterocaulon_sphacelatum,-20.4628,140.3483
@@ -113,7 +110,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937166375,Pterocaulon_sphacelatum,-21.4061,148.5439
 1805865569,Pterocaulon_sphacelatum,-16.373,124.2314
 1805865495,Pterocaulon_sphacelatum,-16.2547,123.8243
-1805865518,Pterocaulon_sphacelatum,-16.22372,123.453343
 1652379706,Pterocaulon_sphacelatum,-25.11633,138.394336
 1652366575,Pterocaulon_sphacelatum,-18.66088,138.489816
 992069842,Pterocaulon_sphacelatum,-31.231667,136.470833
@@ -121,15 +117,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257377670,Pterocaulon_sphacelatum,-19.4206,133.4569
 1652339128,Pterocaulon_sphacelatum,-26.662783,143.330538
 1652339118,Pterocaulon_sphacelatum,-26.851915,142.971155
-996233063,Pterocaulon_sphacelatum,-15.602,136.785
-994400496,Pterocaulon_sphacelatum,-15.6019,136.7852
 1652338921,Pterocaulon_sphacelatum,-25.53496,144.236896
 995424960,Pterocaulon_sphacelatum,-25.5364,144.2358
 995542228,Pterocaulon_sphacelatum,-25.536389,144.235833
 1257377413,Pterocaulon_sphacelatum,-25.9833,129.4583
 1805872754,Pterocaulon_sphacelatum,-15.803056,128.765556
-996929110,Pterocaulon_sphacelatum,-16.579716,122.779895
-1805865529,Pterocaulon_sphacelatum,-15.2618,124.4443
 994407762,Pterocaulon_sphacelatum,-25.133889,138.656667
 994395718,Pterocaulon_sphacelatum,-21.175802,139.788093
 996959405,Pterocaulon_sphacelatum,-17.51271,126.10921
@@ -155,11 +147,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1454426131,Pterocaulon_sphacelatum,-27.16412,140.68607
 1454381677,Pterocaulon_sphacelatum,-27.28657,140.58034
 992070085,Pterocaulon_sphacelatum,-27.223889,140.666667
-993643045,Pterocaulon_sphacelatum,-14.1639,144.2497
 1257376261,Pterocaulon_sphacelatum,-23.8722,136.7392
 1652270637,Pterocaulon_sphacelatum,-24.823604,140.643516
 1257374577,Pterocaulon_sphacelatum,-23.055,136.9855
-1805865494,Pterocaulon_sphacelatum,-14.5887,125.1875
 996906839,Pterocaulon_sphacelatum,-22.600278,119.956111
 996905674,Pterocaulon_sphacelatum,-27.498611,115.670944
 1257375017,Pterocaulon_sphacelatum,-24.7267,132.3153
@@ -189,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937348827,Pterocaulon_sphacelatum,-21.843917,116.353222
 996949274,Pterocaulon_sphacelatum,-21.84392,116.35322
 996949284,Pterocaulon_sphacelatum,-21.46869,120.00658
-1456260567,Pterocaulon_sphacelatum,-21.734,15.8082
 995442920,Pterocaulon_sphacelatum,-23.227583,118.246583
 996949181,Pterocaulon_sphacelatum,-22.58386,118.29067
 996949189,Pterocaulon_sphacelatum,-23.41608,117.86969
@@ -216,7 +205,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257370767,Pterocaulon_sphacelatum,-21.8967,132.1132
 996204383,Pterocaulon_sphacelatum,-17.846,145.142
 1652317266,Pterocaulon_sphacelatum,-22.925,142.191667
-996949019,Pterocaulon_sphacelatum,-20.85106,116.37678
 994408599,Pterocaulon_sphacelatum,-17.475,145.426389
 996949130,Pterocaulon_sphacelatum,-20.80778,117.07222
 996853899,Pterocaulon_sphacelatum,-25.636333,118.723361
@@ -268,7 +256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996949096,Pterocaulon_sphacelatum,-22.42847,119.09558
 992037031,Pterocaulon_sphacelatum,-22.443226,119.089995
 995442945,Pterocaulon_sphacelatum,-23.213861,119.202556
-1142172907,Pterocaulon_sphacelatum,-15.3322,145.3506
 1937147750,Pterocaulon_sphacelatum,-22.467167,119.085556
 996843727,Pterocaulon_sphacelatum,-22.443106,119.090237
 996949066,Pterocaulon_sphacelatum,-23.27908,119.24261
@@ -299,7 +286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995370075,Pterocaulon_sphacelatum,-24.4567,124.4286
 994371804,Pterocaulon_sphacelatum,-18.2256,127.6706
 996794848,Pterocaulon_sphacelatum,-24.4568,124.4286
-994380496,Pterocaulon_sphacelatum,-17.091836,139.626652
 996754582,Pterocaulon_sphacelatum,-25.683333,121.791667
 1652304700,Pterocaulon_sphacelatum,-17.359722,142.216944
 1257333974,Pterocaulon_sphacelatum,-18.7414,137.2861
@@ -327,7 +313,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995871258,Pterocaulon_sphacelatum,-32.224444,142.028333
 1499286509,Pterocaulon_sphacelatum,-32.39,142.28
 992007857,Pterocaulon_sphacelatum,-32.223132,142.029368
-996701630,Pterocaulon_sphacelatum,-20.366595,115.534502
 1257362646,Pterocaulon_sphacelatum,-22.9272,131.4756
 1257361716,Pterocaulon_sphacelatum,-23.3217,130.3486
 1451584908,Pterocaulon_sphacelatum,-32.222934,142.029612
@@ -392,7 +377,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652213217,Pterocaulon_sphacelatum,-20.748609,139.417592
 1652167547,Pterocaulon_sphacelatum,-27.723566,147.725868
 1257358786,Pterocaulon_sphacelatum,-23.698565,133.834565
-993722940,Pterocaulon_sphacelatum,-35.2667,149.1
 1257356166,Pterocaulon_sphacelatum,-23.703571,133.834873
 1085276575,Pterocaulon_sphacelatum,-27.78219,136.6435
 992612962,Pterocaulon_sphacelatum,-27.783611,136.642222
@@ -420,14 +404,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085194988,Pterocaulon_sphacelatum,-26.92708,139.40291
 992600980,Pterocaulon_sphacelatum,-26.926944,139.402778
 1652100458,Pterocaulon_sphacelatum,-18.673615,138.392594
-994358979,Pterocaulon_sphacelatum,-16.731834,145.66774
 1652172761,Pterocaulon_sphacelatum,-24.139441,139.53122
 996552101,Pterocaulon_sphacelatum,-23.75,122.52
 1257354289,Pterocaulon_sphacelatum,-19.106079,131.862634
-994764787,Pterocaulon_sphacelatum,-11.8353,135.8719
 994763567,Pterocaulon_sphacelatum,-12.0986,134.4011
 1652165198,Pterocaulon_sphacelatum,-25.878334,139.062069
-1257319184,Pterocaulon_sphacelatum,-11.833844,135.87311
 996630427,Pterocaulon_sphacelatum,-25.059722,119.386389
 995117708,Pterocaulon_sphacelatum,-25.0597,119.3864
 992588129,Pterocaulon_sphacelatum,-26.063611,129.399167
@@ -451,7 +432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992579778,Pterocaulon_sphacelatum,-29.655833,137.671389
 1937254996,Pterocaulon_sphacelatum,-31.25,142.3
 995514541,Pterocaulon_sphacelatum,-30.883333,142.65
-996801949,Pterocaulon_sphacelatum,-22,114
 1085220808,Pterocaulon_sphacelatum,-26.4608,134.89888
 1085220403,Pterocaulon_sphacelatum,-26.26848,135.68903
 992610310,Pterocaulon_sphacelatum,-26.268333,135.688889
@@ -495,8 +475,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936911857,Pterocaulon_sphacelatum,-30.5,139.25
 994377284,Pterocaulon_sphacelatum,-15.9,142.1167
 996381956,Pterocaulon_sphacelatum,-18,124
-996364927,Pterocaulon_sphacelatum,-14.75,128.32
-993446161,Pterocaulon_sphacelatum,-14.75,128.3167
 994927078,Pterocaulon_sphacelatum,-15.7833,144.05
 996391801,Pterocaulon_sphacelatum,-16.678333,128.646667
 992554969,Pterocaulon_sphacelatum,-28.716667,136.183333
@@ -547,7 +525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996248271,Pterocaulon_sphacelatum,-17.6,128.5
 995063609,Pterocaulon_sphacelatum,-17.2667,128.5833
 996246616,Pterocaulon_sphacelatum,-26.216667,128.016667
-994344306,Pterocaulon_sphacelatum,-16.431962,123.084617
 992526864,Pterocaulon_sphacelatum,-27.354,133.977
 992542356,Pterocaulon_sphacelatum,-26.279278,133.431896
 992518611,Pterocaulon_sphacelatum,-29.37,137.76
@@ -584,11 +561,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994272084,Pterocaulon_sphacelatum,-25.581891,134.501275
 994324969,Pterocaulon_sphacelatum,-16.081896,134.884523
 994324957,Pterocaulon_sphacelatum,-16.065234,134.867863
-994272909,Pterocaulon_sphacelatum,-15.74856,137.084495
 994330630,Pterocaulon_sphacelatum,-24.048574,132.751278
 993344304,Pterocaulon_sphacelatum,-25.35,131.0167
 994332779,Pterocaulon_sphacelatum,-25.348591,131.017972
-996879496,Pterocaulon_sphacelatum,-21.466667,115.016667
 995075825,Pterocaulon_sphacelatum,-28.1833,135.8333
 1937261219,Pterocaulon_sphacelatum,-31.27,141.3
 993907702,Pterocaulon_sphacelatum,-31.2667,141.3
@@ -601,7 +576,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994268964,Pterocaulon_sphacelatum,-23.631898,134.451252
 992487650,Pterocaulon_sphacelatum,-26.45,135.17
 993926244,Pterocaulon_sphacelatum,-26.45,135.1667
-994370526,Pterocaulon_sphacelatum,-11.9833,134.2667
 1456220468,Pterocaulon_sphacelatum,-26.47,135.48
 992487627,Pterocaulon_sphacelatum,-26.465378,135.484381
 992488532,Pterocaulon_sphacelatum,-31.532044,138.334399
@@ -611,7 +585,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993440977,Pterocaulon_sphacelatum,-24.8167,114.4167
 2303142315,Pterocaulon_sphacelatum,-29.983333,139.675
 992490396,Pterocaulon_sphacelatum,-32.015374,139.167729
-996879509,Pterocaulon_sphacelatum,-21.333333,115.166667
 996981518,Pterocaulon_sphacelatum,-24.816667,114.416667
 992491178,Pterocaulon_sphacelatum,-29.982029,139.667706
 1937052469,Pterocaulon_sphacelatum,-32.02,139.17
@@ -665,9 +638,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995516098,Pterocaulon_sphacelatum,-28.733333,136.041667
 992415658,Pterocaulon_sphacelatum,-28.732048,136.034394
 995045341,Pterocaulon_sphacelatum,-13.9333,126.7167
-996309781,Pterocaulon_sphacelatum,-13.958333,126.516667
 1257348734,Pterocaulon_sphacelatum,-25.298616,129.167989
-995045347,Pterocaulon_sphacelatum,-13.9583,126.5167
 995050520,Pterocaulon_sphacelatum,-16.7667,122.7417
 994324510,Pterocaulon_sphacelatum,-29.015203,138.467937
 1937247940,Pterocaulon_sphacelatum,-21.506944,121.133333
@@ -698,9 +669,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996673938,Pterocaulon_sphacelatum,-16.283333,125.833333
 415904060,Pterocaulon_sphacelatum,-14.5,144.11666
 994341171,Pterocaulon_sphacelatum,-14.498524,144.117751
-993305513,Pterocaulon_sphacelatum,-14.1167,129.5167
 992408963,Pterocaulon_sphacelatum,-30.725382,137.200513
-994312362,Pterocaulon_sphacelatum,-14.129404,129.501229
 996879459,Pterocaulon_sphacelatum,-20.783333,116.766667
 992418012,Pterocaulon_sphacelatum,-26.883126,140.619338
 994261497,Pterocaulon_sphacelatum,-20.598558,134.851225
@@ -728,11 +697,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992396244,Pterocaulon_sphacelatum,-26.995948,133.271625
 992475944,Pterocaulon_sphacelatum,-31.412598,138.541619
 993299661,Pterocaulon_sphacelatum,-31.4167,138.55
-996983438,Pterocaulon_sphacelatum,-24.969722,113.658333
 994259399,Pterocaulon_sphacelatum,-27.048583,132.467984
 994262500,Pterocaulon_sphacelatum,-15.715194,143.71776
-996668646,Pterocaulon_sphacelatum,-19.966667,119.766667
-996953654,Pterocaulon_sphacelatum,-20.571389,116.803056
 992385234,Pterocaulon_sphacelatum,-24.911483,135.682147
 996011171,Pterocaulon_sphacelatum,-28,147.25
 1937094053,Pterocaulon_sphacelatum,-22.25,142.08
@@ -764,11 +730,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652062581,Pterocaulon_sphacelatum,-22.415258,143.084228
 992461791,Pterocaulon_sphacelatum,-31.126961,150.717586
 994825729,Pterocaulon_sphacelatum,-24.0667,132.2667
-1061545203,Pterocaulon_sphacelatum,-15.4819,141.4842
 992416344,Pterocaulon_sphacelatum,-30.57,139.39
 994253997,Pterocaulon_sphacelatum,-24.065256,132.267949
 992378703,Pterocaulon_sphacelatum,-26.715381,135.06772
-1652030178,Pterocaulon_sphacelatum,-15.490281,141.492553
 996879421,Pterocaulon_sphacelatum,-22.7,117.8
 1257400121,Pterocaulon_sphacelatum,-14.7583,141.625
 992373531,Pterocaulon_sphacelatum,-26.515356,139.284348
@@ -781,7 +745,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994252033,Pterocaulon_sphacelatum,-20.24862,126.567958
 996673733,Pterocaulon_sphacelatum,-22.5,122.4
 994252462,Pterocaulon_sphacelatum,-22.53199,122.401335
-1257399678,Pterocaulon_sphacelatum,-16.7583,139.1431
 993838836,Pterocaulon_sphacelatum,-19.5833,129.2
 995206598,Pterocaulon_sphacelatum,-22.9167,138.8
 1257307564,Pterocaulon_sphacelatum,-17.415272,128.834582
@@ -908,7 +871,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994299862,Pterocaulon_sphacelatum,-15.581919,131.101226
 993446075,Pterocaulon_sphacelatum,-15.2833,125.0667
 993851229,Pterocaulon_sphacelatum,-22.9833,143.75
-996673322,Pterocaulon_sphacelatum,-19.96,119.77
 993894912,Pterocaulon_sphacelatum,-23,143.25
 996674149,Pterocaulon_sphacelatum,-20.6,119.1
 1937317289,Pterocaulon_sphacelatum,-17.233333,131.05
@@ -921,12 +883,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651992315,Pterocaulon_sphacelatum,-20.723608,139.659257
 992499469,Pterocaulon_sphacelatum,-32.062035,139.886612
 1936852299,Pterocaulon_sphacelatum,-12.87,132.82
-994360219,Pterocaulon_sphacelatum,-14.231852,145.467727
-995255034,Pterocaulon_sphacelatum,-13.9333,126.55
 992255153,Pterocaulon_sphacelatum,-25.95,131.78
 1651955551,Pterocaulon_sphacelatum,-20.748608,139.584257
 1257301259,Pterocaulon_sphacelatum,-25.948588,131.784638
-996673543,Pterocaulon_sphacelatum,-20.883056,115.326667
 992254325,Pterocaulon_sphacelatum,-25.9,131.8
 994243059,Pterocaulon_sphacelatum,-25.831923,131.834635
 993795598,Pterocaulon_sphacelatum,-31.0833,138.7833
@@ -1037,8 +996,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651992391,Pterocaulon_sphacelatum,-27.356918,144.27591
 992556245,Pterocaulon_sphacelatum,-27.133333,132.583333
 992197011,Pterocaulon_sphacelatum,-28.237603,135.903002
-994230708,Pterocaulon_sphacelatum,-11.154196,132.144494
-992211971,Pterocaulon_sphacelatum,-11.17,132.15
 996001130,Pterocaulon_sphacelatum,-31.97,141.45
 1451636832,Pterocaulon_sphacelatum,-31.965161,141.451284
 992176403,Pterocaulon_sphacelatum,-33.082592,140.330229
@@ -1053,7 +1010,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996011267,Pterocaulon_sphacelatum,-25.55,134.95
 995254965,Pterocaulon_sphacelatum,-24.2667,134.8
 993294215,Pterocaulon_sphacelatum,-20.7667,139.4833
-993294243,Pterocaulon_sphacelatum,-15.7,136.7667
 992273078,Pterocaulon_sphacelatum,-30.376477,139.354656
 992351167,Pterocaulon_sphacelatum,-19.548427,133.929632
 993441191,Pterocaulon_sphacelatum,-22.6833,116.2333
@@ -1070,7 +1026,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994295408,Pterocaulon_sphacelatum,-14.348582,132.13454
 992192002,Pterocaulon_sphacelatum,-14.465378,132.267682
 994221234,Pterocaulon_sphacelatum,-14.498584,132.251209
-996749311,Pterocaulon_sphacelatum,-20.8,115.4
 992198007,Pterocaulon_sphacelatum,-12.45,130.83
 996011219,Pterocaulon_sphacelatum,-14.47,132.27
 1651992321,Pterocaulon_sphacelatum,-22.08191,146.917514
@@ -1084,8 +1039,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994220264,Pterocaulon_sphacelatum,-23.648571,133.86793
 996673625,Pterocaulon_sphacelatum,-24.975,128.251
 996737981,Pterocaulon_sphacelatum,-21.683333,115.133333
-996673500,Pterocaulon_sphacelatum,-21.594722,114.933333
-996737574,Pterocaulon_sphacelatum,-21.733333,114.866667
 996674311,Pterocaulon_sphacelatum,-22.5,117.5
 992136938,Pterocaulon_sphacelatum,-30.230094,138.452164
 992137144,Pterocaulon_sphacelatum,-30.18,139.44
@@ -1114,15 +1067,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937158579,Pterocaulon_sphacelatum,-23.7,133.87
 995255029,Pterocaulon_sphacelatum,-23.7,133.8667
 1936875816,Pterocaulon_sphacelatum,-28.066667,144.75
-464882054,Pterocaulon_sphacelatum,-20.08222,164.00111
-992129091,Pterocaulon_sphacelatum,-11.115383,132.334342
-996011318,Pterocaulon_sphacelatum,-11.12,132.32
-995255044,Pterocaulon_sphacelatum,-11.1167,132.3167
 996673634,Pterocaulon_sphacelatum,-23.673056,116.241389
 992116454,Pterocaulon_sphacelatum,-31.197876,138.468005
 996674274,Pterocaulon_sphacelatum,-26.22,126.58
 992354733,Pterocaulon_sphacelatum,-30.592596,138.399945
-996674208,Pterocaulon_sphacelatum,-21.46,114.98
 992241503,Pterocaulon_sphacelatum,-17.865384,130.334371
 996673677,Pterocaulon_sphacelatum,-22.238056,118.534722
 993176536,Pterocaulon_sphacelatum,-26.9667,133.3333
@@ -1218,8 +1166,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994226770,Pterocaulon_sphacelatum,-17.465194,140.834466
 992110679,Pterocaulon_sphacelatum,-13.65,134.42
 992311065,Pterocaulon_sphacelatum,-26.9,133.5
-993441215,Pterocaulon_sphacelatum,-20.3833,115.55
-993257959,Pterocaulon_sphacelatum,-20.4,115.5667
 2290169448,Pterocaulon_sphacelatum,-8.47,126.44
 1651992269,Pterocaulon_sphacelatum,-23.081918,144.584214
 992154739,Pterocaulon_sphacelatum,-30.4362,139.1047
@@ -1237,16 +1183,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995254242,Pterocaulon_sphacelatum,-24.4167,115.0833
 993187453,Pterocaulon_sphacelatum,-34.6,146.4167
 995475751,Pterocaulon_sphacelatum,-28.016667,147.316667
-996011291,Pterocaulon_sphacelatum,-13.75,136.1
 995254810,Pterocaulon_sphacelatum,-19.5667,146.6167
 992095540,Pterocaulon_sphacelatum,-16.716667,138.116667
 1937321883,Pterocaulon_sphacelatum,-17.87,138.57
-995254744,Pterocaulon_sphacelatum,-13.75,136.1667
 1651992252,Pterocaulon_sphacelatum,-17.915282,138.584256
 994226705,Pterocaulon_sphacelatum,-17.88187,138.584497
 1936955157,Pterocaulon_sphacelatum,-17.8833,138.5833
 996011029,Pterocaulon_sphacelatum,-16.75,138.08
-992110216,Pterocaulon_sphacelatum,-13.7,136.1
 993162225,Pterocaulon_sphacelatum,-27.9833,143.8167
 993114560,Pterocaulon_sphacelatum,-18.75,136.4667
 1321864517,Pterocaulon_sphacelatum,-12.3,133.07
@@ -1324,7 +1267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993210765,Pterocaulon_sphacelatum,-16.7167,138.1333
 992360760,Pterocaulon_sphacelatum,-24.707,133.526
 992308642,Pterocaulon_sphacelatum,-29.58,139.05
-2291303096,Pterocaulon_sphacelatum,-6.9,115.333333
 996010760,Pterocaulon_sphacelatum,-15.5,124.6
 992334906,Pterocaulon_sphacelatum,-27.732016,140.767677
 996011179,Pterocaulon_sphacelatum,-13.05,131.02
@@ -1337,7 +1279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995254677,Pterocaulon_sphacelatum,-23.9167,132.7667
 995254783,Pterocaulon_sphacelatum,-14.4667,132.2667
 1651992335,Pterocaulon_sphacelatum,-22.915272,139.917598
-996011070,Pterocaulon_sphacelatum,-19.12,146.82
 996010741,Pterocaulon_sphacelatum,-17.42,124.97
 1937033524,Pterocaulon_sphacelatum,-16.97,125.55
 996673724,Pterocaulon_sphacelatum,-22.6925,115.2906
