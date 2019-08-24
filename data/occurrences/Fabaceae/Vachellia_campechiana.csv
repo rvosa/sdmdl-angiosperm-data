@@ -30,14 +30,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257892355,Vachellia_campechiana,19.033333,-102.0475
 2268860633,Vachellia_campechiana,26.34833,-108.66409
 1675951427,Vachellia_campechiana,26.3483,-108.664
-1094861063,Vachellia_campechiana,21.663889,-106.626389
 1419170391,Vachellia_campechiana,16.937222,-93.178056
 1846486652,Vachellia_campechiana,29.492283,-109.198883
 1419168796,Vachellia_campechiana,16.088889,-93.416944
 1257784008,Vachellia_campechiana,29.64335,-109.658217
 2270547464,Vachellia_campechiana,29.64,-109.65
 1893313049,Vachellia_campechiana,19.514444,-90.445833
-1260764916,Vachellia_campechiana,15.738333,-96.813611
 1419155737,Vachellia_campechiana,16.274722,-92.5475
 1259709197,Vachellia_campechiana,16.160833,-93.551389
 1419155588,Vachellia_campechiana,16.678333,-93.565278
@@ -48,7 +46,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259536889,Vachellia_campechiana,15.845278,-95.983611
 1931344114,Vachellia_campechiana,28.2958,-108.7958
 1257667151,Vachellia_campechiana,15.846667,-95.9675
-1257667138,Vachellia_campechiana,16.021111,-95.420556
 1931159508,Vachellia_campechiana,28.3119,-109.2828
 1894825000,Vachellia_campechiana,23.841667,-110.258333
 1894824997,Vachellia_campechiana,23.925,-110.191667
@@ -95,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259538407,Vachellia_campechiana,16.2,-95.18333
 1419161270,Vachellia_campechiana,16.965278,-93.104722
 1893527280,Vachellia_campechiana,23.808333,-110.108333
-1259537192,Vachellia_campechiana,18.733056,-110.952222
 1258553587,Vachellia_campechiana,16.96,-93.11
 1259538070,Vachellia_campechiana,18.58,-97.91
 1989479011,Vachellia_campechiana,16.4826,-94.0723
@@ -339,8 +335,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931019837,Vachellia_campechiana,23.40969,-106.04469
 1988711066,Vachellia_campechiana,23.0744,-106.146
 1259539387,Vachellia_campechiana,23.466667,-106.266667
-1928100733,Vachellia_campechiana,21.62164,-106.58169
-1259538763,Vachellia_campechiana,21.641667,-106.563611
 1936046766,Vachellia_campechiana,20.6372,-89.6731
 1928359465,Vachellia_campechiana,25.6,-109.04969
 1930146365,Vachellia_campechiana,26.4161,-108.6172
