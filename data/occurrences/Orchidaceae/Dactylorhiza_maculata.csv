@@ -30,7 +30,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702374304,Dactylorhiza_maculata,59.266,11.498
 1697349954,Dactylorhiza_maculata,56.724292,40.595207
 1801060191,Dactylorhiza_maculata,62.52625,70.79882
-1702249164,Dactylorhiza_maculata,63.0485,11.6
 1606519865,Dactylorhiza_maculata,61.453036,24.272912
 1697445164,Dactylorhiza_maculata,64.941,37.073
 1697445212,Dactylorhiza_maculata,64.94144,37.07289
@@ -45,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702169477,Dactylorhiza_maculata,59.5952,11.1262
 1697349905,Dactylorhiza_maculata,56.5057,32.965
 932708679,Dactylorhiza_maculata,42.2764,-7.54832
-1701283494,Dactylorhiza_maculata,62.6,7.0996
 1598874656,Dactylorhiza_maculata,67.923811,23.815008
 1702168936,Dactylorhiza_maculata,59.3033,11.5459
 1598874652,Dactylorhiza_maculata,60.375113,25.074403
@@ -109,7 +107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2320240793,Dactylorhiza_maculata,68.053356,16.318517
 2321865247,Dactylorhiza_maculata,67.977452,16.527178
 1702242757,Dactylorhiza_maculata,59.1237,5.5761
-317819361,Dactylorhiza_maculata,43.3,-2.082
 1701611686,Dactylorhiza_maculata,59.2122,8.902
 1701835838,Dactylorhiza_maculata,59.2163,9.9196
 1438585103,Dactylorhiza_maculata,59.31807,28.0713
@@ -293,12 +290,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211625112,Dactylorhiza_maculata,43.400002,-5.11
 211625177,Dactylorhiza_maculata,42.990002,-5.77
 1851337260,Dactylorhiza_maculata,42.8994,-5.5385
-1851343724,Dactylorhiza_maculata,42.3,-6.325
 1697445251,Dactylorhiza_maculata,55.516667,31.966667
 1851574891,Dactylorhiza_maculata,38.06,-2.58
 895164293,Dactylorhiza_maculata,40.1901,-1.7824
 1851574676,Dactylorhiza_maculata,40.47,-1.62
-1697445252,Dactylorhiza_maculata,55.6,32.016667
 1701969453,Dactylorhiza_maculata,65.6159,14.0199
 1701296642,Dactylorhiza_maculata,64.0177,10.0206
 1851407860,Dactylorhiza_maculata,42.237,-6.328
@@ -320,7 +315,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702076827,Dactylorhiza_maculata,62.5697,11.6758
 186804441,Dactylorhiza_maculata,59.2465,7.437
 1701224059,Dactylorhiza_maculata,62.5601,8.0323
-1050626195,Dactylorhiza_maculata,42.7,-2.49
 1050626235,Dactylorhiza_maculata,42.66,-2.49
 1050628408,Dactylorhiza_maculata,43.13,-3.43
 186804405,Dactylorhiza_maculata,58.5988,7.4281
@@ -330,7 +324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702205433,Dactylorhiza_maculata,59.3349,11.7608
 895152313,Dactylorhiza_maculata,40.3762,-1.8285
 895152337,Dactylorhiza_maculata,40.2245,-1.7982
-895153386,Dactylorhiza_maculata,37.95,14.7
 1702190808,Dactylorhiza_maculata,61.3252,11.625
 1701338095,Dactylorhiza_maculata,64.0735,9.9522
 1999485849,Dactylorhiza_maculata,70.087407,27.954027
@@ -338,8 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186804409,Dactylorhiza_maculata,58.8636,6.7988
 186804373,Dactylorhiza_maculata,59.641,7.4125
 1702219541,Dactylorhiza_maculata,60.4871,11.3413
-1697445242,Dactylorhiza_maculata,55.6,31.9
-1050626230,Dactylorhiza_maculata,42.7,-2.51
 1702255142,Dactylorhiza_maculata,60.0855,12.0668
 1342384179,Dactylorhiza_maculata,56.728846,9.448103
 1851341535,Dactylorhiza_maculata,42.848,-6.265
@@ -487,7 +478,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702023261,Dactylorhiza_maculata,60.425,10.2432
 860316925,Dactylorhiza_maculata,40.85,0.33
 211625157,Dactylorhiza_maculata,43.16,-1.03
-1050579282,Dactylorhiza_maculata,43.2,-0.97
 895311883,Dactylorhiza_maculata,42.64,-0.26
 1701929175,Dactylorhiza_maculata,59.0544,10.9273
 895277338,Dactylorhiza_maculata,40.467,-1.626
@@ -674,7 +664,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701854149,Dactylorhiza_maculata,62.91966,8.80075
 1701484104,Dactylorhiza_maculata,59.5058,8.4612
 1936573329,Dactylorhiza_maculata,40.7062,-4.1614
-1050641558,Dactylorhiza_maculata,40.7,-4.19
 1598874606,Dactylorhiza_maculata,69.496475,29.207912
 1702384704,Dactylorhiza_maculata,62.4655,10.91
 1701567002,Dactylorhiza_maculata,64.0715,9.9531
@@ -726,7 +715,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851320057,Dactylorhiza_maculata,42.857,-4.781
 1705439144,Dactylorhiza_maculata,67.852012,20.232967
 1598874600,Dactylorhiza_maculata,60.99182,28.241333
-1050577546,Dactylorhiza_maculata,42.86,-2.2
 1050577551,Dactylorhiza_maculata,42.68,-3.95
 1851339281,Dactylorhiza_maculata,43.02,-5.27
 1050577543,Dactylorhiza_maculata,42.82,-3.14
@@ -805,7 +793,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702384600,Dactylorhiza_maculata,59.6326,8.8847
 1050577515,Dactylorhiza_maculata,42.82,-2.32
 1999571922,Dactylorhiza_maculata,69.982552,28.029053
-1050577547,Dactylorhiza_maculata,42.9,-2.24
 1598874585,Dactylorhiza_maculata,67.737814,25.54172
 187144041,Dactylorhiza_maculata,64.0156,10.2171
 439488395,Dactylorhiza_maculata,61.73612,27.01284
@@ -878,7 +865,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57691181,Dactylorhiza_maculata,61.347893,25.782162
 1598874575,Dactylorhiza_maculata,62.125475,22.154714
 1144133683,Dactylorhiza_maculata,60.40982,5.78118
-1050577529,Dactylorhiza_maculata,42.59,-2.7
 1701933916,Dactylorhiza_maculata,66.0367,13.4565
 39299157,Dactylorhiza_maculata,63.945,-22.441
 1323832113,Dactylorhiza_maculata,69.0506,18.2299
@@ -953,7 +939,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697445413,Dactylorhiza_maculata,55.657074,39.808777
 1851359532,Dactylorhiza_maculata,42.82,-6.25
 1701616079,Dactylorhiza_maculata,64.0224,12.2669
-1988215736,Dactylorhiza_maculata,60.7,21.5
 1701239827,Dactylorhiza_maculata,70.2258,25.0002
 1598878072,Dactylorhiza_maculata,61.890101,26.331326
 186803955,Dactylorhiza_maculata,58.3901,7.3323
@@ -1046,9 +1031,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705429841,Dactylorhiza_maculata,57.26756,14.928626
 1638392108,Dactylorhiza_maculata,46.675,15.45833
 1697445308,Dactylorhiza_maculata,55.678187,40.491435
-115869927,Dactylorhiza_maculata,40.110001,-3.7
 1598878090,Dactylorhiza_maculata,61.422865,24.655188
-1851572312,Dactylorhiza_maculata,42.27,-0.2
 1701913627,Dactylorhiza_maculata,59.04751,8.54716
 1705364861,Dactylorhiza_maculata,56.726368,12.664511
 1697445283,Dactylorhiza_maculata,55.775429,40.424206
@@ -1078,7 +1061,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439131882,Dactylorhiza_maculata,44.63216,5.74908
 1705328934,Dactylorhiza_maculata,62.726949,14.599011
 1702399273,Dactylorhiza_maculata,58.8039,7.3817
-2288364606,Dactylorhiza_maculata,61.333333,6.2
 1701914686,Dactylorhiza_maculata,60.4409,7.4645
 187144413,Dactylorhiza_maculata,58.9487,8.8349
 1702388189,Dactylorhiza_maculata,62.94634,6.98913
@@ -1460,7 +1442,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999667332,Dactylorhiza_maculata,60.520629,26.168435
 1999595523,Dactylorhiza_maculata,69.187215,26.579714
 1831110526,Dactylorhiza_maculata,54.0484,12.7484
-1988175073,Dactylorhiza_maculata,64.9,25
 57691205,Dactylorhiza_maculata,63.586102,25.2845
 57691191,Dactylorhiza_maculata,63.685799,26.6933
 1999595481,Dactylorhiza_maculata,60.459938,22.095953
@@ -1556,7 +1537,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289210050,Dactylorhiza_maculata,52.033333,5.55
 437714365,Dactylorhiza_maculata,40.90141,-7.93118
 1705284220,Dactylorhiza_maculata,57.274184,16.451724
-439380330,Dactylorhiza_maculata,50,14.56
 438380822,Dactylorhiza_maculata,49.99521,14.56482
 1622359429,Dactylorhiza_maculata,63.715974,22.847024
 1598874532,Dactylorhiza_maculata,61.259734,28.021866
@@ -1621,7 +1601,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697444864,Dactylorhiza_maculata,55.656692,36.718967
 1947413617,Dactylorhiza_maculata,56.50542,12.94188
 57691184,Dactylorhiza_maculata,62.258499,25.7551
-1988228082,Dactylorhiza_maculata,51,0.4
 1598877989,Dactylorhiza_maculata,62.313356,21.303044
 1999595422,Dactylorhiza_maculata,60.435294,22.681771
 1999595505,Dactylorhiza_maculata,60.271991,23.915306
@@ -1657,7 +1636,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705493699,Dactylorhiza_maculata,65.97,29.18
 1947411951,Dactylorhiza_maculata,68.37255,18.69768
 1144133808,Dactylorhiza_maculata,62.36457,6.03751
-2292029969,Dactylorhiza_maculata,40.6,-8.233333
 1705498997,Dactylorhiza_maculata,61.26,22.37
 1705350232,Dactylorhiza_maculata,57.05803,15.047114
 1947411165,Dactylorhiza_maculata,56.03977,13.68025
@@ -1772,7 +1750,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598877961,Dactylorhiza_maculata,60.924472,22.661887
 1947412593,Dactylorhiza_maculata,57.040556,8.495278
 1702384669,Dactylorhiza_maculata,60.2519,10.5321
-1702399258,Dactylorhiza_maculata,58.9533,9
 1598877956,Dactylorhiza_maculata,62.149915,21.718452
 39299860,Dactylorhiza_maculata,65.157,-13.701
 1702308787,Dactylorhiza_maculata,59.3781,11.737
@@ -1830,7 +1807,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1891602886,Dactylorhiza_maculata,49.74,6.04
 1701829961,Dactylorhiza_maculata,60.3177,5.2451
 296450519,Dactylorhiza_maculata,47.155833,10.565
-1891589594,Dactylorhiza_maculata,50.08,5.9
 1701617641,Dactylorhiza_maculata,60.2536,5.2679
 1705350716,Dactylorhiza_maculata,57.102925,15.046197
 616356407,Dactylorhiza_maculata,50.928333,5.994722
@@ -1954,7 +1930,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702388202,Dactylorhiza_maculata,62.65769,8.70421
 734093,Dactylorhiza_maculata,57.6672,14.971461
 39299016,Dactylorhiza_maculata,65.938,-21.583
-1701294550,Dactylorhiza_maculata,66.6243,15
 1947411958,Dactylorhiza_maculata,55.78693,14.01253
 187143963,Dactylorhiza_maculata,62.9635,11.2383
 1701346364,Dactylorhiza_maculata,66.9517,15.103
@@ -2048,7 +2023,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437592825,Dactylorhiza_maculata,48.13079,-0.70854
 1702511243,Dactylorhiza_maculata,56.777242,14.43
 1705257300,Dactylorhiza_maculata,57.553707,15.454433
-616356431,Dactylorhiza_maculata,50.83,5.9
 1947413639,Dactylorhiza_maculata,55.64424,13.40644
 1598874483,Dactylorhiza_maculata,61.974007,25.566681
 1702384806,Dactylorhiza_maculata,60.103,12.1311
@@ -2127,7 +2101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701913713,Dactylorhiza_maculata,65.8806,13.9473
 1323807494,Dactylorhiza_maculata,65.881,14.0131
 1144133786,Dactylorhiza_maculata,61.03699,6.57199
-1701849563,Dactylorhiza_maculata,60.7,11.3421
 1701913847,Dactylorhiza_maculata,65.8792,14.0132
 1705364406,Dactylorhiza_maculata,60.075758,14.983456
 1702389523,Dactylorhiza_maculata,60.1024,10.6816
@@ -2187,7 +2160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705423775,Dactylorhiza_maculata,56.048349,14.40835
 1144133598,Dactylorhiza_maculata,60.2296,5.288
 1701241443,Dactylorhiza_maculata,63.5793,9.9669
-2289551710,Dactylorhiza_maculata,52.1,6.65
 1598874497,Dactylorhiza_maculata,66.355732,29.56554
 1144133614,Dactylorhiza_maculata,60.2576,5.2327
 1702384678,Dactylorhiza_maculata,61.0169,9.9018
@@ -2305,7 +2277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439488415,Dactylorhiza_maculata,48.00518,6.91623
 731419437,Dactylorhiza_maculata,49.18911,3.1418
 1705274372,Dactylorhiza_maculata,57.57387,14.451412
-2288810998,Dactylorhiza_maculata,52.716667,7.1
 438713617,Dactylorhiza_maculata,51.27526,-2.77664
 1705427977,Dactylorhiza_maculata,57.409778,15.045393
 1702388208,Dactylorhiza_maculata,62.7217,7.2143
@@ -2363,7 +2334,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438047595,Dactylorhiza_maculata,49.502,0.2796
 438380805,Dactylorhiza_maculata,48.8641,2.02052
 437793798,Dactylorhiza_maculata,49.42239,2.06612
-439046866,Dactylorhiza_maculata,49.5,0.28
 39299974,Dactylorhiza_maculata,64.596,-21.747
 438713608,Dactylorhiza_maculata,49.50326,0.26318
 1705378525,Dactylorhiza_maculata,57.263261,16.45077
@@ -2495,7 +2465,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1638391418,Dactylorhiza_maculata,46.975,15.54167
 439380349,Dactylorhiza_maculata,42.45261,2.12512
 1598874838,Dactylorhiza_maculata,60.349767,24.913861
-438047567,Dactylorhiza_maculata,42.59,1.8
 438713589,Dactylorhiza_maculata,42.50503,2.04198
 437382321,Dactylorhiza_maculata,42.79438,0.60021
 437714367,Dactylorhiza_maculata,51.29856,-0.45997
@@ -2552,7 +2521,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57691183,Dactylorhiza_maculata,62.783199,25.7232
 1705425535,Dactylorhiza_maculata,56.74124,15.880977
 1697445169,Dactylorhiza_maculata,64.999436,58.153438
-2287915433,Dactylorhiza_maculata,46.6,7.916667
 1705431465,Dactylorhiza_maculata,57.35324,12.553001
 27211241,Dactylorhiza_maculata,48.5605,2.59416
 1598874833,Dactylorhiza_maculata,60.545354,27.270362
@@ -2662,7 +2630,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39299163,Dactylorhiza_maculata,65.829,-17.311
 187144221,Dactylorhiza_maculata,69.5213,21.1793
 616367342,Dactylorhiza_maculata,52.046579,5.575368
-616367329,Dactylorhiza_maculata,50.58,6
 1701913765,Dactylorhiza_maculata,59.7823,9.8817
 1697445641,Dactylorhiza_maculata,69.189653,33.625031
 616367354,Dactylorhiza_maculata,50.962788,5.98031
@@ -2850,7 +2817,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947413428,Dactylorhiza_maculata,55.850673,13.658844
 1697445300,Dactylorhiza_maculata,56.159432,38.752623
 1883359425,Dactylorhiza_maculata,57.79562,13.95034
-788548479,Dactylorhiza_maculata,63,23.815833
 1935706295,Dactylorhiza_maculata,46.78861,14.98611
 1705362146,Dactylorhiza_maculata,56.907428,15.559018
 438465594,Dactylorhiza_maculata,45.94362,-0.89157
@@ -2916,7 +2882,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705338690,Dactylorhiza_maculata,57.665715,15.857517
 1705349479,Dactylorhiza_maculata,55.521653,13.936764
 734477,Dactylorhiza_maculata,56.74124,15.880979
-1598874787,Dactylorhiza_maculata,65.834088,28.2
 1598874415,Dactylorhiza_maculata,66.634198,28.916406
 1947411129,Dactylorhiza_maculata,61.726183,17.104208
 1705430811,Dactylorhiza_maculata,59.602018,13.727683
