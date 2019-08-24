@@ -52,10 +52,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177056252,Viola_sagittata,41.5446,-81.4729
 1258791841,Viola_sagittata,37.63333,-90.85
 465871054,Viola_sagittata,44.9953,-64.9542
-1260980303,Viola_sagittata,37.61055,-91.2
 465871087,Viola_sagittata,44.40032,-65.21568
 177056245,Viola_sagittata,37.718613,-95.879997
-1928805776,Viola_sagittata,41.4,-73.95
 1930612652,Viola_sagittata,41.55,-73.55
 1807221217,Viola_sagittata,44.457252,-64.609105
 177056241,Viola_sagittata,34.740961,-94.110593
@@ -74,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606661018,Viola_sagittata,41.28138,-73.49805
 1260990834,Viola_sagittata,36.89416,-90.27833
 1257685934,Viola_sagittata,36.8753,-90.6169
-675233498,Viola_sagittata,43.00027,-75.5
 177056268,Viola_sagittata,37.319811,-95.17829
 177056267,Viola_sagittata,37.301693,-95.181766
 606659359,Viola_sagittata,41.83138,-71.85083
@@ -84,7 +81,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177056269,Viola_sagittata,37.323804,-94.706863
 2291479063,Viola_sagittata,34.666667,134.533333
 1260949020,Viola_sagittata,36.86083,-90.6175
-1212008776,Viola_sagittata,41.7,-71.68277
 177056251,Viola_sagittata,37.52877,-95.170898
 1212008670,Viola_sagittata,41.13277,-73.26388
 1260986133,Viola_sagittata,37.55861,-90.73833
@@ -124,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212008706,Viola_sagittata,41.81472,-72.22527
 1318113229,Viola_sagittata,38.9686,-77.3414
 1988896089,Viola_sagittata,42.26207,-83.0526
-1212008835,Viola_sagittata,41.9,-71.63277
 1899373206,Viola_sagittata,42.666667,-80.491667
 1899373282,Viola_sagittata,42.663889,-80.490278
 1038956596,Viola_sagittata,41.2858,-72.7986
@@ -163,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265422265,Viola_sagittata,45.34066,-93.08146
 1038947502,Viola_sagittata,41.4697,-71.8753
 1212008727,Viola_sagittata,41.35416,-71.96694
-1804565766,Viola_sagittata,45.616667,-77.4
 1896054892,Viola_sagittata,30.503056,-95.809722
 1804503099,Viola_sagittata,42.25,-83.083333
 1899381990,Viola_sagittata,44.966667,-79.566667
@@ -176,7 +170,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988626385,Viola_sagittata,41.978759,-86.543121
 415923543,Viola_sagittata,41.88527,-72.26194
 1899381880,Viola_sagittata,44.883333,-79.266667
-1269665021,Viola_sagittata,32.383,-92.8
 1260997247,Viola_sagittata,36.762,-91.241
 1260989173,Viola_sagittata,37.24916,-92.9075
 177056261,Viola_sagittata,37.16682,-94.7105
@@ -214,7 +207,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212008825,Viola_sagittata,43.05805,-70.7825
 177056250,Viola_sagittata,37.02375,-94.74413
 415991042,Viola_sagittata,41.34319,-70.7448
-1248751416,Viola_sagittata,45.133333,-72.8
 1261958376,Viola_sagittata,45.136829,-72.785536
 2234358403,Viola_sagittata,35.755018,-79.064128
 1212008687,Viola_sagittata,41.28333,-70.08277
@@ -223,7 +215,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989343539,Viola_sagittata,42.122778,-86.361204
 1989237459,Viola_sagittata,43.614448,-85.399685
 1212008820,Viola_sagittata,42.85833,-70.93
-1212008789,Viola_sagittata,42.7,-72.83333
 2234495568,Viola_sagittata,36.104631,-81.852709
 1212008778,Viola_sagittata,42.84166,-70.86055
 1212008773,Viola_sagittata,42.66666,-70.46611
@@ -428,7 +419,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038926148,Viola_sagittata,41.4745,-73.2327
 1039018081,Viola_sagittata,41.6979,-72.088
 1039017124,Viola_sagittata,41.6741,-72.8571
-1212009649,Viola_sagittata,42.3,-71.08333
 1928214453,Viola_sagittata,40.659784,-73.734417
 1930683918,Viola_sagittata,40.484478,-74.284179
 1038972100,Viola_sagittata,41.831,-71.85
@@ -490,7 +480,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228320845,Viola_sagittata,41.615594,-87.0742
 1928307898,Viola_sagittata,40.635696,-73.720613
 1318780049,Viola_sagittata,38.8047,-77.0472
-1320822855,Viola_sagittata,38.8667,-77.1
 1228506699,Viola_sagittata,41.660095,-87.030817
 1038929356,Viola_sagittata,41.984,-72.5547
 2234357771,Viola_sagittata,33.614565,-93.813516
