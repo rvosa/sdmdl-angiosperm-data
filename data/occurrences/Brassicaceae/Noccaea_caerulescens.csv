@@ -70,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701967116,Noccaea_caerulescens,63.4205,10.3472
 1701845278,Noccaea_caerulescens,59.0785,10.8718
 1999625631,Noccaea_caerulescens,60.442157,22.390688
-1095918006,Noccaea_caerulescens,60.67,16.8
 1701966314,Noccaea_caerulescens,63.4022,10.5254
 1144053035,Noccaea_caerulescens,58.774,5.683
 1144052987,Noccaea_caerulescens,58.727,5.7183
@@ -78,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702170695,Noccaea_caerulescens,59.733,11.7776
 1701281608,Noccaea_caerulescens,63.1114,9.6054
 2242147493,Noccaea_caerulescens,60.457546,22.278371
-1095918026,Noccaea_caerulescens,60,17
 1144053029,Noccaea_caerulescens,59.4357,7.9975
 1144053000,Noccaea_caerulescens,58.5831,7.794
 1144053020,Noccaea_caerulescens,59.5911,8.5558
@@ -122,7 +120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144049290,Noccaea_caerulescens,58.7081,5.8987
 1600387702,Noccaea_caerulescens,62.813223,23.963255
 345678918,Noccaea_caerulescens,48.7443,19.9979
-1095899287,Noccaea_caerulescens,60.5,16.48
 1702242684,Noccaea_caerulescens,59.8099,8.623
 1600387707,Noccaea_caerulescens,60.352348,24.306483
 1144050101,Noccaea_caerulescens,61.4897,7.6036
@@ -585,7 +582,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186823235,Noccaea_caerulescens,58.5161,8.455
 2288442469,Noccaea_caerulescens,60.95,24.566667
 1702186394,Noccaea_caerulescens,59.9298,10.3328
-2289802824,Noccaea_caerulescens,60.316667,25.2
 1947345226,Noccaea_caerulescens,50.47,11.21
 1705346583,Noccaea_caerulescens,57.207595,15.787019
 1600387687,Noccaea_caerulescens,60.737565,24.663973
@@ -911,7 +907,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900323451,Noccaea_caerulescens,60.01508,9.21504
 1701298276,Noccaea_caerulescens,62.9728,11.7324
 1600387933,Noccaea_caerulescens,60.515724,24.174637
-833456018,Noccaea_caerulescens,50.1,7.833333
 1701267750,Noccaea_caerulescens,62.5926,11.4051
 1600387943,Noccaea_caerulescens,60.534373,25.266408
 1600387988,Noccaea_caerulescens,63.057812,26.700169
@@ -1040,7 +1035,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600385029,Noccaea_caerulescens,61.889046,26.141185
 1099891110,Noccaea_caerulescens,62.626111,27.122222
 1144071167,Noccaea_caerulescens,60.8834,5.91677
-1893207246,Noccaea_caerulescens,50,6.02
 1701695829,Noccaea_caerulescens,59.60196,9.69407
 1099880353,Noccaea_caerulescens,56.28062,13.936
 1702268101,Noccaea_caerulescens,59.2323,10.919
@@ -1073,7 +1067,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701319434,Noccaea_caerulescens,62.6288,11.3886
 1600770603,Noccaea_caerulescens,60.945016,27.06144
 1600387884,Noccaea_caerulescens,63.506371,26.695474
-1705493685,Noccaea_caerulescens,65,25.5
 1701285009,Noccaea_caerulescens,62.6112,11.3677
 1702362268,Noccaea_caerulescens,60.43431,9.46191
 1600387882,Noccaea_caerulescens,60.946198,23.397889
@@ -1129,7 +1122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705326063,Noccaea_caerulescens,56.540009,13.724447
 1999584207,Noccaea_caerulescens,60.379404,23.052256
 318681871,Noccaea_caerulescens,59.431855,11.246287
-1891593402,Noccaea_caerulescens,49.96,6
 1600387861,Noccaea_caerulescens,61.448701,22.213499
 1600773160,Noccaea_caerulescens,61.851458,23.672231
 1600770575,Noccaea_caerulescens,61.341687,25.221942
@@ -1318,12 +1310,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600387796,Noccaea_caerulescens,61.150555,24.489639
 1099879877,Noccaea_caerulescens,63.18459,14.03785
 1099892728,Noccaea_caerulescens,58.13523,12.1525
-1893208436,Noccaea_caerulescens,49.06,5.9
 1600387794,Noccaea_caerulescens,61.431381,25.216838
 1701957873,Noccaea_caerulescens,63.457,10.4541
 788478467,Noccaea_caerulescens,56.156775,13.76989
 1144071096,Noccaea_caerulescens,58.559,7.7746
-786282724,Noccaea_caerulescens,47.8,7.9
 1099892164,Noccaea_caerulescens,58.347861,11.940152
 1702362376,Noccaea_caerulescens,59.73452,10.41745
 1099883982,Noccaea_caerulescens,61.120001,14.614121
