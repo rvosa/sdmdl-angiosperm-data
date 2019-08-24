@@ -154,7 +154,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342574961,Hyacinthoides_non-scripta,55.18396,8.739611
 1947203356,Hyacinthoides_non-scripta,48.27,13.03
 1342575313,Hyacinthoides_non-scripta,55.683056,12.223255
-1060367995,Hyacinthoides_non-scripta,52,-9.5
 1342575357,Hyacinthoides_non-scripta,55.236036,12.333167
 1702245255,Hyacinthoides_non-scripta,60.3191,5.3438
 1701429071,Hyacinthoides_non-scripta,60.3958,5.3379
@@ -167,7 +166,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851345917,Hyacinthoides_non-scripta,43.0088,-5.0681
 1342575116,Hyacinthoides_non-scripta,54.983571,9.850382
 1342575296,Hyacinthoides_non-scripta,55.251162,11.366485
-1851575953,Hyacinthoides_non-scripta,43,-5.06
 1851320590,Hyacinthoides_non-scripta,42.76032,-5.54649
 1342575000,Hyacinthoides_non-scripta,55.327993,8.927804
 1851396917,Hyacinthoides_non-scripta,42.27,-6.605
@@ -290,14 +288,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342574957,Hyacinthoides_non-scripta,56.791939,8.613975
 1342575052,Hyacinthoides_non-scripta,55.12103,9.273136
 1342575317,Hyacinthoides_non-scripta,55.045447,12.251917
-1851341584,Hyacinthoides_non-scripta,42.8,-6.169
 1342574985,Hyacinthoides_non-scripta,55.021974,8.646816
 1342574902,Hyacinthoides_non-scripta,55.847019,8.272033
 1851368304,Hyacinthoides_non-scripta,42.781,-6.133
 1342574988,Hyacinthoides_non-scripta,57.008129,8.941038
 900312531,Hyacinthoides_non-scripta,58.7082,7.8323
 1851392591,Hyacinthoides_non-scripta,42.915,-5.126
-1851328989,Hyacinthoides_non-scripta,43,-4.871
 12593703,Hyacinthoides_non-scripta,49.1184,1.69849
 1987002412,Hyacinthoides_non-scripta,51.229695,1.176112
 1342575039,Hyacinthoides_non-scripta,56.145357,9.28035
@@ -391,17 +387,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936544994,Hyacinthoides_non-scripta,43.0517,-6.4229
 1851388624,Hyacinthoides_non-scripta,42.92,-6.37
 1851391028,Hyacinthoides_non-scripta,42.91,-5.76
-1851384591,Hyacinthoides_non-scripta,43,-5.76
 1851359528,Hyacinthoides_non-scripta,42.92,-5.63
 1851390200,Hyacinthoides_non-scripta,42.92,-5.39
-991895267,Hyacinthoides_non-scripta,48.2,11.5
 437694010,Hyacinthoides_non-scripta,51.46667,-0.98333
 1936121525,Hyacinthoides_non-scripta,51.4667,-0.9833
 1260855283,Hyacinthoides_non-scripta,36.78888,-4.94694
 1936357411,Hyacinthoides_non-scripta,40.7352,-3.9487
 178228987,Hyacinthoides_non-scripta,36.979,-2.961
-211625627,Hyacinthoides_non-scripta,43.560001,-7.7
-1260855277,Hyacinthoides_non-scripta,50.71666,1.7
 1851574550,Hyacinthoides_non-scripta,40.48,-6.11
 211626347,Hyacinthoides_non-scripta,43.25,-6.02
 1897650061,Hyacinthoides_non-scripta,40.361333,-75.835556
@@ -418,7 +410,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415994431,Hyacinthoides_non-scripta,41.37833,-72.10277
 1144131697,Hyacinthoides_non-scripta,60.32605,6.17715
 817815,Hyacinthoides_non-scripta,56.161144,15.58764
-1705471245,Hyacinthoides_non-scripta,47.5,4.8333
 1701835355,Hyacinthoides_non-scripta,61.11844,5.90272
 437217750,Hyacinthoides_non-scripta,49.71333,0.41639
 800819378,Hyacinthoides_non-scripta,46.4275,-0.18167
@@ -430,4 +421,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438905371,Hyacinthoides_non-scripta,46.66389,-0.78528
 439210796,Hyacinthoides_non-scripta,48.76556,2.22111
 438587076,Hyacinthoides_non-scripta,47.27944,2.44944
-1705471431,Hyacinthoides_non-scripta,46,4.5
