@@ -51,7 +51,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893626135,Porophyllum_viridiflorum,19.808333,-100.893333
 1896115007,Porophyllum_viridiflorum,19.808333,-100.841667
 1895208347,Porophyllum_viridiflorum,19.808333,-100.891667
-1895208348,Porophyllum_viridiflorum,17.8,-98.316667
 1895208457,Porophyllum_viridiflorum,19.465278,-103.718611
 1895208400,Porophyllum_viridiflorum,20.838611,-103.506667
 1895208343,Porophyllum_viridiflorum,19.6675,-103.204722
@@ -112,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893626108,Porophyllum_viridiflorum,18.663333,-101.106667
 1896114981,Porophyllum_viridiflorum,19.685556,-101.171667
 1896114968,Porophyllum_viridiflorum,21.205833,-99.215556
-1893626088,Porophyllum_viridiflorum,19.54,-101.6
 1894634384,Porophyllum_viridiflorum,21.21183,-99.23037
 1895208406,Porophyllum_viridiflorum,19.8675,-101.770556
 1895208471,Porophyllum_viridiflorum,21.199444,-99.214722
@@ -139,7 +137,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895208470,Porophyllum_viridiflorum,19.818056,-101.803611
 1895208355,Porophyllum_viridiflorum,18.9975,-99.125556
 1895208427,Porophyllum_viridiflorum,18.526667,-99.546944
-1895208453,Porophyllum_viridiflorum,20.9,-103.866667
 1895518515,Porophyllum_viridiflorum,20.2841749447341,-103.429646645682
 1893626103,Porophyllum_viridiflorum,19.821667,-101.676667
 1895208425,Porophyllum_viridiflorum,19.849167,-101.568611
@@ -246,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895208292,Porophyllum_viridiflorum,22.4675,-99.492778
 1896115004,Porophyllum_viridiflorum,18.815278,-97.132222
 1928345614,Porophyllum_viridiflorum,20.09258,-102.79872
-1259881522,Porophyllum_viridiflorum,18.8,-99.66
 1895208435,Porophyllum_viridiflorum,18.687222,-100.168611
 1895208527,Porophyllum_viridiflorum,19.995,-102.751667
 1895208445,Porophyllum_viridiflorum,18.844167,-99.675278
