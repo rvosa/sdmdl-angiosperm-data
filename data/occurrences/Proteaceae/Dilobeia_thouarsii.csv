@@ -121,7 +121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 437654347,Dilobeia_thouarsii,-24.58333,47.2
 437987333,Dilobeia_thouarsii,-18.93333,48.4
 912192892,Dilobeia_thouarsii,-18.93,48.4
-912322593,Dilobeia_thouarsii,-25,47
 912322555,Dilobeia_thouarsii,-25.03,46.38
 2268920018,Dilobeia_thouarsii,-18.083333,47.266667
 1260715787,Dilobeia_thouarsii,-25,46.45
@@ -130,10 +129,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259034590,Dilobeia_thouarsii,-17.283333,49.391667
 437654340,Dilobeia_thouarsii,-18.93333,48.41667
 438069120,Dilobeia_thouarsii,-20.75,47.55
-438402582,Dilobeia_thouarsii,-15.73333,49.96667
 1258354786,Dilobeia_thouarsii,-18.73333,48.63333
 437071272,Dilobeia_thouarsii,-18.82005,49.0653
-439402151,Dilobeia_thouarsii,-15.72617,49.97955
 437071282,Dilobeia_thouarsii,-15.99566,48.81775
 1260715788,Dilobeia_thouarsii,-23.2,47.36666
 439068469,Dilobeia_thouarsii,-21.62908,45.37487
@@ -141,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912192848,Dilobeia_thouarsii,-21.88,47.43
 438402583,Dilobeia_thouarsii,-21.99483,47.37066
 438069121,Dilobeia_thouarsii,-21.53333,47.43333
-438069109,Dilobeia_thouarsii,-25.03333,46.98333
 439402136,Dilobeia_thouarsii,-16.91901,49.5843
 1258355638,Dilobeia_thouarsii,-16.90833,49.58333
 439068475,Dilobeia_thouarsii,-18.68853,47.3188
@@ -158,10 +154,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260715767,Dilobeia_thouarsii,-18.96666,48.56666
 439402152,Dilobeia_thouarsii,-17.33333,48.7
 439402150,Dilobeia_thouarsii,-22.60848,46.90284
-1258351470,Dilobeia_thouarsii,-20.58333,48.53333
 912192865,Dilobeia_thouarsii,-20.85,48.02
 439402146,Dilobeia_thouarsii,-22.82113,47.35382
-1260715771,Dilobeia_thouarsii,-16.216667,49.816667
 437322440,Dilobeia_thouarsii,-18.95,48.4
 438320501,Dilobeia_thouarsii,-19.1,48.23333
 437654344,Dilobeia_thouarsii,-20.4,44.6
@@ -182,9 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 436989123,Dilobeia_thouarsii,-17.975,47.2
 1260715780,Dilobeia_thouarsii,-17.966667,47.2
 438320499,Dilobeia_thouarsii,-21.3,47.63333
-437736210,Dilobeia_thouarsii,-25.03077,46.98514
-439402145,Dilobeia_thouarsii,-25.02229,46.97099
-439402144,Dilobeia_thouarsii,-25.0282,46.98608
 439402142,Dilobeia_thouarsii,-24.75,46.7
 439402143,Dilobeia_thouarsii,-24.71593,46.72541
 438735500,Dilobeia_thouarsii,-15.69411,46.6943
