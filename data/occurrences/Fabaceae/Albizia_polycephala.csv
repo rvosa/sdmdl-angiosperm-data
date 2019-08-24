@@ -45,7 +45,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1089193740,Albizia_polycephala,-9.253607,-36.411604
 1077243469,Albizia_polycephala,-11.507778,-41.162222
 2013909127,Albizia_polycephala,-22.961667,-43.184444
-1424484935,Albizia_polycephala,-22.978333,-43.048333
 1094929582,Albizia_polycephala,-20.214167,-46.381111
 1424497134,Albizia_polycephala,-16.233056,-42.276944
 1424486147,Albizia_polycephala,-13.111667,-39.991944
@@ -180,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1424062982,Albizia_polycephala,-13.944722,-40.111111
 1087532288,Albizia_polycephala,-13.944722,-41.058333
 1089170546,Albizia_polycephala,-6.374122,-35.023558
-1086984060,Albizia_polycephala,8.87691,-76.262607
 1077326202,Albizia_polycephala,-19.040833,-57.473889
 1087531684,Albizia_polycephala,-13.536944,-40.502778
 1087531723,Albizia_polycephala,-13.365,-40.452778
@@ -196,7 +194,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930335803,Albizia_polycephala,-13.9394,-40.1908
 1094807109,Albizia_polycephala,-13.939444,-40.190833
 1090478182,Albizia_polycephala,-7.583333,-35.5
-1423973514,Albizia_polycephala,-22.745,-41.877778
 1089178229,Albizia_polycephala,-7.253889,-37.381111
 1077593757,Albizia_polycephala,-10.213894,-36.300422
 1094777422,Albizia_polycephala,-11.753333,-41.835556
@@ -228,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090477416,Albizia_polycephala,-11.083333,-40.666667
 1095214602,Albizia_polycephala,-11.08333,-40.66667
 1929018360,Albizia_polycephala,-19.8778,-43.9722
-1077207622,Albizia_polycephala,-15.85,-38.866667
 1423973417,Albizia_polycephala,-22.35,-43.716667
 1094869781,Albizia_polycephala,-11.396667,-39.963889
 1090517319,Albizia_polycephala,-11.199167,-40.486111
@@ -295,9 +291,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260237631,Albizia_polycephala,-22.91666,-42.5
 1930409112,Albizia_polycephala,-22.8832603958893,-42.018386387664
 1423973601,Albizia_polycephala,-16.383333,-39.133333
-1258325176,Albizia_polycephala,-12.58333,-69.16666
-439189454,Albizia_polycephala,-11.75,-71.16667
-1258037724,Albizia_polycephala,-11.75,-71.16666
 1927896197,Albizia_polycephala,-22.9232604657635,-42.8184416861596
 1931262779,Albizia_polycephala,-22.8871596133232,-43.1037613491219
 2270472243,Albizia_polycephala,-24.79626,-49.27366
