@@ -39,7 +39,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702890639,Veronica_longifolia,59.9404,10.9545
 1839063194,Veronica_longifolia,51.841942,12.39278
 1224532765,Veronica_longifolia,57.86254,12.0582
-1095920500,Veronica_longifolia,67,24
 1702169541,Veronica_longifolia,59.6011,11.1003
 1211935065,Veronica_longifolia,48.30083,16.88528
 1702379796,Veronica_longifolia,69.4549,30.0104
@@ -73,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099886406,Veronica_longifolia,55.8645,13.70211
 1702224097,Veronica_longifolia,62.5601,11.3528
 728981195,Veronica_longifolia,51.678934,5.932797
-1697653889,Veronica_longifolia,60.6,45.6
 1702243259,Veronica_longifolia,59.4233,10.4722
 2325692382,Veronica_longifolia,59.423281,10.472245
 1343119709,Veronica_longifolia,55.697133,11.059174
@@ -120,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343119650,Veronica_longifolia,56.485263,9.672564
 1343119694,Veronica_longifolia,56.553976,10.113019
 1697653898,Veronica_longifolia,66.537954,33.18783
-2305997191,Veronica_longifolia,58.1,27.06
 1701857717,Veronica_longifolia,59.92224,10.50728
 1702036419,Veronica_longifolia,70.1984,28.2022
 1343119526,Veronica_longifolia,56.172626,8.97454
@@ -193,7 +190,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343119541,Veronica_longifolia,56.75654,8.876015
 1343119529,Veronica_longifolia,56.342346,8.505288
 1697654169,Veronica_longifolia,50.689697,37.819801
-1936639938,Veronica_longifolia,67.6,33.65
 1343119632,Veronica_longifolia,56.169856,9.828092
 788594020,Veronica_longifolia,56.15145,13.61756
 1702087429,Veronica_longifolia,59.5682,10.1159
@@ -253,7 +249,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831296158,Veronica_longifolia,53.1485,11.2487
 788471230,Veronica_longifolia,56.1869,15.31001
 788490379,Veronica_longifolia,56.23983,15.61091
-1882362066,Veronica_longifolia,48.84,10.7
 1697653942,Veronica_longifolia,55.466667,31.616667
 1831296123,Veronica_longifolia,53.3485,10.9154
 1697653913,Veronica_longifolia,66.110033,37.753666
@@ -302,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343119724,Veronica_longifolia,55.815192,12.517162
 1882361228,Veronica_longifolia,48.89,10.65
 1598580116,Veronica_longifolia,68.57958,22.294825
-1882359544,Veronica_longifolia,48.9,10.65
 1882360774,Veronica_longifolia,48.92,10.68
 1343119631,Veronica_longifolia,57.040121,9.995671
 1702163514,Veronica_longifolia,59.2999,10.6743
@@ -399,7 +393,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701277316,Veronica_longifolia,68.8187,24.3209
 788594553,Veronica_longifolia,56.01705,13.638
 1702360298,Veronica_longifolia,70.5193,29.6875
-2289409923,Veronica_longifolia,52,5.65
 1598580030,Veronica_longifolia,60.983507,24.438021
 788582368,Veronica_longifolia,59.85964,17.60286
 788595243,Veronica_longifolia,56.06024,13.97436
@@ -551,7 +544,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323694272,Veronica_longifolia,69.637,23.7753
 788594200,Veronica_longifolia,56.107946,14.167972
 1323694356,Veronica_longifolia,69.7023,29.2604
-1323694365,Veronica_longifolia,70.1158,29.2
 1323694276,Veronica_longifolia,70.7571,27.352
 2289581651,Veronica_longifolia,69.016667,23.05
 1323694298,Veronica_longifolia,69.6049,23.7904
@@ -565,7 +557,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323694278,Veronica_longifolia,69.6496,23.7744
 1323694259,Veronica_longifolia,69.6676,23.7986
 1638437833,Veronica_longifolia,47.175,16.125
-1935731722,Veronica_longifolia,47.15667,16.1
 1323694251,Veronica_longifolia,69.6941,23.828
 1598579983,Veronica_longifolia,61.046264,24.432955
 1701813045,Veronica_longifolia,59.4427,9.0793
@@ -582,10 +573,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697285689,Veronica_longifolia,66.29443,73.82287
 1638437459,Veronica_longifolia,47.71528,14.63639
 1598583342,Veronica_longifolia,61.0609,24.496741
-1563138567,Veronica_longifolia,69.95,27.3
 1598583406,Veronica_longifolia,62.218557,24.016624
 1999476512,Veronica_longifolia,68.897856,25.988103
-1947731837,Veronica_longifolia,49.96,10.4
 1999476431,Veronica_longifolia,68.963608,26.958266
 1697285538,Veronica_longifolia,69.55117,90.76808
 1598583354,Veronica_longifolia,62.043312,24.225074
@@ -597,8 +586,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701567076,Veronica_longifolia,70.0187,28.0357
 1701311588,Veronica_longifolia,70.2958,28.1826
 1702019644,Veronica_longifolia,60.7952,11.1267
-1988233243,Veronica_longifolia,66.2,25.5
-1563139713,Veronica_longifolia,66.2,25.466667
 1598583456,Veronica_longifolia,60.813314,26.353911
 1701240173,Veronica_longifolia,70.2815,28.1008
 1697285563,Veronica_longifolia,62.29782,89.01875
@@ -614,7 +601,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318239664,Veronica_longifolia,58.6729,5.6974
 1705887957,Veronica_longifolia,52.7429,23.8783
 1697285632,Veronica_longifolia,67.054,65.54301
-1705887946,Veronica_longifolia,52.7,23.87
 1668934366,Veronica_longifolia,54.855,37.603
 1697654019,Veronica_longifolia,54.696803,40.866907
 1702437821,Veronica_longifolia,69.7363,30.09
@@ -769,7 +755,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1563134541,Veronica_longifolia,64.226944,27.728611
 2288727485,Veronica_longifolia,50.452,6.102
 1697285528,Veronica_longifolia,67.04013,93.51174
-1060607920,Veronica_longifolia,50.7,7.1
 1697285522,Veronica_longifolia,66.92466,93.49237
 1702348153,Veronica_longifolia,70.4294,30.9935
 1697285575,Veronica_longifolia,68.00376,93.39861
@@ -957,7 +942,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57731706,Veronica_longifolia,63.685799,26.6933
 1598583281,Veronica_longifolia,61.792502,21.780062
 1598579887,Veronica_longifolia,67.082291,28.951776
-1099111595,Veronica_longifolia,68,27
 1705330282,Veronica_longifolia,56.137076,12.792295
 1702382143,Veronica_longifolia,59.5515,11.1849
 1697654165,Veronica_longifolia,58.067256,38.254185
@@ -1016,7 +1000,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323694364,Veronica_longifolia,69.4558,30.0372
 1598583319,Veronica_longifolia,61.31394,23.729411
 788590228,Veronica_longifolia,67.156704,22.636003
-1705493644,Veronica_longifolia,65,25.5
 1598579954,Veronica_longifolia,61.867025,25.238943
 1701252802,Veronica_longifolia,69.4488,25.6343
 1697285588,Veronica_longifolia,67.48703,86.45191
@@ -1057,12 +1040,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598583359,Veronica_longifolia,64.380818,24.406178
 57731673,Veronica_longifolia,65.8181,24.480801
 1697654286,Veronica_longifolia,55.997441,55.914341
-1135455528,Veronica_longifolia,48.46667,16.9
 1999476396,Veronica_longifolia,69.39002,25.837802
 788582972,Veronica_longifolia,59.195829,14.89844
 1563133538,Veronica_longifolia,61.055,24.372222
 1323694336,Veronica_longifolia,69.8232,24.9344
-1705498941,Veronica_longifolia,61.26,22.7
 1705258427,Veronica_longifolia,67.568036,23.457267
 1598583285,Veronica_longifolia,61.488467,23.523209
 1999476476,Veronica_longifolia,69.481031,26.062878
@@ -1113,7 +1094,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999476517,Veronica_longifolia,60.458421,22.178232
 1701225289,Veronica_longifolia,70.4008,28.1754
 1701958190,Veronica_longifolia,70.6174,29.7276
-1702382065,Veronica_longifolia,59.3,10.6664
 1701228087,Veronica_longifolia,59.9205,6.0037
 1702359736,Veronica_longifolia,59.9289,5.8622
 1598579935,Veronica_longifolia,63.233379,28.090928
