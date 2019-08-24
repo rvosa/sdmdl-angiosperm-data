@@ -192,7 +192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265458335,Cyperus_strigosus,43.621148,-92.363306
 176924541,Cyperus_strigosus,42.6295,-92.53096
 473445878,Cyperus_strigosus,45.077289,-74.358975
-1571692375,Cyperus_strigosus,40,-90
 1928872861,Cyperus_strigosus,40.8672,-73.8761
 1988598512,Cyperus_strigosus,40.00262,-90.44595
 2307975452,Cyperus_strigosus,42.71,-80.47
@@ -237,11 +236,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268929961,Cyperus_strigosus,9.258333,-63.704167
 1258118360,Cyperus_strigosus,29.3731,-82.7575
 1258118348,Cyperus_strigosus,29.3856,-82.76
-1269678999,Cyperus_strigosus,30.5,-92.406
 1988183867,Cyperus_strigosus,49.12,-123.04
 1849117574,Cyperus_strigosus,33.5766,-81.0385
 1929953346,Cyperus_strigosus,41.485,-73.5978
-415930086,Cyperus_strigosus,41.8,-72.42666
 1416605444,Cyperus_strigosus,39.954028,-122.047889
 1260569778,Cyperus_strigosus,38.56805,-90.29722
 1843467065,Cyperus_strigosus,41.179167,-72.194444
@@ -252,10 +249,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269682842,Cyperus_strigosus,30.812,-90.96
 1849163379,Cyperus_strigosus,34.1622,-81.933
 1503242320,Cyperus_strigosus,28.4489,-80.6939
-1936629634,Cyperus_strigosus,1.6167,10.3
 1849192182,Cyperus_strigosus,34.071779,-81.070922
 122934327,Cyperus_strigosus,26.580167,-80.04025
-122934326,Cyperus_strigosus,58.6,-4.9
 1849139016,Cyperus_strigosus,34.2478,-81.5193
 1849122229,Cyperus_strigosus,33.023075,-79.646609
 1849147233,Cyperus_strigosus,33.048,-79.6219
@@ -282,9 +277,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697950629,Cyperus_strigosus,49.883333,-97.15
 176924535,Cyperus_strigosus,36.376944,-99.618056
 176924523,Cyperus_strigosus,36.906667,-92.193056
-1988184212,Cyperus_strigosus,49.2,-123.05
 1988232662,Cyperus_strigosus,49.21,-122.61
-1936353898,Cyperus_strigosus,0.9,9.3
 1978887356,Cyperus_strigosus,27.3991,-81.882583
 56557023,Cyperus_strigosus,32.75,-81.63
 1258711109,Cyperus_strigosus,37.041944,-89.588889
@@ -299,9 +292,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176924659,Cyperus_strigosus,41.5446,-81.4729
 51814335,Cyperus_strigosus,44.5702,-123.2408
 1849162667,Cyperus_strigosus,33.287167,-81.480889
-1258711357,Cyperus_strigosus,37.216667,-90.2
 2270601019,Cyperus_strigosus,33.982,-111.71
-1258711614,Cyperus_strigosus,37.1,-89.5
 1988697924,Cyperus_strigosus,32.713361,-85.97
 1989930840,Cyperus_strigosus,34.014977,-91.64802
 176924660,Cyperus_strigosus,38.091667,-97.595833
@@ -310,10 +301,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176924622,Cyperus_strigosus,38.781666,-95.278892
 176924626,Cyperus_strigosus,39.066666,-86.412498
 176924658,Cyperus_strigosus,38.595833,-94.842224
-1930743332,Cyperus_strigosus,41.5,-73.53
 1928618159,Cyperus_strigosus,41.45,-73.62
 1038970060,Cyperus_strigosus,41.6922,-72.5472
-1988149451,Cyperus_strigosus,49.21,-122.7
 176924664,Cyperus_strigosus,38.478333,-97.443054
 1849112277,Cyperus_strigosus,34.1092,-82.3668
 176924661,Cyperus_strigosus,42.700832,-92.356667
@@ -340,7 +329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176924642,Cyperus_strigosus,38.192854,-94.686015
 1988795295,Cyperus_strigosus,41.79993,-84.2444
 1260949353,Cyperus_strigosus,39.13027,-92.91944
-1503235947,Cyperus_strigosus,27.6,-81.1
 1260984270,Cyperus_strigosus,38.619445,-90.263889
 1849176487,Cyperus_strigosus,34.233419,-81.402781
 1426185807,Cyperus_strigosus,36.921944,-119.281111
@@ -394,7 +382,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503242699,Cyperus_strigosus,25.665,-80.5392
 56556603,Cyperus_strigosus,31.12944,-85.07889
 2265523053,Cyperus_strigosus,43.534167,-92.4025
-1978015140,Cyperus_strigosus,37,-84
 2265450322,Cyperus_strigosus,43.9875,-92.319444
 415980166,Cyperus_strigosus,41.72777,-72.84083
 1258275843,Cyperus_strigosus,38.48333,-90.81666
@@ -412,7 +399,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56556315,Cyperus_strigosus,32.28917,-87.305
 1320027660,Cyperus_strigosus,38.8833,-77.1667
 1260938016,Cyperus_strigosus,39.77277,-93.07222
-1259977927,Cyperus_strigosus,36.5,-90.066667
 1319356157,Cyperus_strigosus,38.9667,-77.1667
 1038925430,Cyperus_strigosus,41.4638,-72.1567
 1259961473,Cyperus_strigosus,38.618056,-90.368056
@@ -536,12 +522,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415980171,Cyperus_strigosus,41.31722,-72.14861
 176924611,Cyperus_strigosus,37.12005,-95.20625
 606655268,Cyperus_strigosus,41.265,-72.55638
-1899330285,Cyperus_strigosus,44.2,-78.15
 1988641025,Cyperus_strigosus,43.329554,-84.141488
 2265515620,Cyperus_strigosus,44.233108,-91.917245
 1929236520,Cyperus_strigosus,41.08,-75.65
 2265516803,Cyperus_strigosus,43.724883,-92.759467
-1455172837,Cyperus_strigosus,45.566667,-73.2
 2265515837,Cyperus_strigosus,43.739626,-92.879241
 245520660,Cyperus_strigosus,35.449098,139.665534
 415980352,Cyperus_strigosus,41.82277,-90.54277
@@ -549,7 +533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 699268743,Cyperus_strigosus,42.07027,-73.93027
 473441986,Cyperus_strigosus,45.460203,-73.548712
 1260051068,Cyperus_strigosus,38.567778,-90.218611
-1455172801,Cyperus_strigosus,45.816667,-74.6
 2265515931,Cyperus_strigosus,43.51793,-92.50145
 1260952168,Cyperus_strigosus,37.70416,-92.85666
 699268734,Cyperus_strigosus,40.85833,-74.78333
@@ -557,7 +540,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265515877,Cyperus_strigosus,45.304386,-93.070724
 1697950257,Cyperus_strigosus,50.15,-95.683333
 1228161556,Cyperus_strigosus,42.584742,-87.821185
-1989360288,Cyperus_strigosus,41.95,-86.3
 56555827,Cyperus_strigosus,32.55695,-86.32667
 415980181,Cyperus_strigosus,41.80833,-72.24944
 415980176,Cyperus_strigosus,41.80833,-72.25
@@ -579,7 +561,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260936302,Cyperus_strigosus,39.50944,-92.69083
 2265516601,Cyperus_strigosus,44.506793,-94.895945
 1899352224,Cyperus_strigosus,42.233333,-82.55
-1030472577,Cyperus_strigosus,42.9,-86.2
 2265517432,Cyperus_strigosus,44.50706,-94.916062
 473525547,Cyperus_strigosus,45.3662,-73.8532
 51814096,Cyperus_strigosus,44.6009,-123.1942
@@ -590,22 +571,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51814088,Cyperus_strigosus,44.5413,-123.2417
 1929985965,Cyperus_strigosus,35.884974,-100.18411
 2234664389,Cyperus_strigosus,37.085513,-82.968848
-1804417610,Cyperus_strigosus,44,-77.733333
 56555785,Cyperus_strigosus,34.29667,-87.27028
 415980182,Cyperus_strigosus,42.43361,-71.14666
 415980351,Cyperus_strigosus,36.30194,-88.32666
 1899380738,Cyperus_strigosus,45.066667,-80.05
-1899380681,Cyperus_strigosus,44.8,-79.75
 1929388235,Cyperus_strigosus,39.969965,-74.071471
 415980203,Cyperus_strigosus,41.785,-72.28166
 176924595,Cyperus_strigosus,38.676292,-97.996047
 176924594,Cyperus_strigosus,38.59649,-97.334609
 415980342,Cyperus_strigosus,42.33333,-72.66666
 176924593,Cyperus_strigosus,38.13376,-97.84756
-1988779589,Cyperus_strigosus,37.675,-86
 1038926842,Cyperus_strigosus,41.4697,-71.8753
 2265514646,Cyperus_strigosus,44.118161,-91.823734
-1899352441,Cyperus_strigosus,49,-94.455556
 2265515461,Cyperus_strigosus,44.131005,-91.791254
 1899297495,Cyperus_strigosus,42.116667,-83.083333
 2265515650,Cyperus_strigosus,44.854763,-92.775046
@@ -620,7 +597,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846542690,Cyperus_strigosus,41.153333,-74.042778
 2265515703,Cyperus_strigosus,44.992361,-92.923695
 1804440676,Cyperus_strigosus,41.966667,-82.516667
-1899297570,Cyperus_strigosus,43.058333,-79.1
 56555727,Cyperus_strigosus,32.30083,-85.17028
 1265826015,Cyperus_strigosus,38.555703,-120.836317
 1899297573,Cyperus_strigosus,42.933333,-78.933333
@@ -639,7 +615,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415980341,Cyperus_strigosus,40.69722,-72.97444
 1899298736,Cyperus_strigosus,44.35,-75.966667
 1988217547,Cyperus_strigosus,42.77,-82.35
-1899332858,Cyperus_strigosus,43.166667,-79.1
 176924561,Cyperus_strigosus,37.36724,-96.11562
 415980191,Cyperus_strigosus,41.28138,-73.49805
 473258283,Cyperus_strigosus,45.4667,-73.9833
@@ -728,7 +703,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176924671,Cyperus_strigosus,37.05408,-94.63944
 1928708161,Cyperus_strigosus,40.65445,-73.119842
 415980204,Cyperus_strigosus,41.71944,-72.83944
-217050337,Cyperus_strigosus,33.3,-87.5
 2270577986,Cyperus_strigosus,33.71581,-111.30854
 217050341,Cyperus_strigosus,33.33556,-87.75361
 56555761,Cyperus_strigosus,32.63778,-87.8575
@@ -771,7 +745,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1321761964,Cyperus_strigosus,39.0347,-76.9078
 176924545,Cyperus_strigosus,39.07243,-94.746773
 2265517261,Cyperus_strigosus,45.084979,-92.817348
-1988220784,Cyperus_strigosus,48.5,-92.5
 2265515983,Cyperus_strigosus,45.08498,-92.81735
 1986926095,Cyperus_strigosus,37.637907,-120.495909
 1317577958,Cyperus_strigosus,38.9875,-76.8208
@@ -813,7 +786,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176924550,Cyperus_strigosus,39.56719,-97.19372
 56555820,Cyperus_strigosus,32.87555,-87.44611
 1322622878,Cyperus_strigosus,38.5244,-76.9536
-1228507867,Cyperus_strigosus,41.7,-86.6667
 1319116177,Cyperus_strigosus,38.8236,-77.7133
 1213635133,Cyperus_strigosus,39.520278,-88.471111
 1322895915,Cyperus_strigosus,38.6989,-77.1614
@@ -903,7 +875,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415980337,Cyperus_strigosus,37.39722,-77.24027
 415980336,Cyperus_strigosus,38.9125,-76.96972
 1931197698,Cyperus_strigosus,40.864454,-73.462825
-1989214692,Cyperus_strigosus,42.3,-83.81667
 415926526,Cyperus_strigosus,41.83333,-71.41666
 1989484682,Cyperus_strigosus,40.862412,-73.878143
 2265514944,Cyperus_strigosus,44.779131,-93.336336
@@ -987,7 +958,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928808339,Cyperus_strigosus,40.829273,-74.067008
 415980353,Cyperus_strigosus,42.14972,-72.43777
 1989475607,Cyperus_strigosus,42.05509,-86.18618
-1260928616,Cyperus_strigosus,40.491389,-92.7
 1931307069,Cyperus_strigosus,38.942396,-74.936862
 1039007732,Cyperus_strigosus,41.2992,-72.8575
 1228567757,Cyperus_strigosus,41.15,-87.8667
@@ -1033,7 +1003,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415980349,Cyperus_strigosus,41.27305,-71.98166
 1039021633,Cyperus_strigosus,41.7636,-72.6153
 415980197,Cyperus_strigosus,41.76361,-72.685
-786129610,Cyperus_strigosus,40.4,-86.9
 1930946127,Cyperus_strigosus,39.743852,-75.313898
 415980194,Cyperus_strigosus,41.80222,-72.66611
 415980199,Cyperus_strigosus,41.71222,-72.60805
@@ -1054,5 +1023,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930520861,Cyperus_strigosus,40.884359,-73.887094
 51813611,Cyperus_strigosus,45.3575,-122.6056
 1320469043,Cyperus_strigosus,38.8664,-76.9842
-1228166920,Cyperus_strigosus,40,-86
 1228517976,Cyperus_strigosus,41.59337,-87.346427
