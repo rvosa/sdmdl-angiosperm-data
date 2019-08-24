@@ -102,8 +102,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095251773,Swartzia_simplex,-9.245,-64.621944
 1090514310,Swartzia_simplex,-15.391667,-39.565278
 1090514853,Swartzia_simplex,-16.5,-39.25
-1675311899,Swartzia_simplex,-66.199167,-74.967667
-1675311918,Swartzia_simplex,-66.291389,-75.02425
 1257591359,Swartzia_simplex,8.965278,-80.699722
 1424238072,Swartzia_simplex,-14.300278,-38.986111
 1260882748,Swartzia_simplex,8.8275,-80.674444
@@ -197,7 +195,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257848247,Swartzia_simplex,10.192028,-83.86075
 1090500945,Swartzia_simplex,-15.173611,-39.341667
 1930634129,Swartzia_simplex,-15.2670172699472,-39.4141106424415
-1094831743,Swartzia_simplex,-15.166667,-30.483333
 1260294712,Swartzia_simplex,-2.998055,-78.158889
 1123898083,Swartzia_simplex,6.35,-74.583333
 1419164917,Swartzia_simplex,15.353611,-92.702778
@@ -212,7 +209,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253817689,Swartzia_simplex,9.763889,-84.322222
 1095244865,Swartzia_simplex,-12.869444,-39.471666
 1094840704,Swartzia_simplex,-12.869444,-39.471667
-1253819869,Swartzia_simplex,8.933333,-83.233333
 1253821813,Swartzia_simplex,10.439193,-84.010919
 1260094646,Swartzia_simplex,-10.44,-75.435278
 1257846346,Swartzia_simplex,10.452778,-84.65833
@@ -237,7 +233,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1321215629,Swartzia_simplex,-3.8311,-73.3728
 1930489156,Swartzia_simplex,-13.5633,-39.03
 1260830499,Swartzia_simplex,-4.88333,-73.68333
-1253780468,Swartzia_simplex,9.413921,-84.157427
 1257867305,Swartzia_simplex,9.430588,-84.157427
 1259084268,Swartzia_simplex,-2.53861,-77.925
 1257838557,Swartzia_simplex,9.769444,-84.32361
@@ -245,10 +240,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426116380,Swartzia_simplex,15.813889,-93.030556
 2268842647,Swartzia_simplex,-2.533333,-77.9
 1253815815,Swartzia_simplex,10.433333,-84.033333
-1426162033,Swartzia_simplex,15.3575,-93.2
 1419160791,Swartzia_simplex,15.858333,-93.208333
-1936620380,Swartzia_simplex,7.75,-81.5667
-1259474619,Swartzia_simplex,7.75,-81.566667
 1259085260,Swartzia_simplex,-4.30638,-78.68638
 1259193725,Swartzia_simplex,-3.216667,-78.25
 1094791007,Swartzia_simplex,-15.158056,-39.528611
@@ -321,7 +313,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090593027,Swartzia_simplex,-22.9028,-43.2075
 1259474347,Swartzia_simplex,9.99166,-83.37777
 1585318917,Swartzia_simplex,13.85,-90.00472
-1056988600,Swartzia_simplex,13.736897,-88.866511
 1258466597,Swartzia_simplex,13.85,-90.004722
 46050827,Swartzia_simplex,9.53,-84.03
 2268902841,Swartzia_simplex,-3.36666,-72
@@ -345,7 +336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258571269,Swartzia_simplex,-0.38333,-76.66666
 1258384693,Swartzia_simplex,11.01666,-84.2
 1317610798,Swartzia_simplex,-11.7856,-72.6992
-1253578460,Swartzia_simplex,8.481076,-83.595012
 1259472752,Swartzia_simplex,13.816667,-89.933333
 1257849591,Swartzia_simplex,10.762456,-85.307523
 1936679682,Swartzia_simplex,10.7622,-85.3075
@@ -392,8 +382,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258430740,Swartzia_simplex,9.59,-85.13
 1258380689,Swartzia_simplex,10.78333,-84.2
 1228461122,Swartzia_simplex,8.1667,-81.25
-1259472484,Swartzia_simplex,7.63861,-81.75694
-1258550231,Swartzia_simplex,7.696667,-81.621944
 1258279317,Swartzia_simplex,15.7,-86.847222
 2236061194,Swartzia_simplex,15.7,-86.8472
 1259474950,Swartzia_simplex,10.21527,-84.58888
@@ -444,7 +432,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931067070,Swartzia_simplex,-22.6546564621181,-42.3918119950037
 46049811,Swartzia_simplex,10.4,-84.05
 1253647418,Swartzia_simplex,8.722222,-83.441667
-1259472109,Swartzia_simplex,7.617778,-81.759722
 46050286,Swartzia_simplex,8.72,-83.44
 1261830238,Swartzia_simplex,10.4,-84.04
 1895139788,Swartzia_simplex,15.479722,-92.940278
@@ -470,11 +457,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 46049905,Swartzia_simplex,8.55,-83.1
 1094826761,Swartzia_simplex,-23.016667,-44.05
 1261550255,Swartzia_simplex,-0.6,-76.48333
-1258470471,Swartzia_simplex,8.46,-83.58
 46049896,Swartzia_simplex,8.62,-83.18
-1253646728,Swartzia_simplex,8.480556,-83.591667
 1259471874,Swartzia_simplex,8.74166,-79.9625
-46050125,Swartzia_simplex,8.48,-83.59
 46049956,Swartzia_simplex,10.43,-84.01
 1259032620,Swartzia_simplex,9.86,-85.35
 1261843183,Swartzia_simplex,-0.65,-76.43333
@@ -485,7 +469,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261555788,Swartzia_simplex,9.383333,-78.566667
 1261839892,Swartzia_simplex,-4.41666,-78.26666
 46050030,Swartzia_simplex,9.37,-82.98
-1259472875,Swartzia_simplex,7.61777,-81.75972
 1123878710,Swartzia_simplex,8.276667,-76.766667
 1261489718,Swartzia_simplex,0.9,-78.766667
 1320221969,Swartzia_simplex,1.13,-78.6
@@ -504,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 46049834,Swartzia_simplex,10.61,-84.99
 1929116785,Swartzia_simplex,-22.3746522218962,-41.7867701287175
 46049839,Swartzia_simplex,10.58,-84.99
-1253644273,Swartzia_simplex,8.466667,-83.583338
 768760306,Swartzia_simplex,1.6,-75.61
 1259032559,Swartzia_simplex,8.76,-83.25
 46049723,Swartzia_simplex,8.74,-83.6
@@ -519,7 +501,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897532935,Swartzia_simplex,15.029482,-92.104994
 123012698,Swartzia_simplex,-13.5,-69.833333
 1257523814,Swartzia_simplex,-13.5,-69.83333
-1259678548,Swartzia_simplex,15.23333,-61.26666
 1261326474,Swartzia_simplex,-3.81361,-70.26388
 1261442217,Swartzia_simplex,1.25,-78.666667
 768752135,Swartzia_simplex,6.94,-76.61
@@ -564,7 +545,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253707177,Swartzia_simplex,10.113889,-83.825
 1259218197,Swartzia_simplex,6.65,-74.53333
 1261543372,Swartzia_simplex,-3.8,-73.35
-1707526685,Swartzia_simplex,5.966667,-77.35
 1261542551,Swartzia_simplex,-4.53333,-74.5
 1707549698,Swartzia_simplex,6.333333,-77.333333
 1123887357,Swartzia_simplex,6.13955,-77.32947
@@ -587,7 +567,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253699791,Swartzia_simplex,10.533889,-83.507222
 1261541539,Swartzia_simplex,9.76,-84.6
 1261468723,Swartzia_simplex,10.769445,-85.316667
-46049640,Swartzia_simplex,10.76,-85.73
 1261463278,Swartzia_simplex,11.033333,-85.408333
 1261566180,Swartzia_simplex,10.41,-84.71
 46049675,Swartzia_simplex,11.03,-85.4
@@ -597,7 +576,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261826788,Swartzia_simplex,8.74,-83.54
 1253692889,Swartzia_simplex,8.743056,-83.544444
 1259032639,Swartzia_simplex,10.59,-83.8
-1253591005,Swartzia_simplex,8.466667,-83.583337
 1989430502,Swartzia_simplex,21.9564,-104.938
 1893677552,Swartzia_simplex,21.945,-104.996667
 46049564,Swartzia_simplex,10.21,-84.61
@@ -613,8 +591,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 46050718,Swartzia_simplex,11.03,-85.41
 1261927515,Swartzia_simplex,11.033333,-85.4
 46049802,Swartzia_simplex,10.41,-84.85
-1936412636,Swartzia_simplex,8.4667,-83.5833
-1253695388,Swartzia_simplex,8.466667,-83.583334
 1893677555,Swartzia_simplex,15.925,-96.42
 1261546164,Swartzia_simplex,9.4,-82.96
 1253689358,Swartzia_simplex,9.404167,-82.969444
@@ -632,7 +608,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261464113,Swartzia_simplex,10.32916,-84.08055
 1261544869,Swartzia_simplex,-0.86666,-76.08333
 1893677549,Swartzia_simplex,17.53,-101.068333
-1936441633,Swartzia_simplex,84.6167,-10.2167
 1893677553,Swartzia_simplex,17.551389,-99.500833
 1261563516,Swartzia_simplex,10.25,-84.71666
 1261841071,Swartzia_simplex,10.33,-84.05
@@ -755,7 +730,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261503357,Swartzia_simplex,9.4,-79.58333
 1261544555,Swartzia_simplex,8.85,-78.566667
 1259474295,Swartzia_simplex,10.25,-84.16
-1259474024,Swartzia_simplex,16.4,-86.35
 1423997015,Swartzia_simplex,-22.583333,-43.033333
 1258265848,Swartzia_simplex,-8.41666,-74.58333
 1261544951,Swartzia_simplex,9.15,-79.833333
@@ -776,7 +750,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261841539,Swartzia_simplex,9.08333,-79.91666
 1259473532,Swartzia_simplex,10.52,-84.09
 1317922852,Swartzia_simplex,9.0833,-79.9167
-1261514643,Swartzia_simplex,8.93444,-79.57055
 1259017766,Swartzia_simplex,5.854722,-74.863611
 1259472767,Swartzia_simplex,10,-84.63
 1259472100,Swartzia_simplex,20.394444,-105.385278
@@ -786,10 +759,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929479491,Swartzia_simplex,-0.5,-77.3
 1261544664,Swartzia_simplex,8.783333,-80.466667
 2235839009,Swartzia_simplex,8.78,-80.47
-1319186747,Swartzia_simplex,8.62,-79.05
-1259088555,Swartzia_simplex,8.61666,-79.06666
-1259088570,Swartzia_simplex,8.58333,-79.03333
-1322655433,Swartzia_simplex,8.63,-79.08
 1259515084,Swartzia_simplex,8.62,-80.598333
 1259684867,Swartzia_simplex,9.233333,-79
 1259472999,Swartzia_simplex,9.15,-79.84
@@ -804,7 +773,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259089394,Swartzia_simplex,9.558333,-79.541667
 1228259060,Swartzia_simplex,-4,-75
 1258771825,Swartzia_simplex,-6.33333,-76.33333
-1259474438,Swartzia_simplex,15.9125,-87.6275
 1259474035,Swartzia_simplex,8.7,-79.916667
 1258771921,Swartzia_simplex,-5.03333,-74.5
 1260618400,Swartzia_simplex,-10.91666,-66
@@ -813,11 +781,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261889095,Swartzia_simplex,-10.25,-74.91666
 1931283157,Swartzia_simplex,-22.971951,-43.277408
 1257678409,Swartzia_simplex,11.033333,-83.9
-46049044,Swartzia_simplex,9.37,-84.15
 1895511687,Swartzia_simplex,18.2326226404694,-103.18073003794
 1259475047,Swartzia_simplex,9.281945,-78.931944
 1928568496,Swartzia_simplex,-15.106298,-39.001787
-1259475279,Swartzia_simplex,15.769722,-86.807222
 1423997195,Swartzia_simplex,-19.15,-39.816667
 1258286891,Swartzia_simplex,-6.03333,-75.83333
 1259473465,Swartzia_simplex,9.15,-79.85
@@ -837,8 +803,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289457165,Swartzia_simplex,-1.35,-76.933333
 1259089069,Swartzia_simplex,9.566667,-79.566667
 1259475198,Swartzia_simplex,14.453333,-86.668889
-1259471794,Swartzia_simplex,15.771667,-86.706667
-1259474676,Swartzia_simplex,15.78333,-86.68333
 1258296112,Swartzia_simplex,-0.13333,-75.65
 1318494495,Swartzia_simplex,-2.3833,-77.5
 1258230483,Swartzia_simplex,-2.38333,-77.5
@@ -854,14 +818,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1318848923,Swartzia_simplex,-14.0667,-38.95
 1090418013,Swartzia_simplex,-14.066667,-38.95
 1890941398,Swartzia_simplex,7.841667,-77.130556
-1090418130,Swartzia_simplex,-17.55,-39.2
 1261828246,Swartzia_simplex,-4.0375,-77.748055
 1261533820,Swartzia_simplex,-4.035833,-77.744167
 1261533723,Swartzia_simplex,-5.902222,-78.674444
 1896288510,Swartzia_simplex,18.508333,-103.425
 1585321179,Swartzia_simplex,13.85,-89.9
 1260614756,Swartzia_simplex,-3.74805,-73.24722
-1259208364,Swartzia_simplex,7.514444,-81.863611
 1896291201,Swartzia_simplex,18.576667,-103.416667
 1259472235,Swartzia_simplex,7.983333,-78.35
 1123913143,Swartzia_simplex,7.533302,-75.2787
@@ -877,7 +839,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 46049387,Swartzia_simplex,9.91,-84.3
 1931299221,Swartzia_simplex,-17.0431544649376,-39.53071760533
 1259472824,Swartzia_simplex,9.24527,-79.11611
-1259473350,Swartzia_simplex,9.229167,-78.029167
 1259473404,Swartzia_simplex,8.7,-80.456944
 1928750287,Swartzia_simplex,-16.368126,-39.144185
 1890915248,Swartzia_simplex,-1.099981,-71.083315
@@ -887,7 +848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259472589,Swartzia_simplex,8.68722,-79.92194
 1259473403,Swartzia_simplex,8.43333,-81.76666
 1123883345,Swartzia_simplex,5.196029,-74.8393
-1259471390,Swartzia_simplex,15.7825,-86.706667
 1259471743,Swartzia_simplex,9.10583,-78.76
 1062307846,Swartzia_simplex,7.1555,-73.76083
 1890900833,Swartzia_simplex,7.998105,-77.160263
@@ -912,7 +872,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261870994,Swartzia_simplex,-4.483333,-78.133333
 1261871236,Swartzia_simplex,-4.466667,-78.166667
 1259473345,Swartzia_simplex,10.4,-84.1
-1259473939,Swartzia_simplex,9.318333,-79.955
 1259474965,Swartzia_simplex,9.272778,-78.929167
 1259474604,Swartzia_simplex,9.5,-79.666667
 1929148534,Swartzia_simplex,-22.974055,-43.275451
@@ -935,7 +894,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259471594,Swartzia_simplex,9.16,-79.745555
 1259475112,Swartzia_simplex,7.73361,-80.36666
 1259471857,Swartzia_simplex,9.5,-79.65
-1259472159,Swartzia_simplex,9.297778,-80.016111
 1258986991,Swartzia_simplex,9.20333,-78.76722
 1258987571,Swartzia_simplex,7.883333,-77.5
 1258987608,Swartzia_simplex,7.73333,-77.5
@@ -947,8 +905,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258990855,Swartzia_simplex,9.226389,-78.966111
 1261490135,Swartzia_simplex,-5.9,-76.08333
 1261503893,Swartzia_simplex,-3.038333,-73.239167
-46048905,Swartzia_simplex,8.15,-82.91
-1259474440,Swartzia_simplex,8.15,-82.916667
 1259471934,Swartzia_simplex,15.416389,-92.806389
 1261857914,Swartzia_simplex,-4.65166,-78.1475
 1895477027,Swartzia_simplex,15.3982026898975,-92.8202002400778
@@ -990,7 +946,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259473454,Swartzia_simplex,9.16,-79.81972
 1259471192,Swartzia_simplex,8.88333,-79.8
 1259471601,Swartzia_simplex,8.9525,-79.63027
-1259145838,Swartzia_simplex,8.431111,-78.853333
 1259474541,Swartzia_simplex,8.61166,-80.55833
 1259471811,Swartzia_simplex,9.31666,-79.65
 1259471937,Swartzia_simplex,9.164167,-79.830556
@@ -1011,7 +966,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930753432,Swartzia_simplex,-9.116428,-68.676216
 1258550217,Swartzia_simplex,8.10305,-80.99083
 1260803831,Swartzia_simplex,8.65,-78.15
-1258659655,Swartzia_simplex,8.43111,-78.85333
 1259473609,Swartzia_simplex,8.466667,-77.583333
 1259474119,Swartzia_simplex,9.224167,-79.95
 1258688571,Swartzia_simplex,8,-77.5
@@ -1019,7 +973,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258710618,Swartzia_simplex,8.0525,-78.15
 1259471375,Swartzia_simplex,8.116667,-77.283333
 1258739036,Swartzia_simplex,9.416667,-79.083333
-1259472677,Swartzia_simplex,8.72083,-78.70555
 1259471197,Swartzia_simplex,9.15972,-79.82083
 1259473686,Swartzia_simplex,7.54861,-80.60138
 1259519195,Swartzia_simplex,10.21,-84.39
@@ -1043,9 +996,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261499786,Swartzia_simplex,-7.176944,-76.7275
 1261501085,Swartzia_simplex,-6.93333,-76.8
 1259471818,Swartzia_simplex,7.583333,-78.183333
-1259472579,Swartzia_simplex,7.504444,-81.693889
 1260557031,Swartzia_simplex,9.216111,-78.975
-1259474222,Swartzia_simplex,8.39888,-79.10694
 1929071321,Swartzia_simplex,-16.4534421797808,-39.0642869012885
 1989095321,Swartzia_simplex,19.7553,-104.386
 1895511657,Swartzia_simplex,19.5026404174193,-104.550633575298
@@ -1060,14 +1011,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989129051,Swartzia_simplex,18.969,-104.106
 1893642861,Swartzia_simplex,19.770833,-104.369444
 1989076556,Swartzia_simplex,19.3326,-104.686
-1928187217,Swartzia_simplex,-15.7834208090807,-47.9298726661488
 1895477072,Swartzia_simplex,17.3667823489847,-99.4716076212492
 1988738465,Swartzia_simplex,17.3826,-99.467
 1989083527,Swartzia_simplex,19.3263,-104.579
 1895139817,Swartzia_simplex,15.888611,-93.653611
 1259471130,Swartzia_simplex,8.35,-77.366667
 1259471207,Swartzia_simplex,8.623611,-80.108333
-1259472334,Swartzia_simplex,8.25805,-79.11166
 1895511664,Swartzia_simplex,21.5399388732523,-105.285537065428
 1989381178,Swartzia_simplex,21.5394,-105.275
 1228167400,Swartzia_simplex,3.8811,-72.8667
@@ -1076,7 +1025,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258550221,Swartzia_simplex,14.534167,-91.227222
 1895477013,Swartzia_simplex,18.5992539454052,-103.504371889949
 1989326115,Swartzia_simplex,18.9188,-103.27
-1259474709,Swartzia_simplex,8.4225,-79.10805
 1989445762,Swartzia_simplex,18.5988,-103.506
 912162040,Swartzia_simplex,18.6,-103.5
 1261032950,Swartzia_simplex,18.59,-103.5
@@ -1085,9 +1033,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259474873,Swartzia_simplex,8.72083,-79.89138
 1259472620,Swartzia_simplex,9.245,-82.383333
 1931266347,Swartzia_simplex,-22.973268,-43.249313
-1259472754,Swartzia_simplex,8.965278,-79.583333
 1895511660,Swartzia_simplex,17.1665327764228,-100.567026559626
-1259473358,Swartzia_simplex,8.9,-79.58333
 1895511681,Swartzia_simplex,18.7575748456065,-103.367700315771
 1259471355,Swartzia_simplex,15.74305,-86.79472
 1259474951,Swartzia_simplex,15.72444,-86.76722
