@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1450991410,Cynanchum_floribundum,-25.7611,138.0225
 1652386199,Cynanchum_floribundum,-25.385543,141.617493
 1805847006,Cynanchum_floribundum,-25.385544,141.617494
-1451062621,Cynanchum_floribundum,-22.0154,114.5023
 1937365264,Cynanchum_floribundum,-25.544345,138.809293
 1937273606,Cynanchum_floribundum,-22.6728,131.0958
 1257385427,Cynanchum_floribundum,-22.672778,131.095833
@@ -14,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652342104,Cynanchum_floribundum,-22.308333,141.541667
 1805882648,Cynanchum_floribundum,-21.482889,121.027583
 1257380566,Cynanchum_floribundum,-26.274444,136.151389
-996960576,Cynanchum_floribundum,-20.62973,116.761439
 992082027,Cynanchum_floribundum,-28.154444,140.836667
 1257381225,Cynanchum_floribundum,-25.808056,134.274167
 1835228510,Cynanchum_floribundum,-25.586498,140.238384
@@ -42,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996932505,Cynanchum_floribundum,-20.875028,120.699105
 1257372649,Cynanchum_floribundum,-25.7058,135.5294
 996932437,Cynanchum_floribundum,-23.46727,120.19219
-996912764,Cynanchum_floribundum,-22.326967,113.811133
 1257373080,Cynanchum_floribundum,-22.2167,132.5722
 1257372999,Cynanchum_floribundum,-22.4792,132.6528
 996910963,Cynanchum_floribundum,-28.63544,116.461368
@@ -52,7 +49,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993618385,Cynanchum_floribundum,-27.75,140.9333
 1652315011,Cynanchum_floribundum,-20.112222,144.536389
 1257369217,Cynanchum_floribundum,-25.3961,135.4575
-996862387,Cynanchum_floribundum,-20.63625,116.78127
 996845811,Cynanchum_floribundum,-21.34256,117.244953
 996845835,Cynanchum_floribundum,-19.185013,121.464087
 1257369549,Cynanchum_floribundum,-22.9192,134.3206
@@ -75,8 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257361062,Cynanchum_floribundum,-25.3119,133.4064
 996016227,Cynanchum_floribundum,-25.3119,133.406
 994362821,Cynanchum_floribundum,-16.785,131.2111
-995398608,Cynanchum_floribundum,-20.4,115.5667
-996701660,Cynanchum_floribundum,-20.4,115.6
 1084160715,Cynanchum_floribundum,-31.08747,138.82945
 992010768,Cynanchum_floribundum,-31.088889,138.828056
 991996658,Cynanchum_floribundum,-26.753966,139.533792
@@ -140,7 +134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994936968,Cynanchum_floribundum,-22.45,136.8
 1937007429,Cynanchum_floribundum,-26.73,139.63
 992538883,Cynanchum_floribundum,-26.816667,140.983333
-996630727,Cynanchum_floribundum,-20.758333,115.360556
 996318351,Cynanchum_floribundum,-21.583056,117.091667
 992526294,Cynanchum_floribundum,-29.154524,140.078806
 1085476402,Cynanchum_floribundum,-29.15421,140.07897
@@ -165,7 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652076652,Cynanchum_floribundum,-21.290257,143.825881
 993894741,Cynanchum_floribundum,-26.9167,140.8667
 992517980,Cynanchum_floribundum,-26.926737,140.879614
-996878472,Cynanchum_floribundum,-20.966667,115.333333
 992534230,Cynanchum_floribundum,-28.832022,140.167691
 994426480,Cynanchum_floribundum,-27.16528,140.16763
 992467622,Cynanchum_floribundum,-28.082016,140.917678
@@ -184,8 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992410606,Cynanchum_floribundum,-28.4,139
 996085379,Cynanchum_floribundum,-23.85,133.45
 994265684,Cynanchum_floribundum,-23.848575,133.451272
-996499196,Cynanchum_floribundum,-20.605,116.483
-993314211,Cynanchum_floribundum,-20.6,116.4667
 993470869,Cynanchum_floribundum,-21.5167,121.0833
 1652398496,Cynanchum_floribundum,-25.658333,140.241667
 996446904,Cynanchum_floribundum,-21.516667,121.083333
@@ -210,7 +200,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992533327,Cynanchum_floribundum,-28.961468,140.104082
 1652093345,Cynanchum_floribundum,-23.690267,141.009257
 992398672,Cynanchum_floribundum,-24,141
-996498551,Cynanchum_floribundum,-20.571389,116.803056
 996499176,Cynanchum_floribundum,-23.35,119.73
 996498528,Cynanchum_floribundum,-21,117.1
 992388428,Cynanchum_floribundum,-31.35,138.57
@@ -218,10 +207,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992384813,Cynanchum_floribundum,-19.97,129.65
 992375329,Cynanchum_floribundum,-31.95,138.08
 992402913,Cynanchum_floribundum,-26.7,140.6
-993302882,Cynanchum_floribundum,-20.6,116.4833
-2290993010,Cynanchum_floribundum,-20.6,116.483333
 996085165,Cynanchum_floribundum,-28.83,140.5
-996499493,Cynanchum_floribundum,-20.6,116.5
 992067146,Cynanchum_floribundum,-28.561757,138.121319
 996878387,Cynanchum_floribundum,-22.7,117.8
 996878448,Cynanchum_floribundum,-22.8,119.2
@@ -298,7 +284,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992252183,Cynanchum_floribundum,-31.342598,138.557173
 996085280,Cynanchum_floribundum,-31.32,138.52
 1651984670,Cynanchum_floribundum,-25.081933,141.084265
-996498860,Cynanchum_floribundum,-20.883056,115.326667
 993727719,Cynanchum_floribundum,-29.75,141.1
 992477291,Cynanchum_floribundum,-24.139076,118.429174
 993194309,Cynanchum_floribundum,-22.55,130.5833
@@ -337,10 +322,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992171973,Cynanchum_floribundum,-32.825,137.976
 993185876,Cynanchum_floribundum,-30.9667,139.2833
 992468708,Cynanchum_floribundum,-30.961758,139.265218
-996499339,Cynanchum_floribundum,-21.953,114.025
 996499137,Cynanchum_floribundum,-21.934722,114.123333
 996499507,Cynanchum_floribundum,-22.493056,118.614722
-996499318,Cynanchum_floribundum,-20.733333,115.433333
 992140628,Cynanchum_floribundum,-30.537319,138.15078
 1937174637,Cynanchum_floribundum,-30.45,138.216667
 993133292,Cynanchum_floribundum,-6.25,146.25
@@ -354,8 +337,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651962712,Cynanchum_floribundum,-22.415258,143.250893
 996499091,Cynanchum_floribundum,-21.318333,117.201944
 992170321,Cynanchum_floribundum,-31.329541,138.58495
-996499247,Cynanchum_floribundum,-20.51,116.84
-996499220,Cynanchum_floribundum,-20.4,116.905
 992130037,Cynanchum_floribundum,-30.578056,138.607778
 992351501,Cynanchum_floribundum,-31.824,141.209
 996498735,Cynanchum_floribundum,-26.323,118.495
@@ -375,7 +356,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257344033,Cynanchum_floribundum,-22.331909,132.117931
 993352088,Cynanchum_floribundum,-22.3167,132.1
 992157440,Cynanchum_floribundum,-32.115383,138.034407
-993257124,Cynanchum_floribundum,-20.45,115.5167
 996498839,Cynanchum_floribundum,-21.62,118.95
 992232948,Cynanchum_floribundum,-26.234,132.5836
 996499271,Cynanchum_floribundum,-20.635556,119.584167
@@ -403,7 +383,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257298281,Cynanchum_floribundum,-23.498572,132.967934
 994619860,Cynanchum_floribundum,-23.4,132.95
 474817146,Cynanchum_floribundum,-31.0398,116.0452
-996499523,Cynanchum_floribundum,-24.879722,113.658056
 995276263,Cynanchum_floribundum,-28.5833,138.55
 474774003,Cynanchum_floribundum,-20.77237,117.14583
 992368294,Cynanchum_floribundum,-20.7713,117.1453
