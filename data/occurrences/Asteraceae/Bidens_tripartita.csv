@@ -54,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697352026,Bidens_tripartita,55.68736,41.758797
 1697688741,Bidens_tripartita,57.070824,30.366104
 1978007113,Bidens_tripartita,37.716102,-84.294626
-1949959769,Bidens_tripartita,52.5,9.722222
 1801067268,Bidens_tripartita,54.9301,40.35139
 1417511501,Bidens_tripartita,45.544017,-73.439017
 1838975219,Bidens_tripartita,40.045559,20.70472
@@ -113,7 +112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702108395,Bidens_tripartita,59.6791,11.0723
 1257941065,Bidens_tripartita,37.0145,-90.19439
 1935656146,Bidens_tripartita,47.02319,15.41504
-1095918260,Bidens_tripartita,59,17
 2289837727,Bidens_tripartita,52.858333,6.983333
 1257894551,Bidens_tripartita,36.908333,-90.258611
 1142087117,Bidens_tripartita,48.59156,15.21456
@@ -155,7 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265967486,Bidens_tripartita,46.875278,-94.384722
 900315126,Bidens_tripartita,59.4248,10.4929
 1999600828,Bidens_tripartita,60.451829,22.281932
-1050649582,Bidens_tripartita,42.8,-2.57
 736074123,Bidens_tripartita,36.695833,137.85625
 1934138140,Bidens_tripartita,36.708333,137.8125
 1978754141,Bidens_tripartita,45.693056,-73.775278
@@ -197,7 +194,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260757202,Bidens_tripartita,37.06055,-90.11083
 388796805,Bidens_tripartita,35.571667,135.906389
 391287600,Bidens_tripartita,37.418333,140.084722
-1417512193,Bidens_tripartita,45.466667,-73.9
 1934097962,Bidens_tripartita,34.7085,136.0422
 1702239800,Bidens_tripartita,59.69406,9.09258
 1697843673,Bidens_tripartita,44.231919,42.035902
@@ -223,7 +219,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381788284,Bidens_tripartita,36.00768,140.1907
 391287545,Bidens_tripartita,37.107333,140.217861
 1830671762,Bidens_tripartita,33.483333,134.066667
-1830671780,Bidens_tripartita,33.2,133.05
 2243077918,Bidens_tripartita,39.997675,140.013334
 204369930,Bidens_tripartita,34.61314,135.95473
 1830672927,Bidens_tripartita,33.566667,134.05
@@ -272,7 +267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697688927,Bidens_tripartita,52.895887,40.494629
 238088186,Bidens_tripartita,37.683333,140.066667
 932706268,Bidens_tripartita,42.19798,-8.77128
-1830685942,Bidens_tripartita,33.466667,133.1
 1830685683,Bidens_tripartita,33.716667,133.583333
 176893670,Bidens_tripartita,39.3835,-94.9207
 1830195168,Bidens_tripartita,36.65,137.25
@@ -323,7 +317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 641353,Bidens_tripartita,41.083333,24.766667
 1978754511,Bidens_tripartita,45.711667,-73.729722
 1697688793,Bidens_tripartita,55.61525,40.650101
-1830970129,Bidens_tripartita,47,15.86667
 2313349998,Bidens_tripartita,48.27,11.46
 1701847630,Bidens_tripartita,59.9318,10.9656
 1999600932,Bidens_tripartita,60.995476,22.235588
@@ -344,11 +337,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838971973,Bidens_tripartita,38.367779,21.54361
 388796851,Bidens_tripartita,35.599071,139.30306
 2244522476,Bidens_tripartita,32.95,132.933333
-2244521664,Bidens_tripartita,33.2,133.133333
-2244522287,Bidens_tripartita,32.9,132.916667
 2244520707,Bidens_tripartita,33.566667,133.833333
 2244521206,Bidens_tripartita,32.85,132.933333
-2244521818,Bidens_tripartita,33.2,133.183333
 995205294,Bidens_tripartita,-34.5761,150.5253
 1451593062,Bidens_tripartita,-34.57454,150.526453
 995890940,Bidens_tripartita,-34.5761,150.525
@@ -367,7 +357,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851361457,Bidens_tripartita,42.6574,-6.5117
 1929528938,Bidens_tripartita,47.5956,-107.7031
 1701862011,Bidens_tripartita,59.4429,10.709
-1844870179,Bidens_tripartita,42.12,0.9
 1697747809,Bidens_tripartita,44.827996,34.804859
 1843912617,Bidens_tripartita,35.971791,-106.520223
 1843853057,Bidens_tripartita,35.571031,-106.152604
@@ -375,12 +364,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381788130,Bidens_tripartita,35.90553,140.62639
 1701651142,Bidens_tripartita,59.84212,10.21987
 381788223,Bidens_tripartita,36.61325,140.67506
-1988172985,Bidens_tripartita,49.2,-122.63
 388796766,Bidens_tripartita,35.365781,139.982867
 176892637,Bidens_tripartita,36.376944,-99.618056
 1933838329,Bidens_tripartita,35.466667,135.283333
 176892533,Bidens_tripartita,35.570835,-99.700836
-1829455582,Bidens_tripartita,39.6,140.33
 1146357820,Bidens_tripartita,63.92,-151.49
 1702199022,Bidens_tripartita,59.7516,10.2875
 296426071,Bidens_tripartita,47.504,9.729
@@ -399,17 +386,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265474465,Bidens_tripartita,47.307427,-91.31451
 900225198,Bidens_tripartita,58.7366,5.6739
 230816485,Bidens_tripartita,51.880495,5.743024
-1988141593,Bidens_tripartita,49.1,-123.1
 395740733,Bidens_tripartita,35.089444,134.101389
 1702219628,Bidens_tripartita,60.7641,11.1632
-318104519,Bidens_tripartita,42.9,-8.73
-1697688862,Bidens_tripartita,56,37.483333
 1988190469,Bidens_tripartita,49.28,-122.75
 415926021,Bidens_tripartita,41.89861,-72.61666
 395740725,Bidens_tripartita,35.298056,133.731111
 1260951920,Bidens_tripartita,37.06277,-90.09861
 1701835319,Bidens_tripartita,59.2715,10.7905
-1697688874,Bidens_tripartita,56.333333,37
 176892204,Bidens_tripartita,38.5875,-94.745833
 1830191007,Bidens_tripartita,36.616667,137.233333
 1829621010,Bidens_tripartita,36.47,138.779444
@@ -418,7 +401,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381788080,Bidens_tripartita,36.11762,139.95869
 1702199479,Bidens_tripartita,60.8647,10.82
 1881068286,Bidens_tripartita,48.88,10.59
-56526903,Bidens_tripartita,33.1,-88.57
 381788041,Bidens_tripartita,35.83085,140.75288
 1702164691,Bidens_tripartita,59.4523,11.6892
 1999474030,Bidens_tripartita,60.486095,22.073772
@@ -428,17 +410,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702192039,Bidens_tripartita,59.6544,10.7701
 1697688986,Bidens_tripartita,53.684661,53.154056
 1702165489,Bidens_tripartita,59.831,11.2594
-1248697802,Bidens_tripartita,46.75,-71.3
 1701839039,Bidens_tripartita,59.66,10.6816
 1702191872,Bidens_tripartita,59.7384,10.7354
-1829606539,Bidens_tripartita,36.2,139.5
 1702199522,Bidens_tripartita,60.8152,10.83
 1829618588,Bidens_tripartita,36.698056,139.076667
 1988126965,Bidens_tripartita,49.11,-122.08
 1829611992,Bidens_tripartita,36.460556,139.049444
 1988868148,Bidens_tripartita,42.88213,-79.30777
 20534608,Bidens_tripartita,60.8472,10.9791
-1988081674,Bidens_tripartita,49.2,-123.2
 415915373,Bidens_tripartita,41.28166,-72.86166
 623642010,Bidens_tripartita,46.0755,-123.9105
 1830215890,Bidens_tripartita,35.45273,133.11543
@@ -448,7 +427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1606511214,Bidens_tripartita,61.473018,24.284305
 1702206044,Bidens_tripartita,60.4069,11.5225
 176892626,Bidens_tripartita,37.482995,-95.127815
-2265964388,Bidens_tripartita,46,-92.490556
 1260987653,Bidens_tripartita,38.81222,-92.40666
 1697688807,Bidens_tripartita,60.294504,38.485027
 1702163289,Bidens_tripartita,59.6027,11.2671
@@ -460,12 +438,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930799328,Bidens_tripartita,46.2593,-107.3321
 1260948103,Bidens_tripartita,36.85833,-90.28805
 1701234680,Bidens_tripartita,63.4319,10.4017
-1258500322,Bidens_tripartita,37.21666,-90.2
 2265438516,Bidens_tripartita,44.505359,-92.319092
 1342231748,Bidens_tripartita,55.291298,8.565692
 395740643,Bidens_tripartita,35.301389,134.002778
-1988224009,Bidens_tripartita,42.8,-80
-1988096481,Bidens_tripartita,43.7,-80.7
 1998645358,Bidens_tripartita,26.135556,98.593056
 575319823,Bidens_tripartita,26.136389,98.584444
 1989317065,Bidens_tripartita,42.79799,-79.95203
@@ -512,7 +487,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176892736,Bidens_tripartita,39.434839,-99.279802
 176892518,Bidens_tripartita,42.759684,-92.459187
 1830190563,Bidens_tripartita,36.75,137.35
-1881068527,Bidens_tripartita,48.87,10.7
 1697688719,Bidens_tripartita,60.291938,38.440905
 1701788686,Bidens_tripartita,59.7572,10.8681
 1697688792,Bidens_tripartita,54.80119,40.874876
@@ -528,11 +502,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701313112,Bidens_tripartita,60.5766,12.0161
 176892828,Bidens_tripartita,45.9056,-97.9756
 668747867,Bidens_tripartita,45.85,-73.233333
-899743765,Bidens_tripartita,54.4,12.7
 1999286630,Bidens_tripartita,36.65,101.333333
 2313349709,Bidens_tripartita,48.17,11.46
-1988240047,Bidens_tripartita,49.3,-123.2
-1050658039,Bidens_tripartita,43.65,-1.2
 204421487,Bidens_tripartita,43.66,-1.45
 204421491,Bidens_tripartita,42.132999,-1.59
 176892976,Bidens_tripartita,45.9184,-97.9521
@@ -566,27 +537,21 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895168742,Bidens_tripartita,60.33,23.58
 1260938184,Bidens_tripartita,38.69944,-90.78722
 473570124,Bidens_tripartita,46.649,-71.6189
-1050629915,Bidens_tripartita,43.39,-6
 1701577358,Bidens_tripartita,60.0348,12.3749
 1881068470,Bidens_tripartita,48.79,10.59
 473569271,Bidens_tripartita,46.5593169990583,-72.03925
-615281519,Bidens_tripartita,35.48,74.5
 176893027,Bidens_tripartita,38.904398,-95.451123
 388796948,Bidens_tripartita,36.240665,139.653143
 381788022,Bidens_tripartita,36.03444,140.24422
-729290794,Bidens_tripartita,35.5,134.64999
 176892507,Bidens_tripartita,39.365317,-94.894232
 1999474011,Bidens_tripartita,60.74331,21.519835
 615281955,Bidens_tripartita,36.35,73.85
-615282021,Bidens_tripartita,36.4,73.33
 1702435917,Bidens_tripartita,60.771,11.2306
 668747987,Bidens_tripartita,46.766667,-71.266667
 1702438150,Bidens_tripartita,59.1813,11.1555
 204421453,Bidens_tripartita,43.48,-1.58
 1988170584,Bidens_tripartita,49.22,-122.88
-1988129954,Bidens_tripartita,49.1,-122.8
 176892508,Bidens_tripartita,38.51246,-94.686244
-729284336,Bidens_tripartita,35,135.2
 1050582386,Bidens_tripartita,41.98,-1.65
 1989047134,Bidens_tripartita,43.29757,-86.08419
 1061582917,Bidens_tripartita,-34.814648,150.743454
@@ -603,11 +568,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701926888,Bidens_tripartita,59.7234,10.3246
 1702420115,Bidens_tripartita,59.7506,10.2901
 2265484800,Bidens_tripartita,43.609015,-92.219127
-1988180166,Bidens_tripartita,42.6,-81.7
 1318549900,Bidens_tripartita,38.9667,-77.1667
 1144602840,Bidens_tripartita,42.08333,9.41667
-1144602836,Bidens_tripartita,42.1,9.46667
-1144602817,Bidens_tripartita,42.1,9.45
 1030810408,Bidens_tripartita,33.016635,110.064082
 1598514839,Bidens_tripartita,61.039555,24.630669
 1702227207,Bidens_tripartita,59.921,11.5678
@@ -616,7 +578,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697688722,Bidens_tripartita,66.589942,32.81636
 1702383948,Bidens_tripartita,60.8498,10.7575
 1701703747,Bidens_tripartita,60.7945,10.8647
-1697302791,Bidens_tripartita,54.083333,80
 1702384458,Bidens_tripartita,60.7378,10.9687
 1702363510,Bidens_tripartita,59.7596,10.2904
 2265434309,Bidens_tripartita,44.548056,-95.124444
@@ -628,9 +589,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265484291,Bidens_tripartita,46.811988,-94.607677
 176892822,Bidens_tripartita,39.227323,-95.557509
 895280885,Bidens_tripartita,39.41,-0.39
-615281922,Bidens_tripartita,28.1,83.9
 1701329984,Bidens_tripartita,63.4341,10.3638
-1899275998,Bidens_tripartita,43.85,-80
 729310737,Bidens_tripartita,35.500301,134.519
 1829769885,Bidens_tripartita,35.528261,140.134239
 176892502,Bidens_tripartita,38.891968,-95.589521
@@ -645,7 +604,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994449919,Bidens_tripartita,-41.37,147.05
 995080312,Bidens_tripartita,-38.1167,147.0667
 1697688829,Bidens_tripartita,54.638137,40.691275
-473415123,Bidens_tripartita,48.216667,-79.3
 1705359736,Bidens_tripartita,57.842817,14.906076
 1598514849,Bidens_tripartita,61.005465,24.389088
 668747865,Bidens_tripartita,45.016667,-73.091667
@@ -661,12 +619,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829770100,Bidens_tripartita,35.386614,140.146744
 1030810291,Bidens_tripartita,30.222233,110.871148
 995069524,Bidens_tripartita,-37.85,147.6333
-994538953,Bidens_tripartita,61,24.5
 1598514812,Bidens_tripartita,60.970839,24.456591
 1598514855,Bidens_tripartita,60.994979,24.499032
 1598514802,Bidens_tripartita,60.964393,24.495894
 1598514862,Bidens_tripartita,61.000802,24.522613
-994538853,Bidens_tripartita,61,25
 1598514816,Bidens_tripartita,60.974355,24.440697
 1598514803,Bidens_tripartita,60.885425,24.312307
 1050658085,Bidens_tripartita,42.64,-1.83
@@ -703,11 +659,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598514782,Bidens_tripartita,61.094125,24.112834
 1598514822,Bidens_tripartita,61.035356,24.449571
 1598514826,Bidens_tripartita,60.965286,24.447799
-1050614185,Bidens_tripartita,42.51,-2.5
 1899288270,Bidens_tripartita,46.15,-78.325
 1702231885,Bidens_tripartita,59.6823,11.7973
 1598514866,Bidens_tripartita,61.035904,24.338451
-1804453412,Bidens_tripartita,45.3,-75.616667
 1705346005,Bidens_tripartita,57.401497,15.688775
 1830167427,Bidens_tripartita,36.883333,136.966667
 615281649,Bidens_tripartita,29.58,94.92
@@ -770,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473457492,Bidens_tripartita,45.466667,-73.933333
 1050614117,Bidens_tripartita,42.22,-1.75
 176892665,Bidens_tripartita,43.022999,-86.031998
-1978069464,Bidens_tripartita,36.033333,-85.1
 1260976811,Bidens_tripartita,38.13916,-90.68805
 1050658049,Bidens_tripartita,42.16,-1.63
 1598514722,Bidens_tripartita,60.440793,23.153904
@@ -797,9 +750,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030810281,Bidens_tripartita,30.78311,115.399242
 85779171,Bidens_tripartita,36.779999,-2.55
 1260935603,Bidens_tripartita,39.52416,-92.67194
-1804462044,Bidens_tripartita,45.3,-75.55
 1598514724,Bidens_tripartita,63.310936,30.02436
-2304339615,Bidens_tripartita,42.8,-80.41
 1705352196,Bidens_tripartita,57.068523,16.250325
 1899373259,Bidens_tripartita,42.666667,-80.483333
 1851344569,Bidens_tripartita,42.457,-8.836
@@ -818,8 +769,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935656029,Bidens_tripartita,48.70278,16.78139
 1598514772,Bidens_tripartita,62.678161,22.861259
 1598514799,Bidens_tripartita,60.205127,24.589198
-2311040110,Bidens_tripartita,52.1,-3.12
-1946815067,Bidens_tripartita,50.01,10.2
 1697747825,Bidens_tripartita,44.903794,35.129428
 1050614151,Bidens_tripartita,42.49,-2.39
 891607036,Bidens_tripartita,25.009167,121.815833
@@ -836,8 +785,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701883086,Bidens_tripartita,60.01399,9.99
 1851374161,Bidens_tripartita,42.48,-6.75
 1598514809,Bidens_tripartita,59.992137,23.038448
-1050614159,Bidens_tripartita,42.95,-2.6
-1946815055,Bidens_tripartita,49.98,10.3
 1050614134,Bidens_tripartita,42.94,-2.56
 234411173,Bidens_tripartita,35.482424,139.45305
 668747864,Bidens_tripartita,46.747222,-71.447222
@@ -903,7 +850,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 43196680,Bidens_tripartita,33.47689,133.38951
 1883359957,Bidens_tripartita,57.71279,14.12909
 1697688802,Bidens_tripartita,54.756661,40.878531
-442113046,Bidens_tripartita,54,56
 1697688828,Bidens_tripartita,54.687682,40.866225
 2012939082,Bidens_tripartita,35.313684,75.604751
 1598514831,Bidens_tripartita,61.364128,24.6314
@@ -915,7 +861,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265484614,Bidens_tripartita,46.653138,-94.145909
 1697688774,Bidens_tripartita,53.262612,34.405682
 833455424,Bidens_tripartita,49.25,7.666666
-994853187,Bidens_tripartita,-38.15,147.1
 2012939067,Bidens_tripartita,35.301356,75.640499
 1828813161,Bidens_tripartita,36.366668,136.445165
 415924309,Bidens_tripartita,41.78833,-72.22944
@@ -931,7 +876,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099899296,Bidens_tripartita,60.466667,22.716667
 2265486104,Bidens_tripartita,43.543897,-91.312564
 1701724818,Bidens_tripartita,59.7162,10.6043
-1936914444,Bidens_tripartita,-30.8,153
 176892342,Bidens_tripartita,37.799406,-95.844018
 1697841109,Bidens_tripartita,42.83343,44.038696
 176892345,Bidens_tripartita,39.335563,-96.632952
@@ -987,7 +931,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176892891,Bidens_tripartita,48.48856,-109.77684
 237689036,Bidens_tripartita,63.4308,10.3726
 176892649,Bidens_tripartita,46.008943649351,-98.1460627145183
-615281884,Bidens_tripartita,36.5,69.88
 1697302803,Bidens_tripartita,50.697755,93.237388
 1999474027,Bidens_tripartita,60.649107,21.865671
 1260947194,Bidens_tripartita,39.50666,-91.72361
@@ -1008,7 +951,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211620917,Bidens_tripartita,43.16,-5.94
 1697688826,Bidens_tripartita,55.785116,36.095238
 1697688763,Bidens_tripartita,54.63824,40.686296
-1144602837,Bidens_tripartita,41.95,9.4
 176892905,Bidens_tripartita,46.6277206641563,-100.617373949256
 1598515024,Bidens_tripartita,61.035764,23.387723
 1697688776,Bidens_tripartita,54.398636,35.70237
@@ -1033,7 +975,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176892881,Bidens_tripartita,38.4184,-96.21867
 1897752871,Bidens_tripartita,-36.883333,174.616667
 1451634134,Bidens_tripartita,-34.515096,150.501175
-995994803,Bidens_tripartita,-34.52,150.5
 1697688830,Bidens_tripartita,59.44009,29.402714
 1099899413,Bidens_tripartita,61.258333,22.353889
 1260998817,Bidens_tripartita,36.97861,-90.18917
@@ -1043,7 +984,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176892818,Bidens_tripartita,41.91551,-96.8117
 1598515014,Bidens_tripartita,62.563165,23.398237
 176892356,Bidens_tripartita,37.37179,-97.91043
-615281885,Bidens_tripartita,33.6,69.23
 176892133,Bidens_tripartita,40.91172,-97.09685
 43196660,Bidens_tripartita,33.5689,133.52745
 1598514847,Bidens_tripartita,62.244977,25.746254
@@ -1110,7 +1050,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57681006,Bidens_tripartita,62.6054,25.9256
 1999474098,Bidens_tripartita,60.44668,22.352745
 1845008156,Bidens_tripartita,49.209444,7.878611
-615281888,Bidens_tripartita,35.58,68.9
 1258806700,Bidens_tripartita,42.044433,-93.627076
 1999474066,Bidens_tripartita,60.479907,22.275116
 176892351,Bidens_tripartita,39.84433,-95.80085
@@ -1339,7 +1278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598514789,Bidens_tripartita,63.31776,30.020086
 1598514742,Bidens_tripartita,60.918079,26.913915
 788730837,Bidens_tripartita,56.83133,12.59568
-1829417773,Bidens_tripartita,42.8,143.216667
 1055506017,Bidens_tripartita,51.548322,-0.271231
 1999473950,Bidens_tripartita,60.891678,21.743687
 1598514986,Bidens_tripartita,61.0609,24.496741
@@ -1387,7 +1325,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030729293,Bidens_tripartita,26.587146,114.100817
 1030729301,Bidens_tripartita,25.681882,114.30827
 994853166,Bidens_tripartita,-38.5833,146.7333
-1701893975,Bidens_tripartita,60.8,11.1039
 176892366,Bidens_tripartita,39.649453,-99.206744
 1598514753,Bidens_tripartita,61.178573,24.310617
 1598514967,Bidens_tripartita,61.582708,23.701105
@@ -1409,7 +1346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788733509,Bidens_tripartita,59.876007,17.68609
 924816885,Bidens_tripartita,44.79353,-85.383
 473267744,Bidens_tripartita,45.4225,-73.998889
-786098265,Bidens_tripartita,50.7,7.1
 924816814,Bidens_tripartita,39.41392,-99.44824
 1701309191,Bidens_tripartita,60.2952,11.2162
 43196670,Bidens_tripartita,33.54203,133.53693
@@ -1471,7 +1407,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788682889,Bidens_tripartita,56.3807,14.000812
 1598514959,Bidens_tripartita,63.132517,21.540172
 1999600887,Bidens_tripartita,60.951002,23.582062
-1829607830,Bidens_tripartita,36.5,138.5
 1702307404,Bidens_tripartita,60.0282,10.8573
 57681008,Bidens_tripartita,62.240601,25.755899
 388796461,Bidens_tripartita,35.369398,140.366167
@@ -1492,7 +1427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697688975,Bidens_tripartita,53.849087,54.968751
 176892363,Bidens_tripartita,39.80222,-97.45663
 204370269,Bidens_tripartita,34.55433,135.67218
-1842910952,Bidens_tripartita,41.6,2.58
 1830228068,Bidens_tripartita,36.383333,137.983333
 1829617814,Bidens_tripartita,36.417222,139.047778
 1030729317,Bidens_tripartita,26.337942,115.363193
@@ -1526,7 +1460,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705284903,Bidens_tripartita,57.274184,16.451724
 1598514713,Bidens_tripartita,64.222579,27.71767
 1999600922,Bidens_tripartita,60.208495,22.756939
-2289184665,Bidens_tripartita,52.141667,4.8
 57680998,Bidens_tripartita,62.222099,25.6989
 1702181969,Bidens_tripartita,59.0715,11.0426
 1705380759,Bidens_tripartita,57.265371,16.418423
@@ -1549,7 +1482,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788660741,Bidens_tripartita,59.93048,16.95043
 1598515039,Bidens_tripartita,60.708523,24.890643
 1702307344,Bidens_tripartita,59.8867,10.542
-1842910388,Bidens_tripartita,42.4,2.21
 1702307360,Bidens_tripartita,59.8716,10.5324
 1701894037,Bidens_tripartita,60.3328,11.6173
 1999593585,Bidens_tripartita,60.382205,22.570792
@@ -1579,7 +1511,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702271248,Bidens_tripartita,59.3305,10.8717
 57680963,Bidens_tripartita,60.9935,24.492599
 1705498904,Bidens_tripartita,61.23,22.87
-615281326,Bidens_tripartita,35.3,75.62
 1598514751,Bidens_tripartita,62.877035,27.684615
 1598514992,Bidens_tripartita,62.313356,21.303044
 1697688982,Bidens_tripartita,55.855139,54.053301
@@ -1604,7 +1535,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 216097024,Bidens_tripartita,60.253101,24.7663
 1702205074,Bidens_tripartita,60.4763,5.7376
 1598514760,Bidens_tripartita,63.59608,26.694516
-1829608504,Bidens_tripartita,36.3,139.5
 1260974529,Bidens_tripartita,40.46611,-91.80444
 1260522415,Bidens_tripartita,40.498889,-92.341944
 1829617981,Bidens_tripartita,36.428611,139.040556
@@ -1628,7 +1558,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705292998,Bidens_tripartita,57.63177,14.90126
 1144602845,Bidens_tripartita,42.48333,9.45
 1842908204,Bidens_tripartita,41.96,2.58
-995189240,Bidens_tripartita,-37.5,148.1667
 1702307459,Bidens_tripartita,59.7267,11.1874
 1598514983,Bidens_tripartita,60.992822,27.643711
 1701488500,Bidens_tripartita,58.7086,8.3251
@@ -1770,7 +1699,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788730836,Bidens_tripartita,58.496576,12.277764
 1321613263,Bidens_tripartita,38.7997,-77.1428
 788768931,Bidens_tripartita,56.260182,12.973735
-1842885052,Bidens_tripartita,41.6,2.46
 919534255,Bidens_tripartita,25.012526,102.700013
 788711002,Bidens_tripartita,55.60694,13.002764
 1323750134,Bidens_tripartita,63.40577,10.35582
@@ -1788,7 +1716,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176892849,Bidens_tripartita,40.78124,-99.74392
 1598514806,Bidens_tripartita,60.863866,26.674822
 1842905033,Bidens_tripartita,41.67,1.02
-1842877147,Bidens_tripartita,41.67,0.9
 1303840468,Bidens_tripartita,25.39996,112.948819
 1702413565,Bidens_tripartita,59.4113,10.2332
 1701844028,Bidens_tripartita,61.5552,9.9504
@@ -1901,7 +1828,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705345997,Bidens_tripartita,57.787732,14.273688
 1701413830,Bidens_tripartita,63.27552,10.06049
 1999341467,Bidens_tripartita,27.2167,99.2667
-1999408517,Bidens_tripartita,28.0667,98.9
 1702307328,Bidens_tripartita,59.8629,10.4195
 1303708168,Bidens_tripartita,36.107933,120.415961
 1303708141,Bidens_tripartita,39.879848,114.630747
@@ -1923,7 +1849,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702307264,Bidens_tripartita,60.41309,11.24418
 788669430,Bidens_tripartita,57.616402,11.941282
 1705428477,Bidens_tripartita,55.564227,13.740417
-1999357985,Bidens_tripartita,26.9667,98.9
 381788378,Bidens_tripartita,35.96209,140.56087
 1830608185,Bidens_tripartita,33.967599,134.346311
 919534322,Bidens_tripartita,26.901731,98.869207
@@ -1937,7 +1862,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598514970,Bidens_tripartita,60.375404,22.372117
 641206,Bidens_tripartita,58.013286,16.476159
 1598514996,Bidens_tripartita,62.246581,25.938612
-1144602850,Bidens_tripartita,41.98333,9.4
 1705270558,Bidens_tripartita,57.25614,16.467977
 788728255,Bidens_tripartita,62.49306,17.35621
 788690890,Bidens_tripartita,61.30282,17.10515
@@ -1950,7 +1874,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303708131,Bidens_tripartita,33.222857,107.545509
 318598272,Bidens_tripartita,59.0145,11.0637
 296426125,Bidens_tripartita,46.665,10.587
-1842869661,Bidens_tripartita,42.4,1.97
 788690470,Bidens_tripartita,60.277594,15.991632
 1702307266,Bidens_tripartita,59.7833,10.7012
 1701883100,Bidens_tripartita,59.7132,10.5554
@@ -1986,7 +1909,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260950851,Bidens_tripartita,38.714,-90.486
 1702156938,Bidens_tripartita,59.2002,11.0565
 1999474033,Bidens_tripartita,60.464875,22.231784
-1999110955,Bidens_tripartita,32.6,105.15
 415904658,Bidens_tripartita,43.48861,-94.61694
 788682829,Bidens_tripartita,55.724323,13.527278
 788674660,Bidens_tripartita,55.7211,13.02215
@@ -2018,7 +1940,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788711303,Bidens_tripartita,55.452907,13.843135
 788779117,Bidens_tripartita,57.105999,12.250391
 1929741727,Bidens_tripartita,40.798974,-76.862194
-1998316819,Bidens_tripartita,29.9333,102.2
 1318162971,Bidens_tripartita,38.4808,-76.7783
 1304080106,Bidens_tripartita,24.915712,121.673937
 57681003,Bidens_tripartita,59.9608,23.5054
@@ -2055,7 +1976,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144121088,Bidens_tripartita,60.062,6.5531
 891653636,Bidens_tripartita,25.128333,121.495
 1701632102,Bidens_tripartita,59.96618,6.86071
-1228543305,Bidens_tripartita,31,119
 1805843001,Bidens_tripartita,-37.92335,146.89319
 1273860456,Bidens_tripartita,63.20391,17.51152
 788729195,Bidens_tripartita,56.622421,12.935853
@@ -2142,7 +2062,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989410168,Bidens_tripartita,42.395502,-83.296385
 1061557561,Bidens_tripartita,-32.716667,145.883333
 1451634119,Bidens_tripartita,-36.298437,150.017874
-995994760,Bidens_tripartita,-36.3,150.02
 1702205185,Bidens_tripartita,61.0514,7.5833
 1702205100,Bidens_tripartita,60.402,5.7868
 57680977,Bidens_tripartita,60.809502,25.802601
@@ -2160,7 +2079,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697688794,Bidens_tripartita,55.288698,41.807442
 2012718591,Bidens_tripartita,54.707427,40.990852
 1622356865,Bidens_tripartita,63.364871,22.02429
-1260928637,Bidens_tripartita,40.49138,-92.7
 1228502137,Bidens_tripartita,41.544077,-87.610162
 1144121086,Bidens_tripartita,60.372,5.3371
 1705379580,Bidens_tripartita,56.748649,14.546646
@@ -2210,7 +2128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788674953,Bidens_tripartita,59.83768,13.15427
 1321834578,Bidens_tripartita,38.9669,-76.8622
 1228414701,Bidens_tripartita,42.04981,-87.694522
-995844205,Bidens_tripartita,-33.9,151.22
 1451572272,Bidens_tripartita,-33.898422,151.217822
 788674489,Bidens_tripartita,55.634915,14.12263
 788727729,Bidens_tripartita,56.736852,12.737619
@@ -2223,7 +2140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598511665,Bidens_tripartita,61.15974,25.04639
 1999600800,Bidens_tripartita,61.191823,25.090772
 788690950,Bidens_tripartita,62.391274,17.29953
-1842856802,Bidens_tripartita,41.78,2.7
 1671654690,Bidens_tripartita,43.459435,11.892889
 1451634150,Bidens_tripartita,-37.048452,148.951241
 1936859670,Bidens_tripartita,-37.05,148.95
@@ -2234,7 +2150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701984608,Bidens_tripartita,59.8931,10.537
 1144121060,Bidens_tripartita,61.002,11.11167
 1829601366,Bidens_tripartita,36.490556,139.250278
-1842861399,Bidens_tripartita,41.32,2.1
 788730716,Bidens_tripartita,55.58352,13.78204
 788450182,Bidens_tripartita,57.657361,14.695006
 1701413848,Bidens_tripartita,60.0647,6.5476
@@ -2259,7 +2174,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228474741,Bidens_tripartita,41.850033,-87.650052
 788683129,Bidens_tripartita,59.272216,15.210918
 1930376051,Bidens_tripartita,40.691492,-73.805689
-1144560013,Bidens_tripartita,41.9,9.1
 788695406,Bidens_tripartita,55.4694,13.018772
 1622354829,Bidens_tripartita,61.568382,21.807658
 1303708137,Bidens_tripartita,40.0222,116.219945
@@ -2267,7 +2181,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090555885,Bidens_tripartita,39.20448,140.54517
 1701672282,Bidens_tripartita,59.7574,10.2014
 1451572261,Bidens_tripartita,-34.765094,150.801172
-995844187,Bidens_tripartita,-34.77,150.8
 812021407,Bidens_tripartita,50.6813,9.853417
 20534258,Bidens_tripartita,59.1183,9.6323
 788711184,Bidens_tripartita,55.45139,13.77838
@@ -2289,7 +2202,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598515070,Bidens_tripartita,62.6095,26.899448
 1321409063,Bidens_tripartita,39.5492,-76.0919
 415904521,Bidens_tripartita,48.28888,-99.43722
-995994825,Bidens_tripartita,-37.7,148.45
 788731016,Bidens_tripartita,59.14178,12.83964
 1598511607,Bidens_tripartita,61.517163,21.638099
 1999593624,Bidens_tripartita,60.429797,24.363779
