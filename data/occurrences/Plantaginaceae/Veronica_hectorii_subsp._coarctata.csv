@@ -54,7 +54,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091222863,Veronica_hectorii_subsp._coarctata,-41.533333,172.583333
 1091186304,Veronica_hectorii_subsp._coarctata,-41.416666,172.4
 1091189606,Veronica_hectorii_subsp._coarctata,-41.916666,172.638333
-1897646325,Veronica_hectorii_subsp._coarctata,-41.083333,171.916667
 1091177749,Veronica_hectorii_subsp._coarctata,-41.85,172.8
 1091294678,Veronica_hectorii_subsp._coarctata,-43.569659,170.254588
 1091183614,Veronica_hectorii_subsp._coarctata,-44.266666,168.35
@@ -84,7 +83,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091163290,Veronica_hectorii_subsp._coarctata,-41.183333,172.683333
 1091297499,Veronica_hectorii_subsp._coarctata,-40.9,172.633333
 1897668245,Veronica_hectorii_subsp._coarctata,-41.916667,172.75
-1897676438,Veronica_hectorii_subsp._coarctata,-41.25,173.25
 1897713010,Veronica_hectorii_subsp._coarctata,-41.833333,172.816667
 1091112154,Veronica_hectorii_subsp._coarctata,-40.883333,172.55
 1091292016,Veronica_hectorii_subsp._coarctata,-41.416666,172.416666
@@ -100,7 +98,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897770487,Veronica_hectorii_subsp._coarctata,-45.133333,168.566667
 1897662421,Veronica_hectorii_subsp._coarctata,-44.266667,169.25
 1897682076,Veronica_hectorii_subsp._coarctata,-44.75,168.25
-1897767645,Veronica_hectorii_subsp._coarctata,-44.916667,166.916667
 1897718760,Veronica_hectorii_subsp._coarctata,-45.383333,169.2
-1897710617,Veronica_hectorii_subsp._coarctata,-46.733333,167.916667
-1843253027,Veronica_hectorii_subsp._coarctata,-46.733333,167.9
