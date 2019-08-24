@@ -220,11 +220,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652266529,Enneapogon_polyphyllus,-20.402109,140.298345
 1652358683,Enneapogon_polyphyllus,-19.281944,140.313333
 996187935,Enneapogon_polyphyllus,-19.282,140.313
-994384109,Enneapogon_polyphyllus,-14.14106,136.42671
 1652212913,Enneapogon_polyphyllus,-21.149217,145.102315
-994387224,Enneapogon_polyphyllus,-13.727,136.692
 1652212911,Enneapogon_polyphyllus,-21.171439,145.112592
-2290003606,Enneapogon_polyphyllus,-13.726944,136.691944
 994393843,Enneapogon_polyphyllus,-21.5169,145.4161
 994389700,Enneapogon_polyphyllus,-16.9006,131.1055
 1652249879,Enneapogon_polyphyllus,-21.501439,145.021762
@@ -1353,10 +1350,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995492391,Enneapogon_polyphyllus,-24.216667,131.55
 994219465,Enneapogon_polyphyllus,-23.481902,133.867928
 996969503,Enneapogon_polyphyllus,-17.395,124.355
-996655685,Enneapogon_polyphyllus,-20.594722,116.611389
-992039973,Enneapogon_polyphyllus,-20.399,116.906
 992144118,Enneapogon_polyphyllus,-31.85676,139.467725
-996975324,Enneapogon_polyphyllus,-20.4,116.905
 993141074,Enneapogon_polyphyllus,-23.7,133.8667
 992136534,Enneapogon_polyphyllus,-26.065415,128.967758
 992125462,Enneapogon_polyphyllus,-26.214722,130.0225
@@ -1741,6 +1735,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992277001,Enneapogon_polyphyllus,-23.915385,132.717719
 1651999372,Enneapogon_polyphyllus,-25.415259,142.58425
 995559598,Enneapogon_polyphyllus,-33.9,148.17
-995559620,Enneapogon_polyphyllus,-20.3,118.57
 996974769,Enneapogon_polyphyllus,-26.085,126.611
 995559613,Enneapogon_polyphyllus,-28.77,137.52
