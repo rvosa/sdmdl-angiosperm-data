@@ -29,7 +29,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893572667,Cucurbita_moschata,16.947222,-92.429167
 1893574578,Cucurbita_moschata,16.7657672318177,-91.1296278072953
 1897944408,Cucurbita_moschata,22.621667,-102.808333
-1897944435,Cucurbita_moschata,21.875,-102.9
 1893311518,Cucurbita_moschata,19.808333,-89.827778
 1418667726,Cucurbita_moschata,23.48466,-99.41403
 1421377278,Cucurbita_moschata,20.595833,-88.144444
@@ -57,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895777180,Cucurbita_moschata,16.956667,-96.508333
 1895777087,Cucurbita_moschata,17.008333,-97.826667
 1895777309,Cucurbita_moschata,18.091667,-96.393333
-1896296698,Cucurbita_moschata,17,-97.826667
 1895776861,Cucurbita_moschata,17.208333,-96.175
 1895777073,Cucurbita_moschata,19.825,-97.358333
 1895777320,Cucurbita_moschata,19.691667,-96.841667
@@ -148,7 +146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895777252,Cucurbita_moschata,25.425,-108.008333
 1895777078,Cucurbita_moschata,23.425,-98.975
 1895776868,Cucurbita_moschata,19.225,-97.008333
-2235986719,Cucurbita_moschata,15.43,-92.1
 1893443001,Cucurbita_moschata,20.775,-88.408333
 1895776828,Cucurbita_moschata,16.941667,-96.241667
 1895776968,Cucurbita_moschata,18.275,-91.308333
@@ -194,7 +191,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421393642,Cucurbita_moschata,20.227222,-89.466111
 1417919143,Cucurbita_moschata,20.208333,-89.108333
 1417921168,Cucurbita_moschata,20.301667,-89.302778
-1417913259,Cucurbita_moschata,21,-88.902778
 1895777146,Cucurbita_moschata,20.308333,-89.408333
 1895777190,Cucurbita_moschata,20.491667,-88.758333
 1896296701,Cucurbita_moschata,20.254167,-89.458333
@@ -205,7 +201,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895777307,Cucurbita_moschata,21.041667,-88.958333
 1421361972,Cucurbita_moschata,21.113889,-87.497222
 1893370236,Cucurbita_moschata,19.529167,-90.181944
-1421412354,Cucurbita_moschata,21.1,-87.486667
 1421401976,Cucurbita_moschata,20.698611,-88.233333
 1895777091,Cucurbita_moschata,20.791667,-88.391667
 1896296689,Cucurbita_moschata,20.75,-88.372222
@@ -234,7 +229,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895776833,Cucurbita_moschata,15.958333,-85.908333
 1894683508,Cucurbita_moschata,20.508333,-90.375
 1421397602,Cucurbita_moschata,20.522222,-90.308333
-1896296723,Cucurbita_moschata,20.5,-90.380556
 1421368969,Cucurbita_moschata,20.492778,-89.915556
 1893370203,Cucurbita_moschata,20.492778,-88.915556
 1421392047,Cucurbita_moschata,18.640556,-90.273056
