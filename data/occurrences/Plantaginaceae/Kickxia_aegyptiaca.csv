@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936217785,Kickxia_aegyptiaca,31.5783,-4.1453
-1697864841,Kickxia_aegyptiaca,31.4,35.4
 1831523404,Kickxia_aegyptiaca,32.72528,11.98611
 1831523407,Kickxia_aegyptiaca,23.60167,5.76583
 1831523390,Kickxia_aegyptiaca,28.74111,9.38
@@ -17,7 +16,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701529298,Kickxia_aegyptiaca,31.76528,35.73389
 1701532896,Kickxia_aegyptiaca,33.54389,9.96806
 1701529414,Kickxia_aegyptiaca,35.24528,9.00333
-2288809488,Kickxia_aegyptiaca,30.716667,-6.6
 1230885425,Kickxia_aegyptiaca,33.55,9.96667
 1936079644,Kickxia_aegyptiaca,31.066667,-6.566667
 1842872532,Kickxia_aegyptiaca,31.07,-6.57
@@ -29,4 +27,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291981805,Kickxia_aegyptiaca,12.966667,24.066667
 1701533129,Kickxia_aegyptiaca,33.85417,10.03306
 2013042007,Kickxia_aegyptiaca,15.938907,-11.527006
-1848906871,Kickxia_aegyptiaca,27,30
