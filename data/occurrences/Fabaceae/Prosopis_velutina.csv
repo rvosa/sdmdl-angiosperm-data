@@ -124,7 +124,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1889160743,Prosopis_velutina,33.548567,-111.449767
 2270532160,Prosopis_velutina,33.986389,-111.742222
 1846496437,Prosopis_velutina,33.888417,-111.502789
-1894637067,Prosopis_velutina,28.936667,-112.318333
 1894637049,Prosopis_velutina,30.258333,-112.375
 1846492903,Prosopis_velutina,33.98645,-111.7423
 1846559012,Prosopis_velutina,32.804944,-110.803889
@@ -303,9 +302,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994928485,Prosopis_velutina,-26.5,144.3167
 462188668,Prosopis_velutina,-27.125,22.875
 2270615876,Prosopis_velutina,32.7614,-113.669
-1846511327,Prosopis_velutina,33.460708,-111.944608
 2270614714,Prosopis_velutina,31.88,-111.22
-1893407524,Prosopis_velutina,21.475,-106.491667
 2270616772,Prosopis_velutina,33.4145,-112.017
 2270615777,Prosopis_velutina,34.1503,-112.646
 994822046,Prosopis_velutina,-35.3,143.55
