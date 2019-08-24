@@ -25,9 +25,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253766220,Perrottetia_longistylis,9.675708,-83.747474
 1253772670,Perrottetia_longistylis,10.216667,-84.588889
 1253788485,Perrottetia_longistylis,9.635278,-83.883978
-1258777684,Perrottetia_longistylis,13.7,-85.7
 1893925275,Perrottetia_longistylis,18.169639,-96.843556
-1259134539,Perrottetia_longistylis,13.55,-85.7
 1585312211,Perrottetia_longistylis,14.41667,-89.35
 1253731594,Perrottetia_longistylis,8.956458,-82.743675
 1253743023,Perrottetia_longistylis,9.019791,-82.964981
@@ -43,7 +41,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253571427,Perrottetia_longistylis,8.904935,-82.751079
 1897571997,Perrottetia_longistylis,17.5198840818723,-96.3216979846714
 1259895498,Perrottetia_longistylis,15.668833,-88.693167
-1253671508,Perrottetia_longistylis,10.241667,-84.7
 1897371738,Perrottetia_longistylis,17.743611,-96.5675
 1260434686,Perrottetia_longistylis,17.74361,-96.5675
 1260812013,Perrottetia_longistylis,17.21666,-98.05
@@ -51,13 +48,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253588120,Perrottetia_longistylis,9.425556,-83.712778
 1258430953,Perrottetia_longistylis,9.42,-83.71
 1253584566,Perrottetia_longistylis,9.031184,-83.014528
-1896232747,Perrottetia_longistylis,17.4,-96.294444
 1258590068,Perrottetia_longistylis,9.03,-83.01
 1253592693,Perrottetia_longistylis,9.763889,-83.7875
 1253627281,Perrottetia_longistylis,10.252778,-84.177778
 1253642500,Perrottetia_longistylis,9.700556,-84.226944
-1258590061,Perrottetia_longistylis,10.36,-84.8
-1253626708,Perrottetia_longistylis,10.366667,-84.8
 1897371792,Perrottetia_longistylis,17.702778,-96.536667
 1260433985,Perrottetia_longistylis,17.70277,-96.53666
 1894628842,Perrottetia_longistylis,17.103333,-97.513333
@@ -83,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253611021,Perrottetia_longistylis,10.275833,-84.795835
 1261568646,Perrottetia_longistylis,10.27,-84.79
 1253600908,Perrottetia_longistylis,9.843611,-84.125
-1261562688,Perrottetia_longistylis,10,-83.96
 1261584756,Perrottetia_longistylis,9.84,-84.12
 45751181,Perrottetia_longistylis,10.33,-83.96
 1253597557,Perrottetia_longistylis,10.333333,-83.961111
@@ -99,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258863364,Perrottetia_longistylis,10.059722,-83.9875
 1253600858,Perrottetia_longistylis,9.477778,-83.690278
 1261613821,Perrottetia_longistylis,9.47,-83.69
-1258858592,Perrottetia_longistylis,19.41,-104.1
 1893969510,Perrottetia_longistylis,19.610833,-104.29
 1896232745,Perrottetia_longistylis,19.558333,-96.975
 1259420092,Perrottetia_longistylis,9.583333,-83.783333
@@ -107,8 +99,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259370880,Perrottetia_longistylis,19.433333,-103.683333
 1896080657,Perrottetia_longistylis,18.573056,-95.257778
 1419217502,Perrottetia_longistylis,18.575,-95.075
-1253608550,Perrottetia_longistylis,10.333333,-84.7
-1253597160,Perrottetia_longistylis,10.3,-84.783334
 1896232767,Perrottetia_longistylis,19.475,-96.991667
 1895597550,Perrottetia_longistylis,18.975,-99.291667
 1895351478,Perrottetia_longistylis,19.45,-103.683333
@@ -116,13 +106,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893969501,Perrottetia_longistylis,19.6125,-104.272222
 1893648483,Perrottetia_longistylis,19.45,-104.36
 1893969462,Perrottetia_longistylis,19.578611,-104.213611
-1253600843,Perrottetia_longistylis,10.3,-84.75
 1258857861,Perrottetia_longistylis,10.366667,-84.85
 1258865045,Perrottetia_longistylis,10.31,-84.71
 1253598720,Perrottetia_longistylis,10.316667,-84.716668
 1896232744,Perrottetia_longistylis,19.886944,-96.795833
 1893648484,Perrottetia_longistylis,19.866111,-96.776944
-1638727429,Perrottetia_longistylis,15.65,-92.8
 1895137449,Perrottetia_longistylis,15.656944,-92.806944
 1893969419,Perrottetia_longistylis,19.504167,-104.274167
 1893969509,Perrottetia_longistylis,19.588611,-104.2675
@@ -137,7 +125,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896232758,Perrottetia_longistylis,19.808611,-96.795278
 1419196601,Perrottetia_longistylis,16.248889,-93.709722
 1253609887,Perrottetia_longistylis,10.333333,-84.716667
-1258855789,Perrottetia_longistylis,15.1,-92.083333
 2284320962,Perrottetia_longistylis,10.2083,-84.53
 1894975354,Perrottetia_longistylis,23.443056,-105.851389
 1896232760,Perrottetia_longistylis,20.050556,-97.798611
@@ -145,13 +132,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893969481,Perrottetia_longistylis,19.558333,-104.225
 1258568904,Perrottetia_longistylis,8.85,-82.55
 1258860077,Perrottetia_longistylis,10.286944,-84.828889
-1258864232,Perrottetia_longistylis,10.3,-84.8
-1258865034,Perrottetia_longistylis,10.266667,-84.8
 1893969549,Perrottetia_longistylis,19.591667,-104.275
 1228608633,Perrottetia_longistylis,19.3333,-96.6667
 1896232782,Perrottetia_longistylis,20.391667,-105.075
 1893648480,Perrottetia_longistylis,19.678333,-104.325
-1893969536,Perrottetia_longistylis,19.6,-104.275
 1896080643,Perrottetia_longistylis,17.631944,-96.341667
 1258862864,Perrottetia_longistylis,10.21,-84.53
 1259371196,Perrottetia_longistylis,14.3375,-87.745
@@ -162,7 +146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896232764,Perrottetia_longistylis,17.158333,-92.358333
 2270512552,Perrottetia_longistylis,17.2333,-92.3333
 1258863110,Perrottetia_longistylis,8.95,-82.766667
-2270511149,Perrottetia_longistylis,17.4,-92.4833
 1896232771,Perrottetia_longistylis,19.775,-104.375
 1896080645,Perrottetia_longistylis,19.484722,-101.720556
 1895351509,Perrottetia_longistylis,19.466667,-96.966667
@@ -171,9 +154,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259557443,Perrottetia_longistylis,16.12,-91.5275
 1896232754,Perrottetia_longistylis,16.108333,-91.708333
 1896232789,Perrottetia_longistylis,18.993056,-97.056389
-1895351538,Perrottetia_longistylis,19,-97.033333
 1895351485,Perrottetia_longistylis,15.95,-92.01
-1895351550,Perrottetia_longistylis,19.4,-96.983333
 1896232743,Perrottetia_longistylis,19.398333,-96.991111
 1896080660,Perrottetia_longistylis,15.883611,-92.006389
 1896232770,Perrottetia_longistylis,20.125,-104.341667
@@ -183,7 +164,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893648482,Perrottetia_longistylis,19.786667,-97.245
 1896080673,Perrottetia_longistylis,19.786111,-97.214167
 1259554340,Perrottetia_longistylis,14.91,-91.895278
-1259372148,Perrottetia_longistylis,15.4,-92.3
 1895351555,Perrottetia_longistylis,18.416667,-94.933333
 1228500011,Perrottetia_longistylis,18.35,-94.8444
 1258404947,Perrottetia_longistylis,13.25,-85.683333
@@ -191,15 +171,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258636190,Perrottetia_longistylis,15.08916,-87.06527
 1896232748,Perrottetia_longistylis,19.524722,-96.978889
 1228416696,Perrottetia_longistylis,19.5881,-96.9469
-1258707587,Perrottetia_longistylis,13,-85.91666
 1896232773,Perrottetia_longistylis,19.896944,-97.256667
 1259554254,Perrottetia_longistylis,10.052222,-84.513333
-1258636195,Perrottetia_longistylis,16.9,-92.57
 1259370960,Perrottetia_longistylis,15.235,-92.240555
 1896080668,Perrottetia_longistylis,19.525556,-104.473333
 1896232755,Perrottetia_longistylis,19.385278,-96.971667
 1893405010,Perrottetia_longistylis,19.391667,-96.975
-45750987,Perrottetia_longistylis,9.56,-83.8
 1258636186,Perrottetia_longistylis,9.55,-83.81
 1896080642,Perrottetia_longistylis,19.387778,-96.944444
 1259372166,Perrottetia_longistylis,10.258056,-84.171667
@@ -215,9 +192,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258568879,Perrottetia_longistylis,8.51333,-81.1175
 1896080652,Perrottetia_longistylis,15.466389,-92.261667
 1896232786,Perrottetia_longistylis,19.401389,-96.993889
-1638727406,Perrottetia_longistylis,17.5,-92.666667
-1846557013,Perrottetia_longistylis,17.2,-92.966667
-1259370705,Perrottetia_longistylis,17.1,-92.86
 1896080667,Perrottetia_longistylis,16.943889,-93.375
 2284342181,Perrottetia_longistylis,15.32,-90.25
 1896080659,Perrottetia_longistylis,20.989444,-98.660278
@@ -225,7 +199,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259555170,Perrottetia_longistylis,18.91666,-96.95
 1896232762,Perrottetia_longistylis,18.870833,-96.996389
 1896080655,Perrottetia_longistylis,20.036389,-97.5025
-2284173235,Perrottetia_longistylis,10.03,-84
 1846528315,Perrottetia_longistylis,18.885177,-97.002065
 1896232772,Perrottetia_longistylis,18.927222,-97.069722
 1896080656,Perrottetia_longistylis,19.355278,-102.076111
