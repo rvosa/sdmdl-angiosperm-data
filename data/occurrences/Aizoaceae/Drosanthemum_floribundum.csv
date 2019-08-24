@@ -27,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461810582,Drosanthemum_floribundum,-33.625,19.375
 1091249136,Drosanthemum_floribundum,-39.45,173.848333
 461810559,Drosanthemum_floribundum,-33.375,21.375
-1897642562,Drosanthemum_floribundum,-37.783333,174.9
 1936599982,Drosanthemum_floribundum,43.4367,-3.9898
 2270185914,Drosanthemum_floribundum,34.7029999991165,-120.5633
 1050590782,Drosanthemum_floribundum,39.22,-0.24
@@ -42,11 +41,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461810554,Drosanthemum_floribundum,-33.625,20.875
 461810555,Drosanthemum_floribundum,-33.375,20.875
 1451504506,Drosanthemum_floribundum,-33.898421,151.267821
-995684256,Drosanthemum_floribundum,-33.9,151.27
-1091254426,Drosanthemum_floribundum,-41.216666,174.7
 1897635736,Drosanthemum_floribundum,-41.416667,174.866667
-1897657523,Drosanthemum_floribundum,-41.216667,174.7
-1091297909,Drosanthemum_floribundum,-41.4,174.866666
 1091134793,Drosanthemum_floribundum,-41.333333,174.816666
 1897741453,Drosanthemum_floribundum,-41.333333,174.816667
 1936572786,Drosanthemum_floribundum,37.3346,-1.6918
