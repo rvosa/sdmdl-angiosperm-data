@@ -27,7 +27,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270180803,Chorizanthe_staticoides,34.903982,-119.375374
 1426334113,Chorizanthe_staticoides,34.571833,-118.460694
 2270182017,Chorizanthe_staticoides,36.06093,-121.30786
-2270181999,Chorizanthe_staticoides,35.316667,-120.6
 1426333933,Chorizanthe_staticoides,33.56639,-117.38972
 2270180894,Chorizanthe_staticoides,35.015999999113,-120.0156
 623665326,Chorizanthe_staticoides,33.594167,-117.045833
@@ -61,4 +60,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426491976,Chorizanthe_staticoides,32.656,-116.127
 1144659917,Chorizanthe_staticoides,36.34,-119.24639
 1928682243,Chorizanthe_staticoides,34.469994,-118.196742
-1228524830,Chorizanthe_staticoides,37,-119
