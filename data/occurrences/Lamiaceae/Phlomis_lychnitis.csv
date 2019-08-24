@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2242356834,Phlomis_lychnitis,39.732207,-104.961468
 1851018305,Phlomis_lychnitis,41.39639,-1.62556
 1851018308,Phlomis_lychnitis,38.87639,-5.52306
 1851018167,Phlomis_lychnitis,36.93889,-3.27389
@@ -62,7 +61,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415622006,Phlomis_lychnitis,37.214,-4.426
 415622000,Phlomis_lychnitis,36.854,-4.957
 1936698140,Phlomis_lychnitis,38.5917,-2.6711
-2242394001,Phlomis_lychnitis,39.73193,-104.9619
 895224516,Phlomis_lychnitis,40.78,-1.64
 1265474496,Phlomis_lychnitis,38.67,-2.35
 1265474516,Phlomis_lychnitis,40.6674,-1.79468
@@ -166,9 +164,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895145015,Phlomis_lychnitis,40.198,-1.091
 1936668059,Phlomis_lychnitis,42.0439,-3.533
 1851340565,Phlomis_lychnitis,38.08,-1.033
-1501101287,Phlomis_lychnitis,38.76,0.16
 318118464,Phlomis_lychnitis,38.08,-1.03
-895144662,Phlomis_lychnitis,38.765,0.163
 1501071062,Phlomis_lychnitis,38.44,-1.04
 1500991914,Phlomis_lychnitis,39.05,-0.75
 1936516581,Phlomis_lychnitis,38.3288,-1.9716
@@ -184,7 +180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30884586,Phlomis_lychnitis,36.669998,-5.01
 318118180,Phlomis_lychnitis,38.66,-0.05
 860318643,Phlomis_lychnitis,37.7582,-1.3192
-1936512879,Phlomis_lychnitis,38.6861,0.1477
 199495458,Phlomis_lychnitis,36.683,-4.964
 895248020,Phlomis_lychnitis,39.305,-0.559
 1500983118,Phlomis_lychnitis,39.3,-0.55
@@ -217,14 +212,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851352939,Phlomis_lychnitis,42.124,-5.474
 2289749633,Phlomis_lychnitis,42.866667,2.55
 1936522805,Phlomis_lychnitis,41.0669,0.2615
-318118056,Phlomis_lychnitis,38.82,0.13
 1936575334,Phlomis_lychnitis,38.0941,-4.0732
 860317540,Phlomis_lychnitis,40.85,0.69
 860317765,Phlomis_lychnitis,41.5,0.32
 30886962,Phlomis_lychnitis,36.48,-5.23
 1851358986,Phlomis_lychnitis,41.635,-4.603
 895172255,Phlomis_lychnitis,37.652,-3.799
-895276569,Phlomis_lychnitis,40.12,0.12
 164181394,Phlomis_lychnitis,36.939999,-4.91
 895283125,Phlomis_lychnitis,40.3,-0.12
 318118812,Phlomis_lychnitis,38.69,-0.76
@@ -235,7 +228,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30885157,Phlomis_lychnitis,38.400002,-2.43
 30885168,Phlomis_lychnitis,38.580002,-2.43
 30885176,Phlomis_lychnitis,38.490002,-2.43
-318118357,Phlomis_lychnitis,38.81,0.18
 199495655,Phlomis_lychnitis,36.643,-4.616
 30672964,Phlomis_lychnitis,37.186,-2.747
 199495167,Phlomis_lychnitis,36.80003,-5.02323
@@ -290,7 +282,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 178230324,Phlomis_lychnitis,38.51,-5.24
 895254955,Phlomis_lychnitis,38.42,-0.54
 1502022350,Phlomis_lychnitis,40.31,-0.35
-1502032240,Phlomis_lychnitis,38.68,0.07
 196094352,Phlomis_lychnitis,37.53,-4.41
 895309788,Phlomis_lychnitis,38.15,-0.89
 199495210,Phlomis_lychnitis,36.663,-5.109
@@ -347,7 +338,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199495730,Phlomis_lychnitis,36.99,-4.63
 1050597647,Phlomis_lychnitis,42.72,-2.96
 237336290,Phlomis_lychnitis,37.54,-4.19
-1851585012,Phlomis_lychnitis,38.77,0.18
 1502004938,Phlomis_lychnitis,39.04,-0.28
 1502004276,Phlomis_lychnitis,38.95,-0.29
 237336287,Phlomis_lychnitis,37.26,-4.52
@@ -393,7 +383,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318118358,Phlomis_lychnitis,38.17,-3.51
 1842901663,Phlomis_lychnitis,41.23,1.87
 1501865463,Phlomis_lychnitis,38.59,-0.19
-2289037861,Phlomis_lychnitis,43.666667,4.066667
 1842899838,Phlomis_lychnitis,40.4932,-0.951
 1501863069,Phlomis_lychnitis,38.61,-0.47
 318118314,Phlomis_lychnitis,38.6,-0.53
