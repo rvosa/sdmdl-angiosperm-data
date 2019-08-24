@@ -1,6 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1945010494,Staehelina_dubia,44.032154,11.287983
-1842872895,Staehelina_dubia,42.1911,3.0192
 1501783052,Staehelina_dubia,38.59,-0.18
 1883575659,Staehelina_dubia,41.63806,-1.725
 1849006521,Staehelina_dubia,36.95067,-2.90967
@@ -36,7 +34,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415623783,Staehelina_dubia,36.663,-5.064
 1050647509,Staehelina_dubia,42.58,-2.75
 932708132,Staehelina_dubia,42.43306,-7.00764
-1671675187,Staehelina_dubia,43.900945,7.581197
 1053986867,Staehelina_dubia,37.52,-3.96
 1050645513,Staehelina_dubia,43.03,-3.59
 895201789,Staehelina_dubia,43.032,-3.595
@@ -77,9 +74,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895232898,Staehelina_dubia,39.851,-0.832
 2291863618,Staehelina_dubia,43.8795,6.342667
 204404955,Staehelina_dubia,36.943,-2.848
-1144768620,Staehelina_dubia,42.45,9.26667
 1936621812,Staehelina_dubia,37.7069,-2.1725
-1144768624,Staehelina_dubia,42.43333,9.26667
 1851342914,Staehelina_dubia,42.62088,-5.52702
 1936198737,Staehelina_dubia,40.3096,-0.2359
 199507794,Staehelina_dubia,36.903,-3.87
@@ -123,19 +118,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204438051,Staehelina_dubia,40.276001,-3.441
 318124338,Staehelina_dubia,38.6,-0.19
 1501066564,Staehelina_dubia,39.19,-1.17
-1849005472,Staehelina_dubia,32.52444,-6.02361
-317826424,Staehelina_dubia,32.5213,-6.0208
 2288787675,Staehelina_dubia,42.866667,2.516667
 1936553056,Staehelina_dubia,40.2697,-3.4482
 1050622177,Staehelina_dubia,40.27,-3.44
 318124747,Staehelina_dubia,38.63,-0.05
 2290401870,Staehelina_dubia,38.6,-0.166667
 30894381,Staehelina_dubia,37.040001,-3.67
-895144490,Staehelina_dubia,38.739,0.21
-1501102096,Staehelina_dubia,38.73,0.21
 1936519555,Staehelina_dubia,39.3925,-3.9767
 1936512719,Staehelina_dubia,38.7136,-0.172
-1701175907,Staehelina_dubia,42.366977,10.903171
 1851405209,Staehelina_dubia,42.6206,-5.5222
 1936443559,Staehelina_dubia,40.7647,-3.57
 30677180,Staehelina_dubia,37.41,-2.339
@@ -168,9 +158,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895241792,Staehelina_dubia,39.04,-0.17
 895237287,Staehelina_dubia,40.58,0.34
 895225523,Staehelina_dubia,41.642,-1.229
-318124417,Staehelina_dubia,38.73,0.18
-318124239,Staehelina_dubia,38.64,-0.01
-1144768636,Staehelina_dubia,42.45,9.28333
 85856554,Staehelina_dubia,37.849998,-1.64
 1501069270,Staehelina_dubia,38.59,-0.19
 1501064947,Staehelina_dubia,38.6,-0.65
@@ -193,7 +180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895213319,Staehelina_dubia,39.79,-2.12
 1936405358,Staehelina_dubia,40.3717,-3.3982
 895292404,Staehelina_dubia,38.222,-3.486
-1144768616,Staehelina_dubia,42.35,9.16667
 1501961930,Staehelina_dubia,39.06,-0.98
 895203360,Staehelina_dubia,39.87,-0.95
 1501977289,Staehelina_dubia,38.68,-0.3
@@ -291,9 +277,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1053982277,Staehelina_dubia,42.86,-1.66
 199507595,Staehelina_dubia,36.69868,-5.08297
 1845010652,Staehelina_dubia,44.373333,4.644167
-31975557,Staehelina_dubia,39.740002,2.88
 318124371,Staehelina_dubia,38.51,-0.42
-31975558,Staehelina_dubia,39.77,2.67
 1502039779,Staehelina_dubia,38.69,-0.53
 1502042201,Staehelina_dubia,40.57,0.11
 1842899703,Staehelina_dubia,40.4532,-0.9208
