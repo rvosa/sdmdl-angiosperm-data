@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1801151272,Geoffroea_spinosa,-9.484972,-40.619111
-2289668613,Geoffroea_spinosa,12.640512,-69.07339
 1440657722,Geoffroea_spinosa,-9.888333,-41.516389
 2269023247,Geoffroea_spinosa,-7.029167,-38.166111
 1252590555,Geoffroea_spinosa,-8.5125,-39.436667
@@ -12,8 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268924006,Geoffroea_spinosa,-14.332778,-68.548055
 1264693828,Geoffroea_spinosa,-7.200017,-39.240011
 1077248491,Geoffroea_spinosa,-5.798056,-37.850833
-1094930556,Geoffroea_spinosa,-5.798056,-17.850556
-1424731023,Geoffroea_spinosa,-6.782778,-3.496111
 1423932356,Geoffroea_spinosa,-6.782778,-38.496111
 1806876166,Geoffroea_spinosa,-7.285278,-38.809167
 1090913942,Geoffroea_spinosa,-7.872306,-39.250586
@@ -81,7 +78,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258368312,Geoffroea_spinosa,-17.33333,-59.66666
 1042678015,Geoffroea_spinosa,-10.8,-42.83
 1094743589,Geoffroea_spinosa,-10.8,-42.833333
-2289668836,Geoffroea_spinosa,12.350476,-69.105994
 1258652423,Geoffroea_spinosa,-4.06666,-79.8
 1258652488,Geoffroea_spinosa,-4.31666,-79.98333
 1258592112,Geoffroea_spinosa,-4.26666,-80.1
@@ -105,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261918458,Geoffroea_spinosa,-1.58333,-80.71666
 1261460233,Geoffroea_spinosa,-2.45,-79.66666
 1258274739,Geoffroea_spinosa,-1.56666,-80.81666
-1258981733,Geoffroea_spinosa,-1.6,-80.9
 1228401561,Geoffroea_spinosa,-17.5,-61.5
 1144689009,Geoffroea_spinosa,-22.53333,-59.9
 1258218080,Geoffroea_spinosa,-18.76666,-62.3
@@ -115,19 +110,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077310867,Geoffroea_spinosa,-21.65,-57.883333
 1261923240,Geoffroea_spinosa,10.28472,-75.25222
 931010201,Geoffroea_spinosa,10.74205,-75.25404
-1258288686,Geoffroea_spinosa,-1.35,-90.45
-1273758145,Geoffroea_spinosa,10.376307,-75.573364
 1898883840,Geoffroea_spinosa,10.333333,-75.533333
 1258352956,Geoffroea_spinosa,10.33333,-75.53333
-1273758149,Geoffroea_spinosa,10.136033,-75.695609
-1144688934,Geoffroea_spinosa,-25.25,-57.61667
 1261546511,Geoffroea_spinosa,-25.41666,-57.16666
-1258270096,Geoffroea_spinosa,-2.88333,-80.16666
 1261923185,Geoffroea_spinosa,-25.41666,-57.11666
 1273758186,Geoffroea_spinosa,9.375153,-74.829517
-1273758142,Geoffroea_spinosa,10.334619,-75.579844
-1261923198,Geoffroea_spinosa,10.569848,-75.495291
-1258253249,Geoffroea_spinosa,-2.73333,-79.91666
 1258282616,Geoffroea_spinosa,-4.08333,-80.66666
 1258288806,Geoffroea_spinosa,-4.36666,-79.5
 1144688977,Geoffroea_spinosa,-22.43333,-62.35
@@ -139,9 +126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144687658,Geoffroea_spinosa,-27.4,-58.85
 1823459661,Geoffroea_spinosa,-35.3869,-64.9208
 1261871108,Geoffroea_spinosa,10.78333,-75.26666
-1273758169,Geoffroea_spinosa,10.21445,-75.597751
-1261876939,Geoffroea_spinosa,10.23333,-75.61666
-1273758153,Geoffroea_spinosa,10.15,-75.683333
 1090935246,Geoffroea_spinosa,-9.111167,-40.472167
 1086728344,Geoffroea_spinosa,-9.118611,-40.475833
 1258307914,Geoffroea_spinosa,10.8,-75.25
@@ -158,7 +142,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258332140,Geoffroea_spinosa,-4.3,-80.2
 1258332164,Geoffroea_spinosa,-4.11666,-79.81666
 1144688984,Geoffroea_spinosa,-20.01667,-59.76667
-1273758154,Geoffroea_spinosa,10.566667,-75.5
 1261923366,Geoffroea_spinosa,-27.15,-58.616667
 1823459644,Geoffroea_spinosa,7.0758,-65.9119
 2290348340,Geoffroea_spinosa,7.816667,-66.533333
@@ -170,7 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1096737950,Geoffroea_spinosa,-2.37,-80.47
 2248067990,Geoffroea_spinosa,-8.655269,-38.015733
 1087665638,Geoffroea_spinosa,-10.4119,-37.0854
-1258288807,Geoffroea_spinosa,1.06666,-79.41666
 1258332157,Geoffroea_spinosa,-2.16666,-79.88333
 1990273549,Geoffroea_spinosa,-2.12347,-80.01347
 1990273044,Geoffroea_spinosa,-3.50804,-79.82623
