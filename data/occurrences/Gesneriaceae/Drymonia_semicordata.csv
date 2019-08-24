@@ -18,11 +18,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1135159645,Drymonia_semicordata,1.632222,-75.716486
 1944820176,Drymonia_semicordata,-2.885028,-73.018667
 1934712015,Drymonia_semicordata,-9.4605,-74.550167
-1928096780,Drymonia_semicordata,-9.95385129131139,-55.1992232655754
-1090626899,Drymonia_semicordata,-9.3836,-55.0132
-1090662861,Drymonia_semicordata,-9.643611,-55.176111
-912468052,Drymonia_semicordata,-9.64,-55.03
-1930905337,Drymonia_semicordata,-9.643464,-55.175633
 1257621000,Drymonia_semicordata,-10.364167,-75.055556
 1257621814,Drymonia_semicordata,-10.116667,-75.216667
 1320621715,Drymonia_semicordata,-13.2242,-70.76
@@ -180,7 +175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261202909,Drymonia_semicordata,-3.5,-72.83333
 1320677916,Drymonia_semicordata,-13.28,-70.75
 1318740158,Drymonia_semicordata,-4.17,-73.5
-667321771,Drymonia_semicordata,4.55,-52.88333
 1261195444,Drymonia_semicordata,-3.3,-74.83333
 1260434256,Drymonia_semicordata,-12.83333,-69.28333
 1320204110,Drymonia_semicordata,-12.83,-69.28
@@ -282,9 +276,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930448051,Drymonia_semicordata,-9.083333,-68.666667
 1261204110,Drymonia_semicordata,-4.33333,-72.5
 1260441716,Drymonia_semicordata,-9.08333,-68.66666
-1321890394,Drymonia_semicordata,-3.3722,-50.7972
 1261199956,Drymonia_semicordata,-8.28333,-74.96666
-1929928979,Drymonia_semicordata,-3.535,-51.7328
 1260441530,Drymonia_semicordata,-10.0005,-67.000833
 1261195743,Drymonia_semicordata,-8.583333,-74.9
 1931200854,Drymonia_semicordata,-10.03,-67.62
