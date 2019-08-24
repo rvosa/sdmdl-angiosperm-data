@@ -1,7 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1931408391,Sisymbrium_irio,48.25083,16.39611
-1931408393,Sisymbrium_irio,48.25417,16.39417
-2244176826,Sisymbrium_irio,52.490276,13.356112
 1843479245,Sisymbrium_irio,-36.874667,174.779333
 1846486930,Sisymbrium_irio,33.557135,-112.507888
 1801082522,Sisymbrium_irio,31.199528,35.364185
@@ -29,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839085681,Sisymbrium_irio,40.491669,23.114441
 1839085638,Sisymbrium_irio,40.51889,23.15333
 1839085718,Sisymbrium_irio,40.491112,23.20417
-1848999968,Sisymbrium_irio,48.2,16.36556
 1846555937,Sisymbrium_irio,33.594328,-112.072805
 1697855865,Sisymbrium_irio,31.716667,35.454167
 1846555411,Sisymbrium_irio,33.830423,-112.006163
@@ -53,10 +49,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830537656,Sisymbrium_irio,34.6875,135.20625
 1501422040,Sisymbrium_irio,39.42,-0.41
 1899881861,Sisymbrium_irio,30.75535,-81.762529
-1701179175,Sisymbrium_irio,42.750195,10.121172
 2270491789,Sisymbrium_irio,34.792118,-112.051132
 1701300506,Sisymbrium_irio,62.8069,6.7667
-1849000120,Sisymbrium_irio,48.225,16.29167
 2270490670,Sisymbrium_irio,34.904915,-112.223198
 2303429650,Sisymbrium_irio,34.3813,132.356
 995456675,Sisymbrium_irio,-35.657667,143.77115
@@ -72,7 +66,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846554171,Sisymbrium_irio,29.85722,-109.31167
 2270563108,Sisymbrium_irio,33.55,-111.6
 2270568708,Sisymbrium_irio,33.55973,-111.60998
-773997705,Sisymbrium_irio,29.247778,48.047222
 1846554090,Sisymbrium_irio,29.839444,-109.565833
 1846554150,Sisymbrium_irio,29.844444,-108.976944
 1846554159,Sisymbrium_irio,29.71278,-110.16194
@@ -91,10 +84,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992078119,Sisymbrium_irio,-33.674288,136.926379
 2247773045,Sisymbrium_irio,-28.998333,-67.7325
 1936244541,Sisymbrium_irio,37.6967,-0.7697
-1094184811,Sisymbrium_irio,31.8,35.32
 1846554571,Sisymbrium_irio,29.047222,-109.231667
 1094185848,Sisymbrium_irio,31.4,34.85
-1936245270,Sisymbrium_irio,40.3872,0.4106
 1839080104,Sisymbrium_irio,38.42889,22.45056
 1895927880,Sisymbrium_irio,30.411944,-110.55
 1839080415,Sisymbrium_irio,38.41222,22.99333
@@ -105,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094187536,Sisymbrium_irio,32.04,34.76
 1426321567,Sisymbrium_irio,35.81235,-116.054717
 1697730188,Sisymbrium_irio,44.594444,33.527778
-1839080389,Sisymbrium_irio,38.509171,23.635
 2270531793,Sisymbrium_irio,33.42,-112.07
 992080426,Sisymbrium_irio,-35.110944,139.287484
 992080395,Sisymbrium_irio,-34.912053,139.319703
@@ -154,7 +144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846516455,Sisymbrium_irio,36.885847,-111.612057
 1895927768,Sisymbrium_irio,30.749572,-110.896419
 1074090547,Sisymbrium_irio,-34.56909,145.784126
-1936231347,Sisymbrium_irio,42.0472,3.5217
 1839080121,Sisymbrium_irio,38.476391,22.96278
 1851365207,Sisymbrium_irio,41.961,-5.094
 992076555,Sisymbrium_irio,-34.348889,139.615556
@@ -191,7 +180,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839071673,Sisymbrium_irio,40.561668,22.54528
 1846516632,Sisymbrium_irio,30.962778,-110.866111
 232593179,Sisymbrium_irio,37.621,-1.091
-1839080161,Sisymbrium_irio,40.73278,23.99667
 1839080219,Sisymbrium_irio,40.71944,23.17111
 1846516756,Sisymbrium_irio,31.278333,-109.001111
 1839080244,Sisymbrium_irio,40.564442,23.025
@@ -241,15 +229,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094185274,Sisymbrium_irio,32,35.46
 1846510723,Sisymbrium_irio,28.308333,-108.791111
 895219406,Sisymbrium_irio,40.139,-0.776
-895205271,Sisymbrium_irio,38.538,-0.092
-214571015,Sisymbrium_irio,52.49889,13.354445
 1652319671,Sisymbrium_irio,-27.437788,151.862822
 996187963,Sisymbrium_irio,-27.437,151.863
 992067451,Sisymbrium_irio,-32.102222,140.866389
 1652344236,Sisymbrium_irio,-25.969711,150.871369
 728980476,Sisymbrium_irio,51.574107,5.942572
-1697710366,Sisymbrium_irio,28.066667,-16.730556
-1697710459,Sisymbrium_irio,28.416667,-16.541667
 2270683337,Sisymbrium_irio,31.4986,-106.155
 895201326,Sisymbrium_irio,39.133,-0.484
 1501102089,Sisymbrium_irio,39.13,-0.48
@@ -276,7 +260,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936210461,Sisymbrium_irio,41.7527,-4.7453
 1843899168,Sisymbrium_irio,35.0321,-104.6798
 395803992,Sisymbrium_irio,34.507778,133.674444
-1936672708,Sisymbrium_irio,42.4425,1.4883
 1851350694,Sisymbrium_irio,42.4031,-5.3312
 1499285915,Sisymbrium_irio,-30.038,149.904
 1937223101,Sisymbrium_irio,-30.038333,149.904167
@@ -301,11 +284,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839079848,Sisymbrium_irio,40.711391,22.57917
 1260435900,Sisymbrium_irio,-16.09305,-71.6225
 1839079866,Sisymbrium_irio,40.242779,21.96389
-1502035677,Sisymbrium_irio,39.9,0.69
 2270691376,Sisymbrium_irio,32.4805,-111.308
-1936688160,Sisymbrium_irio,39.8983,0.6847
 2290354051,Sisymbrium_irio,-16.093056,-71.6225
-1697855879,Sisymbrium_irio,35.172222,33.369444
 1697855853,Sisymbrium_irio,34.925,33.583333
 2270690721,Sisymbrium_irio,33.7225,-113.078
 1212190047,Sisymbrium_irio,40.728611,22.662222
@@ -314,7 +294,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839079929,Sisymbrium_irio,40.728611,22.66222
 1212190030,Sisymbrium_irio,40.242778,21.963889
 1839079769,Sisymbrium_irio,40.74028,22.70472
-1848999717,Sisymbrium_irio,48.225,16.375
 436711165,Sisymbrium_irio,48.6775,6.16889
 1848999375,Sisymbrium_irio,40.84667,45.55778
 2270645503,Sisymbrium_irio,33.4641476931189,-111.607079352228
@@ -449,7 +428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652271546,Sisymbrium_irio,-24.881491,146.258286
 2270689727,Sisymbrium_irio,32.6471,-111.532
 1652315008,Sisymbrium_irio,-20.112222,144.536389
-993695049,Sisymbrium_irio,-35.3167,149.1333
 1652187171,Sisymbrium_irio,-27.271684,150.460617
 1936926997,Sisymbrium_irio,-31.150833,150.984722
 996024152,Sisymbrium_irio,-31.151,150.985
@@ -485,10 +463,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895199223,Sisymbrium_irio,40.411,-1.438
 2270507173,Sisymbrium_irio,31.2139,-111.3
 30976456,Sisymbrium_irio,38.51,-1.03
-1927866130,Sisymbrium_irio,41.68,44.78
 1846480827,Sisymbrium_irio,32.89935,-109.464
-1848999875,Sisymbrium_irio,48.15056,16.43833
-2290548220,Sisymbrium_irio,40.441667,-3.688333
 1848998849,Sisymbrium_irio,40.45972,44.65944
 27752177,Sisymbrium_irio,47.1253,4.21727
 1418347977,Sisymbrium_irio,19.5525,-96.94
@@ -601,7 +576,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212184687,Sisymbrium_irio,40.135,23.748333
 2265426399,Sisymbrium_irio,33.780556,-118.128609
 2270213343,Sisymbrium_irio,35.6687,-118.3042
-1913225928,Sisymbrium_irio,48.1925,16.295
 296546594,Sisymbrium_irio,47.383722,15.10225
 1936658891,Sisymbrium_irio,40.2758,44.7028
 1652180648,Sisymbrium_irio,-28.977458,147.217828
@@ -645,11 +619,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933836892,Sisymbrium_irio,34.65,135.216667
 2270592950,Sisymbrium_irio,31.9425,-110.302
 2270602161,Sisymbrium_irio,31.4453,-110.164
-199506625,Sisymbrium_irio,36.18,-5.374
 1930645620,Sisymbrium_irio,42.649417,44.6292
 1897946712,Sisymbrium_irio,22.770278,-102.536111
 2270602819,Sisymbrium_irio,32.6992,-109.897
-1893934571,Sisymbrium_irio,19.4551236051488,-99.1704085654715
 1257365003,Sisymbrium_irio,-23.7167,133.8667
 1897946709,Sisymbrium_irio,22.726389,-102.6825
 1897946771,Sisymbrium_irio,22.285556,-102.014444
@@ -657,7 +629,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893980276,Sisymbrium_irio,19.317778,-99.193667
 1897946756,Sisymbrium_irio,22.460833,-102.369167
 992016175,Sisymbrium_irio,-34.783333,138.479167
-1936655165,Sisymbrium_irio,40.0353,3.8264
 1846493679,Sisymbrium_irio,33.26435,-111.1753
 1421400657,Sisymbrium_irio,33.966667,-111.8625
 895205216,Sisymbrium_irio,39.855,-0.154
@@ -723,7 +694,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270647739,Sisymbrium_irio,32.6112,-110.721
 1652228408,Sisymbrium_irio,-26.590251,144.275904
 1652102619,Sisymbrium_irio,-27.460349,153.085805
-996694412,Sisymbrium_irio,-32.1175,115.6522
 994375807,Sisymbrium_irio,-28.354216,151.997965
 1652107527,Sisymbrium_irio,-28.338542,152.294975
 1936886225,Sisymbrium_irio,-32.226389,142.028611
@@ -753,7 +723,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270600663,Sisymbrium_irio,33.5893,-112.073
 30976285,Sisymbrium_irio,38.47,-0.32
 177032103,Sisymbrium_irio,31.748063,-105.050067
-1848999111,Sisymbrium_irio,42.66333,27.71917
 1258952759,Sisymbrium_irio,42.71083,44.625
 1851405344,Sisymbrium_irio,42.29,-5.49
 1848999763,Sisymbrium_irio,48.3,16.4
@@ -771,11 +740,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085345745,Sisymbrium_irio,-31.4264,138.66842
 992012237,Sisymbrium_irio,-31.427778,138.667222
 1846495564,Sisymbrium_irio,32.7225,-117.1175
-232593026,Sisymbrium_irio,37.582,-0.888
 29738286,Sisymbrium_irio,39.756,-0.169
 29737395,Sisymbrium_irio,39.632,-0.687
 1501108691,Sisymbrium_irio,39.75,-0.16
-232593020,Sisymbrium_irio,37.59,-0.842
 1897946754,Sisymbrium_irio,24.606389,-101.431667
 2270602929,Sisymbrium_irio,32.9691,-110.318
 2270585792,Sisymbrium_irio,33.3594,-112.757
@@ -783,7 +750,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270655335,Sisymbrium_irio,33.1794,-111.661
 30976212,Sisymbrium_irio,41.44,-0.13
 1895648644,Sisymbrium_irio,32.070833,-116.879167
-1893934713,Sisymbrium_irio,26.425,-113.058333
 1936672503,Sisymbrium_irio,41.2815,-4.279
 1893934568,Sisymbrium_irio,32.090833,-116.876667
 2270599998,Sisymbrium_irio,32.9546,-110.18
@@ -810,15 +776,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30976253,Sisymbrium_irio,38.36,-0.49
 30976101,Sisymbrium_irio,38.09,-0.96
 992622250,Sisymbrium_irio,-36.1257,139.6486
-1501107716,Sisymbrium_irio,38.8,0.17
 1501065701,Sisymbrium_irio,38.51,-0.9
 1851410450,Sisymbrium_irio,38.519,-0.907
 1895820694,Sisymbrium_irio,28.487778,-109.366389
 30976102,Sisymbrium_irio,38.08,-1.01
 1936649857,Sisymbrium_irio,38.513,-0.9138
 1501069174,Sisymbrium_irio,38.07,-0.97
-30894445,Sisymbrium_irio,28.200001,-16.530001
-29736464,Sisymbrium_irio,38.801,0.173
 1501072990,Sisymbrium_irio,38.37,-0.97
 1936521684,Sisymbrium_irio,38.3924,-3.9631
 1895820699,Sisymbrium_irio,28.391667,-108.658333
@@ -828,7 +791,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895820704,Sisymbrium_irio,28.432222,-109.346667
 1893934630,Sisymbrium_irio,28.6354889724864,-106.089201037783
 2270510475,Sisymbrium_irio,28.6222,-109.467
-1988118323,Sisymbrium_irio,34,-118.8
 1265803541,Sisymbrium_irio,35.483333,-116.3
 911797118,Sisymbrium_irio,15.433333,43.716667
 1843810290,Sisymbrium_irio,32.123,-107.38
@@ -836,7 +798,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 911797131,Sisymbrium_irio,15.066667,43.75
 992604564,Sisymbrium_irio,-29.066111,138.685833
 1849000375,Sisymbrium_irio,14.48333,44.65
-1563129772,Sisymbrium_irio,39.866667,25.25
 1258514396,Sisymbrium_irio,42.6575,44.66277
 996625198,Sisymbrium_irio,-28.728453,117.234207
 996662521,Sisymbrium_irio,-31.100418,117.558686
@@ -846,10 +807,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 232593015,Sisymbrium_irio,37.605,-1.17
 995522848,Sisymbrium_irio,-31.511111,150.648611
 895205241,Sisymbrium_irio,39.827,-0.108
-1936513578,Sisymbrium_irio,38.6388,0.0577
 1258325750,Sisymbrium_irio,-32.45,-69.53333
 1501067793,Sisymbrium_irio,38.08,-0.94
-1936455538,Sisymbrium_irio,38.6315,0.1269
 1893934619,Sisymbrium_irio,29.236111,-110.840278
 2270510848,Sisymbrium_irio,29.2611,-110.903
 30893453,Sisymbrium_irio,37.119999,-4.91
@@ -858,7 +817,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111313806,Sisymbrium_irio,43.271999,-1.971
 30894108,Sisymbrium_irio,37.68,-2.55
 388868040,Sisymbrium_irio,35.457431,139.640536
-1563127250,Sisymbrium_irio,37.1,25.783333
 111313804,Sisymbrium_irio,43.146999,-2.072
 29736454,Sisymbrium_irio,39.628,-0.466
 1936574410,Sisymbrium_irio,41.833347,-5.956497
@@ -896,7 +854,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270509454,Sisymbrium_irio,26.6778,-109.4
 994477437,Sisymbrium_irio,-42.88195,147.33437
 1893934703,Sisymbrium_irio,29.025,-110.958333
-29739668,Sisymbrium_irio,38.86,0.06
 1842860763,Sisymbrium_irio,35.090743,-2.813858
 1893591394,Sisymbrium_irio,29.008333,-111.173333
 1936539946,Sisymbrium_irio,41.7216,0.1497
@@ -919,8 +876,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937107266,Sisymbrium_irio,-28.0286,151.2578
 992588736,Sisymbrium_irio,-30.633333,133.883333
 1849106407,Sisymbrium_irio,50.8,-121.333333
-993443413,Sisymbrium_irio,-32.1167,115.65
-996558053,Sisymbrium_irio,-32.12,115.65
 992602409,Sisymbrium_irio,-34.179722,136.258056
 1085214550,Sisymbrium_irio,-34.17832,136.25949
 30976623,Sisymbrium_irio,38.47,-0.49
@@ -936,8 +891,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1699345400,Sisymbrium_irio,29.466667,-104.95
 1842860892,Sisymbrium_irio,34.791625,-3.754804
 1895256605,Sisymbrium_irio,28.508333,-110.999722
-1501066516,Sisymbrium_irio,38.15,-0.43
-2270511376,Sisymbrium_irio,28.283333,-115.25
 1893934639,Sisymbrium_irio,28.83861,-105.91111
 992579850,Sisymbrium_irio,-30.266667,133.733333
 1502028554,Sisymbrium_irio,40.3,-0.12
@@ -957,7 +910,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30975806,Sisymbrium_irio,38.37,-0.92
 1261551396,Sisymbrium_irio,-0.11666,-78.5
 1457811948,Sisymbrium_irio,-0.07,-78.3
-29738222,Sisymbrium_irio,39.903,0.69
 30976546,Sisymbrium_irio,38.33,-0.43
 2270601953,Sisymbrium_irio,32.4361,-112.936
 2270586525,Sisymbrium_irio,33.367,-112
@@ -973,7 +925,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860317695,Sisymbrium_irio,41.23,0.02
 2270601390,Sisymbrium_irio,32.2656,-112.733
 2270602039,Sisymbrium_irio,32.4014,-112.698
-1936603058,Sisymbrium_irio,43.4562,-3.8048
 1842860715,Sisymbrium_irio,34.68,-1.98
 895302275,Sisymbrium_irio,39.97,-2.47
 30677215,Sisymbrium_irio,37.141,-2.668
@@ -991,8 +942,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257352684,Sisymbrium_irio,-25.831894,134.467944
 994757118,Sisymbrium_irio,-25.8333,134.4667
 992542162,Sisymbrium_irio,-34.178149,140.752458
-1419193521,Sisymbrium_irio,19.492222,-98.889444
-1259989546,Sisymbrium_irio,-0.2,-78.46666
 30893159,Sisymbrium_irio,36.68,-3.78
 1897946717,Sisymbrium_irio,23.803333,-101.703333
 1258099901,Sisymbrium_irio,23.977778,-104.636111
@@ -1015,15 +964,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895242068,Sisymbrium_irio,39.76,-0.26
 1085340095,Sisymbrium_irio,-34.82005,139.22359
 30975793,Sisymbrium_irio,38.51,-0.65
-1705285720,Sisymbrium_irio,56.654999,16.359583
 992560805,Sisymbrium_irio,-34.821389,139.222222
 2270602393,Sisymbrium_irio,34.8691,-112.069
 1501062745,Sisymbrium_irio,38.51,-0.53
 895236761,Sisymbrium_irio,40.12,-0.24
 30677194,Sisymbrium_irio,37.356,-2.52
-1501055082,Sisymbrium_irio,38.77,0.16
 211638901,Sisymbrium_irio,43.310001,-5.96
-1848999913,Sisymbrium_irio,48.17972,16.4825
 1936426013,Sisymbrium_irio,42.3054,-2.5281
 295943635,Sisymbrium_irio,35.540755,139.753024
 29738062,Sisymbrium_irio,39.95,-0.48
@@ -1065,7 +1011,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896333709,Sisymbrium_irio,19.515,-101.6
 1893679663,Sisymbrium_irio,19.515833,-101.609444
 2270602683,Sisymbrium_irio,33.5092,-111.898
-895241364,Sisymbrium_irio,40.4,0.47
 1893679686,Sisymbrium_irio,20.998333,-100.385
 199506266,Sisymbrium_irio,36.763,-4.417
 992522581,Sisymbrium_irio,-34.95,139.32
@@ -1075,7 +1020,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893934662,Sisymbrium_irio,18.941667,-97.841667
 1843805798,Sisymbrium_irio,34.261787,-107.063141
 111313664,Sisymbrium_irio,42.643002,-1.298
-1099920322,Sisymbrium_irio,56.66715,16.36147
 30893206,Sisymbrium_irio,37.41,-2.77
 992525305,Sisymbrium_irio,-30,137
 1937182818,Sisymbrium_irio,-29.15,148.7
@@ -1090,7 +1034,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270587291,Sisymbrium_irio,33.9345,-112.693
 1893934663,Sisymbrium_irio,19.5367859190707,-101.615021370025
 1501055152,Sisymbrium_irio,38.69,-0.24
-1697790169,Sisymbrium_irio,40.35647,49.813342
 1500701742,Sisymbrium_irio,40,-0.2
 895185592,Sisymbrium_irio,40,-0.206
 30893855,Sisymbrium_irio,36.68,-2.22
@@ -1124,15 +1067,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 991991422,Sisymbrium_irio,-31.882045,138.417735
 996257570,Sisymbrium_irio,-33.3,123.4
 993365328,Sisymbrium_irio,-33.3,123.3667
-895214183,Sisymbrium_irio,40.03,0.13
 1893679665,Sisymbrium_irio,19.491667,-98.888333
 30893166,Sisymbrium_irio,36.689999,-2.89
 30893165,Sisymbrium_irio,36.68,-3.9
 1060373336,Sisymbrium_irio,31.579723,74.354446
 1893934736,Sisymbrium_irio,31.841667,-112.938889
 1050615781,Sisymbrium_irio,41.97,-1.67
-1936542997,Sisymbrium_irio,43.4743,-3.7926
-993342539,Sisymbrium_irio,-35.3,149.15
 111313286,Sisymbrium_irio,41.969002,-1.437
 1936376899,Sisymbrium_irio,41.9656,-1.6859
 1936366376,Sisymbrium_irio,35.1498,-2.4523
@@ -1163,8 +1103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085545532,Sisymbrium_irio,-33.9422,140.86547
 1085545662,Sisymbrium_irio,-33.97699,140.88895
 992505266,Sisymbrium_irio,-33.95,140.87
-992506028,Sisymbrium_irio,-32.303889,133.591667
-30893187,Sisymbrium_irio,39.48,2.65
 2270602632,Sisymbrium_irio,32.99772,-111.53389
 29738991,Sisymbrium_irio,38.69,-0.53
 1258099882,Sisymbrium_irio,26.833333,-102.166667
@@ -1187,14 +1125,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111313291,Sisymbrium_irio,42.521,-1.667
 234435320,Sisymbrium_irio,35.449098,139.665534
 1259640898,Sisymbrium_irio,31.616667,-116.516667
-30893140,Sisymbrium_irio,39.48,2.53
 30893209,Sisymbrium_irio,36.950001,-3.67
-318684317,Sisymbrium_irio,59.05157,10.020989
 992491287,Sisymbrium_irio,-30.482085,131.834442
 2303142610,Sisymbrium_irio,-30.55,133.216667
 992495512,Sisymbrium_irio,-30.55,133.22
 1084212645,Sisymbrium_irio,-30.54858,133.21802
-1848998737,Sisymbrium_irio,-27.25,-71
 1929971748,Sisymbrium_irio,37.15,-114.02
 2270599803,Sisymbrium_irio,33.2111,-114.208
 1418791020,Sisymbrium_irio,26.686778,-103.747639
@@ -1218,17 +1153,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050615789,Sisymbrium_irio,43.25,-2.92
 996466821,Sisymbrium_irio,-26.366667,118.033333
 996466863,Sisymbrium_irio,-31.49,118.28
-992608977,Sisymbrium_irio,-20.815314,149.284209
 995317197,Sisymbrium_irio,-36.2833,142.2333
 1451672171,Sisymbrium_irio,-31.565112,147.201195
 996066887,Sisymbrium_irio,-31.57,147.2
 995317509,Sisymbrium_irio,-36.3667,141.8833
 996467490,Sisymbrium_irio,-28.533333,119.095833
-994378917,Sisymbrium_irio,-20.8167,149.2833
 995317532,Sisymbrium_irio,-36.3667,141.8
 995317218,Sisymbrium_irio,-36.2,142.1167
 995318589,Sisymbrium_irio,-31.5667,147.2
-1652216883,Sisymbrium_irio,-20.823572,149.292478
 1451672347,Sisymbrium_irio,-33.965126,146.067906
 993337089,Sisymbrium_irio,-36.25,142.9167
 995317278,Sisymbrium_irio,-36.15,142.15
@@ -1251,7 +1183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895510239,Sisymbrium_irio,28.7608665512089,-110.970794818528
 2270508926,Sisymbrium_irio,27.9833,-111.15
 1501988624,Sisymbrium_irio,39.59,-0.5
-30893141,Sisymbrium_irio,39.57,2.65
 1936104679,Sisymbrium_irio,39.6322,-0.5543
 1895510189,Sisymbrium_irio,28.099444,-111.221389
 30893186,Sisymbrium_irio,37.389999,-4.69
@@ -1264,10 +1195,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187882486,Sisymbrium_irio,42.07,-1.85
 1050615769,Sisymbrium_irio,43.31,-3.06
 111313287,Sisymbrium_irio,42.053001,-1.653
-30893117,Sisymbrium_irio,39.299999,2.77
 187882485,Sisymbrium_irio,42.33,-1.63
 1893934728,Sisymbrium_irio,31.341667,-115.791667
-1563127240,Sisymbrium_irio,35.516667,24.033333
 1936107306,Sisymbrium_irio,42.3409,-2.4186
 187882522,Sisymbrium_irio,42.04,-1.32
 187882484,Sisymbrium_irio,42.19,-1.68
@@ -1285,7 +1214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992461918,Sisymbrium_irio,-32.332,139.626
 1451672352,Sisymbrium_irio,-34.66514,144.967934
 996066739,Sisymbrium_irio,-34.67,144.97
-996466842,Sisymbrium_irio,-32.253056,126.298056
 995049115,Sisymbrium_irio,-34.3667,141.8167
 883425123,Sisymbrium_irio,37.1463879990916,-114.032151
 995317441,Sisymbrium_irio,-36.1167,143.5167
@@ -1300,7 +1228,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893934701,Sisymbrium_irio,26.690455,-103.671454
 1893934638,Sisymbrium_irio,26.259722,-100.944444
 1895510235,Sisymbrium_irio,19.5,-97.35
-29738846,Sisymbrium_irio,39.31,-0.27
 1502035425,Sisymbrium_irio,40.03,0.01
 1936168959,Sisymbrium_irio,39.8097,-0.4312
 1895510203,Sisymbrium_irio,31.385278,-116.277778
@@ -1336,9 +1263,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992487718,Sisymbrium_irio,-31.532044,138.334399
 992424358,Sisymbrium_irio,-29.65,138.07
 994726167,Sisymbrium_irio,-37.7667,144.85
-1261293478,Sisymbrium_irio,-16.533333,-68.083333
-992499921,Sisymbrium_irio,-32.465418,133.617783
-1893679690,Sisymbrium_irio,19.458333,-99.075
 1893934664,Sisymbrium_irio,19.5736721579956,-98.820376699963
 1895282357,Sisymbrium_irio,19.570833,-98.817222
 1895510207,Sisymbrium_irio,27.8421639277281,-109.430882777867
@@ -1388,8 +1312,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936365685,Sisymbrium_irio,39.8519,-3.9949
 1936431294,Sisymbrium_irio,38.093,-1.8152
 1936088387,Sisymbrium_irio,42.495,-2.6606
-1563130020,Sisymbrium_irio,35.933333,27.766667
-1697790204,Sisymbrium_irio,40.505773,46.820812
 1050615742,Sisymbrium_irio,42.51,-2.41
 1050615799,Sisymbrium_irio,42.54,-2.56
 1050615787,Sisymbrium_irio,42.49,-2.49
@@ -1439,7 +1361,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050615814,Sisymbrium_irio,42.6,-2.54
 1050615822,Sisymbrium_irio,42.85,-3.06
 38696932,Sisymbrium_irio,19.6833,-155.417
-1261292435,Sisymbrium_irio,-16.51666,-68.13333
 992388090,Sisymbrium_irio,-33.282062,137.117762
 992388035,Sisymbrium_irio,-32.9,135.9
 2270600589,Sisymbrium_irio,34.2232,-113.599
@@ -1450,7 +1371,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050615827,Sisymbrium_irio,42.63,-2.82
 30893910,Sisymbrium_irio,38.380001,-5.06
 2270602967,Sisymbrium_irio,33.9936,-113.462
-876156426,Sisymbrium_irio,41.04,1.04
 2270266690,Sisymbrium_irio,34.4159999991199,-119.8705
 199506883,Sisymbrium_irio,37.18927,-4.576
 2270587668,Sisymbrium_irio,33.1393,-111.866
@@ -1470,22 +1390,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992458123,Sisymbrium_irio,-34.45,140.57
 1894534640,Sisymbrium_irio,23.841667,-104.258333
 1893934712,Sisymbrium_irio,23.84361,-104.24083
-1913879256,Sisymbrium_irio,33.745163,73.019745
 1322139226,Sisymbrium_irio,32.2958,-106.782
-1913879257,Sisymbrium_irio,33.730271,73.13111
-1913879047,Sisymbrium_irio,33.701814,73.08776
 2270602126,Sisymbrium_irio,34.2815,-113.407
-1913879063,Sisymbrium_irio,33.7096,73.1033
 2270586110,Sisymbrium_irio,33.2252,-112.583
 2270600615,Sisymbrium_irio,34.5542,-113.45
 1611940234,Sisymbrium_irio,31.85,-106.45
 1611940228,Sisymbrium_irio,31.920833,-106.0375
-1913879395,Sisymbrium_irio,33.687849,73.094532
-1913879274,Sisymbrium_irio,33.729364,73.121336
 1895648621,Sisymbrium_irio,28.830833,-111.950555
 1913879053,Sisymbrium_irio,33.911589,73.058407
 1913879403,Sisymbrium_irio,33.587564,73.085775
-1913879105,Sisymbrium_irio,33.6937,73.123
 1611940213,Sisymbrium_irio,31.866667,-106.566667
 1895510167,Sisymbrium_irio,27.116667,-107.6
 1913879375,Sisymbrium_irio,33.859844,73.119442
@@ -1495,7 +1408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913880306,Sisymbrium_irio,33.444827,70.974962
 1893591381,Sisymbrium_irio,28.830833,-112.008333
 1322919601,Sisymbrium_irio,27.12,-107.6
-1913879273,Sisymbrium_irio,33.706402,73.086478
 1611940200,Sisymbrium_irio,31.966667,-106.5
 2270602268,Sisymbrium_irio,33.4943,-111.722
 1913880817,Sisymbrium_irio,31.72,72.978889
@@ -1504,7 +1416,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913879450,Sisymbrium_irio,34.157448,71.748822
 1913879419,Sisymbrium_irio,34.01422,71.569587
 1913880330,Sisymbrium_irio,33.581958,71.449291
-1913879085,Sisymbrium_irio,33.706223,73.085062
 1913879434,Sisymbrium_irio,34.015276,71.484148
 1929537394,Sisymbrium_irio,36.908,-116.7606
 1913879401,Sisymbrium_irio,34.020504,71.571097
@@ -1516,7 +1427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913879277,Sisymbrium_irio,33.884232,73.031552
 992411694,Sisymbrium_irio,-31.75,140.33
 1913879420,Sisymbrium_irio,34.303109,71.656014
-1913879263,Sisymbrium_irio,33.723465,73.11536
 1913880316,Sisymbrium_irio,34.102173,71.142494
 1913879468,Sisymbrium_irio,34.143453,71.731731
 992606193,Sisymbrium_irio,-25.35,131.03
@@ -1532,20 +1442,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895282309,Sisymbrium_irio,19.458611,-99.258611
 992591830,Sisymbrium_irio,-34.55,139.6
 1913879170,Sisymbrium_irio,33.570011,73.081371
-1913879239,Sisymbrium_irio,33.68236,73.134329
 1611937212,Sisymbrium_irio,31.866667,-106.483333
 2270602109,Sisymbrium_irio,32.9549,-109.531
 1913879392,Sisymbrium_irio,33.761812,73.149178
 1913879427,Sisymbrium_irio,33.801209,72.700955
 1563370604,Sisymbrium_irio,31.904444,-106.457222
 1913879253,Sisymbrium_irio,33.505367,73.182126
-1913879117,Sisymbrium_irio,33.746129,73.108198
-1913879373,Sisymbrium_irio,33.71619,73.098585
-1913879143,Sisymbrium_irio,33.706295,73.086068
-1913879376,Sisymbrium_irio,33.6601,73.0854
 1265803467,Sisymbrium_irio,32.65,-116.183333
 2270601820,Sisymbrium_irio,32.8371,-109.679
-1913879418,Sisymbrium_irio,33.693919,73.065104
 1913879258,Sisymbrium_irio,33.534068,73.109517
 1913879457,Sisymbrium_irio,33.802193,72.699635
 1913879192,Sisymbrium_irio,33.833645,72.686363
@@ -1553,11 +1457,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913879281,Sisymbrium_irio,32.574095,71.526386
 1913879374,Sisymbrium_irio,32.458722,71.47754
 1913879438,Sisymbrium_irio,33.432912,72.629227
-1913879123,Sisymbrium_irio,33.734032,73.0867
 1913879443,Sisymbrium_irio,33.771436,72.322055
-1913879204,Sisymbrium_irio,33.6946,72.9775
 1563370595,Sisymbrium_irio,31.8,-106.5
-1913879344,Sisymbrium_irio,33.728171,73.022584
 1913879383,Sisymbrium_irio,32.70852,71.298297
 1913879367,Sisymbrium_irio,32.562318,71.530842
 1913879442,Sisymbrium_irio,33.595173,72.760042
@@ -1582,7 +1483,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270601729,Sisymbrium_irio,32.9107,-109.501
 1611937131,Sisymbrium_irio,31.9,-106.5
 1913879405,Sisymbrium_irio,33.130196,72.347557
-1913879148,Sisymbrium_irio,33.60855,73.010153
 1913879435,Sisymbrium_irio,33.72418,72.218263
 1913879430,Sisymbrium_irio,33.769834,72.366375
 1913879492,Sisymbrium_irio,33.776815,72.345459
@@ -1593,12 +1493,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913879250,Sisymbrium_irio,32.57923,71.534256
 1893934672,Sisymbrium_irio,28.841667,-113.675
 1913879187,Sisymbrium_irio,33.76752,73.129265
-1913879335,Sisymbrium_irio,33.59564,73.054826
 1913879364,Sisymbrium_irio,32.857092,71.192277
 1913879247,Sisymbrium_irio,32.674722,71.281111
 1913879354,Sisymbrium_irio,32.589235,71.412786
 1806128436,Sisymbrium_irio,42.828234,-1.676623
-1913879280,Sisymbrium_irio,33.7436,73.0685
 1890160448,Sisymbrium_irio,30.591112,67.00885
 1913880251,Sisymbrium_irio,31.353719,69.466939
 1913880842,Sisymbrium_irio,32.720056,72.981771
@@ -1609,7 +1507,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913879453,Sisymbrium_irio,33.827597,72.516608
 1913880816,Sisymbrium_irio,32.929434,73.716347
 1913879167,Sisymbrium_irio,29.910486,67.151672
-1913879269,Sisymbrium_irio,33.594687,73.081425
 1913880881,Sisymbrium_irio,32.720056,72.984861
 1703278181,Sisymbrium_irio,31.011667,-106.51
 1913879165,Sisymbrium_irio,30.362954,66.947279
@@ -1632,10 +1529,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913879205,Sisymbrium_irio,30.279089,67.178763
 1913879180,Sisymbrium_irio,30.407152,67.731791
 1913879202,Sisymbrium_irio,30.381406,67.725815
-1099094346,Sisymbrium_irio,45.116665,29.666666
 994257721,Sisymbrium_irio,-23.748563,133.91793
 996066814,Sisymbrium_irio,-34.6,146.42
-1099921245,Sisymbrium_irio,59.3368,18.06132
 1451672484,Sisymbrium_irio,-34.598457,146.417908
 995317107,Sisymbrium_irio,-35.7667,144.2667
 1451672204,Sisymbrium_irio,-31.165122,145.667883
@@ -1668,16 +1563,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913879080,Sisymbrium_irio,32.34692,74.706123
 1913879136,Sisymbrium_irio,33.645638,73.519201
 1913879229,Sisymbrium_irio,31.8025,74.261667
-1913879305,Sisymbrium_irio,33.630786,73.041803
 1893934641,Sisymbrium_irio,19.275,-99.13889
 1913878816,Sisymbrium_irio,32.689355,71.879861
 1913879447,Sisymbrium_irio,33.620605,72.118949
-1913879408,Sisymbrium_irio,33.707558,73.052304
 1851388050,Sisymbrium_irio,40.051,-3.487
 1913880307,Sisymbrium_irio,32.60312,70.893968
 1913880862,Sisymbrium_irio,31.974444,74.224444
 1913879436,Sisymbrium_irio,33.812816,72.586489
-1913879182,Sisymbrium_irio,33.658571,73.100886
 1913879112,Sisymbrium_irio,32.675004,74.462587
 1913880849,Sisymbrium_irio,29.1925,72.853611
 775303017,Sisymbrium_irio,40.050034,-3.48651
@@ -1726,10 +1618,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937123051,Sisymbrium_irio,-34.45,141.9667
 995022765,Sisymbrium_irio,-34.4833,141.5
 995317089,Sisymbrium_irio,-35.6167,143.7333
-1895282434,Sisymbrium_irio,19.4533946825775,-99.1714935851198
 1896333715,Sisymbrium_irio,19.325,-99.191667
 2270585504,Sisymbrium_irio,33.6475,-111.691
-1913879242,Sisymbrium_irio,33.730146,73.067429
 1890160382,Sisymbrium_irio,34.360432,73.449392
 1913880314,Sisymbrium_irio,34.125174,73.308162
 1893934757,Sisymbrium_irio,30.2230120423784,-110.722333108207
@@ -1737,14 +1627,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258836989,Sisymbrium_irio,19.17,-99.03
 1913879414,Sisymbrium_irio,34.931079,72.417128
 1893934658,Sisymbrium_irio,24.392903,-104.330574
-1890156299,Sisymbrium_irio,33.69827,73.123
-1913879422,Sisymbrium_irio,33.629944,73.066093
 1913879389,Sisymbrium_irio,33.691307,73.255398
 1933817337,Sisymbrium_irio,35.13097,139.97375
 1890160368,Sisymbrium_irio,30.376553,68.596232
 1913880328,Sisymbrium_irio,34.331237,73.190899
 1913879394,Sisymbrium_irio,33.9209,73.3993
-1699351694,Sisymbrium_irio,37.950278,58.380278
 1890160400,Sisymbrium_irio,30.392249,68.59913
 1893416724,Sisymbrium_irio,32.075,-116.525
 615405931,Sisymbrium_irio,34.27,75.47
@@ -1752,8 +1639,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928423611,Sisymbrium_irio,38.43,-114.02
 1913880300,Sisymbrium_irio,34.921452,73.758017
 1913880270,Sisymbrium_irio,35.716786,71.776385
-992320110,Sisymbrium_irio,-33.932061,137.634431
-992296964,Sisymbrium_irio,-34.456789,137.364439
 996067495,Sisymbrium_irio,-29.83,142.78
 1451672252,Sisymbrium_irio,-31.29846,144.817898
 996067479,Sisymbrium_irio,-31.3,144.82
@@ -1761,9 +1646,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996067168,Sisymbrium_irio,-30.87,150.15
 1451672203,Sisymbrium_irio,-30.865095,150.151139
 2288247814,Sisymbrium_irio,-30.866667,150.15
-1913879240,Sisymbrium_irio,33.7128,73.0873
-1913879220,Sisymbrium_irio,33.682426,73.135638
-1913879140,Sisymbrium_irio,33.661741,73.085136
 1843805723,Sisymbrium_irio,32.579985,-106.528309
 1913879221,Sisymbrium_irio,33.649327,73.254427
 2270601981,Sisymbrium_irio,33.222106,-114.670781
@@ -1807,7 +1689,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992589493,Sisymbrium_irio,-34.916667,139.3
 992281467,Sisymbrium_irio,-32.682058,137.134422
 992457190,Sisymbrium_irio,-35.219853,136.886676
-992457630,Sisymbrium_irio,-35.27,136.89
 2270602200,Sisymbrium_irio,32.0044,-109.356
 1893934585,Sisymbrium_irio,26.90083,-101.41806
 1416604585,Sisymbrium_irio,31.768723,-106.504097
@@ -1823,7 +1704,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30976352,Sisymbrium_irio,40.94,-5.67
 2270601067,Sisymbrium_irio,31.7711,-111.595
 2270603270,Sisymbrium_irio,32.7884,-113.893
-992251238,Sisymbrium_irio,-33.933172,137.628876
 1426207117,Sisymbrium_irio,35.7751,-117.9147
 1896333713,Sisymbrium_irio,19.541667,-96.925
 1257302858,Sisymbrium_irio,-18.615275,128.467931
@@ -1841,7 +1721,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615405975,Sisymbrium_irio,34.65,70.77
 30894893,Sisymbrium_irio,40.549999,-4.18
 2270513054,Sisymbrium_irio,32.45,-117.017
-1563127503,Sisymbrium_irio,39.116667,23.733333
 615405945,Sisymbrium_irio,31.98,63.13
 575114897,Sisymbrium_irio,33.15,55.816667
 2270600687,Sisymbrium_irio,32.7057,-114.641
@@ -1863,7 +1742,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893934670,Sisymbrium_irio,19.1756301363471,-99.0312103178095
 1895282331,Sisymbrium_irio,19.309722,-99.070278
 1893416765,Sisymbrium_irio,19.175,-99.041667
-1936681850,Sisymbrium_irio,37.0354,-1.5395
 2270510769,Sisymbrium_irio,19.18248,-99.027581
 1936169339,Sisymbrium_irio,36.8,-2.85
 1258836894,Sisymbrium_irio,28.17,-105.44
@@ -1888,7 +1766,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615405974,Sisymbrium_irio,34.42,70.45
 1893934614,Sisymbrium_irio,24.9700908183499,-100.561269040549
 615405958,Sisymbrium_irio,34.63,70.58
-2289727774,Sisymbrium_irio,28.516667,-13.85
 1936168776,Sisymbrium_irio,37.0071,-2.4617
 2270604098,Sisymbrium_irio,32.8511,-111.489
 1144768832,Sisymbrium_irio,42.7,9.33333
@@ -1919,7 +1796,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270511529,Sisymbrium_irio,32.4167,-115.883
 992188775,Sisymbrium_irio,-34.132049,139.334416
 1893934659,Sisymbrium_irio,29.525,-112.408333
-1563127439,Sisymbrium_irio,37.45,24.933333
 992200791,Sisymbrium_irio,-35.0412,139.3555
 992200865,Sisymbrium_irio,-35.030943,139.343037
 1937313732,Sisymbrium_irio,-31.516667,146.116667
@@ -1927,7 +1803,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996067124,Sisymbrium_irio,-34.02,150.72
 1451672179,Sisymbrium_irio,-34.015094,150.717832
 996067087,Sisymbrium_irio,-33.87,151.07
-1065669479,Sisymbrium_irio,56.50958,16.42652
 1451672157,Sisymbrium_irio,-33.86509,151.067824
 1651995266,Sisymbrium_irio,-27.34022,150.0925
 1651995312,Sisymbrium_irio,-28.581884,150.584168
@@ -1954,8 +1829,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318123755,Sisymbrium_irio,38.59,-0.19
 2270588253,Sisymbrium_irio,34.02,-112.15
 2270603016,Sisymbrium_irio,33.80062,-112.13462
-1563127321,Sisymbrium_irio,36.8,24.583333
-1893934732,Sisymbrium_irio,26.008333,-111.175
 2270602487,Sisymbrium_irio,33.02,-109.85
 2270586854,Sisymbrium_irio,33.5637,-111.668
 992187026,Sisymbrium_irio,-34.928448,138.599156
@@ -1977,7 +1850,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996749056,Sisymbrium_irio,-31.533333,124.916667
 2270603892,Sisymbrium_irio,31.7897,-111.586
 993220070,Sisymbrium_irio,-31.1333,145.4667
-1099921035,Sisymbrium_irio,59.34267,18.06129
 992169362,Sisymbrium_irio,-33.832058,138.01776
 992171122,Sisymbrium_irio,-33.782612,138.214701
 992169203,Sisymbrium_irio,-33.9,138
@@ -1997,7 +1869,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992028830,Sisymbrium_irio,-34.91817,138.60971
 1257344615,Sisymbrium_irio,-23.781896,133.884591
 1895282370,Sisymbrium_irio,19.502778,-99.202222
-1701183616,Sisymbrium_irio,42.334467,10.294157
 2270602016,Sisymbrium_irio,33.81,-113.57
 2270589030,Sisymbrium_irio,33.686,-111.739
 992174317,Sisymbrium_irio,-33.7,136.8
@@ -2019,13 +1890,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270600765,Sisymbrium_irio,34.0287,-112.073
 1055073096,Sisymbrium_irio,32.37916,-106.73158
 993143186,Sisymbrium_irio,-34,136.4167
-992458015,Sisymbrium_irio,-34.0093,137.5886
 1936957255,Sisymbrium_irio,-37.75,144.9167
 993224917,Sisymbrium_irio,-34.0667,137.5833
 992457868,Sisymbrium_irio,-32.412329,137.975245
 1451672397,Sisymbrium_irio,-34.29846,146.06791
 996066874,Sisymbrium_irio,-34.3,146.07
-1891603752,Sisymbrium_irio,34,9
 1893416759,Sisymbrium_irio,30.591667,-111.408333
 1651995279,Sisymbrium_irio,-24.74858,145.084217
 1651995265,Sisymbrium_irio,-26.581894,148.750847
@@ -2038,7 +1907,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2247773303,Sisymbrium_irio,-31.347778,-64.284167
 996067469,Sisymbrium_irio,-34.87,147.57
 1451672317,Sisymbrium_irio,-34.865116,147.567892
-2270512024,Sisymbrium_irio,26.0083,-111.175
 1563127280,Sisymbrium_irio,35.216667,26.1
 992125303,Sisymbrium_irio,-34.53539,138.745538
 1937312793,Sisymbrium_irio,-34.55,144.6
@@ -2046,9 +1914,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257344353,Sisymbrium_irio,-23.781895,133.851262
 1651995249,Sisymbrium_irio,-27.248548,151.250816
 994219632,Sisymbrium_irio,-23.698572,133.884594
-1895282406,Sisymbrium_irio,19.353611,-99.167222
-1895282378,Sisymbrium_irio,19.345556,-99.123889
-1893934645,Sisymbrium_irio,19.3545424511896,-99.1252471517257
 1895510225,Sisymbrium_irio,27.880058,-99.941189
 2270585272,Sisymbrium_irio,33.4728,-111.909
 1056925986,Sisymbrium_irio,56.232674,-3.145858
@@ -2057,7 +1922,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651995267,Sisymbrium_irio,-28.581885,150.417503
 992116936,Sisymbrium_irio,-30.15,131.58
 2270586275,Sisymbrium_irio,33.4222,-111.822
-31975007,Sisymbrium_irio,39.360001,3.02
 1055607473,Sisymbrium_irio,53.361017,-0.236269
 992116808,Sisymbrium_irio,-34.42,140.62
 1451672235,Sisymbrium_irio,-30.198432,149.601141
@@ -2084,8 +1948,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992104439,Sisymbrium_irio,-34.85,139.62
 1501861703,Sisymbrium_irio,38.52,-0.99
 30975936,Sisymbrium_irio,38.33,-0.54
-1937139185,Sisymbrium_irio,-35.2833,149.1333
-1563127363,Sisymbrium_irio,37.433333,24.933333
 993711546,Sisymbrium_irio,-34.85,139.6333
 1622370930,Sisymbrium_irio,63.139995,21.737573
 1600705097,Sisymbrium_irio,63.132517,21.540172
@@ -2131,7 +1993,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996066810,Sisymbrium_irio,-35.32,146.27
 993327779,Sisymbrium_irio,-35.3333,146.2667
 1451672382,Sisymbrium_irio,-35.315131,146.267921
-31975006,Sisymbrium_irio,39.560001,2.7
 1937335818,Sisymbrium_irio,-33.666667,144.8
 1988214938,Sisymbrium_irio,58.58,-94.02
 1451672301,Sisymbrium_irio,-32.048433,149.251166
@@ -2150,7 +2011,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936934512,Sisymbrium_irio,-32.0333,147.9833
 995713039,Sisymbrium_irio,-34.75,146.55
 1451514402,Sisymbrium_irio,-34.748456,146.551241
-31975008,Sisymbrium_irio,39.139999,2.95
 1099921293,Sisymbrium_irio,57.78741,12.0174
 992164154,Sisymbrium_irio,-35.382616,138.824436
 994797976,Sisymbrium_irio,-36.5,143.75
@@ -2190,7 +2050,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996067346,Sisymbrium_irio,-32.25,148.62
 1563129635,Sisymbrium_irio,38.033333,23.6
 415964938,Sisymbrium_irio,53.70694,-57.01666
-1099920268,Sisymbrium_irio,57.85299,18.78109
 1451672262,Sisymbrium_irio,-31.698442,147.817855
 995414287,Sisymbrium_irio,-37.8667,144.8667
 996067507,Sisymbrium_irio,-31.7,147.82
@@ -2198,16 +2057,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426142478,Sisymbrium_irio,33.8339,-117.529
 996467275,Sisymbrium_irio,-30.39,116.67
 1144768835,Sisymbrium_irio,42.56667,8.76667
-1705306805,Sisymbrium_irio,56.66443,16.365267
 993344000,Sisymbrium_irio,-31.9667,115.8333
 667547097,Sisymbrium_irio,33.14549,35.20851
 1935907324,Sisymbrium_irio,40.5732,-2.0798
 1451672200,Sisymbrium_irio,-30.015107,148.117832
 996066930,Sisymbrium_irio,-30.02,148.12
-1049300,Sisymbrium_irio,56.66443,16.365269
 2247775654,Sisymbrium_irio,-31.3,-64.3
 1426099247,Sisymbrium_irio,33.9696,-117.3752
-1600705157,Sisymbrium_irio,60.175312,24.951853
 996467321,Sisymbrium_irio,-30.75,121.77
 1705471558,Sisymbrium_irio,43.5,6.3333
 1935907630,Sisymbrium_irio,41.0743,1.0705
@@ -2220,7 +2076,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994842897,Sisymbrium_irio,-38.1667,144.35
 1426053092,Sisymbrium_irio,32.68594,-116.06519
 1426213617,Sisymbrium_irio,33.9679,-117.3793
-1701660217,Sisymbrium_irio,59.9216,10.7709
 1935907450,Sisymbrium_irio,40.4331,-4.9171
 1622370974,Sisymbrium_irio,62.877035,27.684615
 1056097618,Sisymbrium_irio,52.6914,0.646129
@@ -2237,9 +2092,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1057585376,Sisymbrium_irio,51.307793,0.287735
 1705477104,Sisymbrium_irio,45.6667,3
 1928881891,Sisymbrium_irio,40.632326,-74.165144
-1935907275,Sisymbrium_irio,40.395,0.4185
 1056915516,Sisymbrium_irio,55.837614,-3.194375
-2291856003,Sisymbrium_irio,28.5,-13.866667
 1935907317,Sisymbrium_irio,41.3619,-1.6622
-1895282359,Sisymbrium_irio,19.4120087552173,-99.1272633974444
 1502038125,Sisymbrium_irio,39.33,-1.32
