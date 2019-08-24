@@ -1,7 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2242360753,Erigeron_speciosus,39.732207,-104.961468
 2242359928,Erigeron_speciosus,39.308333,-105.045
-1990861332,Erigeron_speciosus,57.64303,18.32273
 1993797404,Erigeron_speciosus,49.4931499990686,-114.39335
 2242359077,Erigeron_speciosus,39.31359,-105.04816
 2242355662,Erigeron_speciosus,39.87104,-105.4668
@@ -20,7 +18,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1269731023,Erigeron_speciosus,39.65539,-111.35337
 2242362147,Erigeron_speciosus,40.731667,-105.541389
 997428527,Erigeron_speciosus,37.961345,-112.278664
-1702374047,Erigeron_speciosus,59.2272,10.2575
 2306907078,Erigeron_speciosus,49.09,-120.68
 1988126390,Erigeron_speciosus,49.09094,-120.68001
 1928111915,Erigeron_speciosus,38.52436,-109.24781
@@ -29,10 +26,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242416325,Erigeron_speciosus,37.6829,-106.85433
 1986993426,Erigeron_speciosus,36.691806,-112.196329
 1986990596,Erigeron_speciosus,42.099081,-111.536483
-1099898314,Erigeron_speciosus,59.76704,18.69935
 1846546706,Erigeron_speciosus,34.43406,-111.34674
 1929567430,Erigeron_speciosus,35.06153,-111.72053
-1990861769,Erigeron_speciosus,55.67108,13.34321
 1988109803,Erigeron_speciosus,49.46,-120.51
 2305606720,Erigeron_speciosus,49.71,-120.23
 1988129175,Erigeron_speciosus,50.11,-120.79
@@ -109,8 +104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260529869,Erigeron_speciosus,39.90527,-105.63111
 1930180860,Erigeron_speciosus,43.1775,-110.5183
 1986989507,Erigeron_speciosus,43.1775,-110.518333
-1342451392,Erigeron_speciosus,55.318173,10.550914
-441746385,Erigeron_speciosus,48.1875,-122.702222
 1986953057,Erigeron_speciosus,42.303,-112.137167
 1929130211,Erigeron_speciosus,41.7641,-115.7003
 441746580,Erigeron_speciosus,47.570101,-120.586842
@@ -220,7 +213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949623988,Erigeron_speciosus,50.85,-120.633333
 1988127800,Erigeron_speciosus,50.9,-120.6
 1988206065,Erigeron_speciosus,49.2,-120.6
-1702030756,Erigeron_speciosus,60.8251,11.2225
 176942678,Erigeron_speciosus,43.862025,-110.521234
 1986975953,Erigeron_speciosus,43.038333,-110.4825
 2270694976,Erigeron_speciosus,36.337218,-112.240377
@@ -235,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176942637,Erigeron_speciosus,44.13435,-113.73256
 176942658,Erigeron_speciosus,44.197215,-113.857782
 1930259794,Erigeron_speciosus,41.12,-111.53
-1936500825,Erigeron_speciosus,40.3766,-3.7081
 2242386527,Erigeron_speciosus,39.893513,-105.200834
 2270651858,Erigeron_speciosus,36.6934,-110.451
 1930196304,Erigeron_speciosus,39.1779,-107.1501
@@ -254,7 +245,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928480704,Erigeron_speciosus,44.57,-115.58
 1928488019,Erigeron_speciosus,40.5258,-110.7207
 1846477901,Erigeron_speciosus,34.9423,-111.769
-754012,Erigeron_speciosus,57.43438,15.79877
 1929806180,Erigeron_speciosus,42.5,-116.93
 1261311715,Erigeron_speciosus,44.36666,-120.53333
 1258865571,Erigeron_speciosus,43.66666,-110.63333
@@ -345,7 +335,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930957469,Erigeron_speciosus,41.7959,-111.4844
 1929478985,Erigeron_speciosus,38.3406,-109.2072
 51830544,Erigeron_speciosus,44.8686,-118.0438
-1928270566,Erigeron_speciosus,42.4,-11.4
 1931017357,Erigeron_speciosus,41.8542,-111.5035
 1930142676,Erigeron_speciosus,39.0542,-107.9386
 1928627412,Erigeron_speciosus,38.5294,-109.2236
@@ -467,7 +456,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988163726,Erigeron_speciosus,51.9,-122.3
 1929411679,Erigeron_speciosus,39.3433,-109.5099
 1929363236,Erigeron_speciosus,39.975,-110.7706
-1988150015,Erigeron_speciosus,50.71,-127.68
 1928276430,Erigeron_speciosus,38.5634,-111.6973
 1928492382,Erigeron_speciosus,37.966,-112.1042
 1843815384,Erigeron_speciosus,33.460989,-105.736875
@@ -476,7 +464,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929228137,Erigeron_speciosus,37.7186,-111.9099
 1930503905,Erigeron_speciosus,39.277,-111.4772
 2270693243,Erigeron_speciosus,34.4069,-110.93
-1600877640,Erigeron_speciosus,60.170379,24.92525
 1842921192,Erigeron_speciosus,36.175482,-105.173317
 894981704,Erigeron_speciosus,49.866667,-114.25
 1842921165,Erigeron_speciosus,35.656281,-108.537076
@@ -647,7 +634,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242361814,Erigeron_speciosus,39.048639,-106.799506
 1988113627,Erigeron_speciosus,49.22,-119.97
 1846498119,Erigeron_speciosus,34.35892,-111.1016
-441746272,Erigeron_speciosus,48.19922,-122.62831
 1988160999,Erigeron_speciosus,51.83,-121.56
 1988219781,Erigeron_speciosus,54.55,-119.69
 1291052714,Erigeron_speciosus,50.929154,-114.068161
@@ -667,7 +653,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242362932,Erigeron_speciosus,39.097693,-106.940932
 1291052029,Erigeron_speciosus,50.995656,-114.101989
 2242385652,Erigeron_speciosus,37.48921,-108.187228
-1999666838,Erigeron_speciosus,59.960838,23.505513
 1930718743,Erigeron_speciosus,39.3066,-111.4227
 883399479,Erigeron_speciosus,49.0503,-113.8695
 1291052055,Erigeron_speciosus,51.017599,-114.078167
@@ -683,7 +668,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930952094,Erigeron_speciosus,43.2922,-110.9226
 1291052809,Erigeron_speciosus,49.068893,-113.988663
 51831147,Erigeron_speciosus,43.9359,-119.0627
-441745792,Erigeron_speciosus,47.25306,-122.44306
 51829888,Erigeron_speciosus,44.4833,-120.3568
 51830862,Erigeron_speciosus,44.1667,-120.0833
 1291051924,Erigeron_speciosus,49.709123,-113.428051
@@ -719,7 +703,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270693406,Erigeron_speciosus,34.41,-111.18
 1846498143,Erigeron_speciosus,34.40297,-111.16009
 441746275,Erigeron_speciosus,46.724745,-120.69722
-441746271,Erigeron_speciosus,48.22,-122.685
 51829915,Erigeron_speciosus,44.0453,-123.0541
 51830209,Erigeron_speciosus,44.05,-122.8802
 51830218,Erigeron_speciosus,45.5508,-123.0579
@@ -728,7 +711,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441745295,Erigeron_speciosus,48.844429,-117.889558
 51831056,Erigeron_speciosus,45.2715,-116.8037
 51831040,Erigeron_speciosus,45.603,-116.8322
-1705384101,Erigeron_speciosus,57.184036,14.048284
 51830723,Erigeron_speciosus,44.433,-119.9632
 441745298,Erigeron_speciosus,47.59639,-120.66028
 441745785,Erigeron_speciosus,46.735961,-120.789188
@@ -742,7 +724,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51830230,Erigeron_speciosus,45.1997,-117.2689
 51830215,Erigeron_speciosus,45.432,-117.3214
 1291052778,Erigeron_speciosus,49.077846,-113.874668
-1705486680,Erigeron_speciosus,49.5955,17.2573
 1895412900,Erigeron_speciosus,30.916667,-115.4
 1895413004,Erigeron_speciosus,30.933333,-115.403333
 441746324,Erigeron_speciosus,47.60639,-122.33083
@@ -768,7 +749,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51831269,Erigeron_speciosus,45.1538,-117.1917
 1988202549,Erigeron_speciosus,49.52,-114.65
 1988103973,Erigeron_speciosus,51.73,-122.4
-1804502666,Erigeron_speciosus,59.633333,-135.133333
 2242366808,Erigeron_speciosus,39.900699,-105.610141
 442228786,Erigeron_speciosus,44.9892,-116.9224
 1988111542,Erigeron_speciosus,50.23,-121.59
@@ -789,4 +769,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988203023,Erigeron_speciosus,54.67,-126.92
 1931306340,Erigeron_speciosus,40.068664,-105.439949
 441745793,Erigeron_speciosus,48.31389,-117.27861
-1930701870,Erigeron_speciosus,40.862289,-73.877023
