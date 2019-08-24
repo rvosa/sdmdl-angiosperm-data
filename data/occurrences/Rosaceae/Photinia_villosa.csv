@@ -44,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1898753881,Photinia_villosa,33.873056,134.081944
 1829904526,Photinia_villosa,35.390771,139.49055
 1934138708,Photinia_villosa,34.766667,134.983333
-2244510307,Photinia_villosa,35.048,135.3
 1934138207,Photinia_villosa,35.2568,138.7859
 1830126691,Photinia_villosa,35.25694,138.83144
 1829921833,Photinia_villosa,35.315775,139.240569
@@ -56,7 +55,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830533389,Photinia_villosa,33.204167,132.60625
 1830533749,Photinia_villosa,38.7375,140.11875
 1830125062,Photinia_villosa,35.361,139.08382
-1830517962,Photinia_villosa,34.6,134.183333
 1829937800,Photinia_villosa,35.549098,140.42796
 1829904781,Photinia_villosa,33.549194,133.35366
 1830123254,Photinia_villosa,35.54462,139.12953
@@ -120,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933864055,Photinia_villosa,35.277778,136.531389
 395792902,Photinia_villosa,34.6675,134.169722
 1933864188,Photinia_villosa,35.4846,135.1622
-1830670491,Photinia_villosa,33.3,132.883333
 1829851593,Photinia_villosa,31.813734,131.427144
 1829852885,Photinia_villosa,31.808184,131.399197
 395792842,Photinia_villosa,35.275833,133.639167
@@ -132,21 +129,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830630948,Photinia_villosa,34.071667,134.10214
 1830676075,Photinia_villosa,33.716667,133.55
 1933863944,Photinia_villosa,35.2404,136.567
-1830676238,Photinia_villosa,33.333333,133.1
 395792814,Photinia_villosa,35.1475,134.195278
 1830676958,Photinia_villosa,33.15,132.633333
 1830676992,Photinia_villosa,33.566667,134.033333
 395792809,Photinia_villosa,35.500556,133.8525
 381833102,Photinia_villosa,36.77835,140.36012
-1830530017,Photinia_villosa,34.183333,136.1
-1830676258,Photinia_villosa,33.266667,133.1
 1830677127,Photinia_villosa,33.566667,133.066667
 1830677101,Photinia_villosa,33.266667,133.116667
-1830676988,Photinia_villosa,33.783333,133.9
 395792786,Photinia_villosa,35.0875,134.253611
 395792787,Photinia_villosa,35.055,134.145278
 1830677116,Photinia_villosa,33.766667,133.583333
-1933837081,Photinia_villosa,34.2,136.066667
 1830677152,Photinia_villosa,33.466667,133.033333
 1830676221,Photinia_villosa,33.033333,133.016667
 1830517345,Photinia_villosa,34.748889,135.238889
@@ -158,9 +150,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830676298,Photinia_villosa,33.516667,133.583333
 1830681335,Photinia_villosa,33.383333,134.05
 1830681384,Photinia_villosa,33.833333,133.566667
-1830683674,Photinia_villosa,33.466667,133.1
 381833083,Photinia_villosa,36.55079,140.41856
-1830683695,Photinia_villosa,33.8,133.983333
 1830683634,Photinia_villosa,33.566667,133.083333
 1830526619,Photinia_villosa,34.783333,135.083333
 1830681361,Photinia_villosa,33.166667,133.15
@@ -177,9 +167,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830691134,Photinia_villosa,33.766667,133.183333
 395792755,Photinia_villosa,35.13,133.573056
 1830536662,Photinia_villosa,35.2375,134.79375
-1933837074,Photinia_villosa,35,134.983333
 1933837087,Photinia_villosa,35.233333,135.45
-1830690392,Photinia_villosa,33.25,133
 1933837038,Photinia_villosa,35.6673,137.3448
 381832964,Photinia_villosa,36.59731,140.63866
 381833001,Photinia_villosa,36.85362,140.77678
@@ -195,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395792691,Photinia_villosa,35.146667,134.282778
 395792692,Photinia_villosa,35.275833,134.049444
 395792741,Photinia_villosa,34.961944,134.311389
-729281478,Photinia_villosa,35,135.233
 395792597,Photinia_villosa,35.0675,134.194722
 381833012,Photinia_villosa,36.80572,140.73378
 395792658,Photinia_villosa,35.000833,134.016944
@@ -223,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729287329,Photinia_villosa,35.033298,135.317
 729276489,Photinia_villosa,34.766701,135.25
 1828666734,Photinia_villosa,36.516667,136.716667
-729287311,Photinia_villosa,35,135.117
 729330513,Photinia_villosa,36.883301,139.41701
 395792577,Photinia_villosa,35.156389,134.000278
 1933845418,Photinia_villosa,35.3176,138.728
@@ -250,7 +236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204388859,Photinia_villosa,34.60844,135.82657
 729296447,Photinia_villosa,34.950001,134.39999
 729321989,Photinia_villosa,32.383301,131.188
-729321990,Photinia_villosa,32.3722,131.2
 395792455,Photinia_villosa,34.935361,133.562694
 1697856627,Photinia_villosa,32.083333,118.75
 1829937897,Photinia_villosa,35.790744,140.665426
@@ -258,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381833042,Photinia_villosa,35.99377,140.22374
 729303869,Photinia_villosa,35.516701,136.533
 1828888801,Photinia_villosa,34.92778,134.84154
-729291963,Photinia_villosa,35.016701,134.7
 729294693,Photinia_villosa,34.849998,135.317
 381832833,Photinia_villosa,36.24783,140.19257
 381832924,Photinia_villosa,36.00196,139.91286
@@ -284,9 +268,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729271451,Photinia_villosa,34.916698,135.017
 1829935804,Photinia_villosa,35.665757,140.515447
 395792430,Photinia_villosa,35.389722,134.053056
-729283368,Photinia_villosa,34.966702,135.3
 1828889638,Photinia_villosa,34.87127,134.66292
-729284138,Photinia_villosa,35,135.2
 729297258,Photinia_villosa,35.049999,135.14999
 1829892791,Photinia_villosa,35.399722,139.551389
 395792427,Photinia_villosa,35.145,133.406944
@@ -324,7 +306,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2243108026,Photinia_villosa,36.75468,140.51222
 204388837,Photinia_villosa,34.35528,135.79825
 381832818,Photinia_villosa,36.53717,140.52885
-729271372,Photinia_villosa,35.150002,134.8
 624041753,Photinia_villosa,35.453269,140.04675
 624041754,Photinia_villosa,35.303292,140.134244
 624042047,Photinia_villosa,35.453269,140.03425
@@ -335,7 +316,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1933818292,Photinia_villosa,35.707,140.19392
 381833260,Photinia_villosa,36.37244,140.10951
 1828889485,Photinia_villosa,35.15462,134.54205
-1830517151,Photinia_villosa,35.026944,134.7
 729292783,Photinia_villosa,34.983299,134.64999
 1828888852,Photinia_villosa,35.16769,134.79385
 729293542,Photinia_villosa,34.75,135.05
@@ -363,7 +343,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828888828,Photinia_villosa,34.90878,134.77411
 395792367,Photinia_villosa,35.188889,133.840833
 729283946,Photinia_villosa,35.016701,135.233
-729279322,Photinia_villosa,34.75,135
 1828888851,Photinia_villosa,34.85537,134.70816
 729296316,Photinia_villosa,34.633301,134.433
 729289162,Photinia_villosa,34.833302,134.89999
@@ -385,7 +364,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828888847,Photinia_villosa,35.05998,134.54037
 1828814540,Photinia_villosa,36.379205,136.436515
 395792314,Photinia_villosa,34.896444,133.376722
-729294176,Photinia_villosa,34.733299,135.2
 395792321,Photinia_villosa,35.158889,134.157222
 736068351,Photinia_villosa,36.00533,139.56329
 729273265,Photinia_villosa,34.716702,135.08299
@@ -396,8 +374,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 393107496,Photinia_villosa,36.08048,139.0919
 736068375,Photinia_villosa,36.10034,139.30257
 736068377,Photinia_villosa,36.02198,139.33031
-1988127173,Photinia_villosa,35.7,126.63
-1988078395,Photinia_villosa,35.59,126.6
 1829782849,Photinia_villosa,35.64205,139.42728
 381833264,Photinia_villosa,36.47987,140.37804
 381833259,Photinia_villosa,36.4585,140.58501
