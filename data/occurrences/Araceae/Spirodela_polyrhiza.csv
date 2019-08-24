@@ -38,7 +38,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978365136,Spirodela_polyrhiza,58.04495,38.836997
 1948400605,Spirodela_polyrhiza,62.697951,21.356139
 1948400398,Spirodela_polyrhiza,62.503478,22.71547
-2313367502,Spirodela_polyrhiza,48.04,11.4
 1837376762,Spirodela_polyrhiza,58.8329,5.7331
 1829939127,Spirodela_polyrhiza,35.349098,139.078084
 1829940675,Spirodela_polyrhiza,35.324103,139.12808
@@ -73,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829903991,Spirodela_polyrhiza,35.515757,139.603039
 1702183867,Spirodela_polyrhiza,59.5669,11.2695
 1829917968,Spirodela_polyrhiza,35.390765,139.240569
-1697349844,Spirodela_polyrhiza,51.166667,40.3
 1829917930,Spirodela_polyrhiza,35.38243,139.165575
 1702170827,Spirodela_polyrhiza,59.5113,11.279
 1829913847,Spirodela_polyrhiza,35.407432,139.328061
@@ -98,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 781078064,Spirodela_polyrhiza,40.7067,0.5853
 1929037507,Spirodela_polyrhiza,30.234228,-82.642069
 1935725912,Spirodela_polyrhiza,47.11694,15.4208
-1439646971,Spirodela_polyrhiza,41.41,2.1
 1503266096,Spirodela_polyrhiza,27.0236,-81.8778
 1829561230,Spirodela_polyrhiza,36.07232,140.21547
 1030474857,Spirodela_polyrhiza,43.1238,-85.3843
@@ -120,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 391299699,Spirodela_polyrhiza,37.105833,140.301944
 2265451767,Spirodela_polyrhiza,48.172778,-91.078889
 1701175422,Spirodela_polyrhiza,43.73307,10.341065
-1503256191,Spirodela_polyrhiza,27.0333,-82
 1931294332,Spirodela_polyrhiza,41.451224,-73.61119
 1829634345,Spirodela_polyrhiza,36.335,139.169167
 391299953,Spirodela_polyrhiza,37.798056,140.920556
@@ -187,7 +183,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849172997,Spirodela_polyrhiza,33.5191,-79.1493
 1702233963,Spirodela_polyrhiza,59.4424,11.6884
 1830671326,Spirodela_polyrhiza,33.416667,132.883333
-1830669894,Spirodela_polyrhiza,33.8,133.55
 415938559,Spirodela_polyrhiza,44.38666,-73.16083
 883373757,Spirodela_polyrhiza,53.266667,-113.516667
 1261005089,Spirodela_polyrhiza,38.06027,-91.22527
@@ -216,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177037519,Spirodela_polyrhiza,42.3061,-96.3386
 177037544,Spirodela_polyrhiza,40.0698,-95.2641
 177037533,Spirodela_polyrhiza,41.4796,-96.0003
-1830679100,Spirodela_polyrhiza,33.316667,134.1
 465885704,Spirodela_polyrhiza,45.974444,-63.999444
 128269605,Spirodela_polyrhiza,59.4779,11.1622
 1830632682,Spirodela_polyrhiza,34.09318,134.24812
@@ -266,7 +260,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830689944,Spirodela_polyrhiza,33.466667,133.983333
 441846717,Spirodela_polyrhiza,48.47,142.076667
 1702193371,Spirodela_polyrhiza,59.5639,11.2586
-1830689469,Spirodela_polyrhiza,33.7,133.85
 1702186655,Spirodela_polyrhiza,59.6546,10.6956
 1701409293,Spirodela_polyrhiza,59.5183,11.2632
 1702186793,Spirodela_polyrhiza,59.6309,10.8445
@@ -310,39 +303,32 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988240590,Spirodela_polyrhiza,49.12,-116.553
 1702241608,Spirodela_polyrhiza,60.0526,11.1623
 1702241655,Spirodela_polyrhiza,60.0496,11.1128
-2244522140,Spirodela_polyrhiza,33.533333,133.5
 1701646522,Spirodela_polyrhiza,60.0552,11.1068
 1702241586,Spirodela_polyrhiza,60.0517,11.1821
 1697430692,Spirodela_polyrhiza,46.308209,48.153053
 1936599291,Spirodela_polyrhiza,37.1717,-6.8937
 1322231658,Spirodela_polyrhiza,21.33,-157.77
 38743572,Spirodela_polyrhiza,21.3333,-157.767
-1986494299,Spirodela_polyrhiza,37.45,-89.4
 1260952520,Spirodela_polyrhiza,39.19083,-93.77916
 415924748,Spirodela_polyrhiza,41.37277,-73.45638
 1989353292,Spirodela_polyrhiza,41.99977,-84.34636
-1697430714,Spirodela_polyrhiza,53.3,35.333333
 1599919272,Spirodela_polyrhiza,61.38693,24.405044
 1702214630,Spirodela_polyrhiza,59.9237,11.1527
 1599919298,Spirodela_polyrhiza,61.294075,24.316594
 1701417526,Spirodela_polyrhiza,59.9793,10.9756
 1697430645,Spirodela_polyrhiza,55.929635,39.149952
 1702184665,Spirodela_polyrhiza,59.5553,11.1187
-1148469111,Spirodela_polyrhiza,59.391667,24.3
 1697430637,Spirodela_polyrhiza,56.08607,40.11426
 1148469095,Spirodela_polyrhiza,59.394444,24.291667
 883382040,Spirodela_polyrhiza,53.62,-113.950556
 177037551,Spirodela_polyrhiza,39.156667,-94.776111
 177037478,Spirodela_polyrhiza,38.338333,-96.007222
-1829609208,Spirodela_polyrhiza,36.3,138.9
 415953185,Spirodela_polyrhiza,43.22338,-71.3138
 177037574,Spirodela_polyrhiza,39.158889,-94.791667
 1701627195,Spirodela_polyrhiza,59.4796,11.1617
 1269663271,Spirodela_polyrhiza,29.9325,-93.078667
 1702343229,Spirodela_polyrhiza,59.4504,10.7082
-238099943,Spirodela_polyrhiza,37,140
 1893941137,Spirodela_polyrhiza,22.3025,-97.899167
-1947645727,Spirodela_polyrhiza,50.28,10.3
 699258393,Spirodela_polyrhiza,41.41805,-72.42722
 1702191219,Spirodela_polyrhiza,59.5627,11.2449
 1988898139,Spirodela_polyrhiza,44.209983,-85.8951
@@ -392,8 +378,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289624252,Spirodela_polyrhiza,6.35,2.433333
 1258600626,Spirodela_polyrhiza,37.87167,-122.27167
 1895534664,Spirodela_polyrhiza,20.399361,-103.089167
-1253832216,Spirodela_polyrhiza,9.775,-84.6
-1258557204,Spirodela_polyrhiza,0.4,-79.65
 699270582,Spirodela_polyrhiza,0.48055,30.27222
 1988180536,Spirodela_polyrhiza,49.18,-122.07
 1701398084,Spirodela_polyrhiza,59.5636,11.2432
@@ -415,7 +399,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258535848,Spirodela_polyrhiza,22.75,106.31666
 1894633050,Spirodela_polyrhiza,20.508333,-99.758333
 996752946,Spirodela_polyrhiza,-15.805509,128.744581
-2270474136,Spirodela_polyrhiza,19.5,-96.4778
 1258388846,Spirodela_polyrhiza,12.233333,-86.716667
 2265409373,Spirodela_polyrhiza,45.262524,-93.214112
 51967662,Spirodela_polyrhiza,46.1192,-123.9313
@@ -430,7 +413,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258626733,Spirodela_polyrhiza,26.99972,98.86972
 574936061,Spirodela_polyrhiza,26.999722,98.869722
 1260980780,Spirodela_polyrhiza,37.32555,-91.4375
-729283598,Spirodela_polyrhiza,34.866699,135.2
 1702155405,Spirodela_polyrhiza,59.7343,11.4895
 1702155676,Spirodela_polyrhiza,59.4556,11.2783
 1269652010,Spirodela_polyrhiza,30.226389,-91.925
@@ -441,7 +423,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701986110,Spirodela_polyrhiza,59.6793,10.7535
 788661249,Spirodela_polyrhiza,55.59857,13.4993
 381845038,Spirodela_polyrhiza,36.0394,140.23232
-1830185751,Spirodela_polyrhiza,36.7,137.216667
 1705313833,Spirodela_polyrhiza,57.365606,15.722126
 388870462,Spirodela_polyrhiza,35.239949,139.120169
 1599919281,Spirodela_polyrhiza,60.56806,27.097197
@@ -457,13 +438,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51967587,Spirodela_polyrhiza,44.5552,-123.2438
 2265408643,Spirodela_polyrhiza,46.660343,-93.729627
 1852094315,Spirodela_polyrhiza,20.2924,-103.259
-1830179059,Spirodela_polyrhiza,36.8,137
 675233214,Spirodela_polyrhiza,41.27079,-72.77641
 177037339,Spirodela_polyrhiza,39.590123,-97.657211
 177037547,Spirodela_polyrhiza,39.800168,-99.924596
 388870655,Spirodela_polyrhiza,36.374539,139.730631
 381844812,Spirodela_polyrhiza,36.02402,140.33238
-615407707,Spirodela_polyrhiza,34.5,73.17
 1257319104,Spirodela_polyrhiza,-12.436925,131.652872
 1599352857,Spirodela_polyrhiza,60.675685,27.170702
 606643884,Spirodela_polyrhiza,41.5175,-71.97666
@@ -476,9 +455,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703291340,Spirodela_polyrhiza,50.9669067367686,-96.2202058162195
 1050579894,Spirodela_polyrhiza,43.48,-1.33
 788489151,Spirodela_polyrhiza,41.133333,23.216667
-1260949090,Spirodela_polyrhiza,36.81777,-90.6
 2265409880,Spirodela_polyrhiza,46.223757,-92.980501
-1050579922,Spirodela_polyrhiza,43.56,-1.2
 1701786332,Spirodela_polyrhiza,59.6378,11.2659
 21503130,Spirodela_polyrhiza,59.4447,10.4725
 2265408150,Spirodela_polyrhiza,46.310244,-92.897415
@@ -509,16 +486,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265349114,Spirodela_polyrhiza,46.458889,-93.625
 1421792336,Spirodela_polyrhiza,16.9625,-100.139167
 994349029,Spirodela_polyrhiza,-13.148601,130.501219
-993372062,Spirodela_polyrhiza,-13.15,130.5
 1701984393,Spirodela_polyrhiza,59.9324,11.1266
-729293479,Spirodela_polyrhiza,34.666698,135
 1701913639,Spirodela_polyrhiza,59.702,10.6259
 994336645,Spirodela_polyrhiza,-12.481911,134.967845
 1599919195,Spirodela_polyrhiza,60.333801,24.435712
 729274957,Spirodela_polyrhiza,34.916698,135.067
 1257331503,Spirodela_polyrhiza,-12.619883,132.873725
 1260984214,Spirodela_polyrhiza,37.05611,-91.68194
-1804502639,Spirodela_polyrhiza,44.566667,-76.3
 1949598965,Spirodela_polyrhiza,50.566667,-118.816667
 1599919304,Spirodela_polyrhiza,61.012151,24.50508
 2265410670,Spirodela_polyrhiza,46.128878,-94.381984
@@ -534,13 +508,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994339101,Spirodela_polyrhiza,-12.765258,132.517869
 996738691,Spirodela_polyrhiza,-12.766667,132.516667
 994339065,Spirodela_polyrhiza,-12.465264,131.084541
-995347711,Spirodela_polyrhiza,-12.4667,132.5
 729312186,Spirodela_polyrhiza,34.8167,134.35001
 729293863,Spirodela_polyrhiza,34.733299,134.983
 729293483,Spirodela_polyrhiza,34.666698,135.033
 2265409191,Spirodela_polyrhiza,43.640278,-93.72583
 1259245529,Spirodela_polyrhiza,19.451667,-103.693055
-2239722172,Spirodela_polyrhiza,19.45,-103.7
 1989046094,Spirodela_polyrhiza,19.4333,-103.683
 1606513969,Spirodela_polyrhiza,60.398372,25.651806
 1936384815,Spirodela_polyrhiza,39.6532,-6.6106
@@ -560,9 +532,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893713906,Spirodela_polyrhiza,19.843333,-100.391667
 1893713910,Spirodela_polyrhiza,19.821667,-101.676667
 122248810,Spirodela_polyrhiza,33.27,-86.67
-1804379037,Spirodela_polyrhiza,48.7,-93.166667
 1599919215,Spirodela_polyrhiza,60.96235,24.531146
-1804465628,Spirodela_polyrhiza,48.7,-93.116667
 1702435092,Spirodela_polyrhiza,59.3222,10.8186
 1936399751,Spirodela_polyrhiza,60.9333,24.5833
 2265408569,Spirodela_polyrhiza,44.786667,-93.013333
@@ -585,7 +555,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804365237,Spirodela_polyrhiza,54.066667,-122.366667
 994933821,Spirodela_polyrhiza,-12.1667,136.7667
 1257349608,Spirodela_polyrhiza,-12.165246,136.767821
-1804582720,Spirodela_polyrhiza,54.7,-127.05
 295945734,Spirodela_polyrhiza,35.23245,139.115586
 1261001553,Spirodela_polyrhiza,39.03944,-90.92611
 1599919166,Spirodela_polyrhiza,62.909033,23.277852
@@ -625,7 +594,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318684263,Spirodela_polyrhiza,59.611733,10.922364
 295945623,Spirodela_polyrhiza,35.282444,139.140581
 462291936,Spirodela_polyrhiza,-27.125,32.375
-2005486945,Spirodela_polyrhiza,-27.016667,32.3
 295945627,Spirodela_polyrhiza,35.574078,139.31556
 295945650,Spirodela_polyrhiza,35.374107,139.515548
 295945644,Spirodela_polyrhiza,35.515757,139.59054
@@ -658,7 +626,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295945658,Spirodela_polyrhiza,35.332446,139.540546
 415938235,Spirodela_polyrhiza,52.9575,4.75833
 295945617,Spirodela_polyrhiza,35.390756,139.040587
-1228626836,Spirodela_polyrhiza,10,-84.8333
 295945616,Spirodela_polyrhiza,35.607403,139.29056
 1261836814,Spirodela_polyrhiza,9.95,-84.73
 1599352862,Spirodela_polyrhiza,60.828488,26.245934
@@ -676,9 +643,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599919257,Spirodela_polyrhiza,61.608952,23.880175
 295945637,Spirodela_polyrhiza,35.449097,139.465551
 1599352873,Spirodela_polyrhiza,61.609335,23.877309
-1804517902,Spirodela_polyrhiza,48.8,-94.683333
 1830155489,Spirodela_polyrhiza,36.683333,137.183333
-1830155640,Spirodela_polyrhiza,36.9,137.016667
 1893713895,Spirodela_polyrhiza,19.683333,-98.865
 295945621,Spirodela_polyrhiza,35.407426,139.140578
 1248694569,Spirodela_polyrhiza,45.033333,-75.066667
@@ -694,7 +659,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317469943,Spirodela_polyrhiza,38.9694,-77.1767
 1936042228,Spirodela_polyrhiza,39.8852,-6.1588
 994408254,Spirodela_polyrhiza,-12.565257,131.334544
-2287839525,Spirodela_polyrhiza,-7.116667,146.6
 994255893,Spirodela_polyrhiza,-13.481924,131.051217
 1834909415,Spirodela_polyrhiza,35.3625,139.21875
 1697430664,Spirodela_polyrhiza,55.566507,37.580022
@@ -718,8 +682,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599352878,Spirodela_polyrhiza,61.169958,25.974984
 1038989921,Spirodela_polyrhiza,41.4697,-71.8753
 473472056,Spirodela_polyrhiza,45.7013,-73.4661
-1248694613,Spirodela_polyrhiza,45.7,-73.533333
-1988206250,Spirodela_polyrhiza,51.6,-120
 295945636,Spirodela_polyrhiza,35.482424,139.390555
 1248694543,Spirodela_polyrhiza,53.85,-107.283333
 295945657,Spirodela_polyrhiza,35.349111,139.615539
@@ -735,13 +697,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295945641,Spirodela_polyrhiza,35.557418,139.67803
 56670117,Spirodela_polyrhiza,31.76889,-88.16639
 295945640,Spirodela_polyrhiza,35.582414,139.665529
-1988121103,Spirodela_polyrhiza,54.7,-127
 295945647,Spirodela_polyrhiza,35.532423,139.653033
 1260947715,Spirodela_polyrhiza,36.57611,-93.82305
 1703289339,Spirodela_polyrhiza,50.0329050909411,-95.4001700131672
 1703288812,Spirodela_polyrhiza,50.8828857558921,-100.8633595898
 56670132,Spirodela_polyrhiza,31.5175,-87.94389
-1988105300,Spirodela_polyrhiza,50.76,-100.2
 2239722418,Spirodela_polyrhiza,50.755,-100.233333
 1834909151,Spirodela_polyrhiza,35.4375,139.24375
 883381968,Spirodela_polyrhiza,50.891667,-100.863333
@@ -749,7 +709,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894470212,Spirodela_polyrhiza,19.646199,-101.272742
 1949627951,Spirodela_polyrhiza,49.233333,-116.633333
 1895534671,Spirodela_polyrhiza,19.679198274279,-101.611562816697
-2290029601,Spirodela_polyrhiza,9.5,30.366667
 56670114,Spirodela_polyrhiza,32.62305,-87.83916
 56670135,Spirodela_polyrhiza,32.56889,-87.8475
 56670121,Spirodela_polyrhiza,32.57583,-87.83583
@@ -767,7 +726,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 56670118,Spirodela_polyrhiza,31.2825,-85.10722
 56670005,Spirodela_polyrhiza,34.85583,-87.60889
 56670126,Spirodela_polyrhiza,34.23583,-85.60333
-1949627955,Spirodela_polyrhiza,49.15,-122.4
 1930548126,Spirodela_polyrhiza,41.8756,-119.0436
 56670115,Spirodela_polyrhiza,34.56278,-86.84611
 56670136,Spirodela_polyrhiza,34.80667,-87.23389
@@ -799,19 +757,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177037444,Spirodela_polyrhiza,39.01125,-100.62861
 177037446,Spirodela_polyrhiza,38.67433,-100.92615
 177037439,Spirodela_polyrhiza,38.34046,-96.01042
-1697949925,Spirodela_polyrhiza,50.2,-97.283333
 177037428,Spirodela_polyrhiza,38.39798,-98.0487
 2265410028,Spirodela_polyrhiza,47.838884,-94.214331
 177037435,Spirodela_polyrhiza,39.11051,-97.66679
 177037343,Spirodela_polyrhiza,37.71652,-99.91868
 1899380947,Spirodela_polyrhiza,44.866667,-79.566667
 1599352871,Spirodela_polyrhiza,62.572856,25.780957
-1899380935,Spirodela_polyrhiza,44.8,-79.383333
 177037433,Spirodela_polyrhiza,38.32434,-97.07756
 177037436,Spirodela_polyrhiza,37.2568,-100.37568
 177037526,Spirodela_polyrhiza,39.84655,-97.4058
 1697430705,Spirodela_polyrhiza,54.729745,40.998357
-1895111301,Spirodela_polyrhiza,19.5,-96.377778
 56670113,Spirodela_polyrhiza,31.6825,-87.56722
 177037416,Spirodela_polyrhiza,38.422257,-94.789883
 995348392,Spirodela_polyrhiza,-12.6833,131.4667
@@ -830,7 +785,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177037415,Spirodela_polyrhiza,38.69422,-96.51011
 177037421,Spirodela_polyrhiza,38.7713,-95.67069
 177037423,Spirodela_polyrhiza,38.366271,-96.588995
-1804503571,Spirodela_polyrhiza,45.316667,-75.1
 177037342,Spirodela_polyrhiza,37.87002,-96.7917
 1599919316,Spirodela_polyrhiza,60.429797,24.363779
 177037538,Spirodela_polyrhiza,37.79315,-96.25023
@@ -845,7 +799,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177037448,Spirodela_polyrhiza,38.650356,-98.005354
 177037470,Spirodela_polyrhiza,36.838078,-98.1815
 1949624630,Spirodela_polyrhiza,53.959444,-122.6275
-1897658213,Spirodela_polyrhiza,-36.9,174.733333
 177037382,Spirodela_polyrhiza,38.769625,-95.66996
 177037480,Spirodela_polyrhiza,39.01816,-95.03884
 1899333580,Spirodela_polyrhiza,43.85,-78.966667
@@ -934,7 +887,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891630230,Spirodela_polyrhiza,23.734444,120.677222
 2252236405,Spirodela_polyrhiza,6.21,0.04
 1705333606,Spirodela_polyrhiza,56.66913,12.762139
-1988169621,Spirodela_polyrhiza,49.1,-123.1
 2005450860,Spirodela_polyrhiza,-26.875,32.125
 381845312,Spirodela_polyrhiza,36.53717,140.52885
 177037502,Spirodela_polyrhiza,42.845123,-98.852346
@@ -1000,7 +952,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788712245,Spirodela_polyrhiza,61.204167,26.038056
 1248694524,Spirodela_polyrhiza,53.95,-106.25
 465885687,Spirodela_polyrhiza,45.672813,-64.328803
-1258690624,Spirodela_polyrhiza,13.13333,-86
 177037540,Spirodela_polyrhiza,37.488176,-95.134527
 1697430724,Spirodela_polyrhiza,54.063067,45.887104
 2289914267,Spirodela_polyrhiza,7.116667,38.733333
@@ -1026,8 +977,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177037347,Spirodela_polyrhiza,39.66427,-95.53028
 912415687,Spirodela_polyrhiza,7.12,38.67
 2288816902,Spirodela_polyrhiza,7.116667,38.666667
-993737972,Spirodela_polyrhiza,-12.5,131.05
-346718269,Spirodela_polyrhiza,7.183333,13.6
 1705886843,Spirodela_polyrhiza,53.230708,23.373
 1828514697,Spirodela_polyrhiza,43.567861,144.321105
 441846823,Spirodela_polyrhiza,47.314422,-116.625723
@@ -1067,7 +1016,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381845310,Spirodela_polyrhiza,36.0188,140.29436
 1599919242,Spirodela_polyrhiza,61.524406,21.825207
 1599352865,Spirodela_polyrhiza,62.297032,27.912177
-2287840868,Spirodela_polyrhiza,-0.23,100.8
 788661645,Spirodela_polyrhiza,55.726736,13.462168
 465885685,Spirodela_polyrhiza,45.6677,-62.68384
 1895111308,Spirodela_polyrhiza,19.008333,-104.141667
@@ -1286,10 +1234,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988732799,Spirodela_polyrhiza,42.036507,-84.64159
 51968059,Spirodela_polyrhiza,42.2939,-119.8975
 1989507173,Spirodela_polyrhiza,42.33194,-85.82528
-1252586634,Spirodela_polyrhiza,42.443333,-76.5
 1260970310,Spirodela_polyrhiza,36.66,-92.68722
 1989525490,Spirodela_polyrhiza,44.046393,-86.49703
-1989345694,Spirodela_polyrhiza,42.3,-83.73333
 1989118781,Spirodela_polyrhiza,44.25,-85.48333
 1989192483,Spirodela_polyrhiza,44.47353,-83.36236
 1899279147,Spirodela_polyrhiza,43.947226,-79.650621
@@ -1306,7 +1252,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260966853,Spirodela_polyrhiza,36.78027,-90.94888
 788654084,Spirodela_polyrhiza,58.328063,13.117269
 2243353819,Spirodela_polyrhiza,41.72088,-111.88611
-1989150860,Spirodela_polyrhiza,42.63333,-85.5
 177037514,Spirodela_polyrhiza,38.00064,-94.89234
 1599919283,Spirodela_polyrhiza,60.455844,26.906183
 1304032689,Spirodela_polyrhiza,22.01071,100.799775
@@ -1323,7 +1268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177300604,Spirodela_polyrhiza,34.51624,133.94885
 177300609,Spirodela_polyrhiza,34.36962,132.53981
 1304032700,Spirodela_polyrhiza,26.876096,100.229945
-1988159407,Spirodela_polyrhiza,49.17,-123.1
 177300597,Spirodela_polyrhiza,34.63642,135.78409
 1988128855,Spirodela_polyrhiza,49.18,-122.93
 177300600,Spirodela_polyrhiza,34.06432,135.21661
@@ -1333,7 +1277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177300603,Spirodela_polyrhiza,34.60026,133.72124
 177300589,Spirodela_polyrhiza,35.7817,140.20686
 177300605,Spirodela_polyrhiza,34.99214,133.45364
-1989145951,Spirodela_polyrhiza,46.4,-88.33333
 177300606,Spirodela_polyrhiza,34.99301,132.49013
 177300617,Spirodela_polyrhiza,31.86021,131.38731
 177300607,Spirodela_polyrhiza,35.41477,133.23328
@@ -1343,7 +1286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177300611,Spirodela_polyrhiza,34.20076,131.28206
 177300588,Spirodela_polyrhiza,38.5377,141.06819
 177300613,Spirodela_polyrhiza,33.54396,134.2924
-2270507500,Spirodela_polyrhiza,28.6,-111.516667
 462291926,Spirodela_polyrhiza,-26.875,27.375
 1989462248,Spirodela_polyrhiza,42.26667,-83.76667
 21502924,Spirodela_polyrhiza,59.5864,11.1693
@@ -1357,7 +1299,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144129933,Spirodela_polyrhiza,60.17514,11.53861
 1701992504,Spirodela_polyrhiza,60.1664,11.469
 788661360,Spirodela_polyrhiza,55.850673,13.658844
-1989245809,Spirodela_polyrhiza,42.2,-83.15
 1257747695,Spirodela_polyrhiza,36.0839,-89.8292
 1701326743,Spirodela_polyrhiza,59.2035,10.9586
 1599919289,Spirodela_polyrhiza,61.263191,22.055089
@@ -1385,7 +1326,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788674333,Spirodela_polyrhiza,56.13837,13.9737
 788670312,Spirodela_polyrhiza,56.134164,13.965605
 1599919282,Spirodela_polyrhiza,60.234265,23.657058
-2287840808,Spirodela_polyrhiza,-8.033333,114
 994686908,Spirodela_polyrhiza,-36.2667,148.0167
 2287840645,Spirodela_polyrhiza,-8.2487,112.5045
 415938237,Spirodela_polyrhiza,41.55138,-71.27722
