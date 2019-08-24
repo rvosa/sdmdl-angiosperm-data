@@ -65,7 +65,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895932982,Stephanomeria_pauciflora,29.680278,-110.269139
 1456189247,Stephanomeria_pauciflora,34.2402,-116.48
 1846554494,Stephanomeria_pauciflora,32.287583,-113.979861
-1895644865,Stephanomeria_pauciflora,30.955833,-114.766111
 2270214563,Stephanomeria_pauciflora,35.34,-120.07
 416048574,Stephanomeria_pauciflora,33.1933,-116.1178
 1987020747,Stephanomeria_pauciflora,34.691,-112.0125
@@ -110,7 +109,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270687077,Stephanomeria_pauciflora,33.3885,-112.248
 2270688835,Stephanomeria_pauciflora,33.4628,-113.184
 2270518557,Stephanomeria_pauciflora,33.78453,-110.9843
-2270523888,Stephanomeria_pauciflora,29.23333,-112.4556
 1846548654,Stephanomeria_pauciflora,33.890444,-111.952917
 2242398074,Stephanomeria_pauciflora,38.7084334343387,-108.992537455618
 1846480876,Stephanomeria_pauciflora,36.132191,-112.117764
@@ -225,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 177039967,Stephanomeria_pauciflora,39.145278,-103.489722
 1929864332,Stephanomeria_pauciflora,36.2871,-113.3337
 1928184360,Stephanomeria_pauciflora,35.9833,-114.95
-2270665941,Stephanomeria_pauciflora,33.46,-111.95
 2270586735,Stephanomeria_pauciflora,33.9818,-111.797
 2270668148,Stephanomeria_pauciflora,33.5454,-112.021
 2270587686,Stephanomeria_pauciflora,32.9453,-110.195
@@ -573,8 +570,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270521525,Stephanomeria_pauciflora,32.532216,-116.394527
 1611936550,Stephanomeria_pauciflora,31.883333,-106.55
 2270665184,Stephanomeria_pauciflora,32.6447,-111.749
-1895531619,Stephanomeria_pauciflora,30.2815928418953,-114.656891306709
-1895531399,Stephanomeria_pauciflora,30.55,-114.71
 1895531458,Stephanomeria_pauciflora,29.573144018213,-114.366973204524
 1846503080,Stephanomeria_pauciflora,32.131083,-113.567083
 1846503059,Stephanomeria_pauciflora,33.79841,-111.92689
