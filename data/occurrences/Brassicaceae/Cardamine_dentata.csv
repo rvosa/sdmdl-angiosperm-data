@@ -173,7 +173,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2309606908,Cardamine_dentata,74.467,-20.567
 1050652549,Cardamine_dentata,42.78,-2.65
 2313473666,Cardamine_dentata,48.13,11.53
-1050652539,Cardamine_dentata,42.78,-2.6
 1881121746,Cardamine_dentata,48.63,10.84
 1935667775,Cardamine_dentata,47.51861,14.06444
 1881120220,Cardamine_dentata,48.67,10.78
@@ -244,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342270836,Cardamine_dentata,56.90017,8.793451
 1342272682,Cardamine_dentata,57.104307,9.815798
 1342272441,Cardamine_dentata,55.965814,12.411366
-1095899098,Cardamine_dentata,60.6,16.9
 1342272588,Cardamine_dentata,56.352318,8.990601
 1342272732,Cardamine_dentata,57.193073,9.966686
 1342270914,Cardamine_dentata,56.496067,9.006807
@@ -261,7 +259,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2305855897,Cardamine_dentata,68.41,-121.99
 1701270493,Cardamine_dentata,63.1205,11.9186
 1342271964,Cardamine_dentata,55.374244,11.910545
-1881109359,Cardamine_dentata,48.83,10.9
 1342270740,Cardamine_dentata,54.959236,8.709834
 1342271716,Cardamine_dentata,56.350009,10.673449
 1342270698,Cardamine_dentata,56.036943,8.525253
@@ -403,7 +400,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323763060,Cardamine_dentata,67.1172,14.3807
 1342270545,Cardamine_dentata,56.196678,8.152609
 1701570170,Cardamine_dentata,64.4677,11.4759
-1701299694,Cardamine_dentata,62.9,7.4189
 1342271419,Cardamine_dentata,57.211875,9.851282
 1342272730,Cardamine_dentata,55.755918,9.914907
 1342270557,Cardamine_dentata,56.259563,8.15122
@@ -418,9 +414,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1703299939,Cardamine_dentata,58.6737392337554,-93.2037025011162
 1342270632,Cardamine_dentata,56.341235,8.278824
 1342270629,Cardamine_dentata,56.242597,8.312951
-2306676455,Cardamine_dentata,74.5,-21
-786104301,Cardamine_dentata,48,8.1
-786104304,Cardamine_dentata,48.1,7.9
 1657175612,Cardamine_dentata,46.97889,15.48306
 1342272758,Cardamine_dentata,56.17726,10.037661
 1851406337,Cardamine_dentata,42.5238,-5.774
@@ -516,7 +509,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 932707261,Cardamine_dentata,42.35074,-8.63717
 1851389442,Cardamine_dentata,42.916,-2.626
 59981371,Cardamine_dentata,42.914739,-2.626339
-786104290,Cardamine_dentata,49,8.4
 1050640640,Cardamine_dentata,42.91,-2.62
 1936669719,Cardamine_dentata,42.9091,-2.6338
 1342272502,Cardamine_dentata,56.547139,8.161059
@@ -740,7 +732,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935661291,Cardamine_dentata,47.53653,15.58403
 39628391,Cardamine_dentata,65.14,-21.12
 1978755168,Cardamine_dentata,51.465,-78.737222
-39628395,Cardamine_dentata,65.45,-18.4
 1705466010,Cardamine_dentata,57.7045,11.96518
 1342272965,Cardamine_dentata,56.062483,12.308491
 932705265,Cardamine_dentata,41.63972,-8.86932
@@ -929,7 +920,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701607798,Cardamine_dentata,59.7187,9.9867
 1999609203,Cardamine_dentata,61.867025,25.238943
 1342272544,Cardamine_dentata,56.082781,8.990668
-1146387279,Cardamine_dentata,65.1,-141.49
 1342271015,Cardamine_dentata,55.929852,9.214774
 1323736003,Cardamine_dentata,69.6615,18.9592
 1702076995,Cardamine_dentata,59.7189,9.9689
@@ -943,7 +933,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342271654,Cardamine_dentata,57.611278,10.396217
 1146353233,Cardamine_dentata,68.28,-154.06
 1342270804,Cardamine_dentata,56.100427,8.717379
-1146355044,Cardamine_dentata,67.76,-150.5
 1146387293,Cardamine_dentata,65.25,-143.39
 1702327834,Cardamine_dentata,59.809,8.6248
 1703299891,Cardamine_dentata,58.6549999991625,-93.180278
@@ -1053,7 +1042,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146339684,Cardamine_dentata,67.11,-163.36
 186796895,Cardamine_dentata,58.895,7.7358
 1804372803,Cardamine_dentata,64.133333,-83.166667
-1146340417,Cardamine_dentata,68.29,-159.9
 1702033051,Cardamine_dentata,60.896,10.8016
 2306524456,Cardamine_dentata,64.13,-83.17
 187106791,Cardamine_dentata,64.2317,11.1825
@@ -1127,7 +1115,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342272703,Cardamine_dentata,56.51089,9.884259
 1342270884,Cardamine_dentata,57.106926,8.907863
 1701585269,Cardamine_dentata,59.8423,10.3785
-1697519083,Cardamine_dentata,55.666667,31.9
 1342272680,Cardamine_dentata,55.758099,9.548455
 1702191712,Cardamine_dentata,60.7796,10.9732
 1342272689,Cardamine_dentata,55.604635,9.689165
@@ -1144,7 +1131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144141656,Cardamine_dentata,61.4252,5.2235
 1702191438,Cardamine_dentata,59.3521,11.7112
 1701801317,Cardamine_dentata,59.9205,10.5373
-1697519076,Cardamine_dentata,55.5,31.8
 1323842286,Cardamine_dentata,66.7493,13.6332
 1342271276,Cardamine_dentata,56.746493,9.530066
 1342272796,Cardamine_dentata,56.428506,10.076922
@@ -1361,11 +1347,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935660654,Cardamine_dentata,47.54,14.1225
 1323785739,Cardamine_dentata,69.2323,20.6589
 1881103920,Cardamine_dentata,48.92,10.68
-786104388,Cardamine_dentata,48,7.9
 1881110363,Cardamine_dentata,48.76,10.49
 1881114584,Cardamine_dentata,48.74,10.72
-786104370,Cardamine_dentata,47.9,8
-1881113244,Cardamine_dentata,48.77,10.7
 1946864703,Cardamine_dentata,49.96,10.59
 8398969,Cardamine_dentata,49.1184,1.69849
 230816566,Cardamine_dentata,51.842215,5.887832
@@ -1552,7 +1535,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211621895,Cardamine_dentata,42.869999,-9.15
 59981044,Cardamine_dentata,42.852255,-9.116269
 1851348051,Cardamine_dentata,42.871,-9.141
-1050655434,Cardamine_dentata,43.27,-2.9
 1936449854,Cardamine_dentata,42.8645,-9.1483
 1332524707,Cardamine_dentata,50.465785,10.086215
 1936601049,Cardamine_dentata,43.4183,-4.0389
@@ -1748,7 +1730,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342270862,Cardamine_dentata,55.929993,8.894676
 732472236,Cardamine_dentata,68.75,-92.95
 1936434901,Cardamine_dentata,42.8854,-1.1277
-732472237,Cardamine_dentata,68.633333,-93.6
 1342270860,Cardamine_dentata,55.938978,8.894652
 1702434050,Cardamine_dentata,62.4251,11.1204
 1323791240,Cardamine_dentata,69.164,29.255
@@ -1768,7 +1749,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342270777,Cardamine_dentata,55.33672,8.73861
 1342272126,Cardamine_dentata,55.76197,12.55243
 1342270782,Cardamine_dentata,55.255738,8.691943
-1946872691,Cardamine_dentata,50.23,9.8
 1342272912,Cardamine_dentata,55.335791,11.623846
 1342271488,Cardamine_dentata,57.120959,9.997839
 1342272474,Cardamine_dentata,55.819457,12.293373
@@ -1791,7 +1771,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342272051,Cardamine_dentata,55.979214,12.202057
 1342271863,Cardamine_dentata,55.751043,11.540102
 1342272228,Cardamine_dentata,57.05211,8.51237
-1050579307,Cardamine_dentata,43.65,-1.2
 1099888515,Cardamine_dentata,55.49478,13.16509
 1342271937,Cardamine_dentata,55.152797,11.768798
 1342272436,Cardamine_dentata,55.917116,12.238548
@@ -1833,7 +1812,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702427585,Cardamine_dentata,59.6038,8.6368
 1342271465,Cardamine_dentata,56.205105,9.925572
 1702406232,Cardamine_dentata,59.9663,10.2806
-732472157,Cardamine_dentata,45.1,-75.866667
 1702433089,Cardamine_dentata,59.6746,9.6303
 1342271703,Cardamine_dentata,56.485786,10.598218
 1342272697,Cardamine_dentata,56.197694,9.683641
@@ -1857,7 +1835,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851361956,Cardamine_dentata,42.626,-6.835
 1050655513,Cardamine_dentata,43.15,-2.94
 1851370716,Cardamine_dentata,42.601,-6.105
-1500200205,Cardamine_dentata,49.083333,14.5
 1935669131,Cardamine_dentata,46.81167,15.97083
 1099886131,Cardamine_dentata,55.64642,14.25743
 1099897010,Cardamine_dentata,56.35611,14.12523
@@ -1898,8 +1875,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701987244,Cardamine_dentata,59.1378,5.6002
 1697239402,Cardamine_dentata,73.57915,99.83241
 1701906715,Cardamine_dentata,59.8869,10.1167
-1851320776,Cardamine_dentata,43.1,-1.9
-30958155,Cardamine_dentata,43.22,-2.2
 1053986555,Cardamine_dentata,42.91,-1.26
 1099884108,Cardamine_dentata,55.83419,12.9154
 1455438733,Cardamine_dentata,50.019267,4.557275
@@ -1946,11 +1921,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732472280,Cardamine_dentata,61.333333,-97.666667
 1702280488,Cardamine_dentata,61.3357,12.2246
 1702136799,Cardamine_dentata,59.8502,10.2047
-1262023769,Cardamine_dentata,51.8,-78.9
 1697519216,Cardamine_dentata,59.147626,46.68703
 1946864653,Cardamine_dentata,49.97,10.45
 1935669037,Cardamine_dentata,46.76583,15.35
-1935669116,Cardamine_dentata,46.77833,15.3
 1936405171,Cardamine_dentata,43.0445,-1.5403
 1705263546,Cardamine_dentata,57.787647,15.822015
 1099888768,Cardamine_dentata,57.15643,15.41085
@@ -1987,14 +1960,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804611630,Cardamine_dentata,69.333333,-138.733333
 732472308,Cardamine_dentata,68.433333,-119.833333
 732472309,Cardamine_dentata,68.65,-121.25
-732472306,Cardamine_dentata,68.7,-120.8
 732472310,Cardamine_dentata,68.983333,-121.533333
 1804460161,Cardamine_dentata,63.734722,-68.551389
 1701845039,Cardamine_dentata,60.7484,10.1832
 1697239379,Cardamine_dentata,76.09924,98.27371
 1844423652,Cardamine_dentata,76.10081,98.40054
 1844423958,Cardamine_dentata,76.07242,98.69928
-1935669078,Cardamine_dentata,47,15.46667
 1831081536,Cardamine_dentata,53.6485,11.4153
 1705256794,Cardamine_dentata,57.57048,16.456958
 1144028406,Cardamine_dentata,61.03699,6.57199
@@ -2082,7 +2053,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936409376,Cardamine_dentata,42.1124,-6.7153
 1099895145,Cardamine_dentata,56.73878,14.56284
 1697519184,Cardamine_dentata,54.180193,37.726664
-2310677644,Cardamine_dentata,51.8,-4.07
 1705321254,Cardamine_dentata,57.490213,14.714661
 1705345147,Cardamine_dentata,57.496508,16.043701
 1099896636,Cardamine_dentata,57.00435,15.63445
@@ -2115,7 +2085,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732472200,Cardamine_dentata,61.416667,-76.766667
 1050636689,Cardamine_dentata,42.95,-0.86
 1050655438,Cardamine_dentata,42.95,-0.83
-30853986,Cardamine_dentata,43.5,-5.72
 1936101882,Cardamine_dentata,42.2702,-8.8802
 1705359489,Cardamine_dentata,57.71532,14.585404
 1851333175,Cardamine_dentata,42.28,-5.97
@@ -2138,22 +2107,18 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599183813,Cardamine_dentata,63.541884,29.017668
 1804529645,Cardamine_dentata,63.733333,-68.45
 1804561675,Cardamine_dentata,63.716667,-68.683333
-1804563438,Cardamine_dentata,65.95,-71.3
 1230542328,Cardamine_dentata,48.6275,20.54833
 1946865101,Cardamine_dentata,49.99,10.24
 1946865061,Cardamine_dentata,50.02,10.24
 111303240,Cardamine_dentata,42.811001,-1.771
 1935669099,Cardamine_dentata,46.71111,16.00833
-1050636642,Cardamine_dentata,43.2,-3.16
 1851397505,Cardamine_dentata,42.55,-5.86
 111303238,Cardamine_dentata,42.846001,-1.733
 1936108625,Cardamine_dentata,42.9547,-2.891
 1705300301,Cardamine_dentata,56.847239,14.526946
-1230531014,Cardamine_dentata,50.1,11.45
 1936108393,Cardamine_dentata,42.9723,-2.6825
 111303239,Cardamine_dentata,43.014,-1.497
 1705359137,Cardamine_dentata,56.643525,14.843561
-1804581900,Cardamine_dentata,44.8,-75.366667
 1230540952,Cardamine_dentata,48.54806,20.50667
 1705358637,Cardamine_dentata,57.087447,14.32074
 1948438610,Cardamine_dentata,62.799209,23.320197
@@ -2170,7 +2135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099889359,Cardamine_dentata,57.43177,16.45533
 1948438495,Cardamine_dentata,64.526178,27.105781
 1701897255,Cardamine_dentata,62.4272,11.0819
-1146382815,Cardamine_dentata,68.7,-149.61
 1599183807,Cardamine_dentata,62.397075,21.561321
 1146304656,Cardamine_dentata,68.61,-149.31
 1323805394,Cardamine_dentata,69.3992,29.7191
@@ -2186,21 +2150,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705395685,Cardamine_dentata,57.722842,16.510036
 1705323788,Cardamine_dentata,57.597135,15.102812
 57683871,Cardamine_dentata,62.241699,25.890499
-1697239378,Cardamine_dentata,51,85.833333
 2321354040,Cardamine_dentata,61.867767,6.232494
 1705359506,Cardamine_dentata,57.675228,14.618598
 1705395718,Cardamine_dentata,57.939745,16.176618
 1705395716,Cardamine_dentata,57.625447,16.190151
-1946864936,Cardamine_dentata,50.02,10.3
-1146241602,Cardamine_dentata,69.416667,-141.5
 373689595,Cardamine_dentata,62.876999,27.684401
 57683872,Cardamine_dentata,62.221199,25.971001
 1701344416,Cardamine_dentata,62.5444,6.0348
 1701891046,Cardamine_dentata,62.4983,11.1257
-732472210,Cardamine_dentata,64.25,-50.2
 1146304613,Cardamine_dentata,70.13,-146.91
 1146234556,Cardamine_dentata,70.4663761572154,-149.703132934974
-1146304609,Cardamine_dentata,70.3,-161.91
 111303243,Cardamine_dentata,43.198002,-1.788
 1851335353,Cardamine_dentata,42.48,-6.75
 1806555408,Cardamine_dentata,42.924059,-1.805354
@@ -2209,9 +2168,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111303241,Cardamine_dentata,43.259998,-1.688
 1936418099,Cardamine_dentata,43.1889,-3.0259
 143023784,Cardamine_dentata,36.869999,-3.22
-111303249,Cardamine_dentata,43.216,-1.8
 111303577,Cardamine_dentata,43.195,-3.018
-111303568,Cardamine_dentata,43.365002,-2.5
 111303246,Cardamine_dentata,43.369999,-1.858
 111303247,Cardamine_dentata,43.306,-1.773
 111303244,Cardamine_dentata,43.377998,-1.821
@@ -2239,11 +2196,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705345167,Cardamine_dentata,57.466813,16.07517
 1705422884,Cardamine_dentata,56.203663,15.721787
 111303252,Cardamine_dentata,43.161999,-1.788
-1050636690,Cardamine_dentata,42.9,-2.3
 1697239424,Cardamine_dentata,67.28197,68.54162
 1146248641,Cardamine_dentata,69.666456413402,-143.586167064789
 732472319,Cardamine_dentata,64.45,-98.233333
-883423141,Cardamine_dentata,59.55,-110.1
 1697239430,Cardamine_dentata,68.01843,75.22402
 111303579,Cardamine_dentata,43.330002,-2.796
 1050636803,Cardamine_dentata,43.07,-3.01
@@ -2254,11 +2209,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111303569,Cardamine_dentata,43.375,-2.673
 1948438626,Cardamine_dentata,60.208541,25.167161
 111303575,Cardamine_dentata,43.244999,-2.033
-111303255,Cardamine_dentata,43.207001,-1.8
 59980645,Cardamine_dentata,42.76401,-8.205608
 1050636794,Cardamine_dentata,42.87,-2.72
 2313363002,Cardamine_dentata,48.07,11.46
-441991419,Cardamine_dentata,51.8,12.403055
 732472209,Cardamine_dentata,45.316667,-75.833333
 1050636777,Cardamine_dentata,43.05,-3.06
 111303572,Cardamine_dentata,43.202,-2.305
@@ -2294,11 +2247,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705395713,Cardamine_dentata,57.697807,15.922596
 1146240823,Cardamine_dentata,69.8329067772367,-156.003179923095
 732472175,Cardamine_dentata,63.366667,-130.95
-1804382203,Cardamine_dentata,72,-125
 732472174,Cardamine_dentata,63.316667,-131.35
-732472158,Cardamine_dentata,58.116667,-68.4
-732472159,Cardamine_dentata,61.816667,-73.8
-473454560,Cardamine_dentata,61.826389,-72.8
 1842855293,Cardamine_dentata,42.05,2.82
 30853991,Cardamine_dentata,41.009998,-3.59
 318219428,Cardamine_dentata,58.8342,6.046
@@ -2308,7 +2257,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186796509,Cardamine_dentata,58.2438,7.9354
 1936032557,Cardamine_dentata,37.95,-5.15
 1948438645,Cardamine_dentata,62.340918,27.854636
-732472134,Cardamine_dentata,45.416667,-71.9
 1705395697,Cardamine_dentata,57.679793,15.972823
 1948438633,Cardamine_dentata,61.630615,24.026133
 1099882791,Cardamine_dentata,56.130833,9.559167
@@ -2317,10 +2265,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318679325,Cardamine_dentata,59.73195,10.15707
 439618248,Cardamine_dentata,32.95,-5.15
 1323775461,Cardamine_dentata,68.71773,17.73805
-732472279,Cardamine_dentata,63.8,-95.466667
 1146235219,Cardamine_dentata,70.3328120592471,-161.836693856539
-732472173,Cardamine_dentata,64.6,-138.3
-732472172,Cardamine_dentata,64.533333,-138.2
 1146236203,Cardamine_dentata,69.8831509865282,-142.302822846611
 1999496033,Cardamine_dentata,69.357331,26.500184
 1701761081,Cardamine_dentata,63.0452,11.6203
@@ -2344,7 +2289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1622369129,Cardamine_dentata,62.685932,21.62287
 318219462,Cardamine_dentata,58.7527,5.6552
 1599183932,Cardamine_dentata,61.239802,23.820865
-2309804027,Cardamine_dentata,52.4,-4.06
 318219439,Cardamine_dentata,58.9379,5.5721
 39262343,Cardamine_dentata,63.999,-21.189
 1323845833,Cardamine_dentata,66.9873,15.9971
@@ -2381,7 +2325,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831518558,Cardamine_dentata,48.52972,15.12167
 1050636683,Cardamine_dentata,42.95,-2.82
 1845008584,Cardamine_dentata,49.948611,8.318333
-1050636700,Cardamine_dentata,42.91,-2.6
 318219431,Cardamine_dentata,58.7088,5.694
 1697519208,Cardamine_dentata,54.648284,39.224001
 1851362003,Cardamine_dentata,42.92,-5.63
@@ -2396,7 +2339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187107191,Cardamine_dentata,62.6956,11.5893
 1146234542,Cardamine_dentata,70.3163303658142,-151.969834089606
 1697239372,Cardamine_dentata,67.26801,91.93677
-732472238,Cardamine_dentata,63.533333,-129.2
 732472193,Cardamine_dentata,68.383333,-138.383333
 732472282,Cardamine_dentata,52.766667,-82.033333
 1144066885,Cardamine_dentata,60.3666,6.5455
@@ -2408,7 +2350,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845008369,Cardamine_dentata,49.066667,8.183333
 833455499,Cardamine_dentata,49.066666,8.183333
 833455501,Cardamine_dentata,49.85,8.35
-2288659219,Cardamine_dentata,52.166667,4.5
 1807224952,Cardamine_dentata,43.67342,-65.7584
 1702346826,Cardamine_dentata,60.5683,6.8937
 1845008377,Cardamine_dentata,49.848889,8.356111
@@ -2421,7 +2362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57683898,Cardamine_dentata,61.790798,25.641399
 1701982006,Cardamine_dentata,60.5669,6.8939
 1599183923,Cardamine_dentata,61.240209,24.482492
-1099880581,Cardamine_dentata,60.5,22.25
 1099897095,Cardamine_dentata,60.666667,21.583333
 20593109,Cardamine_dentata,61.5446,12.3612
 1323758928,Cardamine_dentata,68.7793,17.1664
@@ -2432,7 +2372,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697239389,Cardamine_dentata,70.86859,89.91753
 732472191,Cardamine_dentata,68.383333,-138.766667
 1701304124,Cardamine_dentata,69.0977,22.7959
-732472192,Cardamine_dentata,67.7,-139.133333
 373689579,Cardamine_dentata,62.1553,25.7498
 1697239392,Cardamine_dentata,67.09178,65.56869
 732472190,Cardamine_dentata,67.566667,-139.683333
@@ -2442,7 +2381,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697239326,Cardamine_dentata,73.26898,90.60066
 1697519187,Cardamine_dentata,54.918607,38.626087
 1606513533,Cardamine_dentata,60.903007,22.706204
-1851327724,Cardamine_dentata,42.82,-6
 1999546321,Cardamine_dentata,60.720704,21.484211
 1851381157,Cardamine_dentata,42.46,-6.14
 1697519186,Cardamine_dentata,54.856059,38.537435
@@ -2456,7 +2394,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1622369112,Cardamine_dentata,63.132517,21.540172
 1851397719,Cardamine_dentata,42.47,-6.38
 1697519733,Cardamine_dentata,48.307404,24.195843
-732472263,Cardamine_dentata,63.816667,-128.8
 39261702,Cardamine_dentata,65.333,-14.477
 1146233874,Cardamine_dentata,68.8330972005756,-143.502720125062
 1702350114,Cardamine_dentata,62.4633,11.065
@@ -2472,7 +2409,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146241165,Cardamine_dentata,70.4662345576156,-157.403309793971
 1701778780,Cardamine_dentata,63.1099,10.9521
 1701315296,Cardamine_dentata,62.868,10.0711
-1936908503,Cardamine_dentata,52.1167,4.5
 415963937,Cardamine_dentata,41.69972,-72.1575
 993327784,Cardamine_dentata,52.1333,4.5667
 211621464,Cardamine_dentata,43.48,-6.44
@@ -2504,7 +2440,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851350174,Cardamine_dentata,42.82,-5.87
 1948438718,Cardamine_dentata,61.695843,21.607031
 1146377876,Cardamine_dentata,67.48,-162.96
-732472126,Cardamine_dentata,69.3,-145.05
 1146304610,Cardamine_dentata,68.48,-154.05
 1146381780,Cardamine_dentata,68.25,-158.33
 1851412818,Cardamine_dentata,43.01,-5.52
@@ -2518,20 +2453,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697519152,Cardamine_dentata,55.862282,40.783655
 1697519105,Cardamine_dentata,55.903568,40.659072
 1697519140,Cardamine_dentata,55.878752,40.749015
-1146396202,Cardamine_dentata,65.78,-144.1
 1948438577,Cardamine_dentata,61.394002,23.346386
 1697519130,Cardamine_dentata,55.891752,40.761157
 1702361044,Cardamine_dentata,59.2167,10.884
 1701275960,Cardamine_dentata,62.5002,7.1073
 1845008520,Cardamine_dentata,50.291667,7.808611
-1146381626,Cardamine_dentata,68.8,-160
 883423249,Cardamine_dentata,71.9157,-123.7988
 1146240235,Cardamine_dentata,71.2829405586777,-156.686771817325
 39628376,Cardamine_dentata,64.769,-18.066
 39628371,Cardamine_dentata,64.725,-18.041
 1599183921,Cardamine_dentata,60.780618,23.967652
-1146247011,Cardamine_dentata,69.86,-142.2
-732472177,Cardamine_dentata,64.166667,-128.2
 187107165,Cardamine_dentata,62.9428,11.8083
 1701303623,Cardamine_dentata,62.7721,11.8116
 1434773164,Cardamine_dentata,41.454407,-8.366241
@@ -2539,10 +2470,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697239395,Cardamine_dentata,57.44505,97.29311
 1697519113,Cardamine_dentata,56.235162,41.085525
 20593031,Cardamine_dentata,58.6246,7.4073
-1434667167,Cardamine_dentata,39.8,21.183333
 1697519106,Cardamine_dentata,56.188068,41.008821
 1697519101,Cardamine_dentata,56.188057,40.994232
-1701900502,Cardamine_dentata,60.8313,9
 1600370396,Cardamine_dentata,60.262781,25.100103
 186796503,Cardamine_dentata,58.2535,8.0203
 1697519181,Cardamine_dentata,54.767116,37.428876
@@ -2557,11 +2486,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599183814,Cardamine_dentata,66.19656,29.693551
 1599183791,Cardamine_dentata,65.962319,29.184742
 1701238665,Cardamine_dentata,62.8297,11.6207
-1804492838,Cardamine_dentata,72.45,-124.6
 732472194,Cardamine_dentata,61.866667,-121.35
 1701232274,Cardamine_dentata,62.56504,11.68681
-1804469677,Cardamine_dentata,55.016667,-82.9
-1988122717,Cardamine_dentata,65.7,-38.4
 1701235667,Cardamine_dentata,62.6604,11.5472
 1701968539,Cardamine_dentata,62.8164,9.6965
 1039023718,Cardamine_dentata,41.7097,-72.1667
@@ -2586,7 +2512,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701254042,Cardamine_dentata,62.3609,5.9948
 1144066792,Cardamine_dentata,60.4184,7.6853
 1851357041,Cardamine_dentata,42.65,-5.38
-1060310396,Cardamine_dentata,50.6,6.9
 2269404298,Cardamine_dentata,53.88333,-1.445951
 1831080824,Cardamine_dentata,53.9485,13.415
 1434773251,Cardamine_dentata,41.975121,-8.552105
@@ -2649,7 +2574,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701905490,Cardamine_dentata,59.2213,10.9035
 1701891120,Cardamine_dentata,60.32605,6.17715
 1099889843,Cardamine_dentata,55.93126,13.93721
-1146381159,Cardamine_dentata,67.1,-158.25
 1599183801,Cardamine_dentata,60.790774,26.326696
 1948438705,Cardamine_dentata,61.224346,23.738723
 732472225,Cardamine_dentata,60.166667,-44.483333
@@ -2665,13 +2589,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697239391,Cardamine_dentata,57.85002,77.18102
 1702350083,Cardamine_dentata,62.6984,10.1334
 39262529,Cardamine_dentata,64.898,-23.824
-732472168,Cardamine_dentata,63,-129.033333
 39627912,Cardamine_dentata,66.059,-18.738
 1146396243,Cardamine_dentata,65.58,-144.76
 1701762513,Cardamine_dentata,62.785,11.8423
 39627866,Cardamine_dentata,64.715,-18.028
 39627869,Cardamine_dentata,65.106,-17.618
-732472275,Cardamine_dentata,68.9,-75.2
 1701902713,Cardamine_dentata,70.1528,24.7431
 1697519162,Cardamine_dentata,55.047049,39.351278
 59980612,Cardamine_dentata,56.152,10.0695
@@ -2694,7 +2616,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187106580,Cardamine_dentata,62.7522,10.9579
 732472304,Cardamine_dentata,68.266667,-131.05
 1701324889,Cardamine_dentata,64.2414,10.6912
-1988164915,Cardamine_dentata,62.1,-49.3
 1701959218,Cardamine_dentata,64.1764,10.4712
 1697239640,Cardamine_dentata,64.02907,82.04526
 1599183914,Cardamine_dentata,62.336292,25.935448
@@ -2711,7 +2632,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999546685,Cardamine_dentata,60.289046,23.515625
 187106588,Cardamine_dentata,62.86812,11.28687
 1701238690,Cardamine_dentata,62.9196,11.1759
-39627897,Cardamine_dentata,65.8,-17.441
 1948438708,Cardamine_dentata,61.070051,25.051918
 1146247029,Cardamine_dentata,65.45,-145.43
 1146395482,Cardamine_dentata,65.42,-145.56
@@ -2725,17 +2645,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39262503,Cardamine_dentata,63.983,-19.083
 187107158,Cardamine_dentata,63.7437,11.7254
 1702327416,Cardamine_dentata,62.883,7.2007
-1804474859,Cardamine_dentata,64.733333,-98
 39627873,Cardamine_dentata,64.905,-21.192
-732472241,Cardamine_dentata,68.8,-138.716667
 732472253,Cardamine_dentata,60.833333,-94.416667
 39627905,Cardamine_dentata,65.562,-18.57
 1804542267,Cardamine_dentata,64.316667,-96.05
-39627892,Cardamine_dentata,65.612,-17.5
 39627895,Cardamine_dentata,65.437,-17.348
 1948438597,Cardamine_dentata,60.167438,24.745248
 186797095,Cardamine_dentata,58.2999,6.6539
-1988084079,Cardamine_dentata,45.2,-72.57
 1261966237,Cardamine_dentata,45.232971,-72.493171
 216097395,Cardamine_dentata,62.244999,25.746099
 1702350149,Cardamine_dentata,59.7035,10.6171
@@ -2744,7 +2660,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732472222,Cardamine_dentata,45.066667,-74.55
 732472163,Cardamine_dentata,45.233333,-72.516667
 1144066913,Cardamine_dentata,61.30602,6.92873
-473538557,Cardamine_dentata,46.1,-66.616667
 57683916,Cardamine_dentata,61.146999,24.304001
 1999546338,Cardamine_dentata,60.67149,22.760032
 1599183901,Cardamine_dentata,60.725094,27.088634
@@ -2774,7 +2689,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39627667,Cardamine_dentata,64.809,-20.673
 732472232,Cardamine_dentata,65.25,-138.333333
 187106544,Cardamine_dentata,63.02,10.3138
-1804395452,Cardamine_dentata,71.983333,-125.2
 1146247054,Cardamine_dentata,65.41,-145.33
 1099895637,Cardamine_dentata,55.71148,13.32469
 1831080347,Cardamine_dentata,53.5485,13.7483
@@ -2792,7 +2706,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948438637,Cardamine_dentata,60.558097,26.477377
 1999581269,Cardamine_dentata,61.030578,21.729803
 1999546656,Cardamine_dentata,60.325913,22.369955
-1321975941,Cardamine_dentata,67.9,-160.8
 1599183782,Cardamine_dentata,62.878664,27.095057
 1948438671,Cardamine_dentata,61.59517,24.265264
 1701900435,Cardamine_dentata,60.2365,10.5007
@@ -2820,12 +2733,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187106534,Cardamine_dentata,63.0294,10.2648
 1146317861,Cardamine_dentata,67.25,-157.616667
 1318975762,Cardamine_dentata,67.22,-154.53
-732472272,Cardamine_dentata,68.933333,-137.2
-732472274,Cardamine_dentata,69.6,-140.25
 1999546720,Cardamine_dentata,60.445409,22.316533
 1701778704,Cardamine_dentata,61.886,11.949
 732472181,Cardamine_dentata,68.216667,-135.883333
-732472248,Cardamine_dentata,59.8,-70.083333
 1701325883,Cardamine_dentata,62.7783,10.9105
 1804525806,Cardamine_dentata,73.366667,-121.783333
 1319243231,Cardamine_dentata,67.25,-157.62
@@ -2861,10 +2771,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702327482,Cardamine_dentata,60.0333,10.8127
 187106823,Cardamine_dentata,67.2765,14.4549
 1701254513,Cardamine_dentata,62.9927,10.3521
-732472149,Cardamine_dentata,68.85,-138.7
 1701238816,Cardamine_dentata,62.9568,10.3504
 1702350054,Cardamine_dentata,61.56336,10.29904
-1804421832,Cardamine_dentata,69.7,-129
 732472296,Cardamine_dentata,81.816667,-71.35
 1701902628,Cardamine_dentata,67.3331,15.4848
 1701884470,Cardamine_dentata,59.0603,11.0646
@@ -2909,7 +2817,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146237480,Cardamine_dentata,70.3663495115047,-151.003150972817
 1699980044,Cardamine_dentata,69.8514,21.7934
 1804467038,Cardamine_dentata,64.166667,-102.583333
-1804583176,Cardamine_dentata,64.45,-99
 415963927,Cardamine_dentata,42.76555,-73.23583
 1099880015,Cardamine_dentata,57.79979,11.93176
 1935669081,Cardamine_dentata,47.11111,15.425
@@ -2973,7 +2880,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39261646,Cardamine_dentata,65.155,-13.689
 1999591161,Cardamine_dentata,69.167094,27.965304
 187107185,Cardamine_dentata,62.5474,11.4209
-1320458622,Cardamine_dentata,68,-152
 1701254501,Cardamine_dentata,62.9355,10.6647
 883373657,Cardamine_dentata,63.7467,-68.5169
 732472155,Cardamine_dentata,69.116667,-105.05
@@ -3070,7 +2976,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804378396,Cardamine_dentata,68.683333,-89.75
 732472133,Cardamine_dentata,45.966667,-74.333333
 1099889476,Cardamine_dentata,55.62927,13.14811
-1842843626,Cardamine_dentata,42.4,2.21
 1702350116,Cardamine_dentata,59.5394,10.665
 732472240,Cardamine_dentata,56.35,-94.666667
 360094412,Cardamine_dentata,63.327,27.2959
@@ -3099,7 +3004,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39261583,Cardamine_dentata,66.02,-21.626
 39261648,Cardamine_dentata,65.117,-13.799
 1599183887,Cardamine_dentata,64.4008,27.929676
-1804573588,Cardamine_dentata,69.6666669993861,-98.3
 1804397918,Cardamine_dentata,66.55,-86.333333
 1804411212,Cardamine_dentata,63.3334669248507,-90.7501202810808
 1948438588,Cardamine_dentata,61.329861,24.475297
@@ -3122,12 +3026,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099896895,Cardamine_dentata,61.055,24.372222
 1701778212,Cardamine_dentata,62.6421,11.8775
 39261585,Cardamine_dentata,66.005,-21.503
-732472230,Cardamine_dentata,62.2,-75.633333
 1599183893,Cardamine_dentata,64.7542,28.57204
 1701303670,Cardamine_dentata,62.76578,9.87211
 732472140,Cardamine_dentata,80.033333,-86.05
 1701254739,Cardamine_dentata,62.9688,9.996
-732472259,Cardamine_dentata,58.2,-62.633333
 1804561053,Cardamine_dentata,69.5361109993829,-93.520833
 1999495946,Cardamine_dentata,60.428964,22.764437
 1891604706,Cardamine_dentata,49.88,6.04
@@ -3146,7 +3048,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948438683,Cardamine_dentata,60.597136,23.802238
 57683935,Cardamine_dentata,62.421619,25.94195
 187106903,Cardamine_dentata,63.7319,9.6986
-732472138,Cardamine_dentata,80.2,-85.533333
 465871381,Cardamine_dentata,45.83003,-61.1785
 1948242103,Cardamine_dentata,61.974007,25.566681
 1804614138,Cardamine_dentata,70.1333329993979,-92.416667
@@ -3172,14 +3073,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705445436,Cardamine_dentata,58.371253,15.555612
 1948438704,Cardamine_dentata,60.946198,23.397889
 1804398863,Cardamine_dentata,64.0364259992582,-103.850707
-1146381567,Cardamine_dentata,68.96,-161.2
 1804435361,Cardamine_dentata,63.966760738304,-103.90074774396
 1702350133,Cardamine_dentata,61.8467,8.9934
 1146243946,Cardamine_dentata,69.366297217489,-152.136359089327
 1697239400,Cardamine_dentata,51.220755,85.557747
 441708926,Cardamine_dentata,69.366667,-152.133333
 1701226479,Cardamine_dentata,62.9815,10.5686
-1804563016,Cardamine_dentata,71.1,-122.783333
 1599183772,Cardamine_dentata,60.719487,26.438115
 1702268775,Cardamine_dentata,59.61071,10.91638
 39261650,Cardamine_dentata,65.153,-13.673
@@ -3188,13 +3087,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 360094383,Cardamine_dentata,62.258499,25.7551
 1701900545,Cardamine_dentata,61.8762,9.1521
 187107117,Cardamine_dentata,70.636,29.6895
-732472137,Cardamine_dentata,76.2,-119.416667
 1702350098,Cardamine_dentata,61.9318,8.779
 1701235253,Cardamine_dentata,69.7633,21.272
 1697239299,Cardamine_dentata,70.745268,136.194594
 1804473369,Cardamine_dentata,76.233333,-119.333333
 1146237895,Cardamine_dentata,69.783333,-155.55
-1893209220,Cardamine_dentata,49.8,6.43
 1099889593,Cardamine_dentata,56.425278,12.633349
 1099887384,Cardamine_dentata,56.00647,13.61052
 1999495993,Cardamine_dentata,60.471093,22.677008
@@ -3216,7 +3113,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701344654,Cardamine_dentata,59.575,11.6203
 187107151,Cardamine_dentata,63.4489,11.2059
 1144066935,Cardamine_dentata,61.84046,5.16453
-732472161,Cardamine_dentata,69.466667,-93.5
 732472233,Cardamine_dentata,58.566667,-94.033333
 1701247763,Cardamine_dentata,63.8287,11.0221
 1701971325,Cardamine_dentata,58.7193,8.6547
@@ -3235,7 +3131,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599183882,Cardamine_dentata,61.082527,26.34843
 1948438717,Cardamine_dentata,63.089607,22.936754
 1948438689,Cardamine_dentata,63.236678,26.499357
-732472219,Cardamine_dentata,53.3,-60.5
 1599183828,Cardamine_dentata,60.836897,26.656709
 1701236017,Cardamine_dentata,63.4688,11.077
 1656071268,Cardamine_dentata,69.27793,19.16723
@@ -3272,8 +3167,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701281229,Cardamine_dentata,65.7061,12.4618
 1622369066,Cardamine_dentata,63.050657,21.753743
 39627672,Cardamine_dentata,66.156,-19.02
-732472299,Cardamine_dentata,74.7,-94.566667
-2265439773,Cardamine_dentata,68.333333,-151
 1701238072,Cardamine_dentata,63.0913,8.2276
 39261599,Cardamine_dentata,65.029,-21.649
 2265381059,Cardamine_dentata,68.283333,-151.416667
@@ -3285,7 +3178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697239354,Cardamine_dentata,67.42553,86.64876
 187106545,Cardamine_dentata,62.9112,10.4271
 732472221,Cardamine_dentata,63.916667,-135.316667
-1804469690,Cardamine_dentata,69.2,-91.25
 1697239361,Cardamine_dentata,64.15101,60.67781
 1638384705,Cardamine_dentata,47.02194,15.40139
 1697519215,Cardamine_dentata,56.131942,37.163496
@@ -3298,7 +3190,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39261614,Cardamine_dentata,65.974,-21.51
 732472312,Cardamine_dentata,63.75,-68.533333
 1804501661,Cardamine_dentata,63.733333,-68.566667
-2265441370,Cardamine_dentata,69.416667,-145
 39261612,Cardamine_dentata,65.942,-21.56
 1999632517,Cardamine_dentata,69.048274,20.787103
 732472165,Cardamine_dentata,64.133333,-83.283333
@@ -3307,11 +3198,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599183767,Cardamine_dentata,65.566633,27.971071
 732472142,Cardamine_dentata,58.116667,-68.383333
 1701680568,Cardamine_dentata,59.6455,9.9845
-2265578858,Cardamine_dentata,69.5,-145
 1701900447,Cardamine_dentata,59.7499,9.85407
 1702350046,Cardamine_dentata,59.6928,9.8349
 2265443924,Cardamine_dentata,70.121454,-143.67307
-1146241689,Cardamine_dentata,69.333333,-146
 1705325645,Cardamine_dentata,55.451042,13.797966
 1702350125,Cardamine_dentata,60.0889,10.2764
 1099893959,Cardamine_dentata,56.12478,12.6939
@@ -3371,7 +3260,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144066800,Cardamine_dentata,60.3165,5.3587
 732472203,Cardamine_dentata,53.333333,-83.25
 1948438580,Cardamine_dentata,60.870237,23.95915
-732472141,Cardamine_dentata,66.5,-50.633333
 1701238689,Cardamine_dentata,62.6519,10.7366
 39261575,Cardamine_dentata,65.823,-21.596
 1999573105,Cardamine_dentata,60.477006,22.721864
@@ -3380,7 +3268,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702350128,Cardamine_dentata,59.8046,10.7825
 1099895369,Cardamine_dentata,56.14029,13.39135
 1705345154,Cardamine_dentata,57.638331,15.407823
-732472286,Cardamine_dentata,45.55,-73.7
 187106547,Cardamine_dentata,62.9494,10.1825
 1948438707,Cardamine_dentata,61.053533,24.126848
 57683887,Cardamine_dentata,62.266998,21.3792
@@ -3495,13 +3382,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804451371,Cardamine_dentata,62.85,-121.383333
 1599183867,Cardamine_dentata,61.078762,28.201322
 1144066858,Cardamine_dentata,60.2592,5.272
-1804416159,Cardamine_dentata,67.2,-72.416667
 1599183866,Cardamine_dentata,61.493121,23.710602
 1702327434,Cardamine_dentata,69.6772,30.1225
 187107129,Cardamine_dentata,69.6961,21.2324
 2012691179,Cardamine_dentata,49.99726,14.55542
 1702350171,Cardamine_dentata,59.9155,10.538
-732472261,Cardamine_dentata,44.85,-65.3
 1144066810,Cardamine_dentata,60.2494,5.2559
 1702350162,Cardamine_dentata,60.6281,10.3744
 1599186866,Cardamine_dentata,64.492508,26.476509
@@ -3541,7 +3426,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465860874,Cardamine_dentata,45.542262,-73.69348
 1705380705,Cardamine_dentata,55.713757,13.259352
 1099889695,Cardamine_dentata,55.67086,13.07522
-732472290,Cardamine_dentata,45.5,-73.6
 1701902729,Cardamine_dentata,69.2974,19.2636
 57683936,Cardamine_dentata,62.564301,25.8396
 1702249813,Cardamine_dentata,60.0109,10.8025
@@ -3552,7 +3436,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144066939,Cardamine_dentata,62.65769,8.70421
 20594554,Cardamine_dentata,69.0929,19.4556
 1804411379,Cardamine_dentata,63.6833329992511,-107.116667
-1893208091,Cardamine_dentata,49.8,5.93
 788675964,Cardamine_dentata,57.54432,11.93806
 1705415969,Cardamine_dentata,57.26893,16.425112
 1099893780,Cardamine_dentata,55.786116,13.244446
@@ -3565,7 +3448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948438620,Cardamine_dentata,61.232788,24.1105
 1948438607,Cardamine_dentata,61.676722,23.880081
 860329526,Cardamine_dentata,42.9902,-5.7407
-732472122,Cardamine_dentata,49.8,-64.333333
 1144067001,Cardamine_dentata,59.0711,11.0348
 39261569,Cardamine_dentata,65.561,-17.029
 1948532535,Cardamine_dentata,62.872631,27.674539
@@ -3637,7 +3519,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144214474,Cardamine_dentata,61.59946,9.46214
 39628239,Cardamine_dentata,64.815,-23.41
 39262417,Cardamine_dentata,64.016,-20.96
-1697239409,Cardamine_dentata,51.766667,100.7
 1701312750,Cardamine_dentata,69.5213,21.1793
 1948438529,Cardamine_dentata,61.497517,23.898058
 1705314802,Cardamine_dentata,57.344353,14.891733
@@ -3715,7 +3596,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099885837,Cardamine_dentata,56.02206,12.74601
 1705275626,Cardamine_dentata,57.589867,16.056013
 1702355184,Cardamine_dentata,70.0088,22.9135
-732472206,Cardamine_dentata,49,-58.083333
 39628240,Cardamine_dentata,65.593,-18.095
 187107120,Cardamine_dentata,69.7545,20.9353
 1099887272,Cardamine_dentata,55.906692,13.094685
@@ -3746,7 +3626,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697519269,Cardamine_dentata,55.780081,37.31837
 1701791346,Cardamine_dentata,59.8668,5.4186
 1697519628,Cardamine_dentata,68.001285,39.702373
-1804588130,Cardamine_dentata,69,-132.5
 1144066764,Cardamine_dentata,60.4317,5.2863
 1701279733,Cardamine_dentata,63.6888,9.6572
 1697519632,Cardamine_dentata,56.35219,37.545525
@@ -3773,7 +3652,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705416834,Cardamine_dentata,56.870662,14.724579
 1099886256,Cardamine_dentata,56.67005,12.8632
 1144066811,Cardamine_dentata,60.4057,5.3254
-732472285,Cardamine_dentata,45.4,-75.85
 1099885794,Cardamine_dentata,55.774288,13.109104
 1999495865,Cardamine_dentata,60.449243,22.297779
 1705442791,Cardamine_dentata,62.448143,17.407218
@@ -3790,7 +3668,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099893018,Cardamine_dentata,57.83911,11.97649
 1099897802,Cardamine_dentata,55.582731,13.832916
 239014440,Cardamine_dentata,68.617302,27.6099
-1804590069,Cardamine_dentata,66.666667,-70
 1599183860,Cardamine_dentata,64.132884,27.715355
 1804397231,Cardamine_dentata,66.483333,-70.333333
 1702350200,Cardamine_dentata,61.1605,10.378
@@ -4009,7 +3886,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099886381,Cardamine_dentata,57.6859,11.93874
 1099893520,Cardamine_dentata,55.44432,13.86314
 1705469059,Cardamine_dentata,57.754132,14.127936
-415963922,Cardamine_dentata,42.36666,-71.3
 1705379037,Cardamine_dentata,57.265371,16.418423
 1099880520,Cardamine_dentata,63.28863,17.29982
 1702350176,Cardamine_dentata,60.0549,10.0596
@@ -4021,7 +3897,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39262282,Cardamine_dentata,65.595,-20.299
 1702355166,Cardamine_dentata,67.1405,16.1419
 1705347901,Cardamine_dentata,56.566767,16.122366
-735647707,Cardamine_dentata,48.8,2.195556
 1099882271,Cardamine_dentata,55.57698,14.11321
 1705267228,Cardamine_dentata,57.291967,16.485206
 1099895168,Cardamine_dentata,58.32407,11.72141
@@ -4032,7 +3907,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099894639,Cardamine_dentata,58.65221,14.49554
 1099894861,Cardamine_dentata,57.413135,12.022324
 1144066879,Cardamine_dentata,59.94976,6.01605
-788548299,Cardamine_dentata,63,23.815833
 788585754,Cardamine_dentata,57.430961,15.074206
 1599183855,Cardamine_dentata,61.078704,25.792642
 1705468975,Cardamine_dentata,57.781999,14.159527
@@ -4200,12 +4074,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 674785,Cardamine_dentata,57.81674,14.854247
 1702350075,Cardamine_dentata,59.9841,11.0968
 1701690302,Cardamine_dentata,61.25855,11.44005
-616364005,Cardamine_dentata,50.58,6
 1948438611,Cardamine_dentata,62.877852,27.488105
 1264994967,Cardamine_dentata,47.862222,15.026667
 2028615133,Cardamine_dentata,63.086067,21.618223
 39261662,Cardamine_dentata,65.61,-21.402
-1702355165,Cardamine_dentata,70.5661,27
 1702355220,Cardamine_dentata,70.0588,20.7714
 39261550,Cardamine_dentata,65.796,-18.286
 1323758893,Cardamine_dentata,68.858,18.366
