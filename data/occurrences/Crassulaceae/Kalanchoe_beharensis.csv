@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268991597,Kalanchoe_beharensis,38.614472,-90.259083
 2268965036,Kalanchoe_beharensis,-23.688889,44.572222
-2307587300,Kalanchoe_beharensis,31.2,30.02
 1257655567,Kalanchoe_beharensis,-25.122222,46.674722
 1257725124,Kalanchoe_beharensis,-25.055833,46.674445
 2310545294,Kalanchoe_beharensis,-26.17,27.98
@@ -10,9 +9,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929452174,Kalanchoe_beharensis,34.43,-119.65
 1897673073,Kalanchoe_beharensis,-36.866667,174.766667
 1259305330,Kalanchoe_beharensis,13.666667,-89.25
-1258396644,Kalanchoe_beharensis,-24.61666,44.7
-437496375,Kalanchoe_beharensis,-18.93333,48.2
-437496381,Kalanchoe_beharensis,-25,46.28333
 439161282,Kalanchoe_beharensis,-25.08333,46.85
 1261339870,Kalanchoe_beharensis,32.66666,-117.16666
 1261338541,Kalanchoe_beharensis,-24.98333,46.53333
@@ -23,12 +19,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261340485,Kalanchoe_beharensis,-23.63333,44.61666
 2290300031,Kalanchoe_beharensis,-23.633333,44.616667
 439161304,Kalanchoe_beharensis,-23.83333,44.41667
-438495009,Kalanchoe_beharensis,-24.08333,45.7
 437163507,Kalanchoe_beharensis,-21.95,46.71667
-439494408,Kalanchoe_beharensis,-25.1,46.83333
 437194738,Kalanchoe_beharensis,-24.78333,46.05
 437828727,Kalanchoe_beharensis,-24.86667,45.81667
 437194737,Kalanchoe_beharensis,-25.16667,46.08333
-437828742,Kalanchoe_beharensis,-23.3,43.7
 438525873,Kalanchoe_beharensis,-23.58333,43.76667
 437162707,Kalanchoe_beharensis,-24.95,46.41667
