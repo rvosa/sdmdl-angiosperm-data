@@ -5,7 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1707497856,Calliandra_carbonaria,7.268,-73.359
 1147307436,Calliandra_carbonaria,0.67,-77.09
 1324650323,Calliandra_carbonaria,0.68,-77.08
-1702526516,Calliandra_carbonaria,4.667444,-74.098972
 1257918316,Calliandra_carbonaria,-1.401389,-78.066944
 1147297942,Calliandra_carbonaria,-0.03,-70.18
 1213678851,Calliandra_carbonaria,3.583222,-76.716847
@@ -72,9 +71,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259163371,Calliandra_carbonaria,-4.13388,-78.94194
 1929629645,Calliandra_carbonaria,-4.1339,-78.9419
 1228169373,Calliandra_carbonaria,-2.864861,-71.415028
-1098684508,Calliandra_carbonaria,4.668124,-74.100244
 1098684598,Calliandra_carbonaria,4.912158,-73.961919
-1098684555,Calliandra_carbonaria,4.674606,-74.05747
 1259107568,Calliandra_carbonaria,-14.665833,-67.801944
 1253781831,Calliandra_carbonaria,9.606944,-84.068056
 44480939,Calliandra_carbonaria,9.47,-83.86
