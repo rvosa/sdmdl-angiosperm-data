@@ -1,67 +1,69 @@
 #!/usr/bin/env Rscript
-library(adehabitatHS, quietly = T)
-library(raster, quietly = T)
-library(SDMTools, quietly = T)
-library(factoextra, quietly = T)
-library(ecospat, quietly = T)
-library(cluster, quietly = T)
-library(ape, quietly=T)
-library(adehabitatMA, quietly=T)
-library(optparse)
-library(yaml)
+#library(adehabitatHS, quietly = T)
+library(raster) #
+#library(SDMTools, quietly = T)
+#library(factoextra, quietly = T)
+#library(ecospat, quietly = T)
+#library(cluster, quietly = T)
+library(adehabitatMA)
+library(optparse) #
+library(yaml) #
+library(dplyr) #
+library(sp) #
+library(ade4) #
+library(tibble)
 
-# process command line arguments
-taxa.names.file # list of taxon names, one per line
-REPO_HOME
-tiff.dir # non-bioclim TIFF files, e.g. root/5_deg in Ungulates
-bioclim.dir # where to download bioclim TIFF files
-bioclim.res <- 5 # results in root/wc5/ in Ungulates
-niche.file # output file with niche traits
-
-###### GETOPTIONS #######
-
-# Import the taxa list 
-taxa.names <- scan(
-    taxa.names.file, 
-    sep = "\n", 
-    what = character() 
+# Process command line arguments, The usage is thus:
+# ./OMI.R -c ../config.yml
+opt <- optparse::parse_args( 
+    OptionParser(
+        option_list = list(
+            optparse::make_option( 
+                c("-c", "--config"), 
+                type="character",
+                default="config.yml"
+            ),
+            optparse::make_option(
+                c("-o", "--outfile"),
+                type="character",
+                default="niche_traits.csv"
+            ),
+            optparse::make_option(
+                c("-f", "--first"),
+                type="integer",
+                default=1
+            ),
+            optparse::make_option(
+                c("-l", "--last"),
+                type="integer",
+                default=100
+            )            
+        )
+    ) 
 )
+config <- yaml::yaml.load_file(opt$config)
 
-# Download bioclim data
-gis.layers <- raster::getData(
-    "worldclim",
-    var = "bio",
-    res = 5,
-    path = bioclim.dir,
-    download = T
-)
-
-# Turn the file names into layer names: strip the prefix (which might include
-# the resolution) and strip the file extension
-gis.layers.names <- list.files(tiff.dir)
-gis.layers.names <- gsub('current_5arcmin_','',gis.layers.names)
-gis.layers.names <- gsub('.tif','',gis.layers.names)
-
-# Combine the layer names with those we've already read from BIOCLIM
-gis.layers.names <- c( names(gis.layers), gis.layers.names )
-
-# Iterate over non-bioclim TIFF files
-for (file.name in list.files(tiff.dir)) {
+# Read and stack TIFF files
+gis.layers  <- raster::stack()
+layer.files <- config$gis_data$files
+layer.proj  <- config$gis_data$proj
+layer.datum <- config$gis_data$datum
+for ( layer.name in names(layer.files) ) {
     
     # Stack with previously read layers
-    gis.layers <- stack(
+    gis.layers <- raster::stack(
         gis.layers,
         
         # Read as raster
-        raster(paste(tiff.dir, file.name, sep = ""))
+        raster::raster(layer.files[[layer.name]])
     )
 }
 
-# Apply all names
-names(gis.layers) <- gis.layers.names
+# Apply user supplied layer names
+names(gis.layers) <- names(layer.files)
 
 # Make SpatialPixelsDataFrame with CRS string from GIS layers
-crs.string <- "+proj=longlat +datum=WGS84"
+crs.string <- sprintf("+proj=%s +datum=%s", layer.proj, layer.datum)
 gis.layers.spdf <- as(gis.layers, "SpatialPixelsDataFrame")
 sp::proj4string(gis.layers.spdf) <- CRS(crs.string)
 
@@ -91,22 +93,27 @@ occurrences.spdf <- new(
 
 # Populate the empty dataframe with lat/lon values from the taxa list
 # set for example i in 1:100 in the case of memory limits 
-for ( i in 1:length(taxa.names)) {
+taxa.names <- names(config$occurrences)
+for ( i in opt$first:opt$last ) {
+    
+    # Prevent out of bounds errors
+    if ( i > length(taxa.names) ) {
+        break
+    }
 
-	# Read occurrences as matrix
-    csv.file <- sprintf('%s/data/filtered/%s.csv', REPO_HOME, taxa.names[i])
-    occurrence.matrix <- as.matrix(read.csv(csv.file))
-
-	# Convert matrix to coordinate data frame
-    points.df <- as.data.frame(cbind(occurrence.matrix[, c("decimal_longitude", "decimal_latitude")]))
-    points.df$decimal_longitude <- as.numeric(as.character(points.df$decimal_longitude))
-    points.df$decimal_latitude <- as.numeric(as.character(points.df$decimal_latitude))
-    coordinates(points.df) <- ~ decimal_longitude + decimal_latitude
+	# Read occurrences
+    csv.file <- config$occurrences[[taxa.names[i]]]
+    points.df <- dplyr::select(
+        read.csv(csv.file),
+        decimal_longitude,
+        decimal_latitude
+    )
+    sp::coordinates(points.df) <- ~ decimal_longitude + decimal_latitude
     
     # Populate SpatialPointsDataFrame for focal taxon
     focal.spdf <- SpatialPointsDataFrame(
     	points.df, 
-    	data.frame(species = rep(taxa.names[i], NROW(occurrence.matrix))), 
+    	data.frame(species = rep(taxa.names[i], NROW(points.df))), 
     	proj4string = CRS
     )
     proj4string(focal.spdf) <- CRS(crs.string)
@@ -121,17 +128,25 @@ traitvalues.df <- tibble::rowid_to_column(traitvalues.df, "ID")
 traitvalues.df <- na.omit(traitvalues.df)
 
 # data frame of number of occurrences per pixel 
-npoints <- count.points(occurrences.spdf, gis.layers.spdf)
+npoints <- adehabitatMA::count.points(occurrences.spdf, gis.layers.spdf)
 noccurrences.df <- slot(npoints, "data")
 noccurrences.df <- tibble::rowid_to_column(noccurrences.df, "ID")
 noccurrences.df <- subset(noccurrences.df, noccurrences.df$ID %in% traitvalues.df$ID)
 noccurrences.df <- subset(noccurrences.df, select = -ID)
 
 # PCA to collect and standardize environmental variables per occurrence
-traitvalues.dudi <- ade4::dudi.pca(traitvalues.df[2:42], scannf = F)
+traitvalues.dudi <- ade4::dudi.pca(
+    traitvalues.df[2:length(traitvalues.df)], 
+    scannf = F
+)
 
 # niche analysis to average the standardized values fromt the PCA per species
 niche.dudi <- ade4::niche(traitvalues.dudi, noccurrences.df, scannf = F)
 
 # write averages per species for standardized environmental variables to CSV
-write.csv(niche.dudi$tab, niche.file)
+rownames(niche.dudi$tab) <- gsub(
+    x = rownames(niche.dudi$tab),
+    pattern = "\\.",
+    replacement = " "
+)
+write.csv( niche.dudi$tab, file = opt$outfile, append = T, quote = F )
