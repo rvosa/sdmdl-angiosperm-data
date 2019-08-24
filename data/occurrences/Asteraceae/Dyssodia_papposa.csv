@@ -94,7 +94,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843911375,Dyssodia_papposa,37.013,-104.837845
 1895246431,Dyssodia_papposa,19.314444,-99.182778
 2242418755,Dyssodia_papposa,37.672626,-104.028681
-2270691094,Dyssodia_papposa,32.3719,-110.7
 1895246889,Dyssodia_papposa,19.318056,-99.181111
 1895246872,Dyssodia_papposa,19.308889,-99.183333
 2242420061,Dyssodia_papposa,40.683333,-104.933333
@@ -209,7 +208,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895246895,Dyssodia_papposa,18.024167,-97.55
 1897946798,Dyssodia_papposa,24.217222,-102.093333
 1260340815,Dyssodia_papposa,38.27111,-104.76944
-1896092822,Dyssodia_papposa,17.85,-97.1
 1895246698,Dyssodia_papposa,17.858333,-97.108333
 1894489441,Dyssodia_papposa,19.969722,-100.151111
 1895246868,Dyssodia_papposa,18.425,-97.675
@@ -387,7 +385,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895246643,Dyssodia_papposa,19.495278,-98.816389
 1895246827,Dyssodia_papposa,20.915556,-100.726389
 1895246831,Dyssodia_papposa,23.560556,-99.7125
-1895404877,Dyssodia_papposa,16.5,-92.45
 1895246639,Dyssodia_papposa,16.508333,-92.458333
 1895404845,Dyssodia_papposa,27.165272,-102.520208
 1895246471,Dyssodia_papposa,20.384444,-98.964722
@@ -411,13 +408,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895246759,Dyssodia_papposa,18.702778,-97.405556
 1895246724,Dyssodia_papposa,18.291667,-97.425
 2242372073,Dyssodia_papposa,39.716134,-104.803878
-1895246937,Dyssodia_papposa,19.5,-98.886111
-1261304850,Dyssodia_papposa,30.21666,-103.6
-1261288564,Dyssodia_papposa,30.65,-104.1
 1893746811,Dyssodia_papposa,22.035,-101.956667
 1895246744,Dyssodia_papposa,24.451667,-103.454722
 1893746813,Dyssodia_papposa,19.903333,-101.535
-1896148446,Dyssodia_papposa,19.898333,-101.5
 1895246491,Dyssodia_papposa,19.902222,-101.535
 1895246664,Dyssodia_papposa,18.408333,-97.808333
 1893440596,Dyssodia_papposa,18.341667,-97.625
@@ -440,8 +433,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896148440,Dyssodia_papposa,21.435,-100.463333
 1895246631,Dyssodia_papposa,23.236667,-102.425
 1895246900,Dyssodia_papposa,21.413611,-100.4975
-1895246923,Dyssodia_papposa,19.501111,-98.9
-1897946859,Dyssodia_papposa,23.7,-101.928333
 1895957545,Dyssodia_papposa,19.336389,-98.460556
 1842920187,Dyssodia_papposa,34.214694,-103.893544
 1894532832,Dyssodia_papposa,25.258333,-105.808333
@@ -479,7 +470,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893440638,Dyssodia_papposa,18.875,-97.408333
 1895246478,Dyssodia_papposa,21.150278,-101.595833
 1895246908,Dyssodia_papposa,20.250833,-99.641389
-1895957515,Dyssodia_papposa,18.877778,-97.4
 1929440040,Dyssodia_papposa,38.927798,-95.223908
 1895246816,Dyssodia_papposa,16.824167,-92.618056
 1895246826,Dyssodia_papposa,16.848056,-96.360556
@@ -496,7 +486,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895404847,Dyssodia_papposa,19.316667,-98.233333
 1896148439,Dyssodia_papposa,16.675833,-92.488333
 1895246894,Dyssodia_papposa,16.738889,-92.499722
-1895246622,Dyssodia_papposa,17,-92.816667
 2242355311,Dyssodia_papposa,32.9447432197555,-107.507373929162
 1895957547,Dyssodia_papposa,19.143333,-98.060833
 1893746819,Dyssodia_papposa,20.336667,-100.968333
@@ -526,7 +515,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895404878,Dyssodia_papposa,15.45,-92.333333
 1895246611,Dyssodia_papposa,25.339167,-101.0225
 176933301,Dyssodia_papposa,37.47031,-96.24534
-1893746810,Dyssodia_papposa,20.5,-100.265
 1895246460,Dyssodia_papposa,20.533056,-100.308056
 1930149795,Dyssodia_papposa,35.578511,-101.726753
 1895246689,Dyssodia_papposa,21.288056,-102.191944
@@ -546,7 +534,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895404859,Dyssodia_papposa,18.296619234691,-97.2051852799452
 1895246379,Dyssodia_papposa,18.719444,-97.294722
 1895246763,Dyssodia_papposa,17.791667,-97.541667
-1893746865,Dyssodia_papposa,17.8,-97.338333
 1895246840,Dyssodia_papposa,18.733333,-98.05
 1893746799,Dyssodia_papposa,21.881389,-102.299167
 1895246426,Dyssodia_papposa,20.333056,-100.978611
@@ -558,12 +545,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895404855,Dyssodia_papposa,16.72401,-92.67987
 1928693300,Dyssodia_papposa,16.724428,-92.672375
 1893746846,Dyssodia_papposa,19.685,-101.313333
-1895246690,Dyssodia_papposa,22.216667,-100.8
 1893746802,Dyssodia_papposa,18.691667,-101.56
 1895246613,Dyssodia_papposa,19.485278,-101.680278
 1895404756,Dyssodia_papposa,25.508419,-100.681567
 1895246773,Dyssodia_papposa,22.291111,-101.575
-1895404849,Dyssodia_papposa,17.7,-97.533333
 1895246752,Dyssodia_papposa,19.584444,-101.306944
 1895246712,Dyssodia_papposa,16.733333,-92.65
 1895246932,Dyssodia_papposa,20.370278,-100.947778
@@ -590,10 +575,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895246604,Dyssodia_papposa,24.891667,-100.091667
 1895404910,Dyssodia_papposa,24.954675,-100.261033
 1895246496,Dyssodia_papposa,22.175833,-104.218333
-1895957534,Dyssodia_papposa,18.95,-98
 1895404721,Dyssodia_papposa,16.256159224445,-96.5607968292427
 1895957519,Dyssodia_papposa,19.009444,-98.179167
-1895957505,Dyssodia_papposa,18.954444,-98
 1895246798,Dyssodia_papposa,16.748611,-92.781389
 1931087735,Dyssodia_papposa,16.742425,-92.773983
 176933356,Dyssodia_papposa,43.923376,-104.267999
@@ -620,7 +603,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895404837,Dyssodia_papposa,18.1820709139658,-97.479229392299
 1895246726,Dyssodia_papposa,19.804444,-100.965833
 1893746829,Dyssodia_papposa,19.786667,-100.97
-1261293032,Dyssodia_papposa,16.58,-92.5
 1895246532,Dyssodia_papposa,22.294167,-100.765278
 1895246819,Dyssodia_papposa,16.581389,-92.506389
 1895246406,Dyssodia_papposa,20.971111,-102.205278
@@ -647,7 +629,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895247009,Dyssodia_papposa,24.030278,-104.586389
 1895957517,Dyssodia_papposa,18.749444,-97.965556
 1896148455,Dyssodia_papposa,18.711944,-97.340833
-1895404712,Dyssodia_papposa,18.7,-97.35
 1893746822,Dyssodia_papposa,24.025,-104.655
 1895246525,Dyssodia_papposa,20.132778,-98.704722
 1895246910,Dyssodia_papposa,19.482778,-97.369444
@@ -675,7 +656,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176933313,Dyssodia_papposa,37.75127,-94.86247
 240491256,Dyssodia_papposa,36.1312,-102.60158
 1895246725,Dyssodia_papposa,24.719444,-100.039167
-1929139298,Dyssodia_papposa,25.1,-100.65
 1895246503,Dyssodia_papposa,21.355833,-101.933333
 1895246853,Dyssodia_papposa,23.618889,-103.924722
 1895246637,Dyssodia_papposa,16.284167,-96.625556
@@ -698,7 +678,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242389972,Dyssodia_papposa,39.787717,-105.108969
 1895246814,Dyssodia_papposa,20.321389,-99.0125
 1843813668,Dyssodia_papposa,35.410008,-106.297224
-2270547491,Dyssodia_papposa,19.933333,-98.6
 1896148444,Dyssodia_papposa,19.941667,-98.591667
 240491297,Dyssodia_papposa,39.24934,-103.49972
 1895302545,Dyssodia_papposa,19.480278,-98.714444
@@ -801,7 +780,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1611937378,Dyssodia_papposa,30.616667,-104.083333
 1895246710,Dyssodia_papposa,24.583056,-100.263333
 1928291257,Dyssodia_papposa,39.971,-113.7677
-1930891970,Dyssodia_papposa,19.5,-98.95
 1893746806,Dyssodia_papposa,19.816667,-98.601667
 1895246731,Dyssodia_papposa,21.916667,-102.425833
 1895302472,Dyssodia_papposa,19.5575562207769,-99.0426018996496
@@ -832,12 +810,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895246547,Dyssodia_papposa,20.140833,-98.275556
 1259814543,Dyssodia_papposa,27.33333,-102.58333
 1896148458,Dyssodia_papposa,19.825,-99.208333
-1895246717,Dyssodia_papposa,19.85,-99.2
 2268943462,Dyssodia_papposa,27.333333,-102.583333
 1895246825,Dyssodia_papposa,17.5575,-99.5275
 1895246598,Dyssodia_papposa,19.851944,-99.183056
 1895302511,Dyssodia_papposa,19.671944,-99.175556
-1896148432,Dyssodia_papposa,19.784722,-99.1
 1895247000,Dyssodia_papposa,19.665278,-99.174444
 1895246573,Dyssodia_papposa,16.7375,-92.750833
 1895302470,Dyssodia_papposa,19.775278,-99.1225
@@ -857,7 +833,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895302542,Dyssodia_papposa,19.7781034090983,-98.5753696017528
 176933300,Dyssodia_papposa,37.799234,-95.843766
 1895246803,Dyssodia_papposa,19.851389,-99.191667
-2270547685,Dyssodia_papposa,21.9,-101.383333
 1895246408,Dyssodia_papposa,20.538333,-100.163611
 1895246653,Dyssodia_papposa,19.630278,-99.265
 1895246845,Dyssodia_papposa,17.596111,-99.565833
@@ -925,7 +900,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895246429,Dyssodia_papposa,19.217222,-99.205
 1895302530,Dyssodia_papposa,19.219444,-99.202222
 1258583553,Dyssodia_papposa,15.42555,-91.15944
-1846498004,Dyssodia_papposa,34.187,-110
 240491276,Dyssodia_papposa,42.27759,-96.24594
 1846497995,Dyssodia_papposa,32.916667,-108.583056
 176933312,Dyssodia_papposa,38.07074,-94.81244
@@ -1022,7 +996,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176933279,Dyssodia_papposa,39.205868,-101.747135
 1895404882,Dyssodia_papposa,19.2661914146542,-97.5345042084228
 1895246654,Dyssodia_papposa,19.283611,-97.556111
-1803152247,Dyssodia_papposa,17.5,-92.666667
 1987013655,Dyssodia_papposa,40.294957,-110.189165
 1895246706,Dyssodia_papposa,22.780278,-102.564444
 1895404801,Dyssodia_papposa,22.75,-102.55
@@ -1064,7 +1037,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1092709586,Dyssodia_papposa,37.7471,-104.93506
 1895404880,Dyssodia_papposa,19.823276317004,-98.5746777406204
 240491239,Dyssodia_papposa,40.62078,-98.39042
-2270648384,Dyssodia_papposa,33.4,-109.333
 1843815217,Dyssodia_papposa,35.106977,-108.007128
 240491273,Dyssodia_papposa,40.06433,-98.07004
 2270647118,Dyssodia_papposa,33.842036,-110.164931
@@ -1123,7 +1095,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 924817706,Dyssodia_papposa,27.41559,-98.03246
 1895404812,Dyssodia_papposa,25.0017566791319,-101.076560616398
 924817716,Dyssodia_papposa,29.13996,-98.90531
-1895404795,Dyssodia_papposa,19.783333,-98.5
 240491228,Dyssodia_papposa,40.52301,-103.0722
 176933391,Dyssodia_papposa,43.87661,-102.28174
 924817692,Dyssodia_papposa,36.46658,-104.74503
@@ -1207,7 +1178,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895246609,Dyssodia_papposa,17.770556,-99.705278
 1259816608,Dyssodia_papposa,17.778056,-99.708611
 1895246862,Dyssodia_papposa,21.845,-102.169444
-1929590119,Dyssodia_papposa,24.6,-103.96
 1895246743,Dyssodia_papposa,24.558611,-103.950556
 240491289,Dyssodia_papposa,34.19004,-108.9652
 924817673,Dyssodia_papposa,38.3855,-96.3925
@@ -1313,15 +1283,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895246534,Dyssodia_papposa,25.331389,-101.097778
 1895957495,Dyssodia_papposa,18.602222,-98.469167
 1928896006,Dyssodia_papposa,25.45,-103.15
-1259817357,Dyssodia_papposa,24.9,-101.75
 1895246668,Dyssodia_papposa,25.458333,-103.158333
-1259817940,Dyssodia_papposa,23.7,-99.75
 1895404921,Dyssodia_papposa,28.1241978309263,-102.722884461027
 1895404763,Dyssodia_papposa,27.450203,-102.491111
 1895246898,Dyssodia_papposa,27.319167,-103.711389
 1895404788,Dyssodia_papposa,27.314469,-103.726139
 1895246806,Dyssodia_papposa,19.105278,-99.156944
-1895246597,Dyssodia_papposa,27.7,-103.855556
 176933371,Dyssodia_papposa,38.83943,-95.14472
 1895404803,Dyssodia_papposa,27.793964,-103.903808
 1895404826,Dyssodia_papposa,24.875147,-99.539842
@@ -1361,7 +1328,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2234478785,Dyssodia_papposa,36.202568,-91.174573
 1260950703,Dyssodia_papposa,38.00944,-90.21777
 1260938904,Dyssodia_papposa,39.18527,-91.01666
-1260928622,Dyssodia_papposa,40.49138,-92.7
 1895246801,Dyssodia_papposa,19.474444,-99.232222
 176933231,Dyssodia_papposa,38.885914,-95.295128
 1260939057,Dyssodia_papposa,39.70833,-91.35833
@@ -1376,7 +1342,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843814154,Dyssodia_papposa,36.911979,-104.328861
 1927775239,Dyssodia_papposa,19.0536,-98.2267
 1895957539,Dyssodia_papposa,19.056111,-98.307222
-1259818060,Dyssodia_papposa,24.4,-102.18333
 1258149713,Dyssodia_papposa,36.8053,-93.4665
 1260960710,Dyssodia_papposa,36.80527,-93.46638
 1260960645,Dyssodia_papposa,37.17666,-94.56527
