@@ -11,11 +11,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2005442634,Pelargonium_odoratissimum,-33.625,25.375
 685237044,Pelargonium_odoratissimum,-34.375,21.375
 318118621,Pelargonium_odoratissimum,38.15,-0.62
-1259008618,Pelargonium_odoratissimum,0.35,-78.2
 1502033419,Pelargonium_odoratissimum,38.77,0.07
 1258991731,Pelargonium_odoratissimum,0.35,-78.11666
 1123914889,Pelargonium_odoratissimum,6.19468,-75.50417
-1258336772,Pelargonium_odoratissimum,38.6,-90.25
 462146112,Pelargonium_odoratissimum,-33.375,25.875
 462146118,Pelargonium_odoratissimum,-33.375,25.375
 462146108,Pelargonium_odoratissimum,-33.625,24.125
@@ -25,7 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462146111,Pelargonium_odoratissimum,-32.375,22.625
 462146069,Pelargonium_odoratissimum,-34.125,22.125
 462146121,Pelargonium_odoratissimum,-33.625,26.875
-1897752018,Pelargonium_odoratissimum,-36.933333,174.6
 462146122,Pelargonium_odoratissimum,-34.375,20.625
 462146066,Pelargonium_odoratissimum,-34.375,20.125
 462146127,Pelargonium_odoratissimum,-33.875,25.375
