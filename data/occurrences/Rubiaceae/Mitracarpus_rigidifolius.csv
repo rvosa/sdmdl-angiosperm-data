@@ -11,7 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1077235162,Mitracarpus_rigidifolius,-11.494167,-41.331389
 1094878066,Mitracarpus_rigidifolius,-11.563333,-41.142222
 1094878103,Mitracarpus_rigidifolius,-10.403611,-41.311667
-1094884082,Mitracarpus_rigidifolius,-11.57,-47.128889
 1077231300,Mitracarpus_rigidifolius,-11.490278,-41.338056
 1077228859,Mitracarpus_rigidifolius,-11.591111,-41.2075
 1094884694,Mitracarpus_rigidifolius,-11.483333,-41.116389
@@ -70,4 +69,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260643421,Mitracarpus_rigidifolius,-10.33333,-41.33333
 1702770257,Mitracarpus_rigidifolius,-10.37,-41.33
 1928588241,Mitracarpus_rigidifolius,-11.5493,-41.156111
-1929670496,Mitracarpus_rigidifolius,-14.63,-52.23
