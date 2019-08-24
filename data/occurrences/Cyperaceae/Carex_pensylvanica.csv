@@ -121,11 +121,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978384168,Carex_pensylvanica,41.8961,-88.5172
 2306125545,Carex_pensylvanica,44.03,-79.53
 2265492036,Carex_pensylvanica,45.096389,-93.042222
-473446985,Carex_pensylvanica,76.91218,-76.91218
 1899346018,Carex_pensylvanica,44.016667,-79.533333
 2265498084,Carex_pensylvanica,45.538056,-92.731944
 2265427553,Carex_pensylvanica,44.865278,-92.772778
-1849121809,Carex_pensylvanica,33.8176,-38.78537
 2265431699,Carex_pensylvanica,47.6275,-95.634722
 2307040289,Carex_pensylvanica,44.04,-79.52
 2265432325,Carex_pensylvanica,45.119167,-93.110556
@@ -136,7 +134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988632301,Carex_pensylvanica,41.637183,-83.765333
 2265439365,Carex_pensylvanica,46.07063,-94.844602
 1988686055,Carex_pensylvanica,41.928974,-86.588915
-2305481790,Carex_pensylvanica,48.2,-122.72
 1929666601,Carex_pensylvanica,42.02,-80.38
 1849173311,Carex_pensylvanica,35.0652,-82.7916
 1257545242,Carex_pensylvanica,41.497778,-80.4775
@@ -178,7 +175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262028830,Carex_pensylvanica,46.5016939990581,-76.437139
 176906888,Carex_pensylvanica,45.935556,-84.873889
 2265500319,Carex_pensylvanica,45.537557,-93.727001
-1322012873,Carex_pensylvanica,38.92,-77.1075
 1989242975,Carex_pensylvanica,44.49063,-81.31693
 1989051273,Carex_pensylvanica,37.642778,-84.104722
 2265443573,Carex_pensylvanica,44.505359,-92.319092
@@ -259,7 +255,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265499960,Carex_pensylvanica,46.434806,-94.381373
 2265500367,Carex_pensylvanica,46.194129,-92.834987
 1849137365,Carex_pensylvanica,34.8519,-82.2322
-1949625779,Carex_pensylvanica,48.416667,-123.366667
 2265456595,Carex_pensylvanica,48.007222,-96.201111
 2265450121,Carex_pensylvanica,47.869236,-96.406639
 2265451318,Carex_pensylvanica,48.360278,-96.570278
@@ -292,7 +287,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228431559,Carex_pensylvanica,40.258124,-80.864533
 2273383233,Carex_pensylvanica,35.353428,-83.507105
 1260127747,Carex_pensylvanica,42.33333,-73.83333
-1321854202,Carex_pensylvanica,38.8994,-77.0575
 1989246443,Carex_pensylvanica,42.31242,-84.80662
 2265499797,Carex_pensylvanica,47.195016,-95.487867
 1989521222,Carex_pensylvanica,46.065421,-88.481688
@@ -310,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989373858,Carex_pensylvanica,44.923968,-83.434672
 2265499308,Carex_pensylvanica,47.289314,-96.09889
 2265500209,Carex_pensylvanica,47.259811,-96.226202
-2273380085,Carex_pensylvanica,35.497763,-82.608231
 2265500150,Carex_pensylvanica,44.927188,-92.791852
 2265499623,Carex_pensylvanica,44.781113,-94.194725
 1988724708,Carex_pensylvanica,44.983333,-76.583333
@@ -502,7 +495,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804416352,Carex_pensylvanica,45,-79.533333
 668821842,Carex_pensylvanica,40.841667,-77.936667
 668822133,Carex_pensylvanica,43.55,-79.583333
-1317585715,Carex_pensylvanica,44.2398,-121.863
 668822109,Carex_pensylvanica,46.066667,-81.383333
 415971019,Carex_pensylvanica,42.4825,-71.33305
 2265499939,Carex_pensylvanica,45.340658,-93.081463
@@ -647,7 +639,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265500790,Carex_pensylvanica,45.790111,-95.613832
 1899332933,Carex_pensylvanica,43.645833,-79.4625
 1703283445,Carex_pensylvanica,49.2157200300114,-99.2002862107931
-1949543404,Carex_pensylvanica,50.383333,-121.316667
 1899349749,Carex_pensylvanica,43.8,-79.15
 415970914,Carex_pensylvanica,41.80833,-72.24944
 1899350073,Carex_pensylvanica,44.091667,-78.15
@@ -704,7 +695,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473429099,Carex_pensylvanica,43.716667,-92.383333
 1989355307,Carex_pensylvanica,42.3246,-83.6752
 2265500354,Carex_pensylvanica,45.630249,-94.325498
-1030439342,Carex_pensylvanica,85.401667,-85.413056
 2265500168,Carex_pensylvanica,46.27899,-93.863336
 1038971715,Carex_pensylvanica,41.3347,-72.7006
 473428875,Carex_pensylvanica,44.246401,-77.154535
@@ -733,7 +723,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473428894,Carex_pensylvanica,43.848491,-79.479477
 1261992257,Carex_pensylvanica,45.78,-71.642
 1228620467,Carex_pensylvanica,54.03,-109.17
-415971012,Carex_pensylvanica,41.25833,-70.15
 464982412,Carex_pensylvanica,54.03333,-109.16666
 894986978,Carex_pensylvanica,54.033333,-109.166667
 473428890,Carex_pensylvanica,44.434455,-76.362898
@@ -809,7 +798,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 473429009,Carex_pensylvanica,49.837,-99.5771
 473428909,Carex_pensylvanica,45.014762,-74.849706
 465878788,Carex_pensylvanica,45.01561,-74.848903
-1807220910,Carex_pensylvanica,47.041408,-60.598287
 1228167609,Carex_pensylvanica,41.662548,-87.039868
 473428818,Carex_pensylvanica,45.544823,-73.151499
 1261957193,Carex_pensylvanica,45.037355,-73.049534
@@ -853,7 +841,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415970997,Carex_pensylvanica,42.38333,-71.96666
 883401492,Carex_pensylvanica,43.1454,-79.2294
 1899296031,Carex_pensylvanica,45.571154,-78.529072
-1804562580,Carex_pensylvanica,45.416667,-75.7
 2265499197,Carex_pensylvanica,46.75082,-92.072247
 1228163384,Carex_pensylvanica,42.872783,-100.550967
 2265499402,Carex_pensylvanica,46.86933,-96.47343
@@ -991,7 +978,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 465878813,Carex_pensylvanica,43.628611,-79.728611
 1989368765,Carex_pensylvanica,42.72311,-73.854835
 1989540516,Carex_pensylvanica,42.96333,-85.66806
-1261976736,Carex_pensylvanica,45.4,-75.816667
 1319195974,Carex_pensylvanica,39.2644,-77.5539
 473436566,Carex_pensylvanica,45.5458,-73.6596
 1228310750,Carex_pensylvanica,39.82314,-78.718074
@@ -1016,10 +1002,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038968832,Carex_pensylvanica,41.4389,-73.0568
 1989316961,Carex_pensylvanica,42.24417,-83.62111
 415970998,Carex_pensylvanica,42.33333,-71.21666
-473428982,Carex_pensylvanica,45.418414,-75.713586
 415982857,Carex_pensylvanica,44.40111,-71.07472
-1261975370,Carex_pensylvanica,45.444595,-75.709807
-473428907,Carex_pensylvanica,45.371857,-75.798583
 1989487621,Carex_pensylvanica,45.571474,-84.659457
 1261977280,Carex_pensylvanica,46.3775,-75.964444
 1038970332,Carex_pensylvanica,41.8714,-72.6736
@@ -1032,7 +1015,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320949320,Carex_pensylvanica,38.9542,-76.9236
 2265500556,Carex_pensylvanica,44.57824,-92.64565
 1989008257,Carex_pensylvanica,42.47652,-83.14909
-415970999,Carex_pensylvanica,41.03166,-72.035
 1989453380,Carex_pensylvanica,42.270872,-83.726329
 1988984767,Carex_pensylvanica,42.297051,-83.74124
 1988807673,Carex_pensylvanica,42.301733,-83.756434
@@ -1096,7 +1078,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415971001,Carex_pensylvanica,41.805,-71.47333
 415971000,Carex_pensylvanica,42.43194,-71.15638
 1038954053,Carex_pensylvanica,41.3707,-72.1476
-1988646478,Carex_pensylvanica,40.61566,-73.729576
 1038950265,Carex_pensylvanica,41.3818,-72.8575
 1228322952,Carex_pensylvanica,41.784114,-87.601171
 1321967046,Carex_pensylvanica,39.0389,-76.8833
@@ -1111,7 +1092,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1228410209,Carex_pensylvanica,40.093119,-83.017962
 1228462191,Carex_pensylvanica,40.693649,-89.588986
 1228336603,Carex_pensylvanica,41.893158,-70.911152
-1228616706,Carex_pensylvanica,44.142194,-120.356584
 2265500103,Carex_pensylvanica,44.912528,-93.217261
 1228417389,Carex_pensylvanica,40.929759,-89.757602
 1927971362,Carex_pensylvanica,40.517012,-80.221448
