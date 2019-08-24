@@ -48,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265460072,Petasites_hybridus,44.90102,-93.49405
 1701326906,Petasites_hybridus,63.4303,10.5341
 1697696270,Petasites_hybridus,54.654559,39.727594
-1060569073,Petasites_hybridus,51.6,10.8
 1135458439,Petasites_hybridus,47.99972,16.27556
 1702373642,Petasites_hybridus,59.729,10.2112
 1839054016,Petasites_hybridus,39.950001,21.243059
@@ -67,7 +66,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900315831,Petasites_hybridus,57.8854,11.5781
 1851924443,Petasites_hybridus,47.358154,10.160766
 1851335518,Petasites_hybridus,42.996,-4.552
-1095900715,Petasites_hybridus,54,12
 1705424611,Petasites_hybridus,55.723457,13.18619
 1056629661,Petasites_hybridus,51.539527,-0.332096
 1702106799,Petasites_hybridus,61.1843,10.3363
@@ -80,7 +78,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323861739,Petasites_hybridus,68.7848,16.5595
 1697748364,Petasites_hybridus,44.580556,33.736111
 2319586240,Petasites_hybridus,63.432435,10.415067
-415963485,Petasites_hybridus,42.7,-72.83333
 1697845974,Petasites_hybridus,43.924167,41.366972
 1144049650,Petasites_hybridus,60.3428,5.3487
 286837902,Petasites_hybridus,52.326942,13.188611
@@ -147,9 +144,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701221517,Petasites_hybridus,64.3563,11.528
 1697845995,Petasites_hybridus,44.577778,37.979167
 442034411,Petasites_hybridus,51.08353,14.976389
-786204236,Petasites_hybridus,46.7,9.6
 442034901,Petasites_hybridus,52.123055,11.636666
-786204242,Petasites_hybridus,48.8,9.7
 1657196735,Petasites_hybridus,47.52528,14.94333
 1701565379,Petasites_hybridus,66.1379,13.8118
 1702213843,Petasites_hybridus,59.6645,10.7511
@@ -165,7 +160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839053453,Petasites_hybridus,40.486389,22.184441
 186826396,Petasites_hybridus,58.5909,9.0258
 1702025604,Petasites_hybridus,59.9461,10.7176
-786204246,Petasites_hybridus,54.1,13.4
 442032786,Petasites_hybridus,51.645195,10.987062
 1701300415,Petasites_hybridus,63.4363,10.4722
 1848987775,Petasites_hybridus,43.88222,11.23167
@@ -233,7 +227,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701224981,Petasites_hybridus,63.615,9.7361
 1144178978,Petasites_hybridus,60.4698,5.3343
 1701292411,Petasites_hybridus,63.4501,10.4668
-1947365907,Petasites_hybridus,50.33,10.2
 1144172303,Petasites_hybridus,62.7457,7.2285
 442033755,Petasites_hybridus,51.759018,12.595591
 442033747,Petasites_hybridus,50.098331,8.241111
@@ -243,7 +236,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831296031,Petasites_hybridus,53.4485,11.7486
 186825576,Petasites_hybridus,58.1624,8.0254
 1999503223,Petasites_hybridus,60.385334,21.917347
-1897752936,Petasites_hybridus,-35.1,173.216667
 318682936,Petasites_hybridus,60.799623,11.1255
 1599422481,Petasites_hybridus,60.998674,24.463702
 1599422477,Petasites_hybridus,63.073369,21.722723
@@ -256,13 +248,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702223298,Petasites_hybridus,59.6663,10.7529
 1947365909,Petasites_hybridus,50.42,9.87
 1599422474,Petasites_hybridus,60.206099,24.64325
-442033703,Petasites_hybridus,50.25,19
 442033691,Petasites_hybridus,51.054443,13.739166
 788725238,Petasites_hybridus,58.590002,16.189225
 1697655982,Petasites_hybridus,54.191269,35.979195
 2319599097,Petasites_hybridus,61.187017,10.334516
 318682937,Petasites_hybridus,61.414806,6.159663
-1144737379,Petasites_hybridus,42.3,9.15
 1697845985,Petasites_hybridus,44.09564,39.073553
 1705397216,Petasites_hybridus,57.757709,16.678698
 1599422479,Petasites_hybridus,60.225297,24.714077
@@ -277,7 +267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848987190,Petasites_hybridus,48.75444,21.27917
 1848987574,Petasites_hybridus,48.85694,21.15611
 1701222054,Petasites_hybridus,59.2169,9.5692
-1144737361,Petasites_hybridus,42.3,9.16667
 1701227636,Petasites_hybridus,63.4129,10.3718
 1599422480,Petasites_hybridus,62.558503,23.058011
 1323819607,Petasites_hybridus,66.3121,13.9974
@@ -286,7 +275,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323819589,Petasites_hybridus,66.3161,13.996
 1697656013,Petasites_hybridus,54.191261,35.955777
 1599422465,Petasites_hybridus,62.443372,23.10132
-1060568921,Petasites_hybridus,47.6,10.9
 1935708278,Petasites_hybridus,47.17222,15.27917
 1697656062,Petasites_hybridus,57.87612,37.967895
 788666504,Petasites_hybridus,55.97043,13.85847
@@ -309,13 +297,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599422483,Petasites_hybridus,61.457859,23.55465
 1253403941,Petasites_hybridus,52.4033,13.0456
 1077082143,Petasites_hybridus,51.752296,12.512225
-1060568904,Petasites_hybridus,50.1,8.9
 415993306,Petasites_hybridus,41.58694,-73.40833
 1848986785,Petasites_hybridus,48.45,16.45
 1701337143,Petasites_hybridus,63.4337,10.494
 1999503148,Petasites_hybridus,60.376121,22.798537
 1702423587,Petasites_hybridus,59.7316,10.2138
-1060568937,Petasites_hybridus,48.4,11.7
 1702423517,Petasites_hybridus,61.2446,10.0714
 950249,Petasites_hybridus,57.28948,15.7457
 1701920354,Petasites_hybridus,58.6075,9.0258
@@ -332,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288283164,Petasites_hybridus,52.05,-1.083333
 1099901876,Petasites_hybridus,56.6375,9.795833
 1144737357,Petasites_hybridus,42.21667,9.33333
-788765301,Petasites_hybridus,39.8,21.183333
 2291813210,Petasites_hybridus,50.452,6.102
 1702335561,Petasites_hybridus,59.92224,10.50728
 1144205856,Petasites_hybridus,60.272,5.3985
@@ -342,7 +327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144737375,Petasites_hybridus,42.21667,9.31667
 1697656031,Petasites_hybridus,56.277662,42.063367
 1599422519,Petasites_hybridus,61.752205,23.303949
-1060569089,Petasites_hybridus,50.6,6.8
 1701332985,Petasites_hybridus,59.9089,10.6002
 186825569,Petasites_hybridus,58.1579,8.0323
 1599422517,Petasites_hybridus,60.273414,24.909568
@@ -355,14 +339,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599422523,Petasites_hybridus,61.488467,23.523209
 2288668077,Petasites_hybridus,47.161667,8.571667
 1999503292,Petasites_hybridus,60.451459,22.233757
-899793305,Petasites_hybridus,54.4,10.2
 2291306070,Petasites_hybridus,47.166667,8.566667
 1622363248,Petasites_hybridus,63.094999,21.616566
 1599422521,Petasites_hybridus,63.132517,21.540172
 1999503187,Petasites_hybridus,60.447311,22.243462
 788724832,Petasites_hybridus,58.277728,14.655851
 1701264646,Petasites_hybridus,63.4312,10.493
-786204301,Petasites_hybridus,47.9,15.1
 1099900304,Petasites_hybridus,56.153056,10.106667
 788706739,Petasites_hybridus,55.897498,13.415754
 1701243792,Petasites_hybridus,66.43901,14.34921
@@ -380,7 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186825578,Petasites_hybridus,58.1549,8.04
 788725001,Petasites_hybridus,61.86837,17.3145
 1288113552,Petasites_hybridus,50.650995,8.572999
-786204295,Petasites_hybridus,50.5,7
 1831296161,Petasites_hybridus,53.6485,11.4153
 788667538,Petasites_hybridus,59.36291,18.19358
 1705419504,Petasites_hybridus,57.781999,14.159527
@@ -390,7 +371,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599422457,Petasites_hybridus,60.457546,22.278371
 1701498656,Petasites_hybridus,60.3529,5.1858
 1144205828,Petasites_hybridus,60.3537,5.187
-786204290,Petasites_hybridus,47.1,10.9
 1099905206,Petasites_hybridus,55.6825,11.101111
 788712173,Petasites_hybridus,56.134164,13.965605
 1705318253,Petasites_hybridus,55.556993,14.348888
@@ -546,7 +526,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788727922,Petasites_hybridus,56.173892,13.971434
 788678659,Petasites_hybridus,55.54952,14.32541
 788713853,Petasites_hybridus,55.62899,13.51704
-1099057732,Petasites_hybridus,49.016666,12.1
 788724693,Petasites_hybridus,55.707689,13.963167
 788709543,Petasites_hybridus,56.13837,13.9737
 1702423584,Petasites_hybridus,63.5749,10.6113
@@ -576,15 +555,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999657469,Petasites_hybridus,60.059449,23.85445
 788676358,Petasites_hybridus,55.688171,13.07933
 1701763464,Petasites_hybridus,59.7349,5.6998
-786204270,Petasites_hybridus,48.5,10.9
 21237321,Petasites_hybridus,59.29569,10.43859
 1701928307,Petasites_hybridus,59.7423,5.7115
 1702423551,Petasites_hybridus,59.7386,5.7074
-786204283,Petasites_hybridus,49,12
 899808388,Petasites_hybridus,49.033976,11.061771
 788708176,Petasites_hybridus,58.13865,12.10382
 1705444791,Petasites_hybridus,58.296492,14.656691
-786204318,Petasites_hybridus,52.2,12.8
 1701243048,Petasites_hybridus,60.2724,6.0075
 788667595,Petasites_hybridus,59.357916,18.496756
 1848378049,Petasites_hybridus,54.3484,13.0817
@@ -610,7 +586,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788725608,Petasites_hybridus,59.3301,15.54414
 1705296353,Petasites_hybridus,56.428162,13.310137
 1144205835,Petasites_hybridus,60.3516,5.3445
-786204253,Petasites_hybridus,48,8.2
 788662258,Petasites_hybridus,55.62233,13.12635
 788731457,Petasites_hybridus,56.228862,13.027664
 39468406,Petasites_hybridus,65.66035,-18.08152
@@ -632,19 +607,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788712356,Petasites_hybridus,55.56881,13.04092
 788733604,Petasites_hybridus,59.28576,15.19672
 788725890,Petasites_hybridus,55.725755,13.069942
-786204218,Petasites_hybridus,48.7,19.5
 187214346,Petasites_hybridus,59.7617,10.2194
 1705397514,Petasites_hybridus,56.646843,14.915187
 788731396,Petasites_hybridus,55.47355,13.22789
-786204250,Petasites_hybridus,49.6,8.6
 788725346,Petasites_hybridus,59.490698,18.056657
 788722914,Petasites_hybridus,59.32157,17.88691
-786204279,Petasites_hybridus,49.6,8.7
 788726474,Petasites_hybridus,55.45139,13.77838
 1599422516,Petasites_hybridus,62.244977,25.746254
 788727398,Petasites_hybridus,59.36316,17.04286
 1599422507,Petasites_hybridus,61.070051,25.051918
-786204311,Petasites_hybridus,50.9,8
 1705258273,Petasites_hybridus,58.371956,13.834873
 788722801,Petasites_hybridus,59.35109,18.14662
 788730673,Petasites_hybridus,55.43669,13.92656
@@ -654,7 +625,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702423588,Petasites_hybridus,59.26671,9.48765
 1144737377,Petasites_hybridus,42.28333,9.16667
 788706798,Petasites_hybridus,55.639493,13.152884
-415908959,Petasites_hybridus,42.3,-71.08333
 788725832,Petasites_hybridus,56.21453,14.01553
 788450807,Petasites_hybridus,57.64303,18.32273
 1705373445,Petasites_hybridus,58.389095,13.846897
@@ -711,7 +681,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705412931,Petasites_hybridus,58.619739,16.178966
 788667424,Petasites_hybridus,59.81779,17.71827
 788667825,Petasites_hybridus,58.61974,16.17897
-786204221,Petasites_hybridus,49.8,9.5
 1599422492,Petasites_hybridus,61.497517,23.898058
 474731595,Petasites_hybridus,50.345,3.71
 788725289,Petasites_hybridus,59.30047,18.27708
