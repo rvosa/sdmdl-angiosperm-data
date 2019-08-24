@@ -20,7 +20,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265474272,Hormathophylla_spinosa,40.1605,-2.0709
 1936246860,Hormathophylla_spinosa,37.0925,-3.3827
 1936195204,Hormathophylla_spinosa,37.8633,-1.5761
-1936210048,Hormathophylla_spinosa,30.7437,-7.7069
 1702507034,Hormathophylla_spinosa,42.83,-5.77
 1851361801,Hormathophylla_spinosa,42.838,-5.771
 2289066063,Hormathophylla_spinosa,43.819667,3.730833
@@ -35,7 +34,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895198167,Hormathophylla_spinosa,40.43,-1.568
 199483563,Hormathophylla_spinosa,36.972,-4.23
 204403021,Hormathophylla_spinosa,37.329,-3.48
-1936664549,Hormathophylla_spinosa,31.1836,-7.8608
 199483562,Hormathophylla_spinosa,36.991,-4.208
 860312782,Hormathophylla_spinosa,41.5022,0.0588
 2288736363,Hormathophylla_spinosa,38.657833,-0.241667
@@ -65,7 +63,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111307730,Hormathophylla_spinosa,40.849998,0.33
 1936666639,Hormathophylla_spinosa,42.098,-3.5213
 30870722,Hormathophylla_spinosa,37.049999,-3.34
-143007091,Hormathophylla_spinosa,42.061,3.139
 30965300,Hormathophylla_spinosa,41.39,-1.59
 1936565749,Hormathophylla_spinosa,42.831,-5.7786
 30870616,Hormathophylla_spinosa,37.310001,-4.35
@@ -96,7 +93,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30870410,Hormathophylla_spinosa,36.950001,-4.35
 30668050,Hormathophylla_spinosa,36.861,-2.815
 30963917,Hormathophylla_spinosa,36.96,-3.34
-2242417891,Hormathophylla_spinosa,39.73193,-104.9619
 199483087,Hormathophylla_spinosa,37.942,-2.562
 1842858201,Hormathophylla_spinosa,35.1365,-5.153
 1842872486,Hormathophylla_spinosa,35.13,-5.15
@@ -131,7 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30870409,Hormathophylla_spinosa,37.049999,-3.11
 1050587731,Hormathophylla_spinosa,41.95,-3.44
 1936397923,Hormathophylla_spinosa,41.873,-2.5072
-1842901017,Hormathophylla_spinosa,31.31,-7.37
 1851319150,Hormathophylla_spinosa,42.82,-5.75
 895185669,Hormathophylla_spinosa,40.22,-0.59
 1936396848,Hormathophylla_spinosa,41.5631,-1.9579
@@ -166,7 +161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1502020124,Hormathophylla_spinosa,40.22,-0.36
 1936399808,Hormathophylla_spinosa,37.674,-3.5682
 1936399709,Hormathophylla_spinosa,37.7282,-3.5346
-1936145809,Hormathophylla_spinosa,31.2,-7.8333
 1502032008,Hormathophylla_spinosa,40.66,-0.22
 30870408,Hormathophylla_spinosa,37.310001,-4.24
 1851398000,Hormathophylla_spinosa,37.63,-2.38
@@ -177,8 +171,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895257661,Hormathophylla_spinosa,38.87,-0.41
 111301120,Hormathophylla_spinosa,37.880001,-1.527
 1936370731,Hormathophylla_spinosa,38.0265,-2.7278
-2242369754,Hormathophylla_spinosa,39.730448,-104.960803
-1936079110,Hormathophylla_spinosa,35.3401,-2.7041
 1936079280,Hormathophylla_spinosa,34.2853,-2.8274
 29677878,Hormathophylla_spinosa,42.941,-5.972
 111307843,Hormathophylla_spinosa,42.941002,-5.972
@@ -242,13 +234,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936570761,Hormathophylla_spinosa,37.0894,-3.035
 318114346,Hormathophylla_spinosa,40.24,-1.88
 1936203351,Hormathophylla_spinosa,40.2115,-1.9202
-1842909770,Hormathophylla_spinosa,31.56,-6.42
 30964520,Hormathophylla_spinosa,38.51,-0.65
 1501863612,Hormathophylla_spinosa,38.6,-0.53
 30964526,Hormathophylla_spinosa,38.51,-0.53
-1891607665,Hormathophylla_spinosa,31.79,-7.09
-1929710752,Hormathophylla_spinosa,40.864591,-73.877952
-1929215525,Hormathophylla_spinosa,40.862289,-73.877023
 1935911581,Hormathophylla_spinosa,36.904,-4.1125
 1935911082,Hormathophylla_spinosa,41.7119,-3.0614
 1935911607,Hormathophylla_spinosa,36.7504,-5.3647
