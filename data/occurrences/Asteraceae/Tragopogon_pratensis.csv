@@ -10,7 +10,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989382637,Tragopogon_pratensis,42.651222,-86.112361
 1993797380,Tragopogon_pratensis,49.4929399990686,-114.39313
 1844884763,Tragopogon_pratensis,41.437778,24.28083
-1844870887,Tragopogon_pratensis,42.6,-2.76
 2244175738,Tragopogon_pratensis,51.321945,9.439445
 1990838611,Tragopogon_pratensis,58.7309,5.6705
 1839100357,Tragopogon_pratensis,39.070278,20.762501
@@ -23,7 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839100658,Tragopogon_pratensis,39.364441,21.563061
 1839100436,Tragopogon_pratensis,39.370281,21.59333
 1989359778,Tragopogon_pratensis,43.895955,-85.850684
-1882107110,Tragopogon_pratensis,50.1,10.8
 1658404029,Tragopogon_pratensis,58.16807,26.76981
 1658228818,Tragopogon_pratensis,46.09027,-64.76973
 1805099377,Tragopogon_pratensis,60.6375,10.5982
@@ -106,7 +104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705429174,Tragopogon_pratensis,55.738031,13.157263
 2313327066,Tragopogon_pratensis,48.14,11.44
 1454491839,Tragopogon_pratensis,42.8811246030864,-2.58513217529145
-899805381,Tragopogon_pratensis,48.2,8.9
 1843913604,Tragopogon_pratensis,36.11229,-105.49548
 860310210,Tragopogon_pratensis,42.69001,0.94101
 900314024,Tragopogon_pratensis,59.3921,10.6737
@@ -120,7 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697698970,Tragopogon_pratensis,56.511111,39.883333
 1270043554,Tragopogon_pratensis,50.753201,13.616938
 2313309997,Tragopogon_pratensis,48.17,11.37
-1050649127,Tragopogon_pratensis,42.85,-2.6
 1705418957,Tragopogon_pratensis,57.258238,16.475306
 286838852,Tragopogon_pratensis,52.586945,13.133056
 1144049376,Tragopogon_pratensis,60.98132,10.78957
@@ -156,14 +152,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343065482,Tragopogon_pratensis,57.324971,10.285693
 214574200,Tragopogon_pratensis,52.498055,14.439722
 1343065409,Tragopogon_pratensis,55.5515,8.46772
-1949652497,Tragopogon_pratensis,50.983333,-118.2
 1839092941,Tragopogon_pratensis,39.208061,21.858061
 1212210273,Tragopogon_pratensis,39.208056,21.858056
 1839092718,Tragopogon_pratensis,40.006939,21.490829
 1212210404,Tragopogon_pratensis,40.006944,21.490833
 1212210316,Tragopogon_pratensis,40.104444,21.343056
 1839092714,Tragopogon_pratensis,40.104439,21.34306
-786284111,Tragopogon_pratensis,48.4,9.2
 1270043616,Tragopogon_pratensis,50.926384,14.38513
 1212210442,Tragopogon_pratensis,39.170278,21.896667
 1701551429,Tragopogon_pratensis,43.88222,11.23167
@@ -183,7 +177,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212210283,Tragopogon_pratensis,39.979444,21.511944
 1839093114,Tragopogon_pratensis,39.063061,21.860559
 214574208,Tragopogon_pratensis,51.804443,12.650833
-786284369,Tragopogon_pratensis,51,14.6
 2308917693,Tragopogon_pratensis,45.19,-81.42
 1212210373,Tragopogon_pratensis,39.018333,21.865
 1839092585,Tragopogon_pratensis,39.065559,21.533609
@@ -237,11 +230,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 214574201,Tragopogon_pratensis,52.330833,13.157778
 214574202,Tragopogon_pratensis,52.625275,13.373334
 1949444386,Tragopogon_pratensis,51.438587,10.572929
-1060606244,Tragopogon_pratensis,53.2,11.3
 1253404691,Tragopogon_pratensis,51.936039,11.786434
-786284354,Tragopogon_pratensis,48.8,9.9
 895231522,Tragopogon_pratensis,39.778,-0.741
-786284118,Tragopogon_pratensis,48.3,8.9
 1050641005,Tragopogon_pratensis,42.81,-2.71
 1701273324,Tragopogon_pratensis,60.8002,11.037
 1705356976,Tragopogon_pratensis,57.679599,14.935269
@@ -299,7 +289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343065493,Tragopogon_pratensis,57.292934,9.819967
 22439701,Tragopogon_pratensis,46.5671,4.90051
 1323847095,Tragopogon_pratensis,59.9427,9.712
-993577843,Tragopogon_pratensis,46,6.4167
 1343065517,Tragopogon_pratensis,57.190259,10.28101
 1343065522,Tragopogon_pratensis,57.355239,9.90446
 1343065549,Tragopogon_pratensis,57.416805,10.072467
@@ -315,7 +304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343065483,Tragopogon_pratensis,56.774526,9.105031
 1343065443,Tragopogon_pratensis,55.175233,9.069391
 211640245,Tragopogon_pratensis,43.23,-4.75
-1697698979,Tragopogon_pratensis,55.683333,31.9
 1702191171,Tragopogon_pratensis,59.6127,11.2607
 1701304136,Tragopogon_pratensis,61.1697,10.4035
 1697699035,Tragopogon_pratensis,53.232891,41.368254
@@ -333,7 +321,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843839345,Tragopogon_pratensis,35.10293,-106.361728
 1050624144,Tragopogon_pratensis,41.79,-1.76
 1343065451,Tragopogon_pratensis,57.00812,8.924573
-1050624119,Tragopogon_pratensis,41.8,-1.81
 1343065391,Tragopogon_pratensis,55.470418,8.421358
 1988835097,Tragopogon_pratensis,43.51277,-85.49936
 1343065579,Tragopogon_pratensis,55.32651,11.181792
@@ -394,7 +381,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455282811,Tragopogon_pratensis,49.19,12.11
 1343065492,Tragopogon_pratensis,54.85998,9.427155
 1343065597,Tragopogon_pratensis,55.83184,12.45222
-2270681716,Tragopogon_pratensis,35.3833,-111.6
 1038951234,Tragopogon_pratensis,41.3708,-72.1475
 1697698980,Tragopogon_pratensis,58.37261,45.633078
 186841607,Tragopogon_pratensis,58.629,8.8545
@@ -491,7 +477,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343065601,Tragopogon_pratensis,55.606805,11.959517
 1599183572,Tragopogon_pratensis,60.654539,25.997678
 1050605428,Tragopogon_pratensis,42.79,-0.32
-1502023468,Tragopogon_pratensis,40.4,-0.35
 1343063378,Tragopogon_pratensis,56.369658,9.395315
 1343065553,Tragopogon_pratensis,56.391695,10.173078
 1050605443,Tragopogon_pratensis,43.02,-3.09
@@ -523,7 +508,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788764112,Tragopogon_pratensis,55.713746,14.15062
 1050659221,Tragopogon_pratensis,42.69,-2.93
 1343065513,Tragopogon_pratensis,56.27889,9.620486
-786284038,Tragopogon_pratensis,54.1,13.4
 1343063435,Tragopogon_pratensis,56.288031,9.588325
 1343063320,Tragopogon_pratensis,56.316369,9.055274
 1343065489,Tragopogon_pratensis,56.287953,9.604478
@@ -543,11 +527,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1343065581,Tragopogon_pratensis,55.454156,11.552614
 1343063546,Tragopogon_pratensis,57.111844,10.014106
 1343065419,Tragopogon_pratensis,55.264799,8.723346
-1502029010,Tragopogon_pratensis,40.3,-0.12
 1502027415,Tragopogon_pratensis,40.39,-0.23
 1343064028,Tragopogon_pratensis,55.784942,12.359575
 1839093038,Tragopogon_pratensis,38.694172,21.598061
-895240927,Tragopogon_pratensis,40.66,0.1
 895240984,Tragopogon_pratensis,40.57,0.11
 788767855,Tragopogon_pratensis,56.19402,14.09527
 1599183568,Tragopogon_pratensis,61.024755,24.411561
@@ -587,10 +569,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705283210,Tragopogon_pratensis,57.641648,16.575443
 1050632648,Tragopogon_pratensis,42.67,-1.85
 1705341074,Tragopogon_pratensis,57.351942,15.569327
-1804540747,Tragopogon_pratensis,45.3,-75.55
-1050658968,Tragopogon_pratensis,42.8,-2.13
 1705319746,Tragopogon_pratensis,57.426451,15.089443
-668751302,Tragopogon_pratensis,47.4,-70.390556
 1899275103,Tragopogon_pratensis,47.066667,-79.783333
 1502022206,Tragopogon_pratensis,40.31,-0.35
 204438193,Tragopogon_pratensis,42.798,-1.453
@@ -603,13 +582,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842848951,Tragopogon_pratensis,40.94,0.33
 1050605424,Tragopogon_pratensis,42.86,-0.82
 1053983717,Tragopogon_pratensis,42.63,-1.22
-1502025434,Tragopogon_pratensis,40.3,-0.23
 441945293,Tragopogon_pratensis,51.054443,13.739166
 1599183560,Tragopogon_pratensis,61.106436,24.273145
 1820374110,Tragopogon_pratensis,46.135556,-60.219167
 204438198,Tragopogon_pratensis,42.948002,-1.265
 1599183554,Tragopogon_pratensis,63.166176,29.478969
-786284105,Tragopogon_pratensis,50.5,10.6
 204438197,Tragopogon_pratensis,42.537998,-1.533
 899814530,Tragopogon_pratensis,50.88184,11.133843
 204438196,Tragopogon_pratensis,42.634998,-1.372
@@ -620,7 +597,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860309678,Tragopogon_pratensis,42.772,-0.513
 1599183551,Tragopogon_pratensis,60.41017,22.467019
 204438199,Tragopogon_pratensis,43.028,-1.177
-204438201,Tragopogon_pratensis,42.879002,-0.9
 1050605433,Tragopogon_pratensis,42.81,-2.68
 1599183564,Tragopogon_pratensis,60.206099,24.64325
 1851359812,Tragopogon_pratensis,43.01,-6.36
@@ -646,12 +622,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1806557157,Tragopogon_pratensis,42.689057,-1.584721
 1599183550,Tragopogon_pratensis,60.985237,24.411081
 1262035338,Tragopogon_pratensis,45.763903,-73.815427
-473445624,Tragopogon_pratensis,45.5,-73.6
 1697698968,Tragopogon_pratensis,55.57785,37.569677
 1806557168,Tragopogon_pratensis,42.846142,-1.752532
 668751311,Tragopogon_pratensis,46.726389,-71.3375
 204438239,Tragopogon_pratensis,42.834999,-2.676
-1050658949,Tragopogon_pratensis,43.1,-2.58
 1701898023,Tragopogon_pratensis,59.7035,10.6171
 1050605394,Tragopogon_pratensis,42.83,-2.67
 1228393481,Tragopogon_pratensis,41.850033,-87.650052
@@ -721,7 +695,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262004672,Tragopogon_pratensis,46.78786,-71.286387
 1050605422,Tragopogon_pratensis,42.86,-2.33
 1262033680,Tragopogon_pratensis,46.787845,-71.286382
-1851351053,Tragopogon_pratensis,42.56,-5.5
 1599183543,Tragopogon_pratensis,62.315223,27.874157
 668751339,Tragopogon_pratensis,46.778611,-71.277778
 2265413632,Tragopogon_pratensis,45.072211,-92.853163
@@ -735,7 +708,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2242368199,Tragopogon_pratensis,39.688471,-105.367362
 1843807579,Tragopogon_pratensis,33.460989,-105.736875
 1806129730,Tragopogon_pratensis,42.81189,-1.662747
-211639636,Tragopogon_pratensis,43.049999,-6.3
 1050605445,Tragopogon_pratensis,42.73,-2.75
 1899382809,Tragopogon_pratensis,45.016667,-79.616667
 204438238,Tragopogon_pratensis,42.736,-2.75
@@ -745,7 +717,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843807685,Tragopogon_pratensis,35.655663,-108.323227
 1050605427,Tragopogon_pratensis,42.97,-3.03
 1851332879,Tragopogon_pratensis,42.82,-5.87
-899805419,Tragopogon_pratensis,51.6,10
 1622361701,Tragopogon_pratensis,63.050657,21.753743
 1842853954,Tragopogon_pratensis,42.48,1.24
 1999495887,Tragopogon_pratensis,60.457546,22.278371
@@ -765,7 +736,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846481011,Tragopogon_pratensis,34.37837,-111.28378
 1261992649,Tragopogon_pratensis,48.454618,-71.831259
 415911542,Tragopogon_pratensis,41.82722,-73.25166
-1851384922,Tragopogon_pratensis,42.82,-6
 1697699008,Tragopogon_pratensis,55.723579,38.426311
 1697699024,Tragopogon_pratensis,55.720467,38.379057
 1705419505,Tragopogon_pratensis,57.850182,14.114138
@@ -782,7 +752,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260854028,Tragopogon_pratensis,49.28333,4.68333
 1988100954,Tragopogon_pratensis,49.62,-116.99
 1702270814,Tragopogon_pratensis,59.2326,10.9015
-211639763,Tragopogon_pratensis,43.049999,-6
 1655995150,Tragopogon_pratensis,38.833333,22.283333
 1261312991,Tragopogon_pratensis,40.958,-90.072
 1842847045,Tragopogon_pratensis,42.31,2.21
@@ -794,30 +763,25 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1655995031,Tragopogon_pratensis,40.933333,24.133333
 1599183678,Tragopogon_pratensis,61.150555,24.489639
 1599183692,Tragopogon_pratensis,60.941144,23.213782
-1655995043,Tragopogon_pratensis,40.933333,24.1
 1842863027,Tragopogon_pratensis,42.31,2.09
 1144128785,Tragopogon_pratensis,60.13253,9.49842
 1697698890,Tragopogon_pratensis,59.458172,29.400949
-1988080893,Tragopogon_pratensis,52.1,-122.6
 1261979314,Tragopogon_pratensis,48.433333,-70.816667
 668751333,Tragopogon_pratensis,46.776667,-71.276667
 1099093380,Tragopogon_pratensis,47.583332,10.583333
 1701831486,Tragopogon_pratensis,59.1241,11.3796
 1851407730,Tragopogon_pratensis,42.74,-5.63
 1851395989,Tragopogon_pratensis,42.65,-5.38
-1842864431,Tragopogon_pratensis,42.4,2.21
 2287997163,Tragopogon_pratensis,50.452,6.102
 1701868347,Tragopogon_pratensis,59.3033,10.8878
 788767315,Tragopogon_pratensis,56.973814,12.628422
 924821799,Tragopogon_pratensis,38.88178,-78.50584
 187268078,Tragopogon_pratensis,59.5607,10.4244
-1060606432,Tragopogon_pratensis,50.6,6.8
 924821781,Tragopogon_pratensis,46.48833,-95.53222
 1999495823,Tragopogon_pratensis,60.44189,22.344333
 2313350714,Tragopogon_pratensis,48.17,11.54
 1099870888,Tragopogon_pratensis,60.485833,22.168889
 1843807438,Tragopogon_pratensis,35.174505,-106.376689
-786284422,Tragopogon_pratensis,50.6,6.9
 1261005025,Tragopogon_pratensis,38.82,-90.346111
 1144128784,Tragopogon_pratensis,58.88222,5.85054
 1599183534,Tragopogon_pratensis,60.887602,24.593126
@@ -850,7 +814,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1248701371,Tragopogon_pratensis,45.516667,-73.65
 1144128752,Tragopogon_pratensis,61.002,11.11167
 1599183538,Tragopogon_pratensis,62.438901,22.249612
-786284419,Tragopogon_pratensis,47.8,15
 788789292,Tragopogon_pratensis,58.957198,15.05961
 465931462,Tragopogon_pratensis,44.388594,-76.473234
 812033196,Tragopogon_pratensis,50.650267,9.1705
@@ -858,9 +821,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599183532,Tragopogon_pratensis,63.114661,30.068518
 1228472346,Tragopogon_pratensis,42.107574,-87.741045
 473538416,Tragopogon_pratensis,47.983333,-66.783333
-473538420,Tragopogon_pratensis,46.85,-67.7
 1599183670,Tragopogon_pratensis,61.152375,21.514117
-786284407,Tragopogon_pratensis,47.5,12
 1978897880,Tragopogon_pratensis,43.589753,-84.797609
 668751336,Tragopogon_pratensis,46.816667,-71.216667
 1988073683,Tragopogon_pratensis,46.81,-71.21
@@ -888,12 +849,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599183659,Tragopogon_pratensis,61.59517,24.265264
 1599183658,Tragopogon_pratensis,60.504177,26.460046
 1599183536,Tragopogon_pratensis,61.383449,22.97301
-1988164244,Tragopogon_pratensis,50.8,-121.7
 1599183531,Tragopogon_pratensis,62.209762,23.632821
 1599183530,Tragopogon_pratensis,60.710804,24.752952
 1261971292,Tragopogon_pratensis,46.773063,-71.256406
 1701958170,Tragopogon_pratensis,59.9026,10.4927
-1804395854,Tragopogon_pratensis,45.9,-82.25
 1599183589,Tragopogon_pratensis,61.076988,28.386546
 1843807324,Tragopogon_pratensis,35.384066,-105.585699
 1843806886,Tragopogon_pratensis,36.544988,-106.100189
@@ -911,7 +870,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261960438,Tragopogon_pratensis,46.766,-71.261
 788768465,Tragopogon_pratensis,59.618397,17.722838
 924821787,Tragopogon_pratensis,38.00844,-96.16389
-1261959421,Tragopogon_pratensis,46.7,-71.4
 1599183580,Tragopogon_pratensis,62.244977,25.746254
 1599183544,Tragopogon_pratensis,59.981588,23.440458
 1073543,Tragopogon_pratensis,57.69422,14.98373
@@ -949,13 +907,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57728249,Tragopogon_pratensis,61.169899,25.9748
 2265415275,Tragopogon_pratensis,45.405937,-93.173147
 924821773,Tragopogon_pratensis,37.18323,-97.47478
-1949608846,Tragopogon_pratensis,50.45,-119.2
 1697699059,Tragopogon_pratensis,55.607042,58.309463
 1697699057,Tragopogon_pratensis,55.551235,58.341864
 1261957037,Tragopogon_pratensis,46.810833,-71.212778
 1599183689,Tragopogon_pratensis,60.851595,23.224396
 1705264818,Tragopogon_pratensis,57.787062,16.191865
-786284076,Tragopogon_pratensis,47.8,7.9
 1999592762,Tragopogon_pratensis,60.793513,21.428402
 1697699055,Tragopogon_pratensis,55.529105,53.202978
 1701799637,Tragopogon_pratensis,60.7148,11.0123
@@ -968,8 +924,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1599183686,Tragopogon_pratensis,61.851458,23.672231
 1999495881,Tragopogon_pratensis,60.393504,22.505673
 1702270812,Tragopogon_pratensis,59.3394,10.8722
-1261979983,Tragopogon_pratensis,46.8,-71.183333
-1261953354,Tragopogon_pratensis,46.85,-71.2
 1989424737,Tragopogon_pratensis,45.260761,-84.905265
 1228250212,Tragopogon_pratensis,42.3333,-88.4667
 860321466,Tragopogon_pratensis,42.3688,-0.1197
@@ -1048,7 +1002,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842907223,Tragopogon_pratensis,41.68,1.98
 441853620,Tragopogon_pratensis,47.119655,-117.92693
 441853635,Tragopogon_pratensis,48.15389,-118.16806
-1988154180,Tragopogon_pratensis,53.9,-122.8
 1622361747,Tragopogon_pratensis,63.811151,23.036307
 1599183634,Tragopogon_pratensis,62.313356,21.303044
 1701763084,Tragopogon_pratensis,63.868,11.2895
@@ -1064,13 +1017,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415911527,Tragopogon_pratensis,41.72777,-72.84083
 1599183631,Tragopogon_pratensis,61.053533,24.126848
 788774261,Tragopogon_pratensis,55.428153,14.110889
-786284062,Tragopogon_pratensis,50.9,8
 1699915593,Tragopogon_pratensis,59.1331,11.4028
 1599183706,Tragopogon_pratensis,60.893678,23.654069
 1073972,Tragopogon_pratensis,56.161144,15.58764
 1599183629,Tragopogon_pratensis,60.77183,23.601174
 1599183515,Tragopogon_pratensis,62.047018,24.415994
-1842877439,Tragopogon_pratensis,42.23,2.7
 1039018457,Tragopogon_pratensis,41.3961,-72.9217
 788768096,Tragopogon_pratensis,55.964191,13.248577
 1701717499,Tragopogon_pratensis,59.4122,11.3697
@@ -1093,7 +1044,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788761007,Tragopogon_pratensis,57.691615,12.308359
 415911529,Tragopogon_pratensis,41.84722,-73.29111
 1599183698,Tragopogon_pratensis,61.975464,29.049508
-1261951194,Tragopogon_pratensis,45.4,-72.733333
 788774080,Tragopogon_pratensis,55.99079,12.80592
 2265414891,Tragopogon_pratensis,46.82132,-92.05273
 1988942173,Tragopogon_pratensis,42.416278,-83.15925
@@ -1121,7 +1071,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702270873,Tragopogon_pratensis,59.2589,10.853
 1099896479,Tragopogon_pratensis,56.59572,14.32419
 57728234,Tragopogon_pratensis,61.6166,24.216
-1988181993,Tragopogon_pratensis,50.9,-120.58
 1701868439,Tragopogon_pratensis,59.1335,11.4554
 1599183520,Tragopogon_pratensis,60.219461,23.974408
 788765804,Tragopogon_pratensis,58.90582,11.938271
@@ -1187,7 +1136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1989153250,Tragopogon_pratensis,47.237426,-88.443172
 1988727523,Tragopogon_pratensis,44.77293,-85.40397
 1697699053,Tragopogon_pratensis,55.588372,44.49828
-786284069,Tragopogon_pratensis,49.5,8.3
 1073930,Tragopogon_pratensis,56.20219,15.56228
 788788612,Tragopogon_pratensis,55.897498,13.415754
 1697698958,Tragopogon_pratensis,54.504539,37.047615
@@ -1296,7 +1244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705299320,Tragopogon_pratensis,59.488469,17.322651
 1599183483,Tragopogon_pratensis,60.421768,22.28357
 812033188,Tragopogon_pratensis,50.713333,9.948983
-1891593949,Tragopogon_pratensis,49.8,6.43
 1038941063,Tragopogon_pratensis,41.305,-73.3914
 1073936,Tragopogon_pratensis,56.24794,15.24992
 1039017293,Tragopogon_pratensis,41.7413,-73.1931
