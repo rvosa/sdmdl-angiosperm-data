@@ -37,7 +37,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831000971,Succisa_pratensis,48.57611,15.75472
 1144053194,Succisa_pratensis,60.2176,5.6402
 1144053242,Succisa_pratensis,60.6483,5.0772
-1095920547,Succisa_pratensis,63,12
 1697351841,Succisa_pratensis,57.113397,30.371401
 1702380538,Succisa_pratensis,62.8177,11.5972
 1701647586,Succisa_pratensis,62.4909,11.6055
@@ -115,7 +114,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144046700,Succisa_pratensis,58.3822,6.3164
 204438153,Succisa_pratensis,42.667999,0.688
 1323853635,Succisa_pratensis,67.8711,15.2381
-78874124,Succisa_pratensis,40.3,-5.77
 1702033476,Succisa_pratensis,62.6005,11.4642
 1323863976,Succisa_pratensis,67.766,15.1333
 1701327103,Succisa_pratensis,66.3904,13.1851
@@ -178,9 +176,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701675717,Succisa_pratensis,59.7651,11.1818
 1936198197,Succisa_pratensis,40.3616,-0.1513
 1638432714,Succisa_pratensis,47.065,14.37778
-1096212235,Succisa_pratensis,59,18
 1701849159,Succisa_pratensis,59.3155,11.7646
-1095900546,Succisa_pratensis,58,22
 1702002086,Succisa_pratensis,61.6649,12.006
 1702001886,Succisa_pratensis,61.6185,12.0604
 1701409256,Succisa_pratensis,62.8581,11.3423
@@ -211,9 +207,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1148596455,Succisa_pratensis,59.39972,24.28333
 1702202467,Succisa_pratensis,61.8311,11.7822
 1343030212,Succisa_pratensis,56.455168,10.110128
-991912078,Succisa_pratensis,48,8.6
 1270042730,Succisa_pratensis,50.319809,12.128027
-786279437,Succisa_pratensis,47.9,8.8
 1323763677,Succisa_pratensis,67.7918,14.9941
 1697674812,Succisa_pratensis,56.080945,40.111256
 1935727009,Succisa_pratensis,46.80361,15.87972
@@ -240,12 +234,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697947328,Succisa_pratensis,65.9885,13.4472
 1702192308,Succisa_pratensis,59.6346,11.1591
 1701839191,Succisa_pratensis,59.6054,11.1024
-1844870355,Succisa_pratensis,42.9,-4.88
 1701252391,Succisa_pratensis,63.3937,11.2918
 895298328,Succisa_pratensis,40.417,-0.719
 1849007402,Succisa_pratensis,46.575,11.45833
 1936684317,Succisa_pratensis,43.3634,-5.3215
-1397110,Succisa_pratensis,32,-16
 1999497278,Succisa_pratensis,62.214211,21.408389
 1702178027,Succisa_pratensis,59.6658,11.456
 1701829331,Succisa_pratensis,59.5244,9.4887
@@ -259,9 +251,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701626994,Succisa_pratensis,63.8661,11.2274
 1702174010,Succisa_pratensis,60.666,11.1437
 1999497296,Succisa_pratensis,62.083986,24.496005
-204438049,Succisa_pratensis,42.490002,1.6
-860319933,Succisa_pratensis,48.53,8.4
-441941786,Succisa_pratensis,57.5,18.5
 186840515,Succisa_pratensis,58.3362,7.8122
 186840513,Succisa_pratensis,59.0999,7.4891
 895168018,Succisa_pratensis,42.862,-2.639
@@ -346,7 +335,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988231983,Succisa_pratensis,49.25,-123.25
 1702434441,Succisa_pratensis,62.5543,11.3251
 1999497232,Succisa_pratensis,60.483088,22.238214
-895224190,Succisa_pratensis,40.6,-2
 1947662183,Succisa_pratensis,50.41,9.86
 1702438564,Succisa_pratensis,60.1247,12.1175
 1851329251,Succisa_pratensis,43.085,-5.156
@@ -375,9 +363,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204437935,Succisa_pratensis,42.875999,-0.729
 1502024743,Succisa_pratensis,40.49,-0.35
 211640365,Succisa_pratensis,43.389999,-5.19
-211640366,Succisa_pratensis,43.049999,-6
 211640368,Succisa_pratensis,43.360001,-5.53
-211640371,Succisa_pratensis,43.330002,-5.8
 1935727053,Succisa_pratensis,47.40167,14.91944
 1323815400,Succisa_pratensis,68.1882,13.8303
 1701246436,Succisa_pratensis,62.8121,11.5996
@@ -387,11 +373,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701785816,Succisa_pratensis,60.1833,10.7167
 1702371586,Succisa_pratensis,59.1255,11.4024
 1599238700,Succisa_pratensis,60.960826,24.546039
-2289276588,Succisa_pratensis,43.3,0.85
 2290654673,Succisa_pratensis,43.283333,0.583333
 860320535,Succisa_pratensis,42.83,0.49
 22059815,Succisa_pratensis,46.8094,4.42361
-2291963728,Succisa_pratensis,42.783333,0.4
 1323835368,Succisa_pratensis,68.2371,14.8671
 21519211,Succisa_pratensis,59.9119,10.3321
 1144178874,Succisa_pratensis,59.9033,6.4702
@@ -399,7 +383,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050617067,Succisa_pratensis,43.04,-1.63
 1702185282,Succisa_pratensis,59.9571,10.2981
 1701871982,Succisa_pratensis,59.4992,11.253
-1502023076,Succisa_pratensis,40.4,-0.35
 204438100,Succisa_pratensis,42.902,-1.218
 1831337353,Succisa_pratensis,53.2485,11.582
 1702183004,Succisa_pratensis,62.5126,11.2626
@@ -466,7 +449,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702024704,Succisa_pratensis,62.7758,6.9133
 1323854190,Succisa_pratensis,65.821,12.1988
 1936131506,Succisa_pratensis,42.6118,0.9262
-786279359,Succisa_pratensis,50.6,12.9
 919051590,Succisa_pratensis,50.998714,13.298396
 991882602,Succisa_pratensis,54.3484,12.5818
 1999497348,Succisa_pratensis,61.008282,22.738254
@@ -503,7 +485,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1606513188,Succisa_pratensis,61.491596,24.361576
 1062794,Succisa_pratensis,56.463342,14.698421
 1599238711,Succisa_pratensis,60.35416,22.674382
-786279354,Succisa_pratensis,47.5,10.4
 1323854220,Succisa_pratensis,69.1765,15.8948
 1599238867,Succisa_pratensis,61.0609,24.496741
 1099087822,Succisa_pratensis,47.549999,10.45
@@ -527,7 +508,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57726832,Succisa_pratensis,61.7953,25.602301
 1851384939,Succisa_pratensis,42.84,-6.86
 1323861487,Succisa_pratensis,67.7275,14.799
-1851344630,Succisa_pratensis,43.1,-5.4
 1701688458,Succisa_pratensis,62.4832,6.0407
 57726833,Succisa_pratensis,61.811298,25.671801
 1705747428,Succisa_pratensis,53.1383,23.1432
@@ -563,7 +543,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39763266,Succisa_pratensis,63.528,-19.54
 1599238674,Succisa_pratensis,60.157418,19.556766
 1599238681,Succisa_pratensis,60.21699,19.744276
-1050617089,Succisa_pratensis,42.6,-2.68
 1936130719,Succisa_pratensis,42.6739,0.8753
 1701846169,Succisa_pratensis,61.3816,11.2365
 1599238684,Succisa_pratensis,60.981367,24.396611
@@ -584,11 +563,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050617065,Succisa_pratensis,42.98,-2.79
 1050617069,Succisa_pratensis,42.88,-2.57
 1050617106,Succisa_pratensis,42.88,-2.38
-1050617070,Succisa_pratensis,43.2,-3.31
 1050617098,Succisa_pratensis,43.22,-3.42
 204438001,Succisa_pratensis,43.049999,-2.466
 1050617068,Succisa_pratensis,42.97,-2.89
-1050617100,Succisa_pratensis,42.9,-2.33
 1050617077,Succisa_pratensis,43.04,-2.63
 1050617060,Succisa_pratensis,43.06,-2.72
 1323854803,Succisa_pratensis,68.3257,15.6187
@@ -614,10 +591,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697674981,Succisa_pratensis,55.141222,54.577287
 1702365457,Succisa_pratensis,60.3343,10.295
 1050617091,Succisa_pratensis,43.26,-3.25
-1050617080,Succisa_pratensis,42.79,-2.5
 1050617047,Succisa_pratensis,42.69,-2.53
 204438000,Succisa_pratensis,42.798,-2.505
-1851381326,Succisa_pratensis,43,-6.12
 1936064966,Succisa_pratensis,41.7248,-1.9192
 1144184604,Succisa_pratensis,60.2521,5.2678
 1455447738,Succisa_pratensis,49.763845,5.305794
@@ -689,7 +664,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702348972,Succisa_pratensis,60.21098,11.73359
 1701294997,Succisa_pratensis,62.9117,10.619
 1999497249,Succisa_pratensis,60.918253,21.619079
-2028546762,Succisa_pratensis,42.1,2.7
 204438004,Succisa_pratensis,43.334999,-1.958
 187265120,Succisa_pratensis,63.4666,11.1169
 1563903410,Succisa_pratensis,58.146,8.0572
@@ -710,7 +684,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851356501,Succisa_pratensis,43.11,-5.03
 900226462,Succisa_pratensis,58.7644,5.7058
 1702326805,Succisa_pratensis,62.56504,11.68681
-1851342314,Succisa_pratensis,43,-5.76
 1701267923,Succisa_pratensis,60.745,12.3308
 2291608858,Succisa_pratensis,50.452,6.102
 204438005,Succisa_pratensis,42.978001,-2.356
@@ -804,7 +777,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144116903,Succisa_pratensis,62.886,7.9479
 39579097,Succisa_pratensis,63.407,-19.065
 1701267980,Succisa_pratensis,58.5158,6.7426
-1701981931,Succisa_pratensis,68.2088,14.3
 1701995536,Succisa_pratensis,58.6022,8.4167
 1701244721,Succisa_pratensis,58.6466,6.5273
 1701325438,Succisa_pratensis,58.7126,8.1714
@@ -876,7 +848,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936145440,Succisa_pratensis,42.5833,-0.8443
 1701176275,Succisa_pratensis,43.669608,12.046446
 1701317367,Succisa_pratensis,62.6464,11.4095
-211640515,Succisa_pratensis,43.279999,-6.1
 1999497276,Succisa_pratensis,61.000501,21.651444
 1702371943,Succisa_pratensis,58.18789,8.35474
 1999497241,Succisa_pratensis,60.523349,22.35998
@@ -1064,7 +1035,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324016080,Succisa_pratensis,58.0956,8.1035
 1705419605,Succisa_pratensis,57.708656,14.178966
 186841092,Succisa_pratensis,58.2189,8.2085
-1701962682,Succisa_pratensis,63,10.5203
 1701244600,Succisa_pratensis,63.589,10.4206
 1701900002,Succisa_pratensis,61.58006,10.70701
 1702382830,Succisa_pratensis,60.076,10.213
@@ -1150,7 +1120,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701465575,Succisa_pratensis,59.4483,10.1111
 1701221949,Succisa_pratensis,59.7012,11.8168
 1705401682,Succisa_pratensis,57.430961,15.074205
-1893208024,Succisa_pratensis,49.65,6.4
 616357014,Succisa_pratensis,50.796267,5.679144
 1144116894,Succisa_pratensis,62.74169,7.3964
 1702337452,Succisa_pratensis,59.1287,10.1968
@@ -1244,7 +1213,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999497269,Succisa_pratensis,60.566505,22.710023
 1697674772,Succisa_pratensis,56.701235,36.385039
 1144116744,Succisa_pratensis,60.2922,5.2344
-1893209149,Succisa_pratensis,49.8,6.43
 1848386859,Succisa_pratensis,54.2484,13.0817
 1701776473,Succisa_pratensis,64.2506,12.4104
 1701912980,Succisa_pratensis,59.5591,9.6635
@@ -1372,7 +1340,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323854472,Succisa_pratensis,67.3148,14.7328
 1323854501,Succisa_pratensis,67.2565,14.7219
 21520377,Succisa_pratensis,62.3469,7.4164
-876154148,Succisa_pratensis,42.4,2.21
 1935966528,Succisa_pratensis,43.066,-4.8436
 1702345614,Succisa_pratensis,62.4531,7.7015
 788628670,Succisa_pratensis,56.673345,12.856235
@@ -1657,7 +1624,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323863594,Succisa_pratensis,65.8337,13.2376
 1705372478,Succisa_pratensis,57.184036,14.048284
 1701267693,Succisa_pratensis,66.4983,12.0777
-1701912939,Succisa_pratensis,61.0243,5.4
 1705293511,Succisa_pratensis,56.548354,12.950799
 788618476,Succisa_pratensis,57.737746,13.106729
 1697674913,Succisa_pratensis,56.065846,43.204844
