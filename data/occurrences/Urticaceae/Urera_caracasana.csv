@@ -35,7 +35,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1052765391,Urera_caracasana,6.863722,-75.833944
 1707498602,Urera_caracasana,5.739306,-75.592861
 1427574129,Urera_caracasana,4.699378,-75.659708
-1978634832,Urera_caracasana,17.477867,-62.966967
 1264902260,Urera_caracasana,9.936583,-75.109787
 1253915405,Urera_caracasana,10.925559,-85.471322
 1585338223,Urera_caracasana,-11.16,-59.4
@@ -61,7 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913569394,Urera_caracasana,-6.471111,-50.330556
 1707492821,Urera_caracasana,8.602841,-73.579577
 1077413069,Urera_caracasana,-26.930556,-49.061944
-1314768874,Urera_caracasana,4.38333,-51.68333
 1840932762,Urera_caracasana,-24.4175,-48.5725
 1257933595,Urera_caracasana,9.742667,-83.774667
 1424385626,Urera_caracasana,-10.195278,-67.000556
@@ -92,7 +90,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1840933060,Urera_caracasana,-20.920833,-56.675833
 1702650529,Urera_caracasana,-9.624806,-55.937
 768773923,Urera_caracasana,-0.58,-70.18
-1253886441,Urera_caracasana,9.385306,-84.142972
 1257870484,Urera_caracasana,9.775111,-84.60614
 1253887079,Urera_caracasana,9.671694,-83.026611
 1253886783,Urera_caracasana,9.775111,-84.606139
@@ -114,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261021065,Urera_caracasana,14.366667,-85.033333
 1261013436,Urera_caracasana,9.113528,-82.662306
 1096931041,Urera_caracasana,-20.411815,-40.614734
-1253873235,Urera_caracasana,9.998056,-84.0675
 1419173876,Urera_caracasana,16.998333,-93.31
 1261023177,Urera_caracasana,9.256389,-82.509722
 1257865737,Urera_caracasana,10.160667,-85.62208
@@ -154,7 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260767405,Urera_caracasana,13.983889,-86.188055
 1421410552,Urera_caracasana,20.665278,-88.938889
 1257706508,Urera_caracasana,-9.908333,-75.458333
-1929559671,Urera_caracasana,17.634461,-63.237464
 1098697099,Urera_caracasana,4.736531,-75.582979
 1421407415,Urera_caracasana,20.608056,-89.113333
 1257743092,Urera_caracasana,15.553056,-91.698611
@@ -169,7 +164,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1419177196,Urera_caracasana,16.767139,-93.1065
 1257643370,Urera_caracasana,14.8125,-91.750389
 1253821066,Urera_caracasana,10.570833,-84.191667
-1260277565,Urera_caracasana,12.95555,-87.64
 1257639020,Urera_caracasana,15.353056,-92.701944
 1894615864,Urera_caracasana,15.745111,-96.153944
 1419174860,Urera_caracasana,15.549083,-92.607722
@@ -312,7 +306,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090491135,Urera_caracasana,-15.163611,-39.543333
 1936651694,Urera_caracasana,9.6461,-83.0361
 1585323707,Urera_caracasana,13.81667,-89.98333
-1585323767,Urera_caracasana,13.66389,-89.24222
 1258723350,Urera_caracasana,12.966667,-85.216667
 1259379273,Urera_caracasana,13.81666,-89.98333
 1258772623,Urera_caracasana,13.366667,-85.683333
@@ -361,13 +354,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087671139,Urera_caracasana,-10.4107,-37.253
 1894705376,Urera_caracasana,21.206389,-98.978889
 1894978333,Urera_caracasana,22.8,-105.655
-1585323702,Urera_caracasana,13.66667,-89.25
-1259397145,Urera_caracasana,13.66666,-89.25
-1123895341,Urera_caracasana,4.512375,-75.651944
 1259402414,Urera_caracasana,16.51527,-89.06777
 1258505580,Urera_caracasana,13.56666,-85.7
-1056491660,Urera_caracasana,17.217668,-88.684767
-1315042285,Urera_caracasana,4.51184,-75.651
 1419198054,Urera_caracasana,16.784444,-97.026111
 1260198070,Urera_caracasana,15.85555,-88.93527
 1894901259,Urera_caracasana,19.5087613451391,-105.049020109135
@@ -378,7 +366,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258571619,Urera_caracasana,-0.38333,-76.66666
 1320089817,Urera_caracasana,-11.8633,-72.7789
 46124318,Urera_caracasana,8.91,-82.78
-1319630434,Urera_caracasana,15.325,-61.3583
 1932875579,Urera_caracasana,1.07,-76.64
 2005825793,Urera_caracasana,-10.233333,-54.75
 2005825730,Urera_caracasana,-10.05,-54.733333
@@ -443,14 +430,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1260484077,Urera_caracasana,9.243889,-70.22
 1318548542,Urera_caracasana,9.2439,-70.22
 1893691117,Urera_caracasana,19.388956,-102.248764
-46124011,Urera_caracasana,9.76,-84.9
 1930152412,Urera_caracasana,-15.17,-56.85
 575272301,Urera_caracasana,-15.166667,-56.85
 1455994618,Urera_caracasana,4.34083,-58.8092
 1931327886,Urera_caracasana,-12.53,-68.67
 1928678112,Urera_caracasana,-8.4494,-71.3492
 1099626455,Urera_caracasana,1.36667,-78.46667
-1585323651,Urera_caracasana,13.68333,-89.25
 1930655919,Urera_caracasana,-8.449444,-71.349167
 1895036852,Urera_caracasana,20.335833,-98.256944
 1932875068,Urera_caracasana,2.66,-74.16
@@ -577,7 +562,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896313533,Urera_caracasana,17.301667,-91.166667
 1259402495,Urera_caracasana,9.176667,-82.25
 1896313599,Urera_caracasana,20.416667,-88.028611
-1419199099,Urera_caracasana,15.727778,-95.975278
 1456037322,Urera_caracasana,4.66667,-59.9167
 1261435616,Urera_caracasana,6.116667,-77.366667
 1895134502,Urera_caracasana,15.696389,-92.721111
@@ -675,7 +659,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1315042322,Urera_caracasana,6.75417,-76.3159
 1893691113,Urera_caracasana,19.905,-97.646667
 1930112308,Urera_caracasana,-4.322019,-52.741628
-1261434896,Urera_caracasana,8.96666,-79.60694
 1893691093,Urera_caracasana,19.641389,-102.0475
 1258286565,Urera_caracasana,23.09,-99.19
 1895363853,Urera_caracasana,23.098889,-99.191111
@@ -740,7 +723,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261433922,Urera_caracasana,12.7,-87.03333
 1419223341,Urera_caracasana,14.956667,-92.225278
 1895223155,Urera_caracasana,16.756389,-95.499167
-1826366177,Urera_caracasana,15.5051,-61.3968
 1261437871,Urera_caracasana,11.73333,-85.80833
 1893967842,Urera_caracasana,19.608333,-104.275
 1896313555,Urera_caracasana,18.585,-95.07
@@ -755,7 +737,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1898894780,Urera_caracasana,3.133333,-75.033333
 1896313566,Urera_caracasana,19.508333,-97.091667
 1087667569,Urera_caracasana,-10.3854,-36.5919
-1261435721,Urera_caracasana,12.15,-86.26666
 1261436937,Urera_caracasana,10.866667,-72.483333
 1259404877,Urera_caracasana,18.96,-99.352222
 730993119,Urera_caracasana,10.86972,-72.42472
@@ -763,7 +744,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896313617,Urera_caracasana,19.355556,-97.118056
 1890973898,Urera_caracasana,11.095,-73.8825
 1895950424,Urera_caracasana,20.13,-97.303889
-911784992,Urera_caracasana,11.31372,-74.06401
 1261436923,Urera_caracasana,8.933333,-82.85
 1261437309,Urera_caracasana,11.86666,-84.45
 46122383,Urera_caracasana,8.93,-82.85
@@ -803,7 +783,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261438464,Urera_caracasana,13.13333,-86.43333
 1261435984,Urera_caracasana,11.566667,-84.366667
 1261436140,Urera_caracasana,10.166667,-63.55
-1261885455,Urera_caracasana,12.166667,-83.05
 1259403258,Urera_caracasana,13.016667,-85.916667
 1259403927,Urera_caracasana,16.9,-92.44
 1894688150,Urera_caracasana,16.9099269591229,-92.4493775114954
@@ -886,7 +865,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259414888,Urera_caracasana,14.91,-91.89527
 1258516840,Urera_caracasana,17.58,-92.91
 1895950453,Urera_caracasana,20.061667,-97.472778
-1261434393,Urera_caracasana,11.86666,-85.96666
 1261434348,Urera_caracasana,11.85,-85.966667
 1927800885,Urera_caracasana,-10,-67.83
 1261434538,Urera_caracasana,13.43333,-86.58333
@@ -938,7 +916,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 730993283,Urera_caracasana,10.06667,-66.06667
 2288038669,Urera_caracasana,10.1,-66.05
 1259076188,Urera_caracasana,10.066667,-66.066667
-1259158144,Urera_caracasana,8.5,-83.61
 1896313568,Urera_caracasana,19.425,-97.058333
 1894901163,Urera_caracasana,19.5471207532134,-104.989323885492
 1259402392,Urera_caracasana,14.933889,-91.898611
@@ -959,7 +936,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1890970375,Urera_caracasana,7.73,-77.08
 1315042235,Urera_caracasana,7.73333,-77.0833
 1259045374,Urera_caracasana,11.833333,-85.966667
-1890919459,Urera_caracasana,11.330095,-74.08699
 1260750927,Urera_caracasana,12.01666,-86.28333
 2291712251,Urera_caracasana,3.6,-53.233333
 47858100,Urera_caracasana,-0.466,-77.883
@@ -979,7 +955,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896313604,Urera_caracasana,17.266667,-94.616667
 1896313569,Urera_caracasana,17.258333,-94.591667
 1893307461,Urera_caracasana,17.258333,-94.552778
-1257559321,Urera_caracasana,-0.683,-90.3
 1896313587,Urera_caracasana,18.408333,-95.158333
 1896313532,Urera_caracasana,18.419444,-95.113611
 1259404677,Urera_caracasana,8.85722,-82.88027
@@ -1050,7 +1025,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259402205,Urera_caracasana,10.19361,-84.09277
 1261033764,Urera_caracasana,18.91,-99.23
 1893691086,Urera_caracasana,18.936667,-99.23
-1259405589,Urera_caracasana,9.32777,-79.99972
 1896313535,Urera_caracasana,18.591667,-95.087778
 1895363896,Urera_caracasana,17.903331,-96.141939
 1895405756,Urera_caracasana,17.483333,-92.05
@@ -1078,7 +1052,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895405755,Urera_caracasana,21.951389,-99.511669
 1896313573,Urera_caracasana,18.849444,-97.009722
 1456178911,Urera_caracasana,3.63,-53.2
-1259402429,Urera_caracasana,8.98305,-79.51583
 1893749301,Urera_caracasana,18.986667,-99.1
 1259404005,Urera_caracasana,9.16944,-79.75138
 1259401689,Urera_caracasana,8.66666,-78.13333
@@ -1091,7 +1064,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895405735,Urera_caracasana,23.0526943332979,-99.1796619405545
 1893418164,Urera_caracasana,17.441667,-93.525
 2270543859,Urera_caracasana,21.711913,-105.062516
-1259403915,Urera_caracasana,8.97722,-79.56222
 1896313605,Urera_caracasana,18.458333,-95.291667
 1259403610,Urera_caracasana,9.16833,-79.75305
 1099627108,Urera_caracasana,1.23841,-76.81752
