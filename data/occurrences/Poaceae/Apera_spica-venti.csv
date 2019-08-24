@@ -50,7 +50,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948451997,Apera_spica-venti,61.418148,21.928123
 1658403919,Apera_spica-venti,58.092757,24.539294
 1838966857,Apera_spica-venti,41.03389,24.771669
-2313369344,Apera_spica-venti,48.17,11.4
 1438586213,Apera_spica-venti,58.76381,23.9893
 1848349308,Apera_spica-venti,47.7335,16.09086
 1848349120,Apera_spica-venti,47.99028,16.42722
@@ -93,7 +92,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701859157,Apera_spica-venti,59.6808,10.7829
 1838959909,Apera_spica-venti,39.89222,21.56694
 1838959964,Apera_spica-venti,40.660278,21.58194
-1838959438,Apera_spica-venti,40,21
 1838959457,Apera_spica-venti,40.496109,21.664721
 1838960016,Apera_spica-venti,39.749168,21.54306
 1838959534,Apera_spica-venti,40.27528,21.32778
@@ -129,8 +127,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1095897941,Apera_spica-venti,56.24,10.24
 1935651606,Apera_spica-venti,47.28247,14.93328
 441966237,Apera_spica-venti,51.110832,14.688056
-986393288,Apera_spica-venti,50.116667,20.7
-1230505408,Apera_spica-venti,50.11667,20.7
 1705419006,Apera_spica-venti,55.688343,13.21111
 1230500582,Apera_spica-venti,48.6525,21.58583
 441966219,Apera_spica-venti,51.16111,14.461945
@@ -173,7 +169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 216096673,Apera_spica-venti,61.803501,26.096001
 895178335,Apera_spica-venti,40.449,-1.591
 1697382738,Apera_spica-venti,49.15,44.05
-788828675,Apera_spica-venti,41.1,26.1
 1503339843,Apera_spica-venti,52.409028,13.188889
 1342783161,Apera_spica-venti,57.628673,10.447126
 1999553204,Apera_spica-venti,60.484748,22.037531
@@ -181,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230494127,Apera_spica-venti,50.11667,19.75
 2304532345,Apera_spica-venti,51.69,-4.23
 1342786641,Apera_spica-venti,55.822548,11.959918
-296416388,Apera_spica-venti,46.7,15.993
 1697382707,Apera_spica-venti,52.519468,42.626742
 1697382769,Apera_spica-venti,49.12151,44.025839
 1600527060,Apera_spica-venti,61.8039,26.152909
@@ -206,7 +200,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999590789,Apera_spica-venti,60.539704,22.576611
 1702075145,Apera_spica-venti,59.1265,9.7067
 1563863757,Apera_spica-venti,55.45001,13.75663
-788860772,Apera_spica-venti,41.3,23.483333
 1705289448,Apera_spica-venti,57.291244,16.452022
 728981051,Apera_spica-venti,51.699872,5.958582
 296416385,Apera_spica-venti,46.606,13.84
@@ -218,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342786613,Apera_spica-venti,55.768325,12.02584
 1697382594,Apera_spica-venti,56.06619,40.139237
 1600527056,Apera_spica-venti,69.024236,20.869312
-296416350,Apera_spica-venti,47.264,10.1
 1697721034,Apera_spica-venti,45.38309,33.122052
 296416349,Apera_spica-venti,47.415,15.282
 1946770920,Apera_spica-venti,49.96,9.77
@@ -236,14 +228,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895204732,Apera_spica-venti,42.549,-6.582
 441963639,Apera_spica-venti,51.507687,11.875383
 1342786737,Apera_spica-venti,54.940825,12.009202
-296416312,Apera_spica-venti,47.234,9.6
 1705339083,Apera_spica-venti,57.328547,15.833273
 296416313,Apera_spica-venti,47.364,10.177
 441963587,Apera_spica-venti,51.401714,8.574153
 1342782381,Apera_spica-venti,56.139557,10.229762
 1600527048,Apera_spica-venti,61.511127,23.529948
 441963654,Apera_spica-venti,51.054443,13.739166
-788864850,Apera_spica-venti,40.9,22.033333
 1270039010,Apera_spica-venti,51.249683,12.988473
 788828615,Apera_spica-venti,40.666667,21.666667
 216096642,Apera_spica-venti,60.469002,22.349501
@@ -331,8 +321,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342776937,Apera_spica-venti,55.237841,8.723533
 1697382642,Apera_spica-venti,57.003043,41.04965
 2290658559,Apera_spica-venti,50.452,6.102
-296416383,Apera_spica-venti,47.4,15.23
-788828554,Apera_spica-venti,41,25.166667
 1935651611,Apera_spica-venti,47.50333,16.5425
 1600527023,Apera_spica-venti,62.102495,21.393507
 1600527308,Apera_spica-venti,62.563165,23.398237
@@ -440,7 +428,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600524522,Apera_spica-venti,62.746635,24.149265
 1144150906,Apera_spica-venti,60.415,5.3041
 1697721108,Apera_spica-venti,44.972753,35.285425
-1988090810,Apera_spica-venti,61.2,27.8
 442112877,Apera_spica-venti,51.594723,12.585556
 814055089,Apera_spica-venti,51.310221,6.90751
 788615301,Apera_spica-venti,55.92788,13.966278
@@ -497,7 +484,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600527293,Apera_spica-venti,61.359275,22.227195
 609794,Apera_spica-venti,56.7989,16.24122
 1600527288,Apera_spica-venti,61.329861,24.475297
-786092040,Apera_spica-venti,49.4,10.2
 1600527290,Apera_spica-venti,62.412275,24.771673
 899745051,Apera_spica-venti,49.033978,11.06177
 57678091,Apera_spica-venti,62.4123,24.7715
@@ -506,7 +492,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600524511,Apera_spica-venti,61.301767,26.222468
 1600527281,Apera_spica-venti,61.886207,28.232843
 1697382645,Apera_spica-venti,52.04474,41.153336
-1249261962,Apera_spica-venti,50.6,6.9
 1697382578,Apera_spica-venti,54.710405,37.14634
 1705461531,Apera_spica-venti,55.923565,14.292623
 788870207,Apera_spica-venti,41.366667,24.05
@@ -517,7 +502,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697382596,Apera_spica-venti,54.638116,40.695781
 1705333514,Apera_spica-venti,56.574816,12.980366
 1600527280,Apera_spica-venti,61.143161,24.1187
-1098952331,Apera_spica-venti,48.450001,10.3
 1600524503,Apera_spica-venti,60.213856,25.129879
 1705461530,Apera_spica-venti,56.781126,16.286628
 1697382531,Apera_spica-venti,54.694168,40.883945
@@ -528,7 +512,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600524502,Apera_spica-venti,69.046036,20.850864
 1600524507,Apera_spica-venti,60.503635,27.661163
 1600524510,Apera_spica-venti,69.040266,20.814526
-1893208203,Apera_spica-venti,43.7,7.14
 1600524509,Apera_spica-venti,64.128561,28.331236
 1600527273,Apera_spica-venti,64.48278,25.228752
 1600527374,Apera_spica-venti,64.018856,28.513093
@@ -858,7 +841,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1290985025,Apera_spica-venti,50.615633,10.0452
 1600524387,Apera_spica-venti,61.949733,24.042912
 1705408409,Apera_spica-venti,55.755543,12.910869
-786092206,Apera_spica-venti,49.8,9.5
 788734725,Apera_spica-venti,56.41983,15.54053
 1600527139,Apera_spica-venti,61.146985,24.304145
 1290985029,Apera_spica-venti,50.6226,10.061667
