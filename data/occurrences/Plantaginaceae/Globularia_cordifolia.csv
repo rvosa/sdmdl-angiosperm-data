@@ -1,6 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1882029883,Globularia_cordifolia,47.71722,15.77472
-2242360100,Globularia_cordifolia,39.6396,-106.3655
 1935692527,Globularia_cordifolia,47.45028,13.61861
 1919927835,Globularia_cordifolia,47.57333,13.64833
 1919927836,Globularia_cordifolia,47.56944,13.64806
@@ -16,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935692455,Globularia_cordifolia,45.80056,13.99733
 1233563888,Globularia_cordifolia,42.388683,19.720183
 1230798084,Globularia_cordifolia,47.92361,16.12028
-2310038452,Globularia_cordifolia,44.43,14.58
 1701108942,Globularia_cordifolia,44.058398,10.178859
 1584381241,Globularia_cordifolia,48.12556,16.24722
 1842905443,Globularia_cordifolia,42.84,-4.744
@@ -28,13 +26,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 860310179,Globularia_cordifolia,42.4679,0.87302
 1899737821,Globularia_cordifolia,47.72332,15.51348
 1830979860,Globularia_cordifolia,47.93833,15.69944
-1988242048,Globularia_cordifolia,49.3,-123.2
 234924774,Globularia_cordifolia,44.069,7.49568
 1657182805,Globularia_cordifolia,42.10639,19.20806
 317820226,Globularia_cordifolia,42.26244,1.55656
 1935692456,Globularia_cordifolia,47.58322,15.15144
 895224229,Globularia_cordifolia,42.46,-0.26
-1849128462,Globularia_cordifolia,47.4111,-10.9105
 1230797372,Globularia_cordifolia,48.11639,16.26611
 214536591,Globularia_cordifolia,46.783333,12.783334
 1935692281,Globularia_cordifolia,44.41556,6.94444
@@ -52,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936644751,Globularia_cordifolia,41.9211,24.8819
 895179311,Globularia_cordifolia,41.9167,24.8667
 1935692023,Globularia_cordifolia,47.66139,14.26722
-1936625772,Globularia_cordifolia,42.559444,1.543889
 1936612313,Globularia_cordifolia,40.5559,-2.1745
 1837468371,Globularia_cordifolia,44.130383,8.115506
 1935692013,Globularia_cordifolia,47.6725,14.55361
@@ -111,7 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313345842,Globularia_cordifolia,48.27,11.62
 1935692393,Globularia_cordifolia,47.59556,14.90111
 1935692387,Globularia_cordifolia,47.5375,14.53
-1988232630,Globularia_cordifolia,49.25,-123.25
 1845009302,Globularia_cordifolia,46.654722,7.82
 1935692376,Globularia_cordifolia,47.41667,14.05722
 2268945186,Globularia_cordifolia,46.112222,7.505
@@ -134,7 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935692478,Globularia_cordifolia,46.18731,15.10736
 1935692389,Globularia_cordifolia,47.47611,14.94306
 2313346313,Globularia_cordifolia,48.22,11.62
-788827789,Globularia_cordifolia,40.15,24.383333
 1638399351,Globularia_cordifolia,47.13631,14.34236
 1935692377,Globularia_cordifolia,47.30861,14.37528
 1264997374,Globularia_cordifolia,46.160833,15.24
