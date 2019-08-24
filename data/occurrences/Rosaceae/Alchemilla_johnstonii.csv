@@ -1,8 +1,5 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2287085082,Alchemilla_johnstonii,-0.8,37.25
 1261409938,Alchemilla_johnstonii,-3.23333,36.73333
-2291905116,Alchemilla_johnstonii,-2.9,35.783333
-2290367168,Alchemilla_johnstonii,-1.5,29.416667
 2291904749,Alchemilla_johnstonii,-3.216667,36.783333
 2288651593,Alchemilla_johnstonii,-0.133333,37.25
 2288431800,Alchemilla_johnstonii,-0.116667,37.233333
@@ -10,4 +7,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291903553,Alchemilla_johnstonii,-1.383333,29.658333
 1839536833,Alchemilla_johnstonii,-1.516667,29.466667
 1839536777,Alchemilla_johnstonii,-1.383333,29.666667
-1839536804,Alchemilla_johnstonii,0.6,29.866667
