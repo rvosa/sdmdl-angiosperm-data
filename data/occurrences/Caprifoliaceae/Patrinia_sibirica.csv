@@ -15,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 214557960,Patrinia_sibirica,49.286667,87.717781
 1697294156,Patrinia_sibirica,62.63764,91.66733
 441798082,Patrinia_sibirica,50.756617,143.289167
-1146332572,Patrinia_sibirica,61.5,149.5
 1697293387,Patrinia_sibirica,52.133333,135.016667
 1697293418,Patrinia_sibirica,52.133333,134.466667
 1697293349,Patrinia_sibirica,51.816667,135.033333
@@ -29,9 +28,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697340876,Patrinia_sibirica,46.666667,119.25
 1697293337,Patrinia_sibirica,52.116667,134.416667
 1697293413,Patrinia_sibirica,56.75,128.766667
-1697293513,Patrinia_sibirica,51.083333,85
 1697293394,Patrinia_sibirica,56.59494,118.517933
-1697293544,Patrinia_sibirica,51,85.833333
 1697293414,Patrinia_sibirica,49.916667,89.25
 1697293491,Patrinia_sibirica,50.266667,87.416667
 1697293422,Patrinia_sibirica,60.86858,89.67742
@@ -69,7 +66,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697293453,Patrinia_sibirica,43.734121,134.43532
 1697293497,Patrinia_sibirica,51.45,88.75
 1697293458,Patrinia_sibirica,51.55,87.683333
-1697293441,Patrinia_sibirica,50.433333,116.5
 1697293450,Patrinia_sibirica,51.966667,101.95
 1697293444,Patrinia_sibirica,51.75,102.55
 1697293519,Patrinia_sibirica,52.622533,85.474173
