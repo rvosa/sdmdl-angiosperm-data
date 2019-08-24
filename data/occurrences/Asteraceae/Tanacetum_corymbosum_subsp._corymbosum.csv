@@ -14,7 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844884843,Tanacetum_corymbosum_subsp._corymbosum,41.273891,23.733891
 1844884863,Tanacetum_corymbosum_subsp._corymbosum,41.241112,23.573059
 1584385816,Tanacetum_corymbosum_subsp._corymbosum,47.94361,16.08472
-1851018550,Tanacetum_corymbosum_subsp._corymbosum,39.02444,0.29222
 1584385754,Tanacetum_corymbosum_subsp._corymbosum,47.99472,15.95444
 1701202584,Tanacetum_corymbosum_subsp._corymbosum,42.9448019990591,-5.757418
 1935727253,Tanacetum_corymbosum_subsp._corymbosum,47.93778,16.87444
@@ -35,7 +34,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839089357,Tanacetum_corymbosum_subsp._corymbosum,39.946671,21.56778
 911797504,Tanacetum_corymbosum_subsp._corymbosum,49.811665,6.509444
 775296484,Tanacetum_corymbosum_subsp._corymbosum,45.838833,10.697683
-1230506657,Tanacetum_corymbosum_subsp._corymbosum,39.73111,45.70083
 1231190521,Tanacetum_corymbosum_subsp._corymbosum,49.17667,19.64
 1231190679,Tanacetum_corymbosum_subsp._corymbosum,49.25278,20.30639
 1935727235,Tanacetum_corymbosum_subsp._corymbosum,47.09758,15.38352
@@ -44,7 +42,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317826969,Tanacetum_corymbosum_subsp._corymbosum,41.95,1.37
 345678245,Tanacetum_corymbosum_subsp._corymbosum,48.8872,20.3884
 1265474761,Tanacetum_corymbosum_subsp._corymbosum,40.5832,-1.7571
-286838758,Tanacetum_corymbosum_subsp._corymbosum,35.943611,27.775
 1701184317,Tanacetum_corymbosum_subsp._corymbosum,43.414053,10.608014
 1701184343,Tanacetum_corymbosum_subsp._corymbosum,43.38666,10.629105
 1701184369,Tanacetum_corymbosum_subsp._corymbosum,43.39917,10.62003
@@ -80,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1213675143,Tanacetum_corymbosum_subsp._corymbosum,47.958611,16.143056
 1935727328,Tanacetum_corymbosum_subsp._corymbosum,46.91125,13.8662
 895221378,Tanacetum_corymbosum_subsp._corymbosum,40.756,-1.667
-1231191153,Tanacetum_corymbosum_subsp._corymbosum,35.71667,53.03333
 895212556,Tanacetum_corymbosum_subsp._corymbosum,39.057,-0.729
 1501095646,Tanacetum_corymbosum_subsp._corymbosum,39.05,-0.72
 895198210,Tanacetum_corymbosum_subsp._corymbosum,40.16,-1.562
@@ -94,10 +90,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895181798,Tanacetum_corymbosum_subsp._corymbosum,42.825,-2.553
 1655993406,Tanacetum_corymbosum_subsp._corymbosum,40.033333,20.783333
 895231717,Tanacetum_corymbosum_subsp._corymbosum,39.81,-1.032
-1936648176,Tanacetum_corymbosum_subsp._corymbosum,42.4725,1.4994
 198471351,Tanacetum_corymbosum_subsp._corymbosum,43.220001,-4.59
 318124805,Tanacetum_corymbosum_subsp._corymbosum,38.61,-0.47
-1842898013,Tanacetum_corymbosum_subsp._corymbosum,38.73,0.199
 1936645411,Tanacetum_corymbosum_subsp._corymbosum,41.9861,24.88
 1701551478,Tanacetum_corymbosum_subsp._corymbosum,43.88222,11.23167
 318124906,Tanacetum_corymbosum_subsp._corymbosum,40.75,-0.15
@@ -113,7 +107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895176918,Tanacetum_corymbosum_subsp._corymbosum,40.373,-2.099
 441942260,Tanacetum_corymbosum_subsp._corymbosum,51.488586,11.959142
 1657209787,Tanacetum_corymbosum_subsp._corymbosum,46.77361,13.81667
-1701610099,Tanacetum_corymbosum_subsp._corymbosum,59.0706,10.2183
 318124732,Tanacetum_corymbosum_subsp._corymbosum,42.28,1.85
 1936616685,Tanacetum_corymbosum_subsp._corymbosum,42.4267,13.3461
 895187608,Tanacetum_corymbosum_subsp._corymbosum,42.4167,13.3333
@@ -142,8 +135,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211640177,Tanacetum_corymbosum_subsp._corymbosum,43.23,-4.81
 1936642132,Tanacetum_corymbosum_subsp._corymbosum,43.0104,-4.302
 1882324725,Tanacetum_corymbosum_subsp._corymbosum,48.83,10.61
-1831527948,Tanacetum_corymbosum_subsp._corymbosum,43.41167,28.265
-1831527953,Tanacetum_corymbosum_subsp._corymbosum,43.37583,28.46028
 1936571247,Tanacetum_corymbosum_subsp._corymbosum,40.5794,-4.2301
 1501115511,Tanacetum_corymbosum_subsp._corymbosum,38.82,-0.1
 1936551218,Tanacetum_corymbosum_subsp._corymbosum,40.666667,0.233333
@@ -152,7 +143,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936642138,Tanacetum_corymbosum_subsp._corymbosum,43.0194,-4.3022
 1231190800,Tanacetum_corymbosum_subsp._corymbosum,48.85639,19.10778
 2289134035,Tanacetum_corymbosum_subsp._corymbosum,46.2,14.616667
-1831527785,Tanacetum_corymbosum_subsp._corymbosum,43.41139,28.26472
 1050619661,Tanacetum_corymbosum_subsp._corymbosum,42.65,-2.28
 2237781264,Tanacetum_corymbosum_subsp._corymbosum,47.11194,15.39611
 1936538595,Tanacetum_corymbosum_subsp._corymbosum,42.6464,-2.2938
@@ -161,18 +151,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671676290,Tanacetum_corymbosum_subsp._corymbosum,44.092608,9.77173
 204438045,Tanacetum_corymbosum_subsp._corymbosum,43.375999,-3.031
 204438046,Tanacetum_corymbosum_subsp._corymbosum,43.077,-2.502
-895144473,Tanacetum_corymbosum_subsp._corymbosum,38.792,0.162
-1501108300,Tanacetum_corymbosum_subsp._corymbosum,38.79,0.16
-1936516390,Tanacetum_corymbosum_subsp._corymbosum,38.8109,0.0967
 895247513,Tanacetum_corymbosum_subsp._corymbosum,39.807,-0.88
 1501072788,Tanacetum_corymbosum_subsp._corymbosum,38.84,-0.02
 788490965,Tanacetum_corymbosum_subsp._corymbosum,39.1,21.516667
 1500980778,Tanacetum_corymbosum_subsp._corymbosum,39.8,-0.88
 1851580030,Tanacetum_corymbosum_subsp._corymbosum,38.66,-0.06
-2242400302,Tanacetum_corymbosum_subsp._corymbosum,39.73193,-104.9619
 1936537932,Tanacetum_corymbosum_subsp._corymbosum,41.61,-2.1972
 1231190446,Tanacetum_corymbosum_subsp._corymbosum,48.8525,21.195
-1501064722,Tanacetum_corymbosum_subsp._corymbosum,38.81,0.16
 1501071730,Tanacetum_corymbosum_subsp._corymbosum,38.68,0.005
 895221865,Tanacetum_corymbosum_subsp._corymbosum,40.94,-0.68
 1851378902,Tanacetum_corymbosum_subsp._corymbosum,40.06,-2.47
@@ -197,7 +182,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1882325618,Tanacetum_corymbosum_subsp._corymbosum,48.79,10.74
 895246073,Tanacetum_corymbosum_subsp._corymbosum,40.66,0.22
 895246346,Tanacetum_corymbosum_subsp._corymbosum,40.39,0.23
-1936446209,Tanacetum_corymbosum_subsp._corymbosum,38.7021,0.0666
 1851340532,Tanacetum_corymbosum_subsp._corymbosum,42.887,-5.149
 1231190471,Tanacetum_corymbosum_subsp._corymbosum,48.77111,21.22472
 1231190524,Tanacetum_corymbosum_subsp._corymbosum,48.84611,21.23444
@@ -235,8 +219,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1288126248,Tanacetum_corymbosum_subsp._corymbosum,50.3999,9.98166
 895246049,Tanacetum_corymbosum_subsp._corymbosum,40.66,0.1
 1638434542,Tanacetum_corymbosum_subsp._corymbosum,49.07444,22.71294
-1501059713,Tanacetum_corymbosum_subsp._corymbosum,38.81,0.18
-318124312,Tanacetum_corymbosum_subsp._corymbosum,38.74,0.23
 1936616278,Tanacetum_corymbosum_subsp._corymbosum,40.3932,-4.9866
 1231190667,Tanacetum_corymbosum_subsp._corymbosum,49.08806,18.14222
 1638434573,Tanacetum_corymbosum_subsp._corymbosum,42.90972,0.39417
@@ -260,7 +242,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1657208720,Tanacetum_corymbosum_subsp._corymbosum,43.9125,11.08444
 1936657867,Tanacetum_corymbosum_subsp._corymbosum,41.0768,-4.025
 1839088856,Tanacetum_corymbosum_subsp._corymbosum,40.21833,21.023609
-85856138,Tanacetum_corymbosum_subsp._corymbosum,36.200001,-6.11
 1050617211,Tanacetum_corymbosum_subsp._corymbosum,42.66,-2.21
 1501962599,Tanacetum_corymbosum_subsp._corymbosum,39.42,-0.97
 1655993698,Tanacetum_corymbosum_subsp._corymbosum,41.35,24.216667
@@ -328,7 +309,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1502022922,Tanacetum_corymbosum_subsp._corymbosum,40.4,-0.35
 895202699,Tanacetum_corymbosum_subsp._corymbosum,39.69,-0.96
 1936631679,Tanacetum_corymbosum_subsp._corymbosum,42.6266,-2.0501
-1851583937,Tanacetum_corymbosum_subsp._corymbosum,38.77,0.18
 1936657899,Tanacetum_corymbosum_subsp._corymbosum,41.0962,-3.8586
 895158620,Tanacetum_corymbosum_subsp._corymbosum,39.95,-0.48
 1231179611,Tanacetum_corymbosum_subsp._corymbosum,48.125,16.20806
@@ -364,7 +344,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1712605582,Tanacetum_corymbosum_subsp._corymbosum,42.30835,-1.806135
 1936548155,Tanacetum_corymbosum_subsp._corymbosum,43.031747,-4.166119
 1806557023,Tanacetum_corymbosum_subsp._corymbosum,42.846142,-1.752532
-204437898,Tanacetum_corymbosum_subsp._corymbosum,43.423,-4.18
 204437891,Tanacetum_corymbosum_subsp._corymbosum,43.348999,-3.093
 876152522,Tanacetum_corymbosum_subsp._corymbosum,42.306,-0.228
 204437693,Tanacetum_corymbosum_subsp._corymbosum,42.571999,0.058
@@ -396,8 +375,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204437896,Tanacetum_corymbosum_subsp._corymbosum,43.005001,-2.442
 774392473,Tanacetum_corymbosum_subsp._corymbosum,50.883335,11.55
 1050617244,Tanacetum_corymbosum_subsp._corymbosum,42.61,-2.62
-1096650461,Tanacetum_corymbosum_subsp._corymbosum,36.17,51.25
-442113174,Tanacetum_corymbosum_subsp._corymbosum,54.633335,53.666668
 1851386258,Tanacetum_corymbosum_subsp._corymbosum,42.92,-5.51
 1050617254,Tanacetum_corymbosum_subsp._corymbosum,42.77,-2.6
 1050617234,Tanacetum_corymbosum_subsp._corymbosum,42.56,-2.47
@@ -419,7 +396,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812032466,Tanacetum_corymbosum_subsp._corymbosum,50.719033,9.092867
 1655993410,Tanacetum_corymbosum_subsp._corymbosum,40.966667,24.1
 812032465,Tanacetum_corymbosum_subsp._corymbosum,50.546717,9.60145
-1655993540,Tanacetum_corymbosum_subsp._corymbosum,40.683333,24.716667
 1655993550,Tanacetum_corymbosum_subsp._corymbosum,41.3,24.1
 1842892945,Tanacetum_corymbosum_subsp._corymbosum,41.68,1.5
 1231179967,Tanacetum_corymbosum_subsp._corymbosum,48.06667,16.18333
@@ -432,8 +408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1845010736,Tanacetum_corymbosum_subsp._corymbosum,49.564722,8.162222
 833456318,Tanacetum_corymbosum_subsp._corymbosum,49.55,8.15
 1845010781,Tanacetum_corymbosum_subsp._corymbosum,49.985278,8.039167
-788668838,Tanacetum_corymbosum_subsp._corymbosum,58.89501,17.92852
-318124386,Tanacetum_corymbosum_subsp._corymbosum,38.68,0.07
 1848747269,Tanacetum_corymbosum_subsp._corymbosum,47.675,15.70833
 2313350978,Tanacetum_corymbosum_subsp._corymbosum,48.27,11.62
 318124388,Tanacetum_corymbosum_subsp._corymbosum,38.6,-0.53
@@ -453,7 +427,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313350534,Tanacetum_corymbosum_subsp._corymbosum,48.17,11.46
 786109933,Tanacetum_corymbosum_subsp._corymbosum,48.1,7.3
 895179064,Tanacetum_corymbosum_subsp._corymbosum,39.14,-0.4
-1705486602,Tanacetum_corymbosum_subsp._corymbosum,49.5955,17.2573
 1098970866,Tanacetum_corymbosum_subsp._corymbosum,48.195835,11.463333
 1288097131,Tanacetum_corymbosum_subsp._corymbosum,50.76785,9.930517
 788719399,Tanacetum_corymbosum_subsp._corymbosum,59.858145,17.634069
