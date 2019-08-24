@@ -76,7 +76,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1038234581,Matricaria_matricarioides,50.653614,10.775833
 1697317264,Matricaria_matricarioides,51.553698,105.112682
 1837902664,Matricaria_matricarioides,50.503334,6.330278
-1988196290,Matricaria_matricarioides,51,-118.23
 1839044296,Matricaria_matricarioides,40.78722,21.24806
 2270221407,Matricaria_matricarioides,39.28889,-121.85444
 1265817234,Matricaria_matricarioides,39.2289499990755,-121.78216
@@ -101,7 +100,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702380186,Matricaria_matricarioides,59.7364,10.2291
 1701286970,Matricaria_matricarioides,62.303,9.6048
 1949955624,Matricaria_matricarioides,53.538889,8.579167
-1095920673,Matricaria_matricarioides,62,17
 1899737173,Matricaria_matricarioides,39.335833,-121.576667
 1257994478,Matricaria_matricarioides,38.6272,-91.0611
 1257845693,Matricaria_matricarioides,37.683222,-89.633889
@@ -123,7 +121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268886307,Matricaria_matricarioides,50.73345,85.73005
 2289583219,Matricaria_matricarioides,52.338417,5.938667
 1702318709,Matricaria_matricarioides,59.5128,10.5552
-1095918239,Matricaria_matricarioides,65,14
 1426422444,Matricaria_matricarioides,33.736528,-117.197611
 1928927533,Matricaria_matricarioides,38.814108,-75.344472
 1929468883,Matricaria_matricarioides,38.711792,-75.910931
@@ -139,7 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1658228399,Matricaria_matricarioides,63.59309,-135.89754
 1928602796,Matricaria_matricarioides,47.512508,-92.561533
 668749202,Matricaria_matricarioides,47.736389,-69.285889
-2305960368,Matricaria_matricarioides,63.59,-135.9
 1829903112,Matricaria_matricarioides,43.914444,144.81
 1701323592,Matricaria_matricarioides,63.7235,11.6457
 1899339204,Matricaria_matricarioides,53.0597069990943,-93.345528
@@ -176,7 +172,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1828479796,Matricaria_matricarioides,43.167,141.048
 1978759904,Matricaria_matricarioides,52.330833,-67.585
 1935702394,Matricaria_matricarioides,47.06758,15.49565
-883419718,Matricaria_matricarioides,53.05,-111.5
 883417783,Matricaria_matricarioides,52.862056,-114.44875
 1323862012,Matricaria_matricarioides,68.3837,23.6336
 1986725779,Matricaria_matricarioides,48.935547,-72.204028
@@ -190,7 +185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323861894,Matricaria_matricarioides,69.9638,23.25
 1323861898,Matricaria_matricarioides,69.9759,23.3266
 1323861858,Matricaria_matricarioides,69.9107,23.0623
-986393948,Matricaria_matricarioides,53.55,-113.5
 1846547826,Matricaria_matricarioides,34.4908,-118.024
 2270548806,Matricaria_matricarioides,34.8253889991151,-111.803667
 1851405716,Matricaria_matricarioides,41.03,-6.68
@@ -272,7 +266,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439485372,Matricaria_matricarioides,49.05167,1.86472
 439472052,Matricaria_matricarioides,48.62833,1.66528
 1702238009,Matricaria_matricarioides,62.5071,11.5564
-2304572283,Matricaria_matricarioides,48.3,-89.24
 1701867197,Matricaria_matricarioides,61.6892,11.7438
 1701774248,Matricaria_matricarioides,61.6146,6.6249
 1702238181,Matricaria_matricarioides,62.5724,11.3693
@@ -346,7 +339,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843897528,Matricaria_matricarioides,39.7111,-105.3158
 1986955248,Matricaria_matricarioides,39.711111,-105.315833
 1999641805,Matricaria_matricarioides,60.529746,22.286084
-217069313,Matricaria_matricarioides,45.5,-73.6
 1849155463,Matricaria_matricarioides,50.05,19.866667
 1146242266,Matricaria_matricarioides,64.2699237417375,-149.225009858282
 1697302000,Matricaria_matricarioides,62.30336,89.01129
@@ -384,7 +376,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978758988,Matricaria_matricarioides,50.281389,-63.603333
 1260039749,Matricaria_matricarioides,39.68472,-105.61194
 1260037661,Matricaria_matricarioides,40.54305,-106.01888
-198468621,Matricaria_matricarioides,43.23,-4.8
 1986951498,Matricaria_matricarioides,40.549444,-106.020278
 1323855633,Matricaria_matricarioides,70.0292,22.2842
 1999601814,Matricaria_matricarioides,60.180051,23.148399
@@ -420,13 +411,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 441786361,Matricaria_matricarioides,46.426667,-123.894583
 441786174,Matricaria_matricarioides,47.24065,142.7798
 1929098312,Matricaria_matricarioides,40.6013,-109.6617
-1456440274,Matricaria_matricarioides,53.07,158.6
 1230972492,Matricaria_matricarioides,39.33333,46.38333
 1323738140,Matricaria_matricarioides,69.9375,22.0514
 1949955962,Matricaria_matricarioides,54.488889,-6.380556
 1701329414,Matricaria_matricarioides,63.0131,9.0204
 1949644585,Matricaria_matricarioides,56.936944,-124.991944
-1936638976,Matricaria_matricarioides,67.6,33.6667
 442025231,Matricaria_matricarioides,51.239052,14.038461
 442024721,Matricaria_matricarioides,51.149635,14.951389
 668749145,Matricaria_matricarioides,53.789444,-77.617778
@@ -502,12 +491,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186817707,Matricaria_matricarioides,58.5621,7.4418
 1249305151,Matricaria_matricarioides,60.7879,-148.8665
 1929638855,Matricaria_matricarioides,39.7114,-105.5867
-1258972753,Matricaria_matricarioides,39.7,-105.58333
 1248699633,Matricaria_matricarioides,47.686944,-79.435278
 1658228440,Matricaria_matricarioides,61.08167,-136.995
 1146337160,Matricaria_matricarioides,60.19,-149.63
 211623052,Matricaria_matricarioides,43.290001,-4.64
-1146337729,Matricaria_matricarioides,60.7,-137.45
 1702197808,Matricaria_matricarioides,61.4278,12.6766
 1146334206,Matricaria_matricarioides,59.25,-135.51
 668749141,Matricaria_matricarioides,52.783333,-67.083333
@@ -546,8 +533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702022684,Matricaria_matricarioides,62.5626,11.033
 1702178078,Matricaria_matricarioides,59.6485,11.2666
 1146341031,Matricaria_matricarioides,60.38,-137.05
-1146341098,Matricaria_matricarioides,63.81,-137.9
-1146319207,Matricaria_matricarioides,63.816667,-137.9
 1701849579,Matricaria_matricarioides,60.7653,11.1394
 1999601806,Matricaria_matricarioides,60.915921,23.797866
 1702164774,Matricaria_matricarioides,59.9483,9.4824
@@ -600,13 +585,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702162988,Matricaria_matricarioides,59.4882,11.1003
 1500202083,Matricaria_matricarioides,33.601667,-117.028333
 176979787,Matricaria_matricarioides,44.570253,-123.241874
-441787019,Matricaria_matricarioides,43.6,-116.2
 51886843,Matricaria_matricarioides,44.5702,-123.2424
 176979419,Matricaria_matricarioides,38.98001,-95.241258
 1830223146,Matricaria_matricarioides,36.616667,137.283333
 1260938157,Matricaria_matricarioides,38.59805,-90.99222
 895224351,Matricaria_matricarioides,41.024,-6.936
-1146337217,Matricaria_matricarioides,58.38,-155.5
 165120150,Matricaria_matricarioides,46.699679,16.078343
 1701827829,Matricaria_matricarioides,59.6027,11.2653
 176979715,Matricaria_matricarioides,41.587096,-93.615799
@@ -631,14 +614,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893935752,Matricaria_matricarioides,19.291667,-99.691667
 1893624860,Matricaria_matricarioides,19.291667,-99.658333
 1426422440,Matricaria_matricarioides,36.897222,-119.444444
-1426422416,Matricaria_matricarioides,33.75,-117
 1851387874,Matricaria_matricarioides,42.56,-5.62
 1260979488,Matricaria_matricarioides,36.95833,-91.9375
 2265436579,Matricaria_matricarioides,44.72459,-93.40903
-1050658616,Matricaria_matricarioides,43,-3.43
 895290127,Matricaria_matricarioides,42.061,-2.994
 51886835,Matricaria_matricarioides,44.5647,-123.2608
-1146329780,Matricaria_matricarioides,60.2,-154.31
 1323809417,Matricaria_matricarioides,69.1207,29.2758
 1050658585,Matricaria_matricarioides,43.33,-3.04
 186817235,Matricaria_matricarioides,58.807,8.1752
@@ -649,8 +629,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 668749143,Matricaria_matricarioides,48.578333,-70.881111
 473105837,Matricaria_matricarioides,51.787781,12.648353
 895290617,Matricaria_matricarioides,42.195,-3.309
-899785519,Matricaria_matricarioides,54.4,12.6
-899785521,Matricaria_matricarioides,54.2,12.4
 1701987308,Matricaria_matricarioides,59.813,8.6212
 442114797,Matricaria_matricarioides,40.916668,-72.650002
 1701700058,Matricaria_matricarioides,62.53672,9.51846
@@ -678,20 +656,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176979415,Matricaria_matricarioides,44.568516,-89.534529
 1702010925,Matricaria_matricarioides,59.3418,11.7517
 1894823971,Matricaria_matricarioides,32.008333,-116.775
-2270546520,Matricaria_matricarioides,32,-116.766667
 1894064259,Matricaria_matricarioides,32.000028,-116.599917
 1260938222,Matricaria_matricarioides,37.49888,-94.54444
 1426422484,Matricaria_matricarioides,34.691944,-118.604167
 1426422482,Matricaria_matricarioides,34.610556,-118.571944
 1050581194,Matricaria_matricarioides,42.52,-2.93
-318107221,Matricaria_matricarioides,42.88,-6.8
 1050581456,Matricaria_matricarioides,42.85,-2.38
 1050658587,Matricaria_matricarioides,42.92,-0.61
 1988869704,Matricaria_matricarioides,42.24897,-85.31454
 1999477407,Matricaria_matricarioides,60.42597,22.522094
-1050581437,Matricaria_matricarioides,42.9,-2.18
 1146261624,Matricaria_matricarioides,61.32,-149.63
-623664918,Matricaria_matricarioides,64.533333,-163
 1989423102,Matricaria_matricarioides,44.87773,-84.69969
 1701979601,Matricaria_matricarioides,60.5817,8.4069
 1323801254,Matricaria_matricarioides,69.164,29.255
@@ -707,11 +681,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702004221,Matricaria_matricarioides,67.8941,16.2061
 1851347728,Matricaria_matricarioides,43.12,-7.59
 1989464331,Matricaria_matricarioides,43.32352,-83.2531
-668749158,Matricaria_matricarioides,51.416667,-57.2
 668749157,Matricaria_matricarioides,51.426389,-57.1325
 186817022,Matricaria_matricarioides,58.6101,7.9596
 668749142,Matricaria_matricarioides,51.475,-57.240278
-1988168752,Matricaria_matricarioides,49.4,-122.9
 1323787802,Matricaria_matricarioides,69.7054,18.9977
 119981353,Matricaria_matricarioides,38.367778,-121.4725
 1846496777,Matricaria_matricarioides,33.218961,-111.988531
@@ -733,9 +705,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598613248,Matricaria_matricarioides,60.210186,25.156245
 2265453192,Matricaria_matricarioides,44.875,-93.625
 1702230560,Matricaria_matricarioides,59.8557,8.9375
-1050579945,Matricaria_matricarioides,43.56,-1.2
 2265409071,Matricaria_matricarioides,46.5225,-95.972778
-1851324332,Matricaria_matricarioides,43,-6.12
 1598613293,Matricaria_matricarioides,61.027625,24.397447
 1701778684,Matricaria_matricarioides,63.1079,11.0907
 1988886400,Matricaria_matricarioides,43.87835,-85.50695
@@ -765,7 +735,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702227413,Matricaria_matricarioides,59.9557,11.6054
 1668933962,Matricaria_matricarioides,54.913,37.568
 2265359038,Matricaria_matricarioides,46.415833,-95.062775
-1146375225,Matricaria_matricarioides,59.75,-161.9
 2289796429,Matricaria_matricarioides,45.75,7.033333
 186817733,Matricaria_matricarioides,58.3158,7.7003
 2265358900,Matricaria_matricarioides,46.318701,-94.548814
@@ -790,7 +759,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 684160326,Matricaria_matricarioides,47.151074,11.129878
 2265358195,Matricaria_matricarioides,48.127222,-93.8975
 1598613165,Matricaria_matricarioides,63.763487,24.270197
-1988162371,Matricaria_matricarioides,54.8,-121
 2265356461,Matricaria_matricarioides,43.623411,-92.219152
 1050620220,Matricaria_matricarioides,42.88,-3.22
 2265422712,Matricaria_matricarioides,46.150278,-94.406389
@@ -813,7 +781,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261311584,Matricaria_matricarioides,38.48333,-90.16666
 1851349486,Matricaria_matricarioides,42.57,-5.25
 2265966602,Matricaria_matricarioides,43.604722,-94.573611
-1988739761,Matricaria_matricarioides,46,-83.66667
 1989192393,Matricaria_matricarioides,43.41164,-84.44318
 415912206,Matricaria_matricarioides,43.03333,-73.09944
 1323818786,Matricaria_matricarioides,69.9794,23.3428
@@ -825,7 +792,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146303980,Matricaria_matricarioides,64.46,-146.91
 1697301970,Matricaria_matricarioides,61.19905,72.49581
 465929259,Matricaria_matricarioides,44.78637,-65.44434
-1455984426,Matricaria_matricarioides,64.9,-147.7
 1999477298,Matricaria_matricarioides,60.446012,22.207256
 1598613150,Matricaria_matricarioides,60.958288,24.505608
 1697844619,Matricaria_matricarioides,38.933241,48.166122
@@ -841,16 +807,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598613256,Matricaria_matricarioides,60.791635,26.528661
 2265359286,Matricaria_matricarioides,45.625853,-93.770684
 2265357961,Matricaria_matricarioides,43.637932,-95.96302
-1988223589,Matricaria_matricarioides,59.57,-133.7
 2265356470,Matricaria_matricarioides,45.520597,-92.744344
 1988663521,Matricaria_matricarioides,45.40752,-83.83033
 2265357520,Matricaria_matricarioides,43.732224,-93.08667
-1261289120,Matricaria_matricarioides,40.3,-92.13333
 1831273406,Matricaria_matricarioides,53.3485,11.582
-1988100663,Matricaria_matricarioides,57.9,-131.16
 1702204510,Matricaria_matricarioides,61.3738,11.1611
 1851373293,Matricaria_matricarioides,43.003,-4.687
-1949628387,Matricaria_matricarioides,51,-121.75
 1895146530,Matricaria_matricarioides,16.527222,-92.434722
 204424294,Matricaria_matricarioides,43.212002,-1.455
 1989438366,Matricaria_matricarioides,43.71442,-85.24363
@@ -893,7 +855,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598613193,Matricaria_matricarioides,60.975583,24.494091
 415908891,Matricaria_matricarioides,41.09666,-73.55277
 1989514610,Matricaria_matricarioides,45.10865,-83.91126
-1804447673,Matricaria_matricarioides,45.3,-75.55
 85790114,Matricaria_matricarioides,42.900002,-3.86
 1598613172,Matricaria_matricarioides,60.988823,24.410788
 1989021499,Matricaria_matricarioides,44.682974,-83.607291
@@ -928,14 +889,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988925681,Matricaria_matricarioides,44.658696,-83.289413
 204424505,Matricaria_matricarioides,43.266998,-1.54
 2265358063,Matricaria_matricarioides,44.941314,-93.095877
-1050645042,Matricaria_matricarioides,40.9,-4.01
 1804440445,Matricaria_matricarioides,45.266667,-67.483333
 1146303997,Matricaria_matricarioides,62.43,-157.86
 1705317217,Matricaria_matricarioides,57.59704,15.08609
 1839335796,Matricaria_matricarioides,57.384174,-122.840652
 1804411298,Matricaria_matricarioides,45.566667,-67.416667
 1701312451,Matricaria_matricarioides,63.6169,9.1109
-1146303971,Matricaria_matricarioides,56.33,-158.5
 1705748121,Matricaria_matricarioides,53.1383,23.1432
 57706624,Matricaria_matricarioides,63.673401,28.9158
 1697301980,Matricaria_matricarioides,51.126152,85.586071
@@ -961,15 +920,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 606654299,Matricaria_matricarioides,44.03138,-69.49638
 1262033507,Matricaria_matricarioides,45.919926,-73.432265
 1839335262,Matricaria_matricarioides,54.363889,-117.076389
-1146378978,Matricaria_matricarioides,65.1,-164.91
 1262015349,Matricaria_matricarioides,45.852877,-73.675323
 1851379911,Matricaria_matricarioides,42.92,-5.39
 1986997240,Matricaria_matricarioides,40.544057,-111.471893
 1262015317,Matricaria_matricarioides,45.856321,-73.670139
 415912205,Matricaria_matricarioides,41.80916,-72.25416
 1705419603,Matricaria_matricarioides,57.436038,15.205809
-1697302078,Matricaria_matricarioides,50.333333,85.3
-1851363743,Matricaria_matricarioides,43,-6.24
 1262015274,Matricaria_matricarioides,45.877871,-73.774293
 1262015008,Matricaria_matricarioides,45.637549,-73.668979
 1248699504,Matricaria_matricarioides,53.783333,-77.616667
@@ -981,12 +937,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697301991,Matricaria_matricarioides,50.933333,85.25
 1697302012,Matricaria_matricarioides,50.283333,85.633333
 1702232376,Matricaria_matricarioides,60.4108,8.3374
-1804398380,Matricaria_matricarioides,45.4,-67.35
 1262014482,Matricaria_matricarioides,45.548878,-73.83274
 1804518892,Matricaria_matricarioides,45.733333,-60.233333
 1262014463,Matricaria_matricarioides,45.804462,-73.93057
 1702214441,Matricaria_matricarioides,61.4298,11.5587
-1146364356,Matricaria_matricarioides,61.4,-149.06
 1262014596,Matricaria_matricarioides,45.547915,-73.834666
 1702353149,Matricaria_matricarioides,60.4648,8.3727
 176979408,Matricaria_matricarioides,44.275858,-104.064024
@@ -996,7 +950,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261007648,Matricaria_matricarioides,38.088056,-92.560833
 119981264,Matricaria_matricarioides,38.5025,-122.099444
 2242399646,Matricaria_matricarioides,38.412803,-121.27832
-239702112,Matricaria_matricarioides,44.9,-123.42
 51886773,Matricaria_matricarioides,44.905,-123.1844
 415908912,Matricaria_matricarioides,37.57166,-84.29027
 684160329,Matricaria_matricarioides,47.116667,10.620833
@@ -1005,7 +958,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176979504,Matricaria_matricarioides,37.02449,-94.6648
 1261001229,Matricaria_matricarioides,39.01111,-90.92611
 774384915,Matricaria_matricarioides,50.40139,8.134722
-1988181233,Matricaria_matricarioides,49.4,-120.5
 204424666,Matricaria_matricarioides,42.752998,-2.468
 1851339094,Matricaria_matricarioides,42.91,-6.24
 1563901316,Matricaria_matricarioides,58.4779,7.2141
@@ -1018,9 +970,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262017817,Matricaria_matricarioides,46.090882,-73.140862
 1262035265,Matricaria_matricarioides,45.763916,-73.815459
 2265358285,Matricaria_matricarioides,48.43325,-92.842322
-1988200618,Matricaria_matricarioides,59.02,-121.3
 1638409933,Matricaria_matricarioides,48.04222,14.38278
-1146245227,Matricaria_matricarioides,61.4,-149.066667
 1929156792,Matricaria_matricarioides,40.8798,-109.7681
 1702353002,Matricaria_matricarioides,59.862,9.3347
 1988680843,Matricaria_matricarioides,46.734653,-89.048332
@@ -1028,7 +978,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262017740,Matricaria_matricarioides,46.826009,-72.505076
 684160387,Matricaria_matricarioides,47.276434,10.792694
 1323701893,Matricaria_matricarioides,68.5362,17.5755
-1988114191,Matricaria_matricarioides,49.5,-88.08
 1050575244,Matricaria_matricarioides,43.11,-2.65
 204424665,Matricaria_matricarioides,43.113998,-2.65
 1262017287,Matricaria_matricarioides,46.807705,-72.521136
@@ -1052,7 +1001,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262009864,Matricaria_matricarioides,45.241752,-73.645438
 1851344169,Matricaria_matricarioides,43.01,-5.39
 2265358251,Matricaria_matricarioides,44.233108,-91.917245
-1146367726,Matricaria_matricarioides,62.83,-160.7
 1144122034,Matricaria_matricarioides,60.7688,5.7778
 1262009586,Matricaria_matricarioides,45.145833,-73.445556
 1262009427,Matricaria_matricarioides,45.115714,-73.67299
@@ -1076,7 +1024,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265356668,Matricaria_matricarioides,45.072594,-94.185089
 415908909,Matricaria_matricarioides,42.72583,-92.47555
 1146231053,Matricaria_matricarioides,66.566206846002,-152.636012127683
-1146366902,Matricaria_matricarioides,61,-159.95
 415908910,Matricaria_matricarioides,43.115,-92.0325
 606657857,Matricaria_matricarioides,41.78444,-72.33944
 2320663344,Matricaria_matricarioides,60.903282,7.203536
@@ -1089,7 +1036,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455447782,Matricaria_matricarioides,50.513718,4.573357
 1989155170,Matricaria_matricarioides,46.319528,-84.160249
 1804462451,Matricaria_matricarioides,43.583333,-79.616667
-1988215480,Matricaria_matricarioides,60.8,-133.1
 176979503,Matricaria_matricarioides,39.981595,-95.299239
 2265359483,Matricaria_matricarioides,46.983894,-95.497699
 1702353175,Matricaria_matricarioides,65.3643,14.1508
@@ -1102,7 +1048,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598613344,Matricaria_matricarioides,61.787523,25.00665
 176979632,Matricaria_matricarioides,44.499788,-107.530841
 684160416,Matricaria_matricarioides,46.966,10.533
-1839335782,Matricaria_matricarioides,64.033333,-138.6
 1804381111,Matricaria_matricarioides,46.083333,-73.083333
 1262008098,Matricaria_matricarioides,46.56,-72.47
 1146336784,Matricaria_matricarioides,63.93,-138.61
@@ -1114,7 +1059,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262007059,Matricaria_matricarioides,46.456,-70.801
 464987089,Matricaria_matricarioides,45.36725,-71.9338
 1056730420,Matricaria_matricarioides,50.952361,0.221594
-1988145358,Matricaria_matricarioides,51.9,-120
 2270661196,Matricaria_matricarioides,33.39,-112.24
 2270202393,Matricaria_matricarioides,35.197821,-120.66211
 1846501365,Matricaria_matricarioides,33.41696,-111.3652
@@ -1126,9 +1070,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930177163,Matricaria_matricarioides,43.753297,-111.403986
 1929148402,Matricaria_matricarioides,41.7676,-115.7805
 51886836,Matricaria_matricarioides,45.6853,-121.3058
-1804467370,Matricaria_matricarioides,42.366667,-82.4
-1146359823,Matricaria_matricarioides,60.78,-149.2
-1146352466,Matricaria_matricarioides,59.93,-149.7
 415908911,Matricaria_matricarioides,42.56666,-72.56583
 2265357729,Matricaria_matricarioides,49.345203,-95.081589
 2265355769,Matricaria_matricarioides,44.73907,-92.86266
@@ -1149,10 +1090,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265357472,Matricaria_matricarioides,48.735353,-94.642459
 900227002,Matricaria_matricarioides,58.9375,5.572
 1697691413,Matricaria_matricarioides,55.483557,37.301306
-1988197682,Matricaria_matricarioides,66,25.4
 1099918137,Matricaria_matricarioides,66.016667,25.366667
 1703288282,Matricaria_matricarioides,50.4904587414537,-96.5888246026094
-1977968672,Matricaria_matricarioides,63.5,27
 1851352167,Matricaria_matricarioides,43.02,-5.27
 1262033570,Matricaria_matricarioides,46.866667,-71.269167
 2265357704,Matricaria_matricarioides,47.19509,-96.00003
@@ -1227,7 +1166,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186817167,Matricaria_matricarioides,58.4783,7.2081
 1702438962,Matricaria_matricarioides,58.9081,6.0753
 187190590,Matricaria_matricarioides,62.8146,11.4624
-1146347215,Matricaria_matricarioides,57.08,-153.2
 1697301989,Matricaria_matricarioides,66.14445,87.24911
 1989016680,Matricaria_matricarioides,48.1775,-88.5425
 1697302003,Matricaria_matricarioides,58.33366,100.01942
@@ -1240,13 +1178,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187190589,Matricaria_matricarioides,62.8214,11.5807
 1703287661,Matricaria_matricarioides,49.75472199907,-95.246667
 176979425,Matricaria_matricarioides,44.275172,-103.850366
-1988131417,Matricaria_matricarioides,50.3,-117.8
 2265357114,Matricaria_matricarioides,47.194255,-95.869088
 1701981054,Matricaria_matricarioides,63.141,9.4354
-1988089022,Matricaria_matricarioides,50.2,-119.3
 176979496,Matricaria_matricarioides,37.277685,-98.574739
 2265357401,Matricaria_matricarioides,47.078361,-93.581742
-1988190466,Matricaria_matricarioides,50.7,-121.6
 1936364878,Matricaria_matricarioides,42.2251,-3.2194
 900225363,Matricaria_matricarioides,58.6675,5.784
 1928822898,Matricaria_matricarioides,40.9161,-119.5582
@@ -1258,7 +1193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702411017,Matricaria_matricarioides,58.6614,8.9741
 1899297587,Matricaria_matricarioides,43.633333,-79.325
 1701713428,Matricaria_matricarioides,58.5246,8.351
-1839335266,Matricaria_matricarioides,56.933333,-114.4
 1701504391,Matricaria_matricarioides,61.3153,6.5627
 1701923347,Matricaria_matricarioides,58.3129,6.9604
 1702410992,Matricaria_matricarioides,58.7498,8.8635
@@ -1295,10 +1229,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265357056,Matricaria_matricarioides,47.713352,-93.544499
 1986997039,Matricaria_matricarioides,38.559014,-111.714829
 1701933723,Matricaria_matricarioides,59.7193,11.4509
-1839335730,Matricaria_matricarioides,50.633333,-115.1
 900226335,Matricaria_matricarioides,59.1873,6.103
 1928861757,Matricaria_matricarioides,38.5634,-111.6973
-1988089471,Matricaria_matricarioides,51.2,-123
 1697301981,Matricaria_matricarioides,53.902254,127.093584
 1697302016,Matricaria_matricarioides,53.865147,127.11805
 788602710,Matricaria_matricarioides,60.078139,15.002762
@@ -1322,7 +1254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702439261,Matricaria_matricarioides,63.9663,11.318
 1702169916,Matricaria_matricarioides,59.3504,10.7321
 1701980890,Matricaria_matricarioides,63.8799,11.3057
-1099918388,Matricaria_matricarioides,60.3,22.633333
 1702439416,Matricaria_matricarioides,59.7673,10.0798
 620530922,Matricaria_matricarioides,46.09964,-60.75111
 373757029,Matricaria_matricarioides,62.1553,25.7498
@@ -1341,7 +1272,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697844563,Matricaria_matricarioides,42.795873,43.921709
 2242368994,Matricaria_matricarioides,39.506536,-105.553371
 2242365063,Matricaria_matricarioides,39.738704,-105.030542
-1988174874,Matricaria_matricarioides,64.8,-147.7
 1702167642,Matricaria_matricarioides,70.416,26.6926
 1701981217,Matricaria_matricarioides,64.4691,12.1017
 1248699574,Matricaria_matricarioides,48.563333,-78.145
@@ -1359,7 +1289,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176979854,Matricaria_matricarioides,36.142812,-86.806158
 176979507,Matricaria_matricarioides,38.400439,-96.212476
 1248699609,Matricaria_matricarioides,48.576111,-78.255
-1988154005,Matricaria_matricarioides,49.9,-117.4
 176979423,Matricaria_matricarioides,65.083963,-147.726179
 1701691590,Matricaria_matricarioides,60.97437,11.73801
 1697691420,Matricaria_matricarioides,54.851986,38.580774
@@ -1375,7 +1304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1986997349,Matricaria_matricarioides,39.102899,-76.844932
 1261886293,Matricaria_matricarioides,40.941,-90.389
 1261886355,Matricaria_matricarioides,40.48,-90.06
-1804448221,Matricaria_matricarioides,59.933333,-128.5
 51886486,Matricaria_matricarioides,43.9194,-123.0856
 51886487,Matricaria_matricarioides,43.9828,-122.9259
 1144122002,Matricaria_matricarioides,60.2873,5.9339
@@ -1416,7 +1344,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701251058,Matricaria_matricarioides,63.4681,11.0166
 39443547,Matricaria_matricarioides,64.314,-20.318
 176979641,Matricaria_matricarioides,47.1572,-110.21826
-1851336338,Matricaria_matricarioides,42.82,-6
 187190749,Matricaria_matricarioides,63.4765,11.0574
 1702411006,Matricaria_matricarioides,58.8006,9.1125
 1702352995,Matricaria_matricarioides,61.6154,8.9717
@@ -1442,7 +1369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697691387,Matricaria_matricarioides,55.88143,40.72392
 1697691337,Matricaria_matricarioides,55.785233,40.432258
 1986997614,Matricaria_matricarioides,41.60194,-111.565
-1988110582,Matricaria_matricarioides,48.4,-89.3
 1323864159,Matricaria_matricarioides,67.1339,14.9423
 1701761636,Matricaria_matricarioides,62.643,12.0249
 1701691662,Matricaria_matricarioides,60.87203,10.45449
@@ -1477,7 +1403,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51886407,Matricaria_matricarioides,44.0759,-123.1142
 1055506576,Matricaria_matricarioides,51.548322,-0.271231
 1056220251,Matricaria_matricarioides,51.808013,-1.286298
-1702353061,Matricaria_matricarioides,60.8358,9
 2242400931,Matricaria_matricarioides,55.88526,12.199347
 2270474460,Matricaria_matricarioides,32.532216,-116.394527
 1846501405,Matricaria_matricarioides,32.561944,-115.945833
@@ -1523,7 +1448,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701764428,Matricaria_matricarioides,63.7094,11.1958
 1701281186,Matricaria_matricarioides,63.7437,11.2998
 1701305128,Matricaria_matricarioides,63.4366,10.6736
-1988191431,Matricaria_matricarioides,47.9,-84.7
 1702411057,Matricaria_matricarioides,58.4991,8.5797
 1702410995,Matricaria_matricarioides,58.8586,7.8733
 1697691351,Matricaria_matricarioides,59.458172,29.400949
@@ -1539,7 +1463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1500089617,Matricaria_matricarioides,52.716667,-117.633333
 1697946444,Matricaria_matricarioides,63.1103,7.7416
 1899297027,Matricaria_matricarioides,43.616667,-79.383333
-1988092952,Matricaria_matricarioides,53.9,-122.8
 1846501413,Matricaria_matricarioides,33.972111,-117.323611
 176979628,Matricaria_matricarioides,48.76939,-98.03788
 1702352704,Matricaria_matricarioides,59.06662,11.43855
@@ -1547,7 +1470,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1699915856,Matricaria_matricarioides,62.905,11.9031
 176979482,Matricaria_matricarioides,46.90561,-102.31573
 1988205579,Matricaria_matricarioides,60.72,-135.05
-1988064860,Matricaria_matricarioides,58.8,-122.7
 1999477304,Matricaria_matricarioides,60.802065,21.417703
 1999477302,Matricaria_matricarioides,68.706968,25.795699
 1702352941,Matricaria_matricarioides,61.70257,8.94506
@@ -1591,7 +1513,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999477294,Matricaria_matricarioides,60.440298,22.299074
 39443651,Matricaria_matricarioides,66.074,-23.13
 1804531807,Matricaria_matricarioides,49.316667,-88.883333
-1988120652,Matricaria_matricarioides,49.3,-88.9
 39443649,Matricaria_matricarioides,66.105,-23.118
 57706603,Matricaria_matricarioides,62.981899,22.3589
 1701777068,Matricaria_matricarioides,63.405,10.4215
@@ -1602,25 +1523,21 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701996126,Matricaria_matricarioides,62.61,6.1647
 1598613371,Matricaria_matricarioides,63.036518,24.526433
 1701996319,Matricaria_matricarioides,62.2611,5.4459
-894982313,Matricaria_matricarioides,57.333333,-117.8
 1144121986,Matricaria_matricarioides,60.3839,7.1443
 176979730,Matricaria_matricarioides,44.33771,-103.82595
 1598613224,Matricaria_matricarioides,62.581023,24.175029
 1598613202,Matricaria_matricarioides,61.879831,25.190806
 1598613170,Matricaria_matricarioides,62.510112,28.646803
 1598613389,Matricaria_matricarioides,61.162379,28.761899
-1988216680,Matricaria_matricarioides,49.3,-123.3
 924820155,Matricaria_matricarioides,36.39918,-94.18854
 1839335766,Matricaria_matricarioides,52.1347,-106.6767
 788640309,Matricaria_matricarioides,60.62123,17.01137
 1839335682,Matricaria_matricarioides,54.6577,-111.4193
-1146391673,Matricaria_matricarioides,64.85,-147.8
 1598613346,Matricaria_matricarioides,61.556773,22.762147
 1056040202,Matricaria_matricarioides,51.513353,-1.20548
 1839335740,Matricaria_matricarioides,54.4369,-110.0279
 187190584,Matricaria_matricarioides,62.93,10.1719
 360095146,Matricaria_matricarioides,62.564301,25.8396
-1146364883,Matricaria_matricarioides,61.6,-149.1
 1839335717,Matricaria_matricarioides,54.8114,-111.4087
 1144121972,Matricaria_matricarioides,61.4618,7.7805
 360095163,Matricaria_matricarioides,62.326698,26.774799
@@ -1651,7 +1568,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270583597,Matricaria_matricarioides,33.8776,-112.277
 2270662523,Matricaria_matricarioides,33.88,-112.28
 2270258722,Matricaria_matricarioides,34.7529999991159,-120.416
-1426422473,Matricaria_matricarioides,36.066667,-120.3
 1701874529,Matricaria_matricarioides,59.73195,10.15707
 57706586,Matricaria_matricarioides,62.637199,25.9732
 812027687,Matricaria_matricarioides,50.631133,9.446383
@@ -1662,7 +1578,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176979390,Matricaria_matricarioides,44.0937,-103.76244
 1598613347,Matricaria_matricarioides,60.724847,27.271868
 239017209,Matricaria_matricarioides,62.6646,26.050301
-1804461816,Matricaria_matricarioides,49.35,-88.9
 1598613139,Matricaria_matricarioides,60.577061,26.951306
 1598613407,Matricaria_matricarioides,60.724351,27.455098
 373757041,Matricaria_matricarioides,62.696499,26.117701
@@ -1679,7 +1594,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598613286,Matricaria_matricarioides,60.723605,27.638319
 39443551,Matricaria_matricarioides,63.981,-22.377
 1146396289,Matricaria_matricarioides,65.73,-144.25
-1936235648,Matricaria_matricarioides,41.1,-4.5333
 2270182766,Matricaria_matricarioides,35.30077,-120.66065
 2270663646,Matricaria_matricarioides,33.87,-111.48
 176979870,Matricaria_matricarioides,39.20106,-93.59306
@@ -1696,7 +1610,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788583655,Matricaria_matricarioides,55.628938,13.142639
 788585022,Matricaria_matricarioides,56.973814,12.628422
 360095173,Matricaria_matricarioides,61.524399,21.825001
-1262027741,Matricaria_matricarioides,45.3,-74.183333
 1701345020,Matricaria_matricarioides,62.6645,11.8797
 788687630,Matricaria_matricarioides,62.82027,17.97244
 1702235012,Matricaria_matricarioides,59.1688,11.0377
@@ -1708,18 +1621,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1455966529,Matricaria_matricarioides,37.4083,-122.23
 1261007675,Matricaria_matricarioides,36.60055,-93.10833
 1099917325,Matricaria_matricarioides,56.158056,10.211944
-1146392394,Matricaria_matricarioides,64.88,-147.8
 1144122099,Matricaria_matricarioides,61.73973,6.18986
 1259106010,Matricaria_matricarioides,16.84,-92.67
 2265356848,Matricaria_matricarioides,45.435724,-93.214819
 1999477291,Matricaria_matricarioides,60.386539,23.142159
-1146396726,Matricaria_matricarioides,65.5,-148.5
-1146396581,Matricaria_matricarioides,65.2,-148.08
 1999477311,Matricaria_matricarioides,60.341614,22.703251
 1702353176,Matricaria_matricarioides,68.29731,17.60818
 57706634,Matricaria_matricarioides,61.875843,28.774092
 1144122173,Matricaria_matricarioides,60.13253,9.49842
-1146396575,Matricaria_matricarioides,65.33,-148.3
 473538183,Matricaria_matricarioides,45.683333,-66.116667
 1323800709,Matricaria_matricarioides,68.2856,17.3134
 216100913,Matricaria_matricarioides,62.251301,25.9671
@@ -1728,11 +1637,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146396667,Matricaria_matricarioides,65.45,-148.25
 57706685,Matricaria_matricarioides,61.587101,23.888901
 1701279037,Matricaria_matricarioides,63.307,10.1672
-1804365449,Matricaria_matricarioides,42.783333,-80.2
 1988240667,Matricaria_matricarioides,44.23,-76.51
 1144122153,Matricaria_matricarioides,58.88222,5.85054
 1702353075,Matricaria_matricarioides,61.13415,10.39176
-1146385110,Matricaria_matricarioides,64.3,-141.4
 176979437,Matricaria_matricarioides,44.372347,-103.9189
 39443466,Matricaria_matricarioides,64.212,-20.749
 1701256899,Matricaria_matricarioides,78.9243,11.9446
@@ -1777,7 +1684,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313350656,Matricaria_matricarioides,48.19,11.55
 2270202377,Matricaria_matricarioides,36.440688,-121.394921
 924820195,Matricaria_matricarioides,38.41685,-96.17848
-1262003324,Matricaria_matricarioides,45.05,-72.8
 176979452,Matricaria_matricarioides,48.25779,-101.5635
 51886712,Matricaria_matricarioides,45.5221,-116.8072
 1638409911,Matricaria_matricarioides,47.07833,15.45194
@@ -1814,7 +1720,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988204757,Matricaria_matricarioides,45.89,-77.28
 1598613149,Matricaria_matricarioides,66.003979,29.089332
 1598613328,Matricaria_matricarioides,61.252077,28.766919
-1248699535,Matricaria_matricarioides,53.2,-70.9
 1598613333,Matricaria_matricarioides,60.884864,24.694786
 187190769,Matricaria_matricarioides,67.2321,15.382
 1598613197,Matricaria_matricarioides,61.874509,21.575548
@@ -1835,7 +1740,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187190551,Matricaria_matricarioides,63.7157,9.6578
 1144122059,Matricaria_matricarioides,60.66099,5.76755
 900225837,Matricaria_matricarioides,58.8979,6.0231
-2270661868,Matricaria_matricarioides,33.3,-111.27
 2270258171,Matricaria_matricarioides,34.747999999116,-120.053
 1426422779,Matricaria_matricarioides,37.275,-121.825
 57706593,Matricaria_matricarioides,62.2495,25.755501
@@ -1860,7 +1764,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999507282,Matricaria_matricarioides,70.081978,27.876216
 57706687,Matricaria_matricarioides,63.586102,25.2845
 1598613212,Matricaria_matricarioides,60.354791,25.647265
-1988233068,Matricaria_matricarioides,61.1,-123.4
 1702353121,Matricaria_matricarioides,62.41526,11.40967
 373757020,Matricaria_matricarioides,62.142101,25.7791
 1705259673,Matricaria_matricarioides,57.363706,16.503148
@@ -1927,7 +1830,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 216101015,Matricaria_matricarioides,62.246601,25.9384
 464910997,Matricaria_matricarioides,48.77152,-87.92831
 1598613175,Matricaria_matricarioides,68.876472,21.147681
-1322511608,Matricaria_matricarioides,67,-152
 1598613157,Matricaria_matricarioides,68.714288,21.68553
 1031017071,Matricaria_matricarioides,42.798109,130.377202
 2270259225,Matricaria_matricarioides,34.4166999991199,-119.8566
@@ -1976,12 +1878,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1056227262,Matricaria_matricarioides,50.603593,-3.648517
 1989301479,Matricaria_matricarioides,43.97534,-83.95161
 1323819260,Matricaria_matricarioides,67.1177,15.0115
-1988231583,Matricaria_matricarioides,49,-114.47
 1261955396,Matricaria_matricarioides,47.848358,-69.876509
 1989261527,Matricaria_matricarioides,46.474518,-87.540049
 1702353038,Matricaria_matricarioides,62.12133,9.45125
 57706677,Matricaria_matricarioides,62.222099,25.6989
-1829420304,Matricaria_matricarioides,43.05,143.2
 1598613274,Matricaria_matricarioides,61.874309,24.810876
 1146371905,Matricaria_matricarioides,63.38,-143.33
 1598613326,Matricaria_matricarioides,61.078762,28.201322
@@ -1995,7 +1895,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705298935,Matricaria_matricarioides,55.429296,13.818613
 1697301963,Matricaria_matricarioides,59.623463,150.915556
 788667999,Matricaria_matricarioides,58.683779,13.812689
-1261955026,Matricaria_matricarioides,46.9,-71.15
 1697302018,Matricaria_matricarioides,59.560158,150.799949
 1999507369,Matricaria_matricarioides,60.650008,22.515816
 1144122095,Matricaria_matricarioides,61.56409,6.40791
@@ -2017,17 +1916,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999477315,Matricaria_matricarioides,60.392095,22.878202
 1839335267,Matricaria_matricarioides,53.127639,-117.015283
 2265356869,Matricaria_matricarioides,46.652182,-96.41979
-1261955133,Matricaria_matricarioides,46.8,-71.183333
 1705498885,Matricaria_matricarioides,61.28,22.69
 1988198010,Matricaria_matricarioides,60.21,-132.92
-437121869,Matricaria_matricarioides,47.31667,-0.6
 1598613207,Matricaria_matricarioides,61.352527,27.464187
 924820211,Matricaria_matricarioides,42.95639,-95.44389
 788579209,Matricaria_matricarioides,55.62233,13.12635
 1999477225,Matricaria_matricarioides,60.43869,22.253824
 1598613348,Matricaria_matricarioides,61.240209,24.482492
 788686014,Matricaria_matricarioides,59.92478,16.95578
-1988172051,Matricaria_matricarioides,49.3,-123.1
 1999477289,Matricaria_matricarioides,60.386679,22.570181
 1042868829,Matricaria_matricarioides,55.54128,13.04373
 1671688348,Matricaria_matricarioides,69.27793,19.16723
@@ -2060,7 +1956,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 900349334,Matricaria_matricarioides,59.56058,10.73151
 1701800118,Matricaria_matricarioides,70.0442,22.9562
 1056889864,Matricaria_matricarioides,51.307793,0.287735
-1261957915,Matricaria_matricarioides,47.6,-70.2
 1701228833,Matricaria_matricarioides,62.6733,11.4117
 1598613300,Matricaria_matricarioides,61.146985,24.304145
 57706602,Matricaria_matricarioides,62.2099,27.2945
@@ -2082,7 +1977,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57706683,Matricaria_matricarioides,62.964199,25.9125
 465929239,Matricaria_matricarioides,45.384271,-64.083618
 1598613354,Matricaria_matricarioides,63.416676,27.297037
-1261953302,Matricaria_matricarioides,46.85,-71.2
 1999477374,Matricaria_matricarioides,60.373815,22.726228
 1146356905,Matricaria_matricarioides,60.86,-162.53
 465929232,Matricaria_matricarioides,44.54881,-64.72341
@@ -2095,7 +1989,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705350225,Matricaria_matricarioides,57.104306,15.063825
 57706662,Matricaria_matricarioides,61.501598,24.0854
 2270581971,Matricaria_matricarioides,33.5092,-111.898
-2270662100,Matricaria_matricarioides,33.51,-111.9
 1426422800,Matricaria_matricarioides,37.25,-122.141667
 1426422794,Matricaria_matricarioides,36.901667,-121.596667
 176979786,Matricaria_matricarioides,41.29917,-91.69278
@@ -2137,7 +2030,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57706656,Matricaria_matricarioides,63.4683,23.6861
 1144122130,Matricaria_matricarioides,60.7601,5.1798
 1999477260,Matricaria_matricarioides,60.792751,21.410126
-1261991147,Matricaria_matricarioides,45.736,-70.7
 57706638,Matricaria_matricarioides,61.870304,24.839548
 1989023528,Matricaria_matricarioides,45.841323,-84.724358
 1701569458,Matricaria_matricarioides,64.6067,12.2406
@@ -2145,7 +2037,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701255263,Matricaria_matricarioides,63.3608,10.3494
 1701336541,Matricaria_matricarioides,67.3033,14.431
 1598613230,Matricaria_matricarioides,60.896339,24.301924
-1146353079,Matricaria_matricarioides,59.71,-154.9
 1598613358,Matricaria_matricarioides,61.097337,22.452507
 1598613327,Matricaria_matricarioides,60.800975,25.068292
 1319372990,Matricaria_matricarioides,39.5375,-77.4158
@@ -2161,7 +2052,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999477328,Matricaria_matricarioides,60.477006,22.721864
 177285412,Matricaria_matricarioides,62.238499,25.169201
 1988173903,Matricaria_matricarioides,50.67,-120.32
-1456196856,Matricaria_matricarioides,64.3,-146.7
 1598613305,Matricaria_matricarioides,62.662368,30.216851
 788604094,Matricaria_matricarioides,56.191083,13.745566
 1456099254,Matricaria_matricarioides,60.07,-149.45
@@ -2181,7 +2071,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701901825,Matricaria_matricarioides,69.53059,21.47856
 1701691600,Matricaria_matricarioides,69.4953,20.81484
 1702353057,Matricaria_matricarioides,61.56336,10.29904
-1456079874,Matricaria_matricarioides,60.03,-112.8
 1701691626,Matricaria_matricarioides,61.002,11.11167
 1701799981,Matricaria_matricarioides,70.0433,24.9651
 1701901801,Matricaria_matricarioides,63.45631,11.2006
@@ -2194,7 +2083,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701592312,Matricaria_matricarioides,70.03272,23.2623
 1702174802,Matricaria_matricarioides,59.8802,8.5677
 2265357391,Matricaria_matricarioides,47.15681,-91.90802
-883415348,Matricaria_matricarioides,60.033333,-112.8
 57706639,Matricaria_matricarioides,61.147011,24.304026
 1701311419,Matricaria_matricarioides,63.4592,11.1164
 1705298004,Matricaria_matricarioides,58.663165,16.391163
@@ -2224,10 +2112,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1055403939,Matricaria_matricarioides,52.6914,0.646129
 2270664199,Matricaria_matricarioides,31.541,-110.758
 1705465171,Matricaria_matricarioides,56.744638,14.914524
-1146368120,Matricaria_matricarioides,62.95,-155.6
 2265359070,Matricaria_matricarioides,47.851534,-92.147645
 2265356148,Matricaria_matricarioides,48.031651,-91.618862
-1988090504,Matricaria_matricarioides,49,-121
 1055438103,Matricaria_matricarioides,58.367887,-4.607568
 1986997530,Matricaria_matricarioides,41.69,-111.91889
 900225758,Matricaria_matricarioides,59.3417,5.7908
@@ -2264,7 +2150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1622357558,Matricaria_matricarioides,63.139995,21.737573
 1839335762,Matricaria_matricarioides,55.715132,-118.846671
 176979481,Matricaria_matricarioides,41.32505,-85.59721
-1950902655,Matricaria_matricarioides,64.066667,-138.3
 1702241633,Matricaria_matricarioides,59.2579,11.0994
 57706584,Matricaria_matricarioides,63.080299,25.848801
 1323818977,Matricaria_matricarioides,69.9324,21.7181
@@ -2289,7 +2174,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2265357525,Matricaria_matricarioides,45.254131,-94.894452
 1042858993,Matricaria_matricarioides,56.309117,15.465362
 788544566,Matricaria_matricarioides,55.445069,14.121954
-1988225374,Matricaria_matricarioides,49.6,-116.2
 788561597,Matricaria_matricarioides,57.790878,13.412775
 1705445527,Matricaria_matricarioides,57.698854,16.335775
 1598613118,Matricaria_matricarioides,60.30374,24.129507
@@ -2348,7 +2232,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705416756,Matricaria_matricarioides,55.645747,13.892094
 39443542,Matricaria_matricarioides,64.009,-21.184
 2265357601,Matricaria_matricarioides,48.846093,-95.762766
-1988215375,Matricaria_matricarioides,54,-124
 2265356787,Matricaria_matricarioides,44.585501,-94.934085
 2265358073,Matricaria_matricarioides,44.499349,-94.558157
 2265356851,Matricaria_matricarioides,44.149094,-93.9994
@@ -2358,7 +2241,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144122040,Matricaria_matricarioides,60.3092,5.2582
 788548738,Matricaria_matricarioides,55.964191,13.248577
 788760219,Matricaria_matricarioides,56.26133,12.99943
-1988228235,Matricaria_matricarioides,49.7,-116
 1702276891,Matricaria_matricarioides,59.4125,11.3521
 39443325,Matricaria_matricarioides,65.232,-21.748
 1144122025,Matricaria_matricarioides,60.2829,5.2969
@@ -2422,7 +2304,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701342974,Matricaria_matricarioides,62.6121,9.5748
 1701901785,Matricaria_matricarioides,62.56504,11.68681
 1146364747,Matricaria_matricarioides,61.53,-149.23
-1988195981,Matricaria_matricarioides,49,-116
 1702353101,Matricaria_matricarioides,59.51354,10.22705
 1702353088,Matricaria_matricarioides,59.5853,10.21369
 415908896,Matricaria_matricarioides,41.30833,-72.24333
@@ -2443,7 +2324,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144122077,Matricaria_matricarioides,61.03699,6.57199
 1323819172,Matricaria_matricarioides,69.6801,18.9742
 788640536,Matricaria_matricarioides,60.53512,15.20728
-1146344820,Matricaria_matricarioides,58.3,-134.4
 1702353217,Matricaria_matricarioides,59.53317,6.54486
 1701691579,Matricaria_matricarioides,60.01399,9.99
 788542993,Matricaria_matricarioides,56.179769,13.831679
@@ -2456,7 +2336,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261957038,Matricaria_matricarioides,48.75,-86.25
 1701870823,Matricaria_matricarioides,59.2516,10.8324
 2265357624,Matricaria_matricarioides,48.545694,-93.412439
-1146380252,Matricaria_matricarioides,67.41,-150.1
 1705383080,Matricaria_matricarioides,56.094647,14.087624
 1702352974,Matricaria_matricarioides,60.70078,10.26106
 1323819401,Matricaria_matricarioides,63.70086,11.23768
@@ -2473,7 +2352,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788589269,Matricaria_matricarioides,58.411121,15.616815
 2265357087,Matricaria_matricarioides,44.969959,-93.237021
 788695819,Matricaria_matricarioides,58.49992,13.773099
-1804556980,Matricaria_matricarioides,48,-85
 1701335083,Matricaria_matricarioides,64.4868,11.9243
 2265356734,Matricaria_matricarioides,47.532426,-92.612796
 1598613236,Matricaria_matricarioides,61.798062,28.039697
@@ -2503,8 +2381,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788732092,Matricaria_matricarioides,58.795571,16.791774
 51886962,Matricaria_matricarioides,42.3267,-122.8744
 51887164,Matricaria_matricarioides,45.1753,-121.0803
-1988084409,Matricaria_matricarioides,50,-120
-415908930,Matricaria_matricarioides,41.7,-71.26666
 1804488699,Matricaria_matricarioides,48.333333,-88.833333
 2265356721,Matricaria_matricarioides,46.78429,-92.10066
 1831273362,Matricaria_matricarioides,53.4485,11.7486
@@ -2524,10 +2400,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705345971,Matricaria_matricarioides,61.345642,16.389443
 465929175,Matricaria_matricarioides,45.508889,-73.554167
 1702353130,Matricaria_matricarioides,59.57248,10.5063
-176979736,Matricaria_matricarioides,45.5,-73.58333
 788548198,Matricaria_matricarioides,55.65525,13.08309
 1999664641,Matricaria_matricarioides,59.960838,23.505513
-1804364888,Matricaria_matricarioides,47,-84.75
 1705445351,Matricaria_matricarioides,59.61238,16.540739
 1839335741,Matricaria_matricarioides,53.719921,-113.208849
 1999507371,Matricaria_matricarioides,60.477153,22.075131
@@ -2735,7 +2609,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 57706625,Matricaria_matricarioides,62.065498,25.7535
 788667942,Matricaria_matricarioides,57.6832,13.05392
 1705273338,Matricaria_matricarioides,56.211725,15.278152
-1146367796,Matricaria_matricarioides,62.2,-159.76
 465929171,Matricaria_matricarioides,45.36273,-61.49298
 1323819286,Matricaria_matricarioides,65.8101,13.1408
 176979624,Matricaria_matricarioides,37.082497,-94.166847
@@ -2762,7 +2635,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701249681,Matricaria_matricarioides,63.6888,9.6572
 51887290,Matricaria_matricarioides,45.5594,-116.9361
 1999477248,Matricaria_matricarioides,60.242863,24.017533
-1988133621,Matricaria_matricarioides,49.2999999990676,-123.1
 788603976,Matricaria_matricarioides,55.688214,13.644397
 1705350440,Matricaria_matricarioides,58.172061,12.990534
 788565921,Matricaria_matricarioides,55.70983,13.65489
@@ -2950,9 +2822,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701279548,Matricaria_matricarioides,63.4142,10.3919
 788543671,Matricaria_matricarioides,59.055812,12.703405
 788544685,Matricaria_matricarioides,55.786116,13.244446
-2270661440,Matricaria_matricarioides,32.3,-111.05
 1701901721,Matricaria_matricarioides,59.84212,10.21987
-1988211959,Matricaria_matricarioides,50.5,-119.2
 1702276915,Matricaria_matricarioides,59.3789,10.7522
 1702410976,Matricaria_matricarioides,58.2634,7.9689
 788640081,Matricaria_matricarioides,61.30282,17.10515
@@ -2960,7 +2830,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701659649,Matricaria_matricarioides,59.1823,10.96
 1057606335,Matricaria_matricarioides,56.716061,-2.923402
 1598613047,Matricaria_matricarioides,61.622242,27.279701
-2290691071,Matricaria_matricarioides,51.5,-117
 2270663725,Matricaria_matricarioides,32.22,-110.93
 335206442,Matricaria_matricarioides,48.577224,7.751721
 1697691330,Matricaria_matricarioides,54.283228,30.995111
