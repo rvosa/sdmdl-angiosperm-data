@@ -32,7 +32,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701845276,Lysimachia_vulgaris,59.7203,11.2491
 2268885995,Lysimachia_vulgaris,51.77511,87.61475
 2310957655,Lysimachia_vulgaris,45.54,-73.15
-1919932114,Lysimachia_vulgaris,54.616667,100.5
 2287442706,Lysimachia_vulgaris,52.525,6.125
 1230931576,Lysimachia_vulgaris,41.02472,44.2825
 1144053126,Lysimachia_vulgaris,58.7325,5.7168
@@ -54,7 +53,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851396666,Lysimachia_vulgaris,41.900496,-5.743978
 1701886849,Lysimachia_vulgaris,59.5557,10.379
 1851385428,Lysimachia_vulgaris,41.953816,-5.782966
-1697618937,Lysimachia_vulgaris,60.6,45.6
 1658235586,Lysimachia_vulgaris,57.3523,10.51807
 1851366154,Lysimachia_vulgaris,41.989283,-6.122613
 1697619026,Lysimachia_vulgaris,57.07748,30.75721
@@ -91,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701867658,Lysimachia_vulgaris,59.6654,11.7466
 1702268086,Lysimachia_vulgaris,59.3159,10.8008
 198470418,Lysimachia_vulgaris,43.126469,-5.017713
-2307425441,Lysimachia_vulgaris,58.1,27.06
 1701867341,Lysimachia_vulgaris,59.3722,11.017
 1697280601,Lysimachia_vulgaris,58.113889,102.783333
 1936245375,Lysimachia_vulgaris,42.9163,-5.9662
@@ -114,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702268572,Lysimachia_vulgaris,59.5623,10.9298
 13751495,Lysimachia_vulgaris,48.116,1.44461
 1342675858,Lysimachia_vulgaris,54.931871,9.427916
-2313516015,Lysimachia_vulgaris,49.8,84.05
 1050639102,Lysimachia_vulgaris,42.35,-5.04
 1697619208,Lysimachia_vulgaris,51.116667,40.366667
 1342675650,Lysimachia_vulgaris,55.534595,9.149241
@@ -155,7 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697741215,Lysimachia_vulgaris,44.497222,33.783333
 1323847401,Lysimachia_vulgaris,68.5495,17.561
 893477711,Lysimachia_vulgaris,40.316669,44.283329
-1144716205,Lysimachia_vulgaris,41.96667,9.4
 1230910859,Lysimachia_vulgaris,40.31667,44.28333
 1342676186,Lysimachia_vulgaris,57.299466,10.135435
 1936622340,Lysimachia_vulgaris,40.8542,-3.6775
@@ -166,7 +161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415947171,Lysimachia_vulgaris,41.66666,-73.50833
 1323737885,Lysimachia_vulgaris,69.7124,19.0991
 1851343824,Lysimachia_vulgaris,42.8307,-5.5088
-1945479579,Lysimachia_vulgaris,54.516667,84.6
 1701233601,Lysimachia_vulgaris,59.9784,12.1238
 1702200605,Lysimachia_vulgaris,60.104,12.1128
 1936599853,Lysimachia_vulgaris,37.5234,-7.4949
@@ -175,7 +169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935701794,Lysimachia_vulgaris,47.05361,16.09444
 1936599580,Lysimachia_vulgaris,37.5327,-7.5173
 1945479677,Lysimachia_vulgaris,54.52,84.59
-1148472066,Lysimachia_vulgaris,59.383333,24.3
 152936732,Lysimachia_vulgaris,46.399643,14.411927
 1851318593,Lysimachia_vulgaris,42.6265,-6.458
 1936613404,Lysimachia_vulgaris,42.5667,-4.75
@@ -185,21 +178,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701839713,Lysimachia_vulgaris,59.6715,11.1261
 1701891294,Lysimachia_vulgaris,59.3968,5.4728
 1851398206,Lysimachia_vulgaris,42.6277,-6.4299
-786186659,Lysimachia_vulgaris,47.7,9.1
 1697619114,Lysimachia_vulgaris,56.080227,40.10293
 1323849495,Lysimachia_vulgaris,66.3152,14.1411
 1936581383,Lysimachia_vulgaris,40.4603,-1.5977
-786186656,Lysimachia_vulgaris,47.7,9.2
 1697619033,Lysimachia_vulgaris,55.733333,32.033333
 186820802,Lysimachia_vulgaris,58.6672,6.7163
 1697619239,Lysimachia_vulgaris,58.119888,44.384488
 1697619132,Lysimachia_vulgaris,55.85,36.466667
 1702192200,Lysimachia_vulgaris,59.5683,11.1992
 1702192386,Lysimachia_vulgaris,60.7513,10.9403
-786186662,Lysimachia_vulgaris,47.7,9
 1699619153,Lysimachia_vulgaris,62.5868,7.5019
 1935702106,Lysimachia_vulgaris,46.94194,16.24833
-1050627359,Lysimachia_vulgaris,41.73,-1.7
 2325483179,Lysimachia_vulgaris,62.586466,7.501103
 442024902,Lysimachia_vulgaris,47.166668,9.133333
 30936009,Lysimachia_vulgaris,40.32,-5.45
@@ -227,16 +216,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701832061,Lysimachia_vulgaris,60.7724,11.2224
 1701532085,Lysimachia_vulgaris,48.15833,16.20028
 668779452,Lysimachia_vulgaris,46.980833,-70.956667
-1945480055,Lysimachia_vulgaris,56.9,65.6
 1702163161,Lysimachia_vulgaris,59.7277,11.8164
-1945480084,Lysimachia_vulgaris,57.43,64
 1936673693,Lysimachia_vulgaris,41.3183,-4.208
 1936673727,Lysimachia_vulgaris,41.3359,-4.2442
 1999473850,Lysimachia_vulgaris,60.431992,22.318466
 895203894,Lysimachia_vulgaris,39.68,-0.38
 1701594912,Lysimachia_vulgaris,60.3981,11.5127
 1342675796,Lysimachia_vulgaris,56.145238,9.328632
-1050619413,Lysimachia_vulgaris,42.91,-5.3
 1701308313,Lysimachia_vulgaris,61.0569,12.601
 1697619023,Lysimachia_vulgaris,59.961701,38.477512
 1701310687,Lysimachia_vulgaris,60.2315,11.8081
@@ -277,12 +263,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701532066,Lysimachia_vulgaris,48.1875,16.21
 1697619232,Lysimachia_vulgaris,50.959522,39.276525
 1697619011,Lysimachia_vulgaris,60.902241,43.211441
-899785121,Lysimachia_vulgaris,54.4,12.7
 1701790766,Lysimachia_vulgaris,59.7437,10.2187
 1697619017,Lysimachia_vulgaris,64.016667,38.066667
 1065671690,Lysimachia_vulgaris,63.64485,19.41251
 1701970418,Lysimachia_vulgaris,61.101,11.3651
-899785135,Lysimachia_vulgaris,54.4,12.5
 1702000034,Lysimachia_vulgaris,60.97437,11.73801
 1697619071,Lysimachia_vulgaris,55.499902,40.304092
 1999473889,Lysimachia_vulgaris,62.174335,27.140686
@@ -315,7 +299,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705352106,Lysimachia_vulgaris,57.140039,16.333766
 1053986545,Lysimachia_vulgaris,42.84,-1.33
 1332785260,Lysimachia_vulgaris,50.711622,9.821523
-1050592899,Lysimachia_vulgaris,43,-3.5
 1945479024,Lysimachia_vulgaris,51.62,85.67
 1701925262,Lysimachia_vulgaris,59.9313,10.1719
 2313516640,Lysimachia_vulgaris,54.383333,82.15
@@ -332,7 +315,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598504350,Lysimachia_vulgaris,61.014736,24.451228
 1701476857,Lysimachia_vulgaris,59.7506,10.2901
 1702382773,Lysimachia_vulgaris,60.6172,11.293
-2313516725,Lysimachia_vulgaris,55.283333,83.2
 13699842,Lysimachia_vulgaris,46.8094,4.42361
 1701913919,Lysimachia_vulgaris,60.3435,12.0374
 1702186560,Lysimachia_vulgaris,59.9208,10.3325
@@ -347,8 +329,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598504349,Lysimachia_vulgaris,61.024,24.419024
 1702280775,Lysimachia_vulgaris,61.3267,12.2254
 1999473854,Lysimachia_vulgaris,60.643422,22.196213
-2313516527,Lysimachia_vulgaris,54.8,83.5
-2313516644,Lysimachia_vulgaris,55.933333,84.3
 2313516485,Lysimachia_vulgaris,55.02,84.11
 1697619086,Lysimachia_vulgaris,54.693057,40.871576
 1945479530,Lysimachia_vulgaris,54.27,63.91
@@ -387,7 +367,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697280595,Lysimachia_vulgaris,62.79871,88.51474
 1948507284,Lysimachia_vulgaris,64.963604,26.520072
 143034823,Lysimachia_vulgaris,41.43,0.49
-1919932153,Lysimachia_vulgaris,60.8,125.33
 1945479745,Lysimachia_vulgaris,55.27,78.55
 1697619088,Lysimachia_vulgaris,54.781851,40.214454
 1697619076,Lysimachia_vulgaris,54.715777,40.855271
@@ -398,9 +377,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705346248,Lysimachia_vulgaris,57.257644,15.561648
 1697619016,Lysimachia_vulgaris,57.361164,26.773167
 1697619152,Lysimachia_vulgaris,55.337339,35.97052
-1053983299,Lysimachia_vulgaris,42.62,-1.3
 204418944,Lysimachia_vulgaris,38.006,-2.869
-1053984435,Lysimachia_vulgaris,42.62,-1
 1705346276,Lysimachia_vulgaris,57.317842,15.581164
 2333174715,Lysimachia_vulgaris,61.140605,10.395709
 2313516496,Lysimachia_vulgaris,59.916667,23.25
@@ -417,17 +394,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598504340,Lysimachia_vulgaris,63.546876,29.137732
 1598504365,Lysimachia_vulgaris,65.138001,25.685865
 1598504425,Lysimachia_vulgaris,65.189111,25.405745
-2313514890,Lysimachia_vulgaris,52.1,94.4
 1598504514,Lysimachia_vulgaris,61.146985,24.304145
 1936409261,Lysimachia_vulgaris,42.1219,-6.7392
-1053985872,Lysimachia_vulgaris,43.3,-1.73
 1936449218,Lysimachia_vulgaris,40.9614,-3.8212
 1919932096,Lysimachia_vulgaris,53.57,87.78
 57706221,Lysimachia_vulgaris,61.6987,27.1007
 1053981788,Lysimachia_vulgaris,42.07,-1.85
 1851573070,Lysimachia_vulgaris,41.13,-3.81
 1705346256,Lysimachia_vulgaris,57.489165,16.11702
-1919932091,Lysimachia_vulgaris,54.45,84.6
 1936699370,Lysimachia_vulgaris,41.79875,-3.42127
 1851413184,Lysimachia_vulgaris,42.56,-6.62
 143034824,Lysimachia_vulgaris,41.91,-2.88
@@ -443,11 +417,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1919932130,Lysimachia_vulgaris,55.29,65.32
 1851394451,Lysimachia_vulgaris,42.84,-5.26
 1598504511,Lysimachia_vulgaris,60.448881,25.634391
-1919932086,Lysimachia_vulgaris,55.68,62.7
 1936092519,Lysimachia_vulgaris,41.7299,-3.1215
 1144716208,Lysimachia_vulgaris,42.65,9.45
-1945479783,Lysimachia_vulgaris,55.6,62.9
-1945479958,Lysimachia_vulgaris,56.31,68.6
 1936092462,Lysimachia_vulgaris,41.865,-2.929
 1701568056,Lysimachia_vulgaris,61.53,10.1188
 1851406857,Lysimachia_vulgaris,42.93,-5.02
@@ -478,10 +449,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936547820,Lysimachia_vulgaris,42.7164,-3.9783
 1936369084,Lysimachia_vulgaris,38.0538,-2.8531
 1936599762,Lysimachia_vulgaris,43.3429,-4.3584
-1050592945,Lysimachia_vulgaris,42.5,-2.65
 1705264890,Lysimachia_vulgaris,57.627162,15.712383
-2313516713,Lysimachia_vulgaris,54.5,58.5
-1050628349,Lysimachia_vulgaris,42.6,-3.79
 1936559442,Lysimachia_vulgaris,42.5917,-3.8057
 1945480165,Lysimachia_vulgaris,61.96,64.24
 1936559152,Lysimachia_vulgaris,42.5024,-3.695
@@ -498,7 +466,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050592913,Lysimachia_vulgaris,43.03,-2.65
 1851349640,Lysimachia_vulgaris,42.92,-5.39
 1697619234,Lysimachia_vulgaris,55.580803,37.558712
-1919932105,Lysimachia_vulgaris,59,101.21
 1919932148,Lysimachia_vulgaris,58.46,95.45
 1050592926,Lysimachia_vulgaris,42.48,-2.59
 1936102059,Lysimachia_vulgaris,40.7361,-3.8303
@@ -536,14 +503,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313514896,Lysimachia_vulgaris,51.71,94.65
 211631273,Lysimachia_vulgaris,43.400002,-5.83
 1598504576,Lysimachia_vulgaris,61.770508,24.060147
-1919932008,Lysimachia_vulgaris,54.72,84.2
-1804469712,Lysimachia_vulgaris,42.366667,-82.4
-1919932115,Lysimachia_vulgaris,59.6,112.7
 1697280629,Lysimachia_vulgaris,62.22656,89.06575
 1919932038,Lysimachia_vulgaris,58.89,111.25
 1705747760,Lysimachia_vulgaris,52.69,23.7223
 1598504603,Lysimachia_vulgaris,60.90208,27.82614
-1699353619,Lysimachia_vulgaris,61.4,25.416667
 1657187256,Lysimachia_vulgaris,46.58556,14.41944
 1697619282,Lysimachia_vulgaris,57.172385,40.935459
 1702422294,Lysimachia_vulgaris,59.84212,10.21987
@@ -554,7 +517,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899371776,Lysimachia_vulgaris,43.631944,-79.351389
 2289764399,Lysimachia_vulgaris,47.016667,7.116667
 1701796255,Lysimachia_vulgaris,61.2467,7.1393
-1919932076,Lysimachia_vulgaris,61.27,108
 1050592938,Lysimachia_vulgaris,42.83,-3.22
 1945479200,Lysimachia_vulgaris,52.54,93.45
 1701670248,Lysimachia_vulgaris,58.2701,6.8179
@@ -565,7 +527,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144091497,Lysimachia_vulgaris,60.4236,6.5453
 2028547004,Lysimachia_vulgaris,42.11,2.74
 1881896581,Lysimachia_vulgaris,59.511055,25.978023
-1919932107,Lysimachia_vulgaris,62.9,108.45
 1697280586,Lysimachia_vulgaris,62.29488,89.01568
 1697619112,Lysimachia_vulgaris,54.782318,40.990138
 1701796395,Lysimachia_vulgaris,59.3487,10.8244
@@ -573,7 +534,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318229872,Lysimachia_vulgaris,58.7729,5.7398
 1851376711,Lysimachia_vulgaris,43.02,-5.27
 1851400688,Lysimachia_vulgaris,42.92,-5.63
-1053981764,Lysimachia_vulgaris,42.7,-1.23
 1919932169,Lysimachia_vulgaris,57.75,108.25
 1598504503,Lysimachia_vulgaris,61.711435,26.524264
 1936387118,Lysimachia_vulgaris,37.9277,-2.933
@@ -601,11 +561,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1919932125,Lysimachia_vulgaris,55.08,90.36
 1697619167,Lysimachia_vulgaris,54.69844,40.604439
 1697280670,Lysimachia_vulgaris,54.31117,81.95239
-2313516735,Lysimachia_vulgaris,50,19.69
 1702035207,Lysimachia_vulgaris,59.0073,11.0101
 1936092668,Lysimachia_vulgaris,40.2211,-1.9788
 668779460,Lysimachia_vulgaris,46.7875,-71.276389
-1945480100,Lysimachia_vulgaris,60.42,77.9
 1144091517,Lysimachia_vulgaris,61.73973,6.18986
 1668934760,Lysimachia_vulgaris,54.914,37.578
 1945479734,Lysimachia_vulgaris,55.32,91.45
@@ -627,7 +585,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1945480143,Lysimachia_vulgaris,60.71,77.06
 1945480135,Lysimachia_vulgaris,60.83,73.75
 2307174673,Lysimachia_vulgaris,43.62,-79.38
-1851369996,Lysimachia_vulgaris,42.74,-5.5
 1899296393,Lysimachia_vulgaris,43.616667,-79.383333
 1702309449,Lysimachia_vulgaris,59.7634,11.7863
 1697280644,Lysimachia_vulgaris,62.28481,89.02497
@@ -639,7 +596,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697619104,Lysimachia_vulgaris,56.228632,42.002391
 668779449,Lysimachia_vulgaris,46.883333,-71.066667
 1598504504,Lysimachia_vulgaris,61.236626,24.29647
-2313515939,Lysimachia_vulgaris,55.7,37.3
 668779450,Lysimachia_vulgaris,46.983333,-70.983333
 1701880992,Lysimachia_vulgaris,58.5616,7.3929
 1598504327,Lysimachia_vulgaris,62.363148,24.784841
@@ -665,13 +621,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999473796,Lysimachia_vulgaris,60.429423,22.246082
 1999473831,Lysimachia_vulgaris,60.619473,21.797185
 1598504391,Lysimachia_vulgaris,63.326388,26.497799
-1945479384,Lysimachia_vulgaris,53.4,90.5
 1598504519,Lysimachia_vulgaris,61.057343,24.31177
 1701997261,Lysimachia_vulgaris,61.793,6.1834
 1999473799,Lysimachia_vulgaris,60.758164,21.443745
 1598504328,Lysimachia_vulgaris,60.543131,27.816975
 1999571355,Lysimachia_vulgaris,60.444386,22.971605
-1261989224,Lysimachia_vulgaris,46.916667,-71.1
 239017145,Lysimachia_vulgaris,60.4533,26.179199
 1598504329,Lysimachia_vulgaris,60.635101,27.271113
 1702512213,Lysimachia_vulgaris,61.364722,22.005556
@@ -682,7 +636,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 216101038,Lysimachia_vulgaris,62.6054,25.9256
 360095145,Lysimachia_vulgaris,62.6646,26.050301
 239017140,Lysimachia_vulgaris,62.425999,25.9321
-1699354931,Lysimachia_vulgaris,60.8,21.666667
 1999473805,Lysimachia_vulgaris,60.974789,21.683539
 2313516475,Lysimachia_vulgaris,44.87,24.93
 812027521,Lysimachia_vulgaris,50.5363,9.355017
@@ -726,7 +679,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702512209,Lysimachia_vulgaris,60.449167,22.259167
 788522145,Lysimachia_vulgaris,61.726183,17.104208
 57706260,Lysimachia_vulgaris,62.1521,25.913
-1945479627,Lysimachia_vulgaris,54.82,83.1
 57706239,Lysimachia_vulgaris,60.814602,23.697599
 1701883913,Lysimachia_vulgaris,59.0486,10.8914
 1144091436,Lysimachia_vulgaris,58.46334,6.46705
@@ -739,7 +691,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598504398,Lysimachia_vulgaris,60.460254,26.806089
 1598504579,Lysimachia_vulgaris,62.415333,29.028676
 2313515961,Lysimachia_vulgaris,56.34,29.35
-1919932119,Lysimachia_vulgaris,52,84.98
 57706271,Lysimachia_vulgaris,61.911491,29.385319
 216100861,Lysimachia_vulgaris,62.251301,25.9671
 1144101104,Lysimachia_vulgaris,60.13253,9.49842
@@ -763,7 +714,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598504546,Lysimachia_vulgaris,60.903836,27.457652
 1697619202,Lysimachia_vulgaris,56.054222,37.160591
 1999473891,Lysimachia_vulgaris,60.523201,22.104612
-1230931605,Lysimachia_vulgaris,47.5,15.06667
 1702294469,Lysimachia_vulgaris,59.69402,10.6449
 1702294381,Lysimachia_vulgaris,60.41309,11.24418
 1999473809,Lysimachia_vulgaris,60.694822,22.646956
@@ -798,7 +748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1919932160,Lysimachia_vulgaris,56.23,96.03
 1697619229,Lysimachia_vulgaris,54.915604,39.409088
 1699353636,Lysimachia_vulgaris,63.090556,21.571389
-2313515684,Lysimachia_vulgaris,52.6,26.9
 788453181,Lysimachia_vulgaris,57.617527,14.290537
 1999473783,Lysimachia_vulgaris,60.454955,22.205934
 1598504539,Lysimachia_vulgaris,62.878659,26.898528
@@ -834,7 +783,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788506595,Lysimachia_vulgaris,57.65513,12.0082
 1999473788,Lysimachia_vulgaris,60.57246,22.75477
 1945479808,Lysimachia_vulgaris,55.58,97.74
-2313516683,Lysimachia_vulgaris,50,13.6
 1701310943,Lysimachia_vulgaris,62.9907,10.5494
 2313516003,Lysimachia_vulgaris,59.89,29.83
 1598504359,Lysimachia_vulgaris,61.949733,24.042912
@@ -849,7 +797,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697280657,Lysimachia_vulgaris,55.91099,92.25477
 1945478460,Lysimachia_vulgaris,46.72,29.63
 1598504314,Lysimachia_vulgaris,61.610765,25.206528
-1919932145,Lysimachia_vulgaris,55.5,101.833333
 360095198,Lysimachia_vulgaris,62.3363,25.935301
 788523728,Lysimachia_vulgaris,57.34137,12.10633
 360095185,Lysimachia_vulgaris,63.327,27.2959
@@ -910,7 +857,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848377658,Lysimachia_vulgaris,54.2484,13.0817
 1705327838,Lysimachia_vulgaris,58.699401,12.461699
 1705293395,Lysimachia_vulgaris,56.494223,13.117946
-1705498905,Lysimachia_vulgaris,61.26,22.7
 1702294373,Lysimachia_vulgaris,59.1888,9.7963
 1702309333,Lysimachia_vulgaris,59.1455,11.7535
 1598504317,Lysimachia_vulgaris,60.984549,24.493385
@@ -969,7 +915,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701240433,Lysimachia_vulgaris,59.9836,6.0159
 1598504505,Lysimachia_vulgaris,61.097337,22.452507
 788522976,Lysimachia_vulgaris,56.020296,13.510799
-1945479875,Lysimachia_vulgaris,55.9,98
 465766564,Lysimachia_vulgaris,45.62901,-62.68887
 1598504374,Lysimachia_vulgaris,61.076988,28.386546
 1697619140,Lysimachia_vulgaris,54.849765,37.569037
@@ -1201,7 +1146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1598504415,Lysimachia_vulgaris,61.550814,22.574584
 1323709312,Lysimachia_vulgaris,59.80997,11.60166
 616368561,Lysimachia_vulgaris,50.76,5.91
-1144716181,Lysimachia_vulgaris,41.95,9.4
 788523151,Lysimachia_vulgaris,56.141862,12.791103
 1598504253,Lysimachia_vulgaris,63.05393,25.909334
 1999473716,Lysimachia_vulgaris,60.301879,22.454885
@@ -1279,7 +1223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697619366,Lysimachia_vulgaris,53.972297,54.415153
 1702294528,Lysimachia_vulgaris,60.0251,11.0635
 1697619065,Lysimachia_vulgaris,64.455192,57.232814
-1144716195,Lysimachia_vulgaris,41.91667,8.8
 788504887,Lysimachia_vulgaris,58.68213,12.28581
 788522800,Lysimachia_vulgaris,55.4694,13.018772
 1705372221,Lysimachia_vulgaris,57.184036,14.048284
@@ -1470,7 +1413,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705468917,Lysimachia_vulgaris,57.775719,13.816879
 1697619155,Lysimachia_vulgaris,55.232226,37.822476
 1038921080,Lysimachia_vulgaris,41.305,-73.3914
-788604311,Lysimachia_vulgaris,63,23.815833
 1936092682,Lysimachia_vulgaris,40.8252,-3.95
 1598504286,Lysimachia_vulgaris,60.620981,23.498122
 788516063,Lysimachia_vulgaris,58.496576,12.277764
@@ -1511,7 +1453,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788519543,Lysimachia_vulgaris,58.37196,13.83487
 788516297,Lysimachia_vulgaris,58.70041,12.39488
 1705269411,Lysimachia_vulgaris,57.238352,16.434536
-1842881610,Lysimachia_vulgaris,41.78,2.7
 1999473790,Lysimachia_vulgaris,60.787498,21.392758
 1702294540,Lysimachia_vulgaris,60.43395,10.53107
 1705370924,Lysimachia_vulgaris,56.52978,15.382728
