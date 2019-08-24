@@ -5,9 +5,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1062862994,Salicornia_europaea,47.859165,7.619444
 1899273009,Salicornia_europaea,40.493056,49.961667
 1697479597,Salicornia_europaea,46.5771,41.7732
-1094184690,Salicornia_europaea,32.9,35.08
-1094183408,Salicornia_europaea,32.7,34.94
-1094183870,Salicornia_europaea,32.7,34.93
 1342923757,Salicornia_europaea,55.036117,12.236903
 1697781116,Salicornia_europaea,39.07,48.900833
 1342923807,Salicornia_europaea,56.727424,8.255103
@@ -137,7 +134,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342923606,Salicornia_europaea,55.0399,8.63101
 1342923627,Salicornia_europaea,55.012988,8.646895
 1342923562,Salicornia_europaea,55.237683,8.660631
-1146291721,Salicornia_europaea,60.86,-135.7
 1342923686,Salicornia_europaea,56.605965,10.31004
 1342923701,Salicornia_europaea,56.596637,10.342292
 1342923630,Salicornia_europaea,56.587655,10.341973
@@ -148,8 +144,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342923772,Salicornia_europaea,55.144176,11.752505
 1342923605,Salicornia_europaea,55.183353,8.535458
 1801060501,Salicornia_europaea,53.192222,107.315833
-1697479598,Salicornia_europaea,66.5,33
-1434671541,Salicornia_europaea,55.5,8.283333
 1342923652,Salicornia_europaea,57.008137,9.039828
 1342923631,Salicornia_europaea,56.657685,9.153643
 1342923664,Salicornia_europaea,56.280626,10.476577
@@ -171,9 +165,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342923781,Salicornia_europaea,55.12587,11.766933
 1050608484,Salicornia_europaea,43.45,-3.47
 1050608481,Salicornia_europaea,43.29,-2.15
-1050608499,Salicornia_europaea,43.3,-2.25
 1342923575,Salicornia_europaea,55.111278,8.489266
-1050608494,Salicornia_europaea,43.4,-2.94
 1697479689,Salicornia_europaea,46.683628,41.787915
 1342923985,Salicornia_europaea,55.776637,11.605559
 1697479691,Salicornia_europaea,48.193235,46.822363
@@ -187,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342923841,Salicornia_europaea,55.219754,8.676503
 1342923734,Salicornia_europaea,55.681597,11.837881
 1342923557,Salicornia_europaea,55.219711,8.660784
-1050582423,Salicornia_europaea,43.4,-3.45
 1050582463,Salicornia_europaea,43.25,-1.87
 1697479708,Salicornia_europaea,46.681641,41.701334
 1697479705,Salicornia_europaea,46.662397,41.821518
@@ -202,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697479768,Salicornia_europaea,46.690281,41.734915
 1697727286,Salicornia_europaea,45.978117,34.560928
 2308745850,Salicornia_europaea,69.38,20.25
-2309240194,Salicornia_europaea,68.09,15.7
 2310324482,Salicornia_europaea,68.02,15.38
 1038975509,Salicornia_europaea,41.3404,-72.6283
 1697479603,Salicornia_europaea,49.921112,38.899775
@@ -212,7 +202,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2306095824,Salicornia_europaea,56.28,10.48
 2307721450,Salicornia_europaea,56.94,12.35
 2308711741,Salicornia_europaea,57.38,12.13
-2309915535,Salicornia_europaea,56.71,10.2
 2306001641,Salicornia_europaea,55.52,8.23
 2304256245,Salicornia_europaea,56.16,15.76
 2310978053,Salicornia_europaea,57.54,10.44
@@ -220,7 +209,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2305383441,Salicornia_europaea,55.08,8.64
 2305703921,Salicornia_europaea,55.23,8.66
 2304589120,Salicornia_europaea,55.48,12.96
-2310537755,Salicornia_europaea,59.32,10.8
 2308336513,Salicornia_europaea,58.23,11.47
 2308728130,Salicornia_europaea,57.48,11.95
 1697479669,Salicornia_europaea,49.966849,38.749597
@@ -250,7 +238,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697727257,Salicornia_europaea,44.964677,35.251951
 1697727258,Salicornia_europaea,44.965041,35.229549
 1896045879,Salicornia_europaea,27.971667,-110.967778
-1146364504,Salicornia_europaea,61.5,-149.36
 1697727249,Salicornia_europaea,45.163842,33.286958
 1843516742,Salicornia_europaea,45.98432,34.556809
 1697479655,Salicornia_europaea,46.684659,41.746159
@@ -259,9 +246,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896045881,Salicornia_europaea,22.426111,-105.438056
 1705464735,Salicornia_europaea,57.389418,12.121303
 1146347770,Salicornia_europaea,60.75,-135.25
-1146364022,Salicornia_europaea,61.1,-149.91
 1899352511,Salicornia_europaea,52.783333,-81.983333
-1899332067,Salicornia_europaea,51.3,-80.183333
 1899368755,Salicornia_europaea,51.466667,-80.45
 788598722,Salicornia_europaea,55.501817,13.031679
 1697479729,Salicornia_europaea,46.687492,41.731149
@@ -287,7 +272,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705461642,Salicornia_europaea,58.178078,11.656696
 1099875435,Salicornia_europaea,55.413056,8.414444
 1697781096,Salicornia_europaea,45.945259,38.106939
-1146305470,Salicornia_europaea,61.6,-149.1
 1146321952,Salicornia_europaea,59.5699999991768,-112.23
 1265011517,Salicornia_europaea,59.95,-112.383333
 1697781055,Salicornia_europaea,45.940646,38.104191
@@ -295,7 +279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099874786,Salicornia_europaea,55.52899,12.95091
 1697781102,Salicornia_europaea,45.941004,38.104105
 1099873942,Salicornia_europaea,65.0125,25.471389
-1801072270,Salicornia_europaea,60.866667,-135.7
 1099871697,Salicornia_europaea,60.50689,17.70774
 1099867822,Salicornia_europaea,57.46907,12.21546
 1705284346,Salicornia_europaea,57.000291,12.365799
