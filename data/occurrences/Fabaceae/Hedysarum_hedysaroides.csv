@@ -2,12 +2,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949918706,Hedysarum_hedysaroides,67.70557,67.84355
 1837901682,Hedysarum_hedysaroides,47.43639,11.049445
 2244175061,Hedysarum_hedysaroides,47.698612,12.979444
-1801065994,Hedysarum_hedysaroides,67.07926,41.32364
 1837901786,Hedysarum_hedysaroides,47.429447,11.294723
 1676073806,Hedysarum_hedysaroides,47.237667,9.773733
-1697351007,Hedysarum_hedysaroides,66.5137,40.58423
-1697351019,Hedysarum_hedysaroides,66.98992,41.28826
-1697350965,Hedysarum_hedysaroides,67.13878,41.23448
 1830983258,Hedysarum_hedysaroides,47.68222,15.60417
 1658231985,Hedysarum_hedysaroides,67.69759,-107.92047
 1146323319,Hedysarum_hedysaroides,67.6975899993385,-107.92047
@@ -22,7 +18,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1146314207,Hedysarum_hedysaroides,64.5,-172.833333
 1658232005,Hedysarum_hedysaroides,69.625515,-140.875333
 1935694143,Hedysarum_hedysaroides,47.27575,14.35425
-2273828413,Hedysarum_hedysaroides,58.966667,164.233333
 1146314473,Hedysarum_hedysaroides,65.696667,-171.316667
 1323767292,Hedysarum_hedysaroides,65.3408,60.7119
 1935693440,Hedysarum_hedysaroides,47.69,15.60306
@@ -42,10 +37,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 919040671,Hedysarum_hedysaroides,46.7,7.9
 1697257597,Hedysarum_hedysaroides,74.30908,98.94611
 1657184714,Hedysarum_hedysaroides,47.04444,14.58333
-1929320619,Hedysarum_hedysaroides,45.3353,147.9922
 1146241411,Hedysarum_hedysaroides,64.73,177.5
 1697257683,Hedysarum_hedysaroides,74.02091,97.62738
-1146231156,Hedysarum_hedysaroides,64.41,-172.5
 1697257610,Hedysarum_hedysaroides,62.72803,89.10989
 1146388871,Hedysarum_hedysaroides,65.91,-163.5
 1146398820,Hedysarum_hedysaroides,62.91,172.65
@@ -77,7 +70,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1657185277,Hedysarum_hedysaroides,46.61222,12.86556
 1697257511,Hedysarum_hedysaroides,55.65,130.733333
 1936367507,Hedysarum_hedysaroides,45.9167,10.4333
-1697564833,Hedysarum_hedysaroides,70.458974,59.061127
 1935694086,Hedysarum_hedysaroides,47.30417,13.8
 1697257607,Hedysarum_hedysaroides,68.01225,75.24636
 1697257519,Hedysarum_hedysaroides,56.258609,160.285034
@@ -97,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697257456,Hedysarum_hedysaroides,66.402699,-179.161725
 1146386811,Hedysarum_hedysaroides,66.33,-179.03
 1657185791,Hedysarum_hedysaroides,47.41833,14.19167
-1697257510,Hedysarum_hedysaroides,64.914839,-172.520116
 1697257616,Hedysarum_hedysaroides,67.26817,91.93889
 1701527249,Hedysarum_hedysaroides,47.69639,15.61028
 1146381591,Hedysarum_hedysaroides,68.9,-160.61
@@ -106,13 +97,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1657184687,Hedysarum_hedysaroides,47.01472,12.67028
 1697257540,Hedysarum_hedysaroides,73.267,90.5988
 1697257684,Hedysarum_hedysaroides,67.08051,65.5626
-1697257426,Hedysarum_hedysaroides,64.910487,-172.512777
 1697257546,Hedysarum_hedysaroides,73.25161,90.59315
 1697257611,Hedysarum_hedysaroides,70.86343,89.91719
 1697257487,Hedysarum_hedysaroides,62.487091,165.334282
 1697257643,Hedysarum_hedysaroides,66.70899,66.16725
 1146390543,Hedysarum_hedysaroides,64.93,-164.75
-1697257430,Hedysarum_hedysaroides,63.08734,179.354368
 1146248410,Hedysarum_hedysaroides,68.5,166
 1697257425,Hedysarum_hedysaroides,68.75346,173.825779
 1260846209,Hedysarum_hedysaroides,46.54972,9.61666
@@ -143,7 +132,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697257574,Hedysarum_hedysaroides,65.920205,111.470777
 1697257640,Hedysarum_hedysaroides,71.49118,89.2586
 1697257594,Hedysarum_hedysaroides,71.45234,89.209
-1697257485,Hedysarum_hedysaroides,70.085708,170.926666
 786162308,Hedysarum_hedysaroides,47.4,10.7
 1845009417,Hedysarum_hedysaroides,46.775,8.370556
 1697257583,Hedysarum_hedysaroides,67.07268,65.51613
@@ -158,8 +146,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697257561,Hedysarum_hedysaroides,71.297491,127.742844
 786162295,Hedysarum_hedysaroides,46.9,10.3
 1697257567,Hedysarum_hedysaroides,68.08486,87.8711
-1146383381,Hedysarum_hedysaroides,63.78,-171.75
-1697257465,Hedysarum_hedysaroides,69.593553,168.866286
 1697257526,Hedysarum_hedysaroides,66.769003,123.374504
 1697565026,Hedysarum_hedysaroides,67.510562,63.968635
 1697257506,Hedysarum_hedysaroides,65.82348,-170.686359
@@ -184,7 +170,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697257435,Hedysarum_hedysaroides,66.181395,-178.969225
 1697257566,Hedysarum_hedysaroides,58.49058,125.402659
 1697257592,Hedysarum_hedysaroides,63.338443,140.280379
-1697565020,Hedysarum_hedysaroides,66.7036,72.99388
 1697257602,Hedysarum_hedysaroides,67.0142,65.09488
 1697257634,Hedysarum_hedysaroides,66.92857,65.55667
 1697257564,Hedysarum_hedysaroides,67.48784,86.42268
@@ -197,7 +182,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697257452,Hedysarum_hedysaroides,59.576504,150.646763
 1697565053,Hedysarum_hedysaroides,48.202536,22.637635
 1989606775,Hedysarum_hedysaroides,47.06893,8.11776
-1697257464,Hedysarum_hedysaroides,63.053092,179.318848
 1697257527,Hedysarum_hedysaroides,67.650244,172.003719
 788755314,Hedysarum_hedysaroides,46.5325,9.836389
 1697257624,Hedysarum_hedysaroides,67.85015,73.1846
@@ -225,12 +209,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099006920,Hedysarum_hedysaroides,47.634998,13.006111
 1989606581,Hedysarum_hedysaroides,47.38539,13.07102
 2012691496,Hedysarum_hedysaroides,46.733889,12.223056
-1340040067,Hedysarum_hedysaroides,67.075556,41.125278
 1657185873,Hedysarum_hedysaroides,46.85,11.58333
 1990858664,Hedysarum_hedysaroides,48.9469,11.42322
 1988063081,Hedysarum_hedysaroides,47.764167,15.819167
 1657185828,Hedysarum_hedysaroides,47.2975,14.27361
-1990857429,Hedysarum_hedysaroides,69.668889,60.089167
 1099854374,Hedysarum_hedysaroides,47.26474,15.00108
 1990861168,Hedysarum_hedysaroides,73.266667,56.45
 1990861193,Hedysarum_hedysaroides,45.035278,6.405
