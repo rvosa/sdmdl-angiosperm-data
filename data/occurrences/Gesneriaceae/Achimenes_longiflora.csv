@@ -22,8 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585288889,Achimenes_longiflora,13.68333,-89.6
 1257828444,Achimenes_longiflora,13.683333,-89.6
 1585288918,Achimenes_longiflora,13.5,-89.48333
-1257828388,Achimenes_longiflora,13.266667,-87.833333
-1585288890,Achimenes_longiflora,13.26667,-87.83333
 1257828627,Achimenes_longiflora,14.266667,-89.466667
 1585288951,Achimenes_longiflora,14.26667,-89.46667
 1257671301,Achimenes_longiflora,13.5,-86.516667
@@ -50,9 +48,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1585289005,Achimenes_longiflora,13.86667,-88.95
 1585288932,Achimenes_longiflora,13.87947,-88.962
 1419164705,Achimenes_longiflora,15.422194,-92.624417
-1260277828,Achimenes_longiflora,12.95555,-87.64
 1419168703,Achimenes_longiflora,15.416889,-92.639083
-1253815944,Achimenes_longiflora,9.971667,-84.083333
 1585288931,Achimenes_longiflora,13.68333,-89.55
 1260579761,Achimenes_longiflora,15.80611,-92.98277
 1419176072,Achimenes_longiflora,15.806333,-92.982833
@@ -60,9 +56,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253804226,Achimenes_longiflora,9.916667,-84.316667
 1253840824,Achimenes_longiflora,9.9,-84.272222
 1257830111,Achimenes_longiflora,16.234167,-93.583056
-1253800609,Achimenes_longiflora,9.924839,-84.160536
 1897372018,Achimenes_longiflora,18.780556,-102.833333
-1144585601,Achimenes_longiflora,9.92472,-84.16056
 1253796782,Achimenes_longiflora,9.81771,-84.481004
 1257834875,Achimenes_longiflora,9.817711,-84.481
 1253799393,Achimenes_longiflora,9.916667,-84.266667
@@ -115,10 +109,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317753720,Achimenes_longiflora,9.9764,-84.1847
 1253592113,Achimenes_longiflora,9.880556,-84.526389
 1260061616,Achimenes_longiflora,9.88,-84.52
-1585288941,Achimenes_longiflora,13.68333,-89.25
 1258600359,Achimenes_longiflora,9.77,-83.39
 1585288929,Achimenes_longiflora,13.81667,-89.93333
-44044126,Achimenes_longiflora,9.76,-84.9
 1253635793,Achimenes_longiflora,9.775,-83.391667
 1321381508,Achimenes_longiflora,13.82,-89.93
 1419153938,Achimenes_longiflora,16.038889,-93.591667
@@ -159,9 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893958836,Achimenes_longiflora,19.430556,-104.211667
 1318699334,Achimenes_longiflora,19.45,-103.725
 1259449501,Achimenes_longiflora,14.960556,-85.650556
-1253602369,Achimenes_longiflora,9.577778,-85.133333
-44043772,Achimenes_longiflora,9.57,-85.13
-1261199578,Achimenes_longiflora,9.57777,-85.13333
 1895131384,Achimenes_longiflora,15.601111,-92.850555
 1426200789,Achimenes_longiflora,15.65,-92.8
 1419234529,Achimenes_longiflora,15.655556,-92.805556
@@ -223,7 +212,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261200193,Achimenes_longiflora,10.32,-84.79
 1896068343,Achimenes_longiflora,20.5225,-104.845833
 1261199627,Achimenes_longiflora,13.71666,-86.5
-1585288948,Achimenes_longiflora,13.66667,-89.25
 1259432265,Achimenes_longiflora,16.71666,-94.13333
 1893695210,Achimenes_longiflora,17.10139,-94.76389
 1261200163,Achimenes_longiflora,12.7,-87.03333
@@ -235,16 +223,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1421357254,Achimenes_longiflora,14.896389,-92.153333
 1322815656,Achimenes_longiflora,9.97,-84.2
 1261195735,Achimenes_longiflora,9.966667,-84.2
-1259437840,Achimenes_longiflora,14.06944,-87.14777
 1259435544,Achimenes_longiflora,14.15805,-87.04638
 1261196634,Achimenes_longiflora,11.755556,-85.975
-1259435187,Achimenes_longiflora,14.07722,-87.13583
 1261199317,Achimenes_longiflora,12.9,-85.9
 1261198889,Achimenes_longiflora,11.96666,-86.31666
 1259436901,Achimenes_longiflora,14.113333,-87.113889
 1261200172,Achimenes_longiflora,12.3,-85.391667
 1896068334,Achimenes_longiflora,19.498333,-103.638889
-1258695686,Achimenes_longiflora,14.11555,-87.19472
 1259436947,Achimenes_longiflora,14.09111,-87.11611
 1261196644,Achimenes_longiflora,11.991667,-86.133333
 1259436044,Achimenes_longiflora,14.14444,-87.34277
@@ -267,12 +252,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261195174,Achimenes_longiflora,13.06666,-85.98333
 1320108658,Achimenes_longiflora,13.07,-85.98
 1321230662,Achimenes_longiflora,12,-85.28
-1259438448,Achimenes_longiflora,14.115556,-87.194722
 1259436681,Achimenes_longiflora,16.785556,-92.989722
 1261199559,Achimenes_longiflora,11.93333,-86.03333
 1318453849,Achimenes_longiflora,11.82,-86.13
 1261199802,Achimenes_longiflora,11.816667,-86.133333
-1259439094,Achimenes_longiflora,14.0575,-87.207778
 1318345016,Achimenes_longiflora,11.93,-86.03
 1258979811,Achimenes_longiflora,12,-86.28333
 1896068335,Achimenes_longiflora,16.913056,-92.996389
@@ -296,8 +279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1317837013,Achimenes_longiflora,13.45,-86.57
 1322265973,Achimenes_longiflora,13.42,-86.2583
 1261195465,Achimenes_longiflora,13.45,-86.56666
-1321568637,Achimenes_longiflora,12.05,-86.27
-1261195009,Achimenes_longiflora,12.05,-86.26666
 1259434097,Achimenes_longiflora,15.383333,-88.016667
 1259446534,Achimenes_longiflora,14.04333,-87.02777
 1261194751,Achimenes_longiflora,11.85,-86
@@ -316,7 +297,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259449427,Achimenes_longiflora,14.2,-87.1
 1319911070,Achimenes_longiflora,19.575,-104.42
 1259447123,Achimenes_longiflora,7.422778,-80.653889
-1258706303,Achimenes_longiflora,7.41666,-80.18333
 1258706337,Achimenes_longiflora,13.84305,-90.01583
 1259448509,Achimenes_longiflora,14.42277,-90.82111
 1259446228,Achimenes_longiflora,13.79055,-89.5575
@@ -404,10 +384,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1320959620,Achimenes_longiflora,17.38,-99.45
 1896068318,Achimenes_longiflora,15.850556,-85.551389
 1895809320,Achimenes_longiflora,21.521111,-104.981667
-1315041609,Achimenes_longiflora,4.60581,-74.4795
 1317416943,Achimenes_longiflora,14,-87
-1259447709,Achimenes_longiflora,13.67694,-89.27972
-1258572303,Achimenes_longiflora,13.71,-89.28333
 44041826,Achimenes_longiflora,9.95,-84.47
 1895405352,Achimenes_longiflora,21.5584862595239,-104.964198673573
 1258572784,Achimenes_longiflora,15.38888,-91.78666
@@ -431,7 +408,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259448204,Achimenes_longiflora,8.591667,-80.141667
 1259448394,Achimenes_longiflora,8.60833,-80.07333
 1259448556,Achimenes_longiflora,21.516667,-104.933333
-1317836182,Achimenes_longiflora,13.75,-89.25
 1317540849,Achimenes_longiflora,15.1,-92.27
 1317366445,Achimenes_longiflora,15.25,-92.3
 1322642411,Achimenes_longiflora,16.07,-93.27
