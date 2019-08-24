@@ -13,7 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1090569892,Cucurbita_ficifolia,-22.870251,-47.077171
 1253778390,Cucurbita_ficifolia,9.619444,-83.825
 1843378331,Cucurbita_ficifolia,-36.866667,174.783333
-1896231055,Cucurbita_ficifolia,18.573611,-97.1
 1253730253,Cucurbita_ficifolia,9.755556,-83.783333
 1260127165,Cucurbita_ficifolia,-1.56666,-78.55
 1417925643,Cucurbita_ficifolia,20.016944,-97.520833
@@ -41,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253657646,Cucurbita_ficifolia,9.598658,-83.832005
 1228210739,Cucurbita_ficifolia,-6.25,-78.8333
 1418667482,Cucurbita_ficifolia,19.231939,-98.86528
-1228365553,Cucurbita_ficifolia,-17.5,-61.5
 1258964311,Cucurbita_ficifolia,-18.53333,-64.08333
 1418668023,Cucurbita_ficifolia,15.34722,-92.23194
 1099639226,Cucurbita_ficifolia,2.72243,-76.08239
@@ -52,7 +50,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258547259,Cucurbita_ficifolia,19.01,-99.26
 1261260224,Cucurbita_ficifolia,0.06666,-78.66666
 1897741452,Cucurbita_ficifolia,-43.583333,172.583333
-1258939154,Cucurbita_ficifolia,-0.08333,-78.5
 1936429905,Cucurbita_ficifolia,15.65,-92.8333
 1261261933,Cucurbita_ficifolia,0.13333,-78.06666
 1895777541,Cucurbita_ficifolia,18.958333,-100.191667
@@ -72,7 +69,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895777747,Cucurbita_ficifolia,19.158333,-99.441667
 1895777618,Cucurbita_ficifolia,19.808333,-100.141667
 1895777628,Cucurbita_ficifolia,19.341667,-99.708333
-1258547346,Cucurbita_ficifolia,15.4,-92.26
 1895777700,Cucurbita_ficifolia,16.741667,-92.691667
 1895777569,Cucurbita_ficifolia,15.408333,-92.275
 1895777528,Cucurbita_ficifolia,20.141667,-99.875
@@ -96,11 +92,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259337067,Cucurbita_ficifolia,19.8425,-102.465556
 1895777612,Cucurbita_ficifolia,17.225,-96.308333
 1895777682,Cucurbita_ficifolia,19.708333,-100.758333
-1260726368,Cucurbita_ficifolia,43.3,-90.33333
 1895946611,Cucurbita_ficifolia,18.955833,-98.016667
 1259337129,Cucurbita_ficifolia,19.83333,-96.81666
 1895777532,Cucurbita_ficifolia,17.508333,-96.508333
-1259710333,Cucurbita_ficifolia,17.216667,-96.3
 1895777622,Cucurbita_ficifolia,16.441667,-97.058333
 1895777604,Cucurbita_ficifolia,16.808333,-92.691667
 1897748229,Cucurbita_ficifolia,-36.85,174.766667
@@ -109,7 +103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258758341,Cucurbita_ficifolia,-16.316667,-67.816667
 1895777529,Cucurbita_ficifolia,26.258333,-106.925
 1895777602,Cucurbita_ficifolia,20.125,-98.125
-1259709278,Cucurbita_ficifolia,21.05,-99.2
 1895777729,Cucurbita_ficifolia,26.258333,-107.091667
 1895777689,Cucurbita_ficifolia,20.158333,-98.275
 1259709076,Cucurbita_ficifolia,20.61666,-98.61666
@@ -146,7 +139,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099633400,Cucurbita_ficifolia,1.18439,-77.24974
 1895777565,Cucurbita_ficifolia,19.608333,-101.625
 1417924080,Cucurbita_ficifolia,18.613889,-97.306389
-1258758387,Cucurbita_ficifolia,-15.76666,-67.6
 1417926002,Cucurbita_ficifolia,18.508333,-98.758333
 1417918979,Cucurbita_ficifolia,17.269444,-97.679167
 1895777526,Cucurbita_ficifolia,21.191667,-101.708333
@@ -161,7 +153,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893963446,Cucurbita_ficifolia,19.541667,-104.225
 1897668196,Cucurbita_ficifolia,-36.883333,174.866667
 1897835128,Cucurbita_ficifolia,-36.891389,174.861056
-1261259193,Cucurbita_ficifolia,0.3,-78.25
 1091322846,Cucurbita_ficifolia,-35.052,173.751
 1895777629,Cucurbita_ficifolia,13.258333,-85.691667
 1258396506,Cucurbita_ficifolia,13.25,-85.683333
@@ -177,13 +168,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895777758,Cucurbita_ficifolia,19.808333,-101.908333
 1895777585,Cucurbita_ficifolia,19.091667,-98.175
 1895777536,Cucurbita_ficifolia,18.808333,-98.275
-1258547230,Cucurbita_ficifolia,8.883333,-82.6
 1895777556,Cucurbita_ficifolia,19.708333,-99.208333
-1503413769,Cucurbita_ficifolia,17.5,-92.666667
 1259146167,Cucurbita_ficifolia,8.833333,-82.566667
 1893735523,Cucurbita_ficifolia,19.192866,-99.022008
 1895777615,Cucurbita_ficifolia,19.408333,-99.158333
-2290221265,Cucurbita_ficifolia,9.4,42.016667
 1895777551,Cucurbita_ficifolia,19.275,-99.008333
 1258713795,Cucurbita_ficifolia,8.85,-82.56666
 2289092741,Cucurbita_ficifolia,9.266667,41.133333
