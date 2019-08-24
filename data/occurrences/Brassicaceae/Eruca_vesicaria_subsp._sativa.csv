@@ -79,7 +79,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846484410,Eruca_vesicaria_subsp._sativa,32.927186,-112.672069
 1846475173,Eruca_vesicaria_subsp._sativa,32.91546,-113.278554
 441749497,Eruca_vesicaria_subsp._sativa,47.651667,-122.311667
-1094182397,Eruca_vesicaria_subsp._sativa,32.5,35.5
 1936217657,Eruca_vesicaria_subsp._sativa,32.3928,-4.5036
 2270513086,Eruca_vesicaria_subsp._sativa,33.6232,-112.237
 1846516658,Eruca_vesicaria_subsp._sativa,31.313333,-108.985833
@@ -96,7 +95,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 232589641,Eruca_vesicaria_subsp._sativa,37.621,-1.091
 1258034735,Eruca_vesicaria_subsp._sativa,35.333056,25.1925
 1846516748,Eruca_vesicaria_subsp._sativa,31.312778,-108.987222
-1094182895,Eruca_vesicaria_subsp._sativa,32.4,35.43
 1839006965,Eruca_vesicaria_subsp._sativa,40.882221,23.92
 1342456912,Eruca_vesicaria_subsp._sativa,55.524613,8.483923
 1936262331,Eruca_vesicaria_subsp._sativa,39.935,-3.7269
@@ -106,18 +104,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270689078,Eruca_vesicaria_subsp._sativa,32.8699,-113.211
 1094182191,Eruca_vesicaria_subsp._sativa,32.75,35.68
 1094182556,Eruca_vesicaria_subsp._sativa,32.27,35.54
-1094182489,Eruca_vesicaria_subsp._sativa,31.9,35.46
 211646325,Eruca_vesicaria_subsp._sativa,38.087,-1.501
 1094182499,Eruca_vesicaria_subsp._sativa,32.32,35.53
 211646341,Eruca_vesicaria_subsp._sativa,38.148,-1.374
 1094183567,Eruca_vesicaria_subsp._sativa,32.05,35.45
-1094182512,Eruca_vesicaria_subsp._sativa,32.46,35.5
 1701519444,Eruca_vesicaria_subsp._sativa,34.74211,-3.01222
 615320275,Eruca_vesicaria_subsp._sativa,36.38,69.47
 1050653371,Eruca_vesicaria_subsp._sativa,39.97,-0.66
 1988074194,Eruca_vesicaria_subsp._sativa,49.23,-122.94
 1895930179,Eruca_vesicaria_subsp._sativa,31.314722,-109.139722
-1095889637,Eruca_vesicaria_subsp._sativa,31,-9
 2292029890,Eruca_vesicaria_subsp._sativa,30.145,-7.821667
 1895930193,Eruca_vesicaria_subsp._sativa,31.326944,-109.471389
 1928880571,Eruca_vesicaria_subsp._sativa,37.29817,-113.77133
@@ -128,7 +123,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094182265,Eruca_vesicaria_subsp._sativa,32.77,35.65
 1846514401,Eruca_vesicaria_subsp._sativa,31.309444,-109.598611
 158841277,Eruca_vesicaria_subsp._sativa,38.5625,-121.716667
-1094182235,Eruca_vesicaria_subsp._sativa,32,35.45
 895199128,Eruca_vesicaria_subsp._sativa,40.464,-1.355
 1094182200,Eruca_vesicaria_subsp._sativa,32.76,35.63
 1265835285,Eruca_vesicaria_subsp._sativa,38.562778,-121.716389
@@ -157,7 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895233229,Eruca_vesicaria_subsp._sativa,39.955,-1.109
 1894491564,Eruca_vesicaria_subsp._sativa,19.97075,-100.153056
 199476435,Eruca_vesicaria_subsp._sativa,36.804,-3.846
-30664695,Eruca_vesicaria_subsp._sativa,37.18,-2
 415618311,Eruca_vesicaria_subsp._sativa,36.73649,-4.1184
 1259234866,Eruca_vesicaria_subsp._sativa,29.39027,-100.9025
 1894422908,Eruca_vesicaria_subsp._sativa,25.348889,-100.284444
@@ -192,7 +185,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702246567,Eruca_vesicaria_subsp._sativa,59.84212,10.21987
 1897954504,Eruca_vesicaria_subsp._sativa,22.570278,-102.390555
 1897954513,Eruca_vesicaria_subsp._sativa,23.248333,-103.78
-30960373,Eruca_vesicaria_subsp._sativa,38.61,-0.1
 895219903,Eruca_vesicaria_subsp._sativa,39.539,-0.504
 2270487486,Eruca_vesicaria_subsp._sativa,33.412869,-111.938569
 388825534,Eruca_vesicaria_subsp._sativa,35.584357,139.494851
@@ -218,7 +210,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1897943248,Eruca_vesicaria_subsp._sativa,22.183333,-102.956111
 2270587357,Eruca_vesicaria_subsp._sativa,32.851,-113.212
 2270596061,Eruca_vesicaria_subsp._sativa,32.8179,-113.186
-1913586939,Eruca_vesicaria_subsp._sativa,-20.3,-43.716667
 2270591343,Eruca_vesicaria_subsp._sativa,32.92,-112.87
 1894640182,Eruca_vesicaria_subsp._sativa,20.601389,-100.339444
 1893935041,Eruca_vesicaria_subsp._sativa,20.608333,-100.325
@@ -235,9 +226,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1849161312,Eruca_vesicaria_subsp._sativa,33.9568,-80.9796
 1050626158,Eruca_vesicaria_subsp._sativa,41.78,-1.69
 1936611828,Eruca_vesicaria_subsp._sativa,38.8795,-3.9005
-211645667,Eruca_vesicaria_subsp._sativa,38.7,-1.33
 29639440,Eruca_vesicaria_subsp._sativa,39.52,-2.843
-1050648522,Eruca_vesicaria_subsp._sativa,43.35,-3.1
 1701835841,Eruca_vesicaria_subsp._sativa,59.73195,10.15707
 1893980671,Eruca_vesicaria_subsp._sativa,19.460889,-98.90425
 1261045803,Eruca_vesicaria_subsp._sativa,24.82,-100.07
@@ -255,7 +244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30960206,Eruca_vesicaria_subsp._sativa,37.91,-0.74
 30866885,Eruca_vesicaria_subsp._sativa,36.950001,-4.57
 1936549809,Eruca_vesicaria_subsp._sativa,36.7617,-3.8751
-30960203,Eruca_vesicaria_subsp._sativa,38.35,-0.4
 1936557496,Eruca_vesicaria_subsp._sativa,35.1333,-2.5833
 1099889413,Eruca_vesicaria_subsp._sativa,55.58755,12.93516
 1948491226,Eruca_vesicaria_subsp._sativa,61.502609,23.674695
@@ -279,7 +267,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270595924,Eruca_vesicaria_subsp._sativa,32.947,-113.148
 1895547234,Eruca_vesicaria_subsp._sativa,18.325,-97.491667
 211645670,Eruca_vesicaria_subsp._sativa,37.602,-1.023
-29639679,Eruca_vesicaria_subsp._sativa,39.7,-1.89
 1894640812,Eruca_vesicaria_subsp._sativa,20.38117,-100.27994
 1893803384,Eruca_vesicaria_subsp._sativa,19.329167,-97.454722
 230818159,Eruca_vesicaria_subsp._sativa,51.862427,5.771916
@@ -290,7 +277,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1418790920,Eruca_vesicaria_subsp._sativa,26.5695,-103.958139
 30959655,Eruca_vesicaria_subsp._sativa,38.09,-1.04
 211645668,Eruca_vesicaria_subsp._sativa,37.551,-1.172
-30865994,Eruca_vesicaria_subsp._sativa,36.939999,-4.8
 1851408269,Eruca_vesicaria_subsp._sativa,41.86,-4.14
 1851330907,Eruca_vesicaria_subsp._sativa,41.86,-4.39
 1851334058,Eruca_vesicaria_subsp._sativa,41.95,-4.51
@@ -321,7 +307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844869540,Eruca_vesicaria_subsp._sativa,42.22,-1.96
 30664529,Eruca_vesicaria_subsp._sativa,36.879,-2.512
 1936509049,Eruca_vesicaria_subsp._sativa,41.8721,0.4201
-1893979725,Eruca_vesicaria_subsp._sativa,20.3,-99.983333
 1259848909,Eruca_vesicaria_subsp._sativa,22.85416,-100.2975
 1893664432,Eruca_vesicaria_subsp._sativa,21.646667,-101.48
 1893664441,Eruca_vesicaria_subsp._sativa,21.155,-100.932778
@@ -335,12 +320,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896329993,Eruca_vesicaria_subsp._sativa,19.604167,-97.118333
 30866944,Eruca_vesicaria_subsp._sativa,38.740002,-1.16
 1426084705,Eruca_vesicaria_subsp._sativa,34.833333,-117.016667
-1421197115,Eruca_vesicaria_subsp._sativa,34.22,-5.4
 30866943,Eruca_vesicaria_subsp._sativa,36.689999,-2.89
 895231076,Eruca_vesicaria_subsp._sativa,41.67,-1.26
 30865766,Eruca_vesicaria_subsp._sativa,40.02,-3.82
-30865773,Eruca_vesicaria_subsp._sativa,39.93,-3.7
-1988092628,Eruca_vesicaria_subsp._sativa,49.2,-122.9
 1844870526,Eruca_vesicaria_subsp._sativa,42.31,-1.96
 1851340009,Eruca_vesicaria_subsp._sativa,42.901,-4.88
 111306618,Eruca_vesicaria_subsp._sativa,43.280998,-2.02
@@ -358,8 +340,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30960559,Eruca_vesicaria_subsp._sativa,38.43,-0.71
 30958936,Eruca_vesicaria_subsp._sativa,37.97,-0.78
 29639614,Eruca_vesicaria_subsp._sativa,37.97,-3.108
-30865843,Eruca_vesicaria_subsp._sativa,36.77,-2.1
-1842873930,Eruca_vesicaria_subsp._sativa,34.13,-4.5
 1844869493,Eruca_vesicaria_subsp._sativa,41.87,-1.41
 1851356239,Eruca_vesicaria_subsp._sativa,42.294,-5.517
 1050630837,Eruca_vesicaria_subsp._sativa,42.61,-6.81
@@ -367,7 +347,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936636030,Eruca_vesicaria_subsp._sativa,39.6596,-7.05466
 30865852,Eruca_vesicaria_subsp._sativa,36.68,-2.22
 1936635762,Eruca_vesicaria_subsp._sativa,39.72095,-6.88482
-30865847,Eruca_vesicaria_subsp._sativa,36.869999,-3
 2289584317,Eruca_vesicaria_subsp._sativa,52.616333,6.121167
 895302260,Eruca_vesicaria_subsp._sativa,40.06,-2.36
 1501070828,Eruca_vesicaria_subsp._sativa,38.62,-0.43
@@ -408,7 +387,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844869595,Eruca_vesicaria_subsp._sativa,42.76,-3.28
 1893934918,Eruca_vesicaria_subsp._sativa,32.575,-115.925
 1501054995,Eruca_vesicaria_subsp._sativa,38.42,-0.42
-1259296934,Eruca_vesicaria_subsp._sativa,31.966667,-113.1
 895236107,Eruca_vesicaria_subsp._sativa,37.88,-0.78
 30960312,Eruca_vesicaria_subsp._sativa,38.54,-0.29
 1936447505,Eruca_vesicaria_subsp._sativa,40.959,-4.1064
@@ -416,7 +394,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844869600,Eruca_vesicaria_subsp._sativa,42.69,-2.95
 30664172,Eruca_vesicaria_subsp._sativa,37.347,-2.543
 30960317,Eruca_vesicaria_subsp._sativa,38.56,-0.38
-895239484,Eruca_vesicaria_subsp._sativa,39.5,-0.5
 1501058481,Eruca_vesicaria_subsp._sativa,38.33,-0.43
 30865770,Eruca_vesicaria_subsp._sativa,37.939999,-4.02
 30865772,Eruca_vesicaria_subsp._sativa,37.490002,-1.87
@@ -428,7 +405,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099885629,Eruca_vesicaria_subsp._sativa,55.97359,14.27321
 860317974,Eruca_vesicaria_subsp._sativa,38.1597,-0.6213
 30958987,Eruca_vesicaria_subsp._sativa,38.36,-0.39
-895239653,Eruca_vesicaria_subsp._sativa,39.5,-0.38
 1844869556,Eruca_vesicaria_subsp._sativa,39.61,-3.64
 1501055077,Eruca_vesicaria_subsp._sativa,38.41,-0.46
 1611938340,Eruca_vesicaria_subsp._sativa,30.786111,-104.983333
@@ -445,10 +421,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894640746,Eruca_vesicaria_subsp._sativa,21.096944,-99.6925
 1893664420,Eruca_vesicaria_subsp._sativa,21.243333,-100.718333
 1896329987,Eruca_vesicaria_subsp._sativa,19.658333,-97.075
-1261293677,Eruca_vesicaria_subsp._sativa,29.5,-101.98333
 30865767,Eruca_vesicaria_subsp._sativa,37.310001,-4.02
 1893935023,Eruca_vesicaria_subsp._sativa,24.6823236416899,-100.238480017553
-895213543,Eruca_vesicaria_subsp._sativa,40.3,0.23
 895241906,Eruca_vesicaria_subsp._sativa,39.94,-0.13
 30865718,Eruca_vesicaria_subsp._sativa,37.029999,-4.91
 30865719,Eruca_vesicaria_subsp._sativa,36.68,-3.67
@@ -460,14 +434,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701595194,Eruca_vesicaria_subsp._sativa,58.97009,5.71814
 1697240218,Eruca_vesicaria_subsp._sativa,42.834908,132.903992
 1896329991,Eruca_vesicaria_subsp._sativa,21.286389,-100.371944
-2290154937,Eruca_vesicaria_subsp._sativa,52,5.65
 2270507447,Eruca_vesicaria_subsp._sativa,18.857725,-97.373564
 1893664430,Eruca_vesicaria_subsp._sativa,21.569444,-100.439444
 1895450499,Eruca_vesicaria_subsp._sativa,18.6598674496621,-97.3782035337517
-1419195255,Eruca_vesicaria_subsp._sativa,25.1,-106.181389
 1697240201,Eruca_vesicaria_subsp._sativa,42.847636,132.962072
 1894528000,Eruca_vesicaria_subsp._sativa,25.108333,-106.408333
-1228276874,Eruca_vesicaria_subsp._sativa,18.8333,-98
 1701412231,Eruca_vesicaria_subsp._sativa,59.1821,9.6387
 1094183990,Eruca_vesicaria_subsp._sativa,32.89,35.09
 30865711,Eruca_vesicaria_subsp._sativa,36.77,-2.22
@@ -478,14 +449,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 895184252,Eruca_vesicaria_subsp._sativa,40.75,-0.22
 1936403021,Eruca_vesicaria_subsp._sativa,38.6413,-6.4722
 1936448088,Eruca_vesicaria_subsp._sativa,40.9496,-4.1419
-1050631317,Eruca_vesicaria_subsp._sativa,42.39,-1.3
 30865717,Eruca_vesicaria_subsp._sativa,41.34,-5.51
 199475835,Eruca_vesicaria_subsp._sativa,37.0444,-4.62941
 85240482,Eruca_vesicaria_subsp._sativa,37.75,29.25
 895184501,Eruca_vesicaria_subsp._sativa,40.66,0.22
 1842902114,Eruca_vesicaria_subsp._sativa,40.2908,-3.4743
 1701416547,Eruca_vesicaria_subsp._sativa,59.26671,9.48765
-931010514,Eruca_vesicaria_subsp._sativa,5.8,-75.8
 1896329990,Eruca_vesicaria_subsp._sativa,21.053333,-99.813333
 1893664421,Eruca_vesicaria_subsp._sativa,20.95495,-99.56444
 1894640852,Eruca_vesicaria_subsp._sativa,19.065,-99.241667
@@ -505,13 +474,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936376114,Eruca_vesicaria_subsp._sativa,42.3645,-1.9448
 30865643,Eruca_vesicaria_subsp._sativa,37.57,-5.04
 111306192,Eruca_vesicaria_subsp._sativa,41.969002,-1.437
-1844870519,Eruca_vesicaria_subsp._sativa,42.1,-1.67
 1893403293,Eruca_vesicaria_subsp._sativa,19.325,-99.341667
 111306446,Eruca_vesicaria_subsp._sativa,42.370998,-1.937
 1851338390,Eruca_vesicaria_subsp._sativa,42.371,-1.937
 1844870590,Eruca_vesicaria_subsp._sativa,42.11,-1.57
 1936169817,Eruca_vesicaria_subsp._sativa,40.198,-3.3537
-29641085,Eruca_vesicaria_subsp._sativa,39.6,-1.19
 1936440886,Eruca_vesicaria_subsp._sativa,37.7893,-3.8757
 1893664425,Eruca_vesicaria_subsp._sativa,17.308333,-97.825
 1936361471,Eruca_vesicaria_subsp._sativa,41.9056,-1.241
@@ -544,10 +511,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2235670704,Eruca_vesicaria_subsp._sativa,37.35,-4.52
 30865689,Eruca_vesicaria_subsp._sativa,36.77,-4.12
 111306189,Eruca_vesicaria_subsp._sativa,42.421001,-1.584
-29640467,Eruca_vesicaria_subsp._sativa,40.3,-0.23
 30865713,Eruca_vesicaria_subsp._sativa,38.029999,-4.25
-1936413821,Eruca_vesicaria_subsp._sativa,33.5,-4.8333
-1936414838,Eruca_vesicaria_subsp._sativa,34.6,-2.5333
 187882637,Eruca_vesicaria_subsp._sativa,42.62,-1.31
 199475747,Eruca_vesicaria_subsp._sativa,36.745,-4.36125
 234420852,Eruca_vesicaria_subsp._sativa,35.465763,139.678033
@@ -561,7 +525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 187882824,Eruca_vesicaria_subsp._sativa,42.63,-1.14
 111306190,Eruca_vesicaria_subsp._sativa,42.561001,-1.276
 29640470,Eruca_vesicaria_subsp._sativa,40.31,-0.35
-187882755,Eruca_vesicaria_subsp._sativa,42.18,-1.5
 1050583323,Eruca_vesicaria_subsp._sativa,42.49,-1.97
 187882825,Eruca_vesicaria_subsp._sativa,42.66,-1.18
 1936417862,Eruca_vesicaria_subsp._sativa,38.874,-3.0935
@@ -569,7 +532,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701842459,Eruca_vesicaria_subsp._sativa,58.9724,5.7556
 1844870558,Eruca_vesicaria_subsp._sativa,42.22,-1.71
 2313364952,Eruca_vesicaria_subsp._sativa,48.12,11.54
-30865693,Eruca_vesicaria_subsp._sativa,36.959999,-3
 30865764,Eruca_vesicaria_subsp._sativa,37.299999,-4.81
 199476030,Eruca_vesicaria_subsp._sativa,36.71365,-4.31149
 1259799292,Eruca_vesicaria_subsp._sativa,-32.83333,-70.56666
@@ -578,7 +540,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895679369,Eruca_vesicaria_subsp._sativa,23.425,-104.147222
 1896329975,Eruca_vesicaria_subsp._sativa,18.675,-96.675
 1936093882,Eruca_vesicaria_subsp._sativa,37.3789,-1.6233
-1258886586,Eruca_vesicaria_subsp._sativa,22.27,-101.1
 1936120769,Eruca_vesicaria_subsp._sativa,38.6411,-1.6684
 199476513,Eruca_vesicaria_subsp._sativa,37.08,-4.63
 1936126976,Eruca_vesicaria_subsp._sativa,42.7565,-3.148
@@ -599,16 +560,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895950570,Eruca_vesicaria_subsp._sativa,18.95,-97.990278
 1893664419,Eruca_vesicaria_subsp._sativa,20.591667,-100.391667
 1893664438,Eruca_vesicaria_subsp._sativa,19.613333,-101.598333
-1895950650,Eruca_vesicaria_subsp._sativa,19.1,-98.216667
 1895450561,Eruca_vesicaria_subsp._sativa,17.7773797573219,-97.3390418026739
 1831133355,Eruca_vesicaria_subsp._sativa,54.0484,11.9152
 1893664424,Eruca_vesicaria_subsp._sativa,20.226667,-100.69
 1895950546,Eruca_vesicaria_subsp._sativa,18.916667,-97.933333
 1893664418,Eruca_vesicaria_subsp._sativa,23.571667,-99.795
 1936120996,Eruca_vesicaria_subsp._sativa,38.5881,-1.7612
-1893664443,Eruca_vesicaria_subsp._sativa,20.4,-100.101667
 1893664434,Eruca_vesicaria_subsp._sativa,20.285,-101.093333
-1899732817,Eruca_vesicaria_subsp._sativa,31.333333,-106.5
 1851375967,Eruca_vesicaria_subsp._sativa,42.29,-5.49
 111306188,Eruca_vesicaria_subsp._sativa,42.053001,-1.653
 1843862189,Eruca_vesicaria_subsp._sativa,31.81569,-108.041923
@@ -616,11 +574,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30865691,Eruca_vesicaria_subsp._sativa,36.779999,-2.55
 111306184,Eruca_vesicaria_subsp._sativa,42.056,-1.906
 1896330006,Eruca_vesicaria_subsp._sativa,19.532778,-96.393056
-29640054,Eruca_vesicaria_subsp._sativa,39.41,-0.5
 1936546058,Eruca_vesicaria_subsp._sativa,42.8257,-3.821
 1936107160,Eruca_vesicaria_subsp._sativa,42.4295,-2.1747
 199475656,Eruca_vesicaria_subsp._sativa,36.71576,-4.29635
-187882474,Eruca_vesicaria_subsp._sativa,42.12,-1.7
 1895379278,Eruca_vesicaria_subsp._sativa,25.4456317235395,-100.846837020022
 1893664426,Eruca_vesicaria_subsp._sativa,20.100556,-100.827778
 1948565075,Eruca_vesicaria_subsp._sativa,61.492733,23.513207
@@ -653,18 +609,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895304225,Eruca_vesicaria_subsp._sativa,19.466667,-98.869444
 30865700,Eruca_vesicaria_subsp._sativa,37.580002,-4.36
 1936365622,Eruca_vesicaria_subsp._sativa,39.8427,-4.0181
-1257534522,Eruca_vesicaria_subsp._sativa,27.133333,-102.5
 30865699,Eruca_vesicaria_subsp._sativa,37.220001,-4.47
 30865715,Eruca_vesicaria_subsp._sativa,37.310001,-4.47
 1936093861,Eruca_vesicaria_subsp._sativa,42.5306,-2.5508
-1050583318,Eruca_vesicaria_subsp._sativa,42.5,-2.45
 30865709,Eruca_vesicaria_subsp._sativa,36.869999,-2.78
 111306447,Eruca_vesicaria_subsp._sativa,43.356998,-3.105
-1050583302,Eruca_vesicaria_subsp._sativa,42.49,-2.5
 1434668522,Eruca_vesicaria_subsp._sativa,35.15,25.65
 30865706,Eruca_vesicaria_subsp._sativa,36.77,-2.33
 1893934942,Eruca_vesicaria_subsp._sativa,27.5580625946265,-100.09974934007
-1702509498,Eruca_vesicaria_subsp._sativa,42.2,-1.64
 30865688,Eruca_vesicaria_subsp._sativa,37.389999,-4.92
 1936097533,Eruca_vesicaria_subsp._sativa,38.8097,-2.4599
 30865702,Eruca_vesicaria_subsp._sativa,37.48,-5.04
@@ -680,7 +632,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30865696,Eruca_vesicaria_subsp._sativa,37.299999,-4.69
 30865695,Eruca_vesicaria_subsp._sativa,37.669998,-4.59
 30865697,Eruca_vesicaria_subsp._sativa,38.200001,-5.28
-30865698,Eruca_vesicaria_subsp._sativa,37.580002,-4.7
 1050583288,Eruca_vesicaria_subsp._sativa,42.47,-2.59
 1434668738,Eruca_vesicaria_subsp._sativa,35.333333,25.191667
 1434667485,Eruca_vesicaria_subsp._sativa,38.05,23.183333
@@ -701,7 +652,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270597000,Eruca_vesicaria_subsp._sativa,32.8614,-113.222
 1050583322,Eruca_vesicaria_subsp._sativa,42.51,-2.62
 111306553,Eruca_vesicaria_subsp._sativa,42.508999,-2.373
-1050583334,Eruca_vesicaria_subsp._sativa,42.53,-2.7
 1936093841,Eruca_vesicaria_subsp._sativa,39.9131,-4.8732
 1936602561,Eruca_vesicaria_subsp._sativa,42.9866,-3.9826
 1936365512,Eruca_vesicaria_subsp._sativa,39.8159,-3.9944
@@ -711,7 +661,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199475594,Eruca_vesicaria_subsp._sativa,37.08725,-2.29373
 1050583309,Eruca_vesicaria_subsp._sativa,42.53,-2.56
 1947078118,Eruca_vesicaria_subsp._sativa,50.24,10.22
-142313830,Eruca_vesicaria_subsp._sativa,38.6,-5.24
 1697240168,Eruca_vesicaria_subsp._sativa,53.279668,83.626865
 199475608,Eruca_vesicaria_subsp._sativa,37.09,-2.04
 1697240187,Eruca_vesicaria_subsp._sativa,53.095261,83.373184
@@ -745,7 +694,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913878347,Eruca_vesicaria_subsp._sativa,33.737548,73.188899
 1846550840,Eruca_vesicaria_subsp._sativa,31.404167,-116.325
 1913878351,Eruca_vesicaria_subsp._sativa,33.363889,70.549444
-30866127,Eruca_vesicaria_subsp._sativa,38.669998,-3.8
 30866133,Eruca_vesicaria_subsp._sativa,37.84,-4.82
 1258886764,Eruca_vesicaria_subsp._sativa,19.149444,-99.151111
 29606792,Eruca_vesicaria_subsp._sativa,37.753,-2.586
@@ -779,7 +727,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913878781,Eruca_vesicaria_subsp._sativa,33.828523,72.502849
 1913878799,Eruca_vesicaria_subsp._sativa,32.589235,71.412786
 1913878364,Eruca_vesicaria_subsp._sativa,31.353719,69.466939
-1050583327,Eruca_vesicaria_subsp._sativa,42.5,-2.43
 1913878307,Eruca_vesicaria_subsp._sativa,30.211374,67.03722
 1913878400,Eruca_vesicaria_subsp._sativa,33.515284,73.24402
 1913878829,Eruca_vesicaria_subsp._sativa,32.929351,73.72274
@@ -821,7 +768,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099895129,Eruca_vesicaria_subsp._sativa,56.120556,10.146389
 1845008904,Eruca_vesicaria_subsp._sativa,49.647222,8.027222
 833455731,Eruca_vesicaria_subsp._sativa,49.95,8.183333
-2270507853,Eruca_vesicaria_subsp._sativa,19.483333,-98.9
 1913878333,Eruca_vesicaria_subsp._sativa,33.73265,70.942953
 1895304192,Eruca_vesicaria_subsp._sativa,20.1119765661593,-98.7087069173073
 1895304298,Eruca_vesicaria_subsp._sativa,19.335,-98.9675
@@ -876,7 +822,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936631871,Eruca_vesicaria_subsp._sativa,38.162,-3.0127
 1913878338,Eruca_vesicaria_subsp._sativa,34.631144,73.445631
 1913878337,Eruca_vesicaria_subsp._sativa,34.039134,73.570625
-1258311164,Eruca_vesicaria_subsp._sativa,18.51,-97.5
 1896330010,Eruca_vesicaria_subsp._sativa,19.571389,-97.231944
 1228530990,Eruca_vesicaria_subsp._sativa,19.5714,-97.2319
 1895304263,Eruca_vesicaria_subsp._sativa,21.145556,-98.833611
@@ -915,13 +860,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258886948,Eruca_vesicaria_subsp._sativa,26.84,-104.49
 615320393,Eruca_vesicaria_subsp._sativa,36.63,67.72
 1846550806,Eruca_vesicaria_subsp._sativa,33.531652,-111.926762
-615320385,Eruca_vesicaria_subsp._sativa,35.6,68.68
 1055072327,Eruca_vesicaria_subsp._sativa,38.35261,-96.2468
 615320367,Eruca_vesicaria_subsp._sativa,36.72,67.15
 615320375,Eruca_vesicaria_subsp._sativa,36.72,67.17
 992580737,Eruca_vesicaria_subsp._sativa,-32.266667,133.566667
-615320384,Eruca_vesicaria_subsp._sativa,36.72,69.2
-615320380,Eruca_vesicaria_subsp._sativa,36.7,69.17
 1258879900,Eruca_vesicaria_subsp._sativa,38.94583,-92.3275
 1259295304,Eruca_vesicaria_subsp._sativa,19.650278,-99.010278
 1948491001,Eruca_vesicaria_subsp._sativa,60.394419,24.629643
@@ -934,10 +876,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258887260,Eruca_vesicaria_subsp._sativa,19.22,-98.83
 1936155771,Eruca_vesicaria_subsp._sativa,37.0784,-2.3037
 1936149670,Eruca_vesicaria_subsp._sativa,37.1302,-1.988
-615320400,Eruca_vesicaria_subsp._sativa,34.62,70.6
-615320390,Eruca_vesicaria_subsp._sativa,34.55,69
-615320342,Eruca_vesicaria_subsp._sativa,34.5,69.4
-615320412,Eruca_vesicaria_subsp._sativa,34.3,68
 1893934910,Eruca_vesicaria_subsp._sativa,18.73639,-97.91083
 1258887384,Eruca_vesicaria_subsp._sativa,19.93,-98.94
 1895304181,Eruca_vesicaria_subsp._sativa,19.9592048329994,-98.9595453298319
@@ -947,8 +885,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895304322,Eruca_vesicaria_subsp._sativa,19.311944,-99.148333
 2289406426,Eruca_vesicaria_subsp._sativa,13.666667,39.516667
 2270508815,Eruca_vesicaria_subsp._sativa,27.005092,-101.86693
-1851398849,Eruca_vesicaria_subsp._sativa,42.56,-5.5
-1895304213,Eruca_vesicaria_subsp._sativa,19.333333,-99
 1895304283,Eruca_vesicaria_subsp._sativa,19.269444,-98.862222
 1893403343,Eruca_vesicaria_subsp._sativa,19.308333,-98.941667
 1895304295,Eruca_vesicaria_subsp._sativa,19.6453299908738,-99.0878812742057
@@ -1016,7 +952,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895304211,Eruca_vesicaria_subsp._sativa,19.5674235475706,-99.1111285535931
 1895304154,Eruca_vesicaria_subsp._sativa,20.0730889350716,-98.84454300254
 1893934981,Eruca_vesicaria_subsp._sativa,20.052156,-98.806454
-2288240843,Eruca_vesicaria_subsp._sativa,36.5,51
 1895304167,Eruca_vesicaria_subsp._sativa,19.6961609503335,-99.3039975600532
 1893934957,Eruca_vesicaria_subsp._sativa,19.6955109481803,-99.3143178016765
 1895304234,Eruca_vesicaria_subsp._sativa,19.3436780793741,-99.0867692056729
@@ -1034,13 +969,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030855511,Eruca_vesicaria_subsp._sativa,32.637983,103.59895
 1948490952,Eruca_vesicaria_subsp._sativa,63.132517,21.540172
 2270595434,Eruca_vesicaria_subsp._sativa,33.5817,-111.898
-876154971,Eruca_vesicaria_subsp._sativa,41.3,0.55
 876155084,Eruca_vesicaria_subsp._sativa,41.39,0.55
 1936009913,Eruca_vesicaria_subsp._sativa,39.9261,-3.7034
 57694970,Eruca_vesicaria_subsp._sativa,62.3316,25.9065
 1701914254,Eruca_vesicaria_subsp._sativa,69.7254,30.0512
 1099879465,Eruca_vesicaria_subsp._sativa,57.23881,12.97405
-30959355,Eruca_vesicaria_subsp._sativa,38.6,-0.88
 1501865922,Eruca_vesicaria_subsp._sativa,38.33,-0.54
 575276250,Eruca_vesicaria_subsp._sativa,36.25,52.366667
 992477639,Eruca_vesicaria_subsp._sativa,-32.136526,133.662779
@@ -1078,7 +1011,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099894509,Eruca_vesicaria_subsp._sativa,57.69181,11.93079
 1999518504,Eruca_vesicaria_subsp._sativa,60.488096,22.12814
 1935982003,Eruca_vesicaria_subsp._sativa,36.741,-5.8012
-732477509,Eruca_vesicaria_subsp._sativa,45.5,-73.6
 1895304194,Eruca_vesicaria_subsp._sativa,19.206944,-99.2575
 1056439281,Eruca_vesicaria_subsp._sativa,51.307793,0.287735
 1893664446,Eruca_vesicaria_subsp._sativa,19.206667,-99.258333
@@ -1121,7 +1053,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259294516,Eruca_vesicaria_subsp._sativa,24.59,-99.99
 1303625598,Eruca_vesicaria_subsp._sativa,35.521975,105.732561
 1303625595,Eruca_vesicaria_subsp._sativa,36.852145,102.152124
-1144673232,Eruca_vesicaria_subsp._sativa,41.9,9.33333
 1303829184,Eruca_vesicaria_subsp._sativa,39.879848,114.630747
 1930447174,Eruca_vesicaria_subsp._sativa,40.642048,-74.441201
 1842905843,Eruca_vesicaria_subsp._sativa,34.84,-3.16
@@ -1154,15 +1085,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 732477507,Eruca_vesicaria_subsp._sativa,51.95,-106.233333
 1099886333,Eruca_vesicaria_subsp._sativa,55.59028,13.02351
 993431925,Eruca_vesicaria_subsp._sativa,52.15,9.9667
-732477506,Eruca_vesicaria_subsp._sativa,49.166667,-101.8
 732477505,Eruca_vesicaria_subsp._sativa,52.466667,-113.733333
 1260928213,Eruca_vesicaria_subsp._sativa,39.155556,-94.393333
 1260928227,Eruca_vesicaria_subsp._sativa,40.52111,-91.63527
 732477513,Eruca_vesicaria_subsp._sativa,43.383333,-80.316667
 732477510,Eruca_vesicaria_subsp._sativa,50.416667,-102.933333
 1099886579,Eruca_vesicaria_subsp._sativa,55.57488,12.94447
-1842843978,Eruca_vesicaria_subsp._sativa,41.5,2.22
-1930116859,Eruca_vesicaria_subsp._sativa,45.7,-121.45
 441748550,Eruca_vesicaria_subsp._sativa,45.715,-121.46333
 1099885726,Eruca_vesicaria_subsp._sativa,55.6039,12.98206
 1099887242,Eruca_vesicaria_subsp._sativa,55.62212,13.0247
