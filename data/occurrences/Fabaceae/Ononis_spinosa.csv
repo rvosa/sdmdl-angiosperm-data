@@ -133,7 +133,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 781077049,Ononis_spinosa,36.663,-5.076
 781077046,Ononis_spinosa,36.9004,-3.90276
 1839047999,Ononis_spinosa,40.151112,21.625
-2313353446,Ononis_spinosa,48.19,11.6
 2287443041,Ononis_spinosa,52.378133,4.557117
 876157612,Ononis_spinosa,42.713399,0.895226
 1697553496,Ononis_spinosa,55.490278,40.340278
@@ -141,7 +140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697799773,Ononis_spinosa,40.452222,44.532222
 1913344474,Ononis_spinosa,44.778056,5.1425
 1454491935,Ononis_spinosa,42.7733770799002,-2.68341800166287
-1697553662,Ononis_spinosa,46.1,43.5
 1881954236,Ononis_spinosa,48.94,10.49
 2308678086,Ononis_spinosa,51.62,-4.27
 2289797069,Ononis_spinosa,51.817083,4.880083
@@ -149,7 +147,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705429146,Ononis_spinosa,55.737143,13.158199
 2290791920,Ononis_spinosa,52.517,6.0185
 1702170742,Ononis_spinosa,59.2446,11.0056
-781077025,Ononis_spinosa,36.7,-5.032
 1830989735,Ononis_spinosa,48.02667,16.28222
 2290791803,Ononis_spinosa,52.154683,4.379
 2289036084,Ononis_spinosa,51.94735,4.922447
@@ -230,22 +227,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342731940,Ononis_spinosa,55.523929,8.341373
 895206360,Ononis_spinosa,38.977,-0.374
 1697553422,Ononis_spinosa,55.244444,41.85
-786199725,Ononis_spinosa,52.4,13
 1342731936,Ononis_spinosa,55.524013,8.357211
-1230995807,Ononis_spinosa,50.71667,19.1
 362426871,Ononis_spinosa,51.24195,9.909167
 1342732251,Ononis_spinosa,56.665828,8.517372
 1342732760,Ononis_spinosa,56.341674,10.624546
-318117970,Ononis_spinosa,40.46,-1.6
 1697553472,Ononis_spinosa,55.216667,41.808333
 1702170607,Ononis_spinosa,59.2326,10.9015
 1851387324,Ononis_spinosa,41.56,-6.18
 1342731910,Ononis_spinosa,55.532914,8.341223
-994570155,Ononis_spinosa,50.7,19.1
-883414435,Ononis_spinosa,50.716667,19.1
 1342732287,Ononis_spinosa,56.810502,8.974106
 788551437,Ononis_spinosa,51.109444,15.590556
-1851577648,Ononis_spinosa,39.87,-3.6
 1501119327,Ononis_spinosa,38.97,-0.37
 1148459481,Ononis_spinosa,57.876944,24.357778
 1701770745,Ononis_spinosa,63.3707,10.0725
@@ -272,10 +263,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1212154435,Ononis_spinosa,38.735,21.420833
 1936202605,Ononis_spinosa,41.7619,-4.7336
 1936678577,Ononis_spinosa,37.9831,22.4639
-1501102051,Ononis_spinosa,39.09,-0.4
 895221767,Ononis_spinosa,40.774,-1.667
 1936202546,Ononis_spinosa,41.7617,-4.7456
-2313472919,Ononis_spinosa,48.2,11.49
 318117936,Ononis_spinosa,37.32,-3.17
 1050643767,Ononis_spinosa,41.67,-1.79
 932707782,Ononis_spinosa,42.27622,-8.16464
@@ -313,7 +302,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702245131,Ononis_spinosa,59.5853,10.21369
 199492576,Ononis_spinosa,36.973593,-4.492647
 14284555,Ononis_spinosa,47.7389,0.452347
-1099879463,Ononis_spinosa,38.916667,20.9
 14284532,Ononis_spinosa,48.0807,0.749872
 31962450,Ononis_spinosa,42.057,0.746
 14284533,Ononis_spinosa,48.3157,0.361885
@@ -382,7 +370,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1503358210,Ononis_spinosa,52.522917,13.142361
 14278541,Ononis_spinosa,47.6958,0.194494
 1342732579,Ononis_spinosa,55.987914,10.112734
-786199766,Ononis_spinosa,53.6,10
 1702228195,Ononis_spinosa,59.4554,10.8673
 1705326857,Ononis_spinosa,57.264177,16.476408
 1657191474,Ononis_spinosa,46.38639,12.67
@@ -460,13 +447,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701231019,Ononis_spinosa,63.8777,11.3688
 1701310715,Ononis_spinosa,64.0404,11.358
 1705300905,Ononis_spinosa,57.265084,16.474767
-1340039690,Ononis_spinosa,41.1,26.1
 1851320765,Ononis_spinosa,42.271,-6.678
 1701307425,Ononis_spinosa,63.9402,11.221
 204418932,Ononis_spinosa,36.934,-2.893
 914716,Ononis_spinosa,55.45454,12.9733
 1342732973,Ononis_spinosa,55.284501,11.903971
-1340039648,Ononis_spinosa,41.3,26.15
 1851411111,Ononis_spinosa,42.313,-6.494
 1936673523,Ononis_spinosa,41.2653,-4.0996
 895187660,Ononis_spinosa,42.4167,13.3333
@@ -522,7 +507,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 143035011,Ononis_spinosa,37.400002,-4.36
 1831278113,Ononis_spinosa,53.5485,11.4153
 29716363,Ononis_spinosa,39.781,-1.499
-232590305,Ononis_spinosa,38.7,-1.33
 1936568203,Ononis_spinosa,37.6386,-2.5819
 1600639534,Ononis_spinosa,60.476099,26.970549
 296508421,Ononis_spinosa,47.781,16.304
@@ -535,7 +519,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342732369,Ononis_spinosa,56.817819,9.645744
 296508418,Ononis_spinosa,47.134,9.937
 232590197,Ononis_spinosa,38.139,-2.161
-1050627337,Ononis_spinosa,41.73,-1.7
 788466989,Ononis_spinosa,56.10391,14.51555
 1342733174,Ononis_spinosa,55.894673,12.448101
 1936616904,Ononis_spinosa,39.0481,-4.1915
@@ -550,8 +533,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851333758,Ononis_spinosa,42.28,-5.97
 1831278526,Ononis_spinosa,53.9484,11.4153
 296508390,Ononis_spinosa,47.058,10.641
-1365052,Ononis_spinosa,29,-9
-1365054,Ononis_spinosa,31,-7
 1342731956,Ononis_spinosa,55.084448,8.52094
 1795863614,Ononis_spinosa,42.639188,-2.279602
 1936641715,Ononis_spinosa,42.9403,-4.1167
@@ -637,7 +618,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342732129,Ononis_spinosa,55.143464,11.783846
 29716086,Ononis_spinosa,39.88,-2.36
 913330,Ononis_spinosa,55.51513,13.92694
-1936540345,Ononis_spinosa,32.1667,-5.6
 1342731991,Ononis_spinosa,55.183412,8.551162
 1342732188,Ononis_spinosa,54.924393,11.924788
 1342732779,Ononis_spinosa,55.744351,10.918269
@@ -683,7 +663,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342732141,Ononis_spinosa,55.161415,11.785097
 1342732133,Ononis_spinosa,55.15244,11.784471
 30974108,Ononis_spinosa,38.34,-0.77
-29716807,Ononis_spinosa,40.3,0.23
 895246507,Ononis_spinosa,40.66,0.22
 2291808596,Ononis_spinosa,42.866667,2.55
 30973590,Ononis_spinosa,40.65,-1.97
@@ -693,7 +672,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342732284,Ononis_spinosa,56.432987,9.217599
 1342732259,Ononis_spinosa,55.282897,8.786194
 1342732542,Ononis_spinosa,57.435954,9.923107
-895246551,Ononis_spinosa,40.66,0.1
 1936444032,Ononis_spinosa,42.8429,-4.7145
 111310605,Ononis_spinosa,43.57,-1.45
 1288112923,Ononis_spinosa,50.902204,10.016933
@@ -709,7 +687,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111310598,Ononis_spinosa,43.300999,-2.303
 913008,Ononis_spinosa,55.8685,12.9608
 1842849727,Ononis_spinosa,34.87,-2.33
-30974762,Ononis_spinosa,38.58,-0.9
 30973498,Ononis_spinosa,38.78,-0.11
 1936455732,Ononis_spinosa,38.7215,-0.1257
 860317175,Ononis_spinosa,41.69,2.58
@@ -721,7 +698,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30973549,Ononis_spinosa,42.51,-6.92
 1851361008,Ononis_spinosa,42.798,-5.122
 1342732476,Ononis_spinosa,56.169963,9.811989
-913446,Ononis_spinosa,55.116667,8.5
 1702010440,Ononis_spinosa,59.2144,10.918
 2244177278,Ononis_spinosa,52.275002,31.183331
 1342732477,Ononis_spinosa,54.857205,9.925612
@@ -731,7 +707,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936433918,Ononis_spinosa,42.8854,-1.1277
 1851375516,Ononis_spinosa,43.016,-5.019
 2244178002,Ononis_spinosa,52.10833,12.875
-914948,Ononis_spinosa,55.1,8.5
 30973521,Ononis_spinosa,40.47,-0.91
 1851378265,Ononis_spinosa,42.816,-5.11
 1342731967,Ononis_spinosa,55.102292,8.489381
@@ -746,7 +721,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947348333,Ononis_spinosa,50.32,10.49
 1342733157,Ononis_spinosa,55.750723,12.441576
 1842883671,Ononis_spinosa,33.65,-5.03
-1050595621,Ononis_spinosa,43.3,-2.24
 1502035768,Ononis_spinosa,40.12,0.01
 1342732843,Ononis_spinosa,55.575887,11.306658
 1342732871,Ononis_spinosa,55.593844,11.307711
@@ -778,17 +752,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342733224,Ononis_spinosa,55.36238,11.641386
 1332790929,Ononis_spinosa,50.732302,9.802862
 895194050,Ononis_spinosa,39.88,-2.24
-895197846,Ononis_spinosa,39.7,-2.01
-1502028936,Ononis_spinosa,40.3,-0.12
 1702430240,Ononis_spinosa,59.6941,10.5366
 211633332,Ononis_spinosa,43.360001,-5.79
 29716740,Ononis_spinosa,40.48,0.11
 895240435,Ononis_spinosa,40.49,0.35
 29716285,Ononis_spinosa,39.86,-0.37
 895241856,Ononis_spinosa,39.59,-0.61
-895239540,Ononis_spinosa,39.5,-0.38
 29716287,Ononis_spinosa,39.95,-0.48
-30973451,Ononis_spinosa,38.6,-0.38
 1839048105,Ononis_spinosa,41.115002,23.68
 1842900361,Ononis_spinosa,38.69,-0.062
 30974733,Ononis_spinosa,40.51,-3.89
@@ -828,7 +798,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30670547,Ononis_spinosa,37.32,-2.441
 1851329552,Ononis_spinosa,41.67,-4.74
 1697553533,Ononis_spinosa,54.730375,45.928293
-29716741,Ononis_spinosa,40.4,-0.35
 1947348492,Ononis_spinosa,50.11,10.11
 1502014051,Ononis_spinosa,39.85,-0.25
 1705333801,Ononis_spinosa,56.465567,13.093339
@@ -845,7 +814,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1340038742,Ononis_spinosa,56.34682,12.80484
 30973817,Ononis_spinosa,38.76,-0.53
 1701932462,Ononis_spinosa,59.7724,10.7361
-1851409693,Ononis_spinosa,42.56,-5.5
 1702228638,Ononis_spinosa,60.7737,10.846
 1500867888,Ononis_spinosa,40.01,-0.65
 1050595639,Ononis_spinosa,42.66,-4.12
@@ -861,9 +829,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1288112916,Ononis_spinosa,50.689522,9.548735
 1936536715,Ononis_spinosa,42.8339,-4.7143
 1848910259,Ononis_spinosa,53.06725,10.75109
-895213050,Ononis_spinosa,39.7,-1.89
 1500982473,Ononis_spinosa,40.07,-0.56
-1501988721,Ononis_spinosa,39.59,-0.5
 29716264,Ononis_spinosa,40.071,-0.567
 895217185,Ononis_spinosa,40.12,-0.12
 1434767764,Ononis_spinosa,39.155102,-9.115698
@@ -874,25 +840,20 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30973661,Ononis_spinosa,38.73,-0.24
 1936381053,Ononis_spinosa,42.9896,-3.5288
 1705263793,Ononis_spinosa,55.527429,12.924016
-1144731883,Ononis_spinosa,42.81667,9.4
 296508386,Ononis_spinosa,46.789,12.869
 1936392729,Ononis_spinosa,40.4471,-5.2417
 1668935655,Ononis_spinosa,54.853,37.668
-1947348305,Ononis_spinosa,49.92,10.4
 1144731908,Ononis_spinosa,42.71667,9.36667
 1501974668,Ononis_spinosa,38.69,-0.53
 1936432299,Ononis_spinosa,38.6419,-0.5884
 30974029,Ononis_spinosa,39.65,-0.57
 1288112917,Ononis_spinosa,50.670433,9.573833
-1502026064,Ononis_spinosa,40.3,-0.23
 111310303,Ononis_spinosa,41.987,-1.437
 204418843,Ononis_spinosa,37.727,-2.96
 1434767788,Ononis_spinosa,37.231747,-8.179295
-1050595658,Ononis_spinosa,42.7,-2.31
 1050595675,Ononis_spinosa,42.69,-1.57
 204418842,Ononis_spinosa,37.943,-2.801
 895191813,Ononis_spinosa,40.663,-0.072
-895191973,Ononis_spinosa,40.75,-0.1
 1936380934,Ononis_spinosa,41.9099,-8.8205
 1500698006,Ononis_spinosa,40.67,0.17
 1500698248,Ononis_spinosa,39.96,-0.27
@@ -903,16 +864,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702434064,Ononis_spinosa,59.7664,9.9729
 1050595674,Ononis_spinosa,42.77,-2.33
 1050595670,Ononis_spinosa,42.58,-2.09
-1500697384,Ononis_spinosa,39.97,-0.3
 1500701017,Ononis_spinosa,40.66,-0.07
 1500699218,Ononis_spinosa,39.94,-0.22
-30973659,Ononis_spinosa,38.7,-0.3
 895191898,Ononis_spinosa,39.966,-0.278
 1705263824,Ononis_spinosa,56.085024,14.469208
 895191875,Ononis_spinosa,40.675,0.178
 2307678168,Ononis_spinosa,51.54,-3.26
 111310103,Ononis_spinosa,42.979,-1.51
-111310302,Ononis_spinosa,43.099998,-0.6
 1050595644,Ononis_spinosa,42.75,-0.86
 60016527,Ononis_spinosa,43.02821,-4.411469
 1935705846,Ononis_spinosa,47.08778,15.99556
@@ -936,7 +894,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 111310301,Ononis_spinosa,42.712002,-1.126
 29715616,Ononis_spinosa,38.89,-2.14
 1936136097,Ononis_spinosa,37.943,-3.7979
-1144731907,Ononis_spinosa,42.7,9.35
 29716526,Ononis_spinosa,38.69,-0.64
 1936135300,Ononis_spinosa,37.4049,-3.1142
 1851395895,Ononis_spinosa,42.793,-4.84
@@ -952,10 +909,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318039556,Ononis_spinosa,42.63,-1.22
 1851345148,Ononis_spinosa,42.87,-4.524
 1144731868,Ononis_spinosa,43.95083,-1.35444
-1050595615,Ononis_spinosa,42.11,-1.7
 1050595659,Ononis_spinosa,42.96,-1.59
 1702245747,Ononis_spinosa,59.02266,9.53738
-1050595618,Ononis_spinosa,42.06,-1.9
 111310298,Ononis_spinosa,42.915001,-1.499
 111310299,Ononis_spinosa,42.931999,-1.388
 111310306,Ononis_spinosa,42.342999,-1.792
@@ -975,7 +930,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 165388060,Ononis_spinosa,37.63,-4.19
 1947348325,Ononis_spinosa,49.98,10.24
 1936358225,Ononis_spinosa,42.0781,0.7986
-29715514,Ononis_spinosa,39.6,-1.08
 895191789,Ononis_spinosa,39.94,-0.25
 165388057,Ononis_spinosa,37.44,-4.75
 1947348194,Ononis_spinosa,49.92,10.22
@@ -987,9 +941,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936115256,Ononis_spinosa,40.3761,-1.3639
 29716535,Ononis_spinosa,38.87,-0.41
 1947348198,Ononis_spinosa,49.97,10.26
-1144731886,Ononis_spinosa,42.3,9.15
 165388059,Ononis_spinosa,37.53,-4.41
-165388032,Ononis_spinosa,38.7,-4.9
 1936666285,Ononis_spinosa,38.664,-3.8058
 204418841,Ononis_spinosa,37.853,-3.04
 1701251254,Ononis_spinosa,63.7982,11.162
@@ -998,7 +950,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851384356,Ononis_spinosa,37.67,-2.201
 296508415,Ononis_spinosa,46.78,12.662
 1947348195,Ononis_spinosa,49.62,10.37
-1851379686,Ononis_spinosa,42.65,-5.5
 29716503,Ononis_spinosa,40.39,-0.23
 1702513567,Ononis_spinosa,47.23645,9.89849
 1705263834,Ononis_spinosa,58.445769,11.375182
@@ -1021,14 +972,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434767849,Ononis_spinosa,37.723438,-7.709868
 1434767820,Ononis_spinosa,37.680386,-7.665461
 1936090058,Ononis_spinosa,42.0092,0.1248
-1502017036,Ononis_spinosa,40.14,-1.3
 165388070,Ononis_spinosa,37.44,-4.41
 1434767810,Ononis_spinosa,38.501232,-8.026227
 1050595634,Ononis_spinosa,43.31,-3.06
 1936114940,Ononis_spinosa,38.336,-4.2141
 165388075,Ononis_spinosa,37.53,-4.53
 111310311,Ononis_spinosa,42.513,-1.704
-165388067,Ononis_spinosa,37.63,-4.3
 900225152,Ononis_spinosa,59.0889,5.7996
 165388030,Ononis_spinosa,38.51,-5.24
 111310310,Ononis_spinosa,42.877998,-0.839
@@ -1036,7 +985,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705431738,Ononis_spinosa,57.57919,16.507261
 1702180076,Ononis_spinosa,59.7196,9.8524
 914696,Ononis_spinosa,56.00235,14.39334
-1265822105,Ononis_spinosa,37.9,22.983333
 1705747708,Ononis_spinosa,53.1383,23.1432
 1050595623,Ononis_spinosa,42.68,-2.54
 318039394,Ononis_spinosa,42.87,-0.84
@@ -1047,7 +995,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318229742,Ononis_spinosa,59.3535,5.9658
 165388073,Ononis_spinosa,37.35,-4.52
 912896,Ononis_spinosa,59.26794,13.04374
-165388033,Ononis_spinosa,38.6,-5.24
 912888,Ononis_spinosa,57.61946,16.307612
 1851343473,Ononis_spinosa,42.65,-5.62
 1936535927,Ononis_spinosa,43.031747,-4.166119
@@ -1056,17 +1003,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1230995481,Ononis_spinosa,48.125,16.20806
 30882527,Ononis_spinosa,38.110001,-5.05
 1936089122,Ononis_spinosa,41.8282,0.9156
-1501964582,Ononis_spinosa,39.6,-0.96
 1936115470,Ononis_spinosa,38.2519,-2.7498
 1936082092,Ononis_spinosa,41.4307,-3.6715
 1936105491,Ononis_spinosa,38.6369,-0.3588
-30882173,Ononis_spinosa,36.959999,-3
 111310316,Ononis_spinosa,43.500999,-1.547
 1935705873,Ononis_spinosa,47.14861,15.31139
 1805098557,Ononis_spinosa,42.285,-2.509
 1705357550,Ononis_spinosa,57.656957,14.682854
 1936105482,Ononis_spinosa,41.4597,-3.0013
-1501977013,Ononis_spinosa,38.68,-0.3
 1805099024,Ononis_spinosa,42.276,-2.436
 1144731895,Ononis_spinosa,42.51667,9.11667
 1936105167,Ononis_spinosa,41.1406,-3.9426
@@ -1079,8 +1023,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 914711,Ononis_spinosa,56.03454,14.4954
 165388031,Ononis_spinosa,38.79,-5.01
 1947348308,Ononis_spinosa,49.98,10.28
-30882952,Ononis_spinosa,38.189999,-5.4
-30882494,Ononis_spinosa,38.560001,-5.3
 30882498,Ononis_spinosa,38.029999,-4.48
 1050595649,Ononis_spinosa,42.68,-2.61
 1936115145,Ononis_spinosa,39.8122,-0.548
@@ -1089,7 +1031,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050595648,Ononis_spinosa,42.49,-2.41
 1144731890,Ononis_spinosa,42.76667,9.35
 1050595671,Ononis_spinosa,43.25,-3.09
-30882491,Ononis_spinosa,37.759998,-4.7
 1936097797,Ononis_spinosa,38.5126,-2.531
 1851378323,Ononis_spinosa,42.83,-5.63
 1935705851,Ononis_spinosa,46.81111,12.84028
@@ -1117,7 +1058,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1050595650,Ononis_spinosa,42.86,-2.69
 199491728,Ononis_spinosa,36.56472,-4.85572
 30882483,Ononis_spinosa,37.580002,-4.36
-1050595625,Ononis_spinosa,42.6,-2.81
 1050595626,Ononis_spinosa,43.42,-2.94
 1936105335,Ononis_spinosa,37.564,-3.8731
 30882492,Ononis_spinosa,38.470001,-5.18
@@ -1132,7 +1072,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434767856,Ononis_spinosa,37.613846,-7.790203
 1936367810,Ononis_spinosa,39.0105,-6.9211
 111311008,Ononis_spinosa,43.291,-2.131
-876156232,Ononis_spinosa,41.41,2.1
 111311012,Ononis_spinosa,43.048,-2.061
 111310517,Ononis_spinosa,42.66,-1.23
 1936083129,Ononis_spinosa,41.7392,-4.0872
@@ -1145,7 +1084,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199491793,Ononis_spinosa,36.99,-4.29
 1936104761,Ononis_spinosa,41.767067,-4.100825
 186823329,Ononis_spinosa,59.1956,10.8819
-1851336434,Ononis_spinosa,43,-6.24
 1806555810,Ononis_spinosa,42.689057,-1.584721
 1851322367,Ononis_spinosa,42.92,-5.39
 1806555815,Ononis_spinosa,42.896696,-1.780896
@@ -1166,7 +1104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936104563,Ononis_spinosa,42.3058,-3.3532
 2291614453,Ononis_spinosa,50.452,6.102
 1701761484,Ononis_spinosa,63.3523,10.1091
-111310535,Ononis_spinosa,42.5,-2.33
 1806555714,Ononis_spinosa,42.842835,-1.716523
 1936143956,Ononis_spinosa,41.286,-3.7656
 1936144074,Ononis_spinosa,41.301378,-3.770447
@@ -1175,8 +1112,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318229655,Ononis_spinosa,59.1076,5.8304
 1323789885,Ononis_spinosa,59.8126,10.6536
 1323789927,Ononis_spinosa,59.3987,10.7445
-786199716,Ononis_spinosa,48.7,9.8
-237336221,Ononis_spinosa,37.88,-5.1
 237336220,Ononis_spinosa,37.88,-5.22
 237336219,Ononis_spinosa,37.88,-5.33
 29711152,Ononis_spinosa,38.78,-0.87
@@ -1187,7 +1122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434767938,Ononis_spinosa,41.646862,-6.606096
 1434767898,Ononis_spinosa,41.870197,-6.762017
 111311015,Ononis_spinosa,43.123001,-3.141
-876156509,Ononis_spinosa,41.68,1.5
 111310528,Ononis_spinosa,42.68,-2.33
 1050595640,Ononis_spinosa,42.54,-2.56
 1434767921,Ononis_spinosa,41.827061,-6.632677
@@ -1204,7 +1138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1323789929,Ononis_spinosa,55.0333,8.6333
 1947348340,Ononis_spinosa,50.26,10.53
 1099856546,Ononis_spinosa,47.285278,11.224722
-237336218,Ononis_spinosa,37.79,-5.1
 1019292880,Ononis_spinosa,37.36,-4.19
 187209403,Ononis_spinosa,59.3889,10.5228
 1701705780,Ononis_spinosa,59.2716,10.7475
@@ -1217,7 +1150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697949221,Ononis_spinosa,63.3613,10.1094
 1936148850,Ononis_spinosa,41.2861,-3.7536
 2313366182,Ononis_spinosa,48.17,11.37
-2290779004,Ononis_spinosa,38,30.75
 1699950182,Ononis_spinosa,40.009859,9.229033
 1936111257,Ononis_spinosa,40.2838,-1.9425
 1936015192,Ononis_spinosa,37.8783,-1.2274
@@ -1243,7 +1175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2289692955,Ononis_spinosa,47.15,7.366667
 1936046975,Ononis_spinosa,37.8551,-2.6602
 1702439388,Ononis_spinosa,59.1936,11.0753
-2028546889,Ononis_spinosa,42.1,2.7
 914936,Ononis_spinosa,55.45054,12.95202
 1050595635,Ononis_spinosa,42.82,-2.68
 1099876318,Ononis_spinosa,35.083333,25.583333
@@ -1295,7 +1226,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2313445034,Ononis_spinosa,48.19,11.38
 1851391651,Ononis_spinosa,42.46,-6.14
 912861,Ononis_spinosa,58.71075,11.20821
-1099876412,Ononis_spinosa,39.85,21.3
 913215,Ononis_spinosa,55.93063,12.85945
 2291614337,Ononis_spinosa,34.95,33.195833
 211632860,Ononis_spinosa,43.279999,-5.88
@@ -1314,7 +1244,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434768065,Ononis_spinosa,39.923634,-7.035065
 1434768057,Ononis_spinosa,38.023792,-8.037283
 1851344111,Ononis_spinosa,42.04,-4.51
-30882694,Ononis_spinosa,40.110001,-3.7
 1697553481,Ononis_spinosa,54.3966,40.8921
 1702390104,Ononis_spinosa,59.1661,10.9914
 1697553503,Ononis_spinosa,55.056004,41.187637
@@ -1336,12 +1265,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 912729,Ononis_spinosa,58.38504,14.73134
 1099878866,Ononis_spinosa,40.95,24.583333
 2289463315,Ononis_spinosa,41.8301,-4.5651
-1842898532,Ononis_spinosa,41.5,1.86
 1434768102,Ononis_spinosa,37.897961,-7.597838
 1434768105,Ononis_spinosa,37.899506,-7.581
 1434768076,Ononis_spinosa,37.975044,-7.602081
 1697553440,Ononis_spinosa,54.992827,41.212955
-2306532120,Ononis_spinosa,51.4,-3.19
 1702516468,Ononis_spinosa,59.1943,10.9693
 913444,Ononis_spinosa,56.774167,9.339444
 1697553485,Ononis_spinosa,54.511471,40.189923
@@ -1349,14 +1276,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831278194,Ononis_spinosa,53.9484,11.2487
 1999559027,Ononis_spinosa,60.431992,22.318466
 1434768120,Ononis_spinosa,37.17189,-7.691144
-1060566810,Ononis_spinosa,44,8.1
 1701577498,Ononis_spinosa,59.3394,10.8722
 876156489,Ononis_spinosa,42.13,1.85
 1701983945,Ononis_spinosa,59.3099,10.7389
 1851364862,Ononis_spinosa,42.65,-5.38
 1851405506,Ononis_spinosa,43.02,-5.27
 1702321392,Ononis_spinosa,59.8594,10.5399
-788437471,Ononis_spinosa,38,22.15
 1697553441,Ononis_spinosa,55.031337,41.741708
 1897826953,Ononis_spinosa,56.733333,10.283333
 1434768135,Ononis_spinosa,37.256889,-8.286476
@@ -1385,7 +1310,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842843699,Ononis_spinosa,31.56,-6.42
 1705461353,Ononis_spinosa,58.178078,11.656696
 914714,Ononis_spinosa,56.04529,14.51911
-2304664387,Ononis_spinosa,51.55,-2.9
 1099062105,Ononis_spinosa,48.871113,10.428611
 1842898516,Ononis_spinosa,42.14,2.33
 1434768240,Ononis_spinosa,37.667698,-7.673406
@@ -1396,7 +1320,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 812028427,Ononis_spinosa,50.592967,9.521433
 1701793341,Ononis_spinosa,59.2077,10.9133
 2313366638,Ononis_spinosa,48.29,11.53
-1099876229,Ononis_spinosa,35,25.383333
 913201,Ononis_spinosa,55.82126,14.06555
 912764,Ononis_spinosa,58.57599,16.41676
 1705332906,Ononis_spinosa,55.941925,12.808714
@@ -1411,8 +1334,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831278335,Ononis_spinosa,54.1484,13.415
 574730612,Ononis_spinosa,38.033333,44.016667
 912750,Ononis_spinosa,58.65084,16.22529
-1099872347,Ononis_spinosa,35.183333,25.7
-1099872330,Ononis_spinosa,35.2,26.016667
 1288112918,Ononis_spinosa,50.7348,9.932191
 1705388341,Ononis_spinosa,58.383081,14.742651
 1697553439,Ononis_spinosa,54.915604,39.409088
@@ -1425,7 +1346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936061272,Ononis_spinosa,43.66092,6.92917
 913081,Ononis_spinosa,55.57458,12.90787
 1705332247,Ononis_spinosa,56.103842,14.411579
-1705472421,Ononis_spinosa,48,7.3333
 812028415,Ononis_spinosa,50.545067,9.897917
 1705426073,Ononis_spinosa,55.984256,14.269791
 812028428,Ononis_spinosa,50.555767,9.616783
@@ -1475,7 +1395,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1434768374,Ononis_spinosa,39.259529,-8.841566
 1701962252,Ononis_spinosa,63.509,10.7583
 1434768339,Ononis_spinosa,38.714722,-7.672422
-30973965,Ononis_spinosa,38.6,-0.53
 1701571096,Ononis_spinosa,63.8454,11.3997
 1705479645,Ononis_spinosa,48.517,16.883
 913257,Ononis_spinosa,55.60962,13.57199
@@ -1557,7 +1476,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 913311,Ononis_spinosa,55.57488,12.94447
 913314,Ononis_spinosa,55.74003,14.06283
 1935920565,Ononis_spinosa,38.7958,-6.4554
-876152862,Ononis_spinosa,41.5,2.34
 240493568,Ononis_spinosa,52.199231,4.425291
 1668935412,Ononis_spinosa,54.855,37.623
 1701793337,Ononis_spinosa,59.6971,9.8706
@@ -1585,15 +1503,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 913316,Ononis_spinosa,55.63894,14.12444
 1697553543,Ononis_spinosa,50.038282,37.998215
 1701785526,Ononis_spinosa,59.4773,10.6443
-1701571139,Ononis_spinosa,63.8498,11.4
 187209408,Ononis_spinosa,63.8407,11.4094
 1099062103,Ononis_spinosa,48.828888,10.574722
 1842849575,Ononis_spinosa,39.1552,-0.3527
-1936581766,Ononis_spinosa,41.1,-4.5333
 1434768487,Ononis_spinosa,41.143997,-7.434422
-860320476,Ononis_spinosa,41.78,2.7
-860320472,Ononis_spinosa,41.87,2.7
-876152470,Ononis_spinosa,41.6,2.46
 913615,Ononis_spinosa,58.63777,11.33965
 912863,Ononis_spinosa,58.49977,11.29898
 913433,Ononis_spinosa,58.61124,11.28462
@@ -1629,7 +1542,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 913322,Ononis_spinosa,55.71679,13.27302
 1701541660,Ononis_spinosa,48.99,17.6725
 1099872384,Ononis_spinosa,34.966667,25.033333
-1701541615,Ononis_spinosa,48.93333,17.6
 1701924110,Ononis_spinosa,60.32528,10.13214
 913003,Ononis_spinosa,56.112,14.18209
 1701541636,Ononis_spinosa,48.87361,17.59167
@@ -1650,7 +1562,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701983862,Ononis_spinosa,59.1956,11.1708
 2313364750,Ononis_spinosa,48.17,11.71
 1831278592,Ononis_spinosa,54.1484,11.9152
-1099879452,Ononis_spinosa,38,23.583333
 912872,Ononis_spinosa,58.01421,11.62897
 1705338621,Ononis_spinosa,56.673346,12.856232
 1600641979,Ononis_spinosa,60.071161,24.392468
@@ -1764,7 +1675,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788705997,Ononis_spinosa,56.07295,14.47676
 788777144,Ononis_spinosa,56.29986,12.82294
 1434767803,Ononis_spinosa,37.941494,-7.595919
-31961521,Ononis_spinosa,37,-2.61
 913662,Ononis_spinosa,55.63411,13.05189
 1701765590,Ononis_spinosa,60.0501,10.256
 1705444140,Ononis_spinosa,58.248673,11.444858
@@ -1779,7 +1689,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705274190,Ononis_spinosa,55.786117,13.244442
 1705378213,Ononis_spinosa,57.616403,11.94128
 912971,Ononis_spinosa,55.4694,13.018772
-786199797,Ononis_spinosa,49.3,8.4
 1705430419,Ononis_spinosa,58.484618,14.997262
 1144073074,Ononis_spinosa,60.1115,10.2683
 1697733479,Ononis_spinosa,44.928991,35.170745
@@ -1803,7 +1712,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 913517,Ononis_spinosa,57.454638,12.18393
 913450,Ononis_spinosa,55.61041,13.0097
 913371,Ononis_spinosa,56.20193,15.5745
-786199737,Ononis_spinosa,46.8,17.4
 437077508,Ononis_spinosa,36.49814,36.26415
 913040,Ononis_spinosa,55.69174,13.13461
 1697553567,Ononis_spinosa,54.97112,44.94135
@@ -1817,7 +1725,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144072861,Ononis_spinosa,59.4183,10.6018
 31961615,Ononis_spinosa,37.81,-3.51
 913043,Ononis_spinosa,55.78693,14.01253
-31961614,Ononis_spinosa,37.72,-3.4
 1697553602,Ononis_spinosa,54.589623,44.806601
 31961522,Ononis_spinosa,36.71,-5.41
 913323,Ononis_spinosa,58.57211,14.96075
@@ -1929,7 +1836,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831278245,Ononis_spinosa,53.9484,10.9154
 1288095309,Ononis_spinosa,50.609567,10.06275
 1705261397,Ononis_spinosa,56.724942,14.923158
-995185387,Ononis_spinosa,46.5,13.65
 1935920504,Ononis_spinosa,38.8169,-5.6504
 1701793373,Ononis_spinosa,61.9376,5.1117
 912854,Ononis_spinosa,57.413135,12.022324
