@@ -7,8 +7,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426470077,Ceanothus_thyrsiflorus,38.00265,-122.70739
 1260041503,Ceanothus_thyrsiflorus,34.45,-118.91666
 442202555,Ceanothus_thyrsiflorus,43.8466,-122.5782
-1928412470,Ceanothus_thyrsiflorus,37,-122.05
-1024486222,Ceanothus_thyrsiflorus,38.1,-122.9
 1024486157,Ceanothus_thyrsiflorus,41.033333,-124.116667
 1426108231,Ceanothus_thyrsiflorus,40.8871,-123.947
 1269717567,Ceanothus_thyrsiflorus,32.845001,-116.428001
@@ -28,7 +26,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895472591,Ceanothus_thyrsiflorus,31.233333,-116.333333
 2270531585,Ceanothus_thyrsiflorus,31.25417,-116.3167
 1893553084,Ceanothus_thyrsiflorus,31.258333,-116.325
-1936954710,Ceanothus_thyrsiflorus,39.816667,-123.8
 51793310,Ceanothus_thyrsiflorus,43.0061,-123.756
 2270287269,Ceanothus_thyrsiflorus,34.492699999119,-120.3827
 1893424822,Ceanothus_thyrsiflorus,31.255757235219,-116.319013270386
