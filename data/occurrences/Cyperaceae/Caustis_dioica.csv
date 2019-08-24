@@ -211,7 +211,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992219651,Caustis_dioica,-34.41584,118.15455
 996347273,Caustis_dioica,-34.338056,117.731667
 996347312,Caustis_dioica,-31.861944,117.481667
-995285730,Caustis_dioica,-30.3,115
 996347477,Caustis_dioica,-33.86,122.45
 992214703,Caustis_dioica,-31,116
 1257394549,Caustis_dioica,-32.5333,117.3
@@ -244,7 +243,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995800100,Caustis_dioica,-30.12,115.23
 995800133,Caustis_dioica,-33.63,117.1
 996347344,Caustis_dioica,-34.391667,119.149722
-996347479,Caustis_dioica,-31,115
 994847472,Caustis_dioica,-33.9167,120.0167
 996347472,Caustis_dioica,-31.033333,116.033056
 996347346,Caustis_dioica,-32.5,117.3
@@ -259,7 +257,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993802810,Caustis_dioica,-28.1681,114.6569
 996347243,Caustis_dioica,-28.19,114.65
 995800057,Caustis_dioica,-28.18,114.65
-993755352,Caustis_dioica,-33.95,120.4333
 996347283,Caustis_dioica,-33.937222,120.116389
 996347442,Caustis_dioica,-33.75,122.87
 2287787858,Caustis_dioica,-33.166667,117.166667
@@ -270,9 +267,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996347580,Caustis_dioica,-29.218333,115.184167
 996347413,Caustis_dioica,-27.75,114.35
 992239539,Caustis_dioica,-33.866079,121.887589
-995286711,Caustis_dioica,-34.1167,122.25
 996347276,Caustis_dioica,-33.65,115.47
-995285749,Caustis_dioica,-28.5,114.5
 996347568,Caustis_dioica,-29.011389,115.565556
 996347389,Caustis_dioica,-33.1,118.2
 996347259,Caustis_dioica,-34.333333,118.616389
