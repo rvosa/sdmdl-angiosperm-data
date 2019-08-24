@@ -15,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1990857291,Polygala_serpyllifolia,56.20735,12.71449
 1144753386,Polygala_serpyllifolia,41.86667,9.15
 1701290384,Polygala_serpyllifolia,61.6484,5.4814
-2289768900,Polygala_serpyllifolia,52.875,6.4
 1702508702,Polygala_serpyllifolia,43.01,-1.17
 2306923526,Polygala_serpyllifolia,54.99,-2.86
 2291378310,Polygala_serpyllifolia,52.9295,6.292167
@@ -75,7 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342799403,Polygala_serpyllifolia,56.826967,9.61313
 1342799252,Polygala_serpyllifolia,55.622014,8.212691
 2289347004,Polygala_serpyllifolia,51.477817,4.609483
-1050642280,Polygala_serpyllifolia,42.6,-2.64
 1701970171,Polygala_serpyllifolia,63.6419,9.3179
 1144753417,Polygala_serpyllifolia,44.90722,-1.13
 1144054140,Polygala_serpyllifolia,58.88222,5.85054
@@ -93,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702196349,Polygala_serpyllifolia,58.8917,5.7832
 1701840825,Polygala_serpyllifolia,59.0715,5.6773
 1701840760,Polygala_serpyllifolia,58.4505,6.0672
-1060486773,Polygala_serpyllifolia,52,-9.5
 1342799448,Polygala_serpyllifolia,56.610942,9.691087
 1342799430,Polygala_serpyllifolia,56.062658,9.729431
 1701636594,Polygala_serpyllifolia,60.8142,5.7699
@@ -107,7 +104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1342799371,Polygala_serpyllifolia,57.070826,8.77601
 1050632789,Polygala_serpyllifolia,42.68,-2.45
 1851370558,Polygala_serpyllifolia,42.453,-6.768
-1050632998,Polygala_serpyllifolia,42.68,-2.5
 1342799410,Polygala_serpyllifolia,56.608572,10.033165
 1851345830,Polygala_serpyllifolia,42.264,-6.739
 1342799324,Polygala_serpyllifolia,56.486089,8.503418
@@ -199,17 +195,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936405170,Polygala_serpyllifolia,43.0353,-1.5283
 1050599112,Polygala_serpyllifolia,43.22,-3.68
 2305194277,Polygala_serpyllifolia,50.55,-3.84
-1851400654,Polygala_serpyllifolia,42.2,-6.52
 1144083077,Polygala_serpyllifolia,59.8884,5.3244
 1936548547,Polygala_serpyllifolia,42.9176,-6.4653
 1936393314,Polygala_serpyllifolia,40.8345,-3.9145
 1851586251,Polygala_serpyllifolia,40.87,-3.89
 1936381843,Polygala_serpyllifolia,43.0966,-3.714
 1936172672,Polygala_serpyllifolia,43.1241,-3.6406
-1144753413,Polygala_serpyllifolia,41.9,9.23333
 1851350765,Polygala_serpyllifolia,42.851,-4.609
 1144753390,Polygala_serpyllifolia,41.85,9.23333
-1144753395,Polygala_serpyllifolia,42.2,9.08333
 1144055125,Polygala_serpyllifolia,60.4179,5.7581
 1851352554,Polygala_serpyllifolia,42.922,-4.685
 900225362,Polygala_serpyllifolia,59.1503,5.6863
@@ -229,7 +222,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318231983,Polygala_serpyllifolia,59.1378,5.6002
 1053985824,Polygala_serpyllifolia,43.27,-1.75
 1947418584,Polygala_serpyllifolia,50.42,11.29
-1947418656,Polygala_serpyllifolia,50.41,11.4
 318232057,Polygala_serpyllifolia,59.1288,5.6011
 318231986,Polygala_serpyllifolia,58.7955,5.9281
 1053985944,Polygala_serpyllifolia,43.28,-1.78
@@ -242,7 +234,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144117461,Polygala_serpyllifolia,62.6104,6.1842
 1455451198,Polygala_serpyllifolia,50.144599,4.767632
 1050599139,Polygala_serpyllifolia,43.02,-2.57
-1050599156,Polygala_serpyllifolia,42.2,-3.03
 1851375676,Polygala_serpyllifolia,43.02,-5.15
 1050599126,Polygala_serpyllifolia,43.08,-2.85
 1936061184,Polygala_serpyllifolia,42.2156,-6.4815
@@ -267,7 +258,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702209768,Polygala_serpyllifolia,59.1654,5.8765
 1851333144,Polygala_serpyllifolia,43.02,-4.78
 1851385133,Polygala_serpyllifolia,43.074,-5.254
-1050599160,Polygala_serpyllifolia,43.18,-3
 1701310079,Polygala_serpyllifolia,62.8383,7.6158
 1701226474,Polygala_serpyllifolia,62.8848,7.0039
 187222945,Polygala_serpyllifolia,63.0734,7.8026
@@ -295,7 +285,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702048402,Polygala_serpyllifolia,61.4932,5.1297
 1701306537,Polygala_serpyllifolia,62.9237,8.2222
 1936602258,Polygala_serpyllifolia,43.0728,-4.3525
-1050599135,Polygala_serpyllifolia,42.91,-2.3
 1851374240,Polygala_serpyllifolia,43.01,-5.39
 1851395360,Polygala_serpyllifolia,42.91,-5.76
 1050599153,Polygala_serpyllifolia,42.79,-2.72
@@ -329,7 +318,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144116496,Polygala_serpyllifolia,61.5844,5.6934
 1701238176,Polygala_serpyllifolia,61.4918,5.109
 211634587,Polygala_serpyllifolia,43.16,-5.94
-211633876,Polygala_serpyllifolia,43.049999,-6
 1144115764,Polygala_serpyllifolia,60.8151,5.307
 1701279437,Polygala_serpyllifolia,62.5274,7.125
 1851392309,Polygala_serpyllifolia,42.773,-0.549
@@ -340,11 +328,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144117471,Polygala_serpyllifolia,62.9246,7.2966
 1144117416,Polygala_serpyllifolia,62.9199,6.9424
 1701314114,Polygala_serpyllifolia,62.6929,6.7823
-1144753425,Polygala_serpyllifolia,42.2,8.95
 1702535279,Polygala_serpyllifolia,58.6785,5.9212
 1701226770,Polygala_serpyllifolia,61.5668,5.3561
 1701344508,Polygala_serpyllifolia,62.5493,6.9777
-1144753402,Polygala_serpyllifolia,42.48333,8.7
 1144117469,Polygala_serpyllifolia,62.8819,7.9972
 1702325357,Polygala_serpyllifolia,58.8229,7.4674
 1701338198,Polygala_serpyllifolia,58.7823,5.7562
@@ -378,7 +364,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144114704,Polygala_serpyllifolia,58.532,6.5697
 1702328820,Polygala_serpyllifolia,62.33985,6.63925
 1144114748,Polygala_serpyllifolia,58.5938,6.5137
-1144753422,Polygala_serpyllifolia,41.9,9.21667
 1701681076,Polygala_serpyllifolia,62.39431,7.0888
 1144152922,Polygala_serpyllifolia,59.98286,5.53824
 1701563885,Polygala_serpyllifolia,62.4018,5.6227
@@ -432,12 +417,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1899071132,Polygala_serpyllifolia,49.74,6.04
 2313362278,Polygala_serpyllifolia,48.02,11.51
 1144177011,Polygala_serpyllifolia,60.4579,5.2827
-1891606913,Polygala_serpyllifolia,50.08,5.9
-1891593164,Polygala_serpyllifolia,50,5.88
 1701567035,Polygala_serpyllifolia,59.9275,5.8597
 1702328744,Polygala_serpyllifolia,59.7737,5.4821
 186827680,Polygala_serpyllifolia,58.3171,7.7488
-1891595221,Polygala_serpyllifolia,49.8,5.77
 1701251246,Polygala_serpyllifolia,63.1841,8.2351
 1899079625,Polygala_serpyllifolia,53.361017,-0.236269
 1702328890,Polygala_serpyllifolia,62.24268,7.4387
@@ -533,7 +515,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702328699,Polygala_serpyllifolia,60.484,5.6512
 1144115570,Polygala_serpyllifolia,60.3007,5.8801
 1144115454,Polygala_serpyllifolia,60.54419,6.66526
-616366173,Polygala_serpyllifolia,50.58,6
 1144114661,Polygala_serpyllifolia,58.97009,5.71814
 1842893509,Polygala_serpyllifolia,41.78,2.46
 616365670,Polygala_serpyllifolia,50.962788,5.98031
