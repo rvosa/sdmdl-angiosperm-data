@@ -47,7 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935711836,Polygala_amara,47.35417,14.30944
 1947418388,Polygala_amara,50.22,10.12
 1638414928,Polygala_amara,47.97917,16.16167
-45823190,Polygala_amara,10.1,-51.21
 2289917963,Polygala_amara,47.133333,7.066667
 1657195385,Polygala_amara,47.625,15.29167
 1845010075,Polygala_amara,48.063889,9.611667
@@ -57,7 +56,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935712133,Polygala_amara,47.11972,14.19
 1848378344,Polygala_amara,53.9485,13.415
 1264996675,Polygala_amara,48.0225,16.235278
-735648163,Polygala_amara,46.946111,-0.024444
 1264997876,Polygala_amara,47.204167,15.345556
 1264996053,Polygala_amara,47.533056,14.604444
 1264995226,Polygala_amara,47.591389,14.633611
