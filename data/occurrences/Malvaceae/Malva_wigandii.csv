@@ -12,7 +12,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 910446536,Malva_wigandii,36.69476,-4.65266
 1936215722,Malva_wigandii,36.82,-2.249444
 211648423,Malva_wigandii,37.71,-1.51
-895228184,Malva_wigandii,39.606,-0.7
 895234233,Malva_wigandii,39.78,-1.07
 895234062,Malva_wigandii,39.607,-0.781
 1701538509,Malva_wigandii,41.87619,-1.78694
@@ -62,7 +61,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701538653,Malva_wigandii,36.56089,-4.93667
 1701538749,Malva_wigandii,36.81419,-3.23389
 1701538607,Malva_wigandii,38.55786,-2.07361
-1501121141,Malva_wigandii,39.61,-0.9
 1936698288,Malva_wigandii,34.9684,-2.7406
 1830985793,Malva_wigandii,36.72861,-2.16306
 199486619,Malva_wigandii,36.746,-4.361
@@ -80,10 +78,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30875882,Malva_wigandii,37.369999,-1.77
 198470558,Malva_wigandii,37.310001,-1.74
 30667451,Malva_wigandii,37.439999,-1.74
-1851576158,Malva_wigandii,37.3,-1.74
 317821592,Malva_wigandii,41.9892,0.3857
 1851576048,Malva_wigandii,38.54,-0.92
-30667410,Malva_wigandii,37.299999,-2.1
 211647715,Malva_wigandii,38.41,-1.01
 199486504,Malva_wigandii,36.719,-4.316
 199486558,Malva_wigandii,36.741,-5.268
@@ -94,13 +90,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199486382,Malva_wigandii,36.732,-5.245
 1050630625,Malva_wigandii,41.88,-1.82
 30875282,Malva_wigandii,36.68,-3.45
-1851575194,Malva_wigandii,41.98,0.6
 1135450367,Malva_wigandii,36.73333,-2.16667
 199486341,Malva_wigandii,36.72022,-4.34519
 895207646,Malva_wigandii,39.858,-0.282
 1501097586,Malva_wigandii,39.85,-0.28
 1851574657,Malva_wigandii,37.04,-2.03
-1502047213,Malva_wigandii,38.4,-0.55
 1502064184,Malva_wigandii,38.36,-0.59
 1851573970,Malva_wigandii,36.77,-2.23
 1851397445,Malva_wigandii,36.778,-2.232
@@ -114,7 +108,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211647727,Malva_wigandii,37.81,-1.51
 30667778,Malva_wigandii,36.987,-2.691
 1851571889,Malva_wigandii,38.08,-1.03
-30874803,Malva_wigandii,36.939999,-4.8
 1502013589,Malva_wigandii,39.76,-0.26
 1936553062,Malva_wigandii,39.717,-0.318
 30935938,Malva_wigandii,39.720001,-0.32
@@ -124,8 +117,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 30874845,Malva_wigandii,36.849998,-4.79
 895247582,Malva_wigandii,39.712,-1.093
 1500981089,Malva_wigandii,39.71,-1.09
-1851572595,Malva_wigandii,41.42,-1.6
-1501108693,Malva_wigandii,39.77,-0.2
 895248275,Malva_wigandii,39.775,-0.204
 1501984885,Malva_wigandii,38.96,-0.52
 1851574889,Malva_wigandii,38.09,-0.94
@@ -138,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1851570062,Malva_wigandii,38.13,-0.96
 1851571368,Malva_wigandii,38.36,-0.99
 1502047201,Malva_wigandii,38.34,-0.47
-30874851,Malva_wigandii,36.77,-2.1
 1502062728,Malva_wigandii,38.54,-0.81
 30874660,Malva_wigandii,36.68,-2.22
 1851349732,Malva_wigandii,39.87,-0.95
@@ -169,7 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1502062311,Malva_wigandii,38.47,-0.73
 30874555,Malva_wigandii,37.580002,-1.41
 1502064279,Malva_wigandii,38.55,-0.18
-1851569426,Malva_wigandii,38.7,-0.11
 1502035492,Malva_wigandii,40.03,0.01
 30874664,Malva_wigandii,36.779999,-3.45
 30874666,Malva_wigandii,36.689999,-2.78
@@ -180,7 +169,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501961780,Malva_wigandii,39.69,-1.08
 1502013857,Malva_wigandii,39.85,-0.25
 1851565748,Malva_wigandii,38.65,-0.02
-30874654,Malva_wigandii,37.220001,-2.1
 1500699653,Malva_wigandii,39.92,-0.24
 895190247,Malva_wigandii,39.929,-0.244
 199486009,Malva_wigandii,36.742,-2.177
@@ -199,7 +187,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1502032915,Malva_wigandii,38.77,0.07
 1851395092,Malva_wigandii,36.82,-2.05
 1501963849,Malva_wigandii,39.51,-0.96
-1502000298,Malva_wigandii,39.05,-0.4
 1501991657,Malva_wigandii,39.68,-0.49
 1502007776,Malva_wigandii,39.58,-0.26
 895176444,Malva_wigandii,39.678,-0.277
@@ -221,18 +208,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936436669,Malva_wigandii,38.1646,-1.7684
 199485742,Malva_wigandii,36.6343,-4.61134
 30877345,Malva_wigandii,37.130001,-1.87
-30874762,Malva_wigandii,36.68,-3.9
 30877348,Malva_wigandii,36.77,-2.22
 895263534,Malva_wigandii,39.87,-1.07
 895147432,Malva_wigandii,39.86,-0.37
 199485662,Malva_wigandii,36.76192,-3.84405
-895162376,Malva_wigandii,36.82,-3.5
 1936049435,Malva_wigandii,36.7726,-3.5615
 211629576,Malva_wigandii,36.77,-3.56
 199485661,Malva_wigandii,36.76444,-3.83842
 1936098105,Malva_wigandii,37.1377,-1.819
 199485743,Malva_wigandii,36.6207,-4.68234
-860307716,Malva_wigandii,41.04,0.8
 860307966,Malva_wigandii,42.222,-0.098
 860307970,Malva_wigandii,42.175,0.028
 860307977,Malva_wigandii,42.202,0.026
