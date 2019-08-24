@@ -48,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1839017075,Glebionis_segetum,40.410561,23.689171
 1946966030,Glebionis_segetum,50.17,9.87
 1899730125,Glebionis_segetum,59.2613,10.8171
-1584379671,Glebionis_segetum,43.1,11.76667
 1702029707,Glebionis_segetum,59.7731,10.2445
 1099344587,Glebionis_segetum,36.565,-5.017
 1838984671,Glebionis_segetum,38.42083,21.861111
@@ -108,7 +107,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1838984944,Glebionis_segetum,40.965561,24.48333
 1838984926,Glebionis_segetum,40.99778,24.518061
 1851336290,Glebionis_segetum,38.993,-5.28
-1851328720,Glebionis_segetum,41.04,-6.8
 1838984775,Glebionis_segetum,40.968891,24.51667
 1258036279,Glebionis_segetum,34.984444,25.2825
 1702110310,Glebionis_segetum,59.0768,10.9413
@@ -232,11 +230,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671657844,Glebionis_segetum,44.132042,9.701779
 1671657780,Glebionis_segetum,44.099732,9.73815
 199480238,Glebionis_segetum,37.311,-6.41
-317818810,Glebionis_segetum,41.32,2.1
 199469278,Glebionis_segetum,38.87,-5.59
-199469277,Glebionis_segetum,38.5,-5.69
 199469276,Glebionis_segetum,38.78,-5.13
-895153311,Glebionis_segetum,37.95,14.7
 230817320,Glebionis_segetum,51.835364,5.800702
 1702199275,Glebionis_segetum,59.3861,10.4532
 1702182337,Glebionis_segetum,59.2203,10.8492
@@ -284,7 +279,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1501057946,Glebionis_segetum,38.86,-0.18
 1936575305,Glebionis_segetum,38.3566,-3.9283
 1936442220,Glebionis_segetum,38.8143,-0.2371
-1936454413,Glebionis_segetum,36.5167,-4.9
 1705359728,Glebionis_segetum,57.662622,14.714514
 788696032,Glebionis_segetum,55.7351,13.86066
 1332523822,Glebionis_segetum,50.6605,11.0984
@@ -298,11 +292,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144141284,Glebionis_segetum,58.9724,5.7556
 1701111608,Glebionis_segetum,42.411119,11.145667
 895239678,Glebionis_segetum,38.87,-0.52
-895241177,Glebionis_segetum,40.3,0.12
 895238047,Glebionis_segetum,40.03,0.01
 895195390,Glebionis_segetum,40.48,0.23
 895193116,Glebionis_segetum,39.95,-0.37
-895207397,Glebionis_segetum,40.3,0.23
 1913652669,Glebionis_segetum,48.78611,7.5125
 1883574268,Glebionis_segetum,37.950001,14.716666
 1702160240,Glebionis_segetum,59.4299,9.9958
@@ -316,7 +308,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705345967,Glebionis_segetum,56.978905,13.65066
 1936214267,Glebionis_segetum,38.4593,-6.48
 1851582197,Glebionis_segetum,36.63,-4.73
-1144621179,Glebionis_segetum,41.93333,8.7
 1144621055,Glebionis_segetum,42.51667,8.78333
 1990857470,Glebionis_segetum,55.69106,13.46769
 1702010745,Glebionis_segetum,59.0977,10.9115
@@ -326,7 +317,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 78870013,Glebionis_segetum,37.35,-4.64
 78870014,Glebionis_segetum,37.26,-4.52
 78870011,Glebionis_segetum,37.44,-4.87
-78870009,Glebionis_segetum,37.72,-4.3
 1144621057,Glebionis_segetum,42.53333,9.13333
 78870012,Glebionis_segetum,37.62,-4.53
 1144621171,Glebionis_segetum,42.16667,9.46667
@@ -336,7 +326,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788731676,Glebionis_segetum,55.69461,13.44751
 1702209869,Glebionis_segetum,59.0886,10.918
 1701623274,Glebionis_segetum,59.02266,9.53738
-1144621053,Glebionis_segetum,41.9,8.8
 1144621176,Glebionis_segetum,41.48333,9.13333
 1831522057,Glebionis_segetum,40.16778,9.28972
 1144621177,Glebionis_segetum,42.76667,9.33333
@@ -344,7 +333,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701845932,Glebionis_segetum,59.2134,10.8496
 991805360,Glebionis_segetum,53.9484,12.0819
 1702010734,Glebionis_segetum,59.2077,10.8564
-1144621065,Glebionis_segetum,42.11667,8.7
 85790389,Glebionis_segetum,38.110001,-4.94
 1936365809,Glebionis_segetum,39.6793,-5.3449
 85790280,Glebionis_segetum,38.290001,-5.17
@@ -352,14 +340,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 204472617,Glebionis_segetum,38.42,-5.46
 85789881,Glebionis_segetum,37.849998,-4.36
 85789862,Glebionis_segetum,37.57,-5.04
-85789855,Glebionis_segetum,38.029999,-4.6
 85789860,Glebionis_segetum,37.48,-4.92
 85789902,Glebionis_segetum,37.389999,-4.92
 85789864,Glebionis_segetum,38.02,-5.05
 199468563,Glebionis_segetum,37.08,-4.41
 85789889,Glebionis_segetum,37.580002,-4.36
 85789888,Glebionis_segetum,38.029999,-4.71
-1144621029,Glebionis_segetum,42,9
 1144621049,Glebionis_segetum,41.68333,8.88333
 85789895,Glebionis_segetum,38.380001,-5.29
 85789900,Glebionis_segetum,38.200001,-5.17
@@ -369,7 +355,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948493401,Glebionis_segetum,61.480833,23.758727
 85789859,Glebionis_segetum,37.490002,-4.47
 85789857,Glebionis_segetum,37.84,-4.93
-85789875,Glebionis_segetum,38.279999,-5.4
 85789885,Glebionis_segetum,37.75,-5.27
 85790644,Glebionis_segetum,37.299999,-4.69
 85789849,Glebionis_segetum,38.290001,-5.29
@@ -378,7 +363,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 235571899,Glebionis_segetum,36.58212,-4.88425
 85789873,Glebionis_segetum,38.119999,-4.37
 2291316524,Glebionis_segetum,36.183333,29.666667
-1144621042,Glebionis_segetum,41.65,8.8
 1948493224,Glebionis_segetum,60.516247,22.160382
 1702422303,Glebionis_segetum,65.44111,13.40146
 1948493178,Glebionis_segetum,61.488467,23.523209
@@ -396,7 +380,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144621046,Glebionis_segetum,41.76667,8.73333
 1144621032,Glebionis_segetum,41.75,8.73333
 1948493161,Glebionis_segetum,60.0683,23.664777
-204472618,Glebionis_segetum,38.6,-5.12
 85789865,Glebionis_segetum,37.380001,-5.37
 1144621024,Glebionis_segetum,42.48333,8.68333
 1701634004,Glebionis_segetum,59.2673,10.8657
@@ -428,7 +411,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 684153510,Glebionis_segetum,37.198724,-8.52825
 1144621170,Glebionis_segetum,42.81667,9.33333
 684153512,Glebionis_segetum,40.7625,14.465833
-912600396,Glebionis_segetum,56.42,-5.4
 1948493124,Glebionis_segetum,61.090982,22.267748
 788722738,Glebionis_segetum,55.55311,13.57997
 1705423342,Glebionis_segetum,55.3762,13.150358
@@ -459,10 +441,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 360094863,Glebionis_segetum,61.879799,25.190599
 1701657487,Glebionis_segetum,59.1977,10.8295
 1935318234,Glebionis_segetum,54.3484,12.5818
-912600348,Glebionis_segetum,51.4,-1.14
 788707007,Glebionis_segetum,57.69181,11.93079
 1144122193,Glebionis_segetum,62.74169,7.3964
-1144621034,Glebionis_segetum,42.68333,9.3
 1705402530,Glebionis_segetum,58.096034,11.772001
 788727321,Glebionis_segetum,57.377869,12.135442
 788727970,Glebionis_segetum,56.50542,12.94188
@@ -557,8 +537,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788731736,Glebionis_segetum,55.688171,13.07933
 1144621039,Glebionis_segetum,42.63333,8.93333
 1144621172,Glebionis_segetum,41.83333,9.36667
-1144621173,Glebionis_segetum,41.88333,9.4
-1144621050,Glebionis_segetum,41.85,9.4
 1144122177,Glebionis_segetum,59.0643,11.0405
 788732736,Glebionis_segetum,58.380583,12.325668
 1705368469,Glebionis_segetum,55.721667,13.340946
@@ -573,7 +551,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705330554,Glebionis_segetum,56.443317,13.353795
 1948493243,Glebionis_segetum,60.257122,24.739081
 1702157050,Glebionis_segetum,59.1876,11.0575
-1144621028,Glebionis_segetum,41.68333,8.9
 31957841,Glebionis_segetum,35.17,-6.17
 788731255,Glebionis_segetum,55.6054,13.06798
 912600332,Glebionis_segetum,51.32,-0.49
@@ -600,7 +577,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788809200,Glebionis_segetum,56.24293,12.67045
 788662441,Glebionis_segetum,58.161357,13.550428
 31957711,Glebionis_segetum,35.72,-5.38
-912600426,Glebionis_segetum,52,-1.52
 788730660,Glebionis_segetum,55.56513,13.2073
 1323729415,Glebionis_segetum,67.2781,14.42
 788730481,Glebionis_segetum,59.272216,15.210918
@@ -641,8 +617,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788669256,Glebionis_segetum,58.283869,11.913114
 1705341916,Glebionis_segetum,57.781999,14.159527
 1702187929,Glebionis_segetum,69.4618,21.6768
-1144560919,Glebionis_segetum,41.4,9.21667
-31957228,Glebionis_segetum,35.17,-6.2
 1099899928,Glebionis_segetum,55.770278,12.503889
 788701959,Glebionis_segetum,55.868218,12.826692
 1144122186,Glebionis_segetum,60.54419,6.66526
