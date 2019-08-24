@@ -103,7 +103,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701750556,Morella_pubescens,-9.1839,-74.14
 1260911785,Morella_pubescens,-13.06777,-72.44694
 1260649368,Morella_pubescens,6.10138,-75.685
-1322621246,Morella_pubescens,15.5049,-61.4034
 1123897646,Morella_pubescens,6.3314,-75.4557
 1123894257,Morella_pubescens,5.924444,-75.517778
 1260905773,Morella_pubescens,-12.97944,-72.03583
@@ -423,7 +422,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 45591893,Morella_pubescens,9.55,-83.7
 1261415111,Morella_pubescens,-0.38333,-78.46666
 1258992181,Morella_pubescens,0.35,-78.11666
-1930008043,Morella_pubescens,-0.23,-78.58
 1261415113,Morella_pubescens,0.33333,-78.43333
 1261415162,Morella_pubescens,9.67166,-83.88888
 1253688677,Morella_pubescens,9.671667,-83.888889
@@ -604,7 +602,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261414831,Morella_pubescens,6.76666,-76.35
 1261415260,Morella_pubescens,-1.93333,-78.98333
 1123908144,Morella_pubescens,6.966667,-75.416667
-1576171094,Morella_pubescens,5.055733,-75.492085
 1261415205,Morella_pubescens,6.96666,-75.41666
 1261856049,Morella_pubescens,3.955556,-75.896111
 1260501654,Morella_pubescens,9.6,-70.15
@@ -735,7 +732,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 47811223,Morella_pubescens,0.166,-78.266
 1042500633,Morella_pubescens,7.366667,-72.72
 1261414992,Morella_pubescens,7.36666,-72.71666
-1261414960,Morella_pubescens,10.5425,-66.873889
 1261414939,Morella_pubescens,6,-73.68333
 1261415248,Morella_pubescens,-10.65,-75.61666
 1261415245,Morella_pubescens,-10.583333,-75.5
@@ -813,7 +809,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1576171057,Morella_pubescens,4.940235,-75.4351
 1261414849,Morella_pubescens,7.023,-75.423
 1261415074,Morella_pubescens,10.333333,-84.8
-1096782436,Morella_pubescens,20,-78.43
 1258630276,Morella_pubescens,9.6,-83.8
 1261415242,Morella_pubescens,-1.9,-78.9
 47811073,Morella_pubescens,0.333,-78.433
@@ -831,7 +826,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1099640492,Morella_pubescens,6.32877,-75.66933
 415897507,Morella_pubescens,-5.08472,-78.09638
 415897643,Morella_pubescens,10.19777,-84.23055
-415897644,Morella_pubescens,9.98666,-84.08944
 45591037,Morella_pubescens,9.69,-83.9
 1123902976,Morella_pubescens,6.284682,-75.493652
 2289937680,Morella_pubescens,9.716667,-83.95
@@ -853,7 +847,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1844901975,Morella_pubescens,1.212598,-76.920266
 1844902556,Morella_pubescens,6.29616,-75.49917
 1844929690,Morella_pubescens,1.213248,-76.919615
-1890986438,Morella_pubescens,4.599568,-74.0518
 1099626933,Morella_pubescens,1.43958,-77.14707
 1258310178,Morella_pubescens,-3.991944,-79.147222
 1258310179,Morella_pubescens,-3.991,-79.4333
@@ -862,8 +855,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259520323,Morella_pubescens,-22.4,-64.73333
 1576171022,Morella_pubescens,3.4622,-76.5943
 1836962396,Morella_pubescens,-17.2333,-65.6167
-1123903011,Morella_pubescens,4.669189,-74.053426
-1576171037,Morella_pubescens,4.66588,-74.048274
 1260348408,Morella_pubescens,-2.73333,-78.61666
 45588170,Morella_pubescens,9.66,-83.9
 1844953845,Morella_pubescens,1.173811,-76.866382
