@@ -44,7 +44,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929400732,Zoysia_tenuifolia,18.386567,-66.024967
 1936599419,Zoysia_tenuifolia,37.1994,-6.9267
 1258822371,Zoysia_tenuifolia,5.58333,-55.16666
-47864428,Zoysia_tenuifolia,18.9,98.866
 2287768095,Zoysia_tenuifolia,1.434958,103.825806
 993623284,Zoysia_tenuifolia,-4.8167,136.8333
 2287772469,Zoysia_tenuifolia,-4.816667,136.833333
@@ -58,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936652297,Zoysia_tenuifolia,8.5383,-83.1456
 1259290347,Zoysia_tenuifolia,8.53833,-83.14555
 1893940041,Zoysia_tenuifolia,18.3173566965665,-93.3949638797866
-1893662135,Zoysia_tenuifolia,18.34,-93.4
 1895766162,Zoysia_tenuifolia,26.908333,-101.425
 47864423,Zoysia_tenuifolia,-0.233,-79.166
 47864424,Zoysia_tenuifolia,-0.883,-79.483
@@ -68,9 +66,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829623426,Zoysia_tenuifolia,36.420278,139.368333
 2289234674,Zoysia_tenuifolia,9.303333,2.725
 2291907380,Zoysia_tenuifolia,6.35,2.433333
-2287769398,Zoysia_tenuifolia,-8.5,117.433333
 1897825832,Zoysia_tenuifolia,-23.8535,147.636944
-1265927076,Zoysia_tenuifolia,-17.8875,-39.4
 47864446,Zoysia_tenuifolia,-0.583,-80.383
 1258298172,Zoysia_tenuifolia,0.83333,-79.91666
 47864443,Zoysia_tenuifolia,0.833,-79.916
@@ -81,7 +77,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295955720,Zoysia_tenuifolia,35.332436,139.128079
 1253710688,Zoysia_tenuifolia,8.641667,-83.175
 1259795851,Zoysia_tenuifolia,8.64,-83.17
-992483039,Zoysia_tenuifolia,-37.1,140.9
 994428059,Zoysia_tenuifolia,-12.43198,130.91764
 1065941330,Zoysia_tenuifolia,-12.4333,130.9167
 1259528965,Zoysia_tenuifolia,20.96,-89.62
@@ -100,22 +95,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258801857,Zoysia_tenuifolia,-2.0195,-79.963
 1261857489,Zoysia_tenuifolia,15.44111,-87.91527
 1259803532,Zoysia_tenuifolia,12.35,-87.008333
-1259590554,Zoysia_tenuifolia,-1.2667,-79.7
 992472682,Zoysia_tenuifolia,-37.342896,140.030282
 1893940027,Zoysia_tenuifolia,21.51389,-105.24861
 1893940073,Zoysia_tenuifolia,21.5143911626457,-105.248865102248
 1042592704,Zoysia_tenuifolia,-8.033333,-50.07
 1260121857,Zoysia_tenuifolia,-8.033333,-50.066667
 2287431677,Zoysia_tenuifolia,0.73558,127.951495
-39754661,Zoysia_tenuifolia,21.5833,-157.9
 1094711859,Zoysia_tenuifolia,-26.908333,-48.662222
 1830236705,Zoysia_tenuifolia,37.05,136.866667
 992321581,Zoysia_tenuifolia,-37.27,140.95
-912080141,Zoysia_tenuifolia,-14.8,-39.22
-992412005,Zoysia_tenuifolia,-36.3,139.7
 1830234786,Zoysia_tenuifolia,36.65,137.366667
 993225559,Zoysia_tenuifolia,8.5667,81.2167
-2287769009,Zoysia_tenuifolia,8.416667,98.5
 992279937,Zoysia_tenuifolia,-35.710668,139.363045
 993182532,Zoysia_tenuifolia,8.0333,79.8333
 891639170,Zoysia_tenuifolia,24.228056,120.550833
@@ -138,7 +128,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261857515,Zoysia_tenuifolia,9.89,-83.65
 994136020,Zoysia_tenuifolia,-16.6167,145.55
 1651991139,Zoysia_tenuifolia,-17.523595,146.075841
-2287769560,Zoysia_tenuifolia,15.3,98.366667
 891701562,Zoysia_tenuifolia,23.2175,120.355
 992275339,Zoysia_tenuifolia,-34.78958,135.870013
 891639151,Zoysia_tenuifolia,24.3425,120.62
@@ -148,6 +137,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891639137,Zoysia_tenuifolia,25.169167,121.531667
 1318141330,Zoysia_tenuifolia,21.55,-105.283
 1057559433,Zoysia_tenuifolia,15.127036,101.017361
-2287768553,Zoysia_tenuifolia,1.816667,127.8
 2287771220,Zoysia_tenuifolia,1.823108,127.780097
 1090555937,Zoysia_tenuifolia,39.20448,140.54517
