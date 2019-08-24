@@ -79,10 +79,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697868117,Staphylea_bumalda,35.212417,127.725438
 2244423392,Staphylea_bumalda,35.390771,139.49055
 1830526114,Staphylea_bumalda,35.133333,134.383333
-1849006692,Staphylea_bumalda,35.33333,138.8
-1825759130,Staphylea_bumalda,35.333333,138.8
 1830533541,Staphylea_bumalda,33.5125,132.88125
-1096904089,Staphylea_bumalda,35.33,138.8
 1830533556,Staphylea_bumalda,33.5625,132.89375
 1830208029,Staphylea_bumalda,36.583333,137.333333
 1934134516,Staphylea_bumalda,34.1832,133.8398
@@ -121,7 +118,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200578109,Staphylea_bumalda,36.65,127.975
 2200611192,Staphylea_bumalda,36.048556,127.344583
 2200611430,Staphylea_bumalda,36.668944,127.963444
-1830201129,Staphylea_bumalda,36.6,137.35
 2200611334,Staphylea_bumalda,35.621361,127.468528
 2200611808,Staphylea_bumalda,36.719889,127.774472
 2200611082,Staphylea_bumalda,35.637639,127.405611
@@ -130,7 +126,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830192605,Staphylea_bumalda,36.566667,137.35
 2200611311,Staphylea_bumalda,36.566028,127.956528
 2200611942,Staphylea_bumalda,36.666222,127.962306
-1830193271,Staphylea_bumalda,36.633333,137.4
 1829864806,Staphylea_bumalda,34.848,138.916694
 2200611688,Staphylea_bumalda,36.612167,127.785972
 1830517958,Staphylea_bumalda,34.7375,135.180278
@@ -142,7 +137,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200611330,Staphylea_bumalda,36.628028,127.574583
 2200611327,Staphylea_bumalda,36.60325,127.784
 388871078,Staphylea_bumalda,35.582404,139.128076
-391300589,Staphylea_bumalda,37.4,140.083333
 1829868504,Staphylea_bumalda,35.149122,139.040598
 736078298,Staphylea_bumalda,35.5375,139.11875
 395805264,Staphylea_bumalda,34.741139,133.63675
@@ -199,7 +193,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830200681,Staphylea_bumalda,36.333333,136.866667
 1830682496,Staphylea_bumalda,33.566667,133.083333
 2200611386,Staphylea_bumalda,34.686639,126.972472
-1830682500,Staphylea_bumalda,33.7,133.166667
 204392840,Staphylea_bumalda,34.65708,135.90213
 1830682477,Staphylea_bumalda,33.766667,133.283333
 395805234,Staphylea_bumalda,35.198611,134.076667
@@ -232,9 +225,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381845991,Staphylea_bumalda,36.85362,140.77678
 381845929,Staphylea_bumalda,36.57161,140.61719
 204393167,Staphylea_bumalda,34.35528,135.79825
-1829455277,Staphylea_bumalda,39.49,140.3
 2200611375,Staphylea_bumalda,35.480194,126.895028
-238099897,Staphylea_bumalda,37,140
 1835652038,Staphylea_bumalda,38.2452,140.4305
 2200611155,Staphylea_bumalda,38.246778,128.3735
 2244521670,Staphylea_bumalda,33.816667,133.866667
@@ -262,13 +253,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395805101,Staphylea_bumalda,35.023056,133.955833
 1829935173,Staphylea_bumalda,35.665749,140.202977
 1829471245,Staphylea_bumalda,39.6603,140.3489
-1828665909,Staphylea_bumalda,36.5,136.742
 395805057,Staphylea_bumalda,35.264722,133.808611
 2200611806,Staphylea_bumalda,36.55275,128.247056
 395805069,Staphylea_bumalda,35.1375,133.794444
 1830218392,Staphylea_bumalda,37.6433,140.34558
 1830219502,Staphylea_bumalda,37.64613,140.53926
-1829454659,Staphylea_bumalda,39.8,140.13
 1828666129,Staphylea_bumalda,36.516667,136.716667
 381845942,Staphylea_bumalda,36.56289,140.5428
 395805062,Staphylea_bumalda,34.980556,133.335556
@@ -289,7 +278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395804982,Staphylea_bumalda,35.23,133.572778
 729286501,Staphylea_bumalda,35.216702,134.483
 395805001,Staphylea_bumalda,35.331389,133.675278
-729287114,Staphylea_bumalda,35.1833,134.5
 1829454603,Staphylea_bumalda,39.82,140.07
 395805034,Staphylea_bumalda,35.152444,134.105361
 381845802,Staphylea_bumalda,36.30879,140.17322
@@ -319,7 +307,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 395804888,Staphylea_bumalda,35.130556,134.342222
 395804877,Staphylea_bumalda,35.230556,133.581389
 395804915,Staphylea_bumalda,35.125833,133.539167
-729295633,Staphylea_bumalda,34.849998,135.3
 354558264,Staphylea_bumalda,39.033333,125.616669
 729279445,Staphylea_bumalda,34.966702,134.383
 2200610950,Staphylea_bumalda,38.048804,128.425603
@@ -344,7 +331,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381845838,Staphylea_bumalda,36.20798,140.09621
 388871159,Staphylea_bumalda,36.398424,139.660638
 2200611537,Staphylea_bumalda,36.801583,128.064495
-1830185354,Staphylea_bumalda,35.966667,136.3
 729286950,Staphylea_bumalda,35.216702,134.517
 1828816247,Staphylea_bumalda,36.276528,136.497941
 2200611807,Staphylea_bumalda,37.895613,127.155252
@@ -360,7 +346,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 624042859,Staphylea_bumalda,35.386614,140.134244
 624042858,Staphylea_bumalda,35.403278,140.121744
 624042857,Staphylea_bumalda,35.444939,140.059247
-1830175968,Staphylea_bumalda,36.3,137.383333
 1829767276,Staphylea_bumalda,35.403278,140.096744
 1829768106,Staphylea_bumalda,35.461603,140.134242
 1829770726,Staphylea_bumalda,35.328289,140.184242
@@ -372,7 +357,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 729271030,Staphylea_bumalda,35.099998,135.267
 729315539,Staphylea_bumalda,35.266701,134.91701
 1829696522,Staphylea_bumalda,36.13286,139.07971
-1829454040,Staphylea_bumalda,39.64,140.6
 1829899800,Staphylea_bumalda,36.698056,137.8625
 1829907248,Staphylea_bumalda,36.499013,137.887524
 395804844,Staphylea_bumalda,35.238611,133.784167
@@ -422,7 +406,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830646951,Staphylea_bumalda,33.6875,134.03125
 1828816778,Staphylea_bumalda,36.352584,136.485103
 1828816760,Staphylea_bumalda,36.261288,136.490063
-1830173145,Staphylea_bumalda,36.583333,137.2
 2200611637,Staphylea_bumalda,37.445215,126.964057
 2200601161,Staphylea_bumalda,35.859991,127.746264
 393111146,Staphylea_bumalda,36.02119,139.00264
@@ -434,7 +417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1934155363,Staphylea_bumalda,36.7475,140.4992
 188010292,Staphylea_bumalda,35.540746,139.240568
 1424165571,Staphylea_bumalda,38.983333,141.25
-1830173780,Staphylea_bumalda,36.9,136.95
 1830172994,Staphylea_bumalda,36.916667,136.983333
 395804766,Staphylea_bumalda,35.153333,134.157778
 1830659620,Staphylea_bumalda,33.729167,134.04375
@@ -449,7 +431,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830167020,Staphylea_bumalda,36.566667,137.333333
 188010416,Staphylea_bumalda,35.140791,139.090594
 1830159287,Staphylea_bumalda,36.533333,137.266667
-1830159455,Staphylea_bumalda,36.6,137.333333
 188010401,Staphylea_bumalda,35.399088,138.915603
 188010412,Staphylea_bumalda,35.290775,139.115583
 395804763,Staphylea_bumalda,35.035278,133.335278
@@ -554,10 +535,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2200611570,Staphylea_bumalda,37.729837,127.444872
 1834904351,Staphylea_bumalda,35.404167,139.28125
 1834904363,Staphylea_bumalda,35.404167,139.19375
-1830207403,Staphylea_bumalda,36.8,137.4
 188010379,Staphylea_bumalda,35.474094,139.515547
 1834904262,Staphylea_bumalda,35.404167,139.16875
-1830202442,Staphylea_bumalda,36.65,137.4
 188010381,Staphylea_bumalda,35.465762,139.565543
 381846299,Staphylea_bumalda,36.47508,140.37106
 1834904240,Staphylea_bumalda,35.379167,139.16875
@@ -566,7 +545,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 381846467,Staphylea_bumalda,37.02807,140.37746
 188010387,Staphylea_bumalda,35.565749,139.528044
 1834904253,Staphylea_bumalda,35.3375,139.45625
-1830187196,Staphylea_bumalda,35.533333,138.8
 1830628551,Staphylea_bumalda,34.017258,134.195991
 1834904406,Staphylea_bumalda,35.379167,139.15625
 188010275,Staphylea_bumalda,35.482425,139.415553
@@ -588,7 +566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 188010383,Staphylea_bumalda,35.549086,139.590539
 2013043814,Staphylea_bumalda,36.883333,139.716667
 1829631582,Staphylea_bumalda,36.554506,138.824125
-1829455364,Staphylea_bumalda,39.8,140.21
 1830231584,Staphylea_bumalda,36.816667,137.533333
 1829637033,Staphylea_bumalda,36.2175,138.633889
 1830228754,Staphylea_bumalda,36.283333,137.85
@@ -611,7 +588,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829600672,Staphylea_bumalda,36.610278,139.060278
 2200611267,Staphylea_bumalda,37.382737,128.04948
 2200611187,Staphylea_bumalda,38.308043,127.322476
-1830236140,Staphylea_bumalda,36.6,137.366667
 1934097025,Staphylea_bumalda,35.7322,139.2197
 1834912661,Staphylea_bumalda,35.379167,139.01875
 1828816307,Staphylea_bumalda,36.229205,136.332279
@@ -633,10 +609,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830628494,Staphylea_bumalda,33.867447,134.273959
 2248102524,Staphylea_bumalda,42.918972,143.255196
 1830632513,Staphylea_bumalda,33.893356,134.067561
-1829605655,Staphylea_bumalda,36.4,138.5
 1829839229,Staphylea_bumalda,35.378679,139.065695
 1829599622,Staphylea_bumalda,36.473611,138.541667
-1830187921,Staphylea_bumalda,35.983333,136.9
 1830187897,Staphylea_bumalda,36.316667,136.883333
 2243088018,Staphylea_bumalda,38.1936,140.2719
 1829840503,Staphylea_bumalda,35.090166,139.075505
@@ -669,7 +643,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2248102711,Staphylea_bumalda,43.482897,144.4304
 204393162,Staphylea_bumalda,34.49162,135.95116
 1830154515,Staphylea_bumalda,35.75,138.383333
-1829605480,Staphylea_bumalda,36.6,139.5
 381846298,Staphylea_bumalda,36.29898,140.29192
 2290092628,Staphylea_bumalda,37.663889,127.016667
 1829616919,Staphylea_bumalda,36.490278,139.361944
@@ -683,10 +656,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 295946469,Staphylea_bumalda,35.440754,139.10308
 388870882,Staphylea_bumalda,35.625178,139.243481
 295946347,Staphylea_bumalda,35.624074,139.565537
-1830154643,Staphylea_bumalda,36.7,136.85
 1829826018,Staphylea_bumalda,35.549333,138.80925
 2243088874,Staphylea_bumalda,38.26311,140.385435
-2248103006,Staphylea_bumalda,43.666667,144.5
 1829597318,Staphylea_bumalda,36.2475,138.616389
 729299426,Staphylea_bumalda,35.233299,134.717
 1830664367,Staphylea_bumalda,35.76625,139.59155
