@@ -150,7 +150,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1257371117,Lepidium_phlebopetalum,-21.8678,132.2481
 994381801,Lepidium_phlebopetalum,-22.87635,135.49443
 992051480,Lepidium_phlebopetalum,-30.751111,135.504167
-996877688,Lepidium_phlebopetalum,-22.69569,114.240444
 996861154,Lepidium_phlebopetalum,-22.53827,118.10185
 993592212,Lepidium_phlebopetalum,-29.3,142.1667
 996848614,Lepidium_phlebopetalum,-29.577778,128.893056
@@ -464,8 +463,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992495503,Lepidium_phlebopetalum,-29.537092,130.081945
 1084212866,Lepidium_phlebopetalum,-32.08875,134.64318
 992495513,Lepidium_phlebopetalum,-32.284298,134.649717
-995048406,Lepidium_phlebopetalum,-24.4667,113.9833
-996477866,Lepidium_phlebopetalum,-24.466667,113.983333
 995158970,Lepidium_phlebopetalum,-25.5167,124.2667
 994268446,Lepidium_phlebopetalum,-23.265273,129.351293
 994268049,Lepidium_phlebopetalum,-23.331921,131.234617
@@ -481,7 +478,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992468325,Lepidium_phlebopetalum,-29.282046,136.684393
 996065667,Lepidium_phlebopetalum,-29.8,147.25
 996256198,Lepidium_phlebopetalum,-23.266667,116.833333
-996460494,Lepidium_phlebopetalum,-24.753333,114.019722
 994269387,Lepidium_phlebopetalum,-24.431871,136.984564
 996576215,Lepidium_phlebopetalum,-31,125
 995054849,Lepidium_phlebopetalum,-30.8333,121.35
@@ -705,7 +701,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992241156,Lepidium_phlebopetalum,-29.8,131.6
 992242839,Lepidium_phlebopetalum,-30.45,131.83
 992243157,Lepidium_phlebopetalum,-32.2812,134.8022
-996477542,Lepidium_phlebopetalum,-26,113.2
 1651995170,Lepidium_phlebopetalum,-28.606925,143.175932
 995486277,Lepidium_phlebopetalum,-31.1,141.733333
 994840783,Lepidium_phlebopetalum,-32.1167,140.7167
@@ -738,7 +733,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994232583,Lepidium_phlebopetalum,-23.531894,134.351256
 994264818,Lepidium_phlebopetalum,-20.965262,130.301268
 994676445,Lepidium_phlebopetalum,-24.25,131.5667
-996477664,Lepidium_phlebopetalum,-26.167222,113.207222
 1257305777,Lepidium_phlebopetalum,-20.581926,129.767943
 995061533,Lepidium_phlebopetalum,-24.4333,139.4667
 992204531,Lepidium_phlebopetalum,-30.897364,132.100001
@@ -832,7 +826,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992369704,Lepidium_phlebopetalum,-31.250667,136.463302
 992369727,Lepidium_phlebopetalum,-31.132056,136.384413
 1257304889,Lepidium_phlebopetalum,-22.998555,134.917917
-996477527,Lepidium_phlebopetalum,-23.806389,114.011667
 996543327,Lepidium_phlebopetalum,-22.608333,119.364722
 996477993,Lepidium_phlebopetalum,-26.366667,118.016389
 992147766,Lepidium_phlebopetalum,-23.8,134.5
@@ -895,7 +888,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992229591,Lepidium_phlebopetalum,-25.274,132.468
 992229635,Lepidium_phlebopetalum,-31.165387,136.81302
 992573622,Lepidium_phlebopetalum,-24.065385,132.817719
-1142182795,Lepidium_phlebopetalum,-38.05,117.83
 992365289,Lepidium_phlebopetalum,-32.665389,137.584417
 992108576,Lepidium_phlebopetalum,-28.393141,138.655479
 992108855,Lepidium_phlebopetalum,-26.678404,140.550171
@@ -972,7 +964,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992115832,Lepidium_phlebopetalum,-30.021485,138.04411
 995790321,Lepidium_phlebopetalum,-33,141.02
 992368604,Lepidium_phlebopetalum,-30.454308,131.838887
-992368605,Lepidium_phlebopetalum,-31.575158,130.454463
 1257295383,Lepidium_phlebopetalum,-21.815219,136.001226
 992368838,Lepidium_phlebopetalum,-26.18,129.11
 1936908043,Lepidium_phlebopetalum,-23.7167,133.4167
