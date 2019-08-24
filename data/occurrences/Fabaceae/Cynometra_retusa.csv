@@ -3,7 +3,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253912059,Cynometra_retusa,8.681806,-83.574583
 2308356051,Cynometra_retusa,10.89,-85.48
 2310748402,Cynometra_retusa,10.89,-85.47
-2306148814,Cynometra_retusa,10.9,-85.47
 1253866299,Cynometra_retusa,9.825,-83.063889
 1260049384,Cynometra_retusa,10.966667,-84.333333
 1253838746,Cynometra_retusa,10.62187,-84.050025
@@ -23,8 +22,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253751474,Cynometra_retusa,9.591744,-82.60359
 1894550129,Cynometra_retusa,18.4775,-92.404444
 1894550125,Cynometra_retusa,17.853472,-92.621
-44948526,Cynometra_retusa,9.64,-83
-45445427,Cynometra_retusa,16.483333,-88.9
 1893814775,Cynometra_retusa,18.3891,-92.483283
 1893814779,Cynometra_retusa,18.365867,-92.640867
 1894550113,Cynometra_retusa,18.287222,-92.005278
@@ -41,9 +38,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259512746,Cynometra_retusa,8.73333,-79.98333
 1253587378,Cynometra_retusa,10.6775,-84.233333
 1260985830,Cynometra_retusa,10.69416,-84.19611
-1894550133,Cynometra_retusa,18.375556,-93
 1260985391,Cynometra_retusa,10.88055,-85.40138
-44947834,Cynometra_retusa,10.88,-85.4
 1253624409,Cynometra_retusa,10.880556,-85.40139
 1895452370,Cynometra_retusa,17.5492577139568,-92.9304786790436
 1894550121,Cynometra_retusa,17.952778,-92.548056
@@ -52,15 +47,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 44947817,Cynometra_retusa,8.72,-83.44
 1825775526,Cynometra_retusa,15.05,-84.833333
 1936621318,Cynometra_retusa,15.05,-84.8333
-1261830038,Cynometra_retusa,9.7,-84.39
 1253696660,Cynometra_retusa,9.707778,-84.393889
-1253608127,Cynometra_retusa,11,-85.55
 1895144303,Cynometra_retusa,17.581389,-92.918889
 1894550117,Cynometra_retusa,17.918889,-92.581389
-1265481573,Cynometra_retusa,10.67,-85.3
 1253698138,Cynometra_retusa,10.67,-85.297778
 44947289,Cynometra_retusa,10.67,-85.29
-44947600,Cynometra_retusa,10.4,-84.05
 1253598147,Cynometra_retusa,10.402778,-84.058333
 1258278775,Cynometra_retusa,8.73,-83.44
 1253701584,Cynometra_retusa,8.729248,-83.463099
@@ -76,7 +67,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1253701445,Cynometra_retusa,10.374722,-84.036111
 1258278687,Cynometra_retusa,10.37472,-84.03611
 1253691146,Cynometra_retusa,10.766667,-85.283333
-1261903515,Cynometra_retusa,10.76,-85.3
 1258558859,Cynometra_retusa,15.70638,-88.64916
 1265481582,Cynometra_retusa,15.77,-88.53
 1419176625,Cynometra_retusa,16.961389,-93.088889
@@ -99,8 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896361217,Cynometra_retusa,17.259444,-94.644167
 1895596827,Cynometra_retusa,18.558333,-95.075
 1896361219,Cynometra_retusa,18.588611,-95.076389
-44946173,Cynometra_retusa,8.7,-83.51
-1261544705,Cynometra_retusa,8.7,-83.516667
 1895452413,Cynometra_retusa,18.5695592669171,-95.0672264193882
 1318412053,Cynometra_retusa,18.57,-95.07
 1893683535,Cynometra_retusa,17.803333,-91.538333
@@ -108,7 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1896361244,Cynometra_retusa,17.911667,-91.543333
 1896361251,Cynometra_retusa,17.208333,-94.141667
 1418346495,Cynometra_retusa,17.275,-94.675
-1258558892,Cynometra_retusa,18.42,-93.4
 1258712546,Cynometra_retusa,18.568333,-95.068889
 1258712814,Cynometra_retusa,18.58,-95.06
 1896361246,Cynometra_retusa,18.191667,-94.641667
