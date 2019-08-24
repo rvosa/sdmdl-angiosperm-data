@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1322669715,Solena_heterophylla,21.5734,93.4303
 723847755,Solena_heterophylla,29.411944,81.140556
 574850758,Solena_heterophylla,29.614444,82.131667
-2290400342,Solena_heterophylla,14.5,99.416667
 2288690206,Solena_heterophylla,12.488056,106.018611
 575277622,Solena_heterophylla,24.977778,98.370278
 1426177784,Solena_heterophylla,25.0125,98.448056
@@ -40,7 +39,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1096602308,Solena_heterophylla,14.15,105.99
 2288522735,Solena_heterophylla,27.826667,87.391667
 574846113,Solena_heterophylla,27.800833,98.684444
-574929690,Solena_heterophylla,26.9,98.85
 1258626897,Solena_heterophylla,27.80083,98.68444
 2290044065,Solena_heterophylla,18.333333,99.866667
 2289676824,Solena_heterophylla,21.833333,92.166667
@@ -48,9 +46,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891596187,Solena_heterophylla,22.540556,120.674167
 1846527957,Solena_heterophylla,22.960056,98.970333
 2291089704,Solena_heterophylla,14.583333,101.833333
-2289775709,Solena_heterophylla,18.3,98.633333
 615406469,Solena_heterophylla,34.68,73.58
-615406481,Solena_heterophylla,33.9,73.37
 2291089431,Solena_heterophylla,18.81625,98.891806
 685749179,Solena_heterophylla,30.470951,78.047337
 891604561,Solena_heterophylla,24.823889,121.758056
@@ -73,7 +69,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891622089,Solena_heterophylla,24.036944,121.194722
 2290675984,Solena_heterophylla,11.65,78.166667
 1030918067,Solena_heterophylla,24.345875,105.313869
-2288849740,Solena_heterophylla,23.333333,114
 1030885481,Solena_heterophylla,26.634503,102.577962
 1030880799,Solena_heterophylla,26.890689,102.110335
 1030806478,Solena_heterophylla,24.828524,103.989855
@@ -88,7 +83,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030885573,Solena_heterophylla,24.35821,102.748636
 2288911303,Solena_heterophylla,14.666667,99.166667
 2291592169,Solena_heterophylla,28.15,85.25
-2290305387,Solena_heterophylla,18.25,98
 919468168,Solena_heterophylla,23.219942,102.835218
 919468144,Solena_heterophylla,22.792186,103.086573
 2290058818,Solena_heterophylla,18.75,98.416667
@@ -96,15 +90,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 919468228,Solena_heterophylla,28.53963,103.954021
 1030880844,Solena_heterophylla,29.037008,100.298406
 919468210,Solena_heterophylla,22.99417,102.392353
-2289435399,Solena_heterophylla,7,80.416667
 891636692,Solena_heterophylla,24.412778,120.856389
 891630483,Solena_heterophylla,24.075278,121.028333
 891634278,Solena_heterophylla,24.070556,121.035833
 2291089064,Solena_heterophylla,4.983333,102.733333
 2291088870,Solena_heterophylla,14.916667,98.75
-2291089692,Solena_heterophylla,17,99.816667
 2291089334,Solena_heterophylla,16.866667,101.866667
-2288591476,Solena_heterophylla,15,99.233333
 2289161798,Solena_heterophylla,19.466667,98.966667
 891655033,Solena_heterophylla,23.084444,120.581667
 2288672668,Solena_heterophylla,14.716667,102.016667
@@ -154,7 +145,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1030965207,Solena_heterophylla,23.127041,113.341527
 919468162,Solena_heterophylla,22.983563,103.687613
 919468186,Solena_heterophylla,22.529465,103.939279
-2289770325,Solena_heterophylla,15.3,98.383333
 2291089183,Solena_heterophylla,14.016667,99.533333
 919468164,Solena_heterophylla,25.670153,99.958012
 891655005,Solena_heterophylla,23.201389,120.275833
@@ -194,7 +184,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1303615014,Solena_heterophylla,18.249731,109.507052
 891655007,Solena_heterophylla,22.349167,120.665556
 891655025,Solena_heterophylla,23.991667,121.253056
-1303615051,Solena_heterophylla,29.3,106.266667
 1303951047,Solena_heterophylla,18.516726,110.029085
 1303951076,Solena_heterophylla,23.376591,114.269636
 891655030,Solena_heterophylla,24.813889,121.342778
@@ -215,4 +204,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891655072,Solena_heterophylla,24.144167,120.665278
 2291089240,Solena_heterophylla,-7.7086,108.1964
 891655067,Solena_heterophylla,25.128333,121.495
-2288493891,Solena_heterophylla,-7.416667,107.4
