@@ -28,9 +28,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992064773,Cratystylis_conocephala,-30.839167,132.220833
 1085430303,Cratystylis_conocephala,-30.89067,132.32664
 992053322,Cratystylis_conocephala,-30.890556,132.326667
-1085411120,Cratystylis_conocephala,-31.91252,132.08395
 992052384,Cratystylis_conocephala,-32.005556,133.235833
-992052487,Cratystylis_conocephala,-31.9125,132.0839
 1085410491,Cratystylis_conocephala,-32.00569,133.23593
 992054755,Cratystylis_conocephala,-31.940556,132.475556
 992039048,Cratystylis_conocephala,-33.6562,136.9469
@@ -49,8 +47,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1085379680,Cratystylis_conocephala,-33.14129,136.87172
 996778621,Cratystylis_conocephala,-31.90572,120.844625
 992005145,Cratystylis_conocephala,-32.660833,135.486667
-2303142972,Cratystylis_conocephala,-33.635556,137.866111
-992005425,Cratystylis_conocephala,-33.634281,137.867203
 992047808,Cratystylis_conocephala,-32.7,135.7
 992037156,Cratystylis_conocephala,-32.974167,135.770556
 1085365212,Cratystylis_conocephala,-32.74001,135.70029
@@ -144,7 +140,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995653428,Cratystylis_conocephala,-33.17,141.25
 1451490321,Cratystylis_conocephala,-33.165167,141.251301
 993451333,Cratystylis_conocephala,-33.6875,136.9225
-992506199,Cratystylis_conocephala,-32.302222,133.602222
 996308624,Cratystylis_conocephala,-31.6,121.6
 996983333,Cratystylis_conocephala,-32.881667,121.158056
 1085383079,Cratystylis_conocephala,-30.24814,133.08793
@@ -164,7 +159,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993336583,Cratystylis_conocephala,-31.6333,129.3167
 995078147,Cratystylis_conocephala,-33.2,140.55
 992480479,Cratystylis_conocephala,-33.2,140.6
-992532270,Cratystylis_conocephala,-32,129
 992479240,Cratystylis_conocephala,-33.265368,140.717727
 995048386,Cratystylis_conocephala,-32.75,121.4667
 1456009083,Cratystylis_conocephala,-33.27,140.72
@@ -178,7 +172,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992481546,Cratystylis_conocephala,-32.673333,135.505556
 1084206439,Cratystylis_conocephala,-32.18732,135.5424
 1454427518,Cratystylis_conocephala,-32.61427,136.21784
-992482849,Cratystylis_conocephala,-31.568214,130.387241
 992482873,Cratystylis_conocephala,-31.532089,132.18445
 996557837,Cratystylis_conocephala,-29.651333,127.070833
 992416270,Cratystylis_conocephala,-31.562668,129.103916
@@ -188,9 +181,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992482871,Cratystylis_conocephala,-31.468204,131.592788
 1085547585,Cratystylis_conocephala,-31.56985,129.1066
 1085536355,Cratystylis_conocephala,-31.65851,129.08256
-1085536010,Cratystylis_conocephala,-31.56876,130.38524
 996756829,Cratystylis_conocephala,-31.469444,131.591667
-996740431,Cratystylis_conocephala,-31.569444,130.386111
 992421313,Cratystylis_conocephala,-32.615406,135.267771
 996740583,Cratystylis_conocephala,-31.430556,131.280556
 993315134,Cratystylis_conocephala,-30.0667,125.7667
@@ -257,7 +248,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992349748,Cratystylis_conocephala,-30.925406,134.01193
 995901652,Cratystylis_conocephala,-23.7,132.35
 992502690,Cratystylis_conocephala,-33.682065,136.934434
-992413785,Cratystylis_conocephala,-33.73,137.75
 992280433,Cratystylis_conocephala,-32.72,137.85
 994791948,Cratystylis_conocephala,-32.7167,137.85
 992263102,Cratystylis_conocephala,-33.599835,137.931369
@@ -271,7 +261,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992251902,Cratystylis_conocephala,-31.86014,133.08417
 992251679,Cratystylis_conocephala,-31.509314,131.879452
 992251884,Cratystylis_conocephala,-31.2063,131.4508
-992251764,Cratystylis_conocephala,-31.542934,130.737239
 992260598,Cratystylis_conocephala,-32.064,139.383
 993819772,Cratystylis_conocephala,-32.1167,139.3333
 1061552569,Cratystylis_conocephala,-31.466667,131.833333
@@ -297,7 +286,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993451915,Cratystylis_conocephala,-32.4667,124.7
 996554238,Cratystylis_conocephala,-32.28,125.45
 993206121,Cratystylis_conocephala,-32.0667,133.4833
-992219557,Cratystylis_conocephala,-32.444,125.736
 992265007,Cratystylis_conocephala,-32.382162,123.617842
 992226833,Cratystylis_conocephala,-32.455488,124.715616
 993306752,Cratystylis_conocephala,-32.1667,125.75
@@ -305,7 +293,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993795818,Cratystylis_conocephala,-33.2667,123.1667
 992209887,Cratystylis_conocephala,-34.277058,138.234429
 995901604,Cratystylis_conocephala,-33.85,121.87
-992210200,Cratystylis_conocephala,-33.8462,137.6289
 992474617,Cratystylis_conocephala,-31.453217,129.854743
 995901742,Cratystylis_conocephala,-31.45,129.85
 992176410,Cratystylis_conocephala,-33.112,136.196
@@ -339,8 +326,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 992131741,Cratystylis_conocephala,-31.524,129.115
 992089964,Cratystylis_conocephala,-33.139008,136.815818
 992116053,Cratystylis_conocephala,-34.320115,138.147486
-992241515,Cratystylis_conocephala,-31.62265,131.543345
-992241558,Cratystylis_conocephala,-31.622095,131.392235
 993301977,Cratystylis_conocephala,-31.75,121.7
 996554236,Cratystylis_conocephala,-32.196389,122.624167
 992241460,Cratystylis_conocephala,-31.624,132.07
@@ -385,5 +370,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996557975,Cratystylis_conocephala,-30.739722,121.468333
 992302188,Cratystylis_conocephala,-30.454308,131.838887
 992302087,Cratystylis_conocephala,-32.15,133.65
-995901614,Cratystylis_conocephala,-34.92,138.6
 996553807,Cratystylis_conocephala,-31.666667,128.866667
