@@ -10,7 +10,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936689534,Scrophularia_frutescens_var._frutescens,37.0494,-6.6275
 204404413,Scrophularia_frutescens_var._frutescens,36.681,-2.759
 1936689208,Scrophularia_frutescens_var._frutescens,37.0186,-6.575
-318121561,Scrophularia_frutescens_var._frutescens,37.5,-6.67
 30676093,Scrophularia_frutescens_var._frutescens,37.040001,-1.88
 932706788,Scrophularia_frutescens_var._frutescens,42.4233,-8.87986
 30976510,Scrophularia_frutescens_var._frutescens,38.52,-9.17
@@ -22,13 +21,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830974963,Scrophularia_frutescens_var._frutescens,36.68417,-2.70028
 204404420,Scrophularia_frutescens_var._frutescens,36.69,-2.703
 1657203149,Scrophularia_frutescens_var._frutescens,43.615,-8.14694
-29737302,Scrophularia_frutescens_var._frutescens,43.6,-8.1333
-30976108,Scrophularia_frutescens_var._frutescens,36.69,-2.7
 1936649650,Scrophularia_frutescens_var._frutescens,36.6834,-2.7102
 30675903,Scrophularia_frutescens_var._frutescens,37.349998,-1.68
 30675065,Scrophularia_frutescens_var._frutescens,36.69,-2.715
 1936520477,Scrophularia_frutescens_var._frutescens,42.9006,-9.1362
-30976197,Scrophularia_frutescens_var._frutescens,42.9,-9.12
 1851566528,Scrophularia_frutescens_var._frutescens,36.15,-5.95
 1936421315,Scrophularia_frutescens_var._frutescens,37.3083,-1.76
 30889536,Scrophularia_frutescens_var._frutescens,38.48,-4.38
@@ -41,4 +37,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199504353,Scrophularia_frutescens_var._frutescens,37.90069,-7.63509
 1851400232,Scrophularia_frutescens_var._frutescens,37.16,-6.92
 30976381,Scrophularia_frutescens_var._frutescens,42.95,-9.18
-1851327708,Scrophularia_frutescens_var._frutescens,37.25,-6.8
