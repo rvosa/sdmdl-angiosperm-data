@@ -23,7 +23,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1671186654,Tagetes_minuta,-23.458889,-46.766667
 1077247260,Tagetes_minuta,-13.077778,-41.94
 1142180668,Tagetes_minuta,-18.9969,146.0694
-1077423848,Tagetes_minuta,-27.629167,-48.454444
 1705464606,Tagetes_minuta,55.836413,12.972065
 1095368594,Tagetes_minuta,-24.895833,-51.673889
 1095368553,Tagetes_minuta,-30.551111,-53.5225
@@ -33,7 +32,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1913601220,Tagetes_minuta,-14.770833,-42.570833
 2239103865,Tagetes_minuta,-31.145278,-63.896944
 1077245788,Tagetes_minuta,-14.531944,-42.534444
-1086983592,Tagetes_minuta,-50.333333,-41.25
 2308853769,Tagetes_minuta,30.21,67.02
 1095356642,Tagetes_minuta,-31.579167,-52.270556
 1090915521,Tagetes_minuta,-9.458722,-40.573861
@@ -42,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2239102551,Tagetes_minuta,-31.265556,-64.335833
 2307040406,Tagetes_minuta,0.28,36.89
 1090916645,Tagetes_minuta,-10.523056,-40.315833
-1061535582,Tagetes_minuta,-29.0036,167.9272
 1074274199,Tagetes_minuta,-34.134976,150.643649
 1086965057,Tagetes_minuta,-30.227778,-50.264444
 1213677046,Tagetes_minuta,-25.379069,-49.131472
@@ -186,12 +183,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324965432,Tagetes_minuta,-26.05925,-67.406639
 2005489900,Tagetes_minuta,-27.387778,30.945
 995542950,Tagetes_minuta,-25.946389,151.3475
-2269193601,Tagetes_minuta,-38.522778,-49.3175
 2005445693,Tagetes_minuta,-28.784444,30.291389
 2005468435,Tagetes_minuta,-30.721111,30.056389
 2005493031,Tagetes_minuta,-29.603889,29.770278
 2005440413,Tagetes_minuta,-29.673889,29.958611
-388872310,Tagetes_minuta,34.299028,129.278992
 2005449823,Tagetes_minuta,-30.719722,30.071667
 1094834288,Tagetes_minuta,-13.233333,-39.5
 2005462583,Tagetes_minuta,-27.384444,30.960833
@@ -209,7 +204,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995391833,Tagetes_minuta,-32.3158,151.7311
 188385486,Tagetes_minuta,-25.7164,-49.6875
 2239099986,Tagetes_minuta,-31.140278,-64.174167
-1090894245,Tagetes_minuta,-2.566667,-44.308611
 1424163069,Tagetes_minuta,-25.283333,-49.216667
 995962229,Tagetes_minuta,-32.2658,151.7311
 2288604086,Tagetes_minuta,-12.025,-75.243889
@@ -219,18 +213,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993608014,Tagetes_minuta,-25.4933,150.2519
 1144786560,Tagetes_minuta,-17.59972,-63.64083
 1655950517,Tagetes_minuta,-24.83212,147.74056
-236531972,Tagetes_minuta,24,120
 1077221826,Tagetes_minuta,-9.283333,-40.266667
-1212208617,Tagetes_minuta,38.821389,23.393333
-1839089113,Tagetes_minuta,38.933609,23.36639
-1212208619,Tagetes_minuta,38.933611,23.366389
 1212208909,Tagetes_minuta,38.941944,22.647778
 1839088990,Tagetes_minuta,38.94194,22.647779
-1839089200,Tagetes_minuta,38.821388,23.39333
 1929836553,Tagetes_minuta,-28.90536,27.10219
-1212209008,Tagetes_minuta,38.850556,23.126667
 932706814,Tagetes_minuta,42.26111,-8.81955
-1839089014,Tagetes_minuta,38.850559,23.126671
 1839089211,Tagetes_minuta,38.84417,21.549999
 1212208475,Tagetes_minuta,38.844167,21.55
 204392876,Tagetes_minuta,34.40693,135.79846
@@ -242,7 +229,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1073401078,Tagetes_minuta,-31.881707,149.893797
 1652358953,Tagetes_minuta,-25.520278,148.734917
 1652179916,Tagetes_minuta,-26.653982,152.098034
-1090803612,Tagetes_minuta,-15.731667,-47.926667
 1260058495,Tagetes_minuta,-3.36861,36.69583
 1652251311,Tagetes_minuta,-27.887348,152.248139
 996180174,Tagetes_minuta,-33.559,150.344
@@ -256,12 +242,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1123805157,Tagetes_minuta,-20.519167,-41.100556
 1702213936,Tagetes_minuta,59.57248,10.5063
 2242416216,Tagetes_minuta,40.633345,-104.75781
-381847001,Tagetes_minuta,35.6705,139.80377
 1652159422,Tagetes_minuta,-24.696055,150.803586
 1652160080,Tagetes_minuta,-24.28639,150.543477
 1652182307,Tagetes_minuta,-24.162051,151.087611
 1652177644,Tagetes_minuta,-24.451997,151.411632
-1077220375,Tagetes_minuta,-10.5,-30
 1652274938,Tagetes_minuta,-17.640263,145.459182
 1652274827,Tagetes_minuta,-28.140205,153.109128
 1652274682,Tagetes_minuta,-27.263819,152.764683
@@ -272,9 +256,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996098868,Tagetes_minuta,-28.2225,152.515
 1652309979,Tagetes_minuta,-28.222576,152.51477
 1652157968,Tagetes_minuta,-26.902926,151.63718
-1652313907,Tagetes_minuta,-27.615441,153.351057
-1652313586,Tagetes_minuta,-27.640204,153.375788
-1652308699,Tagetes_minuta,-27.473538,153.40912
 1259199359,Tagetes_minuta,-25.291944,-57.09
 1928241377,Tagetes_minuta,42.103517,43.2364
 1839089287,Tagetes_minuta,36.709721,22.38611
@@ -282,7 +263,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 388872181,Tagetes_minuta,35.901667,139.686389
 1830630547,Tagetes_minuta,33.661863,134.311429
 388872184,Tagetes_minuta,35.457424,139.278065
-1652310178,Tagetes_minuta,-27.623538,153.359121
 1077575357,Tagetes_minuta,-9.241028,-43.386667
 1094777763,Tagetes_minuta,-13.307222,-39.813333
 1077561732,Tagetes_minuta,-15.706667,-43.038611
@@ -296,7 +276,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652274125,Tagetes_minuta,-21.295517,148.578323
 1839098360,Tagetes_minuta,38.345001,21.592779
 1212209019,Tagetes_minuta,38.345,21.592778
-1843379833,Tagetes_minuta,-35.116667,173.916667
 1212208807,Tagetes_minuta,39.095278,20.6475
 1851583715,Tagetes_minuta,40.3,-0.23
 1839089575,Tagetes_minuta,39.09528,20.647499
@@ -337,7 +316,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087722383,Tagetes_minuta,-2.561944,-44.054167
 1652183122,Tagetes_minuta,-19.614167,144.873056
 1258958964,Tagetes_minuta,-17.83333,-64.75
-1843398864,Tagetes_minuta,-36.35,174.883333
 441942203,Tagetes_minuta,52.123055,11.636666
 1652104538,Tagetes_minuta,-28.275206,152.803022
 1587323241,Tagetes_minuta,-15.86667,-48
@@ -371,8 +349,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258742545,Tagetes_minuta,-4.36027,37.89888
 1936624437,Tagetes_minuta,-4.3694,37.8997
 388872156,Tagetes_minuta,35.445759,139.290703
-993481899,Tagetes_minuta,-29.25,167.9433
-1702178220,Tagetes_minuta,59.0451,10.0553
 38982182,Tagetes_minuta,19.8167,-155.633
 1929416563,Tagetes_minuta,19.80985,-155.628633
 1456035190,Tagetes_minuta,-18.17,-63.93
@@ -417,7 +393,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258475114,Tagetes_minuta,-22.53916,-59.67527
 1077200496,Tagetes_minuta,-11.3,-40.483333
 1258475224,Tagetes_minuta,-22.83333,-59.66666
-1259251751,Tagetes_minuta,0.33333,32.63333
 1260797069,Tagetes_minuta,-7.186111,-37.425833
 1936522995,Tagetes_minuta,40.9427,0.7655
 995523072,Tagetes_minuta,-30.483333,151.416667
@@ -451,10 +426,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994761792,Tagetes_minuta,-16.2928,145.0892
 994072381,Tagetes_minuta,-16.2833,145.0833
 615412487,Tagetes_minuta,34.88,71.98
-615412497,Tagetes_minuta,33.73,73.08
 462315529,Tagetes_minuta,-24.875,25.875
 2239097072,Tagetes_minuta,-30.680833,-63.923611
-462315524,Tagetes_minuta,-24.625,25.875
 1936925257,Tagetes_minuta,-35.22,149.4
 1451610354,Tagetes_minuta,-35.215106,149.4012
 2239097689,Tagetes_minuta,-28.085833,-65.656667
@@ -483,9 +456,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1258402802,Tagetes_minuta,-17.89333,-63.085
 1451504925,Tagetes_minuta,-31.515122,145.567887
 1937039840,Tagetes_minuta,-35.2667,149.45
-1936952676,Tagetes_minuta,-35.3,149.1
 1652148086,Tagetes_minuta,-26.506877,152.509127
-1423838713,Tagetes_minuta,-20.983333,-0.766667
 1451554600,Tagetes_minuta,-35.265106,149.4512
 995805151,Tagetes_minuta,-35.27,149.45
 1930561414,Tagetes_minuta,-16.7686,-61.8133
@@ -523,7 +494,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2291561637,Tagetes_minuta,-18.116667,-63.45
 1258751582,Tagetes_minuta,-18.11666,-63.45
 1261307399,Tagetes_minuta,-25.5,-57.5
-1501067977,Tagetes_minuta,38.8,0.09
 1456142001,Tagetes_minuta,-17.7417,-63.2
 1258750389,Tagetes_minuta,-17.51666,-63.68333
 1259968688,Tagetes_minuta,-0.06666,-78.35
@@ -553,7 +523,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652080384,Tagetes_minuta,-25.081899,148.250845
 2239100953,Tagetes_minuta,-23.365278,-64.217222
 1829694219,Tagetes_minuta,36.18428,139.09845
-895239103,Tagetes_minuta,40.03,0.13
 895239193,Tagetes_minuta,40.12,0.01
 462315509,Tagetes_minuta,-27.125,24.125
 1090596407,Tagetes_minuta,-27.234444,-52.027778
@@ -570,7 +539,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830621568,Tagetes_minuta,34.129554,134.559316
 1094710337,Tagetes_minuta,-28.713889,-49.300278
 43222450,Tagetes_minuta,34.12535,134.55386
-43222451,Tagetes_minuta,34.20146,134.58488
 462315510,Tagetes_minuta,-24.375,28.125
 2239096606,Tagetes_minuta,-30.714167,-65.059722
 2288000259,Tagetes_minuta,-5,140
@@ -591,7 +559,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1135335614,Tagetes_minuta,-1.2558,35.1123
 1077307003,Tagetes_minuta,-19.016667,-57.65
 1144786577,Tagetes_minuta,42.6,9.26667
-1261301873,Tagetes_minuta,-18.91666,47.51666
 462315505,Tagetes_minuta,-20.375,17.125
 1936365234,Tagetes_minuta,39.9784,-0.0458
 1936920448,Tagetes_minuta,-29.9167,152.7833
@@ -600,14 +567,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995867567,Tagetes_minuta,-33.75,150.9
 992417549,Tagetes_minuta,-30.768059,152.942553
 1090440366,Tagetes_minuta,-8.216667,-39.783333
-1055503066,Tagetes_minuta,-23.236211,-58.391024
 1077579110,Tagetes_minuta,-11.416667,-41.966667
 1424163203,Tagetes_minuta,-11.8,-40.583333
 1077195084,Tagetes_minuta,-11.833333,-40.666667
 1261284537,Tagetes_minuta,-26.16666,-57.16666
 462315507,Tagetes_minuta,-24.125,30.375
 204393447,Tagetes_minuta,34.64797,135.80099
-1456017055,Tagetes_minuta,0.38,32.6
 462315502,Tagetes_minuta,-26.375,27.375
 2239097879,Tagetes_minuta,-28.422222,-65.389444
 462315497,Tagetes_minuta,-23.875,30.125
@@ -626,18 +591,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1451583497,Tagetes_minuta,-29.015085,152.017757
 462315523,Tagetes_minuta,-27.375,24.125
 462315521,Tagetes_minuta,-28.875,24.875
-1703319909,Tagetes_minuta,-18.879494,169.150063
-1703319917,Tagetes_minuta,-19.507782,169.334427
 2239094756,Tagetes_minuta,-28.136944,-64.828611
-2288001981,Tagetes_minuta,16.96,-25.31
 462315498,Tagetes_minuta,-25.625,27.375
 1213580617,Tagetes_minuta,-12.416667,-42.366667
 462315495,Tagetes_minuta,-25.125,28.875
-462315506,Tagetes_minuta,-33.625,26.375
 462315499,Tagetes_minuta,-27.625,32.125
 1897833051,Tagetes_minuta,-36.841861,174.614028
 462315500,Tagetes_minuta,-27.875,30.875
-1931106038,Tagetes_minuta,-15.7834208090807,-47.9298726661488
 992606541,Tagetes_minuta,-17.17,145.55
 1947412773,Tagetes_minuta,-0.356111,36.100278
 295947400,Tagetes_minuta,35.174129,139.628038
@@ -647,7 +607,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995082680,Tagetes_minuta,-36.9,148.35
 1652056288,Tagetes_minuta,-23.415226,150.584139
 1652056303,Tagetes_minuta,-23.915221,151.250799
-1652056458,Tagetes_minuta,-21.081904,149.250813
 1652056093,Tagetes_minuta,-24.873548,152.342454
 2239097376,Tagetes_minuta,-32.576944,-65.702778
 1090432286,Tagetes_minuta,-11.583333,-41.2
@@ -714,12 +673,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996018614,Tagetes_minuta,-31.87,151.87
 1451583556,Tagetes_minuta,-32.881754,151.251145
 1451646020,Tagetes_minuta,-31.865084,151.867787
-2291863916,Tagetes_minuta,-24.733333,34.75
 1835599558,Tagetes_minuta,-2.15,28.48
 2239107273,Tagetes_minuta,-27.498056,-58.7675
 813382959,Tagetes_minuta,-12.733333,15.516667
 462315431,Tagetes_minuta,-33.375,26.625
-993464785,Tagetes_minuta,-35.2833,149.1333
 995867749,Tagetes_minuta,-31.5,144.5
 2290072917,Tagetes_minuta,9.4,42.016667
 993727163,Tagetes_minuta,-31.5167,144.5167
@@ -727,7 +684,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995867833,Tagetes_minuta,-33.75,147
 993727179,Tagetes_minuta,-32.9333,147.0333
 1451583419,Tagetes_minuta,-33.74845,147.001224
-1651992830,Tagetes_minuta,-27.373538,153.442452
 462315485,Tagetes_minuta,-26.875,26.625
 1937226415,Tagetes_minuta,-28.816667,153.266667
 1897833112,Tagetes_minuta,-37.553556,175.912056
@@ -740,7 +696,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1937076865,Tagetes_minuta,-33.75,150.67
 1451583454,Tagetes_minuta,-33.748428,150.66783
 462315470,Tagetes_minuta,-26.625,25.625
-993339838,Tagetes_minuta,-36.25,150.2167
 993505638,Tagetes_minuta,-35.6667,149.8167
 1930705544,Tagetes_minuta,-15.7917749547337,-48.8091403572096
 995153264,Tagetes_minuta,-36.25,149.6333
@@ -755,8 +710,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1087488904,Tagetes_minuta,-22.875,-48.375
 1842909377,Tagetes_minuta,41.13,1.27
 472901626,Tagetes_minuta,8.85,39.75
-1842854773,Tagetes_minuta,41.04,1.04
-1842849350,Tagetes_minuta,40.95,0.92
 1842853526,Tagetes_minuta,41.04,0.92
 1842850619,Tagetes_minuta,41.13,0.92
 462315430,Tagetes_minuta,-30.625,25.625
@@ -766,7 +719,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462315459,Tagetes_minuta,-25.875,27.875
 2239098137,Tagetes_minuta,-34.022222,-65.5775
 1842891586,Tagetes_minuta,41.5,1.86
-993494896,Tagetes_minuta,-30.3,153.1333
 462315460,Tagetes_minuta,-25.625,27.125
 381847510,Tagetes_minuta,36.00192,140.01413
 462315486,Tagetes_minuta,-26.625,28.125
@@ -787,7 +739,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462315454,Tagetes_minuta,-25.625,29.375
 2239097435,Tagetes_minuta,-27.782778,-65.866111
 1928936675,Tagetes_minuta,-22.5088534051515,-43.1784660501561
-2290109534,Tagetes_minuta,28.305,-16.3875
 462315483,Tagetes_minuta,-29.125,26.125
 1897837448,Tagetes_minuta,-5.697972,22.148444
 996001787,Tagetes_minuta,-34.02,150.72
@@ -797,8 +748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651992924,Tagetes_minuta,-27.506873,152.992459
 1937059422,Tagetes_minuta,-24.12,148.07
 462315482,Tagetes_minuta,-29.125,25.125
-993758884,Tagetes_minuta,-35.2775,149.1086
-1937261077,Tagetes_minuta,-35.2667,149.1
 462315436,Tagetes_minuta,-29.125,29.375
 1451636793,Tagetes_minuta,-34.098428,150.751166
 996001184,Tagetes_minuta,-34.1,150.75
@@ -809,7 +758,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462315437,Tagetes_minuta,-28.375,32.125
 2289626918,Tagetes_minuta,11.083333,39.733333
 462315425,Tagetes_minuta,-28.375,27.125
-1931207797,Tagetes_minuta,-15.758,-47.875
 1927950923,Tagetes_minuta,-17.35,-51.77
 1092709693,Tagetes_minuta,33.521042,-80.431275
 462315403,Tagetes_minuta,-28.875,31.875
@@ -822,14 +770,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270215622,Tagetes_minuta,36.237741,-119.136386
 685245485,Tagetes_minuta,-23.625,30.125
 1259309490,Tagetes_minuta,-9.31666,-77.51666
-1937176541,Tagetes_minuta,-27.4,153.45
-1651992943,Tagetes_minuta,-27.415204,153.584117
-993137404,Tagetes_minuta,-27.405,153.4483
 1928229334,Tagetes_minuta,-27.4057991158789,-51.2254455381212
 1652119519,Tagetes_minuta,-27.415206,153.084124
 462315435,Tagetes_minuta,-28.875,30.375
 995153310,Tagetes_minuta,-37.0667,148.3833
-462315492,Tagetes_minuta,-22.625,17.125
 1651992972,Tagetes_minuta,-25.91523,148.417514
 1936967993,Tagetes_minuta,-30.516667,152.45
 1651992908,Tagetes_minuta,-26.415214,151.750804
@@ -937,7 +881,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 462315465,Tagetes_minuta,-24.625,30.125
 462315445,Tagetes_minuta,-19.125,17.625
 462315458,Tagetes_minuta,-23.125,28.875
-685245481,Tagetes_minuta,-34.125,24.125
 1651992913,Tagetes_minuta,-27.24854,152.917459
 462315442,Tagetes_minuta,-27.125,18.625
 1928027645,Tagetes_minuta,-20.761343,-42.868031
