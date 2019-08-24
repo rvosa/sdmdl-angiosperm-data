@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2268901889,Argyreia_nervosa,16.131389,-93.957778
 1318026542,Argyreia_nervosa,38.8172,-77.0161
 1652385204,Argyreia_nervosa,-15.667222,145.019444
-1234559020,Argyreia_nervosa,-22.783333,-47.1
 2307809028,Argyreia_nervosa,31.19,31.19
 2242416902,Argyreia_nervosa,39.772938,-104.86248
 2309828320,Argyreia_nervosa,23.18,72.63
@@ -36,10 +35,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652272723,Argyreia_nervosa,-15.812088,144.917133
 993503951,Argyreia_nervosa,-15.8133,144.9164
 35208408,Argyreia_nervosa,20.6928,-156.004
-1320558317,Argyreia_nervosa,20.68,-156
 2288680134,Argyreia_nervosa,9.342833,2.637333
 994084660,Argyreia_nervosa,-14.6333,143.45
-994084628,Argyreia_nervosa,-13.9333,143.2
 1652363153,Argyreia_nervosa,-13.940284,143.209198
 995930736,Argyreia_nervosa,-19.9697,148.05
 1257334718,Argyreia_nervosa,-19.9697,148.0722
@@ -60,7 +57,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652124952,Argyreia_nervosa,-14.626111,143.457778
 1652124905,Argyreia_nervosa,-15.024444,143.661667
 1652124968,Argyreia_nervosa,-14.826389,144.111389
-994081044,Argyreia_nervosa,-15.6,145.25
 2291897597,Argyreia_nervosa,7.761667,-2.098333
 1652224626,Argyreia_nervosa,-19.445529,147.047502
 1930616965,Argyreia_nervosa,25.67,-80.27
@@ -74,14 +70,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1652146450,Argyreia_nervosa,-15.473606,145.259178
 1652127391,Argyreia_nervosa,-19.906918,146.309179
 1652115292,Argyreia_nervosa,-20.056917,146.675842
-317857074,Argyreia_nervosa,12.15,1.8
-995647890,Argyreia_nervosa,-19.62,147
 1652117109,Argyreia_nervosa,-19.623584,147.00917
 891606572,Argyreia_nervosa,23.455,120.713333
 233363698,Argyreia_nervosa,18.45,-70.616667
 1259267252,Argyreia_nervosa,8.14444,-80.93
 1228292004,Argyreia_nervosa,8.1667,-81.25
-1257500318,Argyreia_nervosa,12.4,-86.61666
 994187047,Argyreia_nervosa,-15.8319,144.8676
 2291001456,Argyreia_nervosa,-15.833333,144.866667
 994187876,Argyreia_nervosa,-15.5819,145.2675
@@ -97,11 +90,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891626376,Argyreia_nervosa,25.015833,121.535833
 1937086404,Argyreia_nervosa,-19.97,148.27
 1949704765,Argyreia_nervosa,5.864859,8.427332
-992403228,Argyreia_nervosa,-20.3,148
-2289463969,Argyreia_nervosa,-20.3,147.966667
 1652040801,Argyreia_nervosa,-20.306912,147.975827
 2291898500,Argyreia_nervosa,7.541667,7.383333
-993269047,Argyreia_nervosa,-18.7,146.2333
 1651993481,Argyreia_nervosa,-18.706923,146.242509
 994112124,Argyreia_nervosa,-15.4167,145.0833
 1651993480,Argyreia_nervosa,-15.423607,145.092513
@@ -111,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 438532443,Argyreia_nervosa,-22.2725,166.44444
 1228564326,Argyreia_nervosa,17.25,-88.1667
 1258593403,Argyreia_nervosa,17.514444,-88.200556
-35206015,Argyreia_nervosa,21.3,-158
 1228239082,Argyreia_nervosa,14.8364,-86.4556
 1651993472,Argyreia_nervosa,-16.248612,141.417556
 1315035428,Argyreia_nervosa,7.42846,-76.5513
@@ -120,12 +109,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1651885338,Argyreia_nervosa,-19.790249,147.259167
 1090539425,Argyreia_nervosa,-22.870251,-47.077171
 994112077,Argyreia_nervosa,-18.75,146.1667
-994113270,Argyreia_nervosa,-15.5,145.25
 1651993494,Argyreia_nervosa,-19.415251,146.917503
 994112047,Argyreia_nervosa,-16.9333,145.75
 1651993516,Argyreia_nervosa,-20.081911,148.250822
 1652059398,Argyreia_nervosa,-19.581916,147.417498
-35209529,Argyreia_nervosa,21.3,-157.85
 1031003051,Argyreia_nervosa,22.696199,113.938254
 1303864996,Argyreia_nervosa,22.54423,114.057795
 1928365478,Argyreia_nervosa,22.130781,-80.339315
