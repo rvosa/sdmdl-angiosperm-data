@@ -31,7 +31,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931051940,Desmanthodium_fruticosum,17.19931,-97.98789
 1895240143,Desmanthodium_fruticosum,16.204167,-96.9225
 1895240135,Desmanthodium_fruticosum,18.778889,-100.426944
-1899734681,Desmanthodium_fruticosum,19.453333,-103.7
 1895240111,Desmanthodium_fruticosum,19.438333,-103.676667
 1259817882,Desmanthodium_fruticosum,19.452222,-103.708889
 1893972888,Desmanthodium_fruticosum,19.430556,-104.228333
@@ -60,7 +59,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895479133,Desmanthodium_fruticosum,18.9371811341114,-103.121045265694
 1895479031,Desmanthodium_fruticosum,18.759631,-103.397239
 1893972806,Desmanthodium_fruticosum,19.591667,-104.275
-1261924841,Desmanthodium_fruticosum,18.9,-100.12
 1895240120,Desmanthodium_fruticosum,18.900833,-100.120556
 1930673579,Desmanthodium_fruticosum,19.81,-104.3733
 1895479060,Desmanthodium_fruticosum,19.70165462973,-104.393046718115
@@ -108,7 +106,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1931142158,Desmanthodium_fruticosum,17.2589,-99.5011
 1895478507,Desmanthodium_fruticosum,17.5067225203346,-99.4804882882208
 1895240102,Desmanthodium_fruticosum,17.336944,-99.498889
-1931158558,Desmanthodium_fruticosum,19.6697,-100.9
 1895479020,Desmanthodium_fruticosum,19.6506237257104,-100.970655671901
 1895240099,Desmanthodium_fruticosum,19.680556,-100.865278
 1931251433,Desmanthodium_fruticosum,19.38128,-103.38453
@@ -124,17 +121,13 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1261924793,Desmanthodium_fruticosum,19.111667,-100.297778
 1259815391,Desmanthodium_fruticosum,19.230556,-100.148611
 1895240103,Desmanthodium_fruticosum,19.212222,-100.196111
-1928082848,Desmanthodium_fruticosum,21.5,-104.9333
 1895240071,Desmanthodium_fruticosum,21.519444,-105.011111
 1895240121,Desmanthodium_fruticosum,19.721389,-104.215
 1895479119,Desmanthodium_fruticosum,18.6875,-103.34833
 1259818291,Desmanthodium_fruticosum,18.68,-103.34
-1259814483,Desmanthodium_fruticosum,17.4,-100.31666
 1895479110,Desmanthodium_fruticosum,18.098649,-101.043774
-1259816975,Desmanthodium_fruticosum,19,-100.01
 1929597671,Desmanthodium_fruticosum,19.3181,-99.6769
 1259815613,Desmanthodium_fruticosum,19.03,-100.065278
-1261039801,Desmanthodium_fruticosum,19.1,-99.78333
 1261037605,Desmanthodium_fruticosum,18.77,-100.42
 1259817572,Desmanthodium_fruticosum,21.516667,-104.933333
 1259815115,Desmanthodium_fruticosum,19.649444,-103.456389
