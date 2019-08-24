@@ -1,7 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1978367519,Koenigia_alpina,54.4145,38.491167
 1798991972,Koenigia_alpina,41.671389,70.9825
-2012691109,Koenigia_alpina,65.53123,21.99037
 1265003784,Koenigia_alpina,63.17276,14.51758
 1842879653,Koenigia_alpina,42.45748,1.79181
 1705465833,Koenigia_alpina,57.983339,15.65765
@@ -43,7 +42,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1848987009,Koenigia_alpina,40.36556,44.70417
 1848987226,Koenigia_alpina,40.36139,44.06139
 1697779956,Koenigia_alpina,43.231667,42.039444
-453329369,Koenigia_alpina,-34.125,19.125
 1936661192,Koenigia_alpina,40.595278,44.963056
 582871,Koenigia_alpina,59.88319,14.07098
 1697779941,Koenigia_alpina,43.553774,40.501957
@@ -73,7 +71,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 893482518,Koenigia_alpina,40.416672,44.666672
 893482503,Koenigia_alpina,40.633331,44.549999
 1848986823,Koenigia_alpina,40.63333,44.55
-1343112174,Koenigia_alpina,57.298735,10.932073
 317825520,Koenigia_alpina,40.6,44.63
 317824899,Koenigia_alpina,40.42,44.67
 893482499,Koenigia_alpina,40.583328,44.966671
@@ -82,9 +79,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1999568318,Koenigia_alpina,65.962319,29.184742
 1936617229,Koenigia_alpina,42.5656,1.6792
 1928828481,Koenigia_alpina,42.563883,44.763533
-453329368,Koenigia_alpina,-33.375,18.375
 1936605804,Koenigia_alpina,40.483333,39.783333
-453329367,Koenigia_alpina,-34.375,19.875
 900313287,Koenigia_alpina,59.3514,7.3442
 1936612771,Koenigia_alpina,41.1885,-3.4783
 860322798,Koenigia_alpina,42.49,2.09
@@ -110,7 +105,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697779988,Koenigia_alpina,43.435243,41.695786
 1936433996,Koenigia_alpina,42.9825,-1.0144
 1697470778,Koenigia_alpina,54.180823,45.482369
-860316885,Koenigia_alpina,42.58,1.6
 1701980201,Koenigia_alpina,58.8446,5.7331
 1343112039,Koenigia_alpina,57.272218,10.167764
 1936421349,Koenigia_alpina,40.7891,-3.9613
@@ -127,10 +121,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697470730,Koenigia_alpina,52.763666,39.063182
 1883361148,Koenigia_alpina,62.02142,16.42811
 582563,Koenigia_alpina,58.00653,14.79483
-1503229915,Koenigia_alpina,65,25
 1705341017,Koenigia_alpina,57.239346,15.197416
 1705359398,Koenigia_alpina,57.784639,14.932741
-1804610619,Koenigia_alpina,69.95,-137.233333
 1600866916,Koenigia_alpina,60.435274,23.849851
 582198,Koenigia_alpina,57.271398,15.392535
 1426139511,Koenigia_alpina,28.115,98.316498
@@ -138,7 +130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144753529,Koenigia_alpina,41.85,9.23333
 1935713024,Koenigia_alpina,47.3525,15.32889
 1050597170,Koenigia_alpina,42.4,2.21
-453329366,Koenigia_alpina,-33.625,23.875
 1697219121,Koenigia_alpina,61.8442,89.33233
 1697325438,Koenigia_alpina,49.426607,88.549805
 1697325349,Koenigia_alpina,48.28365,88.766785
@@ -176,10 +167,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1586999523,Koenigia_alpina,40.233333,22.15
 1697219198,Koenigia_alpina,50.266667,87.416667
 1936039751,Koenigia_alpina,40.2679,-5.6238
-1842885094,Koenigia_alpina,42.49,1.6
 1697219245,Koenigia_alpina,49.75,88.5
 1697219237,Koenigia_alpina,50,90
-453329362,Koenigia_alpina,-34.375,18.375
 211634524,Koenigia_alpina,40.290001,-5.76
 198463207,Koenigia_alpina,40.299999,-5.76
 1851571215,Koenigia_alpina,40.29,-5.75
@@ -195,18 +184,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697325379,Koenigia_alpina,45.215059,90.966969
 1697219164,Koenigia_alpina,52.058296,93.598623
 1697219133,Koenigia_alpina,62.3013,89.01463
-453329364,Koenigia_alpina,-33.875,18.375
 1697219173,Koenigia_alpina,61.01597,89.59273
 1697219058,Koenigia_alpina,53.74955,127.291653
 1697219186,Koenigia_alpina,63.30533,87.59202
 1697470733,Koenigia_alpina,60.483909,57.005126
-453329360,Koenigia_alpina,-34.125,18.375
 1697325423,Koenigia_alpina,51.059273,100.063937
 1697780003,Koenigia_alpina,42.795873,43.921709
 1842892697,Koenigia_alpina,42.57,0.87
-453329359,Koenigia_alpina,-33.875,18.875
 1697470692,Koenigia_alpina,52.763553,39.082006
-453329358,Koenigia_alpina,-33.875,23.875
 1705881489,Koenigia_alpina,54.009,23.412
 1586999527,Koenigia_alpina,39.883333,21.183333
 1936081447,Koenigia_alpina,40.8432,-3.9621
@@ -229,9 +214,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 615258370,Koenigia_alpina,34.9,73.65
 1144753548,Koenigia_alpina,42.21667,9.1
 1144753573,Koenigia_alpina,42.13333,9.11667
-2289969379,Koenigia_alpina,42.55,1.583333
 1701908008,Koenigia_alpina,62.33985,6.63925
-1999594596,Koenigia_alpina,59.950428,20.880237
 1999594660,Koenigia_alpina,60.480474,22.165723
 1563135351,Koenigia_alpina,62.52103,15.75047
 1144184960,Koenigia_alpina,61.23189,6.76174
@@ -242,7 +225,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697219188,Koenigia_alpina,53.864346,86.489021
 1936074556,Koenigia_alpina,40.1747,-5.3502
 1697470759,Koenigia_alpina,53.334196,57.888282
-453329353,Koenigia_alpina,-34.125,19.375
 1697779924,Koenigia_alpina,43.30474,41.58847
 1563135363,Koenigia_alpina,57.86053,13.793785
 1697470766,Koenigia_alpina,53.366631,54.808176
@@ -267,19 +249,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144753555,Koenigia_alpina,42.13333,9.1
 615258371,Koenigia_alpina,34.83,73.57
 615258374,Koenigia_alpina,35.48,72.45
-453329351,Koenigia_alpina,-33.375,26.625
 1697219211,Koenigia_alpina,51.29735,85.680313
 51928605,Koenigia_alpina,45.4464,-122.6381
 1697219192,Koenigia_alpina,58.25882,108.44341
 1697219152,Koenigia_alpina,67.46427,86.72455
 1697219144,Koenigia_alpina,67.44346,86.6578
 1638415224,Koenigia_alpina,47.34917,15.32639
-1999665682,Koenigia_alpina,60.352441,19.832385
 1697779991,Koenigia_alpina,42.507793,44.25396
-1701837184,Koenigia_alpina,59.97258,10.72237
 1638415232,Koenigia_alpina,47.36194,15.33056
 615258378,Koenigia_alpina,34.05,74.38
-453329357,Koenigia_alpina,-33.875,24.375
 1563137671,Koenigia_alpina,59.9503,16.56862
 1697470704,Koenigia_alpina,51.530298,37.971183
 1697779949,Koenigia_alpina,43.572929,40.629244
@@ -288,7 +266,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697219204,Koenigia_alpina,51.266667,87.666667
 2290363717,Koenigia_alpina,42.45,2.116667
 1697470779,Koenigia_alpina,59.60805,60.32915
-1563133488,Koenigia_alpina,55.70403,13.2027
 1697779982,Koenigia_alpina,41.585533,47.785378
 1697779964,Koenigia_alpina,43.446439,41.684532
 1697219197,Koenigia_alpina,52.716667,99.4
@@ -306,10 +283,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697470795,Koenigia_alpina,54.599119,58.543396
 1697470791,Koenigia_alpina,54.256401,58.102913
 1999596643,Koenigia_alpina,60.412181,22.266782
-453329352,Koenigia_alpina,-34.125,24.375
 1697219131,Koenigia_alpina,56.21321,95.73532
 1697219159,Koenigia_alpina,55.98955,92.78902
-1999665666,Koenigia_alpina,60.170379,24.92525
 1563133960,Koenigia_alpina,58.389094,13.846898
 1264995056,Koenigia_alpina,47.26474,15.00108
 1144567281,Koenigia_alpina,42.41667,9.06667
