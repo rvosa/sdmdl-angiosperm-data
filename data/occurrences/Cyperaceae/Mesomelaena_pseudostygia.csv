@@ -4,7 +4,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2284145438,Mesomelaena_pseudostygia,-30.0611,115.528
 996940554,Mesomelaena_pseudostygia,-31.443012,115.969315
 996948666,Mesomelaena_pseudostygia,-32.300183,116.002167
-996956070,Mesomelaena_pseudostygia,-28.576944,114.593778
 1937024157,Mesomelaena_pseudostygia,-28.70525,115.330472
 996928608,Mesomelaena_pseudostygia,-31.747778,115.806389
 996940134,Mesomelaena_pseudostygia,-31.517741,115.714701
@@ -53,7 +52,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996814745,Mesomelaena_pseudostygia,-28.534146,114.736793
 996834777,Mesomelaena_pseudostygia,-28.101365,114.570704
 996024233,Mesomelaena_pseudostygia,-28.534,114.737
-996671838,Mesomelaena_pseudostygia,-28.716667,114.616667
 996726015,Mesomelaena_pseudostygia,-32.396389,115.826111
 996606097,Mesomelaena_pseudostygia,-31.153073,116.053355
 996904961,Mesomelaena_pseudostygia,-31.836111,115.866111
@@ -61,7 +59,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 996626033,Mesomelaena_pseudostygia,-30.997938,115.710356
 996705936,Mesomelaena_pseudostygia,-31.833333,115.966667
 996586045,Mesomelaena_pseudostygia,-32.368333,115.976944
-996580913,Mesomelaena_pseudostygia,-31.332389,115.498417
 996112399,Mesomelaena_pseudostygia,-31.3308,116.053
 996580479,Mesomelaena_pseudostygia,-30.2221,115.443678
 996586453,Mesomelaena_pseudostygia,-30.9319,115.9325
@@ -139,8 +136,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993773898,Mesomelaena_pseudostygia,-31.5333,115.6667
 996298080,Mesomelaena_pseudostygia,-31.411,115.665
 996298341,Mesomelaena_pseudostygia,-31.55,115.68
-1451715865,Mesomelaena_pseudostygia,-34.665098,150.217848
-1937111576,Mesomelaena_pseudostygia,-34.67,150.22
 996299162,Mesomelaena_pseudostygia,-31.7175,115.8331
 996748920,Mesomelaena_pseudostygia,-28.716667,114.966667
 996299143,Mesomelaena_pseudostygia,-31.506944,115.683333
