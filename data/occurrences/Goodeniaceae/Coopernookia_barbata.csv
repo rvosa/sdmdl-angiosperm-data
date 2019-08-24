@@ -2,7 +2,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1805845454,Coopernookia_barbata,-37.3325,149.245
 1451046379,Coopernookia_barbata,-37.64775,149.586861
 1451046389,Coopernookia_barbata,-37.556694,149.543278
-1805843309,Coopernookia_barbata,-37.495611,149.936917
 1450986045,Coopernookia_barbata,-34.2483,150.5983
 1142182709,Coopernookia_barbata,-33.172,149.995
 1065949614,Coopernookia_barbata,-33.0971,150.037
@@ -25,23 +24,17 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 994041775,Coopernookia_barbata,-36.7353,149.9639
 995925488,Coopernookia_barbata,-36.7353,149.964
 1451607545,Coopernookia_barbata,-36.733716,149.965106
-994046134,Coopernookia_barbata,-37.2333,150.0167
 1936994132,Coopernookia_barbata,-31.158056,149.368611
 1451599074,Coopernookia_barbata,-31.156488,149.369766
 995155849,Coopernookia_barbata,-37.4619,149.5497
 1451579963,Coopernookia_barbata,-37.010664,149.780948
 995861294,Coopernookia_barbata,-37.0122,149.78
-994042266,Coopernookia_barbata,-37.2492,150.0272
-993589034,Coopernookia_barbata,-37.2667,150.05
 994031412,Coopernookia_barbata,-35.0667,150.15
 1061586026,Coopernookia_barbata,-34.215091,150.78451
 1655923779,Coopernookia_barbata,-36.73,149.97
-993987911,Coopernookia_barbata,-36.4378,150.0722
 995805003,Coopernookia_barbata,-35.8,149.87
 993421105,Coopernookia_barbata,-35.8,149.8667
 1451554335,Coopernookia_barbata,-35.798436,149.867867
-995698675,Coopernookia_barbata,-37.2453,150.011
-1451510712,Coopernookia_barbata,-37.243717,150.012337
 995119729,Coopernookia_barbata,-32.6333,150.0333
 1451588161,Coopernookia_barbata,-32.631765,150.034493
 1937102737,Coopernookia_barbata,-32.63,150.03
@@ -128,7 +121,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 993890210,Coopernookia_barbata,-31.3,149.0167
 994840115,Coopernookia_barbata,-37.5319,149.5514
 994839957,Coopernookia_barbata,-37.4,149.25
-993827433,Coopernookia_barbata,-37.1667,149.9667
 993916223,Coopernookia_barbata,-37.1167,149.9333
 1937252052,Coopernookia_barbata,-31.25,148.8
 993830241,Coopernookia_barbata,-34.0667,150.4333
@@ -169,7 +161,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1061553687,Coopernookia_barbata,-37.516667,149.616667
 993489277,Coopernookia_barbata,-37.5167,149.6
 1451684962,Coopernookia_barbata,-34.215096,150.551171
-994794224,Coopernookia_barbata,-37.5667,149.7667
 996086828,Coopernookia_barbata,-34.22,150.55
 1451440866,Coopernookia_barbata,-34.115099,150.151177
 995546734,Coopernookia_barbata,-34.12,150.15
@@ -233,9 +224,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 995546449,Coopernookia_barbata,-35.02,150.17
 996021328,Coopernookia_barbata,-37.07,149.93
 993727303,Coopernookia_barbata,-35.55,149.9833
-996183185,Coopernookia_barbata,-37.27,150.05
-1451710748,Coopernookia_barbata,-37.265107,150.051226
-1848333481,Coopernookia_barbata,-37.2,149.983333
 1937301419,Coopernookia_barbata,-37.466667,149.566667
 1451710665,Coopernookia_barbata,-34.398434,149.817851
 996183704,Coopernookia_barbata,-34.4,149.82
