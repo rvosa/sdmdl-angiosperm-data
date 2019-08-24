@@ -6,7 +6,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1831517583,Carlina_salicifolia,28.07139,-17.23944
 1697707190,Carlina_salicifolia,28.133333,-16.711111
 1697707200,Carlina_salicifolia,28.138889,-16.594444
-1851324113,Carlina_salicifolia,33.0939,-16.3
 1851332928,Carlina_salicifolia,33.0495,-16.3681
 1936675237,Carlina_salicifolia,33.0494,-16.3681
 2288495110,Carlina_salicifolia,28.8075,-17.827667
@@ -15,7 +14,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 439776468,Carlina_salicifolia,32.6839,-16.9172
 1702039748,Carlina_salicifolia,28.1368,-16.6852
 1936621210,Carlina_salicifolia,33.095556,-16.300278
-24701991,Carlina_salicifolia,32,-16
 1851573348,Carlina_salicifolia,28.63,-17.99
 1050618170,Carlina_salicifolia,28.11,-16.67
 1851349334,Carlina_salicifolia,28.1122,-16.6762
@@ -23,8 +21,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 211622877,Carlina_salicifolia,28.290001,-16.68
 1230526007,Carlina_salicifolia,32.76583,-16.93639
 860325153,Carlina_salicifolia,28.8235,-17.8403
-30854254,Carlina_salicifolia,29.1,-13.56
 30854255,Carlina_salicifolia,28.379999,-16.33
-2287248937,Carlina_salicifolia,28.3,-16.416667
 1851583161,Carlina_salicifolia,28.33,-16.79
 1144620020,Carlina_salicifolia,28.05667,-16.52194
