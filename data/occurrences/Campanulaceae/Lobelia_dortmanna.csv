@@ -88,7 +88,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 859520,Lobelia_dortmanna,56.32943,12.99935
 186818942,Lobelia_dortmanna,58.2718,6.8152
 186818939,Lobelia_dortmanna,58.2103,7.9543
-1060402312,Lobelia_dortmanna,52,-9.5
 1323822002,Lobelia_dortmanna,68.1283,16.0716
 1323821996,Lobelia_dortmanna,68.1308,16.0952
 1323852322,Lobelia_dortmanna,68.0563,15.9556
@@ -161,7 +160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186818569,Lobelia_dortmanna,58.2401,8.0385
 186818554,Lobelia_dortmanna,58.0172,7.0728
 1702155441,Lobelia_dortmanna,59.7403,11.6413
-24715475,Lobelia_dortmanna,61,26
 1323805040,Lobelia_dortmanna,58.2781,6.4506
 1702023381,Lobelia_dortmanna,60.0435,10.7531
 186818154,Lobelia_dortmanna,58.2712,6.4682
@@ -274,7 +272,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 186818268,Lobelia_dortmanna,58.6149,7.183
 1701604602,Lobelia_dortmanna,60.4804,11.4108
 895162614,Lobelia_dortmanna,54.086,-4.001
-1936113995,Lobelia_dortmanna,53.0833,-4
 1144118150,Lobelia_dortmanna,62.0784,5.0074
 1701265861,Lobelia_dortmanna,62.5158,7.6891
 1599097808,Lobelia_dortmanna,62.414124,22.674009
@@ -289,11 +286,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1324013731,Lobelia_dortmanna,58.212,8.0052
 1065678684,Lobelia_dortmanna,63.95827,20.348251
 1599098034,Lobelia_dortmanna,60.959854,23.950592
-2289828815,Lobelia_dortmanna,52,-9.4
 1702319609,Lobelia_dortmanna,58.7175,9.1079
 1701871247,Lobelia_dortmanna,59.3525,11.7341
-1224531465,Lobelia_dortmanna,61.4,25.416667
-1988229640,Lobelia_dortmanna,61.4,25.4
 1701316950,Lobelia_dortmanna,63.993,10.6863
 1702199737,Lobelia_dortmanna,60.3866,8.737
 1599098040,Lobelia_dortmanna,60.870237,23.95915
@@ -376,7 +370,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144169521,Lobelia_dortmanna,59.94976,6.01605
 187192609,Lobelia_dortmanna,64.0817,10.7737
 187193409,Lobelia_dortmanna,62.8522,8.2831
-2291886809,Lobelia_dortmanna,64,27
 1144118045,Lobelia_dortmanna,60.7853,4.8862
 1701280918,Lobelia_dortmanna,63.4893,9.7529
 1702254300,Lobelia_dortmanna,58.76543,5.54165
