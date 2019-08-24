@@ -254,7 +254,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270656130,Eriogonum_fasciculatum,33.1207,-111.592
 1894816484,Eriogonum_fasciculatum,29.775,-114.775
 2270679342,Eriogonum_fasciculatum,32.37,-112.87
-1986940655,Eriogonum_fasciculatum,37.011944,-113.9
 1930760873,Eriogonum_fasciculatum,37.02,-113.78
 1893340352,Eriogonum_fasciculatum,31.20225,-115.393833
 1894819441,Eriogonum_fasciculatum,30.008333,-115.241667
@@ -279,7 +278,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426346550,Eriogonum_fasciculatum,33.733333,-116.733333
 2270190322,Eriogonum_fasciculatum,34.7748999991157,-120.4911
 1846476981,Eriogonum_fasciculatum,35.81916,-113.6491
-2270605348,Eriogonum_fasciculatum,34.5,-113.917
 2270190131,Eriogonum_fasciculatum,35.46411,-120.33005
 1846531677,Eriogonum_fasciculatum,35.0767,-114.3245
 2270528902,Eriogonum_fasciculatum,32.117624,-115.991077
@@ -301,8 +299,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270606602,Eriogonum_fasciculatum,33.3561,-111.988
 1658235168,Eriogonum_fasciculatum,35.42028,-114.8992
 2270605571,Eriogonum_fasciculatum,32.7266,-111.404
-1846486786,Eriogonum_fasciculatum,36.15,-113.2
-1261450591,Eriogonum_fasciculatum,29.716667,-114.7
 2270603333,Eriogonum_fasciculatum,33.5021,-111.606
 1846531545,Eriogonum_fasciculatum,34.20783,-113.06461
 1261450750,Eriogonum_fasciculatum,29.881389,-114.868611
@@ -310,7 +306,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270607230,Eriogonum_fasciculatum,36.2331,-114.737
 1426346506,Eriogonum_fasciculatum,34.586528,-118.523056
 2270283622,Eriogonum_fasciculatum,34.4807999991191,-120.3947
-1261451043,Eriogonum_fasciculatum,33.1,-117.33333
 2270528634,Eriogonum_fasciculatum,27.546667,-114.590278
 2270605529,Eriogonum_fasciculatum,33.4585,-111.45
 2270605816,Eriogonum_fasciculatum,33.45,-111.41
@@ -327,14 +322,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270607070,Eriogonum_fasciculatum,33.3561,-112.005
 1893626241,Eriogonum_fasciculatum,30.88,-116.175
 1895462730,Eriogonum_fasciculatum,31.5349250378481,-116.657205366929
-1899733942,Eriogonum_fasciculatum,33.683333,-117.4
 2270560690,Eriogonum_fasciculatum,33.72,-111.44
 2284143713,Eriogonum_fasciculatum,30.3417,-115.75
 1895462743,Eriogonum_fasciculatum,32.1533699630051,-115.790565909586
 1894816490,Eriogonum_fasciculatum,27.508333,-114.425
 2270187754,Eriogonum_fasciculatum,36.126249,-116.175695
 1846531367,Eriogonum_fasciculatum,34.650363,-116.808828
-1259779106,Eriogonum_fasciculatum,30,-115.25
 1259777197,Eriogonum_fasciculatum,30.31666,-115.78333
 2270192499,Eriogonum_fasciculatum,34.7388999991161,-120.0719
 1846531473,Eriogonum_fasciculatum,33.9641,-111.2789
@@ -352,7 +345,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895462768,Eriogonum_fasciculatum,32.180494935234,-116.909758820888
 1896070488,Eriogonum_fasciculatum,31.7175,-116.651111
 2270607615,Eriogonum_fasciculatum,35.0982,-114.377
-1928321741,Eriogonum_fasciculatum,37,-113.37
 1929017295,Eriogonum_fasciculatum,37.25,-113.33
 1928895602,Eriogonum_fasciculatum,37.22,-114.03
 2270281549,Eriogonum_fasciculatum,36.227468,-120.539414
@@ -361,7 +353,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893340309,Eriogonum_fasciculatum,31.058333,-115.508333
 2270189501,Eriogonum_fasciculatum,34.0516,-116.5666
 1846531104,Eriogonum_fasciculatum,34.707078,-114.49304
-1846531200,Eriogonum_fasciculatum,31.833333,-113.5
 1931079683,Eriogonum_fasciculatum,36.6943,-114.0208
 1928358570,Eriogonum_fasciculatum,37.22,-113.63
 1930231490,Eriogonum_fasciculatum,36.214,-113.0833
@@ -378,7 +369,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1894816476,Eriogonum_fasciculatum,31.901991,-116.743326
 1889155079,Eriogonum_fasciculatum,32.311111,-114.052222
 2242409534,Eriogonum_fasciculatum,32.31325,-114.04735
-1928713669,Eriogonum_fasciculatum,37.03,-114
 1928336667,Eriogonum_fasciculatum,37.03,-113.87
 1896070502,Eriogonum_fasciculatum,33.55,-111.308333
 2270188849,Eriogonum_fasciculatum,35.718654,-118.494295
@@ -427,7 +417,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270604965,Eriogonum_fasciculatum,33.8766,-112.82
 2284374762,Eriogonum_fasciculatum,31.1917,-116.33
 2270190778,Eriogonum_fasciculatum,35.197821,-120.66211
-2270604459,Eriogonum_fasciculatum,34.02,-113.1
 1895645950,Eriogonum_fasciculatum,31.188333,-116.330595
 2270607156,Eriogonum_fasciculatum,34.04,-113.31
 1846530655,Eriogonum_fasciculatum,34.6115,-113.2407
@@ -513,20 +502,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2284310605,Eriogonum_fasciculatum,27.12,-113.62
 1894070711,Eriogonum_fasciculatum,27.433361,-114.450139
 1894070710,Eriogonum_fasciculatum,27.1165,-113.533194
-2284276903,Eriogonum_fasciculatum,30.07,-115.6
 2284180023,Eriogonum_fasciculatum,27.33,-114.33
-2284196579,Eriogonum_fasciculatum,29.02,-114.2
 2284314578,Eriogonum_fasciculatum,31.08,-116.22
 1894070724,Eriogonum_fasciculatum,27.333222,-114.333583
 1928316879,Eriogonum_fasciculatum,27.22,-114.35
 1986979186,Eriogonum_fasciculatum,27.216667,-114.35
-2284231401,Eriogonum_fasciculatum,27.5,-112.6
 2270605220,Eriogonum_fasciculatum,33.7916,-111.467
 1896070118,Eriogonum_fasciculatum,32.086667,-114.175
 176943979,Eriogonum_fasciculatum,32.135309,-112.650697
 2270605175,Eriogonum_fasciculatum,33.3712,-112.377
 1896070493,Eriogonum_fasciculatum,28.078611,-113.360833
-1259334395,Eriogonum_fasciculatum,28.283333,-113.8
 2270606194,Eriogonum_fasciculatum,32.1354,-112.65
 1930881330,Eriogonum_fasciculatum,32.1356,-112.6531
 1846531967,Eriogonum_fasciculatum,32.663682,-116.272608
@@ -581,7 +566,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270286651,Eriogonum_fasciculatum,35.042464,-115.390807
 699266777,Eriogonum_fasciculatum,34.12027,-118.93166
 1896051122,Eriogonum_fasciculatum,34.311944,-117.913333
-2284154457,Eriogonum_fasciculatum,32.43,-116
 2270603600,Eriogonum_fasciculatum,33.2501,-110.437
 2270604219,Eriogonum_fasciculatum,33.0003,-111.517
 2270608027,Eriogonum_fasciculatum,33.2938,-111.273
@@ -597,7 +581,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893340326,Eriogonum_fasciculatum,30.808333,-115.358333
 1896070135,Eriogonum_fasciculatum,30.864167,-115.210556
 1893428390,Eriogonum_fasciculatum,31.058333,-115.608333
-2284172366,Eriogonum_fasciculatum,31.05,-115.6
 176944582,Eriogonum_fasciculatum,29.474573,-114.4248
 2270187638,Eriogonum_fasciculatum,33.1959,-117.3795
 1893418869,Eriogonum_fasciculatum,28.675,-114.075
@@ -648,7 +631,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270282550,Eriogonum_fasciculatum,33.87726,-117.45621
 2270284870,Eriogonum_fasciculatum,34.747999999116,-120.053
 2270284537,Eriogonum_fasciculatum,34.188996,-118.103043
-2270607042,Eriogonum_fasciculatum,33.57,-111.7
 2270189602,Eriogonum_fasciculatum,34.101349,-118.658896
 1896055797,Eriogonum_fasciculatum,32.564444,-116.599722
 2270286144,Eriogonum_fasciculatum,34.758313,-115.722186
@@ -675,7 +657,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270190570,Eriogonum_fasciculatum,34.4612999991193,-119.6908
 2270284452,Eriogonum_fasciculatum,35.132835,-118.557155
 2270280797,Eriogonum_fasciculatum,34.5166,-119.793
-623669116,Eriogonum_fasciculatum,34,-118
 2270282765,Eriogonum_fasciculatum,34.130692,-118.510184
 2270284090,Eriogonum_fasciculatum,34.7418,-120.0166
 1426346324,Eriogonum_fasciculatum,34.5234999991186,-119.7933
