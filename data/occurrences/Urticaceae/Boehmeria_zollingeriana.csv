@@ -1,8 +1,6 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2288418857,Boehmeria_zollingeriana,16.456667,98.908333
-2287460204,Boehmeria_zollingeriana,19.416667,100
 891590147,Boehmeria_zollingeriana,24.958333,121.893333
-2287459054,Boehmeria_zollingeriana,18.45,98
 891589492,Boehmeria_zollingeriana,24.397222,120.927778
 891589509,Boehmeria_zollingeriana,24.469444,121.036111
 2287461285,Boehmeria_zollingeriana,18.166667,97.916667
@@ -12,20 +10,16 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 190040429,Boehmeria_zollingeriana,23.516667,120.806111
 2288031361,Boehmeria_zollingeriana,19.156333,99.757944
 919538486,Boehmeria_zollingeriana,21.475834,101.56752
-2288031375,Boehmeria_zollingeriana,18.283333,99.5
 2288030915,Boehmeria_zollingeriana,19.388334,98.890472
 891596604,Boehmeria_zollingeriana,24.605,121.855556
-2288030137,Boehmeria_zollingeriana,15.1,98.466667
 1846539426,Boehmeria_zollingeriana,18.411833,98.108861
 2288029202,Boehmeria_zollingeriana,18.490667,99.302194
-2287463524,Boehmeria_zollingeriana,19.316667,100.8
 2287459547,Boehmeria_zollingeriana,18.966667,98.333333
 2288030726,Boehmeria_zollingeriana,18.466667,100.016667
 2288032719,Boehmeria_zollingeriana,18.445149,120.861059
 891600197,Boehmeria_zollingeriana,25.031389,121.584444
 891602462,Boehmeria_zollingeriana,24.735278,121.425833
 891602461,Boehmeria_zollingeriana,24.993333,121.666389
-2288031009,Boehmeria_zollingeriana,18.9,98.95
 891604981,Boehmeria_zollingeriana,24.306389,121.744722
 891591870,Boehmeria_zollingeriana,25.126667,121.545833
 2287348138,Boehmeria_zollingeriana,18.81625,98.891806
@@ -46,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 891614640,Boehmeria_zollingeriana,25.098333,121.538056
 891623704,Boehmeria_zollingeriana,25.093889,121.515833
 891623702,Boehmeria_zollingeriana,24.862778,121.534444
-2288032760,Boehmeria_zollingeriana,19.25,98
 891628996,Boehmeria_zollingeriana,22.676667,121.472222
 891628606,Boehmeria_zollingeriana,22.680278,120.676667
 919542066,Boehmeria_zollingeriana,22.99417,102.392353
