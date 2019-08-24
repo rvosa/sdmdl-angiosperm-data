@@ -40,7 +40,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846480571,Pluchea_sericea,35.9672879991028,-113.312269
 1260041399,Pluchea_sericea,35.033333,-116.383333
 911794979,Pluchea_sericea,36.732777,-117.053055
-1260040923,Pluchea_sericea,33.66666,-117.3
 1846485994,Pluchea_sericea,33.32435,-111.149267
 2270686079,Pluchea_sericea,33.44,-111.87
 1846480582,Pluchea_sericea,35.83885,-113.33291
@@ -76,7 +75,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928385262,Pluchea_sericea,34.25665,-114.15415
 2270663898,Pluchea_sericea,36.524,-112.57
 1846480612,Pluchea_sericea,36.523983,-112.569767
-1265813457,Pluchea_sericea,33.6,-117.05
 1893588423,Pluchea_sericea,32.493889,-114.813889
 2270583506,Pluchea_sericea,33.3481,-112.677
 2270663560,Pluchea_sericea,33.37,-112.58
@@ -91,7 +89,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1842916267,Pluchea_sericea,36.891389,-113.925
 1426410914,Pluchea_sericea,33.733333,-114.916667
 1895225563,Pluchea_sericea,28.713333,-114.084167
-1846480520,Pluchea_sericea,33.5,-113.5
 1895404181,Pluchea_sericea,28.833333,-114.133333
 1261308902,Pluchea_sericea,28.721945,-114.095833
 1895404163,Pluchea_sericea,31.940992,-113.046614
@@ -104,7 +101,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270662425,Pluchea_sericea,33.44,-111.92
 1895225521,Pluchea_sericea,32.153333,-115.79
 1895225553,Pluchea_sericea,32.468611,-116.575556
-1895404109,Pluchea_sericea,30,-115.5
 1895225492,Pluchea_sericea,32.367778,-116.614722
 1846501706,Pluchea_sericea,33.55103,-111.59129
 2270664408,Pluchea_sericea,33.58,-111.67
@@ -134,7 +130,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270663394,Pluchea_sericea,33.51,-111.96
 1893392733,Pluchea_sericea,31.825,-116.608333
 2270259656,Pluchea_sericea,33.29858,-114.74746
-1611935259,Pluchea_sericea,30.9,-105.4
 2270665100,Pluchea_sericea,34.6987,-113.573
 1846502018,Pluchea_sericea,34.69556,-113.57306
 1895225529,Pluchea_sericea,32.663333,-115.467778
@@ -162,11 +157,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270664541,Pluchea_sericea,33.38,-112.35
 2270583333,Pluchea_sericea,33.3712,-112.377
 2270664061,Pluchea_sericea,34.24,-114.08
-2270665961,Pluchea_sericea,33.4,-112.41
-2270583610,Pluchea_sericea,33.4,-112.28
 1893339650,Pluchea_sericea,30.858333,-115.241667
 2270663178,Pluchea_sericea,36.28,-112.87
-2270662610,Pluchea_sericea,33,-114.5
 2270663002,Pluchea_sericea,33.23,-112.24
 1848989777,Pluchea_sericea,36.24667,-116.81694
 1426410904,Pluchea_sericea,33.7667,-116.55
@@ -183,7 +175,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270663496,Pluchea_sericea,33.539,-112.551
 1846496916,Pluchea_sericea,35.18738,-114.06384
 2270664281,Pluchea_sericea,33.14,-110.12
-2270664766,Pluchea_sericea,33.8,-110.43
 2270583472,Pluchea_sericea,33.6194,-110.922
 1846501712,Pluchea_sericea,33.419306,-115.826611
 1893392758,Pluchea_sericea,31.175,-116.241667
@@ -206,7 +197,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270583659,Pluchea_sericea,33.5656,-111.536
 1895404139,Pluchea_sericea,31.195419,-116.156439
 1895225615,Pluchea_sericea,32.569167,-115.75
-1426410863,Pluchea_sericea,36.7,-117.85
 1846501681,Pluchea_sericea,33.4295,-111.93932
 1846501643,Pluchea_sericea,33.448806,-116.85
 1846501672,Pluchea_sericea,33.568889,-116.858889
@@ -239,13 +229,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426410849,Pluchea_sericea,36.6068,-117.146
 1262192490,Pluchea_sericea,36.543308,-114.446924
 1424775864,Pluchea_sericea,32.51522,-116.972729
-1260051427,Pluchea_sericea,32.45,-117
 1426410839,Pluchea_sericea,33.680599,-116.175301
 2270664232,Pluchea_sericea,32.24,-110.99
-1928619662,Pluchea_sericea,31,-114.8264
 1262192483,Pluchea_sericea,32.220876,-110.981447
 1262192494,Pluchea_sericea,32.678948,-115.498883
 1262192458,Pluchea_sericea,33.977014,-117.406079
-1262192501,Pluchea_sericea,37,-119
 1262192522,Pluchea_sericea,32.541932,-117.038853
 1262192448,Pluchea_sericea,34.108345,-117.289765
