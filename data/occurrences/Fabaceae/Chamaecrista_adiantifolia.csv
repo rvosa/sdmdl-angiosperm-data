@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1275055955,Chamaecrista_adiantifolia,-2.5,-59.916667
 1094912739,Chamaecrista_adiantifolia,-0.160556,-67.000278
 1090631342,Chamaecrista_adiantifolia,-2.944167,-59.94625
 1094918415,Chamaecrista_adiantifolia,-2.944167,-59.946111
@@ -14,8 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1208829454,Chamaecrista_adiantifolia,-4.888333,-65.311389
 1042677603,Chamaecrista_adiantifolia,-4.888306,-65.31
 1094861193,Chamaecrista_adiantifolia,-2.929444,-59.974722
-1424416259,Chamaecrista_adiantifolia,1,-59
-1949967256,Chamaecrista_adiantifolia,-1,-59
 1456140940,Chamaecrista_adiantifolia,1.71,-66.51
 1563318754,Chamaecrista_adiantifolia,1.71347,-66.513
 1456302243,Chamaecrista_adiantifolia,6.05889,-60.6596
@@ -32,13 +29,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930879774,Chamaecrista_adiantifolia,5.69431,-60.29086
 1456230196,Chamaecrista_adiantifolia,5.30139,-59.9111
 1928100666,Chamaecrista_adiantifolia,5.3014,-59.9111
-1929121829,Chamaecrista_adiantifolia,1.9,-67.03
-1258650295,Chamaecrista_adiantifolia,1.9,-67.03333
 1931060247,Chamaecrista_adiantifolia,2.9117,-67.4486
 1260629943,Chamaecrista_adiantifolia,2.91166,-67.44861
 1456473694,Chamaecrista_adiantifolia,5.07917,-59.9708
 1456022021,Chamaecrista_adiantifolia,5.18778,-59.4811
-1260636366,Chamaecrista_adiantifolia,4.9,-67.56666
 1456201200,Chamaecrista_adiantifolia,5.16667,-59.4833
 912630491,Chamaecrista_adiantifolia,-2.88,-59.97
 1042668277,Chamaecrista_adiantifolia,-2.883333,-59.97
@@ -51,7 +45,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456380147,Chamaecrista_adiantifolia,4.63528,-58.8242
 1949966857,Chamaecrista_adiantifolia,-3.475925,-60.618519
 1260634697,Chamaecrista_adiantifolia,-2.88333,-59.96666
-1456262339,Chamaecrista_adiantifolia,5.08333,-60
 1928079983,Chamaecrista_adiantifolia,5.07,-59.95
 1930877081,Chamaecrista_adiantifolia,5.17,-60.22
 1260629059,Chamaecrista_adiantifolia,5.16666,-60.21666
@@ -61,18 +54,14 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1456375526,Chamaecrista_adiantifolia,5.66667,-60.25
 1930962834,Chamaecrista_adiantifolia,2.65,-66.83
 1930656501,Chamaecrista_adiantifolia,3.62,-65.85
-1928829362,Chamaecrista_adiantifolia,3.07,-67.1
-1318548072,Chamaecrista_adiantifolia,3.0667,-67.1
 1321056226,Chamaecrista_adiantifolia,5.3333,-54.6667
 1042659196,Chamaecrista_adiantifolia,1.370762,-54.67
 1929311744,Chamaecrista_adiantifolia,5.33,-54.67
-1930614662,Chamaecrista_adiantifolia,5.2,-59.45
 1928317503,Chamaecrista_adiantifolia,2.25,-66.42
 1260633698,Chamaecrista_adiantifolia,2.25,-66.41666
 1260632410,Chamaecrista_adiantifolia,6.41666,-67.41666
 1928298857,Chamaecrista_adiantifolia,6.42,-67.42
 1423964195,Chamaecrista_adiantifolia,0.083333,-67.25
-1929333172,Chamaecrista_adiantifolia,5.2,-59.47
 1322634471,Chamaecrista_adiantifolia,-0.3667,-64.9833
 912630443,Chamaecrista_adiantifolia,-0.37,-64.98
 912630456,Chamaecrista_adiantifolia,0.08,-67.25
@@ -85,8 +74,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930637798,Chamaecrista_adiantifolia,5.33,-58.67
 1456221812,Chamaecrista_adiantifolia,5.33333,-58.6667
 1934699017,Chamaecrista_adiantifolia,5.333333,-58.666667
-1928446695,Chamaecrista_adiantifolia,5.7,-60.05
-1042518939,Chamaecrista_adiantifolia,-1.5,-59.5
 1930522886,Chamaecrista_adiantifolia,-1.9192,-59.4767
 1929041330,Chamaecrista_adiantifolia,5.42,-58.67
 1320627076,Chamaecrista_adiantifolia,5.4167,-58.6667
@@ -100,11 +87,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1930524274,Chamaecrista_adiantifolia,3.73,-65.73
 1258291824,Chamaecrista_adiantifolia,4.05,-66.01666
 1260634240,Chamaecrista_adiantifolia,3.73333,-65.73333
-1318598700,Chamaecrista_adiantifolia,0.7,-63.3667
-1930913163,Chamaecrista_adiantifolia,0.7,-63.366667
 1042642610,Chamaecrista_adiantifolia,3.6532,-63.37
-1949967329,Chamaecrista_adiantifolia,-0.7,-63.366667
-912630473,Chamaecrista_adiantifolia,0.7,-63.37
 1930616898,Chamaecrista_adiantifolia,1.308,-66.475
 1318692698,Chamaecrista_adiantifolia,1.8833,-66.5833
 1261510819,Chamaecrista_adiantifolia,1.45,-66.383333
@@ -113,8 +96,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1929622068,Chamaecrista_adiantifolia,1.958,-67.092
 1258283750,Chamaecrista_adiantifolia,1.916667,-67.066667
 1261511102,Chamaecrista_adiantifolia,1.883333,-66.583333
-1928383504,Chamaecrista_adiantifolia,1.42,-66.5
-1260629095,Chamaecrista_adiantifolia,1.41666,-66.5
 1930171273,Chamaecrista_adiantifolia,3.67,-65.75
 1260632315,Chamaecrista_adiantifolia,3.66666,-65.75
 1322574259,Chamaecrista_adiantifolia,5.3167,-58.6333
