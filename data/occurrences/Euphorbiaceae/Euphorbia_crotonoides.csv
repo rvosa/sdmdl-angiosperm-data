@@ -1,10 +1,8 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2311204915,Euphorbia_crotonoides,0.42,36.91
-2310215618,Euphorbia_crotonoides,0.4,36.91
 2308701115,Euphorbia_crotonoides,0.402,36.912
 1258050531,Euphorbia_crotonoides,-7.63395,31.31025
 461880061,Euphorbia_crotonoides,-23.125,28.625
-1259196226,Euphorbia_crotonoides,-3.3,36.65
 1258807330,Euphorbia_crotonoides,-4.29305,37.88333
 1258970972,Euphorbia_crotonoides,-3.22888,36.5125
 1096738869,Euphorbia_crotonoides,-3.23,36.51
@@ -13,7 +11,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461880077,Euphorbia_crotonoides,-20.625,16.125
 2288730519,Euphorbia_crotonoides,-3.3275,36.622222
 1258288064,Euphorbia_crotonoides,-3.3275,36.62222
-47768099,Euphorbia_crotonoides,-3.2,35.2
 1258665272,Euphorbia_crotonoides,0.266667,32.583333
 461880076,Euphorbia_crotonoides,-18.625,24.125
 2288364369,Euphorbia_crotonoides,-1.328333,36.801667
@@ -26,15 +23,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 461880071,Euphorbia_crotonoides,-24.625,31.625
 2288336124,Euphorbia_crotonoides,5.533333,39.416667
 2291964404,Euphorbia_crotonoides,5.716667,39.35
-437497919,Euphorbia_crotonoides,-3.21667,36.9
-438496490,Euphorbia_crotonoides,-7.7,34.76667
 2291964777,Euphorbia_crotonoides,8.666667,39.466667
 461880062,Euphorbia_crotonoides,-19.375,17.875
 438526129,Euphorbia_crotonoides,-4.01667,36.68333
 461880068,Euphorbia_crotonoides,-24.625,28.375
-912213776,Euphorbia_crotonoides,-1.25,35.5
 461880065,Euphorbia_crotonoides,-23.625,30.125
-2290535699,Euphorbia_crotonoides,-19.7,17.98
 461880069,Euphorbia_crotonoides,-18.875,20.125
 461880067,Euphorbia_crotonoides,-24.875,31.875
 461880064,Euphorbia_crotonoides,-19.625,17.125
