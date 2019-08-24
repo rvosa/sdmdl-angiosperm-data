@@ -59,7 +59,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1321811372,Beckmannia_syzigachne,46.8082,-100.437
 1209657730,Beckmannia_syzigachne,53.6210269990996,-113.669306
 1340041251,Beckmannia_syzigachne,55.82772,13.47711
-1828826529,Beckmannia_syzigachne,43.087,145.056
 1987013843,Beckmannia_syzigachne,42.289007,-110.566349
 2242390118,Beckmannia_syzigachne,37.98062,-105.76781
 1697176092,Beckmannia_syzigachne,42.7311,131.1322
@@ -73,7 +72,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705432721,Beckmannia_syzigachne,59.185221,17.457245
 1988197508,Beckmannia_syzigachne,49.46,-120.51
 1697176147,Beckmannia_syzigachne,50.6846,114.6781
-1705430646,Beckmannia_syzigachne,59.368147,18.044857
 1095905101,Beckmannia_syzigachne,65.19,15.46
 1929249971,Beckmannia_syzigachne,47.8969,-108.2004
 1697176150,Beckmannia_syzigachne,50.5251,114.989
@@ -93,7 +91,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1829558166,Beckmannia_syzigachne,35.91219,139.89165
 883417736,Beckmannia_syzigachne,53.5176509990986,-113.959017
 2242383617,Beckmannia_syzigachne,40.965869,-104.563349
-1146314019,Beckmannia_syzigachne,57.788889,-152.402778
 1209656935,Beckmannia_syzigachne,55.307983,-114.751617
 1209657985,Beckmannia_syzigachne,55.355152,-117.609393
 1697176105,Beckmannia_syzigachne,51.646892,105.536728
@@ -125,7 +122,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2308698512,Beckmannia_syzigachne,53.95,-123.8
 1697176141,Beckmannia_syzigachne,51.461111,104.491667
 2305828368,Beckmannia_syzigachne,49.28,-98.64
-1248734672,Beckmannia_syzigachne,53,-78.8
 1306621078,Beckmannia_syzigachne,53.948333,-123.796944
 1804532023,Beckmannia_syzigachne,49.281,-98.635
 1988076614,Beckmannia_syzigachne,53.948,-123.797
@@ -179,12 +175,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830685785,Beckmannia_syzigachne,33.533333,133.233333
 1830624745,Beckmannia_syzigachne,33.989514,134.443689
 1830624761,Beckmannia_syzigachne,34.011318,134.526544
-1830623427,Beckmannia_syzigachne,34.16496,134.59894
 381788236,Beckmannia_syzigachne,36.09571,139.99788
 1829787856,Beckmannia_syzigachne,35.58599,139.44783
 1830685768,Beckmannia_syzigachne,33.566667,133.75
 1830202275,Beckmannia_syzigachne,35.366667,136.7
-238087939,Beckmannia_syzigachne,37.8,140.983333
 2242357996,Beckmannia_syzigachne,37.1637,-106.4356
 1949640174,Beckmannia_syzigachne,59.571667,-133.705
 1988152291,Beckmannia_syzigachne,64.373,-138.2
@@ -333,7 +327,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1949608380,Beckmannia_syzigachne,57.241667,-122.683333
 1258293660,Beckmannia_syzigachne,49.1525,85.98527
 1928162621,Beckmannia_syzigachne,41.68,-92.85
-1986947910,Beckmannia_syzigachne,44.047222,145.741111
 729284675,Beckmannia_syzigachne,34.883301,135.2
 729295213,Beckmannia_syzigachne,34.8167,135.317
 1988191253,Beckmannia_syzigachne,51.7,-122.4
@@ -378,12 +371,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1830649161,Beckmannia_syzigachne,33.5625,133.59375
 1146349948,Beckmannia_syzigachne,66.31,-148.06
 1949603836,Beckmannia_syzigachne,50.366667,-121.316667
-1262024494,Beckmannia_syzigachne,51.55,-79.25
 2265483997,Beckmannia_syzigachne,48.127224,-93.897499
 1705263649,Beckmannia_syzigachne,58.529991,12.304864
 1828724990,Beckmannia_syzigachne,39.94423,140.11194
 1949626655,Beckmannia_syzigachne,54.75,-127.066667
-729287551,Beckmannia_syzigachne,34.349998,134.883
 1702031637,Beckmannia_syzigachne,58.97009,5.71814
 1144210262,Beckmannia_syzigachne,61.6132,6.6525
 1988669988,Beckmannia_syzigachne,44.50546,-80.21376
@@ -405,7 +396,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1988094919,Beckmannia_syzigachne,49.1,-122.8
 1949654821,Beckmannia_syzigachne,50.753333,-121.61
 1697950439,Beckmannia_syzigachne,58.633333,-94.183333
-1830213250,Beckmannia_syzigachne,43.02871,144.3905
 1830649503,Beckmannia_syzigachne,33.554167,133.94375
 1830649207,Beckmannia_syzigachne,33.5375,133.90625
 1934097841,Beckmannia_syzigachne,36.3603,139.4829
@@ -444,14 +434,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1928865074,Beckmannia_syzigachne,41.0766,-115.2452
 1894971681,Beckmannia_syzigachne,23.35,-106.091667
 736055365,Beckmannia_syzigachne,36.04792,139.24867
-388796024,Beckmannia_syzigachne,35.628611,139.798889
 245530311,Beckmannia_syzigachne,35.282444,139.140581
 736055369,Beckmannia_syzigachne,36.02198,139.33031
 1257665438,Beckmannia_syzigachne,66.4275,-146.303611
 1697319783,Beckmannia_syzigachne,47.616667,118.583333
 1257663172,Beckmannia_syzigachne,66.2325,-146.4925
-1697176091,Beckmannia_syzigachne,44.039417,145.800286
-1697176079,Beckmannia_syzigachne,44.029517,145.811272
 1697176033,Beckmannia_syzigachne,53.323864,157.5366
 1949652964,Beckmannia_syzigachne,50.366667,-121.3
 1146325928,Beckmannia_syzigachne,62.43,-157.86
@@ -487,7 +474,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 245530310,Beckmannia_syzigachne,35.340768,139.140578
 393092447,Beckmannia_syzigachne,36.15511,139.37595
 1426242686,Beckmannia_syzigachne,39.5064,-123.4438
-1999542656,Beckmannia_syzigachne,60.457924,22.041635
 1697176055,Beckmannia_syzigachne,55.606753,159.613791
 1928610759,Beckmannia_syzigachne,41.4018149914325,-117.508210012263
 51769469,Beckmannia_syzigachne,42.2183,-120.1552
@@ -495,7 +481,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 176890137,Beckmannia_syzigachne,44.920411,-104.547916
 2305772178,Beckmannia_syzigachne,58.63,-93.82
 1697176041,Beckmannia_syzigachne,45.550017,136.178563
-1146370668,Beckmannia_syzigachne,64.5,-165.41
 318048715,Beckmannia_syzigachne,48.7536918725572,-97.8727389437284
 1834907756,Beckmannia_syzigachne,35.320833,139.24375
 1834907836,Beckmannia_syzigachne,35.3125,139.25625
@@ -507,7 +492,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 245530290,Beckmannia_syzigachne,35.374107,139.515548
 1701343788,Beckmannia_syzigachne,64.7728,12.349
 1697176122,Beckmannia_syzigachne,49.56416,112.011238
-1697176043,Beckmannia_syzigachne,45.225174,147.883761
 1697176135,Beckmannia_syzigachne,50,88.666667
 1697950840,Beckmannia_syzigachne,51.1,-91.716667
 1697176120,Beckmannia_syzigachne,49.75,88.5
@@ -541,8 +525,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 245530336,Beckmannia_syzigachne,35.474094,139.490549
 1697176073,Beckmannia_syzigachne,53.981878,123.939167
 1701797274,Beckmannia_syzigachne,61.1436,10.3976
-186793406,Beckmannia_syzigachne,58.4458,8.8373
-1702013805,Beckmannia_syzigachne,58.4413,8.8458
 919543093,Beckmannia_syzigachne,27.82308,99.706013
 245530278,Beckmannia_syzigachne,35.574082,139.640533
 1834907499,Beckmannia_syzigachne,35.3625,139.23125
@@ -659,7 +641,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318048742,Beckmannia_syzigachne,47.18149,-102.354254
 1144152137,Beckmannia_syzigachne,60.4802,5.7337
 1701303863,Beckmannia_syzigachne,63.4308,10.3726
-1999542608,Beckmannia_syzigachne,60.451734,21.997187
 1030874776,Beckmannia_syzigachne,32.790891,102.544402
 1030874751,Beckmannia_syzigachne,33.57587,102.961829
 318048745,Beckmannia_syzigachne,47.68341,-104.83528
@@ -791,9 +772,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318048789,Beckmannia_syzigachne,48.3465806681281,-100.273861143425
 318048744,Beckmannia_syzigachne,48.983227,-100.195648
 1426343839,Beckmannia_syzigachne,41.754501,-120.301598
-1702013721,Beckmannia_syzigachne,59.9262,10.7622
 318048799,Beckmannia_syzigachne,46.0028320768774,-98.5264242672957
-1828810204,Beckmannia_syzigachne,37.235687,136.935046
 883372993,Beckmannia_syzigachne,56.4446,-111.0607
 1697176127,Beckmannia_syzigachne,53.246728,90.787411
 883373013,Beckmannia_syzigachne,54.6577,-111.4193
@@ -870,7 +849,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 727732870,Beckmannia_syzigachne,39.80194,-105.51361
 1828810209,Beckmannia_syzigachne,36.586967,136.673774
 51769374,Beckmannia_syzigachne,45.3609,-122.721
-1830156777,Beckmannia_syzigachne,36.85,137.416667
 1426242697,Beckmannia_syzigachne,38.214617,-122.749315
 883372972,Beckmannia_syzigachne,51.0546,-115.2337
 1697176078,Beckmannia_syzigachne,53.582825,113.80703
@@ -996,7 +974,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804519196,Beckmannia_syzigachne,61.2922219992059,-118.607222
 1988097802,Beckmannia_syzigachne,53.9,-122.8
 1248734642,Beckmannia_syzigachne,53.833333,-78.993889
-1697176064,Beckmannia_syzigachne,43.01908,134.10775
 883383644,Beckmannia_syzigachne,49.4295,-114.4437
 1804577701,Beckmannia_syzigachne,54.4,-126.666667
 1988196229,Beckmannia_syzigachne,54.4,-126.67
@@ -1070,7 +1047,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697176101,Beckmannia_syzigachne,51.1,114.533333
 63854722,Beckmannia_syzigachne,42.7047,-121.9947
 1988085483,Beckmannia_syzigachne,50.58,-120.25
-57680536,Beckmannia_syzigachne,60.170399,24.9251
 1697176021,Beckmannia_syzigachne,43.193015,132.035065
 1701287387,Beckmannia_syzigachne,59.1911,9.6214
 1303753926,Beckmannia_syzigachne,42.942326,89.185928
@@ -1095,9 +1071,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 63854713,Beckmannia_syzigachne,42.3634,-121.8841
 1804372274,Beckmannia_syzigachne,62.75,-109.1
 1600316025,Beckmannia_syzigachne,63.132517,21.540172
-1702013703,Beckmannia_syzigachne,59.9484,10.7812
-1144152108,Beckmannia_syzigachne,59.97258,10.72237
-1701797318,Beckmannia_syzigachne,59.9486,10.7633
 1144211645,Beckmannia_syzigachne,60.56901,5.51371
 1701797250,Beckmannia_syzigachne,63.27552,10.06049
 1697176162,Beckmannia_syzigachne,48.383762,135.077607
@@ -1110,7 +1083,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 883373184,Beckmannia_syzigachne,51.7762979990834,-112.219848
 51769997,Beckmannia_syzigachne,44.9108,-120.7217
 441702171,Beckmannia_syzigachne,47.78111,-120.84194
-1829596277,Beckmannia_syzigachne,35.252222,140.4025
 51769506,Beckmannia_syzigachne,44.5647,-123.2608
 1948246701,Beckmannia_syzigachne,60.987206,25.611348
 1988208873,Beckmannia_syzigachne,52.02,-123.2
@@ -1120,14 +1092,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 786096618,Beckmannia_syzigachne,44.6,-123.3
 51770171,Beckmannia_syzigachne,45.0258,-122.9407
 1697176196,Beckmannia_syzigachne,56.85902,74.39469
-1701797290,Beckmannia_syzigachne,59.9305,10.7713
 1305209071,Beckmannia_syzigachne,45.14,-89.152
 727732871,Beckmannia_syzigachne,39.99361,-105.8425
 51770155,Beckmannia_syzigachne,44.7197,-123.0092
-1830668538,Beckmannia_syzigachne,35.60243,139.72935
 51769857,Beckmannia_syzigachne,42.6939,-120.545
 51769806,Beckmannia_syzigachne,43.6164,-119.0531
-2005763256,Beckmannia_syzigachne,33.345815,126.536759
 1055794383,Beckmannia_syzigachne,51.548322,-0.271231
 51770116,Beckmannia_syzigachne,42.0776,-120.4039
 51770371,Beckmannia_syzigachne,44.2464,-117.5161
@@ -1135,7 +1104,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 51770145,Beckmannia_syzigachne,42.4339,-123.2426
 1259803684,Beckmannia_syzigachne,64.837778,-147.716389
 63854720,Beckmannia_syzigachne,43.9331,-120.5538
-2005763231,Beckmannia_syzigachne,33.290799,126.575336
 1697176063,Beckmannia_syzigachne,53.179292,158.386459
 1697176061,Beckmannia_syzigachne,56.315013,160.84259
 51769435,Beckmannia_syzigachne,44.1429,-121.3374
