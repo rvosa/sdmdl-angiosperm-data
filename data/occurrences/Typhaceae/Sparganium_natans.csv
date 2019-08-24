@@ -109,7 +109,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697362219,Sparganium_natans,56.216667,42.111111
 1697362188,Sparganium_natans,53.854608,36.354318
 1702103609,Sparganium_natans,61.1282,12.3538
-1701570095,Sparganium_natans,62.9,7.4189
 1703298903,Sparganium_natans,58.17575,-93.836667
 1702171798,Sparganium_natans,59.55753,5.7797
 1323762711,Sparganium_natans,67.4381,15.7235
@@ -157,7 +156,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702217483,Sparganium_natans,61.6902,12.0411
 1849003508,Sparganium_natans,40.63167,44.2775
 1343008426,Sparganium_natans,55.767825,8.656038
-788490198,Sparganium_natans,41.033333,21.9
 1849004355,Sparganium_natans,40.10306,-1.70917
 1563903750,Sparganium_natans,58.4761,7.4713
 1343008486,Sparganium_natans,56.10906,9.40872
@@ -302,7 +300,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701801140,Sparganium_natans,59.7608,10.7347
 1343008398,Sparganium_natans,55.345825,8.801624
 788728526,Sparganium_natans,56.46337,14.15294
-2268214601,Sparganium_natans,55.833333,37.8
 1702250765,Sparganium_natans,60.1996,11.2414
 1343008451,Sparganium_natans,56.576808,9.169592
 1804499136,Sparganium_natans,48.504166999064,-53.997222
@@ -322,7 +319,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1947644944,Sparganium_natans,50.13,10.22
 1288125740,Sparganium_natans,50.4496,9.97863
 1262022731,Sparganium_natans,54.066667,-79.033333
-1262022698,Sparganium_natans,54,-78.95
 1701855833,Sparganium_natans,60.7814,10.4782
 788654141,Sparganium_natans,56.09945,13.67516
 1038236502,Sparganium_natans,53.148613,12.951388
@@ -384,14 +380,12 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 318684264,Sparganium_natans,59.453968,10.634646
 2334904613,Sparganium_natans,59.454043,10.63431
 1999547201,Sparganium_natans,60.880864,22.049796
-1262024319,Sparganium_natans,49.9,-78.233333
 1999547239,Sparganium_natans,60.721677,21.652083
 1701844655,Sparganium_natans,60.2193,11.4457
 1701844427,Sparganium_natans,60.292,11.3969
 1701614405,Sparganium_natans,59.9478,10.3336
 1262024270,Sparganium_natans,51.316667,-76.733333
 1948439723,Sparganium_natans,65.745396,25.211163
-473351620,Sparganium_natans,51.8,-78.9
 1948439721,Sparganium_natans,60.981296,24.392921
 1697362377,Sparganium_natans,58.981364,46.867108
 1262025468,Sparganium_natans,51.866667,-78.833333
@@ -422,7 +416,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1262024338,Sparganium_natans,50.833333,-77.433333
 1851569623,Sparganium_natans,39.85,-1.25
 1702023637,Sparganium_natans,59.9749,10.9358
-1262024309,Sparganium_natans,49.816667,-74.6
 1697362366,Sparganium_natans,52.384251,39.689979
 1697362218,Sparganium_natans,56.200879,21.15778
 1702437720,Sparganium_natans,60.5368,11.8936
@@ -620,9 +613,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948439718,Sparganium_natans,62.497397,22.522002
 1948439863,Sparganium_natans,62.17777,22.107855
 465056016,Sparganium_natans,50.74535,-68.03445
-1248750615,Sparganium_natans,50.5,-73.633333
 1248750649,Sparganium_natans,50.416667,-73.666667
-1701244042,Sparganium_natans,62.8,8.7549
 1323793660,Sparganium_natans,68.4902,16.7231
 1323697569,Sparganium_natans,67.2062,14.387
 1697362194,Sparganium_natans,57.093645,25.772724
@@ -632,8 +623,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1804509536,Sparganium_natans,51.283333,-83.433333
 788658229,Sparganium_natans,65.661389,25.058056
 1701278063,Sparganium_natans,63.824,9.5079
-1804592474,Sparganium_natans,50,-85.033333
-1988198900,Sparganium_natans,66.2,25.4
 1701404774,Sparganium_natans,59.2378,10.8545
 1701596768,Sparganium_natans,59.2423,10.8495
 1323697553,Sparganium_natans,69.1795,22.1344
@@ -654,7 +643,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1698012069,Sparganium_natans,62.8966,9.8164
 1804492079,Sparganium_natans,55.966667,-88.05
 1851395493,Sparganium_natans,43.01,-5.52
-1701345027,Sparganium_natans,63.1,10.2381
 1701320229,Sparganium_natans,60.0064,5.8344
 1701768534,Sparganium_natans,63.2611,10.2849
 1948439724,Sparganium_natans,62.643986,22.070073
@@ -672,7 +660,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1701264347,Sparganium_natans,63.459,10.9949
 1701790550,Sparganium_natans,60.0513,11.0202
 1948439851,Sparganium_natans,61.286756,23.909437
-1804597913,Sparganium_natans,55.866667,-86.8
 1144129615,Sparganium_natans,61.16472,5.20639
 1697362247,Sparganium_natans,55.858203,41.059241
 1948440024,Sparganium_natans,63.596372,27.097444
@@ -689,7 +676,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1144129572,Sparganium_natans,62.4505,6.2768
 1881896313,Sparganium_natans,59.210278,23.599722
 39756353,Sparganium_natans,65.224,-19.596
-1899331987,Sparganium_natans,51.3,-80.183333
 1804600995,Sparganium_natans,67.333333,-126.416667
 39562079,Sparganium_natans,65.638,-19.518
 1697362289,Sparganium_natans,55.359805,41.393024
@@ -762,7 +748,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948439669,Sparganium_natans,62.231797,21.511309
 1948440032,Sparganium_natans,62.194582,23.057631
 1144129682,Sparganium_natans,60.2378,5.3964
-473240409,Sparganium_natans,49.4,-57.683333
 1948439853,Sparganium_natans,62.03511,23.843402
 1948439693,Sparganium_natans,62.516481,24.831729
 473498881,Sparganium_natans,45.99,-73.9979
@@ -923,7 +908,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1697362210,Sparganium_natans,54.8114,40.6589
 1948439997,Sparganium_natans,61.057343,24.31177
 21497661,Sparganium_natans,59.84212,10.21987
-1261968323,Sparganium_natans,48.45,-70.9
 1999547232,Sparganium_natans,68.972379,25.735025
 1948439983,Sparganium_natans,60.724351,27.455098
 788685862,Sparganium_natans,56.020296,13.510799
@@ -1020,7 +1004,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788685923,Sparganium_natans,55.603325,13.395946
 1697362333,Sparganium_natans,55.710758,36.767685
 1948439831,Sparganium_natans,60.724847,27.271868
-1804514627,Sparganium_natans,62.45,-114.4
 1228600942,Sparganium_natans,62.438944,-114.537315
 57725914,Sparganium_natans,61.07,25.051701
 1697362274,Sparganium_natans,56.017059,37.204257
@@ -1098,7 +1081,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 39756331,Sparganium_natans,65.905,-16.542
 1948439995,Sparganium_natans,60.708523,24.890643
 1702360271,Sparganium_natans,59.7499,9.85407
-1899279169,Sparganium_natans,51.066667,-80.9
 788655529,Sparganium_natans,62.83527,17.96219
 1697362360,Sparganium_natans,56.212346,37.054158
 1999547204,Sparganium_natans,60.477006,22.721864
@@ -1294,7 +1276,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948439991,Sparganium_natans,63.59608,26.694516
 187261651,Sparganium_natans,62.3087,10.5238
 1323697540,Sparganium_natans,69.251,19.1155
-2313460822,Sparganium_natans,48.24,11.4
 1052728,Sparganium_natans,56.877485,14.811873
 1701996417,Sparganium_natans,59.4963,10.669
 1999625651,Sparganium_natans,61.007877,22.465333
@@ -1495,7 +1476,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415406119,Sparganium_natans,62.244999,25.746099
 1948439526,Sparganium_natans,60.544121,27.634781
 788647473,Sparganium_natans,56.0318,14.19226
-1701585475,Sparganium_natans,65.4,12.5787
 1144129639,Sparganium_natans,60.68074,12.10997
 1948439800,Sparganium_natans,61.694975,24.823597
 21494375,Sparganium_natans,59.9693,8.8925
