@@ -2,12 +2,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1265270770,Rubia_agostinhoi,36.83,-4.822
 1099344239,Rubia_agostinhoi,36.565,-5.017
 1099344238,Rubia_agostinhoi,36.829,-4.833
-1697714151,Rubia_agostinhoi,38.475,-28.423611
 1099345371,Rubia_agostinhoi,36.618356,-4.777709
 781077611,Rubia_agostinhoi,36.371,-5.28
 781077617,Rubia_agostinhoi,36.61271,-5.00689
-895225840,Rubia_agostinhoi,38.49584,-28.41821
-895225873,Rubia_agostinhoi,38.58267,-28.70509
 415623181,Rubia_agostinhoi,36.479,-5.272
 415623142,Rubia_agostinhoi,36.615,-4.739
 415623141,Rubia_agostinhoi,36.776,-4.799
@@ -16,9 +13,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 415623144,Rubia_agostinhoi,36.614,-4.772
 415623119,Rubia_agostinhoi,36.578,-4.738
 415623120,Rubia_agostinhoi,36.587,-4.761
-1697714096,Rubia_agostinhoi,28.108333,-17.247222
-1936200965,Rubia_agostinhoi,32.7272,-16.8833
-199500649,Rubia_agostinhoi,36.188,-5.83
 199500584,Rubia_agostinhoi,36.602,-4.962
 199500589,Rubia_agostinhoi,36.59,-5.118
 199500613,Rubia_agostinhoi,36.567,-4.894
@@ -35,5 +29,3 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 199499894,Rubia_agostinhoi,36.53,-5.18
 199499797,Rubia_agostinhoi,36.58212,-4.88425
 199500212,Rubia_agostinhoi,36.44,-5.18
-1936173488,Rubia_agostinhoi,40.328936,-1.763975
-2289715983,Rubia_agostinhoi,28.383333,-16.583333
