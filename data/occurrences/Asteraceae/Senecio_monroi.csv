@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1988239227,Senecio_monroi,49.3,-123.2
 1843422908,Senecio_monroi,-41.8875,173.983611
 1091256995,Senecio_monroi,-42.15,173.836666
 1091316466,Senecio_monroi,-43.016666,172.643333
@@ -12,5 +11,4 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1091163175,Senecio_monroi,-42.95,173.233333
 1897641742,Senecio_monroi,-42.416667,173.25
 993236679,Senecio_monroi,-42.6167,173.1667
-1897620772,Senecio_monroi,-43.583333,173.083333
 1897618740,Senecio_monroi,-42.116667,173.683333
