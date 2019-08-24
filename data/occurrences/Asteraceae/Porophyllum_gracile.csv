@@ -97,7 +97,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846500285,Porophyllum_gracile,33.978694,-111.72975
 1846487494,Porophyllum_gracile,32.333367,-110.680983
 1895928040,Porophyllum_gracile,31.214167,-111.1225
-2270683760,Porophyllum_gracile,32.01,-112.7
 1846486061,Porophyllum_gracile,33.324017,-111.151317
 2270672778,Porophyllum_gracile,33.8049,-111.755
 2270673529,Porophyllum_gracile,33.8189,-111.638
@@ -112,7 +111,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426427569,Porophyllum_gracile,34.828333,-116.334444
 1889160752,Porophyllum_gracile,33.526117,-111.31955
 1846492616,Porophyllum_gracile,33.98283,-111.725
-2270631822,Porophyllum_gracile,33.75,-111.9
 1846482687,Porophyllum_gracile,32.824778,-110.803889
 1846555731,Porophyllum_gracile,32.978167,-109.35355
 2270633265,Porophyllum_gracile,33.5261,-111.32
@@ -178,7 +176,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893690881,Porophyllum_gracile,24.142222,-110.310833
 1846480583,Porophyllum_gracile,36.097222,-111.833194
 1843819287,Porophyllum_gracile,31.784176,-108.474273
-1563371964,Porophyllum_gracile,31.9,-106.452778
 1928470509,Porophyllum_gracile,32.72,-105.88
 1895651137,Porophyllum_gracile,26.831667,-111.873889
 1894813677,Porophyllum_gracile,26.831184,-111.900596
@@ -217,7 +214,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1843810712,Porophyllum_gracile,31.857585,-107.714132
 1846502005,Porophyllum_gracile,31.881111,-107.718889
 1929765957,Porophyllum_gracile,29.2083,-114.0139
-2270662980,Porophyllum_gracile,35,-114.39
 1895395464,Porophyllum_gracile,27.458333,-114.427778
 2270664473,Porophyllum_gracile,33.7629,-110.834
 1895395599,Porophyllum_gracile,29.208333,-114.013889
@@ -270,12 +266,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270207816,Porophyllum_gracile,34.112775,-116.107974
 2270491568,Porophyllum_gracile,36.53988,-116.12373
 1846502107,Porophyllum_gracile,30.666667,-112.55
-1259881524,Porophyllum_gracile,26.716667,-109.6
 1895395484,Porophyllum_gracile,26.699081,-109.597944
-1895255276,Porophyllum_gracile,25.5,-111.5
 1895255336,Porophyllum_gracile,29.808333,-114.758333
 1895255200,Porophyllum_gracile,32.409444,-116.673333
-1265830071,Porophyllum_gracile,29.8,-114.75
 1895255293,Porophyllum_gracile,27.666667,-114.766667
 1895255384,Porophyllum_gracile,22.926389,-109.818056
 1894813098,Porophyllum_gracile,23.508333,-109.925
@@ -336,9 +329,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1611935685,Porophyllum_gracile,31.854167,-106.540278
 2270664746,Porophyllum_gracile,31.357,-109.263
 1928278470,Porophyllum_gracile,26.85064,-111.89936
-2270664499,Porophyllum_gracile,34.2235,-113.6
 1895395471,Porophyllum_gracile,24.3743437778662,-111.060627917519
-2270665659,Porophyllum_gracile,33.7,-111.917
 2270258769,Porophyllum_gracile,33.6246,-115.325
 1893419648,Porophyllum_gracile,31.375,-116.275
 2270520965,Porophyllum_gracile,31.36667,-116.2792
@@ -360,7 +351,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270664573,Porophyllum_gracile,32.2451,-110.678
 2270257502,Porophyllum_gracile,34.945731,-115.408531
 2270665477,Porophyllum_gracile,36.09,-114.08
-1563370396,Porophyllum_gracile,31.9,-106.45
 1563370742,Porophyllum_gracile,31.903611,-106.456111
 1846502021,Porophyllum_gracile,32.305894,-110.875258
 1846480547,Porophyllum_gracile,31.96,-112.86
@@ -372,7 +362,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1893527396,Porophyllum_gracile,23.491667,-110.058333
 1259879703,Porophyllum_gracile,29.975,-115.688333
 1259877516,Porophyllum_gracile,23.383333,-110.016667
-1259879163,Porophyllum_gracile,23.4,-110.183333
 1895255290,Porophyllum_gracile,29.732778,-114.718056
 1895255197,Porophyllum_gracile,28.803333,-113.773333
 1893631245,Porophyllum_gracile,28.945,-113.556667
@@ -389,7 +378,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846502029,Porophyllum_gracile,32.083,-113.256
 2270665084,Porophyllum_gracile,33.41,-114.03
 2270664588,Porophyllum_gracile,36.14,-111.82
-2270665429,Porophyllum_gracile,36.25,-112.7
 1456256192,Porophyllum_gracile,23.33,-109.82
 1895395498,Porophyllum_gracile,23.333333,-109.816667
 1895255274,Porophyllum_gracile,23.341667,-109.825
@@ -400,7 +388,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846501990,Porophyllum_gracile,34.083722,-111.729472
 1846502010,Porophyllum_gracile,35.84487,-113.32566
 1893419744,Porophyllum_gracile,23.041667,-110.075
-1895395562,Porophyllum_gracile,31.5,-116.566667
 2270664283,Porophyllum_gracile,31.399,-111.09
 1895255262,Porophyllum_gracile,22.871389,-109.915
 2270583573,Porophyllum_gracile,33.5536,-111.442
@@ -426,10 +413,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895255317,Porophyllum_gracile,26.952778,-112.054167
 2270662410,Porophyllum_gracile,35.73,-114.39
 1928838964,Porophyllum_gracile,35.622104,-114.373347
-1895395499,Porophyllum_gracile,31.4,-107.733333
 2270466302,Porophyllum_gracile,36.09,-113.92
 1895395519,Porophyllum_gracile,31.61139,-115.89333
-1456079488,Porophyllum_gracile,24.8,-110.72
 1456042110,Porophyllum_gracile,24.8417,-110.73
 1846502028,Porophyllum_gracile,33.712839,-111.856525
 1895255267,Porophyllum_gracile,24.808889,-110.766944
@@ -445,7 +430,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270663736,Porophyllum_gracile,33.82,-111.95
 2270585036,Porophyllum_gracile,33.5319,-112.573
 1895395516,Porophyllum_gracile,31.733333,-116.716667
-2270663889,Porophyllum_gracile,33.48,-113.8
 1893419639,Porophyllum_gracile,31.741667,-116.725
 1846502000,Porophyllum_gracile,35.736647,-115.168878
 1846503164,Porophyllum_gracile,35.80228,-113.56079
@@ -458,9 +442,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 2270664739,Porophyllum_gracile,33.867,-112.277
 2270584877,Porophyllum_gracile,33.8776,-112.277
 1837124275,Porophyllum_gracile,33.536978,-111.432027
-2270664933,Porophyllum_gracile,33.54,-111.3
 2270664471,Porophyllum_gracile,33.51,-111.25
-1265813558,Porophyllum_gracile,33.2,-117.033333
 1837124295,Porophyllum_gracile,34.58902,-113.563955
 2270663314,Porophyllum_gracile,33.59,-112.31
 2270666163,Porophyllum_gracile,32.31,-110.71
@@ -474,19 +456,15 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895255235,Porophyllum_gracile,25.785556,-109.37
 1837124266,Porophyllum_gracile,35.908049,-114.628233
 1837124268,Porophyllum_gracile,33.334959,-112.063096
-1426446813,Porophyllum_gracile,29.7,-114.866667
 1837124249,Porophyllum_gracile,32.619932,-112.653659
 924820328,Porophyllum_gracile,32.27414,-109.22762
-1930728580,Porophyllum_gracile,24.3,-100.92
 1837124258,Porophyllum_gracile,36.646111,-114.509383
 1837124281,Porophyllum_gracile,33.536598,-111.303759
 1837124278,Porophyllum_gracile,32.063132,-112.872266
 2270663759,Porophyllum_gracile,33.65,-111.11
 1837124241,Porophyllum_gracile,33.648429,-111.113563
 1895255221,Porophyllum_gracile,26.883056,-112.032222
-1895395481,Porophyllum_gracile,25.966667,-111.5
 1895255259,Porophyllum_gracile,25.975,-111.508333
-1456103645,Porophyllum_gracile,25.97,-111.5
 2270259496,Porophyllum_gracile,34.920494,-115.023187
 1928735437,Porophyllum_gracile,26.07,-111.475
 1895255264,Porophyllum_gracile,26.069444,-111.475
@@ -505,16 +483,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1895395506,Porophyllum_gracile,28.021214,-113.397564
 1895255269,Porophyllum_gracile,27.936944,-113.505556
 1895255232,Porophyllum_gracile,26.908333,-113.058333
-1456353659,Porophyllum_gracile,26.9,-113.05
-1456420186,Porophyllum_gracile,25.08,-110.9
 1895255254,Porophyllum_gracile,25.091667,-110.908333
-2284494356,Porophyllum_gracile,25.0833,-110.9
 1846501965,Porophyllum_gracile,35.471194,-115.446333
 1842928956,Porophyllum_gracile,32.73027,-107.568537
 1893528668,Porophyllum_gracile,23.491667,-109.825
-1455971982,Porophyllum_gracile,23.5,-109.85
 1895395491,Porophyllum_gracile,23.483333,-109.783333
-1455991889,Porophyllum_gracile,23.08,-110.1
 1895255265,Porophyllum_gracile,23.191667,-109.925
 1895255188,Porophyllum_gracile,23.091667,-110.108333
 2270665027,Porophyllum_gracile,33.53,-111.46
@@ -523,10 +496,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1846502052,Porophyllum_gracile,33.436167,-111.934056
 1846501984,Porophyllum_gracile,32.199,-110.817
 1259877904,Porophyllum_gracile,30.966667,-116.133333
-1456224641,Porophyllum_gracile,24.2,-110.125
 1456168939,Porophyllum_gracile,23.47,-109.77
 2270583080,Porophyllum_gracile,33.4581,-111.949
-1846502067,Porophyllum_gracile,27.583333,-114.5
 2270663935,Porophyllum_gracile,32.21,-111.01
 2270664727,Porophyllum_gracile,32.17,-112.95
 1846502058,Porophyllum_gracile,32.322297,-110.809811
@@ -534,7 +505,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1259878378,Porophyllum_gracile,24.566667,-111.483333
 1259879806,Porophyllum_gracile,29.916667,-114.983333
 1895255339,Porophyllum_gracile,30.770556,-112.229444
-1259878889,Porophyllum_gracile,27.4,-108.85
 1895255258,Porophyllum_gracile,27.515556,-108.838056
 1895395460,Porophyllum_gracile,27.4005223032983,-108.845369312727
 2270663439,Porophyllum_gracile,32.23,-110.61
@@ -549,7 +519,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1426427397,Porophyllum_gracile,33.6261,-115.3247
 1895395547,Porophyllum_gracile,24.1425840546877,-110.311215567499
 1846501954,Porophyllum_gracile,33.97825,-111.71388
-1930718787,Porophyllum_gracile,26.95,-109
-2270667697,Porophyllum_gracile,32.23,-111.1
 1846502075,Porophyllum_gracile,32.24452,-111.112733
 2270593188,Porophyllum_gracile,33.3593,-112.043
