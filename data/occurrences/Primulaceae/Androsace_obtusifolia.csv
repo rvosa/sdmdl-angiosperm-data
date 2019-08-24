@@ -15,7 +15,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935651359,Androsace_obtusifolia,47.2749,14.35417
 1935649828,Androsace_obtusifolia,44.67556,7.04917
 1935649129,Androsace_obtusifolia,46.91056,13.85083
-1142079890,Androsace_obtusifolia,47.7,15.6
 1142080044,Androsace_obtusifolia,47.06667,13.43333
 1142079964,Androsace_obtusifolia,46.96667,10.85
 296407278,Androsace_obtusifolia,47.019436,12.672578
@@ -23,9 +22,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935650312,Androsace_obtusifolia,47.27386,14.35244
 1584382417,Androsace_obtusifolia,45.41667,7.01667
 1830966628,Androsace_obtusifolia,46.625,12.70833
-1830966602,Androsace_obtusifolia,46.56667,8.4
 1935649038,Androsace_obtusifolia,47.26333,11.96389
-1935649028,Androsace_obtusifolia,47.13028,11.9
 1935651360,Androsace_obtusifolia,47.12915,11.89172
 1935649033,Androsace_obtusifolia,47.17528,11.94722
 1935651372,Androsace_obtusifolia,47.17077,11.95845
@@ -34,7 +31,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935650768,Androsace_obtusifolia,47.27083,14.34167
 296407185,Androsace_obtusifolia,46.896,12.583
 1434673998,Androsace_obtusifolia,45.0625,6.410833
-1935650415,Androsace_obtusifolia,44.42083,6.9
 296407174,Androsace_obtusifolia,46.894,12.578
 1230506190,Androsace_obtusifolia,49.22583,19.90722
 1935650738,Androsace_obtusifolia,47.07778,14.58111
