@@ -8,13 +8,10 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702377983,Pulsatilla_vulgaris,56.5874,16.4141
 2310017879,Pulsatilla_vulgaris,51.96,-0.36
 1702318120,Pulsatilla_vulgaris,56.7748,16.6265
-991909931,Pulsatilla_vulgaris,51.2,11.8
-786251924,Pulsatilla_vulgaris,52,14.6
 1342846270,Pulsatilla_vulgaris,55.578047,10.608733
 1702196446,Pulsatilla_vulgaris,58.7373,5.6505
 1342846193,Pulsatilla_vulgaris,55.569801,9.45068
 1342846211,Pulsatilla_vulgaris,56.621442,9.316459
-786251895,Pulsatilla_vulgaris,51.5,7.2
 1342846306,Pulsatilla_vulgaris,56.172571,9.119491
 1701849798,Pulsatilla_vulgaris,58.7373,5.6488
 1342846182,Pulsatilla_vulgaris,55.173602,9.634609
@@ -27,7 +24,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705352634,Pulsatilla_vulgaris,57.05073,16.20068
 2313364530,Pulsatilla_vulgaris,48.29,11.65
 1342846170,Pulsatilla_vulgaris,56.630426,9.316534
-1882101656,Pulsatilla_vulgaris,48.79,10.7
 19131152,Pulsatilla_vulgaris,47.5822,4.98164
 19131150,Pulsatilla_vulgaris,47.4927,4.9626
 1342846196,Pulsatilla_vulgaris,56.93521,9.516305
@@ -64,7 +60,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1948454093,Pulsatilla_vulgaris,60.884864,24.694786
 1705259414,Pulsatilla_vulgaris,57.096007,16.052684
 1705464744,Pulsatilla_vulgaris,59.827144,17.66224
-786251919,Pulsatilla_vulgaris,47.9,20.5
 1705469784,Pulsatilla_vulgaris,57.363327,15.711396
 1702515386,Pulsatilla_vulgaris,56.10431,13.6041
 1990857134,Pulsatilla_vulgaris,55.38345,13.05907
@@ -228,7 +223,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1702511002,Pulsatilla_vulgaris,56.21002,13.36651
 1340041282,Pulsatilla_vulgaris,58.467451,14.974661
 1702512585,Pulsatilla_vulgaris,55.6961,13.63683
-786251942,Pulsatilla_vulgaris,48.4,15.4
 1705257215,Pulsatilla_vulgaris,57.050028,16.381921
 1705466119,Pulsatilla_vulgaris,57.391255,12.020635
 1705444466,Pulsatilla_vulgaris,56.866223,16.647998
@@ -279,7 +273,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705371452,Pulsatilla_vulgaris,57.184036,14.048284
 1702510408,Pulsatilla_vulgaris,59.39055,17.62744
 1099925316,Pulsatilla_vulgaris,58.020311,13.151875
-786251937,Pulsatilla_vulgaris,47.9,8.8
 1705272993,Pulsatilla_vulgaris,59.198477,17.625777
 788508632,Pulsatilla_vulgaris,56.577145,16.459866
 1705380289,Pulsatilla_vulgaris,55.704216,13.193143
@@ -288,10 +281,8 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1705402698,Pulsatilla_vulgaris,58.034429,14.721825
 985809,Pulsatilla_vulgaris,57.781999,14.159529
 1702511115,Pulsatilla_vulgaris,55.68059,13.33628
-786251909,Pulsatilla_vulgaris,49.2,8.7
 1705314749,Pulsatilla_vulgaris,57.650187,14.967797
 1702515678,Pulsatilla_vulgaris,57.63885,11.98759
-786251885,Pulsatilla_vulgaris,48.4,7.5
 1702511400,Pulsatilla_vulgaris,55.726736,13.462168
 788677696,Pulsatilla_vulgaris,56.07295,14.47676
 1705339959,Pulsatilla_vulgaris,57.6678,14.91712
@@ -301,7 +292,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 985639,Pulsatilla_vulgaris,56.21231,15.26494
 1702510340,Pulsatilla_vulgaris,57.89708,13.19547
 1702510958,Pulsatilla_vulgaris,55.59508,12.94016
-1705471358,Pulsatilla_vulgaris,44.9167,-0.5
 1705324799,Pulsatilla_vulgaris,56.475209,12.97008
 1705369812,Pulsatilla_vulgaris,58.036227,14.958779
 1999554339,Pulsatilla_vulgaris,60.327544,23.121954
