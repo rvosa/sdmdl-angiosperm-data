@@ -62,7 +62,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600136227,Anthoxanthum_australe,61.032889,24.712606
 1600136225,Anthoxanthum_australe,61.023183,24.519016
 1600136232,Anthoxanthum_australe,61.021766,24.564462
-2288941366,Anthoxanthum_australe,61,24.6
 1600136215,Anthoxanthum_australe,61.011185,24.651281
 1600136230,Anthoxanthum_australe,61.024045,24.517099
 1600139026,Anthoxanthum_australe,60.911433,24.425372
@@ -77,7 +76,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600136240,Anthoxanthum_australe,61.090385,28.743857
 1600136217,Anthoxanthum_australe,60.73843,24.662076
 1600136267,Anthoxanthum_australe,60.473137,24.514762
-2289336267,Anthoxanthum_australe,61.066667,24.1
 1999534252,Anthoxanthum_australe,60.561397,23.051496
 1600136216,Anthoxanthum_australe,61.083092,24.100861
 1600136211,Anthoxanthum_australe,60.983833,24.431525
@@ -115,8 +113,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600136196,Anthoxanthum_australe,61.092498,24.058266
 1600136200,Anthoxanthum_australe,61.022944,24.506082
 1600136198,Anthoxanthum_australe,61.016912,24.471404
-1052167288,Anthoxanthum_australe,61,24.46667
-2291672627,Anthoxanthum_australe,61.016667,24.5
 1600136183,Anthoxanthum_australe,61.020288,24.508141
 1600136208,Anthoxanthum_australe,60.969532,24.482558
 1600136192,Anthoxanthum_australe,61.022047,24.506152
@@ -133,7 +129,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600136179,Anthoxanthum_australe,61.568166,22.694494
 1999534273,Anthoxanthum_australe,60.28256,23.135427
 1600139036,Anthoxanthum_australe,61.085661,28.762134
-895165625,Anthoxanthum_australe,61,24.42
 1600136177,Anthoxanthum_australe,61.003274,24.41516
 1600136180,Anthoxanthum_australe,60.973119,24.364953
 1600136169,Anthoxanthum_australe,61.087644,26.487196
@@ -156,7 +151,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600139090,Anthoxanthum_australe,60.253924,24.558627
 1600136159,Anthoxanthum_australe,60.079933,23.771478
 1600136167,Anthoxanthum_australe,60.253281,25.398583
-788462438,Anthoxanthum_australe,60.383333,22.8
 1999534265,Anthoxanthum_australe,60.376121,22.798537
 1600139025,Anthoxanthum_australe,61.236626,24.29647
 1600136155,Anthoxanthum_australe,61.512465,23.962237
@@ -166,7 +160,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600139015,Anthoxanthum_australe,61.326265,24.288746
 1600136166,Anthoxanthum_australe,61.635784,23.855764
 1999578973,Anthoxanthum_australe,60.691918,22.205928
-788462378,Anthoxanthum_australe,60.5,22.25
 1600136162,Anthoxanthum_australe,60.24088,24.759042
 1600139003,Anthoxanthum_australe,60.349767,24.913861
 1600139008,Anthoxanthum_australe,61.398895,23.533179
@@ -399,11 +392,9 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1600136100,Anthoxanthum_australe,61.15974,25.04639
 1600136317,Anthoxanthum_australe,60.071161,24.392468
 1600136311,Anthoxanthum_australe,60.990504,25.980771
-1705482170,Anthoxanthum_australe,60.98,24.4
 1600139100,Anthoxanthum_australe,60.933033,26.84106
 1600136102,Anthoxanthum_australe,60.809532,25.802795
 788462318,Anthoxanthum_australe,60.92,24.646111
-1705492856,Anthoxanthum_australe,60.97,24.5
 1600136312,Anthoxanthum_australe,60.538605,25.630612
 1600136088,Anthoxanthum_australe,61.156934,24.860765
 1999534226,Anthoxanthum_australe,60.415471,24.31942
