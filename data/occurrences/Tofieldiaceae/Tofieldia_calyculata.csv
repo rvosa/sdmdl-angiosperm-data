@@ -1,5 +1,4 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-1882029966,Tofieldia_calyculata,46.45861,14.5
 2244176423,Tofieldia_calyculata,48.000832,8.910833
 1935728287,Tofieldia_calyculata,47.45028,13.61861
 1919928505,Tofieldia_calyculata,47.57333,13.62472
@@ -49,7 +48,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 317826650,Tofieldia_calyculata,42.64078,0.92554
 1657209631,Tofieldia_calyculata,47.05472,14.37694
 1935728038,Tofieldia_calyculata,47.44056,11.30556
-786283313,Tofieldia_calyculata,46.7,9.6
 1935728031,Tofieldia_calyculata,46.50306,14.49806
 1324016831,Tofieldia_calyculata,57.6907,18.7694
 1148469151,Tofieldia_calyculata,59.3725,25.279167
@@ -60,7 +58,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1935728061,Tofieldia_calyculata,47.28889,14.01056
 1935728040,Tofieldia_calyculata,46.56194,11.80639
 1936617784,Tofieldia_calyculata,42.6269,1.5028
-1053982869,Tofieldia_calyculata,43.2,-3.58
 211640225,Tofieldia_calyculata,43.200001,-3.59
 1935728019,Tofieldia_calyculata,47.6725,14.55361
 1657209588,Tofieldia_calyculata,46.72528,13.25722
@@ -108,13 +105,11 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1936357990,Tofieldia_calyculata,42.756583,-0.232131
 1050605709,Tofieldia_calyculata,43.01,-2.02
 1936099087,Tofieldia_calyculata,40.9431,0.3691
-895275806,Tofieldia_calyculata,42.4,2.09
 1638435734,Tofieldia_calyculata,47.475,14.29167
 1842848844,Tofieldia_calyculata,42.633,0.75
 1936094216,Tofieldia_calyculata,42.6196,0.0481
 1050605704,Tofieldia_calyculata,43.01,-2.03
 1936251493,Tofieldia_calyculata,43.0048,-2.0443
-1231179905,Tofieldia_calyculata,47.16667,13.9
 1231179755,Tofieldia_calyculata,47.58333,12.16667
 1050605761,Tofieldia_calyculata,43.17,-2.41
 1935728267,Tofieldia_calyculata,46.55917,13.46111
@@ -143,7 +138,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788641833,Tofieldia_calyculata,57.87567,19.12983
 1705370390,Tofieldia_calyculata,57.736371,18.614938
 788758729,Tofieldia_calyculata,57.84065,18.59851
-1705472392,Tofieldia_calyculata,48.3,14.29
 1845010780,Tofieldia_calyculata,46.716667,7.85
 788762822,Tofieldia_calyculata,57.793219,18.531407
 1935728271,Tofieldia_calyculata,47.18111,15.485
@@ -185,7 +179,6 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 788748717,Tofieldia_calyculata,57.110165,18.262226
 1897844039,Tofieldia_calyculata,47.165444,9.471
 788745061,Tofieldia_calyculata,57.429286,18.22297
-1842893965,Tofieldia_calyculata,42.4,1.72
 1705290810,Tofieldia_calyculata,57.618777,18.271885
 1705303656,Tofieldia_calyculata,57.769741,18.455382
 1705303639,Tofieldia_calyculata,57.327856,18.712251
