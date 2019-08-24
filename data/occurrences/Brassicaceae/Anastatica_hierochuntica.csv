@@ -5,11 +5,7 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 1094180413,Anastatica_hierochuntica,29.96,34.97
 1094180373,Anastatica_hierochuntica,29.82,35.02
 1094185552,Anastatica_hierochuntica,29.56,34.83
-1094180949,Anastatica_hierochuntica,31.8,35.48
-1094187166,Anastatica_hierochuntica,30.6,34.85
 1094180983,Anastatica_hierochuntica,30.25,35.12
-1094180708,Anastatica_hierochuntica,29.77,35
-1094182651,Anastatica_hierochuntica,30,35.08
 1701351474,Anastatica_hierochuntica,30.97908,-6.80222
 2289826997,Anastatica_hierochuntica,26.35,-9.566667
 1842912100,Anastatica_hierochuntica,24.53,9.68
@@ -21,6 +17,5 @@ gbif_id,taxon_name,decimal_latitude,decimal_longitude
 85194600,Anastatica_hierochuntica,30.933333,-6.983333
 1936075489,Anastatica_hierochuntica,30.9333,-6.9833
 1261304430,Anastatica_hierochuntica,23.16666,5.66666
-1054235262,Anastatica_hierochuntica,24.2,55.7
 1438478310,Anastatica_hierochuntica,30.91667,-8.96667
 1099857949,Anastatica_hierochuntica,27.153611,-13.203333
