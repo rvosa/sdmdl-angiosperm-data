@@ -1,12 +1,13 @@
 #!/usr/bin/env Rscript
+library(sp)
 library(raster)
 library(adehabitatMA)
 library(optparse)
 library(yaml)
 library(dplyr)
-library(sp)
 library(ade4)
 library(tibble)
+library(logger)
 
 # Process command line arguments, The usage is thus:
 # ./OMI.R -c ../config.yml
@@ -31,11 +32,13 @@ opt <- optparse::parse_args(
             optparse::make_option(
                 c("-l", "--last"),
                 type="integer",
-                default=100
-            )            
+                default=800
+            )
         )
     ) 
 )
+logger::log_threshold(TRACE)
+logger::log_info('Going to read config file {opt$config}')
 config <- yaml::yaml.load_file(opt$config)
 
 # Read and stack TIFF files
@@ -43,9 +46,11 @@ gis.layers  <- raster::stack()
 layer.files <- config$gis_data$files
 layer.proj  <- config$gis_data$proj
 layer.datum <- config$gis_data$datum
+logger::log_info('Going to stack {length(config$gis_data$files)} layers')
 for ( layer.name in names(layer.files) ) {
     
     # Stack with previously read layers
+    logger::log_debug('Adding layer {layer.name}')
     gis.layers <- raster::stack(
         gis.layers,
         
@@ -58,9 +63,13 @@ for ( layer.name in names(layer.files) ) {
 names(gis.layers) <- names(layer.files)
 
 # Make SpatialPixelsDataFrame with CRS string from GIS layers
-crs.string <- sprintf("+proj=%s +datum=%s", layer.proj, layer.datum)
+logger::log_info('Going to coerce layers to SpatialPixelsDataFrame')
+crs.obj <- CRS(
+    sprintf("+proj=%s +datum=%s", layer.proj, layer.datum), 
+    doCheckCRSArgs = T
+)
 gis.layers.spdf <- as(gis.layers, "SpatialPixelsDataFrame")
-sp::proj4string(gis.layers.spdf) <- CRS(crs.string)
+sp::proj4string(gis.layers.spdf) <- crs.obj
 
 # Make SpatialPointsDataFrame from occurrences
 # WARNING: the SpatialPointDataFrames are large files and therefore it might 
@@ -83,18 +92,20 @@ occurrences.spdf <- new(
         .Dim = c(2L, 2L),                         
         .Dimnames = list( c("x","y"), c("min","max") )
     ),
-    proj4string = new( "CRS", projargs = crs.string )
+    proj4string = crs.obj
 ) 
 
 # Populate the empty dataframe with lat/lon values from the taxa list
 # set for example i in 1:100 in the case of memory limits 
 taxa.names <- names(config$occurrences)
+logger::log_info('Going to read occurrences for taxa {opt$first}..{opt$last}')
 for ( i in opt$first:opt$last ) {
     
     # Prevent out of bounds errors
     if ( i > length(taxa.names) ) {
         break
     }
+    logger::log_debug('Going to read taxon {i}: {taxa.names[i]}')
 
 	# Read occurrences
     csv.file <- config$occurrences[[taxa.names[i]]]
@@ -109,20 +120,22 @@ for ( i in opt$first:opt$last ) {
     focal.spdf <- SpatialPointsDataFrame(
     	points.df, 
     	data.frame(species = rep(taxa.names[i], NROW(points.df))), 
-    	proj4string = CRS
+    	proj4string = crs.obj
     )
-    proj4string(focal.spdf) <- CRS(crs.string)
+    proj4string(focal.spdf) <- crs.obj
     
     # Append to cumulative data frame
     occurrences.spdf <- rbind(occurrences.spdf, focal.spdf)
 }
 
 # data frame of values in the SpatialPixelsDataframe, i.e. the "traits"
+logger::log_info('Going to make data frame of niche traits from GIS layers')
 traitvalues.df <- slot(gis.layers.spdf, "data")
 traitvalues.df <- tibble::rowid_to_column(traitvalues.df, "ID")
 traitvalues.df <- na.omit(traitvalues.df)
 
 # data frame of number of occurrences per pixel 
+logger::log_info('Going to make data frame of occurrences per pixel')
 npoints <- adehabitatMA::count.points(occurrences.spdf, gis.layers.spdf)
 noccurrences.df <- slot(npoints, "data")
 noccurrences.df <- tibble::rowid_to_column(noccurrences.df, "ID")
