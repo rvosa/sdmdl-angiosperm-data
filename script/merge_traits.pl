@@ -72,7 +72,7 @@ my @missing = grep { ! $i{$_} } $min .. $max;
 warn "Missing trait files for taxa:\n@missing";
 
 # print the merged table as tab separated
-print join(",", 'taxon', @header), "\n";
+print join(",", 'allmb_name', @header), "\n";
 for my $taxon ( sort { $a cmp $b } keys %table ) {
     my @values = @{ $table{$taxon} }{ @header };
     print join(",", $taxon, @values), "\n";
