@@ -93,12 +93,12 @@ Eucalyptus_camaldulensis,has_am,1,0
 Eucalyptus_cloeziana,has_am,1,0
 Eucalyptus_delegatensis_subsp._delegatensis,has_am,1,0
 Eucalyptus_dunnii,has_am,1,0
-Eucalyptus_globulus_subsp,_maidenii,has_am,1,0
-Eucalyptus_globulus_subsp,_bicostata,has_am,1,0
-Eucalyptus_globulus_subsp,_globulus,has_am,1,0
+Eucalyptus_globulus_subsp._maidenii,has_am,1,0
+Eucalyptus_globulus_subsp._bicostata,has_am,1,0
+Eucalyptus_globulus_subsp._globulus,has_am,1,0
 Eucalyptus_grandis,has_am,1,0
-Eucalyptus_viminalis_subsp,_cygnetensis,has_am,1,0
-Eucalyptus_viminalis_subsp,_viminalis,has_am,1,0
+Eucalyptus_viminalis_subsp._cygnetensis,has_am,1,0
+Eucalyptus_viminalis_subsp._viminalis,has_am,1,0
 Euonymus_alatus,has_nm,1,0
 Euonymus_europaeus,has_nm,1,0
 Euonymus_verrucosus,has_nm,1,0
@@ -108,7 +108,7 @@ Ficus_carica,has_nm,1,0
 Ficus_hispida,has_nm,1,0
 Frangula_alnus,has_nm,1,0
 Fraxinus_americana,has_nm,1,0
-Fraxinus_chinensis_subsp,_rhynchophylla,has_nm,1,0
+Fraxinus_chinensis_subsp._rhynchophylla,has_nm,1,0
 Fraxinus_excelsior,has_ecm,1,0
 Fraxinus_mandshurica,has_nm,1,0
 Fraxinus_pennsylvanica,has_nm,1,0
