@@ -2,7 +2,8 @@
 title: "Woodiness"
 author: "Rutger Vos (@rvosa)"
 date: "27-8-2019"
-output: html_document
+output:
+  html_document: default
 ---
 
 ```{r preamble}
@@ -49,6 +50,9 @@ rdata <- select(rdata, -allmb_name)
 
 # clean up
 rm(fulltree, merged, niche_traits_df, woodiness_df)
+
+# visualize
+boxplot(continentality~woody,select(rdata,woody,continentality))
 ```
 
 Do variable selection:
