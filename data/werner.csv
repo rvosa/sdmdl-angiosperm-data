@@ -9,7 +9,7 @@ Acacia_doratoxylon,has_ecm,0,1
 Vachellia_gerrardii,has_am,1,0
 Vachellia_karroo,has_ecm,0,1
 Acacia_koa,has_ecm,0,1
-Acacia_nilotica_subsp,_hemispherica,has_am,1,0
+Acacia_nilotica_subsp._hemispherica,has_am,1,0
 Vachellia_tortilis,has_ecm,0,1
 Acer_barbinerve,has_am,0,1
 Acer_campestre,has_ecm,1,0
@@ -91,14 +91,14 @@ Enterolobium_schomburgkii,has_am,1,0
 Erythrophleum_ivorense,has_am,1,0
 Eucalyptus_camaldulensis,has_am,1,0
 Eucalyptus_cloeziana,has_am,1,0
-Eucalyptus_delegatensis_subsp,_delegatensis,has_am,1,0
+Eucalyptus_delegatensis_subsp._delegatensis,has_am,1,0
 Eucalyptus_dunnii,has_am,1,0
-Eucalyptus_globulus_subsp,_maidenii,has_am,1,0
-Eucalyptus_globulus_subsp,_bicostata,has_am,1,0
-Eucalyptus_globulus_subsp,_globulus,has_am,1,0
+Eucalyptus_globulus_subsp._maidenii,has_am,1,0
+Eucalyptus_globulus_subsp._bicostata,has_am,1,0
+Eucalyptus_globulus_subsp._globulus,has_am,1,0
 Eucalyptus_grandis,has_am,1,0
-Eucalyptus_viminalis_subsp,_cygnetensis,has_am,1,0
-Eucalyptus_viminalis_subsp,_viminalis,has_am,1,0
+Eucalyptus_viminalis_subsp._cygnetensis,has_am,1,0
+Eucalyptus_viminalis_subsp._viminalis,has_am,1,0
 Euonymus_alatus,has_nm,1,0
 Euonymus_europaeus,has_nm,1,0
 Euonymus_verrucosus,has_nm,1,0
@@ -108,7 +108,7 @@ Ficus_carica,has_nm,1,0
 Ficus_hispida,has_nm,1,0
 Frangula_alnus,has_nm,1,0
 Fraxinus_americana,has_nm,1,0
-Fraxinus_chinensis_subsp,_rhynchophylla,has_nm,1,0
+Fraxinus_chinensis_subsp._rhynchophylla,has_nm,1,0
 Fraxinus_excelsior,has_ecm,1,0
 Fraxinus_mandshurica,has_nm,1,0
 Fraxinus_pennsylvanica,has_nm,1,0
@@ -150,7 +150,7 @@ Juniperus_sabina,has_ecm,1,0
 Juniperus_virginiana,has_ecm,1,0
 Kalmia_latifolia,has_nm,1,0
 Kalopanax_septemlobus,has_am,0,1
-Laburnum_anagyroides_subsp,_anagyroides,has_am,1,0
+Laburnum_anagyroides_subsp._anagyroides,has_am,1,0
 Lepisanthes_senegalensis,has_nm,1,0
 Leptospermum_scoparium,has_am,1,0
 Lespedeza_bicolor,has_am,1,0
@@ -254,7 +254,7 @@ Stryphnodendron_guianense,has_am,1,0
 Stryphnodendron_pulcherrimum,has_am,1,0
 Swartzia_arborescens,has_am,1,0
 Swartzia_cuspidata,has_am,1,0
-Swartzia_panacoco_var,_sagotii,has_am,1,0
+Swartzia_panacoco_var._sagotii,has_am,1,0
 Swartzia_polyphylla,has_am,1,0
 Swartzia_recurva,has_am,1,0
 Syzygium_cumini,has_nm,1,0
