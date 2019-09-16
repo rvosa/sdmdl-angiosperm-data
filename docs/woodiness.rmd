@@ -42,4 +42,26 @@ fulltree$tip.label <- sub( '_', ' ', fulltree$tip.label )
 # reconcile tree and matrix
 rtree <- keep.tip(fulltree, as.character(merged$allmb_name))
 rdata <- merged[ merged$allmb_name %in% rtree$tip.label, ]
+
+# use allmb_name as record names and remove it as a column
+row.names(rdata) <- rdata$allmb_name
+rdata <- select(rdata, -allmb_name)
+
+# clean up
+rm(fulltree, merged, niche_traits_df, woodiness_df)
+```
+
+Do variable selection:
+
+```{r phylostep}
+# lump ancestral woody and herbaceous
+rdata$woody[ rdata$woody == 2 ] <- 1
+
+# selected using phylostep, omitting bio3 (=bio2/bio7) and bio7 (=bio5-bio6)
+model <- woody ~ 1 + bio4 + bio5 + bio6 + bio8 + bio9 + bio10 + bio13 + bio14 + bio16 + bio18 + bio19 + climaticMoistureIndex + continentality + embergerQ + growingDegDays0 + growingDegDays5 + maxTempColdest + PETColdestQuarter + PETseasonality + PETWettestQuarter + thermicityIndex
+
+res <- phylolm(model, rdata, rtree, model = "BM", boot = 100)
+summary(res)
+```
+
 ```
