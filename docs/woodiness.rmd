@@ -1,0 +1,45 @@
+---
+title: "Woodiness"
+author: "Rutger Vos (@rvosa)"
+date: "27-8-2019"
+output: html_document
+---
+
+```{r preamble}
+library(dplyr)
+library(phylolm)
+library(ape)
+```
+
+Load data:
+
+```{r data}
+# all variables are OMI transformed estimates of bioclimatic optima
+niche_traits_df <- read.csv2(
+    '../data/niche_traits_merged.csv', 
+    header = T,
+    sep = ',',
+    dec = '.'
+)
+
+# multistate character
+# 0. derived 
+# 1. non-woody
+# 2. ancestral
+woodiness_df <- read.csv2(
+    '../data/woody.tsv',
+    header = T,
+    sep = "\t"
+)
+
+# inner join tables
+merged <- merge( x = woodiness_df, y = niche_traits_df, by = 'allmb_name' )
+
+# read tree
+fulltree <- read.tree( file = '../data/woody.dnd' )
+fulltree$tip.label <- sub( '_', ' ', fulltree$tip.label )
+
+# reconcile tree and matrix
+rtree <- keep.tip(fulltree, as.character(merged$allmb_name))
+rdata <- merged[ merged$allmb_name %in% rtree$tip.label, ]
+```
