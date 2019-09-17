@@ -58,6 +58,9 @@ boxplot(continentality~woody,select(rdata,woody,continentality))
 Do variable selection:
 
 ```{r phylostep}
+
+# TODO: test for collinearity, omit correlated variables
+
 # lump ancestral woody and herbaceous
 rdata$woody[ rdata$woody == 2 ] <- 1
 
