@@ -17,7 +17,7 @@ opt <- optparse::parse_args(
             optparse::make_option( 
                 c("-c", "--config"), 
                 type="character",
-                default="config.yml"
+                default="../config.yml"
             ),
             optparse::make_option(
                 c("-o", "--outfile"),
