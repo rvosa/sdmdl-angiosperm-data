@@ -1,0 +1,63 @@
+---
+title: "OMI by raw"
+author: "Rutger Vos (@rvosa)"
+date: "27-5-2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+Given that wd is in the same location as this file, we can then read the data
+as follows:
+
+```{r load}
+omi.df <- read.csv('../data/niche_traits_merged.csv', header = T)
+raw.df <- read.csv('../data/raw_means.csv', header = T)
+```
+
+Next, we have to make sure the observations (rows) have the same names, i.e. the
+taxon names from ALLMB. The raw file was written as a CSV without a name for the
+labels, so reading it again creates a column X, while the OMI file has a column
+called allmb_name:
+
+```{r rows}
+row.names(raw.df) <- raw.df$X
+row.names(omi.df) <- omi.df$allmb_name
+```
+
+Now that the rows have names, we can combine the tables using `merge()`, and
+tell it to do the merge by column 0, which are the row names:
+
+```{r merge}
+combined <- merge(raw.df,omi.df,by=0)
+```
+
+Quick check to see what's what:
+
+```{r check}
+row.names(combined) <- combined$Row.names
+
+# after the merger, the Aspect column from raw.df is Aspect.x
+raw.df['Acacia ampliceps','Aspect'] == combined['Acacia ampliceps','Aspect.x']
+
+# and the Aspect column from omi.df is Aspect.y
+omi.df['Acacia ampliceps','Aspect'] == combined['Acacia ampliceps','Aspect.y']
+```
+
+And now we can plot, raw on the x axis, omi on the y:
+
+```{r plot}
+plot(combined$Aspect.x,combined$Aspect.y)
+plot(combined$BulkDensity.x,combined$BulkDensity.y)
+plot(combined$ClayPercentage.x,combined$ClayPercentage.y)
+plot(combined$annualPET.x,combined$annualPET.y)
+plot(combined$aridityIndexThornthwaite.x,combined$aridityIndexThornthwaite.y)
+plot(combined$climaticMoistureIndex.x,combined$climaticMoistureIndex.y)
+plot(combined$continentality.x,combined$continentality.y)
+plot(combined$embergerQ.x,combined$embergerQ.y)
+plot(combined$PETColdestQuarter.x,combined$PETColdestQuarter.y)
+plot(combined$PETDriestQuarter.x,combined$PETDriestQuarter.y)
+plot(combined$PETseasonality.x,combined$PETseasonality.y)
+plot(combined$PETWarmestQuarter.x,combined$PETWarmestQuarter.y)
+# etc!
+```
