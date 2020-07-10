@@ -1,21 +1,21 @@
 gbif_id,taxon_name,decimal_latitude,decimal_longitude
-2517794489,Sorghum verticilliflorum,-24.633333,25.966667
-2517794488,Sorghum verticilliflorum,9.4,42.016667
-2517786379,Sorghum verticilliflorum,-7.116667,36.15
-2517775410,Sorghum verticilliflorum,0.35,32.583333
-2517772396,Sorghum verticilliflorum,9.566667,41.4
-2516041189,Sorghum verticilliflorum,0.383333,32.6
-2516041188,Sorghum verticilliflorum,8.916667,39.85
-2516008855,Sorghum verticilliflorum,9.533333,41.4
-2515822022,Sorghum verticilliflorum,-17.216667,12.416667
-2515110446,Sorghum verticilliflorum,-3.75,37.416667
-2513640229,Sorghum verticilliflorum,-30.404468,31.026098
-2513639026,Sorghum verticilliflorum,-16.05,33.433333
-2513636328,Sorghum verticilliflorum,-21.133333,55.516667
-1988057307,Sorghum verticilliflorum,-19.7,44.516667
-1988056822,Sorghum verticilliflorum,-25.166667,46.45
-1988052597,Sorghum verticilliflorum,-16.9481,46.8302
-1264988519,Sorghum verticilliflorum,-2.45,34.833333
-1261875888,Sorghum verticilliflorum,0.58333,32.5
-1259780379,Sorghum verticilliflorum,0.35,32.58333
-1259779750,Sorghum verticilliflorum,0.38333,32.6
+2517794489,Sorghum_verticilliflorum,-24.633333,25.966667
+2517794488,Sorghum_verticilliflorum,9.4,42.016667
+2517786379,Sorghum_verticilliflorum,-7.116667,36.15
+2517775410,Sorghum_verticilliflorum,0.35,32.583333
+2517772396,Sorghum_verticilliflorum,9.566667,41.4
+2516041189,Sorghum_verticilliflorum,0.383333,32.6
+2516041188,Sorghum_verticilliflorum,8.916667,39.85
+2516008855,Sorghum_verticilliflorum,9.533333,41.4
+2515822022,Sorghum_verticilliflorum,-17.216667,12.416667
+2515110446,Sorghum_verticilliflorum,-3.75,37.416667
+2513640229,Sorghum_verticilliflorum,-30.404468,31.026098
+2513639026,Sorghum_verticilliflorum,-16.05,33.433333
+2513636328,Sorghum_verticilliflorum,-21.133333,55.516667
+1988057307,Sorghum_verticilliflorum,-19.7,44.516667
+1988056822,Sorghum_verticilliflorum,-25.166667,46.45
+1988052597,Sorghum_verticilliflorum,-16.9481,46.8302
+1264988519,Sorghum_verticilliflorum,-2.45,34.833333
+1261875888,Sorghum_verticilliflorum,0.58333,32.5
+1259780379,Sorghum_verticilliflorum,0.35,32.58333
+1259779750,Sorghum_verticilliflorum,0.38333,32.6
