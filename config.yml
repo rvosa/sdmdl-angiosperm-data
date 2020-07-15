@@ -144,7 +144,14 @@ gis_data:
 #  Cutandia memphitica: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Cutandia_memphitica.csv
 #  Scrophularia deserti: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Scrophulariaceae/Scrophularia_deserti.csv
 occurrences:
-   Eleusine africana: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Eleusine_africana.csv
+  Dioscorea alata: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Dioscoreaceae/Dioscorea_alata.csv
+  Digitaria longiflora: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Digitaria_longiflora.csv
+  Panicum miliaceum: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Panicum_miliaceum.csv
+  Pennisetum glaucum: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Pennisetum_glaucum.csv
+  Setaria viridis: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Setaria_viridis.csv
+  Triticum urartu: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Triticum_urartu.csv
+  Fagopyrum tataricum: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Polygonaceae/Fagopyrum_tataricum.csv
+#  Eleusine africana: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Eleusine_africana.csv
 #  Secale vavilovii: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Secale_vavilovii.csv
 #  Sorghum verticilliflorum: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Sorghum_verticilliflorum.csv
 #  Solanum candolleanum: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Solanaceae/Solanum_candolleanum.csv
