@@ -144,10 +144,11 @@ gis_data:
 #  Cutandia memphitica: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Cutandia_memphitica.csv
 #  Scrophularia deserti: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Scrophulariaceae/Scrophularia_deserti.csv
 occurrences:
-  Secale vavilovii: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Secale_vavilovii.csv
-  Sorghum verticilliflorum: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Sorghum_verticilliflorum.csv
-  Solanum candolleanum: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Solanaceae/Solanum_candolleanum.csv
-  Phoenix dactylifera: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Arecaceae/Phoenix_dactylifera.csv
+   Eleusine africana: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Eleusine_africana.csv
+#  Secale vavilovii: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Secale_vavilovii.csv
+#  Sorghum verticilliflorum: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Poaceae/Sorghum_verticilliflorum.csv
+#  Solanum candolleanum: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Solanaceae/Solanum_candolleanum.csv
+#  Phoenix dactylifera: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Arecaceae/Phoenix_dactylifera.csv
 #  Bahia ambrosioides: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Asteraceae/Bahia_ambrosioides.csv
 #  Kleinia neriifolia: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Asteraceae/Kleinia_neriifolia.csv
 #  Brassica insularis: /Users/rutger.vos/Documents/local-projects/sdmdl-angiosperm-data/data/occurrences/Brassicaceae/Brassica_insularis.csv
